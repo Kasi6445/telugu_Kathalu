@@ -1,0 +1,51 @@
+{
+  "title": "అందమైన నెమలి గర్వం",
+  "moral": "గర్వం అనేది మనల్ని నాశనం చేస్తుంది",
+  "main_character": "a young peacock with vibrant blue and green feathers, 2 years old, wearing a tiny golden crown on its head, with shiny black hair-like feathers on its neck, and a pale brown skin tone",
+  "setting": "a dense forest near a lake, on a sunny afternoon with warm golden lighting and a gentle breeze",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక అందమైన నెమలి అడవిలో నివసిస్తోంది. దాని రంగులు చాలా అందగా ఉంటాయి. దానికి తన రంగుల గురించి గర్వం ఉంది.",
+      "image_prompt": "The young peacock is spreading its vibrant tail feathers, strutting around the forest floor with an arrogant expression, its golden crown glinting in the sunlight, as it looks down at the other animals with a sense of superiority"
+    },
+    {
+      "id": 2,
+      "text": "ఒక రోజు, నెమలి ఒక సరస్సు గట్టున నడుస్తూ ఉంటుంది. అక్కడ దానికి ఒక కోడి కనిపిస్తుంది. కోడి నెమలిని చూసి చాలా ఆశ్చర్యపోతుంది.",
+      "image_prompt": "The peacock is walking along the lake shore, looking at its reflection in the water, when it notices a hen staring at it in awe, the peacock turns to face the hen with a proud smile, its feathers glistening in the sunlight"
+    },
+    {
+      "id": 3,
+      "text": "కోడి నెమలిని చూసి చాలా సంతోషించింది. కోడి నెమలితో మాట్లాడాలని అనుకుంది. కానీ నెమలి కోడితో మాట్లాడలేదు.",
+      "image_prompt": "The hen is approaching the peacock, clucking and flapping its wings excitedly, but the peacock turns its back on the hen, looking away with a haughty expression, its feathers ruffled in disdain"
+    },
+    {
+      "id": 4,
+      "text": "నెమలి కోడితో మాట్లాడకపోవడంతో కోడి చాలా బాధపడింది. కోడి నెమలిని వదిలేసి వెళ్లిపోయింది.",
+      "image_prompt": "The hen is walking away from the peacock, looking sad and dejected, its head hung low, as the peacock watches it leave with a mixture of indifference and superiority, its feathers still ruffled"
+    },
+    {
+      "id": 5,
+      "text": "కొన్ని రోజుల తరువాత, నెమలి ఒక పెద్ద ఉరగంతో పోరాడాల్సి వచ్చింది. నెమలికి ఎలాగూ తప్పించుకోవడం సాధ్యం కాలేదు.",
+      "image_prompt": "The peacock is frantically running away from a large lizard, its feathers ruffled and disheveled, as it tries to escape the lizard's snapping jaws, its golden crown askew"
+    },
+    {
+      "id": 6,
+      "text": "నెమలి ఉరగం నుండి తప్పించుకోవడానికి ప్రయత్నిస్తోంది. కానీ దానికి సాయం చేయడానికి ఎవరూ లేకపోయినా దానికి బాధ కలిగింది.",
+      "image_prompt": "The peacock is desperately flapping its wings, trying to fly away from the lizard, but its feathers are too ruffled and it can't generate enough lift, as it looks around frantically for help, its eyes wide with fear"
+    },
+    {
+      "id": 7,
+      "text": "చివరికి, నెమలి ఉరగం నుండి తప్పించుకోగలిగింది. కానీ దానికి గర్వం పోయింది. దానికి తన తప్పు తెలిసింది.",
+      "image_prompt": "The peacock is standing alone, its feathers still ruffled, looking down at the ground with a mixture of shame and regret, its golden crown dulled by the dirt and leaves, as it realizes its mistakes"
+    },
+    {
+      "id": 8,
+      "text": "నెమలి తన తప్పును గ్రహించింది. దానికి గర్వం పోయింది. దానికి ఇతరుల పట్ల స్నేహం పెరిగింది.",
+      "image_prompt": "The peacock is standing in a sunny meadow, its feathers now smooth and shiny, looking up at the sky with a sense of humility and gratitude, as it spreads its wings in a gesture of friendship and unity with the other animals"
+    }
+  ],
+  "id": "20260412_135946",
+  "date": "2026-04-12",
+  "thumbnail": "stories/20260412_135946/images/scene1.jpg"
+}

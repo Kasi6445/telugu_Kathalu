@@ -1,0 +1,51 @@
+{
+  "title": "నిజాయితీ అయిన కట్టెల కాడు",
+  "moral": "నిజాయితీ ఎల్లప్పుడూ గెలుస్తుంది",
+  "main_character": "a 10-year-old boy, wearing a white shirt and brown shorts, with messy black hair and a medium brown skin tone",
+  "setting": "a dense forest near a village, late afternoon with warm sunlight filtering through the trees",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక చిన్న గ్రామంలో ఒక పిల్లవాడు ఉండేవాడు. అతని పేరు రాజు. రాజు చాలా నిజాయితీగల పిల్లవాడు.",
+      "image_prompt": "The boy is walking through the forest, looking around curiously, with a sense of wonder on his face, as the sunlight casts dappled shadows on the forest floor"
+    },
+    {
+      "id": 2,
+      "text": "ఒక రోజు రాజు అడవిలో ఒక కట్టెను కనుగొన్నాడు. ఆ కట్టె చాలా విలువైనది.",
+      "image_prompt": "The boy is bending down to pick up the stick, his eyes widening with excitement, as the trees tower above him, their branches swaying gently in the breeze"
+    },
+    {
+      "id": 3,
+      "text": "రాజు ఆ కట్టెను తీసుకొని గ్రామానికి వచ్చాడు. అక్కడ అతను ఒక ముసలివాడిని కలుసుకున్నాడు.",
+      "image_prompt": "The boy is walking into the village, the stick held tightly in his hand, as villagers look on with interest, with the thatched roofs of the huts and the village square in the background"
+    },
+    {
+      "id": 4,
+      "text": "ముసలివాడు రాజును అడిగాడు, 'ఏమిటి బాబు, నీది ఎవరి కట్టె?' రాజు నిజాయితీగా 'నాకు తెలియదు' అన్నాడు.",
+      "image_prompt": "The old man is looking at the boy with a keen eye, his face lined with age and experience, as the boy looks up at him with a honest expression, with the stick held out in front of him"
+    },
+    {
+      "id": 5,
+      "text": "ముసలివాడు రాజును మెచ్చుకున్నాడు. 'నీ నిజాయితీకి నేను నిన్ను అభినందిస్తున్నాను' అన్నాడు.",
+      "image_prompt": "The old man is patting the boy on the back, a warm smile on his face, as the boy looks up at him with a sense of pride and happiness, with the village surroundings in the background"
+    },
+    {
+      "id": 6,
+      "text": "రాజు ఆ కట్టెను యజమానికి అప్పగించాడు. యజమాని రాజును బహుమతి ఇచ్చాడు.",
+      "image_prompt": "The boy is handing the stick over to the owner, a look of satisfaction on his face, as the owner is smiling and handing him a reward, with a sense of closure and completion"
+    },
+    {
+      "id": 7,
+      "text": "రాజు నిజాయితీకి బహుమతి పొందాడు. అందరూ రాజును మెచ్చుకున్నారు.",
+      "image_prompt": "The boy is standing in the village square, surrounded by villagers, who are all smiling and congratulating him, with the thatched roofs of the huts and the village square in the background, as the sun sets behind them"
+    },
+    {
+      "id": 8,
+      "text": "రాజు నిజాయితీతో గెలిచాడు. అందరూ రాజు వలె నిజాయితీగా ఉండాలని కోరుకున్నారు.",
+      "image_prompt": "The boy is walking away from the village, looking back at the villagers, who are all waving and smiling, as the sun dips below the horizon, casting a warm glow over the scene"
+    }
+  ],
+  "id": "20260411_173448",
+  "date": "2026-04-11",
+  "thumbnail": "stories/20260411_173448/images/scene1.jpg"
+}

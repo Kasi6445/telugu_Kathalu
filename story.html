@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>తెలుగు కథలు</title>
+  <link rel="stylesheet" href="static/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="slideshow-mode">
+
+  <!-- SLIDESHOW CONTAINER -->
+  <div id="slideshow">
+
+    <!-- Background image layer -->
+    <div id="bg-image"></div>
+
+    <!-- Top bar -->
+    <div id="top-bar">
+      <a href="index.html" id="back-link">← అన్ని కథలు</a>
+      <span id="scene-counter">1 / 6</span>
+    </div>
+
+    <!-- Story title -->
+    <div id="slide-title-bar">
+      <h1 id="slide-story-title">లోడ్ అవుతోంది...</h1>
+    </div>
+
+    <!-- Scene text -->
+    <div id="slide-content">
+      <p id="slide-text"></p>
+    </div>
+
+    <!-- Bottom controls -->
+    <div id="bottom-bar">
+      <button class="ctrl-btn" onclick="prevScene()">⬅</button>
+      <button class="ctrl-btn" id="play-pause-btn" onclick="toggleCurrentAudio()">▶ వినండి</button>
+      <button class="ctrl-btn" onclick="nextScene()">➡</button>
+    </div>
+
+    <!-- Progress dots -->
+    <div id="progress-dots"></div>
+
+  </div>
+
+  <!-- Moral screen (shown at end) -->
+  <div id="moral-screen" style="display:none;">
+    <div id="moral-content">
+      <h2>కథ సమాప్తం</h2>
+      <p id="final-title"></p>
+      <div id="moral-label">నీతి</div>
+      <p id="final-moral"></p>
+      <a href="index.html" class="home-btn">← అన్ని కథలు</a>
+    </div>
+  </div>
+
+  <script>
+    let story = null;
+    let currentIndex = 0;
+    let isPlaying = false;
+
+    function getStoryId() {
+      return new URLSearchParams(window.location.search).get('id');
+    }
+
+    async function loadStory() {
+      const id = getStoryId();
+      if (!id) { window.location.href = 'index.html'; return; }
+
+      try {
+        const res = await fetch(`stories/${id}/story.json`);
+        story = await res.json();
+
+        document.title = story.title + ' - తెలుగు కథలు';
+        document.getElementById('slide-story-title').textContent = story.title;
+        document.getElementById('final-title').textContent = story.title;
+        document.getElementById('final-moral').textContent = story.moral;
+
+        // Build audio elements
+        story.scenes.forEach(scene => {
+          const audio = document.createElement('audio');
+          audio.id = `audio-${scene.id}`;
+          audio.src = `stories/${id}/audio/scene${scene.id}.mp3`;
+          audio.onended = () => {
+            isPlaying = false;
+            updatePlayBtn();
+            // Auto advance to next scene
+            setTimeout(() => nextScene(), 400);
+          };
+          document.body.appendChild(audio);
+        });
+
+        // Build progress dots
+        const dots = document.getElementById('progress-dots');
+        story.scenes.forEach((_, i) => {
+          const dot = document.createElement('div');
+          dot.className = 'dot';
+          dot.id = `dot-${i}`;
+          dot.onclick = () => goToScene(i);
+          dots.appendChild(dot);
+        });
+
+        showScene(0);
+
+      } catch(e) {
+        console.error(e);
+      }
+    }
+
+    function showScene(index) {
+      if (!story) return;
+
+      // Stop current audio
+      stopAllAudio();
+
+      currentIndex = index;
+      const scene = story.scenes[index];
+      const id = getStoryId();
+
+      // Update background image with fade
+      const bg = document.getElementById('bg-image');
+      bg.style.opacity = '0';
+      setTimeout(() => {
+        bg.style.backgroundImage = `url('stories/${id}/images/scene${scene.id}.jpg')`;
+        bg.style.opacity = '1';
+      }, 300);
+
+      // Update text with fade
+      const textEl = document.getElementById('slide-text');
+      textEl.style.opacity = '0';
+      setTimeout(() => {
+        textEl.textContent = scene.text;
+        textEl.style.opacity = '1';
+      }, 300);
+
+      // Update counter
+      document.getElementById('scene-counter').textContent =
+        `${index + 1} / ${story.scenes.length}`;
+
+      // Update dots
+      document.querySelectorAll('.dot').forEach((dot, i) => {
+        dot.className = i === index ? 'dot active' : 'dot';
+      });
+
+      // Auto play audio
+      setTimeout(() => {
+        playCurrentScene();
+      }, 400);
+    }
+
+    function playCurrentScene() {
+      const scene = story.scenes[currentIndex];
+      const audio = document.getElementById(`audio-${scene.id}`);
+      if (audio) {
+        audio.currentTime = 0;
+        audio.play().catch(() => {});
+        isPlaying = true;
+        updatePlayBtn();
+      }
+    }
+
+    function stopAllAudio() {
+      story.scenes.forEach(scene => {
+        const audio = document.getElementById(`audio-${scene.id}`);
+        if (audio) { audio.pause(); audio.currentTime = 0; }
+      });
+      isPlaying = false;
+      updatePlayBtn();
+    }
+
+    function toggleCurrentAudio() {
+      const scene = story.scenes[currentIndex];
+      const audio = document.getElementById(`audio-${scene.id}`);
+      if (!audio) return;
+
+      if (isPlaying) {
+        audio.pause();
+        isPlaying = false;
+      } else {
+        audio.play().catch(() => {});
+        isPlaying = true;
+      }
+      updatePlayBtn();
+    }
+
+    function updatePlayBtn() {
+      const btn = document.getElementById('play-pause-btn');
+      if (btn) btn.textContent = isPlaying ? '🔇 ఆపు' : '▶ వినండి';
+    }
+
+    function nextScene() {
+      if (!story) return;
+      if (currentIndex < story.scenes.length - 1) {
+        showScene(currentIndex + 1);
+      } else {
+        // Show moral screen
+        document.getElementById('slideshow').style.display = 'none';
+        document.getElementById('moral-screen').style.display = 'flex';
+      }
+    }
+
+    function prevScene() {
+      if (currentIndex > 0) showScene(currentIndex - 1);
+    }
+
+    function goToScene(index) {
+      showScene(index);
+    }
+
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight') nextScene();
+      if (e.key === 'ArrowLeft') prevScene();
+      if (e.key === ' ') { e.preventDefault(); toggleCurrentAudio(); }
+    });
+
+    loadStory();
+  </script>
+
+</body>
+</html>

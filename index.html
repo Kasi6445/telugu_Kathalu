@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>తెలుగు కథలు</title>
+  <link rel="stylesheet" href="static/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header>
+    <h1>తెలుగు కథలు</h1>
+    <p>ప్రతి రోజు కొత్త కథ చదవండి</p>
+  </header>
+
+  <main id="stories-grid">
+    <div class="loading">కథలు లోడ్ అవుతున్నాయి...</div>
+  </main>
+
+  <script>
+    async function loadStories() {
+      const grid = document.getElementById('stories-grid');
+      try {
+        const res = await fetch('stories/index.json');
+        const data = await res.json();
+
+        if (!data.stories || data.stories.length === 0) {
+          grid.innerHTML = '<p class="no-stories">ఇంకా కథలు లేవు. generate.py రన్ చేయండి!</p>';
+          return;
+        }
+
+        grid.innerHTML = '';
+
+        data.stories.forEach(story => {
+          const card = document.createElement('div');
+          card.className = 'story-card';
+          card.onclick = () => window.location.href = `story.html?id=${story.id}`;
+
+          card.innerHTML = `
+            <div class="card-thumbnail">
+              <img
+                src="${story.thumbnail}"
+                alt="${story.title}"
+                onerror="this.parentElement.style.background='linear-gradient(135deg,#FFE0CC,#FFD700)'"
+              />
+            </div>
+            <div class="card-info">
+              <h2 class="card-title">${story.title}</h2>
+              <p class="card-moral">💡 ${story.moral}</p>
+              <p class="card-date">${story.date}</p>
+            </div>
+          `;
+
+          grid.appendChild(card);
+        });
+
+      } catch(e) {
+        grid.innerHTML = '<p class="no-stories">కథలు కనుగొనలేదు. generate.py రన్ చేయండి!</p>';
+      }
+    }
+
+    loadStories();
+  </script>
+
+</body>
+</html>

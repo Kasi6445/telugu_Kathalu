@@ -1,0 +1,324 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Noto Sans Telugu', 'Segoe UI', sans-serif;
+  background: #000;
+  overflow: hidden;
+  height: 100vh;
+}
+
+/* ── HOMEPAGE STYLES ── */
+body:not(.slideshow-mode) {
+  background: #FFF8F0;
+  overflow: auto;
+  height: auto;
+}
+
+header {
+  background: linear-gradient(135deg, #FF6B35, #F7931E, #FFD700);
+  padding: 30px 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  color: white;
+  margin-bottom: 6px;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+header p { color: rgba(255,255,255,0.9); font-size: 1rem; }
+
+#stories-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 24px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.story-card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(255,107,53,0.12);
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: 2px solid transparent;
+}
+
+.story-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(255,107,53,0.25);
+  border-color: #FF6B35;
+}
+
+.card-thumbnail {
+  width: 100%;
+  height: 180px;
+  overflow: hidden;
+  background: linear-gradient(135deg, #FFE0CC, #FFD700);
+}
+
+.card-thumbnail img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.story-card:hover .card-thumbnail img { transform: scale(1.05); }
+
+.card-info { padding: 16px; }
+
+.card-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #2D1B00;
+  margin-bottom: 10px;
+}
+
+.card-moral {
+  background: #FFF3E0;
+  border-left: 3px solid #FF6B35;
+  padding: 6px 10px;
+  font-size: 0.85rem;
+  color: #8B4513;
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+.card-date { font-size: 0.75rem; color: #aaa; }
+
+.loading, .no-stories {
+  text-align: center;
+  padding: 60px 20px;
+  color: #aaa;
+  font-size: 1rem;
+  grid-column: 1 / -1;
+}
+
+/* ── SLIDESHOW STYLES ── */
+#slideshow {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+#bg-image {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-color: #1a0a00;
+  transition: opacity 0.4s ease;
+  animation: kenBurns 12s ease-in-out infinite alternate;
+}
+
+@keyframes kenBurns {
+  0%   { transform: scale(1) translateX(0); }
+  100% { transform: scale(1.08) translateX(-20px); }
+}
+
+/* Dark overlay for readability */
+#slideshow::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0;
+  width: 100%; height: 65%;
+  background: linear-gradient(to top, rgba(0,0,0,0.92) 0%, rgba(0,0,0,0.4) 60%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Top bar */
+#top-bar {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.6), transparent);
+}
+
+#back-link {
+  color: white;
+  text-decoration: none;
+  font-size: 0.9rem;
+  background: rgba(255,255,255,0.15);
+  padding: 6px 14px;
+  border-radius: 20px;
+  backdrop-filter: blur(4px);
+}
+
+#back-link:hover { background: rgba(255,255,255,0.25); }
+
+#scene-counter {
+  color: rgba(255,255,255,0.8);
+  font-size: 0.85rem;
+  background: rgba(0,0,0,0.3);
+  padding: 4px 12px;
+  border-radius: 12px;
+}
+
+/* Story title */
+#slide-title-bar {
+  position: relative;
+  z-index: 10;
+  padding: 0 20px;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 8px;
+}
+
+#slide-story-title {
+  font-size: 1rem;
+  color: rgba(255,200,100,0.9);
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+/* Scene text */
+#slide-content {
+  position: relative;
+  z-index: 10;
+  padding: 12px 24px 16px;
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#slide-text {
+  font-size: 1.25rem;
+  line-height: 1.9;
+  color: white;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+  transition: opacity 0.3s ease;
+}
+
+/* Bottom controls */
+#bottom-bar {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 20px 16px;
+}
+
+.ctrl-btn {
+  background: rgba(255,255,255,0.15);
+  color: white;
+  border: 1px solid rgba(255,255,255,0.3);
+  padding: 10px 24px;
+  border-radius: 25px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-family: 'Noto Sans Telugu', sans-serif;
+  backdrop-filter: blur(4px);
+  transition: background 0.2s;
+}
+
+.ctrl-btn:hover { background: rgba(255,107,53,0.6); }
+
+#play-pause-btn {
+  background: linear-gradient(135deg, #FF6B35, #F7931E);
+  border: none;
+  padding: 12px 32px;
+  font-size: 1.05rem;
+}
+
+/* Progress dots */
+#progress-dots {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding-bottom: 20px;
+}
+
+.dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.3);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.dot.active {
+  background: #FF6B35;
+  width: 24px;
+  border-radius: 4px;
+}
+
+/* ── MORAL SCREEN ── */
+#moral-screen {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background: linear-gradient(135deg, #FF6B35, #F7931E, #FFD700);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+
+#moral-content {
+  text-align: center;
+  padding: 40px;
+  max-width: 500px;
+}
+
+#moral-content h2 {
+  font-size: 1.2rem;
+  color: rgba(255,255,255,0.8);
+  margin-bottom: 12px;
+}
+
+#final-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 24px;
+}
+
+#moral-label {
+  background: rgba(255,255,255,0.2);
+  display: inline-block;
+  padding: 4px 16px;
+  border-radius: 12px;
+  color: white;
+  font-size: 0.85rem;
+  margin-bottom: 12px;
+}
+
+#final-moral {
+  font-size: 1.3rem;
+  color: white;
+  line-height: 1.7;
+  margin-bottom: 32px;
+  font-weight: 700;
+}
+
+.home-btn {
+  display: inline-block;
+  background: white;
+  color: #FF6B35;
+  padding: 12px 28px;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.home-btn:hover { opacity: 0.9; }
