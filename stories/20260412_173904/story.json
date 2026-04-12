@@ -1,0 +1,51 @@
+{
+  "title": "మూర్ఖుడైన గాడిద",
+  "moral": "మూర్ఖత్వం వల్ల నష్టమే కలుగుతుంది",
+  "main_character": "a 5-year-old donkey with brown fur, wearing a torn rope halter, and having a messy greyish-brown mane, with a light brown skin tone",
+  "setting": "a sunny afternoon in a green meadow with a few trees and a small pond, with warm golden lighting",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక గాడిద ఒక పొలంలో మేత మేస్తుండగా, అక్కడి రైతు వాడుకునే ఒక బావి దగ్గరకు వెళ్ళింది. ఆ బావిలో నీరు చాలా లోతుగా ఉంది. కానీ ఆ గాడిద అంత లోతు గురించి తెలియదు.",
+      "image_prompt": "The donkey is walking cautiously towards the well, looking down into the water with a curious expression, its ears perked up and its tail swishing slowly, with the warm sunlight casting a long shadow behind it"
+    },
+    {
+      "id": 2,
+      "text": "గాడిద బావి అంచున నిలబడి, నీటిని చూస్తూ ఆశ్చర్యపోయింది. దానికి నీరు ఎంత లోతుగా ఉందో తెలుసుకోవాలని అనిపించింది.",
+      "image_prompt": "The donkey is leaning forward, trying to peer into the well, its front legs bent and its head stretched out, with the water's surface reflecting the sky and trees above, and a few ripples disturbing the otherwise calm water"
+    },
+    {
+      "id": 3,
+      "text": "గాడిద జాగ్రత్తగా బావి అంచున నుంచి కిందకు దిగింది. కానీ దాని కాళ్ళు వాలుతున్న బావి గోడకు అడ్డంగా ఉండటంతో, దానికి నిలబడటం కష్టమైంది.",
+      "image_prompt": "The donkey is struggling to find its footing on the slippery well wall, its legs splayed out to the sides and its body trembling, with the sound of dripping water echoing off the well's walls"
+    },
+    {
+      "id": 4,
+      "text": "గాడిద యొక్క కాళ్ళు వాలుతున్న బావి గోడకు అడ్డంగా ఉండటంతో, దానికి నిలబడటం కష్టమైంది. అది కిందకు జారిపోయింది.",
+      "image_prompt": "The donkey is falling down the well, its legs and body splayed out in all directions, with the well wall blurring past it and the water's surface rushing up to meet it, and a look of shock and fear on its face"
+    },
+    {
+      "id": 5,
+      "text": "గాడిద నీటిలో పడింది. అది గట్టిగా గోదుకుంటూ, ఎగిరి పడుతూ ఉంది. కానీ దానికి తెలియదు, ఎంత గోదుకున్నా, అది బయటకు రాదు.",
+      "image_prompt": "The donkey is thrashing about in the water, its head and body bobbing up and down, with the water splashing and foaming around it, and a desperate look in its eyes"
+    },
+    {
+      "id": 6,
+      "text": "గాడిద చాలా సేపు గోదుకుంది. కానీ అది బయటకు రాలేకపోయింది. చివరకు, అది అలసిపోయి, నీటిలోనే మునిగిపోయింది.",
+      "image_prompt": "The donkey is floating lifelessly in the water, its body still and unresponsive, with the water's surface calm and peaceful once again, and the well wall looming above it"
+    },
+    {
+      "id": 7,
+      "text": "రైతు బావి వద్దకు వచ్చి, గాడిద నీటిలో మునిగిపోయిందని చూసి, దానిని బయటకు తీసేశాడు. గాడిద బయటకు వచ్చినప్పుడు, దాని శరీరం చలిగా, జలజలాగా ఉంది.",
+      "image_prompt": "The farmer is pulling the donkey out of the well, its body limp and lifeless, with the farmer's face etched with concern and sadness, and the well wall looming behind them"
+    },
+    {
+      "id": 8,
+      "text": "గాడిద తన మూర్ఖత్వం వల్ల అలసిపోయి, నీటిలో మునిగిపోయిందని గ్రహించింది. అది భవిష్యత్తులో అలాంటి మూర్ఖత్వం చేయకూడదని నిర్ణయించుకుంది.",
+      "image_prompt": "The donkey is standing on the grassy meadow, its fur fluffed up and its ears perked up, with a look of determination and wisdom on its face, and the warm sunlight casting a golden glow over the scene"
+    }
+  ],
+  "id": "20260412_173904",
+  "date": "2026-04-12",
+  "thumbnail": "stories/20260412_173904/images/scene1.jpg"
+}
