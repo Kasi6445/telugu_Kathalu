@@ -59,7 +59,7 @@ Return ONLY valid JSON, no markdown, no backticks, nothing else:
 {{
   "title": "story title in Telugu",
   "moral": "moral in Telugu",
-  "main_character": "detailed physical description in English: age, clothing, hair, skin tone",
+  "main_character": "detailed physical description in English of the PRIMARY character from the Telugu story topic. Translate the character name correctly from Telugu. Age, appearance, clothing details.",
   "setting": "specific environment in English with time of day and lighting",
   "scenes": [
     {{
