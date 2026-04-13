@@ -1,0 +1,51 @@
+{
+  "title": "అందమైన తోట మరియు సోమరి మాలి",
+  "moral": "కష్టపడి పనిచేస్తే విజయం సాధిస్తాము",
+  "main_character": "a 10-year-old boy with dark brown skin, messy black hair, wearing a white shirt and brown shorts",
+  "setting": "a small village on the outskirts of a city, surrounded by lush green trees and a bright sunny day with a few white clouds",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక చిన్న గ్రామంలో ఒక అందమైన తోట ఉంది. ఆ తోటలో అనేక రకాల పూలు మరియు పండ్లు ఉన్నాయి. ఆ తోటను సోమరి మాలి చూసుకుంటాడు.",
+      "image_prompt": "The boy is walking through the garden, looking around in wonder, with a big smile on his face, surrounded by vibrant flowers and trees, with warm sunlight shining down on him"
+    },
+    {
+      "id": 2,
+      "text": "సోమరి మాలి తోటలో పనిచేయడానికి ఇష్టపడడు. అతను ఎల్లప్పుడూ ఆలస్యంగా ఉండి, పనిని నెమ్మదిగా చేస్తాడు. అందువల్ల తోట అంత అందంగా ఉండదు.",
+      "image_prompt": "The boy is lazily raking the leaves, with a bored expression on his face, surrounded by overgrown weeds and wilted flowers, with a few clouds blocking the sunlight"
+    },
+    {
+      "id": 3,
+      "text": "ఒక రోజు, సోమరి మాలికి ఒక ఆలోచన వచ్చింది. అతను తోటను అందంగా తీర్చిదిద్దాలని నిర్ణయించుకున్నాడు. అతను తోటలో పనిచేయడం ప్రారంభించాడు.",
+      "image_prompt": "The boy is enthusiastically digging in the garden, with a determined look on his face, surrounded by freshly dug soil and newly planted flowers, with warm sunlight shining down on him"
+    },
+    {
+      "id": 4,
+      "text": "సోమరి మాలి తోటలో కష్టపడి పనిచేశాడు. అతను మొక్కలను నీరు పోసాడు, పూలను పెంచాడు, మరియు తోటను శుభ్రంగా ఉంచాడు. కొన్ని రోజులకు, తోట అంత అందంగా ఉంది.",
+      "image_prompt": "The boy is watering the plants, with a big smile on his face, surrounded by lush greenery and vibrant flowers, with a few butterflies flying around him"
+    },
+    {
+      "id": 5,
+      "text": "గ్రామస్తులు తోటను చూసి, సోమరి మాలిని అభినందించారు. అతను తోటను అందంగా తీర్చిదిద్దినందుకు గర్వంగా ఉన్నాడు. అతను తన పనిని కొనసాగించాడు.",
+      "image_prompt": "The boy is standing in the garden, surrounded by a group of villagers, who are all smiling and congratulating him, with a few children playing in the background, and warm sunlight shining down on them"
+    },
+    {
+      "id": 6,
+      "text": "సోమరి మాలి తోటను అందంగా తీర్చిదిద్దినందుకు, గ్రామస్తులు అతనికి బహుమతిని ఇచ్చారు. అతను ఆనందంగా ఉన్నాడు. అతను తన పనిని కొనసాగించాడు.",
+      "image_prompt": "The boy is holding a trophy, with a big smile on his face, surrounded by a group of villagers, who are all clapping and cheering for him, with a few balloons and streamers in the background"
+    },
+    {
+      "id": 7,
+      "text": "సోమరి మాలి తోటను అందంగా తీర్చిదిద్దినందుకు, గ్రామస్తులు అతనిని గ్రామ మాలిగా నియమించారు. అతను గర్వంగా ఉన్నాడు. అతను తన పనిని కొనసాగించాడు.",
+      "image_prompt": "The boy is standing in the garden, wearing a badge that says 'Grama Mali', with a proud expression on his face, surrounded by a group of villagers, who are all smiling and looking up to him, with a few flowers and trees in the background"
+    },
+    {
+      "id": 8,
+      "text": "సోమరి మాలి తోటను అందంగా తీర్చిదిద్దినందుకు, గ్రామస్తులు అతనిని మెచ్చుకున్నారు. అతను ఆనందంగా ఉన్నాడు. అతను తన పనిని కొనసాగించాడు.",
+      "image_prompt": "The boy is sitting in the garden, surrounded by a group of villagers, who are all smiling and talking to him, with a few flowers and trees in the background, and warm sunlight shining down on them"
+    }
+  ],
+  "id": "20260413_091353",
+  "date": "2026-04-13",
+  "thumbnail": "stories/20260413_091353/images/scene1.jpg"
+}

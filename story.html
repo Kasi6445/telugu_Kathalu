@@ -2,17 +2,24 @@
 <html lang="te">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>తెలుగు కథలు</title>
   <link rel="stylesheet" href="static/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-P9CPL3SZHQ');
+</script>
+
 </head>
 <body class="slideshow-mode">
 
-  <!-- SLIDESHOW CONTAINER -->
   <div id="slideshow">
-
-    <!-- Background image layer -->
     <div id="bg-image"></div>
 
     <!-- Top bar -->
@@ -21,31 +28,39 @@
       <span id="scene-counter">1 / 6</span>
     </div>
 
-    <!-- Story title -->
-    <div id="slide-title-bar">
-      <h1 id="slide-story-title">లోడ్ అవుతోంది...</h1>
+    <!-- Swipe area — covers full screen -->
+    <div id="swipe-area">
+      <!-- Tap zones -->
+      <div id="tap-left" onclick="prevScene()"></div>
+      <div id="tap-right" onclick="nextScene()"></div>
     </div>
 
-    <!-- Scene text -->
-    <div id="slide-content">
+    <!-- Bottom content -->
+    <div id="bottom-content">
+      <p id="slide-story-title"></p>
       <p id="slide-text"></p>
+
+      <!-- Controls -->
+      <div id="bottom-bar">
+        <button class="ctrl-btn nav-btn" onclick="prevScene()">←</button>
+        <button class="ctrl-btn" id="play-pause-btn" onclick="toggleCurrentAudio()">▶ వినండి</button>
+        <button class="ctrl-btn nav-btn" onclick="nextScene()">→</button>
+      </div>
+
+      <!-- Progress bar -->
+      <div id="progress-bar-wrapper">
+        <div id="progress-bar"></div>
+      </div>
+
+      <!-- Dots -->
+      <div id="progress-dots"></div>
     </div>
-
-    <!-- Bottom controls -->
-    <div id="bottom-bar">
-      <button class="ctrl-btn" onclick="prevScene()">⬅</button>
-      <button class="ctrl-btn" id="play-pause-btn" onclick="toggleCurrentAudio()">▶ వినండి</button>
-      <button class="ctrl-btn" onclick="nextScene()">➡</button>
-    </div>
-
-    <!-- Progress dots -->
-    <div id="progress-dots"></div>
-
   </div>
 
-  <!-- Moral screen (shown at end) -->
+  <!-- Moral screen -->
   <div id="moral-screen" style="display:none;">
     <div id="moral-content">
+      <div class="moral-emoji">🌟</div>
       <h2>కథ సమాప్తం</h2>
       <p id="final-title"></p>
       <div id="moral-label">నీతి</div>
@@ -58,6 +73,8 @@
     let story = null;
     let currentIndex = 0;
     let isPlaying = false;
+    let touchStartX = 0;
+    let touchStartY = 0;
 
     function getStoryId() {
       return new URLSearchParams(window.location.search).get('id');
@@ -72,7 +89,6 @@
         story = await res.json();
 
         document.title = story.title + ' - తెలుగు కథలు';
-        document.getElementById('slide-story-title').textContent = story.title;
         document.getElementById('final-title').textContent = story.title;
         document.getElementById('final-moral').textContent = story.moral;
 
@@ -84,13 +100,18 @@
           audio.onended = () => {
             isPlaying = false;
             updatePlayBtn();
-            // Auto advance to next scene
-            setTimeout(() => nextScene(), 400);
+            setTimeout(() => nextScene(), 800);
           };
           document.body.appendChild(audio);
         });
 
-        // Build progress dots
+        // Preload images
+        story.scenes.forEach((scene, i) => {
+          const img = new Image();
+          img.src = `stories/${id}/images/scene${scene.id}.jpg`;
+        });
+
+        // Build dots
         const dots = document.getElementById('progress-dots');
         story.scenes.forEach((_, i) => {
           const dot = document.createElement('div');
@@ -100,6 +121,8 @@
           dots.appendChild(dot);
         });
 
+        setupSwipeGesture();
+        setupKeyboard();
         showScene(0);
 
       } catch(e) {
@@ -109,29 +132,28 @@
 
     function showScene(index) {
       if (!story) return;
-
-      // Stop current audio
       stopAllAudio();
-
       currentIndex = index;
       const scene = story.scenes[index];
       const id = getStoryId();
 
-      // Update background image with fade
+      // Fade image
       const bg = document.getElementById('bg-image');
       bg.style.opacity = '0';
       setTimeout(() => {
         bg.style.backgroundImage = `url('stories/${id}/images/scene${scene.id}.jpg')`;
         bg.style.opacity = '1';
-      }, 300);
+      }, 250);
 
-      // Update text with fade
+      // Fade text
       const textEl = document.getElementById('slide-text');
+      const titleEl = document.getElementById('slide-story-title');
       textEl.style.opacity = '0';
       setTimeout(() => {
+        titleEl.textContent = story.title;
         textEl.textContent = scene.text;
         textEl.style.opacity = '1';
-      }, 300);
+      }, 250);
 
       // Update counter
       document.getElementById('scene-counter').textContent =
@@ -142,10 +164,12 @@
         dot.className = i === index ? 'dot active' : 'dot';
       });
 
-      // Auto play audio
-      setTimeout(() => {
-        playCurrentScene();
-      }, 400);
+      // Update progress bar
+      const pct = ((index + 1) / story.scenes.length) * 100;
+      document.getElementById('progress-bar').style.width = pct + '%';
+
+      // Auto play
+      setTimeout(() => playCurrentScene(), 500);
     }
 
     function playCurrentScene() {
@@ -160,6 +184,7 @@
     }
 
     function stopAllAudio() {
+      if (!story) return;
       story.scenes.forEach(scene => {
         const audio = document.getElementById(`audio-${scene.id}`);
         if (audio) { audio.pause(); audio.currentTime = 0; }
@@ -172,7 +197,6 @@
       const scene = story.scenes[currentIndex];
       const audio = document.getElementById(`audio-${scene.id}`);
       if (!audio) return;
-
       if (isPlaying) {
         audio.pause();
         isPlaying = false;
@@ -185,7 +209,7 @@
 
     function updatePlayBtn() {
       const btn = document.getElementById('play-pause-btn');
-      if (btn) btn.textContent = isPlaying ? '🔇 ఆపు' : '▶ వినండి';
+      if (btn) btn.textContent = isPlaying ? '⏸ ఆపు' : '▶ వినండి';
     }
 
     function nextScene() {
@@ -193,7 +217,7 @@
       if (currentIndex < story.scenes.length - 1) {
         showScene(currentIndex + 1);
       } else {
-        // Show moral screen
+        stopAllAudio();
         document.getElementById('slideshow').style.display = 'none';
         document.getElementById('moral-screen').style.display = 'flex';
       }
@@ -203,16 +227,40 @@
       if (currentIndex > 0) showScene(currentIndex - 1);
     }
 
-    function goToScene(index) {
-      showScene(index);
+    function goToScene(index) { showScene(index); }
+
+    // Swipe gesture
+    function setupSwipeGesture() {
+      const area = document.getElementById('swipe-area');
+
+      area.addEventListener('touchstart', (e) => {
+        touchStartX = e.touches[0].clientX;
+        touchStartY = e.touches[0].clientY;
+      }, { passive: true });
+
+      area.addEventListener('touchend', (e) => {
+        const dx = e.changedTouches[0].clientX - touchStartX;
+        const dy = e.changedTouches[0].clientY - touchStartY;
+
+        // Only horizontal swipe
+        if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 50) {
+          if (dx < 0) nextScene();
+          else prevScene();
+        } else if (Math.abs(dx) < 10 && Math.abs(dy) < 10) {
+          // Tap to play/pause
+          toggleCurrentAudio();
+        }
+      }, { passive: true });
     }
 
-    // Keyboard navigation
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'ArrowRight') nextScene();
-      if (e.key === 'ArrowLeft') prevScene();
-      if (e.key === ' ') { e.preventDefault(); toggleCurrentAudio(); }
-    });
+    // Keyboard
+    function setupKeyboard() {
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight') nextScene();
+        if (e.key === 'ArrowLeft') prevScene();
+        if (e.key === ' ') { e.preventDefault(); toggleCurrentAudio(); }
+      });
+    }
 
     loadStory();
   </script>
