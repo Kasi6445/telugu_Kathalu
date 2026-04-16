@@ -207,3 +207,43 @@ with open(INDEX_FILE, "w", encoding="utf-8") as f:
 
 print(f"✅ Index updated — total stories: {len(index['stories'])}")
 print(f"\n🎉 Done! Open index.html to see your stories.")
+
+
+import os
+from datetime import datetime
+
+def generate_sitemap():
+    base_url = "https://telugu-kathalu.pages.dev"
+    stories_dir = "stories"  # your stories folder
+    
+    urls = []
+    
+    # Homepage
+    urls.append(f"""  <url>
+    <loc>{base_url}/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>""")
+    
+    # Auto-scan all story files
+    for filename in os.listdir(stories_dir):
+        if filename.endswith(".html"):
+            name = filename.replace(".html", "")
+            urls.append(f"""  <url>
+    <loc>{base_url}/stories/{name}</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>""")
+    
+    sitemap = f"""<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{chr(10).join(urls)}
+</urlset>"""
+    
+    with open("sitemap.xml", "w", encoding="utf-8") as f:
+        f.write(sitemap)
+    
+    print(f"✅ sitemap.xml updated with {len(urls)} URLs")
+
+# Call it at the end
+generate_sitemap()
