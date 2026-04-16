@@ -214,7 +214,8 @@ from datetime import datetime
 
 def generate_sitemap():
     base_url = "https://telugu-kathalu.pages.dev"
-    stories_dir = "stories"  # your stories folder
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    stories_dir = os.path.join(BASE_DIR, "stories")
     
     urls = []
     
@@ -225,12 +226,12 @@ def generate_sitemap():
     <priority>1.0</priority>
   </url>""")
     
-    # Auto-scan all story files
-    for filename in os.listdir(stories_dir):
-        if filename.endswith(".html"):
-            name = filename.replace(".html", "")
+    # Scan story FOLDERS (timestamp folders like 20260411_171746)
+    for folder in sorted(os.listdir(stories_dir)):
+        folder_path = os.path.join(stories_dir, folder)
+        if os.path.isdir(folder_path):  # skip index.json
             urls.append(f"""  <url>
-    <loc>{base_url}/stories/{name}</loc>
+    <loc>{base_url}/stories/{folder}/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>""")
@@ -240,10 +241,9 @@ def generate_sitemap():
 {chr(10).join(urls)}
 </urlset>"""
     
-    with open("sitemap.xml", "w", encoding="utf-8") as f:
+    with open(os.path.join(BASE_DIR, "sitemap.xml"), "w", encoding="utf-8") as f:
         f.write(sitemap)
     
     print(f"✅ sitemap.xml updated with {len(urls)} URLs")
 
-# Call it at the end
 generate_sitemap()

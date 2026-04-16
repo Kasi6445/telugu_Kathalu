@@ -1,0 +1,51 @@
+{
+  "title": "గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు",
+  "moral": "గర్వం వల్ల నష్టం, వినయం వల్ల లాభం",
+  "main_character": "The primary character is Gulabi, a beautiful, young, and arrogant rose flower, around 5-7 years old in plant age, with soft pink petals and a slender green stem, wearing a tiny dew drop as a crown, and having a delicate, velvety texture.",
+  "setting": "A lush green garden on a sunny afternoon with warm, golden lighting and a gentle breeze",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక అందమైన ఉద్యానవనంలో గులాబీ పూవు పూచింది. ఆ పూవు చాలా అందంగా ఉంది. దానికి గర్వం వచ్చింది.",
+      "image_prompt": "Gulabi is standing tall, spreading her petals wide, and gazing at her reflection in a nearby dew drop with a proud and smug expression, as the warm sunlight highlights her delicate texture and the gentle breeze rustles her petals."
+    },
+    {
+      "id": 2,
+      "text": "గులాబీ పూవు చుట్టూ ఉన్న ఇతర మొక్కలను చూసి ఎగతాళి చేసింది. వాటిని తక్కువగా చూసింది.",
+      "image_prompt": "Gulabi is leaning to one side, looking down at the surrounding plants with a scornful and disdainful expression, as she stretches her stem and petals away from them, with the warm sunlight casting a shadow on the plants she is looking down upon."
+    },
+    {
+      "id": 3,
+      "text": "ఒక చెట్టు గులాబీ పూవు గర్వాన్ని చూసింది. దానిని హెచ్చరించింది. గర్వం వల్ల నష్టం వస్తుందని చెప్పింది.",
+      "image_prompt": "The tree is gently swaying in the breeze, with its branches stretching out towards Gulabi, as it speaks to her in a wise and concerned tone, with the warm sunlight filtering through its leaves and highlighting the texture of its bark."
+    },
+    {
+      "id": 4,
+      "text": "కానీ గులాబీ పూవు చెట్టు మాటలను పట్టించుకోలేదు. తన గర్వాన్ని మరింత పెంచుకుంది.",
+      "image_prompt": "Gulabi is vigorously shaking her head, with her petals fluttering wildly, as she turns away from the tree, with a defiant and stubborn expression, as the gentle breeze turns into a strong gust of wind that blows against her."
+    },
+    {
+      "id": 5,
+      "text": "ఇంతలో ఒక పెద్ద తుఫాను వచ్చింది. గులాబీ పూవు దాని గర్వం వల్ల నాశనమైపోయింది.",
+      "image_prompt": "Gulabi is being blown away by the strong winds, with her petals shredded and scattered, as she desperately tries to hold on to her stem, with a terrified and helpless expression, as the dark storm clouds loom in the background and the winds howl loudly."
+    },
+    {
+      "id": 6,
+      "text": "చెట్టు మాత్రం తుఫానును తట్టుకుంది. దాని వినయం వల్ల రక్షించబడింది.",
+      "image_prompt": "The tree is standing firm, with its roots digging deep into the earth, as it flexes and sways in the strong winds, with a calm and serene expression, as the storm clouds rage around it, but its leaves and branches remain intact."
+    },
+    {
+      "id": 7,
+      "text": "గులాబీ పూవు తన తప్పును గ్రహించింది. చెట్టు వద్దకు వెళ్లి క్షమాపణ అడిగింది.",
+      "image_prompt": "Gulabi is humbly kneeling at the base of the tree, with her petals bowed down, as she looks up at the tree with a remorseful and apologetic expression, as the tree's branches stretch out to comfort her, with the warm sunlight filtering through its leaves and highlighting the texture of its bark."
+    },
+    {
+      "id": 8,
+      "text": "చెట్టు గులాబీ పూవును క్షమించింది. ఆమెకు మళ్ళీ ప్రాణం పోసింది.",
+      "image_prompt": "The tree is gently touching Gulabi's petals with its branches, as it speaks to her in a wise and compassionate tone, with the warm sunlight shining down on them, as Gulabi's petals begin to rebuild and regain their delicate texture and color."
+    }
+  ],
+  "id": "20260416_193055",
+  "date": "2026-04-16",
+  "thumbnail": "stories/20260416_193055/images/scene1.jpg"
+}
