@@ -1,20 +1,31 @@
 <!DOCTYPE html>
 <html lang="te">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="తెలుగు కథలు - ప్రతి రోజు కొత్త తెలుగు నైతిక కథలు చదవండి. Telugu moral stories for children and adults.">
+  <meta name="keywords" content="తెలుగు కథలు, Telugu stories, Telugu moral stories, తెలుగు నీతి కథలు">
+  <meta name="author" content="Telugu Katalu">
+  <meta property="og:title" content="తెలుగు కథలు">
+  <meta property="og:description" content="ప్రతి రోజు కొత్త తెలుగు కథలు">
+  <meta property="og:url" content="https://telugu-kathalu.pages.dev">
+  <meta property="og:type" content="website">
+
   <title>తెలుగు కథలు</title>
+  <link rel="canonical" href="https://telugu-kathalu.pages.dev">
   <link rel="stylesheet" href="static/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-P9CPL3SZHQ');
-</script>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-P9CPL3SZHQ');
+  </script>
 
 <body>
 
@@ -64,7 +75,7 @@
           grid.appendChild(card);
         });
 
-      } catch(e) {
+      } catch (e) {
         grid.innerHTML = '<p class="no-stories">కథలు కనుగొనలేదు. generate.py రన్ చేయండి!</p>';
       }
     }
@@ -73,4 +84,5 @@
   </script>
 
 </body>
+
 </html>
