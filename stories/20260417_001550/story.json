@@ -1,0 +1,32 @@
+{
+  "title": "దయగల ఏనుగు",
+  "moral": "ఇతరుల పట్ల దయతో ప్రవర్తించడం చాలా ముఖ్యం",
+  "main_character": "The primary character is a large, gentle male elephant named Daya, approximately 15 years old, with a thick grey skin, large ears, and a long curved tusk. He has a worn-out cloth wrapped around his waist and a small bell hanging from his neck.",
+  "setting": "A dense jungle near a village, late afternoon with warm sunlight filtering through the trees",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక రోజు, దయగల ఏనుగు అడవిలో నడుస్తుండగా, ఒక చిన్న పక్షి గూటిలోంచి పడిపోయింది. ఆ పక్షి తల్లి దగ్గరకు వెళ్లి, ఏనుగు దయ చూపమని అడిగింది.",
+      "image_prompt": "The elephant bends down gently, his large ears flapping in the wind, as he carefully picks up the fallen bird with his trunk, his eyes filled with compassion, and hands it over to the mother bird, who looks at him with gratitude, set against a warm afternoon sun with the jungle foliage in the background"
+    },
+    {
+      "id": 2,
+      "text": "తరువాత, ఒక పాము వచ్చి, ఏనుగు కాళ్లను కొరుకుతుండగా, ఏనుగు దానిని చంపకుండా, దానిని తన తొండంతో పట్టుకొని, దూరంగా విసిరేశాడు.",
+      "image_prompt": "The elephant swiftly moves his trunk to grab the snake, his body tense with alertness, as he carefully lifts the snake, his eyes focused on the reptile, and throws it away into the underbrush, with the warm sunlight casting a dramatic shadow on the forest floor"
+    },
+    {
+      "id": 3,
+      "text": "అప్పుడు, ఒక అలసటగా ఉన్న తోటబాటు ఏనుగు దగ్గరకు వచ్చి, నీటిని త్రాగమని అడిగింది. ఏనుగు తన తొండంతో నీటిని తెచ్చి, ఆ తోటబాటుకు ఇచ్చాడు.",
+      "image_prompt": "The elephant uses his trunk to scoop up water from a nearby stream, his body bent in a gentle curve, as he carefully pours the water into the mouth of the thirsty rabbit, who drinks eagerly, with the jungle surroundings blurred in the background and the focus on the tender moment between the two animals"
+    },
+    {
+      "id": 4,
+      "text": "చివరగా, అందరూ ఏనుగు దయకు కృతజ్ఞతలు తెలిపారు. ఏనుగు వారికి ఆహారం ఇచ్చాడు.",
+      "image_prompt": "The elephant stands tall, surrounded by the animals he helped, who all look up at him with gratitude, as he wraps his trunk around a large fruit tree branch, plucking juicy fruits and distributing them among the gathering, with the warm sunlight casting a sense of community and harmony over the scene"
+    }
+  ],
+  "id": "20260417_001550",
+  "date": "2026-04-17",
+  "thumbnail": "stories/20260417_001550/images/scene1.jpg",
+  "voice": "manan"
+}
