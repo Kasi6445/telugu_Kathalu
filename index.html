@@ -1,89 +1,320 @@
 <!DOCTYPE html>
 <html lang="te">
-
 <head>
   <meta charset="UTF-8">
-  <meta name="google-site-verification" content="tYMx4Habst2Z266zGxzjvxtzrq8zAvVMIjiU4MBXFfc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description"
-    content="తెలుగు కథలు - ప్రతి రోజు కొత్త తెలుగు నైతిక కథలు చదవండి. Telugu moral stories for children and adults.">
-  <meta name="keywords" content="తెలుగు కథలు, Telugu stories, Telugu moral stories, తెలుగు నీతి కథలు">
+  <meta name="google-site-verification" content="tYMx4Habst2Z266zGxzjvxtzrq8zAvVMIjiU4MBXFfc" />
+  <meta name="description" content="తెలుగు కథలు - నీతి కథలు, పంచతంత్రం, తెనాలి రామ, రామాయణం మరియు మరిన్ని తెలుగు కథలు చదవండి.">
+  <meta name="keywords" content="తెలుగు కథలు, Telugu stories, పంచతంత్రం, తెనాలి రామ, నీతి కథలు, రామాయణం">
   <meta name="author" content="Telugu Katalu">
   <meta property="og:title" content="తెలుగు కథలు">
   <meta property="og:description" content="ప్రతి రోజు కొత్త తెలుగు కథలు">
   <meta property="og:url" content="https://telugu-kathalu.pages.dev">
   <meta property="og:type" content="website">
-
   <title>తెలుగు కథలు</title>
   <link rel="canonical" href="https://telugu-kathalu.pages.dev">
   <link rel="stylesheet" href="static/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
-
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9CPL3SZHQ"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
+    function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-P9CPL3SZHQ');
   </script>
-
+</head>
 <body>
 
-  <header>
-    <h1>తెలుగు కథలు</h1>
-    <p>ప్రతి రోజు కొత్త కథ చదవండి</p>
-  </header>
+  <!-- SPLASH SCREEN -->
+  <div id="splash">
+    <div class="splash-ring r1"></div>
+    <div class="splash-ring r2"></div>
+    <div class="splash-ring r3"></div>
+    <div class="logo-wrap">
+      <div class="logo-icon">📖</div>
+      <div class="logo-title">తెలుగు కథలు</div>
+      <div class="logo-sub">Telugu Stories Platform</div>
+    </div>
+  </div>
 
-  <main id="stories-grid">
-    <div class="loading">కథలు లోడ్ అవుతున్నాయి...</div>
-  </main>
+  <!-- MAIN APP -->
+  <div id="app" style="display:none;">
+
+    <!-- STICKY HEADER -->
+    <header id="main-header">
+      <div class="header-top">
+        <div class="header-brand">
+          <span class="brand-icon">📖</span>
+          <span class="brand-name">తెలుగు కథలు</span>
+        </div>
+        <div class="header-search" onclick="toggleSearch()">🔍</div>
+      </div>
+
+      <!-- CATEGORY PILLS -->
+      <nav id="cat-nav">
+        <div class="nav-pill active" onclick="filterCategory('all', this)">అన్నీ</div>
+        <div class="nav-pill" onclick="filterCategory('neeti', this)">నీతి కథలు</div>
+        <div class="nav-pill" onclick="filterCategory('podupu', this)">పొడుపు కథలు</div>
+        <div class="nav-pill" onclick="filterCategory('tenali', this)">తెనాలి రామ</div>
+        <div class="nav-pill" onclick="filterCategory('panchatantra', this)">పంచతంత్రం</div>
+        <div class="nav-pill" onclick="filterCategory('ramayana', this)">రామాయణం</div>
+        <div class="nav-pill" onclick="filterCategory('samethalu', this)">సామెతలు</div>
+        <div class="nav-pill" onclick="filterCategory('janapada', this)">జానపదం</div>
+        <div class="nav-pill" onclick="filterCategory('birbal', this)">అక్బర్ బీర్బల్</div>
+      </nav>
+    </header>
+
+    <main id="main-content">
+
+      <!-- HERO BANNER -->
+      <div id="hero-banner" class="hero-banner">
+        <div class="hero-inner">
+          <div class="hero-badge-wrap">
+            <span class="hero-category-badge">నేటి కథ</span>
+          </div>
+          <h2 id="hero-title">లోడ్ అవుతోంది...</h2>
+          <p id="hero-moral"></p>
+          <button class="hero-btn" id="hero-btn" onclick="openHeroStory()">▶ చదవండి</button>
+        </div>
+        <div class="hero-thumb" id="hero-thumb"></div>
+      </div>
+
+      <!-- CATEGORIES GRID -->
+      <section class="section" id="section-categories">
+        <div class="section-header">
+          <div class="section-title-wrap">
+            <span class="section-icon-box" style="background:rgba(255,107,53,0.15)">🗂️</span>
+            <div>
+              <div class="section-name">విభాగాలు</div>
+              <div class="section-sub">అన్ని కేటగిరీలు</div>
+            </div>
+          </div>
+        </div>
+        <div class="cat-grid">
+          <div class="cat-card" style="background:rgba(255,107,53,0.1);border-color:rgba(255,107,53,0.2)" onclick="filterCategory('neeti', null)">
+            <div class="cat-emoji">📚</div>
+            <div class="cat-name" style="color:#FF6B35">నీతి కథలు</div>
+            <div class="cat-count" id="count-neeti">0 కథలు</div>
+          </div>
+          <div class="cat-card" style="background:rgba(99,153,34,0.1);border-color:rgba(99,153,34,0.2)" onclick="filterCategory('podupu', null)">
+            <div class="cat-emoji">🧩</div>
+            <div class="cat-name" style="color:#97C459">పొడుపు కథలు</div>
+            <div class="cat-count" id="count-podupu">0 కథలు</div>
+          </div>
+          <div class="cat-card" style="background:rgba(127,119,221,0.1);border-color:rgba(127,119,221,0.2)" onclick="filterCategory('tenali', null)">
+            <div class="cat-emoji">🎭</div>
+            <div class="cat-name" style="color:#AFA9EC">తెనాలి రామ</div>
+            <div class="cat-count" id="count-tenali">0 కథలు</div>
+          </div>
+          <div class="cat-card" style="background:rgba(29,158,117,0.1);border-color:rgba(29,158,117,0.2)" onclick="filterCategory('panchatantra', null)">
+            <div class="cat-emoji">🐒</div>
+            <div class="cat-name" style="color:#5DCAA5">పంచతంత్రం</div>
+            <div class="cat-count" id="count-panchatantra">0 కథలు</div>
+          </div>
+          <div class="cat-card" style="background:rgba(212,83,126,0.1);border-color:rgba(212,83,126,0.2)" onclick="filterCategory('ramayana', null)">
+            <div class="cat-emoji">🏹</div>
+            <div class="cat-name" style="color:#ED93B1">రామాయణం</div>
+            <div class="cat-count" id="count-ramayana">0 కథలు</div>
+          </div>
+          <div class="cat-card" style="background:rgba(186,117,23,0.1);border-color:rgba(186,117,23,0.2)" onclick="filterCategory('samethalu', null)">
+            <div class="cat-emoji">💬</div>
+            <div class="cat-name" style="color:#EF9F27">సామెతలు</div>
+            <div class="cat-count" id="count-samethalu">0 కథలు</div>
+          </div>
+          <div class="cat-card" style="background:rgba(55,138,221,0.1);border-color:rgba(55,138,221,0.2)" onclick="filterCategory('janapada', null)">
+            <div class="cat-emoji">🪘</div>
+            <div class="cat-name" style="color:#85B7EB">జానపదం</div>
+            <div class="cat-count" id="count-janapada">0 కథలు</div>
+          </div>
+          <div class="cat-card" style="background:rgba(226,75,74,0.1);border-color:rgba(226,75,74,0.2)" onclick="filterCategory('birbal', null)">
+            <div class="cat-emoji">👑</div>
+            <div class="cat-name" style="color:#F09595">అక్బర్ బీర్బల్</div>
+            <div class="cat-count" id="count-birbal">0 కథలు</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- RECENT STORIES -->
+      <section class="section" id="section-recent">
+        <div class="section-header">
+          <div class="section-title-wrap">
+            <span class="section-icon-box" style="background:rgba(99,153,34,0.15)">🆕</span>
+            <div>
+              <div class="section-name">కొత్త కథలు</div>
+              <div class="section-sub">Recently added</div>
+            </div>
+          </div>
+          <div class="see-all" onclick="filterCategory('all', null)">అన్నీ చూడండి</div>
+        </div>
+        <div class="cards-row" id="recent-stories"></div>
+      </section>
+
+      <!-- ALL STORIES GRID -->
+      <section class="section" id="section-all">
+        <div class="section-header">
+          <div class="section-title-wrap">
+            <span class="section-icon-box" style="background:rgba(255,107,53,0.15)">📖</span>
+            <div>
+              <div class="section-name" id="all-section-title">అన్ని కథలు</div>
+              <div class="section-sub" id="all-section-sub">All stories</div>
+            </div>
+          </div>
+        </div>
+        <div class="stories-grid" id="all-stories"></div>
+      </section>
+
+    </main>
+  </div>
 
   <script>
+    const CATEGORIES = {
+      neeti: { name: 'నీతి కథలు', emoji: '📚', color: '#FF6B35' },
+      podupu: { name: 'పొడుపు కథలు', emoji: '🧩', color: '#97C459' },
+      tenali: { name: 'తెనాలి రామ', emoji: '🎭', color: '#AFA9EC' },
+      panchatantra: { name: 'పంచతంత్రం', emoji: '🐒', color: '#5DCAA5' },
+      ramayana: { name: 'రామాయణం', emoji: '🏹', color: '#ED93B1' },
+      samethalu: { name: 'సామెతలు', emoji: '💬', color: '#EF9F27' },
+      janapada: { name: 'జానపదం', emoji: '🪘', color: '#85B7EB' },
+      birbal: { name: 'అక్బర్ బీర్బల్', emoji: '👑', color: '#F09595' }
+    };
+
+    let allStories = [];
+    let heroStoryId = null;
+
+    // SPLASH
+    window.addEventListener('load', () => {
+      setTimeout(() => {
+        document.getElementById('splash').style.opacity = '0';
+        setTimeout(() => {
+          document.getElementById('splash').style.display = 'none';
+          document.getElementById('app').style.display = 'block';
+          document.getElementById('app').style.animation = 'fadeIn 0.5s ease';
+        }, 600);
+      }, 2000);
+    });
+
     async function loadStories() {
-      const grid = document.getElementById('stories-grid');
       try {
         const res = await fetch('stories/index.json');
         const data = await res.json();
+        allStories = data.stories || [];
 
-        if (!data.stories || data.stories.length === 0) {
-          grid.innerHTML = '<p class="no-stories">ఇంకా కథలు లేవు. generate.py రన్ చేయండి!</p>';
-          return;
+        // Hero — latest story
+        if (allStories.length > 0) {
+          const hero = allStories[0];
+          heroStoryId = hero.id;
+          document.getElementById('hero-title').textContent = hero.title;
+          document.getElementById('hero-moral').textContent = hero.moral;
+          const cat = CATEGORIES[hero.category] || CATEGORIES.neeti;
+          document.querySelector('.hero-category-badge').textContent = cat.name;
+          const thumb = document.getElementById('hero-thumb');
+          thumb.style.backgroundImage = `url('${hero.thumbnail}')`;
         }
 
-        grid.innerHTML = '';
-
-        data.stories.forEach(story => {
-          const card = document.createElement('div');
-          card.className = 'story-card';
-          card.onclick = () => window.location.href = `story.html?id=${story.id}`;
-
-          card.innerHTML = `
-            <div class="card-thumbnail">
-              <img
-                src="${story.thumbnail}"
-                alt="${story.title}"
-                onerror="this.parentElement.style.background='linear-gradient(135deg,#FFE0CC,#FFD700)'"
-              />
-            </div>
-            <div class="card-info">
-              <h2 class="card-title">${story.title}</h2>
-              <p class="card-moral">💡 ${story.moral}</p>
-              <p class="card-date">${story.date}</p>
-            </div>
-          `;
-
-          grid.appendChild(card);
+        // Category counts
+        Object.keys(CATEGORIES).forEach(cat => {
+          const count = allStories.filter(s => s.category === cat).length;
+          const el = document.getElementById(`count-${cat}`);
+          if (el) el.textContent = `${count} కథలు`;
         });
 
-      } catch (e) {
-        grid.innerHTML = '<p class="no-stories">కథలు కనుగొనలేదు. generate.py రన్ చేయండి!</p>';
+        // Recent stories (horizontal scroll — latest 8)
+        renderRecentStories(allStories.slice(0, 8));
+
+        // All stories grid
+        renderAllStories(allStories);
+
+      } catch(e) {
+        document.getElementById('all-stories').innerHTML =
+          '<p class="no-stories">కథలు కనుగొనలేదు</p>';
       }
+    }
+
+    function renderRecentStories(stories) {
+      const container = document.getElementById('recent-stories');
+      container.innerHTML = '';
+      stories.forEach(story => {
+        const cat = CATEGORIES[story.category] || CATEGORIES.neeti;
+        const card = document.createElement('div');
+        card.className = 'h-card';
+        card.onclick = () => window.location.href = `story.html?id=${story.id}`;
+        card.innerHTML = `
+          <div class="h-card-img" style="background-image:url('${story.thumbnail}')">
+            <span class="h-cat-badge" style="color:${cat.color}">${cat.emoji}</span>
+          </div>
+          <div class="h-card-body">
+            <div class="h-card-title">${story.title}</div>
+            <div class="h-card-meta">${cat.name}</div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function renderAllStories(stories) {
+      const container = document.getElementById('all-stories');
+      container.innerHTML = '';
+      if (stories.length === 0) {
+        container.innerHTML = '<p class="no-stories">ఈ విభాగంలో కథలు లేవు</p>';
+        return;
+      }
+      stories.forEach(story => {
+        const cat = CATEGORIES[story.category] || CATEGORIES.neeti;
+        const card = document.createElement('div');
+        card.className = 'v-card';
+        card.onclick = () => window.location.href = `story.html?id=${story.id}`;
+        card.innerHTML = `
+          <div class="v-card-img" style="background-image:url('${story.thumbnail}')">
+            <span class="v-cat-tag" style="background:rgba(0,0,0,0.6);color:${cat.color}">${cat.emoji} ${cat.name}</span>
+          </div>
+          <div class="v-card-body">
+            <div class="v-card-title">${story.title}</div>
+            <p class="v-card-moral">💡 ${story.moral}</p>
+            <div class="v-card-date">${story.date}</div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function filterCategory(cat, pillEl) {
+      // Update pills
+      if (pillEl) {
+        document.querySelectorAll('.nav-pill').forEach(p => p.classList.remove('active'));
+        pillEl.classList.add('active');
+      }
+
+      // Scroll to all stories
+      document.getElementById('section-all').scrollIntoView({ behavior: 'smooth' });
+
+      const filtered = cat === 'all' ? allStories :
+        allStories.filter(s => s.category === cat);
+
+      const titleEl = document.getElementById('all-section-title');
+      const subEl = document.getElementById('all-section-sub');
+
+      if (cat === 'all') {
+        titleEl.textContent = 'అన్ని కథలు';
+        subEl.textContent = `${allStories.length} కథలు`;
+      } else {
+        const c = CATEGORIES[cat];
+        titleEl.textContent = c.name;
+        subEl.textContent = `${filtered.length} కథలు`;
+      }
+
+      renderAllStories(filtered);
+    }
+
+    function openHeroStory() {
+      if (heroStoryId) window.location.href = `story.html?id=${heroStoryId}`;
+    }
+
+    function toggleSearch() {
+      alert('వెతకండి — Coming soon!');
     }
 
     loadStories();
   </script>
 
 </body>
-
 </html>
