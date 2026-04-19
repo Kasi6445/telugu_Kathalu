@@ -399,7 +399,7 @@ print(f"✅ Index updated — total: {len(index['stories'])} stories")
 # ── STEP 6: Update sitemap.xml ────────────────────────────────────────────────
 print("\n🔄 Updating sitemap.xml...")
 
-base_url     = "https://telugu-kathalu.pages.dev"
+base_url     = "https://telugukathalu.in"
 BASE_DIR     = os.path.dirname(os.path.abspath(__file__))
 stories_path = os.path.join(BASE_DIR, "stories")
 urls = [f"""  <url>
