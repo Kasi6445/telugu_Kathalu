@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="te">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="tYMx4Habst2Z266zGxzjvxtzrq8zAvVMIjiU4MBXFfc" />
-  <meta name="description" content="తెలుగు కథలు - నీతి కథలు, పంచతంత్రం, తెనాలి రామ, రామాయణం మరియు మరిన్ని తెలుగు కథలు చదవండి.">
+  <meta name="description"
+    content="తెలుగు కథలు - నీతి కథలు, పంచతంత్రం, తెనాలి రామ, రామాయణం మరియు మరిన్ని తెలుగు కథలు చదవండి.">
   <meta name="keywords" content="తెలుగు కథలు, Telugu stories, పంచతంత్రం, తెనాలి రామ, నీతి కథలు, రామాయణం">
   <meta name="author" content="Telugu Katalu">
   <meta property="og:title" content="తెలుగు కథలు">
@@ -18,11 +20,13 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9CPL3SZHQ"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-P9CPL3SZHQ');
+    gtag('config', 'G-4EYTPBHZJ6');
   </script>
 </head>
+
 <body>
 
   <!-- SPLASH SCREEN -->
@@ -91,42 +95,50 @@
           </div>
         </div>
         <div class="cat-grid">
-          <div class="cat-card" style="background:rgba(255,107,53,0.1);border-color:rgba(255,107,53,0.2)" onclick="filterCategory('neeti', null)">
+          <div class="cat-card" style="background:rgba(255,107,53,0.1);border-color:rgba(255,107,53,0.2)"
+            onclick="filterCategory('neeti', null)">
             <div class="cat-emoji">📚</div>
             <div class="cat-name" style="color:#FF6B35">నీతి కథలు</div>
             <div class="cat-count" id="count-neeti">0 కథలు</div>
           </div>
-          <div class="cat-card" style="background:rgba(99,153,34,0.1);border-color:rgba(99,153,34,0.2)" onclick="filterCategory('podupu', null)">
+          <div class="cat-card" style="background:rgba(99,153,34,0.1);border-color:rgba(99,153,34,0.2)"
+            onclick="filterCategory('podupu', null)">
             <div class="cat-emoji">🧩</div>
             <div class="cat-name" style="color:#97C459">పొడుపు కథలు</div>
             <div class="cat-count" id="count-podupu">0 కథలు</div>
           </div>
-          <div class="cat-card" style="background:rgba(127,119,221,0.1);border-color:rgba(127,119,221,0.2)" onclick="filterCategory('tenali', null)">
+          <div class="cat-card" style="background:rgba(127,119,221,0.1);border-color:rgba(127,119,221,0.2)"
+            onclick="filterCategory('tenali', null)">
             <div class="cat-emoji">🎭</div>
             <div class="cat-name" style="color:#AFA9EC">తెనాలి రామ</div>
             <div class="cat-count" id="count-tenali">0 కథలు</div>
           </div>
-          <div class="cat-card" style="background:rgba(29,158,117,0.1);border-color:rgba(29,158,117,0.2)" onclick="filterCategory('panchatantra', null)">
+          <div class="cat-card" style="background:rgba(29,158,117,0.1);border-color:rgba(29,158,117,0.2)"
+            onclick="filterCategory('panchatantra', null)">
             <div class="cat-emoji">🐒</div>
             <div class="cat-name" style="color:#5DCAA5">పంచతంత్రం</div>
             <div class="cat-count" id="count-panchatantra">0 కథలు</div>
           </div>
-          <div class="cat-card" style="background:rgba(212,83,126,0.1);border-color:rgba(212,83,126,0.2)" onclick="filterCategory('ramayana', null)">
+          <div class="cat-card" style="background:rgba(212,83,126,0.1);border-color:rgba(212,83,126,0.2)"
+            onclick="filterCategory('ramayana', null)">
             <div class="cat-emoji">🏹</div>
             <div class="cat-name" style="color:#ED93B1">రామాయణం</div>
             <div class="cat-count" id="count-ramayana">0 కథలు</div>
           </div>
-          <div class="cat-card" style="background:rgba(186,117,23,0.1);border-color:rgba(186,117,23,0.2)" onclick="filterCategory('samethalu', null)">
+          <div class="cat-card" style="background:rgba(186,117,23,0.1);border-color:rgba(186,117,23,0.2)"
+            onclick="filterCategory('samethalu', null)">
             <div class="cat-emoji">💬</div>
             <div class="cat-name" style="color:#EF9F27">సామెతలు</div>
             <div class="cat-count" id="count-samethalu">0 కథలు</div>
           </div>
-          <div class="cat-card" style="background:rgba(55,138,221,0.1);border-color:rgba(55,138,221,0.2)" onclick="filterCategory('janapada', null)">
+          <div class="cat-card" style="background:rgba(55,138,221,0.1);border-color:rgba(55,138,221,0.2)"
+            onclick="filterCategory('janapada', null)">
             <div class="cat-emoji">🪘</div>
             <div class="cat-name" style="color:#85B7EB">జానపదం</div>
             <div class="cat-count" id="count-janapada">0 కథలు</div>
           </div>
-          <div class="cat-card" style="background:rgba(226,75,74,0.1);border-color:rgba(226,75,74,0.2)" onclick="filterCategory('birbal', null)">
+          <div class="cat-card" style="background:rgba(226,75,74,0.1);border-color:rgba(226,75,74,0.2)"
+            onclick="filterCategory('birbal', null)">
             <div class="cat-emoji">👑</div>
             <div class="cat-name" style="color:#F09595">అక్బర్ బీర్బల్</div>
             <div class="cat-count" id="count-birbal">0 కథలు</div>
@@ -224,7 +236,7 @@
         // All stories grid
         renderAllStories(allStories);
 
-      } catch(e) {
+      } catch (e) {
         document.getElementById('all-stories').innerHTML =
           '<p class="no-stories">కథలు కనుగొనలేదు</p>';
       }
@@ -317,4 +329,5 @@
   </script>
 
 </body>
+
 </html>
