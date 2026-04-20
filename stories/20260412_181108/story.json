@@ -47,5 +47,9 @@
   ],
   "id": "20260412_181108",
   "date": "2026-04-12",
-  "thumbnail": "stories/20260412_181108/images/scene1.jpg"
+  "thumbnail": "stories/20260412_181108/images/scene1.jpg",
+  "schema_version": 2,
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "తెలివైన వ్యాపారి"
 }

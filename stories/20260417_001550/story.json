@@ -28,5 +28,9 @@
   "id": "20260417_001550",
   "date": "2026-04-17",
   "thumbnail": "stories/20260417_001550/images/scene1.jpg",
-  "voice": "manan"
+  "voice": "manan",
+  "schema_version": 2,
+  "category": "neeti",
+  "subcategory": "animal_morals",
+  "topic": "దయగల ఏనుగు"
 }
