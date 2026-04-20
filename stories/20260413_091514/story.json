@@ -47,5 +47,10 @@
   ],
   "id": "20260413_091514",
   "date": "2026-04-13",
-  "thumbnail": "stories/20260413_091514/images/scene1.jpg"
+  "thumbnail": "stories/20260413_091514/images/scene1.jpg",
+  "schema_version": 2,
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "నిజాయితీ అయిన కట్టెల కాడు",
+  "retired": true
 }
