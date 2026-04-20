@@ -5,6 +5,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>తెలుగు కథలు</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="static/icon-192.png">
+  <meta name="theme-color" content="#FF6B35">
   <link rel="stylesheet" href="static/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
@@ -29,6 +32,7 @@
     <div id="top-bar">
       <a href="index.html" id="back-link">← అన్ని కథలు</a>
       <span id="scene-counter">1 / 6</span>
+      <button id="fav-btn" onclick="toggleFavorite()" title="నా కథలు">♡</button>
     </div>
 
     <!-- Swipe area — covers full screen -->
@@ -68,16 +72,30 @@
       <p id="final-title"></p>
       <div id="moral-label">నీతి</div>
       <p id="final-moral"></p>
+      <button id="share-btn" onclick="shareStory()">📤 పంచుకోండి</button>
       <a href="index.html" class="home-btn">← అన్ని కథలు</a>
+      <div id="related-stories"></div>
     </div>
   </div>
 
   <script>
-    let story = null;
+    let story        = null;
     let currentIndex = 0;
-    let isPlaying = false;
-    let touchStartX = 0;
-    let touchStartY = 0;
+    let isPlaying    = false;
+    let touchStartX  = 0;
+    let touchStartY  = 0;
+    let imgExt       = 'jpg';
+
+    const CATEGORIES = {
+      neeti:        'నీతి కథలు',
+      podupu:       'పొడుపు కథలు',
+      tenali:       'తెనాలి రామ',
+      panchatantra: 'పంచతంత్రం',
+      ramayana:     'రామాయణం',
+      samethalu:    'సామెతలు',
+      janapada:     'జానపదం',
+      birbal:       'అక్బర్ బీర్బల్'
+    };
 
     function getStoryId() {
       return new URLSearchParams(window.location.search).get('id');
@@ -91,15 +109,21 @@
         const res = await fetch(`stories/${id}/story.json`);
         story = await res.json();
 
+        // Derive image extension from thumbnail
+        imgExt = story.thumbnail ? story.thumbnail.split('.').pop() : 'jpg';
+
         document.title = story.title + ' - తెలుగు కథలు';
         document.getElementById('final-title').textContent = story.title;
         document.getElementById('final-moral').textContent = story.moral;
 
+        injectJSONLD(story, id);
+        loadFavoriteState();
+
         // Build audio elements
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
-          audio.id = `audio-${scene.id}`;
-          audio.src = `stories/${id}/audio/scene${scene.id}.mp3`;
+          audio.id    = `audio-${scene.id}`;
+          audio.src   = `stories/${id}/audio/scene${scene.id}.mp3`;
           audio.onended = () => {
             isPlaying = false;
             updatePlayBtn();
@@ -109,9 +133,9 @@
         });
 
         // Preload images
-        story.scenes.forEach((scene, i) => {
+        story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${id}/images/scene${scene.id}.jpg`;
+          img.src = `stories/${id}/images/scene${scene.id}.${imgExt}`;
         });
 
         // Build dots
@@ -128,7 +152,7 @@
         setupKeyboard();
         showScene(0);
 
-      } catch (e) {
+      } catch(e) {
         console.error(e);
       }
     }
@@ -138,41 +162,45 @@
       stopAllAudio();
       currentIndex = index;
       const scene = story.scenes[index];
-      const id = getStoryId();
+      const id    = getStoryId();
 
-      // Fade image
       const bg = document.getElementById('bg-image');
       bg.style.opacity = '0';
       setTimeout(() => {
-        bg.style.backgroundImage = `url('stories/${id}/images/scene${scene.id}.jpg')`;
+        bg.style.backgroundImage = `url('stories/${id}/images/scene${scene.id}.${imgExt}')`;
         bg.style.opacity = '1';
       }, 250);
 
-      // Fade text
-      const textEl = document.getElementById('slide-text');
+      const textEl  = document.getElementById('slide-text');
       const titleEl = document.getElementById('slide-story-title');
       textEl.style.opacity = '0';
       setTimeout(() => {
         titleEl.textContent = story.title;
-        textEl.textContent = scene.text;
+        textEl.textContent  = scene.text;
         textEl.style.opacity = '1';
       }, 250);
 
-      // Update counter
       document.getElementById('scene-counter').textContent =
         `${index + 1} / ${story.scenes.length}`;
 
-      // Update dots
       document.querySelectorAll('.dot').forEach((dot, i) => {
         dot.className = i === index ? 'dot active' : 'dot';
       });
 
-      // Update progress bar
       const pct = ((index + 1) / story.scenes.length) * 100;
       document.getElementById('progress-bar').style.width = pct + '%';
 
-      // Auto play
+      // Preload next scene audio while current scene shows
+      preloadNextAudio(index);
+
       setTimeout(() => playCurrentScene(), 500);
+    }
+
+    function preloadNextAudio(currentIdx) {
+      if (!story || currentIdx >= story.scenes.length - 1) return;
+      const nextScene = story.scenes[currentIdx + 1];
+      const audio = document.getElementById(`audio-${nextScene.id}`);
+      if (audio && audio.readyState < 2) audio.load();
     }
 
     function playCurrentScene() {
@@ -180,7 +208,7 @@
       const audio = document.getElementById(`audio-${scene.id}`);
       if (audio) {
         audio.currentTime = 0;
-        audio.play().catch(() => { });
+        audio.play().catch(() => {});
         isPlaying = true;
         updatePlayBtn();
       }
@@ -204,7 +232,7 @@
         audio.pause();
         isPlaying = false;
       } else {
-        audio.play().catch(() => { });
+        audio.play().catch(() => {});
         isPlaying = true;
       }
       updatePlayBtn();
@@ -223,6 +251,7 @@
         stopAllAudio();
         document.getElementById('slideshow').style.display = 'none';
         document.getElementById('moral-screen').style.display = 'flex';
+        loadRelatedStories();
       }
     }
 
@@ -232,35 +261,117 @@
 
     function goToScene(index) { showScene(index); }
 
-    // Swipe gesture
+    // ── FAVORITES ─────────────────────────────────────────────────────────────
+    function getFavorites() {
+      return JSON.parse(localStorage.getItem('telugu_kathalu_favorites') || '[]');
+    }
+
+    function loadFavoriteState() {
+      const btn = document.getElementById('fav-btn');
+      if (!btn) return;
+      const isFav = getFavorites().includes(getStoryId());
+      btn.textContent = isFav ? '♥' : '♡';
+      btn.classList.toggle('active', isFav);
+    }
+
+    function toggleFavorite() {
+      const id   = getStoryId();
+      const favs = getFavorites();
+      const idx  = favs.indexOf(id);
+      if (idx === -1) favs.push(id);
+      else favs.splice(idx, 1);
+      localStorage.setItem('telugu_kathalu_favorites', JSON.stringify(favs));
+      loadFavoriteState();
+    }
+
+    // ── SHARE ─────────────────────────────────────────────────────────────────
+    function shareStory() {
+      const url  = window.location.href;
+      const text = story ? `"${story.title}" చదవండి - తెలుగు కథలు\n` : '';
+      if (navigator.share) {
+        navigator.share({ title: story ? story.title : 'తెలుగు కథలు', text: story ? story.moral : '', url })
+          .catch(() => {});
+      } else {
+        window.open(`whatsapp://send?text=${encodeURIComponent(text + url)}`, '_blank');
+      }
+    }
+
+    // ── RELATED STORIES ───────────────────────────────────────────────────────
+    async function loadRelatedStories() {
+      const container = document.getElementById('related-stories');
+      if (!story || !container) return;
+      try {
+        const res  = await fetch('stories/index.json');
+        const data = await res.json();
+        const all  = data.stories || [];
+        const id   = getStoryId();
+
+        let pool = all.filter(s => s.id !== id && s.subcategory === story.subcategory);
+        if (pool.length < 3)
+          pool = all.filter(s => s.id !== id && s.category === story.category);
+        if (pool.length === 0) return;
+
+        // Pick up to 3 random
+        const picks = pool.sort(() => Math.random() - 0.5).slice(0, 3);
+
+        container.innerHTML = `<h3>మరిన్ని కథలు చదవండి</h3>`;
+        picks.forEach(s => {
+          const div = document.createElement('div');
+          div.className = 'related-card';
+          div.onclick = () => window.location.href = `story.html?id=${s.id}`;
+          div.innerHTML = `
+            <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
+            <div>
+              <div class="related-card-title">${s.title}</div>
+              <div class="related-card-cat">${CATEGORIES[s.category] || s.category}</div>
+            </div>`;
+          container.appendChild(div);
+        });
+      } catch(e) {}
+    }
+
+    // ── JSON-LD ────────────────────────────────────────────────────────────────
+    function injectJSONLD(s, id) {
+      const ld = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "name": s.title,
+        "description": s.moral,
+        "url": window.location.href,
+        "datePublished": s.date,
+        "inLanguage": "te",
+        "image": s.thumbnail ? 'https://telugukathalu.in/' + s.thumbnail : undefined,
+        "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://telugukathalu.in" }
+      };
+      const script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.textContent = JSON.stringify(ld);
+      document.head.appendChild(script);
+    }
+
+    // ── SWIPE ─────────────────────────────────────────────────────────────────
     function setupSwipeGesture() {
       const area = document.getElementById('swipe-area');
-
       area.addEventListener('touchstart', (e) => {
         touchStartX = e.touches[0].clientX;
         touchStartY = e.touches[0].clientY;
       }, { passive: true });
-
       area.addEventListener('touchend', (e) => {
         const dx = e.changedTouches[0].clientX - touchStartX;
         const dy = e.changedTouches[0].clientY - touchStartY;
-
-        // Only horizontal swipe
         if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 50) {
-          if (dx < 0) nextScene();
-          else prevScene();
+          if (dx < 0) nextScene(); else prevScene();
         } else if (Math.abs(dx) < 10 && Math.abs(dy) < 10) {
-          // Tap to play/pause
           toggleCurrentAudio();
         }
       }, { passive: true });
     }
 
-    // Keyboard
+    // ── KEYBOARD ──────────────────────────────────────────────────────────────
     function setupKeyboard() {
       document.addEventListener('keydown', (e) => {
         if (e.key === 'ArrowRight') nextScene();
-        if (e.key === 'ArrowLeft') prevScene();
+        if (e.key === 'ArrowLeft')  prevScene();
         if (e.key === ' ') { e.preventDefault(); toggleCurrentAudio(); }
       });
     }
