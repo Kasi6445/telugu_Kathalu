@@ -412,6 +412,29 @@ def _append_failure_log(output_path: Path, prompt: str, logs_dir: Path, error: s
         )
 
 
+# ── PNG → JPEG compression ───────────────────────────────────────────────────
+
+def _compress_to_jpeg(images_path: Path, total: int, quality: int = 85) -> None:
+    """Convert all scene PNGs to JPEG after generation. PNG stays available during
+    generation so Gemini reference passing works; conversion runs only at the end."""
+    from PIL import Image as _PILImage
+
+    for png_path in sorted(images_path.glob("scene*.png")):
+        jpg_path = png_path.with_suffix(".jpg")
+        try:
+            img = _PILImage.open(png_path).convert("RGB")
+            img.save(jpg_path, "JPEG", quality=quality, optimize=True)
+            orig_kb = png_path.stat().st_size // 1024
+            new_kb  = jpg_path.stat().st_size // 1024
+            png_path.unlink()
+            logger.info(
+                f"Compressed {png_path.name} → {jpg_path.name}: "
+                f"{orig_kb} KB → {new_kb} KB ({100 - new_kb * 100 // orig_kb}% smaller)"
+            )
+        except Exception as e:
+            logger.warning(f"JPEG compression failed for {png_path.name}: {e} — keeping PNG")
+
+
 # ── Public API ────────────────────────────────────────────────────────────────
 
 def generate_images_for_story(story: dict, draft_dir: Path, logs_dir: Path) -> None:
@@ -523,6 +546,9 @@ def generate_images_for_story(story: dict, draft_dir: Path, logs_dir: Path) -> N
             f"Pipeline halted. Partial draft NOT saved.\n"
             f"Manually resolve, then re-run generate.py."
         )
+
+    # ── Compress PNG → JPEG (done after all scenes so PNGs stay available as references) ──
+    _compress_to_jpeg(images_path, total)
 
     # ── Save image_lineage.json ───────────────────────────────────────────────
     lineage: dict[int, str] = {r.scene_id: r.generator for r in results}
