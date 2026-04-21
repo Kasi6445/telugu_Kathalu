@@ -1,19 +1,13 @@
-const CACHE_NAME    = 'telugu-kathalu-v5';
-const RUNTIME_CACHE = 'telugu-kathalu-runtime-v5';
+const CACHE_NAME    = 'telugu-kathalu-v6';
+const RUNTIME_CACHE = 'telugu-kathalu-runtime-v6';
 
-// Assets that are always cached on install
 const PRECACHE_ASSETS = [
-  '/',
-  '/index.html',
-  '/story.html',
-  '/favorites.html',
   '/static/style.css',
   '/static/icon-192.png',
   '/static/icon-512.png',
-  '/manifest.json',
 ];
 
-// ── INSTALL: precache shell assets ──────────────────────────────────────────
+// ── INSTALL ──────────────────────────────────────────────────────────────────
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME)
@@ -22,7 +16,7 @@ self.addEventListener('install', event => {
   );
 });
 
-// ── ACTIVATE: clean up old caches ───────────────────────────────────────────
+// ── ACTIVATE: clean up old caches ────────────────────────────────────────────
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(keys =>
@@ -35,7 +29,7 @@ self.addEventListener('activate', event => {
   );
 });
 
-// ── FETCH: strategy by resource type ────────────────────────────────────────
+// ── FETCH ────────────────────────────────────────────────────────────────────
 self.addEventListener('fetch', event => {
   const { request } = event;
   const url = new URL(request.url);
@@ -43,15 +37,19 @@ self.addEventListener('fetch', event => {
   // Only handle same-origin requests
   if (url.origin !== location.origin) return;
 
+  // Never intercept HTML page navigations — let the browser fetch them directly.
+  // This prevents ERR_FAILED on page links and keeps HTML always fresh.
+  if (request.mode === 'navigate') return;
+
   const path = url.pathname;
 
-  // JSON files (index.json, story.json, categories.json) — network-first
+  // JSON — network-first (always get fresh story data)
   if (path.endsWith('.json')) {
     event.respondWith(networkFirst(request));
     return;
   }
 
-  // Audio files — cache-first (large, rarely change)
+  // Audio — cache-first (large files, rarely change)
   if (path.endsWith('.mp3')) {
     event.respondWith(cacheFirst(request, RUNTIME_CACHE));
     return;
@@ -63,11 +61,11 @@ self.addEventListener('fetch', event => {
     return;
   }
 
-  // HTML + CSS + JS shell — cache-first (precached on install)
+  // CSS / JS / icons — cache-first (precached on install)
   event.respondWith(cacheFirst(request, CACHE_NAME));
 });
 
-// ── STRATEGIES ────────────────────────────────────────────────────────────────
+// ── STRATEGIES ───────────────────────────────────────────────────────────────
 async function networkFirst(request) {
   try {
     const response = await fetch(request);
@@ -89,20 +87,13 @@ async function cacheFirst(request, cacheName) {
   if (cached) return cached;
 
   try {
-    // Navigate-mode requests throw TypeError in SW context — use plain URL fetch instead
-    const fetchReq = request.mode === 'navigate' ? request.url : request;
-    const response = await fetch(fetchReq);
+    const response = await fetch(request);
     if (response.ok) {
       const cache = await caches.open(cacheName);
-      cache.put(request.url, response.clone());
+      cache.put(request, response.clone());
     }
     return response;
   } catch (_) {
-    // Offline fallback: serve root for navigate, empty for others
-    if (request.mode === 'navigate') {
-      const root = await caches.match('/');
-      if (root) return root;
-    }
     return new Response('Not found', { status: 404 });
   }
 }
