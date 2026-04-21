@@ -15,6 +15,9 @@
   <meta property="og:type" content="website">
   <title>తెలుగు కథలు</title>
   <link rel="canonical" href="https://telugukathalu.in">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="static/icon-192.png">
+  <meta name="theme-color" content="#FF6B35">
   <link rel="stylesheet" href="static/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9CPL3SZHQ"></script>
@@ -51,7 +54,10 @@
           <span class="brand-icon">📖</span>
           <span class="brand-name">తెలుగు కథలు</span>
         </div>
-        <div class="header-search" onclick="toggleSearch()">🔍</div>
+        <div class="header-icons">
+          <a href="favorites.html" class="header-fav-link" title="నా కథలు">♡</a>
+          <div class="header-search" onclick="toggleSearch()">🔍</div>
+        </div>
       </div>
 
       <!-- CATEGORY PILLS -->
@@ -66,6 +72,15 @@
         <div class="nav-pill" onclick="filterCategory('janapada', this)">జానపదం</div>
         <div class="nav-pill" onclick="filterCategory('birbal', this)">అక్బర్ బీర్బల్</div>
       </nav>
+
+      <!-- SEARCH BAR -->
+      <div id="search-bar">
+        <input id="search-input" type="search" placeholder="కథలు వెతకండి..." oninput="onSearchInput(this.value)">
+        <span id="search-close" onclick="closeSearch()">✕</span>
+      </div>
+
+      <!-- SUBCATEGORY ROW -->
+      <div id="sub-row"></div>
     </header>
 
     <main id="main-content">
@@ -180,20 +195,24 @@
 
   <script>
     const CATEGORIES = {
-      neeti: { name: 'నీతి కథలు', emoji: '📚', color: '#FF6B35' },
-      podupu: { name: 'పొడుపు కథలు', emoji: '🧩', color: '#97C459' },
-      tenali: { name: 'తెనాలి రామ', emoji: '🎭', color: '#AFA9EC' },
-      panchatantra: { name: 'పంచతంత్రం', emoji: '🐒', color: '#5DCAA5' },
-      ramayana: { name: 'రామాయణం', emoji: '🏹', color: '#ED93B1' },
-      samethalu: { name: 'సామెతలు', emoji: '💬', color: '#EF9F27' },
-      janapada: { name: 'జానపదం', emoji: '🪘', color: '#85B7EB' },
-      birbal: { name: 'అక్బర్ బీర్బల్', emoji: '👑', color: '#F09595' }
+      neeti:        { name: 'నీతి కథలు',      emoji: '📚', color: '#FF6B35' },
+      podupu:       { name: 'పొడుపు కథలు',    emoji: '🧩', color: '#97C459' },
+      tenali:       { name: 'తెనాలి రామ',      emoji: '🎭', color: '#AFA9EC' },
+      panchatantra: { name: 'పంచతంత్రం',       emoji: '🐒', color: '#5DCAA5' },
+      ramayana:     { name: 'రామాయణం',         emoji: '🏹', color: '#ED93B1' },
+      samethalu:    { name: 'సామెతలు',          emoji: '💬', color: '#EF9F27' },
+      janapada:     { name: 'జానపదం',           emoji: '🪘', color: '#85B7EB' },
+      birbal:       { name: 'అక్బర్ బీర్బల్', emoji: '👑', color: '#F09595' }
     };
 
-    let allStories = [];
-    let heroStoryId = null;
+    let allStories     = [];
+    let categoriesData = {};
+    let heroStoryId    = null;
+    let currentCat     = 'all';
+    let currentSub     = 'all';
+    let searchQuery    = '';
 
-    // SPLASH
+    // ── SPLASH ──────────────────────────────────────────────────────────────
     window.addEventListener('load', () => {
       setTimeout(() => {
         document.getElementById('splash').style.opacity = '0';
@@ -205,13 +224,20 @@
       }, 2000);
     });
 
+    // ── LOAD DATA ────────────────────────────────────────────────────────────
+    async function loadCategories() {
+      try {
+        const res = await fetch('categories.json');
+        categoriesData = await res.json();
+      } catch(e) { categoriesData = {}; }
+    }
+
     async function loadStories() {
       try {
         const res = await fetch('stories/index.json');
         const data = await res.json();
         allStories = data.stories || [];
 
-        // Hero — latest story
         if (allStories.length > 0) {
           const hero = allStories[0];
           heroStoryId = hero.id;
@@ -219,29 +245,39 @@
           document.getElementById('hero-moral').textContent = hero.moral;
           const cat = CATEGORIES[hero.category] || CATEGORIES.neeti;
           document.querySelector('.hero-category-badge').textContent = cat.name;
-          const thumb = document.getElementById('hero-thumb');
-          thumb.style.backgroundImage = `url('${hero.thumbnail}')`;
+          document.getElementById('hero-thumb').style.backgroundImage = `url('${hero.thumbnail}')`;
+
+          // Update OG tags with latest story data
+          setMeta('og:title', hero.title + ' - తెలుగు కథలు');
+          setMeta('og:description', hero.moral || 'ప్రతి రోజు కొత్త తెలుగు కథలు');
+          setMeta('og:image', 'https://telugukathalu.in/' + hero.thumbnail);
         }
 
-        // Category counts
         Object.keys(CATEGORIES).forEach(cat => {
           const count = allStories.filter(s => s.category === cat).length;
           const el = document.getElementById(`count-${cat}`);
           if (el) el.textContent = `${count} కథలు`;
         });
 
-        // Recent stories (horizontal scroll — latest 8)
         renderRecentStories(allStories.slice(0, 8));
-
-        // All stories grid
-        renderAllStories(allStories);
-
-      } catch (e) {
+        applyFilters();
+      } catch(e) {
         document.getElementById('all-stories').innerHTML =
           '<p class="no-stories">కథలు కనుగొనలేదు</p>';
       }
     }
 
+    function setMeta(property, content) {
+      let el = document.querySelector(`meta[property="${property}"]`);
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute('property', property);
+        document.head.appendChild(el);
+      }
+      el.setAttribute('content', content);
+    }
+
+    // ── RENDER ───────────────────────────────────────────────────────────────
     function renderRecentStories(stories) {
       const container = document.getElementById('recent-stories');
       container.innerHTML = '';
@@ -251,14 +287,14 @@
         card.className = 'h-card';
         card.onclick = () => window.location.href = `story.html?id=${story.id}`;
         card.innerHTML = `
-          <div class="h-card-img" style="background-image:url('${story.thumbnail}')">
+          <div class="h-card-img">
+            <img loading="lazy" src="${story.thumbnail}" alt="${story.title}">
             <span class="h-cat-badge" style="color:${cat.color}">${cat.emoji}</span>
           </div>
           <div class="h-card-body">
             <div class="h-card-title">${story.title}</div>
             <div class="h-card-meta">${cat.name}</div>
-          </div>
-        `;
+          </div>`;
         container.appendChild(card);
       });
     }
@@ -276,56 +312,146 @@
         card.className = 'v-card';
         card.onclick = () => window.location.href = `story.html?id=${story.id}`;
         card.innerHTML = `
-          <div class="v-card-img" style="background-image:url('${story.thumbnail}')">
+          <div class="v-card-img">
+            <img loading="lazy" src="${story.thumbnail}" alt="${story.title}">
             <span class="v-cat-tag" style="background:rgba(0,0,0,0.6);color:${cat.color}">${cat.emoji} ${cat.name}</span>
           </div>
           <div class="v-card-body">
             <div class="v-card-title">${story.title}</div>
             <p class="v-card-moral">💡 ${story.moral}</p>
             <div class="v-card-date">${story.date}</div>
-          </div>
-        `;
+          </div>`;
         container.appendChild(card);
       });
     }
 
+    // ── FILTER / SEARCH ──────────────────────────────────────────────────────
+    function applyFilters() {
+      let filtered = allStories;
+      if (currentCat !== 'all')
+        filtered = filtered.filter(s => s.category === currentCat);
+      if (currentSub !== 'all')
+        filtered = filtered.filter(s => s.subcategory === currentSub);
+      if (searchQuery) {
+        const q = searchQuery.toLowerCase();
+        filtered = filtered.filter(s =>
+          s.title.toLowerCase().includes(q) ||
+          (s.moral && s.moral.toLowerCase().includes(q))
+        );
+      }
+
+      const titleEl = document.getElementById('all-section-title');
+      const subEl   = document.getElementById('all-section-sub');
+      if (searchQuery) {
+        titleEl.textContent = 'వెతుకు ఫలితాలు';
+        subEl.textContent   = `${filtered.length} కథలు`;
+      } else if (currentCat === 'all') {
+        titleEl.textContent = 'అన్ని కథలు';
+        subEl.textContent   = `${allStories.length} కథలు`;
+      } else {
+        const c = CATEGORIES[currentCat];
+        titleEl.textContent = c.name;
+        subEl.textContent   = `${filtered.length} కథలు`;
+      }
+      renderAllStories(filtered);
+    }
+
     function filterCategory(cat, pillEl) {
-      // Update pills
       if (pillEl) {
         document.querySelectorAll('.nav-pill').forEach(p => p.classList.remove('active'));
         pillEl.classList.add('active');
       }
-
-      // Scroll to all stories
+      currentCat = cat;
+      currentSub = 'all';
+      showSubcategoryRow(cat);
       document.getElementById('section-all').scrollIntoView({ behavior: 'smooth' });
-
-      const filtered = cat === 'all' ? allStories :
-        allStories.filter(s => s.category === cat);
-
-      const titleEl = document.getElementById('all-section-title');
-      const subEl = document.getElementById('all-section-sub');
-
-      if (cat === 'all') {
-        titleEl.textContent = 'అన్ని కథలు';
-        subEl.textContent = `${allStories.length} కథలు`;
-      } else {
-        const c = CATEGORIES[cat];
-        titleEl.textContent = c.name;
-        subEl.textContent = `${filtered.length} కథలు`;
-      }
-
-      renderAllStories(filtered);
+      applyFilters();
     }
 
+    function showSubcategoryRow(catKey) {
+      const row = document.getElementById('sub-row');
+      if (catKey === 'all' || !categoriesData[catKey]) {
+        row.style.display = 'none';
+        return;
+      }
+      const subs = categoriesData[catKey].subcategories || {};
+      row.innerHTML = '';
+
+      const allChip = makeSubChip('అన్నీ', true, () => {
+        setActiveSubChip(allChip);
+        currentSub = 'all';
+        applyFilters();
+      });
+      row.appendChild(allChip);
+
+      Object.entries(subs).forEach(([subKey, subData]) => {
+        const chip = makeSubChip(subData.telugu_name, false, () => {
+          setActiveSubChip(chip);
+          currentSub = subKey;
+          applyFilters();
+        });
+        row.appendChild(chip);
+      });
+      row.style.display = 'flex';
+    }
+
+    function makeSubChip(label, active, onClick) {
+      const el = document.createElement('div');
+      el.className = 'sub-chip' + (active ? ' active' : '');
+      el.textContent = label;
+      el.onclick = onClick;
+      return el;
+    }
+
+    function setActiveSubChip(el) {
+      document.querySelectorAll('.sub-chip').forEach(c => c.classList.remove('active'));
+      el.classList.add('active');
+    }
+
+    // ── SEARCH ───────────────────────────────────────────────────────────────
+    function toggleSearch() {
+      const bar = document.getElementById('search-bar');
+      const inp = document.getElementById('search-input');
+      if (bar.style.display === 'flex') {
+        closeSearch();
+      } else {
+        bar.style.display = 'flex';
+        inp.focus();
+      }
+    }
+
+    function closeSearch() {
+      const bar = document.getElementById('search-bar');
+      const inp = document.getElementById('search-input');
+      bar.style.display = 'none';
+      inp.value = '';
+      searchQuery = '';
+      applyFilters();
+    }
+
+    function onSearchInput(val) {
+      searchQuery = val.trim();
+      if (searchQuery) {
+        document.getElementById('section-all').scrollIntoView({ behavior: 'smooth' });
+      }
+      applyFilters();
+    }
+
+    // ── OTHER ─────────────────────────────────────────────────────────────────
     function openHeroStory() {
       if (heroStoryId) window.location.href = `story.html?id=${heroStoryId}`;
     }
 
-    function toggleSearch() {
-      alert('వెతకండి — Coming soon!');
-    }
+    // ── INIT ──────────────────────────────────────────────────────────────────
+    Promise.all([loadCategories(), loadStories()]);
 
-    loadStories();
+    // ── SERVICE WORKER ────────────────────────────────────────────────────────
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js')
+          .catch(err => console.warn('SW registration failed:', err));
+      });
+    }
   </script>
 
 </body>

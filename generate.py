@@ -10,7 +10,7 @@ import argparse
 import json
 import logging
 import sys
-import time
+
 from datetime import datetime
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -18,7 +18,7 @@ from lib.config import load_categories, load_index, DRAFTS_DIR, LOGS_DIR
 from lib.balancer import pick_next_slot
 from lib.story_gen import generate_story
 from lib.tts import synthesize_scene
-from lib.image_gen import generate_image, QUOTA_SLEEP
+from lib.image_gen import generate_images_for_story
 from lib.validator import validate_story
 
 LOGS_DIR.mkdir(exist_ok=True)
@@ -95,7 +95,7 @@ def main():
         "subcategory":    sub_key,
         "topic":          topic,
         "voice":          story.get("voice", ""),
-        "thumbnail":      f"stories/{timestamp}/images/scene1.jpg",
+        "thumbnail":      f"stories/{timestamp}/images/scene1.png",
         "schema_version": 2,
     })
 
@@ -106,17 +106,7 @@ def main():
 
     # ── Images ────────────────────────────────────────────────────────────────
     logger.info("Generating images...")
-    for i, scene in enumerate(story["scenes"]):
-        generate_image(
-            scene["image_prompt"],
-            story["main_character"],
-            story["setting"],
-            image_dir / f"scene{scene['id']}.jpg",
-            LOGS_DIR,
-        )
-        if i < len(story["scenes"]) - 1:
-            logger.info(f"Quota pacing: waiting {QUOTA_SLEEP}s...")
-            time.sleep(QUOTA_SLEEP)
+    generate_images_for_story(story, draft_dir, LOGS_DIR)
 
     # ── Save story.json ───────────────────────────────────────────────────────
     (draft_dir / "story.json").write_text(

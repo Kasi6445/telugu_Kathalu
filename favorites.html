@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>నా కథలు - తెలుగు కథలు</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="static/icon-192.png">
+  <meta name="theme-color" content="#FF6B35">
+  <link rel="stylesheet" href="static/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header id="main-header">
+    <div class="header-top">
+      <div class="header-brand">
+        <a href="index.html" style="text-decoration:none;display:flex;align-items:center;gap:8px;">
+          <span class="brand-icon">📖</span>
+          <span class="brand-name">తెలుగు కథలు</span>
+        </a>
+      </div>
+      <div class="header-icons">
+        <a href="index.html" style="font-size:0.8rem;color:rgba(255,255,255,0.5);text-decoration:none;padding:6px 10px;">← వెనక్కి</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <div class="section" style="padding-top:20px;">
+      <div class="section-header">
+        <div class="section-title-wrap">
+          <span class="section-icon-box" style="background:rgba(255,107,53,0.15)">♥</span>
+          <div>
+            <div class="section-name">నా కథలు</div>
+            <div class="section-sub" id="fav-count">లోడ్ అవుతోంది...</div>
+          </div>
+        </div>
+        <div class="see-all" onclick="clearAll()" id="clear-btn" style="display:none;color:rgba(255,255,255,0.4);">అన్నీ తీసివేయి</div>
+      </div>
+      <div class="stories-grid" id="fav-grid"></div>
+    </div>
+  </main>
+
+  <script>
+    const CATEGORIES = {
+      neeti:        { name: 'నీతి కథలు',      emoji: '📚', color: '#FF6B35' },
+      podupu:       { name: 'పొడుపు కథలు',    emoji: '🧩', color: '#97C459' },
+      tenali:       { name: 'తెనాలి రామ',      emoji: '🎭', color: '#AFA9EC' },
+      panchatantra: { name: 'పంచతంత్రం',       emoji: '🐒', color: '#5DCAA5' },
+      ramayana:     { name: 'రామాయణం',         emoji: '🏹', color: '#ED93B1' },
+      samethalu:    { name: 'సామెతలు',          emoji: '💬', color: '#EF9F27' },
+      janapada:     { name: 'జానపదం',           emoji: '🪘', color: '#85B7EB' },
+      birbal:       { name: 'అక్బర్ బీర్బల్', emoji: '👑', color: '#F09595' }
+    };
+
+    function getFavorites() {
+      return JSON.parse(localStorage.getItem('telugu_kathalu_favorites') || '[]');
+    }
+
+    async function loadFavorites() {
+      const favIds = getFavorites();
+      const countEl = document.getElementById('fav-count');
+      const grid    = document.getElementById('fav-grid');
+      const clearBtn = document.getElementById('clear-btn');
+
+      if (favIds.length === 0) {
+        countEl.textContent = '0 కథలు';
+        grid.innerHTML = '<p class="no-stories">మీరు ఇంకా ఏ కథలూ సేవ్ చేయలేదు.<br>కథ చదివేటప్పుడు ♡ నొక్కండి.</p>';
+        return;
+      }
+
+      try {
+        const res  = await fetch('stories/index.json');
+        const data = await res.json();
+        const all  = data.stories || [];
+        const favs = favIds.map(id => all.find(s => s.id === id)).filter(Boolean);
+
+        countEl.textContent = `${favs.length} కథలు`;
+        clearBtn.style.display = 'block';
+        grid.innerHTML = '';
+
+        favs.forEach(story => {
+          const cat  = CATEGORIES[story.category] || CATEGORIES.neeti;
+          const card = document.createElement('div');
+          card.className = 'v-card';
+          card.onclick = () => window.location.href = `story.html?id=${story.id}`;
+          card.innerHTML = `
+            <div class="v-card-img">
+              <img loading="lazy" src="${story.thumbnail}" alt="${story.title}">
+              <span class="v-cat-tag" style="background:rgba(0,0,0,0.6);color:${cat.color}">${cat.emoji} ${cat.name}</span>
+            </div>
+            <div class="v-card-body">
+              <div class="v-card-title">${story.title}</div>
+              <p class="v-card-moral">💡 ${story.moral}</p>
+              <div class="v-card-date">${story.date}</div>
+            </div>`;
+          grid.appendChild(card);
+        });
+      } catch(e) {
+        grid.innerHTML = '<p class="no-stories">కథలు లోడ్ అవలేదు</p>';
+      }
+    }
+
+    function clearAll() {
+      if (confirm('అన్ని సేవ్ చేసిన కథలు తీసివేయాలా?')) {
+        localStorage.removeItem('telugu_kathalu_favorites');
+        loadFavorites();
+        document.getElementById('clear-btn').style.display = 'none';
+      }
+    }
+
+    loadFavorites();
+  </script>
+</body>
+</html>

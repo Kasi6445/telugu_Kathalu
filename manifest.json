@@ -1,0 +1,39 @@
+{
+  "name": "Telugu Katalu",
+  "short_name": "తెలుగు కథలు",
+  "description": "ప్రతి రోజు కొత్త తెలుగు కథలు — నీతి, పంచతంత్రం, తెనాలి రామ మరియు మరిన్ని",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0F",
+  "theme_color": "#FF6B35",
+  "orientation": "portrait-primary",
+  "lang": "te",
+  "categories": ["education", "entertainment", "books"],
+  "icons": [
+    {
+      "src": "static/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "static/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "నీతి కథలు",
+      "url": "/?cat=neeti",
+      "description": "నీతి కథలు చదవండి"
+    },
+    {
+      "name": "నా కథలు",
+      "url": "/favorites.html",
+      "description": "సేవ్ చేసిన కథలు"
+    }
+  ]
+}

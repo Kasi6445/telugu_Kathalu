@@ -224,6 +224,30 @@ Scenes to write:
 
 వాక్యాలు — max 12-15 words. Short sentences hit harder.
 
+====== AUDIO PERFORMANCE MARKERS (CRITICAL — the text becomes spoken audio) ======
+
+The scene text is read aloud by a voice engine. You must write text that PERFORMS well,
+not just reads well on paper. Use these markers to shape the audio:
+
+  —  (em-dash)   : dramatic mid-sentence pause. The storyteller leans in.
+                   "ఆ చప్పుడు — అడవంతా ఆగిపోయింది."
+                   Use 1-2 times per scene at peak tension moments.
+
+  ... (ellipsis) : suspense pause. Child holds breath, wonders what happens next.
+                   "తలుపు తెరుచుకుంది... లోపల ఏముందో ఎవరికీ తెలియదు."
+                   Use once per scene, only at the highest suspense beat.
+
+  Short standalone sentence (≤6 words, own line conceptually):
+                   These land like drumbeats. Use for shock, revelation, or turning point.
+                   "అతను ఒంటరిగా నిలబడ్డాడు."
+                   "ఇప్పుడు ఏం చేయాలి?"
+
+  Comma rhythm   : short phrases separated by commas create a breathing, rhythmic cadence.
+                   "మెల్లగా, జాగ్రత్తగా, ఒక్కో అడుగూ వేశాడు."
+
+  DO NOT write long sentences without any punctuation — words blur into each other.
+  Every 12-15 word sentence MUST have at least one comma or em-dash breaking it.
+
 ====== ప్రతి scene కి rules ======
 
 1. LENGTH: 5-7 sentences. This is not negotiable. Short scenes feel thin and rushed.
