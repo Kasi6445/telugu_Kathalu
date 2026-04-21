@@ -54,13 +54,8 @@
         <button class="ctrl-btn nav-btn" onclick="nextScene()">→</button>
       </div>
 
-      <!-- Progress bar -->
-      <div id="progress-bar-wrapper">
-        <div id="progress-bar"></div>
-      </div>
-
-      <!-- Dots -->
-      <div id="progress-dots"></div>
+      <!-- Segmented timeline -->
+      <div id="timeline"></div>
     </div>
   </div>
 
@@ -138,14 +133,18 @@
           img.src = `stories/${id}/images/scene${scene.id}.${imgExt}`;
         });
 
-        // Build dots
-        const dots = document.getElementById('progress-dots');
+        // Build segmented timeline
+        const tl = document.getElementById('timeline');
         story.scenes.forEach((_, i) => {
-          const dot = document.createElement('div');
-          dot.className = 'dot';
-          dot.id = `dot-${i}`;
-          dot.onclick = () => goToScene(i);
-          dots.appendChild(dot);
+          const seg  = document.createElement('div');
+          seg.className = 'tl-seg';
+          seg.title = `Scene ${i + 1}`;
+          const fill = document.createElement('div');
+          fill.className = 'tl-fill';
+          fill.id = `tl-fill-${i}`;
+          seg.appendChild(fill);
+          seg.onclick = () => goToScene(i);
+          tl.appendChild(seg);
         });
 
         setupSwipeGesture();
@@ -183,12 +182,15 @@
       document.getElementById('scene-counter').textContent =
         `${index + 1} / ${story.scenes.length}`;
 
-      document.querySelectorAll('.dot').forEach((dot, i) => {
-        dot.className = i === index ? 'dot active' : 'dot';
+      // Update segmented timeline fills
+      story.scenes.forEach((_, i) => {
+        const fill = document.getElementById(`tl-fill-${i}`);
+        if (!fill) return;
+        if (i < index)      { fill.style.width = '100%'; fill.style.transition = 'none'; }
+        else if (i === index){ fill.style.width = '0%';  fill.style.transition = 'none'; }
+        else                 { fill.style.width = '0%';  fill.style.transition = 'none'; }
       });
-
-      const pct = ((index + 1) / story.scenes.length) * 100;
-      document.getElementById('progress-bar').style.width = pct + '%';
+      trackAudioProgress(index);
 
       // Preload next scene audio while current scene shows
       preloadNextAudio(index);
@@ -201,6 +203,27 @@
       const nextScene = story.scenes[currentIdx + 1];
       const audio = document.getElementById(`audio-${nextScene.id}`);
       if (audio && audio.readyState < 2) audio.load();
+    }
+
+    let _tlHandler = null;
+    let _tlAudio   = null;
+
+    function trackAudioProgress(index) {
+      // Detach previous listener
+      if (_tlHandler && _tlAudio) {
+        _tlAudio.removeEventListener('timeupdate', _tlHandler);
+      }
+      const scene = story.scenes[index];
+      const audio = document.getElementById(`audio-${scene.id}`);
+      if (!audio) return;
+      _tlAudio = audio;
+      _tlHandler = () => {
+        if (!audio.duration) return;
+        const pct  = (audio.currentTime / audio.duration) * 100;
+        const fill = document.getElementById(`tl-fill-${index}`);
+        if (fill) { fill.style.transition = 'width 0.25s linear'; fill.style.width = pct + '%'; }
+      };
+      audio.addEventListener('timeupdate', _tlHandler);
     }
 
     function playCurrentScene() {
