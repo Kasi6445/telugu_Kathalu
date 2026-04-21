@@ -1,5 +1,5 @@
-const CACHE_NAME    = 'telugu-kathalu-v3';
-const RUNTIME_CACHE = 'telugu-kathalu-runtime-v3';
+const CACHE_NAME    = 'telugu-kathalu-v4';
+const RUNTIME_CACHE = 'telugu-kathalu-runtime-v4';
 
 // Assets that are always cached on install
 const PRECACHE_ASSETS = [
