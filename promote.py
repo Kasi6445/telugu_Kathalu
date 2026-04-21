@@ -80,8 +80,14 @@ def main():
     shutil.copytree(str(draft_dir), str(dest_dir))
     logger.info(f"Copied drafts/{ts}/ → stories/{ts}/")
 
-    # Update thumbnail path to reflect new location
-    story["thumbnail"] = f"stories/{ts}/images/scene1.jpg"
+    # Update thumbnail path — detect actual extension (jpg or png)
+    dest_image_dir = dest_dir / "images"
+    scene1 = next(
+        (f for f in sorted(dest_image_dir.glob("scene1.*")) if f.suffix in (".jpg", ".png")),
+        None,
+    )
+    thumb_ext = scene1.suffix if scene1 else ".jpg"
+    story["thumbnail"] = f"stories/{ts}/images/scene1{thumb_ext}"
     dest_story_file = dest_dir / "story.json"
     with open(dest_story_file, "w", encoding="utf-8") as f:
         json.dump(story, f, ensure_ascii=False, indent=2)

@@ -37,7 +37,8 @@ def main():
         s = json.load(f)
 
     audio_files = sorted((draft_dir / "audio").glob("scene*.mp3")) if (draft_dir / "audio").exists() else []
-    image_files = sorted((draft_dir / "images").glob("scene*.jpg")) if (draft_dir / "images").exists() else []
+    img_dir     = draft_dir / "images"
+    image_files = (sorted(img_dir.glob("scene*.jpg")) + sorted(img_dir.glob("scene*.png"))) if img_dir.exists() else []
 
     print("\n" + "=" * 60)
     print(f"  DRAFT PREVIEW — {ts}")
