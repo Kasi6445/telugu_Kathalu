@@ -57,7 +57,8 @@ def main():
 
     # ── Completeness check ────────────────────────────────────────────────────
     audio_files = sorted((draft_dir / "audio").glob("scene*.mp3")) if (draft_dir / "audio").exists() else []
-    image_files = sorted((draft_dir / "images").glob("scene*.jpg")) if (draft_dir / "images").exists() else []
+    image_dir   = draft_dir / "images"
+    image_files = sorted(image_dir.glob("scene*.jpg")) + sorted(image_dir.glob("scene*.png")) if image_dir.exists() else []
     n_scenes    = len(story.get("scenes", []))
 
     if len(audio_files) != n_scenes:
