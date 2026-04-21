@@ -1,5 +1,5 @@
-const CACHE_NAME    = 'telugu-kathalu-v4';
-const RUNTIME_CACHE = 'telugu-kathalu-runtime-v4';
+const CACHE_NAME    = 'telugu-kathalu-v5';
+const RUNTIME_CACHE = 'telugu-kathalu-runtime-v5';
 
 // Assets that are always cached on install
 const PRECACHE_ASSETS = [
@@ -89,13 +89,20 @@ async function cacheFirst(request, cacheName) {
   if (cached) return cached;
 
   try {
-    const response = await fetch(request);
+    // Navigate-mode requests throw TypeError in SW context — use plain URL fetch instead
+    const fetchReq = request.mode === 'navigate' ? request.url : request;
+    const response = await fetch(fetchReq);
     if (response.ok) {
       const cache = await caches.open(cacheName);
-      cache.put(request, response.clone());
+      cache.put(request.url, response.clone());
     }
     return response;
   } catch (_) {
+    // Offline fallback: serve root for navigate, empty for others
+    if (request.mode === 'navigate') {
+      const root = await caches.match('/');
+      if (root) return root;
+    }
     return new Response('Not found', { status: 404 });
   }
 }
