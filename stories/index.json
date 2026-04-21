@@ -1,0 +1,139 @@
+{
+  "stories": [
+    {
+      "id": "20260421_074637",
+      "title": "తెలివైన అంజలి పొడుపు కథలు",
+      "moral": "ఒక సమస్యను వేరే కోణంలో ఆలోచిస్తే, ఎప్పుడూ కనిపించని సమాధానం దొరుకుతుంది, చూశావా?",
+      "thumbnail": "stories/20260421_074637/images/scene1.jpg",
+      "date": "2026-04-21",
+      "category": "podupu",
+      "subcategory": "royal_riddles",
+      "topic": "మూడు పొడుపు కథలు మరియు బహుమతి",
+      "voice": "te-IN-Chirp3-HD-Laomedeia",
+      "schema_version": 2
+    },
+    {
+      "id": "20260420_090525",
+      "title": "తొందరపాటే నష్టం - చింటూ కథ",
+      "moral": "తొందరపడకుండా పనిని సరిగ్గా చేస్తే, మళ్ళీ చేయాల్సిన అవసరం ఉండదు, ఆ సంతోషమే వేరు.",
+      "thumbnail": "stories/20260420_090525/images/scene1.jpg",
+      "date": "2026-04-20",
+      "category": "samethalu",
+      "subcategory": "hard_lessons",
+      "topic": "తొందరపాటు నష్టం అనే సామెత కథ",
+      "voice": "te-IN-Chirp3-HD-Iapetus",
+      "schema_version": 2
+    },
+    {
+      "id": "20260417_001550",
+      "title": "దయగల ఏనుగు",
+      "moral": "ఇతరుల పట్ల దయతో ప్రవర్తించడం చాలా ముఖ్యం",
+      "thumbnail": "stories/20260417_001550/images/scene1.jpg",
+      "date": "2026-04-17",
+      "voice": "manan",
+      "category": "neeti",
+      "subcategory": "animal_morals",
+      "topic": "దయగల ఏనుగు"
+    },
+    {
+      "id": "20260416_193055",
+      "title": "గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు",
+      "moral": "గర్వం వల్ల నష్టం, వినయం వల్ల లాభం",
+      "thumbnail": "stories/20260416_193055/images/scene1.jpg",
+      "date": "2026-04-16",
+      "category": "neeti",
+      "subcategory": "wisdom_tales",
+      "topic": "గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు"
+    },
+    {
+      "id": "20260416_080122",
+      "title": "నిజాయితీ అయిన కట్టెల కాడు",
+      "moral": "నిజాయితీ ఎల్లప్పుడూ గెలుపును ఇస్తుంది",
+      "thumbnail": "stories/20260416_080122/images/scene1.jpg",
+      "date": "2026-04-16",
+      "category": "neeti",
+      "subcategory": "human_values",
+      "topic": "నిజాయితీ అయిన కట్టెల కాడు"
+    },
+    {
+      "id": "20260412_181108",
+      "title": "తెలివైన వ్యాపారి",
+      "moral": "తెలివితేటలు ఉన్నవాడు ఎప్పుడూ విజయం సాధిస్తాడు",
+      "thumbnail": "stories/20260412_181108/images/scene1.jpg",
+      "date": "2026-04-12",
+      "category": "neeti",
+      "subcategory": "wisdom_tales",
+      "topic": "తెలివైన వ్యాపారి"
+    },
+    {
+      "id": "20260412_173904",
+      "title": "మూర్ఖుడైన గాడిద",
+      "moral": "మూర్ఖత్వం వల్ల నష్టమే కలుగుతుంది",
+      "thumbnail": "stories/20260412_173904/images/scene1.jpg",
+      "date": "2026-04-12",
+      "category": "neeti",
+      "subcategory": "animal_morals",
+      "topic": "మూర్ఖుడైన గాడిద"
+    },
+    {
+      "id": "20260412_143220",
+      "title": "నమ్మకద్రోహి మిత్రుడు",
+      "moral": "నమ్మకద్రోహం చేస్తే ఎవరూ నమ్మరు",
+      "thumbnail": "stories/20260412_143220/images/scene1.jpg",
+      "date": "2026-04-12",
+      "category": "neeti",
+      "subcategory": "human_values",
+      "topic": "నమ్మకద్రోహి మిత్రుడు"
+    },
+    {
+      "id": "20260412_135946",
+      "title": "అందమైన నెమలి గర్వం",
+      "moral": "గర్వం అనేది మనల్ని నాశనం చేస్తుంది",
+      "thumbnail": "stories/20260412_135946/images/scene1.jpg",
+      "date": "2026-04-12",
+      "category": "neeti",
+      "subcategory": "animal_morals",
+      "topic": "అందమైన నెమలి గర్వం"
+    },
+    {
+      "id": "20260412_131731",
+      "title": "ఐక్యతలో బలం",
+      "moral": "ఐక్యతలో బలం ఉంటుంది",
+      "thumbnail": "stories/20260412_131731/images/scene1.jpg",
+      "date": "2026-04-12",
+      "category": "neeti",
+      "subcategory": "human_values",
+      "topic": "ఐక్యతలో బలం"
+    },
+    {
+      "id": "20260412_130708",
+      "title": "ఓర్పు గల రైతు",
+      "moral": "ఓర్పు వహించడం వల్ల మంచి ఫలితాలు వస్తాయి",
+      "thumbnail": "stories/20260412_130708/images/scene1.jpg",
+      "date": "2026-04-12",
+      "category": "neeti",
+      "subcategory": "human_values",
+      "topic": "ఓర్పు గల రైతు"
+    },
+    {
+      "id": "20260411_174344",
+      "title": "అత్యాశ యొక్క పరిణామాలు",
+      "moral": "అత్యాశ మనల్ని నాశనం చేస్తుంది",
+      "thumbnail": "stories/20260411_174344/images/scene1.jpg",
+      "date": "2026-04-11",
+      "category": "neeti",
+      "subcategory": "wisdom_tales",
+      "topic": "అత్యాశ యొక్క పరిణామాలు"
+    },
+    {
+      "id": "20260411_171746",
+      "title": "స్నేహం యొక్క విలువ",
+      "moral": "స్నేహం అనేది జీవితంలో అత్యంత విలువైన ఆస్తి",
+      "thumbnail": "stories/20260411_171746/images/scene1.jpg",
+      "date": "2026-04-11",
+      "category": "neeti",
+      "subcategory": "human_values",
+      "topic": "స్నేహం యొక్క విలువ"
+    }
+  ]
+}

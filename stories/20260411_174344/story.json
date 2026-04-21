@@ -1,0 +1,50 @@
+{
+  "title": "అత్యాశ యొక్క పరిణామాలు",
+  "moral": "అత్యాశ మనల్ని నాశనం చేస్తుంది",
+  "main_character": "a 12-year-old boy, wearing a white shirt and blue shorts, with messy black hair and a medium brown skin tone",
+  "setting": "a small village surrounded by green fields, on a sunny afternoon with bright warm lighting",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక చిన్న గ్రామంలో ఒక పేద బాలుడు ఉండేవాడు. అతనికి ఎప్పుడూ ఎక్కువైన ఆశలు ఉండేవి. అతను ఎప్పుడూ ధనవంతుడవ్వాలని కోరుకునేవాడు.",
+      "image_prompt": "The boy is kneeling down, eyes closed, and hands clasped together in prayer, with a determined expression on his face, surrounded by piles of books and papers, in a dimly lit room with a single ray of sunlight peeking through the window"
+    },
+    {
+      "id": 2,
+      "text": "ఒక రోజు, అతను ఒక పెద్ద భవనాన్ని చూసి, అది తనదిగా ఉండాలని కోరుకున్నాడు. అతను ఎప్పుడూ ఆ భవనాన్ని చూస్తూ, అది తనదిగా ఉండాలని ఆశించేవాడు.",
+      "image_prompt": "The boy is standing in front of a large mansion, looking up at it with a mixture of awe and longing, his eyes wide with desire, and his fists clenched at his sides, with a bright blue sky and fluffy white clouds in the background"
+    },
+    {
+      "id": 3,
+      "text": "కొన్ని రోజుల తర్వాత, అతను ఆ భవనాన్ని కొనుగోలు చేయడానికి సరిపడా డబ్బు సంపాదించాడు. కానీ, అతను అప్పుడు మరింత ధనవంతుడవ్వాలని కోరుకున్నాడు.",
+      "image_prompt": "The boy is sitting at a large desk, surrounded by stacks of money and papers, with a calculating expression on his face, and a pen in his hand, in a dimly lit room with a single lamp shining down on him"
+    },
+    {
+      "id": 4,
+      "text": "అతను ఎప్పుడూ మరింత డబ్బు సంపాదించడానికి ప్రయత్నించేవాడు. కానీ, అతని అత్యాశ అతనిని నాశనం చేసింది.",
+      "image_prompt": "The boy is standing in a desolate, ruined landscape, with a look of despair on his face, and his clothes torn and tattered, with a dark and stormy sky in the background"
+    },
+    {
+      "id": 5,
+      "text": "అతను తన అత్యాశ వల్ల అన్నింటినీ కోల్పోయాడు. అతను చివరికి తన తప్పును గ్రహించాడు.",
+      "image_prompt": "The boy is kneeling down, with his head in his hands, and a look of regret on his face, in a quiet and peaceful environment, with a warm sunlight shining down on him"
+    },
+    {
+      "id": 6,
+      "text": "అతను తన అత్యాశను వదిలించుకోవడానికి ప్రయత్నించాడు. అతను తన జీవితాన్ని మళ్లీ పరిచయం చేసుకోవడానికి ప్రయత్నించాడు.",
+      "image_prompt": "The boy is standing in a beautiful garden, with a look of hope on his face, and a small plant in his hand, with a bright blue sky and fluffy white clouds in the background"
+    },
+    {
+      "id": 7,
+      "text": "అతను చివరికి తన అత్యాశను అధిగమించాడు. అతను తన జీవితాన్ని మళ్లీ కట్టుకోవడానికి విజయం సాధించాడు.",
+      "image_prompt": "The boy is standing in a bright and sunny environment, with a look of happiness on his face, and his arms outstretched, with a beautiful landscape in the background"
+    }
+  ],
+  "id": "20260411_174344",
+  "date": "2026-04-11",
+  "thumbnail": "stories/20260411_174344/images/scene1.jpg",
+  "schema_version": 2,
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "అత్యాశ యొక్క పరిణామాలు"
+}

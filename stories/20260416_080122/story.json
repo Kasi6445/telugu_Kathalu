@@ -1,0 +1,40 @@
+{
+  "title": "నిజాయితీ అయిన కట్టెల కాడు",
+  "moral": "నిజాయితీ ఎల్లప్పుడూ గెలుపును ఇస్తుంది",
+  "main_character": "Rajesh, a 10-year-old boy with short black hair, brown eyes, and a bright smile, wearing a white shirt and blue shorts",
+  "setting": "A small village surrounded by green forests, on a sunny afternoon with warm lighting",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక చిన్న గ్రామంలో రాజేష్ అనే పిల్లవాడు ఉండేవాడు. అతను ఎల్లప్పుడూ నిజాయితీగా ఉండేవాడు. అతని నిజాయితీ అందరికీ స్ఫూర్తినిచ్చేది.",
+      "image_prompt": "Rajesh is walking towards the village, looking determined with a confident stride, his eyes shining with honesty, as the warm sunlight casts a glow on his face"
+    },
+    {
+      "id": 2,
+      "text": "ఒక రోజు, రాజేష్ అడవిలో ఒక కట్టెను కనుగొన్నాడు. అది చాలా విలువైనది. కానీ అతను దానిని తనకు ఉంచుకోలేదు.",
+      "image_prompt": "Rajesh is bending down to pick up the stick, his face filled with a mixture of excitement and responsibility, as the forest trees cast dappled shadows on the ground"
+    },
+    {
+      "id": 3,
+      "text": "అతను దానిని గ్రామ పెద్దకు అప్పగించాడు. గ్రామ పెద్ద అతని నిజాయితీని అభినందించాడు.",
+      "image_prompt": "Rajesh is handing the stick to the village elder, who is smiling and patting Rajesh on the back, as the sun casts a warm glow on the scene"
+    },
+    {
+      "id": 4,
+      "text": "కొన్ని రోజుల తరువాత, రాజేష్ ఒక విలువైన బహుమతిని అందుకున్నాడు. అది అతని నిజాయితీకి బహుమతి.",
+      "image_prompt": "Rajesh is holding the award, beaming with pride, as the village elder and other villagers applaud and cheer in the background, with a bright sun shining down"
+    },
+    {
+      "id": 5,
+      "text": "రాజేష్ నిజాయితీ అతనికి గెలుపును తెచ్చింది. అతను అందరి మన్ననలను పొందాడు.",
+      "image_prompt": "Rajesh is standing in the center of the village, surrounded by his friends and family, who are all smiling and congratulating him, as the sun sets in the background"
+    }
+  ],
+  "id": "20260416_080122",
+  "date": "2026-04-16",
+  "thumbnail": "stories/20260416_080122/images/scene1.jpg",
+  "schema_version": 2,
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "నిజాయితీ అయిన కట్టెల కాడు"
+}

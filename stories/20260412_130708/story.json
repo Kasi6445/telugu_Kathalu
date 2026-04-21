@@ -1,0 +1,40 @@
+{
+  "title": "ఓర్పు గల రైతు",
+  "moral": "ఓర్పు వహించడం వల్ల మంచి ఫలితాలు వస్తాయి",
+  "main_character": "a 35-year-old farmer with a dark brown complexion, wearing a white dhoti and a light blue shirt, having short black hair and a small beard",
+  "setting": "a rural village in the morning with sunlight peeking through the trees",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక రైతు తన పొలంలో పనిచేస్తున్నాడు. అతను చాలా కష్టపడుతున్నాడు. కానీ అతనికి ఫలితాలు రావడం లేదు.",
+      "image_prompt": "The farmer is kneeling in the soil, digging with a shovel, sweat dripping from his face, with a look of determination and frustration"
+    },
+    {
+      "id": 2,
+      "text": "రైతు తన పొలంలో పంటలు నాటాడు. కానీ వర్షాలు రావడం లేదు. అతను చాలా బాధపడుతున్నాడు.",
+      "image_prompt": "The farmer is standing in the middle of his field, looking up at the cloudy sky, with a worried expression, holding a worn-out hat in his hand"
+    },
+    {
+      "id": 3,
+      "text": "రైతు తన పొలంలో నీటి సౌకర్యాలు ఏర్పాటు చేశాడు. అతను చాలా ఓర్పుతో ఉన్నాడు.",
+      "image_prompt": "The farmer is working on a irrigation system, connecting pipes and fixing leaks, with a focused expression, under the shade of a tree"
+    },
+    {
+      "id": 4,
+      "text": "కొన్ని రోజుల తర్వాత, వర్షాలు వచ్చాయి. రైతు పొలంలో పంటలు పండాయి.",
+      "image_prompt": "The farmer is standing in his field, smiling and looking at the lush green crops, with raindrops on his face, and a sunny sky in the background"
+    },
+    {
+      "id": 5,
+      "text": "రైతు తన పంటలను అమ్మాడు. అతనికి మంచి ధర వచ్చింది.",
+      "image_prompt": "The farmer is sitting at a market stall, surrounded by fresh produce, with a happy expression, counting money and interacting with customers"
+    }
+  ],
+  "id": "20260412_130708",
+  "date": "2026-04-12",
+  "thumbnail": "stories/20260412_130708/images/scene1.jpg",
+  "schema_version": 2,
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "ఓర్పు గల రైతు"
+}

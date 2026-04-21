@@ -1,0 +1,40 @@
+{
+  "title": "స్నేహం యొక్క విలువ",
+  "moral": "స్నేహం అనేది జీవితంలో అత్యంత విలువైన ఆస్తి",
+  "main_character": "a 10-year-old boy with a bright smile, wearing a white shirt and blue shorts, having short black hair and a medium brown skin tone",
+  "setting": "a sunny afternoon in a small village surrounded by green fields and trees, with a clear blue sky and warm lighting",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక చిన్న గ్రామంలో ఒక పిల్లవాడు ఉండేవాడు. అతనికి ఒక మంచి స్నేహితుడు ఉండేవాడు. వారిద్దరూ కలిసి ఆడుకునేవారు.",
+      "image_prompt": "The boy is laughing and playing tag with his friend in a green field, running towards the camera with a big smile on his face, with the sun shining down and a few trees in the background"
+    },
+    {
+      "id": 2,
+      "text": "ఒకరోజు, అతని స్నేహితుడు అనారోగ్యంతో బాధపడ్డాడు. అతను తన స్నేహితుని ఇంటికి వెళ్ళాడు.",
+      "image_prompt": "The boy is walking towards his friend's house, looking worried and concerned, with a small bag in his hand containing fruits and medicines, and a few villagers are watching him from a distance"
+    },
+    {
+      "id": 3,
+      "text": "అతను తన స్నేహితునికి తినడానికి కొన్ని పండ్లు తీసుకువచ్చాడు. అతను తన స్నేహితుని చేతులు పట్టుకుని అతనికి ఓదార్చాడు.",
+      "image_prompt": "The boy is sitting next to his friend's bed, holding his hand and feeding him fruits, with a gentle and caring expression on his face, and a few get-well-soon cards on the wall"
+    },
+    {
+      "id": 4,
+      "text": "అతని స్నేహితుడు క్రమంగా కోలుకున్నాడు. అతను తన స్నేహితుడికి ధన్యవాదాలు చెప్పాడు.",
+      "image_prompt": "The boy is hugging his friend, who is now standing and smiling, with a big thank-you note in his hand, and a few balloons and flowers in the background"
+    },
+    {
+      "id": 5,
+      "text": "అతను తన స్నేహితుడితో కలిసి మళ్ళీ ఆడటం ప్రారంభించాడు. వారిద్దరూ చాలా సంతోషంగా ఉన్నారు.",
+      "image_prompt": "The boy and his friend are playing cricket together in the field, laughing and shouting, with the sun setting in the background and a few trees swaying in the wind"
+    }
+  ],
+  "id": "20260411_171746",
+  "date": "2026-04-11",
+  "thumbnail": "stories/20260411_171746/images/scene1.jpg",
+  "schema_version": 2,
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "స్నేహం యొక్క విలువ"
+}

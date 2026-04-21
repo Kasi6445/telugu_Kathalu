@@ -1,0 +1,50 @@
+{
+  "title": "ఐక్యతలో బలం",
+  "moral": "ఐక్యతలో బలం ఉంటుంది",
+  "main_character": "a 10-year-old boy with dark brown skin, wearing a white shirt and blue shorts, with short black hair and a bright smile",
+  "setting": "a small village surrounded by green fields, on a sunny afternoon with warm lighting",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక చిన్న గ్రామంలో నాలుగు మంది స్నేహితులు ఉండేవారు. వారి పేర్లు రాము, రవి, రాజు, మరియు రాకేష్. వారు ఎల్లప్పుడూ కలిసి ఆడుకునేవారు.",
+      "image_prompt": "The four friends are running together in a green field, laughing and playing, with the sun shining down on them, and a few birds flying overhead"
+    },
+    {
+      "id": 2,
+      "text": "ఒక రోజు, వారి గ్రామంలో ఒక పెద్ద సమస్య వచ్చింది. ఒక పెద్ద పంది వారి పొలాల్లోకి ప్రవేశించి, పంటలను నాశనం చేయడం ప్రారంభించింది.",
+      "image_prompt": "The big pig is rampaging through the fields, destroying crops and causing chaos, while the four friends are watching in shock and horror"
+    },
+    {
+      "id": 3,
+      "text": "రాము, రవి, రాజు, మరియు రాకేష్ ఈ సమస్యను పరిష్కరించడానికి ఒక ప్లాన్ వేసారు. వారు కలిసి పందిని పట్టుకోవాలని నిర్ణయించుకున్నారు.",
+      "image_prompt": "The four friends are standing together, looking determined and brave, with a plan in their minds, and a few ropes and sticks in their hands"
+    },
+    {
+      "id": 4,
+      "text": "వారు పందిని పట్టుకోవడానికి ప్రయత్నించారు, కానీ అది చాలా బలమైనది. వారు ఒక్కొక్కరు ప్రయత్నించినప్పటికీ, వారు అదిని పట్టుకోలేకపోయారు.",
+      "image_prompt": "The four friends are trying to catch the pig, but it is too strong, and they are falling and struggling, with the pig running away from them"
+    },
+    {
+      "id": 5,
+      "text": "కానీ వారు ఇంకా ఇస్తారు లేదు. వారు కలిసి మరొక ప్లాన్ వేసారు. వారు తమ బలాలను కలిపి, పందిని పట్టుకోవడానికి ప్రయత్నించారు.",
+      "image_prompt": "The four friends are standing together, holding hands and ropes, and pulling the pig in different directions, with the pig struggling and trying to escape"
+    },
+    {
+      "id": 6,
+      "text": "ఈసారి, వారు విజయం సాధించారు. వారు పందిని పట్టుకుని, దానిని బయటకు తీసారు. వారి పొలాలు ఇప్పుడు సురక్షితంగా ఉన్నాయి.",
+      "image_prompt": "The four friends are standing together, holding the pig, and smiling, with the sun shining down on them, and the fields in the background looking safe and secure"
+    },
+    {
+      "id": 7,
+      "text": "వారి గ్రామంలోని ప్రజలు వారిని అభినందించారు. వారు ఐక్యతలో బలం ఉందని నిరూపించారు.",
+      "image_prompt": "The four friends are being congratulated by the villagers, with everyone smiling and clapping, and the four friends looking happy and proud"
+    }
+  ],
+  "id": "20260412_131731",
+  "date": "2026-04-12",
+  "thumbnail": "stories/20260412_131731/images/scene1.jpg",
+  "schema_version": 2,
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "ఐక్యతలో బలం"
+}
