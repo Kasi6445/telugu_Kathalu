@@ -1,6 +1,19 @@
 {
   "stories": [
     {
+      "id": "20260422_235842",
+      "slug": "tenaali-raamudi-telivi-guttu",
+      "title": "తెనాలి రాముడి తెలివి గుట్టు",
+      "moral": "తెలివైన మాటతో, గంభీరమైన శిక్ష కన్నా గొప్ప పాఠం నేర్పించవచ్చు కదా.",
+      "thumbnail": "stories/20260422_235842/images/scene1.jpg",
+      "date": "2026-04-22",
+      "category": "tenali",
+      "subcategory": "court_wit",
+      "topic": "తెనాలి రాముడు మరియు అహంకారి రాజు",
+      "voice": "te-IN-Chirp3-HD-Charon",
+      "schema_version": 2
+    },
+    {
       "id": "20260422_210443",
       "slug": "padi-kattulu-pattina-yodhadu",
       "title": "పది కత్తులు పట్టిన యోధుడు",
