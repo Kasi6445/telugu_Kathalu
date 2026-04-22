@@ -14,7 +14,7 @@
   <meta property="og:url" content="https://www.telugukathalu.in">
   <meta property="og:type" content="website">
   <title>తెలుగు కథలు</title>
-  <link rel="canonical" href="https://telugukathalu.in">
+  <link rel="canonical" href="https://www.telugukathalu.in">
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
   <meta name="theme-color" content="#FF6B35">
@@ -285,7 +285,7 @@
         const cat = CATEGORIES[story.category] || CATEGORIES.neeti;
         const card = document.createElement('div');
         card.className = 'h-card';
-        card.onclick = () => window.location.href = `story.html?id=${story.id}`;
+        card.onclick = () => window.location.href = `story.html?id=${story.slug || story.id}`;
         card.innerHTML = `
           <div class="h-card-img">
             <img loading="lazy" src="${story.thumbnail}" alt="${story.title}">
@@ -310,7 +310,7 @@
         const cat = CATEGORIES[story.category] || CATEGORIES.neeti;
         const card = document.createElement('div');
         card.className = 'v-card';
-        card.onclick = () => window.location.href = `story.html?id=${story.id}`;
+        card.onclick = () => window.location.href = `story.html?id=${story.slug || story.id}`;
         card.innerHTML = `
           <div class="v-card-img">
             <img loading="lazy" src="${story.thumbnail}" alt="${story.title}">

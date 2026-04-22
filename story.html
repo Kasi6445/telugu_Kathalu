@@ -75,6 +75,7 @@
 
   <script>
     let story        = null;
+    let storyFolderId = null;
     let currentIndex = 0;
     let isPlaying    = false;
     let touchStartX  = 0;
@@ -92,15 +93,29 @@
       bhagavatam:   'భాగవతం'
     };
 
-    function getStoryId() {
+    function getUrlParam() {
       return new URLSearchParams(window.location.search).get('id');
     }
 
+    async function resolveFolderId(urlParam) {
+      // Timestamp format — use directly (backward compat)
+      if (/^\d{8}_\d{6}$/.test(urlParam)) return urlParam;
+      // Slug — look up in index
+      const res  = await fetch('stories/index.json');
+      const data = await res.json();
+      const match = (data.stories || []).find(s => s.slug === urlParam);
+      return match ? match.id : null;
+    }
+
     async function loadStory() {
-      const id = getStoryId();
-      if (!id) { window.location.href = 'index.html'; return; }
+      const urlParam = getUrlParam();
+      if (!urlParam) { window.location.href = '/'; return; }
 
       try {
+        storyFolderId = await resolveFolderId(urlParam);
+        if (!storyFolderId) { window.location.href = '/'; return; }
+
+        const id = storyFolderId;
         const res = await fetch(`stories/${id}/story.json`);
         story = await res.json();
 
@@ -111,14 +126,14 @@
         document.getElementById('final-title').textContent = story.title;
         document.getElementById('final-moral').textContent = story.moral;
 
-        injectJSONLD(story, id);
+        injectJSONLD(story, storyFolderId);
         loadFavoriteState();
 
         // Build audio elements
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id    = `audio-${scene.id}`;
-          audio.src   = `stories/${id}/audio/scene${scene.id}.mp3`;
+          audio.src   = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.onended = () => {
             isPlaying = false;
             updatePlayBtn();
@@ -130,7 +145,7 @@
         // Preload images
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${id}/images/scene${scene.id}.${imgExt}`;
+          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
         });
 
         // Build segmented timeline
@@ -161,12 +176,11 @@
       stopAllAudio();
       currentIndex = index;
       const scene = story.scenes[index];
-      const id    = getStoryId();
 
       const bg = document.getElementById('bg-image');
       bg.style.opacity = '0';
       setTimeout(() => {
-        bg.style.backgroundImage = `url('stories/${id}/images/scene${scene.id}.${imgExt}')`;
+        bg.style.backgroundImage = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.opacity = '1';
       }, 250);
 
@@ -292,16 +306,15 @@
     function loadFavoriteState() {
       const btn = document.getElementById('fav-btn');
       if (!btn) return;
-      const isFav = getFavorites().includes(getStoryId());
+      const isFav = getFavorites().includes(storyFolderId);
       btn.textContent = isFav ? '♥' : '♡';
       btn.classList.toggle('active', isFav);
     }
 
     function toggleFavorite() {
-      const id   = getStoryId();
       const favs = getFavorites();
-      const idx  = favs.indexOf(id);
-      if (idx === -1) favs.push(id);
+      const idx  = favs.indexOf(storyFolderId);
+      if (idx === -1) favs.push(storyFolderId);
       else favs.splice(idx, 1);
       localStorage.setItem('telugu_kathalu_favorites', JSON.stringify(favs));
       loadFavoriteState();
@@ -329,9 +342,9 @@
         const all  = data.stories || [];
         const id   = getStoryId();
 
-        let pool = all.filter(s => s.id !== id && s.subcategory === story.subcategory);
+        let pool = all.filter(s => s.id !== storyFolderId && s.subcategory === story.subcategory);
         if (pool.length < 3)
-          pool = all.filter(s => s.id !== id && s.category === story.category);
+          pool = all.filter(s => s.id !== storyFolderId && s.category === story.category);
         if (pool.length === 0) return;
 
         // Pick up to 3 random
@@ -341,7 +354,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.id}`;
+          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
