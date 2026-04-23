@@ -1,6 +1,19 @@
 {
   "stories": [
     {
+      "id": "20260423_094232",
+      "slug": "tenaali-raamudi-vimta-battalu",
+      "title": "తెనాలి రాముడి వింత బట్టలు",
+      "moral": "నిజం చెప్పడం మొదట కష్టంగా అనిపించినా, ఒక్క ధైర్యమైన మాట అందరికీ స్పష్టతనిస్తుంది.",
+      "thumbnail": "stories/20260423_094232/images/scene1.jpg",
+      "date": "2026-04-23",
+      "category": "tenali",
+      "subcategory": "clever_schemes",
+      "topic": "తెనాలి రాముడు మరియు రాజు బట్టలు",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2
+    },
+    {
       "id": "20260422_235842",
       "slug": "tenaali-raamudi-telivi-guttu",
       "title": "తెనాలి రాముడి తెలివి గుట్టు",
