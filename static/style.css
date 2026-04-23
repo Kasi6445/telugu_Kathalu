@@ -599,32 +599,6 @@ body.slideshow-mode {
   margin-bottom: 14px;
 }
 
-.ctrl-btn {
-  background: rgba(255,255,255,0.12);
-  color: white;
-  border: 1px solid rgba(255,255,255,0.25);
-  padding: 11px 20px;
-  border-radius: 25px;
-  font-size: 1rem;
-  cursor: pointer;
-  font-family: 'Noto Sans Telugu', sans-serif;
-  backdrop-filter: blur(8px);
-  transition: background 0.2s, transform 0.1s;
-  -webkit-tap-highlight-color: transparent;
-}
-
-.ctrl-btn:active { transform: scale(0.95); }
-
-.nav-btn { padding: 11px 22px; font-size: 1.1rem; }
-
-#play-pause-btn {
-  background: linear-gradient(135deg, #FF6B35, #F7931E);
-  border: none;
-  padding: 12px 28px;
-  font-size: 1rem;
-  font-weight: 600;
-  min-width: 130px;
-}
 
 /* ── Segmented timeline (YouTube-style chapter bar) ── */
 #timeline {
@@ -873,15 +847,168 @@ body.slideshow-mode {
 
 /* ── FAVORITE BUTTON (story.html) ── */
 #fav-btn {
-  background: rgba(0,0,0,0.35);
+  background: rgba(255,255,255,0.08);
   border: 1px solid rgba(255,255,255,0.15);
-  color: white;
-  padding: 5px 12px;
-  border-radius: 20px;
-  font-size: 1.15rem;
+  color: rgba(255,255,255,0.7);
+  padding: 7px 13px;
+  border-radius: 100px;
+  font-size: 1.1rem;
   cursor: pointer;
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
   line-height: 1;
   transition: all 0.2s;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.25);
 }
-#fav-btn.active { color: #FF6B35; border-color: rgba(255,107,53,0.5); }
+#fav-btn.active {
+  color: #FF6B35;
+  border-color: rgba(255,107,53,0.5);
+  box-shadow: 0 0 14px rgba(255,107,53,0.4), 0 2px 10px rgba(0,0,0,0.25);
+}
+
+/* ── MUTE BUTTON ── */
+#mute-btn { padding: 0 !important; width: 46px; height: 46px; font-size: 1.05rem; display: inline-flex; align-items: center; justify-content: center; }
+#mute-btn.muted {
+  background: rgba(255,107,53,0.2);
+  border-color: rgba(255,107,53,0.45);
+  color: #FF6B35;
+  box-shadow: 0 0 14px rgba(255,107,53,0.35), 0 2px 10px rgba(0,0,0,0.25);
+}
+
+/* ── SPEED ROW — glass pill + orange glow ── */
+#speed-row {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 100px;
+  padding: 4px 6px 4px 14px;
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  margin: 8px 0 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.07);
+  width: fit-content;
+}
+.speed-label {
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: rgba(255,160,80,0.85);
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-weight: 800;
+  margin-right: 8px;
+}
+.speed-btn {
+  background: transparent;
+  border: none;
+  color: rgba(255,255,255,0.28);
+  padding: 7px 13px;
+  border-radius: 100px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.22s ease, color 0.22s ease, box-shadow 0.22s ease, transform 0.12s;
+  -webkit-tap-highlight-color: transparent;
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-family: inherit;
+  letter-spacing: 0.01em;
+}
+.speed-btn:active { transform: scale(0.9); }
+.speed-btn.active {
+  background: linear-gradient(135deg, #FF6B35 0%, #FFB347 100%);
+  color: white;
+  font-weight: 700;
+  box-shadow: 0 0 20px rgba(255,107,53,0.65), 0 2px 8px rgba(0,0,0,0.4);
+}
+
+/* ── LANGUAGE TOGGLE — glass pill with glow ── */
+.lang-switch {
+  display: flex;
+  align-items: center;
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.13);
+  border-radius: 100px;
+  padding: 3px;
+  gap: 2px;
+  flex-shrink: 0;
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.28), inset 0 1px 0 rgba(255,255,255,0.09);
+}
+.lang-btn {
+  padding: 6px 14px;
+  border-radius: 100px;
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: rgba(255,255,255,0.32);
+  transition: background 0.22s ease, color 0.22s ease, box-shadow 0.22s ease;
+  white-space: nowrap;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  font-family: 'Noto Sans Telugu', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  line-height: 1;
+  letter-spacing: 0.01em;
+}
+.lang-btn:focus-visible {
+  box-shadow: 0 0 0 2px rgba(255,107,53,0.85);
+  border-radius: 100px;
+}
+.lang-btn.active {
+  background: linear-gradient(135deg, #FF6B35 0%, #FFB347 100%);
+  color: white;
+  box-shadow: 0 0 18px rgba(255,107,53,0.58), 0 2px 8px rgba(0,0,0,0.3);
+}
+
+/* story.html top-bar right group */
+.top-bar-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* ── BOTTOM BAR — elevated nav + play buttons ── */
+.ctrl-btn {
+  background: rgba(255,255,255,0.1);
+  color: white;
+  border: 1px solid rgba(255,255,255,0.18);
+  padding: 11px 20px;
+  border-radius: 100px;
+  font-size: 1rem;
+  cursor: pointer;
+  font-family: 'Noto Sans Telugu', sans-serif;
+  backdrop-filter: blur(14px) saturate(180%);
+  -webkit-backdrop-filter: blur(14px) saturate(180%);
+  transition: background 0.2s, transform 0.12s, box-shadow 0.2s;
+  -webkit-tap-highlight-color: transparent;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.12);
+}
+.ctrl-btn:hover { background: rgba(255,255,255,0.16); }
+.ctrl-btn:active { transform: scale(0.93); }
+
+.nav-btn {
+  width: 46px !important;
+  height: 46px !important;
+  padding: 0 !important;
+  border-radius: 50% !important;
+  font-size: 1.05rem !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+#play-pause-btn {
+  background: linear-gradient(135deg, #FF6B35, #FFB347);
+  border: none;
+  padding: 13px 30px;
+  font-size: 1rem;
+  font-weight: 700;
+  min-width: 140px;
+  box-shadow: 0 0 28px rgba(255,107,53,0.55), 0 4px 14px rgba(0,0,0,0.35);
+}
+#play-pause-btn:active { transform: scale(0.95); }
