@@ -1,7 +1,60 @@
 {
   "stories": [
     {
+      "id": "20260422_235842",
+      "slug": "tenaali-raamudi-telivi-guttu",
+      "title": "తెనాలి రాముడి తెలివి గుట్టు",
+      "moral": "తెలివైన మాటతో, గంభీరమైన శిక్ష కన్నా గొప్ప పాఠం నేర్పించవచ్చు కదా.",
+      "thumbnail": "stories/20260422_235842/images/scene1.jpg",
+      "date": "2026-04-22",
+      "category": "tenali",
+      "subcategory": "court_wit",
+      "topic": "తెనాలి రాముడు మరియు అహంకారి రాజు",
+      "voice": "te-IN-Chirp3-HD-Charon",
+      "schema_version": 2
+    },
+    {
+      "id": "20260422_210443",
+      "slug": "padi-kattulu-pattina-yodhadu",
+      "title": "పది కత్తులు పట్టిన యోధుడు",
+      "moral": "నిజమైన బలం అంటే — కండలు తిరిగిన శరీరంలో ఉండదు. మనలోని ప్రత్యేక నైపుణ్యాన్ని, ఇతరులకు సహాయం చేయడంలోనే అది దాగి ఉంటుంది.",
+      "thumbnail": "stories/20260422_210443/images/scene1.jpg",
+      "date": "2026-04-22",
+      "category": "janapada",
+      "subcategory": "hero_tales",
+      "topic": "తెలుగు జానపద కథ - పది కత్తులు పట్టిన యోధుడు",
+      "voice": "te-IN-Chirp3-HD-Fenrir",
+      "schema_version": 2
+    },
+    {
+      "id": "20260421_154235",
+      "slug": "chinnari-dhruvudu-pedda-korika",
+      "title": "చిన్నారి ధ్రువుడు, పెద్ద కోరిక",
+      "moral": "నువ్వు ఏదైనా మనసుపూర్తిగా కోరుకుని, పట్టువదలకపోతే, ఈ విశ్వం మొత్తం నీకు సహాయం చేస్తుంది — ఊహించని విధంగా.",
+      "thumbnail": "stories/20260421_154235/images/scene1.jpg",
+      "date": "2026-04-21",
+      "category": "bhagavatam",
+      "subcategory": "bhakta_stories",
+      "topic": "ధ్రువుడు మరియు విష్ణు అనుగ్రహం",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2
+    },
+    {
+      "id": "20260421_085232",
+      "slug": "maatalu-perigite-aapad",
+      "title": "మాటలు పెరిగితే — ఆపద",
+      "moral": "మిత్రుల మంచి మాట వినడం ఎప్పుడూ క్షేమం, కానీ మన గర్వం మన నోరు తెరిపిస్తే ప్రమాదంలో పడతాం.",
+      "thumbnail": "stories/20260421_085232/images/scene1.jpg",
+      "date": "2026-04-21",
+      "category": "panchatantra",
+      "subcategory": "animal_wisdom",
+      "topic": "పంచతంత్రం - తాబేలు మరియు హంసలు",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2
+    },
+    {
       "id": "20260421_074637",
+      "slug": "telivaina-anjali-podupu-kathalu",
       "title": "తెలివైన అంజలి పొడుపు కథలు",
       "moral": "ఒక సమస్యను వేరే కోణంలో ఆలోచిస్తే, ఎప్పుడూ కనిపించని సమాధానం దొరుకుతుంది, చూశావా?",
       "thumbnail": "stories/20260421_074637/images/scene1.jpg",
@@ -14,6 +67,7 @@
     },
     {
       "id": "20260420_090525",
+      "slug": "tondarpate-nashtam-chintu-katha",
       "title": "తొందరపాటే నష్టం - చింటూ కథ",
       "moral": "తొందరపడకుండా పనిని సరిగ్గా చేస్తే, మళ్ళీ చేయాల్సిన అవసరం ఉండదు, ఆ సంతోషమే వేరు.",
       "thumbnail": "stories/20260420_090525/images/scene1.jpg",
@@ -26,6 +80,7 @@
     },
     {
       "id": "20260417_001550",
+      "slug": "dayagala-enugu",
       "title": "దయగల ఏనుగు",
       "moral": "ఇతరుల పట్ల దయతో ప్రవర్తించడం చాలా ముఖ్యం",
       "thumbnail": "stories/20260417_001550/images/scene1.jpg",
@@ -37,6 +92,7 @@
     },
     {
       "id": "20260416_193055",
+      "slug": "garvapadin-gulabi-vinayamaina-chettu",
       "title": "గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు",
       "moral": "గర్వం వల్ల నష్టం, వినయం వల్ల లాభం",
       "thumbnail": "stories/20260416_193055/images/scene1.jpg",
@@ -47,6 +103,7 @@
     },
     {
       "id": "20260416_080122",
+      "slug": "nijayiti-ayina-kattela-kadu",
       "title": "నిజాయితీ అయిన కట్టెల కాడు",
       "moral": "నిజాయితీ ఎల్లప్పుడూ గెలుపును ఇస్తుంది",
       "thumbnail": "stories/20260416_080122/images/scene1.jpg",
@@ -57,6 +114,7 @@
     },
     {
       "id": "20260412_181108",
+      "slug": "telivaina-vyapari",
       "title": "తెలివైన వ్యాపారి",
       "moral": "తెలివితేటలు ఉన్నవాడు ఎప్పుడూ విజయం సాధిస్తాడు",
       "thumbnail": "stories/20260412_181108/images/scene1.jpg",
@@ -67,6 +125,7 @@
     },
     {
       "id": "20260412_173904",
+      "slug": "murkhudaina-gadida",
       "title": "మూర్ఖుడైన గాడిద",
       "moral": "మూర్ఖత్వం వల్ల నష్టమే కలుగుతుంది",
       "thumbnail": "stories/20260412_173904/images/scene1.jpg",
@@ -77,6 +136,7 @@
     },
     {
       "id": "20260412_143220",
+      "slug": "nammakadrohi-mitrudu",
       "title": "నమ్మకద్రోహి మిత్రుడు",
       "moral": "నమ్మకద్రోహం చేస్తే ఎవరూ నమ్మరు",
       "thumbnail": "stories/20260412_143220/images/scene1.jpg",
@@ -87,6 +147,7 @@
     },
     {
       "id": "20260412_135946",
+      "slug": "andamaina-nemali-garvam",
       "title": "అందమైన నెమలి గర్వం",
       "moral": "గర్వం అనేది మనల్ని నాశనం చేస్తుంది",
       "thumbnail": "stories/20260412_135946/images/scene1.jpg",
@@ -97,6 +158,7 @@
     },
     {
       "id": "20260412_131731",
+      "slug": "aikyatalo-balam",
       "title": "ఐక్యతలో బలం",
       "moral": "ఐక్యతలో బలం ఉంటుంది",
       "thumbnail": "stories/20260412_131731/images/scene1.jpg",
@@ -107,6 +169,7 @@
     },
     {
       "id": "20260412_130708",
+      "slug": "orpu-gala-raitu",
       "title": "ఓర్పు గల రైతు",
       "moral": "ఓర్పు వహించడం వల్ల మంచి ఫలితాలు వస్తాయి",
       "thumbnail": "stories/20260412_130708/images/scene1.jpg",
@@ -117,6 +180,7 @@
     },
     {
       "id": "20260411_174344",
+      "slug": "atyasha-yokka-parinaamaalu",
       "title": "అత్యాశ యొక్క పరిణామాలు",
       "moral": "అత్యాశ మనల్ని నాశనం చేస్తుంది",
       "thumbnail": "stories/20260411_174344/images/scene1.jpg",
@@ -127,6 +191,7 @@
     },
     {
       "id": "20260411_171746",
+      "slug": "sneham-yokka-viluva",
       "title": "స్నేహం యొక్క విలువ",
       "moral": "స్నేహం అనేది జీవితంలో అత్యంత విలువైన ఆస్తి",
       "thumbnail": "stories/20260411_171746/images/scene1.jpg",

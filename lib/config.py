@@ -15,7 +15,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GCP_PROJECT_ID = os.getenv("GCP_PROJECT_ID")
 GCP_LOCATION   = os.getenv("GCP_LOCATION", "us-central1")
 
-BASE_URL = "https://telugu-kathalu.pages.dev"
+BASE_URL = "https://www.telugukathalu.in"
 
 STYLE_LOCK = (
     "Hand-painted children's storybook illustration, classic Indian Chandamama and Amar Chitra Katha style, "

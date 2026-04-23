@@ -11,22 +11,22 @@
   <meta name="author" content="Telugu Katalu">
   <meta property="og:title" content="తెలుగు కథలు">
   <meta property="og:description" content="ప్రతి రోజు కొత్త తెలుగు కథలు">
-  <meta property="og:url" content="https://telugu-kathalu.pages.dev">
+  <meta property="og:url" content="https://www.telugukathalu.in">
   <meta property="og:type" content="website">
   <title>తెలుగు కథలు</title>
-  <link rel="canonical" href="https://telugukathalu.in">
+  <link rel="canonical" href="https://www.telugukathalu.in">
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
   <meta name="theme-color" content="#FF6B35">
-  <link rel="stylesheet" href="static/style.css">
+  <link rel="stylesheet" href="static/style.css?v=2">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9CPL3SZHQ"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4EYTPBHZJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'G-P9CPL3SZHQ');
     gtag('config', 'G-4EYTPBHZJ6');
+    gtag('config', 'G-46W8L3P4C6');
   </script>
 </head>
 
@@ -55,7 +55,11 @@
           <span class="brand-name">తెలుగు కథలు</span>
         </div>
         <div class="header-icons">
-          <a href="favorites.html" class="header-fav-link" title="నా కథలు">♡</a>
+          <a href="/favorites.html" class="header-fav-link" title="నా కథలు">♡</a>
+          <div class="lang-switch" id="lang-switch" role="group" aria-label="Language selector">
+            <button class="lang-btn lang-te active" onclick="setLang('te')" aria-pressed="true">తెలుగు</button>
+            <button class="lang-btn lang-en" onclick="setLang('en')" aria-pressed="false">English</button>
+          </div>
           <div class="header-search" onclick="toggleSearch()">🔍</div>
         </div>
       </div>
@@ -70,7 +74,7 @@
         <div class="nav-pill" onclick="filterCategory('ramayana', this)">రామాయణం</div>
         <div class="nav-pill" onclick="filterCategory('samethalu', this)">సామెతలు</div>
         <div class="nav-pill" onclick="filterCategory('janapada', this)">జానపదం</div>
-        <div class="nav-pill" onclick="filterCategory('birbal', this)">అక్బర్ బీర్బల్</div>
+        <div class="nav-pill" onclick="filterCategory('bhagavatam', this)">భాగవతం</div>
       </nav>
 
       <!-- SEARCH BAR -->
@@ -113,50 +117,50 @@
           <div class="cat-card" style="background:rgba(255,107,53,0.1);border-color:rgba(255,107,53,0.2)"
             onclick="filterCategory('neeti', null)">
             <div class="cat-emoji">📚</div>
-            <div class="cat-name" style="color:#FF6B35">నీతి కథలు</div>
+            <div class="cat-name" data-cat-name="neeti" style="color:#FF6B35">నీతి కథలు</div>
             <div class="cat-count" id="count-neeti">0 కథలు</div>
           </div>
           <div class="cat-card" style="background:rgba(99,153,34,0.1);border-color:rgba(99,153,34,0.2)"
             onclick="filterCategory('podupu', null)">
             <div class="cat-emoji">🧩</div>
-            <div class="cat-name" style="color:#97C459">పొడుపు కథలు</div>
+            <div class="cat-name" data-cat-name="podupu" style="color:#97C459">పొడుపు కథలు</div>
             <div class="cat-count" id="count-podupu">0 కథలు</div>
           </div>
           <div class="cat-card" style="background:rgba(127,119,221,0.1);border-color:rgba(127,119,221,0.2)"
             onclick="filterCategory('tenali', null)">
             <div class="cat-emoji">🎭</div>
-            <div class="cat-name" style="color:#AFA9EC">తెనాలి రామ</div>
+            <div class="cat-name" data-cat-name="tenali" style="color:#AFA9EC">తెనాలి రామ</div>
             <div class="cat-count" id="count-tenali">0 కథలు</div>
           </div>
           <div class="cat-card" style="background:rgba(29,158,117,0.1);border-color:rgba(29,158,117,0.2)"
             onclick="filterCategory('panchatantra', null)">
             <div class="cat-emoji">🐒</div>
-            <div class="cat-name" style="color:#5DCAA5">పంచతంత్రం</div>
+            <div class="cat-name" data-cat-name="panchatantra" style="color:#5DCAA5">పంచతంత్రం</div>
             <div class="cat-count" id="count-panchatantra">0 కథలు</div>
           </div>
           <div class="cat-card" style="background:rgba(212,83,126,0.1);border-color:rgba(212,83,126,0.2)"
             onclick="filterCategory('ramayana', null)">
             <div class="cat-emoji">🏹</div>
-            <div class="cat-name" style="color:#ED93B1">రామాయణం</div>
+            <div class="cat-name" data-cat-name="ramayana" style="color:#ED93B1">రామాయణం</div>
             <div class="cat-count" id="count-ramayana">0 కథలు</div>
           </div>
           <div class="cat-card" style="background:rgba(186,117,23,0.1);border-color:rgba(186,117,23,0.2)"
             onclick="filterCategory('samethalu', null)">
             <div class="cat-emoji">💬</div>
-            <div class="cat-name" style="color:#EF9F27">సామెతలు</div>
+            <div class="cat-name" data-cat-name="samethalu" style="color:#EF9F27">సామెతలు</div>
             <div class="cat-count" id="count-samethalu">0 కథలు</div>
           </div>
           <div class="cat-card" style="background:rgba(55,138,221,0.1);border-color:rgba(55,138,221,0.2)"
             onclick="filterCategory('janapada', null)">
             <div class="cat-emoji">🪘</div>
-            <div class="cat-name" style="color:#85B7EB">జానపదం</div>
+            <div class="cat-name" data-cat-name="janapada" style="color:#85B7EB">జానపదం</div>
             <div class="cat-count" id="count-janapada">0 కథలు</div>
           </div>
-          <div class="cat-card" style="background:rgba(226,75,74,0.1);border-color:rgba(226,75,74,0.2)"
-            onclick="filterCategory('birbal', null)">
-            <div class="cat-emoji">👑</div>
-            <div class="cat-name" style="color:#F09595">అక్బర్ బీర్బల్</div>
-            <div class="cat-count" id="count-birbal">0 కథలు</div>
+          <div class="cat-card" style="background:rgba(232,168,56,0.1);border-color:rgba(232,168,56,0.2)"
+            onclick="filterCategory('bhagavatam', null)">
+            <div class="cat-emoji">🙏</div>
+            <div class="cat-name" data-cat-name="bhagavatam" style="color:#E8A838">భాగవతం</div>
+            <div class="cat-count" id="count-bhagavatam">0 కథలు</div>
           </div>
         </div>
       </section>
@@ -195,14 +199,47 @@
 
   <script>
     const CATEGORIES = {
-      neeti:        { name: 'నీతి కథలు',      emoji: '📚', color: '#FF6B35' },
-      podupu:       { name: 'పొడుపు కథలు',    emoji: '🧩', color: '#97C459' },
-      tenali:       { name: 'తెనాలి రామ',      emoji: '🎭', color: '#AFA9EC' },
-      panchatantra: { name: 'పంచతంత్రం',       emoji: '🐒', color: '#5DCAA5' },
-      ramayana:     { name: 'రామాయణం',         emoji: '🏹', color: '#ED93B1' },
-      samethalu:    { name: 'సామెతలు',          emoji: '💬', color: '#EF9F27' },
-      janapada:     { name: 'జానపదం',           emoji: '🪘', color: '#85B7EB' },
-      birbal:       { name: 'అక్బర్ బీర్బల్', emoji: '👑', color: '#F09595' }
+      neeti:        { name: 'నీతి కథలు',      en: 'Moral Stories',   emoji: '📚', color: '#FF6B35' },
+      podupu:       { name: 'పొడుపు కథలు',    en: 'Riddle Stories',  emoji: '🧩', color: '#97C459' },
+      tenali:       { name: 'తెనాలి రామ',      en: 'Tenali Rama',     emoji: '🎭', color: '#AFA9EC' },
+      panchatantra: { name: 'పంచతంత్రం',       en: 'Panchatantra',    emoji: '🐒', color: '#5DCAA5' },
+      ramayana:     { name: 'రామాయణం',         en: 'Ramayana',        emoji: '🏹', color: '#ED93B1' },
+      samethalu:    { name: 'సామెతలు',          en: 'Proverbs',        emoji: '💬', color: '#EF9F27' },
+      janapada:     { name: 'జానపదం',           en: 'Folk Tales',      emoji: '🪘', color: '#85B7EB' },
+      bhagavatam:   { name: 'భాగవతం',          en: 'Bhagavatam',      emoji: '🙏', color: '#E8A838' }
+    };
+
+    const UI_TEXT = {
+      te: {
+        brand:          'తెలుగు కథలు',
+        all:            'అన్నీ',
+        catName:        'విభాగాలు',
+        catSub:         'అన్ని కేటగిరీలు',
+        recentName:     'కొత్త కథలు',
+        recentSub:      'Recently added',
+        seeAll:         'అన్నీ చూడండి',
+        allStories:     'అన్ని కథలు',
+        stories:        'కథలు',
+        heroBadge:      'నేటి కథ',
+        heroBtn:        '▶ చదవండి',
+        search:         'కథలు వెతకండి...',
+        searchResults:  'వెతుకు ఫలితాలు',
+      },
+      en: {
+        brand:          'Telugu Stories',
+        all:            'All',
+        catName:        'Categories',
+        catSub:         'Browse all categories',
+        recentName:     'New Stories',
+        recentSub:      'Recently added',
+        seeAll:         'See All',
+        allStories:     'All Stories',
+        stories:        'stories',
+        heroBadge:      "Today's Story",
+        heroBtn:        '▶ Read',
+        search:         'Search stories...',
+        searchResults:  'Search Results',
+      }
     };
 
     let allStories     = [];
@@ -211,6 +248,7 @@
     let currentCat     = 'all';
     let currentSub     = 'all';
     let searchQuery    = '';
+    let searchLang     = 'te';
 
     // ── SPLASH ──────────────────────────────────────────────────────────────
     window.addEventListener('load', () => {
@@ -278,22 +316,27 @@
     }
 
     // ── RENDER ───────────────────────────────────────────────────────────────
+    function catLabel(cat) {
+      return searchLang === 'en' ? cat.en : cat.name;
+    }
+
     function renderRecentStories(stories) {
       const container = document.getElementById('recent-stories');
       container.innerHTML = '';
       stories.forEach(story => {
         const cat = CATEGORIES[story.category] || CATEGORIES.neeti;
+        const displayTitle = (searchLang === 'en' && story.en_title) ? story.en_title : story.title;
         const card = document.createElement('div');
         card.className = 'h-card';
-        card.onclick = () => window.location.href = `story.html?id=${story.id}`;
+        card.onclick = () => window.location.href = `story.html?id=${story.slug || story.id}`;
         card.innerHTML = `
           <div class="h-card-img">
-            <img loading="lazy" src="${story.thumbnail}" alt="${story.title}">
+            <img loading="lazy" src="${story.thumbnail}" alt="${displayTitle}">
             <span class="h-cat-badge" style="color:${cat.color}">${cat.emoji}</span>
           </div>
           <div class="h-card-body">
-            <div class="h-card-title">${story.title}</div>
-            <div class="h-card-meta">${cat.name}</div>
+            <div class="h-card-title">${displayTitle}</div>
+            <div class="h-card-meta">${catLabel(cat)}</div>
           </div>`;
         container.appendChild(card);
       });
@@ -303,22 +346,24 @@
       const container = document.getElementById('all-stories');
       container.innerHTML = '';
       if (stories.length === 0) {
-        container.innerHTML = '<p class="no-stories">ఈ విభాగంలో కథలు లేవు</p>';
+        container.innerHTML = `<p class="no-stories">${searchLang === 'en' ? 'No stories found' : 'ఈ విభాగంలో కథలు లేవు'}</p>`;
         return;
       }
       stories.forEach(story => {
         const cat = CATEGORIES[story.category] || CATEGORIES.neeti;
+        const displayTitle = (searchLang === 'en' && story.en_title) ? story.en_title : story.title;
+        const displayMoral = (searchLang === 'en' && story.en_moral) ? story.en_moral : story.moral;
         const card = document.createElement('div');
         card.className = 'v-card';
-        card.onclick = () => window.location.href = `story.html?id=${story.id}`;
+        card.onclick = () => window.location.href = `story.html?id=${story.slug || story.id}`;
         card.innerHTML = `
           <div class="v-card-img">
-            <img loading="lazy" src="${story.thumbnail}" alt="${story.title}">
-            <span class="v-cat-tag" style="background:rgba(0,0,0,0.6);color:${cat.color}">${cat.emoji} ${cat.name}</span>
+            <img loading="lazy" src="${story.thumbnail}" alt="${displayTitle}">
+            <span class="v-cat-tag" style="background:rgba(0,0,0,0.6);color:${cat.color}">${cat.emoji} ${catLabel(cat)}</span>
           </div>
           <div class="v-card-body">
-            <div class="v-card-title">${story.title}</div>
-            <p class="v-card-moral">💡 ${story.moral}</p>
+            <div class="v-card-title">${displayTitle}</div>
+            <p class="v-card-moral">💡 ${displayMoral}</p>
             <div class="v-card-date">${story.date}</div>
           </div>`;
         container.appendChild(card);
@@ -333,25 +378,30 @@
       if (currentSub !== 'all')
         filtered = filtered.filter(s => s.subcategory === currentSub);
       if (searchQuery) {
-        const q = searchQuery.toLowerCase();
-        filtered = filtered.filter(s =>
-          s.title.toLowerCase().includes(q) ||
-          (s.moral && s.moral.toLowerCase().includes(q))
-        );
+        const q = searchQuery.toLowerCase().trim();
+        if (searchLang === 'en') {
+          filtered = filtered.filter(s => matchesEnglish(s, q));
+        } else {
+          filtered = filtered.filter(s =>
+            s.title.toLowerCase().includes(q) ||
+            (s.moral && s.moral.toLowerCase().includes(q))
+          );
+        }
       }
 
       const titleEl = document.getElementById('all-section-title');
       const subEl   = document.getElementById('all-section-sub');
+      const t       = UI_TEXT[searchLang];
       if (searchQuery) {
-        titleEl.textContent = 'వెతుకు ఫలితాలు';
-        subEl.textContent   = `${filtered.length} కథలు`;
+        titleEl.textContent = t.searchResults;
+        subEl.textContent   = `${filtered.length} ${t.stories}`;
       } else if (currentCat === 'all') {
-        titleEl.textContent = 'అన్ని కథలు';
-        subEl.textContent   = `${allStories.length} కథలు`;
+        titleEl.textContent = t.allStories;
+        subEl.textContent   = `${allStories.length} ${t.stories}`;
       } else {
         const c = CATEGORIES[currentCat];
-        titleEl.textContent = c.name;
-        subEl.textContent   = `${filtered.length} కథలు`;
+        titleEl.textContent = catLabel(c);
+        subEl.textContent   = `${filtered.length} ${t.stories}`;
       }
       renderAllStories(filtered);
     }
@@ -408,6 +458,96 @@
       el.classList.add('active');
     }
 
+    // ── LANGUAGE SWITCH ───────────────────────────────────────────────────────
+    function setLang(lang) {
+      searchLang = lang;
+      localStorage.setItem('tk_lang', lang);
+      document.querySelectorAll('#lang-switch .lang-btn').forEach(b => {
+        const isActive = b.classList.contains('lang-' + lang);
+        b.classList.toggle('active', isActive);
+        b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+      });
+      applyLanguage(lang);
+    }
+    function toggleLang() { setLang(searchLang === 'te' ? 'en' : 'te'); }
+
+    function applyLanguage(lang) {
+      const t = UI_TEXT[lang];
+
+      // Brand
+      document.querySelector('.brand-name').textContent = t.brand;
+
+      // Hero title + moral (use en_title/en_moral if available in story data)
+      const heroStory = heroStoryId ? allStories.find(s => s.id === heroStoryId) : null;
+      if (heroStory) {
+        document.getElementById('hero-title').textContent =
+          lang === 'en' && heroStory.en_title ? heroStory.en_title : heroStory.title;
+        document.getElementById('hero-moral').textContent =
+          lang === 'en' && heroStory.en_moral ? heroStory.en_moral : heroStory.moral;
+      }
+      document.querySelector('.hero-category-badge').textContent = t.heroBadge;
+      document.getElementById('hero-btn').textContent = t.heroBtn;
+
+      // Category section header
+      document.querySelector('#section-categories .section-name').textContent = t.catName;
+      document.querySelector('#section-categories .section-sub').textContent  = t.catSub;
+
+      // Category grid card names + counts
+      Object.keys(CATEGORIES).forEach(key => {
+        const nameEl = document.querySelector(`[data-cat-name="${key}"]`);
+        if (nameEl) nameEl.textContent = lang === 'en' ? CATEGORIES[key].en : CATEGORIES[key].name;
+        const countEl = document.getElementById(`count-${key}`);
+        if (countEl) {
+          const n = allStories.filter(s => s.category === key).length;
+          countEl.textContent = `${n} ${t.stories}`;
+        }
+      });
+
+      // Recent section header + see-all
+      document.querySelector('#section-recent .section-name').textContent = t.recentName;
+      document.querySelector('#section-recent .section-sub').textContent  = t.recentSub;
+      document.querySelector('#section-recent .see-all').textContent      = t.seeAll;
+
+      // Nav pills (re-render)
+      renderNavPills(lang);
+
+      // Search placeholder
+      document.getElementById('search-input').placeholder = t.search;
+
+      // Re-render cards and section title
+      renderRecentStories(allStories.slice(0, 8));
+      applyFilters();
+    }
+
+    function renderNavPills(lang) {
+      const t   = UI_TEXT[lang];
+      const nav = document.getElementById('cat-nav');
+      nav.innerHTML = '';
+
+      const allPill = document.createElement('div');
+      allPill.className = 'nav-pill' + (currentCat === 'all' ? ' active' : '');
+      allPill.textContent = t.all;
+      allPill.onclick = () => filterCategory('all', allPill);
+      nav.appendChild(allPill);
+
+      Object.entries(CATEGORIES).forEach(([key, cat]) => {
+        const pill = document.createElement('div');
+        pill.className = 'nav-pill' + (currentCat === key ? ' active' : '');
+        pill.textContent = lang === 'en' ? cat.en : cat.name;
+        pill.onclick = () => filterCategory(key, pill);
+        nav.appendChild(pill);
+      });
+    }
+
+    function matchesEnglish(story, q) {
+      const slugWords = (story.slug || story.id).replace(/-/g, ' ');
+      const cat = (story.category    || '').replace(/_/g, ' ');
+      const sub = (story.subcategory || '').replace(/_/g, ' ');
+      const catEn = CATEGORIES[story.category]?.en || '';
+      const haystack = `${slugWords} ${cat} ${sub} ${catEn}`.toLowerCase();
+      return q.split(/\s+/).every(word => haystack.includes(word));
+    }
+
     // ── SEARCH ───────────────────────────────────────────────────────────────
     function toggleSearch() {
       const bar = document.getElementById('search-bar');
@@ -443,7 +583,10 @@
     }
 
     // ── INIT ──────────────────────────────────────────────────────────────────
-    Promise.all([loadCategories(), loadStories()]);
+    Promise.all([loadCategories(), loadStories()]).then(() => {
+      const savedLang = localStorage.getItem('tk_lang') || 'te';
+      if (savedLang !== searchLang) setLang(savedLang);
+    });
 
     // ── SERVICE WORKER ────────────────────────────────────────────────────────
     if ('serviceWorker' in navigator) {

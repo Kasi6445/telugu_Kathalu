@@ -8,17 +8,17 @@
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
   <meta name="theme-color" content="#FF6B35">
-  <link rel="stylesheet" href="static/style.css">
+  <link rel="stylesheet" href="static/style.css?v=2">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
   <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9CPL3SZHQ"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4EYTPBHZJ6"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'G-P9CPL3SZHQ');
     gtag('config', 'G-4EYTPBHZJ6');
+    gtag('config', 'G-46W8L3P4C6');
   </script>
 
 </head>
@@ -30,9 +30,15 @@
 
     <!-- Top bar -->
     <div id="top-bar">
-      <a href="index.html" id="back-link">← అన్ని కథలు</a>
+      <a href="/" id="back-link">← అన్ని కథలు</a>
       <span id="scene-counter">1 / 6</span>
-      <button id="fav-btn" onclick="toggleFavorite()" title="నా కథలు">♡</button>
+      <div class="top-bar-right">
+        <div class="lang-switch" id="story-lang-switch" role="group" aria-label="Language selector">
+          <button class="lang-btn lang-te active" onclick="storySetLang('te')" aria-pressed="true">తె</button>
+          <button class="lang-btn lang-en" onclick="storySetLang('en')" aria-pressed="false">EN</button>
+        </div>
+        <button id="fav-btn" onclick="toggleFavorite()" title="నా కథలు">♡</button>
+      </div>
     </div>
 
     <!-- Swipe area — covers full screen -->
@@ -50,8 +56,19 @@
       <!-- Controls -->
       <div id="bottom-bar">
         <button class="ctrl-btn nav-btn" onclick="prevScene()">←</button>
+        <button class="ctrl-btn" id="mute-btn" onclick="toggleMute()">🔊</button>
         <button class="ctrl-btn" id="play-pause-btn" onclick="toggleCurrentAudio()">▶ వినండి</button>
         <button class="ctrl-btn nav-btn" onclick="nextScene()">→</button>
+      </div>
+
+      <!-- Speed control — pill buttons below audio controls -->
+      <div id="speed-row">
+        <span class="speed-label">Speed</span>
+        <button class="speed-btn" onclick="setSpeed(0.75)">0.75×</button>
+        <button class="speed-btn active" onclick="setSpeed(1)">1×</button>
+        <button class="speed-btn" onclick="setSpeed(1.25)">1.25×</button>
+        <button class="speed-btn" onclick="setSpeed(1.5)">1.5×</button>
+        <button class="speed-btn" onclick="setSpeed(2)">2×</button>
       </div>
 
       <!-- Segmented timeline -->
@@ -68,18 +85,23 @@
       <div id="moral-label">నీతి</div>
       <p id="final-moral"></p>
       <button id="share-btn" onclick="shareStory()">📤 పంచుకోండి</button>
-      <a href="index.html" class="home-btn">← అన్ని కథలు</a>
+      <a href="/" class="home-btn">← అన్ని కథలు</a>
       <div id="related-stories"></div>
     </div>
   </div>
 
   <script>
-    let story        = null;
-    let currentIndex = 0;
-    let isPlaying    = false;
-    let touchStartX  = 0;
-    let touchStartY  = 0;
-    let imgExt       = 'jpg';
+    let story         = null;
+    let storyFolderId = null;
+    let currentIndex  = 0;
+    let isPlaying     = false;
+    let isMuted       = false;
+    let currentSpeed  = 1.0;
+    let touchStartX   = 0;
+    let touchStartY   = 0;
+    let imgExt        = 'jpg';
+    let storyLang     = localStorage.getItem('tk_lang') || 'te';
+    let _fallbackTimer = null;
 
     const CATEGORIES = {
       neeti:        'నీతి కథలు',
@@ -89,18 +111,32 @@
       ramayana:     'రామాయణం',
       samethalu:    'సామెతలు',
       janapada:     'జానపదం',
-      birbal:       'అక్బర్ బీర్బల్'
+      bhagavatam:   'భాగవతం'
     };
 
-    function getStoryId() {
+    function getUrlParam() {
       return new URLSearchParams(window.location.search).get('id');
     }
 
+    async function resolveFolderId(urlParam) {
+      // Timestamp format — use directly (backward compat)
+      if (/^\d{8}_\d{6}$/.test(urlParam)) return urlParam;
+      // Slug — look up in index
+      const res  = await fetch('stories/index.json');
+      const data = await res.json();
+      const match = (data.stories || []).find(s => s.slug === urlParam);
+      return match ? match.id : null;
+    }
+
     async function loadStory() {
-      const id = getStoryId();
-      if (!id) { window.location.href = 'index.html'; return; }
+      const urlParam = getUrlParam();
+      if (!urlParam) { window.location.href = '/'; return; }
 
       try {
+        storyFolderId = await resolveFolderId(urlParam);
+        if (!storyFolderId) { window.location.href = '/'; return; }
+
+        const id = storyFolderId;
         const res = await fetch(`stories/${id}/story.json`);
         story = await res.json();
 
@@ -108,17 +144,21 @@
         imgExt = story.thumbnail ? story.thumbnail.split('.').pop() : 'jpg';
 
         document.title = story.title + ' - తెలుగు కథలు';
-        document.getElementById('final-title').textContent = story.title;
-        document.getElementById('final-moral').textContent = story.moral;
+        document.getElementById('final-title').textContent =
+          (storyLang === 'en' && story.en_title) ? story.en_title : story.title;
+        document.getElementById('final-moral').textContent =
+          (storyLang === 'en' && story.en_moral) ? story.en_moral : story.moral;
 
-        injectJSONLD(story, id);
+        injectJSONLD(story, storyFolderId);
         loadFavoriteState();
 
         // Build audio elements
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
-          audio.id    = `audio-${scene.id}`;
-          audio.src   = `stories/${id}/audio/scene${scene.id}.mp3`;
+          audio.id           = `audio-${scene.id}`;
+          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.muted        = isMuted;
+          audio.playbackRate = currentSpeed;
           audio.onended = () => {
             isPlaying = false;
             updatePlayBtn();
@@ -130,7 +170,7 @@
         // Preload images
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${id}/images/scene${scene.id}.${imgExt}`;
+          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
         });
 
         // Build segmented timeline
@@ -150,6 +190,7 @@
         setupSwipeGesture();
         setupKeyboard();
         showScene(0);
+        storySetLang(storyLang);
 
       } catch(e) {
         console.error(e);
@@ -161,12 +202,11 @@
       stopAllAudio();
       currentIndex = index;
       const scene = story.scenes[index];
-      const id    = getStoryId();
 
       const bg = document.getElementById('bg-image');
       bg.style.opacity = '0';
       setTimeout(() => {
-        bg.style.backgroundImage = `url('stories/${id}/images/scene${scene.id}.${imgExt}')`;
+        bg.style.backgroundImage = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.opacity = '1';
       }, 250);
 
@@ -174,8 +214,8 @@
       const titleEl = document.getElementById('slide-story-title');
       textEl.style.opacity = '0';
       setTimeout(() => {
-        titleEl.textContent = story.title;
-        textEl.textContent  = scene.text;
+        titleEl.textContent = (storyLang === 'en' && story.en_title) ? story.en_title : story.title;
+        textEl.textContent  = (storyLang === 'en' && scene.en_text)  ? scene.en_text  : scene.text;
         textEl.style.opacity = '1';
       }, 250);
 
@@ -227,17 +267,28 @@
     }
 
     function playCurrentScene() {
+      if (_fallbackTimer) { clearTimeout(_fallbackTimer); _fallbackTimer = null; }
       const scene = story.scenes[currentIndex];
       const audio = document.getElementById(`audio-${scene.id}`);
-      if (audio) {
-        audio.currentTime = 0;
-        audio.play().catch(() => {});
+      if (!audio) return;
+      audio.muted        = isMuted;
+      audio.playbackRate = currentSpeed;
+      audio.currentTime  = 0;
+      audio.play().then(() => {
         isPlaying = true;
         updatePlayBtn();
-      }
+      }).catch(() => {
+        // Audio unavailable locally — auto-advance after text-length-based delay
+        isPlaying = false;
+        updatePlayBtn();
+        const textLen = (scene.en_text || scene.text).length;
+        const delay   = Math.max(4000, Math.min(9000, textLen * 35));
+        _fallbackTimer = setTimeout(() => nextScene(), delay);
+      });
     }
 
     function stopAllAudio() {
+      if (_fallbackTimer) { clearTimeout(_fallbackTimer); _fallbackTimer = null; }
       if (!story) return;
       story.scenes.forEach(scene => {
         const audio = document.getElementById(`audio-${scene.id}`);
@@ -253,12 +304,12 @@
       if (!audio) return;
       if (isPlaying) {
         audio.pause();
+        if (_fallbackTimer) { clearTimeout(_fallbackTimer); _fallbackTimer = null; }
         isPlaying = false;
+        updatePlayBtn();
       } else {
-        audio.play().catch(() => {});
-        isPlaying = true;
+        playCurrentScene();
       }
-      updatePlayBtn();
     }
 
     function updatePlayBtn() {
@@ -284,6 +335,60 @@
 
     function goToScene(index) { showScene(index); }
 
+    // ── MUTE ──────────────────────────────────────────────────────────────────
+    function toggleMute() {
+      isMuted = !isMuted;
+      const btn = document.getElementById('mute-btn');
+      btn.textContent = isMuted ? '🔇' : '🔊';
+      btn.classList.toggle('muted', isMuted);
+      applyAudioSettingsAll();
+    }
+
+    // ── LANGUAGE ──────────────────────────────────────────────────────────────
+    function storySetLang(lang) {
+      storyLang = lang;
+      localStorage.setItem('tk_lang', lang);
+      document.querySelectorAll('#story-lang-switch .lang-btn').forEach(b => {
+        const isActive = b.classList.contains('lang-' + lang);
+        b.classList.toggle('active', isActive);
+        b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+      });
+      document.getElementById('back-link').textContent =
+        lang === 'en' ? '← All Stories' : '← అన్ని కథలు';
+      if (!story) return;
+      // Refresh current scene text immediately
+      const scene = story.scenes[currentIndex];
+      document.getElementById('slide-story-title').textContent =
+        (lang === 'en' && story.en_title) ? story.en_title : story.title;
+      document.getElementById('slide-text').textContent =
+        (lang === 'en' && scene.en_text) ? scene.en_text : scene.text;
+      // Update moral screen too
+      document.getElementById('final-title').textContent =
+        (lang === 'en' && story.en_title) ? story.en_title : story.title;
+      document.getElementById('final-moral').textContent =
+        (lang === 'en' && story.en_moral) ? story.en_moral : story.moral;
+    }
+
+    // ── SPEED ─────────────────────────────────────────────────────────────────
+    function setSpeed(s) {
+      currentSpeed = s;
+      document.querySelectorAll('.speed-btn').forEach(btn => {
+        btn.classList.toggle('active', parseFloat(btn.textContent) === s);
+      });
+      applyAudioSettingsAll();
+    }
+
+    function applyAudioSettingsAll() {
+      if (!story) return;
+      story.scenes.forEach(scene => {
+        const audio = document.getElementById(`audio-${scene.id}`);
+        if (audio) {
+          audio.muted        = isMuted;
+          audio.playbackRate = currentSpeed;
+        }
+      });
+    }
+
     // ── FAVORITES ─────────────────────────────────────────────────────────────
     function getFavorites() {
       return JSON.parse(localStorage.getItem('telugu_kathalu_favorites') || '[]');
@@ -292,16 +397,15 @@
     function loadFavoriteState() {
       const btn = document.getElementById('fav-btn');
       if (!btn) return;
-      const isFav = getFavorites().includes(getStoryId());
+      const isFav = getFavorites().includes(storyFolderId);
       btn.textContent = isFav ? '♥' : '♡';
       btn.classList.toggle('active', isFav);
     }
 
     function toggleFavorite() {
-      const id   = getStoryId();
       const favs = getFavorites();
-      const idx  = favs.indexOf(id);
-      if (idx === -1) favs.push(id);
+      const idx  = favs.indexOf(storyFolderId);
+      if (idx === -1) favs.push(storyFolderId);
       else favs.splice(idx, 1);
       localStorage.setItem('telugu_kathalu_favorites', JSON.stringify(favs));
       loadFavoriteState();
@@ -329,9 +433,9 @@
         const all  = data.stories || [];
         const id   = getStoryId();
 
-        let pool = all.filter(s => s.id !== id && s.subcategory === story.subcategory);
+        let pool = all.filter(s => s.id !== storyFolderId && s.subcategory === story.subcategory);
         if (pool.length < 3)
-          pool = all.filter(s => s.id !== id && s.category === story.category);
+          pool = all.filter(s => s.id !== storyFolderId && s.category === story.category);
         if (pool.length === 0) return;
 
         // Pick up to 3 random
@@ -341,7 +445,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.id}`;
+          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
