@@ -8,7 +8,7 @@
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
   <meta name="theme-color" content="#FF6B35">
-  <link rel="stylesheet" href="static/style.css?v=4">
+  <link rel="stylesheet" href="static/style.css?v=5">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
   <!-- Google Analytics -->
@@ -80,12 +80,12 @@
   <div id="moral-screen" style="display:none;">
     <div id="moral-content">
       <div class="moral-emoji">🌟</div>
-      <h2>కథ సమాప్తం</h2>
+      <h2 id="moral-heading">కథ సమాప్తం</h2>
       <p id="final-title"></p>
       <div id="moral-label">నీతి</div>
       <p id="final-moral"></p>
       <button id="share-btn" onclick="shareStory()">📤 పంచుకోండి</button>
-      <a href="/" class="home-btn">← అన్ని కథలు</a>
+      <a href="/" class="home-btn" id="moral-home-btn">← అన్ని కథలు</a>
       <div id="related-stories"></div>
     </div>
   </div>
@@ -102,6 +102,9 @@
     let imgExt        = 'jpg';
     let storyLang     = localStorage.getItem('tk_lang') || 'te';
     let _fallbackTimer = null;
+    let _bgTimeout     = null;
+    let _textTimeout   = null;
+    let _playTimeout   = null;
 
     // ── WORD HIGHLIGHT STATE ───────────────────────────────────────────────────
     let _wordSpans        = [];
@@ -248,6 +251,22 @@
         const res = await fetch(`stories/${id}/story.json`);
         story = await res.json();
 
+        // Rewrite timestamp ID in URL to slug (without page reload)
+        if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
+          history.replaceState(null, '', `story.html?id=${story.slug}`);
+        }
+
+        // Hide lang toggle when story has no English content at all
+        const storyHasEnglish = !!(story.en_title || story.scenes.some(s => s.en_text));
+        const langSwitch = document.getElementById('story-lang-switch');
+        if (!storyHasEnglish) {
+          langSwitch.style.display = 'none';
+          storyLang = 'te';
+          localStorage.setItem('tk_lang', 'te');
+        } else {
+          langSwitch.style.display = '';
+        }
+
         // Derive image extension from thumbnail
         imgExt = story.thumbnail ? story.thumbnail.split('.').pop() : 'jpg';
 
@@ -307,13 +326,20 @@
 
     function showScene(index) {
       if (!story) return;
+
+      // Cancel any stale callbacks from a previous showScene call
+      if (_bgTimeout)   { clearTimeout(_bgTimeout);   _bgTimeout   = null; }
+      if (_textTimeout) { clearTimeout(_textTimeout); _textTimeout = null; }
+      if (_playTimeout) { clearTimeout(_playTimeout); _playTimeout = null; }
+
       stopAllAudio();
       currentIndex = index;
       const scene = story.scenes[index];
 
       const bg = document.getElementById('bg-image');
       bg.style.opacity = '0';
-      setTimeout(() => {
+      _bgTimeout = setTimeout(() => {
+        _bgTimeout = null;
         bg.style.backgroundImage = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.opacity = '1';
       }, 250);
@@ -321,7 +347,8 @@
       const textEl  = document.getElementById('slide-text');
       const titleEl = document.getElementById('slide-story-title');
       textEl.style.opacity = '0';
-      setTimeout(() => {
+      _textTimeout = setTimeout(() => {
+        _textTimeout = null;
         titleEl.textContent = (storyLang === 'en' && story.en_title) ? story.en_title : story.title;
         const sceneText     = (storyLang === 'en' && scene.en_text)  ? scene.en_text  : scene.text;
         renderWordSpans(sceneText, scene.id);
@@ -335,16 +362,15 @@
       story.scenes.forEach((_, i) => {
         const fill = document.getElementById(`tl-fill-${i}`);
         if (!fill) return;
-        if (i < index)      { fill.style.width = '100%'; fill.style.transition = 'none'; }
+        if (i < index)       { fill.style.width = '100%'; fill.style.transition = 'none'; }
         else if (i === index){ fill.style.width = '0%';  fill.style.transition = 'none'; }
         else                 { fill.style.width = '0%';  fill.style.transition = 'none'; }
       });
       trackAudioProgress(index);
 
-      // Preload next scene audio while current scene shows
       preloadNextAudio(index);
 
-      setTimeout(() => playCurrentScene(), 500);
+      _playTimeout = setTimeout(() => { _playTimeout = null; playCurrentScene(); }, 500);
     }
 
     function preloadNextAudio(currentIdx) {
@@ -431,7 +457,12 @@
 
     function updatePlayBtn() {
       const btn = document.getElementById('play-pause-btn');
-      if (btn) btn.textContent = isPlaying ? '⏸ ఆపు' : '▶ వినండి';
+      if (!btn) return;
+      if (storyLang === 'en') {
+        btn.textContent = isPlaying ? '⏸ Pause' : '▶ Listen';
+      } else {
+        btn.textContent = isPlaying ? '⏸ ఆపు' : '▶ వినండి';
+      }
     }
 
     function nextScene() {
@@ -462,30 +493,59 @@
     }
 
     // ── LANGUAGE ──────────────────────────────────────────────────────────────
+    const UI_TEXT = {
+      te: {
+        backLink:     '← అన్ని కథలు',
+        moralHeading: 'కథ సమాప్తం',
+        moralLabel:   'నీతి',
+        shareBtn:     '📤 పంచుకోండి',
+        homeBtn:      '← అన్ని కథలు',
+      },
+      en: {
+        backLink:     '← All Stories',
+        moralHeading: 'Story Complete',
+        moralLabel:   'Moral',
+        shareBtn:     '📤 Share',
+        homeBtn:      '← All Stories',
+      }
+    };
+
     function storySetLang(lang) {
       storyLang = lang;
       localStorage.setItem('tk_lang', lang);
+
+      // Toggle lang-switch buttons
       document.querySelectorAll('#story-lang-switch .lang-btn').forEach(b => {
         const isActive = b.classList.contains('lang-' + lang);
         b.classList.toggle('active', isActive);
         b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       });
-      document.getElementById('back-link').textContent =
-        lang === 'en' ? '← All Stories' : '← అన్ని కథలు';
+
+      // Update every static UI string
+      const t = UI_TEXT[lang] || UI_TEXT.te;
+      const el = id => document.getElementById(id);
+      el('back-link')    && (el('back-link').textContent    = t.backLink);
+      el('moral-heading')&& (el('moral-heading').textContent= t.moralHeading);
+      el('moral-label')  && (el('moral-label').textContent  = t.moralLabel);
+      el('share-btn')    && (el('share-btn').textContent    = t.shareBtn);
+      el('moral-home-btn')&&(el('moral-home-btn').textContent= t.homeBtn);
+      updatePlayBtn(); // refresh play/pause label in current language
+
       if (!story) return;
-      // Refresh current scene text immediately
+
+      // Refresh subtitle + story title
       const scene     = story.scenes[currentIndex];
       const sceneText = (lang === 'en' && scene.en_text) ? scene.en_text : scene.text;
-      document.getElementById('slide-story-title').textContent =
+      el('slide-story-title').textContent =
         (lang === 'en' && story.en_title) ? story.en_title : story.title;
       renderWordSpans(sceneText, scene.id);
-      // Recompute word offsets for new language text if audio duration is known
-      const audio = document.getElementById(`audio-${scene.id}`);
+      const audio = el(`audio-${scene.id}`);
       if (audio && audio.duration) computeWordOffsets(audio.duration, sceneText);
-      // Update moral screen too
-      document.getElementById('final-title').textContent =
+
+      // Moral screen dynamic content
+      el('final-title').textContent =
         (lang === 'en' && story.en_title) ? story.en_title : story.title;
-      document.getElementById('final-moral').textContent =
+      el('final-moral').textContent =
         (lang === 'en' && story.en_moral) ? story.en_moral : story.moral;
     }
 
@@ -551,7 +611,6 @@
         const res  = await fetch('stories/index.json');
         const data = await res.json();
         const all  = data.stories || [];
-        const id   = getStoryId();
 
         let pool = all.filter(s => s.id !== storyFolderId && s.subcategory === story.subcategory);
         if (pool.length < 3)
