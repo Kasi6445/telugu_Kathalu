@@ -8,7 +8,7 @@
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
   <meta name="theme-color" content="#FF6B35">
-  <link rel="stylesheet" href="static/style.css?v=2">
+  <link rel="stylesheet" href="static/style.css?v=4">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
   <!-- Google Analytics -->
@@ -103,6 +103,11 @@
     let storyLang     = localStorage.getItem('tk_lang') || 'te';
     let _fallbackTimer = null;
 
+    // ── WORD HIGHLIGHT STATE ───────────────────────────────────────────────────
+    let _wordSpans        = [];
+    let _wordOffsets      = []; // estimated start-time (seconds) per word
+    let _currentWordIndex = -1;
+
     const CATEGORIES = {
       neeti:        'నీతి కథలు',
       podupu:       'పొడుపు కథలు',
@@ -113,6 +118,109 @@
       janapada:     'జానపదం',
       bhagavatam:   'భాగవతం'
     };
+
+    // ── WORD HIGHLIGHT ────────────────────────────────────────────────────────
+
+    // Count visible grapheme clusters — Telugu characters combine multiple
+    // Unicode codepoints into one visible unit, so .length is very inaccurate.
+    function graphemeCount(word) {
+      if (typeof Intl !== 'undefined' && Intl.Segmenter) {
+        try {
+          const seg = new Intl.Segmenter(undefined, { granularity: 'grapheme' });
+          return Math.max(1, [...seg.segment(word)].length);
+        } catch(e) {}
+      }
+      // Fallback: exclude Telugu combining marks to count base characters ≈ syllables
+      return Math.max(1, [...word].filter(c => {
+        const cp = c.codePointAt(0);
+        if (!cp) return false;
+        if (cp === 0x0C4D) return false;                       // virama / halant
+        if (cp >= 0x0C3E && cp <= 0x0C4C) return false;       // vowel signs
+        if (cp >= 0x0C4E && cp <= 0x0C56) return false;       // other diacritics
+        if (cp === 0x0C01 || cp === 0x0C02 || cp === 0x0C03) return false;
+        return true;
+      }).length);
+    }
+
+    // Split text into clickable word spans, wired up for click-to-seek
+    function renderWordSpans(text, sceneId) {
+      const textEl = document.getElementById('slide-text');
+      textEl.innerHTML = '';
+      _wordSpans        = [];
+      _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
+      _currentWordIndex = -1;
+      let wi = 0;
+      text.split(/(\s+)/).forEach(token => {
+        if (/^\s+$/.test(token)) {
+          textEl.appendChild(document.createTextNode(token));
+        } else if (token.length > 0) {
+          const span = document.createElement('span');
+          span.textContent = token;
+          span.className   = 'word-span';
+          const idx = wi;
+          span.addEventListener('touchstart', e => e.stopPropagation(), { passive: true });
+          span.addEventListener('touchend',   e => e.stopPropagation(), { passive: true });
+          span.addEventListener('click',      e => { e.stopPropagation(); seekToWord(idx, sceneId); });
+          textEl.appendChild(span);
+          _wordSpans.push(span);
+          wi++;
+        }
+      });
+    }
+
+    // Proportional timing based on grapheme clusters (syllable-accurate for Telugu)
+    function computeWordOffsets(duration, text) {
+      const words    = text.match(/\S+/g) || [];
+      const sizes    = words.map(w => graphemeCount(w));
+      const total    = sizes.reduce((a, b) => a + b, 0) || 1;
+      _wordOffsets   = [];
+      let t = 0;
+      sizes.forEach(s => { _wordOffsets.push(t); t += (s / total) * duration; });
+    }
+
+    // Apply spoken/active/upcoming classes to all spans at once (simple, correct)
+    function highlightWordAtTime(t) {
+      if (!_wordOffsets.length || !_wordSpans.length) return;
+      let idx = _wordOffsets.length - 1;
+      for (let i = 1; i < _wordOffsets.length; i++) {
+        if (_wordOffsets[i] > t) { idx = i - 1; break; }
+      }
+      idx = Math.max(0, idx);
+      if (idx === _currentWordIndex) return;
+      _wordSpans.forEach((s, i) => {
+        s.classList.toggle('active', i === idx);
+        s.classList.toggle('spoken', i < idx);
+      });
+      _currentWordIndex = idx;
+    }
+
+    function clearWordHighlight() {
+      _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
+      _wordOffsets      = [];   // force recompute next scene
+      _currentWordIndex = -1;
+    }
+
+    function seekToWord(wordIdx, sceneId) {
+      const audio = document.getElementById(`audio-${sceneId}`);
+      if (!audio || !audio.duration) return;
+      // Compute offsets on demand if not ready yet
+      if (!_wordOffsets.length && _wordSpans.length) {
+        const sc  = story.scenes.find(s => s.id === sceneId) || story.scenes[currentIndex];
+        const txt = (storyLang === 'en' && sc.en_text) ? sc.en_text : (sc.text || '');
+        computeWordOffsets(audio.duration, txt);
+      }
+      if (wordIdx >= _wordOffsets.length) return;
+      audio.currentTime = _wordOffsets[wordIdx];
+      _wordSpans.forEach((s, i) => {
+        s.classList.toggle('active', i === wordIdx);
+        s.classList.toggle('spoken', i < wordIdx);
+      });
+      _currentWordIndex = wordIdx;
+      if (!isPlaying) {
+        if (_fallbackTimer) { clearTimeout(_fallbackTimer); _fallbackTimer = null; }
+        audio.play().then(() => { isPlaying = true; updatePlayBtn(); }).catch(() => {});
+      }
+    }
 
     function getUrlParam() {
       return new URLSearchParams(window.location.search).get('id');
@@ -215,7 +323,8 @@
       textEl.style.opacity = '0';
       setTimeout(() => {
         titleEl.textContent = (storyLang === 'en' && story.en_title) ? story.en_title : story.title;
-        textEl.textContent  = (storyLang === 'en' && scene.en_text)  ? scene.en_text  : scene.text;
+        const sceneText     = (storyLang === 'en' && scene.en_text)  ? scene.en_text  : scene.text;
+        renderWordSpans(sceneText, scene.id);
         textEl.style.opacity = '1';
       }, 250);
 
@@ -249,19 +358,26 @@
     let _tlAudio   = null;
 
     function trackAudioProgress(index) {
-      // Detach previous listener
       if (_tlHandler && _tlAudio) {
         _tlAudio.removeEventListener('timeupdate', _tlHandler);
       }
       const scene = story.scenes[index];
       const audio = document.getElementById(`audio-${scene.id}`);
       if (!audio) return;
-      _tlAudio = audio;
+      _tlAudio   = audio;
       _tlHandler = () => {
         if (!audio.duration) return;
+        // Timeline progress bar
         const pct  = (audio.currentTime / audio.duration) * 100;
         const fill = document.getElementById(`tl-fill-${index}`);
         if (fill) { fill.style.transition = 'width 0.25s linear'; fill.style.width = pct + '%'; }
+        // Compute word offsets once spans are ready and duration is known
+        if (!_wordOffsets.length && _wordSpans.length) {
+          const sc  = story.scenes[index];
+          const txt = (storyLang === 'en' && sc.en_text) ? sc.en_text : (sc.text || '');
+          computeWordOffsets(audio.duration, txt);
+        }
+        highlightWordAtTime(audio.currentTime);
       };
       audio.addEventListener('timeupdate', _tlHandler);
     }
@@ -294,6 +410,7 @@
         const audio = document.getElementById(`audio-${scene.id}`);
         if (audio) { audio.pause(); audio.currentTime = 0; }
       });
+      clearWordHighlight();
       isPlaying = false;
       updatePlayBtn();
     }
@@ -357,11 +474,14 @@
         lang === 'en' ? '← All Stories' : '← అన్ని కథలు';
       if (!story) return;
       // Refresh current scene text immediately
-      const scene = story.scenes[currentIndex];
+      const scene     = story.scenes[currentIndex];
+      const sceneText = (lang === 'en' && scene.en_text) ? scene.en_text : scene.text;
       document.getElementById('slide-story-title').textContent =
         (lang === 'en' && story.en_title) ? story.en_title : story.title;
-      document.getElementById('slide-text').textContent =
-        (lang === 'en' && scene.en_text) ? scene.en_text : scene.text;
+      renderWordSpans(sceneText, scene.id);
+      // Recompute word offsets for new language text if audio duration is known
+      const audio = document.getElementById(`audio-${scene.id}`);
+      if (audio && audio.duration) computeWordOffsets(audio.duration, sceneText);
       // Update moral screen too
       document.getElementById('final-title').textContent =
         (lang === 'en' && story.en_title) ? story.en_title : story.title;

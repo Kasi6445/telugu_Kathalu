@@ -579,9 +579,9 @@ body.slideshow-mode {
 
 #slide-text {
   font-size: clamp(1rem, 4.2vw, 1.2rem);
-  line-height: 1.75;
-  color: white;
-  text-shadow: 0 1px 6px rgba(0,0,0,0.9);
+  line-height: 1.9;
+  color: rgba(255, 255, 255, 0.82);
+  text-shadow: 0 1px 5px rgba(0,0,0,0.85);
   margin-bottom: 20px;
   transition: opacity 0.3s ease;
   display: -webkit-box;
@@ -589,6 +589,30 @@ body.slideshow-mode {
   line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+/* ── Karaoke word highlighting ── */
+.word-span {
+  display: inline;
+  cursor: pointer;
+  color: rgba(255, 255, 255, 0.82);
+  transition: color 0.15s ease, text-shadow 0.15s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+.word-span.spoken {
+  color: rgba(255, 255, 255, 0.32);
+  text-shadow: none;
+}
+.word-span.active {
+  color: #FFE55C;
+  text-shadow:
+    0 0 20px rgba(255, 220, 0, 0.95),
+    0 0  8px rgba(255, 190, 0, 0.7),
+    0  1px 4px rgba(0, 0, 0, 0.9);
+  font-weight: 700;
+}
+.word-span:hover {
+  color: rgba(255, 230, 100, 0.9);
 }
 
 #bottom-bar {
