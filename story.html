@@ -464,7 +464,14 @@
         isPlaying = false;
         updatePlayBtn();
       } else {
-        playCurrentScene();
+        // Resume from where we paused — do NOT reset currentTime
+        if (_fallbackTimer) { clearTimeout(_fallbackTimer); _fallbackTimer = null; }
+        audio.muted        = isMuted;
+        audio.playbackRate = currentSpeed;
+        audio.play().then(() => {
+          isPlaying = true;
+          updatePlayBtn();
+        }).catch(() => {});
       }
     }
 
