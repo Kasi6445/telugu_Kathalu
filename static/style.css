@@ -2,6 +2,9 @@
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
+/* Reset button defaults so .nav-pill, .cat-card etc look identical whether div or button */
+button { font-family: inherit; font-size: inherit; color: inherit; background: none; border: none; cursor: pointer; text-align: left; }
+
 body {
   font-family: 'Noto Sans Telugu', 'Segoe UI', sans-serif;
   background: #0A0A0F;

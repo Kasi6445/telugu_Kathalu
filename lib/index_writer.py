@@ -151,19 +151,25 @@ def update_sitemap():
     else:
         index = {"stories": []}
 
+    from datetime import date as _date
+    today = _date.today().isoformat()
+
     urls = [
         f"  <url>\n"
         f"    <loc>{BASE_URL}/</loc>\n"
+        f"    <lastmod>{today}</lastmod>\n"
         f"    <changefreq>daily</changefreq>\n"
         f"    <priority>1.0</priority>\n"
         f"  </url>"
     ]
 
     for story in index["stories"]:
-        url_id = story.get("slug") or story["id"]
+        url_id  = story.get("slug") or story["id"]
+        lastmod = story.get("date", today)
         urls.append(
             f"  <url>\n"
             f"    <loc>{BASE_URL}/story.html?id={url_id}</loc>\n"
+            f"    <lastmod>{lastmod}</lastmod>\n"
             f"    <changefreq>weekly</changefreq>\n"
             f"    <priority>0.8</priority>\n"
             f"  </url>"

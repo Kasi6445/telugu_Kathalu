@@ -414,16 +414,25 @@ def _append_failure_log(output_path: Path, prompt: str, logs_dir: Path, error: s
 
 # ── PNG → JPEG compression ───────────────────────────────────────────────────
 
-def _compress_to_jpeg(images_path: Path, total: int, quality: int = 85) -> None:
-    """Convert all scene PNGs to JPEG after generation. PNG stays available during
-    generation so Gemini reference passing works; conversion runs only at the end."""
+def _compress_to_jpeg(images_path: Path, total: int,
+                      quality: int = 82, max_width: int = 1024) -> None:
+    """Convert all scene PNGs to JPEG after generation.
+    Resizes to max_width (preserving aspect ratio) for mobile-optimised delivery.
+    PNG stays available during generation so Gemini reference passing works."""
     from PIL import Image as _PILImage
 
     for png_path in sorted(images_path.glob("scene*.png")):
         jpg_path = png_path.with_suffix(".jpg")
         try:
             img = _PILImage.open(png_path).convert("RGB")
-            img.save(jpg_path, "JPEG", quality=quality, optimize=True)
+            w, h = img.size
+            if w > max_width:
+                img = img.resize(
+                    (max_width, round(h * max_width / w)),
+                    _PILImage.LANCZOS,
+                )
+            img.save(jpg_path, "JPEG", quality=quality,
+                     optimize=True, progressive=True)
             orig_kb = png_path.stat().st_size // 1024
             new_kb  = jpg_path.stat().st_size // 1024
             png_path.unlink()

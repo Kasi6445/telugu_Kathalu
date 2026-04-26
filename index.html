@@ -9,15 +9,26 @@
     content="తెలుగు కథలు - నీతి కథలు, పంచతంత్రం, తెనాలి రామ, రామాయణం మరియు మరిన్ని తెలుగు కథలు చదవండి.">
   <meta name="keywords" content="తెలుగు కథలు, Telugu stories, పంచతంత్రం, తెనాలి రామ, నీతి కథలు, రామాయణం">
   <meta name="author" content="Telugu Katalu">
-  <meta property="og:title" content="తెలుగు కథలు">
-  <meta property="og:description" content="ప్రతి రోజు కొత్త తెలుగు కథలు">
-  <meta property="og:url" content="https://www.telugukathalu.in">
-  <meta property="og:type" content="website">
+  <meta property="og:title"       content="తెలుగు కథలు">
+  <meta property="og:description" content="ప్రతి రోజు కొత్త తెలుగు కథలు — నీతి కథలు, పంచతంత్రం, తెనాలి రామ మరియు మరిన్ని">
+  <meta property="og:url"         content="https://www.telugukathalu.in">
+  <meta property="og:type"        content="website">
+  <meta property="og:image"       content="https://www.telugukathalu.in/static/icon-512.png">
+  <meta property="og:site_name"   content="Telugu Katalu - తెలుగు కథలు">
+  <!-- Twitter / X card -->
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:site"        content="@telugukathalu">
+  <meta name="twitter:title"       content="తెలుగు కథలు">
+  <meta name="twitter:description" content="ప్రతి రోజు కొత్త తెలుగు కథలు — నీతి కథలు, పంచతంత్రం, తెనాలి రామ మరియు మరిన్ని">
+  <meta name="twitter:image"       content="https://www.telugukathalu.in/static/icon-512.png">
   <title>తెలుగు కథలు</title>
   <link rel="canonical" href="https://www.telugukathalu.in">
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
   <meta name="theme-color" content="#FF6B35">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://www.googletagmanager.com">
   <link rel="stylesheet" href="static/style.css?v=2">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-4EYTPBHZJ6"></script>
@@ -61,27 +72,27 @@
             <button class="lang-btn" data-lang="te_en" onclick="setLang('te_en')" aria-pressed="false">తె-EN</button>
             <button class="lang-btn" data-lang="en" onclick="setLang('en')" aria-pressed="false">English</button>
           </div>
-          <div class="header-search" onclick="toggleSearch()">🔍</div>
+          <button class="header-search" onclick="toggleSearch()" aria-label="కథలు వెతకండి">🔍</button>
         </div>
       </div>
 
       <!-- CATEGORY PILLS -->
-      <nav id="cat-nav">
-        <div class="nav-pill active" onclick="filterCategory('all', this)">అన్నీ</div>
-        <div class="nav-pill" onclick="filterCategory('neeti', this)">నీతి కథలు</div>
-        <div class="nav-pill" onclick="filterCategory('podupu', this)">పొడుపు కథలు</div>
-        <div class="nav-pill" onclick="filterCategory('tenali', this)">తెనాలి రామ</div>
-        <div class="nav-pill" onclick="filterCategory('panchatantra', this)">పంచతంత్రం</div>
-        <div class="nav-pill" onclick="filterCategory('ramayana', this)">రామాయణం</div>
-        <div class="nav-pill" onclick="filterCategory('samethalu', this)">సామెతలు</div>
-        <div class="nav-pill" onclick="filterCategory('janapada', this)">జానపదం</div>
-        <div class="nav-pill" onclick="filterCategory('bhagavatam', this)">భాగవతం</div>
+      <nav id="cat-nav" aria-label="కేటగిరీలు">
+        <button class="nav-pill active" onclick="filterCategory('all', this)" aria-pressed="true">అన్నీ</button>
+        <button class="nav-pill" onclick="filterCategory('neeti', this)" aria-pressed="false">నీతి కథలు</button>
+        <button class="nav-pill" onclick="filterCategory('podupu', this)" aria-pressed="false">పొడుపు కథలు</button>
+        <button class="nav-pill" onclick="filterCategory('tenali', this)" aria-pressed="false">తెనాలి రామ</button>
+        <button class="nav-pill" onclick="filterCategory('panchatantra', this)" aria-pressed="false">పంచతంత్రం</button>
+        <button class="nav-pill" onclick="filterCategory('ramayana', this)" aria-pressed="false">రామాయణం</button>
+        <button class="nav-pill" onclick="filterCategory('samethalu', this)" aria-pressed="false">సామెతలు</button>
+        <button class="nav-pill" onclick="filterCategory('janapada', this)" aria-pressed="false">జానపదం</button>
+        <button class="nav-pill" onclick="filterCategory('bhagavatam', this)" aria-pressed="false">భాగవతం</button>
       </nav>
 
       <!-- SEARCH BAR -->
       <div id="search-bar">
         <input id="search-input" type="search" placeholder="కథలు వెతకండి..." oninput="onSearchInput(this.value)">
-        <span id="search-close" onclick="closeSearch()">✕</span>
+        <button id="search-close" onclick="closeSearch()" aria-label="వెతకడం మూయండి">✕</button>
       </div>
 
       <!-- SUBCATEGORY ROW -->
@@ -96,7 +107,7 @@
           <div class="hero-badge-wrap">
             <span class="hero-category-badge">నేటి కథ</span>
           </div>
-          <h2 id="hero-title">లోడ్ అవుతోంది...</h2>
+          <h1 id="hero-title">లోడ్ అవుతోంది...</h1>
           <p id="hero-moral"></p>
           <button class="hero-btn" id="hero-btn" onclick="openHeroStory()">▶ చదవండి</button>
         </div>
@@ -115,54 +126,54 @@
           </div>
         </div>
         <div class="cat-grid">
-          <div class="cat-card" style="background:rgba(255,107,53,0.1);border-color:rgba(255,107,53,0.2)"
+          <button class="cat-card" style="background:rgba(255,107,53,0.1);border-color:rgba(255,107,53,0.2)"
             onclick="filterCategory('neeti', null)">
             <div class="cat-emoji">📚</div>
             <div class="cat-name" data-cat-name="neeti" style="color:#FF6B35">నీతి కథలు</div>
             <div class="cat-count" id="count-neeti">0 కథలు</div>
-          </div>
-          <div class="cat-card" style="background:rgba(99,153,34,0.1);border-color:rgba(99,153,34,0.2)"
+          </button>
+          <button class="cat-card" style="background:rgba(99,153,34,0.1);border-color:rgba(99,153,34,0.2)"
             onclick="filterCategory('podupu', null)">
             <div class="cat-emoji">🧩</div>
             <div class="cat-name" data-cat-name="podupu" style="color:#97C459">పొడుపు కథలు</div>
             <div class="cat-count" id="count-podupu">0 కథలు</div>
-          </div>
-          <div class="cat-card" style="background:rgba(127,119,221,0.1);border-color:rgba(127,119,221,0.2)"
+          </button>
+          <button class="cat-card" style="background:rgba(127,119,221,0.1);border-color:rgba(127,119,221,0.2)"
             onclick="filterCategory('tenali', null)">
             <div class="cat-emoji">🎭</div>
             <div class="cat-name" data-cat-name="tenali" style="color:#AFA9EC">తెనాలి రామ</div>
             <div class="cat-count" id="count-tenali">0 కథలు</div>
-          </div>
-          <div class="cat-card" style="background:rgba(29,158,117,0.1);border-color:rgba(29,158,117,0.2)"
+          </button>
+          <button class="cat-card" style="background:rgba(29,158,117,0.1);border-color:rgba(29,158,117,0.2)"
             onclick="filterCategory('panchatantra', null)">
             <div class="cat-emoji">🐒</div>
             <div class="cat-name" data-cat-name="panchatantra" style="color:#5DCAA5">పంచతంత్రం</div>
             <div class="cat-count" id="count-panchatantra">0 కథలు</div>
-          </div>
-          <div class="cat-card" style="background:rgba(212,83,126,0.1);border-color:rgba(212,83,126,0.2)"
+          </button>
+          <button class="cat-card" style="background:rgba(212,83,126,0.1);border-color:rgba(212,83,126,0.2)"
             onclick="filterCategory('ramayana', null)">
             <div class="cat-emoji">🏹</div>
             <div class="cat-name" data-cat-name="ramayana" style="color:#ED93B1">రామాయణం</div>
             <div class="cat-count" id="count-ramayana">0 కథలు</div>
-          </div>
-          <div class="cat-card" style="background:rgba(186,117,23,0.1);border-color:rgba(186,117,23,0.2)"
+          </button>
+          <button class="cat-card" style="background:rgba(186,117,23,0.1);border-color:rgba(186,117,23,0.2)"
             onclick="filterCategory('samethalu', null)">
             <div class="cat-emoji">💬</div>
             <div class="cat-name" data-cat-name="samethalu" style="color:#EF9F27">సామెతలు</div>
             <div class="cat-count" id="count-samethalu">0 కథలు</div>
-          </div>
-          <div class="cat-card" style="background:rgba(55,138,221,0.1);border-color:rgba(55,138,221,0.2)"
+          </button>
+          <button class="cat-card" style="background:rgba(55,138,221,0.1);border-color:rgba(55,138,221,0.2)"
             onclick="filterCategory('janapada', null)">
             <div class="cat-emoji">🪘</div>
             <div class="cat-name" data-cat-name="janapada" style="color:#85B7EB">జానపదం</div>
             <div class="cat-count" id="count-janapada">0 కథలు</div>
-          </div>
-          <div class="cat-card" style="background:rgba(232,168,56,0.1);border-color:rgba(232,168,56,0.2)"
+          </button>
+          <button class="cat-card" style="background:rgba(232,168,56,0.1);border-color:rgba(232,168,56,0.2)"
             onclick="filterCategory('bhagavatam', null)">
             <div class="cat-emoji">🙏</div>
             <div class="cat-name" data-cat-name="bhagavatam" style="color:#E8A838">భాగవతం</div>
             <div class="cat-count" id="count-bhagavatam">0 కథలు</div>
-          </div>
+          </button>
         </div>
       </section>
 
@@ -176,7 +187,7 @@
               <div class="section-sub">Recently added</div>
             </div>
           </div>
-          <div class="see-all" onclick="filterCategory('all', null)">అన్నీ చూడండి</div>
+          <button class="see-all" onclick="filterCategory('all', null)">అన్నీ చూడండి</button>
         </div>
         <div class="cards-row" id="recent-stories"></div>
       </section>
@@ -348,7 +359,12 @@
           : story.title;
         const card = document.createElement('div');
         card.className = 'h-card';
-        card.onclick = () => window.location.href = `story.html?id=${story.slug || story.id}`;
+        card.setAttribute('role', 'button');
+        card.setAttribute('tabindex', '0');
+        card.setAttribute('aria-label', displayTitle);
+        const _hUrl = `story.html?id=${story.slug || story.id}`;
+        card.onclick = () => window.location.href = _hUrl;
+        card.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') window.location.href = _hUrl; };
         card.innerHTML = `
           <div class="h-card-img">
             <img loading="lazy" src="${story.thumbnail}" alt="${displayTitle}">
@@ -379,7 +395,12 @@
           : story.moral;
         const card = document.createElement('div');
         card.className = 'v-card';
-        card.onclick = () => window.location.href = `story.html?id=${story.slug || story.id}`;
+        card.setAttribute('role', 'button');
+        card.setAttribute('tabindex', '0');
+        card.setAttribute('aria-label', displayTitle);
+        const _vUrl = `story.html?id=${story.slug || story.id}`;
+        card.onclick = () => window.location.href = _vUrl;
+        card.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') window.location.href = _vUrl; };
         card.innerHTML = `
           <div class="v-card-img">
             <img loading="lazy" src="${story.thumbnail}" alt="${displayTitle}">

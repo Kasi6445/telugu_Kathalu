@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="te">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>కథ కనిపించలేదు – తెలుగు కథలు</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="static/icon-192.png">
+  <meta name="theme-color" content="#FF6B35">
+  <meta name="robots" content="noindex">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Noto Sans Telugu', 'Segoe UI', sans-serif;
+      background: #0A0A0F;
+      color: white;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px 20px 40px;
+      overflow-x: hidden;
+    }
+
+    /* ── Pulsing rings (same as splash) ── */
+    .ring {
+      position: fixed;
+      border-radius: 50%;
+      border: 1px solid rgba(255, 107, 53, 0.12);
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+      animation: ringPulse 3.5s ease-in-out infinite;
+      pointer-events: none;
+    }
+    .r1 { width: 200px;  height: 200px;  animation-delay: 0s; }
+    .r2 { width: 380px;  height: 380px;  animation-delay: 0.5s; }
+    .r3 { width: 560px;  height: 560px;  animation-delay: 1s; }
+    .r4 { width: 740px;  height: 740px;  animation-delay: 1.5s; }
+
+    @keyframes ringPulse {
+      0%, 100% { opacity: 0.15; transform: translate(-50%, -50%) scale(0.97); }
+      50%       { opacity: 0.5;  transform: translate(-50%, -50%) scale(1.03); }
+    }
+
+    /* ── Center card ── */
+    .center {
+      position: relative;
+      z-index: 10;
+      text-align: center;
+      max-width: 360px;
+      width: 100%;
+    }
+
+    .owl {
+      font-size: 76px;
+      display: block;
+      margin: 0 auto 10px;
+      animation: owlFloat 2.8s ease-in-out infinite alternate;
+      filter: drop-shadow(0 0 28px rgba(255, 107, 53, 0.45));
+    }
+
+    @keyframes owlFloat {
+      from { transform: translateY(0px) rotate(-5deg); }
+      to   { transform: translateY(-16px) rotate(5deg); }
+    }
+
+    .error-num {
+      font-size: clamp(5.5rem, 22vw, 8rem);
+      font-weight: 700;
+      line-height: 1;
+      background: linear-gradient(135deg, #FF6B35, #FFD700);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: -4px;
+      margin-bottom: 10px;
+      animation: fadeUp 0.6s ease both;
+    }
+
+    .title {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: rgba(255, 255, 255, 0.9);
+      margin-bottom: 10px;
+      animation: fadeUp 0.6s ease 0.12s both;
+    }
+
+    .subtitle {
+      font-size: 0.88rem;
+      color: rgba(255, 255, 255, 0.42);
+      line-height: 1.75;
+      margin-bottom: 28px;
+      animation: fadeUp 0.6s ease 0.24s both;
+    }
+
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .home-btn {
+      display: inline-block;
+      padding: 13px 32px;
+      border-radius: 50px;
+      background: linear-gradient(135deg, #FF6B35, #F7931E);
+      color: white;
+      font-family: 'Noto Sans Telugu', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      text-decoration: none;
+      box-shadow: 0 4px 28px rgba(255, 107, 53, 0.45);
+      transition: transform 0.18s, box-shadow 0.18s;
+      animation: fadeUp 0.6s ease 0.36s both;
+    }
+
+    .home-btn:active {
+      transform: scale(0.95);
+      box-shadow: 0 2px 14px rgba(255, 107, 53, 0.3);
+    }
+
+    /* ── Story suggestions ── */
+    .suggestions {
+      position: relative;
+      z-index: 10;
+      margin-top: 40px;
+      width: 100%;
+      max-width: 360px;
+      animation: fadeUp 0.6s ease 0.5s both;
+    }
+
+    .suggestions-label {
+      font-size: 0.72rem;
+      color: rgba(255, 255, 255, 0.28);
+      text-align: center;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+    }
+
+    .sug-card {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+      border-radius: 14px;
+      padding: 10px 14px;
+      margin-bottom: 10px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.2s, border-color 0.2s;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .sug-card:active {
+      background: rgba(255, 107, 53, 0.1);
+      border-color: rgba(255, 107, 53, 0.35);
+    }
+
+    .sug-thumb {
+      width: 50px;
+      height: 50px;
+      border-radius: 10px;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: rgba(255, 255, 255, 0.05);
+    }
+
+    .sug-title {
+      font-size: 0.88rem;
+      font-weight: 700;
+      color: rgba(255, 255, 255, 0.85);
+      line-height: 1.4;
+    }
+
+    .sug-cat {
+      font-size: 0.72rem;
+      margin-top: 3px;
+      opacity: 0.85;
+    }
+
+    /* ── Brand footer ── */
+    .brand-footer {
+      position: relative;
+      z-index: 10;
+      margin-top: 32px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      opacity: 0.3;
+      font-size: 0.8rem;
+      animation: fadeUp 0.6s ease 0.65s both;
+    }
+
+    .brand-footer span:first-child { font-size: 18px; }
+  </style>
+</head>
+<body>
+
+  <!-- Background rings -->
+  <div class="ring r1"></div>
+  <div class="ring r2"></div>
+  <div class="ring r3"></div>
+  <div class="ring r4"></div>
+
+  <!-- Main content -->
+  <div class="center">
+    <span class="owl">🦉</span>
+    <div class="error-num">404</div>
+    <div class="title">ఈ కథ కనిపించలేదు!</div>
+    <div class="subtitle">
+      మీరు వెతుకుతున్న పేజీ ఇక్కడ లేదు.<br>
+      బహుశా కథ తొలగించబడింది లేదా లింక్ మారింది.
+    </div>
+    <a href="/" class="home-btn">📖 అన్ని కథలు చూడండి</a>
+  </div>
+
+  <!-- Random story suggestions -->
+  <div class="suggestions" id="suggestions"></div>
+
+  <!-- Brand mark -->
+  <div class="brand-footer">
+    <span>📖</span>
+    <span>తెలుగు కథలు</span>
+  </div>
+
+  <script>
+    const CATEGORIES = {
+      neeti:        { name: 'నీతి కథలు',    emoji: '📚', color: '#FF6B35' },
+      podupu:       { name: 'పొడుపు కథలు',  emoji: '🧩', color: '#97C459' },
+      tenali:       { name: 'తెనాలి రామ',    emoji: '🎭', color: '#AFA9EC' },
+      panchatantra: { name: 'పంచతంత్రం',     emoji: '🐒', color: '#5DCAA5' },
+      ramayana:     { name: 'రామాయణం',       emoji: '🏹', color: '#ED93B1' },
+      samethalu:    { name: 'సామెతలు',        emoji: '💬', color: '#EF9F27' },
+      janapada:     { name: 'జానపదం',         emoji: '🪘', color: '#85B7EB' },
+      bhagavatam:   { name: 'భాగవతం',        emoji: '🙏', color: '#E8A838' }
+    };
+
+    async function loadSuggestions() {
+      try {
+        const res   = await fetch('stories/index.json');
+        const data  = await res.json();
+        const picks = (data.stories || []).sort(() => Math.random() - 0.5).slice(0, 3);
+        const box   = document.getElementById('suggestions');
+        if (!picks.length) return;
+
+        box.innerHTML = '<div class="suggestions-label">ఇవి చదవండి</div>';
+        picks.forEach(s => {
+          const cat = CATEGORIES[s.category] || CATEGORIES.neeti;
+          const a   = document.createElement('a');
+          a.className = 'sug-card';
+          a.href      = `story.html?id=${s.slug || s.id}`;
+          a.innerHTML = `
+            <img class="sug-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
+            <div>
+              <div class="sug-title">${s.title}</div>
+              <div class="sug-cat" style="color:${cat.color}">${cat.emoji} ${cat.name}</div>
+            </div>`;
+          box.appendChild(a);
+        });
+      } catch (e) {}
+    }
+
+    loadSuggestions();
+  </script>
+</body>
+</html>

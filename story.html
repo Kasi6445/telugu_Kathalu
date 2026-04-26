@@ -5,9 +5,35 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>తెలుగు కథలు</title>
+
+  <!-- SEO -->
+  <meta name="description" content="పిల్లలకు తెలుగు కథలు - నైతిక విలువలతో కూడిన అందమైన కథలు">
+  <link rel="canonical" href="https://telugukathalu.in/story.html">
+
+  <!-- Open Graph (WhatsApp, Facebook, Google) -->
+  <meta property="og:type"        content="article">
+  <meta property="og:site_name"   content="Telugu Katalu - తెలుగు కథలు">
+  <meta property="og:title"       content="తెలుగు కథలు">
+  <meta property="og:description" content="పిల్లలకు తెలుగు కథలు - నైతిక విలువలతో కూడిన అందమైన కథలు">
+  <meta property="og:image"       content="https://telugukathalu.in/static/icon-512.png">
+  <meta property="og:url"         content="https://telugukathalu.in/story.html">
+
+  <!-- Twitter / X card -->
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:site"        content="@telugukathalu">
+  <meta name="twitter:title"       content="తెలుగు కథలు">
+  <meta name="twitter:description" content="పిల్లలకు తెలుగు కథలు - నైతిక విలువలతో కూడిన అందమైన కథలు">
+  <meta name="twitter:image"       content="https://telugukathalu.in/static/icon-512.png">
+
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
   <meta name="theme-color" content="#FF6B35">
+
+  <!-- Preconnect for faster font + analytics load -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+
   <link rel="stylesheet" href="static/style.css?v=5">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
@@ -274,7 +300,6 @@
         // Derive image extension from thumbnail
         imgExt = story.thumbnail ? story.thumbnail.split('.').pop() : 'jpg';
 
-        document.title = story.title + ' - తెలుగు కథలు';
         document.getElementById('final-title').textContent =
           storyLang === 'en' && story.title_en ? story.title_en
           : storyLang === 'te_en' && story.title_te_en ? story.title_te_en
@@ -285,6 +310,7 @@
           : story.moral;
 
         injectJSONLD(story, storyFolderId);
+        injectOGTags(story);
         loadFavoriteState();
 
         // Build audio elements
@@ -689,6 +715,34 @@
       script.type = 'application/ld+json';
       script.textContent = JSON.stringify(ld);
       document.head.appendChild(script);
+    }
+
+    // ── OG / TWITTER TAGS (dynamic update when story loads) ───────────────────
+    function injectOGTags(s) {
+      const title = s.title + ' - తెలుగు కథలు';
+      const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
+      const image = s.thumbnail
+        ? 'https://telugukathalu.in/' + s.thumbnail
+        : 'https://telugukathalu.in/static/icon-512.png';
+      const url   = window.location.href;
+
+      function setMeta(sel, val) {
+        const el = document.querySelector(sel);
+        if (el) el.setAttribute('content', val);
+      }
+
+      document.title = title;
+      document.querySelector('meta[name="description"]')?.setAttribute('content', desc);
+      document.querySelector('link[rel="canonical"]')?.setAttribute('href', url);
+
+      setMeta('meta[property="og:title"]',       title);
+      setMeta('meta[property="og:description"]', desc);
+      setMeta('meta[property="og:image"]',       image);
+      setMeta('meta[property="og:url"]',         url);
+
+      setMeta('meta[name="twitter:title"]',       title);
+      setMeta('meta[name="twitter:description"]', desc);
+      setMeta('meta[name="twitter:image"]',       image);
     }
 
     // ── SWIPE ─────────────────────────────────────────────────────────────────

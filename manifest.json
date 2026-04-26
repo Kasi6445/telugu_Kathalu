@@ -23,7 +23,29 @@
       "purpose": "any maskable"
     }
   ],
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "stories/20260423_094232/images/scene1.jpg",
+      "sizes": "1024x682",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "తెనాలి రాముడి కథ"
+    },
+    {
+      "src": "stories/20260417_001550/images/scene1.jpg",
+      "sizes": "1024x682",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "దయగల ఏనుగు కథ"
+    },
+    {
+      "src": "stories/20260421_085232/images/scene1.jpg",
+      "sizes": "1024x682",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "పంచతంత్రం కథ"
+    }
+  ],
   "shortcuts": [
     {
       "name": "నీతి కథలు",
