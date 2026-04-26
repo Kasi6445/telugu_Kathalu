@@ -7,42 +7,58 @@
     {
       "id": 1,
       "text": "ఒక అందమైన నెమలి అడవిలో నివసిస్తోంది. దాని రంగులు చాలా అందగా ఉంటాయి. దానికి తన రంగుల గురించి గర్వం ఉంది.",
-      "image_prompt": "The young peacock is spreading its vibrant tail feathers, strutting around the forest floor with an arrogant expression, its golden crown glinting in the sunlight, as it looks down at the other animals with a sense of superiority"
+      "image_prompt": "The young peacock is spreading its vibrant tail feathers, strutting around the forest floor with an arrogant expression, its golden crown glinting in the sunlight, as it looks down at the other animals with a sense of superiority",
+      "text_te_en": "Oka Andamaina Nemali Adavilo Nivasistondi. Daani Rangulu Chaalaa Andagaa Untaayi. Daaniki Tana Rangula Gurinchi Garvan Undi.",
+      "text_en": "A beautiful peacock lived in the forest. Its colors were very lovely. It was proud of its colors."
     },
     {
       "id": 2,
       "text": "ఒక రోజు, నెమలి ఒక సరస్సు గట్టున నడుస్తూ ఉంటుంది. అక్కడ దానికి ఒక కోడి కనిపిస్తుంది. కోడి నెమలిని చూసి చాలా ఆశ్చర్యపోతుంది.",
-      "image_prompt": "The peacock is walking along the lake shore, looking at its reflection in the water, when it notices a hen staring at it in awe, the peacock turns to face the hen with a proud smile, its feathers glistening in the sunlight"
+      "image_prompt": "The peacock is walking along the lake shore, looking at its reflection in the water, when it notices a hen staring at it in awe, the peacock turns to face the hen with a proud smile, its feathers glistening in the sunlight",
+      "text_te_en": "Oka Roju, Nemali Oka Sarassu Gattuna Nadustu Untundi. Akkada Daaniki Oka Kodi Kanipistundi. Kodi Nemalini Chusi Chaalaa Aashcharyapotundi.",
+      "text_en": "One day, the peacock was walking by a lake. There, it saw a hen. The hen was very surprised to see the peacock."
     },
     {
       "id": 3,
       "text": "కోడి నెమలిని చూసి చాలా సంతోషించింది. కోడి నెమలితో మాట్లాడాలని అనుకుంది. కానీ నెమలి కోడితో మాట్లాడలేదు.",
-      "image_prompt": "The hen is approaching the peacock, clucking and flapping its wings excitedly, but the peacock turns its back on the hen, looking away with a haughty expression, its feathers ruffled in disdain"
+      "image_prompt": "The hen is approaching the peacock, clucking and flapping its wings excitedly, but the peacock turns its back on the hen, looking away with a haughty expression, its feathers ruffled in disdain",
+      "text_te_en": "Kodi Nemalini Chusi Chaalaa Santoshinchindi. Kodi Nemalito Maatlaadaalani Anukundi. Kaani Nemali Kodito Maatlaadaledu.",
+      "text_en": "The hen was very happy to see the peacock. The hen wanted to talk to the peacock. But the peacock did not talk to the hen."
     },
     {
       "id": 4,
       "text": "నెమలి కోడితో మాట్లాడకపోవడంతో కోడి చాలా బాధపడింది. కోడి నెమలిని వదిలేసి వెళ్లిపోయింది.",
-      "image_prompt": "The hen is walking away from the peacock, looking sad and dejected, its head hung low, as the peacock watches it leave with a mixture of indifference and superiority, its feathers still ruffled"
+      "image_prompt": "The hen is walking away from the peacock, looking sad and dejected, its head hung low, as the peacock watches it leave with a mixture of indifference and superiority, its feathers still ruffled",
+      "text_te_en": "Nemali Kodito Maatlaadakapovadanto Kodi Chaalaa Baadhapadindi. Kodi Nemalini Vadilesi Vellipoyindi.",
+      "text_en": "Because the peacock didn't talk to the hen, the hen felt very sad. The hen left the peacock and walked away."
     },
     {
       "id": 5,
       "text": "కొన్ని రోజుల తరువాత, నెమలి ఒక పెద్ద ఉరగంతో పోరాడాల్సి వచ్చింది. నెమలికి ఎలాగూ తప్పించుకోవడం సాధ్యం కాలేదు.",
-      "image_prompt": "The peacock is frantically running away from a large lizard, its feathers ruffled and disheveled, as it tries to escape the lizard's snapping jaws, its golden crown askew"
+      "image_prompt": "The peacock is frantically running away from a large lizard, its feathers ruffled and disheveled, as it tries to escape the lizard's snapping jaws, its golden crown askew",
+      "text_te_en": "Konni Rojula Taruvaata, Nemali Oka Pedda Uraganto Poraadaalsi Vachchindi. Nemaliki Elaagu Tappinchukovadan Saadhyan Kaaledu.",
+      "text_en": "A few days later, the peacock had to fight a big snake. The peacock couldn't find a way to escape."
     },
     {
       "id": 6,
       "text": "నెమలి ఉరగం నుండి తప్పించుకోవడానికి ప్రయత్నిస్తోంది. కానీ దానికి సాయం చేయడానికి ఎవరూ లేకపోయినా దానికి బాధ కలిగింది.",
-      "image_prompt": "The peacock is desperately flapping its wings, trying to fly away from the lizard, but its feathers are too ruffled and it can't generate enough lift, as it looks around frantically for help, its eyes wide with fear"
+      "image_prompt": "The peacock is desperately flapping its wings, trying to fly away from the lizard, but its feathers are too ruffled and it can't generate enough lift, as it looks around frantically for help, its eyes wide with fear",
+      "text_te_en": "Nemali Uragan Nundi Tappinchukovadaaniki Prayatnistondi. Kaani Daaniki Saayan Cheyadaaniki Evaru Lekapoyinaa Daaniki Baadha Kaligindi.",
+      "text_en": "The peacock tried to escape from the snake. But it felt sad because there was no one to help it."
     },
     {
       "id": 7,
       "text": "చివరికి, నెమలి ఉరగం నుండి తప్పించుకోగలిగింది. కానీ దానికి గర్వం పోయింది. దానికి తన తప్పు తెలిసింది.",
-      "image_prompt": "The peacock is standing alone, its feathers still ruffled, looking down at the ground with a mixture of shame and regret, its golden crown dulled by the dirt and leaves, as it realizes its mistakes"
+      "image_prompt": "The peacock is standing alone, its feathers still ruffled, looking down at the ground with a mixture of shame and regret, its golden crown dulled by the dirt and leaves, as it realizes its mistakes",
+      "text_te_en": "Chivariki, Nemali Uragan Nundi Tappinchukogaligindi. Kaani Daaniki Garvan Poyindi. Daaniki Tana Tappu Telisindi.",
+      "text_en": "Finally, the peacock managed to escape from the snake. But its pride was gone. It understood its mistake."
     },
     {
       "id": 8,
       "text": "నెమలి తన తప్పును గ్రహించింది. దానికి గర్వం పోయింది. దానికి ఇతరుల పట్ల స్నేహం పెరిగింది.",
-      "image_prompt": "The peacock is standing in a sunny meadow, its feathers now smooth and shiny, looking up at the sky with a sense of humility and gratitude, as it spreads its wings in a gesture of friendship and unity with the other animals"
+      "image_prompt": "The peacock is standing in a sunny meadow, its feathers now smooth and shiny, looking up at the sky with a sense of humility and gratitude, as it spreads its wings in a gesture of friendship and unity with the other animals",
+      "text_te_en": "Nemali Tana Tappunu Grahinchindi. Daaniki Garvan Poyindi. Daaniki Itarula Patla Snehan Perigindi.",
+      "text_en": "The peacock realized its mistake. Its pride was gone. It became friendly towards others."
     }
   ],
   "id": "20260412_135946",
@@ -52,5 +68,9 @@
   "category": "neeti",
   "subcategory": "animal_morals",
   "topic": "అందమైన నెమలి గర్వం",
-  "slug": "andamaina-nemali-garvam"
+  "slug": "andamaina-nemali-garvam",
+  "title_te_en": "Andamaina Nemali Garvan",
+  "moral_te_en": "Garvan Anedi Manalni Naashanan Chestundi",
+  "title_en": "The Beautiful Peacock's Pride",
+  "moral_en": "Pride can destroy us."
 }

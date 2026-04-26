@@ -7,37 +7,51 @@
     {
       "id": 1,
       "text": "ఒక చిన్న గ్రామంలో రాము అనే పిల్లవాడు ఉండేవాడు. అతనికి రఘు అనే మిత్రుడు ఉండేవాడు. వారిద్దరూ కలిసి చదువుకొనేవారు.",
-      "image_prompt": "Ramu and Raghuram walking together, laughing and chatting, with a bright smile on their faces, as they walk through the village street, with people passing by in the background, under the warm sunlight"
+      "image_prompt": "Ramu and Raghuram walking together, laughing and chatting, with a bright smile on their faces, as they walk through the village street, with people passing by in the background, under the warm sunlight",
+      "text_te_en": "Oka Chinna Graamanlo Raamu Ane Pillavaadu Undevaadu. Ataniki Raghu Ane Mitrudu Undevaadu. Vaariddaru Kalisi Chaduvukonevaaru.",
+      "text_en": "In a small village, there lived a boy named Ramu. He had a friend named Raghu. Both of them studied together."
     },
     {
       "id": 2,
       "text": "ఒకరోజు రాము రఘును నమ్మి తన డబ్బును ఇచ్చాడు. కానీ రఘు ఆ డబ్బును తన సొంతంగా చేసుకున్నాడు.",
-      "image_prompt": "Ramu handing over his money to Raghuram, with a trusting expression on his face, as Raghuram takes the money with a sly and guilty look, while standing in front of a closed door, with a dimly lit background"
+      "image_prompt": "Ramu handing over his money to Raghuram, with a trusting expression on his face, as Raghuram takes the money with a sly and guilty look, while standing in front of a closed door, with a dimly lit background",
+      "text_te_en": "Okaroju Raamu Raghunu Nammi Tana Dabbunu Ichchaadu. Kaani Raghu Aa Dabbunu Tana Sontangaa Chesukunnaadu.",
+      "text_en": "One day, Ramu trusted Raghu and gave him his money. But Raghu kept the money for himself."
     },
     {
       "id": 3,
       "text": "రాము రఘును అడిగినప్పుడు, రఘు అబద్ధం చెప్పాడు. రాము రఘును నమ్మాడు.",
-      "image_prompt": "Ramu questioning Raghuram, with a concerned and worried expression, as Raghuram lies, looking away, with a mixture of guilt and fear on his face, while standing near a tree, with leaves rustling in the gentle breeze"
+      "image_prompt": "Ramu questioning Raghuram, with a concerned and worried expression, as Raghuram lies, looking away, with a mixture of guilt and fear on his face, while standing near a tree, with leaves rustling in the gentle breeze",
+      "text_te_en": "Raamu Raghunu Adiginappudu, Raghu Abaddhan Cheppaadu. Raamu Raghunu Nammaadu.",
+      "text_en": "When Ramu asked Raghu for the money, Raghu told a lie. Ramu believed Raghu."
     },
     {
       "id": 4,
       "text": "కొన్ని రోజుల తరువాత, రాము రఘు చేసిన నమ్మకద్రోహాన్ని తెలుసుకున్నాడు. రాము రఘును తన మిత్రుడిగా భావించలేకపోయాడు.",
-      "image_prompt": "Ramu looking shocked and disappointed, with a mixture of sadness and anger on his face, as he stands alone, with a distant look, near a river, with the sun setting behind him, casting a golden glow"
+      "image_prompt": "Ramu looking shocked and disappointed, with a mixture of sadness and anger on his face, as he stands alone, with a distant look, near a river, with the sun setting behind him, casting a golden glow",
+      "text_te_en": "Konni Rojula Taruvaata, Raamu Raghu Chesina Nammakadrohaanni Telusukunnaadu. Raamu Raghunu Tana Mitrudigaa Bhaavinchalekapoyaadu.",
+      "text_en": "A few days later, Ramu found out that Raghu had broken his trust. Ramu could no longer think of Raghu as his friend."
     },
     {
       "id": 5,
       "text": "రాము రఘును మళ్ళీ నమ్మలేకపోయాడు. రఘు రామును క్షమించమని అడిగాడు.",
-      "image_prompt": "Raghuram kneeling down, with his hands folded, and a remorseful expression, as Ramu stands in front of him, with a stern and unforgiving look, near a temple, with a calm and serene atmosphere"
+      "image_prompt": "Raghuram kneeling down, with his hands folded, and a remorseful expression, as Ramu stands in front of him, with a stern and unforgiving look, near a temple, with a calm and serene atmosphere",
+      "text_te_en": "Raamu Raghunu Malli Nammalekapoyaadu. Raghu Raamunu Kshaminchamani Adigaadu.",
+      "text_en": "Ramu could not trust Raghu again. Raghu asked Ramu to forgive him."
     },
     {
       "id": 6,
       "text": "రాము రఘును క్షమించాడు. కానీ రఘు మళ్ళీ అదే తప్పును చేయకూడదని హెచ్చరించాడు.",
-      "image_prompt": "Ramu and Raghuram standing together, with Ramu placing a hand on Raghuram's shoulder, and a forgiving expression, as Raghuram looks down, with a mix of gratitude and shame, near a park, with children playing in the background"
+      "image_prompt": "Ramu and Raghuram standing together, with Ramu placing a hand on Raghuram's shoulder, and a forgiving expression, as Raghuram looks down, with a mix of gratitude and shame, near a park, with children playing in the background",
+      "text_te_en": "Raamu Raghunu Kshaminchaadu. Kaani Raghu Malli Ade Tappunu Cheyakudadani Hechcharinchaadu.",
+      "text_en": "Ramu forgave Raghu. But he warned Raghu not to make the same mistake again."
     },
     {
       "id": 7,
       "text": "రఘు మళ్ళీ అదే తప్పును చేయడంతో, రాము రఘును తన మిత్రుడిగా భావించలేకపోయాడు. రఘు ఒంటరిగా మిగిలిపోయాడు.",
-      "image_prompt": "Raghuram standing alone, with a sad and regretful expression, as Ramu walks away, with a disappointed and hurt look, near a deserted street, with a dark and cloudy sky, and a sense of isolation"
+      "image_prompt": "Raghuram standing alone, with a sad and regretful expression, as Ramu walks away, with a disappointed and hurt look, near a deserted street, with a dark and cloudy sky, and a sense of isolation",
+      "text_te_en": "Raghu Malli Ade Tappunu Cheyadanto, Raamu Raghunu Tana Mitrudigaa Bhaavinchalekapoyaadu. Raghu Ontarigaa Migilipoyaadu.",
+      "text_en": "When Raghu made the same mistake again, Ramu could no longer think of Raghu as his friend. Raghu was left all alone."
     }
   ],
   "id": "20260412_143220",
@@ -47,5 +61,9 @@
   "category": "neeti",
   "subcategory": "human_values",
   "topic": "నమ్మకద్రోహి మిత్రుడు",
-  "slug": "nammakadrohi-mitrudu"
+  "slug": "nammakadrohi-mitrudu",
+  "title_te_en": "Nammakadrohi Mitrudu",
+  "moral_te_en": "Nammakadrohan Cheste Evaru Nammaru",
+  "title_en": "The Untrustworthy Friend",
+  "moral_en": "If you break trust, no one will trust you."
 }

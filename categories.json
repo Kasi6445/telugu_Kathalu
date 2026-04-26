@@ -7,6 +7,7 @@
     "subcategories": {
       "animal_morals": {
         "telugu_name": "జంతు కథలు",
+        "english_name": "Animal Stories",
         "topics": [
           "అహంకారి సింహం మరియు చిన్న ఎలుక",
           "తెలివైన కాకి మరియు నీళ్ల కుండ",
@@ -20,6 +21,7 @@
       },
       "human_values": {
         "telugu_name": "మానవ విలువలు",
+        "english_name": "Human Values",
         "topics": [
           "నిజాయితీ అయిన కట్టెల కాడు",
           "అబద్ధాలు చెప్పే కుర్రాడు",
@@ -31,6 +33,7 @@
       },
       "wisdom_tales": {
         "telugu_name": "జ్ఞాన కథలు",
+        "english_name": "Wisdom Tales",
         "topics": [
           "అందమైన తోట మరియు సోమరి మాలి",
           "గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు",
@@ -51,6 +54,7 @@
     "subcategories": {
       "animal_wisdom": {
         "telugu_name": "జంతు జ్ఞానం",
+        "english_name": "Animal Wisdom",
         "topics": [
           "పంచతంత్రం - సింహం మరియు ఎలుక",
           "పంచతంత్రం - తాబేలు మరియు హంసలు",
@@ -62,6 +66,7 @@
       },
       "friendship_betrayal": {
         "telugu_name": "స్నేహం మరియు ద్రోహం",
+        "english_name": "Friendship & Betrayal",
         "topics": [
           "పంచతంత్రం - నాలుగు స్నేహితులు",
           "పంచతంత్రం - బ్రాహ్మణుడు మరియు పులి",
@@ -73,6 +78,7 @@
       },
       "clever_tricks": {
         "telugu_name": "తెలివైన ఉపాయాలు",
+        "english_name": "Clever Tricks",
         "topics": [
           "పంచతంత్రం - నక్క మరియు ద్రాక్షపండ్లు",
           "పంచతంత్రం - కాకి మరియు నక్క",
@@ -93,6 +99,7 @@
     "subcategories": {
       "devotion_tales": {
         "telugu_name": "భక్తి కథలు",
+        "english_name": "Devotion Tales",
         "topics": [
           "రాముడు మరియు శబరి భక్తి",
           "రాముడు మరియు జటాయువు",
@@ -104,6 +111,7 @@
       },
       "courage_tales": {
         "telugu_name": "సాహస కథలు",
+        "english_name": "Courage Tales",
         "topics": [
           "హనుమంతుడు లంక దహనం",
           "సుగ్రీవుడు మరియు వాలి యుద్ధం",
@@ -115,6 +123,7 @@
       },
       "dharma_tales": {
         "telugu_name": "ధర్మ కథలు",
+        "english_name": "Dharma Tales",
         "topics": [
           "సీత స్వయంవరం",
           "లక్ష్మణ రేఖ రహస్యం",
@@ -135,6 +144,7 @@
     "subcategories": {
       "court_wit": {
         "telugu_name": "రాజసభ తెలివి",
+        "english_name": "Court Wit",
         "topics": [
           "తెనాలి రాముడు మరియు అహంకారి పండితుడు",
           "తెనాలి రాముడు మరియు రాజు పరీక్ష",
@@ -146,6 +156,7 @@
       },
       "clever_schemes": {
         "telugu_name": "తెలివైన పన్నాగాలు",
+        "english_name": "Clever Schemes",
         "topics": [
           "తెనాలి రామకృష్ణుడు మరియు పిల్లి పాలు",
           "తెనాలి రాముడు మరియు బంగారు ఆంబలి",
@@ -157,6 +168,7 @@
       },
       "funny_adventures": {
         "telugu_name": "హాస్య సాహసాలు",
+        "english_name": "Funny Adventures",
         "topics": [
           "తెనాలి రాముడు మరియు దొంగ",
           "తెనాలి రాముడు మరియు మాయగాడు",
@@ -177,6 +189,7 @@
     "subcategories": {
       "krishna_leela": {
         "telugu_name": "కృష్ణ లీలలు",
+        "english_name": "Krishna Leela",
         "topics": [
           "బాల కృష్ణుడు వెన్న దొంగిలించిన కథ",
           "కాళింది నదిలో కాళీయ మర్దనం",
@@ -188,6 +201,7 @@
       },
       "bhakta_stories": {
         "telugu_name": "భక్తుల కథలు",
+        "english_name": "Devotee Stories",
         "topics": [
           "ప్రహ్లాద భక్తి - నరసింహ అవతారం కథ",
           "ధ్రువుడు మరియు విష్ణు అనుగ్రహం",
@@ -199,6 +213,7 @@
       },
       "avatara_kathas": {
         "telugu_name": "అవతార కథలు",
+        "english_name": "Avatar Stories",
         "topics": [
           "మత్స్య అవతారం - ప్రళయంలో వేదాల రక్షణ",
           "కూర్మ అవతారం - సముద్ర మథనం కథ",
@@ -219,6 +234,7 @@
     "subcategories": {
       "magical_tales": {
         "telugu_name": "మాయ కథలు",
+        "english_name": "Magical Tales",
         "topics": [
           "తెలుగు జానపద కథ - మాయా రాజకుమారి",
           "తెలుగు జానపద కథ - బంగారు పక్షి",
@@ -230,6 +246,7 @@
       },
       "hero_tales": {
         "telugu_name": "వీర కథలు",
+        "english_name": "Hero Tales",
         "topics": [
           "తెలుగు జానపద కథ - వీర బాలుడు",
           "తెలుగు జానపద కథ - అడవి రాజు",
@@ -241,6 +258,7 @@
       },
       "village_tales": {
         "telugu_name": "గ్రామ కథలు",
+        "english_name": "Village Tales",
         "topics": [
           "తెలుగు జానపద కథ - మంత్రగత్తె మరియు రైతు",
           "తెలుగు జానపద కథ - నీతిమంతుడైన రైతు",
@@ -261,6 +279,7 @@
     "subcategories": {
       "nature_riddles": {
         "telugu_name": "ప్రకృతి పొడుపులు",
+        "english_name": "Nature Riddles",
         "topics": [
           "అడవిలో పొడుపు కథ చెప్పిన నక్క",
           "రాత్రి పొడుపు కథ చెప్పిన నక్షత్రాలు",
@@ -272,6 +291,7 @@
       },
       "royal_riddles": {
         "telugu_name": "రాజ పొడుపులు",
+        "english_name": "Royal Riddles",
         "topics": [
           "రాజు మరియు తెలివైన బాలుడు పొడుపు కథ",
           "తెలివైన పొడుపు కథతో రాజును మెప్పించిన బాలిక",
@@ -283,6 +303,7 @@
       },
       "clever_escapes": {
         "telugu_name": "తెలివైన తప్పింపులు",
+        "english_name": "Clever Escapes",
         "topics": [
           "పొడుపు కథతో చెరసాల నుండి తప్పించుకున్న వ్యాపారి",
           "గురువు చెప్పిన పొడుపు కథ",
@@ -303,6 +324,7 @@
     "subcategories": {
       "life_wisdom": {
         "telugu_name": "జీవిత జ్ఞానం",
+        "english_name": "Life Wisdom",
         "topics": [
           "ఓర్పు ఉన్న చోట భగవంతుడు ఉంటాడు అనే కథ",
           "కష్టేఫలే అనే సామెత కథ",
@@ -314,6 +336,7 @@
       },
       "relationships": {
         "telugu_name": "సంబంధాలు",
+        "english_name": "Relationships",
         "topics": [
           "అన్నం పెట్టిన చేయి కొట్టరాదు అనే సామెత కథ",
           "ఉప్పు తిన్న ఇంటికి రెండు పూటలు వెళ్ళాలి అనే కథ",
@@ -325,6 +348,7 @@
       },
       "hard_lessons": {
         "telugu_name": "కఠిన పాఠాలు",
+        "english_name": "Hard Lessons",
         "topics": [
           "చేతులు కాలిన తరువాత ఆకులు పట్టుకున్న కథ",
           "చదివిన విద్య చేతిలో ఉంటుంది అనే కథ",

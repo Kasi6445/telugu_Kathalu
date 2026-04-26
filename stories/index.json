@@ -11,7 +11,11 @@
       "subcategory": "clever_schemes",
       "topic": "తెనాలి రాముడు మరియు రాజు బట్టలు",
       "voice": "te-IN-Chirp3-HD-Achird",
-      "schema_version": 2
+      "schema_version": 2,
+      "title_en": "Tenali Ramu's Strange Clothes",
+      "moral_en": "Even if telling the truth feels difficult at first, one brave word can make everything clear for everyone.",
+      "title_te_en": "Tenaali Raamudi Vinta Battalu",
+      "moral_te_en": "Nijan Cheppadan Modata Kashtangaa Anipinchinaa, Okka Dhairyamaina Maata Andariki Spashtatanistundi."
     },
     {
       "id": "20260422_235842",
@@ -24,7 +28,11 @@
       "subcategory": "court_wit",
       "topic": "తెనాలి రాముడు మరియు అహంకారి రాజు",
       "voice": "te-IN-Chirp3-HD-Charon",
-      "schema_version": 2
+      "schema_version": 2,
+      "title_en": "Tenali Rama's Cleverness",
+      "moral_en": "Sometimes, clever words can teach a better lesson than a big punishment.",
+      "title_te_en": "Tenaali Raamudi Telivi Guttu",
+      "moral_te_en": "Telivaina Maatato, Gambhiramaina Shiksha Kannaa Goppa Paathan Nerpinchavachchu Kadaa."
     },
     {
       "id": "20260422_210443",
@@ -37,7 +45,11 @@
       "subcategory": "hero_tales",
       "topic": "తెలుగు జానపద కథ - పది కత్తులు పట్టిన యోధుడు",
       "voice": "te-IN-Chirp3-HD-Fenrir",
-      "schema_version": 2
+      "schema_version": 2,
+      "title_en": "The Warrior with Ten Swords",
+      "moral_en": "True strength isn't found in big, strong muscles. It's hidden in our special skills and in helping others.",
+      "title_te_en": "Padi Kattulu Pattina Yodhudu",
+      "moral_te_en": "Nijamaina Balan Ante — Kandalu Tirigina Shariranlo Undadu. Manaloni Pratyeka Naipunyaanni, Itarulaku Sahaayan Cheyadanlone Adi Daagi Untundi."
     },
     {
       "id": "20260421_154235",
@@ -50,7 +62,11 @@
       "subcategory": "bhakta_stories",
       "topic": "ధ్రువుడు మరియు విష్ణు అనుగ్రహం",
       "voice": "te-IN-Chirp3-HD-Achird",
-      "schema_version": 2
+      "schema_version": 2,
+      "title_en": "Little Dhruva, A Big Wish",
+      "moral_en": "If you truly wish for something with all your heart and never give up, the entire universe will help you in unexpected ways.",
+      "title_te_en": "Chinnaari Dhruvudu, Pedda Korika",
+      "moral_te_en": "Nuvvu Edainaa Manasupurtigaa Korukuni, Pattuvadalakapote, I Vishvan Mottan Niku Sahaayan Chestundi — Uhinchani Vidhangaa."
     },
     {
       "id": "20260421_085232",
@@ -63,7 +79,11 @@
       "subcategory": "animal_wisdom",
       "topic": "పంచతంత్రం - తాబేలు మరియు హంసలు",
       "voice": "te-IN-Chirp3-HD-Achird",
-      "schema_version": 2
+      "schema_version": 2,
+      "title_en": "Too Many Words, Too Much Trouble",
+      "moral_en": "It's always safe to listen to good advice from friends. But if our pride makes us open our mouths, we can get into big trouble.",
+      "title_te_en": "Maatalu Perigite — Aapada",
+      "moral_te_en": "Mitrula Manchi Maata Vinadan Eppudu Ksheman, Kaani Mana Garvan Mana Noru Teripiste Pramaadanlo Padataan."
     },
     {
       "id": "20260421_074637",
@@ -76,7 +96,11 @@
       "subcategory": "royal_riddles",
       "topic": "మూడు పొడుపు కథలు మరియు బహుమతి",
       "voice": "te-IN-Chirp3-HD-Laomedeia",
-      "schema_version": 2
+      "schema_version": 2,
+      "title_en": "Clever Anjali's Riddles",
+      "moral_en": "When you look at a problem from a different angle, you might find an answer you never expected, you see?",
+      "title_te_en": "Telivaina Anjali Podupu Kathalu",
+      "moral_te_en": "Oka Samasyanu Vere Konanlo Aalochiste, Eppudu Kanipinchani Samaadhaanan Dorukutundi, Chushaavaa?"
     },
     {
       "id": "20260420_090525",
@@ -89,7 +113,11 @@
       "subcategory": "hard_lessons",
       "topic": "తొందరపాటు నష్టం అనే సామెత కథ",
       "voice": "te-IN-Chirp3-HD-Iapetus",
-      "schema_version": 2
+      "schema_version": 2,
+      "title_en": "Haste Makes Trouble - Chintu's Story",
+      "moral_en": "When you do things carefully and don't rush, you won't have to do them again, and that joy is truly special.",
+      "title_te_en": "Tondarapaate Nashtan - Chintu Katha",
+      "moral_te_en": "Tondarapadakundaa Panini Sariggaa Cheste, Malli Cheyaalsina Avasaran Undadu, Aa Santoshame Veru."
     },
     {
       "id": "20260417_001550",
@@ -101,7 +129,11 @@
       "voice": "manan",
       "category": "neeti",
       "subcategory": "animal_morals",
-      "topic": "దయగల ఏనుగు"
+      "topic": "దయగల ఏనుగు",
+      "title_en": "The Kind Elephant",
+      "moral_en": "Being kind to others is very important.",
+      "title_te_en": "Dayagala Enugu",
+      "moral_te_en": "Itarula Patla Dayato Pravartinchadan Chaalaa Mukhyan"
     },
     {
       "id": "20260416_193055",
@@ -112,7 +144,11 @@
       "date": "2026-04-16",
       "category": "neeti",
       "subcategory": "wisdom_tales",
-      "topic": "గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు"
+      "topic": "గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు",
+      "title_en": "The Proud Rose and the Humble Tree",
+      "moral_en": "Pride brings trouble, humility brings good.",
+      "title_te_en": "Garvapadina Gulaabi Mariyu Vinayamaina Chettu",
+      "moral_te_en": "Garvan Valla Nashtan, Vinayan Valla Laabhan"
     },
     {
       "id": "20260416_080122",
@@ -123,7 +159,11 @@
       "date": "2026-04-16",
       "category": "neeti",
       "subcategory": "human_values",
-      "topic": "నిజాయితీ అయిన కట్టెల కాడు"
+      "topic": "నిజాయితీ అయిన కట్టెల కాడు",
+      "title_en": "The Honest Boy",
+      "moral_en": "Honesty always wins.",
+      "title_te_en": "Nijaayiti Ayina Kattela Kaadu",
+      "moral_te_en": "Nijaayiti Ellappudu Gelupunu Istundi"
     },
     {
       "id": "20260412_181108",
@@ -134,7 +174,11 @@
       "date": "2026-04-12",
       "category": "neeti",
       "subcategory": "wisdom_tales",
-      "topic": "తెలివైన వ్యాపారి"
+      "topic": "తెలివైన వ్యాపారి",
+      "title_en": "The Clever Merchant",
+      "moral_en": "A clever person always succeeds.",
+      "title_te_en": "Telivaina Vyaapaari",
+      "moral_te_en": "Telivitetalu Unnavaadu Eppudu Vijayan Saadhistaadu"
     },
     {
       "id": "20260412_173904",
@@ -145,7 +189,11 @@
       "date": "2026-04-12",
       "category": "neeti",
       "subcategory": "animal_morals",
-      "topic": "మూర్ఖుడైన గాడిద"
+      "topic": "మూర్ఖుడైన గాడిద",
+      "title_en": "The Foolish Donkey",
+      "moral_en": "Foolishness always leads to trouble.",
+      "title_te_en": "Murkhudaina Gaadida",
+      "moral_te_en": "Murkhatvan Valla Nashtame Kalugutundi"
     },
     {
       "id": "20260412_143220",
@@ -156,7 +204,11 @@
       "date": "2026-04-12",
       "category": "neeti",
       "subcategory": "human_values",
-      "topic": "నమ్మకద్రోహి మిత్రుడు"
+      "topic": "నమ్మకద్రోహి మిత్రుడు",
+      "title_en": "The Untrustworthy Friend",
+      "moral_en": "If you break trust, no one will trust you.",
+      "title_te_en": "Nammakadrohi Mitrudu",
+      "moral_te_en": "Nammakadrohan Cheste Evaru Nammaru"
     },
     {
       "id": "20260412_135946",
@@ -167,7 +219,11 @@
       "date": "2026-04-12",
       "category": "neeti",
       "subcategory": "animal_morals",
-      "topic": "అందమైన నెమలి గర్వం"
+      "topic": "అందమైన నెమలి గర్వం",
+      "title_en": "The Beautiful Peacock's Pride",
+      "moral_en": "Pride can destroy us.",
+      "title_te_en": "Andamaina Nemali Garvan",
+      "moral_te_en": "Garvan Anedi Manalni Naashanan Chestundi"
     },
     {
       "id": "20260412_131731",
@@ -178,7 +234,11 @@
       "date": "2026-04-12",
       "category": "neeti",
       "subcategory": "human_values",
-      "topic": "ఐక్యతలో బలం"
+      "topic": "ఐక్యతలో బలం",
+      "title_en": "Strength in Unity",
+      "moral_en": "There is strength in unity.",
+      "title_te_en": "Aikyatalo Balan",
+      "moral_te_en": "Aikyatalo Balan Untundi"
     },
     {
       "id": "20260412_130708",
@@ -189,7 +249,11 @@
       "date": "2026-04-12",
       "category": "neeti",
       "subcategory": "human_values",
-      "topic": "ఓర్పు గల రైతు"
+      "topic": "ఓర్పు గల రైతు",
+      "title_en": "The Patient Farmer",
+      "moral_en": "Patience brings good results.",
+      "title_te_en": "Orpu Gala Raitu",
+      "moral_te_en": "Orpu Vahinchadan Valla Manchi Phalitaalu Vastaayi"
     },
     {
       "id": "20260411_174344",
@@ -200,7 +264,11 @@
       "date": "2026-04-11",
       "category": "neeti",
       "subcategory": "wisdom_tales",
-      "topic": "అత్యాశ యొక్క పరిణామాలు"
+      "topic": "అత్యాశ యొక్క పరిణామాలు",
+      "title_en": "The Consequences of Greed",
+      "moral_en": "Greed can destroy us",
+      "title_te_en": "Atyaasha Yokka Parinaamaalu",
+      "moral_te_en": "Atyaasha Manalni Naashanan Chestundi"
     },
     {
       "id": "20260411_171746",
@@ -211,7 +279,11 @@
       "date": "2026-04-11",
       "category": "neeti",
       "subcategory": "human_values",
-      "topic": "స్నేహం యొక్క విలువ"
+      "topic": "స్నేహం యొక్క విలువ",
+      "title_en": "The Value of Friendship",
+      "moral_en": "Friendship is the most valuable treasure in life.",
+      "title_te_en": "Snehan Yòkka Viluva",
+      "moral_te_en": "Snehan Anedi Jivitanlo Atyanta Viluvaina Aasti"
     }
   ]
 }

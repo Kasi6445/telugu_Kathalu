@@ -129,6 +129,9 @@ def update_index(story: dict):
         "voice":          story.get("voice", ""),
         "schema_version": 2,
     }
+    for field in ("title_en", "moral_en", "title_te_en", "moral_te_en"):
+        if story.get(field):
+            entry[field] = story[field]
     index["stories"].insert(0, entry)
 
     tmp = INDEX_FILE.with_suffix(".tmp")

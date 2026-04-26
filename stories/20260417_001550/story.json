@@ -7,22 +7,30 @@
     {
       "id": 1,
       "text": "ఒక రోజు, దయగల ఏనుగు అడవిలో నడుస్తుండగా, ఒక చిన్న పక్షి గూటిలోంచి పడిపోయింది. ఆ పక్షి తల్లి దగ్గరకు వెళ్లి, ఏనుగు దయ చూపమని అడిగింది.",
-      "image_prompt": "The elephant bends down gently, his large ears flapping in the wind, as he carefully picks up the fallen bird with his trunk, his eyes filled with compassion, and hands it over to the mother bird, who looks at him with gratitude, set against a warm afternoon sun with the jungle foliage in the background"
+      "image_prompt": "The elephant bends down gently, his large ears flapping in the wind, as he carefully picks up the fallen bird with his trunk, his eyes filled with compassion, and hands it over to the mother bird, who looks at him with gratitude, set against a warm afternoon sun with the jungle foliage in the background",
+      "text_te_en": "Oka Roju, Dayagala Enugu Adavilo Nadustundagaa, Oka Chinna Pakshi Gutilonchi Padipoyindi. Aa Pakshi Talli Daggaraku Velli, Enugu Daya Chupamani Adigindi.",
+      "text_en": "One day, as the kind elephant was walking in the forest, a little bird fell out of its nest. The bird's mother came to the elephant and asked it to be kind."
     },
     {
       "id": 2,
       "text": "తరువాత, ఒక పాము వచ్చి, ఏనుగు కాళ్లను కొరుకుతుండగా, ఏనుగు దానిని చంపకుండా, దానిని తన తొండంతో పట్టుకొని, దూరంగా విసిరేశాడు.",
-      "image_prompt": "The elephant swiftly moves his trunk to grab the snake, his body tense with alertness, as he carefully lifts the snake, his eyes focused on the reptile, and throws it away into the underbrush, with the warm sunlight casting a dramatic shadow on the forest floor"
+      "image_prompt": "The elephant swiftly moves his trunk to grab the snake, his body tense with alertness, as he carefully lifts the snake, his eyes focused on the reptile, and throws it away into the underbrush, with the warm sunlight casting a dramatic shadow on the forest floor",
+      "text_te_en": "Taruvaata, Oka Paamu Vachchi, Enugu Kaallanu Korukutundagaa, Enugu Daanini Champakundaa, Daanini Tana Tondanto Pattukoni, Durangaa Visireshaadu.",
+      "text_en": "Later, a snake came and bit the elephant's legs. Instead of killing it, the elephant picked it up with its trunk and threw it far away."
     },
     {
       "id": 3,
       "text": "అప్పుడు, ఒక అలసటగా ఉన్న తోటబాటు ఏనుగు దగ్గరకు వచ్చి, నీటిని త్రాగమని అడిగింది. ఏనుగు తన తొండంతో నీటిని తెచ్చి, ఆ తోటబాటుకు ఇచ్చాడు.",
-      "image_prompt": "The elephant uses his trunk to scoop up water from a nearby stream, his body bent in a gentle curve, as he carefully pours the water into the mouth of the thirsty rabbit, who drinks eagerly, with the jungle surroundings blurred in the background and the focus on the tender moment between the two animals"
+      "image_prompt": "The elephant uses his trunk to scoop up water from a nearby stream, his body bent in a gentle curve, as he carefully pours the water into the mouth of the thirsty rabbit, who drinks eagerly, with the jungle surroundings blurred in the background and the focus on the tender moment between the two animals",
+      "text_te_en": "Appudu, Oka Alasatagaa Unna Totabaatu Enugu Daggaraku Vachchi, Nitini Traagamani Adigindi. Enugu Tana Tondanto Nitini Techchi, Aa Totabaatuku Ichchaadu.",
+      "text_en": "Then, a tired traveler came to the elephant and asked for water to drink. The elephant brought water with its trunk and gave it to the traveler."
     },
     {
       "id": 4,
       "text": "చివరగా, అందరూ ఏనుగు దయకు కృతజ్ఞతలు తెలిపారు. ఏనుగు వారికి ఆహారం ఇచ్చాడు.",
-      "image_prompt": "The elephant stands tall, surrounded by the animals he helped, who all look up at him with gratitude, as he wraps his trunk around a large fruit tree branch, plucking juicy fruits and distributing them among the gathering, with the warm sunlight casting a sense of community and harmony over the scene"
+      "image_prompt": "The elephant stands tall, surrounded by the animals he helped, who all look up at him with gratitude, as he wraps his trunk around a large fruit tree branch, plucking juicy fruits and distributing them among the gathering, with the warm sunlight casting a sense of community and harmony over the scene",
+      "text_te_en": "Chivaragaa, Andaru Enugu Dayaku Krritajnyatalu Telipaaru. Enugu Vaariki Aahaaran Ichchaadu.",
+      "text_en": "Finally, everyone thanked the elephant for its kindness. The elephant gave them food."
     }
   ],
   "id": "20260417_001550",
@@ -33,5 +41,9 @@
   "category": "neeti",
   "subcategory": "animal_morals",
   "topic": "దయగల ఏనుగు",
-  "slug": "dayagala-enugu"
+  "slug": "dayagala-enugu",
+  "title_te_en": "Dayagala Enugu",
+  "moral_te_en": "Itarula Patla Dayato Pravartinchadan Chaalaa Mukhyan",
+  "title_en": "The Kind Elephant",
+  "moral_en": "Being kind to others is very important."
 }

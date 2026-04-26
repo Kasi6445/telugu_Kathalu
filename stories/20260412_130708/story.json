@@ -7,27 +7,37 @@
     {
       "id": 1,
       "text": "ఒక రైతు తన పొలంలో పనిచేస్తున్నాడు. అతను చాలా కష్టపడుతున్నాడు. కానీ అతనికి ఫలితాలు రావడం లేదు.",
-      "image_prompt": "The farmer is kneeling in the soil, digging with a shovel, sweat dripping from his face, with a look of determination and frustration"
+      "image_prompt": "The farmer is kneeling in the soil, digging with a shovel, sweat dripping from his face, with a look of determination and frustration",
+      "text_te_en": "Oka Raitu Tana Polanlo Panichestunnaadu. Atanu Chaalaa Kashtapadutunnaadu. Kaani Ataniki Phalitaalu Raavadan Ledu.",
+      "text_en": "A farmer was working in his field. He worked very hard, but he wasn't getting any results."
     },
     {
       "id": 2,
       "text": "రైతు తన పొలంలో పంటలు నాటాడు. కానీ వర్షాలు రావడం లేదు. అతను చాలా బాధపడుతున్నాడు.",
-      "image_prompt": "The farmer is standing in the middle of his field, looking up at the cloudy sky, with a worried expression, holding a worn-out hat in his hand"
+      "image_prompt": "The farmer is standing in the middle of his field, looking up at the cloudy sky, with a worried expression, holding a worn-out hat in his hand",
+      "text_te_en": "Raitu Tana Polanlo Pantalu Naataadu. Kaani Varshaalu Raavadan Ledu. Atanu Chaalaa Baadhapadutunnaadu.",
+      "text_en": "The farmer planted crops in his field. But the rains didn't come, and he was very sad."
     },
     {
       "id": 3,
       "text": "రైతు తన పొలంలో నీటి సౌకర్యాలు ఏర్పాటు చేశాడు. అతను చాలా ఓర్పుతో ఉన్నాడు.",
-      "image_prompt": "The farmer is working on a irrigation system, connecting pipes and fixing leaks, with a focused expression, under the shade of a tree"
+      "image_prompt": "The farmer is working on a irrigation system, connecting pipes and fixing leaks, with a focused expression, under the shade of a tree",
+      "text_te_en": "Raitu Tana Polanlo Niti Saukaryaalu Erpaatu Cheshaadu. Atanu Chaalaa Orputo Unnaadu.",
+      "text_en": "The farmer set up a way to water his field. He was very patient."
     },
     {
       "id": 4,
       "text": "కొన్ని రోజుల తర్వాత, వర్షాలు వచ్చాయి. రైతు పొలంలో పంటలు పండాయి.",
-      "image_prompt": "The farmer is standing in his field, smiling and looking at the lush green crops, with raindrops on his face, and a sunny sky in the background"
+      "image_prompt": "The farmer is standing in his field, smiling and looking at the lush green crops, with raindrops on his face, and a sunny sky in the background",
+      "text_te_en": "Konni Rojula Tarvaata, Varshaalu Vachchaayi. Raitu Polanlo Pantalu Pandaayi.",
+      "text_en": "After a few days, the rains came. The crops grew well in the farmer's field."
     },
     {
       "id": 5,
       "text": "రైతు తన పంటలను అమ్మాడు. అతనికి మంచి ధర వచ్చింది.",
-      "image_prompt": "The farmer is sitting at a market stall, surrounded by fresh produce, with a happy expression, counting money and interacting with customers"
+      "image_prompt": "The farmer is sitting at a market stall, surrounded by fresh produce, with a happy expression, counting money and interacting with customers",
+      "text_te_en": "Raitu Tana Pantalanu Ammaadu. Ataniki Manchi Dhara Vachchindi.",
+      "text_en": "The farmer sold his crops and got a good price for them."
     }
   ],
   "id": "20260412_130708",
@@ -37,5 +47,9 @@
   "category": "neeti",
   "subcategory": "human_values",
   "topic": "ఓర్పు గల రైతు",
-  "slug": "orpu-gala-raitu"
+  "slug": "orpu-gala-raitu",
+  "title_te_en": "Orpu Gala Raitu",
+  "moral_te_en": "Orpu Vahinchadan Valla Manchi Phalitaalu Vastaayi",
+  "title_en": "The Patient Farmer",
+  "moral_en": "Patience brings good results."
 }

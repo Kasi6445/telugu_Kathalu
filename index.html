@@ -57,8 +57,9 @@
         <div class="header-icons">
           <a href="/favorites.html" class="header-fav-link" title="నా కథలు">♡</a>
           <div class="lang-switch" id="lang-switch" role="group" aria-label="Language selector">
-            <button class="lang-btn lang-te active" onclick="setLang('te')" aria-pressed="true">తెలుగు</button>
-            <button class="lang-btn lang-en" onclick="setLang('en')" aria-pressed="false">English</button>
+            <button class="lang-btn active" data-lang="te" onclick="setLang('te')" aria-pressed="true">తెలుగు</button>
+            <button class="lang-btn" data-lang="te_en" onclick="setLang('te_en')" aria-pressed="false">తె-EN</button>
+            <button class="lang-btn" data-lang="en" onclick="setLang('en')" aria-pressed="false">English</button>
           </div>
           <div class="header-search" onclick="toggleSearch()">🔍</div>
         </div>
@@ -199,14 +200,14 @@
 
   <script>
     const CATEGORIES = {
-      neeti:        { name: 'నీతి కథలు',      en: 'Moral Stories',   emoji: '📚', color: '#FF6B35' },
-      podupu:       { name: 'పొడుపు కథలు',    en: 'Riddle Stories',  emoji: '🧩', color: '#97C459' },
-      tenali:       { name: 'తెనాలి రామ',      en: 'Tenali Rama',     emoji: '🎭', color: '#AFA9EC' },
-      panchatantra: { name: 'పంచతంత్రం',       en: 'Panchatantra',    emoji: '🐒', color: '#5DCAA5' },
-      ramayana:     { name: 'రామాయణం',         en: 'Ramayana',        emoji: '🏹', color: '#ED93B1' },
-      samethalu:    { name: 'సామెతలు',          en: 'Proverbs',        emoji: '💬', color: '#EF9F27' },
-      janapada:     { name: 'జానపదం',           en: 'Folk Tales',      emoji: '🪘', color: '#85B7EB' },
-      bhagavatam:   { name: 'భాగవతం',          en: 'Bhagavatam',      emoji: '🙏', color: '#E8A838' }
+      neeti:        { name: 'నీతి కథలు',   te_en: 'Niti Kathalu',      en: 'Moral Stories',   emoji: '📚', color: '#FF6B35' },
+      podupu:       { name: 'పొడుపు కథలు', te_en: 'Podupu Kathalu',    en: 'Riddle Stories',  emoji: '🧩', color: '#97C459' },
+      tenali:       { name: 'తెనాలి రామ',  te_en: 'Tenaali Raama',     en: 'Tenali Rama',     emoji: '🎭', color: '#AFA9EC' },
+      panchatantra: { name: 'పంచతంత్రం',   te_en: 'Panchatantran',     en: 'Panchatantra',    emoji: '🐒', color: '#5DCAA5' },
+      ramayana:     { name: 'రామాయణం',     te_en: 'Raamaayanan',       en: 'Ramayana',        emoji: '🏹', color: '#ED93B1' },
+      samethalu:    { name: 'సామెతలు',     te_en: 'Saametalu',         en: 'Proverbs',        emoji: '💬', color: '#EF9F27' },
+      janapada:     { name: 'జానపదం',      te_en: 'Jaanapadan',        en: 'Folk Tales',      emoji: '🪘', color: '#85B7EB' },
+      bhagavatam:   { name: 'భాగవతం',     te_en: 'Bhaagavatan',       en: 'Bhagavatam',      emoji: '🙏', color: '#E8A838' }
     };
 
     const UI_TEXT = {
@@ -224,6 +225,21 @@
         heroBtn:        '▶ చదవండి',
         search:         'కథలు వెతకండి...',
         searchResults:  'వెతుకు ఫలితాలు',
+      },
+      te_en: {
+        brand:          'Telugu Stories',
+        all:            'All',
+        catName:        'Categories',
+        catSub:         'Browse all categories',
+        recentName:     'New Stories',
+        recentSub:      'Recently added',
+        seeAll:         'See All',
+        allStories:     'All Stories',
+        stories:        'stories',
+        heroBadge:      "Today's Story",
+        heroBtn:        '▶ Read',
+        search:         'Search stories...',
+        searchResults:  'Search Results',
       },
       en: {
         brand:          'Telugu Stories',
@@ -317,7 +333,9 @@
 
     // ── RENDER ───────────────────────────────────────────────────────────────
     function catLabel(cat) {
-      return searchLang === 'en' ? cat.en : cat.name;
+      if (searchLang === 'en')    return cat.en;
+      if (searchLang === 'te_en') return cat.te_en;
+      return cat.name;
     }
 
     function renderRecentStories(stories) {
@@ -325,7 +343,9 @@
       container.innerHTML = '';
       stories.forEach(story => {
         const cat = CATEGORIES[story.category] || CATEGORIES.neeti;
-        const displayTitle = (searchLang === 'en' && story.en_title) ? story.en_title : story.title;
+        const displayTitle = searchLang === 'en' && story.title_en ? story.title_en
+          : searchLang === 'te_en' && story.title_te_en ? story.title_te_en
+          : story.title;
         const card = document.createElement('div');
         card.className = 'h-card';
         card.onclick = () => window.location.href = `story.html?id=${story.slug || story.id}`;
@@ -351,8 +371,12 @@
       }
       stories.forEach(story => {
         const cat = CATEGORIES[story.category] || CATEGORIES.neeti;
-        const displayTitle = (searchLang === 'en' && story.en_title) ? story.en_title : story.title;
-        const displayMoral = (searchLang === 'en' && story.en_moral) ? story.en_moral : story.moral;
+        const displayTitle = searchLang === 'en' && story.title_en ? story.title_en
+          : searchLang === 'te_en' && story.title_te_en ? story.title_te_en
+          : story.title;
+        const displayMoral = searchLang === 'en' && story.moral_en ? story.moral_en
+          : searchLang === 'te_en' && story.moral_te_en ? story.moral_te_en
+          : story.moral;
         const card = document.createElement('div');
         card.className = 'v-card';
         card.onclick = () => window.location.href = `story.html?id=${story.slug || story.id}`;
@@ -379,7 +403,7 @@
         filtered = filtered.filter(s => s.subcategory === currentSub);
       if (searchQuery) {
         const q = searchQuery.toLowerCase().trim();
-        if (searchLang === 'en') {
+        if (searchLang === 'en' || searchLang === 'te_en') {
           filtered = filtered.filter(s => matchesEnglish(s, q));
         } else {
           filtered = filtered.filter(s =>
@@ -427,7 +451,8 @@
       const subs = categoriesData[catKey].subcategories || {};
       row.innerHTML = '';
 
-      const allChip = makeSubChip('అన్నీ', true, () => {
+      const allLabel = (searchLang === 'en' || searchLang === 'te_en') ? 'All' : 'అన్నీ';
+      const allChip = makeSubChip(allLabel, true, () => {
         setActiveSubChip(allChip);
         currentSub = 'all';
         applyFilters();
@@ -435,7 +460,9 @@
       row.appendChild(allChip);
 
       Object.entries(subs).forEach(([subKey, subData]) => {
-        const chip = makeSubChip(subData.telugu_name, false, () => {
+        const label = (searchLang === 'en' || searchLang === 'te_en') && subData.english_name
+          ? subData.english_name : subData.telugu_name;
+        const chip = makeSubChip(label, false, () => {
           setActiveSubChip(chip);
           currentSub = subKey;
           applyFilters();
@@ -463,13 +490,12 @@
       searchLang = lang;
       localStorage.setItem('tk_lang', lang);
       document.querySelectorAll('#lang-switch .lang-btn').forEach(b => {
-        const isActive = b.classList.contains('lang-' + lang);
+        const isActive = b.dataset.lang === lang;
         b.classList.toggle('active', isActive);
         b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       });
       applyLanguage(lang);
     }
-    function toggleLang() { setLang(searchLang === 'te' ? 'en' : 'te'); }
 
     function applyLanguage(lang) {
       const t = UI_TEXT[lang];
@@ -481,9 +507,13 @@
       const heroStory = heroStoryId ? allStories.find(s => s.id === heroStoryId) : null;
       if (heroStory) {
         document.getElementById('hero-title').textContent =
-          lang === 'en' && heroStory.en_title ? heroStory.en_title : heroStory.title;
+          lang === 'en' && heroStory.title_en ? heroStory.title_en
+          : lang === 'te_en' && heroStory.title_te_en ? heroStory.title_te_en
+          : heroStory.title;
         document.getElementById('hero-moral').textContent =
-          lang === 'en' && heroStory.en_moral ? heroStory.en_moral : heroStory.moral;
+          lang === 'en' && heroStory.moral_en ? heroStory.moral_en
+          : lang === 'te_en' && heroStory.moral_te_en ? heroStory.moral_te_en
+          : heroStory.moral;
       }
       document.querySelector('.hero-category-badge').textContent = t.heroBadge;
       document.getElementById('hero-btn').textContent = t.heroBtn;
@@ -495,7 +525,7 @@
       // Category grid card names + counts
       Object.keys(CATEGORIES).forEach(key => {
         const nameEl = document.querySelector(`[data-cat-name="${key}"]`);
-        if (nameEl) nameEl.textContent = lang === 'en' ? CATEGORIES[key].en : CATEGORIES[key].name;
+        if (nameEl) nameEl.textContent = lang === 'en' ? CATEGORIES[key].en : lang === 'te_en' ? CATEGORIES[key].te_en : CATEGORIES[key].name;
         const countEl = document.getElementById(`count-${key}`);
         if (countEl) {
           const n = allStories.filter(s => s.category === key).length;
@@ -533,7 +563,7 @@
       Object.entries(CATEGORIES).forEach(([key, cat]) => {
         const pill = document.createElement('div');
         pill.className = 'nav-pill' + (currentCat === key ? ' active' : '');
-        pill.textContent = lang === 'en' ? cat.en : cat.name;
+        pill.textContent = lang === 'en' ? cat.en : lang === 'te_en' ? cat.te_en : cat.name;
         pill.onclick = () => filterCategory(key, pill);
         nav.appendChild(pill);
       });

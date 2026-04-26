@@ -7,42 +7,58 @@
     {
       "id": 1,
       "text": "ఒక చిన్న గ్రామంలో ఒక వ్యాపారి ఉండేవాడు. అతను చాలా తెలివైనవాడు. అతను తన వ్యాపారాన్ని పెంచుకోవాలని అనుకున్నాడు.",
-      "image_prompt": "The businessman is walking quickly through the market, looking around with a determined expression, his eyes scanning the stalls and products on display, with the morning sunlight casting a warm glow on his face"
+      "image_prompt": "The businessman is walking quickly through the market, looking around with a determined expression, his eyes scanning the stalls and products on display, with the morning sunlight casting a warm glow on his face",
+      "text_te_en": "Oka Chinna Graamanlo Oka Vyaapaari Undevaadu. Atanu Chaalaa Telivainavaadu. Atanu Tana Vyaapaaraanni Penchukovaalani Anukunnaadu.",
+      "text_en": "There once was a merchant in a small village. He was very clever. He wanted to make his business bigger."
     },
     {
       "id": 2,
       "text": "అతను ఒక పెద్ద నగరానికి వెళ్లాడు. అక్కడ అతను చాలా డబ్బు సంపాదించాడు. కానీ అతను గర్వంగా మాట్లాడడం ప్రారంభించాడు.",
-      "image_prompt": "The businessman is standing in front of a large skyscraper, looking up at it with a mixture of awe and pride, his arms crossed and a smile on his face, with the city lights reflecting off the glass windows"
+      "image_prompt": "The businessman is standing in front of a large skyscraper, looking up at it with a mixture of awe and pride, his arms crossed and a smile on his face, with the city lights reflecting off the glass windows",
+      "text_te_en": "Atanu Oka Pedda Nagaraaniki Vellaadu. Akkada Atanu Chaalaa Dabbu Sampaadinchaadu. Kaani Atanu Garvangaa Maatlaadadan Praarambhinchaadu.",
+      "text_en": "He went to a big city. There, he earned a lot of money. But he started to talk very proudly."
     },
     {
       "id": 3,
       "text": "ఒక రోజు అతను ఒక చిన్న దుకాణంలో ఉన్నాడు. అక్కడ అతను ఒక పేద వ్యక్తిని చూశాడు. ఆ వ్యక్తి అతనిని చూసి నవ్వాడు.",
-      "image_prompt": "The businessman is sitting in a small shop, looking at the poor man with a mixture of curiosity and surprise, his eyebrows raised and his head tilted to the side, with the dim light of the shop casting a warm glow on the scene"
+      "image_prompt": "The businessman is sitting in a small shop, looking at the poor man with a mixture of curiosity and surprise, his eyebrows raised and his head tilted to the side, with the dim light of the shop casting a warm glow on the scene",
+      "text_te_en": "Oka Roju Atanu Oka Chinna Dukaananlo Unnaadu. Akkada Atanu Oka Peda Vyaktini Chushaadu. Aa Vyakti Atanini Chusi Navvaadu.",
+      "text_en": "One day, he was in a small shop. There, he saw a poor person. That person looked at him and smiled."
     },
     {
       "id": 4,
       "text": "ఆ వ్యక్తి అతనితో మాట్లాడాడు. అతను తన గర్వాన్ని వదిలిపెట్టాలని చెప్పాడు. అతను తన తెలివితేటలను ఉపయోగించాలని చెప్పాడు.",
-      "image_prompt": "The poor man is speaking to the businessman, his eyes locked intensely on the businessman's face, his hands gesturing emphatically as he talks, with the businessman looking at him with a mixture of surprise and curiosity"
+      "image_prompt": "The poor man is speaking to the businessman, his eyes locked intensely on the businessman's face, his hands gesturing emphatically as he talks, with the businessman looking at him with a mixture of surprise and curiosity",
+      "text_te_en": "Aa Vyakti Atanito Maatlaadaadu. Atanu Tana Garvaanni Vadilipettaalani Cheppaadu. Atanu Tana Telivitetalanu Upayoginchaalani Cheppaadu.",
+      "text_en": "The person spoke to him. He told the merchant to let go of his pride. He also told him to use his cleverness wisely."
     },
     {
       "id": 5,
       "text": "అతను ఆ వ్యక్తి మాటలను విన్నాడు. అతను తన గర్వాన్ని వదిలిపెట్టాడు. అతను తన వ్యాపారాన్ని మళ్లీ ప్రారంభించాడు.",
-      "image_prompt": "The businessman is standing in front of a new shop, looking determined and focused, his eyes fixed on the sign above the door, with the morning sunlight casting a warm glow on the scene"
+      "image_prompt": "The businessman is standing in front of a new shop, looking determined and focused, his eyes fixed on the sign above the door, with the morning sunlight casting a warm glow on the scene",
+      "text_te_en": "Atanu Aa Vyakti Maatalanu Vinnaadu. Atanu Tana Garvaanni Vadilipettaadu. Atanu Tana Vyaapaaraanni Malli Praarambhinchaadu.",
+      "text_en": "The merchant listened to the person's words. He let go of his pride. He started his business again."
     },
     {
       "id": 6,
       "text": "అతను తన వ్యాపారాన్ని విజయవంతంగా నడిపాడు. అతను చాలా డబ్బు సంపాదించాడు. అతను తన గ్రామానికి తిరిగి వచ్చాడు.",
-      "image_prompt": "The businessman is standing in the middle of his hometown, surrounded by happy and prosperous villagers, with a big smile on his face and a sense of pride and accomplishment, with the warm sunlight casting a golden glow on the scene"
+      "image_prompt": "The businessman is standing in the middle of his hometown, surrounded by happy and prosperous villagers, with a big smile on his face and a sense of pride and accomplishment, with the warm sunlight casting a golden glow on the scene",
+      "text_te_en": "Atanu Tana Vyaapaaraanni Vijayavantangaa Nadipaadu. Atanu Chaalaa Dabbu Sampaadinchaadu. Atanu Tana Graamaaniki Tirigi Vachchaadu.",
+      "text_en": "He ran his business very successfully. He earned a lot of money. Then he returned to his village."
     },
     {
       "id": 7,
       "text": "అతను తన గ్రామాన్ని అభివృద్ధి చేశాడు. అతను పాఠశాలలు, వైద్యశాలలు నిర్మించాడు. అతను తన గ్రామానికి చాలా సహాయం చేశాడు.",
-      "image_prompt": "The businessman is standing in front of a newly built school, surrounded by happy children and villagers, with a sense of pride and fulfillment on his face, with the sun shining down on the scene"
+      "image_prompt": "The businessman is standing in front of a newly built school, surrounded by happy children and villagers, with a sense of pride and fulfillment on his face, with the sun shining down on the scene",
+      "text_te_en": "Atanu Tana Graamaanni Abhivrriddhi Cheshaadu. Atanu Paathashaalalu, Vaidyashaalalu Nirminchaadu. Atanu Tana Graamaaniki Chaalaa Sahaayan Cheshaadu.",
+      "text_en": "He helped his village grow. He built schools and hospitals. He helped his village a great deal."
     },
     {
       "id": 8,
       "text": "అతను తన జీవితాన్ని సంతోషంగా గడిపాడు. అతను తన గ్రామానికి చాలా సహాయం చేశాడు. అతను ఒక గొప్ప వ్యాపారిగా మారాడు.",
-      "image_prompt": "The businessman is sitting on a chair, looking out at the prosperous and happy village, with a sense of contentment and satisfaction on his face, with the warm sunlight casting a golden glow on the scene"
+      "image_prompt": "The businessman is sitting on a chair, looking out at the prosperous and happy village, with a sense of contentment and satisfaction on his face, with the warm sunlight casting a golden glow on the scene",
+      "text_te_en": "Atanu Tana Jivitaanni Santoshangaa Gadipaadu. Atanu Tana Graamaaniki Chaalaa Sahaayan Cheshaadu. Atanu Oka Goppa Vyaapaarigaa Maaraadu.",
+      "text_en": "He lived a happy life. He helped his village a lot and became a truly great merchant."
     }
   ],
   "id": "20260412_181108",
@@ -52,5 +68,9 @@
   "category": "neeti",
   "subcategory": "wisdom_tales",
   "topic": "తెలివైన వ్యాపారి",
-  "slug": "telivaina-vyapari"
+  "slug": "telivaina-vyapari",
+  "title_te_en": "Telivaina Vyaapaari",
+  "moral_te_en": "Telivitetalu Unnavaadu Eppudu Vijayan Saadhistaadu",
+  "title_en": "The Clever Merchant",
+  "moral_en": "A clever person always succeeds."
 }

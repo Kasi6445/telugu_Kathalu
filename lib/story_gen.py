@@ -1,9 +1,10 @@
 """
-lib/story_gen.py — Three-pass story generation for Telugu Katalu.
+lib/story_gen.py — Four-pass story generation for Telugu Katalu.
 
 Pass 1: Outline (gemini-2.5-pro)      — narrative arc design in English
 Pass 2: Telugu narration (gemini-2.5-flash) — grandmother-voiced execution
 Pass 3: Quality validation (gemini-2.5-pro) — strict literary scoring, retry if < 8.0
+Pass 4: Translations (gemini-2.5-flash) — te-en transliteration + English translation
 
 Pro rate limit (free tier): 2 req/min.
 Defensive handling: sleep before Pro calls, 429 retry, timing log.
@@ -16,11 +17,36 @@ from datetime import datetime
 
 from google import genai
 from google.genai import types
+from indic_transliteration import sanscript
+from indic_transliteration.sanscript import transliterate as _itrans_transliterate
 
 from lib.config import GEMINI_API_KEY, STYLE_LOCK, LOGS_DIR
 from lib.voices import pick_voice
 
 logger = logging.getLogger(__name__)
+
+
+# ── Transliteration helper ────────────────────────────────────────────────────
+
+def telugu_to_readable_english(text: str) -> str:
+    """Convert Telugu script to Title Case casual English transliteration."""
+    itrans = _itrans_transliterate(text, sanscript.TELUGU, sanscript.ITRANS)
+    # Handle uppercase vowel markers and anusvara context BEFORE lowercasing
+    pre = [
+        ('Mch', 'nch'), ('MT', 'nt'), ('Mk', 'nk'), ('Mg', 'ng'),
+        ('Mp', 'mp'),   ('Mb', 'mb'), ('M',  'n'),
+        ('A',  'aa'),   ('I',  'ii'), ('U',  'uu'),
+    ]
+    result = itrans
+    for old, new in pre:
+        result = result.replace(old, new)
+    result = result.lower()
+    # Clean up non-ASCII vowel markers and remaining ITRANS artefacts
+    post = [('è', 'e'), ('ò', 'o'), ('R^i', 'ri'), ('~n', 'ny'), ('~N', 'ng'), ('ii', 'i'), ('uu', 'u')]
+    for old, new in post:
+        result = result.replace(old, new)
+    return result.title()
+
 
 # ── Model constants — swap here to experiment ─────────────────────────────────
 OUTLINE_MODEL    = "gemini-2.5-pro"
@@ -506,6 +532,71 @@ Return ONLY valid JSON:
     return avg, result
 
 
+# ── Pass 4: Translations ─────────────────────────────────────────────────────
+
+def _pass4_translations(story: dict) -> dict:
+    """Add _te_en (transliteration) and _en (English) fields to story and scenes.
+
+    Transliteration is fast and local.
+    English translation is a single batched Gemini Flash call.
+    """
+    # Transliteration — no API, instant
+    story['title_te_en'] = telugu_to_readable_english(story['title'])
+    story['moral_te_en'] = telugu_to_readable_english(story['moral'])
+    for scene in story['scenes']:
+        scene['text_te_en'] = telugu_to_readable_english(scene['text'])
+
+    # English translation — one batched Flash call
+    payload = {
+        'title': story['title'],
+        'moral': story['moral'],
+        'scenes': [{'id': s['id'], 'text': s['text']} for s in story['scenes']],
+    }
+
+    prompt = f"""\
+Translate this Telugu children's story to natural English.
+- Simple, clear English for children aged 5-12
+- Preserve emotional tone and storytelling warmth
+- Don't add or remove meaning
+- Keep character names as-is
+- Return ONLY valid JSON, no notes or markdown
+
+Input JSON:
+{json.dumps(payload, ensure_ascii=False, indent=2)}
+
+Return exactly this structure:
+{{
+  "title_en": "...",
+  "moral_en": "...",
+  "scenes": [{{"id": 1, "text_en": "..."}}]
+}}"""
+
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    t0 = time.time()
+    response = client.models.generate_content(
+        model=NARRATION_MODEL,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            response_mime_type='application/json',
+            temperature=0.3,
+        ),
+    )
+    elapsed = time.time() - t0
+    _log_timing(NARRATION_MODEL, elapsed)
+
+    translations = json.loads(response.text)
+    story['title_en'] = translations['title_en']
+    story['moral_en'] = translations['moral_en']
+
+    scene_map = {s['id']: s for s in story['scenes']}
+    for t_scene in translations.get('scenes', []):
+        if t_scene['id'] in scene_map:
+            scene_map[t_scene['id']]['text_en'] = t_scene['text_en']
+
+    logger.info(f"Pass 4 OK: translations added — '{story['title_en']}'")
+    return story
+
+
 # ── Public API ────────────────────────────────────────────────────────────────
 
 def generate_story(cat_key: str, sub_key: str, topic: str,
@@ -566,5 +657,8 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
     final_story["quality_scores"] = final_scores
     if quality_warning:
         final_story["quality_warning"] = True
+
+    # ── Pass 4: Translations ──────────────────────────────────────────────────
+    final_story = _pass4_translations(final_story)
 
     return final_story

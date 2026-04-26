@@ -34,8 +34,9 @@
       <span id="scene-counter">1 / 6</span>
       <div class="top-bar-right">
         <div class="lang-switch" id="story-lang-switch" role="group" aria-label="Language selector">
-          <button class="lang-btn lang-te active" onclick="storySetLang('te')" aria-pressed="true">తె</button>
-          <button class="lang-btn lang-en" onclick="storySetLang('en')" aria-pressed="false">EN</button>
+          <button class="lang-btn active" data-lang="te" onclick="storySetLang('te')" aria-pressed="true">తె</button>
+          <button class="lang-btn" data-lang="te_en" onclick="storySetLang('te_en')" aria-pressed="false">తె-EN</button>
+          <button class="lang-btn" data-lang="en" onclick="storySetLang('en')" aria-pressed="false">EN</button>
         </div>
         <button id="fav-btn" onclick="toggleFavorite()" title="నా కథలు">♡</button>
       </div>
@@ -209,7 +210,9 @@
       // Compute offsets on demand if not ready yet
       if (!_wordOffsets.length && _wordSpans.length) {
         const sc  = story.scenes.find(s => s.id === sceneId) || story.scenes[currentIndex];
-        const txt = (storyLang === 'en' && sc.en_text) ? sc.en_text : (sc.text || '');
+        const txt = storyLang === 'en' && sc.text_en ? sc.text_en
+          : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
+          : (sc.text || '');
         computeWordOffsets(audio.duration, txt);
       }
       if (wordIdx >= _wordOffsets.length) return;
@@ -257,7 +260,7 @@
         }
 
         // Hide lang toggle when story has no English content at all
-        const storyHasEnglish = !!(story.en_title || story.scenes.some(s => s.en_text));
+        const storyHasEnglish = !!(story.title_en || story.title_te_en || story.scenes.some(s => s.text_en || s.text_te_en));
         const langSwitch = document.getElementById('story-lang-switch');
         if (!storyHasEnglish) {
           langSwitch.style.display = 'none';
@@ -272,9 +275,13 @@
 
         document.title = story.title + ' - తెలుగు కథలు';
         document.getElementById('final-title').textContent =
-          (storyLang === 'en' && story.en_title) ? story.en_title : story.title;
+          storyLang === 'en' && story.title_en ? story.title_en
+          : storyLang === 'te_en' && story.title_te_en ? story.title_te_en
+          : story.title;
         document.getElementById('final-moral').textContent =
-          (storyLang === 'en' && story.en_moral) ? story.en_moral : story.moral;
+          storyLang === 'en' && story.moral_en ? story.moral_en
+          : storyLang === 'te_en' && story.moral_te_en ? story.moral_te_en
+          : story.moral;
 
         injectJSONLD(story, storyFolderId);
         loadFavoriteState();
@@ -349,8 +356,12 @@
       textEl.style.opacity = '0';
       _textTimeout = setTimeout(() => {
         _textTimeout = null;
-        titleEl.textContent = (storyLang === 'en' && story.en_title) ? story.en_title : story.title;
-        const sceneText     = (storyLang === 'en' && scene.en_text)  ? scene.en_text  : scene.text;
+        titleEl.textContent = storyLang === 'en' && story.title_en ? story.title_en
+          : storyLang === 'te_en' && story.title_te_en ? story.title_te_en
+          : story.title;
+        const sceneText = storyLang === 'en' && scene.text_en ? scene.text_en
+          : storyLang === 'te_en' && scene.text_te_en ? scene.text_te_en
+          : scene.text;
         renderWordSpans(sceneText, scene.id);
         textEl.style.opacity = '1';
       }, 250);
@@ -400,7 +411,9 @@
         // Compute word offsets once spans are ready and duration is known
         if (!_wordOffsets.length && _wordSpans.length) {
           const sc  = story.scenes[index];
-          const txt = (storyLang === 'en' && sc.en_text) ? sc.en_text : (sc.text || '');
+          const txt = storyLang === 'en' && sc.text_en ? sc.text_en
+            : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
+            : (sc.text || '');
           computeWordOffsets(audio.duration, txt);
         }
         highlightWordAtTime(audio.currentTime);
@@ -423,7 +436,7 @@
         // Audio unavailable locally — auto-advance after text-length-based delay
         isPlaying = false;
         updatePlayBtn();
-        const textLen = (scene.en_text || scene.text).length;
+        const textLen = (scene.text_en || scene.text).length;
         const delay   = Math.max(4000, Math.min(9000, textLen * 35));
         _fallbackTimer = setTimeout(() => nextScene(), delay);
       });
@@ -458,10 +471,10 @@
     function updatePlayBtn() {
       const btn = document.getElementById('play-pause-btn');
       if (!btn) return;
-      if (storyLang === 'en') {
-        btn.textContent = isPlaying ? '⏸ Pause' : '▶ Listen';
-      } else {
+      if (storyLang === 'te') {
         btn.textContent = isPlaying ? '⏸ ఆపు' : '▶ వినండి';
+      } else {
+        btn.textContent = isPlaying ? '⏸ Pause' : '▶ Listen';
       }
     }
 
@@ -501,6 +514,13 @@
         shareBtn:     '📤 పంచుకోండి',
         homeBtn:      '← అన్ని కథలు',
       },
+      te_en: {
+        backLink:     '← All Stories',
+        moralHeading: 'Story Complete',
+        moralLabel:   'Moral',
+        shareBtn:     '📤 Share',
+        homeBtn:      '← All Stories',
+      },
       en: {
         backLink:     '← All Stories',
         moralHeading: 'Story Complete',
@@ -516,7 +536,7 @@
 
       // Toggle lang-switch buttons
       document.querySelectorAll('#story-lang-switch .lang-btn').forEach(b => {
-        const isActive = b.classList.contains('lang-' + lang);
+        const isActive = b.dataset.lang === lang;
         b.classList.toggle('active', isActive);
         b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       });
@@ -524,29 +544,37 @@
       // Update every static UI string
       const t = UI_TEXT[lang] || UI_TEXT.te;
       const el = id => document.getElementById(id);
-      el('back-link')    && (el('back-link').textContent    = t.backLink);
-      el('moral-heading')&& (el('moral-heading').textContent= t.moralHeading);
-      el('moral-label')  && (el('moral-label').textContent  = t.moralLabel);
-      el('share-btn')    && (el('share-btn').textContent    = t.shareBtn);
-      el('moral-home-btn')&&(el('moral-home-btn').textContent= t.homeBtn);
-      updatePlayBtn(); // refresh play/pause label in current language
+      el('back-link')     && (el('back-link').textContent     = t.backLink);
+      el('moral-heading') && (el('moral-heading').textContent = t.moralHeading);
+      el('moral-label')   && (el('moral-label').textContent   = t.moralLabel);
+      el('share-btn')     && (el('share-btn').textContent     = t.shareBtn);
+      el('moral-home-btn')&& (el('moral-home-btn').textContent= t.homeBtn);
+      updatePlayBtn();
 
       if (!story) return;
 
-      // Refresh subtitle + story title
+      // Refresh scene text + title
       const scene     = story.scenes[currentIndex];
-      const sceneText = (lang === 'en' && scene.en_text) ? scene.en_text : scene.text;
+      const sceneText = lang === 'en' && scene.text_en ? scene.text_en
+        : lang === 'te_en' && scene.text_te_en ? scene.text_te_en
+        : scene.text;
       el('slide-story-title').textContent =
-        (lang === 'en' && story.en_title) ? story.en_title : story.title;
+        lang === 'en' && story.title_en ? story.title_en
+        : lang === 'te_en' && story.title_te_en ? story.title_te_en
+        : story.title;
       renderWordSpans(sceneText, scene.id);
       const audio = el(`audio-${scene.id}`);
       if (audio && audio.duration) computeWordOffsets(audio.duration, sceneText);
 
-      // Moral screen dynamic content
+      // Moral screen
       el('final-title').textContent =
-        (lang === 'en' && story.en_title) ? story.en_title : story.title;
+        lang === 'en' && story.title_en ? story.title_en
+        : lang === 'te_en' && story.title_te_en ? story.title_te_en
+        : story.title;
       el('final-moral').textContent =
-        (lang === 'en' && story.en_moral) ? story.en_moral : story.moral;
+        lang === 'en' && story.moral_en ? story.moral_en
+        : lang === 'te_en' && story.moral_te_en ? story.moral_te_en
+        : story.moral;
     }
 
     // ── SPEED ─────────────────────────────────────────────────────────────────

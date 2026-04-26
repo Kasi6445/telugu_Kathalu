@@ -7,37 +7,51 @@
     {
       "id": 1,
       "text": "ఒక చిన్న గ్రామంలో ఒక పేద బాలుడు ఉండేవాడు. అతనికి ఎప్పుడూ ఎక్కువైన ఆశలు ఉండేవి. అతను ఎప్పుడూ ధనవంతుడవ్వాలని కోరుకునేవాడు.",
-      "image_prompt": "The boy is kneeling down, eyes closed, and hands clasped together in prayer, with a determined expression on his face, surrounded by piles of books and papers, in a dimly lit room with a single ray of sunlight peeking through the window"
+      "image_prompt": "The boy is kneeling down, eyes closed, and hands clasped together in prayer, with a determined expression on his face, surrounded by piles of books and papers, in a dimly lit room with a single ray of sunlight peeking through the window",
+      "text_te_en": "Oka Chinna Graamanlo Oka Peda Baaludu Undevaadu. Ataniki Eppudu Ekkuvaina Aashalu Undevi. Atanu Eppudu Dhanavantudavvaalani Korukunevaadu.",
+      "text_en": "In a small village, there lived a poor boy. He always wished for more and more. He always wanted to become very rich."
     },
     {
       "id": 2,
       "text": "ఒక రోజు, అతను ఒక పెద్ద భవనాన్ని చూసి, అది తనదిగా ఉండాలని కోరుకున్నాడు. అతను ఎప్పుడూ ఆ భవనాన్ని చూస్తూ, అది తనదిగా ఉండాలని ఆశించేవాడు.",
-      "image_prompt": "The boy is standing in front of a large mansion, looking up at it with a mixture of awe and longing, his eyes wide with desire, and his fists clenched at his sides, with a bright blue sky and fluffy white clouds in the background"
+      "image_prompt": "The boy is standing in front of a large mansion, looking up at it with a mixture of awe and longing, his eyes wide with desire, and his fists clenched at his sides, with a bright blue sky and fluffy white clouds in the background",
+      "text_te_en": "Oka Roju, Atanu Oka Pedda Bhavanaanni Chusi, Adi Tanadigaa Undaalani Korukunnaadu. Atanu Eppudu Aa Bhavanaanni Chustu, Adi Tanadigaa Undaalani Aashinchevaadu.",
+      "text_en": "One day, he saw a big mansion and wished it was his. He would always look at that mansion, dreaming it would be his one day."
     },
     {
       "id": 3,
       "text": "కొన్ని రోజుల తర్వాత, అతను ఆ భవనాన్ని కొనుగోలు చేయడానికి సరిపడా డబ్బు సంపాదించాడు. కానీ, అతను అప్పుడు మరింత ధనవంతుడవ్వాలని కోరుకున్నాడు.",
-      "image_prompt": "The boy is sitting at a large desk, surrounded by stacks of money and papers, with a calculating expression on his face, and a pen in his hand, in a dimly lit room with a single lamp shining down on him"
+      "image_prompt": "The boy is sitting at a large desk, surrounded by stacks of money and papers, with a calculating expression on his face, and a pen in his hand, in a dimly lit room with a single lamp shining down on him",
+      "text_te_en": "Konni Rojula Tarvaata, Atanu Aa Bhavanaanni Konugolu Cheyadaaniki Saripadaa Dabbu Sampaadinchaadu. Kaani, Atanu Appudu Marinta Dhanavantudavvaalani Korukunnaadu.",
+      "text_en": "After some time, he earned enough money to buy the mansion. But then, he wanted to become even richer."
     },
     {
       "id": 4,
       "text": "అతను ఎప్పుడూ మరింత డబ్బు సంపాదించడానికి ప్రయత్నించేవాడు. కానీ, అతని అత్యాశ అతనిని నాశనం చేసింది.",
-      "image_prompt": "The boy is standing in a desolate, ruined landscape, with a look of despair on his face, and his clothes torn and tattered, with a dark and stormy sky in the background"
+      "image_prompt": "The boy is standing in a desolate, ruined landscape, with a look of despair on his face, and his clothes torn and tattered, with a dark and stormy sky in the background",
+      "text_te_en": "Atanu Eppudu Marinta Dabbu Sampaadinchadaaniki Prayatninchevaadu. Kaani, Atani Atyaasha Atanini Naashanan Chesindi.",
+      "text_en": "He always tried to earn more and more money. But his greed started to ruin him."
     },
     {
       "id": 5,
       "text": "అతను తన అత్యాశ వల్ల అన్నింటినీ కోల్పోయాడు. అతను చివరికి తన తప్పును గ్రహించాడు.",
-      "image_prompt": "The boy is kneeling down, with his head in his hands, and a look of regret on his face, in a quiet and peaceful environment, with a warm sunlight shining down on him"
+      "image_prompt": "The boy is kneeling down, with his head in his hands, and a look of regret on his face, in a quiet and peaceful environment, with a warm sunlight shining down on him",
+      "text_te_en": "Atanu Tana Atyaasha Valla Annintini Kolpoyaadu. Atanu Chivariki Tana Tappunu Grahinchaadu.",
+      "text_en": "Because of his greed, he lost everything he had. Finally, he understood his mistake."
     },
     {
       "id": 6,
       "text": "అతను తన అత్యాశను వదిలించుకోవడానికి ప్రయత్నించాడు. అతను తన జీవితాన్ని మళ్లీ పరిచయం చేసుకోవడానికి ప్రయత్నించాడు.",
-      "image_prompt": "The boy is standing in a beautiful garden, with a look of hope on his face, and a small plant in his hand, with a bright blue sky and fluffy white clouds in the background"
+      "image_prompt": "The boy is standing in a beautiful garden, with a look of hope on his face, and a small plant in his hand, with a bright blue sky and fluffy white clouds in the background",
+      "text_te_en": "Atanu Tana Atyaashanu Vadilinchukovadaaniki Prayatninchaadu. Atanu Tana Jivitaanni Malli Parichayan Chesukovadaaniki Prayatninchaadu.",
+      "text_en": "He tried to get rid of his greed. He tried to start his life over again."
     },
     {
       "id": 7,
       "text": "అతను చివరికి తన అత్యాశను అధిగమించాడు. అతను తన జీవితాన్ని మళ్లీ కట్టుకోవడానికి విజయం సాధించాడు.",
-      "image_prompt": "The boy is standing in a bright and sunny environment, with a look of happiness on his face, and his arms outstretched, with a beautiful landscape in the background"
+      "image_prompt": "The boy is standing in a bright and sunny environment, with a look of happiness on his face, and his arms outstretched, with a beautiful landscape in the background",
+      "text_te_en": "Atanu Chivariki Tana Atyaashanu Adhigaminchaadu. Atanu Tana Jivitaanni Malli Kattukovadaaniki Vijayan Saadhinchaadu.",
+      "text_en": "He finally overcame his greed. He succeeded in building his life back up."
     }
   ],
   "id": "20260411_174344",
@@ -47,5 +61,9 @@
   "category": "neeti",
   "subcategory": "wisdom_tales",
   "topic": "అత్యాశ యొక్క పరిణామాలు",
-  "slug": "atyasha-yokka-parinaamaalu"
+  "slug": "atyasha-yokka-parinaamaalu",
+  "title_te_en": "Atyaasha Yokka Parinaamaalu",
+  "moral_te_en": "Atyaasha Manalni Naashanan Chestundi",
+  "title_en": "The Consequences of Greed",
+  "moral_en": "Greed can destroy us"
 }

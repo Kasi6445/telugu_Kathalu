@@ -7,37 +7,51 @@
     {
       "id": 1,
       "text": "ఒక చిన్న గ్రామంలో నాలుగు మంది స్నేహితులు ఉండేవారు. వారి పేర్లు రాము, రవి, రాజు, మరియు రాకేష్. వారు ఎల్లప్పుడూ కలిసి ఆడుకునేవారు.",
-      "image_prompt": "The four friends are running together in a green field, laughing and playing, with the sun shining down on them, and a few birds flying overhead"
+      "image_prompt": "The four friends are running together in a green field, laughing and playing, with the sun shining down on them, and a few birds flying overhead",
+      "text_te_en": "Oka Chinna Graamanlo Naalugu Mandi Snehitulu Undevaaru. Vaari Perlu Raamu, Ravi, Raaju, Mariyu Raakesh. Vaaru Ellappudu Kalisi Aadukunevaaru.",
+      "text_en": "In a small village, there lived four friends. Their names were Ramu, Ravi, Raju, and Rakesh. They always played together."
     },
     {
       "id": 2,
       "text": "ఒక రోజు, వారి గ్రామంలో ఒక పెద్ద సమస్య వచ్చింది. ఒక పెద్ద పంది వారి పొలాల్లోకి ప్రవేశించి, పంటలను నాశనం చేయడం ప్రారంభించింది.",
-      "image_prompt": "The big pig is rampaging through the fields, destroying crops and causing chaos, while the four friends are watching in shock and horror"
+      "image_prompt": "The big pig is rampaging through the fields, destroying crops and causing chaos, while the four friends are watching in shock and horror",
+      "text_te_en": "Oka Roju, Vaari Graamanlo Oka Pedda Samasya Vachchindi. Oka Pedda Pandi Vaari Polaalloki Praveshinchi, Pantalanu Naashanan Cheyadan Praarambhinchindi.",
+      "text_en": "One day, a big problem came to their village. A large wild pig entered their fields and started destroying the crops."
     },
     {
       "id": 3,
       "text": "రాము, రవి, రాజు, మరియు రాకేష్ ఈ సమస్యను పరిష్కరించడానికి ఒక ప్లాన్ వేసారు. వారు కలిసి పందిని పట్టుకోవాలని నిర్ణయించుకున్నారు.",
-      "image_prompt": "The four friends are standing together, looking determined and brave, with a plan in their minds, and a few ropes and sticks in their hands"
+      "image_prompt": "The four friends are standing together, looking determined and brave, with a plan in their minds, and a few ropes and sticks in their hands",
+      "text_te_en": "Raamu, Ravi, Raaju, Mariyu Raakesh I Samasyanu Parishkarinchadaaniki Oka Plaan Vesaaru. Vaaru Kalisi Pandini Pattukovaalani Nirnayinchukunnaaru.",
+      "text_en": "Ramu, Ravi, Raju, and Rakesh made a plan to solve this problem. They decided to catch the wild pig together."
     },
     {
       "id": 4,
       "text": "వారు పందిని పట్టుకోవడానికి ప్రయత్నించారు, కానీ అది చాలా బలమైనది. వారు ఒక్కొక్కరు ప్రయత్నించినప్పటికీ, వారు అదిని పట్టుకోలేకపోయారు.",
-      "image_prompt": "The four friends are trying to catch the pig, but it is too strong, and they are falling and struggling, with the pig running away from them"
+      "image_prompt": "The four friends are trying to catch the pig, but it is too strong, and they are falling and struggling, with the pig running away from them",
+      "text_te_en": "Vaaru Pandini Pattukovadaaniki Prayatninchaaru, Kaani Adi Chaalaa Balamainadi. Vaaru Okkokkaru Prayatninchinappatiki, Vaaru Adini Pattukolekapoyaaru.",
+      "text_en": "They tried to catch the wild pig, but it was very strong. Even though they tried one by one, they couldn't catch it."
     },
     {
       "id": 5,
       "text": "కానీ వారు ఇంకా ఇస్తారు లేదు. వారు కలిసి మరొక ప్లాన్ వేసారు. వారు తమ బలాలను కలిపి, పందిని పట్టుకోవడానికి ప్రయత్నించారు.",
-      "image_prompt": "The four friends are standing together, holding hands and ropes, and pulling the pig in different directions, with the pig struggling and trying to escape"
+      "image_prompt": "The four friends are standing together, holding hands and ropes, and pulling the pig in different directions, with the pig struggling and trying to escape",
+      "text_te_en": "Kaani Vaaru Inkaa Istaaru Ledu. Vaaru Kalisi Maroka Plaan Vesaaru. Vaaru Tama Balaalanu Kalipi, Pandini Pattukovadaaniki Prayatninchaaru.",
+      "text_en": "But they didn't give up yet. They made another plan together. They combined their strengths and tried to catch the wild pig."
     },
     {
       "id": 6,
       "text": "ఈసారి, వారు విజయం సాధించారు. వారు పందిని పట్టుకుని, దానిని బయటకు తీసారు. వారి పొలాలు ఇప్పుడు సురక్షితంగా ఉన్నాయి.",
-      "image_prompt": "The four friends are standing together, holding the pig, and smiling, with the sun shining down on them, and the fields in the background looking safe and secure"
+      "image_prompt": "The four friends are standing together, holding the pig, and smiling, with the sun shining down on them, and the fields in the background looking safe and secure",
+      "text_te_en": "Isaari, Vaaru Vijayan Saadhinchaaru. Vaaru Pandini Pattukuni, Daanini Bayataku Tisaaru. Vaari Polaalu Ippudu Surakshitangaa Unnaayi.",
+      "text_en": "This time, they succeeded! They caught the wild pig and took it out. Their fields were safe now."
     },
     {
       "id": 7,
       "text": "వారి గ్రామంలోని ప్రజలు వారిని అభినందించారు. వారు ఐక్యతలో బలం ఉందని నిరూపించారు.",
-      "image_prompt": "The four friends are being congratulated by the villagers, with everyone smiling and clapping, and the four friends looking happy and proud"
+      "image_prompt": "The four friends are being congratulated by the villagers, with everyone smiling and clapping, and the four friends looking happy and proud",
+      "text_te_en": "Vaari Graamanloni Prajalu Vaarini Abhinandinchaaru. Vaaru Aikyatalo Balan Undani Nirupinchaaru.",
+      "text_en": "The people in their village congratulated them. They proved that there is strength in unity."
     }
   ],
   "id": "20260412_131731",
@@ -47,5 +61,9 @@
   "category": "neeti",
   "subcategory": "human_values",
   "topic": "ఐక్యతలో బలం",
-  "slug": "aikyatalo-balam"
+  "slug": "aikyatalo-balam",
+  "title_te_en": "Aikyatalo Balan",
+  "moral_te_en": "Aikyatalo Balan Untundi",
+  "title_en": "Strength in Unity",
+  "moral_en": "There is strength in unity."
 }

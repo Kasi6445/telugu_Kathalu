@@ -7,27 +7,37 @@
     {
       "id": 1,
       "text": "ఒక చిన్న గ్రామంలో రాజేష్ అనే పిల్లవాడు ఉండేవాడు. అతను ఎల్లప్పుడూ నిజాయితీగా ఉండేవాడు. అతని నిజాయితీ అందరికీ స్ఫూర్తినిచ్చేది.",
-      "image_prompt": "Rajesh is walking towards the village, looking determined with a confident stride, his eyes shining with honesty, as the warm sunlight casts a glow on his face"
+      "image_prompt": "Rajesh is walking towards the village, looking determined with a confident stride, his eyes shining with honesty, as the warm sunlight casts a glow on his face",
+      "text_te_en": "Oka Chinna Graamanlo Raajesh Ane Pillavaadu Undevaadu. Atanu Ellappudu Nijaayitigaa Undevaadu. Atani Nijaayiti Andariki Sphurtinichchedi.",
+      "text_en": "In a small village, there lived a boy named Rajesh. He was always honest. His honesty inspired everyone."
     },
     {
       "id": 2,
       "text": "ఒక రోజు, రాజేష్ అడవిలో ఒక కట్టెను కనుగొన్నాడు. అది చాలా విలువైనది. కానీ అతను దానిని తనకు ఉంచుకోలేదు.",
-      "image_prompt": "Rajesh is bending down to pick up the stick, his face filled with a mixture of excitement and responsibility, as the forest trees cast dappled shadows on the ground"
+      "image_prompt": "Rajesh is bending down to pick up the stick, his face filled with a mixture of excitement and responsibility, as the forest trees cast dappled shadows on the ground",
+      "text_te_en": "Oka Roju, Raajesh Adavilo Oka Kattenu Kanugonnaadu. Adi Chaalaa Viluvainadi. Kaani Atanu Daanini Tanaku Unchukoledu.",
+      "text_en": "One day, Rajesh found a valuable piece of wood in the forest. It was very precious. But he did not keep it for himself."
     },
     {
       "id": 3,
       "text": "అతను దానిని గ్రామ పెద్దకు అప్పగించాడు. గ్రామ పెద్ద అతని నిజాయితీని అభినందించాడు.",
-      "image_prompt": "Rajesh is handing the stick to the village elder, who is smiling and patting Rajesh on the back, as the sun casts a warm glow on the scene"
+      "image_prompt": "Rajesh is handing the stick to the village elder, who is smiling and patting Rajesh on the back, as the sun casts a warm glow on the scene",
+      "text_te_en": "Atanu Daanini Graama Peddaku Appaginchaadu. Graama Pedda Atani Nijaayitini Abhinandinchaadu.",
+      "text_en": "He handed it over to the village elder. The village elder praised his honesty."
     },
     {
       "id": 4,
       "text": "కొన్ని రోజుల తరువాత, రాజేష్ ఒక విలువైన బహుమతిని అందుకున్నాడు. అది అతని నిజాయితీకి బహుమతి.",
-      "image_prompt": "Rajesh is holding the award, beaming with pride, as the village elder and other villagers applaud and cheer in the background, with a bright sun shining down"
+      "image_prompt": "Rajesh is holding the award, beaming with pride, as the village elder and other villagers applaud and cheer in the background, with a bright sun shining down",
+      "text_te_en": "Konni Rojula Taruvaata, Raajesh Oka Viluvaina Bahumatini Andukunnaadu. Adi Atani Nijaayitiki Bahumati.",
+      "text_en": "A few days later, Rajesh received a valuable gift. It was a reward for his honesty."
     },
     {
       "id": 5,
       "text": "రాజేష్ నిజాయితీ అతనికి గెలుపును తెచ్చింది. అతను అందరి మన్ననలను పొందాడు.",
-      "image_prompt": "Rajesh is standing in the center of the village, surrounded by his friends and family, who are all smiling and congratulating him, as the sun sets in the background"
+      "image_prompt": "Rajesh is standing in the center of the village, surrounded by his friends and family, who are all smiling and congratulating him, as the sun sets in the background",
+      "text_te_en": "Raajesh Nijaayiti Ataniki Gelupunu Techchindi. Atanu Andari Mannanalanu Pondaadu.",
+      "text_en": "Rajesh's honesty brought him success. He earned everyone's respect."
     }
   ],
   "id": "20260416_080122",
@@ -37,5 +47,9 @@
   "category": "neeti",
   "subcategory": "human_values",
   "topic": "నిజాయితీ అయిన కట్టెల కాడు",
-  "slug": "nijayiti-ayina-kattela-kadu"
+  "slug": "nijayiti-ayina-kattela-kadu",
+  "title_te_en": "Nijaayiti Ayina Kattela Kaadu",
+  "moral_te_en": "Nijaayiti Ellappudu Gelupunu Istundi",
+  "title_en": "The Honest Boy",
+  "moral_en": "Honesty always wins."
 }
