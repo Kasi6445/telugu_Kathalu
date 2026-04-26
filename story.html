@@ -196,6 +196,7 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
+      _wordSpans[idx].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
 
     function clearWordHighlight() {
