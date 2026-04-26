@@ -22,7 +22,7 @@
       "id": 3,
       "text": "రాము రఘును అడిగినప్పుడు, రఘు అబద్ధం చెప్పాడు. రాము రఘును నమ్మాడు.",
       "image_prompt": "Ramu questioning Raghuram, with a concerned and worried expression, as Raghuram lies, looking away, with a mixture of guilt and fear on his face, while standing near a tree, with leaves rustling in the gentle breeze",
-      "text_te_en": "Raamu Raghunu Adiginappudu, Raghu Abaddhan Cheppaadu. Raamu Raghunu Nammaadu.",
+      "text_te_en": "Raamu Raghunu Adiginappudu, Raghu Abaddham Cheppaadu. Raamu Raghunu Nammaadu.",
       "text_en": "When Ramu asked Raghu for the money, Raghu told a lie. Ramu believed Raghu."
     },
     {
@@ -63,7 +63,7 @@
   "topic": "నమ్మకద్రోహి మిత్రుడు",
   "slug": "nammakadrohi-mitrudu",
   "title_te_en": "Nammakadrohi Mitrudu",
-  "moral_te_en": "Nammakadrohan Cheste Evaru Nammaru",
+  "moral_te_en": "Nammakadroham Cheste Evaru Nammaru",
   "title_en": "The Untrustworthy Friend",
   "moral_en": "If you break trust, no one will trust you."
 }

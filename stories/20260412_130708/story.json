@@ -8,14 +8,14 @@
       "id": 1,
       "text": "ఒక రైతు తన పొలంలో పనిచేస్తున్నాడు. అతను చాలా కష్టపడుతున్నాడు. కానీ అతనికి ఫలితాలు రావడం లేదు.",
       "image_prompt": "The farmer is kneeling in the soil, digging with a shovel, sweat dripping from his face, with a look of determination and frustration",
-      "text_te_en": "Oka Raitu Tana Polanlo Panichestunnaadu. Atanu Chaalaa Kashtapadutunnaadu. Kaani Ataniki Phalitaalu Raavadan Ledu.",
+      "text_te_en": "Oka Raitu Tana Polanlo Panichestunnaadu. Atanu Chaalaa Kashtapadutunnaadu. Kaani Ataniki Phalitaalu Raavadam Ledu.",
       "text_en": "A farmer was working in his field. He worked very hard, but he wasn't getting any results."
     },
     {
       "id": 2,
       "text": "రైతు తన పొలంలో పంటలు నాటాడు. కానీ వర్షాలు రావడం లేదు. అతను చాలా బాధపడుతున్నాడు.",
       "image_prompt": "The farmer is standing in the middle of his field, looking up at the cloudy sky, with a worried expression, holding a worn-out hat in his hand",
-      "text_te_en": "Raitu Tana Polanlo Pantalu Naataadu. Kaani Varshaalu Raavadan Ledu. Atanu Chaalaa Baadhapadutunnaadu.",
+      "text_te_en": "Raitu Tana Polanlo Pantalu Naataadu. Kaani Varshaalu Raavadam Ledu. Atanu Chaalaa Baadhapadutunnaadu.",
       "text_en": "The farmer planted crops in his field. But the rains didn't come, and he was very sad."
     },
     {
@@ -49,7 +49,7 @@
   "topic": "ఓర్పు గల రైతు",
   "slug": "orpu-gala-raitu",
   "title_te_en": "Orpu Gala Raitu",
-  "moral_te_en": "Orpu Vahinchadan Valla Manchi Phalitaalu Vastaayi",
+  "moral_te_en": "Orpu Vahinchadam Valla Manchi Phalitaalu Vastaayi",
   "title_en": "The Patient Farmer",
   "moral_en": "Patience brings good results."
 }

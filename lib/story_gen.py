@@ -12,6 +12,7 @@ Defensive handling: sleep before Pro calls, 429 retry, timing log.
 
 import json
 import logging
+import re
 import time
 from datetime import datetime
 
@@ -31,14 +32,15 @@ logger = logging.getLogger(__name__)
 def telugu_to_readable_english(text: str) -> str:
     """Convert Telugu script to Title Case casual English transliteration."""
     itrans = _itrans_transliterate(text, sanscript.TELUGU, sanscript.ITRANS)
+    # Word-final anusvara (ం) → 'm'. Must run before the consonant-cluster rules
+    # so that mid-word M (before k/g/ch/t etc.) still hits the rules below.
+    result = re.sub(r'M(\s|$)', lambda m: 'm' + m.group(1), itrans)
     # Handle uppercase vowel markers and anusvara context BEFORE lowercasing
-    pre = [
+    for old, new in [
         ('Mch', 'nch'), ('MT', 'nt'), ('Mk', 'nk'), ('Mg', 'ng'),
         ('Mp', 'mp'),   ('Mb', 'mb'), ('M',  'n'),
         ('A',  'aa'),   ('I',  'ii'), ('U',  'uu'),
-    ]
-    result = itrans
-    for old, new in pre:
+    ]:
         result = result.replace(old, new)
     result = result.lower()
     # Clean up non-ASCII vowel markers and remaining ITRANS artefacts

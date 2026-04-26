@@ -15,7 +15,7 @@
       "id": 2,
       "text": "అతను ఒక పెద్ద నగరానికి వెళ్లాడు. అక్కడ అతను చాలా డబ్బు సంపాదించాడు. కానీ అతను గర్వంగా మాట్లాడడం ప్రారంభించాడు.",
       "image_prompt": "The businessman is standing in front of a large skyscraper, looking up at it with a mixture of awe and pride, his arms crossed and a smile on his face, with the city lights reflecting off the glass windows",
-      "text_te_en": "Atanu Oka Pedda Nagaraaniki Vellaadu. Akkada Atanu Chaalaa Dabbu Sampaadinchaadu. Kaani Atanu Garvangaa Maatlaadadan Praarambhinchaadu.",
+      "text_te_en": "Atanu Oka Pedda Nagaraaniki Vellaadu. Akkada Atanu Chaalaa Dabbu Sampaadinchaadu. Kaani Atanu Garvangaa Maatlaadadam Praarambhinchaadu.",
       "text_en": "He went to a big city. There, he earned a lot of money. But he started to talk very proudly."
     },
     {
@@ -50,14 +50,14 @@
       "id": 7,
       "text": "అతను తన గ్రామాన్ని అభివృద్ధి చేశాడు. అతను పాఠశాలలు, వైద్యశాలలు నిర్మించాడు. అతను తన గ్రామానికి చాలా సహాయం చేశాడు.",
       "image_prompt": "The businessman is standing in front of a newly built school, surrounded by happy children and villagers, with a sense of pride and fulfillment on his face, with the sun shining down on the scene",
-      "text_te_en": "Atanu Tana Graamaanni Abhivrriddhi Cheshaadu. Atanu Paathashaalalu, Vaidyashaalalu Nirminchaadu. Atanu Tana Graamaaniki Chaalaa Sahaayan Cheshaadu.",
+      "text_te_en": "Atanu Tana Graamaanni Abhivrriddhi Cheshaadu. Atanu Paathashaalalu, Vaidyashaalalu Nirminchaadu. Atanu Tana Graamaaniki Chaalaa Sahaayam Cheshaadu.",
       "text_en": "He helped his village grow. He built schools and hospitals. He helped his village a great deal."
     },
     {
       "id": 8,
       "text": "అతను తన జీవితాన్ని సంతోషంగా గడిపాడు. అతను తన గ్రామానికి చాలా సహాయం చేశాడు. అతను ఒక గొప్ప వ్యాపారిగా మారాడు.",
       "image_prompt": "The businessman is sitting on a chair, looking out at the prosperous and happy village, with a sense of contentment and satisfaction on his face, with the warm sunlight casting a golden glow on the scene",
-      "text_te_en": "Atanu Tana Jivitaanni Santoshangaa Gadipaadu. Atanu Tana Graamaaniki Chaalaa Sahaayan Cheshaadu. Atanu Oka Goppa Vyaapaarigaa Maaraadu.",
+      "text_te_en": "Atanu Tana Jivitaanni Santoshangaa Gadipaadu. Atanu Tana Graamaaniki Chaalaa Sahaayam Cheshaadu. Atanu Oka Goppa Vyaapaarigaa Maaraadu.",
       "text_en": "He lived a happy life. He helped his village a lot and became a truly great merchant."
     }
   ],
@@ -70,7 +70,7 @@
   "topic": "తెలివైన వ్యాపారి",
   "slug": "telivaina-vyapari",
   "title_te_en": "Telivaina Vyaapaari",
-  "moral_te_en": "Telivitetalu Unnavaadu Eppudu Vijayan Saadhistaadu",
+  "moral_te_en": "Telivitetalu Unnavaadu Eppudu Vijayam Saadhistaadu",
   "title_en": "The Clever Merchant",
   "moral_en": "A clever person always succeeds."
 }

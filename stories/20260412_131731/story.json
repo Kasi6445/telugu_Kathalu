@@ -15,7 +15,7 @@
       "id": 2,
       "text": "ఒక రోజు, వారి గ్రామంలో ఒక పెద్ద సమస్య వచ్చింది. ఒక పెద్ద పంది వారి పొలాల్లోకి ప్రవేశించి, పంటలను నాశనం చేయడం ప్రారంభించింది.",
       "image_prompt": "The big pig is rampaging through the fields, destroying crops and causing chaos, while the four friends are watching in shock and horror",
-      "text_te_en": "Oka Roju, Vaari Graamanlo Oka Pedda Samasya Vachchindi. Oka Pedda Pandi Vaari Polaalloki Praveshinchi, Pantalanu Naashanan Cheyadan Praarambhinchindi.",
+      "text_te_en": "Oka Roju, Vaari Graamanlo Oka Pedda Samasya Vachchindi. Oka Pedda Pandi Vaari Polaalloki Praveshinchi, Pantalanu Naashanam Cheyadam Praarambhinchindi.",
       "text_en": "One day, a big problem came to their village. A large wild pig entered their fields and started destroying the crops."
     },
     {
@@ -43,14 +43,14 @@
       "id": 6,
       "text": "ఈసారి, వారు విజయం సాధించారు. వారు పందిని పట్టుకుని, దానిని బయటకు తీసారు. వారి పొలాలు ఇప్పుడు సురక్షితంగా ఉన్నాయి.",
       "image_prompt": "The four friends are standing together, holding the pig, and smiling, with the sun shining down on them, and the fields in the background looking safe and secure",
-      "text_te_en": "Isaari, Vaaru Vijayan Saadhinchaaru. Vaaru Pandini Pattukuni, Daanini Bayataku Tisaaru. Vaari Polaalu Ippudu Surakshitangaa Unnaayi.",
+      "text_te_en": "Isaari, Vaaru Vijayam Saadhinchaaru. Vaaru Pandini Pattukuni, Daanini Bayataku Tisaaru. Vaari Polaalu Ippudu Surakshitangaa Unnaayi.",
       "text_en": "This time, they succeeded! They caught the wild pig and took it out. Their fields were safe now."
     },
     {
       "id": 7,
       "text": "వారి గ్రామంలోని ప్రజలు వారిని అభినందించారు. వారు ఐక్యతలో బలం ఉందని నిరూపించారు.",
       "image_prompt": "The four friends are being congratulated by the villagers, with everyone smiling and clapping, and the four friends looking happy and proud",
-      "text_te_en": "Vaari Graamanloni Prajalu Vaarini Abhinandinchaaru. Vaaru Aikyatalo Balan Undani Nirupinchaaru.",
+      "text_te_en": "Vaari Graamanloni Prajalu Vaarini Abhinandinchaaru. Vaaru Aikyatalo Balam Undani Nirupinchaaru.",
       "text_en": "The people in their village congratulated them. They proved that there is strength in unity."
     }
   ],
@@ -62,8 +62,8 @@
   "subcategory": "human_values",
   "topic": "ఐక్యతలో బలం",
   "slug": "aikyatalo-balam",
-  "title_te_en": "Aikyatalo Balan",
-  "moral_te_en": "Aikyatalo Balan Untundi",
+  "title_te_en": "Aikyatalo Balam",
+  "moral_te_en": "Aikyatalo Balam Untundi",
   "title_en": "Strength in Unity",
   "moral_en": "There is strength in unity."
 }

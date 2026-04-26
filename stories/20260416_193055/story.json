@@ -8,7 +8,7 @@
       "id": 1,
       "text": "ఒక అందమైన ఉద్యానవనంలో గులాబీ పూవు పూచింది. ఆ పూవు చాలా అందంగా ఉంది. దానికి గర్వం వచ్చింది.",
       "image_prompt": "Gulabi is standing tall, spreading her petals wide, and gazing at her reflection in a nearby dew drop with a proud and smug expression, as the warm sunlight highlights her delicate texture and the gentle breeze rustles her petals.",
-      "text_te_en": "Oka Andamaina Udyaanavananlo Gulaabi Puvu Puchindi. Aa Puvu Chaalaa Andangaa Undi. Daaniki Garvan Vachchindi.",
+      "text_te_en": "Oka Andamaina Udyaanavananlo Gulaabi Puvu Puchindi. Aa Puvu Chaalaa Andangaa Undi. Daaniki Garvam Vachchindi.",
       "text_en": "In a beautiful garden, a Rose flower bloomed. The flower was very pretty. It became very proud."
     },
     {
@@ -22,7 +22,7 @@
       "id": 3,
       "text": "ఒక చెట్టు గులాబీ పూవు గర్వాన్ని చూసింది. దానిని హెచ్చరించింది. గర్వం వల్ల నష్టం వస్తుందని చెప్పింది.",
       "image_prompt": "The tree is gently swaying in the breeze, with its branches stretching out towards Gulabi, as it speaks to her in a wise and concerned tone, with the warm sunlight filtering through its leaves and highlighting the texture of its bark.",
-      "text_te_en": "Oka Chettu Gulaabi Puvu Garvaanni Chusindi. Daanini Hechcharinchindi. Garvan Valla Nashtan Vastundani Cheppindi.",
+      "text_te_en": "Oka Chettu Gulaabi Puvu Garvaanni Chusindi. Daanini Hechcharinchindi. Garvam Valla Nashtam Vastundani Cheppindi.",
       "text_en": "A Tree saw the Rose flower's pride. It warned the Rose, saying that pride would bring trouble."
     },
     {
@@ -36,14 +36,14 @@
       "id": 5,
       "text": "ఇంతలో ఒక పెద్ద తుఫాను వచ్చింది. గులాబీ పూవు దాని గర్వం వల్ల నాశనమైపోయింది.",
       "image_prompt": "Gulabi is being blown away by the strong winds, with her petals shredded and scattered, as she desperately tries to hold on to her stem, with a terrified and helpless expression, as the dark storm clouds loom in the background and the winds howl loudly.",
-      "text_te_en": "Intalo Oka Pedda Tuphaanu Vachchindi. Gulaabi Puvu Daani Garvan Valla Naashanamaipoyindi.",
+      "text_te_en": "Intalo Oka Pedda Tuphaanu Vachchindi. Gulaabi Puvu Daani Garvam Valla Naashanamaipoyindi.",
       "text_en": "Just then, a big storm came. The Rose flower was destroyed because of its pride."
     },
     {
       "id": 6,
       "text": "చెట్టు మాత్రం తుఫానును తట్టుకుంది. దాని వినయం వల్ల రక్షించబడింది.",
       "image_prompt": "The tree is standing firm, with its roots digging deep into the earth, as it flexes and sways in the strong winds, with a calm and serene expression, as the storm clouds rage around it, but its leaves and branches remain intact.",
-      "text_te_en": "Chettu Maatran Tuphaanunu Tattukundi. Daani Vinayan Valla Rakshinchabadindi.",
+      "text_te_en": "Chettu Maatram Tuphaanunu Tattukundi. Daani Vinayam Valla Rakshinchabadindi.",
       "text_en": "But the Tree survived the storm. It was saved because of its humility."
     },
     {
@@ -57,7 +57,7 @@
       "id": 8,
       "text": "చెట్టు గులాబీ పూవును క్షమించింది. ఆమెకు మళ్ళీ ప్రాణం పోసింది.",
       "image_prompt": "The tree is gently touching Gulabi's petals with its branches, as it speaks to her in a wise and compassionate tone, with the warm sunlight shining down on them, as Gulabi's petals begin to rebuild and regain their delicate texture and color.",
-      "text_te_en": "Chettu Gulaabi Puvunu Kshaminchindi. Aameku Malli Praanan Posindi.",
+      "text_te_en": "Chettu Gulaabi Puvunu Kshaminchindi. Aameku Malli Praanam Posindi.",
       "text_en": "The Tree forgave the Rose flower. It brought her back to life."
     }
   ],
@@ -70,7 +70,7 @@
   "topic": "గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు",
   "slug": "garvapadin-gulabi-vinayamaina-chettu",
   "title_te_en": "Garvapadina Gulaabi Mariyu Vinayamaina Chettu",
-  "moral_te_en": "Garvan Valla Nashtan, Vinayan Valla Laabhan",
+  "moral_te_en": "Garvam Valla Nashtan, Vinayam Valla Laabham",
   "title_en": "The Proud Rose and the Humble Tree",
   "moral_en": "Pride brings trouble, humility brings good."
 }

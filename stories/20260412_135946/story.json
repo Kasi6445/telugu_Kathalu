@@ -8,7 +8,7 @@
       "id": 1,
       "text": "ఒక అందమైన నెమలి అడవిలో నివసిస్తోంది. దాని రంగులు చాలా అందగా ఉంటాయి. దానికి తన రంగుల గురించి గర్వం ఉంది.",
       "image_prompt": "The young peacock is spreading its vibrant tail feathers, strutting around the forest floor with an arrogant expression, its golden crown glinting in the sunlight, as it looks down at the other animals with a sense of superiority",
-      "text_te_en": "Oka Andamaina Nemali Adavilo Nivasistondi. Daani Rangulu Chaalaa Andagaa Untaayi. Daaniki Tana Rangula Gurinchi Garvan Undi.",
+      "text_te_en": "Oka Andamaina Nemali Adavilo Nivasistondi. Daani Rangulu Chaalaa Andagaa Untaayi. Daaniki Tana Rangula Gurinchi Garvam Undi.",
       "text_en": "A beautiful peacock lived in the forest. Its colors were very lovely. It was proud of its colors."
     },
     {
@@ -36,28 +36,28 @@
       "id": 5,
       "text": "కొన్ని రోజుల తరువాత, నెమలి ఒక పెద్ద ఉరగంతో పోరాడాల్సి వచ్చింది. నెమలికి ఎలాగూ తప్పించుకోవడం సాధ్యం కాలేదు.",
       "image_prompt": "The peacock is frantically running away from a large lizard, its feathers ruffled and disheveled, as it tries to escape the lizard's snapping jaws, its golden crown askew",
-      "text_te_en": "Konni Rojula Taruvaata, Nemali Oka Pedda Uraganto Poraadaalsi Vachchindi. Nemaliki Elaagu Tappinchukovadan Saadhyan Kaaledu.",
+      "text_te_en": "Konni Rojula Taruvaata, Nemali Oka Pedda Uraganto Poraadaalsi Vachchindi. Nemaliki Elaagu Tappinchukovadam Saadhyam Kaaledu.",
       "text_en": "A few days later, the peacock had to fight a big snake. The peacock couldn't find a way to escape."
     },
     {
       "id": 6,
       "text": "నెమలి ఉరగం నుండి తప్పించుకోవడానికి ప్రయత్నిస్తోంది. కానీ దానికి సాయం చేయడానికి ఎవరూ లేకపోయినా దానికి బాధ కలిగింది.",
       "image_prompt": "The peacock is desperately flapping its wings, trying to fly away from the lizard, but its feathers are too ruffled and it can't generate enough lift, as it looks around frantically for help, its eyes wide with fear",
-      "text_te_en": "Nemali Uragan Nundi Tappinchukovadaaniki Prayatnistondi. Kaani Daaniki Saayan Cheyadaaniki Evaru Lekapoyinaa Daaniki Baadha Kaligindi.",
+      "text_te_en": "Nemali Uragam Nundi Tappinchukovadaaniki Prayatnistondi. Kaani Daaniki Saayam Cheyadaaniki Evaru Lekapoyinaa Daaniki Baadha Kaligindi.",
       "text_en": "The peacock tried to escape from the snake. But it felt sad because there was no one to help it."
     },
     {
       "id": 7,
       "text": "చివరికి, నెమలి ఉరగం నుండి తప్పించుకోగలిగింది. కానీ దానికి గర్వం పోయింది. దానికి తన తప్పు తెలిసింది.",
       "image_prompt": "The peacock is standing alone, its feathers still ruffled, looking down at the ground with a mixture of shame and regret, its golden crown dulled by the dirt and leaves, as it realizes its mistakes",
-      "text_te_en": "Chivariki, Nemali Uragan Nundi Tappinchukogaligindi. Kaani Daaniki Garvan Poyindi. Daaniki Tana Tappu Telisindi.",
+      "text_te_en": "Chivariki, Nemali Uragam Nundi Tappinchukogaligindi. Kaani Daaniki Garvam Poyindi. Daaniki Tana Tappu Telisindi.",
       "text_en": "Finally, the peacock managed to escape from the snake. But its pride was gone. It understood its mistake."
     },
     {
       "id": 8,
       "text": "నెమలి తన తప్పును గ్రహించింది. దానికి గర్వం పోయింది. దానికి ఇతరుల పట్ల స్నేహం పెరిగింది.",
       "image_prompt": "The peacock is standing in a sunny meadow, its feathers now smooth and shiny, looking up at the sky with a sense of humility and gratitude, as it spreads its wings in a gesture of friendship and unity with the other animals",
-      "text_te_en": "Nemali Tana Tappunu Grahinchindi. Daaniki Garvan Poyindi. Daaniki Itarula Patla Snehan Perigindi.",
+      "text_te_en": "Nemali Tana Tappunu Grahinchindi. Daaniki Garvam Poyindi. Daaniki Itarula Patla Sneham Perigindi.",
       "text_en": "The peacock realized its mistake. Its pride was gone. It became friendly towards others."
     }
   ],
@@ -69,8 +69,8 @@
   "subcategory": "animal_morals",
   "topic": "అందమైన నెమలి గర్వం",
   "slug": "andamaina-nemali-garvam",
-  "title_te_en": "Andamaina Nemali Garvan",
-  "moral_te_en": "Garvan Anedi Manalni Naashanan Chestundi",
+  "title_te_en": "Andamaina Nemali Garvam",
+  "moral_te_en": "Garvam Anedi Manalni Naashanam Chestundi",
   "title_en": "The Beautiful Peacock's Pride",
   "moral_en": "Pride can destroy us."
 }

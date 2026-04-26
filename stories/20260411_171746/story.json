@@ -8,21 +8,21 @@
       "id": 1,
       "text": "ఒక చిన్న గ్రామంలో ఒక పిల్లవాడు ఉండేవాడు. అతనికి ఒక మంచి స్నేహితుడు ఉండేవాడు. వారిద్దరూ కలిసి ఆడుకునేవారు.",
       "image_prompt": "The boy is laughing and playing tag with his friend in a green field, running towards the camera with a big smile on his face, with the sun shining down and a few trees in the background",
-      "text_te_en": "Òka Chinna Graamanlo Òka Pillavaadu Undevaadu. Ataniki Òka Manchi Snehitudu Undevaadu. Vaariddaru Kalisi Aadukunevaaru.",
+      "text_te_en": "Oka Chinna Graamanlo Oka Pillavaadu Undevaadu. Ataniki Oka Manchi Snehitudu Undevaadu. Vaariddaru Kalisi Aadukunevaaru.",
       "text_en": "In a small village, there lived a boy. He had a good friend. They both loved to play together."
     },
     {
       "id": 2,
       "text": "ఒకరోజు, అతని స్నేహితుడు అనారోగ్యంతో బాధపడ్డాడు. అతను తన స్నేహితుని ఇంటికి వెళ్ళాడు.",
       "image_prompt": "The boy is walking towards his friend's house, looking worried and concerned, with a small bag in his hand containing fruits and medicines, and a few villagers are watching him from a distance",
-      "text_te_en": "Òkaroju, Atani Snehitudu Anaarogyanto Baadhapaddaadu. Atanu Tana Snehituni Intiki Vellaadu.",
+      "text_te_en": "Okaroju, Atani Snehitudu Anaarogyanto Baadhapaddaadu. Atanu Tana Snehituni Intiki Vellaadu.",
       "text_en": "One day, his friend became very sick. The boy went to visit his friend at his house."
     },
     {
       "id": 3,
       "text": "అతను తన స్నేహితునికి తినడానికి కొన్ని పండ్లు తీసుకువచ్చాడు. అతను తన స్నేహితుని చేతులు పట్టుకుని అతనికి ఓదార్చాడు.",
       "image_prompt": "The boy is sitting next to his friend's bed, holding his hand and feeding him fruits, with a gentle and caring expression on his face, and a few get-well-soon cards on the wall",
-      "text_te_en": "Atanu Tana Snehituniki Tinadaaniki Kònni Pandlu Tisukuvachchaadu. Atanu Tana Snehituni Chetulu Pattukuni Ataniki Odaarchaadu.",
+      "text_te_en": "Atanu Tana Snehituniki Tinadaaniki Konni Pandlu Tisukuvachchaadu. Atanu Tana Snehituni Chetulu Pattukuni Ataniki Odaarchaadu.",
       "text_en": "He brought some yummy fruits for his friend to eat. He held his friend's hands and comforted him, making him feel better."
     },
     {
@@ -36,7 +36,7 @@
       "id": 5,
       "text": "అతను తన స్నేహితుడితో కలిసి మళ్ళీ ఆడటం ప్రారంభించాడు. వారిద్దరూ చాలా సంతోషంగా ఉన్నారు.",
       "image_prompt": "The boy and his friend are playing cricket together in the field, laughing and shouting, with the sun setting in the background and a few trees swaying in the wind",
-      "text_te_en": "Atanu Tana Snehitudito Kalisi Malli Aadatan Praarambhinchaadu. Vaariddaru Chaalaa Santoshangaa Unnaaru.",
+      "text_te_en": "Atanu Tana Snehitudito Kalisi Malli Aadatam Praarambhinchaadu. Vaariddaru Chaalaa Santoshangaa Unnaaru.",
       "text_en": "Soon, he and his friend started playing together again. They were both very, very happy!"
     }
   ],
@@ -48,8 +48,8 @@
   "subcategory": "human_values",
   "topic": "స్నేహం యొక్క విలువ",
   "slug": "sneham-yokka-viluva",
-  "title_te_en": "Snehan Yòkka Viluva",
-  "moral_te_en": "Snehan Anedi Jivitanlo Atyanta Viluvaina Aasti",
+  "title_te_en": "Sneham Yokka Viluva",
+  "moral_te_en": "Sneham Anedi Jivitanlo Atyanta Viluvaina Aasti",
   "title_en": "The Value of Friendship",
   "moral_en": "Friendship is the most valuable treasure in life."
 }

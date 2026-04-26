@@ -22,14 +22,14 @@
       "id": 3,
       "text": "గాడిద జాగ్రత్తగా బావి అంచున నుంచి కిందకు దిగింది. కానీ దాని కాళ్ళు వాలుతున్న బావి గోడకు అడ్డంగా ఉండటంతో, దానికి నిలబడటం కష్టమైంది.",
       "image_prompt": "The donkey is struggling to find its footing on the slippery well wall, its legs splayed out to the sides and its body trembling, with the sound of dripping water echoing off the well's walls",
-      "text_te_en": "Gaadida Jaagrattagaa Baavi Anchuna Nunchi Kindaku Digindi. Kaani Daani Kaallu Vaalutunna Baavi Godaku Addangaa Undatanto, Daaniki Nilabadatan Kashtamaindi.",
+      "text_te_en": "Gaadida Jaagrattagaa Baavi Anchuna Nunchi Kindaku Digindi. Kaani Daani Kaallu Vaalutunna Baavi Godaku Addangaa Undatanto, Daaniki Nilabadatam Kashtamaindi.",
       "text_en": "The donkey carefully tried to climb down from the edge of the well. But the well walls were sloped, and its legs kept slipping. It was very hard for it to stand."
     },
     {
       "id": 4,
       "text": "గాడిద యొక్క కాళ్ళు వాలుతున్న బావి గోడకు అడ్డంగా ఉండటంతో, దానికి నిలబడటం కష్టమైంది. అది కిందకు జారిపోయింది.",
       "image_prompt": "The donkey is falling down the well, its legs and body splayed out in all directions, with the well wall blurring past it and the water's surface rushing up to meet it, and a look of shock and fear on its face",
-      "text_te_en": "Gaadida Yokka Kaallu Vaalutunna Baavi Godaku Addangaa Undatanto, Daaniki Nilabadatan Kashtamaindi. Adi Kindaku Jaaripoyindi.",
+      "text_te_en": "Gaadida Yokka Kaallu Vaalutunna Baavi Godaku Addangaa Undatanto, Daaniki Nilabadatam Kashtamaindi. Adi Kindaku Jaaripoyindi.",
       "text_en": "The donkey's legs kept slipping on the sloped well wall, and it was hard for it to stand. It slid all the way down."
     },
     {
@@ -50,14 +50,14 @@
       "id": 7,
       "text": "రైతు బావి వద్దకు వచ్చి, గాడిద నీటిలో మునిగిపోయిందని చూసి, దానిని బయటకు తీసేశాడు. గాడిద బయటకు వచ్చినప్పుడు, దాని శరీరం చలిగా, జలజలాగా ఉంది.",
       "image_prompt": "The farmer is pulling the donkey out of the well, its body limp and lifeless, with the farmer's face etched with concern and sadness, and the well wall looming behind them",
-      "text_te_en": "Raitu Baavi Vaddaku Vachchi, Gaadida Nitilo Munigipoyindani Chusi, Daanini Bayataku Tiseshaadu. Gaadida Bayataku Vachchinappudu, Daani Shariran Chaligaa, Jalajalaagaa Undi.",
+      "text_te_en": "Raitu Baavi Vaddaku Vachchi, Gaadida Nitilo Munigipoyindani Chusi, Daanini Bayataku Tiseshaadu. Gaadida Bayataku Vachchinappudu, Daani Shariram Chaligaa, Jalajalaagaa Undi.",
       "text_en": "The farmer came to the well and saw the donkey had sunk into the water! He quickly pulled it out. When the donkey was finally out, its body was cold and shaking."
     },
     {
       "id": 8,
       "text": "గాడిద తన మూర్ఖత్వం వల్ల అలసిపోయి, నీటిలో మునిగిపోయిందని గ్రహించింది. అది భవిష్యత్తులో అలాంటి మూర్ఖత్వం చేయకూడదని నిర్ణయించుకుంది.",
       "image_prompt": "The donkey is standing on the grassy meadow, its fur fluffed up and its ears perked up, with a look of determination and wisdom on its face, and the warm sunlight casting a golden glow over the scene",
-      "text_te_en": "Gaadida Tana Murkhatvan Valla Alasipoyi, Nitilo Munigipoyindani Grahinchindi. Adi Bhavishyattulo Alaanti Murkhatvan Cheyakudadani Nirnayinchukundi.",
+      "text_te_en": "Gaadida Tana Murkhatvam Valla Alasipoyi, Nitilo Munigipoyindani Grahinchindi. Adi Bhavishyattulo Alaanti Murkhatvam Cheyakudadani Nirnayinchukundi.",
       "text_en": "The donkey realized that its own foolishness had made it tired and sink into the water. It decided right then and there that it would never do anything so silly again!"
     }
   ],
@@ -70,7 +70,7 @@
   "topic": "మూర్ఖుడైన గాడిద",
   "slug": "murkhudaina-gadida",
   "title_te_en": "Murkhudaina Gaadida",
-  "moral_te_en": "Murkhatvan Valla Nashtame Kalugutundi",
+  "moral_te_en": "Murkhatvam Valla Nashtame Kalugutundi",
   "title_en": "The Foolish Donkey",
   "moral_en": "Foolishness always leads to trouble."
 }
