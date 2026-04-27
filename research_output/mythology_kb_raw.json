@@ -1,0 +1,290 @@
+{
+  "characters": {
+    "rama": {
+      "character": "Rama",
+      "telugu_name": "రాముడు",
+      "sanskrit_name": "रामः",
+      "physical_appearance": {
+        "skin_color": "श्यामल (śyāma) — described in the Valmiki Ramayana as dark, like a monsoon cloud or dark-brown. The popular depiction is a celestial blue, symbolic of his divine nature as an avatar of Vishnu.",
+        "height_build": "Ajanabahu (long-armed, with hands reaching his knees), broad-shouldered, and well-built with symmetrically proportioned limbs. His neck is described as conch-shaped.",
+        "hair": "In his youth, he is described with a shikha (a tuft of hair). During his exile, he is depicted as a jatadhari, with matted hair tied up in a knot (jata-makuta).",
+        "eyes": "Lotus-shaped (Kamala-nayana) with a reddish tinge at the corners (Lohitaksha).",
+        "notable_features": "He is described as having a voice like a kettledrum (dundubhisvananirghoṣaḥ) and a charming countenance. He has three folds in the skin of his neck and belly (trivali)."
+      },
+      "clothing_and_ornaments": {
+        "typical_garment": "As a prince, he wears royal silk garments, often depicted as a yellow pitambara. During his exile, he wears valkala vastra (clothes made of tree bark).",
+        "crown_or_headdress": "As a king, he wears a Kiritamukuta, a tall conical crown indicating his royal status.",
+        "jewelry": "Adorned with princely ornaments including necklaces, armlets, bracelets, and earrings.",
+        "footwear": "Generally depicted barefoot, especially during his exile."
+      },
+      "iconographic_markers": {
+        "primary_weapon": "The Sharanga, the celestial bow of Vishnu. In South India, it is also known as the Kodanda.",
+        "secondary_items": "A quiver of inexhaustible arrows and sometimes a sword.",
+        "mount_or_vehicle": "While he does not have a specific vahana, he is often depicted in a chariot during battles.",
+        "typical_posture": "Often depicted in a standing tribhanga (thrice-bent) pose, holding his bow and arrow.",
+        "mudras": "Commonly depicted with the kataka mudra, where the fingers are partially closed as if to hold an arrow."
+      },
+      "personality_traits": [
+        "Dharmic (Righteous): Unwavering commitment to dharma, fulfilling his duties as a son, husband, and king with integrity.",
+        "Maryada Purushottama (The Ideal Man): Embodies ideal virtues, serving as a model of reason, right action, and compassion.",
+        "Eka-Priya-Darshanah (Solely delightful in appearance): Possessing a charming and pleasing countenance that delights all who see him.",
+        "Jita Krodhah (Conqueror of Anger): Known for his tranquil heart and gentle speech, he remains self-possessed and forgiving."
+      ],
+      "common_ai_illustration_mistakes": [
+        "Incorrect skin tone: Often depicted as light blue or green, when the canonical description is śyāma (dark, like a rain cloud).",
+        "Wrong bow: Sometimes shown with a generic bow instead of the specific Sharanga (or Kodanda).",
+        "Exaggerated musculature: Depicted with modern, hyper-defined abs instead of the canonical three folds (trivali) on the stomach.",
+        "Inaccurate hair: Showing a simple ponytail instead of the prescribed shikha or the matted locks (jata) during his exile.",
+        "Generic clothing during exile: Often shown in a simple dhoti instead of the specified valkala vastra (tree bark clothes).",
+        "Missing the reddish tinge in the eyes (Lohitaksha).",
+        "Not depicting the Ajanabahu feature, where his hands reach his knees.",
+        "Incorrect posture: Often shown in a stiff, martial stance rather than the graceful tribhanga pose."
+      ],
+      "canonical_scenes": [
+        {
+          "scene_name": "Sita Swayamvara / Breaking of the Pinaka",
+          "what_happens": "Rama effortlessly strings and breaks the divine bow of Shiva, the Pinaka, winning Sita's hand in marriage.",
+          "visual_key_detail": "A youthful Rama holding the two broken pieces of the massive bow, with a stunned and awed assembly in the court of King Janaka."
+        },
+        {
+          "scene_name": "The Abduction of Sita",
+          "what_happens": "While Rama and Lakshmana are away chasing a magical golden deer (the demon Maricha in disguise), the demon king Ravana abducts Sita.",
+          "visual_key_detail": "Ravana, often depicted with multiple heads, carrying a distressed Sita onto his flying chariot, the Pushpaka Vimana. The vulture king Jatayu is often shown trying to intervene."
+        },
+        {
+          "scene_name": "Rama Pattabhishekam (Coronation)",
+          "what_happens": "After defeating Ravana and completing his exile, Rama is crowned the king of Ayodhya.",
+          "visual_key_detail": "Rama and Sita are seated on the royal throne (Simhasana), with his brothers Lakshmana, Bharata, and Shatrughna standing beside them. A devoted Hanuman is often shown touching or seated at Rama's feet."
+        }
+      ],
+      "regional_variations": "In Telugu and other South Indian traditions, Rama is frequently referred to as 'Kodandapani' (the holder of the Kodanda bow), and this name is very prominent. The iconography of Rama as Kodandarama, emphasizing his role as an archer, is particularly popular in Andhra Pradesh and Telangana, with many temples dedicated to this form. The depiction in Mysore and Tanjore paintings often features rich ornamentation and the use of gold leaf.",
+      "sources_consulted_in_research": [
+        "https://www.wikipedia.org/wiki/Rama",
+        "https://www.britannica.com/topic/Rama-Hindu-deity",
+        "https://www.valmikiramayan.net/",
+        "https://hindupedia.com/en/R%C4%81ma",
+        "https://www.sacred-texts.com/hin/ramayana/index.htm",
+        "https://timesofindia.indiatimes.com/life-style/relationships/web-stories/the-4-most-powerful-dhanushas-in-hindu-epics/photostory/108514101.cms",
+        "https://en.wikipedia.org/wiki/Sharnga",
+        "https://study.com/academy/lesson/rama-the-hindu-god-legend-history-religion.html",
+        "https://www.thehindu.com/society/faith/lord-ramas-qualities/article37365280.ece",
+        "https://www.outlookindia.com/art-entertainment/the-dark-mien-how-ram-is-portrayed-in-different-skin-colours-news-347494",
+        "https://ramanisblog.in/2014/07/12/what-is-the-color-of-lord-rama-blue-black-dark-brown/",
+        "https://www.artisera.com/products/sri-ramapattabhishekam"
+      ],
+      "_grounding_sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnG137yz4BDNk44yYX-uxxbnYCPWhNvyaKBP8xjhJa2Nr2hCGdVC6yHyuL_bK9eoS7ZCZPMzas4bb3O2zSYj4cnD3QGT7Dc4iEZNpJs-ESGMEjcufhkLHTnZOgFro=",
+          "title": "wikipedia.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7EOyUtkrmWMd8J5mv08mIQ2jrLAulfyzlZpCkXxwMvABp9s5J-fgiWOtZOueXR89AK0vAQ5AE7iUWcKZqEYysUKCTggdPQXXmCGgEhVN6vrq4jFPd_daNvlpoYxF23Qjeyhv0V1pe2i2VLv5f-KN_u7zorXyB0UvKqEhG3h9qch9J",
+          "title": "valmikiramayan.net"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhP2C_3fyothBI0Z0VPxmd1LgY85ceRPqBtxMDFi8pOxN6SG82GwbLdTpcExdVWx6e8SRfAb_J3XQ6OpNHgMXxt3NurELECoUEDt3RkmVj4KowXl1tP8pWdjteRxzw277rA1XvneMPbu1RjCAVFAJx_wiTEPE-ZP9f79SClf9J0L16UATWqR2pjYD4DzCLy18HU_uy8OSFCEEmrpd3-EfWkCp_VA3dApyh_rbrFWbl3Kzsl6idBE_lHNvEYqY=",
+          "title": "quora.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDnzvozY9hzs7hrrfSlmim0AjqQFHU9YUIyO3H7yvgL5JMJK8n3oMw_Ah4IYEUnY4HSE2JUx50xghzIIbZEn6xd6-qvjs_GNLz5ju01ahcFZBIFrNldCz8ouEHIG58GDeK1qTTQDprfbeyVOc9WExu_YnncOMIL57gUl_GfzdlpwrNXDRyQ9KG6NmlImV3ZhE9MHd-ivJtZPgYYeGxYAAqjssv",
+          "title": "mid-day.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCaGUJJet8MNo5FAyr7mwCpNyZxJR-7rGFEq-zjHjIJXvmORUBOWrX5X9KiCMHZVQ38OsmZ6SQCo5d3BahrNFhJDsZkE1wV2WtwryGTAbMkxQamxTDdK8iwEQDLEaj4kLpqM_67k1bB_iaKFBl_R2nzXfpNnWlZUnmT2zg1FMPC2okoNa0FzzqDw4NvbbkOIc8DM4px9BbkijMZdGa",
+          "title": "outlookindia.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRwCRvC8FJ6SObbousLu8M6tCVf6XzAZZtaA7-DsHouna9FkUHmOLHktSUV2vEFH1i2iv8O_sB50o6bNhqzVLHlKhZJLp5TWNe7iUfW6Vow3YcxlKFwWr4MKqv2QTXO8NNCgV4udKi6mtrdanUmlwjLqcbIdhnEDSh5cV1DGmwi1rByUkn6KmNvQvwslQFyNYp3Q==",
+          "title": "ramanisblog.in"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEEdOs3FIeNrDtDidDcy7Xs_n8PActhSvjOXfa0i8xFNGFvf_XP0OSwQbAAScoNjVbvNJrzQY_xTQsPWMaGZNXuVbLi1TY6ijV76xCKRov2j6aF1UDP2t0bvZOZ0KJAXTehNaxOjN1Xl8ADzw=",
+          "title": "britannica.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6lvnBrUzL79Wvh0hebM7midyzJ_rKJXCSrvB1l1qjejJ16x6gQeBja4bjc9u5qjSEOUx-vlm5lJQUu7mOam-EvkYDFH093OBVMHRhqnE80OQVvx-jKfDoyzBVsNyHNXeXW-kzfArzL3Fhfcvz7lRTlALq1L49Pm9iSxO-7ylwn4cEasDSZQ==",
+          "title": "study.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC2DJMHhNiv9QHrFGsvpj1yn6sPSyYgAl6x-W0DEjTlF8F2m2aPSzPc0XScgmDNyDgsUYimhBFT-qeD1mC1yILMxQ8qrKNnIjU4zVHHTRLVn7u0_c-MViNk3f9wP2_3sh3KXUfSU6Wq6xDxL9Gw8wKNVSSa-vPSSYYYPywiEPZjuybsgJYjng3p_J4ul4-ztyxpBxjwG7hw_GthkRrJk5zxVja-COWO_Yiufhby80lVQA=",
+          "title": "stackexchange.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV23PLqL39aaMaj9vtSZbgodDMSccmewWeNqMA_RXokMPsQVT9qr6qKx0szdshMQHp3ysE-6t1vbKEVHuJDPWKfTcsI2I6b2JQtWTLjGig0ub4rjbC5mb1WAfUmJP56MhzJ5YZ4jGFpnkZpSQf-tX4-_GIoXX9x5mNbINumpNsxkWU9Lz2Ie0RsSB1XrHoYh5EGCQY9NqMGmPOp18g6WUA",
+          "title": "reddit.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO9Lh2oN3Qa8e2wcZa9mYKAD5pGW_o5MugJzxKY_jzf4n8b9Q2pedftzBCTxR6sfocvVQu4HxiEPgZzFGorYNT8ijRsxULxDEW2Npt9Ugr2W5qxAMLtOK59q_TtRLg77aWcuMtILVIxmyj_C-qC_hXono=",
+          "title": "quora.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZdTRj9LmcSbL8MzzzH4R3rfA0Rkas2Y0pi8xrFnk8AgyNi3uh1yqFm2dx3W4mjOI0FWsiqNCZNVgu4xpqSwj5q6k9xPjwxWdppGRPbuV2lnZEJhcFa8E1zCpUgLVKp1_cdqFUb9tnT9QDcwgY4uEAs_5OeVQnSCDT8F58n5RhALfYNLq0OU-OK1MoSwEDwWI0ukYTJoyTRCIH81fViSVe3HPbnIiWHQZci_2qQF2zujm1w-61pawEiToAGg==",
+          "title": "indiatimes.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6mIMlSh-W0qmoVd5MYhyvVa_RwfNpXSpx9cKCEouh-aguqVFHEo4dCnKsTL_LeuYf_NVzzJgR49yR7UdrCh5tnvqfnBDZy_gTnIYkFkmi0NpJYCD_JjnWpNpJKg9D_DyEbzfFKT6fXoEk5BKtqhiMsOHSq1dusQYXJZT5y81vINdb2ojs",
+          "title": "quora.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkntmoEEcpx-O5n_78PAFXei2Hu58lK76nv_8kFpFHQSkNvmWFMXjr7lQFsYtVpaBCPgN91jI9PL-rH4HC3lUgCkAcz5tjiAPHVNshF-m0LX3SoCtdod_Q2tdTrisRa1A=",
+          "title": "wikipedia.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt9Pq92ltDRDU3vuI8FntO0HpIMGsXGgousiM_8IIw-TbOpkAI4l-9V8H6ze4kaREECzxr3NfB4c729xYUwXy5SKZD9bA8CBybM1jKKzYPMuc52UIyB7gL9dIZtbkpXh_nt38viNJUr3Hf",
+          "title": "wikipedia.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW-nk2fb6iZnniS5iBWeJ_qdq3a_9aacjH1wDoXIJwYkhMhiNVCOzVpkhMMMBRTYmpMqRMM8W0lINt1pkTBG59p5ZY-phYxonlXEc1jCweSr6OyQO7hElyepvo8PPUOf4hW2U=",
+          "title": "lordrama.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOZEIkB6ZggFP4zF8vWtE3yn3xNqmPfm4wAR33NYV13n3XWt_j3FflqNhVC6RGRbAO8w7dG1CE51Vyhko5BsB7ImtHaFNue2vMLFn5B1lYcA6jqFIv7ofSL7O_442Na7PZ21tBe7NqmUITP5kl5UWB3DbxXEHIYXSbPYNZk0QHzQYr0y56ijcT8cQ=",
+          "title": "thehindu.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXZouVUrUypLiP8dkKZD7YeZindxBR0oD4uVrGCHfM6cLCKFoxOPK7jPT7k5vKvgEMUZbKZlY_fUVTxvuu-eQ4r17STWeogvz_Ngbfwa7SGZdv3uX1UX379Dd2HQ_q0aqhK9n-LONyGAkL6gJsSznWZXaCDoTliRTpu7LF3YdqpSddFEEicgYY",
+          "title": "medium.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ptpf2zImDmxpiLWytGdrWKSWsvLx4ogUdMryINyHo9xmuTDFx7iDLH9a5qpYoWq7RKIIFZv8RVniWuEBMoO9uq2aicoas-Xb6y7joDfrINnb3xS5h9ZTEaQHHc3jm8JNFF-uu5s9pAeUDyebWscEr10rkNLST__QVElJmH6x6rrSRfRGdYQzi_AnyV32hTlAcVln0dcGa09S5DTfzFevzbr0aYFM",
+          "title": "madhavstore.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs4-J65OjCpMYqyl5TC6slRrJa-d83lbf_pRpttPgEEb96PjPom4a2gYWBWHz3MrjL2ceV-3Y0Nf5_EZm6BTMGGecIouoGjtAr3Qvhx5dEtfuicV4SGFrZFf4bc_XWHgnnHFjxnCqXI_4siVKpneu-XAEFnK1ktwFiiHobHYCirqwI9m6pj7_AHOxn",
+          "title": "indianfolkart.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6yowI5aPFJVEb0GMPPxRIq1oe9nvqSBpvl1qFj-6KASp_L5fj9nWgN4jo9X8EJhmWD8Mtq33stevSgC5UOgfnqtZdjXiPJ6OW13gTIAKNRsBIsRgMThkvxHY7B6Wk9cxGzb3eGSKsxnsZd-UMRapTN7Xtylku4JFG-e_6k5b9sSR2qEznql_a4QzA-8H96QD_M6W_k4d0X1tbWaSHRBCX_12_7JKlEgyw_XxSlGFHHSkrCuqCXqA=",
+          "title": "exoticindiaart.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxMtBiX7TLXzvngGvYOp1DGW7tbvXkCGaArI3_MyndyMV8_c9jaTMbBd_sp5Wq-zw8bzxJfULJIlBO7HxxshgR__gA9Lm2r-2U1b0YBaG4u51gGeVoS82815HY_9L0yUAOWmchdveBTG4Vca1GEh65",
+          "title": "artisera.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK8ucvWZqMjLfZ7uTWov9ShCiQsqUKi4oCXWeq4KKApRSSmyaVoOLBAPDijYnv1DyjoLlVO4ffQj8NSraoGQB_TqJ-6_L4RAtwTUEtKu6bNVHleARVrv3wlgyEBeJfRmevE0gOUEIrMuUBUhsvVbJMjnVJ",
+          "title": "artisera.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ9hGYj3U99tg_VWXC5QFY7z9ney-jjmDKQCiwD8Gk9Wg6-dPMqEVDrFpJcAq1Nm5Q4KtYXZb_PIFRzigu64WlU3TFXCVs1SFPCRFeYbYHuSQ6bHbRfY_fCJXAiC364WURE_J3nreQ7Teejp16pn0hVY5WnUGyfxondKcwTBBx2BhobfBd0cA8LXpW-gotim4N",
+          "title": "wordpress.com"
+        }
+      ],
+      "_researched_at": "2026-04-27T00:17:00.228103"
+    },
+    "vali": {
+      "character": "Vali",
+      "telugu_name": "వాలి",
+      "sanskrit_name": "वालि",
+      "physical_appearance": {
+        "skin_color": "श्यामल (śyāmala) - Described poetically in the Valmiki Ramayana as appearing like a 'black-cloud smeared with the colour of golden sunset all around its edges', suggesting a dark, lustrous complexion, not a simple brown or generic monkey fur color.",
+        "height_build": "Depicted as having a powerful and immense physique, described as 'enormously chested' and 'mightily armed' in the Valmiki Ramayana. As a Vanara, he possesses a strong, ape-like build.",
+        "hair": "Typically depicted with the dense body hair (fur) of a Vanara, likely golden or brownish-gold, consistent with descriptions of other Vanaras like his brother Sugriva.",
+        "eyes": "The Valmiki Ramayana describes the dying Vali with a 'face golden, eye greenish'.",
+        "notable_features": "As a Vanara, he has simian features. His most notable feature is his sheer physical presence and the divine energy that emanates from him, partly due to his parentage and boons."
+      },
+      "clothing_and_ornaments": {
+        "typical_garment": "As a Vanara king, he is typically depicted wearing a kaupina (loincloth), often made of fine cloth or silk, befitting his royal status.",
+        "crown_or_headdress": "Often shown wearing a royal crown or a decorative headdress (kiriṭa) signifying his kingship over Kishkindha.",
+        "jewelry": "His most significant ornament is a divine, gem-studded golden pendant (kantha-mala or hara) given to him by his father, Indra. This pendant is said to sustain his life force and brilliance. He is also described as glittering with other golden ornaments.",
+        "footwear": "Typically depicted barefoot, as is common for Vanaras and figures living in forests."
+      },
+      "iconographic_markers": {
+        "primary_weapon": "Physical Prowess (Mushti-yuddha/Bahuyuddha) - His primary mode of combat is wrestling and fighting with his bare hands, using his immense physical strength. He does not have a primary handheld weapon in most canonical descriptions.",
+        "secondary_items": "In some regional iconography, such as the Kakatiya-era frescoes at Rudragiri, Andhra Pradesh, Vali is depicted wielding a mace (gada) in his battle with Sugriva.",
+        "mount_or_vehicle": "None. He is capable of great leaps and swift movement on his own.",
+        "typical_posture": "Often depicted in a powerful, combative stance (Alidhasana or Pratyalidhasana), especially in scenes of his duel with Sugriva. He is also shown lying on the ground after being struck by Rama's arrow.",
+        "mudras": "In combat scenes, his hands are in fists (mushti). In death scenes, his hands may be open in a gesture of supplication or holding the arrow that has struck him."
+      },
+      "personality_traits": [
+        "Immensely Courageous and Proud: He never shied away from a challenge, even from the powerful demon Mayavi, and was confident to the point of arrogance in his own strength.",
+        "Quick to Anger and Impulsive: He rashly concluded that Sugriva had betrayed him and refused to listen to his explanation, leading to his brother's exile and the appropriation of his wife.",
+        "Upholder of a Warrior's Code (in his own view): He considered it unthinkable to refuse a challenge to a fight.",
+        "Capable of Righteous Understanding: In his final moments, he listened to Rama's reasoning, acknowledged his own transgressions against Sugriva, and wisely entrusted his son Angada to his brother's care."
+      ],
+      "common_ai_illustration_mistakes": [
+        "Incorrect Skin/Fur Color: AI often depicts him with generic brown or light-colored fur, missing the specific 'dark cloud with golden sunset edges' description from the Ramayana.",
+        "Generic Monkey Appearance: AI may render him as a realistic gorilla or chimpanzee, failing to capture the specific 'Vanara' concept, which is a race of forest-dwellers with both human-like intelligence and simian features.",
+        "Absence or Misrepresentation of the Golden Necklace: The divine pendant from Indra is his most crucial iconographic marker. AI often omits it or replaces it with generic jewelry.",
+        "Wrongful Depiction with Common Weapons: AI might incorrectly show him with a sword or a bow and arrow, which are not his canonical weapons. His primary strength lies in hand-to-hand combat.",
+        "Confusing him with Sugriva: Without a clear visual distinction (like the garland on Sugriva in the second duel), AI might create identical images for both brothers, missing the narrative point of their similarity.",
+        "Overly Humanoid or Animalistic Features: AI struggles with the balance of Vanara features, often making Vali either too human with a monkey tail or too much like a wild animal, losing the noble, kingly aspect.",
+        "Ignoring Royal Adornments: Besides the necklace, AI often fails to depict him with a crown or other ornaments befitting a king, instead showing him as a simple forest monkey.",
+        "Inaccurate Emotional Depiction: AI may generate overly aggressive or monstrous expressions, missing the nuance of his character as a proud, but not purely evil, king who ultimately understands dharma."
+      ],
+      "canonical_scenes": [
+        {
+          "scene_name": "The Misunderstanding at the Demon's Cave",
+          "what_happens": "Vali fights the demon Mayavi inside a cave for over a year. Sugriva, seeing blood and hearing demonic cries, believes Vali is dead, seals the cave with a boulder, and returns to Kishkindha, where he is made king.",
+          "visual_key_detail": "A dark cave entrance blocked by a massive boulder, with streaks of blood seeping from underneath. Sugriva stands outside with a look of grief and despair."
+        },
+        {
+          "scene_name": "The Duel with Sugriva",
+          "what_happens": "Sugriva, instigated by Rama, challenges Vali to a duel. The two brothers, who look nearly identical, engage in a fierce wrestling match. Rama, hidden, is unable to distinguish between them and does not shoot his arrow.",
+          "visual_key_detail": "Two powerfully built Vanaras, identical in appearance, locked in a dynamic and violent embrace of combat. Vali is clearly the dominant fighter, overpowering Sugriva."
+        },
+        {
+          "scene_name": "The Slaying of Vali",
+          "what_happens": "In a second duel, Sugriva wears a garland of flowers for identification. As Vali is about to defeat Sugriva, Rama shoots an arrow from behind a tree, mortally wounding Vali in the chest.",
+          "visual_key_detail": "Vali, with an arrow lodged in his chest, falling to the ground. He looks in the direction of the arrow's origin with surprise and pain. Sugriva, wearing a prominent garland, stands nearby."
+        },
+        {
+          "scene_name": "Vali's Final Discourse with Rama",
+          "what_happens": "The dying Vali questions the righteousness of Rama's actions. Rama explains the dharma behind his punishment for Vali's sin of stealing his brother's wife. Vali understands, accepts his fate, and entrusts his son Angada to Sugriva.",
+          "visual_key_detail": "Vali lying on the ground, supported by his wife Tara and son Angada, speaking with Rama who stands before him with his bow. Vali's expression shifts from anger to acceptance."
+        }
+      ],
+      "regional_variations": "In general North and South Indian iconography, Vali is depicted as a powerful Vanara king. A notable Telugu/Andhra-specific tradition is found in the 13th-century Kakatiya-era murals at Rudragiri hillock in Guntur district. Here, in the depiction of the battle, both Vali and Sugriva are shown wielding maces (gadas), which is a variation from the typical depiction of them fighting solely with their fists. The art of this region, including Cheriyal scroll paintings and Kalamkari, frequently depicts scenes from the Ramayana, and would portray Vali within these narrative contexts.",
+      "sources_consulted_in_research": [
+        "https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindha_17_prose.htm",
+        "https://en.wikipedia.org/wiki/Vali_(Ramayana)",
+        "https://grokipedia.org/Vali_(Ramayana)",
+        "https://www.scribd.com/document/399620029/Vali-s-Death-and-Legacy-in-Ramayana",
+        "https://www.litbug.com/2014/06/23/vali-the-monkey-king-killed-by-rama/",
+        "https://medium.com/@prashantbadiger12/vali-a-misquoted-villian-or-an-ambitious-monkey-king-3b8e6f4a8e6e",
+        "https://www.thehindu.com/news/national/andhra-pradesh/a-fascinating-fusion-of-rock-art-at-rudragiri-hillock/article67093357.ece",
+        "https://www.lifeorama.net/videos/birth-of-vali-and-sugriva-ramayanam-story-in-telugu-vali-vadha-e01/",
+        "https://www.art-and-craft-of-andhra-pradesh-and-telangana/",
+        "https://www.hinduamerican.org/blog/can-ai-generated-images-be-used-in-worship",
+        "https://www.reddit.com/r/hinduism/comments/18gik2b/problem_with_ai_generated_images/"
+      ],
+      "_grounding_sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMSHJars24OZsiiDqIkgGXLPprlKybDwnlSloN6zfOjTXx-YLGaePwMjfRzSFXRb6EJjjP8oflgFdpH4H4rG51P5vuYcEjpa5qo6rUXQUmyDBKevdIdQN7Xj36nc4iRdwbfEbuYNj2RCPQgy2IJS8JwpR9UU8l7wTIQDCd0_RrqOZiNQ==",
+          "title": "valmikiramayan.net"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKV0B9GDHZN4xLa3l0Whffug8FWPRFnuzBO58AMpFVj5KkrolwlH5oPPJmfy8IkbJyAkXYMAi8w0Y5qnDj-Fd1B4oOtyw841XmMkjWiSOZjDaT2O1Qk6beUuQIf-bTdffutCkdHG3LGw==",
+          "title": "wikipedia.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDoquRgGNMQIsh94yExscbH6Lt8RlYD_32iYM99rWEBDXgdD9T5bHRrB8xE-pqssNCjrQSLOfbFVfSeRLw-HmwTcC3p5OBjERImZR736VCrFnaQ2izSPl5vciym4SnQ9Q189jwl25Od8EF7ZyhwG_9ihABx2rmsieGqYjRSX9mfEYMBn1WsB-XKRXApXaiEoRyDXGmAjToIQPaF1yhu-gyXsSEOHVaz4IZi9eXz78cRQPoDy20JX4gDgM=",
+          "title": "thehindu.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG618gq7jIa2enZ3AcsaoAOfKLRE4y4ydGJMfNgQGaJd5sz9UtrKMsSVFbUt7V45fYoQ_Y5Q7gqPklAdTjap9VbbIbBfZR8gVruOiCiEYYhlndeAVYQRyrDq2fpE4NbWa_pDhbsgCDuqO8xeUr-e4Cr0Pbun75sXs=",
+          "title": "chinfo.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeltjmxny16YTXNUAER4Effcp2MpH4pr1d9eiEiHupnAeBBOTVOJD5Jk7QhQiMZEFPoP2ZS0x5t9b2AjofuQGTpvo5BYCxP_k90RjvqaAK6qywc9aCyP13uqlMcKJs0awE",
+          "title": "wikipedia.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfw1xLsYYa7IdiDADdNUgoili3D1OzfWAeUIZNspye8mVr5237td67Lb0JlQLPnoS-3G_AcZFzlIdvIU34mmnDt5Vxjpb90kYte1FG5lTNmb_SqhFhbfF_SB9_f7qwm7uOm6LPrFWaNQnMsDPWtquVwOQCDqqK2Usan3iy9oOqCClPcnRwVZDyGrl6N7qepEd54JU_fu_M",
+          "title": "artzolo.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5-oMiqskNVa43_EQp6mlfztSEy_gRazgIy3Zrh207j13-OaHqexWNlrlVQTrbsHxwsWKSdcRvAW_wgD3gdj-Z4HvccdHXeOS_F4KfCQ1xenqQeKe8uSiyYgcPnqd0KGaDKAHw0tYNT74WKXYOq_Ko8axQwexAguYA0FbrJEErvb-v2aPX3JMXhR-xQJoh0ywciNI=",
+          "title": "memeraki.com"
+        }
+      ],
+      "_researched_at": "2026-04-27T00:17:52.331176"
+    }
+  },
+  "weapons": {},
+  "scenes": {},
+  "_meta": {
+    "last_run": "2026-04-27T00:16:10.573181",
+    "note": "RAW RESEARCH OUTPUT — requires human review before use in lib/mythology_knowledge.py"
+  }
+}

@@ -119,6 +119,34 @@ def _log_timing(model: str, elapsed: float):
     logger.info(f"API timing: {model} {elapsed:.2f}s")
 
 
+# ── Mythology categories that require child-safe violence handling ─────────────
+
+_MYTHOLOGY_CATEGORIES = {"ramayana", "bhagavatam"}
+
+_MYTHOLOGY_VIOLENCE_RULE = """
+CHILD-SAFE VIOLENCE RULE — MANDATORY for this mythology story (ages 5-12):
+Canonical stories like Narasimha, Holika, and Rama's battles contain violence.
+You MUST handle all violent moments as follows — no exceptions:
+
+  Divine victory / destruction of evil:
+    Show ONLY: the flash of divine power, the earth trembling, witnesses' awe.
+    Never describe: physical tearing, burning body, blood, suffering, or dying.
+    Write instead: "Justice was done." / "Evil could not stand before the Lord."
+
+  Fire scenes (Holika, Lanka):
+    Show ONLY: what the DEVOTEE felt — cool breeze, flower petals, divine light.
+    For the antagonist: ONE sentence maximum — "The fire returned to its source."
+    Never describe: burning, screaming, ashes, pain.
+
+  Battle / weapon scenes:
+    Show ONLY: the moment of divine intervention — the roar, the light, the silence after.
+    Never describe: wounds, blood, body parts, or the act of killing.
+
+Children must feel WONDER and DEVOTION — never fear or disgust.
+The story passes safety review ONLY if no scene contains graphic physical violence.
+"""
+
+
 # ── Pass 1: Outline ───────────────────────────────────────────────────────────
 
 def _pass1_outline(cat_key: str, sub_key: str, topic: str, categories: dict) -> dict:
@@ -126,8 +154,11 @@ def _pass1_outline(cat_key: str, sub_key: str, topic: str, categories: dict) -> 
     cat = categories[cat_key]
     sub = cat["subcategories"][sub_key]
 
+    mythology_rule = _MYTHOLOGY_VIOLENCE_RULE if cat_key in _MYTHOLOGY_CATEGORIES else ""
+
     prompt = f"""\
 You are designing a Telugu moral tale for children aged {cat['age_group']}.
+{mythology_rule}
 
 Topic: {topic}
 Category: {cat_key} — {cat['telugu_name']}
@@ -221,11 +252,26 @@ def _pass2_telugu(outline: dict, cat_key: str, sub_key: str,
         for s in outline["scenes"]
     )
 
+    mythology_telugu_rule = ""
+    if cat_key in _MYTHOLOGY_CATEGORIES:
+        mythology_telugu_rule = """
+====== పౌరాణిక కథలకు ప్రత్యేక నియమం (MANDATORY) ======
+
+దైవిక శక్తి / చెడు నాశనం అయ్యే దృశ్యాలు (Narasimha, Holika, battle scenes):
+  రాయవలసినది   : భక్తుడు ఏం అనుభవించాడో — చల్లటి గాలి, పువ్వుల వర్షం, దివ్యమైన కాంతి.
+                  "అదే క్షణంలో, న్యాయం జరిగింది." / "దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది."
+  రాయకూడనిది  : శరీరానికి హాని, నొప్పి, రక్తం, తగులబడటం, అరుపులు — ఇవి ఏమీ వద్దు.
+
+పిల్లలు భయపడకూడదు — అద్భుతం, భక్తి, ధైర్యం అనుభవించాలి.
+ఈ నియమం ఒక్క scene లో కూడా మీరలేరు. safety review లో fail అయితే story publish అవ్వదు.
+======
+"""
+
     prompt = f"""\
 మీరు ఒక అనుభవజ్ఞులైన తెలుగు కథకులు. మీ మనవలు చీకట్లో మంచం మీద పడుకుని, కళ్ళు మూసుకుని, మీ కంఠంలో కథ వింటున్నారు.
 మీరు పుస్తకం నుండి చదవడం లేదు — మీ మనసులో ఉన్న కథను చెప్తున్నారు.
 ప్రతి వాక్యంలో ప్రేమ, ఉత్కంఠ, జీవం ఉండాలి. పిల్లలు "ఇంకా చెప్పు అమ్మమ్మా!" అని అడిగేలా వ్రాయండి.
-
+{mythology_telugu_rule}
 CATEGORY   : {cat['telugu_name']}
 SUBCATEGORY: {sub['telugu_name']}
 TOPIC      : {topic}
@@ -385,11 +431,29 @@ def _infer_mood(scene_idx: int, total: int) -> str:
     return "thinking"
 
 
+# Patterns checked only in character_emotion (not the beat) because the beat
+# describes ALL characters' actions, while emotion only describes the main character.
+# Trailing space on "watches "/"observes " prevents matching "observant".
+_OBSERVER_PATTERNS = [
+    "watches ", "watching ", "observes ", "observing ",
+    "looks on", "witness", "gaze fixed",
+]
+
+
+def _is_observer_scene(emotion: str, _beat: str) -> bool:
+    """True when the main character is watching someone else act, not acting themselves."""
+    emotion_lower = emotion.lower()
+    return any(p in emotion_lower for p in _OBSERVER_PATTERNS)
+
+
 def _assemble_image_prompts(story: dict, outline: dict) -> dict:
     """Build 5-layer image prompts using Pass 1 outline data.
 
-    Programmatic assembly guarantees all 5 layers are present —
-    no repair needed downstream. Richer than asking Gemini to copy-paste.
+    For ACTION scenes  : main character is the foreground focal point.
+    For OBSERVER scenes: main character steps to background; the secondary
+                         character performing the action becomes the focal point.
+                         This prevents the contradiction where the audio describes
+                         someone else acting while the image shows the hero.
     """
     outline_by_num = {s["scene_number"]: s for s in outline["scenes"]}
     total = len(story["scenes"])
@@ -397,20 +461,30 @@ def _assemble_image_prompts(story: dict, outline: dict) -> dict:
     for scene in story["scenes"]:
         o = outline_by_num.get(scene["id"], {})
 
-        # Layer 1 — story beat + emotion + sensory anchor
         beat    = o.get("story_beat",        f"Scene {scene['id']} unfolds.")
         emotion = o.get("character_emotion", "")
         sensory = o.get("sensory_detail",    "")
-        layer1  = f"{beat} Character feels {emotion}. {sensory}."
 
-        # Layers 2 & 3 — character and world locks (verbatim from outline)
-        layer2 = story["main_character"]
+        if _is_observer_scene(emotion, beat):
+            # Secondary character is the focal point; main character watches from the side.
+            layer1 = (
+                f"FOREGROUND FOCAL ACTION: {beat}. "
+                f"Show the character performing this action prominently in the foreground. "
+                f"BACKGROUND: The main character ({story['main_character'].split('.')[0]}) "
+                f"stands to one side, quietly observing with expression: {emotion}. "
+                f"Do NOT make the main character the center of this image. {sensory}."
+            )
+            layer2 = (
+                f"MAIN CHARACTER (background only, one side of frame): "
+                f"{story['main_character']}"
+            )
+        else:
+            # Main character is the active focal point.
+            layer1 = f"{beat} Character feels {emotion}. {sensory}."
+            layer2 = story["main_character"]
+
         layer3 = story["setting"]
-
-        # Layer 4 — mood / lighting
         layer4 = _MOOD_MAP[_infer_mood(scene["id"] - 1, total)]
-
-        # Layer 5 — style lock
         layer5 = STYLE_LOCK
 
         scene["image_prompt"] = f"{layer1} {layer2} {layer3} {layer4} {layer5}"

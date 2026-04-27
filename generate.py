@@ -3,8 +3,11 @@
 Telugu Katalu — Story Generation Pipeline
 
 Usage:
-  python generate.py            # generate one story → drafts/{timestamp}/
-  python generate.py --dry-run  # print selected slot only, no API calls
+  python generate.py                              # balancer picks next slot
+  python generate.py --dry-run                   # print selected slot, no API calls
+  python generate.py --category bhagavatam \
+                     --subcategory bhakta_stories \
+                     --topic "ప్రహ్లాద భక్తి - నరసింహ అవతారం కథ"   # force a specific story
 """
 import argparse
 import json
@@ -17,7 +20,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 from lib.config import load_categories, load_index, DRAFTS_DIR, LOGS_DIR
 from lib.balancer import pick_next_slot
 from lib.story_gen import generate_story
-from lib.tts import synthesize_scene
+from lib.tts import synthesize_story
 from lib.image_gen import generate_images_for_story
 from lib.validator import validate_story
 
@@ -40,13 +43,39 @@ def main():
     parser = argparse.ArgumentParser(description="Generate one Telugu story")
     parser.add_argument("--dry-run", action="store_true",
                         help="Print selected slot without calling any APIs")
+    parser.add_argument("--category",    metavar="CAT",
+                        help="Force a specific category key (e.g. bhagavatam)")
+    parser.add_argument("--subcategory", metavar="SUB",
+                        help="Force a specific subcategory key (e.g. bhakta_stories)")
+    parser.add_argument("--topic",       metavar="TOPIC",
+                        help="Force a specific topic string (Telugu or English)")
     args = parser.parse_args()
 
     categories = load_categories()
     index      = load_index()
     stories    = index.get("stories", [])
 
-    cat_key, sub_key, topic = pick_next_slot(categories, stories)
+    # ── Slot selection ────────────────────────────────────────────────────────
+    forced = args.category or args.subcategory or args.topic
+    if forced:
+        if not (args.category and args.subcategory and args.topic):
+            parser.error("--category, --subcategory, and --topic must all be provided together.")
+
+        cat_key = args.category
+        sub_key = args.subcategory
+        topic   = args.topic
+
+        if cat_key not in categories:
+            parser.error(f"Unknown category '{cat_key}'. "
+                         f"Valid: {', '.join(categories)}")
+        if sub_key not in categories[cat_key]["subcategories"]:
+            parser.error(f"Unknown subcategory '{sub_key}' in '{cat_key}'. "
+                         f"Valid: {', '.join(categories[cat_key]['subcategories'])}")
+
+        logger.info(f"Forced slot: {cat_key}/{sub_key} — {topic}")
+    else:
+        cat_key, sub_key, topic = pick_next_slot(categories, stories)
+
     cat = categories[cat_key]
     sub = cat["subcategories"][sub_key]
 
@@ -54,6 +83,8 @@ def main():
     print(f"📁 Subcategory : {sub['telugu_name']}")
     print(f"📖 Topic       : {topic}")
     print(f"🎙️  Voice       : (assigned during generation)")
+    if forced:
+        print(f"⚠️  Forced slot  : balancer bypassed")
 
     if args.dry_run:
         print("\n✅ Dry-run complete — no API calls made.")
@@ -101,8 +132,7 @@ def main():
 
     # ── Audio ─────────────────────────────────────────────────────────────────
     logger.info("Generating audio...")
-    for scene in story["scenes"]:
-        synthesize_scene(scene["text"], story["voice"], audio_dir / f"scene{scene['id']}.mp3")
+    synthesize_story(story["scenes"], story["voice"], audio_dir)
 
     # ── Images ────────────────────────────────────────────────────────────────
     logger.info("Generating images...")

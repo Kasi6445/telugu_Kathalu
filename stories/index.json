@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260427_083510",
+      "slug": "prahlaadudi-adbhuta-bhakti-katha",
+      "title": "ప్రహ్లాదుడి అద్భుత భక్తి కథ",
+      "moral": "నువ్వు మంచిని మనస్ఫూర్తిగా నమ్మితే, నీకు ఎప్పుడూ ఒంటరితనం ఉండదు.",
+      "thumbnail": "stories/20260427_083510/images/scene1.jpg",
+      "date": "2026-04-27",
+      "category": "bhagavatam",
+      "subcategory": "bhakta_stories",
+      "topic": "ప్రహ్లాద భక్తి - నరసింహ అవతారం కథ",
+      "voice": "te-IN-Chirp3-HD-Charon",
+      "schema_version": 2,
+      "title_en": "Prahlad's Amazing Story of Devotion",
+      "moral_en": "If you truly believe in good with all your heart, you will never be alone.",
+      "title_te_en": "Prahlaadudi Adbhuta Bhakti Katha",
+      "moral_te_en": "Nuvvu Manchini Manasphurtigaa Nammite, Niku Eppudu Ontaritanam Undadu."
+    },
+    {
       "id": "20260423_094232",
       "slug": "tenaali-raamudi-vimta-battalu",
       "title": "తెనాలి రాముడి వింత బట్టలు",

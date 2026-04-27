@@ -146,6 +146,11 @@ _DIRECTOR_PREFIX = (
     "Children's picture book illustration for ages 5-10. "
     "Gentle, warm, peaceful tone. "
     "NO violence, NO aggressive poses, NO scary imagery, NO dark atmosphere. "
+    "CHARACTER COUNT RULE — CRITICAL: Show EXACTLY ONE instance of the main character. "
+    "NEVER place two or more copies of the same person in the same scene. "
+    "If a second character appears, they MUST look completely different: "
+    "different clothing colour, different face, different body type. "
+    "When in doubt, show only the main character. "
 )
 
 
