@@ -137,6 +137,8 @@
     let _wordSpans        = [];
     let _wordOffsets      = []; // estimated start-time (seconds) per word
     let _currentWordIndex = -1;
+    let _speechOnsets     = {}; // sceneId -> detected speech onset (seconds)
+    let _onsetAC          = null; // shared AudioContext for onset detection
 
     const CATEGORIES = {
       neeti:        'నీతి కథలు',
@@ -172,6 +174,43 @@
       }).length);
     }
 
+    // Measure how many seconds of silence precede the first audible word in an MP3.
+    // Uses Web Audio API to decode the cached audio buffer; runs async and caches result.
+    async function detectSpeechOnset(sceneId, audioSrc) {
+      if (sceneId in _speechOnsets) return; // already done or in-flight
+      _speechOnsets[sceneId] = 0;           // provisional — overwritten when real value arrives
+      try {
+        if (!_onsetAC) _onsetAC = new (window.AudioContext || window.webkitAudioContext)();
+        const resp = await fetch(audioSrc);
+        const ab   = await resp.arrayBuffer();
+        const buf  = await _onsetAC.decodeAudioData(ab);
+        const ch   = buf.getChannelData(0);
+        const WIN  = Math.floor(buf.sampleRate * 0.02); // 20ms analysis window
+        const THR  = 0.008;                             // RMS loudness threshold
+        let onset  = 0;
+        for (let i = 0; i < ch.length; i += WIN) {
+          const end = Math.min(i + WIN, ch.length);
+          let sq = 0;
+          for (let j = i; j < end; j++) sq += ch[j] * ch[j];
+          if (Math.sqrt(sq / (end - i)) > THR) { onset = i / buf.sampleRate; break; }
+        }
+        _speechOnsets[sceneId] = onset;
+        // If we are still on this scene and offsets were computed with onset=0, recompute now
+        if (story && _wordSpans.length && _wordOffsets.length && onset > 0.05) {
+          const sc = story.scenes.find(s => s.id === sceneId);
+          if (sc && story.scenes[currentIndex] && story.scenes[currentIndex].id === sceneId) {
+            const aud = document.getElementById(`audio-${sceneId}`);
+            if (aud && aud.duration) {
+              const txt = storyLang === 'en' && sc.text_en ? sc.text_en
+                : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
+                : (sc.text || '');
+              computeWordOffsets(aud.duration, txt, onset);
+            }
+          }
+        }
+      } catch(e) { /* leave _speechOnsets[sceneId] = 0 on error */ }
+    }
+
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
@@ -198,14 +237,19 @@
       });
     }
 
-    // Proportional timing based on grapheme clusters (syllable-accurate for Telugu)
-    function computeWordOffsets(duration, text) {
-      const words    = text.match(/\S+/g) || [];
-      const sizes    = words.map(w => graphemeCount(w));
-      const total    = sizes.reduce((a, b) => a + b, 0) || 1;
-      _wordOffsets   = [];
-      let t = 0;
-      sizes.forEach(s => { _wordOffsets.push(t); t += (s / total) * duration; });
+    // Proportional timing based on grapheme clusters (syllable-accurate for Telugu).
+    // speechOnset: seconds of detected leading silence — shifts all offsets forward
+    // so word 0 highlights when speech actually starts, not at t=0.
+    function computeWordOffsets(duration, text, speechOnset = 0) {
+      const LEAD  = Math.max(speechOnset, 0);
+      const TRAIL = Math.min(0.3, duration * 0.04);
+      const span  = Math.max(duration * 0.5, duration - LEAD - TRAIL);
+      const words = text.match(/\S+/g) || [];
+      const sizes = words.map(w => graphemeCount(w));
+      const total = sizes.reduce((a, b) => a + b, 0) || 1;
+      _wordOffsets = [];
+      let t = LEAD;
+      sizes.forEach(s => { _wordOffsets.push(t); t += (s / total) * span; });
     }
 
     // Apply spoken/active/upcoming classes to all spans at once (simple, correct)
@@ -240,7 +284,7 @@
         const txt = storyLang === 'en' && sc.text_en ? sc.text_en
           : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
           : (sc.text || '');
-        computeWordOffsets(audio.duration, txt);
+        computeWordOffsets(audio.duration, txt, _speechOnsets[sceneId] || 0);
       }
       if (wordIdx >= _wordOffsets.length) return;
       audio.currentTime = _wordOffsets[wordIdx];
@@ -272,6 +316,7 @@
     async function loadStory() {
       const urlParam = getUrlParam();
       if (!urlParam) { window.location.href = '/'; return; }
+      _speechOnsets = {}; // clear previous story's onset cache
 
       try {
         storyFolderId = await resolveFolderId(urlParam);
@@ -323,7 +368,7 @@
           audio.onended = () => {
             isPlaying = false;
             updatePlayBtn();
-            setTimeout(() => nextScene(), 800);
+            setTimeout(() => nextScene(), 50);
           };
           document.body.appendChild(audio);
         });
@@ -406,9 +451,13 @@
       });
       trackAudioProgress(index);
 
+      // Start speech-onset detection early so offsets are ready by first timeupdate
+      const _oa = document.getElementById(`audio-${scene.id}`);
+      if (_oa) detectSpeechOnset(scene.id, _oa.src);
+
       preloadNextAudio(index);
 
-      _playTimeout = setTimeout(() => { _playTimeout = null; playCurrentScene(); }, 500);
+      _playTimeout = setTimeout(() => { _playTimeout = null; playCurrentScene(); }, 300);
     }
 
     function preloadNextAudio(currentIdx) {
@@ -416,6 +465,7 @@
       const nextScene = story.scenes[currentIdx + 1];
       const audio = document.getElementById(`audio-${nextScene.id}`);
       if (audio && audio.readyState < 2) audio.load();
+      if (audio) detectSpeechOnset(nextScene.id, audio.src);
     }
 
     let _tlHandler = null;
@@ -435,13 +485,17 @@
         const pct  = (audio.currentTime / audio.duration) * 100;
         const fill = document.getElementById(`tl-fill-${index}`);
         if (fill) { fill.style.transition = 'width 0.25s linear'; fill.style.width = pct + '%'; }
-        // Compute word offsets once spans are ready and duration is known
+        // Compute word offsets once spans are ready and duration is known.
+        // Wait for onset detection (up to 0.4s of playback), then fallback to 0.
         if (!_wordOffsets.length && _wordSpans.length) {
-          const sc  = story.scenes[index];
+          const sc     = story.scenes[index];
+          const onset  = _speechOnsets[sc.id];
+          const ready  = (onset !== undefined) || (audio.currentTime > 0.4);
+          if (!ready) return;
           const txt = storyLang === 'en' && sc.text_en ? sc.text_en
             : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
             : (sc.text || '');
-          computeWordOffsets(audio.duration, txt);
+          computeWordOffsets(audio.duration, txt, onset || 0);
         }
         highlightWordAtTime(audio.currentTime);
       };
