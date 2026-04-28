@@ -27,6 +27,13 @@ logger = logging.getLogger(__name__)
 GEMINI_TTS_MODEL = "gemini-2.5-flash-preview-tts"
 _SAMPLE_RATE = 24000   # Hz — Gemini TTS PCM output rate
 
+# Duration balance thresholds for split-segment validation.
+# A well-narrated 5-7 sentence scene should be at least 6 seconds.
+# If the shortest segment is under this or the longest is 8x the shortest,
+# the split landed wrong — fall back to per-scene synthesis.
+_MIN_SCENE_SECONDS = 6.0
+_MAX_DURATION_RATIO = 8.0
+
 # Separator injected between scenes in the full-story call.
 # Gemini TTS reads "[SCENE BREAK]" as a cue to pause ~1-2 seconds.
 _SCENE_SEP = "\n\n[SCENE BREAK]\n\n"
@@ -171,6 +178,41 @@ def _find_split_points(pcm: bytes, n_scenes: int,
     return split_points
 
 
+# ── PCM leading-silence trim ─────────────────────────────────────────────────
+
+def _trim_leading_silence(pcm: bytes, rate: int = _SAMPLE_RATE) -> bytes:
+    """
+    Remove leading silence from a PCM segment, keeping a 50ms buffer before
+    first speech frame so the audio doesn't feel clipped.
+    Used on scenes 2+ after the full-story silence split.
+    """
+    FRAME_SAMPLES = rate // 100          # 10ms frames
+    FRAME_BYTES   = FRAME_SAMPLES * 2
+    THRESHOLD     = 250                  # same RMS threshold as _find_split_points
+    BUFFER_FRAMES = 5                    # keep 50ms before detected speech onset
+
+    total_samples = len(pcm) // 2
+    n_frames      = total_samples // FRAME_SAMPLES
+
+    for i in range(n_frames):
+        offset = i * FRAME_BYTES
+        count  = min(FRAME_SAMPLES, total_samples - i * FRAME_SAMPLES)
+        if count <= 0:
+            break
+        chunk = struct.unpack_from(f"{count}h", pcm, offset)
+        rms   = (sum(s * s for s in chunk) // count) ** 0.5
+        if rms >= THRESHOLD:
+            start_frame = max(0, i - BUFFER_FRAMES)
+            trimmed     = pcm[start_frame * FRAME_BYTES:]
+            logger.debug(
+                f"[TTS TRIM] Trimmed {start_frame * 10}ms of leading silence "
+                f"({i * 10}ms detected, kept 50ms buffer)"
+            )
+            return trimmed
+
+    return pcm  # no speech found — return as-is
+
+
 # ── PCM → MP3 conversion (pure Python, no ffmpeg) ────────────────────────────
 
 def _pcm_to_mp3(pcm_data: bytes, output_path: Path) -> None:
@@ -276,13 +318,45 @@ def synthesize_story(scenes: list[dict], voice_name: str, audio_dir: Path) -> No
             segments.append(pcm[prev:])
 
             if len(segments) == n:
-                for seg_pcm, scene_id in zip(segments, ids):
-                    out = audio_dir / f"scene{scene_id}.mp3"
-                    _pcm_to_mp3(seg_pcm, out)
-                    kb = out.stat().st_size / 1024
-                    logger.info(f"[TTS] Full-story segment saved: {out.name} ({kb:.1f} KB)")
-                print(f"  [TTS] ✓ {n} scenes split and saved from single call.", flush=True)
-                return
+                # Validate duration balance before committing any files.
+                # If split landed wrong (e.g. 5s, 6s, 6s, 3:47), the first
+                # few segments are tiny and the last holds the whole story.
+                durations_s = [len(seg) / (2 * _SAMPLE_RATE) for seg in segments]
+                min_dur = min(durations_s)
+                max_dur = max(durations_s)
+                ratio   = (max_dur / min_dur) if min_dur > 0 else float("inf")
+                imbalanced = min_dur < _MIN_SCENE_SECONDS or ratio > _MAX_DURATION_RATIO
+
+                if imbalanced:
+                    logger.warning(
+                        f"[TTS SPLIT] Duration imbalance: "
+                        f"min={min_dur:.1f}s max={max_dur:.1f}s ratio={ratio:.1f}x "
+                        f"(thresholds: min≥{_MIN_SCENE_SECONDS}s ratio≤{_MAX_DURATION_RATIO}x) "
+                        f"— falling back to per-scene synthesis"
+                    )
+                    print(
+                        f"  [TTS] Split imbalance detected "
+                        f"(shortest {min_dur:.0f}s, longest {max_dur:.0f}s, {ratio:.0f}x ratio) "
+                        f"— regenerating per-scene for equal quality.",
+                        flush=True,
+                    )
+                    # Do NOT save files — fall through to per-scene fallback below.
+                else:
+                    for seg_idx, (seg_pcm, scene_id) in enumerate(zip(segments, ids)):
+                        # Trim leading silence from scenes 2+ — they inherit half of
+                        # the [SCENE BREAK] pause from the midpoint split.
+                        if seg_idx > 0:
+                            seg_pcm = _trim_leading_silence(seg_pcm)
+                        out = audio_dir / f"scene{scene_id}.mp3"
+                        _pcm_to_mp3(seg_pcm, out)
+                        kb    = out.stat().st_size / 1024
+                        dur_s = durations_s[seg_idx]
+                        logger.info(
+                            f"[TTS] Full-story segment saved: "
+                            f"{out.name} ({kb:.1f} KB, {dur_s:.1f}s)"
+                        )
+                    print(f"  [TTS] ✓ {n} scenes split and saved from single call.", flush=True)
+                    return
 
             logger.warning(
                 f"[TTS SPLIT] Segment count {len(segments)} != {n} — falling back."

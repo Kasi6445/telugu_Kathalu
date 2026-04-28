@@ -189,11 +189,24 @@ For each scene provide:
   scene_hook        : for all scenes EXCEPT the last — one sentence describing the unanswered question
                       or unresolved moment that makes a child desperately want to hear the next scene.
                       For the final scene write "resolution".
+  characters_in_scene : array of character keys who PHYSICALLY AND VISUALLY APPEAR in this scene.
+                      Allowed values: "main_character" and/or "antagonist".
+                      Include "antagonist" ONLY when the antagonist character is physically
+                      present and visible in this scene's action — not merely mentioned or remembered.
+                      Example: ["main_character"] for solo scenes, ["main_character", "antagonist"]
+                      when they share the scene.
 
 Also provide:
   main_character    : 2-sentence English description.
                       Include: species/age/size, 2-3 specific physical traits, one personality quirk.
                       End with: "Always the same character across every scene."
+  antagonist        : (INCLUDE ONLY when the story has a recurring secondary character — villain,
+                      mentor, trickster, magical creature, etc. — who appears in 2 or more scenes.)
+                      2-sentence English visual description.
+                      Include: body type, face/hair details, exact clothing colors and style,
+                      any distinctive prop or feature.
+                      End with: "Always the same character across every scene."
+                      OMIT this field entirely if there is no recurring secondary character.
   setting           : 2-sentence English description.
                       Include: specific Telugu region or village, 3-4 named visual elements, time of day.
                       End with: "Same location across every scene."
@@ -204,6 +217,7 @@ Also provide:
 Return ONLY valid JSON:
 {{
   "main_character": "...",
+  "antagonist": "...",
   "setting": "...",
   "moral_in_english": "...",
   "scenes": [
@@ -214,7 +228,8 @@ Return ONLY valid JSON:
       "child_emotion":     "...",
       "sensory_detail":    "...",
       "key_dialogue":      "...",
-      "scene_hook":        "..."
+      "scene_hook":        "...",
+      "characters_in_scene": ["main_character"]
     }}
   ]
 }}"""
@@ -375,6 +390,7 @@ Return ONLY valid JSON (no markdown fences, no extra text):
   "title": "Telugu title — 3-5 natural spoken words, evocative not generic",
   "moral": "One clear Telugu sentence — warm conversational tone, NOT preachy, NOT starting with 'నీతి:'",
   "main_character": "{outline['main_character']}",
+  "antagonist": "{outline.get('antagonist', '')}",
   "setting": "{outline['setting']}",
   "scenes": [
     {{
@@ -487,7 +503,14 @@ def _assemble_image_prompts(story: dict, outline: dict) -> dict:
         layer4 = _MOOD_MAP[_infer_mood(scene["id"] - 1, total)]
         layer5 = STYLE_LOCK
 
-        scene["image_prompt"] = f"{layer1} {layer2} {layer3} {layer4} {layer5}"
+        # Layer 2b: include antagonist ONLY in scenes where they physically appear.
+        # characters_in_scene is set by Pass 1 outline; default to solo scene if missing.
+        antagonist = story.get("antagonist", "")
+        o_chars = o.get("characters_in_scene", ["main_character"])
+        antagonist_in_scene = bool(antagonist) and "antagonist" in o_chars
+        layer2b = f"SECONDARY CHARACTER: {antagonist}" if antagonist_in_scene else ""
+
+        scene["image_prompt"] = " ".join(filter(None, [layer1, layer2, layer2b, layer3, layer4, layer5]))
 
     return story
 
@@ -689,6 +712,10 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
 
     # ── Pass 1: Outline (Pro) ─────────────────────────────────────────────────
     outline = _pass1_outline(cat_key, sub_key, topic, categories)
+
+    # Carry antagonist from outline into Pass 2 so _assemble_image_prompts can use it
+    if outline.get("antagonist"):
+        logger.info(f"Antagonist locked: {outline['antagonist'][:80]}...")
 
     # ── Passes 2 + 3: narrate → validate → retry up to 2× ────────────────────
     quality_warning = False

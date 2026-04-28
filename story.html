@@ -128,10 +128,11 @@
     let touchStartY   = 0;
     let imgExt        = 'jpg';
     let storyLang     = localStorage.getItem('tk_lang') || 'te';
-    let _fallbackTimer = null;
-    let _bgTimeout     = null;
-    let _textTimeout   = null;
-    let _playTimeout   = null;
+    let _fallbackTimer   = null;
+    let _bgTimeout       = null;
+    let _textTimeout     = null;
+    let _playTimeout     = null;
+    let _preloadedImages = {}; // sceneId -> Image, kept alive to prevent GC
 
     // ── WORD HIGHLIGHT STATE ───────────────────────────────────────────────────
     let _wordSpans        = [];
@@ -178,7 +179,7 @@
     // Uses Web Audio API to decode the cached audio buffer; runs async and caches result.
     async function detectSpeechOnset(sceneId, audioSrc) {
       if (sceneId in _speechOnsets) return; // already done or in-flight
-      _speechOnsets[sceneId] = 0;           // provisional — overwritten when real value arrives
+      _speechOnsets[sceneId] = null;        // null = in-progress; trackAudioProgress waits on this
       try {
         if (!_onsetAC) _onsetAC = new (window.AudioContext || window.webkitAudioContext)();
         const resp = await fetch(audioSrc);
@@ -195,20 +196,7 @@
           if (Math.sqrt(sq / (end - i)) > THR) { onset = i / buf.sampleRate; break; }
         }
         _speechOnsets[sceneId] = onset;
-        // If we are still on this scene and offsets were computed with onset=0, recompute now
-        if (story && _wordSpans.length && _wordOffsets.length && onset > 0.05) {
-          const sc = story.scenes.find(s => s.id === sceneId);
-          if (sc && story.scenes[currentIndex] && story.scenes[currentIndex].id === sceneId) {
-            const aud = document.getElementById(`audio-${sceneId}`);
-            if (aud && aud.duration) {
-              const txt = storyLang === 'en' && sc.text_en ? sc.text_en
-                : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
-                : (sc.text || '');
-              computeWordOffsets(aud.duration, txt, onset);
-            }
-          }
-        }
-      } catch(e) { /* leave _speechOnsets[sceneId] = 0 on error */ }
+      } catch(e) { _speechOnsets[sceneId] = 0; } // fallback: treat as no leading silence
     }
 
     // Split text into clickable word spans, wired up for click-to-seek
@@ -316,7 +304,8 @@
     async function loadStory() {
       const urlParam = getUrlParam();
       if (!urlParam) { window.location.href = '/'; return; }
-      _speechOnsets = {}; // clear previous story's onset cache
+      _speechOnsets    = {}; // clear previous story's onset cache
+      _preloadedImages = {}; // clear previous story's image cache
 
       try {
         storyFolderId = await resolveFolderId(urlParam);
@@ -373,10 +362,11 @@
           document.body.appendChild(audio);
         });
 
-        // Preload images
+        // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
           img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          _preloadedImages[scene.id] = img;
         });
 
         // Build segmented timeline
@@ -457,7 +447,7 @@
 
       preloadNextAudio(index);
 
-      _playTimeout = setTimeout(() => { _playTimeout = null; playCurrentScene(); }, 300);
+      _playTimeout = setTimeout(() => { _playTimeout = null; playCurrentScene(); }, 150);
     }
 
     function preloadNextAudio(currentIdx) {
@@ -488,9 +478,10 @@
         // Compute word offsets once spans are ready and duration is known.
         // Wait for onset detection (up to 0.4s of playback), then fallback to 0.
         if (!_wordOffsets.length && _wordSpans.length) {
-          const sc     = story.scenes[index];
-          const onset  = _speechOnsets[sc.id];
-          const ready  = (onset !== undefined) || (audio.currentTime > 0.4);
+          const sc    = story.scenes[index];
+          const onset = _speechOnsets[sc.id];
+          // null = detection in-progress; wait up to 0.5s of playback then fall back to 0
+          const ready = (onset !== null && onset !== undefined) || (audio.currentTime > 0.5);
           if (!ready) return;
           const txt = storyLang === 'en' && sc.text_en ? sc.text_en
             : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
@@ -509,7 +500,13 @@
       if (!audio) return;
       audio.muted        = isMuted;
       audio.playbackRate = currentSpeed;
-      audio.currentTime  = 0;
+
+      // Seek past detected leading silence so speech starts as soon as the image appears.
+      // Keeps a 50ms natural lead-in before the first audible word.
+      // onset=null means detection is still running — start from 0 and let highlighting catch up.
+      const onset = _speechOnsets[scene.id];
+      audio.currentTime = (onset && onset > 0.1) ? Math.max(0, onset - 0.05) : 0;
+
       audio.play().then(() => {
         isPlaying = true;
         updatePlayBtn();

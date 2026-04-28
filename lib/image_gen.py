@@ -145,12 +145,8 @@ def _get_working_gemini_model() -> str | None:
 _DIRECTOR_PREFIX = (
     "Children's picture book illustration for ages 5-10. "
     "Gentle, warm, peaceful tone. "
-    "NO violence, NO aggressive poses, NO scary imagery, NO dark atmosphere. "
-    "CHARACTER COUNT RULE — CRITICAL: Show EXACTLY ONE instance of the main character. "
-    "NEVER place two or more copies of the same person in the same scene. "
-    "If a second character appears, they MUST look completely different: "
-    "different clothing colour, different face, different body type. "
-    "When in doubt, show only the main character. "
+    "Draw only the characters described below — no additional people or children. "
+    "Each character appears once, standing firmly on the ground. "
 )
 
 
@@ -158,34 +154,59 @@ def _build_prompt(scene: dict, story: dict) -> str:
     """
     5-layer prompt with character/setting FIRST so the model weights them highest.
 
-    Layer 1 (CHARACTER): verbatim main_character description with visual anchors.
-    Layer 2 (SETTING)  : verbatim setting description with visual anchors.
-    Layer 3 (SCENE)    : the specific moment, action, emotion from image_prompt.
-    Layer 4 (STYLE)    : locked art direction.
+    Layer 1 (CHARACTER) : verbatim main_character description with visual anchors.
+    Layer 2 (SETTING)   : verbatim setting description with visual anchors.
+    Layer 3 (SCENE)     : the specific moment, action, emotion from image_prompt.
+                          The image_prompt already contains SECONDARY CHARACTER only
+                          for scenes where the antagonist physically appears — so no
+                          antagonist block is added here (prevents extra characters
+                          appearing in solo scenes).
+    Layer 4 (STYLE)     : locked art direction.
 
     Prefixed with the director framing.
     """
     return (
         f"{_DIRECTOR_PREFIX}"
-        f"CHARACTER: {story['main_character']} "
-        f"SETTING: {story['setting']} "
-        f"SCENE: {scene.get('image_prompt', '')} "
+        f"{story['main_character']} "
+        f"{story['setting']} "
+        f"{scene.get('image_prompt', '')} "
         f"{STYLE_LOCK}"
     )
 
 
 def _build_gemini_reference_prompt(scene: dict, story: dict) -> str:
     """
-    Prompt for Gemini scenes 2-N. Opens with explicit consistency instruction
-    so the model treats the reference image as a hard constraint, not a suggestion.
+    Prompt for Gemini scenes 2-N with one reference image (protagonist from scene 1).
+    Used when: no antagonist in scene, or first time antagonist appears.
+    """
+    base = _build_prompt(scene, story)
+    antagonist = story.get("antagonist", "")
+    scene_has_antagonist = bool(antagonist) and "SECONDARY CHARACTER" in scene.get("image_prompt", "")
+    antagonist_note = (
+        f"The antagonist appears here — draw them as: {antagonist.split('.')[0]}. "
+    ) if scene_has_antagonist else ""
+    return (
+        "Continue the same illustration style from the reference image. "
+        "The protagonist looks identical to the reference — same face, same clothing, same colors. "
+        + antagonist_note
+        + base
+    )
+
+
+def _build_gemini_dual_reference_prompt(scene: dict, story: dict) -> str:
+    """
+    Prompt for Gemini scenes where the antagonist physically appears AND we have
+    a separate reference image for them (their debut scene).
+
+    Two reference images are passed: Image 1 = protagonist (scene 1),
+    Image 2 = antagonist (their first appearance scene).
     """
     base = _build_prompt(scene, story)
     return (
-        "CONSISTENCY CONSTRAINT: The reference image shows scene 1 of this story. "
-        "Maintain the EXACT same character appearance — same face structure, same clothing "
-        "colors, same art style, same color palette, same brushwork. "
-        "ONLY the background scene and character action may change. "
-        "Do not invent new physical features. Do not change clothing. "
+        "Two reference images are provided. "
+        "The first image shows the protagonist — match their face, clothing, and colors exactly. "
+        "The second image shows the antagonist — match their face, build, and clothing exactly. "
+        "Only the background and actions change between scenes. "
         + base
     )
 
@@ -193,37 +214,45 @@ def _build_gemini_reference_prompt(scene: dict, story: dict) -> str:
 def _build_imagen_consistency_prompt(scene: dict, story: dict) -> str:
     """
     Prompt for Imagen scenes 2-N (Approach C — no reference image available).
-    Repeats the character description twice with an explicit 'LOCKED' label
-    to push Imagen toward consistency without a visual reference.
+    Kept deliberately short and purely visual — Imagen renders long instruction
+    text as literal words in the image, so we describe characters, not rules.
     """
-    base = _build_prompt(scene, story)
-    return (
-        "LOCKED CHARACTER — do not deviate from this description under any circumstances: "
-        f"{story['main_character']} "
-        "This is the same character who appeared in the opening scene. "
-        "Every physical feature, clothing item, and color must match exactly. "
-        + base
-    )
+    # Use the base prompt directly — it already contains CHARACTER and SETTING layers.
+    # Prepending instruction-heavy labels causes Imagen to render them as image text.
+    return _build_prompt(scene, story)
 
 
 # ── Low-level API calls ───────────────────────────────────────────────────────
 
 def _call_gemini_generate(prompt: str, output_path: Path,
                            reference_path: Path | None,
-                           model: str) -> bool:
+                           model: str,
+                           antagonist_ref_path: Path | None = None) -> bool:
     """
     One Gemini generate_content call.
     Returns True if image was saved.
     Raises on any API error — caller classifies (quota vs unavailable).
+
+    antagonist_ref_path: when provided (and different from reference_path), a second
+      reference image is prepended so the model sees BOTH characters visually.
+      Order: [protagonist_ref, antagonist_ref, prompt_text]
     """
     client = _gemini_client()
 
     if reference_path and reference_path.exists():
-        image_bytes = reference_path.read_bytes()
-        contents = [
-            types.Part(inline_data=types.Blob(data=image_bytes, mime_type="image/png")),
-            types.Part(text=prompt),
+        parts: list = [
+            types.Part(inline_data=types.Blob(
+                data=reference_path.read_bytes(), mime_type="image/png"
+            )),
         ]
+        # Add antagonist reference as second image when it's a distinct file
+        if (antagonist_ref_path and antagonist_ref_path.exists()
+                and antagonist_ref_path != reference_path):
+            parts.append(types.Part(inline_data=types.Blob(
+                data=antagonist_ref_path.read_bytes(), mime_type="image/png"
+            )))
+        parts.append(types.Part(text=prompt))
+        contents = parts
     else:
         contents = [types.Part(text=prompt)]
 
@@ -315,15 +344,18 @@ def _generate_scene_image(
     gemini_model: str | None,
     scene_label: str,
     logs_dir: Path,
+    antagonist_ref_path: Path | None = None,
 ) -> SceneImageResult:
     """
     Generate one scene image with escalating 429 retry.
     Retry ladder: 70s → 120s → 300s → RuntimeError (pipeline halt).
 
-    prompt_gemini  : prompt used when calling Gemini (may include consistency prefix)
-    prompt_imagen  : prompt used when calling Imagen (Approach C anchor wording)
-    reference_path : set only for Gemini scenes 2-N; None otherwise
-    gemini_model   : None means skip Gemini entirely (Approach C path for whole story)
+    prompt_gemini       : prompt used when calling Gemini (may include consistency prefix)
+    prompt_imagen       : prompt used when calling Imagen (Approach C anchor wording)
+    reference_path      : protagonist reference (scene 1); set for Gemini scenes 2-N
+    antagonist_ref_path : antagonist reference (first scene they appeared); distinct from
+                          reference_path when antagonist didn't appear in scene 1
+    gemini_model        : None means skip Gemini entirely (Approach C path for whole story)
 
     Returns SceneImageResult with generator="gemini"|"imagen".
     """
@@ -335,7 +367,10 @@ def _generate_scene_image(
     for attempt in range(1, len(_RETRY_WAITS) + 2):   # attempts 1..4
         try:
             if use_gemini:
-                success = _call_gemini_generate(prompt_gemini, output_path, reference_path, gemini_model)
+                success = _call_gemini_generate(
+                    prompt_gemini, output_path, reference_path, gemini_model,
+                    antagonist_ref_path=antagonist_ref_path,
+                )
                 if success:
                     return SceneImageResult(
                         scene_id  = int(output_path.stem.replace("scene", "")),
@@ -459,9 +494,16 @@ def generate_images_for_story(story: dict, draft_dir: Path, logs_dir: Path) -> N
     Flow:
       1. Discover working Gemini model (or None → full Imagen path).
       2. Scene 1: generate without reference image.
-         - If generator == "gemini" → set reference_path for scenes 2-N.
+         - If generator == "gemini" → set protagonist_ref (scene 1 path) for scenes 2-N.
          - If generator == "imagen" → lock all remaining scenes to Imagen (Approach C).
-      3. Scenes 2-N: use reference_path for Gemini OR Approach C anchoring for Imagen.
+      3. Scenes 2-N (Gemini path):
+         - Solo protagonist scenes   → protagonist_ref only + single-reference prompt.
+         - Antagonist first appearance → protagonist_ref only (no visual lock yet).
+           After generation: lock this scene as antagonist_ref for all later scenes.
+         - Antagonist subsequent scenes → BOTH protagonist_ref AND antagonist_ref as
+           dual references + _build_gemini_dual_reference_prompt for max consistency.
+         - If antagonist first appeared in scene 1 (same as protagonist_ref): use
+           single reference with a strong antagonist text lock (already in image_prompt).
       4. Verify every scene file exists — raise if any missing.
       5. Save image_lineage.json and log lineage summary.
 
@@ -472,12 +514,15 @@ def generate_images_for_story(story: dict, draft_dir: Path, logs_dir: Path) -> N
 
     total   = len(story["scenes"])
     results: list[SceneImageResult] = []
+    has_antagonist = bool(story.get("antagonist", ""))
 
     # Discover Gemini model once for the whole session
     gemini_model = _get_working_gemini_model()
 
-    # Tracks scene 1's output path — set only if scene 1 used Gemini successfully
+    # Protagonist reference — scene 1 PNG if Gemini was used
     reference_image_path: Path | None = None
+    # Antagonist reference — first scene where antagonist physically appeared
+    antagonist_reference_path: Path | None = None
 
     for i, scene in enumerate(story["scenes"]):
         scene_num   = scene["id"]
@@ -485,7 +530,15 @@ def generate_images_for_story(story: dict, draft_dir: Path, logs_dir: Path) -> N
         label       = f"[IMAGE {one_based}/{total}]"
         target_path = images_path / f"scene{scene_num}.png"
 
-        # ── Determine prompts for this scene ─────────────────────────────────
+        # Does the antagonist physically appear in this specific scene?
+        scene_has_antag = (
+            has_antagonist
+            and "SECONDARY CHARACTER" in scene.get("image_prompt", "")
+        )
+
+        # ── Determine prompts and references for this scene ───────────────────
+        ant_reference: Path | None = None   # second reference (antagonist) for this scene
+
         if one_based == 1:
             # Scene 1 — no reference, just strong anchors
             prompt_gemini = _build_prompt(scene, story)
@@ -494,18 +547,40 @@ def generate_images_for_story(story: dict, draft_dir: Path, logs_dir: Path) -> N
 
         else:
             if reference_image_path is not None:
-                # Scene 1 was Gemini — use it as visual reference
-                prompt_gemini = _build_gemini_reference_prompt(scene, story)
+                # Scene 1 was Gemini — have protagonist visual reference
+                reference = reference_image_path
+
+                if (scene_has_antag
+                        and antagonist_reference_path is not None
+                        and antagonist_reference_path != reference_image_path):
+                    # Best case: both protagonist AND antagonist have separate references.
+                    # Use dual-reference prompt so model sees exactly how each character
+                    # looked in their respective debut scene.
+                    prompt_gemini = _build_gemini_dual_reference_prompt(scene, story)
+                    ant_reference = antagonist_reference_path
+                else:
+                    # Either: no antagonist in scene, antagonist hasn't appeared yet,
+                    # or antagonist debuted in scene 1 (same ref as protagonist).
+                    # Single reference with text lock is the right path.
+                    prompt_gemini = _build_gemini_reference_prompt(scene, story)
+                    ant_reference = None
+
                 prompt_imagen = _build_imagen_consistency_prompt(scene, story)  # fallback only
-                reference     = reference_image_path
+
             else:
                 # Scene 1 was Imagen (or no Gemini available) — Approach C for all
-                prompt_gemini = _build_prompt(scene, story)          # unused (gemini_model=None path)
+                prompt_gemini = _build_prompt(scene, story)   # unused (gemini_model=None path)
                 prompt_imagen = _build_imagen_consistency_prompt(scene, story)
                 reference     = None
 
         # ── Generate ─────────────────────────────────────────────────────────
-        print(f"{label} Generating scene {scene_num}...", end=" ", flush=True)
+        ref_info = ""
+        if reference_image_path and one_based > 1:
+            if ant_reference:
+                ref_info = " [dual-ref: protagonist+antagonist]"
+            else:
+                ref_info = " [protagonist-ref]"
+        print(f"{label} Generating scene {scene_num}...{ref_info}", end=" ", flush=True)
         t0 = time.time()
 
         # When scene 1 used Imagen, force Imagen for all remaining scenes
@@ -513,24 +588,25 @@ def generate_images_for_story(story: dict, draft_dir: Path, logs_dir: Path) -> N
         effective_gemini = gemini_model if reference_image_path is not None or one_based == 1 else None
 
         result = _generate_scene_image(
-            prompt_gemini = prompt_gemini,
-            prompt_imagen = prompt_imagen,
-            output_path   = target_path,
-            reference_path= reference,
-            gemini_model  = effective_gemini,
-            scene_label   = label,
-            logs_dir      = logs_dir,
+            prompt_gemini       = prompt_gemini,
+            prompt_imagen       = prompt_imagen,
+            output_path         = target_path,
+            reference_path      = reference,
+            gemini_model        = effective_gemini,
+            scene_label         = label,
+            logs_dir            = logs_dir,
+            antagonist_ref_path = ant_reference,
         )
         results.append(result)
 
         elapsed = time.time() - t0
         print(f"✓ ({elapsed:.1f}s, {result.generator})", end="", flush=True)
 
-        # After scene 1: decide reference strategy for the rest of the story
+        # After scene 1: lock protagonist reference
         if one_based == 1:
             if result.generator == "gemini" and result.success and target_path.exists():
                 reference_image_path = target_path
-                logger.info(f"[IMAGE LINEAGE] Scene 1 used Gemini — reference locked for scenes 2-{total}")
+                logger.info(f"[IMAGE LINEAGE] Scene 1 used Gemini — protagonist reference locked for scenes 2-{total}")
             else:
                 reference_image_path = None
                 logger.info(
@@ -542,6 +618,22 @@ def generate_images_for_story(story: dict, draft_dir: Path, logs_dir: Path) -> N
                     f"with locked character anchors (Approach C).",
                     flush=True,
                 )
+
+        # After any scene: if antagonist appeared here for the first time, lock as reference
+        if (scene_has_antag
+                and antagonist_reference_path is None
+                and result.success
+                and target_path.exists()):
+            antagonist_reference_path = target_path
+            logger.info(
+                f"[IMAGE LINEAGE] Antagonist visual reference locked from scene {scene_num} "
+                f"— will be used as second reference image for all subsequent antagonist scenes"
+            )
+            print(
+                f"\n  ℹ  Antagonist reference locked from scene {scene_num}. "
+                f"Subsequent scenes with the antagonist will use dual-image consistency.",
+                flush=True,
+            )
 
         if one_based < total:
             print(f" — waiting {SCENE_SLEEP}s before next...", flush=True)

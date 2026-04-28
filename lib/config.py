@@ -18,10 +18,13 @@ GCP_LOCATION   = os.getenv("GCP_LOCATION", "us-central1")
 BASE_URL = "https://www.telugukathalu.in"
 
 STYLE_LOCK = (
-    "Hand-painted children's storybook illustration, classic Indian Chandamama and Amar Chitra Katha style, "
-    "soft watercolor textures, rounded friendly shapes, warm earth-tone palette "
-    "(terracotta, cream, sage green, warm ochre), clean composition with breathing space. "
-    "NOT photorealistic. NOT 3D render. NOT anime. NOT dark or gritty. "
+    "Hand-painted children's storybook illustration, classic Indian Chandamama and Amar Chitra Katha style. "
+    "DETAIL LEVEL: highly detailed backgrounds — trees with individual leaves, rocks with texture, "
+    "flowing water with ripples, ground with soil grain. Visible pencil linework under soft watercolor washes. "
+    "Rich environmental storytelling — every background element is carefully rendered, not flat or sparse. "
+    "Expressive character faces with clear emotions. Warm earth-tone palette (terracotta, cream, sage green, warm ochre). "
+    "Clean composition with breathing space. "
+    "NOT photorealistic. NOT 3D render. NOT anime. NOT flat modern cartoon. NOT simple clip art. NOT dark or gritty. "
     "NO cracked earth, NO apocalyptic atmosphere, NO aggressive poses, "
     "NO spread wings unless scene is explicitly about flying, NO menacing expressions. "
     "Characters should look gentle, friendly, and age-appropriate for children 5-10."

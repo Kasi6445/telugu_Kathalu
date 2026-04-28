@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260428_093431",
+      "slug": "chitti-uduta-manasu-mamchitanam",
+      "title": "చిట్టి ఉడుత — మనసు మంచితనం",
+      "moral": "ఎంతో సంపాదించుకోవడం కన్నా — అవసరంలో ఉన్నవారికి సాయం చేస్తే, చెప్పలేని ఆనందం కలుగుతుంది.",
+      "thumbnail": "stories/20260428_093431/images/scene1.jpg",
+      "date": "2026-04-28",
+      "category": "samethalu",
+      "subcategory": "relationships",
+      "topic": "పరోపకారం పరమ ధర్మం అనే కథ",
+      "voice": "te-IN-Chirp3-HD-Autonoe",
+      "schema_version": 2,
+      "title_en": "Chitti the Squirrel — A Kind Heart",
+      "moral_en": "Helping those in need brings a happiness that no amount of collecting can match.",
+      "title_te_en": "Chitti Uduta — Manasu Manchitanam",
+      "moral_te_en": "Ento Sampaadinchukovadam Kannaa — Avasaranlo Unnavaariki Saayam Cheste, Cheppaleni Aanandam Kalugutundi."
+    },
+    {
       "id": "20260427_083510",
       "slug": "prahlaadudi-adbhuta-bhakti-katha",
       "title": "ప్రహ్లాదుడి అద్భుత భక్తి కథ",
