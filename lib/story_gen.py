@@ -433,6 +433,89 @@ Return ONLY valid JSON (no markdown fences, no extra text):
                 raise RuntimeError("Pass 2 (Telugu narration) failed after 3 Flash attempts") from exc
 
 
+# ── Pass 2.5: Narration-grounded visual extraction ───────────────────────────
+
+def _pass2b_narration_visuals(story: dict) -> dict:
+    """
+    Pass 2.5 — reads each scene's actual Telugu narration and asks Gemini Flash
+    to describe in English the single most important visual moment to illustrate.
+
+    This grounds the image in what is BEING NARRATED, not in the outline's
+    story_beat which may have drifted during Pass 2. The result is stored as
+    scene["scene_visual"] and consumed by _assemble_image_prompts.
+
+    One batched Flash call covers all scenes — cheap and fast.
+    """
+    scenes_payload = "\n\n".join(
+        f"Scene {s['id']}:\n{s['text']}"
+        for s in story["scenes"]
+    )
+
+    prompt = f"""\
+You are extracting visual scene descriptions from a Telugu children's story.
+
+For each scene, identify the single most important visual MOMENT to illustrate —
+the peak action or emotional beat that a listener hears in the narration.
+
+For each scene write a precise 2-sentence English visual description:
+  Sentence 1: What is the character physically DOING at this moment (action, posture, movement).
+  Sentence 2: One specific detail from the environment or the character's expression that
+              makes this moment feel real (texture, light, object in hand, facial expression).
+
+Rules:
+  - Base description ONLY on what is explicitly in the narration — do not invent.
+  - Do not name the characters — refer to them as "the boy", "the old man", "the thief" etc.
+  - Do not describe the moral or outcome — describe the visible action.
+  - 2 sentences maximum per scene.
+
+Telugu story scenes:
+{scenes_payload}
+
+Return ONLY valid JSON:
+[
+  {{"id": 1, "scene_visual": "..."}},
+  {{"id": 2, "scene_visual": "..."}}
+]"""
+
+    client = genai.Client(api_key=GEMINI_API_KEY)
+    t0 = time.time()
+
+    for attempt in range(1, 3):
+        try:
+            response = client.models.generate_content(
+                model=NARRATION_MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.3,
+                ),
+            )
+            elapsed = time.time() - t0
+            _log_timing(NARRATION_MODEL, elapsed)
+
+            visuals = json.loads(response.text)
+            visual_map = {v["id"]: v["scene_visual"] for v in visuals}
+
+            for scene in story["scenes"]:
+                scene["scene_visual"] = visual_map.get(scene["id"], "")
+
+            logger.info(
+                f"Pass 2.5 OK: narration-grounded visuals extracted "
+                f"for {len(story['scenes'])} scenes"
+            )
+            return story
+
+        except Exception as exc:
+            logger.warning(f"Pass 2.5 attempt {attempt}/2 failed: {exc}")
+            if attempt == 2:
+                # Non-fatal: fall back to empty scene_visual — _assemble_image_prompts
+                # will use the outline story_beat as before.
+                logger.warning("Pass 2.5 failed — image prompts will use outline beats (fallback)")
+                for scene in story["scenes"]:
+                    scene.setdefault("scene_visual", "")
+                return story
+
+
 # ── Image prompt assembly (programmatic, deterministic) ───────────────────────
 
 def _infer_mood(scene_idx: int, total: int) -> str:
@@ -463,13 +546,17 @@ def _is_observer_scene(emotion: str, _beat: str) -> bool:
 
 
 def _assemble_image_prompts(story: dict, outline: dict) -> dict:
-    """Build 5-layer image prompts using Pass 1 outline data.
+    """Build scene-specific image prompts using Pass 1 outline data.
+
+    Stores ONLY what is unique to this scene: the action, emotion, sensory
+    detail, antagonist presence, and mood lighting.
+
+    The fixed anchors — main_character, setting, STYLE_LOCK — are added
+    exactly once by image_gen._build_prompt so they never duplicate.
 
     For ACTION scenes  : main character is the foreground focal point.
-    For OBSERVER scenes: main character steps to background; the secondary
-                         character performing the action becomes the focal point.
-                         This prevents the contradiction where the audio describes
-                         someone else acting while the image shows the hero.
+    For OBSERVER scenes: main character watches from the side while the
+                         secondary character's action fills the foreground.
     """
     outline_by_num = {s["scene_number"]: s for s in outline["scenes"]}
     total = len(story["scenes"])
@@ -477,40 +564,37 @@ def _assemble_image_prompts(story: dict, outline: dict) -> dict:
     for scene in story["scenes"]:
         o = outline_by_num.get(scene["id"], {})
 
-        beat    = o.get("story_beat",        f"Scene {scene['id']} unfolds.")
-        emotion = o.get("character_emotion", "")
-        sensory = o.get("sensory_detail",    "")
+        # scene_visual: narration-grounded description from Pass 2.5.
+        # Falls back to outline story_beat if Pass 2.5 was skipped or failed.
+        scene_visual = scene.get("scene_visual", "").strip()
+        beat         = o.get("story_beat", f"Scene {scene['id']} unfolds.")
+        emotion      = o.get("character_emotion", "")
+        mood         = _MOOD_MAP[_infer_mood(scene["id"] - 1, total)]
 
-        if _is_observer_scene(emotion, beat):
-            # Secondary character is the focal point; main character watches from the side.
-            layer1 = (
-                f"FOREGROUND FOCAL ACTION: {beat}. "
-                f"Show the character performing this action prominently in the foreground. "
-                f"BACKGROUND: The main character ({story['main_character'].split('.')[0]}) "
-                f"stands to one side, quietly observing with expression: {emotion}. "
-                f"Do NOT make the main character the center of this image. {sensory}."
-            )
-            layer2 = (
-                f"MAIN CHARACTER (background only, one side of frame): "
-                f"{story['main_character']}"
-            )
-        else:
-            # Main character is the active focal point.
-            layer1 = f"{beat} Character feels {emotion}. {sensory}."
-            layer2 = story["main_character"]
-
-        layer3 = story["setting"]
-        layer4 = _MOOD_MAP[_infer_mood(scene["id"] - 1, total)]
-        layer5 = STYLE_LOCK
-
-        # Layer 2b: include antagonist ONLY in scenes where they physically appear.
-        # characters_in_scene is set by Pass 1 outline; default to solo scene if missing.
+        # Antagonist: include ONLY in scenes where they physically appear.
         antagonist = story.get("antagonist", "")
         o_chars = o.get("characters_in_scene", ["main_character"])
         antagonist_in_scene = bool(antagonist) and "antagonist" in o_chars
-        layer2b = f"SECONDARY CHARACTER: {antagonist}" if antagonist_in_scene else ""
+        antagonist_note = f"Also in this scene: {antagonist}" if antagonist_in_scene else ""
 
-        scene["image_prompt"] = " ".join(filter(None, [layer1, layer2, layer2b, layer3, layer4, layer5]))
+        if scene_visual:
+            # Pass 2.5 succeeded — use narration-derived visual as the scene action.
+            # Observer detection still adjusts framing when relevant.
+            if _is_observer_scene(emotion, beat):
+                action = f"{scene_visual} The protagonist watches from the side."
+            else:
+                action = scene_visual
+        else:
+            # Fallback: use outline story_beat (pre-Pass 2.5 behaviour).
+            if _is_observer_scene(emotion, beat):
+                action = (
+                    f"{beat} "
+                    f"The main character watches from the side, expression: {emotion}."
+                )
+            else:
+                action = f"{beat} {emotion}."
+
+        scene["image_prompt"] = " ".join(filter(None, [action, antagonist_note, mood]))
 
     return story
 
@@ -726,7 +810,11 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
     for attempt in range(1, 4):   # 1 initial + 2 retries
         telugu_story = _pass2_telugu(outline, cat_key, sub_key, topic, categories, attempt)
 
-        # Assemble image prompts before validation so Pro can see them if needed
+        # Pass 2.5: extract narration-grounded visual descriptions for each scene.
+        # These drive image generation so images match exactly what is narrated.
+        telugu_story = _pass2b_narration_visuals(telugu_story)
+
+        # Assemble image prompts using Pass 2.5 visuals (falls back to outline beats)
         telugu_story = _assemble_image_prompts(telugu_story, outline)
 
         score, score_detail = _pass3_validate(telugu_story)

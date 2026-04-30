@@ -8,22 +8,22 @@
 
   <!-- SEO -->
   <meta name="description" content="పిల్లలకు తెలుగు కథలు - నైతిక విలువలతో కూడిన అందమైన కథలు">
-  <link rel="canonical" href="https://telugukathalu.in/story.html">
+  <link rel="canonical" href="https://www.telugukathalu.in/story.html">
 
   <!-- Open Graph (WhatsApp, Facebook, Google) -->
   <meta property="og:type"        content="article">
   <meta property="og:site_name"   content="Telugu Katalu - తెలుగు కథలు">
   <meta property="og:title"       content="తెలుగు కథలు">
   <meta property="og:description" content="పిల్లలకు తెలుగు కథలు - నైతిక విలువలతో కూడిన అందమైన కథలు">
-  <meta property="og:image"       content="https://telugukathalu.in/static/icon-512.png">
-  <meta property="og:url"         content="https://telugukathalu.in/story.html">
+  <meta property="og:image"       content="https://www.telugukathalu.in/static/icon-512.png">
+  <meta property="og:url"         content="https://www.telugukathalu.in/story.html">
 
   <!-- Twitter / X card -->
   <meta name="twitter:card"        content="summary_large_image">
   <meta name="twitter:site"        content="@telugukathalu">
   <meta name="twitter:title"       content="తెలుగు కథలు">
   <meta name="twitter:description" content="పిల్లలకు తెలుగు కథలు - నైతిక విలువలతో కూడిన అందమైన కథలు">
-  <meta name="twitter:image"       content="https://telugukathalu.in/static/icon-512.png">
+  <meta name="twitter:image"       content="https://www.telugukathalu.in/static/icon-512.png">
 
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
@@ -34,7 +34,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com">
 
-  <link rel="stylesheet" href="static/style.css?v=5">
+  <link rel="stylesheet" href="static/style.css?v=6">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
   <!-- Google Analytics -->
@@ -751,16 +751,17 @@
 
     // ── JSON-LD ────────────────────────────────────────────────────────────────
     function injectJSONLD(s, id) {
+      const storyId = s.slug || id;
       const ld = {
         "@context": "https://schema.org",
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": window.location.href,
+        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://telugukathalu.in/' + s.thumbnail : undefined,
-        "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://telugukathalu.in" }
+        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
       script.type = 'application/ld+json';
@@ -770,12 +771,13 @@
 
     // ── OG / TWITTER TAGS (dynamic update when story loads) ───────────────────
     function injectOGTags(s) {
+      const storyId = s.slug || storyFolderId;
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://telugukathalu.in/' + s.thumbnail
-        : 'https://telugukathalu.in/static/icon-512.png';
-      const url   = window.location.href;
+        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        : 'https://www.telugukathalu.in/static/icon-512.png';
+      const url   = `https://www.telugukathalu.in/story.html?id=${storyId}`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
