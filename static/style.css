@@ -499,17 +499,29 @@ body.slideshow-mode {
   overflow: hidden;
 }
 
-/* Image zone — top portion of screen, fully visible, no overlay */
+/* Blurred fill layer — same image scaled to cover, fills the entire screen with no dark bars */
+#bg-blur {
+  position: absolute;
+  top: -10px; left: -10px;
+  width: calc(100% + 20px);
+  height: calc(100% + 20px);
+  background-size: cover;
+  background-position: center center;
+  filter: blur(18px) brightness(0.55) saturate(0.8);
+  z-index: 0;
+}
+
+/* Sharp image layer — full image visible without any cropping */
 #bg-image {
   position: absolute;
   top: 0; left: 0;
   width: 100%;
-  height: 52%;
-  background-size: cover;
+  height: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center top;
-  background-color: #1a0a00;
+  z-index: 1;
   transition: opacity 0.35s ease;
-  animation: kenBurns 14s ease-in-out infinite alternate;
 }
 
 @keyframes kenBurns {
@@ -517,17 +529,17 @@ body.slideshow-mode {
   100% { transform: scale(1.04) translateX(-8px); }
 }
 
-/* Thin fade at the image-to-panel seam only — no full-screen smothering */
+/* Gradient fade from middle to bottom so text stays readable over image */
 #slideshow::after {
   content: '';
   position: absolute;
-  top: 44%;
+  top: 35%;
   left: 0;
   width: 100%;
-  height: 12%;
-  background: linear-gradient(to bottom, transparent, rgba(0,0,0,0.95));
+  height: 65%;
+  background: linear-gradient(to bottom, transparent 0%, rgba(4,4,26,0.7) 50%, rgba(4,4,26,0.97) 100%);
   pointer-events: none;
-  z-index: 1;
+  z-index: 2;
 }
 
 #top-bar {
@@ -564,7 +576,7 @@ body.slideshow-mode {
 #swipe-area {
   position: absolute;
   top: 0; left: 0;
-  width: 100%; height: 52%;
+  width: 100%; height: 100%;
   z-index: 5;
   display: flex;
 }
@@ -574,17 +586,13 @@ body.slideshow-mode {
 
 #bottom-content {
   position: absolute;
-  top: 52%;
+  top: 48%;
   bottom: 0;
   left: 0; right: 0;
   z-index: 10;
   padding: 8px 16px;
   padding-bottom: max(12px, env(safe-area-inset-bottom));
-  background: #04041a;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border-top: 1.5px solid rgba(255,160,60,0.25);
-  box-shadow: 0 -8px 28px rgba(0,0,0,0.55);
+  background: transparent;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -1082,12 +1090,11 @@ body.slideshow-mode {
 }
 #play-pause-btn:active { transform: scale(0.95); }
 
-/* ── MOBILE: image 48%, more panel space for controls ── */
+/* ── MOBILE: full-screen image, controls overlay at bottom ── */
 @media (max-width: 480px) {
-  #bg-image    { height: 48%; }
-  #swipe-area  { height: 48%; }
-  #slideshow::after { top: 40%; }
-  #bottom-content   { top: 48%; }
+  #swipe-area  { height: 100%; }
+  #slideshow::after { top: 30%; height: 70%; }
+  #bottom-content   { top: 45%; }
 
   .nav-btn { width: 38px !important; height: 38px !important; font-size: 0.9rem !important; }
   #mute-btn { width: 38px !important; height: 38px !important; font-size: 0.95rem !important; }
@@ -1099,12 +1106,11 @@ body.slideshow-mode {
   #slide-story-title { font-size: 0.72rem; margin-bottom: 3px; }
 }
 
-/* ── DESKTOP: image 58%, wider panel with comfortable padding ── */
+/* ── DESKTOP: full-screen image, controls overlay at bottom with wider padding ── */
 @media (min-width: 768px) {
-  #bg-image    { height: 58%; }
-  #swipe-area  { height: 58%; }
-  #slideshow::after { top: 50%; }
-  #bottom-content   { top: 58%; padding: 10px 32px; padding-bottom: 20px; }
+  #swipe-area  { height: 100%; }
+  #slideshow::after { top: 40%; height: 60%; }
+  #bottom-content   { top: 55%; padding: 10px 32px; padding-bottom: 20px; }
 
   #slide-text {
     font-size: clamp(0.9rem, 1.5vw, 1.05rem);

@@ -55,6 +55,7 @@
   <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
+    <div id="bg-blur"></div>
     <div id="bg-image"></div>
 
     <!-- Top bar -->
@@ -412,10 +413,13 @@
       const scene = story.scenes[index];
 
       const bg = document.getElementById('bg-image');
+      const bgBlur = document.getElementById('bg-blur');
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        bg.style.backgroundImage = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        bg.style.backgroundImage = imgUrl;
+        bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
       }, 250);
 
