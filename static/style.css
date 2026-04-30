@@ -529,15 +529,19 @@ body.slideshow-mode {
   100% { transform: scale(1.04) translateX(-8px); }
 }
 
-/* Gradient fade from middle to bottom so text stays readable over image */
+/* Tall gradient — transparent at image center, deep dark at bottom for text readability */
 #slideshow::after {
   content: '';
   position: absolute;
-  top: 35%;
+  bottom: 0;
   left: 0;
   width: 100%;
-  height: 65%;
-  background: linear-gradient(to bottom, transparent 0%, rgba(4,4,26,0.7) 50%, rgba(4,4,26,0.97) 100%);
+  height: 60%;
+  background: linear-gradient(to bottom,
+    transparent 0%,
+    rgba(4,4,26,0.45) 45%,
+    rgba(4,4,26,0.82) 70%,
+    rgba(4,4,26,0.96) 100%);
   pointer-events: none;
   z-index: 2;
 }
@@ -586,17 +590,15 @@ body.slideshow-mode {
 
 #bottom-content {
   position: absolute;
-  top: 48%;
   bottom: 0;
   left: 0; right: 0;
   z-index: 10;
-  padding: 8px 16px;
-  padding-bottom: max(12px, env(safe-area-inset-bottom));
+  padding: 12px 16px;
+  padding-bottom: max(16px, env(safe-area-inset-bottom));
   background: transparent;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  overflow-y: auto;
+  justify-content: flex-end;
 }
 
 #slide-story-title {
@@ -1090,11 +1092,9 @@ body.slideshow-mode {
 }
 #play-pause-btn:active { transform: scale(0.95); }
 
-/* ── MOBILE: full-screen image, controls overlay at bottom ── */
+/* ── MOBILE: compact controls pinned to bottom ── */
 @media (max-width: 480px) {
   #swipe-area  { height: 100%; }
-  #slideshow::after { top: 30%; height: 70%; }
-  #bottom-content   { top: 45%; }
 
   .nav-btn { width: 38px !important; height: 38px !important; font-size: 0.9rem !important; }
   #mute-btn { width: 38px !important; height: 38px !important; font-size: 0.95rem !important; }
@@ -1102,20 +1102,19 @@ body.slideshow-mode {
   .speed-label { display: none; }
   #speed-row { padding: 3px 4px; }
   .speed-btn { padding: 5px 8px; font-size: 0.6rem; }
-  #slide-text { max-height: 3.8em; font-size: 0.95rem; }
+  #slide-text { max-height: 3.5em; font-size: 0.95rem; }
   #slide-story-title { font-size: 0.72rem; margin-bottom: 3px; }
 }
 
-/* ── DESKTOP: full-screen image, controls overlay at bottom with wider padding ── */
+/* ── DESKTOP: compact controls pinned to bottom, wider padding ── */
 @media (min-width: 768px) {
   #swipe-area  { height: 100%; }
-  #slideshow::after { top: 40%; height: 60%; }
-  #bottom-content   { top: 55%; padding: 10px 32px; padding-bottom: 20px; }
+  #bottom-content { padding: 12px 32px; padding-bottom: 24px; }
 
   #slide-text {
     font-size: clamp(0.9rem, 1.5vw, 1.05rem);
-    max-height: 4.5em;
-    margin-bottom: 12px;
+    max-height: 4em;
+    margin-bottom: 10px;
   }
   #bottom-bar { gap: 14px; margin-bottom: 10px; }
   .ctrl-btn { padding: 12px 22px; }
