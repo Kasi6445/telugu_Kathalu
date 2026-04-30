@@ -51,6 +51,9 @@
 
 <body class="slideshow-mode">
 
+  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
+  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
+
   <div id="slideshow">
     <div id="bg-image"></div>
 
@@ -314,6 +317,9 @@
         const id = storyFolderId;
         const res = await fetch(`stories/${id}/story.json`);
         story = await res.json();
+
+        const _h1 = document.getElementById('story-h1');
+        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {

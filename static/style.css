@@ -232,6 +232,8 @@ body {
 }
 
 .hero-btn {
+  display: inline-block;
+  text-decoration: none;
   background: linear-gradient(135deg, #FF6B35, #F7931E);
   border: none;
   color: white;
@@ -337,6 +339,12 @@ body {
 }
 
 .cards-row::-webkit-scrollbar { display: none; }
+
+a.h-card, a.v-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
 
 .h-card {
   flex-shrink: 0;

@@ -109,7 +109,7 @@
           </div>
           <h1 id="hero-title">లోడ్ అవుతోంది...</h1>
           <p id="hero-moral"></p>
-          <button class="hero-btn" id="hero-btn" onclick="openHeroStory()">▶ చదవండి</button>
+          <a class="hero-btn" id="hero-btn" href="/">▶ చదవండి</a>
         </div>
         <div class="hero-thumb" id="hero-thumb"></div>
       </div>
@@ -315,7 +315,11 @@
           // Update OG tags with latest story data
           setMeta('og:title', hero.title + ' - తెలుగు కథలు');
           setMeta('og:description', hero.moral || 'ప్రతి రోజు కొత్త తెలుగు కథలు');
-          setMeta('og:image', 'https://telugukathalu.in/' + hero.thumbnail);
+          setMeta('og:image', 'https://www.telugukathalu.in/' + hero.thumbnail);
+
+          // Give the hero button a real href so Googlebot can follow it
+          const heroBtn = document.getElementById('hero-btn');
+          if (heroBtn) heroBtn.href = `story.html?id=${hero.slug || hero.id}`;
         }
 
         Object.keys(CATEGORIES).forEach(cat => {
@@ -357,14 +361,10 @@
         const displayTitle = searchLang === 'en' && story.title_en ? story.title_en
           : searchLang === 'te_en' && story.title_te_en ? story.title_te_en
           : story.title;
-        const card = document.createElement('div');
+        const card = document.createElement('a');
         card.className = 'h-card';
-        card.setAttribute('role', 'button');
-        card.setAttribute('tabindex', '0');
+        card.href = `story.html?id=${story.slug || story.id}`;
         card.setAttribute('aria-label', displayTitle);
-        const _hUrl = `story.html?id=${story.slug || story.id}`;
-        card.onclick = () => window.location.href = _hUrl;
-        card.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') window.location.href = _hUrl; };
         card.innerHTML = `
           <div class="h-card-img">
             <img loading="lazy" src="${story.thumbnail}" alt="${displayTitle}">
@@ -393,14 +393,10 @@
         const displayMoral = searchLang === 'en' && story.moral_en ? story.moral_en
           : searchLang === 'te_en' && story.moral_te_en ? story.moral_te_en
           : story.moral;
-        const card = document.createElement('div');
+        const card = document.createElement('a');
         card.className = 'v-card';
-        card.setAttribute('role', 'button');
-        card.setAttribute('tabindex', '0');
+        card.href = `story.html?id=${story.slug || story.id}`;
         card.setAttribute('aria-label', displayTitle);
-        const _vUrl = `story.html?id=${story.slug || story.id}`;
-        card.onclick = () => window.location.href = _vUrl;
-        card.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') window.location.href = _vUrl; };
         card.innerHTML = `
           <div class="v-card-img">
             <img loading="lazy" src="${story.thumbnail}" alt="${displayTitle}">
