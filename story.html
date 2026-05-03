@@ -62,14 +62,7 @@
     <div id="top-bar">
       <a href="/" id="back-link">← అన్ని కథలు</a>
       <span id="scene-counter">1 / 6</span>
-      <div class="top-bar-right">
-        <div class="lang-switch" id="story-lang-switch" role="group" aria-label="Language selector">
-          <button class="lang-btn active" data-lang="te" onclick="storySetLang('te')" aria-pressed="true">తె</button>
-          <button class="lang-btn" data-lang="te_en" onclick="storySetLang('te_en')" aria-pressed="false">తె-EN</button>
-          <button class="lang-btn" data-lang="en" onclick="storySetLang('en')" aria-pressed="false">EN</button>
-        </div>
-        <button id="fav-btn" onclick="toggleFavorite()" title="నా కథలు">♡</button>
-      </div>
+      <button id="fav-btn" onclick="toggleFavorite()" title="నా కథలు">♡</button>
     </div>
 
     <!-- Swipe area — covers full screen -->
@@ -92,14 +85,10 @@
         <button class="ctrl-btn nav-btn" onclick="nextScene()">→</button>
       </div>
 
-      <!-- Speed control — pill buttons below audio controls -->
+      <!-- Speed control — tap to slow/fast, tap again to reset -->
       <div id="speed-row">
-        <span class="speed-label">Speed</span>
-        <button class="speed-btn" onclick="setSpeed(0.75)">0.75×</button>
-        <button class="speed-btn active" onclick="setSpeed(1)">1×</button>
-        <button class="speed-btn" onclick="setSpeed(1.25)">1.25×</button>
-        <button class="speed-btn" onclick="setSpeed(1.5)">1.5×</button>
-        <button class="speed-btn" onclick="setSpeed(2)">2×</button>
+        <button class="speed-btn" data-speed="0.75" onclick="setSpeed(0.75)">0.75×</button>
+        <button class="speed-btn" data-speed="1.25" onclick="setSpeed(1.25)">1.25×</button>
       </div>
 
       <!-- Segmented timeline -->
@@ -327,15 +316,11 @@
           history.replaceState(null, '', `story.html?id=${story.slug}`);
         }
 
-        // Hide lang toggle when story has no English content at all
+        // Language fallback: if story has no English content, use Telugu
         const storyHasEnglish = !!(story.title_en || story.title_te_en || story.scenes.some(s => s.text_en || s.text_te_en));
-        const langSwitch = document.getElementById('story-lang-switch');
         if (!storyHasEnglish) {
-          langSwitch.style.display = 'none';
           storyLang = 'te';
           localStorage.setItem('tk_lang', 'te');
-        } else {
-          langSwitch.style.display = '';
         }
 
         // Derive image extension from thumbnail
@@ -674,9 +659,10 @@
 
     // ── SPEED ─────────────────────────────────────────────────────────────────
     function setSpeed(s) {
+      if (currentSpeed === s) s = 1.0; // tap active → reset to normal
       currentSpeed = s;
       document.querySelectorAll('.speed-btn').forEach(btn => {
-        btn.classList.toggle('active', parseFloat(btn.textContent) === s);
+        btn.classList.toggle('active', parseFloat(btn.dataset.speed) === s);
       });
       applyAudioSettingsAll();
     }
