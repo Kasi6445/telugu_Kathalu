@@ -448,15 +448,26 @@
     }
 
     function filterCategory(cat, pillEl) {
+      document.querySelectorAll('.nav-pill').forEach(p => p.classList.remove('active'));
       if (pillEl) {
-        document.querySelectorAll('.nav-pill').forEach(p => p.classList.remove('active'));
         pillEl.classList.add('active');
+      } else {
+        const match = document.querySelector(`.nav-pill[data-cat="${cat}"]`);
+        if (match) match.classList.add('active');
       }
       currentCat = cat;
       currentSub = 'all';
+      updatePageSections(cat);
       showSubcategoryRow(cat);
-      document.getElementById('section-all').scrollIntoView({ behavior: 'smooth' });
+      window.scrollTo({ top: 0, behavior: 'smooth' });
       applyFilters();
+    }
+
+    function updatePageSections(cat) {
+      const isAll = cat === 'all';
+      document.getElementById('hero-banner').style.display        = isAll ? '' : 'none';
+      document.getElementById('section-categories').style.display = isAll ? '' : 'none';
+      document.getElementById('section-recent').style.display     = isAll ? '' : 'none';
     }
 
     function showSubcategoryRow(catKey) {
@@ -574,6 +585,7 @@
       const allPill = document.createElement('div');
       allPill.className = 'nav-pill' + (currentCat === 'all' ? ' active' : '');
       allPill.textContent = t.all;
+      allPill.dataset.cat = 'all';
       allPill.onclick = () => filterCategory('all', allPill);
       nav.appendChild(allPill);
 
@@ -581,6 +593,7 @@
         const pill = document.createElement('div');
         pill.className = 'nav-pill' + (currentCat === key ? ' active' : '');
         pill.textContent = lang === 'en' ? cat.en : lang === 'te_en' ? cat.te_en : cat.name;
+        pill.dataset.cat = key;
         pill.onclick = () => filterCategory(key, pill);
         nav.appendChild(pill);
       });

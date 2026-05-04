@@ -58,41 +58,43 @@
     <div id="bg-blur"></div>
     <div id="bg-image"></div>
 
-    <!-- Top bar -->
+    <!-- Tap-to-start overlay (shown if autoplay is blocked) -->
+    <div id="tap-start-overlay" onclick="startFromTap()">
+      <div class="tap-start-inner">
+        <div class="tap-start-btn">▶</div>
+        <p id="tap-start-label">వినండి</p>
+      </div>
+    </div>
+
+    <!-- Top bar (auto-hides) -->
     <div id="top-bar">
       <a href="/" id="back-link">← అన్ని కథలు</a>
       <span id="scene-counter">1 / 6</span>
       <button id="fav-btn" onclick="toggleFavorite()" title="నా కథలు">♡</button>
     </div>
 
-    <!-- Swipe area — covers full screen -->
-    <div id="swipe-area">
-      <!-- Tap zones -->
-      <div id="tap-left" onclick="prevScene()"></div>
-      <div id="tap-right" onclick="nextScene()"></div>
-    </div>
-
-    <!-- Bottom content -->
-    <div id="bottom-content">
+    <!-- CC / Subtitle overlay (always visible, just above controls) -->
+    <div id="subtitle-box">
       <p id="slide-story-title"></p>
       <p id="slide-text"></p>
+    </div>
 
-      <!-- Controls -->
-      <div id="bottom-bar">
-        <button class="ctrl-btn nav-btn" onclick="prevScene()">←</button>
-        <button class="ctrl-btn" id="mute-btn" onclick="toggleMute()">🔊</button>
-        <button class="ctrl-btn" id="play-pause-btn" onclick="toggleCurrentAudio()">▶ వినండి</button>
-        <button class="ctrl-btn nav-btn" onclick="nextScene()">→</button>
-      </div>
-
-      <!-- Speed control — tap to slow/fast, tap again to reset -->
-      <div id="speed-row">
-        <button class="speed-btn" data-speed="0.75" onclick="setSpeed(0.75)">0.75×</button>
-        <button class="speed-btn" data-speed="1.25" onclick="setSpeed(1.25)">1.25×</button>
-      </div>
-
-      <!-- Segmented timeline -->
+    <!-- YouTube-style controls bar (always visible) -->
+    <div id="controls-bar">
       <div id="timeline"></div>
+      <div id="bottom-bar">
+        <div class="ctrl-group">
+          <button class="ctrl-btn nav-btn" onclick="prevScene()">←</button>
+          <button class="ctrl-btn" id="play-pause-btn" onclick="toggleCurrentAudio()">▶</button>
+          <button class="ctrl-btn nav-btn" onclick="nextScene()">→</button>
+        </div>
+        <div class="ctrl-group">
+          <button class="speed-btn" data-speed="0.75" onclick="setSpeed(0.75)">0.75×</button>
+          <button class="speed-btn" data-speed="1.25" onclick="setSpeed(1.25)">1.25×</button>
+          <button class="ctrl-btn active" id="cc-btn" onclick="toggleCC()">CC</button>
+          <button class="ctrl-btn" id="mute-btn" onclick="toggleMute()">🔊</button>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -117,6 +119,7 @@
     let isPlaying     = false;
     let isMuted       = false;
     let currentSpeed  = 1.0;
+    let ccEnabled     = true;
     let touchStartX   = 0;
     let touchStartY   = 0;
     let imgExt        = 'jpg';
@@ -496,22 +499,25 @@
       audio.muted        = isMuted;
       audio.playbackRate = currentSpeed;
 
-      // Seek past detected leading silence so speech starts as soon as the image appears.
-      // Keeps a 50ms natural lead-in before the first audible word.
-      // onset=null means detection is still running — start from 0 and let highlighting catch up.
       const onset = _speechOnsets[scene.id];
       audio.currentTime = (onset && onset > 0.1) ? Math.max(0, onset - 0.05) : 0;
 
       audio.play().then(() => {
         isPlaying = true;
         updatePlayBtn();
+        hideTapOverlay();
       }).catch(() => {
-        // Audio unavailable locally — auto-advance after text-length-based delay
         isPlaying = false;
         updatePlayBtn();
-        const textLen = (scene.text_en || scene.text).length;
-        const delay   = Math.max(4000, Math.min(9000, textLen * 35));
-        _fallbackTimer = setTimeout(() => nextScene(), delay);
+        if (audio.readyState >= 2) {
+          // Audio loaded but autoplay blocked — show tap-to-start
+          showTapOverlay();
+        } else {
+          // Audio not available — auto-advance after text-based delay
+          const textLen = (scene.text_en || scene.text).length;
+          const delay   = Math.max(4000, Math.min(9000, textLen * 35));
+          _fallbackTimer = setTimeout(() => nextScene(), delay);
+        }
       });
     }
 
@@ -537,7 +543,6 @@
         isPlaying = false;
         updatePlayBtn();
       } else {
-        // Resume from where we paused — do NOT reset currentTime
         if (_fallbackTimer) { clearTimeout(_fallbackTimer); _fallbackTimer = null; }
         audio.muted        = isMuted;
         audio.playbackRate = currentSpeed;
@@ -551,11 +556,7 @@
     function updatePlayBtn() {
       const btn = document.getElementById('play-pause-btn');
       if (!btn) return;
-      if (storyLang === 'te') {
-        btn.textContent = isPlaying ? '⏸ ఆపు' : '▶ వినండి';
-      } else {
-        btn.textContent = isPlaying ? '⏸ Pause' : '▶ Listen';
-      }
+      btn.textContent = isPlaying ? '⏸' : '▶';
     }
 
     function nextScene() {
@@ -794,27 +795,60 @@
       setMeta('meta[name="twitter:image"]',       image);
     }
 
-    // ── SWIPE ─────────────────────────────────────────────────────────────────
+    // ── CC (SUBTITLES) ────────────────────────────────────────────────────────
+    function toggleCC() {
+      ccEnabled = !ccEnabled;
+      document.getElementById('cc-btn').classList.toggle('active', ccEnabled);
+      document.getElementById('subtitle-box').classList.toggle('cc-off', !ccEnabled);
+    }
+
+    // ── TAP-TO-START ──────────────────────────────────────────────────────────
+    function showTapOverlay() {
+      const el = document.getElementById('tap-start-overlay');
+      if (el) el.style.display = 'flex';
+    }
+    function hideTapOverlay() {
+      const el = document.getElementById('tap-start-overlay');
+      if (el) el.style.display = 'none';
+    }
+    function startFromTap() {
+      hideTapOverlay();
+      const scene = story.scenes[currentIndex];
+      const audio = document.getElementById(`audio-${scene.id}`);
+      if (!audio) return;
+      audio.muted = isMuted;
+      audio.playbackRate = currentSpeed;
+      audio.play().then(() => {
+        isPlaying = true;
+        updatePlayBtn();
+      }).catch(() => {});
+    }
+
+    // ── SWIPE & GESTURES ──────────────────────────────────────────────────────
     function setupSwipeGesture() {
-      const area = document.getElementById('swipe-area');
-      area.addEventListener('touchstart', (e) => {
+      const el = document.getElementById('slideshow');
+      el.addEventListener('touchstart', e => {
         touchStartX = e.touches[0].clientX;
         touchStartY = e.touches[0].clientY;
       }, { passive: true });
-      area.addEventListener('touchend', (e) => {
+      el.addEventListener('touchend', e => {
         const dx = e.changedTouches[0].clientX - touchStartX;
         const dy = e.changedTouches[0].clientY - touchStartY;
         if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 50) {
           if (dx < 0) nextScene(); else prevScene();
-        } else if (Math.abs(dx) < 10 && Math.abs(dy) < 10) {
-          toggleCurrentAudio();
+        } else if (Math.abs(dx) < 12 && Math.abs(dy) < 12) {
+          const tgt = e.target;
+          const onUI = tgt.closest('#controls-bar') || tgt.closest('#top-bar')
+                    || tgt.closest('#fav-btn') || tgt.closest('#tap-start-overlay')
+                    || tgt.closest('.word-span');
+          if (!onUI) toggleCurrentAudio();
         }
       }, { passive: true });
     }
 
     // ── KEYBOARD ──────────────────────────────────────────────────────────────
     function setupKeyboard() {
-      document.addEventListener('keydown', (e) => {
+      document.addEventListener('keydown', e => {
         if (e.key === 'ArrowRight') nextScene();
         if (e.key === 'ArrowLeft')  prevScene();
         if (e.key === ' ') { e.preventDefault(); toggleCurrentAudio(); }
