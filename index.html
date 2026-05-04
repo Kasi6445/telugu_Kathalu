@@ -29,7 +29,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com">
-  <link rel="stylesheet" href="static/style.css?v=2">
+  <link rel="stylesheet" href="static/style.css?v=7">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-4EYTPBHZJ6"></script>
   <script>
@@ -395,7 +395,8 @@
           : story.moral;
         const card = document.createElement('a');
         card.className = 'v-card';
-        card.href = `story.html?id=${story.slug || story.id}`;
+        const fromParam = currentCat !== 'all' ? `&from=${currentCat}` : '';
+        card.href = `story.html?id=${story.slug || story.id}${fromParam}`;
         card.setAttribute('aria-label', displayTitle);
         card.innerHTML = `
           <div class="v-card-img">
@@ -646,6 +647,12 @@
     Promise.all([loadCategories(), loadStories()]).then(() => {
       const savedLang = localStorage.getItem('tk_lang') || 'te';
       if (savedLang !== searchLang) setLang(savedLang);
+
+      // Restore category view when coming back from a story page (e.g. /?cat=ramayana)
+      const urlCat = new URLSearchParams(window.location.search).get('cat');
+      if (urlCat && CATEGORIES[urlCat]) {
+        filterCategory(urlCat, null);
+      }
     });
 
     // ── SERVICE WORKER ────────────────────────────────────────────────────────

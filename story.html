@@ -34,7 +34,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com">
 
-  <link rel="stylesheet" href="static/style.css?v=6">
+  <link rel="stylesheet" href="static/style.css?v=7">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
   <!-- Google Analytics -->
@@ -138,15 +138,29 @@
     let _onsetAC          = null; // shared AudioContext for onset detection
 
     const CATEGORIES = {
-      neeti:        'నీతి కథలు',
-      podupu:       'పొడుపు కథలు',
-      tenali:       'తెనాలి రామ',
-      panchatantra: 'పంచతంత్రం',
-      ramayana:     'రామాయణం',
-      samethalu:    'సామెతలు',
-      janapada:     'జానపదం',
-      bhagavatam:   'భాగవతం'
+      neeti:        { te: 'నీతి కథలు',   en: 'Moral Stories'   },
+      podupu:       { te: 'పొడుపు కథలు', en: 'Riddle Stories'  },
+      tenali:       { te: 'తెనాలి రామ',  en: 'Tenali Rama'     },
+      panchatantra: { te: 'పంచతంత్రం',   en: 'Panchatantra'    },
+      ramayana:     { te: 'రామాయణం',     en: 'Ramayana'        },
+      samethalu:    { te: 'సామెతలు',     en: 'Proverbs'        },
+      janapada:     { te: 'జానపదం',      en: 'Folk Tales'      },
+      bhagavatam:   { te: 'భాగవతం',     en: 'Bhagavatam'      }
     };
+
+    function getBackHref() {
+      const from = new URLSearchParams(window.location.search).get('from');
+      return (from && CATEGORIES[from]) ? `/?cat=${from}` : '/';
+    }
+
+    function getBackLabel(lang) {
+      const from = new URLSearchParams(window.location.search).get('from');
+      if (from && CATEGORIES[from]) {
+        const name = (lang === 'en' || lang === 'te_en') ? CATEGORIES[from].en : CATEGORIES[from].te;
+        return '← ' + name;
+      }
+      return lang === 'te' ? '← అన్ని కథలు' : '← All Stories';
+    }
 
     // ── WORD HIGHLIGHT ────────────────────────────────────────────────────────
 
@@ -625,7 +639,10 @@
       // Update every static UI string
       const t = UI_TEXT[lang] || UI_TEXT.te;
       const el = id => document.getElementById(id);
-      el('back-link')     && (el('back-link').textContent     = t.backLink);
+      if (el('back-link')) {
+        el('back-link').textContent = getBackLabel(lang);
+        el('back-link').href        = getBackHref();
+      }
       el('moral-heading') && (el('moral-heading').textContent = t.moralHeading);
       el('moral-label')   && (el('moral-label').textContent   = t.moralLabel);
       el('share-btn')     && (el('share-btn').textContent     = t.shareBtn);
@@ -739,7 +756,7 @@
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
               <div class="related-card-title">${s.title}</div>
-              <div class="related-card-cat">${CATEGORIES[s.category] || s.category}</div>
+              <div class="related-card-cat">${(CATEGORIES[s.category] || {}).te || s.category}</div>
             </div>`;
           container.appendChild(div);
         });

@@ -1,5 +1,5 @@
-const CACHE_NAME    = 'telugu-kathalu-v6';
-const RUNTIME_CACHE = 'telugu-kathalu-runtime-v6';
+const CACHE_NAME    = 'telugu-kathalu-v7';
+const RUNTIME_CACHE = 'telugu-kathalu-runtime-v7';
 
 const PRECACHE_ASSETS = [
   '/static/style.css',
