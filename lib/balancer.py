@@ -2,7 +2,7 @@ import json
 import logging
 import random
 
-from lib.config import GEMINI_API_KEY, save_categories
+from lib.config import make_client, save_categories
 
 logger = logging.getLogger(__name__)
 
@@ -44,7 +44,6 @@ def pick_next_slot(categories: dict, index_stories: list) -> tuple[str, str, str
 
 
 def _generate_new_topics(cat_key: str, sub_key: str, categories: dict, index_stories: list) -> list:
-    from google import genai
     from google.genai import types
 
     cat  = categories[cat_key]
@@ -61,7 +60,7 @@ def _generate_new_topics(cat_key: str, sub_key: str, categories: dict, index_sto
         + "\n\nReturn ONLY a JSON array of 8 topic strings in Telugu. No explanation."
     )
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    client = make_client()
     response = client.models.generate_content(
         model="gemini-2.5-flash",
         contents=prompt,

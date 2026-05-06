@@ -14,10 +14,9 @@ import sys
 import time
 from pathlib import Path
 
-from google import genai
 from google.genai import types
 
-from lib.config import GEMINI_API_KEY, LOGS_DIR, STORIES_DIR
+from lib.config import make_client, LOGS_DIR, STORIES_DIR
 from lib.story_gen import telugu_to_readable_english
 
 FLASH_MODEL = "gemini-2.5-flash"
@@ -72,7 +71,7 @@ Return exactly this structure:
   "scenes": [{{"id": 1, "text_en": "..."}}]
 }}"""
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    client = make_client()
     response = client.models.generate_content(
         model=FLASH_MODEL,
         contents=prompt,

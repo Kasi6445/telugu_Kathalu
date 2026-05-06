@@ -15,13 +15,15 @@ import logging
 import re
 import time
 from datetime import datetime
+from typing import Any
 
 from google import genai
 from google.genai import types
 from indic_transliteration import sanscript
 from indic_transliteration.sanscript import transliterate as _itrans_transliterate
 
-from lib.config import GEMINI_API_KEY, STYLE_LOCK, LOGS_DIR
+from lib.config import make_client, STYLE_LOCK, LOGS_DIR
+from lib.cost_tracker import set_stage
 from lib.voices import pick_voice
 
 logger = logging.getLogger(__name__)
@@ -51,15 +53,15 @@ def telugu_to_readable_english(text: str) -> str:
 
 
 # ── Model constants — swap here to experiment ─────────────────────────────────
-OUTLINE_MODEL    = "gemini-2.5-pro"
+OUTLINE_MODEL    = "gemini-2.5-flash"
 NARRATION_MODEL  = "gemini-2.5-flash"
-VALIDATION_MODEL = "gemini-2.5-pro"
+VALIDATION_MODEL = "gemini-2.5-flash"
 
-# Pro rate-limit guards (free tier: 2 req/min)
+# Rate-limit guards (flash has much higher quotas than pro)
 _last_pro_call_at: float = 0.0
-_PRO_MIN_GAP   = 30   # if last Pro call was < 30s ago, pre-sleep
-_PRO_PRESLEEP  = 35   # sleep duration before Pro call when gap is tight
-_PRO_429_WAIT  = 60   # wait after 429 before one retry
+_PRO_MIN_GAP   = 5    # flash allows faster back-to-back calls
+_PRO_PRESLEEP  = 8
+_PRO_429_WAIT  = 30   # flash 429s recover faster
 
 _VALIDATION_THRESHOLD = 8.0   # average across all 6 dimensions
 
@@ -86,7 +88,7 @@ def _pro_call(prompt: str, config: types.GenerateContentConfig,
         logger.info(f"Pro rate guard: sleeping {wait}s (last call {since_last:.1f}s ago)")
         time.sleep(wait)
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    client = make_client()
     t0 = time.time()
     _last_pro_call_at = t0
 
@@ -97,7 +99,10 @@ def _pro_call(prompt: str, config: types.GenerateContentConfig,
             )
             elapsed = time.time() - t0
             _log_timing(model, elapsed)
-            return response.text
+            text = response.text
+            if text is None:
+                raise RuntimeError(f"Pro call returned no text (model={model})")
+            return text
 
         except Exception as exc:
             err = str(exc)
@@ -111,7 +116,7 @@ def _pro_call(prompt: str, config: types.GenerateContentConfig,
     raise RuntimeError("Pro call exhausted retries")
 
 
-def _log_timing(model: str, elapsed: float):
+def _log_timing(model: str, elapsed: float) -> None:
     timing_log = LOGS_DIR / "api_timing.log"
     ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(timing_log, "a", encoding="utf-8") as f:
@@ -149,7 +154,8 @@ The story passes safety review ONLY if no scene contains graphic physical violen
 
 # ── Pass 1: Outline ───────────────────────────────────────────────────────────
 
-def _pass1_outline(cat_key: str, sub_key: str, topic: str, categories: dict) -> dict:
+def _pass1_outline(cat_key: str, sub_key: str, topic: str,
+                   categories: dict[str, Any]) -> dict[str, Any]:
     """Design a structured 6-8 scene narrative arc in English."""
     cat = categories[cat_key]
     sub = cat["subcategories"][sub_key]
@@ -234,7 +240,7 @@ Return ONLY valid JSON:
   ]
 }}"""
 
-    logger.info("Pass 1: requesting outline from gemini-2.5-pro")
+    logger.info(f"Pass 1: requesting outline from {OUTLINE_MODEL}")
     raw = _pro_call(
         prompt,
         types.GenerateContentConfig(
@@ -251,8 +257,9 @@ Return ONLY valid JSON:
 
 # ── Pass 2: Telugu narration ──────────────────────────────────────────────────
 
-def _pass2_telugu(outline: dict, cat_key: str, sub_key: str,
-                  topic: str, categories: dict, attempt: int = 1) -> dict:
+def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
+                  topic: str, categories: dict[str, Any],
+                  attempt: int = 1) -> dict[str, Any]:
     """Convert English outline into grandmother-voiced Telugu narration."""
     cat = categories[cat_key]
     sub = cat["subcategories"][sub_key]
@@ -401,7 +408,7 @@ Return ONLY valid JSON (no markdown fences, no extra text):
   ]
 }}"""
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    client = make_client()
     t0 = time.time()
 
     for flash_attempt in range(1, 4):
@@ -417,7 +424,10 @@ Return ONLY valid JSON (no markdown fences, no extra text):
             )
             elapsed = time.time() - t0
             _log_timing(NARRATION_MODEL, elapsed)
-            story = json.loads(response.text)
+            text = response.text
+            if text is None:
+                raise RuntimeError("Pass 2 returned no text")
+            story = json.loads(text)
 
             if not story.get("scenes"):
                 raise ValueError("Pass 2 returned empty scenes")
@@ -432,10 +442,12 @@ Return ONLY valid JSON (no markdown fences, no extra text):
             if flash_attempt == 3:
                 raise RuntimeError("Pass 2 (Telugu narration) failed after 3 Flash attempts") from exc
 
+    raise RuntimeError("Pass 2 exhausted attempts")
+
 
 # ── Pass 2.5: Narration-grounded visual extraction ───────────────────────────
 
-def _pass2b_narration_visuals(story: dict) -> dict:
+def _pass2b_narration_visuals(story: dict[str, Any]) -> dict[str, Any]:
     """
     Pass 2.5 — reads each scene's actual Telugu narration and asks Gemini Flash
     to describe in English the single most important visual moment to illustrate.
@@ -477,7 +489,7 @@ Return ONLY valid JSON:
   {{"id": 2, "scene_visual": "..."}}
 ]"""
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    client = make_client()
     t0 = time.time()
 
     for attempt in range(1, 3):
@@ -493,7 +505,10 @@ Return ONLY valid JSON:
             elapsed = time.time() - t0
             _log_timing(NARRATION_MODEL, elapsed)
 
-            visuals = json.loads(response.text)
+            text = response.text
+            if text is None:
+                raise RuntimeError("Pass 2.5 returned no text")
+            visuals = json.loads(text)
             visual_map = {v["id"]: v["scene_visual"] for v in visuals}
 
             for scene in story["scenes"]:
@@ -514,6 +529,8 @@ Return ONLY valid JSON:
                 for scene in story["scenes"]:
                     scene.setdefault("scene_visual", "")
                 return story
+
+    return story  # unreachable — loop always returns or raises
 
 
 # ── Image prompt assembly (programmatic, deterministic) ───────────────────────
@@ -545,7 +562,8 @@ def _is_observer_scene(emotion: str, _beat: str) -> bool:
     return any(p in emotion_lower for p in _OBSERVER_PATTERNS)
 
 
-def _assemble_image_prompts(story: dict, outline: dict) -> dict:
+def _assemble_image_prompts(story: dict[str, Any],
+                            outline: dict[str, Any]) -> dict[str, Any]:
     """Build scene-specific image prompts using Pass 1 outline data.
 
     Stores ONLY what is unique to this scene: the action, emotion, sensory
@@ -601,7 +619,7 @@ def _assemble_image_prompts(story: dict, outline: dict) -> dict:
 
 # ── Pass 3: Quality validation ────────────────────────────────────────────────
 
-def _pass3_validate(story: dict) -> tuple[float, dict]:
+def _pass3_validate(story: dict[str, Any]) -> tuple[float, dict[str, Any]]:
     """Score Pass 2 output with gemini-2.5-pro. Returns (average, full_result)."""
     scenes_text = "\n".join(f"Scene {s['id']}: {s['text']}" for s in story["scenes"])
 
@@ -717,7 +735,7 @@ Return ONLY valid JSON:
 
 # ── Pass 4: Translations ─────────────────────────────────────────────────────
 
-def _pass4_translations(story: dict) -> dict:
+def _pass4_translations(story: dict[str, Any]) -> dict[str, Any]:
     """Add _te_en (transliteration) and _en (English) fields to story and scenes.
 
     Transliteration is fast and local.
@@ -754,7 +772,7 @@ Return exactly this structure:
   "scenes": [{{"id": 1, "text_en": "..."}}]
 }}"""
 
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    client = make_client()
     t0 = time.time()
     response = client.models.generate_content(
         model=NARRATION_MODEL,
@@ -767,7 +785,10 @@ Return exactly this structure:
     elapsed = time.time() - t0
     _log_timing(NARRATION_MODEL, elapsed)
 
-    translations = json.loads(response.text)
+    text = response.text
+    if text is None:
+        raise RuntimeError("Pass 4 (translations) returned no text")
+    translations = json.loads(text)
     story['title_en'] = translations['title_en']
     story['moral_en'] = translations['moral_en']
 
@@ -783,7 +804,8 @@ Return exactly this structure:
 # ── Public API ────────────────────────────────────────────────────────────────
 
 def generate_story(cat_key: str, sub_key: str, topic: str,
-                   categories: dict, story_index: list) -> dict:
+                   categories: dict[str, Any],
+                   story_index: list[dict[str, Any]]) -> dict[str, Any]:
     """Full 3-pass pipeline. Returns story dict ready for TTS + image gen.
 
     story_index             : list of story dicts from index.json (used for voice variety + duplicate title check)
@@ -794,7 +816,8 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
     """
     existing_titles = [s.get("title", "") for s in story_index]
 
-    # ── Pass 1: Outline (Pro) ─────────────────────────────────────────────────
+    # ── Pass 1: Outline ───────────────────────────────────────────────────────
+    set_stage("outline")
     outline = _pass1_outline(cat_key, sub_key, topic, categories)
 
     # Carry antagonist from outline into Pass 2 so _assemble_image_prompts can use it
@@ -808,15 +831,18 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
     final_scores    = {}
 
     for attempt in range(1, 4):   # 1 initial + 2 retries
+        set_stage("narration")
         telugu_story = _pass2_telugu(outline, cat_key, sub_key, topic, categories, attempt)
 
         # Pass 2.5: extract narration-grounded visual descriptions for each scene.
         # These drive image generation so images match exactly what is narrated.
+        set_stage("narration_visuals")
         telugu_story = _pass2b_narration_visuals(telugu_story)
 
         # Assemble image prompts using Pass 2.5 visuals (falls back to outline beats)
         telugu_story = _assemble_image_prompts(telugu_story, outline)
 
+        set_stage("validation")
         score, score_detail = _pass3_validate(telugu_story)
 
         if score >= _VALIDATION_THRESHOLD:
@@ -840,6 +866,7 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
             logger.warning("All 3 attempts below threshold — saving with quality_warning=True")
 
     # ── Pick voice (needs main_character from outline for gender bias) ────────
+    assert final_story is not None  # always assigned: loop runs ≥1 time, attempt==3 saves it
     voice = pick_voice(cat_key, sub_key, final_story, story_index)
     final_story["voice"] = voice
 
@@ -850,6 +877,7 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
         final_story["quality_warning"] = True
 
     # ── Pass 4: Translations ──────────────────────────────────────────────────
+    set_stage("translation")
     final_story = _pass4_translations(final_story)
 
     return final_story

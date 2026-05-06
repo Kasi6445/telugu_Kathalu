@@ -1,19 +1,19 @@
 import json
 import logging
+from typing import Any
 
-from google import genai
 from google.genai import types
 
-from lib.config import GEMINI_API_KEY
+from lib.config import make_client
 
 logger = logging.getLogger(__name__)
 
 SCORE_THRESHOLD = 7
 
 
-def validate_story(story: dict, max_retries: int = 2) -> dict:
+def validate_story(story: dict[str, Any], max_retries: int = 2) -> dict[str, Any]:
     """Score story on 4 dimensions via Gemini. Returns result dict with 'passed' key."""
-    client = genai.Client(api_key=GEMINI_API_KEY)
+    client = make_client()
 
     scenes_text = "\n".join(
         f"Scene {s['id']}: {s['text']}" for s in story.get("scenes", [])
@@ -57,7 +57,10 @@ Return ONLY valid JSON:
                     temperature=0.2,
                 ),
             )
-            result = json.loads(response.text)
+            text = response.text
+            if text is None:
+                raise RuntimeError("Validator got no response text")
+            result = json.loads(text)
 
             avg = (
                 result["telugu_grammar"]

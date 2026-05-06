@@ -11,6 +11,25 @@ Usage:
   python tools/build_mythology_kb.py --chars Rama Vali --scenes
 
 Default (no flags): runs Rama and Vali only (Phase A start).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTENTIONAL ROUTING EXCEPTION — DO NOT "FIX" THIS TO USE make_client()
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This script intentionally uses the AI Studio API key (GEMINI_API_KEY) instead
+of the Vertex AI path used by the rest of the project. Reasons:
+
+1. Google Search grounding is FREE on AI Studio (up to quota). On Vertex AI,
+   "Grounding with Google Search" is billed at ~$35 per 1,000 queries.
+
+2. This is a one-time offline research tool using public mythology data —
+   there is no production cost-tracking requirement here.
+
+3. The Gemini 2.5 Pro free tier on AI Studio is sufficient for this workload
+   (2 RPM, ~45-min full run).
+
+If you ever need to run this at scale or in an automated pipeline, revisit the
+pricing comparison before switching to make_client().
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
 
 import argparse
@@ -77,6 +96,13 @@ def _pro_grounded_call(client: genai.Client, prompt: str) -> tuple[str, list[dic
                             })
             except (IndexError, AttributeError):
                 pass  # grounding metadata not always present
+
+            # Log the grounding query (free on AI Studio; records Vertex equivalent cost)
+            try:
+                from lib.cost_tracker import log_grounding_call
+                log_grounding_call(query_count=1, stage="kb_research")
+            except Exception:
+                pass  # cost tracking must never block the KB builder
 
             return response.text, sources
 

@@ -27,7 +27,7 @@ from pathlib import Path
 from google import genai
 from google.genai import types
 
-from lib.config import GCP_PROJECT_ID, GCP_LOCATION, GEMINI_API_KEY, STYLE_LOCK
+from lib.config import GCP_PROJECT_ID, GCP_LOCATION, make_client, STYLE_LOCK
 
 logger = logging.getLogger(__name__)
 
@@ -71,10 +71,14 @@ class SceneImageResult:
 # ── Client helpers ────────────────────────────────────────────────────────────
 
 def _gemini_client() -> genai.Client:
-    return genai.Client(api_key=GEMINI_API_KEY)
+    # Routes to Vertex AI when GCP_PROJECT_ID is set; AI Studio API key otherwise.
+    # When on Vertex, the probe in _get_working_gemini_model() will 404 for AI-Studio-only
+    # image models and fall through cleanly to Imagen (_vertex_client path).
+    return make_client()
 
 
 def _vertex_client() -> genai.Client:
+    # Always Vertex AI — used exclusively for Imagen which has no AI Studio equivalent.
     return genai.Client(vertexai=True, project=GCP_PROJECT_ID, location=GCP_LOCATION)
 
 

@@ -239,12 +239,11 @@ def _pcm_to_mp3(pcm_data: bytes, output_path: Path) -> None:
 
 def _gemini_raw_pcm(prompt: str, voice_name: str) -> bytes:
     """Make one Gemini TTS call and return raw PCM bytes."""
-    from google import genai
     from google.genai import types
-    from lib.config import GEMINI_API_KEY
+    from lib.config import make_client
 
     short_voice = _extract_voice_short(voice_name)
-    client      = genai.Client(api_key=GEMINI_API_KEY)
+    client      = make_client()
 
     response = client.models.generate_content(
         model=GEMINI_TTS_MODEL,
@@ -261,8 +260,16 @@ def _gemini_raw_pcm(prompt: str, voice_name: str) -> bytes:
         ),
     )
 
-    part = response.candidates[0].content.parts[0]
-    raw  = part.inline_data.data
+    candidates = response.candidates
+    if (not candidates
+            or not candidates[0].content
+            or not candidates[0].content.parts):
+        raise RuntimeError("Gemini TTS returned no audio candidates")
+    part = candidates[0].content.parts[0]
+    inline = part.inline_data
+    if inline is None or inline.data is None:
+        raise RuntimeError("Gemini TTS returned no inline audio data")
+    raw: bytes | str = inline.data
 
     if isinstance(raw, str):
         import base64
@@ -439,6 +446,7 @@ def _to_ssml(text: str) -> str:
 
 def _cloud_tts_synthesize(text: str, voice_name: str, output_path: Path) -> bool:
     from google.cloud import texttospeech
+    from lib.cost_tracker import log_tts_call
 
     ssml = _to_ssml(text)
 
@@ -460,6 +468,7 @@ def _cloud_tts_synthesize(text: str, voice_name: str, output_path: Path) -> bool
             output_path.write_bytes(response.audio_content)
             kb = len(response.audio_content) / 1024
             logger.info(f"Cloud TTS OK: {output_path.name} ({kb:.1f} KB) voice={voice_name}")
+            log_tts_call("chirp3-hd-telugu", char_count=len(text), stage="tts_generation")
             return True
 
         except Exception as exc:
