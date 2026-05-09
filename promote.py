@@ -97,6 +97,22 @@ def main():
     update_index(story)
     update_sitemap()
 
+    # ── Generate per-story static HTML + refresh _redirects + sitemap.xml ────
+    from lib.seo_writer import (
+        generate_story_page, write_story_page,
+        generate_redirects, generate_sitemap_xml,
+    )
+    with open(BASE_DIR / "stories" / "index.json", encoding="utf-8") as _f:
+        _idx = json.load(_f)
+    _entry = next(s for s in _idx["stories"] if s["id"] == story["id"])
+    _slug = _entry["slug"]
+    _template = (BASE_DIR / "story.html").read_text(encoding="utf-8")
+    _html = generate_story_page(story, _slug, story["id"], _template)
+    write_story_page(_slug, _html, output_root=str(BASE_DIR))
+    (BASE_DIR / "_redirects").write_text(generate_redirects(_idx["stories"]), encoding="utf-8")
+    (BASE_DIR / "sitemap.xml").write_text(generate_sitemap_xml(_idx["stories"]), encoding="utf-8")
+    logger.info(f"SEO pages regenerated (slug: {_slug})")
+
     # ── Remove draft ──────────────────────────────────────────────────────────
     def _force_remove(func, path, _):
         os.chmod(path, stat.S_IWRITE)
