@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemaps-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.telugukathalu.in/</loc>
     <lastmod>2026-05-09</lastmod>
@@ -12,199 +11,119 @@
     <lastmod>2026-04-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260428_093431/images/scene1.jpg</image:loc>
-      <image:title>చిట్టి ఉడుత — మనసు మంచితనం</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/prahlaadudi-adbhuta-bhakti-katha/</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260427_083510/images/scene1.jpg</image:loc>
-      <image:title>ప్రహ్లాదుడి అద్భుత భక్తి కథ</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/tenaali-raamudi-vimta-battalu/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260423_094232/images/scene1.jpg</image:loc>
-      <image:title>తెనాలి రాముడి వింత బట్టలు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/tenaali-raamudi-telivi-guttu/</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260422_235842/images/scene1.jpg</image:loc>
-      <image:title>తెనాలి రాముడి తెలివి గుట్టు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/padi-kattulu-pattina-yodhadu/</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260422_210443/images/scene1.jpg</image:loc>
-      <image:title>పది కత్తులు పట్టిన యోధుడు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/chinnari-dhruvudu-pedda-korika/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260421_154235/images/scene1.jpg</image:loc>
-      <image:title>చిన్నారి ధ్రువుడు, పెద్ద కోరిక</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/maatalu-perigite-aapad/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260421_085232/images/scene1.jpg</image:loc>
-      <image:title>మాటలు పెరిగితే — ఆపద</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/telivaina-anjali-podupu-kathalu/</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260421_074637/images/scene1.jpg</image:loc>
-      <image:title>తెలివైన అంజలి పొడుపు కథలు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/tondarpate-nashtam-chintu-katha/</loc>
     <lastmod>2026-04-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260420_090525/images/scene1.jpg</image:loc>
-      <image:title>తొందరపాటే నష్టం - చింటూ కథ</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/dayagala-enugu/</loc>
     <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260417_001550/images/scene1.jpg</image:loc>
-      <image:title>దయగల ఏనుగు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/garvapadin-gulabi-vinayamaina-chettu/</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260416_193055/images/scene1.jpg</image:loc>
-      <image:title>గర్వపడిన గులాబీ మరియు వినయమైన చెట్టు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/nijayiti-ayina-kattela-kadu/</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260416_080122/images/scene1.jpg</image:loc>
-      <image:title>నిజాయితీ అయిన కట్టెల కాడు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/telivaina-vyapari/</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260412_181108/images/scene1.jpg</image:loc>
-      <image:title>తెలివైన వ్యాపారి</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/murkhudaina-gadida/</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260412_173904/images/scene1.jpg</image:loc>
-      <image:title>మూర్ఖుడైన గాడిద</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/nammakadrohi-mitrudu/</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260412_143220/images/scene1.jpg</image:loc>
-      <image:title>నమ్మకద్రోహి మిత్రుడు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/andamaina-nemali-garvam/</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260412_135946/images/scene1.jpg</image:loc>
-      <image:title>అందమైన నెమలి గర్వం</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/aikyatalo-balam/</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260412_131731/images/scene1.jpg</image:loc>
-      <image:title>ఐక్యతలో బలం</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/orpu-gala-raitu/</loc>
     <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260412_130708/images/scene1.jpg</image:loc>
-      <image:title>ఓర్పు గల రైతు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/atyasha-yokka-parinaamaalu/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260411_174344/images/scene1.jpg</image:loc>
-      <image:title>అత్యాశ యొక్క పరిణామాలు</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/sneham-yokka-viluva/</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image>
-      <image:loc>https://www.telugukathalu.in/stories/20260411_171746/images/scene1.jpg</image:loc>
-      <image:title>స్నేహం యొక్క విలువ</image:title>
-    </image:image>
   </url>
 </urlset>

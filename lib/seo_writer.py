@@ -225,7 +225,7 @@ def generate_redirects(stories_index: list) -> str:
 
 
 def generate_sitemap_xml(stories_index: list, base_url: str = BASE_URL) -> str:
-    """Return sitemap.xml with /story/{slug}/ URLs and image:image entries."""
+    """Return sitemap.xml with /story/{slug}/ URLs."""
     today = _date.today().isoformat()
 
     urls = [
@@ -239,10 +239,7 @@ def generate_sitemap_xml(stories_index: list, base_url: str = BASE_URL) -> str:
 
     for story in stories_index:
         slug      = story.get("slug") or story["id"]
-        timestamp = story["id"]
         lastmod   = story.get("date", today)
-        title     = story.get("title", "")
-        image_url = f"{base_url}/stories/{timestamp}/images/scene1.jpg"
         story_url = f"{base_url}/story/{slug}/"
         urls.append(
             f"  <url>\n"
@@ -250,17 +247,12 @@ def generate_sitemap_xml(stories_index: list, base_url: str = BASE_URL) -> str:
             f"    <lastmod>{lastmod}</lastmod>\n"
             f"    <changefreq>monthly</changefreq>\n"
             f"    <priority>0.8</priority>\n"
-            f"    <image:image>\n"
-            f"      <image:loc>{image_url}</image:loc>\n"
-            f"      <image:title>{title}</image:title>\n"
-            f"    </image:image>\n"
             f"  </url>"
         )
 
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n'
-        '        xmlns:image="http://www.google.com/schemas/sitemaps-image/1.1">\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
         + "\n".join(urls)
         + "\n</urlset>\n"
     )
