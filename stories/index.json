@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260518_092557",
+      "slug": "parvataanni-moosina-hanumaa",
+      "title": "పర్వతాన్ని మోసిన హనుమా!",
+      "moral": "నువ్వు మంచి మనసుతో, ధైర్యంతో ప్రయత్నిస్తే — అద్భుతాలు జరుగుతాయి.",
+      "thumbnail": "stories/20260518_092557/images/scene1.jpg",
+      "date": "2026-05-18",
+      "category": "ramayana",
+      "subcategory": "courage_tales",
+      "topic": "లక్ష్మణుడు మూర్ఛ మరియు సంజీవని",
+      "voice": "te-IN-Chirp3-HD-Fenrir",
+      "schema_version": 2,
+      "title_en": "Hanuman, Who Carried the Mountain!",
+      "moral_en": "If you try with a good heart and courage, miracles will happen.",
+      "title_te_en": "Parvataanni Mosina Hanumaa!",
+      "moral_te_en": "Nuvvu Manchi Manasuto, Dhairyanto Prayatniste — Adbhutaalu Jarugutaayi."
+    },
+    {
       "id": "20260517_091051",
       "slug": "maayaa-raajakumaarini-vetukkumtuu",
       "title": "మాయా రాజకుమారిని వెతుక్కుంటూ",
