@@ -234,6 +234,7 @@ def main():
     story.update({
         "id": timestamp, "date": datetime.now().strftime("%Y-%m-%d"),
         "category": cat_key, "subcategory": sub_key, "topic": topic,
+        "defaultSpeed": 1.1,
     })
     (draft_dir / "story.json").write_text(
         json.dumps(story, ensure_ascii=False, indent=2), encoding="utf-8"

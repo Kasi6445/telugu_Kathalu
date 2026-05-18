@@ -128,6 +128,7 @@ def main():
         "voice":          story.get("voice", ""),
         "thumbnail":      f"stories/{timestamp}/images/scene1.png",
         "schema_version": 2,
+        "defaultSpeed":   1.1,
     })
 
     # ── Audio ─────────────────────────────────────────────────────────────────

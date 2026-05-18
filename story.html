@@ -118,6 +118,7 @@
     let isPlaying     = false;
     let isMuted       = false;
     let currentSpeed  = 1.0;
+    let _defaultSpeed = 1.0; // overridden per-story from story.defaultSpeed
     let ccEnabled     = true;
     let touchStartX   = 0;
     let touchStartY   = 0;
@@ -325,6 +326,8 @@
         const id = storyFolderId;
         const res = await fetch(`stories/${id}/story.json`);
         story = await res.json();
+        _defaultSpeed = story.defaultSpeed || 1.0;
+        currentSpeed  = _defaultSpeed;
 
         const _h1 = document.getElementById('story-h1');
         if (_h1) _h1.textContent = story.title;
@@ -647,7 +650,10 @@
       el('moral-heading') && (el('moral-heading').textContent = t.moralHeading);
       el('moral-label')   && (el('moral-label').textContent   = t.moralLabel);
       el('share-btn')     && (el('share-btn').textContent     = t.shareBtn);
-      el('moral-home-btn')&& (el('moral-home-btn').textContent= t.homeBtn);
+      if (el('moral-home-btn')) {
+        el('moral-home-btn').textContent = getBackLabel(lang);
+        el('moral-home-btn').href        = getBackHref();
+      }
       updatePlayBtn();
 
       if (!story) return;
@@ -678,7 +684,7 @@
 
     // ── SPEED ─────────────────────────────────────────────────────────────────
     function setSpeed(s) {
-      if (currentSpeed === s) s = 1.0; // tap active → reset to normal
+      if (currentSpeed === s) s = _defaultSpeed; // tap active → reset to story default
       currentSpeed = s;
       document.querySelectorAll('.speed-btn').forEach(btn => {
         btn.classList.toggle('active', parseFloat(btn.dataset.speed) === s);
