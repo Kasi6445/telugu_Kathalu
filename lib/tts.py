@@ -1,24 +1,21 @@
 """
 lib/tts.py — Expressive TTS for Telugu Katalu.
 
-Primary  : Gemini 2.5 Flash TTS — full-story single call.
-           The entire story is synthesised in ONE API call so the narrator
-           voice stays identical across all scenes. The resulting PCM audio
-           is split at silence boundaries to produce per-scene MP3 files.
+Each scene is synthesised in its own Gemini TTS call with a strong voice-anchor
+prompt so the narrator sounds consistent across all scenes.
 
-Fallback : If the single-call split fails (not enough silence detected),
-           falls back to per-scene calls with a strong baseline-voice anchor.
+If a scene's audio file already exists in audio_dir, it is reused (cache hit,
+$0.00). This makes re-runs of the pipeline free for already-generated scenes.
 
-Last-resort fallback: Google Cloud TTS Chirp3-HD.
+Fallback: If Gemini TTS fails, falls back to Google Cloud TTS Chirp3-HD.
 
 Audio pipeline (Gemini path):
-  Gemini TTS → PCM bytes → silence split → per-scene MP3 (lameenc, no ffmpeg)
+  Gemini TTS → PCM bytes → MP3 (lameenc, no ffmpeg)
 """
 
 import html
 import logging
 import re
-import struct
 import time
 from pathlib import Path
 
@@ -26,17 +23,6 @@ logger = logging.getLogger(__name__)
 
 GEMINI_TTS_MODEL = "gemini-2.5-flash-preview-tts"
 _SAMPLE_RATE = 24000   # Hz — Gemini TTS PCM output rate
-
-# Duration balance thresholds for split-segment validation.
-# A well-narrated 5-7 sentence scene should be at least 6 seconds.
-# If the shortest segment is under this or the longest is 8x the shortest,
-# the split landed wrong — fall back to per-scene synthesis.
-_MIN_SCENE_SECONDS = 6.0
-_MAX_DURATION_RATIO = 8.0
-
-# Separator injected between scenes in the full-story call.
-# Gemini TTS reads "[SCENE BREAK]" as a cue to pause ~1-2 seconds.
-_SCENE_SEP = "\n\n[SCENE BREAK]\n\n"
 
 
 # ── Voice style map ───────────────────────────────────────────────────────────
@@ -61,39 +47,11 @@ def _extract_voice_short(voice_name: str) -> str:
     return voice_name.split("-")[-1]
 
 
-# ── Prompt builders ───────────────────────────────────────────────────────────
-
-def _build_full_story_prompt(scene_texts: list[str], voice_name: str) -> str:
-    """
-    Prompt for the full-story single TTS call.
-    All scenes joined with [SCENE BREAK] markers.
-    Instructs the model to hold a single consistent voice throughout.
-    """
-    short  = _extract_voice_short(voice_name)
-    style  = _VOICE_STYLE.get(short, _DEFAULT_STYLE)
-    n      = len(scene_texts)
-    joined = _SCENE_SEP.join(scene_texts)
-
-    return (
-        f"You are {style} recording a complete {n}-part Telugu audiobook "
-        f"in ONE single continuous take — like a live radio performance. "
-        f"VOICE CONSISTENCY — ABSOLUTE RULE: Your base pitch, speaking pace, "
-        f"and vocal character must stay IDENTICAL from the first word to the very last. "
-        f"A listener playing all parts back-to-back must hear ONE continuous narrator — "
-        f"not a different tone in each part. "
-        f"At each [SCENE BREAK] marker: take a natural 2-second breath pause, "
-        f"then continue in the EXACT SAME voice. Do not reset your tone. "
-        f"Emotional moments: use subtle pace changes only — NEVER shift your pitch baseline. "
-        f"Character dialogue (words in quotes): give a brief distinct voice for that character, "
-        f"then return to YOUR narrator baseline immediately after the quote ends. "
-        f"The narrator voice never changes — only dialogue voices change temporarily.\n\n"
-        f"Telugu story — {n} parts:\n\n{joined}"
-    )
-
+# ── Prompt builder ────────────────────────────────────────────────────────────
 
 def _build_scene_prompt(text: str, voice_name: str,
                         scene_num: int = 1, total_scenes: int = 1) -> str:
-    """Fallback per-scene prompt with strong baseline anchor."""
+    """Per-scene prompt with strong baseline-voice anchor."""
     short = _extract_voice_short(voice_name)
     style = _VOICE_STYLE.get(short, _DEFAULT_STYLE)
 
@@ -106,111 +64,6 @@ def _build_scene_prompt(text: str, voice_name: str,
         f"Character dialogue (quotes): brief distinct voice, return to YOUR baseline immediately.\n\n"
         f"Telugu story scene:\n\n{text}"
     )
-
-
-# ── PCM silence detection and splitting ──────────────────────────────────────
-
-def _find_split_points(pcm: bytes, n_scenes: int,
-                       rate: int = _SAMPLE_RATE) -> list[int]:
-    """
-    Locate the n_scenes-1 longest silence regions in PCM audio and return
-    their midpoint byte offsets as split points.
-
-    Uses 10ms frames, RMS amplitude threshold, and minimum 300ms silence.
-    Returns [] if fewer silence regions than needed are found.
-    """
-    needed = n_scenes - 1
-    if needed <= 0:
-        return []
-
-    FRAME_SAMPLES = rate // 100          # 10ms = 240 samples at 24kHz
-    FRAME_BYTES   = FRAME_SAMPLES * 2    # 16-bit = 2 bytes/sample
-    THRESHOLD     = 250                  # RMS below this = silent
-    MIN_FRAMES    = 30                   # 300ms minimum silence duration
-
-    total_samples = len(pcm) // 2
-    n_frames      = total_samples // FRAME_SAMPLES
-
-    # Mark each 10ms frame as silent or not
-    is_silent: list[bool] = []
-    for i in range(n_frames):
-        offset = i * FRAME_BYTES
-        count  = min(FRAME_SAMPLES, total_samples - i * FRAME_SAMPLES)
-        if count <= 0:
-            break
-        chunk = struct.unpack_from(f"{count}h", pcm, offset)
-        rms   = (sum(s * s for s in chunk) // count) ** 0.5
-        is_silent.append(rms < THRESHOLD)
-
-    # Collect contiguous silence regions as (length_frames, mid_byte_offset)
-    regions: list[tuple[int, int]] = []
-    in_silence  = False
-    silence_start = 0
-
-    for i, silent in enumerate(is_silent):
-        if silent and not in_silence:
-            in_silence    = True
-            silence_start = i
-        elif not silent and in_silence:
-            in_silence = False
-            length = i - silence_start
-            if length >= MIN_FRAMES:
-                mid = (silence_start + i) // 2
-                regions.append((length, mid * FRAME_BYTES))
-
-    if in_silence:
-        length = n_frames - silence_start
-        if length >= MIN_FRAMES:
-            mid = (silence_start + n_frames) // 2
-            regions.append((length, mid * FRAME_BYTES))
-
-    if len(regions) < needed:
-        logger.warning(
-            f"[TTS SPLIT] Found {len(regions)} silence region(s), need {needed}. "
-            f"Falling back to per-scene synthesis."
-        )
-        return []
-
-    # Pick the needed longest regions, return sorted by position
-    regions.sort(key=lambda x: x[0], reverse=True)
-    split_points = sorted(pos for _, pos in regions[:needed])
-    logger.info(f"[TTS SPLIT] {len(split_points)} split point(s) found at bytes {split_points}")
-    return split_points
-
-
-# ── PCM leading-silence trim ─────────────────────────────────────────────────
-
-def _trim_leading_silence(pcm: bytes, rate: int = _SAMPLE_RATE) -> bytes:
-    """
-    Remove leading silence from a PCM segment, keeping a 50ms buffer before
-    first speech frame so the audio doesn't feel clipped.
-    Used on scenes 2+ after the full-story silence split.
-    """
-    FRAME_SAMPLES = rate // 100          # 10ms frames
-    FRAME_BYTES   = FRAME_SAMPLES * 2
-    THRESHOLD     = 250                  # same RMS threshold as _find_split_points
-    BUFFER_FRAMES = 5                    # keep 50ms before detected speech onset
-
-    total_samples = len(pcm) // 2
-    n_frames      = total_samples // FRAME_SAMPLES
-
-    for i in range(n_frames):
-        offset = i * FRAME_BYTES
-        count  = min(FRAME_SAMPLES, total_samples - i * FRAME_SAMPLES)
-        if count <= 0:
-            break
-        chunk = struct.unpack_from(f"{count}h", pcm, offset)
-        rms   = (sum(s * s for s in chunk) // count) ** 0.5
-        if rms >= THRESHOLD:
-            start_frame = max(0, i - BUFFER_FRAMES)
-            trimmed     = pcm[start_frame * FRAME_BYTES:]
-            logger.debug(
-                f"[TTS TRIM] Trimmed {start_frame * 10}ms of leading silence "
-                f"({i * 10}ms detected, kept 50ms buffer)"
-            )
-            return trimmed
-
-    return pcm  # no speech found — return as-is
 
 
 # ── PCM → MP3 conversion (pure Python, no ffmpeg) ────────────────────────────
@@ -235,7 +88,7 @@ def _pcm_to_mp3(pcm_data: bytes, output_path: Path) -> None:
     logger.debug(f"MP3 encode OK: {output_path.name} ({len(mp3_data) // 1024} KB)")
 
 
-# ── Gemini TTS — full-story single call ──────────────────────────────────────
+# ── Gemini TTS — single-scene call ───────────────────────────────────────────
 
 def _gemini_raw_pcm(prompt: str, voice_name: str) -> bytes:
     """Make one Gemini TTS call and return raw PCM bytes."""
@@ -282,113 +135,29 @@ def _gemini_raw_pcm(prompt: str, voice_name: str) -> bytes:
 
 def synthesize_story(scenes: list[dict], voice_name: str, audio_dir: Path) -> None:
     """
-    Synthesise the ENTIRE story in ONE Gemini TTS call for a consistent narrator
-    voice across all scenes. Splits the resulting PCM at silence boundaries to
-    produce individual per-scene MP3 files.
-
-    Falls back to per-scene synthesis (with baseline-voice anchor) if:
-      - The full-story call fails (API error, quota).
-      - Silence detection cannot find enough split points.
+    Synthesise each scene individually and save as per-scene MP3 files.
+    Scenes whose audio file already exists in audio_dir are skipped (cache hit).
 
     Args:
         scenes:     story["scenes"] list — each dict must have "id" and "text".
         voice_name: Full Chirp3-HD voice name (e.g. "te-IN-Chirp3-HD-Fenrir").
         audio_dir:  Directory to write scene1.mp3, scene2.mp3, …
     """
-    n    = len(scenes)
-    ids  = [s["id"]   for s in scenes]
-    texts = [s["text"] for s in scenes]
-
+    n = len(scenes)
     audio_dir.mkdir(parents=True, exist_ok=True)
 
-    if n == 1:
-        _synthesize_scene_file(texts[0], voice_name,
-                               audio_dir / f"scene{ids[0]}.mp3", 1, 1)
-        return
-
-    # ── Attempt: full story in one call ──────────────────────────────────────
-    print(f"  [TTS] Generating all {n} scenes in one call (voice consistency)...", flush=True)
-
-    try:
-        prompt = _build_full_story_prompt(texts, voice_name)
-        pcm    = _gemini_raw_pcm(prompt, voice_name)
-
-        split_points = _find_split_points(pcm, n)
-
-        if split_points:
-            # Split PCM → save each segment as MP3
-            segments: list[bytes] = []
-            prev = 0
-            for pos in split_points:
-                segments.append(pcm[prev:pos])
-                prev = pos
-            segments.append(pcm[prev:])
-
-            if len(segments) == n:
-                # Validate duration balance before committing any files.
-                # If split landed wrong (e.g. 5s, 6s, 6s, 3:47), the first
-                # few segments are tiny and the last holds the whole story.
-                durations_s = [len(seg) / (2 * _SAMPLE_RATE) for seg in segments]
-                min_dur = min(durations_s)
-                max_dur = max(durations_s)
-                ratio   = (max_dur / min_dur) if min_dur > 0 else float("inf")
-                imbalanced = min_dur < _MIN_SCENE_SECONDS or ratio > _MAX_DURATION_RATIO
-
-                if imbalanced:
-                    logger.warning(
-                        f"[TTS SPLIT] Duration imbalance: "
-                        f"min={min_dur:.1f}s max={max_dur:.1f}s ratio={ratio:.1f}x "
-                        f"(thresholds: min≥{_MIN_SCENE_SECONDS}s ratio≤{_MAX_DURATION_RATIO}x) "
-                        f"— falling back to per-scene synthesis"
-                    )
-                    print(
-                        f"  [TTS] Split imbalance detected "
-                        f"(shortest {min_dur:.0f}s, longest {max_dur:.0f}s, {ratio:.0f}x ratio) "
-                        f"— regenerating per-scene for equal quality.",
-                        flush=True,
-                    )
-                    # Do NOT save files — fall through to per-scene fallback below.
-                else:
-                    for seg_idx, (seg_pcm, scene_id) in enumerate(zip(segments, ids)):
-                        # Trim leading silence from scenes 2+ — they inherit half of
-                        # the [SCENE BREAK] pause from the midpoint split.
-                        if seg_idx > 0:
-                            seg_pcm = _trim_leading_silence(seg_pcm)
-                        out = audio_dir / f"scene{scene_id}.mp3"
-                        _pcm_to_mp3(seg_pcm, out)
-                        kb    = out.stat().st_size / 1024
-                        dur_s = durations_s[seg_idx]
-                        logger.info(
-                            f"[TTS] Full-story segment saved: "
-                            f"{out.name} ({kb:.1f} KB, {dur_s:.1f}s)"
-                        )
-                    print(f"  [TTS] ✓ {n} scenes split and saved from single call.", flush=True)
-                    return
-
-            logger.warning(
-                f"[TTS SPLIT] Segment count {len(segments)} != {n} — falling back."
-            )
-
-    except ImportError:
-        raise
-    except Exception as exc:
-        logger.warning(f"[TTS] Full-story call failed: {exc} — falling back to per-scene.")
-        print(f"  [TTS] Full-story call failed — switching to per-scene synthesis.", flush=True)
-
-    # ── Fallback: per-scene with baseline anchor ──────────────────────────────
-    print(f"  [TTS] Per-scene fallback ({n} individual calls)...", flush=True)
     for idx, scene in enumerate(scenes, start=1):
-        _synthesize_scene_file(
-            scene["text"], voice_name,
-            audio_dir / f"scene{scene['id']}.mp3",
-            idx, n,
-        )
+        out = audio_dir / f"scene{scene['id']}.mp3"
+        if out.exists():
+            print(f"  [TTS CACHE] scene {scene['id']} reused — $0.00", flush=True)
+            continue
+        _synthesize_scene_file(scene["text"], voice_name, out, idx, n)
 
 
 def synthesize_scene(text: str, voice_name: str, output_path: Path,
                      scene_num: int = 1, total_scenes: int = 1) -> bool:
     """
-    Synthesise one scene to MP3. Used by the fallback path and external callers.
+    Synthesise one scene to MP3. Used by external callers.
     Tries Gemini TTS first, then Cloud TTS.
     """
     return _synthesize_scene_file(text, voice_name, output_path, scene_num, total_scenes)

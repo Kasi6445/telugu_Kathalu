@@ -1,5 +1,5 @@
-# Cloudflare _redirects — query-string redirects (/story.html?id=slug → /story/{slug}/)
-# are handled by functions/story.html.js (Pages Function) which issues correct 301s.
+# Cloudflare _redirects — query-string redirects are handled by
+# functions/story.html.js (Pages Function) which issues correct 301s.
 # This file only handles the bare /story.html catch-all.
 
 # Catch-all: bare story.html (no id) → home

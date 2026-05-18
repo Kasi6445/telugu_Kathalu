@@ -1,6 +1,40 @@
 {
   "stories": [
     {
+      "id": "20260517_091051",
+      "slug": "maayaa-raajakumaarini-vetukkumtuu",
+      "title": "మాయా రాజకుమారిని వెతుక్కుంటూ",
+      "moral": "మనసులో మంచి, నమ్మకం ఉంటే, ఎంతటి అద్భుతమైన మాయైనా దొరుకుతుంది.",
+      "thumbnail": "stories/20260517_091051/images/scene1.jpg",
+      "date": "2026-05-17",
+      "category": "janapada",
+      "subcategory": "magical_tales",
+      "topic": "తెలుగు జానపద కథ - మాయా రాజకుమారి",
+      "voice": "te-IN-Chirp3-HD-Gacrux",
+      "schema_version": 2,
+      "title_en": "In Search of the Magical Princess",
+      "moral_en": "If you have goodness and belief in your heart, even the most wonderful magic can be found.",
+      "title_te_en": "Maayaa Raajakumaarini Vetukkuntu",
+      "moral_te_en": "Manasulo Manchi, Nammakam Unte, Entati Adbhutamaina Maayainaa Dorukutundi."
+    },
+    {
+      "id": "20260516_201204",
+      "slug": "nadi-rahasyam",
+      "title": "నది రహస్యం",
+      "moral": "చూడమ్మా, ఏ విషయాన్నైనా జాగ్రత్తగా గమనిస్తే, ఎంత కష్టమైన పొడుపు కథకైనా జవాబు దొరుకుతుంది.",
+      "thumbnail": "stories/20260516_201204/images/scene1.jpg",
+      "date": "2026-05-16",
+      "category": "podupu",
+      "subcategory": "nature_riddles",
+      "topic": "నది, చెట్టు మరియు పొడుపు కథ",
+      "voice": "te-IN-Chirp3-HD-Laomedeia",
+      "schema_version": 2,
+      "title_en": "The River's Secret",
+      "moral_en": "See, my dear, if you observe things carefully, you can find the answer to even the trickiest riddle.",
+      "title_te_en": "Nadi Rahasyam",
+      "moral_te_en": "Chudammaa, E Vishayaannainaa Jaagrattagaa Gamaniste, Enta Kashtamaina Podupu Kathakainaa Javaabu Dorukutundi."
+    },
+    {
       "id": "20260428_093431",
       "slug": "chitti-uduta-manasu-mamchitanam",
       "title": "చిట్టి ఉడుత — మనసు మంచితనం",
