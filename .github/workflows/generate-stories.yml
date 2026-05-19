@@ -2,16 +2,17 @@ name: Generate Stories
 
 on:
   schedule:
-    - cron: '0 */6 * * *'    # every 6 hours (00,06,12,18 UTC)
-  workflow_dispatch:           # manual "Run workflow" button
+    - cron: '0 * * * *'      # every hour
+  workflow_dispatch:
 
 permissions:
   contents: write
-  id-token: write              # REQUIRED for keyless GCP auth
+  id-token: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 35
     steps:
       - name: Check out the repository
         uses: actions/checkout@v4
@@ -25,26 +26,23 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'      # set to your local Python version
+          python-version: '3.12'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Generate stories
-        run: |
-          for i in 1 2 3 4 5 6; do
-            echo "--- Generating story $i of 6 ---"
-            python generate.py
-          done
+      - name: Generate one story
+        run: python generate.py
         env:
           GCP_PROJECT_ID: telugu-kathalu-493805
           GCP_LOCATION: us-central1
           ALLOW_AI_STUDIO: 'false'
 
-      - name: Commit and push drafts
+      - name: Commit and push draft
         run: |
           git config user.name "story-bot"
           git config user.email "bot@users.noreply.github.com"
+          git pull --rebase
           git add -A
-          git diff --quiet --cached || git commit -m "Add story drafts $(date -u +%Y-%m-%dT%H:%M)"
+          git diff --quiet --cached || git commit -m "Add story draft $(date -u +%Y-%m-%dT%H:%M)"
           git push
