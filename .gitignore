@@ -6,3 +6,4 @@ eval/
 test_output/
 *.json.key
 gcp-key.json
+gha-creds-*.json
