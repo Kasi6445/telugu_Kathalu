@@ -1,0 +1,46 @@
+name: Promote Stories
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'    # promote 4x/day -> ~120 builds/month
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  promote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Promote all pending drafts
+        run: |
+          if [ -d drafts ] && [ -n "$(ls -A drafts 2>/dev/null)" ]; then
+            for d in drafts/*/; do
+              ts=$(basename "$d")
+              echo "--- Promoting $ts ---"
+              python promote.py "$ts" || echo "Skipped $ts (promote failed)"
+            done
+          else
+            echo "No pending drafts to promote."
+          fi
+
+      - name: Commit and push promoted stories
+        run: |
+          git config user.name "story-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase
+          git add -A
+          git diff --quiet --cached || git commit -m "Promote drafts $(date -u +%Y-%m-%dT%H:%M)"
+          git push
