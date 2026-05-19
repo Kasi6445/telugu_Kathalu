@@ -162,10 +162,36 @@ def _pass1_outline(cat_key: str, sub_key: str, topic: str,
 
     mythology_rule = _MYTHOLOGY_VIOLENCE_RULE if cat_key in _MYTHOLOGY_CATEGORIES else ""
 
+    # For mythology stories: inject canonical character descriptions so the LLM
+    # doesn't freely invent how Rama, Lakshmana, Sita etc. look — wrong depictions
+    # of these figures cause serious cultural offence.
+    mythology_char_block = ""
+    mythology_supporting_char_instruction = ""
+    if cat_key in _MYTHOLOGY_CATEGORIES:
+        from lib.mythology_knowledge import CHARACTER_ANCHORS
+        char_lines = [
+            "CANONICAL CHARACTER DESCRIPTIONS (MYTHOLOGY) — copy these VERBATIM for known characters.",
+            "NEVER invent descriptions for Rama, Sita, Lakshmana, Hanuman, or other named figures below.",
+            "Wrong depictions of Hindu mythology characters cause serious cultural offence.",
+            "",
+        ]
+        for char_name, desc in CHARACTER_ANCHORS.items():
+            char_lines.append(f"  {char_name.title()}: {desc}")
+        mythology_char_block = "\n".join(char_lines) + "\n"
+
+        mythology_supporting_char_instruction = (
+            "  supporting_character : (MYTHOLOGY STORIES ONLY) The canonical English name of the\n"
+            "                        most important NAMED supporting character (not the main protagonist,\n"
+            "                        not the antagonist) who physically appears in this scene.\n"
+            "                        Use the exact name from the canonical list above.\n"
+            "                        Examples: \"Lakshmana\", \"Rama\", \"Hanuman\", \"Agni Devudu\".\n"
+            "                        Write null if no named supporting character is physically present.\n"
+        )
+
     prompt = f"""\
 You are designing a Telugu moral tale for children aged {cat['age_group']}.
 {mythology_rule}
-
+{mythology_char_block}
 Topic: {topic}
 Category: {cat_key} — {cat['telugu_name']}
 Subcategory: {sub_key} — {sub['telugu_name']}
@@ -201,16 +227,20 @@ For each scene provide:
                       present and visible in this scene's action — not merely mentioned or remembered.
                       Example: ["main_character"] for solo scenes, ["main_character", "antagonist"]
                       when they share the scene.
-
+{mythology_supporting_char_instruction}
 Also provide:
   main_character    : 2-sentence English description.
-                      Include: species/age/size, 2-3 specific physical traits, one personality quirk.
+                      For MYTHOLOGY stories: if the protagonist is a known figure (Rama, Sita,
+                      Lakshmana, Hanuman, Krishna, etc.) copy their description VERBATIM from the
+                      canonical list above. For non-mythology stories include: species/age/size,
+                      2-3 specific physical traits, one personality quirk.
                       End with: "Always the same character across every scene."
   antagonist        : (INCLUDE ONLY when the story has a recurring secondary character — villain,
                       mentor, trickster, magical creature, etc. — who appears in 2 or more scenes.)
-                      2-sentence English visual description.
-                      Include: body type, face/hair details, exact clothing colors and style,
-                      any distinctive prop or feature.
+                      For MYTHOLOGY stories: if the antagonist is a known figure, copy their
+                      description VERBATIM from the canonical list above.
+                      For non-mythology: 2-sentence English visual description with body type,
+                      face/hair details, exact clothing colors and style, any distinctive prop.
                       End with: "Always the same character across every scene."
                       OMIT this field entirely if there is no recurring secondary character.
   setting           : 2-sentence English description.
@@ -228,14 +258,15 @@ Return ONLY valid JSON:
   "moral_in_english": "...",
   "scenes": [
     {{
-      "scene_number":      1,
-      "story_beat":        "...",
-      "character_emotion": "...",
-      "child_emotion":     "...",
-      "sensory_detail":    "...",
-      "key_dialogue":      "...",
-      "scene_hook":        "...",
-      "characters_in_scene": ["main_character"]
+      "scene_number":        1,
+      "story_beat":          "...",
+      "character_emotion":   "...",
+      "child_emotion":       "...",
+      "sensory_detail":      "...",
+      "key_dialogue":        "...",
+      "scene_hook":          "...",
+      "characters_in_scene": ["main_character"],
+      "supporting_character": null
     }}
   ]
 }}"""
@@ -563,7 +594,8 @@ def _is_observer_scene(emotion: str, _beat: str) -> bool:
 
 
 def _assemble_image_prompts(story: dict[str, Any],
-                            outline: dict[str, Any]) -> dict[str, Any]:
+                            outline: dict[str, Any],
+                            cat_key: str = "") -> dict[str, Any]:
     """Build scene-specific image prompts using Pass 1 outline data.
 
     Stores ONLY what is unique to this scene: the action, emotion, sensory
@@ -612,7 +644,23 @@ def _assemble_image_prompts(story: dict[str, Any],
             else:
                 action = f"{beat} {emotion}."
 
-        scene["image_prompt"] = " ".join(filter(None, [action, antagonist_note, mood]))
+        # For mythology stories: inject canonical description of any named supporting character
+        # so the image generator doesn't render e.g. Lakshmana as a random old monk.
+        supporting_char_note = ""
+        if cat_key in _MYTHOLOGY_CATEGORIES:
+            sc_name = o.get("supporting_character", None)
+            if sc_name:
+                from lib.mythology_knowledge import get_character_anchor
+                anchor = get_character_anchor(str(sc_name))
+                if anchor:
+                    supporting_char_note = f"SUPPORTING CHARACTER also in this scene: {anchor}"
+                else:
+                    supporting_char_note = (
+                        f"SUPPORTING CHARACTER also in this scene: {sc_name} — "
+                        f"a well-known Hindu mythology figure, depicted accurately per canonical tradition."
+                    )
+
+        scene["image_prompt"] = " ".join(filter(None, [action, antagonist_note, supporting_char_note, mood]))
 
     return story
 
@@ -840,7 +888,7 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
         telugu_story = _pass2b_narration_visuals(telugu_story)
 
         # Assemble image prompts using Pass 2.5 visuals (falls back to outline beats)
-        telugu_story = _assemble_image_prompts(telugu_story, outline)
+        telugu_story = _assemble_image_prompts(telugu_story, outline, cat_key)
 
         set_stage("validation")
         score, score_detail = _pass3_validate(telugu_story)
