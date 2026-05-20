@@ -1,0 +1,90 @@
+{
+  "title": "గోవర్ధన గిరిధారి లీల",
+  "moral": "మంచిని నమ్మి, కలిసికట్టుగా ఉంటే, ఎంత పెద్ద ఆపదనైనా దాటవచ్చు.",
+  "main_character": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene.",
+  "antagonist": "ఇంద్రుడు",
+  "setting": "The lush green meadows and forests of Vrindavan, near the Yamuna river. Cows graze peacefully, peacocks dance, and the air is filled with the sweet scent of blooming flowers. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని వృందావనంలో, యమునా నది పక్కన, కృష్ణుడు చిరునవ్వుతో చూస్తున్నాడు. గోపాలురు, గోపికలు ఎంతో ఆనందంగా పూజకు సిద్ధమవుతున్నారు. కొత్తగా చేసిన వెన్న, పాలు — అద్భుతమైన సువాసన అడవంతా నిండింది. \"ఈ రోజు ఇంద్రుడికి పూజ కదా!\" అని కృష్ణుడు మెల్లగా అడిగాడు. అసలు వాళ్ళు ఎందుకు పూజ చేస్తున్నారు, కృష్ణయ్య మనసులో ఏముందో ఏం జరగనుందో?",
+      "image_prompt": "The boy stands in a lush garden, observing the cowherd boys and girls happily preparing for worship. A gentle smile plays on his lips as the aroma of fresh butter and milk fills the air. Soft golden afternoon sunlight, warm hopeful mood.",
+      "scene_visual": "The boy stands in a lush garden, observing the cowherd boys and girls happily preparing for worship. A gentle smile plays on his lips as the aroma of fresh butter and milk fills the air.",
+      "text_te_en": "Pachchani Vrrindaavananlo, Yamunaa Nadi Pakkana, Krrishnudu Chirunavvuto Chustunnaadu. Gopaaluru, Gopikalu Ento Aanandangaa Pujaku Siddhamavutunnaaru. Kottagaa Chesina Venna, Paalu — Adbhutamaina Suvaasana Adavantaa Nindindi. \"I Roju Indrudiki Puja Kadaa!\" Ani Krrishnudu Mellagaa Adigaadu. Asalu Vaallu Enduku Puja Chestunnaaru, Krrishnayya Manasulo Emundo Em Jaraganundo?",
+      "text_en": "In the lush green Vrindavan, by the Yamuna river, Krishna watched with a gentle smile. The cowherd boys and girls were joyfully preparing for a special worship. The wonderful scent of freshly made butter and milk filled the entire forest. \"Today is Indra's puja, isn't it?\" Krishna asked softly. Why were they really performing this worship? What was on Krishna's mind, and what was about to happen?"
+    },
+    {
+      "id": 2,
+      "text": "కృష్ణుడు గోపాలురు మధ్య నిలబడి, శాంతంగా వారిని చూశాడు. అప్పుడు, చల్లని గాలి ఆకుల సవ్వడితో, అతని మృదువైన మాటలు అన్ని చోట్ల వినిపించాయి. ఇంద్రుడిని పూజించడం ఎందుకు అని వారిని అడిగాడు — వినయంగా. \"గోవర్ధన పర్వతం మన ఆవులకు ఆహారం ఇస్తుంది కదా, దానినే పూజిద్దామా?\" అని సూచించాడు. మరి, పిల్లలూ, ఆ గ్రామస్తులు కృష్ణుడు మాట విని, తమ పాత ఆచారాన్ని మారుస్తారా?",
+      "image_prompt": "The boy stands calmly amidst the cowherd boys, gently addressing them. A cool breeze rustles the leaves around them as he humbly suggests worshipping the mountain instead of Indra. Diffused daylight, gentle curious mood (NOT dark, NOT stormy).",
+      "scene_visual": "The boy stands calmly amidst the cowherd boys, gently addressing them. A cool breeze rustles the leaves around them as he humbly suggests worshipping the mountain instead of Indra.",
+      "text_te_en": "Krrishnudu Gopaaluru Madhya Nilabadi, Shaantangaa Vaarini Chushaadu. Appudu, Challani Gaali Aakula Savvadito, Atani Mrriduvaina Maatalu Anni Chotla Vinipinchaayi. Indrudini Pujinchadam Enduku Ani Vaarini Adigaadu — Vinayangaa. \"Govardhana Parvatam Mana Aavulaku Aahaaram Istundi Kadaa, Daanine Pujiddaamaa?\" Ani Suchinchaadu. Mari, Pillalu, Aa Graamastulu Krrishnudu Maata Vini, Tama Paata Aachaaraanni Maarustaaraa?",
+      "text_en": "Krishna stood among the cowherd boys, looking at them calmly. Then, with the cool breeze rustling the leaves, his gentle words were heard everywhere. He humbly asked them why they worshipped Indra. \"Govardhana mountain gives food to our cows, doesn't it? Shall we worship it instead?\" he suggested. So, children, will the villagers listen to Krishna and change their old tradition?"
+    },
+    {
+      "id": 3,
+      "text": "కృష్ణుడు మాట విని, గ్రామస్తులు ఆనందంగా గోవర్ధన పర్వతానికి పూజ చేశారు. కృష్ణుడు ప్రశాంత చిత్తంతో వారిని చూస్తూ, చిరునవ్వు చిందించాడు. ఇంతలో, ఆకాశం ఒక్కసారిగా నల్లబడింది — నీలిరంగు కాస్తా ముదురు ఊదా రంగులోకి మారింది. ఇంద్రుడు కోపంతో, చేతులు బిగించి, కిందకి చూశాడు. \"ఈ పశువుల కాపరులు నాకు అవమానం చేశారు! వారికి నా శక్తి ఏమిటో చూపిస్తాను!\" అని గర్జించాడు. మరి, పిల్లలూ, ఇంద్రుడు ఆ గ్రామస్తుల పైన ఏం చేయబోతున్నాడో?",
+      "image_prompt": "An angry deity clenches his fists, glaring down from a sky that has suddenly turned dark purple. His face is contorted in rage as he looks upon the villagers below. SUPPORTING CHARACTER also in this scene: Indra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Sky rapidly darkening from blue to threatening dark purple, ominous menacing atmosphere.",
+      "scene_visual": "An angry deity clenches his fists, glaring down from a sky that has suddenly turned dark purple. His face is contorted in rage as he looks upon the villagers below.",
+      "text_te_en": "Krrishnudu Maata Vini, Graamastulu Aanandangaa Govardhana Parvataaniki Puja Cheshaaru. Krrishnudu Prashaanta Chittanto Vaarini Chustu, Chirunavvu Chindinchaadu. Intalo, Aakaasham Okkasaarigaa Nallabadindi — Nilirangu Kaastaa Muduru Udaa Ranguloki Maarindi. Indrudu Kopanto, Chetulu Biginchi, Kindaki Chushaadu. \"I Pashuvula Kaaparulu Naaku Avamaanam Cheshaaru! Vaariki Naa Shakti Emito Chupistaanu!\" Ani Garjinchaadu. Mari, Pillalu, Indrudu Aa Graamastula Paina Em Cheyabotunnaado?",
+      "text_en": "Listening to Krishna, the villagers happily worshipped Govardhana mountain. Krishna watched them with a peaceful mind, a gentle smile on his face. Suddenly, the sky turned black — the blue color changing to a dark purple. Indra, filled with anger, clenched his fists and looked down. \"These cowherds have insulted me! I will show them my power!\" he roared. So, children, what was Indra going to do to those villagers?"
+    },
+    {
+      "id": 4,
+      "text": "అప్పుడు, వృందావనంపైకి భయంకరమైన తుఫాను వచ్చింది. చెవులు చిల్లులు పడే ఉరుములు, మెరుపుల వెలుగులు — మైదానమంతా దద్దరిల్లింది. భారీ వర్షం, బలమైన గాలులు — గోపాలురు, పశువులు భయంతో వణికిపోయాయి. కృష్ణుడు మాత్రం ప్రశాంతమైన చిరునవ్వుతో నిలబడ్డాడు. \"కృష్ణా! మమ్మల్ని కాపాడు! ఈ వర్షం ఆగడం లేదు!\" అని గ్రామస్తులు వేడుకున్నారు. ఈ భయంకరమైన తుఫాను నుండి కృష్ణుడు అందరినీ ఎలా కాపాడతాడో చూశావా?",
+      "image_prompt": "Villagers and cattle huddle together, trembling in fear amidst a terrifying storm of heavy rain and strong winds. Ear-splitting thunder and bright flashes of lightning illuminate their terrified faces, while the boy stands with a peaceful smile. Dark stormy sky with brilliant lightning flashes and heavy rain, terrifying dramatic atmosphere.",
+      "scene_visual": "Villagers and cattle huddle together, trembling in fear amidst a terrifying storm of heavy rain and strong winds. Ear-splitting thunder and bright flashes of lightning illuminate their terrified faces, while the boy stands with a peaceful smile.",
+      "text_te_en": "Appudu, Vrrindaavanampaiki Bhayankaramaina Tuphaanu Vachchindi. Chevulu Chillulu Pade Urumulu, Merupula Velugulu — Maidaanamantaa Daddarillindi. Bhaari Varshan, Balamaina Gaalulu — Gopaaluru, Pashuvulu Bhayanto Vanikipoyaayi. Krrishnudu Maatram Prashaantamaina Chirunavvuto Nilabaddaadu. \"Krrishnaa! Mammalni Kaapaadu! I Varsham Aagadam Ledu!\" Ani Graamastulu Vedukunnaaru. I Bhayankaramaina Tuphaanu Nundi Krrishnudu Andarini Elaa Kaapaadataado Chushaavaa?",
+      "text_en": "Then, a terrible storm swept over Vrindavan. Ear-splitting thunder and bright flashes of lightning shook the entire plain. Heavy rain and strong winds made the cowherd boys and animals shiver with fear. Krishna, however, stood with a peaceful smile. \"Krishna! Save us! This rain won't stop!\" the villagers pleaded. Did you see how Krishna would save everyone from this terrible storm?"
+    },
+    {
+      "id": 5,
+      "text": "గ్రామస్తుల ఆక్రందన విన్న కృష్ణుడు కరుణతో వారిని చూశాడు. అప్పుడు, భూమి కొద్దిగా కదిలిన శబ్దం — తన దివ్యశక్తిని చూపడానికి సిద్ధమయ్యాడు. \"భయపడకండి! గోవర్ధన పర్వతం మిమ్మల్ని కాపాడుతుంది!\" అని ధైర్యం చెప్పాడు. తన చిటికెన వేలితో ఆ పెద్ద గోవర్ధన పర్వతాన్ని ఎత్తాలని నిర్ణయించుకున్నాడు. అంత పెద్ద కొండను కృష్ణుడు ఒక్కడే, తన చిటికెన వేలితో ఎత్తగలడా?",
+      "image_prompt": "The boy stands with ONE left hand raised, his little finger pointing straight up toward the sky — his body has EXACTLY TWO ARMS and TWO HANDS ONLY, no extra or duplicate limbs. His right hand rests naturally at his side. Compassionate expression as he looks at the distressed villagers. A slight tremor in the rain-soaked earth hints at the impending divine feat. Storm-lit scene with lightning illuminating rain and dark clouds, awe-inspiring divine moment.",
+      "scene_visual": "The boy looks compassionately at the distressed villagers, preparing to display his divine power. He extends his little finger towards the massive mountain, a slight tremor in the earth hinting at the impending feat.",
+      "text_te_en": "Graamastula Aakrandana Vinna Krrishnudu Karunato Vaarini Chushaadu. Appudu, Bhumi Koddigaa Kadilina Shabdam — Tana Divyashaktini Chupadaaniki Siddhamayyaadu. \"Bhayapadakandi! Govardhana Parvatam Mimmalni Kaapaadutundi!\" Ani Dhairyam Cheppaadu. Tana Chitikena Velito Aa Pedda Govardhana Parvataanni Ettaalani Nirnayinchukunnaadu. Anta Pedda Kondanu Krrishnudu Okkade, Tana Chitikena Velito Ettagaladaa?",
+      "text_en": "Hearing the villagers' cries, Krishna looked at them with compassion. Then, with a slight tremor in the earth, he prepared to show his divine power. \"Don't be afraid! Govardhana mountain will protect you!\" he reassured them. He decided to lift that huge Govardhana mountain with his little finger. Could Krishna alone lift such a big mountain with just his little finger?"
+    },
+    {
+      "id": 6,
+      "text": "కృష్ణుడు తన ఎడమ చిటికెన వేలితో గోవర్ధన పర్వతాన్ని అలవోకగా పైకి ఎత్తాడు. ఆ పెద్ద పర్వతం — ఒక దివ్యమైన గొడుగులా నిలబడింది. పర్వతం కింద ఒక్కసారిగా ప్రశాంతంగా, పొడిగా మారింది — బయట తుఫాను ఉగ్రంగా ఉంది. గ్రామస్తులు, పశువులు దాని కింద తలదాచుకున్నారు — ఆశ్చర్యంతో, భక్తితో చూశారు. \"ఆహా! గోవర్ధనధారికి జై!\" అని అందరూ కేకలు వేశారు. ఇంద్రుడి తుఫాను ఎప్పుడు ఆగుతుంది, కృష్ణుడు శక్తి చూసి ఇంద్రుడు ఏం చేస్తాడో తెలుసా?",
+      "image_prompt": "The Govardhan mountain floats impossibly high in the sky above everyone like a vast stone umbrella — held aloft only by the boy's left little finger pointed straight up. The mountain is at least three times everyone's height above their heads, with clear open air between the mountain's underside and the people below. The boy stands on the ground, his FULL body — head, face, torso — clearly and completely visible beneath the mountain, never obscured. Villagers and cattle huddle in the dry calm beneath, gazing up in wonder. Outside the mountain's edge the fierce storm rages with dark clouds and lightning. Calm dry shelter contrasting with raging storm outside.",
+      "scene_visual": "The boy effortlessly holds the massive mountain aloft with his left little finger, creating a vast, dry shelter. Beneath the mountain, villagers and cattle gaze up in wonder and devotion, while outside, the fierce storm rages.",
+      "text_te_en": "Krrishnudu Tana Edama Chitikena Velito Govardhana Parvataanni Alavokagaa Paiki Ettaadu. Aa Pedda Parvatam — Oka Divyamaina Godugulaa Nilabadindi. Parvatam Kinda Okkasaarigaa Prashaantangaa, Podigaa Maarindi — Bayata Tuphaanu Ugrangaa Undi. Graamastulu, Pashuvulu Daani Kinda Taladaachukunnaaru — Aashcharyanto, Bhaktito Chushaaru. \"Aahaa! Govardhanadhaariki Jai!\" Ani Andaru Kekalu Veshaaru. Indrudi Tuphaanu Eppudu Aagutundi, Krrishnudu Shakti Chusi Indrudu Em Chestaado Telusaa?",
+      "text_en": "Krishna effortlessly lifted Govardhana mountain with his left little finger. That huge mountain stood like a divine umbrella. Underneath the mountain, it instantly became calm and dry, while outside, the storm raged fiercely. The villagers and animals took shelter beneath it, watching with wonder and devotion. \"Hurray! Hail Govardhanadhari!\" everyone cheered. When would Indra's storm stop? Do you know what Indra would do after seeing Krishna's power?"
+    },
+    {
+      "id": 7,
+      "text": "ఏడు రోజుల తర్వాత, ఇంద్రుడి తుఫాను పూర్తిగా ఆగింది. అప్పుడు ఆకాశంలో సూర్యరశ్మి వచ్చింది — తడిసిన భూమి, పూల సువాసన అద్భుతంగా ఉంది. ఇంద్రుడు కిందికి వచ్చి, కృష్ణుడిని చూసి, తల వంచాడు. \"ఓ కృష్ణా! నీ లీల అద్భుతం! నన్ను క్షమించు!\" అని వేడుకున్నాడు. కృష్ణుడు గోవర్ధన పర్వతాన్ని మెల్లగా కిందికి దించాడు. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది — గ్రామస్తులు ఆనందంతో, భక్తితో కృష్ణుడిని పూజించారు.",
+      "image_prompt": "The deity bows his head in humility before the boy, who stands calmly under the now sunny sky. Sunlight illuminates the wet earth and fragrant flowers as the deity expresses his plea for forgiveness. SUPPORTING CHARACTER also in this scene: Indra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Warm golden-hour glow, triumphant peaceful mood.",
+      "scene_visual": "The deity bows his head in humility before the boy, who stands calmly under the now sunny sky. Sunlight illuminates the wet earth and fragrant flowers as the deity expresses his plea for forgiveness.",
+      "text_te_en": "Edu Rojula Tarvaata, Indrudi Tuphaanu Purtigaa Aagindi. Appudu Aakaashanlo Suryarashmi Vachchindi — Tadisina Bhumi, Pula Suvaasana Adbhutangaa Undi. Indrudu Kindiki Vachchi, Krrishnudini Chusi, Tala Vanchaadu. \"O Krrishnaa! Ni Lila Adbhutan! Nannu Kshaminchu!\" Ani Vedukunnaadu. Krrishnudu Govardhana Parvataanni Mellagaa Kindiki Dinchaadu. Devuni Shakti Mundu Chedu Nilavalekapoyindi — Graamastulu Aanandanto, Bhaktito Krrishnudini Pujinchaaru.",
+      "text_en": "Seven days later, Indra's storm completely stopped. Then sunlight appeared in the sky — the wet earth and the fragrance of flowers were wonderful. Indra came down, saw Krishna, and bowed his head. \"Oh Krishna! Your divine play is amazing! Forgive me!\" he pleaded. Krishna gently lowered Govardhana mountain. Evil could not stand before God's power — the villagers worshipped Krishna with joy and devotion."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Charon",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 6,
+    "dialogue_richness": 7,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.33,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story shines with its authentic oral storytelling voice and exceptional child engagement, making it highly appealing for young listeners. The narrative arc is well-structured, building tension and delivering a clear moral without being preachy. To reach award-worthy status, the primary focus should be on enhancing emotional depth by consistently showing characters' feelings through their actions, body language, and reactions, rather than explicitly stating them. Additionally, exploring more distinct voices for the villagers in their dialogue could further enrich the story."
+  },
+  "title_te_en": "Govardhana Giridhaari Lila",
+  "moral_te_en": "Manchini Nammi, Kalisikattugaa Unte, Enta Pedda Aapadanainaa Daatavachchu.",
+  "title_en": "The Divine Play of Govardhana Giridhari",
+  "moral_en": "If you believe in good and stay united, you can overcome any great danger.",
+  "id": "20260520_000631",
+  "date": "2026-05-20",
+  "category": "bhagavatam",
+  "subcategory": "krishna_leela",
+  "topic": "గోవర్ధన గిరి ఎత్తిన కృష్ణుడు",
+  "thumbnail": "stories/20260520_000631/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

@@ -42,7 +42,8 @@ jobs:
         run: |
           git config user.name "story-bot"
           git config user.email "bot@users.noreply.github.com"
-          git pull --rebase
           git add drafts/
-          git diff --quiet --cached || git commit -m "Add story draft $(date -u +%Y-%m-%dT%H:%M)"
+          git diff --quiet --cached && echo "Nothing to commit" && exit 0
+          git commit -m "Add story draft $(date -u +%Y-%m-%dT%H:%M)"
+          git pull --rebase
           git push

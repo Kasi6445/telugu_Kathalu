@@ -151,6 +151,9 @@ _DIRECTOR_PREFIX = (
     "Gentle, warm, peaceful tone. "
     "Draw only the characters described below — no additional people or children. "
     "Each character appears once, standing firmly on the ground. "
+    "IMPORTANT: This scene must be visually distinct — unique action, unique body posture, "
+    "unique facial expression, unique background composition. "
+    "Never repeat the same pose or composition from any other scene in the story. "
 )
 
 

@@ -65,13 +65,15 @@ _PRO_429_WAIT  = 30   # flash 429s recover faster
 
 _VALIDATION_THRESHOLD = 8.0   # average across all 6 dimensions
 
-# ── Mood → lighting descriptor (used in image prompt Layer 4) ─────────────────
+# ── Fallback lighting (used ONLY when Pass 1 scene_lighting is absent) ────────
+# These are last-resort defaults. New stories always get scene_lighting from
+# Pass 1 so this map is only hit when processing old story data.
 _MOOD_MAP = {
-    "opening":    "Soft golden afternoon sunlight, warm hopeful mood.",
-    "problem":    "Diffused daylight, gentle curious mood (NOT dark, NOT stormy).",
-    "thinking":   "Dappled shade with quiet contemplative light.",
-    "action":     "Bright clear daylight, playful energetic mood.",
-    "resolution": "Warm golden-hour glow, triumphant peaceful mood.",
+    "opening":    "Soft warm morning light, hopeful gentle atmosphere.",
+    "problem":    "Overcast neutral daylight, uneasy quiet atmosphere.",
+    "thinking":   "Dappled shade, still and contemplative.",
+    "action":     "Strong directional light, high-energy dynamic atmosphere.",
+    "resolution": "Warm golden-hour glow, peaceful triumphant atmosphere.",
 }
 
 
@@ -227,6 +229,19 @@ For each scene provide:
                       present and visible in this scene's action — not merely mentioned or remembered.
                       Example: ["main_character"] for solo scenes, ["main_character", "antagonist"]
                       when they share the scene.
+  scene_lighting    : the ACTUAL lighting and atmosphere of THIS specific scene moment — written
+                      as a painter's direction for the illustrator.
+                      Match the real time of day, weather, setting, and emotional tone exactly.
+                      Be concrete and specific — name light sources, colours, and mood.
+                      Good examples:
+                        "moonlit battlefield, torches flickering orange, urgent and shadowy"
+                        "soft pre-dawn mist in a forest clearing, cool blue-grey, wonder and stillness"
+                        "warm candlelight in a small evening kitchen, intimate and golden"
+                        "divine radiance breaking through dark clouds, awe-inspiring golden white"
+                        "harsh midday sun over a dusty road, bright and unforgiving"
+                        "gentle dusk light, warm amber, peaceful resolution"
+                      NEVER write: "playful energetic", "diffused daylight", "dappled shade" alone —
+                      those tell the artist nothing. Describe what a camera would actually capture.
 {mythology_supporting_char_instruction}
 Also provide:
   main_character    : 2-sentence English description.
@@ -266,7 +281,8 @@ Return ONLY valid JSON:
       "key_dialogue":        "...",
       "scene_hook":          "...",
       "characters_in_scene": ["main_character"],
-      "supporting_character": null
+      "supporting_character": null,
+      "scene_lighting":      "..."
     }}
   ]
 }}"""
@@ -619,7 +635,11 @@ def _assemble_image_prompts(story: dict[str, Any],
         scene_visual = scene.get("scene_visual", "").strip()
         beat         = o.get("story_beat", f"Scene {scene['id']} unfolds.")
         emotion      = o.get("character_emotion", "")
-        mood         = _MOOD_MAP[_infer_mood(scene["id"] - 1, total)]
+        # Use scene-specific lighting from Pass 1 (content-aware).
+        # Fall back to position-based map only for old story data without scene_lighting.
+        lighting     = o.get("scene_lighting", "").strip()
+        if not lighting:
+            lighting = _MOOD_MAP[_infer_mood(scene["id"] - 1, total)]
 
         # Antagonist: include ONLY in scenes where they physically appear.
         antagonist = story.get("antagonist", "")
@@ -660,7 +680,7 @@ def _assemble_image_prompts(story: dict[str, Any],
                         f"a well-known Hindu mythology figure, depicted accurately per canonical tradition."
                     )
 
-        scene["image_prompt"] = " ".join(filter(None, [action, antagonist_note, supporting_char_note, mood]))
+        scene["image_prompt"] = " ".join(filter(None, [action, antagonist_note, supporting_char_note, lighting]))
 
     return story
 

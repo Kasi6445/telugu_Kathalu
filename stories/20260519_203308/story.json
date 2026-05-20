@@ -1,0 +1,90 @@
+{
+  "title": "రాముడు విల్లు విరిచాడు",
+  "moral": "శారీరక బలం కన్నా, మనసులో ఉన్న భక్తి, ధైర్యమే గొప్పవని రాముడు నిరూపించాడు.",
+  "main_character": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The grand city of Mithila, in the palace courtyard prepared for the Swayamvaram. Ornate pillars adorned with garlands, vibrant silk banners fluttering, and a central platform where a massive, ancient bow rests. It is midday, bright and bustling. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గురువు విశ్వామిత్రుల వెనుక, రామ లక్ష్మణులు నడుస్తున్నారు.\nఅడవిలో చల్లటి గాలి, పూల సువాసన... ఎంత ప్రశాంతంగా ఉందో!\nరాముడి కళ్ళు ప్రశాంతంగా, ఏదో లక్ష్యాన్ని చూస్తున్నట్లున్నాయి.\n\"గురుదేవా, మీ ఆజ్ఞ శిరసావహిస్తాము,\" అని అన్నాడు రాముడు, వినయంగా.\nవాళ్ళిద్దరూ ధర్మ మార్గంలో నడుస్తున్నారు — మరి ఎక్కడికి వెళ్తున్నారో?\nవాళ్ళ కోసం ఏం గొప్ప పని ఎదురుచూస్తుందో తెలుసా?",
+      "image_prompt": "The two boys walk peacefully behind the guru through a forest. One boy's eyes are calm, gazing forward as if towards a distant goal. Soft golden afternoon sunlight, warm hopeful mood.",
+      "scene_visual": "The two boys walk peacefully behind the guru through a forest. One boy's eyes are calm, gazing forward as if towards a distant goal.",
+      "text_te_en": "Guruvu Vishvaamitrula Venuka, Raama Lakshmanulu Nadustunnaaru.\nAdavilo Challati Gaali, Pula Suvaasana... Enta Prashaantangaa Undo!\nRaamudi Kallu Prashaantangaa, Edo Lakshyaanni Chustunnatlunnaayi.\n\"Gurudevaa, Mi Aajnya Shirasaavahistaamu,\" Ani Annaadu Raamudu, Vinayangaa.\nVaalliddaru Dharma Maarganlo Nadustunnaaru — Mari Ekkadiki Veltunnaaro?\nVaalla Kosam Em Goppa Pani Eduruchustundo Telusaa?",
+      "text_en": "Behind Guru Vishwamitra, Rama and Lakshmana were walking. The cool breeze in the forest, the scent of flowers... how peaceful it was! Rama's eyes were calm, as if looking at some goal. \"Gurudeva, we will obey your command,\" Rama said, respectfully. Both of them were walking on the path of righteousness — but where were they going? Do you know what great task awaited them?"
+    },
+    {
+      "id": 2,
+      "text": "ఆ రాజకుమారులు మిథిలా నగరంలో అడుగుపెట్టారు.\nదూరంగా దేవాలయ గంటలు, అంగడి కేకలు... అన్నీ కలిసిపోయాయి.\nఅక్కడ జనకుడు ఒక ప్రతిజ్ఞ చేశాడట — అది విని రాముడు తల కొద్దిగా పక్కకు తిప్పాడు.\n\"ఈ శివ ధనుస్సును ఎత్తిన వీరుడినే సీత వరిస్తుందా?\" అని అడిగాడు లక్ష్మణుడు, ఆశ్చర్యంగా.\nశాంత స్వభావం ఉన్న రాముడు ఈ గొప్ప సవాలులో పాల్గొంటాడా... ఏం జరుగుతుందో?",
+      "image_prompt": "The two boys enter a city, listening to the distant sounds of temple bells and market cries. One boy turns his head slightly to the side upon hearing about a vow. Diffused daylight, gentle curious mood (NOT dark, NOT stormy).",
+      "scene_visual": "The two boys enter a city, listening to the distant sounds of temple bells and market cries. One boy turns his head slightly to the side upon hearing about a vow.",
+      "text_te_en": "Aa Raajakumaarulu Mithilaa Nagaranlo Adugupettaaru.\nDurangaa Devaalaya Gantalu, Angadi Kekalu... Anni Kalisipoyaayi.\nAkkada Janakudu Oka Pratijnya Cheshaadata — Adi Vini Raamudu Tala Koddigaa Pakkaku Tippaadu.\n\"I Shiva Dhanussunu Ettina Virudine Sita Varistundaa?\" Ani Adigaadu Lakshmanudu, Aashcharyangaa.\nShaanta Svabhaavam Unna Raamudu I Goppa Savaalulo Paalgontaadaa... Em Jarugutundo?",
+      "text_en": "The princes entered the city of Mithila. In the distance, temple bells, market shouts... everything blended together. There, King Janaka had made a vow — hearing it, Rama tilted his head slightly. \"Will Sita choose only the hero who lifts this Shiva's bow?\" Lakshmana asked, surprised. Will the calm-natured Rama participate in this great challenge... what will happen?"
+    },
+    {
+      "id": 3,
+      "text": "రాముడు, లక్ష్మణుడు స్వయంవర సభలో కూర్చున్నారు.\nశక్తివంతులైన రాజులు, యువరాజులు శివ ధనుస్సును ఎత్తడానికి ప్రయత్నించారు.\nఒక రాజు విఫలమైనప్పుడు — ఆ ధనుస్సు పెద్ద శబ్దంతో కింద పడింది, వేదికంతా కంపించింది.\nరాముడు వాళ్ళని సానుభూతితో చూశాడు — ఎంత కష్టపడుతున్నారో!\n\"ఈ ధనుస్సును కదపడం అసాధ్యం!\" అని ఒక రాజు నిరాశగా అన్నాడు.\nఎంతమంది బలవంతులు ఓడిపోయారు... మరి ఈ పనిని ఎవరు పూర్తి చేయగలరు?",
+      "image_prompt": "A powerful king attempts to lift a large bow, but fails, causing it to fall to the ground with a loud thud. The boy watches the struggling king with a sympathetic expression from his seat. Grand ceremonial palace hall bathed in bright torchlight, tense dramatic mood as the stage shakes.",
+      "scene_visual": "A powerful king attempts to lift a large bow, but fails, causing it to fall to the ground with a loud thud. The boy watches the struggling king with a sympathetic expression from his seat.",
+      "text_te_en": "Raamudu, Lakshmanudu Svayanvara Sabhalo Kurchunnaaru.\nShaktivantulaina Raajulu, Yuvaraajulu Shiva Dhanussunu Ettadaaniki Prayatninchaaru.\nOka Raaju Viphalamainappudu — Aa Dhanussu Pedda Shabdanto Kinda Padindi, Vedikantaa Kampinchindi.\nRaamudu Vaallani Saanubhutito Chushaadu — Enta Kashtapadutunnaaro!\n\"I Dhanussunu Kadapadam Asaadhyan!\" Ani Oka Raaju Niraashagaa Annaadu.\nEntamandi Balavantulu Odipoyaaru... Mari I Panini Evaru Purti Cheyagalaru?",
+      "text_en": "Rama and Lakshmana sat in the Swayamvara assembly. Powerful kings and princes tried to lift Shiva's bow. When one king failed — the bow fell with a loud thud, shaking the entire stage. Rama looked at them with sympathy — how much they were struggling! \"It's impossible to move this bow!\" a king said in despair. So many strong people had failed... who could complete this task?"
+    },
+    {
+      "id": 4,
+      "text": "రాజు జనకుడు దుఃఖంతో తల దించుకున్నాడు — ఎవరూ అర్హులు కారా?\nసభలో నిశ్శబ్దం... ఒక పక్షి చిలుక పలుకు కూడా వినబడింది.\nఅప్పుడు విశ్వామిత్రుడు రాముడి వైపు చూసి, ముందుకు రమ్మని సైగ చేశాడు.\nరాముడు గురువుకు వినయంగా తల వంచాడు — అంగీకరించాడు.\n\"రామా, ఈ ధనుస్సును ప్రయత్నించు,\" అని గురువు ఆదేశించారు.\nబలమైన రాజులు విఫలమైన చోట, శాంతమైన రాముడు ఎలా నెరవేరుస్తాడు?",
+      "image_prompt": "The guru looks at the boy and gestures for him to come forward. The boy humbly bows his head to the guru, accepting the instruction. Dappled shade with quiet contemplative light.",
+      "scene_visual": "The guru looks at the boy and gestures for him to come forward. The boy humbly bows his head to the guru, accepting the instruction.",
+      "text_te_en": "Raaju Janakudu Duhkhanto Tala Dinchukunnaadu — Evaru Arhulu Kaaraa?\nSabhalo Nishshabdan... Oka Pakshi Chiluka Paluku Kudaa Vinabadindi.\nAppudu Vishvaamitrudu Raamudi Vaipu Chusi, Munduku Rammani Saiga Cheshaadu.\nRaamudu Guruvuku Vinayangaa Tala Vanchaadu — Angikarinchaadu.\n\"Raamaa, I Dhanussunu Prayatninchu,\" Ani Guruvu Aadeshinchaaru.\nBalamaina Raajulu Viphalamaina Chota, Shaantamaina Raamudu Elaa Neraverustaadu?",
+      "text_en": "King Janaka bowed his head in sadness — was no one worthy? Silence filled the assembly... even a parrot's chirp could be heard. Then Vishwamitra looked at Rama and gestured for him to come forward. Rama respectfully bowed his head to his Guru — he agreed. \"Rama, try this bow,\" the Guru commanded. Where strong kings had failed, how would the calm Rama succeed?"
+    },
+    {
+      "id": 5,
+      "text": "గురువు ఆజ్ఞతో రాముడు ధనుస్సు వైపు నడిచాడు — అడుగులు ఎంత ప్రశాంతంగా ఉన్నాయో!\nఆయన కళ్ళు మూసుకున్నాడు — ఒక చిన్న ప్రార్థన చేసుకున్నాడు.\n\"శివ ధనుస్సు, మీ శక్తికి నమస్కారం,\" అని మనసులో అనుకున్నాడు.\nమెల్లగా ఆ ధనుస్సును తాకాడు — ఎంత చల్లగా, మృదువుగా ఉందో!\nఒక ప్రశాంతమైన శక్తి అతని వేళ్ళ నుండి ప్రవహించింది.\nఈ అసాధ్యమైన పనిని రాముడు ఎలా చేస్తాడు... ఏ దివ్య శక్తి ప్రదర్శింపబడుతుంది?",
+      "image_prompt": "The boy walks calmly towards the bow, then closes his eyes for a brief prayer. He gently touches the bow, feeling its cool and soft surface. Dappled shade with quiet contemplative light.",
+      "scene_visual": "The boy walks calmly towards the bow, then closes his eyes for a brief prayer. He gently touches the bow, feeling its cool and soft surface.",
+      "text_te_en": "Guruvu Aajnyato Raamudu Dhanussu Vaipu Nadichaadu — Adugulu Enta Prashaantangaa Unnaayo!\nAayana Kallu Musukunnaadu — Oka Chinna Praarthana Chesukunnaadu.\n\"Shiva Dhanussu, Mi Shaktiki Namaskaaran,\" Ani Manasulo Anukunnaadu.\nMellagaa Aa Dhanussunu Taakaadu — Enta Challagaa, Mrriduvugaa Undo!\nOka Prashaantamaina Shakti Atani Vella Nundi Pravahinchindi.\nI Asaadhyamaina Panini Raamudu Elaa Chestaadu... E Divya Shakti Pradarshimpabadutundi?",
+      "text_en": "At the Guru's command, Rama walked towards the bow — how peaceful his steps were! He closed his eyes — and made a small prayer. \"Shiva's bow, I bow to your power,\" he thought in his mind. He gently touched the bow — how cool and soft it was! A peaceful energy flowed from his fingers. How will Rama do this impossible task... what divine power will be shown?"
+    },
+    {
+      "id": 6,
+      "text": "అంత పెద్ద ధనుస్సును రాముడు ఎంత తేలికగా ఎత్తాడో చూశావా?\nఒక్క క్షణంలో దానికి నారిని ఎక్కించాడు — ఎంత నిశబ్దంగా!\nనారిని వెనక్కి లాగగానే — ఒక దివ్యమైన కాంతి సభ అంతా నిండిపోయింది!\nభూమి మెల్లగా కంపించింది, పూల వర్షం కురిసింది.\nరాముడి పెదవులపై చిరునవ్వు... \"ధర్మం ఎల్లప్పుడూ విజయం సాధిస్తుంది,\" అన్నాడు.\nఈ అద్భుతాన్ని చూసి అందరూ ఎలా స్పందిస్తారు?",
+      "image_prompt": "The boy effortlessly lifts the large bow and silently strings it. As he pulls the string back, a brilliant divine golden radiance floods the entire assembly hall, and a gentle smile appears on his lips. Brilliant divine golden radiance flooding the hall, sacred triumphant awe-inspiring atmosphere.",
+      "scene_visual": "The boy effortlessly lifts the large bow and silently strings it. As he pulls the string back, a divine light fills the entire assembly hall, and a gentle smile appears on his lips.",
+      "text_te_en": "Anta Pedda Dhanussunu Raamudu Enta Telikagaa Ettaado Chushaavaa?\nOkka Kshananlo Daaniki Naarini Ekkinchaadu — Enta Nishabdangaa!\nNaarini Venakki Laagagaane — Oka Divyamaina Kaanti Sabha Antaa Nindipoyindi!\nBhumi Mellagaa Kampinchindi, Pula Varsham Kurisindi.\nRaamudi Pedavulapai Chirunavvu... \"Dharmam Ellappudu Vijayam Saadhistundi,\" Annaadu.\nI Adbhutaanni Chusi Andaru Elaa Spandistaaru?",
+      "text_en": "Did you see how easily Rama lifted such a huge bow? In a single moment, he strung it — how silently! As soon as he pulled the string back — a divine light filled the entire assembly! The earth gently trembled, and a shower of flowers fell. A gentle smile on Rama's lips... \"Righteousness always triumphs,\" he said. How will everyone react to this miracle?"
+    },
+    {
+      "id": 7,
+      "text": "సభలో ఆనంద కేకలు, పువ్వుల వర్షం... ఎంత సువాసన!\nసమయానికి సీతమ్మ మెల్లగా నడుచుకుంటూ వచ్చింది — ఆమె కళ్ళు రాముడి వైపు.\nరాముడు సీతమ్మను ప్రేమగా చూశాడు — ఆ చూపులో ఎంత ఆప్యాయత ఉందో!\nఆమె వధువు హారాన్ని రాముడి మెడలో వేసింది.\n\"నా ప్రాణం నీదే, నా ప్రియ రామా,\" అని సీతమ్మ మనసులో అనుకుంది.\nఅదే క్షణంలో, న్యాయం జరిగింది — దివ్యమైన ప్రేమకు అంకురార్పణ జరిగింది.",
+      "image_prompt": "A girl walks slowly towards the boy, her eyes fixed on him, amidst a shower of flowers. She places a wedding garland around the boy's neck, while he looks at her with affection. SUPPORTING CHARACTER also in this scene: Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Warm golden-hour glow, triumphant peaceful mood.",
+      "scene_visual": "A girl walks slowly towards the boy, her eyes fixed on him, amidst a shower of flowers. She places a wedding garland around the boy's neck, while he looks at her with affection.",
+      "text_te_en": "Sabhalo Aananda Kekalu, Puvvula Varshan... Enta Suvaasana!\nSamayaaniki Sitamma Mellagaa Naduchukuntu Vachchindi — Aame Kallu Raamudi Vaipu.\nRaamudu Sitammanu Premagaa Chushaadu — Aa Chupulo Enta Aapyaayata Undo!\nAame Vadhuvu Haaraanni Raamudi Medalo Vesindi.\n\"Naa Praanam Nide, Naa Priya Raamaa,\" Ani Sitamma Manasulo Anukundi.\nAde Kshananlo, Nyaayam Jarigindi — Divyamaina Premaku Ankuraarpana Jarigindi.",
+      "text_en": "Cheers of joy in the assembly, a shower of flowers... what a fragrance! Just then, Sita walked in slowly — her eyes fixed on Rama. Rama looked at Sita lovingly — how much affection was in that gaze! She placed the bridal garland around Rama's neck. \"My life is yours, my dear Rama,\" Sita thought in her heart. In that very moment, justice was served — a divine love story began."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 10,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.5,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is exceptionally well-crafted for a children's audience, particularly in its oral storytelling style and ability to engage a young listener. The language is natural, and the narrative flows smoothly, building suspense effectively. To reach a perfect score, consider refining a few instances where emotions are stated rather than purely shown, and perhaps adding a very subtle moment of internal struggle for Rama, even if it's just a fleeting thought, to fully embody the 'character tries and fails' aspect of the narrative arc."
+  },
+  "title_te_en": "Raamudu Villu Virichaadu",
+  "moral_te_en": "Shaariraka Balam Kannaa, Manasulo Unna Bhakti, Dhairyame Goppavani Raamudu Nirupinchaadu.",
+  "title_en": "Rama Breaks the Bow",
+  "moral_en": "Rama proved that devotion and courage in one's heart are greater than physical strength.",
+  "id": "20260519_203308",
+  "date": "2026-05-19",
+  "category": "ramayana",
+  "subcategory": "dharma_tales",
+  "topic": "సీత స్వయంవరం",
+  "thumbnail": "stories/20260519_203308/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

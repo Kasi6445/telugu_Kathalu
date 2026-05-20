@@ -50,19 +50,55 @@ def _extract_voice_short(voice_name: str) -> str:
 # ── Prompt builder ────────────────────────────────────────────────────────────
 
 def _build_scene_prompt(text: str, voice_name: str,
-                        scene_num: int = 1, total_scenes: int = 1) -> str:
-    """Per-scene prompt with strong baseline-voice anchor."""
+                        scene_num: int = 1, total_scenes: int = 1,
+                        scene_context: str = "") -> str:
+    """Per-scene prompt with voice anchor, emotional context, and natural pacing guidance."""
     short = _extract_voice_short(voice_name)
     style = _VOICE_STYLE.get(short, _DEFAULT_STYLE)
 
+    # Emotional tone — affects warmth/energy ONLY, never overall pace
+    context_line = ""
+    if scene_context:
+        context_line = (
+            f"SCENE MOOD: {scene_context}\n"
+            f"Adjust your TONE and WARMTH for this mood — do NOT change your overall pace:\n"
+            f"  • Tense / sad → voice becomes quieter, more tender; keep forward momentum\n"
+            f"  • Joyful / triumphant → brighter energy, more lift and warmth in the voice\n"
+            f"  • Wonder / suspense → softer and more intimate; lean gently into key words\n"
+            f"  • Battle / urgent → controlled forward energy — steady, clear, never rushed\n"
+            f"  • Devotional / reverent → soft, flowing, sacred — smooth and connected\n\n"
+        )
+
     return (
-        f"You are {style} recording scene {scene_num} of {total_scenes} "
-        f"in one continuous audiobook session. "
-        f"VOICE CONSISTENCY: Your base pitch, pace, and vocal character are FIXED — "
-        f"identical to every other scene in this story. Do not adjust your baseline. "
-        f"Emotional moments: subtle pace change only — never a pitch shift. "
-        f"Character dialogue (quotes): brief distinct voice, return to YOUR baseline immediately.\n\n"
-        f"Telugu story scene:\n\n{text}"
+        f"You are {style}. Record this as a warm, natural Telugu audiobook scene "
+        f"({scene_num} of {total_scenes}) for children aged 5–8.\n\n"
+
+        f"{context_line}"
+
+        f"SPEAK LIKE A REAL PERSON — this is the most critical instruction:\n"
+        f"Speak the way a real grandmother actually talks to a child sitting in front of her — "
+        f"connected, phrase-by-phrase, with natural rhythm and warmth throughout. "
+        f"Your speech must flow continuously and conversationally. "
+        f"Do NOT speak word-by-word. Do NOT insert long silences or gaps between sentences. "
+        f"Keep the energy alive and forward-moving at all times.\n\n"
+
+        f"PACE: Natural and lively — like genuine storytelling conversation. "
+        f"Not fast, not slow, not flat. A grandmother who loves this story "
+        f"speaks with real feeling and keeps the child leaning in. "
+        f"Flat or dragging delivery will lose the child's attention immediately.\n\n"
+
+        f"PAUSES — brief and natural only:\n"
+        f"- Em-dash (—): one quick dramatic breath, then continue immediately\n"
+        f"- Three dots (...): one short beat of suspense — do not linger, then move on\n"
+        f"- Sentence end (। or .): one natural breath — short — then continue with energy\n"
+        f"- Comma (,): the lightest possible pause; keep the rhythm flowing\n"
+        f"- Quoted dialogue (\".....\"): slightly warmer voice for the character; "
+        f"return to narrator pace immediately after the closing quote\n\n"
+
+        f"VOICE CONSISTENCY: Your pitch, character, and warmth are FIXED and identical "
+        f"across all {total_scenes} scenes in this story.\n\n"
+
+        f"Telugu story text:\n\n{text}"
     )
 
 
@@ -151,24 +187,29 @@ def synthesize_story(scenes: list[dict], voice_name: str, audio_dir: Path) -> No
         if out.exists():
             print(f"  [TTS CACHE] scene {scene['id']} reused — $0.00", flush=True)
             continue
-        _synthesize_scene_file(scene["text"], voice_name, out, idx, n)
+        _synthesize_scene_file(
+            scene["text"], voice_name, out, idx, n,
+            scene_context=scene.get("scene_visual", ""),
+        )
 
 
 def synthesize_scene(text: str, voice_name: str, output_path: Path,
-                     scene_num: int = 1, total_scenes: int = 1) -> bool:
+                     scene_num: int = 1, total_scenes: int = 1,
+                     scene_context: str = "") -> bool:
     """
     Synthesise one scene to MP3. Used by external callers.
     Tries Gemini TTS first, then Cloud TTS.
     """
-    return _synthesize_scene_file(text, voice_name, output_path, scene_num, total_scenes)
+    return _synthesize_scene_file(text, voice_name, output_path, scene_num, total_scenes, scene_context)
 
 
 def _synthesize_scene_file(text: str, voice_name: str, output_path: Path,
-                            scene_num: int, total_scenes: int) -> bool:
+                            scene_num: int, total_scenes: int,
+                            scene_context: str = "") -> bool:
     """Inner per-scene synthesiser: Gemini TTS → Cloud TTS fallback."""
     for attempt in range(1, 3):
         try:
-            prompt = _build_scene_prompt(text, voice_name, scene_num, total_scenes)
+            prompt = _build_scene_prompt(text, voice_name, scene_num, total_scenes, scene_context)
             pcm    = _gemini_raw_pcm(prompt, voice_name)
             _pcm_to_mp3(pcm, output_path)
             kb = output_path.stat().st_size / 1024

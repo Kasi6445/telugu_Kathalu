@@ -60,12 +60,11 @@ def _inject_supporting_character(scene: dict, story: dict,
 
     existing_prompt = scene.get("image_prompt", "")
 
-    # Strip any previous SUPPORTING CHARACTER injection so we can re-inject cleanly
-    if "SUPPORTING CHARACTER" in existing_prompt:
-        existing_prompt = existing_prompt[:existing_prompt.index(" SUPPORTING CHARACTER")].rstrip()
-        scene["image_prompt"] = existing_prompt
-
     if character_override:
+        # Explicit override: strip existing block and re-inject with specified character
+        if "SUPPORTING CHARACTER" in existing_prompt:
+            existing_prompt = existing_prompt[:existing_prompt.index(" SUPPORTING CHARACTER")].rstrip()
+            scene["image_prompt"] = existing_prompt
         anchor = get_character_anchor(character_override)
         if anchor:
             logger.info(f"Using override character '{character_override}'")
@@ -76,24 +75,10 @@ def _inject_supporting_character(scene: dict, story: dict,
         scene["image_prompt"] = existing_prompt + f" SUPPORTING CHARACTER also in this scene: {anchor}"
         return scene
 
-    # Auto-detect: prefer the character who is doing the main action.
-    # Use text_en (English translation) for reliable name matching.
-    # Count occurrences — the character mentioned most times is likely the active one.
-    text_en = scene.get("text_en", "").lower()
-    best_char = None
-    best_count = 0
-    for char_key in CHARACTER_ANCHORS:
-        count = text_en.count(char_key)
-        if count > best_count:
-            best_count = count
-            best_char = char_key
-
-    if best_char and best_count > 0:
-        anchor = get_character_anchor(best_char)
-        logger.info(f"Auto-detected supporting character '{best_char}' ({best_count} mentions) — injecting anchor")
-        scene["image_prompt"] = existing_prompt + f" SUPPORTING CHARACTER also in this scene: {anchor}"
-    else:
-        logger.info("No known supporting character detected in scene text")
+    # No --character override: keep story.json image_prompt exactly as-is.
+    # story.json already has correct SUPPORTING CHARACTER blocks (or correctly omits them)
+    # from the original generation pipeline. Do not auto-inject.
+    logger.info("No --character override — using image_prompt from story.json as-is")
 
     return scene
 
