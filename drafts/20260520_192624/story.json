@@ -1,0 +1,90 @@
+{
+  "title": "జ్ఞానపు వెలుగు బాట",
+  "moral": "పిల్లలూ, చదువు మన జీవితానికి ఒక గొప్ప వెలుగు. అది మన దారిని స్పష్టంగా చూపిస్తుంది.",
+  "main_character": "Raju, a lively 9-year-old boy, with bright, curious eyes and a perpetually smudged face from playing outdoors. He is quick-witted but easily distracted by the call of adventure outside his home. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, sun-drenched village in rural Andhra Pradesh, nestled beside a gurgling stream and surrounded by lush green paddy fields. The air is often filled with the distant sounds of temple bells and children's laughter. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని పొలాల మధ్య, ఒక చిన్న పల్లెటూరిలో రాజు ఉండేవాడు. వాడు ఉదయాన్నే ఆటలకు బయలుదేరేవాడు — వాడి కాళ్ళకు వెచ్చని దుమ్ము అంటుకునేది. వీధిలో పిల్లలతో పరుగుపందెం పెట్టుకునేవాడు, పెద్దగా నవ్వుతూ. \"రాజు! చదువుకోవాలి!\" అని అమ్మ ప్రేమగా పిలిచేది. \"అమ్మా! నేను ఆడుకుంటున్నాను! ఇంకొంచెం సేపు!\" అని గట్టిగా అరిచాడు. పుస్తకాలంటే వాడికి ఏమాత్రం ఆసక్తి లేదు... మరి, రాజు ఎప్పుడు చదువుకోవడం మొదలుపెడతాడో కదా?",
+      "image_prompt": "The boy runs a race with other children in the street, laughing loudly. Warm dust clings to his feet as he shouts back to his mother. Bright afternoon sun, golden light spilling into a rustic village courtyard, warm and inviting, highlighting dust motes in the air.",
+      "scene_visual": "The boy runs a race with other children in the street, laughing loudly. Warm dust clings to his feet as he shouts back to his mother.",
+      "text_te_en": "Pachchani Polaala Madhya, Oka Chinna Palleturilo Raaju Undevaadu. Vaadu Udayaanne Aatalaku Bayaluderevaadu — Vaadi Kaallaku Vechchani Dummu Antukunedi. Vidhilo Pillalato Parugupandem Pettukunevaadu, Peddagaa Navvutu. \"Raaju! Chaduvukovaali!\" Ani Amma Premagaa Pilichedi. \"Ammaa! Nenu Aadukuntunnaanu! Inkonchem Sepu!\" Ani Gattigaa Arichaadu. Pustakaalante Vaadiki Emaatram Aasakti Ledu... Mari, Raaju Eppudu Chaduvukovadam Modalupedataado Kadaa?",
+      "text_en": "In a small village, amidst green fields, lived Raju. Every morning, he would set out to play — warm dust would stick to his feet. He would race with the children in the street, laughing loudly. \"Raju! Time to study!\" his mother would call lovingly. \"Amma! I'm playing! Just a little longer!\" he shouted loudly. He had no interest in books at all... So, when would Raju ever start studying, I wonder?"
+    },
+    {
+      "id": 2,
+      "text": "అమ్మ మాట విన్న రాజు — బరువుగా నిట్టూర్చి, పుస్తకం పట్టుకున్నాడు. కిటికీలోంచి మామిడి పూల సువాసన మెల్లగా లోపలికి వచ్చేది. ఆ సువాసనతో పాటు, బయట స్నేహితుల అరుపులు వినిపించాయి. వాడి కళ్ళు అటు ఇటు కదులుతూ, కిటికీ వైపు చూశాయి. \"రేయ్ రాజు, పుస్తకాలు పక్కన పెట్టి మాతో ఆడుకో!\" అని స్నేహితులు పిలిచారు. చదువు పక్కన పెట్టి, ఆటకు ప్రాధాన్యత ఇస్తే... తర్వాత ఏం జరుగుతుందో తెలుసా పిల్లలూ?",
+      "image_prompt": "The boy holds a book, his eyes darting towards the window. He sighs heavily as the scent of mango blossoms drifts in from outside. Late afternoon light, soft orange glow filtering through the neem tree leaves outside, casting dappled shadows across his study corner.",
+      "scene_visual": "The boy holds a book, his eyes darting towards the window. He sighs heavily as the scent of mango blossoms drifts in from outside.",
+      "text_te_en": "Amma Maata Vinna Raaju — Baruvugaa Nitturchi, Pustakam Pattukunnaadu. Kitikilonchi Maamidi Pula Suvaasana Mellagaa Lopaliki Vachchedi. Aa Suvaasanato Paatu, Bayata Snehitula Arupulu Vinipinchaayi. Vaadi Kallu Atu Itu Kadulutu, Kitiki Vaipu Chushaayi. \"Rey Raaju, Pustakaalu Pakkana Petti Maato Aaduko!\" Ani Snehitulu Pilichaaru. Chaduvu Pakkana Petti, Aataku Praadhaanyata Iste... Tarvaata Em Jarugutundo Telusaa Pillalu?",
+      "text_en": "Raju, hearing his mother's words — sighed heavily and picked up a book. The sweet scent of mango blossoms gently wafted in through the window. Along with that scent, he heard his friends shouting outside. His eyes darted around, looking towards the window. \"Hey Raju, put your books down and come play with us!\" his friends called. Children, do you know what happens if you choose play over studies?"
+    },
+    {
+      "id": 3,
+      "text": "అట్లా ఆటలు ఆడుకుంటున్న రాజుకి, ఊరి పెద్దయ్య ఒక కొత్త పోటీ గురించి చెప్పాడు. రాజు ఉత్సాహంగా పరుగున వెళ్ళి, పోటీ పత్రం తీసుకున్నాడు. కానీ, దానిని చదువుదామని చేతిలో పట్టుకోగానే — కాగితం గరుకుగా అనిపించింది. అక్షరాలు వాడికి బొమ్మల్లా కనిపించాయి, భుజాలు జారవిడిచాడు. \"ఈ కాగితం మీద ఏముందో నాకు అర్థం కావట్లేదు. చాలా చిన్నగా ఉంది,\" అని రాజు బుంగమూతి పెట్టాడు. మరి, ఈ ముఖ్యమైన పోటీలో రాజు ఎలా పాల్గొంటాడో... ఏం చేస్తాడో?",
+      "image_prompt": "The boy holds a competition paper, his shoulders slumping. He pouts as the letters on the rough paper appear to him like mere pictures. Harsh midday sun beating down on the village square, bright and unforgiving, highlighting his confusion and the stark white of the announcement paper.",
+      "scene_visual": "The boy holds a competition paper, his shoulders slumping. He pouts as the letters on the rough paper appear to him like mere pictures.",
+      "text_te_en": "Atlaa Aatalu Aadukuntunna Raajuki, Uri Peddayya Oka Kotta Poti Gurinchi Cheppaadu. Raaju Utsaahangaa Paruguna Velli, Poti Patram Tisukunnaadu. Kaani, Daanini Chaduvudaamani Chetilo Pattukogaane — Kaagitam Garukugaa Anipinchindi. Aksharaalu Vaadiki Bommallaa Kanipinchaayi, Bhujaalu Jaaravidichaadu. \"I Kaagitam Mida Emundo Naaku Artham Kaavatledu. Chaalaa Chinnagaa Undi,\" Ani Raaju Bungamuti Pettaadu. Mari, I Mukhyamaina Potilo Raaju Elaa Paalgontaado... Em Chestaado?",
+      "text_en": "While Raju was playing like this, the village elder told him about a new competition. Raju excitedly ran and took the competition paper. But, as soon as he held it to read — the paper felt rough. The letters looked like pictures to him, and he dropped his shoulders. \"I can't understand what's on this paper. It's too small,\" Raju pouted. So, how will Raju participate in this important competition... what will he do?"
+    },
+    {
+      "id": 4,
+      "text": "పోటీ పత్రం అర్థం కాక, రాజు స్నేహితుల దగ్గరికి వెళ్ళాడు. కానీ వాళ్ళూ ఆ అక్షరాలు చూసి తల పట్టుకున్నారు — నిరాశగా కనిపించారు. సంధ్య చీకట్లు అలుముకున్నాయి, క్రికెట్ పురుగులు కిచకిచమన్నాయి. ఒంటరిగా కూర్చున్న రాజుకు బాధ వేసింది. వాడి చిన్న చేతులు పిడికిళ్ళు బిగించాయి... \"ఇది చాలా కష్టంగా ఉంది, నేను ముందే చదువుకుని ఉండాల్సింది,\" అని మనసులో అనుకున్నాడు. మరి రాజు ఓటమి ఒప్పుకుంటాడా, లేక కొత్త దారి వెతుకుతాడా?",
+      "image_prompt": "The boy sits alone in the dim twilight, his small hands clenched into fists. Crickets chirp around him as he feels a pang of sadness. Dimming twilight, shadows lengthening across his small room, creating a sense of quiet introspection and growing resolve.",
+      "scene_visual": "The boy sits alone in the dim twilight, his small hands clenched into fists. Crickets chirp around him as he feels a pang of sadness.",
+      "text_te_en": "Poti Patram Artham Kaaka, Raaju Snehitula Daggariki Vellaadu. Kaani Vaallu Aa Aksharaalu Chusi Tala Pattukunnaaru — Niraashagaa Kanipinchaaru. Sandhya Chikatlu Alumukunnaayi, Kriket Purugulu Kichakichamannaayi. Ontarigaa Kurchunna Raajuku Baadha Vesindi. Vaadi Chinna Chetulu Pidikillu Biginchaayi... \"Idi Chaalaa Kashtangaa Undi, Nenu Munde Chaduvukuni Undaalsindi,\" Ani Manasulo Anukunnaadu. Mari Raaju Otami Oppukuntaadaa, Leka Kotta Daari Vetukutaadaa?",
+      "text_en": "Unable to understand the competition paper, Raju went to his friends. But they also held their heads seeing those letters — they looked disappointed. Dusk shadows fell, and crickets chirped. Raju, sitting alone, felt sad. His small hands clenched into fists... \"This is so hard, I should have studied earlier,\" he thought to himself. So, will Raju accept defeat, or will he find a new path?"
+    },
+    {
+      "id": 5,
+      "text": "ఆ రాత్రి రాజు — నాన్న దగ్గర కూర్చుని, చదువుకోవాలని నిర్ణయించుకున్నాడు. నాన్న పాత పుస్తకాల వాసన — వేప ఆకుల, కాగితం వాసన — వాడికి కొత్త ధైర్యాన్ని ఇచ్చింది. వాడు నుదురు చిట్లించి, నిదానంగా అక్షరాలు దిద్దాడు. \"నాన్న, 'నది' అనే పదం ఎలా చదవాలి? 'న' తర్వాత 'ది' కదా?\" అని ఆత్రంగా అడిగాడు. నెమ్మదిగా, వాడి ముఖం మీద చిన్న నవ్వు మెరిసింది. మరి ఈ కొత్త ఉత్సాహం పోటీలో గెలిపిస్తుందా... చూద్దామా?",
+      "image_prompt": "The boy sits with his father, slowly tracing letters with a furrowed brow. A small smile slowly appears on his face as he asks about the word 'nadi'. Warm candlelight glowing on a wooden table, illuminating their faces, creating a cozy and diligent atmosphere in the quiet evening.",
+      "scene_visual": "The boy sits with his father, slowly tracing letters with a furrowed brow. A small smile slowly appears on his face as he asks about the word 'nadi'.",
+      "text_te_en": "Aa Raatri Raaju — Naanna Daggara Kurchuni, Chaduvukovaalani Nirnayinchukunnaadu. Naanna Paata Pustakaala Vaasana — Vepa Aakula, Kaagitam Vaasana — Vaadiki Kotta Dhairyaanni Ichchindi. Vaadu Nuduru Chitlinchi, Nidaanangaa Aksharaalu Diddaadu. \"Naanna, 'Nadi' Ane Padam Elaa Chadavaali? 'Na' Tarvaata 'Di' Kadaa?\" Ani Aatrangaa Adigaadu. Nemmadigaa, Vaadi Mukham Mida Chinna Navvu Merisindi. Mari I Kotta Utsaaham Potilo Gelipistundaa... Chuddaamaa?",
+      "text_en": "That night, Raju — sat with his father and decided to study. The smell of his father's old books — the scent of neem leaves and paper — gave him new courage. He furrowed his brow and slowly traced the letters. \"Father, how do I read the word 'nadi' (river)? It's 'na' then 'di', right?\" he asked eagerly. Slowly, a small smile appeared on his face. So, will this new enthusiasm help him win the competition... let's see?"
+    },
+    {
+      "id": 6,
+      "text": "పోటీ రోజు వచ్చింది, పల్లె పిల్లలంతా ఉత్సాహంగా ఉన్నారు. చాలా మంది తికమక పడుతున్నారు — సరైన దారి దొరకలేదు. రాజు జట్టు కూడా ఒక చోట ఆగిపోయింది... అప్పుడే రాజుకు ఒక ముఖ్యమైన అక్షరం కనిపించింది. వాడు నిలబడ్డాడు, ముఖం మీద పెద్ద చిరునవ్వు. \"ఇక్కడ రాసి ఉంది, 'తూర్పు వైపున ఉన్న రావి చెట్టు కింద చూడండి!'\" అని గట్టిగా చెప్పాడు. జనం చప్పట్లు కొట్టారు, ఆకులు గలగలమన్నాయి. ఈ విజయం రాజు జీవితాన్ని పూర్తిగా మార్చేస్తుందా?",
+      "image_prompt": "The boy stands tall, confidently shouting out a clue from the competition paper. A big smile spreads across his face as the surrounding leaves rustle. Bright morning sun, clear and triumphant, illuminating the joyful faces of the villagers, a sense of clarity and accomplishment.",
+      "scene_visual": "The boy stands tall, confidently shouting out a clue from the competition paper. A big smile spreads across his face as the surrounding leaves rustle.",
+      "text_te_en": "Poti Roju Vachchindi, Palle Pillalantaa Utsaahangaa Unnaaru. Chaalaa Mandi Tikamaka Padutunnaaru — Saraina Daari Dorakaledu. Raaju Jattu Kudaa Oka Chota Aagipoyindi... Appude Raajuku Oka Mukhyamaina Aksharam Kanipinchindi. Vaadu Nilabaddaadu, Mukham Mida Pedda Chirunavvu. \"Ikkada Raasi Undi, 'Turpu Vaipuna Unna Raavi Chettu Kinda Chudandi!'\" Ani Gattigaa Cheppaadu. Janam Chappatlu Kottaaru, Aakulu Galagalamannaayi. I Vijayam Raaju Jivitaanni Purtigaa Maarchestundaa?",
+      "text_en": "The competition day arrived, and all the village children were excited. Many were confused — they couldn't find the right path. Raju's team also stopped at one spot... Just then, Raju spotted an important letter. He stood up, a big smile on his face. \"It says here, 'Look under the Peepal tree on the east side!'\" he announced loudly. The people clapped, and the leaves rustled. Will this victory completely change Raju's life?"
+    },
+    {
+      "id": 7,
+      "text": "ఆ రోజు నుండి రాజు పుస్తకాలంటే ఇష్టపడసాగాడు. కొత్త పుస్తకం చేతిలో పట్టుకుంటే, ఎంత చల్లగా, మృదువుగా అనిపించేదో! పేజీలు తిప్పుతుంటే, చిన్న శబ్దం వచ్చేది. ఇప్పుడు వాడి ముఖంలో ప్రశాంతమైన ఆలోచన. \"చదువు నిజంగా వెలుగే కదా! ఇప్పుడు నాకు అంతా స్పష్టంగా ఉంది,\" అని సంతోషంగా అన్నాడు. జ్ఞానం ఎంత గొప్ప వెలుగు బాటను చూపిస్తుందో కదా పిల్లలూ.",
+      "image_prompt": "The boy holds a new book, gently turning its pages. A peaceful, thoughtful expression rests on his face as he feels the cool, soft paper. Gentle dusk light, warm amber, peaceful and reflective, highlighting Raju's thoughtful expression as he looks at his open book, a soft glow around him.",
+      "scene_visual": "The boy holds a new book, gently turning its pages. A peaceful, thoughtful expression rests on his face as he feels the cool, soft paper.",
+      "text_te_en": "Aa Roju Nundi Raaju Pustakaalante Ishtapadasaagaadu. Kotta Pustakam Chetilo Pattukunte, Enta Challagaa, Mrriduvugaa Anipinchedo! Pejilu Tipputunte, Chinna Shabdam Vachchedi. Ippudu Vaadi Mukhanlo Prashaantamaina Aalochana. \"Chaduvu Nijangaa Veluge Kadaa! Ippudu Naaku Antaa Spashtangaa Undi,\" Ani Santoshangaa Annaadu. Jnyaanam Enta Goppa Velugu Baatanu Chupistundo Kadaa Pillalu.",
+      "text_en": "From that day on, Raju began to love books. When he held a new book in his hand, how cool and soft it felt! As he turned the pages, a soft sound came. Now, a peaceful expression was on his face. \"Education truly is light, isn't it! Now everything is clear to me,\" he said happily. Children, how wonderfully the light of knowledge shows us the way!"
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Iapetus",
+  "quality_score": 8.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 7,
+    "child_engagement": 9,
+    "average": 8.17,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story shines with its authentic oral storytelling voice and exceptional child engagement, making it highly listenable. The grammar is impeccable, a true strength. To reach an award-worthy level, the primary focus should be on enriching the dialogue; ensuring every scene features direct, character-specific speech would significantly enhance the narrative. Additionally, allowing the moral to emerge more subtly through the story's events, rather than stating it explicitly at the beginning and end, would elevate its impact."
+  },
+  "title_te_en": "Jnyaanapu Velugu Baata",
+  "moral_te_en": "Pillalu, Chaduvu Mana Jivitaaniki Oka Goppa Velugu. Adi Mana Daarini Spashtangaa Chupistundi.",
+  "title_en": "The Path of Knowledge's Light",
+  "moral_en": "Children, education is a great light for our lives. It clearly shows us our path.",
+  "id": "20260520_192624",
+  "date": "2026-05-20",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "చదువు వెలుగు అనే సామెత కథ",
+  "thumbnail": "stories/20260520_192624/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
