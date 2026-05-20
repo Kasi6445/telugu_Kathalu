@@ -100,24 +100,29 @@ SUBCATEGORY_VOICE_POOL: dict[tuple, list] = {
     ("neeti", "human_values"):   ["te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Gacrux",   "te-IN-Chirp3-HD-Callirrhoe"],
     ("neeti", "wisdom_tales"):   ["te-IN-Chirp3-HD-Iapetus",   "te-IN-Chirp3-HD-Charon",   "te-IN-Chirp3-HD-Autonoe"],
 
-    # Panchatantra — measured male dominant
-    ("panchatantra", "friendship_betrayal"): ["te-IN-Chirp3-HD-Charon",  "te-IN-Chirp3-HD-Iapetus", "te-IN-Chirp3-HD-Achird"],
-    ("panchatantra", "animal_wisdom"):       ["te-IN-Chirp3-HD-Charon",  "te-IN-Chirp3-HD-Achird",  "te-IN-Chirp3-HD-Leda"],
-    ("panchatantra", "clever_tricks"):       ["te-IN-Chirp3-HD-Charon",  "te-IN-Chirp3-HD-Fenrir",  "te-IN-Chirp3-HD-Iapetus"],
+    # Panchatantra — measured narrator; clever/trick stories get witty energy
+    ("panchatantra", "friendship_betrayal"): ["te-IN-Chirp3-HD-Charon",    "te-IN-Chirp3-HD-Callirrhoe", "te-IN-Chirp3-HD-Achird"],
+    ("panchatantra", "animal_wisdom"):       ["te-IN-Chirp3-HD-Charon",    "te-IN-Chirp3-HD-Achird",     "te-IN-Chirp3-HD-Leda"],
+    ("panchatantra", "clever_tricks"):       ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia",  "te-IN-Chirp3-HD-Charon"],
 
     # Ramayana — epic mature male dominant
     ("ramayana", "dharma_tales"):   ["te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Charon"],
     ("ramayana", "devotion_tales"): ["te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Autonoe"],
     ("ramayana", "courage_tales"):  ["te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Callirrhoe"],
 
-    # Tenali — witty, court-smart
-    ("tenali", "court_wit"):        ["te-IN-Chirp3-HD-Achird",  "te-IN-Chirp3-HD-Iapetus",   "te-IN-Chirp3-HD-Charon"],
-    ("tenali", "clever_schemes"):   ["te-IN-Chirp3-HD-Leda",    "te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Gacrux"],
-    ("tenali", "funny_adventures"): ["te-IN-Chirp3-HD-Iapetus", "te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Achird"],
+    # Bhagavatam — devotional epic; Krishna leela gets warm playful energy
+    ("bhagavatam", "krishna_leela"):   ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Callirrhoe"],
+    ("bhagavatam", "bhakta_stories"):  ["te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Gacrux",    "te-IN-Chirp3-HD-Leda"],
+    ("bhagavatam", "avatara_kathas"):  ["te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Charon"],
+
+    # Tenali — wit and comedy; never use Iapetus/Enceladus here
+    ("tenali", "court_wit"):        ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Charon",    "te-IN-Chirp3-HD-Laomedeia"],
+    ("tenali", "clever_schemes"):   ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Leda",      "te-IN-Chirp3-HD-Gacrux"],
+    ("tenali", "funny_adventures"): ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Callirrhoe","te-IN-Chirp3-HD-Achird"],
 
     # Birbal — similar to Tenali
-    ("birbal", "royal_dilemmas"):   ["te-IN-Chirp3-HD-Iapetus",   "te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Charon"],
-    ("birbal", "wisdom_tests"):     ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Iapetus"],
+    ("birbal", "royal_dilemmas"):   ["te-IN-Chirp3-HD-Charon",    "te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Iapetus"],
+    ("birbal", "wisdom_tests"):     ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Charon"],
     ("birbal", "witty_comebacks"):  ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Leda"],
 
     # Janapada — warm village voices
@@ -125,10 +130,10 @@ SUBCATEGORY_VOICE_POOL: dict[tuple, list] = {
     ("janapada", "hero_tales"):     ["te-IN-Chirp3-HD-Gacrux",    "te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Leda"],
     ("janapada", "magical_tales"):  ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Gacrux",    "te-IN-Chirp3-HD-Callirrhoe"],
 
-    # Podupu — playful, riddle energy
-    ("podupu", "nature_riddles"):   ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Leda",   "te-IN-Chirp3-HD-Achird"],
+    # Podupu — playful riddle energy; never use slow voices as first pick
+    ("podupu", "nature_riddles"):   ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Leda",      "te-IN-Chirp3-HD-Achird"],
     ("podupu", "royal_riddles"):    ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Leda"],
-    ("podupu", "clever_escapes"):   ["te-IN-Chirp3-HD-Iapetus",   "te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Charon"],
+    ("podupu", "clever_escapes"):   ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Charon"],
 
     # Samethalu — sage narration
     ("samethalu", "life_wisdom"):   ["te-IN-Chirp3-HD-Iapetus", "te-IN-Chirp3-HD-Autonoe", "te-IN-Chirp3-HD-Charon"],

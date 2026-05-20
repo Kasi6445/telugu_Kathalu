@@ -24,6 +24,26 @@ logger = logging.getLogger(__name__)
 GEMINI_TTS_MODEL = "gemini-2.5-flash-preview-tts"
 _SAMPLE_RATE = 24000   # Hz — Gemini TTS PCM output rate
 
+# Repetition detection: Telugu natural narration is ~18 chars/sec at 128kbps.
+# If audio is >1.75x the expected duration, the model likely repeated content.
+_TELUGU_CHARS_PER_SEC = 18.0
+_MAX_DURATION_RATIO   = 1.75
+_MP3_BYTES_PER_SEC    = 128 * 1024 / 8  # 128 kbps → 16 000 bytes/s
+
+
+def _audio_ok(path: Path, text: str) -> bool:
+    """Return False if audio is suspiciously long — likely repeated content."""
+    expected_secs = len(text) / _TELUGU_CHARS_PER_SEC
+    actual_secs   = path.stat().st_size / _MP3_BYTES_PER_SEC
+    if actual_secs > expected_secs * _MAX_DURATION_RATIO:
+        logger.warning(
+            f"Audio sanity FAIL {path.name}: "
+            f"expected ~{expected_secs:.0f}s, got ~{actual_secs:.0f}s "
+            f"({actual_secs/expected_secs:.2f}x) — possible repetition, will retry"
+        )
+        return False
+    return True
+
 
 # ── Voice style map ───────────────────────────────────────────────────────────
 
@@ -218,11 +238,16 @@ def _synthesize_scene_file(text: str, voice_name: str, output_path: Path,
                             scene_num: int, total_scenes: int,
                             scene_context: str = "") -> bool:
     """Inner per-scene synthesiser: Gemini TTS → Cloud TTS fallback."""
-    for attempt in range(1, 3):
+    for attempt in range(1, 4):  # up to 3 attempts (extra one for sanity-check retry)
         try:
             prompt = _build_scene_prompt(text, voice_name, scene_num, total_scenes, scene_context)
             pcm    = _gemini_raw_pcm(prompt, voice_name)
             _pcm_to_mp3(pcm, output_path)
+
+            if not _audio_ok(output_path, text):
+                output_path.unlink(missing_ok=True)
+                raise RuntimeError("Audio sanity check failed — repeated content detected")
+
             kb = output_path.stat().st_size / 1024
             logger.info(f"[TTS] Scene {scene_num}/{total_scenes}: {output_path.name} ({kb:.1f} KB)")
             return True
@@ -231,8 +256,8 @@ def _synthesize_scene_file(text: str, voice_name: str, output_path: Path,
             logger.warning(f"Gemini TTS skipped (missing dependency): {e}")
             break
         except Exception as exc:
-            logger.warning(f"Gemini TTS attempt {attempt}/2 failed: {exc}")
-            if attempt == 1:
+            logger.warning(f"Gemini TTS attempt {attempt}/3 failed: {exc}")
+            if attempt < 3:
                 time.sleep(3)
 
     return _cloud_tts_synthesize(text, voice_name, output_path)
