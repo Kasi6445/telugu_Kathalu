@@ -1,6 +1,40 @@
 {
   "stories": [
     {
+      "id": "20260520_192624",
+      "slug": "jnjaanapu-velugu-baata",
+      "title": "జ్ఞానపు వెలుగు బాట",
+      "moral": "పిల్లలూ, చదువు మన జీవితానికి ఒక గొప్ప వెలుగు. అది మన దారిని స్పష్టంగా చూపిస్తుంది.",
+      "thumbnail": "stories/20260520_192624/images/scene1.jpg",
+      "date": "2026-05-20",
+      "category": "samethalu",
+      "subcategory": "life_wisdom",
+      "topic": "చదువు వెలుగు అనే సామెత కథ",
+      "voice": "te-IN-Chirp3-HD-Iapetus",
+      "schema_version": 2,
+      "title_en": "The Path of Knowledge's Light",
+      "moral_en": "Children, education is a great light for our lives. It clearly shows us our path.",
+      "title_te_en": "Jnyaanapu Velugu Baata",
+      "moral_te_en": "Pillalu, Chaduvu Mana Jivitaaniki Oka Goppa Velugu. Adi Mana Daarini Spashtangaa Chupistundi."
+    },
+    {
+      "id": "20260520_162717",
+      "slug": "tenaali-raamakrushnudi-chaturata",
+      "title": "తెనాలి రామకృష్ణుడి చతురత",
+      "moral": "నిజమైన తెలివి వినయంతోనే మెరుస్తుంది, గొప్ప మాటలతో కాదు.",
+      "thumbnail": "stories/20260520_162717/images/scene1.jpg",
+      "date": "2026-05-20",
+      "category": "tenali",
+      "subcategory": "funny_adventures",
+      "topic": "తెనాలి రాముడు మరియు నకిలీ పండితుడు",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "Tenali Ramakrishna's Cleverness",
+      "moral_en": "True cleverness shines with humility, not with big words.",
+      "title_te_en": "Tenaali Raamakrrishnudi Chaturata",
+      "moral_te_en": "Nijamaina Telivi Vinayantone Merustundi, Goppa Maatalato Kaadu."
+    },
+    {
       "id": "20260520_122819",
       "slug": "kolla-raakshasudu-telivaina-raaju",
       "title": "కొల్ల రాక్షసుడు – తెలివైన రాజు",
