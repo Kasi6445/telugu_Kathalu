@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260520_091027",
+      "slug": "satyavratudu-cheepa-cheesina-adbhutam",
+      "title": "సత్యవ్రతుడు – చేప చేసిన అద్భుతం",
+      "moral": "కష్టకాలంలో కూడా, భక్తితో, ధర్మంతో ఉంటే దైవం తప్పక కాపాడుతుంది.",
+      "thumbnail": "stories/20260520_091027/images/scene1.jpg",
+      "date": "2026-05-20",
+      "category": "bhagavatam",
+      "subcategory": "avatara_kathas",
+      "topic": "మత్స్య అవతారం - ప్రళయంలో వేదాల రక్షణ",
+      "voice": "te-IN-Chirp3-HD-Enceladus",
+      "schema_version": 2,
+      "title_en": "Satyavrata – The Miracle of the Fish",
+      "moral_en": "Even in difficult times, if you are devoted and righteous, God will surely protect you.",
+      "title_te_en": "Satyavratudu – Chepa Chesina Adbhutam",
+      "moral_te_en": "Kashtakaalanlo Kudaa, Bhaktito, Dharmanto Unte Daivam Tappaka Kaapaadutundi."
+    },
+    {
       "id": "20260520_080425",
       "slug": "kammani-meppu-cheedu-gunapaatham",
       "title": "కమ్మని మెప్పు, చేదు గుణపాఠం",
