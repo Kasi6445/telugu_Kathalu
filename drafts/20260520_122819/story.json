@@ -1,0 +1,90 @@
+{
+  "title": "కొల్ల రాక్షసుడు – తెలివైన రాజు",
+  "moral": "పిల్లలూ, మనం అందరం కలిసి ఆలోచిస్తే, ఎంత పెద్ద సమస్యనైనా తేలికగా పరిష్కరించవచ్చు.",
+  "main_character": "Raju is a clever and observant young boy, about 9 years old, with a lean build and quick, curious eyes. He wears a simple, faded cotton dhoti and shirt. Always the same character across every scene.",
+  "antagonist": "The Kolla Rakshasudu is a towering, fearsome demon with dark grey skin, sharp teeth, and glowing red eyes. He is clad in tattered, dark clothes and wields a large, gnarled wooden club. Always the same character across every scene.",
+  "setting": "The story unfolds in Palleturu, a small, traditional Telugu village characterized by mud-brick houses with thatched roofs and a large central banyan tree. A gentle river flows nearby, flanked by lush green paddy fields. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అప్పుడు, మన పల్లెటూరులో — ఎప్పుడూ ప్రశాంతంగా ఉండేది. రాజు అనే తొమ్మిదేళ్ల కుర్రాడు — సన్నగా, చురుకైన కళ్లతో, ఒకరోజు బావి దగ్గర కూర్చున్నాడు. ఆడవాళ్లు నీళ్లు తోడుతుంటే, పిల్లలు ఆడుతుంటే — అన్నీ గమనిస్తున్నాడు. బావి చక్రం కిర్రుమంటూ తిరుగుతోంది, నీళ్లు బుడబుడా శబ్దంతో కుండల్లో పడుతున్నాయి. 'అమ్మా, ఈ బావిలో నీళ్లు ఎప్పుడూ ఎందుకు చల్లగా ఉంటాయి?' అని అడిగాడు. ఎంత గొప్ప రోజు కదా, మరి ఈరోజు ఇంకేం చూస్తాడో?",
+      "image_prompt": "The boy sits by the well, attentively watching the women draw water and children play. The well's wheel creaks as it turns, and water gurgles into pots. Bright morning sun, warm golden light filtering through the leaves of a nearby mango tree, casting soft, dappled shadows.",
+      "scene_visual": "The boy sits by the well, attentively watching the women draw water and children play. The well's wheel creaks as it turns, and water gurgles into pots.",
+      "text_te_en": "Appudu, Mana Palleturulo — Eppudu Prashaantangaa Undedi. Raaju Ane Tommidella Kurraadu — Sannagaa, Churukaina Kallato, Okaroju Baavi Daggara Kurchunnaadu. Aadavaallu Nillu Todutunte, Pillalu Aadutunte — Anni Gamanistunnaadu. Baavi Chakram Kirrumantu Tirugutondi, Nillu Budabudaa Shabdanto Kundallo Padutunnaayi. 'Ammaa, I Baavilo Nillu Eppudu Enduku Challagaa Untaayi?' Ani Adigaadu. Enta Goppa Roju Kadaa, Mari Iroju Inkem Chustaado?",
+      "text_en": "Back then, our village was always peaceful. A nine-year-old boy named Raju – thin, with bright, quick eyes – was sitting by the well one day. He watched everything: women drawing water, children playing. The well's wheel creaked as it turned, and water gurgled into the pots. 'Mom, why is the water in this well always so cold?' he asked. What a wonderful day it was, but what else would he see today?"
+    },
+    {
+      "id": 2,
+      "text": "ఆ రోజు సాయంత్రం, రాజు మామిడి చెట్టు కింద నుండి వెళ్తున్నాడు. ముసలివాళ్ళు గుసగుసలాడుతున్నారు — వారి మాటలు రాజు చెవిన పడ్డాయి. వారి గొంతుల్లో భయం, ఆందోళన స్పష్టంగా వినిపించాయి. చెట్టు ఆకులు గలగల మంటున్నాయి, గాలి మెల్లగా వీస్తోంది. 'ఏదో అరిష్టం జరగబోతోంది, మన గ్రామస్తులందరికీ కష్టాలు తప్పవు' అని ఒక పెద్దాయన నిట్టూర్చాడు. ఈ ప్రశాంతమైన పల్లెలో — ఇంత భయంకరమైన విషయాలు ఎందుకు జరుగుతున్నాయి?",
+      "image_prompt": "The boy walks under a mango tree, his ears catching the hushed, fearful whispers of old people. The leaves of the tree rustle gently as a soft breeze blows. Dappled sunlight filters through the dense canopy of the banyan tree, creating shifting patterns of light and shadow on the worried faces of the elders, a slightly tense atmosphere.",
+      "scene_visual": "The boy walks under a mango tree, his ears catching the hushed, fearful whispers of old people. The leaves of the tree rustle gently as a soft breeze blows.",
+      "text_te_en": "Aa Roju Saayantran, Raaju Maamidi Chettu Kinda Nundi Veltunnaadu. Musalivaallu Gusagusalaadutunnaaru — Vaari Maatalu Raaju Chevina Paddaayi. Vaari Gontullo Bhayan, Aandolana Spashtangaa Vinipinchaayi. Chettu Aakulu Galagala Mantunnaayi, Gaali Mellagaa Vistondi. 'Edo Arishtam Jaragabotondi, Mana Graamastulandariki Kashtaalu Tappavu' Ani Oka Peddaayana Nitturchaadu. I Prashaantamaina Pallelo — Inta Bhayankaramaina Vishayaalu Enduku Jarugutunnaayi?",
+      "text_en": "That evening, Raju was walking under a mango tree. Old people were whispering, and their words reached Raju's ears. Fear and worry were clear in their voices. The tree leaves rustled, and the wind blew gently. 'Something bad is going to happen, our villagers will surely face trouble,' an old man sighed. Why were such terrible things happening in this peaceful village?"
+    },
+    {
+      "id": 3,
+      "text": "అంతలో, భూమి దడదడలాడింది — పెద్ద అడుగుల శబ్దాలు వినిపించాయి. కొల్ల రాక్షసుడు వచ్చాడు! అది పొలాల గుండా నడుస్తూ, పంటను నాశనం చేస్తోంది. దాని భారీ అడుగులకు భూమి కంపించింది — గ్రామస్తులు భయంతో పరుగులు తీశారు. రాజు గడ్డివాము వెనుక దాక్కుని — వణుకుతూ చూస్తున్నాడు. 'అది... అది రాక్షసుడా! పారిపోండి!' అని ఒక ఆవిడ కేక వేసింది. ఇంత పెద్ద రాక్షసుడిని ఈ చిన్న గ్రామం ఎలా ఎదుర్కొంటుంది?",
+      "image_prompt": "A giant monster walks through the fields, its massive footsteps shaking the ground as villagers run in terror. The boy hides behind a haystack, trembling as he watches the creature. Also in this scene: The Kolla Rakshasudu is a towering, fearsome demon with dark grey skin, sharp teeth, and glowing red eyes. He is clad in tattered, dark clothes and wields a large, gnarled wooden club. Always the same character across every scene. Twilight, with deep blue shadows lengthening across the fields, creating a menacing and fearful atmosphere as the monster's silhouette looms large against the fading light.",
+      "scene_visual": "A giant monster walks through the fields, its massive footsteps shaking the ground as villagers run in terror. The boy hides behind a haystack, trembling as he watches the creature.",
+      "text_te_en": "Antalo, Bhumi Dadadadalaadindi — Pedda Adugula Shabdaalu Vinipinchaayi. Kolla Raakshasudu Vachchaadu! Adi Polaala Gundaa Nadustu, Pantanu Naashanam Chestondi. Daani Bhaari Adugulaku Bhumi Kampinchindi — Graamastulu Bhayanto Parugulu Tishaaru. Raaju Gaddivaamu Venuka Daakkuni — Vanukutu Chustunnaadu. 'Adi... Adi Raakshasudaa! Paaripondi!' Ani Oka Aavida Keka Vesindi. Inta Pedda Raakshasudini I Chinna Graamam Elaa Edurkontundi?",
+      "text_en": "Suddenly, the ground rumbled – and the sound of huge footsteps was heard. The Kolla Monster had arrived! It was walking through the fields, destroying the crops. The ground shook with its massive steps – and the villagers ran in fear. Raju hid behind a haystack, watching, trembling. 'It's... it's a monster! Run!' a woman screamed. How could this small village face such a huge monster?"
+    },
+    {
+      "id": 4,
+      "text": "గ్రామస్తులు రాక్షసుడిని తరిమేయడానికి ప్రయత్నించారు. కర్రలు, మంటలు పట్టుకుని దానిపైకి వెళ్లారు. కానీ ఆ రాక్షసుడు — వాళ్ళను చిన్న పురుగుల్లా తోసేశాడు. గడ్డి కాలుతున్న వాసన గట్టిగా వస్తోంది. వారి కేకలు మెల్లగా తగ్గిపోయాయి — నిస్సహాయంగా మారారు. రాజు దూరంగా నిలబడి ఆలోచిస్తున్నాడు. 'పారిపోండి! దానిని ఆపడం మనవల్ల కాదు!' అని ఒక పెద్దాయన అరిచాడు. మరి బలం, శబ్దం పని చేయకపోతే — ఆ రాక్షసుడిని ఎలా ఆపగలం?",
+      "image_prompt": "Villagers, holding sticks and torches, attempt to confront the monster but are easily pushed aside like small insects. The strong smell of burning hay fills the air as their cries slowly fade. Also in this scene: The Kolla Rakshasudu is a towering, fearsome demon with dark grey skin, sharp teeth, and glowing red eyes. He is clad in tattered, dark clothes and wields a large, gnarled wooden club. Always the same character across every scene. Flickering torchlight casts dancing shadows against the dark night sky, illuminating moments of chaos and fear, emphasizing the villagers' despair.",
+      "scene_visual": "Villagers, holding sticks and torches, attempt to confront the monster but are easily pushed aside like small insects. The strong smell of burning hay fills the air as their cries slowly fade.",
+      "text_te_en": "Graamastulu Raakshasudini Tarimeyadaaniki Prayatninchaaru. Karralu, Mantalu Pattukuni Daanipaiki Vellaaru. Kaani Aa Raakshasudu — Vaallanu Chinna Purugullaa Toseshaadu. Gaddi Kaalutunna Vaasana Gattigaa Vastondi. Vaari Kekalu Mellagaa Taggipoyaayi — Nissahaayangaa Maaraaru. Raaju Durangaa Nilabadi Aalochistunnaadu. 'Paaripondi! Daanini Aapadam Manavalla Kaadu!' Ani Oka Peddaayana Arichaadu. Mari Balan, Shabdam Pani Cheyakapote — Aa Raakshasudini Elaa Aapagalan?",
+      "text_en": "The villagers tried to chase the monster away. They went towards it with sticks and torches. But the monster pushed them aside like tiny insects. The smell of burning hay was strong. Their shouts slowly faded – they became helpless. Raju stood far away, thinking. 'Run! We can't stop it!' an old man yelled. If strength and noise didn't work – how could they stop the monster?"
+    },
+    {
+      "id": 5,
+      "text": "రాజు మనసులో ఒక ఆలోచన మెరిసింది. రాక్షసుడి అస్తవ్యస్తమైన కదలికలు, దానికి తీపి అంటే ఇష్టం — ఇవన్నీ గుర్తుకొచ్చాయి. అతను మట్టిలో ఒక ప్లాన్ గీసాడు. చల్లని మట్టి అతని వేలికి తగిలింది — ప్లాన్ స్పష్టంగా కనిపిస్తోంది. 'నాకు ఒక ఆలోచన వచ్చింది! మనం కలిసి చేస్తే, అది కచ్చితంగా పని చేస్తుంది!' అని రాజు ధైర్యంగా చెప్పాడు. పిల్లలూ, ఇంత చిన్న కుర్రాడి మాటలు గ్రామస్తులు నమ్ముతారా?",
+      "image_prompt": "The boy kneels and draws a plan in the dirt with his finger. Cool soil adheres to his fingertip as the plan becomes clear on the ground. Soft pre-dawn light, cool blues and greys, creating a quiet and thoughtful atmosphere as Raju meticulously plans, hinting at a new beginning.",
+      "scene_visual": "The boy kneels and draws a plan in the dirt with his finger. Cool soil adheres to his fingertip as the plan becomes clear on the ground.",
+      "text_te_en": "Raaju Manasulo Oka Aalochana Merisindi. Raakshasudi Astavyastamaina Kadalikalu, Daaniki Tipi Ante Ishtam — Ivanni Gurtukochchaayi. Atanu Mattilo Oka Plaan Gisaadu. Challani Matti Atani Veliki Tagilindi — Plaan Spashtangaa Kanipistondi. 'Naaku Oka Aalochana Vachchindi! Manam Kalisi Cheste, Adi Kachchitangaa Pani Chestundi!' Ani Raaju Dhairyangaa Cheppaadu. Pillalu, Inta Chinna Kurraadi Maatalu Graamastulu Nammutaaraa?",
+      "text_en": "A thought sparked in Raju's mind. He remembered the monster's clumsy movements and its love for sweets. He drew a plan in the dirt. The cool dirt touched his finger – the plan was clear. 'I have an idea! If we work together, it will definitely work!' Raju said bravely. Children, would the villagers believe such a small boy?"
+    },
+    {
+      "id": 6,
+      "text": "గ్రామస్తులు రాజు మాట విన్నారు — అందరూ కలిసి పని చేయడానికి సిద్ధమయ్యారు. రాక్షసుడిని ఆకర్షించడానికి బెల్లం దారి పొడవునా వేశారు. బెల్లం తియ్యని వాసన అడవంతా నిండిపోయింది — రాక్షసుడు అటుగా వచ్చాడు. రాజు ధైర్యంగా అందరినీ నడిపించాడు. 'ఇప్పుడు, అందరూ కలిసి నెట్టండి! వేగంగా!' అని రాజు అరిచాడు. భారీ రాక్షసుడు గుంతలో పడ్డాడు — మరి ఇప్పుడు గ్రామానికి శాంతి వస్తుందా?",
+      "image_prompt": "The monster, attracted by the sweet smell, walks along a path of jaggery and tumbles into a large pit. The boy bravely leads the villagers, shouting instructions as they push the creature. Also in this scene: The Kolla Rakshasudu is a towering, fearsome demon with dark grey skin, sharp teeth, and glowing red eyes. He is clad in tattered, dark clothes and wields a large, gnarled wooden club. Always the same character across every scene. Harsh midday sun, bright and clear, highlighting the intense action and the determined, sweaty faces of the villagers as they work together.",
+      "scene_visual": "The monster, attracted by the sweet smell, walks along a path of jaggery and tumbles into a large pit. The boy bravely leads the villagers, shouting instructions as they push the creature.",
+      "text_te_en": "Graamastulu Raaju Maata Vinnaaru — Andaru Kalisi Pani Cheyadaaniki Siddhamayyaaru. Raakshasudini Aakarshinchadaaniki Bellam Daari Podavunaa Veshaaru. Bellam Tiyyani Vaasana Adavantaa Nindipoyindi — Raakshasudu Atugaa Vachchaadu. Raaju Dhairyangaa Andarini Nadipinchaadu. 'Ippudu, Andaru Kalisi Nettandi! Vegangaa!' Ani Raaju Arichaadu. Bhaari Raakshasudu Guntalo Paddaadu — Mari Ippudu Graamaaniki Shaanti Vastundaa?",
+      "text_en": "The villagers listened to Raju – and everyone got ready to work together. To attract the monster, they spread jaggery all along a path. The sweet smell of jaggery filled the forest – and the monster came that way. Raju bravely led everyone. 'Now, everyone push together! Quickly!' Raju shouted. The huge monster fell into a pit – but would peace now come to the village?"
+    },
+    {
+      "id": 7,
+      "text": "కొల్ల రాక్షసుడు గుంతలో పడ్డాడు — అవమానంతో విలవిలలాడాడు. అది పైకి రావడానికి చాలా ప్రయత్నించింది, కానీ కుదరలేదు. చివరకు, అది భయంతో గ్రామం వదిలి పారిపోయింది — మళ్లీ తిరిగి రాలేదు. గ్రామస్తులు ఆనందంతో కేకలు వేశారు. 'మన రాజుకు జై! మన గ్రామానికి జై!' అని అందరూ నినాదాలు చేశారు. రాజు ముఖంలో గర్వం, ఆనందం — వెలుగులు విరజిమ్మాయి. అందరూ కలిసి పని చేస్తే ఎంత పెద్ద కష్టమైనా తీరుతుంది కదా పిల్లలూ?",
+      "image_prompt": "The monster struggles to climb out of the pit, then turns and flees from the village in fear. The boy's face glows with pride and joy as the villagers cheer his name. Warm late afternoon sun, casting long, golden rays across the village square, illuminating the smiling, celebratory faces of the villagers, creating a peaceful and triumphant atmosphere.",
+      "scene_visual": "The monster struggles to climb out of the pit, then turns and flees from the village in fear. The boy's face glows with pride and joy as the villagers cheer his name.",
+      "text_te_en": "Kolla Raakshasudu Guntalo Paddaadu — Avamaananto Vilavilalaadaadu. Adi Paiki Raavadaaniki Chaalaa Prayatninchindi, Kaani Kudaraledu. Chivaraku, Adi Bhayanto Graamam Vadili Paaripoyindi — Malli Tirigi Raaledu. Graamastulu Aanandanto Kekalu Veshaaru. 'Mana Raajuku Jai! Mana Graamaaniki Jai!' Ani Andaru Ninaadaalu Cheshaaru. Raaju Mukhanlo Garvan, Aanandam — Velugulu Virajimmaayi. Andaru Kalisi Pani Cheste Enta Pedda Kashtamainaa Tirutundi Kadaa Pillalu?",
+      "text_en": "The Kolla Monster fell into the pit – and thrashed around in shame. It tried hard to get out, but it couldn't. Finally, it ran away from the village in fear – and never returned. The villagers cheered with joy. 'Hail to our Raju! Hail to our village!' everyone chanted. Pride and joy shone on Raju's face. Children, isn't it true that if everyone works together, even the biggest troubles can be overcome?"
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.0,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 4,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.0,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story shines with its authentic oral warmth and exceptional child engagement, making it highly suitable for a grandparent's storytelling. The narrative arc is compelling and well-paced, leading to a satisfying resolution. The single most important fix to elevate this to an award-winning piece is to deepen the emotional portrayal; currently, emotions are mostly stated rather than shown through character actions, body language, or internal thoughts. Enhancing dialogue richness with more distinct character voices would also significantly improve the story."
+  },
+  "title_te_en": "Kolla Raakshasudu – Telivaina Raaju",
+  "moral_te_en": "Pillalu, Manam Andaram Kalisi Aalochiste, Enta Pedda Samasyanainaa Telikagaa Parishkarinchavachchu.",
+  "title_en": "The Kolla Monster – The Clever Raju",
+  "moral_en": "Children, if we all think together, we can easily solve even the biggest problems.",
+  "id": "20260520_122819",
+  "date": "2026-05-20",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "తెలుగు జానపద కథ - కొల్ల రాక్షసుడు మరియు గ్రామస్తులు",
+  "thumbnail": "stories/20260520_122819/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
