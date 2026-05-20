@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260520_122819",
+      "slug": "kolla-raakshasudu-telivaina-raaju",
+      "title": "కొల్ల రాక్షసుడు – తెలివైన రాజు",
+      "moral": "పిల్లలూ, మనం అందరం కలిసి ఆలోచిస్తే, ఎంత పెద్ద సమస్యనైనా తేలికగా పరిష్కరించవచ్చు.",
+      "thumbnail": "stories/20260520_122819/images/scene1.jpg",
+      "date": "2026-05-20",
+      "category": "janapada",
+      "subcategory": "village_tales",
+      "topic": "తెలుగు జానపద కథ - కొల్ల రాక్షసుడు మరియు గ్రామస్తులు",
+      "voice": "te-IN-Chirp3-HD-Gacrux",
+      "schema_version": 2,
+      "title_en": "The Kolla Monster – The Clever Raju",
+      "moral_en": "Children, if we all think together, we can easily solve even the biggest problems.",
+      "title_te_en": "Kolla Raakshasudu – Telivaina Raaju",
+      "moral_te_en": "Pillalu, Manam Andaram Kalisi Aalochiste, Enta Pedda Samasyanainaa Telikagaa Parishkarinchavachchu."
+    },
+    {
       "id": "20260520_091027",
       "slug": "satyavratudu-cheepa-cheesina-adbhutam",
       "title": "సత్యవ్రతుడు – చేప చేసిన అద్భుతం",
