@@ -24,22 +24,45 @@ logger = logging.getLogger(__name__)
 GEMINI_TTS_MODEL = "gemini-2.5-flash-preview-tts"
 _SAMPLE_RATE = 24000   # Hz — Gemini TTS PCM output rate
 
-# Repetition detection: Telugu natural narration is ~18 chars/sec at 128kbps.
-# If audio is >1.75x the expected duration, the model likely repeated content.
-_TELUGU_CHARS_PER_SEC = 18.0
-_MAX_DURATION_RATIO   = 1.75
-_MP3_BYTES_PER_SEC    = 128 * 1024 / 8  # 128 kbps → 16 000 bytes/s
+# Per-voice speech rate calibration (Telugu chars per second at natural narration pace).
+# Slower voices (Enceladus, Iapetus, Charon) produce longer audio per character.
+_VOICE_CHARS_PER_SEC: dict[str, float] = {
+    "Achird":     20.0,
+    "Laomedeia":  19.0,
+    "Callirrhoe": 18.0,
+    "Iapetus":    18.0,
+    "Leda":       17.0,
+    "Gacrux":     16.0,
+    "Autonoe":    16.0,
+    "Fenrir":     15.0,
+    "Charon":     14.0,
+    "Enceladus":  11.0,
+}
+_DEFAULT_CHARS_PER_SEC = 16.0
+_MIN_DURATION_RATIO    = 0.50   # < 50% of expected → TTS truncated the text
+_MAX_DURATION_RATIO    = 1.75   # > 175% of expected → TTS repeated content
+_MP3_BYTES_PER_SEC     = 128 * 1024 / 8  # 128 kbps → 16 000 bytes/s
 
 
-def _audio_ok(path: Path, text: str) -> bool:
-    """Return False if audio is suspiciously long — likely repeated content."""
-    expected_secs = len(text) / _TELUGU_CHARS_PER_SEC
+def _audio_ok(path: Path, text: str, voice_name: str = "") -> bool:
+    """Return False if audio is truncated (too short) or has repeated content (too long)."""
+    short         = voice_name.split("-")[-1] if voice_name else ""
+    chars_per_sec = _VOICE_CHARS_PER_SEC.get(short, _DEFAULT_CHARS_PER_SEC)
+    expected_secs = len(text) / chars_per_sec
     actual_secs   = path.stat().st_size / _MP3_BYTES_PER_SEC
+
+    if actual_secs < expected_secs * _MIN_DURATION_RATIO:
+        logger.warning(
+            f"Audio sanity FAIL {path.name}: truncated — "
+            f"expected ~{expected_secs:.0f}s, got ~{actual_secs:.0f}s "
+            f"({actual_secs/expected_secs:.2f}x) — will retry"
+        )
+        return False
     if actual_secs > expected_secs * _MAX_DURATION_RATIO:
         logger.warning(
-            f"Audio sanity FAIL {path.name}: "
+            f"Audio sanity FAIL {path.name}: repeated content — "
             f"expected ~{expected_secs:.0f}s, got ~{actual_secs:.0f}s "
-            f"({actual_secs/expected_secs:.2f}x) — possible repetition, will retry"
+            f"({actual_secs/expected_secs:.2f}x) — will retry"
         )
         return False
     return True
@@ -72,64 +95,58 @@ def _extract_voice_short(voice_name: str) -> str:
 def _build_scene_prompt(text: str, voice_name: str,
                         scene_num: int = 1, total_scenes: int = 1,
                         scene_context: str = "") -> str:
-    """Per-scene prompt with voice anchor, emotional context, and natural pacing guidance."""
+    """Per-scene TTS prompt engineered for natural, human-like Telugu narration."""
     short = _extract_voice_short(voice_name)
     style = _VOICE_STYLE.get(short, _DEFAULT_STYLE)
 
-    # Emotional tone — affects warmth/energy ONLY, never overall pace
-    context_line = ""
+    mood_line = ""
     if scene_context:
-        context_line = (
-            f"SCENE MOOD: {scene_context}\n"
-            f"Adjust your TONE and WARMTH for this mood — do NOT change your overall pace:\n"
-            f"  • Tense / sad → voice becomes quieter, more tender; keep forward momentum\n"
-            f"  • Joyful / triumphant → brighter energy, more lift and warmth in the voice\n"
-            f"  • Wonder / suspense → softer and more intimate; lean gently into key words\n"
-            f"  • Battle / urgent → controlled forward energy — steady, clear, never rushed\n"
-            f"  • Devotional / reverent → soft, flowing, sacred — smooth and connected\n\n"
+        mood_line = (
+            f"Mood of this scene: {scene_context}\n"
+            f"Adjust only your TONE — quieter and tender for sad/tense, "
+            f"brighter and lifted for joyful, softer and intimate for wonder. "
+            f"Never change your pace for mood.\n\n"
         )
 
     return (
-        f"You are {style}. Your task: read the Telugu story text below — "
-        f"EXACTLY AS WRITTEN — for a children's audiobook scene "
-        f"({scene_num} of {total_scenes}).\n\n"
+        f"You are {style}, telling a Telugu story to a 6-year-old child "
+        f"sitting right in front of you.\n\n"
 
-        f"READ ONCE AND STOP — CRITICAL:\n"
-        f"Read every line of the story text exactly once, in order, word for word. "
-        f"Do NOT repeat any sentence, phrase, or word. "
-        f"Do NOT paraphrase, summarize, or add any words not in the text. "
-        f"When the last line of the text ends, stop immediately. "
-        f"Any repetition is a hard failure.\n\n"
+        f"You are already mid-story. You have been speaking warmly for the past minute. "
+        f"Continue from the very first word below with full warmth, full character, "
+        f"full engagement — as if you have never stopped. "
+        f"There is no 'starting', no 'beginning a recording', no announcement. "
+        f"Just story, flowing naturally from the first syllable.\n\n"
 
-        f"{context_line}"
+        f"{mood_line}"
 
-        f"DELIVERY — speak like a real Telugu grandmother:\n"
-        f"Connected, phrase-by-phrase, warm and conversational. "
-        f"Flow continuously — no word-by-word reading, no long gaps between sentences. "
-        f"Natural energy that keeps a child leaning in. Not fast, not slow, not flat.\n\n"
+        f"PACE: Medium and conversational — the pace of a grandmother who knows "
+        f"this story by heart and loves telling it. Not reading aloud. Not dictating. "
+        f"Speaking. The child's eyes should stay wide open with interest.\n\n"
 
-        f"STRESS — Telugu phrase-level only:\n"
-        f"In natural Telugu speech, stress lands on the KEY VERB or the final content word "
-        f"of a phrase — and nowhere else. Rules:\n"
-        f"  • At most ONE gently stressed word per sentence\n"
-        f"  • Connectives (మరియు, కానీ, అయితే...), particles, postpositions → ZERO stress\n"
-        f"  • Helper verbs (ఉంది, అంది, వెళ్ళాడు...) → ZERO stress\n"
-        f"  • Stress = a slight rise in pitch + warmth, NOT a loud punch or hammer\n"
-        f"  • Default: if uncertain, stress NOTHING — flat natural flow is always better "
-        f"than over-emphasis\n\n"
+        f"FLOW — no gaps between words:\n"
+        f"Words within a phrase connect seamlessly — there is zero pause between "
+        f"individual words. The only breathing happens at punctuation marks:\n"
+        f"  , comma → barely perceptible breath, keep moving\n"
+        f"  — em-dash → one quick dramatic beat, then straight back into the flow\n"
+        f"  ... three dots → one short suspense breath, then continue\n"
+        f"  । or . sentence end → one short natural breath, then the next sentence starts warm\n"
+        f"  \"quoted dialogue\" → speak the character's words slightly warmer, "
+        f"return to narrator voice immediately after the closing quote\n\n"
 
-        f"PAUSES — only these, and only brief:\n"
-        f"  — (em-dash): one quick breath, continue immediately\n"
-        f"  ... (three dots): one short suspense beat, then move on\n"
-        f"  । or . (sentence end): one natural breath, then continue with energy\n"
-        f"  , (comma): lightest possible break, keep rhythm flowing\n"
-        f"  \"dialogue\": slightly warmer voice, return to narrator pace right after closing quote\n\n"
+        f"STRESS — one gentle highlight per sentence, no more:\n"
+        f"The most meaningful word in each sentence gets a slight rise in pitch. "
+        f"All other words — connectives, particles, helper verbs, everything else — "
+        f"carry equal natural weight, zero special stress. "
+        f"If unsure, stress nothing. Flat natural flow beats over-emphasis every time.\n\n"
 
-        f"VOICE CONSISTENCY: Same pitch, character, and warmth across all "
-        f"{total_scenes} scenes.\n\n"
+        f"CONSISTENCY: Same warmth, same pitch, same character from scene 1 to "
+        f"scene {total_scenes}. This is scene {scene_num}.\n\n"
 
-        f"═══ TELUGU STORY TEXT — READ THIS EXACTLY ONCE ═══\n\n{text}\n\n"
-        f"═══ END OF TEXT — STOP HERE ═══"
+        f"Read the text below exactly once, word for word, and stop the moment it ends. "
+        f"Do not repeat, paraphrase, or add anything.\n\n"
+
+        f"{text}"
     )
 
 
@@ -244,9 +261,9 @@ def _synthesize_scene_file(text: str, voice_name: str, output_path: Path,
             pcm    = _gemini_raw_pcm(prompt, voice_name)
             _pcm_to_mp3(pcm, output_path)
 
-            if not _audio_ok(output_path, text):
+            if not _audio_ok(output_path, text, voice_name):
                 output_path.unlink(missing_ok=True)
-                raise RuntimeError("Audio sanity check failed — repeated content detected")
+                raise RuntimeError("Audio sanity check failed — truncated or repeated content")
 
             kb = output_path.stat().st_size / 1024
             logger.info(f"[TTS] Scene {scene_num}/{total_scenes}: {output_path.name} ({kb:.1f} KB)")
