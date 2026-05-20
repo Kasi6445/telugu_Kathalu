@@ -644,15 +644,18 @@ body.slideshow-mode {
   font-weight: 400;
   line-height: 1.68;
   color: white;
-  background: rgba(0, 0, 0, 0.68);
+  background: transparent;
   display: block;
   padding: 8px 16px;
   border-radius: 5px;
   max-height: 4.2em;
-  overflow-y: hidden;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  scroll-behavior: smooth;
   text-align: left;
   transition: opacity 0.3s ease;
 }
+#slide-text::-webkit-scrollbar { display: none; }
 
 /* ── Karaoke word highlighting ── */
 .word-span {
@@ -1056,7 +1059,7 @@ body.slideshow-mode {
 
 /* ── MOBILE ── */
 @media (max-width: 480px) {
-  #subtitle-box   { bottom: 66px; width: 95%; }
+  #subtitle-box   { bottom: 66px; }
   #slide-text     { font-size: 0.86rem; max-height: 3.4em; padding: 7px 12px; }
   #slide-story-title { font-size: 0.56rem; }
   #controls-bar   { padding: 0 12px; padding-bottom: max(12px, env(safe-area-inset-bottom)); }
