@@ -62,7 +62,7 @@
       "text_en": "As soon as the piece of bread fell, the Fox took a single leap. It snatched the bread in its mouth and said, 'Thank you, beautiful Crow!' Without wasting a moment, it started running, its footsteps making soft 'khus khus' sounds on the dry ground. Far away, the sound of the Fox's footsteps slowly faded. The Crow bowed its head, its wings drooping slightly. Its hunger was not satisfied. It learned a wise lesson then, didn't it?"
     }
   ],
-  "voice": "te-IN-Chirp3-HD-Iapetus",
+  "voice": "te-IN-Chirp3-HD-Achird",
   "quality_score": 8.5,
   "quality_scores": {
     "grandmother_authenticity": 9,
@@ -84,7 +84,7 @@
   "category": "panchatantra",
   "subcategory": "clever_tricks",
   "topic": "పంచతంత్రం - కాకి మరియు నక్క",
-  "thumbnail": "stories/20260520_080425/images/scene1.png",
+  "thumbnail": "stories/20260520_080425/images/scene1.jpg",
   "schema_version": 2,
   "defaultSpeed": 1.1
 }

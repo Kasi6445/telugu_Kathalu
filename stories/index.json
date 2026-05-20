@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260520_080425",
+      "slug": "kammani-meppu-cheedu-gunapaatham",
+      "title": "కమ్మని మెప్పు, చేదు గుణపాఠం",
+      "moral": "పిల్లలూ, మనసు పెట్టి ఆలోచిస్తే, పొగడ్తలకు లొంగిపోకుండా ఉంటే, మన సొంతం మనం కాపాడుకోవచ్చు.",
+      "thumbnail": "stories/20260520_080425/images/scene1.jpg",
+      "date": "2026-05-20",
+      "category": "panchatantra",
+      "subcategory": "clever_tricks",
+      "topic": "పంచతంత్రం - కాకి మరియు నక్క",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "Sweet Praise, A Bitter Lesson",
+      "moral_en": "Children, if you think carefully and don't give in to flattery, you can protect what is yours.",
+      "title_te_en": "Kammani Meppu, Chedu Gunapaatham",
+      "moral_te_en": "Pillalu, Manasu Petti Aalochiste, Pogadtalaku Longipokundaa Unte, Mana Sontam Manam Kaapaadukovachchu."
+    },
+    {
       "id": "20260520_050753",
       "slug": "neestam-cheesina-moosam",
       "title": "నేస్తం చేసిన మోసం",
