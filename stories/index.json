@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260520_050753",
+      "slug": "neestam-cheesina-moosam",
+      "title": "నేస్తం చేసిన మోసం",
+      "moral": "మంచి మనసు ఉండాలి, కానీ స్నేహితులను ఎంపిక చేసుకునేటప్పుడు జాగ్రత్తగా ఉండాలి. నిజమైన స్నేహితులు ఎప్పుడూ నీ మంచి కోరుకుంటారు కదా!",
+      "thumbnail": "stories/20260520_050753/images/scene1.jpg",
+      "date": "2026-05-20",
+      "category": "panchatantra",
+      "subcategory": "friendship_betrayal",
+      "topic": "పంచతంత్రం - నేస్తం మరియు మోసం",
+      "voice": "te-IN-Chirp3-HD-Iapetus",
+      "schema_version": 2,
+      "title_en": "The Friend's Trick",
+      "moral_en": "It's good to have a kind heart, but be careful when choosing friends. True friends always want what's best for you, don't they!",
+      "title_te_en": "Nestam Chesina Mosam",
+      "moral_te_en": "Manchi Manasu Undaali, Kaani Snehitulanu Empika Chesukunetappudu Jaagrattagaa Undaali. Nijamaina Snehitulu Eppudu Ni Manchi Korukuntaaru Kadaa!"
+    },
+    {
       "id": "20260520_000631",
       "slug": "goovardhana-giridhaari-liila",
       "title": "గోవర్ధన గిరిధారి లీల",
