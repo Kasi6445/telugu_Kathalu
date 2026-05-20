@@ -70,35 +70,46 @@ def _build_scene_prompt(text: str, voice_name: str,
         )
 
     return (
-        f"You are {style}. Record this as a warm, natural Telugu audiobook scene "
-        f"({scene_num} of {total_scenes}) for children aged 5–8.\n\n"
+        f"You are {style}. Your task: read the Telugu story text below — "
+        f"EXACTLY AS WRITTEN — for a children's audiobook scene "
+        f"({scene_num} of {total_scenes}).\n\n"
+
+        f"READ ONCE AND STOP — CRITICAL:\n"
+        f"Read every line of the story text exactly once, in order, word for word. "
+        f"Do NOT repeat any sentence, phrase, or word. "
+        f"Do NOT paraphrase, summarize, or add any words not in the text. "
+        f"When the last line of the text ends, stop immediately. "
+        f"Any repetition is a hard failure.\n\n"
 
         f"{context_line}"
 
-        f"SPEAK LIKE A REAL PERSON — this is the most critical instruction:\n"
-        f"Speak the way a real grandmother actually talks to a child sitting in front of her — "
-        f"connected, phrase-by-phrase, with natural rhythm and warmth throughout. "
-        f"Your speech must flow continuously and conversationally. "
-        f"Do NOT speak word-by-word. Do NOT insert long silences or gaps between sentences. "
-        f"Keep the energy alive and forward-moving at all times.\n\n"
+        f"DELIVERY — speak like a real Telugu grandmother:\n"
+        f"Connected, phrase-by-phrase, warm and conversational. "
+        f"Flow continuously — no word-by-word reading, no long gaps between sentences. "
+        f"Natural energy that keeps a child leaning in. Not fast, not slow, not flat.\n\n"
 
-        f"PACE: Natural and lively — like genuine storytelling conversation. "
-        f"Not fast, not slow, not flat. A grandmother who loves this story "
-        f"speaks with real feeling and keeps the child leaning in. "
-        f"Flat or dragging delivery will lose the child's attention immediately.\n\n"
+        f"STRESS — Telugu phrase-level only:\n"
+        f"In natural Telugu speech, stress lands on the KEY VERB or the final content word "
+        f"of a phrase — and nowhere else. Rules:\n"
+        f"  • At most ONE gently stressed word per sentence\n"
+        f"  • Connectives (మరియు, కానీ, అయితే...), particles, postpositions → ZERO stress\n"
+        f"  • Helper verbs (ఉంది, అంది, వెళ్ళాడు...) → ZERO stress\n"
+        f"  • Stress = a slight rise in pitch + warmth, NOT a loud punch or hammer\n"
+        f"  • Default: if uncertain, stress NOTHING — flat natural flow is always better "
+        f"than over-emphasis\n\n"
 
-        f"PAUSES — brief and natural only:\n"
-        f"- Em-dash (—): one quick dramatic breath, then continue immediately\n"
-        f"- Three dots (...): one short beat of suspense — do not linger, then move on\n"
-        f"- Sentence end (। or .): one natural breath — short — then continue with energy\n"
-        f"- Comma (,): the lightest possible pause; keep the rhythm flowing\n"
-        f"- Quoted dialogue (\".....\"): slightly warmer voice for the character; "
-        f"return to narrator pace immediately after the closing quote\n\n"
+        f"PAUSES — only these, and only brief:\n"
+        f"  — (em-dash): one quick breath, continue immediately\n"
+        f"  ... (three dots): one short suspense beat, then move on\n"
+        f"  । or . (sentence end): one natural breath, then continue with energy\n"
+        f"  , (comma): lightest possible break, keep rhythm flowing\n"
+        f"  \"dialogue\": slightly warmer voice, return to narrator pace right after closing quote\n\n"
 
-        f"VOICE CONSISTENCY: Your pitch, character, and warmth are FIXED and identical "
-        f"across all {total_scenes} scenes in this story.\n\n"
+        f"VOICE CONSISTENCY: Same pitch, character, and warmth across all "
+        f"{total_scenes} scenes.\n\n"
 
-        f"Telugu story text:\n\n{text}"
+        f"═══ TELUGU STORY TEXT — READ THIS EXACTLY ONCE ═══\n\n{text}\n\n"
+        f"═══ END OF TEXT — STOP HERE ═══"
     )
 
 
