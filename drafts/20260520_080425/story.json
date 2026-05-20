@@ -1,0 +1,90 @@
+{
+  "title": "కమ్మని మెప్పు, చేదు గుణపాఠం",
+  "moral": "పిల్లలూ, మనసు పెట్టి ఆలోచిస్తే, పొగడ్తలకు లొంగిపోకుండా ఉంటే, మన సొంతం మనం కాపాడుకోవచ్చు.",
+  "main_character": "A small, black crow with shiny feathers and intelligent, watchful eyes. It is usually careful and resourceful but can be flattered. Always the same character across every scene.",
+  "antagonist": "A lean, reddish-brown fox with a bushy tail and sly, cunning eyes. It wears a tattered, faded green scarf around its neck. Always the same character across every scene.",
+  "setting": "A dry, rocky area near a small village in rural Telangana. The scene features a large, ancient Banyan tree, a few scattered thorny bushes, and a dusty path, under the bright morning sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకనాడు, మన కాకి, పొద్దు పొడుస్తూనే — ఆహారం కోసం వెతుకుతోంది. దాని కళ్ళు చురుకుగా నేలంతా గాలించాయి, అప్పుడు దానికి ఒక ముక్క కనిపించింది. ఇదిగో, ఇక్కడ ఒక రొట్టె ముక్క! నేల మీద పడి ఉంది — పొడిపొడిగా, చిన్నగా. దాని ముక్కుతో జాగ్రత్తగా తీసింది — ఆకలితో దాని కడుపు కేకలు వేస్తోంది. దాని రెక్కలు సంతోషంతో రెపరెపలాడాయి, \"అబ్బా! ఈరోజు ఆకలి తీరుతుంది!\" అని మనసులో అనుకుంది. కానీ, ఈ రొట్టెను ఎక్కడ కూర్చుని తింటే సురక్షితం...?",
+      "image_prompt": "The crow carefully picks up a small piece of bread from the ground with its beak. Its wings flutter with happiness as it secures the dry, crumbly morsel. Bright, clear morning light, casting sharp shadows under the sparse trees, indicating a new day and fresh start.",
+      "scene_visual": "The crow carefully picks up a small piece of bread from the ground with its beak. Its wings flutter with happiness as it secures the dry, crumbly morsel.",
+      "text_te_en": "Okanaadu, Mana Kaaki, Poddu Podustune — Aahaaram Kosam Vetukutondi. Daani Kallu Churukugaa Nelantaa Gaalinchaayi, Appudu Daaniki Oka Mukka Kanipinchindi. Idigo, Ikkada Oka Rotte Mukka! Nela Mida Padi Undi — Podipodigaa, Chinnagaa. Daani Mukkuto Jaagrattagaa Tisindi — Aakalito Daani Kadupu Kekalu Vestondi. Daani Rekkalu Santoshanto Reparepalaadaayi, \"Abbaa! Iroju Aakali Tirutundi!\" Ani Manasulo Anukundi. Kaani, I Rottenu Ekkada Kurchuni Tinte Surakshitan...?",
+      "text_en": "One day, as the sun rose, the Crow was searching for food. Its sharp eyes scanned the ground, and then it spotted something. 'Look! Here's a piece of bread!' it thought. It was lying on the ground, dry and small. With its beak, it carefully picked it up, for its stomach was rumbling with hunger. Its wings flapped with joy. 'Oh, my hunger will be satisfied today!' it thought to itself. But where would it be safe to sit and eat this bread...?"
+    },
+    {
+      "id": 2,
+      "text": "ఆ రొట్టె ముక్కను పట్టుకుని, కాకి అమాంతం పైకి ఎగిరింది. ఊరి చివర ఉన్న పెద్ద మర్రి చెట్టు కొమ్మ మీద — అది సురక్షితంగా కూర్చుంది. తలను పక్కకు వాల్చి, ఆ ముక్కను తినబోతుండగా, ఒక కదలిక కనిపించింది. కింద, ఆకుల సవ్వడి చేస్తూ, ఒక నక్క అటుగా వస్తోంది — దాని కళ్ళు మెరుస్తున్నాయి. నక్క పైకి చూసింది... అప్పుడే కాకి నోటిలో రొట్టె ముక్క. \"ఆహా! చక్కటి భోజనం!\" అని మనసులో అనుకుంది — ఇప్పుడు ఏం చేయాలి?",
+      "image_prompt": "The crow sits securely on a large banyan tree branch, holding the piece of bread in its mouth. It tilts its head to eat, just as a fox with gleaming eyes emerges from rustling leaves below. Also in this scene: A lean, reddish-brown fox with a bushy tail and sly, cunning eyes. It wears a tattered, faded green scarf around its neck. Always the same character across every scene. Warm, early morning sun filtering through the thick canopy of the Banyan tree, creating dappled light and shadow, highlighting the crow on the branch and the fox in the undergrowth.",
+      "scene_visual": "The crow sits securely on a large banyan tree branch, holding the piece of bread in its mouth. It tilts its head to eat, just as a fox with gleaming eyes emerges from rustling leaves below.",
+      "text_te_en": "Aa Rotte Mukkanu Pattukuni, Kaaki Amaantam Paiki Egirindi. Uri Chivara Unna Pedda Marri Chettu Komma Mida — Adi Surakshitangaa Kurchundi. Talanu Pakkaku Vaalchi, Aa Mukkanu Tinabotundagaa, Oka Kadalika Kanipinchindi. Kinda, Aakula Savvadi Chestu, Oka Nakka Atugaa Vastondi — Daani Kallu Merustunnaayi. Nakka Paiki Chusindi... Appude Kaaki Notilo Rotte Mukka. \"Aahaa! Chakkati Bhojanan!\" Ani Manasulo Anukundi — Ippudu Em Cheyaali?",
+      "text_en": "Holding the piece of bread, the Crow flew straight up. It settled safely on a branch of a big banyan tree at the edge of the village. As it tilted its head to the side, about to eat its meal, it noticed a movement. Below, rustling through the leaves, a Fox was approaching, its eyes gleaming. The Fox looked up... and there was the piece of bread, right in the Crow's mouth. 'Aha! A fine meal!' the Fox thought to itself. 'Now, what should I do?'"
+    },
+    {
+      "id": 3,
+      "text": "కాకిని చూసిన నక్క, మెల్లగా మర్రి చెట్టు కిందకు వచ్చింది. చెట్టు కొమ్మల నుండి పండిన అత్తి పండ్ల వాసన — గాలిలో గుప్పుమంది. నక్క మెల్లగా తల పైకెత్తి, కాకితో మాట్లాడసాగింది — \"ఓ అందమైన కాకి! నీ ఈకలు ఎంత మెరుస్తున్నాయో!\" \"నీ దర్జా చూడు — ఎంత గొప్పగా ఉన్నావో!\" అని పొగడసాగింది. మన కాకికి కాస్త వింతగా అనిపించినా — దాని గుండె ఉప్పొంగింది, ఛాతీ కొంచెం ముందుకు వచ్చింది. కానీ, పిల్లలూ, ఈ పొగడ్తలకు కాకి లొంగిపోతుందా...?",
+      "image_prompt": "The fox slowly raises its head towards the crow, praising its beautiful feathers and dignified posture. The crow's chest puffs out slightly, despite feeling a little strange about the compliments. Also in this scene: A lean, reddish-brown fox with a bushy tail and sly, cunning eyes. It wears a tattered, faded green scarf around its neck. Always the same character across every scene. The sun is higher now, casting a strong, focused beam on the crow on its branch, making its black feathers glint, while the fox is slightly in shadow at the base of the tree.",
+      "scene_visual": "The fox slowly raises its head towards the crow, praising its beautiful feathers and dignified posture. The crow's chest puffs out slightly, despite feeling a little strange about the compliments.",
+      "text_te_en": "Kaakini Chusina Nakka, Mellagaa Marri Chettu Kindaku Vachchindi. Chettu Kommala Nundi Pandina Atti Pandla Vaasana — Gaalilo Guppumandi. Nakka Mellagaa Tala Paiketti, Kaakito Maatlaadasaagindi — \"O Andamaina Kaaki! Ni Ikalu Enta Merustunnaayo!\" \"Ni Darjaa Chudu — Enta Goppagaa Unnaavo!\" Ani Pogadasaagindi. Mana Kaakiki Kaasta Vintagaa Anipinchinaa — Daani Gunde Uppongindi, Chaati Konchem Munduku Vachchindi. Kaani, Pillalu, I Pogadtalaku Kaaki Longipotundaa...?",
+      "text_en": "The Fox, seeing the Crow, slowly came under the banyan tree. The sweet smell of ripe figs from the tree branches filled the air. The Fox slowly lifted its head and began to speak to the Crow. 'Oh, beautiful Crow! How shiny your feathers are!' it praised. 'Look at your grace – how magnificent you look!' Even though our Crow felt a little strange, its heart swelled with pride, and its chest puffed out a little. But, children, would the Crow give in to this flattery...?"
+    },
+    {
+      "id": 4,
+      "text": "నక్క మాటలకు కాకికి గర్వం తలకెక్కింది — అది ఆనందంగా కొమ్మను గట్టిగా పట్టుకుంది. కానీ, దాని ముక్కులో రొట్టె ముక్కను — ఇంకా గట్టిగా నొక్కుకుంది. దాని కాలి గోళ్ళ కింద, ఆ మర్రి చెట్టు బెరడు — గరుకుగా, గట్టిగా ఉంది. ఒక్క క్షణం ఆలోచించింది... ఆకలి గుర్తుంది. మెల్లగా \"కవ్...\" అని చిన్నగా శబ్దం చేసింది — ప్రశ్నార్థకంగా. ఇంత జాగ్రత్తగా ఉన్న కాకిని, నక్క ఎలా దారి మళ్ళిస్తుంది?",
+      "image_prompt": "The crow, feeling proud, grips the rough, hard bark of the banyan tree branch tightly with its claws. It presses the bread piece even more firmly in its beak, letting out a small, questioning \"caw.\" Also in this scene: A lean, reddish-brown fox with a bushy tail and sly, cunning eyes. It wears a tattered, faded green scarf around its neck. Always the same character across every scene. A slightly brighter scene, but with a subtle tension in the light, perhaps a slight haze in the air, creating a sense of unease. The crow's eyes are clearly visible, showing its internal struggle.",
+      "scene_visual": "The crow, feeling proud, grips the rough, hard bark of the banyan tree branch tightly with its claws. It presses the bread piece even more firmly in its beak, letting out a small, questioning \"caw.\"",
+      "text_te_en": "Nakka Maatalaku Kaakiki Garvam Talakekkindi — Adi Aanandangaa Kommanu Gattigaa Pattukundi. Kaani, Daani Mukkulo Rotte Mukkanu — Inkaa Gattigaa Nokkukundi. Daani Kaali Golla Kinda, Aa Marri Chettu Beradu — Garukugaa, Gattigaa Undi. Okka Kshanam Aalochinchindi... Aakali Gurtundi. Mellagaa \"Kav...\" Ani Chinnagaa Shabdam Chesindi — Prashnaarthakangaa. Inta Jaagrattagaa Unna Kaakini, Nakka Elaa Daari Mallistundi?",
+      "text_en": "The Crow's head swelled with pride from the Fox's words. It happily held onto the branch tightly. But, it also held the piece of bread in its beak even tighter. Under its talons, the banyan tree bark felt rough and strong. It thought for a moment... remembering its hunger. It softly made a small 'Caw...' sound, as if asking a question. How would the Fox trick such a careful Crow?"
+    },
+    {
+      "id": 5,
+      "text": "కాకి సందేహంగా ఉండటం చూసి, నక్క తన ఉపాయం మార్చింది. మర్రి చెట్టు మొదలు వైపు, ఆకుల మీద చిన్న అడుగు వేసింది — \"ఖచ్\" మని శబ్దం. \"ఓ దేవకాకి! నీ కంఠం వినడానికి దేవతలు కూడా ఎదురు చూస్తారు! ఒక్కసారి పాడవా?\" అని వేడుకుంది. కాకి కళ్ళు రొట్టె ముక్క వైపు, నక్క వైపు పదే పదే చూశాయి — దాని శరీరం చిన్నగా వణికింది. పొగడ్తకు లొంగిపోవాలా, జాగ్రత్తగా ఉండాలా... దాని తెలివిని, ఈసారి పొగడ్త జయిస్తుందా...?",
+      "image_prompt": "The fox takes a small step on the leaves at the tree's base, then pleads for the crow to sing. The crow's body trembles slightly, its eyes darting repeatedly between the bread in its beak and the fox below. Also in this scene: A lean, reddish-brown fox with a bushy tail and sly, cunning eyes. It wears a tattered, faded green scarf around its neck. Always the same character across every scene. The sun is now high, hot, and intense, creating a stark, almost theatrical spotlight on the crow, emphasizing its moment of decision. The fox's shadow stretches long and thin.",
+      "scene_visual": "The fox takes a small step on the leaves at the tree's base, then pleads for the crow to sing. The crow's body trembles slightly, its eyes darting repeatedly between the bread in its beak and the fox below.",
+      "text_te_en": "Kaaki Sandehangaa Undatam Chusi, Nakka Tana Upaayam Maarchindi. Marri Chettu Modalu Vaipu, Aakula Mida Chinna Adugu Vesindi — \"Khach\" Mani Shabdan. \"O Devakaaki! Ni Kantham Vinadaaniki Devatalu Kudaa Eduru Chustaaru! Okkasaari Paadavaa?\" Ani Vedukundi. Kaaki Kallu Rotte Mukka Vaipu, Nakka Vaipu Pade Pade Chushaayi — Daani Shariram Chinnagaa Vanikindi. Pogadtaku Longipovaalaa, Jaagrattagaa Undaalaa... Daani Telivini, Isaari Pogadta Jayistundaa...?",
+      "text_en": "Seeing the Crow's hesitation, the Fox changed its plan. It took a small step towards the base of the banyan tree, making a soft 'khach' sound on the leaves. 'Oh, divine Crow!' it pleaded. 'Even the gods wait to hear your voice! Won't you sing just once?' The Crow's eyes darted back and forth between the piece of bread and the Fox. Its body trembled slightly. Should it give in to the flattery, or should it be careful...? Would flattery conquer its wisdom this time...?"
+    },
+    {
+      "id": 6,
+      "text": "నక్క మాటలకు మన కాకికి — గర్వం అమాంతం పెరిగిపోయింది. తన గొప్ప గొంతును లోకానికి చాటాలని — అది తల పైకెత్తింది. ఛాతీ ఉప్పొంగింది, నోరు తెరిచింది — ఒక 'కా...' అన్న శబ్దం బయటకు వచ్చింది. కానీ పూర్తిగా పాడకముందే — దాని నోటిలో ఉన్న రొట్టె ముక్క. కింద పడింది... \"ధప్\" మని, దుమ్ములో కలిసిపోయింది. ఆ క్షణంలో, నక్క ఏం చేస్తుందో తెలుసా...?",
+      "image_prompt": "The crow lifts its head, its chest swelling, and opens its mouth to sing its great voice to the world. As a \"ka...\" sound emerges, the piece of bread falls from its mouth with a soft thud into the dust below. Also in this scene: A lean, reddish-brown fox with a bushy tail and sly, cunning eyes. It wears a tattered, faded green scarf around its neck. Always the same character across every scene. A sudden shift as the bread drops, perhaps a brief, sharp shadow falling over the crow's face, contrasting with the bright light on the ground where the bread lands. The fox's eyes gleam in the light.",
+      "scene_visual": "The crow lifts its head, its chest swelling, and opens its mouth to sing its great voice to the world. As a \"ka...\" sound emerges, the piece of bread falls from its mouth with a soft thud into the dust below.",
+      "text_te_en": "Nakka Maatalaku Mana Kaakiki — Garvam Amaantam Perigipoyindi. Tana Goppa Gontunu Lokaaniki Chaataalani — Adi Tala Paikettindi. Chaati Uppongindi, Noru Terichindi — Oka 'Kaa...' Anna Shabdam Bayataku Vachchindi. Kaani Purtigaa Paadakamunde — Daani Notilo Unna Rotte Mukka. Kinda Padindi... \"Dhap\" Mani, Dummulo Kalisipoyindi. Aa Kshananlo, Nakka Em Chestundo Telusaa...?",
+      "text_en": "From the Fox's words, our Crow's pride suddenly grew immense. Wanting to show its great voice to the world, it lifted its head. Its chest puffed out, and it opened its mouth – a 'Caw...' sound came out. But before it could sing completely, the piece of bread in its mouth fell down... with a 'thud,' and landed in the dust. Do you know what the Fox did at that moment...?"
+    },
+    {
+      "id": 7,
+      "text": "రొట్టె ముక్క కింద పడగానే, నక్క ఒక్క దూకు దూకింది. దానిని నోట కరుచుకుని — \"ధన్యవాదాలు, సుందర కాకి!\" అంది. క్షణమైనా ఆలస్యం చేయకుండా, అది పరుగు లంకించుకుంది — పొడి నేల మీద \"ఖస్ ఖస్\" మని అడుగులు. దూరంగా, ఆ నక్క అడుగుల చప్పుడు — నెమ్మదిగా కలిసిపోయింది. కాకి తల వంచుకుంది — దాని రెక్కలు చిన్నగా వేలాడాయి, ఆకలి తీరలేదు. అది అప్పుడు తెలివైన గుణపాఠం నేర్చుకుంది, కదూ?",
+      "image_prompt": "The fox leaps, snatches the bread in its mouth, and immediately runs away with \"khas khas\" footsteps on the dry ground. The crow hangs its head, its wings drooping slightly, as the sound of the fox's footsteps fades into the distance. The protagonist watches from the side. Also in this scene: A lean, reddish-brown fox with a bushy tail and sly, cunning eyes. It wears a tattered, faded green scarf around its neck. Always the same character across every scene. Gentle dusk light begins to settle, casting long, soft amber shadows. The crow is silhouetted against the fading light, alone on its branch, emphasizing its solitude and reflection.",
+      "scene_visual": "The fox leaps, snatches the bread in its mouth, and immediately runs away with \"khas khas\" footsteps on the dry ground. The crow hangs its head, its wings drooping slightly, as the sound of the fox's footsteps fades into the distance.",
+      "text_te_en": "Rotte Mukka Kinda Padagaane, Nakka Okka Duku Dukindi. Daanini Nota Karuchukuni — \"Dhanyavaadaalu, Sundara Kaaki!\" Andi. Kshanamainaa Aalasyam Cheyakundaa, Adi Parugu Lankinchukundi — Podi Nela Mida \"Khas Khas\" Mani Adugulu. Durangaa, Aa Nakka Adugula Chappudu — Nemmadigaa Kalisipoyindi. Kaaki Tala Vanchukundi — Daani Rekkalu Chinnagaa Velaadaayi, Aakali Tiraledu. Adi Appudu Telivaina Gunapaatham Nerchukundi, Kadu?",
+      "text_en": "As soon as the piece of bread fell, the Fox took a single leap. It snatched the bread in its mouth and said, 'Thank you, beautiful Crow!' Without wasting a moment, it started running, its footsteps making soft 'khus khus' sounds on the dry ground. Far away, the sound of the Fox's footsteps slowly faded. The Crow bowed its head, its wings drooping slightly. Its hunger was not satisfied. It learned a wise lesson then, didn't it?"
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Iapetus",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 7,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This is a charming and well-structured retelling of a classic fable, excelling in oral warmth, grammatical correctness, and child engagement. The narrative arc is compelling, with effective tension building. The most significant area for improvement is dialogue richness; the initial scenes lack direct speech, which could be enhanced to further develop character voices and make the story feel more dynamic. Additionally, a few instances of stated emotions could be transformed into actions or body language for deeper emotional depth."
+  },
+  "title_te_en": "Kammani Meppu, Chedu Gunapaatham",
+  "moral_te_en": "Pillalu, Manasu Petti Aalochiste, Pogadtalaku Longipokundaa Unte, Mana Sontam Manam Kaapaadukovachchu.",
+  "title_en": "Sweet Praise, A Bitter Lesson",
+  "moral_en": "Children, if you think carefully and don't give in to flattery, you can protect what is yours.",
+  "id": "20260520_080425",
+  "date": "2026-05-20",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - కాకి మరియు నక్క",
+  "thumbnail": "stories/20260520_080425/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
