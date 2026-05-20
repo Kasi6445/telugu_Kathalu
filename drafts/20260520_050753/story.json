@@ -1,0 +1,90 @@
+{
+  "title": "నేస్తం చేసిన మోసం",
+  "moral": "మంచి మనసు ఉండాలి, కానీ స్నేహితులను ఎంపిక చేసుకునేటప్పుడు జాగ్రత్తగా ఉండాలి. నిజమైన స్నేహితులు ఎప్పుడూ నీ మంచి కోరుకుంటారు కదా!",
+  "main_character": "A young, gentle deer named Hari. He is graceful with soft brown fur, a white dappled belly, and large, curious eyes that reflect the forest's beauty. Hari is inherently trusting and finds joy in the simple peace of his forest home. Always the same character across every scene.",
+  "antagonist": "A lean, sly jackal named Dhurthudu. He has sharp, beady eyes that constantly dart around, a perpetually cunning grin on his muzzle, and matted, dusty grey fur. Dhurthudu often carries a half-gnawed bone, symbolizing his opportunistic nature. Always the same character across every scene.",
+  "setting": "The lush Nallamala Forest in Andhra Pradesh, specifically near a sparkling, clear river. Sunlight filters through dense green canopies, dappling the forest floor with shifting patterns of light and shadow, illuminating vibrant wild flowers. It's early morning, the air fresh and cool. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవిలో — పొద్దు పొడిచే వేళ. హరి అనే జింక పిల్ల గడ్డి మేస్తోంది.\nలేత ఆకుపచ్చ గడ్డి, దాని నోటికి ఎంత రుచిగా ఉందో!\n\"ఆహా, ఈ గడ్డి ఎంత రుచిగా ఉందో!\" అని అది మురిసిపోయింది.\nమృదువైన గాలికి ఆకులు మెల్లగా కదిలాయి.\nదాని తోక మెల్లగా కదులుతోంది — మనసంతా ప్రశాంతంగా ఉంది.\nకానీ, ఈ ప్రశాంతత ఎంతసేపు ఉంటుందో ఎవరికి తెలుసు?",
+      "image_prompt": "The fawn is peacefully grazing on tender green grass. Its tail sways gently as it savors the delicious blades. Soft golden afternoon sunlight, warm hopeful mood.",
+      "scene_visual": "The fawn is peacefully grazing on tender green grass. Its tail sways gently as it savors the delicious blades.",
+      "text_te_en": "Nallamala Adavilo — Poddu Podiche Vela. Hari Ane Jinka Pilla Gaddi Mestondi.\nLeta Aakupachcha Gaddi, Daani Notiki Enta Ruchigaa Undo!\n\"Aahaa, I Gaddi Enta Ruchigaa Undo!\" Ani Adi Murisipoyindi.\nMrriduvaina Gaaliki Aakulu Mellagaa Kadilaayi.\nDaani Toka Mellagaa Kadulutondi — Manasantaa Prashaantangaa Undi.\nKaani, I Prashaantata Entasepu Untundo Evariki Telusu?",
+      "text_en": "In the Nallamala forest — at dawn. A little deer named Hari was grazing. The tender green grass, how delicious it was to its mouth! \"Oh, how tasty this grass is!\" it thought happily. The leaves gently swayed in the soft breeze. Its tail was gently wagging — its heart was completely peaceful. But who knew how long this peace would last?"
+    },
+    {
+      "id": 2,
+      "text": "హరి ప్రశాంతంగా మేస్తుండగా, దూరంగా ఏదో కదిలింది.\nఅంతలో — నక్క ధూర్తుడు అటువైపుగా వచ్చాడు.\nగాలిలో నక్క వాసన రాగానే, హరి చెవులు కొద్దిగా కదిలాయి.\n\"నేను నీకు అడవిలోని చక్కని ప్రదేశాలు చూపిస్తాను, మిత్రమా!\" అని ధూర్తుడు పలకరించాడు.\nఅతని మాటలకు, హరి చెవులు దించుకుని నవ్వింది.\nఅపరిచితుడైన ధూర్తుడి స్నేహాన్ని హరి నమ్ముతుందా మరి?",
+      "image_prompt": "The fawn lowers its ears and smiles as the cunning fox approaches it. The fox stands nearby, seemingly friendly, as the fawn reacts to its words. Also in this scene: A lean, sly jackal named Dhurthudu. He has sharp, beady eyes that constantly dart around, a perpetually cunning grin on his muzzle, and matted, dusty grey fur. Dhurthudu often carries a half-gnawed bone, symbolizing his opportunistic nature. Always the same character across every scene. Diffused daylight, gentle curious mood (NOT dark, NOT stormy).",
+      "scene_visual": "The fawn lowers its ears and smiles as the cunning fox approaches it. The fox stands nearby, seemingly friendly, as the fawn reacts to its words.",
+      "text_te_en": "Hari Prashaantangaa Mestundagaa, Durangaa Edo Kadilindi.\nAntalo — Nakka Dhurtudu Atuvaipugaa Vachchaadu.\nGaalilo Nakka Vaasana Raagaane, Hari Chevulu Koddigaa Kadilaayi.\n\"Nenu Niku Adaviloni Chakkani Pradeshaalu Chupistaanu, Mitramaa!\" Ani Dhurtudu Palakarinchaadu.\nAtani Maatalaku, Hari Chevulu Dinchukuni Navvindi.\nAparichitudaina Dhurtudi Snehaanni Hari Nammutundaa Mari?",
+      "text_en": "As Hari grazed peacefully, something moved in the distance. Just then — Dhurtudu, the fox, came that way. As soon as the smell of fox reached the air, Hari's ears twitched slightly. \"I will show you the most beautiful places in the forest, my friend!\" Dhurtudu greeted. At his words, Hari lowered its ears and smiled. Would Hari trust the friendship of the stranger Dhurtudu?"
+    },
+    {
+      "id": 3,
+      "text": "ధూర్తుడు చూపిన దారి వెంట హరి ముందుకు నడిచింది.\nమరింత పచ్చని గడ్డి దొరుకుతుందని ఆశ పడింది.\nఒక్కసారిగా — \"టప్!\" మని ఒక చప్పుడు వినిపించింది.\nహరి కాలు ఉచ్చులో చిక్కుకుంది!\nదాని గుండె వేగంగా కొట్టుకుంది, కళ్ళు భయంతో పెద్దవయ్యాయి.\n\"అయ్యో! నా కాలు చిక్కుకుంది! దయచేసి నాకు సహాయం చేయి, మిత్రమా!\" అని హరి కేక వేసింది.\nధూర్తుడు ఇప్పుడు ఏం చేస్తాడు? హరికి సహాయం చేస్తాడా?",
+      "image_prompt": "The fawn's leg is caught in a trap, causing it to cry out in distress. Its eyes are wide with fear, reflecting the sudden terror of the situation. Also in this scene: A lean, sly jackal named Dhurthudu. He has sharp, beady eyes that constantly dart around, a perpetually cunning grin on his muzzle, and matted, dusty grey fur. Dhurthudu often carries a half-gnawed bone, symbolizing his opportunistic nature. Always the same character across every scene. Diffused daylight, gentle curious mood (NOT dark, NOT stormy).",
+      "scene_visual": "The fawn's leg is caught in a trap, causing it to cry out in distress. Its eyes are wide with fear, reflecting the sudden terror of the situation.",
+      "text_te_en": "Dhurtudu Chupina Daari Venta Hari Munduku Nadichindi.\nMarinta Pachchani Gaddi Dorukutundani Aasha Padindi.\nOkkasaarigaa — \"Tap!\" Mani Oka Chappudu Vinipinchindi.\nHari Kaalu Uchchulo Chikkukundi!\nDaani Gunde Vegangaa Kottukundi, Kallu Bhayanto Peddavayyaayi.\n\"Ayyo! Naa Kaalu Chikkukundi! Dayachesi Naaku Sahaayam Cheyi, Mitramaa!\" Ani Hari Keka Vesindi.\nDhurtudu Ippudu Em Chestaadu? Hariki Sahaayam Chestaadaa?",
+      "text_en": "Hari walked forward along the path Dhurtudu showed. It hoped to find even greener grass. Suddenly — a \"Thwack!\" sound was heard. Hari's leg was caught in a trap! Its heart beat fast, its eyes widened with fear. \"Oh no! My leg is caught! Please help me, my friend!\" Hari cried out. What would Dhurtudu do now? Would he help Hari?"
+    },
+    {
+      "id": 4,
+      "text": "హరి బాధగా అరుస్తుంటే, ధూర్తుడు కొద్ది దూరం వెళ్ళిపోయాడు.\nపొదల చాటునుండి అతని గొంతు మసకగా వినిపించింది.\n\"ఈ జింక బాగా లావుగా ఉంది... వేటగాడికి మంచి విందు అవుతుంది!\" అని ధూర్తుడు గుసగుసలాడుకున్నాడు.\nఆ మాటలు వినగానే — హరి తల వాలిపోయింది.\nదాని కళ్ళలో కన్నీళ్ళు తిరిగాయి... నమ్మి మోసపోయింది.\nతన నేస్తమే తన చావు కోరుకుంటుందని తెలిసిన హరి ఇప్పుడు ఏం చేస్తుంది?",
+      "image_prompt": "The fawn's head droops in despair as tears well up in its eyes. It hears the cunning fox whispering from behind the bushes, revealing its betrayal. Also in this scene: A lean, sly jackal named Dhurthudu. He has sharp, beady eyes that constantly dart around, a perpetually cunning grin on his muzzle, and matted, dusty grey fur. Dhurthudu often carries a half-gnawed bone, symbolizing his opportunistic nature. Always the same character across every scene. Dappled shade with quiet contemplative light.",
+      "scene_visual": "The fawn's head droops in despair as tears well up in its eyes. It hears the cunning fox whispering from behind the bushes, revealing its betrayal.",
+      "text_te_en": "Hari Baadhagaa Arustunte, Dhurtudu Koddi Duram Vellipoyaadu.\nPodala Chaatunundi Atani Gontu Masakagaa Vinipinchindi.\n\"I Jinka Baagaa Laavugaa Undi... Vetagaadiki Manchi Vindu Avutundi!\" Ani Dhurtudu Gusagusalaadukunnaadu.\nAa Maatalu Vinagaane — Hari Tala Vaalipoyindi.\nDaani Kallalo Kannillu Tirigaayi... Nammi Mosapoyindi.\nTana Nestame Tana Chaavu Korukuntundani Telisina Hari Ippudu Em Chestundi?",
+      "text_en": "As Hari cried out in pain, Dhurtudu walked a little distance away. From behind the bushes, his voice was faintly heard. \"This deer is quite plump... it will make a good feast for the hunter!\" Dhurtudu whispered. As soon as it heard those words — Hari's head drooped. Tears welled up in its eyes... it had trusted and been betrayed. What would Hari do now, knowing its own friend wished for its death?"
+    },
+    {
+      "id": 5,
+      "text": "పిల్లలూ, అప్పుడు హరి ఏం చేసిందో తెలుసా?\nభయంతో గుండె దడదడలాడుతున్నా, దానికో ఆలోచన వచ్చింది.\nదూరంగా కాకి అరుపు వినిపించింది — అది దాని గత జ్ఞాపకాలను తట్టింది.\nఅడవిలో ఒక వృద్ధ గుడ్లగూబ చెప్పిన మాటలు గుర్తొచ్చాయి: \"కష్టాల్లో తెలివిగా ఆలోచించు!\"\n\"నేను ధైర్యం కోల్పోకూడదు... తెలివిగా ఆలోచించాలి!\" అని హరి మనసులో అనుకుంది.\nఈ ఉచ్చు నుండి బయటపడటానికి హరి తెలివి సరిపోతుందా?",
+      "image_prompt": "The fawn, with its heart pounding in fear, suddenly gets an idea. Its expression shifts from despair to a flicker of determination, recalling old wisdom. Dappled shade with quiet contemplative light.",
+      "scene_visual": "The fawn, with its heart pounding in fear, suddenly gets an idea. Its expression shifts from despair to a flicker of determination, recalling old wisdom.",
+      "text_te_en": "Pillalu, Appudu Hari Em Chesindo Telusaa?\nBhayanto Gunde Dadadadalaadutunnaa, Daaniko Aalochana Vachchindi.\nDurangaa Kaaki Arupu Vinipinchindi — Adi Daani Gata Jnyaapakaalanu Tattindi.\nAdavilo Oka Vrriddha Gudlaguba Cheppina Maatalu Gurtochchaayi: \"Kashtaallo Telivigaa Aalochinchu!\"\n\"Nenu Dhairyam Kolpokudadu... Telivigaa Aalochinchaali!\" Ani Hari Manasulo Anukundi.\nI Uchchu Nundi Bayatapadataaniki Hari Telivi Saripotundaa?",
+      "text_en": "Children, do you know what Hari did then? Even though its heart was pounding with fear, an idea came to it. A crow's caw was heard in the distance — it stirred its past memories. It remembered the words of an old owl in the forest: \"Think wisely in trouble!\" \"I must not lose courage... I must think cleverly!\" Hari thought to itself. Would Hari's cleverness be enough to escape this trap?"
+    },
+    {
+      "id": 6,
+      "text": "హరి వెంటనే చనిపోయినట్లు నటించింది, కదలకుండా పడుకుంది.\nదాని శ్వాస ఆగిపోయింది — శరీరం గట్టిగా మారిపోయింది.\nఅంతలో, వేటగాడి అడుగుల చప్పుడు దగ్గరయ్యింది.\n\"ఇది సరైన సమయం!\" అని హరి మనసులో అనుకుంది.\nవేటగాడు దగ్గరకు రాగానే, హరి ఒక్కసారిగా ధూర్తుడిని బలంగా తన్నేసింది.\nనక్క \"య్యెల్ప్!\" అని అరుస్తూ పక్కకు ఎగిరిపడింది.\nహరి ఉచ్చు నుండి తప్పించుకుని, దొరికిన క్షణమే పరుగు లంకించుకుంది...",
+      "image_prompt": "The fawn, previously lying motionless, suddenly kicks the cunning fox with great force. The fox yelps and tumbles aside as the fawn seizes the moment to escape the trap and run. Also in this scene: A lean, sly jackal named Dhurthudu. He has sharp, beady eyes that constantly dart around, a perpetually cunning grin on his muzzle, and matted, dusty grey fur. Dhurthudu often carries a half-gnawed bone, symbolizing his opportunistic nature. Always the same character across every scene. Bright clear daylight, playful energetic mood.",
+      "scene_visual": "The fawn, previously lying motionless, suddenly kicks the cunning fox with great force. The fox yelps and tumbles aside as the fawn seizes the moment to escape the trap and run.",
+      "text_te_en": "Hari Ventane Chanipoyinatlu Natinchindi, Kadalakundaa Padukundi.\nDaani Shvaasa Aagipoyindi — Shariram Gattigaa Maaripoyindi.\nAntalo, Vetagaadi Adugula Chappudu Daggarayyindi.\n\"Idi Saraina Samayan!\" Ani Hari Manasulo Anukundi.\nVetagaadu Daggaraku Raagaane, Hari Okkasaarigaa Dhurtudini Balangaa Tannesindi.\nNakka \"Yyelp!\" Ani Arustu Pakkaku Egiripadindi.\nHari Uchchu Nundi Tappinchukuni, Dorikina Kshaname Parugu Lankinchukundi...",
+      "text_en": "Hari immediately pretended to be dead, lying still. Its breathing stopped — its body became stiff. Just then, the sound of the hunter's footsteps grew closer. \"This is the right moment!\" Hari thought to itself. As soon as the hunter came close, Hari suddenly kicked Dhurtudu hard. The fox cried \"Yelp!\" and fell to the side. Hari escaped from the trap and, the moment it was free, started running..."
+    },
+    {
+      "id": 7,
+      "text": "హరి అడవిలోకి వేగంగా పారిపోయింది.\nఅలిసిపోయినా, నొప్పితో ఉన్న కాలుతో అది నదిని దాటింది.\nచల్లని నీరు దాని కాలికి హాయిగా అనిపించింది.\nవెనక, వేటగాడు కోపంగా ధూర్తుడిని తరుముకుంటూ వెళ్ళాడు.\nహరి లోతుగా శ్వాస తీసుకుంది — ప్రాణాలతో బయటపడింది.\n\"మిత్రుల ఎంపికలో జాగ్రత్తగా ఉండాలి\" అని అది తనలో తాను అనుకుంది.\nఆనాటి నుండి హరి చాలా తెలివిగా, జాగ్రత్తగా జీవించింది.",
+      "image_prompt": "The fawn, having crossed the river, takes a deep, relieved breath. Cool water still clings to its injured leg as it stands safe on the riverbank. Also in this scene: A lean, sly jackal named Dhurthudu. He has sharp, beady eyes that constantly dart around, a perpetually cunning grin on his muzzle, and matted, dusty grey fur. Dhurthudu often carries a half-gnawed bone, symbolizing his opportunistic nature. Always the same character across every scene. Warm golden-hour glow, triumphant peaceful mood.",
+      "scene_visual": "The fawn, having crossed the river, takes a deep, relieved breath. Cool water still clings to its injured leg as it stands safe on the riverbank.",
+      "text_te_en": "Hari Adaviloki Vegangaa Paaripoyindi.\nAlisipoyinaa, Noppito Unna Kaaluto Adi Nadini Daatindi.\nChallani Niru Daani Kaaliki Haayigaa Anipinchindi.\nVenaka, Vetagaadu Kopangaa Dhurtudini Tarumukuntu Vellaadu.\nHari Lotugaa Shvaasa Tisukundi — Praanaalato Bayatapadindi.\n\"Mitrula Empikalo Jaagrattagaa Undaali\" Ani Adi Tanalo Taanu Anukundi.\nAanaati Nundi Hari Chaalaa Telivigaa, Jaagrattagaa Jivinchindi.",
+      "text_en": "Hari ran quickly into the forest. Even though it was tired, with its painful leg, it crossed the river. The cool water felt soothing on its leg. Behind it, the hunter angrily chased Dhurtudu. Hari took a deep breath — it had escaped with its life. \"One must be careful in choosing friends,\" it thought to itself. From that day on, Hari lived very cleverly and carefully."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Iapetus",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.5,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is exceptionally well-crafted, demonstrating a deep understanding of children's literature principles. The consistent use of rhetorical questions and direct child address ensures high engagement, while the narrative arc is compelling and teaches a valuable lesson without being preachy. To elevate it further to a perfect 10 across all dimensions, the author could focus on entirely *showing* emotions through action and body language, eliminating the few instances where feelings are stated directly. This would deepen the immersive experience for young readers and allow them to infer character states more organically."
+  },
+  "title_te_en": "Nestam Chesina Mosam",
+  "moral_te_en": "Manchi Manasu Undaali, Kaani Snehitulanu Empika Chesukunetappudu Jaagrattagaa Undaali. Nijamaina Snehitulu Eppudu Ni Manchi Korukuntaaru Kadaa!",
+  "title_en": "The Friend's Trick",
+  "moral_en": "It's good to have a kind heart, but be careful when choosing friends. True friends always want what's best for you, don't they!",
+  "id": "20260520_050753",
+  "date": "2026-05-20",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - నేస్తం మరియు మోసం",
+  "thumbnail": "stories/20260520_050753/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
