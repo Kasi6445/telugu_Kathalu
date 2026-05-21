@@ -1,0 +1,90 @@
+{
+  "title": "అందని ద్రాక్షపండ్ల సాకు",
+  "moral": "మనకు దక్కని వాటిని, ఇష్టం లేదని చెప్పుకోవడం మనుషుల స్వభావం కదమ్మా?",
+  "main_character": "A small, lean fox with reddish-brown fur and a bushy tail. He is known for his quick wit and cunning, but also a bit proud and easily frustrated when things don't go his way. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A sun-drenched vineyard nestled in the rolling hills of the Godavari region, late afternoon. Lush green vines heavy with ripe, dark purple grapes hang high on trellises, surrounded by dusty brown earth and scattered wild flowers. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి తీరంలోని ద్రాక్షతోటలో, ఎర్రటి గోధుమ రంగు బొచ్చున్న ఒక సన్నని నక్క మెల్లగా నడుస్తోంది. దాని చెవులు అటూ ఇటూ కదులుతున్నాయి, ముక్కు నేల మీద ఏదో వెతుకుతున్నట్లుంది. ప్రతి అడుగుకి ఎండిన ఆకులు కింద మెల్లగా కరకరలాడుతున్నాయి. దాని కడుపు ఖాళీగా ఉందని దాని ముఖం చెప్పకనే చెప్పింది. \"ఈ రోజు ఆహారం ఎక్కడ దొరుకుతుందో?\" అని అది తనలో తనే అనుకుంది. ఒక్కసారిగా — గాలిలో ఏదో తీయని వాసన! ఈ పెద్ద తోటలో దానికి ఏదైనా దొరుకుతుందా, చూద్దాం?",
+      "image_prompt": "The fox walks slowly through a vineyard, its slender body moving deliberately. Its ears twitch back and forth, and its nose is close to the ground as if searching for something. Warm late afternoon sun, golden light filtering through sparse trees, casting long, soft shadows.",
+      "scene_visual": "The fox walks slowly through a vineyard, its slender body moving deliberately. Its ears twitch back and forth, and its nose is close to the ground as if searching for something.",
+      "text_te_en": "Godaavari Tiranloni Draakshatotalo, Errati Godhuma Rangu Bochchunna Oka Sannani Nakka Mellagaa Nadustondi. Daani Chevulu Atu Itu Kadulutunnaayi, Mukku Nela Mida Edo Vetukutunnatlundi. Prati Aduguki Endina Aakulu Kinda Mellagaa Karakaralaadutunnaayi. Daani Kadupu Khaaligaa Undani Daani Mukham Cheppakane Cheppindi. \"I Roju Aahaaram Ekkada Dorukutundo?\" Ani Adi Tanalo Tane Anukundi. Okkasaarigaa — Gaalilo Edo Tiyani Vaasana! I Pedda Totalo Daaniki Edainaa Dorukutundaa, Chuddaan?",
+      "text_en": "In a vineyard on the banks of the Godavari river, a slender fox with reddish-brown fur was walking slowly. Its ears twitched back and forth, and its nose seemed to be sniffing for something on the ground. With every step, the dry leaves beneath crunched softly. Its face clearly showed that its tummy was empty. “Where will I find food today?” it wondered to itself. Suddenly — a sweet smell filled the air! Let's see if it finds anything in this big vineyard?"
+    },
+    {
+      "id": 2,
+      "text": "నక్క ముందుకు నడుస్తుంటే, తీపి ద్రాక్ష వాసన మరింత దగ్గరైంది. పచ్చని తీగలకు వేలాడుతూ, ముదురు ఊదా రంగులో మెరుస్తున్న ద్రాక్షగుత్తులు దాని కళ్ళ ముందు మెరిశాయి. ఆ గుత్తుల నుండి తీయని, ఘాటైన వాసన గాలిలో మెల్లగా తేలియాడుతోంది. నక్క కళ్ళు ఒక్కసారిగా పెద్దవి అయ్యాయి — తోక సన్నగా ఊగింది! \"అద్భుతం! ఎంత అందమైన ద్రాక్షపండ్లు!\" అని ఆనందంగా గొణుక్కుంది. ఈ రుచికరమైన ద్రాక్షను అది ఎలాగైనా పట్టుకుంటుందా?",
+      "image_prompt": "The fox stops and gazes intently at clusters of dark purple grapes hanging from green vines. Its eyes widen dramatically, and its tail wags slightly in excitement. Bright, clear afternoon sun, highlighting the vibrant purple grapes against the deep green leaves, sparkling with a juicy sheen.",
+      "scene_visual": "The fox stops and gazes intently at clusters of dark purple grapes hanging from green vines. Its eyes widen dramatically, and its tail wags slightly in excitement.",
+      "text_te_en": "Nakka Munduku Nadustunte, Tipi Draaksha Vaasana Marinta Daggaraindi. Pachchani Tigalaku Velaadutu, Muduru Udaa Rangulo Merustunna Draakshaguttulu Daani Kalla Mundu Merishaayi. Aa Guttula Nundi Tiyani, Ghaataina Vaasana Gaalilo Mellagaa Teliyaadutondi. Nakka Kallu Okkasaarigaa Peddavi Ayyaayi — Toka Sannagaa Ugindi! \"Adbhutan! Enta Andamaina Draakshapandlu!\" Ani Aanandangaa Gonukkundi. I Ruchikaramaina Draakshanu Adi Elaagainaa Pattukuntundaa?",
+      "text_en": "As the fox walked forward, the sweet smell of grapes grew even stronger. Hanging from green vines, bunches of dark purple, glistening grapes appeared before its eyes. A sweet, strong scent gently floated from those bunches in the air. The fox's eyes suddenly grew wide — its tail wagged excitedly! “Wonderful! What beautiful grapes!” it happily murmured. Will it manage to get these delicious grapes somehow?"
+    },
+    {
+      "id": 3,
+      "text": "ద్రాక్షపండ్లను చూసి, నక్క ఆశగా అడుగులు వేగంగా వేసింది. అది వెనక్కి పరుగెత్తి, బలమంతా కూడగట్టుకుని — ఒక్కసారిగా పైకి ఎగిరింది! శరీరం పైకి లేవగానే గాలి 'హూష్' మని శబ్దం చేసింది. కానీ, ద్రాక్షగుత్తులు దాని ముక్కుకు జస్ట్ కొద్దిగా దూరంలో ఆగిపోయాయి. అది కింద పడగానే, శరీరం మీద అంటుకున్న దుమ్మును దులిపేసుకుని, \"ఇంకొకసారి ప్రయత్నిద్దాం!\" అని గట్టిగా అనుకుంది. ఈసారి దానికి ద్రాక్ష దక్కుతుందా?",
+      "image_prompt": "The fox runs back, gathers its strength, and leaps high into the air towards the grapes. Its body stretches upwards, but the grape clusters remain just out of reach of its nose. Afternoon sun still bright and direct, casting sharp, fleeting shadows as the fox jumps and lands.",
+      "scene_visual": "The fox runs back, gathers its strength, and leaps high into the air towards the grapes. Its body stretches upwards, but the grape clusters remain just out of reach of its nose.",
+      "text_te_en": "Draakshapandlanu Chusi, Nakka Aashagaa Adugulu Vegangaa Vesindi. Adi Venakki Parugetti, Balamantaa Kudagattukuni — Okkasaarigaa Paiki Egirindi! Shariram Paiki Levagaane Gaali 'Hush' Mani Shabdam Chesindi. Kaani, Draakshaguttulu Daani Mukkuku Jast Koddigaa Duranlo Aagipoyaayi. Adi Kinda Padagaane, Shariram Mida Antukunna Dummunu Dulipesukuni, \"Inkokasaari Prayatniddaan!\" Ani Gattigaa Anukundi. Isaari Daaniki Draaksha Dakkutundaa?",
+      "text_en": "Seeing the grapes, the fox eagerly quickened its steps. It ran back, gathered all its strength — and suddenly leaped up! As its body rose, the air made a 'whoosh' sound. But the grape bunches stopped just a little distance from its nose. As it fell down, it dusted off the dirt clinging to its fur and firmly thought, “Let's try one more time!” Will it get the grapes this time?"
+    },
+    {
+      "id": 4,
+      "text": "నక్క తన ఒంటినిండా ఉన్న శక్తిని మళ్ళీ తెచ్చుకుంది, ఈసారి ఇంకా ఎత్తుగా దూకే ప్రయత్నంలో. అది మరింత దూరం నుండి పరుగు తీసి, తన శరీరాన్ని వీలైనంత పైకి సాగదీసింది. అది కింద పడగానే, దుమ్ము నేల మీద 'ధబ్' మని శబ్దం చేసింది. దాని చెవులు కొద్దిగా వెనక్కి మడిచింది, గొంతులో చిన్న గురగుర వినిపించింది. \"ఇంకా కొంచెం ఎత్తుకు!\" అని అరుస్తూ, కోపంగా నేల మీద కాలు కొట్టింది. మరెలాగైనా ద్రాక్షను అందుకోవడానికి దానికి వేరే ఉపాయం దొరుకుతుందా?",
+      "image_prompt": "The fox takes a longer run-up and stretches its body as high as possible in another attempt to jump for the grapes. After landing, it angrily stamps its foot on the ground, its ears slightly folded back in frustration. Sunlight beginning to soften and turn a pale gold, long shadows stretching across the vineyard, reflecting the fox's growing struggle.",
+      "scene_visual": "The fox takes a longer run-up and stretches its body as high as possible in another attempt to jump for the grapes. After landing, it angrily stamps its foot on the ground, its ears slightly folded back in frustration.",
+      "text_te_en": "Nakka Tana Ontinindaa Unna Shaktini Malli Techchukundi, Isaari Inkaa Ettugaa Duke Prayatnanlo. Adi Marinta Duram Nundi Parugu Tisi, Tana Shariraanni Vilainanta Paiki Saagadisindi. Adi Kinda Padagaane, Dummu Nela Mida 'Dhab' Mani Shabdam Chesindi. Daani Chevulu Koddigaa Venakki Madichindi, Gontulo Chinna Guragura Vinipinchindi. \"Inkaa Konchem Ettuku!\" Ani Arustu, Kopangaa Nela Mida Kaalu Kottindi. Marelaagainaa Draakshanu Andukovadaaniki Daaniki Vere Upaayam Dorukutundaa?",
+      "text_en": "The fox gathered all its strength again, this time trying to jump even higher. It ran from a greater distance and stretched its body as high as possible. As it fell down, the dust made a 'thud' sound on the ground. Its ears bent back slightly, and a small growl was heard in its throat. “A little higher!” it shouted, angrily stamping its foot on the ground. Will it find another way to reach the grapes somehow?"
+    },
+    {
+      "id": 5,
+      "text": "నక్క ఇంకొన్నిసార్లు నిరాశగా గంతులు వేసింది, దాని శరీరం అలసిపోయింది. వేగంగా, చిన్న చిన్నగా ఊపిరి తీసుకుంటుంటే దాని పొట్ట పైకీ కిందకీ కదులుతోంది. భుజాలు వాలిపోయాయి, కళ్ళల్లో నిరాశ కనిపించింది. కానీ, ఒక్కసారిగా దాని మొహం మారింది — ఛాతి కొంచెం పైకి లేపింది! \"ఛీ, ఛీ! అవి పచ్చి ద్రాక్షపండ్లు!\" అని కోపంగా అరిచింది. ఇంత కష్టపడి, అన్నీ ప్రయత్నించిన నక్కకు, అవి ఒక్కసారిగా పుల్లగా మారాయని ఎందుకు అనిపించిందో తెలుసా?",
+      "image_prompt": "The fox, visibly tired with its shoulders slumped, suddenly lifts its chest and changes its facial expression. It angrily shouts, \"Ugh, those are sour grapes!\" despite its previous efforts. Late afternoon light, turning slightly orange and heavy, beginning to feel tired and warm, mirroring the fox's exhaustion.",
+      "scene_visual": "The fox, visibly tired with its shoulders slumped, suddenly lifts its chest and changes its facial expression. It angrily shouts, \"Ugh, those are sour grapes!\" despite its previous efforts.",
+      "text_te_en": "Nakka Inkonnisaarlu Niraashagaa Gantulu Vesindi, Daani Shariram Alasipoyindi. Vegangaa, Chinna Chinnagaa Upiri Tisukuntunte Daani Potta Paiki Kindaki Kadulutondi. Bhujaalu Vaalipoyaayi, Kallallo Niraasha Kanipinchindi. Kaani, Okkasaarigaa Daani Moham Maarindi — Chaati Konchem Paiki Lepindi! \"Chi, Chi! Avi Pachchi Draakshapandlu!\" Ani Kopangaa Arichindi. Inta Kashtapadi, Anni Prayatninchina Nakkaku, Avi Okkasaarigaa Pullagaa Maaraayani Enduku Anipinchindo Telusaa?",
+      "text_en": "The fox jumped a few more times in despair, its body was tired. Its belly moved up and down as it breathed quickly and shallowly. Its shoulders drooped, and disappointment was visible in its eyes. But suddenly, its face changed — it puffed out its chest a little! “Ugh, ugh! Those are sour grapes!” it angrily shouted. Do you know why the fox, after trying so hard and doing everything, suddenly felt they had turned sour?"
+    },
+    {
+      "id": 6,
+      "text": "అవును పిల్లలూ, అందని ద్రాక్షపండ్ల వైపు కోపంగా చూస్తూ, నక్క మెల్లగా వెనక్కి తిరిగింది. దాని తల పైకి ఎత్తుకుంది కానీ, కళ్ళల్లో మాత్రం చిన్న బాధ మెరిసింది. అది కావాలనే ఎండిన ఆకులపై అడుగులు వేస్తూ, 'సలసల' శబ్దం చేసింది. \"పచ్చి ద్రాక్షపండ్లు తినడం ఎవరికి ఇష్టం?\" అని తనలో తనే గొణుక్కుంది. అసలు ఆ ద్రాక్షపండ్లు పచ్చివేనా, లేక దాని చేతగానితనం కప్పిపుచ్చుకోవడానికి అలా అందిందా?",
+      "image_prompt": "The fox slowly turns its back on the out-of-reach grapes, looking at them with a hint of anger. It holds its head high, but a flicker of sadness is visible in its eyes. Golden hour light, warm and rich but with a touch of melancholy as the fox departs, casting a long, lonely shadow.",
+      "scene_visual": "The fox slowly turns its back on the out-of-reach grapes, looking at them with a hint of anger. It holds its head high, but a flicker of sadness is visible in its eyes.",
+      "text_te_en": "Avunu Pillalu, Andani Draakshapandla Vaipu Kopangaa Chustu, Nakka Mellagaa Venakki Tirigindi. Daani Tala Paiki Ettukundi Kaani, Kallallo Maatram Chinna Baadha Merisindi. Adi Kaavaalane Endina Aakulapai Adugulu Vestu, 'Salasala' Shabdam Chesindi. \"Pachchi Draakshapandlu Tinadam Evariki Ishtan?\" Ani Tanalo Tane Gonukkundi. Asalu Aa Draakshapandlu Pachchivenaa, Leka Daani Chetagaanitanam Kappipuchchukovadaaniki Alaa Andindaa?",
+      "text_en": "Yes, children, looking angrily at the unreachable grapes, the fox slowly turned back. It held its head high, but a small sadness glimmered in its eyes. It deliberately stepped on the dry leaves, making a 'rustling' sound. “Who likes to eat sour grapes?” it muttered to itself. Were those grapes really sour, or did it say that to hide its inability?"
+    },
+    {
+      "id": 7,
+      "text": "ద్రాక్షతోట నుండి నక్క దూరంగా నడుస్తూ వెళ్లిపోయింది, దాని ముఖంలో ఎలాంటి ఆసక్తి లేనట్టు కనిపించింది. తోకను గర్వంగా అటూ ఇటూ ఊపుతూ, దాని చెవులు మాత్రం పైకి నిక్కబొడుచుకున్నాయి. సాయంత్రం అవుతుండటంతో, దూరంగా మిడతల 'కిర్, కిర్' మని శబ్దం వినిపించడం మొదలైంది. దాని కడుపు ఖాళీగానే ఉన్నా, ఆ ద్రాక్షపండ్లు తనకు అక్కర్లేదని తనను తాను నమ్మించుకుంది. చూశావా పిల్లలూ, కొన్నిసార్లు మనుషులు కూడా ఇలాగే అందని వస్తువుల గురించి అలా అనుకుంటారు!",
+      "image_prompt": "The fox walks away from the vineyard, swinging its tail proudly from side to side. Its ears are perked up, but its face shows no interest, despite its empty stomach. Gentle dusk light, warm amber fading to soft blues and purples, peaceful resolution, but with a lingering sense of the fox's self-deception.",
+      "scene_visual": "The fox walks away from the vineyard, swinging its tail proudly from side to side. Its ears are perked up, but its face shows no interest, despite its empty stomach.",
+      "text_te_en": "Draakshatota Nundi Nakka Durangaa Nadustu Vellipoyindi, Daani Mukhanlo Elaanti Aasakti Lenattu Kanipinchindi. Tokanu Garvangaa Atu Itu Uputu, Daani Chevulu Maatram Paiki Nikkaboduchukunnaayi. Saayantram Avutundatanto, Durangaa Midatala 'Kir, Kir' Mani Shabdam Vinipinchadam Modalaindi. Daani Kadupu Khaaligaane Unnaa, Aa Draakshapandlu Tanaku Akkarledani Tananu Taanu Namminchukundi. Chushaavaa Pillalu, Konnisaarlu Manushulu Kudaa Ilaage Andani Vastuvula Gurinchi Alaa Anukuntaaru!",
+      "text_en": "The fox walked away from the vineyard, appearing to have no interest on its face. It wagged its tail proudly back and forth, but its ears remained perked up. As evening approached, the 'chirp, chirp' sound of crickets began to be heard in the distance. Even though its tummy was empty, it convinced itself that it didn't need those grapes. See, children, sometimes people also think like that about things they can't reach!"
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 10,
+    "emotional_depth": 10,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 10,
+    "average": 9.67,
+    "weakest_dimension": "narrative_arc",
+    "notes": "This is an exceptionally well-crafted children's story, demonstrating a deep understanding of oral storytelling traditions and child psychology. The narrative voice is warm and engaging, consistently drawing the child into the story with direct questions and vivid descriptions. Emotional depth is masterfully conveyed through actions and body language, avoiding any direct statements. For a truly award-worthy piece, the explicit statement of the moral at the very end should be removed, allowing the lesson to emerge solely from the events and the narrator's guiding questions, trusting the child to infer it."
+  },
+  "title_te_en": "Andani Draakshapandla Saaku",
+  "moral_te_en": "Manaku Dakkani Vaatini, Ishtam Ledani Cheppukovadam Manushula Svabhaavam Kadammaa?",
+  "title_en": "The Excuse of the Unreachable Grapes",
+  "moral_en": "Isn't it human nature to say we don't like things we can't have, dear children?",
+  "id": "20260521_215435",
+  "date": "2026-05-21",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - నక్క మరియు ద్రాక్షపండ్లు",
+  "thumbnail": "stories/20260521_215435/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
