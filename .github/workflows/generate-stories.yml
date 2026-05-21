@@ -2,7 +2,7 @@ name: Generate Stories
 
 on:
   schedule:
-    - cron: '0 * * * *'      # every hour
+    - cron: '17 * * * *'      # every hour
   workflow_dispatch:
 
 permissions:

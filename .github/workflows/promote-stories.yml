@@ -2,7 +2,7 @@ name: Promote Stories
 
 on:
   schedule:
-    - cron: '0 */6 * * *'    # promote 4x/day -> ~120 builds/month
+    - cron: '47 */6 * * *'    # promote 4x/day -> ~120 builds/month
   workflow_dispatch:
 
 permissions:
