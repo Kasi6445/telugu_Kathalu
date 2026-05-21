@@ -137,6 +137,7 @@ def generate_story_head(story: dict, slug: str, timestamp: str) -> str:
         "</script>",
         "",
         "<!-- Site assets -->",
+        '<link rel="icon" href="/favicon.ico">',
         '<link rel="manifest" href="/manifest.json">',
         '<link rel="apple-touch-icon" href="/static/icon-192.png">',
         '<meta name="theme-color" content="#FF6B35">',
