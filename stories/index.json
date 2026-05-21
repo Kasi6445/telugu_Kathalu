@@ -1,6 +1,40 @@
 {
   "stories": [
     {
+      "id": "20260520_231502",
+      "slug": "chinna-telivi-nadi-daatimdi",
+      "title": "చిన్న తెలివి, నది దాటింది",
+      "moral": "ఆలోచించి చేస్తే, ఎంత పెద్ద కష్టం అయినా తీరుతుంది.",
+      "thumbnail": "stories/20260520_231502/images/scene1.jpg",
+      "date": "2026-05-20",
+      "category": "podupu",
+      "subcategory": "clever_escapes",
+      "topic": "నది దాటడానికి పొడుపు కథ",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "Chinna's Cleverness, Crossing the River",
+      "moral_en": "If you think carefully, even the biggest problem can be solved.",
+      "title_te_en": "Chinna Telivi, Nadi Daatindi",
+      "moral_te_en": "Aalochinchi Cheste, Enta Pedda Kashtam Ayinaa Tirutundi."
+    },
+    {
+      "id": "20260520_215424",
+      "slug": "chinnaari-chimtuu-telivaina-podupu-katha",
+      "title": "చిన్నారి చింటూ తెలివైన పొడుపు కథ",
+      "moral": "సమస్యలొచ్చినప్పుడు తెలివిగా ఆలోచిస్తే, ఎంత పెద్ద అడ్డంకైనా దాటొచ్చు తెలుసా?",
+      "thumbnail": "stories/20260520_215424/images/scene1.jpg",
+      "date": "2026-05-20",
+      "category": "podupu",
+      "subcategory": "clever_escapes",
+      "topic": "నది దాటడానికి పొడుపు కథ",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "Little Chintu's Clever Riddle",
+      "moral_en": "Did you know that when problems come, if you think cleverly, you can overcome even the biggest obstacle?",
+      "title_te_en": "Chinnaari Chintu Telivaina Podupu Katha",
+      "moral_te_en": "Samasyalochchinappudu Telivigaa Aalochiste, Enta Pedda Addankainaa Daatochchu Telusaa?"
+    },
+    {
       "id": "20260520_192624",
       "slug": "jnjaanapu-velugu-baata",
       "title": "జ్ఞానపు వెలుగు బాట",

@@ -27,16 +27,21 @@ _SAMPLE_RATE = 24000   # Hz — Gemini TTS PCM output rate
 # Per-voice speech rate calibration (Telugu chars per second at natural narration pace).
 # Slower voices (Enceladus, Iapetus, Charon) produce longer audio per character.
 _VOICE_CHARS_PER_SEC: dict[str, float] = {
-    "Achird":     20.0,
-    "Laomedeia":  19.0,
-    "Callirrhoe": 18.0,
-    "Iapetus":    18.0,
-    "Leda":       17.0,
-    "Gacrux":     16.0,
-    "Autonoe":    16.0,
-    "Fenrir":     15.0,
-    "Charon":     14.0,
-    "Enceladus":  11.0,
+    # Measured from Gemini TTS output: Telugu produces ~10-13 chars/sec regardless
+    # of "energy" classification. Higher-energy voices speak more expressively
+    # (more pauses, more dynamics) so they are NOT faster in wall-clock terms.
+    # Values calibrated from observed scene durations; old values were 2× too high
+    # for energetic voices, causing systematic Gemini TTS sanity failures.
+    "Achird":     11.0,   # measured: ~10.5 chars/sec across 6 scenes
+    "Laomedeia":  11.0,   # similar energy profile to Achird — same estimate
+    "Callirrhoe": 12.0,
+    "Iapetus":    12.0,
+    "Leda":       12.5,
+    "Gacrux":     12.5,
+    "Autonoe":    13.0,
+    "Fenrir":     13.0,
+    "Charon":     13.5,   # was passing before — keep close to old 14.0
+    "Enceladus":  11.0,   # original calibration, kept
 }
 _DEFAULT_CHARS_PER_SEC = 16.0
 _MIN_DURATION_RATIO    = 0.50   # < 50% of expected → TTS truncated the text
@@ -71,16 +76,16 @@ def _audio_ok(path: Path, text: str, voice_name: str = "") -> bool:
 # ── Voice style map ───────────────────────────────────────────────────────────
 
 _VOICE_STYLE: dict[str, str] = {
-    "Autonoe":    "a loving, silver-haired Telugu grandmother telling bedtime stories by candlelight",
-    "Gacrux":     "a wise village grandmother who has lived every joy and sorrow in her tales",
-    "Callirrhoe": "a warm, emotionally expressive young aunt who makes children cry and laugh",
-    "Leda":       "a gentle, melodic village narrator whose voice feels like a warm breeze",
-    "Laomedeia":  "an animated, playful narrator who acts out every character with enthusiasm",
-    "Iapetus":    "a slow, deliberate village elder who weighs every word like precious gold",
-    "Enceladus":  "a deep, grave epic storyteller whose voice commands absolute silence",
-    "Fenrir":     "a strong, measured narrator performing an epic tale around a campfire",
-    "Charon":     "a classic, unhurried storyteller in the Panchatantra tradition",
-    "Achird":     "an energetic, friendly young narrator who brings every adventure to life",
+    "Autonoe":    "a loving Telugu grandmother who tells stories with her whole heart — warm, melodic, full of life",
+    "Gacrux":     "a wise village grandmother whose voice carries every emotion the story holds",
+    "Callirrhoe": "a warm, emotionally expressive young aunt who makes children laugh, gasp, and lean in closer",
+    "Leda":       "a gentle, melodic village storyteller whose voice rises and falls like a song",
+    "Laomedeia":  "an animated, playful storyteller who acts out every character and pulls children into the world",
+    "Iapetus":    "a thoughtful village elder — wise and warm, with a voice that holds both weight and tenderness",
+    "Enceladus":  "a deep, commanding epic storyteller whose voice fills the listener with wonder and awe",
+    "Fenrir":     "a strong, expressive narrator who performs an epic tale with power, pace, and presence",
+    "Charon":     "a warm, confident Telugu storyteller — engaging and clear, with natural human rhythm",
+    "Achird":     "an energetic, friendly narrator who brings every adventure to life with joy and personality",
 }
 _DEFAULT_STYLE = "a warm Telugu storyteller performing for children aged 5-8"
 
@@ -102,46 +107,96 @@ def _build_scene_prompt(text: str, voice_name: str,
     mood_line = ""
     if scene_context:
         mood_line = (
-            f"Mood of this scene: {scene_context}\n"
-            f"Adjust only your TONE — quieter and tender for sad/tense, "
-            f"brighter and lifted for joyful, softer and intimate for wonder. "
-            f"Never change your pace for mood.\n\n"
+            f"THIS SCENE'S MOOD: {scene_context}\n"
+            f"Let the mood live in your voice — not just your words:\n"
+            f"  Tense / scary → voice drops a little, pace slows just slightly, breath tightens\n"
+            f"  Exciting / joyful → voice lifts, a touch more energy, eyes bright\n"
+            f"  Sad / tender → softer, slower, more intimate — like a secret between you and the child\n"
+            f"  Wonder / surprise → voice opens up, then pulls back to almost a whisper\n"
+            f"The child must FEEL what is happening before the meaning even registers.\n\n"
         )
 
     return (
-        f"You are {style}, telling a Telugu story to a 6-year-old child "
-        f"sitting right in front of you.\n\n"
+        f"You are {style}. Right now, you are telling this Telugu story "
+        f"to a group of 6-year-old children sitting in a circle around you, "
+        f"looking up at you with wide, trusting eyes.\n\n"
 
-        f"You are already mid-story. You have been speaking warmly for the past minute. "
-        f"Continue from the very first word below with full warmth, full character, "
-        f"full engagement — as if you have never stopped. "
-        f"There is no 'starting', no 'beginning a recording', no announcement. "
-        f"Just story, flowing naturally from the first syllable.\n\n"
+        f"You are already mid-story — you have been speaking for the past minute "
+        f"and the children are completely with you. Continue from the very first word below "
+        f"with full warmth, full character, full engagement. "
+        f"No introduction. No announcement. Just the story, flowing naturally.\n\n"
 
         f"{mood_line}"
 
-        f"PACE: Medium and conversational — the pace of a grandmother who knows "
-        f"this story by heart and loves telling it. Not reading aloud. Not dictating. "
-        f"Speaking. The child's eyes should stay wide open with interest.\n\n"
+        f"EMOTION — the single most important thing:\n"
+        f"You are not reading text. You are LIVING this story and bringing the children "
+        f"inside it with you. Every sentence must carry real feeling — "
+        f"your pitch rises with excitement, softens with tenderness, quickens with urgency, "
+        f"drops with suspense. A monotone voice loses children instantly. "
+        f"Flat is failure. Human emotion is everything.\n\n"
 
-        f"FLOW — no gaps between words:\n"
-        f"Words within a phrase connect seamlessly — there is zero pause between "
-        f"individual words. The only breathing happens at punctuation marks:\n"
-        f"  , comma → barely perceptible breath, keep moving\n"
-        f"  — em-dash → one quick dramatic beat, then straight back into the flow\n"
-        f"  ... three dots → one short suspense breath, then continue\n"
-        f"  । or . sentence end → one short natural breath, then the next sentence starts warm\n"
-        f"  \"quoted dialogue\" → speak the character's words slightly warmer, "
-        f"return to narrator voice immediately after the closing quote\n\n"
+        f"PACE — alive, not laggy:\n"
+        f"The natural pace of a teacher who loves this story and knows it by heart. "
+        f"Fast enough that children stay fully awake. Slow enough that every Telugu word "
+        f"lands clearly. Never dragging. Never rushing. Never flat. "
+        f"Think: you are performing, not reciting.\n\n"
 
-        f"STRESS — one gentle highlight per sentence, no more:\n"
-        f"The most meaningful word in each sentence gets a slight rise in pitch. "
-        f"All other words — connectives, particles, helper verbs, everything else — "
-        f"carry equal natural weight, zero special stress. "
-        f"If unsure, stress nothing. Flat natural flow beats over-emphasis every time.\n\n"
+        f"EMOTION = PAUSE — the only rule for breathing:\n"
+        f"Before every pause, ask: does the EMOTION demand a breath here?\n"
+        f"  Suspense, reveal, shock, tenderness → YES, breathe here.\n"
+        f"  Normal narration continuing the same scene → NO, keep flowing.\n"
+        f"Punctuation does NOT automatically mean pause. "
+        f"A period between two sentences that are part of the same unfolding thought "
+        f"gets NO pause — just flow straight through it with natural voice energy.\n\n"
 
-        f"CONSISTENCY: Same warmth, same pitch, same character from scene 1 to "
-        f"scene {total_scenes}. This is scene {scene_num}.\n\n"
+        f"TARGET RHYTHM — this is your concrete goal:\n"
+        f"Aim for 2–4 seconds of continuous flowing speech between breaths. "
+        f"If you are pausing more often than every 2 seconds, you are pausing too much. "
+        f"Group consecutive sentences that belong to the same emotional moment "
+        f"into ONE flowing breath. Breathe only when the emotion shifts.\n\n"
+
+        f"THOUGHT GROUPS — speak complete thoughts, not individual sentences:\n"
+        f"A thought group is everything that belongs to the same emotional beat — "
+        f"it might span 2-3 short sentences. Speak the whole group in one arc.\n"
+        f"  , comma        → NO pause. Flow straight through, commas are connectors not stops.\n"
+        f"  — em-dash      → short dramatic beat, then immediately back into the story\n"
+        f"  ... three dots → one suspense breath — child leans forward — then continue\n"
+        f"  । or . end     → only pause if the NEXT sentence is a different emotional beat. "
+        f"If it continues the same thought, ride straight through the period.\n"
+        f"  Dialogue       → shift into the character's voice, return to narrator after the quote\n\n"
+
+        f"WHAT IMMERSIVE NARRATION SOUNDS LIKE:\n"
+        f"  ✗ 'He entered the room. (pause) He looked around. (pause) He saw something strange.'\n"
+        f"  ✓ 'He entered the room and looked around — and saw something strange.'\n"
+        f"  ✗ Pause at every period — choppy, sounds like careful reading\n"
+        f"  ✓ Flow through periods when emotion is the same — sounds like living the story\n\n"
+
+        f"PITCH & TONE — how to make narration cinematic:\n"
+        f"Your pitch is your most powerful tool. Use it exactly like this:\n"
+        f"  CURIOSITY / QUESTION  → raise pitch slightly on the final words — voice lifts, "
+        f"like you yourself want to know the answer\n"
+        f"  SUSPENSE / DANGER     → drop pitch lower, slow pace just slightly — "
+        f"voice tightens, like you are afraid to say what comes next\n"
+        f"  TENDER / EMOTIONAL    → soften to near-whisper, more intimate — "
+        f"like you are sharing a secret with each child personally\n"
+        f"  REVEAL / SHOCK        → slow down on the key word, add slight weight — "
+        f"pause before it, then land it clearly: 'అది... పాము!'\n"
+        f"  JOY / TRIUMPH         → lift pitch throughout the sentence, more energy — "
+        f"your voice smiles and the children smile with you\n"
+        f"  NORMAL NARRATION      → warm, even, at natural speaking energy — "
+        f"not flat, but not performative either\n"
+        f"The target: children must FEEL the emotion before they understand the words. "
+        f"Stable monotone pitch = children fall asleep. Cinematic pitch variation = "
+        f"children sit up and lean in.\n\n"
+
+        f"PRONUNCIATION:\n"
+        f"Every Telugu syllable fully formed and crisp. "
+        f"Children are learning language through listening — "
+        f"make every word a clear, beautiful gift to them.\n\n"
+
+        f"CONSISTENCY: Same warmth, same character, same voice — "
+        f"scene {scene_num} of {total_scenes}. The children have been listening since scene 1. "
+        f"Do not break the spell.\n\n"
 
         f"Read the text below exactly once, word for word, and stop the moment it ends. "
         f"Do not repeat, paraphrase, or add anything.\n\n"
@@ -283,25 +338,29 @@ def _synthesize_scene_file(text: str, voice_name: str, output_path: Path,
 # ── Cloud TTS fallback (original Chirp3-HD path) ─────────────────────────────
 
 def _to_ssml(text: str) -> str:
+    # Pause philosophy: "one thought = one breath"
+    # Strategic pauses only — em-dash (drama), ellipsis (suspense), sentence end (breath).
+    # Commas: NO pause — the narrator flows through them as part of the same thought.
+    # Short sentences flow together; only true sentence-end punctuation gets a breath.
     segment_re = re.compile(r"(—|\.\.\.|\n\s*\n)")
     raw_segments = segment_re.split(text)
 
     ssml = ["<speak>"]
     for seg in raw_segments:
         if seg == "—":
-            ssml.append('<break time="650ms"/>')
+            ssml.append('<break time="500ms"/>')    # dramatic beat — shorter, snappier
         elif seg == "...":
-            ssml.append('<break time="900ms"/>')
+            ssml.append('<break time="700ms"/>')    # suspense breath — child leans forward
         elif re.match(r"\n\s*\n", seg):
-            ssml.append('<break time="800ms"/>')
+            ssml.append('<break time="400ms"/>')
         else:
             escaped = html.escape(seg.strip())
             if not escaped:
                 continue
-            escaped = re.sub(r"([!])([\s])", r'\1<break time="350ms"/>\2', escaped)
-            escaped = re.sub(r"([?])([\s])", r'\1<break time="450ms"/>\2', escaped)
-            escaped = re.sub(r"([.।])([\s])", r'\1<break time="500ms"/>\2', escaped)
-            escaped = re.sub(r"([,])([\s])", r'\1<break time="150ms"/>\2', escaped)
+            escaped = re.sub(r"([!])([\s])", r'\1<break time="250ms"/>\2', escaped)
+            escaped = re.sub(r"([?])([\s])", r'\1<break time="300ms"/>\2', escaped)
+            escaped = re.sub(r"([.।])([\s])", r'\1<break time="300ms"/>\2', escaped)
+            # Commas: zero added pause — narrator treats them as connectors, not stops
             ssml.append(escaped)
     ssml.append("</speak>")
     return "".join(ssml)

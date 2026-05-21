@@ -95,49 +95,49 @@ VOICE_CATALOG: dict[str, dict] = {
 # mapped here to the actual slugs: friendship_betrayal, animal_wisdom, clever_tricks,
 # devotion_tales, courage_tales, dharma_tales.
 SUBCATEGORY_VOICE_POOL: dict[tuple, list] = {
-    # Neeti — warm feminine narration dominant
-    ("neeti", "animal_morals"):  ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Leda",    "te-IN-Chirp3-HD-Achird"],
-    ("neeti", "human_values"):   ["te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Gacrux",   "te-IN-Chirp3-HD-Callirrhoe"],
-    ("neeti", "wisdom_tales"):   ["te-IN-Chirp3-HD-Iapetus",   "te-IN-Chirp3-HD-Charon",   "te-IN-Chirp3-HD-Autonoe"],
+    # Neeti — warm, engaging narration for young children
+    ("neeti", "animal_morals"):  ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Leda",       "te-IN-Chirp3-HD-Achird"],
+    ("neeti", "human_values"):   ["te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Callirrhoe",  "te-IN-Chirp3-HD-Gacrux"],
+    ("neeti", "wisdom_tales"):   ["te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Gacrux",      "te-IN-Chirp3-HD-Leda"],
 
-    # Panchatantra — measured narrator; clever/trick stories get witty energy
-    ("panchatantra", "friendship_betrayal"): ["te-IN-Chirp3-HD-Charon",    "te-IN-Chirp3-HD-Callirrhoe", "te-IN-Chirp3-HD-Achird"],
-    ("panchatantra", "animal_wisdom"):       ["te-IN-Chirp3-HD-Charon",    "te-IN-Chirp3-HD-Achird",     "te-IN-Chirp3-HD-Leda"],
-    ("panchatantra", "clever_tricks"):       ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia",  "te-IN-Chirp3-HD-Charon"],
+    # Panchatantra — engaging animal/character stories; Achird/Callirrhoe carry wit well
+    ("panchatantra", "friendship_betrayal"): ["te-IN-Chirp3-HD-Callirrhoe", "te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Autonoe"],
+    ("panchatantra", "animal_wisdom"):       ["te-IN-Chirp3-HD-Achird",     "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Leda"],
+    ("panchatantra", "clever_tricks"):       ["te-IN-Chirp3-HD-Achird",     "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Callirrhoe"],
 
-    # Ramayana — epic mature male dominant
-    ("ramayana", "dharma_tales"):   ["te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Charon"],
+    # Ramayana — epic; Fenrir/Enceladus are genuine epic voices
+    ("ramayana", "dharma_tales"):   ["te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Autonoe"],
     ("ramayana", "devotion_tales"): ["te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Autonoe"],
     ("ramayana", "courage_tales"):  ["te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Callirrhoe"],
 
-    # Bhagavatam — devotional epic; Krishna leela gets warm playful energy
-    ("bhagavatam", "krishna_leela"):   ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Callirrhoe"],
-    ("bhagavatam", "bhakta_stories"):  ["te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Gacrux",    "te-IN-Chirp3-HD-Leda"],
-    ("bhagavatam", "avatara_kathas"):  ["te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Charon"],
+    # Bhagavatam — devotional; Krishna leela warm + playful; avatara kathas epic
+    ("bhagavatam", "krishna_leela"):   ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Callirrhoe", "te-IN-Chirp3-HD-Autonoe"],
+    ("bhagavatam", "bhakta_stories"):  ["te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Gacrux",     "te-IN-Chirp3-HD-Leda"],
+    ("bhagavatam", "avatara_kathas"):  ["te-IN-Chirp3-HD-Enceladus", "te-IN-Chirp3-HD-Fenrir",     "te-IN-Chirp3-HD-Autonoe"],
 
-    # Tenali — wit and comedy; never use Iapetus/Enceladus here
-    ("tenali", "court_wit"):        ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Charon",    "te-IN-Chirp3-HD-Laomedeia"],
-    ("tenali", "clever_schemes"):   ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Leda",      "te-IN-Chirp3-HD-Gacrux"],
-    ("tenali", "funny_adventures"): ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Callirrhoe","te-IN-Chirp3-HD-Achird"],
+    # Tenali — wit and comedy; energetic voices only
+    ("tenali", "court_wit"):        ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia",  "te-IN-Chirp3-HD-Callirrhoe"],
+    ("tenali", "clever_schemes"):   ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Leda",       "te-IN-Chirp3-HD-Gacrux"],
+    ("tenali", "funny_adventures"): ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Callirrhoe", "te-IN-Chirp3-HD-Achird"],
 
-    # Birbal — similar to Tenali
-    ("birbal", "royal_dilemmas"):   ["te-IN-Chirp3-HD-Charon",    "te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Iapetus"],
-    ("birbal", "wisdom_tests"):     ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Charon"],
+    # Birbal — wit and wisdom; energetic-warm voices
+    ("birbal", "royal_dilemmas"):   ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Autonoe",   "te-IN-Chirp3-HD-Leda"],
+    ("birbal", "wisdom_tests"):     ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Callirrhoe"],
     ("birbal", "witty_comebacks"):  ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Leda"],
 
     # Janapada — warm village voices
     ("janapada", "village_tales"):  ["te-IN-Chirp3-HD-Gacrux",    "te-IN-Chirp3-HD-Leda",      "te-IN-Chirp3-HD-Autonoe"],
     ("janapada", "hero_tales"):     ["te-IN-Chirp3-HD-Gacrux",    "te-IN-Chirp3-HD-Fenrir",    "te-IN-Chirp3-HD-Leda"],
-    ("janapada", "magical_tales"):  ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Gacrux",    "te-IN-Chirp3-HD-Callirrhoe"],
+    ("janapada", "magical_tales"):  ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Gacrux",   "te-IN-Chirp3-HD-Callirrhoe"],
 
-    # Podupu — playful riddle energy; never use slow voices as first pick
+    # Podupu — playful riddle energy; only high-warmth energetic voices; Charon removed
     ("podupu", "nature_riddles"):   ["te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Leda",      "te-IN-Chirp3-HD-Achird"],
     ("podupu", "royal_riddles"):    ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Leda"],
-    ("podupu", "clever_escapes"):   ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Charon"],
+    ("podupu", "clever_escapes"):   ["te-IN-Chirp3-HD-Achird",    "te-IN-Chirp3-HD-Laomedeia", "te-IN-Chirp3-HD-Callirrhoe"],
 
-    # Samethalu — sage narration
-    ("samethalu", "life_wisdom"):   ["te-IN-Chirp3-HD-Iapetus", "te-IN-Chirp3-HD-Autonoe", "te-IN-Chirp3-HD-Charon"],
-    ("samethalu", "hard_lessons"):  ["te-IN-Chirp3-HD-Charon",  "te-IN-Chirp3-HD-Gacrux",  "te-IN-Chirp3-HD-Iapetus"],
+    # Samethalu — sage proverb narration; warm mature voices
+    ("samethalu", "life_wisdom"):   ["te-IN-Chirp3-HD-Autonoe", "te-IN-Chirp3-HD-Gacrux",  "te-IN-Chirp3-HD-Leda"],
+    ("samethalu", "hard_lessons"):  ["te-IN-Chirp3-HD-Gacrux",  "te-IN-Chirp3-HD-Autonoe", "te-IN-Chirp3-HD-Callirrhoe"],
     ("samethalu", "relationships"): ["te-IN-Chirp3-HD-Autonoe", "te-IN-Chirp3-HD-Gacrux",  "te-IN-Chirp3-HD-Leda"],
 }
 

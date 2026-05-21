@@ -63,7 +63,7 @@ _PRO_MIN_GAP   = 5    # flash allows faster back-to-back calls
 _PRO_PRESLEEP  = 8
 _PRO_429_WAIT  = 30   # flash 429s recover faster
 
-_VALIDATION_THRESHOLD = 8.0   # average across all 6 dimensions
+_VALIDATION_THRESHOLD = 8.2   # average across all 6 dimensions; emotional_depth must reach ≥ 8
 
 # ── Fallback lighting (used ONLY when Pass 1 scene_lighting is absent) ────────
 # These are last-resort defaults. New stories always get scene_lighting from
@@ -306,7 +306,8 @@ Return ONLY valid JSON:
 
 def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
                   topic: str, categories: dict[str, Any],
-                  attempt: int = 1) -> dict[str, Any]:
+                  attempt: int = 1,
+                  existing_titles: list[str] | None = None) -> dict[str, Any]:
     """Convert English outline into grandmother-voiced Telugu narration."""
     cat = categories[cat_key]
     sub = cat["subcategories"][sub_key]
@@ -336,11 +337,22 @@ def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
 ======
 """
 
+    existing_titles_block = ""
+    if existing_titles:
+        titles_list = "\n".join(f"  - {t}" for t in existing_titles if t)
+        existing_titles_block = (
+            f"\nTITLE UNIQUENESS — MANDATORY:\n"
+            f"These story titles already exist in the library. "
+            f"Your new title MUST be different in both wording AND specific angle covered. "
+            f"Do NOT produce a title that overlaps in meaning or topic with any of these:\n"
+            f"{titles_list}\n"
+        )
+
     prompt = f"""\
 మీరు ఒక అనుభవజ్ఞులైన తెలుగు కథకులు. మీ మనవలు చీకట్లో మంచం మీద పడుకుని, కళ్ళు మూసుకుని, మీ కంఠంలో కథ వింటున్నారు.
 మీరు పుస్తకం నుండి చదవడం లేదు — మీ మనసులో ఉన్న కథను చెప్తున్నారు.
 ప్రతి వాక్యంలో ప్రేమ, ఉత్కంఠ, జీవం ఉండాలి. పిల్లలు "ఇంకా చెప్పు అమ్మమ్మా!" అని అడిగేలా వ్రాయండి.
-{mythology_telugu_rule}
+{mythology_telugu_rule}{existing_titles_block}
 CATEGORY   : {cat['telugu_name']}
 SUBCATEGORY: {sub['telugu_name']}
 TOPIC      : {topic}
@@ -365,31 +377,42 @@ Scenes to write:
   "అప్పుడు", "ఇంతలో", "అట్లాంటప్పుడు", "చూశావా?", "తెలుసా?"
   "ఏం చేశాడంటే", "ఆ క్షణంలో", "ఒక్కసారిగా"
 
-వాక్యాలు — max 12-15 words. Short sentences hit harder.
+వాక్యాలు — TARGET 14-20 words (connected flowing thoughts that a narrator can speak in one breath).
+BANNED: three or more consecutive short sentences (≤8 words) — they create choppy audio with too many pauses.
+CHAIN related thoughts with conjunctions: "కానీ", "అయినా", "అయినప్పుడు", "కాబట్టి", "-తూ" forms.
+SHORT sentence (≤6 words) is allowed ONLY for the one PERFORMANCE MOMENT per scene — shock, reveal, turning point.
+GOAL: a listener should hear 3-4 seconds of flowing speech, then a breath — not a breath every 1-2 seconds.
 
 ====== AUDIO PERFORMANCE MARKERS (CRITICAL — the text becomes spoken audio) ======
 
 The scene text is read aloud by a voice engine. You must write text that PERFORMS well,
 not just reads well on paper. Use these markers to shape the audio:
 
-  —  (em-dash)   : dramatic mid-sentence pause. The storyteller leans in.
+  —  (em-dash)   : one sharp dramatic pause — the storyteller leans in.
                    "ఆ చప్పుడు — అడవంతా ఆగిపోయింది."
-                   Use 1-2 times per scene at peak tension moments.
+                   Use 1-2 times per scene, only at peak tension or revelation.
 
-  ... (ellipsis) : suspense pause. Child holds breath, wonders what happens next.
+  ... (ellipsis) : suspense breath. Child holds breath, wonders what comes next.
                    "తలుపు తెరుచుకుంది... లోపల ఏముందో ఎవరికీ తెలియదు."
-                   Use once per scene, only at the highest suspense beat.
+                   Use once per scene, only at the single highest suspense moment.
 
-  Short standalone sentence (≤6 words, own line conceptually):
+  Short standalone sentence (≤6 words):
                    These land like drumbeats. Use for shock, revelation, or turning point.
                    "అతను ఒంటరిగా నిలబడ్డాడు."
                    "ఇప్పుడు ఏం చేయాలి?"
 
-  Comma rhythm   : short phrases separated by commas create a breathing, rhythmic cadence.
-                   "మెల్లగా, జాగ్రత్తగా, ఒక్కో అడుగూ వేశాడు."
+  COMMA RULE — READ THIS CAREFULLY:
+  Commas in this text become spoken pauses. Too many commas = choppy narration.
+  BANNED: adverb lists separated by commas ("మెల్లగా, జాగ్రత్తగా, నిదానంగా")
+  BANNED: phrase fragments strung together with commas ("అతను వెళ్ళాడు, చూశాడు, ఆగాడు")
+  ALLOWED: one comma in a sentence to join two closely related clauses.
+  THINK IN THOUGHT GROUPS: write each sentence as one flowing thought that a narrator
+  can speak in a single breath — not as a list of small pieces stitched with commas.
 
-  DO NOT write long sentences without any punctuation — words blur into each other.
-  Every 12-15 word sentence MUST have at least one comma or em-dash breaking it.
+  GOOD: "అతను మెల్లగా అడుగు వేసుకుంటూ, నది వైపు నడిచాడు." (one flowing thought)
+  BAD:  "అతను మెల్లగా, నిదానంగా, జాగ్రత్తగా, నది వైపు నడిచాడు." (choppy list)
+
+  Target: max 2 commas per sentence. If you need more, split into two sentences.
 
 ====== ప్రతి scene కి rules ======
 
@@ -402,7 +425,9 @@ not just reads well on paper. Use these markers to shape the audio:
    NOT: ఏనుగు కారణం అడిగాడు. (This is reported speech — forbidden)
 
 3. EMOTION THROUGH BODY + ACTION (never state emotions directly):
-   The reader must INFER the feeling from what the body does or what changes.
+   MANDATORY: Every scene MUST contain at least 2 moments where emotion is shown
+   through physical action, body language, or environmental change — never named directly.
+   Stories that name emotions score < 7 and get rejected. Be ruthless about this.
 
    ANGER:
      BAD : "రావణుడికి కోపం వచ్చింది."
@@ -419,6 +444,22 @@ not just reads well on paper. Use these markers to shape the audio:
    SADNESS:
      BAD : "అతనికి దుఃఖం కలిగింది."
      GOOD: "అతను మాట్లాడడం మానేశాడు. భోజనం తినలేదు. ఒక్కడే కూర్చుండిపోయాడు."
+
+   WORRY / TENSION:
+     BAD : "అతనికి భయంగా ఉంది."
+     GOOD: "అతని చేతులు వణికాయి. గుండె వేగంగా కొట్టుకుంది. అడుగు ముందుకు పడలేదు."
+
+   SURPRISE:
+     BAD : "అతను ఆశ్చర్యపోయాడు."
+     GOOD: "అతను అక్కడే ఆగిపోయాడు. నోరు తెరుచుకుంది — మాట రాలేదు."
+
+3b. PERFORMANCE MOMENT (mandatory — one per scene):
+   Write exactly ONE moment per scene that will make the narrator's voice peak naturally —
+   a shocking reveal, a moment of triumph, a sudden danger, a tender connection.
+   This is the sentence the child will remember. It must be vivid, short, and hit like a drumbeat.
+   Example: "ఆ బట్టల కింద — పాము ఉంది."
+   Example: "అతను విన్నాడు: అది అతని అమ్మ గొంతు."
+   Example: "ఒక్కసారిగా — అన్నీ అర్థమయ్యాయి."
 
 4. SENSORY ANCHOR:
    Weave the sensory_detail from the outline naturally into the scene text.
@@ -796,8 +837,19 @@ Return ONLY valid JSON:
     avg = sum(result.get(d, 0) for d in dims) / len(dims)
     result["average"] = round(avg, 2)
 
+    # Hard floor: emotional_depth < 8 always fails regardless of average.
+    # Flat emotional text produces flat audio no matter which voice is used.
+    emotional_depth = result.get("emotional_depth", 0)
+    if emotional_depth < 8 and avg >= _VALIDATION_THRESHOLD:
+        avg = min(avg, _VALIDATION_THRESHOLD - 0.1)
+        result["average"] = round(avg, 2)
+        logger.warning(
+            f"Pass 3: emotional_depth={emotional_depth} < 8 — "
+            f"overriding score to FAIL (audio will be flat without embodied emotions)"
+        )
+
     status = "PASS" if avg >= _VALIDATION_THRESHOLD else "FAIL"
-    logger.info(f"Pass 3 {status}: avg={avg:.2f} — {result.get('notes','')}")
+    logger.info(f"Pass 3 {status}: avg={avg:.2f} emotional_depth={emotional_depth} — {result.get('notes','')}")
     return avg, result
 
 
@@ -900,7 +952,8 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
 
     for attempt in range(1, 4):   # 1 initial + 2 retries
         set_stage("narration")
-        telugu_story = _pass2_telugu(outline, cat_key, sub_key, topic, categories, attempt)
+        telugu_story = _pass2_telugu(outline, cat_key, sub_key, topic, categories, attempt,
+                                     existing_titles=existing_titles)
 
         # Pass 2.5: extract narration-grounded visual descriptions for each scene.
         # These drive image generation so images match exactly what is narrated.
