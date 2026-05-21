@@ -1,0 +1,90 @@
+{
+  "title": "పండుగ రహస్యం, చిట్టి సాహసం",
+  "moral": "భయాన్ని దాటితేనే, కొత్త లోకాలు కనిపిస్తాయి కదూ?",
+  "main_character": "Chitti is a curious and observant 8-year-old girl with bright, questioning eyes and often a small jasmine flower tucked behind her ear. She loves her village and its traditions but is inherently a little timid when faced with the unknown or scary. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant Telugu village nestled beside a river, adorned with colorful rangoli patterns and mango leaf torans during the annual 'పల్లె పండుగ'. Clay pots are stacked near houses, and a grand old banyan tree stands central to the village square, bustling with activity from morning to night. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లె పండుగ సందడితో ఆ ఊరంతా కళకళలాడుతోంది, చిట్టి కళ్ళు ఆనందంతో మెరిశాయి. బెల్లం, బియ్యప్పిండి లడ్డూల కమ్మని వాసన గాలిలో తేలియాడుతూ, ఆమెను మరింత ఉత్సాహపరిచింది. రంగురంగుల రంగవల్లులు అలంకరించిన ఇళ్ళు, మామిడి తోరణాలు కట్టిన వీధులు ఎంతో అందంగా కనిపించాయి. చిట్టి ఆ దృశ్యాలను చూస్తూ, సంతోషంగా చప్పట్లు కొట్టింది. అప్పుడు ఆమె చూపు ఊరి మధ్యన ఉన్న పెద్ద గుడిబొమ్మ మీద పడింది — దాని కళ్ళు భయంకరంగా ఉన్నాయి. \"అమ్మా, ఆ గుడిబొమ్మ కళ్ళు ఎందుకు అంత పెద్దగా ఉన్నాయి?\" అని చిట్టి అడిగింది, ఆమె చేతులు తెలియకుండానే బిగుసుకున్నాయి. ఆ గుడిబొమ్మ వెనుక ఏదో మర్మం ఉందేమో?",
+      "image_prompt": "The girl looks up at a large village idol, her hands involuntarily clenching as she asks about its eyes. The idol's eyes are described as frighteningly large, capturing her attention. Bright, warm morning sunlight filtering through mango leaves, creating dappled shadows on the festive village path, feeling vibrant and slightly magical.",
+      "scene_visual": "The girl looks up at a large village idol, her hands involuntarily clenching as she asks about its eyes. The idol's eyes are described as frighteningly large, capturing her attention.",
+      "text_te_en": "Palle Panduga Sandadito Aa Urantaa Kalakalalaadutondi, Chitti Kallu Aanandanto Merishaayi. Bellan, Biyyappindi Laddula Kammani Vaasana Gaalilo Teliyaadutu, Aamenu Marinta Utsaahaparichindi. Rangurangula Rangavallulu Alankarinchina Illu, Maamidi Toranaalu Kattina Vidhulu Ento Andangaa Kanipinchaayi. Chitti Aa Drrishyaalanu Chustu, Santoshangaa Chappatlu Kottindi. Appudu Aame Chupu Uri Madhyana Unna Pedda Gudibomma Mida Padindi — Daani Kallu Bhayankarangaa Unnaayi. \"Ammaa, Aa Gudibomma Kallu Enduku Anta Peddagaa Unnaayi?\" Ani Chitti Adigindi, Aame Chetulu Teliyakundaane Bigusukunnaayi. Aa Gudibomma Venuka Edo Marmam Undemo?",
+      "text_en": "The whole village was bustling with the excitement of the village festival, and Chitti's eyes sparkled with joy. The sweet smell of jaggery and rice flour laddus floated in the air, making her even more excited. Houses decorated with colorful rangolis and streets adorned with mango leaf garlands looked so beautiful. Chitti clapped happily as she watched these sights. Then her gaze fell upon a large idol in the middle of the village — its eyes looked frightening. \"Mom, why are the idol's eyes so big?\" Chitti asked, her hands unconsciously clenched. Was there some secret behind that idol?"
+    },
+    {
+      "id": 2,
+      "text": "చిట్టి గుడిబొమ్మ వైపు చూస్తూ ఉండగానే, ఊరి పెద్ద గంభీరంగా మాట్లాడడం మొదలుపెట్టాడు. తాటి ఆకుల సన్నని గలగల శబ్దం, ఆయన మాటలకు తోడుగా వినిపించింది. పల్లె పండుగ రహస్యం గురించి అందరికీ చెప్పబోతున్నానని ఆయన ప్రకటించాడు. చిట్టి చెవులు రిక్కించి వినసాగింది, ఆమె గుండె వేగంగా కొట్టుకుంది. \"ఈసారి రహస్యం గుడి బొమ్మ వెనుక ఉన్న చీకటి దారిలో ఉంది!\" అని పెద్దాయన గొంతు పెంచి చెప్పాడు. చిట్టి ఒళ్ళు ఒక్కసారిగా జలదరించింది... ఆ చీకటి దారిలో ఏముందో?",
+      "image_prompt": "The girl shivers as the village elder dramatically announces that the secret lies behind the idol, in a dark path. The rustling sound of palm leaves accompanies the elder's raised voice, emphasizing the dramatic revelation. Soft, golden late afternoon light, casting long shadows from the banyan tree, creating a sense of anticipation and traditional warmth.",
+      "scene_visual": "The girl shivers as the village elder dramatically announces that the secret lies behind the idol, in a dark path. The rustling sound of palm leaves accompanies the elder's raised voice, emphasizing the dramatic revelation.",
+      "text_te_en": "Chitti Gudibomma Vaipu Chustu Undagaane, Uri Pedda Gambhirangaa Maatlaadadam Modalupettaadu. Taati Aakula Sannani Galagala Shabdan, Aayana Maatalaku Todugaa Vinipinchindi. Palle Panduga Rahasyam Gurinchi Andariki Cheppabotunnaanani Aayana Prakatinchaadu. Chitti Chevulu Rikkinchi Vinasaagindi, Aame Gunde Vegangaa Kottukundi. \"Isaari Rahasyam Gudi Bomma Venuka Unna Chikati Daarilo Undi!\" Ani Peddaayana Gontu Penchi Cheppaadu. Chitti Ollu Okkasaarigaa Jaladarinchindi... Aa Chikati Daarilo Emundo?",
+      "text_en": "As Chitti kept looking at the idol, the village elder began to speak solemnly. The faint rustling sound of palm leaves accompanied his words. He announced that he was going to tell everyone about the village festival's secret. Chitti pricked up her ears and listened, her heart beating fast. \"This time, the secret is in the dark path behind the idol!\" the elder declared, raising his voice. Chitti shivered all over... What could be in that dark path?"
+    },
+    {
+      "id": 3,
+      "text": "పండుగ ఉత్సాహం కొనసాగుతుండగానే, ఒక్కసారిగా గ్రామంలో అలజడి మొదలైంది. ప్రధాన పూజ కోసం సిద్ధం చేసిన ప్రత్యేక దీపం కనిపించకుండా పోయింది. గ్రామస్తుల ఆందోళనతో కూడిన గుసగుసలు, వెతుకులాటతో వాతావరణం అంతా కలవరపడింది. \"అయ్యో! పండుగ దీపం ఎక్కడ పోయింది? సమయం మించిపోతోంది!\" అని ఒకరు ఆత్రంగా అరిచారు. చిట్టి మొహం కందగడ్డలా మారింది, ఆమె పెదవులు బిగుసుకున్నాయి. పండుగకు సమయం దగ్గర పడుతుంటే — దీపం ఎక్కడ ఉందో ఎవరికీ తెలియదు.",
+      "image_prompt": "The girl's face turns red and her lips tighten in distress as villagers frantically search for a missing special lamp. The atmosphere is filled with worried whispers and shouts from the villagers, indicating widespread panic. Twilight deepening, with the first few stars appearing, casting a worried, fading blue light over the village square, contrasting with the few lit lanterns.",
+      "scene_visual": "The girl's face turns red and her lips tighten in distress as villagers frantically search for a missing special lamp. The atmosphere is filled with worried whispers and shouts from the villagers, indicating widespread panic.",
+      "text_te_en": "Panduga Utsaaham Konasaagutundagaane, Okkasaarigaa Graamanlo Alajadi Modalaindi. Pradhaana Puja Kosam Siddham Chesina Pratyeka Dipam Kanipinchakundaa Poyindi. Graamastula Aandolanato Kudina Gusagusalu, Vetukulaatato Vaataavaranam Antaa Kalavarapadindi. \"Ayyo! Panduga Dipam Ekkada Poyindi? Samayam Minchipotondi!\" Ani Okaru Aatrangaa Arichaaru. Chitti Moham Kandagaddalaa Maarindi, Aame Pedavulu Bigusukunnaayi. Pandugaku Samayam Daggara Padutunte — Dipam Ekkada Undo Evariki Teliyadu.",
+      "text_en": "As the festival excitement continued, suddenly a commotion started in the village. The special lamp prepared for the main prayer had disappeared. The atmosphere was filled with anxious whispers and searches from the villagers. \"Oh no! Where did the festival lamp go? Time is running out!\" someone cried anxiously. Chitti's face showed worry, and her lips tightened. With the festival time drawing near — no one knew where the lamp was."
+    },
+    {
+      "id": 4,
+      "text": "దీపం కోసం ఊరంతా వెతుకుతుండగా, చిట్టి మనసులో పెద్ద అలజడి మొదలైంది. పెద్దాయన చెప్పిన మాటలు ఆమె చెవుల్లో మళ్ళీ మళ్ళీ వినిపించాయి — గుడిబొమ్మ వెనుక ఉన్న చీకటి దారి. ఆమె చేతికి తగిలిన మట్టికుండ చల్లని స్పర్శ ఆమెను ఆలోచింపజేసింది. ఆమె గుండె వేగంగా కొట్టుకుంది, కానీ ఆమె చూపులు గుడిబొమ్మ వైపు వెళ్ళాయి. \"అది చాలా చీకటిగా ఉంటుంది... కానీ దీపం అక్కడే ఉందేమో?\" అని చిట్టి తనలో తనే అనుకుంది. ఆమె పెదవులు బిగుసుకున్నాయి — భయాన్ని జయిస్తుందా?",
+      "image_prompt": "The girl's gaze is drawn towards the large idol, her lips tightening as she contemplates the dark path behind it. The cool touch of a clay pot in her hand momentarily grounds her amidst her racing thoughts. Deep blue dusk, almost night, with shadows growing long and indistinct, making the 'గుడిబొమ్మ' appear even more imposing and mysterious.",
+      "scene_visual": "The girl's gaze is drawn towards the large idol, her lips tightening as she contemplates the dark path behind it. The cool touch of a clay pot in her hand momentarily grounds her amidst her racing thoughts.",
+      "text_te_en": "Dipam Kosam Urantaa Vetukutundagaa, Chitti Manasulo Pedda Alajadi Modalaindi. Peddaayana Cheppina Maatalu Aame Chevullo Malli Malli Vinipinchaayi — Gudibomma Venuka Unna Chikati Daari. Aame Chetiki Tagilina Mattikunda Challani Sparsha Aamenu Aalochimpajesindi. Aame Gunde Vegangaa Kottukundi, Kaani Aame Chupulu Gudibomma Vaipu Vellaayi. \"Adi Chaalaa Chikatigaa Untundi... Kaani Dipam Akkade Undemo?\" Ani Chitti Tanalo Tane Anukundi. Aame Pedavulu Bigusukunnaayi — Bhayaanni Jayistundaa?",
+      "text_en": "While the whole village searched for the lamp, a great commotion started in Chitti's mind. The elder's words echoed in her ears again and again — the dark path behind the idol. The cool touch of the clay pot she was holding made her think. Her heart beat fast, but her gaze went towards the idol. \"It will be very dark... but maybe the lamp is there?\" Chitti thought to herself. Her lips tightened — would she conquer her fear?"
+    },
+    {
+      "id": 5,
+      "text": "చిట్టి గట్టిగా ఊపిరి పీల్చుకుంది, ఆమె గుండె దడదడలాడింది. గుడిబొమ్మ వెనుక ఉన్న చీకటి, పొదలు అల్లుకున్న దారిలోకి ఆమె అడుగు పెట్టింది. ఆ దారిలో కనిపించిన నీడలు, వింత శబ్దాలు ఆమెకు వెన్నులో వణుకు పుట్టించాయి. ఒక్కసారిగా — ఆకుల గలగల ఆమెను ఉలిక్కిపడేలా చేసింది. \"భయం వద్దు, చిట్టి! పండుగ కోసం!\" అని ఆమె తనలో తనే ధైర్యం చెప్పుకుంది. ఆమె చేతులు వణికుతున్నా, కళ్ళల్లో ఒక మెరుపు కనిపించింది... ఆమెకు దీపం దొరుకుతుందా?",
+      "image_prompt": "The girl takes a deep breath and steps into the dark, overgrown path behind the idol, her hands trembling. Shadows and strange sounds from within the path cause a shiver to run down her spine. Almost pitch black under the thick canopy of trees, with only slivers of moonlight barely penetrating, creating deep, shifting shadows that play tricks on the eyes.",
+      "scene_visual": "The girl takes a deep breath and steps into the dark, overgrown path behind the idol, her hands trembling. Shadows and strange sounds from within the path cause a shiver to run down her spine.",
+      "text_te_en": "Chitti Gattigaa Upiri Pilchukundi, Aame Gunde Dadadadalaadindi. Gudibomma Venuka Unna Chikati, Podalu Allukunna Daariloki Aame Adugu Pettindi. Aa Daarilo Kanipinchina Nidalu, Vinta Shabdaalu Aameku Vennulo Vanuku Puttinchaayi. Okkasaarigaa — Aakula Galagala Aamenu Ulikkipadelaa Chesindi. \"Bhayam Vaddu, Chitti! Panduga Kosan!\" Ani Aame Tanalo Tane Dhairyam Cheppukundi. Aame Chetulu Vanikutunnaa, Kallallo Oka Merupu Kanipinchindi... Aameku Dipam Dorukutundaa?",
+      "text_en": "Chitti took a deep breath, her heart thumping. She stepped into the dark, overgrown path behind the idol. The shadows and strange sounds she saw on that path sent shivers down her spine. Suddenly — the rustling of leaves made her jump. \"Don't be afraid, Chitti! For the festival!\" she told herself bravely. Even though her hands were trembling, a spark appeared in her eyes... Would she find the lamp?"
+    },
+    {
+      "id": 6,
+      "text": "భయాన్ని పక్కన నెట్టి, చిట్టి ఆ చీకటి దారిలో ముందుకు నడిచింది. గుడిబొమ్మ వెనుక ఒక చిన్న సందులో — పండుగ దీపం మెల్లగా వెలుగుతోంది. దాని వెచ్చని కాంతిలో, ఒక అందమైన దేవత విగ్రహం కనిపించింది. ఆ విగ్రహం మీద చిన్న చిన్న మిణుగురు పురుగులు మెరుస్తూ, మరింత అద్భుతంగా ఉన్నాయి. \"అదిగో, ఇక్కడే ఉంది! రహస్యం కూడా ఎంత అందంగా ఉంది!\" అని చిట్టి ఆశ్చర్యంతో కేక వేసింది. ఆమె కళ్ళు ఆనందంతో మెరిశాయి — ఈ అద్భుతాన్ని ఊరంతా చూడాలి కదా?",
+      "image_prompt": "The girl discovers the festival lamp gently glowing in a small alley behind the idol, illuminating a beautiful goddess statue. Tiny fireflies sparkle on the goddess statue, adding to the magical glow of the lamp. A small, intimate pocket of light within the darkness, created by the soft, steady glow of the recovered ceremonial lamp and the gentle luminescence of glow-worms, feeling magical and serene.",
+      "scene_visual": "The girl discovers the festival lamp gently glowing in a small alley behind the idol, illuminating a beautiful goddess statue. Tiny fireflies sparkle on the goddess statue, adding to the magical glow of the lamp.",
+      "text_te_en": "Bhayaanni Pakkana Netti, Chitti Aa Chikati Daarilo Munduku Nadichindi. Gudibomma Venuka Oka Chinna Sandulo — Panduga Dipam Mellagaa Velugutondi. Daani Vechchani Kaantilo, Oka Andamaina Devata Vigraham Kanipinchindi. Aa Vigraham Mida Chinna Chinna Minuguru Purugulu Merustu, Marinta Adbhutangaa Unnaayi. \"Adigo, Ikkade Undi! Rahasyam Kudaa Enta Andangaa Undi!\" Ani Chitti Aashcharyanto Keka Vesindi. Aame Kallu Aanandanto Merishaayi — I Adbhutaanni Urantaa Chudaali Kadaa?",
+      "text_en": "Pushing her fear aside, Chitti walked forward on that dark path. In a small alley behind the idol — the festival lamp was gently glowing. In its warm light, a beautiful goddess idol appeared. Tiny fireflies sparkled on the idol, making it even more wonderful. \"There it is, right here! How beautiful the secret is too!\" Chitti exclaimed in surprise. Her eyes sparkled with joy — shouldn't the whole village see this wonder?"
+    },
+    {
+      "id": 7,
+      "text": "చిట్టి వెలుగుతున్న దీపాన్ని పట్టుకుని, ఆ చీకటి దారి నుండి బయటకు వచ్చింది. ఆమె ముఖం ప్రకాశవంతంగా ఉంది, కళ్ళల్లో ధైర్యం తొణికిసలాడింది. ఆ అందమైన రహస్యం గురించి ఆమె ఉత్సాహంగా చెప్పింది, ఊరంతా ఆశ్చర్యపోయింది. \"చిట్టి మన పండుగను కాపాడింది! ఆమె చాలా ధైర్యవంతురాలు!\" అని గ్రామస్తులు సంతోషంగా కేకలు వేశారు. ఒక్కసారిగా — పండుగ దీపాలు వెలిగిపోయాయి. ఆమె ఇప్పుడు కేవలం చిట్టి కాదు — ఒక ధైర్యవంతురాలు.",
+      "image_prompt": "The girl emerges from the dark path, holding the brightly lit festival lamp, her face radiant. Her eyes shine with courage as villagers cheer and other festival lamps begin to light up around her. The village square bathed in the warm, festive glow of hundreds of oil lamps and torches, creating a celebratory and joyous atmosphere, with a bright full moon overhead.",
+      "scene_visual": "The girl emerges from the dark path, holding the brightly lit festival lamp, her face radiant. Her eyes shine with courage as villagers cheer and other festival lamps begin to light up around her.",
+      "text_te_en": "Chitti Velugutunna Dipaanni Pattukuni, Aa Chikati Daari Nundi Bayataku Vachchindi. Aame Mukham Prakaashavantangaa Undi, Kallallo Dhairyam Tonikisalaadindi. Aa Andamaina Rahasyam Gurinchi Aame Utsaahangaa Cheppindi, Urantaa Aashcharyapoyindi. \"Chitti Mana Panduganu Kaapaadindi! Aame Chaalaa Dhairyavanturaalu!\" Ani Graamastulu Santoshangaa Kekalu Veshaaru. Okkasaarigaa — Panduga Dipaalu Veligipoyaayi. Aame Ippudu Kevalam Chitti Kaadu — Oka Dhairyavanturaalu.",
+      "text_en": "Chitti came out of the dark path, holding the glowing lamp. Her face was bright, and courage shone in her eyes. She excitedly told everyone about the beautiful secret, and the whole village was amazed. \"Chitti saved our festival! She is so brave!\" the villagers cheered happily. Suddenly — the festival lamps lit up. She was no longer just Chitti — she was a brave girl."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.5,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is exceptionally well-structured for a children's narrative, boasting a compelling arc and excellent engagement techniques like scene-ending hooks. The oral storytelling quality is high, making it feel like a genuine bedtime story. To reach a perfect score, the author should focus on subtly transforming the few instances where emotions are explicitly stated into actions or internal thoughts, thereby deepening the 'show, don't tell' aspect."
+  },
+  "title_te_en": "Panduga Rahasyan, Chitti Saahasam",
+  "moral_te_en": "Bhayaanni Daatitene, Kotta Lokaalu Kanipistaayi Kadu?",
+  "title_en": "The Festival's Secret, Chitti's Adventure",
+  "moral_en": "New worlds appear only when you overcome fear, don't they?",
+  "id": "20260521_133712",
+  "date": "2026-05-21",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "తెలుగు జానపద కథ - పల్లె పండుగ మరియు రహస్యం",
+  "thumbnail": "stories/20260521_133712/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
