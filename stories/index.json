@@ -1,6 +1,40 @@
 {
   "stories": [
     {
+      "id": "20260521_192354",
+      "slug": "chitti-veenu-raaja-podupu-guttu",
+      "title": "చిట్టి వేణు, రాజ పొడుపు గుట్టు",
+      "moral": "చుట్టూ ఉన్న ప్రపంచాన్ని జాగ్రత్తగా గమనిస్తే, ఇతరులు చూడని సమాధానాలు నీకు దొరుకుతాయి.",
+      "thumbnail": "stories/20260521_192354/images/scene1.jpg",
+      "date": "2026-05-21",
+      "category": "podupu",
+      "subcategory": "royal_riddles",
+      "topic": "రాజు మరియు సంత పొడుపు",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "Veṇu and the King's Riddle Secret",
+      "moral_en": "If you observe the world around you carefully, you will find answers that others don't see.",
+      "title_te_en": "Chitti Venu, Raaja Podupu Guttu",
+      "moral_te_en": "Chuttu Unna Prapanchaanni Jaagrattagaa Gamaniste, Itarulu Chudani Samaadhaanaalu Niku Dorukutaayi."
+    },
+    {
+      "id": "20260521_171016",
+      "slug": "udayam-techchee-bahumati",
+      "title": "ఉదయం తెచ్చే బహుమతి",
+      "moral": "ప్రపంచం నిద్రపోతున్నప్పుడు కష్టపడిన వారికి ప్రకృతి అందమైన బహుమతులు ఇస్తుంది, మనసుకి ప్రశాంతత లభిస్తుంది.",
+      "thumbnail": "stories/20260521_171016/images/scene1.jpg",
+      "date": "2026-05-21",
+      "category": "samethalu",
+      "subcategory": "life_wisdom",
+      "topic": "వేకువజామున లేచిన వారికి విజయం అనే కథ",
+      "voice": "te-IN-Chirp3-HD-Autonoe",
+      "schema_version": 2,
+      "title_en": "The Gift the Morning Brings",
+      "moral_en": "Nature gives beautiful gifts to those who make an effort when the world is sleeping, and their minds find peace.",
+      "title_te_en": "Udayam Techche Bahumati",
+      "moral_te_en": "Prapancham Nidrapotunnappudu Kashtapadina Vaariki Prakrriti Andamaina Bahumatulu Istundi, Manasuki Prashaantata Labhistundi."
+    },
+    {
       "id": "20260521_133712",
       "slug": "pamduga-rahasyam-chitti-saahasam",
       "title": "పండుగ రహస్యం, చిట్టి సాహసం",
