@@ -307,7 +307,8 @@ Return ONLY valid JSON:
 def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
                   topic: str, categories: dict[str, Any],
                   attempt: int = 1,
-                  existing_titles: list[str] | None = None) -> dict[str, Any]:
+                  existing_titles: list[str] | None = None,
+                  prev_failure_notes: str | None = None) -> dict[str, Any]:
     """Convert English outline into grandmother-voiced Telugu narration."""
     cat = categories[cat_key]
     sub = cat["subcategories"][sub_key]
@@ -348,11 +349,23 @@ def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
             f"{titles_list}\n"
         )
 
+    retry_feedback_block = ""
+    if prev_failure_notes and attempt > 1:
+        retry_feedback_block = (
+            f"\n====== RETRY ATTEMPT {attempt} — PREVIOUS VERSION REJECTED ======\n"
+            f"The previous version of this story was scored and FAILED quality review.\n"
+            f"The reviewer's exact notes on why it failed:\n\n"
+            f"  \"{prev_failure_notes}\"\n\n"
+            f"You MUST fix every issue mentioned above. Do NOT repeat the same mistakes.\n"
+            f"Write a fundamentally better version — not a cosmetic tweak of the last attempt.\n"
+            f"======================================================================\n"
+        )
+
     prompt = f"""\
 మీరు ఒక అనుభవజ్ఞులైన తెలుగు కథకులు. మీ మనవలు చీకట్లో మంచం మీద పడుకుని, కళ్ళు మూసుకుని, మీ కంఠంలో కథ వింటున్నారు.
 మీరు పుస్తకం నుండి చదవడం లేదు — మీ మనసులో ఉన్న కథను చెప్తున్నారు.
 ప్రతి వాక్యంలో ప్రేమ, ఉత్కంఠ, జీవం ఉండాలి. పిల్లలు "ఇంకా చెప్పు అమ్మమ్మా!" అని అడిగేలా వ్రాయండి.
-{mythology_telugu_rule}{existing_titles_block}
+{mythology_telugu_rule}{retry_feedback_block}{existing_titles_block}
 CATEGORY   : {cat['telugu_name']}
 SUBCATEGORY: {sub['telugu_name']}
 TOPIC      : {topic}
@@ -945,15 +958,17 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
         logger.info(f"Antagonist locked: {outline['antagonist'][:80]}...")
 
     # ── Passes 2 + 3: narrate → validate → retry up to 2× ────────────────────
-    quality_warning = False
-    final_story     = None
-    final_score     = 0.0
-    final_scores    = {}
+    quality_warning    = False
+    final_story        = None
+    final_score        = 0.0
+    final_scores       = {}
+    prev_failure_notes = None   # fed back into Pass 2 on each retry
 
     for attempt in range(1, 4):   # 1 initial + 2 retries
         set_stage("narration")
         telugu_story = _pass2_telugu(outline, cat_key, sub_key, topic, categories, attempt,
-                                     existing_titles=existing_titles)
+                                     existing_titles=existing_titles,
+                                     prev_failure_notes=prev_failure_notes)
 
         # Pass 2.5: extract narration-grounded visual descriptions for each scene.
         # These drive image generation so images match exactly what is narrated.
@@ -973,11 +988,13 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
             logger.info(f"Story accepted on attempt {attempt} (score={score:.2f})")
             break
 
+        notes = score_detail.get("notes", "")
         logger.warning(
             f"Quality {score:.2f} < {_VALIDATION_THRESHOLD} "
-            f"(attempt {attempt}/3) — "
-            f"{score_detail.get('notes', '')}"
+            f"(attempt {attempt}/3) — {notes}"
         )
+        prev_failure_notes = notes   # pass reviewer feedback into next retry
+
         if attempt == 3:
             # Accept with warning rather than abort
             final_story     = telugu_story
