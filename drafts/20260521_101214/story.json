@@ -1,0 +1,91 @@
+{
+  "title": "అమ్మ కోసం హనుమాన్ అడుగు",
+  "moral": "పిల్లలూ, మనసులో భక్తి, ధైర్యం ఉంటే, ఏ కష్టమైనా దాటగలమని ఈ కథ మనకు నేర్పుతుంది.",
+  "main_character": "Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Always the same character across every scene.",
+  "antagonist": "None",
+  "setting": "The southern tip of Bharatavarsha, with its sandy beaches meeting the vast, endless ocean, and later the vibrant, exotic landscapes of Lanka. Palm trees sway gently against a backdrop of distant mountains. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "సుదూర తీరాన, లంక ఎక్కడో ఉందని తెలిసి, వానర సైన్యం అంతా నిరాశగా సముద్రం వైపు చూస్తున్నారు. వాళ్ళ ముఖాలు చిన్నబోయాయి, కొందరు తలలు వంచుకుని కూర్చుండిపోయారు. సముద్రం అంచున నిలబడి, హనుమానుడు తన ప్రియమైన రాముడిని, సీతమ్మను తల్చుకుంటూ — కళ్ళు మూసుకుని దీర్ఘంగా ఊపిరి పీల్చాడు. ఆ సమయంలో, కెరటాల అనంతమైన ఘోష, సముద్రం ఎంత పెద్దదో గుర్తుచేసింది. \"అమ్మా సీతమ్మను ఎక్కడ వెతకాలి?\" అని తనలో తాను గొణుక్కున్నాడు. ఇంత పెద్ద సముద్రాన్ని దాటడం ఎలా అని అందరూ ఆలోచిస్తున్నారు... ఏం చేయాలో ఎవరికీ తోచడం లేదు కదా?",
+      "image_prompt": "The powerful being stands at the ocean's edge, closing his eyes and taking a deep, heavy breath. The infinite roar of the waves reminds him of the sea's immense size as he contemplates his task. SUPPORTING CHARACTER also in this scene: Sugriva: a vanara with reddish-gold complexion, slightly smaller and leaner than Vali. Wearing simple golden ornaments. Alert, determined expression. Bright, clear midday sun reflecting blindingly off the white sand and sparkling ocean, casting sharp shadows.",
+      "scene_visual": "The powerful being stands at the ocean's edge, closing his eyes and taking a deep, heavy breath. The infinite roar of the waves reminds him of the sea's immense size as he contemplates his task.",
+      "text_te_en": "Sudura Tiraana, Lanka Ekkado Undani Telisi, Vaanara Sainyam Antaa Niraashagaa Samudram Vaipu Chustunnaaru. Vaalla Mukhaalu Chinnaboyaayi, Kondaru Talalu Vanchukuni Kurchundipoyaaru. Samudram Anchuna Nilabadi, Hanumaanudu Tana Priyamaina Raamudini, Sitammanu Talchukuntu — Kallu Musukuni Dirghangaa Upiri Pilchaadu. Aa Samayanlo, Kerataala Anantamaina Ghosha, Samudram Enta Peddado Gurtuchesindi. \"Ammaa Sitammanu Ekkada Vetakaali?\" Ani Tanalo Taanu Gonukkunnaadu. Inta Pedda Samudraanni Daatadam Elaa Ani Andaru Aalochistunnaaru... Em Cheyaalo Evariki Tochadam Ledu Kadaa?",
+      "text_en": "Far, far away, the monkey army looked at the big ocean with sad faces. They knew Lanka was somewhere on the other side, but it seemed so far! Some monkeys sat with their heads down, feeling very hopeless. Hanuman stood by the sea, thinking of his dear Rama and Sita. He closed his eyes and took a deep, deep breath. The loud, endless sound of the waves reminded him just how huge the ocean was. \"Mother Sita, where will I find you?\" he whispered to himself. Everyone wondered how they could ever cross such a giant sea... Nobody knew what to do, did they?"
+    },
+    {
+      "id": 2,
+      "text": "వానరుల నిరాశ చూసి, వృద్ధుడైన జాంబవంతుడు హనుమానుడి భుజం తట్టాడు — అతని కళ్ళల్లో ఆశ కనిపించింది. \"ఆంజనేయా, నీవు కేవలం ఒక వానరుడివి కాదు, నీలో అంతులేని శక్తి ఉంది!\" అని ప్రేమగా అన్నాడు. ఆ వెచ్చని గాలి, ఉప్పుగాలి, పక్కన ఉన్న పూల సువాసన అతని జ్ఞాపకాలను నిద్రలేపింది. జాంబవంతుడు ఇంకా ఇలా చెప్పాడు: \"గతంలో నీవు చేసిన అద్భుతాలను గుర్తు తెచ్చుకో... రామకార్యం నీవు మాత్రమే చేయగలవు!\" హనుమానుడి కళ్ళల్లో మెరుపు మెరిసింది, గుండెలో ధైర్యం చిగురించింది. సముద్రం ఎంత పెద్దదైనా, హనుమానుడు దాన్ని దాటగలడా?",
+      "image_prompt": "An old man gently taps the powerful being's shoulder, his eyes filled with hope. The powerful being's eyes sparkle with a newfound resolve as courage blossoms in his heart. Late afternoon sun, golden and warm, casting long shadows of the Vanaras on the sandy beach, hinting at the approaching challenge.",
+      "scene_visual": "An old man gently taps the powerful being's shoulder, his eyes filled with hope. The powerful being's eyes sparkle with a newfound resolve as courage blossoms in his heart.",
+      "text_te_en": "Vaanarula Niraasha Chusi, Vrriddhudaina Jaambavantudu Hanumaanudi Bhujam Tattaadu — Atani Kallallo Aasha Kanipinchindi. \"Aanjaneyaa, Nivu Kevalam Oka Vaanarudivi Kaadu, Nilo Antuleni Shakti Undi!\" Ani Premagaa Annaadu. Aa Vechchani Gaali, Uppugaali, Pakkana Unna Pula Suvaasana Atani Jnyaapakaalanu Nidralepindi. Jaambavantudu Inkaa Ilaa Cheppaadu: \"Gatanlo Nivu Chesina Adbhutaalanu Gurtu Techchuko... Raamakaaryam Nivu Maatrame Cheyagalavu!\" Hanumaanudi Kallallo Merupu Merisindi, Gundelo Dhairyam Chigurinchindi. Samudram Enta Peddadainaa, Hanumaanudu Daanni Daatagaladaa?",
+      "text_en": "Seeing how sad the monkeys were, old Jambavan gently patted Hanuman's shoulder. There was a spark of hope in Jambavan's eyes. \"Anjaneya,\" he said kindly, \"you are not just any monkey! You have endless power inside you!\" The warm, salty air and the sweet smell of flowers nearby made Hanuman remember things. Jambavan went on, \"Think about all the amazing things you've done before... Only you can finish Rama's important work!\" A bright spark lit up in Hanuman's eyes, and courage grew strong in his heart. No matter how big the ocean was, could Hanuman really cross it?"
+    },
+    {
+      "id": 3,
+      "text": "జాంబవంతుడి మాటలు వినగానే, హనుమానుడు తన నిజమైన రూపాన్ని గుర్తు చేసుకున్నాడు. అతని శరీరం పెరగడం మొదలుపెట్టింది — పెద్ద పర్వతంలా ఆకాశాన్ని తాకుతున్నాడు. అతని కండలు ఉబ్బాయి, శరీరం నిండా ఒక దివ్యమైన తేజస్సు నిండింది. అతని అడుగుల కింద ఉన్న నేల కొద్దిగా కంపించింది, వానరులు ఆశ్చర్యంగా చూస్తున్నారు. తన ప్రియమైన రాముడిని తలచుకుంటూ, హనుమానుడు గుండె నిండా భక్తితో గట్టిగా అరిచాడు — \"జై శ్రీరామ్!\" ఇప్పుడు, ఈ మహా సముద్రంలో హనుమానుడికి ఎలాంటి అడ్డంకులు ఎదురుకాబోతున్నాయో తెలుసా?",
+      "image_prompt": "The powerful being's body begins to swell, growing to touch the sky like a massive mountain. A divine radiance fills his bulging muscles as the ground beneath his feet trembles slightly. Dusk light, deep oranges and purples painting the sky, with Hanuman's colossal form silhouetted against the vibrant horizon, radiating internal energy.",
+      "scene_visual": "The powerful being's body begins to swell, growing to touch the sky like a massive mountain. A divine radiance fills his bulging muscles as the ground beneath his feet trembles slightly.",
+      "text_te_en": "Jaambavantudi Maatalu Vinagaane, Hanumaanudu Tana Nijamaina Rupaanni Gurtu Chesukunnaadu. Atani Shariram Peragadam Modalupettindi — Pedda Parvatanlaa Aakaashaanni Taakutunnaadu. Atani Kandalu Ubbaayi, Shariram Nindaa Oka Divyamaina Tejassu Nindindi. Atani Adugula Kinda Unna Nela Koddigaa Kampinchindi, Vaanarulu Aashcharyangaa Chustunnaaru. Tana Priyamaina Raamudini Talachukuntu, Hanumaanudu Gunde Nindaa Bhaktito Gattigaa Arichaadu — \"Jai Shriraam!\" Ippudu, I Mahaa Samudranlo Hanumaanudiki Elaanti Addankulu Edurukaabotunnaayo Telusaa?",
+      "text_en": "As soon as Hanuman heard Jambavan's words, he remembered his true, powerful self. His body started to grow bigger and bigger — like a giant mountain, reaching up to touch the sky! His muscles swelled, and his whole body glowed with a special, bright light. The ground under his feet shook a little, and the other monkeys watched in total surprise. Thinking of his dear Rama, Hanuman's heart filled with love and devotion, and he shouted loudly, \"Jai Shri Ram!\" Now, do you know what kinds of challenges Hanuman was about to meet in this giant ocean?"
+    },
+    {
+      "id": 4,
+      "text": "హనుమానుడు ఆకాశంలోకి ఎగిరి, వేగంగా దూసుకుపోతున్నాడు. ఇంతలో, సముద్రం మధ్య నుండి ఒక పెద్ద నీడ పైకి లేచింది — భయంకరమైన సురస! \"నా నోటిలో పడకుండా నువ్వు వెళ్ళలేవు!\" అని గర్వంగా అరిచింది. సురస నోరు తెరుచుకుంది, అది ఒక పెద్ద గుహలా కనిపించింది. హనుమానుడు క్షణం ఆలోచించి, తన శరీరాన్ని చిన్నగా చేసుకుని, ఆమె నోటిలోకి దూరి, వెంటనే బయటకి వచ్చాడు — ఆమెను తెలివిగా మోసం చేశాడు. పెద్ద సముద్రం నుండి వచ్చే చల్లని నీటి తుంపరలు అతని ముఖాన్ని తాకాయి. మరి, ఇంకేమైనా ప్రమాదాలు అతని దారిలో ఉన్నాయా?",
+      "image_prompt": "The powerful being shrinks his body and swiftly darts into the monstrous creature's cavernous mouth, then immediately emerges. Cold sea spray from the vast ocean splashes against his face as he outsmarts the monster. Moonlit ocean, dark blues and silver highlights on the water, with Surasa's shadowy form looming large, creating a tense atmosphere.",
+      "scene_visual": "The powerful being shrinks his body and swiftly darts into the monstrous creature's cavernous mouth, then immediately emerges. Cold sea spray from the vast ocean splashes against his face as he outsmarts the monster.",
+      "text_te_en": "Hanumaanudu Aakaashanloki Egiri, Vegangaa Dusukupotunnaadu. Intalo, Samudram Madhya Nundi Oka Pedda Nida Paiki Lechindi — Bhayankaramaina Surasa! \"Naa Notilo Padakundaa Nuvvu Vellalevu!\" Ani Garvangaa Arichindi. Surasa Noru Teruchukundi, Adi Oka Pedda Guhalaa Kanipinchindi. Hanumaanudu Kshanam Aalochinchi, Tana Shariraanni Chinnagaa Chesukuni, Aame Notiloki Duri, Ventane Bayataki Vachchaadu — Aamenu Telivigaa Mosam Cheshaadu. Pedda Samudram Nundi Vachche Challani Niti Tumparalu Atani Mukhaanni Taakaayi. Mari, Inkemainaa Pramaadaalu Atani Daarilo Unnaayaa?",
+      "text_en": "Hanuman flew high into the sky, zooming forward very fast. Suddenly, a huge shadow rose from the middle of the ocean — it was the scary Surasa! \"You can't go past me without falling into my mouth!\" she roared proudly. Surasa opened her mouth wide, and it looked like a giant, dark cave. Hanuman thought quickly. He made his body super tiny, zoomed into her mouth, and popped right out again! He had cleverly tricked her! Cool splashes of water from the big ocean touched his face. Were there any more dangers waiting for him on his journey?"
+    },
+    {
+      "id": 5,
+      "text": "సురసను దాటి ముందుకు వెళ్తున్న హనుమానుడిని, ఇంకొక రాక్షసి సింహిక అడ్డుకుంది. అకస్మాత్తుగా, అతని పాదాలు నీళ్ళలోకి లాగుతున్నట్లు అనిపించింది — ఒక కనిపించని శక్తి అతన్ని కిందకి లాగుతోంది. సింహిక నీడను పట్టుకుని లాగే శక్తి ఆమెకు ఉంది. హనుమానుడు ఒక్క క్షణం కూడా ఆలస్యం చేయకుండా, ఆమె మీదకి దూకాడు. \"రామకార్యం ఆపడానికి నీ శక్తి సరిపోదు!\" అని ధైర్యంగా చెప్పాడు. తన అద్భుతమైన వేగంతో, ఆమెను దాటుకుని, మళ్ళీ ఆకాశంలోకి దూసుకుపోయాడు. మరి, ఈ అపాయాలన్నీ దాటి, హనుమానుడు లంకను చేరుకున్నాడా?",
+      "image_prompt": "The powerful being feels an invisible force pulling his feet into the water, then he leaps directly onto the monster. He declares his determination with a brave expression before swiftly soaring back into the sky. The sky is clear again, stars twinkling brightly, but a localized patch of darkness surrounds Simhika, emphasizing her shadowy nature.",
+      "scene_visual": "The powerful being feels an invisible force pulling his feet into the water, then he leaps directly onto the monster. He declares his determination with a brave expression before swiftly soaring back into the sky.",
+      "text_te_en": "Surasanu Daati Munduku Veltunna Hanumaanudini, Inkoka Raakshasi Sinhika Addukundi. Akasmaattugaa, Atani Paadaalu Nillaloki Laagutunnatlu Anipinchindi — Oka Kanipinchani Shakti Atanni Kindaki Laagutondi. Sinhika Nidanu Pattukuni Laage Shakti Aameku Undi. Hanumaanudu Okka Kshanam Kudaa Aalasyam Cheyakundaa, Aame Midaki Dukaadu. \"Raamakaaryam Aapadaaniki Ni Shakti Saripodu!\" Ani Dhairyangaa Cheppaadu. Tana Adbhutamaina Veganto, Aamenu Daatukuni, Malli Aakaashanloki Dusukupoyaadu. Mari, I Apaayaalanni Daati, Hanumaanudu Lankanu Cherukunnaadaa?",
+      "text_en": "As Hanuman flew past Surasa, another demoness named Simhika blocked his path. Suddenly, it felt like his feet were being pulled down into the water! An invisible power was dragging him. Simhika had a special power: she could grab shadows and pull things down. Hanuman didn't wait even for a second; he quickly jumped on her. \"Your power isn't strong enough to stop Rama's important work!\" he bravely declared. With his amazing speed, he quickly defeated her and zoomed back up into the sky. So, after getting past all these dangers, did Hanuman finally reach Lanka?"
+    },
+    {
+      "id": 6,
+      "text": "అనేక కష్టాలను దాటి, హనుమానుడు చివరకు లంక గడ్డపై కాలు మోపాడు. అతని పాదాల కింద గట్టి నేల తగలగానే, ఒక పెద్ద నిట్టూర్పు విడిచాడు — నెరవేరిన కార్యంలా. సముద్రం నుండి బయటపడిన ఆనందం అతని ముఖంలో స్పష్టంగా కనిపించింది. \"నేను వచ్చాను, సీతామాతా!\" అని తనలో తాను గొణుక్కున్నాడు. అద్భుతమైన భక్తితో, తన గుండె నిండా రాముడిని, సీతమ్మను తలచుకుంటూ, ముందుకు అడుగు వేశాడు. మరి, ఈ వింతైన లంకలో అతనికి ఎలాంటి అద్భుతాలు, ఎలాంటి సవాళ్లు ఎదురు కాబోతున్నాయి?",
+      "image_prompt": "The powerful being steps onto solid ground, letting out a deep sigh of relief. The joy of having crossed the ocean is clearly visible on his face as he takes his first steps. The first soft hints of dawn breaking over the distant Lankan mountains, painting the sky in gentle pinks and purples, signifying a new beginning.",
+      "scene_visual": "The powerful being steps onto solid ground, letting out a deep sigh of relief. The joy of having crossed the ocean is clearly visible on his face as he takes his first steps.",
+      "text_te_en": "Aneka Kashtaalanu Daati, Hanumaanudu Chivaraku Lanka Gaddapai Kaalu Mopaadu. Atani Paadaala Kinda Gatti Nela Tagalagaane, Oka Pedda Nitturpu Vidichaadu — Neraverina Kaaryanlaa. Samudram Nundi Bayatapadina Aanandam Atani Mukhanlo Spashtangaa Kanipinchindi. \"Nenu Vachchaanu, Sitaamaataa!\" Ani Tanalo Taanu Gonukkunnaadu. Adbhutamaina Bhaktito, Tana Gunde Nindaa Raamudini, Sitammanu Talachukuntu, Munduku Adugu Veshaadu. Mari, I Vintaina Lankalo Ataniki Elaanti Adbhutaalu, Elaanti Savaallu Eduru Kaabotunnaayi?",
+      "text_en": "After overcoming many hard challenges, Hanuman finally landed his feet on the ground of Lanka. As soon as his feet touched the solid land, he let out a big sigh — like a job well done! The happiness of crossing the huge ocean was clear on his face. \"I am here, Mother Sita!\" he whispered to himself. With amazing devotion, his heart full of thoughts of Rama and Sita, he took a step forward. So, what amazing things and what new challenges would he find in this strange land of Lanka?"
+    },
+    {
+      "id": 7,
+      "text": "అద్భుతమైన లంక నగరంలో అడుగుపెట్టిన హనుమానుడు, సీతమ్మను వెతకడం మొదలుపెట్టాడు. తెలియని పూల సువాసనలు గాలిలో తేలియాడుతున్నాయి, కానీ అతని మనసులో మాత్రం సీతమ్మ చిరునవ్వే ఉంది. ప్రతి అడుగులోనూ ఆశ, ప్రతి చూపులోనూ భక్తి నిండి ఉన్నాయి. తన లక్ష్యం ఒక్కటే — సీతమ్మను కనుగొని, రాముడికి శుభవార్త చెప్పడం. అతను నిశ్శబ్దంగా, అకుంఠిత దీక్షతో లంక వీధుల్లో వెతుకుతున్నాడు. తన రాముడిపై ఉన్న ప్రేమతో, ఎలాంటి అడ్డంకులు వచ్చినా, వాటిని దాటగలనని అతనికి తెలుసు.",
+      "image_prompt": "The powerful being walks silently through the streets of the magnificent city, searching with unwavering dedication. Unknown floral scents drift through the air, but his gaze remains focused on his singular mission. Bright, clear morning light illuminating the lush gardens and ornate structures of Lanka, suggesting a new day full of discovery.",
+      "scene_visual": "The powerful being walks silently through the streets of the magnificent city, searching with unwavering dedication. Unknown floral scents drift through the air, but his gaze remains focused on his singular mission.",
+      "text_te_en": "Adbhutamaina Lanka Nagaranlo Adugupettina Hanumaanudu, Sitammanu Vetakadam Modalupettaadu. Teliyani Pula Suvaasanalu Gaalilo Teliyaadutunnaayi, Kaani Atani Manasulo Maatram Sitamma Chirunavve Undi. Prati Adugulonu Aasha, Prati Chupulonu Bhakti Nindi Unnaayi. Tana Lakshyam Okkate — Sitammanu Kanugoni, Raamudiki Shubhavaarta Cheppadan. Atanu Nishshabdangaa, Akunthita Dikshato Lanka Vidhullo Vetukutunnaadu. Tana Raamudipai Unna Premato, Elaanti Addankulu Vachchinaa, Vaatini Daatagalanani Ataniki Telusu.",
+      "text_en": "Stepping into the amazing city of Lanka, Hanuman began his search for Sita. The sweet smell of unknown flowers floated in the air, but all Hanuman could think about was Sita's smile. Every step he took was full of hope, and every look he gave was full of devotion. He had only one goal: to find Sita and bring good news back to Rama. He searched quietly, with strong determination, through the streets of Lanka. He knew that with his deep love for Rama, he could get past any challenge that came his way."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 7.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 9,
+    "average": 7.83,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story shines with its flawless grammar and highly engaging direct address to the child, making it feel like a genuine bedtime tale. The narrative arc effectively builds tension through Hanuman's journey and challenges. To elevate it to an award-worthy piece, the primary focus should be on enhancing emotional depth by consistently showing characters' feelings through their actions and reactions, rather than stating them directly. Additionally, enriching the dialogue with more character-specific lines in every scene would further immerse the young listener."
+  },
+  "quality_warning": true,
+  "title_te_en": "Amma Kosam Hanumaan Adugu",
+  "moral_te_en": "Pillalu, Manasulo Bhakti, Dhairyam Unte, E Kashtamainaa Daatagalamani I Katha Manaku Nerputundi.",
+  "title_en": "Hanuman's Journey for Sita",
+  "moral_en": "Children, this story teaches us that if we have devotion and courage in our hearts, we can overcome any difficulty.",
+  "id": "20260521_101214",
+  "date": "2026-05-21",
+  "category": "ramayana",
+  "subcategory": "courage_tales",
+  "topic": "హనుమంతుడు సముద్రం దాటిన కథ",
+  "thumbnail": "stories/20260521_101214/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
