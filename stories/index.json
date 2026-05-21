@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260521_133712",
+      "slug": "pamduga-rahasyam-chitti-saahasam",
+      "title": "పండుగ రహస్యం, చిట్టి సాహసం",
+      "moral": "భయాన్ని దాటితేనే, కొత్త లోకాలు కనిపిస్తాయి కదూ?",
+      "thumbnail": "stories/20260521_133712/images/scene1.jpg",
+      "date": "2026-05-21",
+      "category": "janapada",
+      "subcategory": "village_tales",
+      "topic": "తెలుగు జానపద కథ - పల్లె పండుగ మరియు రహస్యం",
+      "voice": "te-IN-Chirp3-HD-Leda",
+      "schema_version": 2,
+      "title_en": "The Festival's Secret, Chitti's Adventure",
+      "moral_en": "New worlds appear only when you overcome fear, don't they?",
+      "title_te_en": "Panduga Rahasyan, Chitti Saahasam",
+      "moral_te_en": "Bhayaanni Daatitene, Kotta Lokaalu Kanipistaayi Kadu?"
+    },
+    {
       "id": "20260521_101214",
       "slug": "amma-koosam-hanumaan-adugu",
       "title": "అమ్మ కోసం హనుమాన్ అడుగు",
