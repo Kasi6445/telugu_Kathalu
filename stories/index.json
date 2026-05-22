@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260522_070655",
+      "slug": "tenaali-chirunavvu-maayagaadi-marmaalu",
+      "title": "తెనాలి చిరునవ్వు, మాయగాడి మర్మాలు",
+      "moral": "ఎంతటి గొప్ప మాయనైనా, మన తెలివితేటలతో నిజం బయట పెట్టొచ్చు చూశారా?",
+      "thumbnail": "stories/20260522_070655/images/scene1.jpg",
+      "date": "2026-05-22",
+      "category": "tenali",
+      "subcategory": "funny_adventures",
+      "topic": "తెనాలి రాముడు మరియు మాయగాడు",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "Tenali's Smile and the Magician's Secrets",
+      "moral_en": "See? No matter how big the magic, our cleverness can always find out the truth!",
+      "title_te_en": "Tenaali Chirunavvu, Maayagaadi Marmaalu",
+      "moral_te_en": "Entati Goppa Maayanainaa, Mana Telivitetalato Nijam Bayata Pettochchu Chushaaraa?"
+    },
+    {
       "id": "20260521_233350",
       "slug": "pasupu-merupu-polam-guttu",
       "title": "పసుపు మెరుపు, పొలం గుట్టు",
