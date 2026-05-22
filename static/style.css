@@ -7,7 +7,10 @@ button { font-family: inherit; font-size: inherit; color: inherit; background: n
 
 body {
   font-family: 'Noto Sans Telugu', 'Segoe UI', sans-serif;
-  background: #0A0A0F;
+  background:
+    linear-gradient(rgba(0,0,0,0.52), rgba(0,0,0,0.52)),
+    url('/static/hero-bg.png') center/cover no-repeat fixed;
+  background-color: #1a0800;
   color: white;
   min-height: 100vh;
 }
@@ -105,9 +108,10 @@ body {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba(10,10,15,0.95);
-  backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(255,255,255,0.06);
+  background: rgba(8,4,1,0.88);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border-bottom: 1px solid rgba(255,140,50,0.12);
 }
 
 .header-top {
@@ -305,28 +309,95 @@ body {
 
 .cat-card {
   border-radius: 14px;
-  padding: 12px 8px;
-  text-align: center;
+  overflow: hidden;
   cursor: pointer;
-  border: 1px solid rgba(255,255,255,0.06);
   transition: transform 0.2s;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 10px 14px 10px 0;
+  min-height: 105px;
+  background-size: cover;
+  background-position: left center;
+  background-repeat: no-repeat;
+  text-align: right;
 }
 
-.cat-card:hover { transform: scale(1.04); }
+.cat-card:hover { transform: scale(1.03); }
 .cat-card:active { transform: scale(0.97); }
 
-.cat-emoji { font-size: 1.6rem; margin-bottom: 5px; }
+/* Illustration is in bg-image; hide emoji */
+.cat-emoji { display: none; }
 
 .cat-name {
-  font-size: 0.65rem;
+  font-size: 0.72rem;
   font-weight: 700;
   line-height: 1.3;
 }
 
 .cat-count {
-  font-size: 0.58rem;
-  color: rgba(255,255,255,0.35);
+  font-size: 0.6rem;
+  color: rgba(255,255,255,0.6);
   margin-top: 3px;
+}
+
+/* ── CATEGORY BACKGROUND IMAGES ── */
+.cat-bg-neeti {
+  background-image:
+    linear-gradient(to right, transparent 25%, rgba(36,10,0,0.93) 55%),
+    url('/assets/categories/niti-kathalu.webp');
+  background-color: #240a00;
+  border: 1px solid rgba(255,107,53,0.25);
+}
+.cat-bg-podupu {
+  background-image:
+    linear-gradient(to right, transparent 25%, rgba(18,30,6,0.93) 55%),
+    url('/assets/categories/podupu-kathalu.webp');
+  background-color: #121e06;
+  border: 1px solid rgba(100,180,50,0.25);
+}
+.cat-bg-tenali {
+  background-image:
+    linear-gradient(to right, transparent 25%, rgba(8,20,48,0.93) 55%),
+    url('/assets/categories/tenaali-raama.webp');
+  background-color: #081430;
+  border: 1px solid rgba(127,168,224,0.25);
+}
+.cat-bg-panchatantra {
+  background-image:
+    linear-gradient(to right, transparent 25%, rgba(4,26,24,0.93) 55%),
+    url('/assets/categories/panchatantran.webp');
+  background-color: #041a18;
+  border: 1px solid rgba(61,181,138,0.25);
+}
+.cat-bg-ramayana {
+  background-image:
+    linear-gradient(to right, transparent 25%, rgba(20,6,34,0.93) 55%),
+    url('/assets/categories/raamaayanan.webp');
+  background-color: #140622;
+  border: 1px solid rgba(170,100,210,0.25);
+}
+.cat-bg-samethalu {
+  background-image:
+    linear-gradient(to right, transparent 25%, rgba(28,12,0,0.93) 55%),
+    url('/assets/categories/saametalu.webp');
+  background-color: #1c0c00;
+  border: 1px solid rgba(200,133,42,0.25);
+}
+.cat-bg-janapada {
+  background-image:
+    linear-gradient(to right, transparent 25%, rgba(6,10,30,0.93) 55%),
+    url('/assets/categories/jaanapadan.webp');
+  background-color: #060a1e;
+  border: 1px solid rgba(96,144,200,0.25);
+}
+.cat-bg-bhagavatam {
+  background-image:
+    linear-gradient(to right, transparent 25%, rgba(22,12,0,0.93) 55%),
+    url('/assets/categories/bhaagavatan.webp');
+  background-color: #160c00;
+  border: 1px solid rgba(212,148,58,0.25);
 }
 
 /* ── HORIZONTAL CARDS ── */
@@ -351,10 +422,12 @@ a.h-card, a.v-card {
   width: 145px;
   border-radius: 14px;
   overflow: hidden;
-  background: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.07);
+  background: rgba(10,5,0,0.72);
+  border: 1px solid rgba(255,140,50,0.14);
   cursor: pointer;
   transition: transform 0.2s;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 .h-card:hover { transform: translateY(-3px); }
@@ -412,15 +485,17 @@ a.h-card, a.v-card {
 .v-card {
   border-radius: 14px;
   overflow: hidden;
-  background: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.07);
+  background: rgba(10,5,0,0.72);
+  border: 1px solid rgba(255,140,50,0.14);
   cursor: pointer;
   transition: transform 0.2s, border-color 0.2s;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 .v-card:hover {
   transform: translateY(-4px);
-  border-color: rgba(255,107,53,0.3);
+  border-color: rgba(255,107,53,0.45);
 }
 
 .v-card-img {
