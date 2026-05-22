@@ -17,6 +17,8 @@ import time
 from datetime import datetime
 from typing import Any
 
+from json_repair import repair_json
+
 from google import genai
 from google.genai import types
 from indic_transliteration import sanscript
@@ -27,6 +29,38 @@ from lib.cost_tracker import set_stage
 from lib.voices import pick_voice
 
 logger = logging.getLogger(__name__)
+
+
+def _safe_json_parse(raw: str, context: str = "json") -> dict:
+    """
+    Parse JSON from an LLM with progressive fallbacks.
+    1. Strip markdown fences.
+    2. Try standard json.loads.
+    3. Fall back to json-repair.
+    """
+    cleaned = raw.strip()
+
+    if cleaned.startswith("```"):
+        cleaned = re.sub(r"^```(?:json)?\s*\n?", "", cleaned)
+        cleaned = re.sub(r"\n?```\s*$", "", cleaned).strip()
+
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError as e:
+        logger.warning(
+            "[%s] json.loads failed at char %d: %s — attempting repair",
+            context, e.pos, e.msg,
+        )
+
+    try:
+        repaired = repair_json(cleaned)
+        result = json.loads(repaired)
+        logger.info("[%s] JSON repaired successfully", context)
+        return result
+    except Exception as e:
+        logger.error("[%s] JSON repair also failed: %s", context, e)
+        logger.error("[%s] Raw output (first 500 chars): %s", context, raw[:500])
+        raise
 
 
 # ── Transliteration helper ────────────────────────────────────────────────────
@@ -297,7 +331,7 @@ Return ONLY valid JSON:
         ),
         model=OUTLINE_MODEL,
     )
-    outline = json.loads(raw)
+    outline = _safe_json_parse(raw, context="outline")
     logger.info(f"Pass 1 OK: {len(outline['scenes'])} scenes outlined")
     return outline
 
@@ -838,7 +872,7 @@ Return ONLY valid JSON:
         ),
         model=VALIDATION_MODEL,
     )
-    result = json.loads(raw)
+    result = _safe_json_parse(raw, context="pass3_validation")
     dims = [
         "grandmother_authenticity",
         "emotional_depth",
