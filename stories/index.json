@@ -1,6 +1,40 @@
 {
   "stories": [
     {
+      "id": "20260521_233350",
+      "slug": "pasupu-merupu-polam-guttu",
+      "title": "పసుపు మెరుపు, పొలం గుట్టు",
+      "moral": "మన చుట్టూ ఉన్న ప్రపంచాన్ని గమనిస్తూ, మనసు పెట్టి ఆలోచిస్తే, ఎన్నో అద్భుతమైన విషయాలు మనకే తెలుస్తాయి కదూ!",
+      "thumbnail": "stories/20260521_233350/images/scene1.jpg",
+      "date": "2026-05-21",
+      "category": "podupu",
+      "subcategory": "nature_riddles",
+      "topic": "పసుపు మరియు పొలం పొడుపు కథ",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "The Yellow Glow and the Field's Secret",
+      "moral_en": "If we look closely at the world around us and think carefully, we can discover so many amazing things!",
+      "title_te_en": "Pasupu Merupu, Polam Guttu",
+      "moral_te_en": "Mana Chuttu Unna Prapanchaanni Gamanistu, Manasu Petti Aalochiste, Enno Adbhutamaina Vishayaalu Manake Telustaayi Kadu!"
+    },
+    {
+      "id": "20260521_215435",
+      "slug": "amdani-draakshapamdla-saaku",
+      "title": "అందని ద్రాక్షపండ్ల సాకు",
+      "moral": "మనకు దక్కని వాటిని, ఇష్టం లేదని చెప్పుకోవడం మనుషుల స్వభావం కదమ్మా?",
+      "thumbnail": "stories/20260521_215435/images/scene1.jpg",
+      "date": "2026-05-21",
+      "category": "panchatantra",
+      "subcategory": "clever_tricks",
+      "topic": "పంచతంత్రం - నక్క మరియు ద్రాక్షపండ్లు",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "The Excuse of the Unreachable Grapes",
+      "moral_en": "Isn't it human nature to say we don't like things we can't have, dear children?",
+      "title_te_en": "Andani Draakshapandla Saaku",
+      "moral_te_en": "Manaku Dakkani Vaatini, Ishtam Ledani Cheppukovadam Manushula Svabhaavam Kadammaa?"
+    },
+    {
       "id": "20260521_192354",
       "slug": "chitti-veenu-raaja-podupu-guttu",
       "title": "చిట్టి వేణు, రాజ పొడుపు గుట్టు",
