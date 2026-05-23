@@ -313,6 +313,7 @@ body {
 .cat-card {
   border-radius: 18px;
   overflow: hidden;
+  position: relative;
   cursor: pointer;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   display: flex;
@@ -514,8 +515,37 @@ a.h-card, a.v-card {
     gap: 10px;
   }
   .cat-card {
-    height: 96px;
-    padding-right: 14px;
+    height: auto;
+    aspect-ratio: 1 / 1.15;
+    background-size: cover;
+    background-position: left top;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 12px 12px;
+    text-align: left;
+  }
+  .cat-card::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0.90) 0%,
+      rgba(0,0,0,0.75) 22%,
+      rgba(0,0,0,0.28) 44%,
+      transparent 64%
+    );
+    pointer-events: none;
+    z-index: 0;
+  }
+  .cat-card .cat-name,
+  .cat-card .cat-count {
+    position: relative;
+    z-index: 1;
+  }
+  .cat-card .cat-name {
+    font-size: 1.0rem;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.7);
   }
 }
 
