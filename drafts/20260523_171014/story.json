@@ -1,0 +1,97 @@
+{
+  "title": "క్రూరసింహానికి బుద్ధి చెప్పిన కుందేలు",
+  "moral": "చిన్న బలహీనమైన ప్రాణులు కూడా తెలివితో, ధైర్యంతో పెద్ద కష్టాలను దాటగలవు కదూ.",
+  "main_character": "A small, nimble rabbit with soft, greyish-brown fur and bright, observant eyes that twitch constantly. It is known for its quick wit and ability to think calmly under pressure. Always the same character across every scene.",
+  "antagonist": "A massive, powerful lion with a thick, shaggy golden mane and piercing yellow eyes that convey immense hunger and anger. Its roar shakes the very ground, and its sharp claws and teeth are always visible. Always the same character across every scene.",
+  "setting": "A lush, green forest in the Telugu-speaking region of Andhra Pradesh, filled with ancient banyan trees, sparkling streams, and thorny bushes. The forest floor is covered with fallen leaves and soft moss, and the air is often humid, especially during the mornings. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని అడవిలో ఒక చిన్న కుందేలు, దాని మెత్తని చెవులు అటూ ఇటూ కదులుతూ, కొత్తగా మొలిచిన గడ్డిని మెల్లిగా నమిలింది. మంచు బిందువులు ఆ గడ్డి రేకల మీద నుండి దాని మీసాలను ముద్దాడాయి, ఆహ్లాదంగా అనిపించింది. ఆ కుందేలు మెల్లిగా తల ఎత్తి, పరిసరాలను గమనిస్తూ, నెమ్మదిగా కదిలింది. \"ఆహ్, ఈ ఉదయం ఎంత ప్రశాంతంగా ఉంది!\" అని అది మనసులో అనుకుంది, కళ్ళు మూసుకుని ఆ క్షణాన్ని ఆస్వాదించింది. ఒక్క అడుగు కూడా లేదు — చుట్టూ అంత నిశ్శబ్దం. కానీ ఈ ప్రశాంతత ఎంతసేపు ఉంటుందో ఎవరికి తెలుసు?",
+      "image_prompt": "The rabbit slowly lifts its head, observes its surroundings, and then closes its eyes. Dewdrops from the grass blades gently touch its whiskers as it savors the moment. Gentle morning sunlight filtering through dense leaves, creating soft dappled patterns on the forest floor, cool and serene.",
+      "scene_visual": "The rabbit slowly lifts its head, observes its surroundings, and then closes its eyes. Dewdrops from the grass blades gently touch its whiskers as it savors the moment.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchani Adavilo Oka Chinna Kundelu, Daani Mettani Chevulu Atu Itu Kadulutu, Kottagaa Molichina Gaddini Melligaa Namilindi. Manchu Binduvulu Aa Gaddi Rekala Mida Nundi Daani Misaalanu Muddaadaayi, Aahlaadangaa Anipinchindi. Aa Kundelu Melligaa Tala Etti, Parisaraalanu Gamanistu, Nemmadigaa Kadilindi. \"Aah, I Udayam Enta Prashaantangaa Undi!\" Ani Adi Manasulo Anukundi, Kallu Musukuni Aa Kshanaanni Aasvaadinchindi. Okka Adugu Kudaa Ledu — Chuttu Anta Nishshabdan. Kaani I Prashaantata Entasepu Untundo Evariki Telusu?",
+      "text_en": "In a green forest, a small rabbit, with its soft ears moving back and forth, slowly nibbled on the freshly grown grass. Dewdrops kissed its whiskers from the blades of grass, and it felt delightful. The rabbit slowly lifted its head, observing its surroundings, and moved gently. \"Ah, how peaceful this morning is!\" it thought to itself, closing its eyes and enjoying the moment. There wasn't even a single sound — such silence all around. But who knew how long this peace would last?"
+    },
+    {
+      "id": 2,
+      "text": "ఆ ప్రశాంతత ఎక్కువసేపు నిలవలేదు పిల్లలూ. ఉన్నట్టుండి, అడవి అంతా కంపించేలా ఒక పెద్ద గర్జన వినిపించింది. ఆ చప్పుడు — అడవిని చీల్చేసింది, భూమి కూడా చిన్న కుందేలు కాళ్ళ కింద వణికింది. కుందేలు చెవులు ఒక్కసారిగా వెనక్కి ముడుచుకుపోయాయి, గుండె దడదడలాడింది, అది భయంతో గడ్డిలోకి ఇంకా లోపలికి నక్కింది. \"క్రూరమైన సింహం మళ్ళీ వేటాడటానికి సిద్ధంగా ఉంది!\" అని జంతువులన్నీ భయంతో గుసగుసలాడాయి. ప్రతి రోజూ ఒక జంతువు సింహానికి ఆహారంగా వెళ్లాలని దాని ఆజ్ఞ, మరి ఈ రోజు ఎవరి వంతు వచ్చిందో కదా?",
+      "image_prompt": "The rabbit's ears suddenly fold back as it trembles and hides deeper into the grass. The ground beneath its tiny feet vibrates from the loud, forest-shaking roar. Midday sun, bright but with long, dark shadows cast by the trees, creating a sense of foreboding despite the light, hot and oppressive.",
+      "scene_visual": "The rabbit's ears suddenly fold back as it trembles and hides deeper into the grass. The ground beneath its tiny feet vibrates from the loud, forest-shaking roar.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Prashaantata Ekkuvasepu Nilavaledu Pillalu. Unnattundi, Adavi Antaa Kampinchelaa Oka Pedda Garjana Vinipinchindi. Aa Chappudu — Adavini Chilchesindi, Bhumi Kudaa Chinna Kundelu Kaalla Kinda Vanikindi. Kundelu Chevulu Okkasaarigaa Venakki Muduchukupoyaayi, Gunde Dadadadalaadindi, Adi Bhayanto Gaddiloki Inkaa Lopaliki Nakkindi. \"Kruramaina Sinham Malli Vetaadataaniki Siddhangaa Undi!\" Ani Jantuvulanni Bhayanto Gusagusalaadaayi. Prati Roju Oka Jantuvu Sinhaaniki Aahaarangaa Vellaalani Daani Aajnya, Mari I Roju Evari Vantu Vachchindo Kadaa?",
+      "text_en": "That peace didn't last long, children. Suddenly, a loud roar was heard, shaking the entire forest. That sound — it tore through the forest, and even the ground trembled under the little rabbit's feet. The rabbit's ears folded back instantly, its heart pounded, and it burrowed deeper into the grass in fear. \"The cruel lion is ready to hunt again!\" all the animals whispered in fear. Every day, it was the lion's command that one animal go as its food, and who knew whose turn it was today?"
+    },
+    {
+      "id": 3,
+      "text": "అప్పుడు అడవి జంతువులన్నీ భయంతో ఒకచోట గుమిగూడాయి, వాటి చుట్టూ తడి మట్టి వాసన, భయం కలిసి కమ్ముకుపోయింది. సింహం ఆజ్ఞ ప్రకారం, ఈ రోజు ఒక జంతువు దాని ఆహారంగా వెళ్లాలి. అప్పుడు అందరి కళ్ళూ ఆ చిన్న కుందేలు మీద పడ్డాయి. కుందేలు కళ్ళు పెద్దవి చేసుకుని చూసింది, దాని శరీరమంతా ఒక క్షణం పాటు స్తంభించిపోయింది. \"ఈ రోజు, అది నా వంతు...!\" అని అది నిస్సహాయంగా గొణుక్కుంది. కానీ వెంటనే దాని మనసులో ఒక మెరుపు మెరిసింది, మీరు ఊహించగలరా? \"నేను తప్పించుకోవాలి!\" అని అది గట్టిగా అనుకుంది. ఈ ప్రాణాంతక పరిస్థితి నుండి అది ఎలా బయటపడుతుందో అని అందరూ చూస్తున్నారు కదూ?",
+      "image_prompt": "The rabbit's eyes widen in fear as its body freezes for a moment, then a thought flashes in its mind. All the other animals' eyes are fixed on the small rabbit, gathered in a fearful huddle. Overcast sky, a dull, flat light permeates the clearing where animals gather, reflecting their somber mood.",
+      "scene_visual": "The rabbit's eyes widen in fear as its body freezes for a moment, then a thought flashes in its mind. All the other animals' eyes are fixed on the small rabbit, gathered in a fearful huddle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appudu Adavi Jantuvulanni Bhayanto Okachota Gumigudaayi, Vaati Chuttu Tadi Matti Vaasana, Bhayam Kalisi Kammukupoyindi. Sinham Aajnya Prakaaran, I Roju Oka Jantuvu Daani Aahaarangaa Vellaali. Appudu Andari Kallu Aa Chinna Kundelu Mida Paddaayi. Kundelu Kallu Peddavi Chesukuni Chusindi, Daani Shariramantaa Oka Kshanam Paatu Stambhinchipoyindi. \"I Roju, Adi Naa Vantu...!\" Ani Adi Nissahaayangaa Gonukkundi. Kaani Ventane Daani Manasulo Oka Merupu Merisindi, Miru Uhinchagalaraa? \"Nenu Tappinchukovaali!\" Ani Adi Gattigaa Anukundi. I Praanaantaka Paristhiti Nundi Adi Elaa Bayatapadutundo Ani Andaru Chustunnaaru Kadu?",
+      "text_en": "Then all the forest animals gathered together in fear, surrounded by the smell of wet earth and fear itself. According to the lion's command, one animal had to go as its food today. Then everyone's eyes fell on the little rabbit. The rabbit's eyes widened, and its whole body froze for a moment. \"Today, it's my turn...!\" it mumbled helplessly. But suddenly, a spark flashed in its mind, can you guess? \"I must escape!\" it thought firmly. Everyone was watching to see how it would get out of this life-threatening situation, weren't they?"
+    },
+    {
+      "id": 4,
+      "text": "కుందేలు సింహం గుహ వైపు నెమ్మదిగా అడుగులు వేసింది, దాని చిన్న పాదాల కింద ఎండుటాకులు కరకరలాడాయి, ఆ నిశ్శబ్దాన్ని మరింత పెంచాయి. దాని గుండె వేగంగా కొట్టుకుంటోంది కానీ మనసు మాత్రం ఒక ప్రణాళిక మీదే ఉంది. చాలా ఆలస్యంగా అది సింహం దగ్గరకు చేరింది, సింహం ఆకలితో, కోపంతో రగిలిపోయింది. \"నువ్వు ఇంత ఆలస్యంగా ఎందుకు వచ్చావు?\" అని అది గంభీరంగా గర్జించింది, దాని కళ్ళు నిప్పులు చెరుగుతున్నాయి. సింహం కోపంతో రగిలిపోయింది. కుందేలు ఇప్పుడు సింహానికి ఏం సమాధానం చెప్తుందో, సింహం తర్వాతి చర్య ఏంటో కదా?",
+      "image_prompt": "The lion roars gravely at the rabbit, demanding to know why it is late. The lion's eyes are burning with anger, appearing to spit fire. Also in this scene: A massive, powerful lion with a thick, shaggy golden mane and piercing yellow eyes that convey immense hunger and anger. Its roar shakes the very ground, and its sharp claws and teeth are always visible. Always the same character across every scene. Late afternoon sun, casting long, stark shadows across the lion's rocky den, a reddish-orange glow signaling the lion's impatience and anger.",
+      "scene_visual": "The lion roars gravely at the rabbit, demanding to know why it is late. The lion's eyes are burning with anger, appearing to spit fire.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kundelu Sinham Guha Vaipu Nemmadigaa Adugulu Vesindi, Daani Chinna Paadaala Kinda Endutaakulu Karakaralaadaayi, Aa Nishshabdaanni Marinta Penchaayi. Daani Gunde Vegangaa Kottukuntondi Kaani Manasu Maatram Oka Pranaalika Mide Undi. Chaalaa Aalasyangaa Adi Sinham Daggaraku Cherindi, Sinham Aakalito, Kopanto Ragilipoyindi. \"Nuvvu Inta Aalasyangaa Enduku Vachchaavu?\" Ani Adi Gambhirangaa Garjinchindi, Daani Kallu Nippulu Cherugutunnaayi. Sinham Kopanto Ragilipoyindi. Kundelu Ippudu Sinhaaniki Em Samaadhaanam Cheptundo, Sinham Tarvaati Charya Ento Kadaa?",
+      "text_en": "The rabbit slowly walked towards the lion's cave, dry leaves crunching under its tiny feet, amplifying the silence. Its heart was beating fast, but its mind was focused on a plan. It reached the lion very late, and the lion was burning with hunger and anger. \"Why are you so late?\" it roared gravely, its eyes spitting fire. The lion was furious. What would the rabbit answer the lion now, and what would the lion's next move be, right?"
+    },
+    {
+      "id": 5,
+      "text": "కుందేలు నెమ్మదిగా, కానీ చాలా చాకచక్యంగా మాట్లాడడం మొదలుపెట్టింది, దాని గుండెలో భయం ఉన్నా అది పైకి కనిపించనీయలేదు. \"మహారాజా, నేను సకాలంలోనే బయలుదేరాను, కానీ మార్గమధ్యలో... ఇంకో సింహం ఎదురైంది.\" అని చెప్పింది. \"ఆ సింహం, 'మహారాజా, ఇంకో సింహం ఈ అడవిని పరిపాలిస్తోందని చెప్పింది!' అని బెదిరించింది, అందుకే నాకు ఆలస్యమైంది\" అంది కుందేలు, సింహాన్ని ఒక పాడుబడిన బావి వైపు నడిపిస్తూ. ఆ బావి దగ్గర తడి పాచి, చల్లటి నీటి వాసన మెల్లగా వీస్తోంది. కుందేలు చెప్పిన మాటలు సింహం నమ్ముతుందా, బావి దగ్గరికి వెళ్ళాక ఏం జరుగుతుందో కదా?",
+      "image_prompt": "The rabbit cleverly speaks to the lion, leading it towards an abandoned well. A scent of damp moss and cool water emanates from the well as they approach. Also in this scene: A massive, powerful lion with a thick, shaggy golden mane and piercing yellow eyes that convey immense hunger and anger. Its roar shakes the very ground, and its sharp claws and teeth are always visible. Always the same character across every scene. Shadows deepening as the sun dips lower, creating a mysterious and slightly eerie atmosphere around the well, cool blue tones mixing with fading amber.",
+      "scene_visual": "The rabbit cleverly speaks to the lion, leading it towards an abandoned well. A scent of damp moss and cool water emanates from the well as they approach.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kundelu Nemmadigaa, Kaani Chaalaa Chaakachakyangaa Maatlaadadam Modalupettindi, Daani Gundelo Bhayam Unnaa Adi Paiki Kanipinchaniyaledu. \"Mahaaraajaa, Nenu Sakaalanlone Bayaluderaanu, Kaani Maargamadhyalo... Inko Sinham Eduraindi.\" Ani Cheppindi. \"Aa Sinhan, 'Mahaaraajaa, Inko Sinham I Adavini Paripaalistondani Cheppindi!' Ani Bedirinchindi, Anduke Naaku Aalasyamaindi\" Andi Kundelu, Sinhaanni Oka Paadubadina Baavi Vaipu Nadipistu. Aa Baavi Daggara Tadi Paachi, Challati Niti Vaasana Mellagaa Vistondi. Kundelu Cheppina Maatalu Sinham Nammutundaa, Baavi Daggariki Vellaaka Em Jarugutundo Kadaa?",
+      "text_en": "The rabbit began to speak slowly, but very cleverly, not letting its fear show despite it being in its heart. \"Your Majesty, I started on time, but on the way... I met another lion,\" it said. \"That lion threatened me, saying, 'Your Majesty, another lion is ruling this forest!' That's why I was delayed,\" said the rabbit, leading the lion towards an abandoned well. Near the well, the smell of wet moss and cool water gently wafted. Would the lion believe the rabbit's words, and what would happen after they reached the well, right?"
+    },
+    {
+      "id": 6,
+      "text": "బావి దగ్గరకు చేరగానే, కుందేలు తన చిన్న పాదంతో బావిలోపలికి చూపించింది. \"మహారాజా, అదిగో! మీ శత్రువు అక్కడ ఉంది!\" అని గట్టిగా చెప్పింది, దాని గొంతులో ధైర్యం కనిపించింది. సింహం బావిలోకి తొంగి చూసింది, నీటిలో తన ప్రతిబింబాన్ని చూసి, అదే ఇంకో సింహం అనుకుంది. కోపంతో దాని కళ్ళు ఎర్రబడ్డాయి, అది క్షణం కూడా ఆలోచించకుండా పెద్ద శబ్దంతో — బావిలోకి దూకింది, తన శత్రువుతో పోరాడటానికి. ఆ నీటి చప్పుడు అడవిలో ప్రతిధ్వనించింది, ఆ తర్వాత మళ్ళీ నిశ్శబ్దం. క్రూరమైన సింహం లేని ఈ అడవి ఇప్పుడు ఎలా మారుతుందో కదా?",
+      "image_prompt": "The lion, with red eyes full of rage, leaps into the well without a moment's hesitation. The loud splash of water echoes through the forest as it plunges in. Also in this scene: A massive, powerful lion with a thick, shaggy golden mane and piercing yellow eyes that convey immense hunger and anger. Its roar shakes the very ground, and its sharp claws and teeth are always visible. Always the same character across every scene. Dusky light, deep blues and purples, with the moon just beginning to rise, casting a silvery sheen on the well's surface, dramatic and decisive.",
+      "scene_visual": "The lion, with red eyes full of rage, leaps into the well without a moment's hesitation. The loud splash of water echoes through the forest as it plunges in.",
+      "supporting_char_keys": [],
+      "text_te_en": "Baavi Daggaraku Cheragaane, Kundelu Tana Chinna Paadanto Baavilopaliki Chupinchindi. \"Mahaaraajaa, Adigo! Mi Shatruvu Akkada Undi!\" Ani Gattigaa Cheppindi, Daani Gontulo Dhairyam Kanipinchindi. Sinham Baaviloki Tongi Chusindi, Nitilo Tana Pratibimbaanni Chusi, Ade Inko Sinham Anukundi. Kopanto Daani Kallu Errabaddaayi, Adi Kshanam Kudaa Aalochinchakundaa Pedda Shabdanto — Baaviloki Dukindi, Tana Shatruvuto Poraadataaniki. Aa Niti Chappudu Adavilo Pratidhvaninchindi, Aa Tarvaata Malli Nishshabdan. Kruramaina Sinham Leni I Adavi Ippudu Elaa Maarutundo Kadaa?",
+      "text_en": "As soon as they reached the well, the rabbit pointed into the well with its tiny paw. \"Your Majesty, look! Your enemy is there!\" it said loudly, courage evident in its voice. The lion peered into the well, saw its own reflection in the water, and thought it was another lion. Its eyes turned red with anger, and without a moment's thought, it jumped into the well with a loud splash — to fight its enemy. The sound of the water echoed through the forest, followed by silence again. How would this forest change now without the cruel lion, right?"
+    },
+    {
+      "id": 7,
+      "text": "కుందేలు నెమ్మదిగా అడవి జంతువుల దగ్గరికి తిరిగి వచ్చింది, దాని ముఖం మీద ఒక చిన్న చిరునవ్వు. పక్షుల కిలకిలరావాలు, ఆకుల సవ్వడులు మళ్ళీ అడవి నిండా నిండాయి, అంతా సంతోషంతో ఊపిరి పీల్చుకున్నారు. మిగిలిన జంతువులన్నీ కుందేలు చుట్టూ చేరాయి, దానిని ప్రశంసిస్తూ. \"నువ్వు మమ్మల్ని రక్షించావు, ధైర్యవంతుడివి!\" అని అవి సంతోషంగా కేకలు వేశాయి. అడవి అంతా ఆనందంతో నిండిపోయింది. ఆ రోజు నుండి, ఆ అడవిలో శాంతి, సంతోషం వెల్లివిరిశాయి, కుందేలు తెలివిని అందరూ గుర్తుంచుకున్నారు.",
+      "image_prompt": "The rabbit returns to the other forest animals, who gather around it, praising its bravery. A small smile plays on the rabbit's face as the sounds of birds and rustling leaves fill the air. Gentle morning light, warm golden hues spreading across the forest clearing, birdsong filling the air, peaceful and hopeful.",
+      "scene_visual": "The rabbit returns to the other forest animals, who gather around it, praising its bravery. A small smile plays on the rabbit's face as the sounds of birds and rustling leaves fill the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kundelu Nemmadigaa Adavi Jantuvula Daggariki Tirigi Vachchindi, Daani Mukham Mida Oka Chinna Chirunavvu. Pakshula Kilakilaraavaalu, Aakula Savvadulu Malli Adavi Nindaa Nindaayi, Antaa Santoshanto Upiri Pilchukunnaaru. Migilina Jantuvulanni Kundelu Chuttu Cheraayi, Daanini Prashansistu. \"Nuvvu Mammalni Rakshinchaavu, Dhairyavantudivi!\" Ani Avi Santoshangaa Kekalu Veshaayi. Adavi Antaa Aanandanto Nindipoyindi. Aa Roju Nundi, Aa Adavilo Shaanti, Santosham Vellivirishaayi, Kundelu Telivini Andaru Gurtunchukunnaaru.",
+      "text_en": "The rabbit slowly returned to the other forest animals, a small smile on its face. The chirping of birds and the rustling of leaves filled the forest again, and everyone breathed a sigh of relief with joy. All the other animals gathered around the rabbit, praising it. \"You saved us, you brave one!\" they cheered happily. The entire forest was filled with happiness. From that day on, peace and joy flourished in that forest, and everyone remembered the rabbit's cleverness."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.17,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is a strong contender for publication, showcasing excellent oral storytelling techniques and a compelling narrative. The consistent use of direct address and suspense hooks ensures high child engagement. To elevate it further, the author should strive for even more consistent 'showing' of emotions rather than 'stating' them, and consider adding a brief, evocative line of dialogue to the opening scene to enhance dialogue richness throughout."
+  },
+  "title_te_en": "Krurasinhaaniki Buddhi Cheppina Kundelu",
+  "moral_te_en": "Chinna Balahinamaina Praanulu Kudaa Telivito, Dhairyanto Pedda Kashtaalanu Daatagalavu Kadu.",
+  "title_en": "The Rabbit Who Taught the Cruel Lion a Lesson",
+  "moral_en": "Even small and weak creatures can overcome big troubles with cleverness and courage.",
+  "id": "20260523_171014",
+  "date": "2026-05-23",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - సింహం మరియు కుందేలు",
+  "thumbnail": "stories/20260523_171014/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
