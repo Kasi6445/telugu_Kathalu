@@ -317,7 +317,7 @@ body {
   align-items: flex-end;
   justify-content: center;
   padding: 10px 14px 10px 0;
-  min-height: 105px;
+  height: 110px;          /* fixed — keeps all cards the same row height */
   background-size: cover;
   background-position: left center;
   background-repeat: no-repeat;
@@ -343,58 +343,61 @@ body {
 }
 
 /* ── CATEGORY BACKGROUND IMAGES ── */
+/* Gradient: transparent → mid-opacity at 36% → fully opaque at 46%
+   This ensures the baked English text (~42% from left) is completely
+   covered before the HTML label appears on the right. */
 .cat-bg-neeti {
   background-image:
-    linear-gradient(to right, transparent 25%, rgba(36,10,0,0.93) 55%),
+    linear-gradient(to right, transparent 27%, rgba(36,10,0,0.82) 36%, rgba(36,10,0,0.99) 46%),
     url('/assets/categories/niti-kathalu.webp');
   background-color: #240a00;
   border: 1px solid rgba(255,107,53,0.25);
 }
 .cat-bg-podupu {
   background-image:
-    linear-gradient(to right, transparent 25%, rgba(18,30,6,0.93) 55%),
+    linear-gradient(to right, transparent 27%, rgba(18,30,6,0.82) 36%, rgba(18,30,6,0.99) 46%),
     url('/assets/categories/podupu-kathalu.webp');
   background-color: #121e06;
   border: 1px solid rgba(100,180,50,0.25);
 }
 .cat-bg-tenali {
   background-image:
-    linear-gradient(to right, transparent 25%, rgba(8,20,48,0.93) 55%),
+    linear-gradient(to right, transparent 27%, rgba(8,20,48,0.82) 36%, rgba(8,20,48,0.99) 46%),
     url('/assets/categories/tenaali-raama.webp');
   background-color: #081430;
   border: 1px solid rgba(127,168,224,0.25);
 }
 .cat-bg-panchatantra {
   background-image:
-    linear-gradient(to right, transparent 25%, rgba(4,26,24,0.93) 55%),
+    linear-gradient(to right, transparent 27%, rgba(4,26,24,0.82) 36%, rgba(4,26,24,0.99) 46%),
     url('/assets/categories/panchatantran.webp');
   background-color: #041a18;
   border: 1px solid rgba(61,181,138,0.25);
 }
 .cat-bg-ramayana {
   background-image:
-    linear-gradient(to right, transparent 25%, rgba(20,6,34,0.93) 55%),
+    linear-gradient(to right, transparent 27%, rgba(20,6,34,0.82) 36%, rgba(20,6,34,0.99) 46%),
     url('/assets/categories/raamaayanan.webp');
   background-color: #140622;
   border: 1px solid rgba(170,100,210,0.25);
 }
 .cat-bg-samethalu {
   background-image:
-    linear-gradient(to right, transparent 25%, rgba(28,12,0,0.93) 55%),
+    linear-gradient(to right, transparent 27%, rgba(28,12,0,0.82) 36%, rgba(28,12,0,0.99) 46%),
     url('/assets/categories/saametalu.webp');
   background-color: #1c0c00;
   border: 1px solid rgba(200,133,42,0.25);
 }
 .cat-bg-janapada {
   background-image:
-    linear-gradient(to right, transparent 25%, rgba(6,10,30,0.93) 55%),
+    linear-gradient(to right, transparent 27%, rgba(6,10,30,0.82) 36%, rgba(6,10,30,0.99) 46%),
     url('/assets/categories/jaanapadan.webp');
   background-color: #060a1e;
   border: 1px solid rgba(96,144,200,0.25);
 }
 .cat-bg-bhagavatam {
   background-image:
-    linear-gradient(to right, transparent 25%, rgba(22,12,0,0.93) 55%),
+    linear-gradient(to right, transparent 27%, rgba(22,12,0,0.82) 36%, rgba(22,12,0,0.99) 46%),
     url('/assets/categories/bhaagavatan.webp');
   background-color: #160c00;
   border: 1px solid rgba(212,148,58,0.25);
@@ -474,6 +477,15 @@ a.h-card, a.v-card {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
   gap: 14px;
+}
+
+@media (max-width: 640px) {
+  .cat-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .cat-card {
+    height: 95px;
+  }
 }
 
 @media (max-width: 400px) {
