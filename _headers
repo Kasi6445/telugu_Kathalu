@@ -1,3 +1,19 @@
+# Story images: no-cache so browsers always revalidate against the server.
+# Netlify returns a 304 if the file hasn't changed (ETag), so this is
+# bandwidth-efficient while ensuring regenerated images are never stale.
+/stories/*/images/*.jpg
+  Cache-Control: no-cache
+
+/stories/*/images/*.png
+  Cache-Control: no-cache
+
+# Static assets: cache aggressively (CSS/JS have version-busted URLs anyway)
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
 /apple-app-site-association
   Content-Type: application/json
 
