@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260523_090757",
+      "slug": "bamgaaru-kii-rahasyam",
+      "title": "బంగారు కీ రహస్యం",
+      "moral": "ఎంత కష్టంగా కనిపించినా, మన ధైర్యం, దయ ఉంటే అద్భుతాలు నిజమవుతాయి చూశారా?",
+      "thumbnail": "stories/20260523_090757/images/scene1.jpg",
+      "date": "2026-05-23",
+      "category": "janapada",
+      "subcategory": "magical_tales",
+      "topic": "తెలుగు జానపద కథ - మంత్రగత్తె మరియు బంగారు కీ",
+      "voice": "te-IN-Chirp3-HD-Laomedeia",
+      "schema_version": 2,
+      "title_en": "The Secret of the Golden Key",
+      "moral_en": "No matter how difficult things seem, if we have courage and kindness, miracles can come true, you see?",
+      "title_te_en": "Bangaaru Ki Rahasyam",
+      "moral_te_en": "Enta Kashtangaa Kanipinchinaa, Mana Dhairyan, Daya Unte Adbhutaalu Nijamavutaayi Chushaaraa?"
+    },
+    {
       "id": "20260523_080813",
       "slug": "chelimi-gelichina-veela",
       "title": "చెలిమి గెలిచిన వేళ",
