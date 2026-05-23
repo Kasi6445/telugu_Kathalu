@@ -737,11 +737,10 @@ def _assemble_image_prompts(story: dict[str, Any],
 
         if scene_visual:
             # Pass 2.5 succeeded — use narration-derived visual as the scene action.
-            # Observer detection still adjusts framing when relevant.
-            if _is_observer_scene(emotion, beat):
-                action = f"{scene_visual} The protagonist watches from the side."
-            else:
-                action = scene_visual
+            # scene_visual already encodes the protagonist's position/role, so no
+            # observer note needed (adding it causes image generators to render a
+            # phantom human observer alongside animal or non-human protagonists).
+            action = scene_visual
         else:
             # Fallback: use outline story_beat (pre-Pass 2.5 behaviour).
             if _is_observer_scene(emotion, beat):
