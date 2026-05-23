@@ -1,0 +1,112 @@
+{
+  "title": "చిన్ని ప్రయత్నం, గొప్ప ఫలం",
+  "moral": "మనసు పెట్టి చిన్న పని చేసినా, దాని ఫలితం చాలా పెద్దదిగా ఉంటుంది.",
+  "main_character": "Raju - A slender, energetic boy of eleven, with bright, curious eyes and perpetually messy hair. He loves to play cricket with his friends and often daydreams during chores. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The village of Krishnapuram, nestled beside the Godavari river in Andhra Pradesh. A small, sun-drenched mud house with a thatched roof, surrounded by a dusty courtyard and a small, wilting vegetable patch. Early morning. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కృష్ణపురం గ్రామంలో, రాజు అనే చిన్నారి కుర్రాడు తెల్లవారుజామునే మొక్కలకు నీళ్ళు పోస్తున్నాడు. అంతలో దూరంగా కబడ్డీ ఆడుకుంటున్న పిల్లల అరుపులు — గ్రామమంతా ప్రతిధ్వనించాయి. రాజు తల తిప్పాడు, కళ్ళల్లో మెరుపు మెరిసింది — అతని పెదవుల మీద నవ్వు పువ్వులా వికసించింది. చేతిలోని నీళ్ళ బకెట్‌ను అక్కడే వదిలేసి, స్నేహితుల వైపు ఒక్క పరుగు. అమ్మా, నేను తర్వాత వచ్చి చేస్తాను! అని అరిచాడు. మరి రాజు మళ్ళీ వచ్చి ఆ పని చేస్తాడా, లేక ఆ ఆటలోనే మునిగిపోతాడా?",
+      "image_prompt": "The boy drops the water bucket he is holding and runs towards the distant sounds of children playing. A bright smile blossoms on his lips as his eyes sparkle with excitement. Bright, warm morning sun streaming into the dusty courtyard, highlighting specks of dust, creating sharp shadows.",
+      "scene_visual": "The boy drops the water bucket he is holding and runs towards the distant sounds of children playing. A bright smile blossoms on his lips as his eyes sparkle with excitement.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnapuram Graamanlo, Raaju Ane Chinnaari Kurraadu Tellavaarujaamune Mokkalaku Nillu Postunnaadu. Antalo Durangaa Kabaddi Aadukuntunna Pillala Arupulu — Graamamantaa Pratidhvaninchaayi. Raaju Tala Tippaadu, Kallallo Merupu Merisindi — Atani Pedavula Mida Navvu Puvvulaa Vikasinchindi. Chetiloni Nilla Baket‌Nu Akkade Vadilesi, Snehitula Vaipu Okka Parugu. Ammaa, Nenu Tarvaata Vachchi Chestaanu! Ani Arichaadu. Mari Raaju Malli Vachchi Aa Pani Chestaadaa, Leka Aa Aatalone Munigipotaadaa?",
+      "text_en": "In Krishnapuram village, a little boy named Raju was watering the plants early in the morning. Just then, the shouts of children playing Kabaddi in the distance echoed throughout the village. Raju turned his head, a sparkle in his eyes — a smile blossomed like a flower on his lips. He left the water bucket in his hand right there and ran towards his friends. 'Mom, I'll come back and do it later!' he shouted. Will Raju come back to finish the work, or will he get lost in the game?"
+    },
+    {
+      "id": 2,
+      "text": "ఆట నుండి తిరిగి రాగానే, నాని రాజుని పిలిచి, వాడిపోయిన కూరగాయల మొక్కల వైపు వేలు చూపింది. రాజు ముఖం మీద నవ్వు మాయమైంది — కళ్ళల్లో ఆందోళన నిండింది. అతను ఒక వడలిపోయిన వంకాయ ఆకును పట్టుకున్నాడు, అది చేతిలోనే పొడిగా విరిగిపోయింది. ఈ కాయగూరలు మన పండగకు చాలా ముఖ్యం రా, రాజు. ఇలాగైతే ఎలా? అని నాని గొంతులో బెంగ వినిపించింది. మరి రాజు ఆ మొక్కలను కాపాడగలుగుతాడా, లేకపోతే పండగకు కాయగూరలు ఉండవా?",
+      "image_prompt": "The boy holds a withered brinjal leaf in his hand, his face showing concern. The dry leaf crumbles into pieces between his fingers. Gentle morning light, slightly diffused by a thin haze, casting soft shadows, conveying a sense of quiet concern.",
+      "scene_visual": "The boy holds a withered brinjal leaf in his hand, his face showing concern. The dry leaf crumbles into pieces between his fingers.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Aata Nundi Tirigi Raagaane, Naani Raajuni Pilichi, Vaadipoyina Kuragaayala Mokkala Vaipu Velu Chupindi. Raaju Mukham Mida Navvu Maayamaindi — Kallallo Aandolana Nindindi. Atanu Oka Vadalipoyina Vankaaya Aakunu Pattukunnaadu, Adi Chetilone Podigaa Virigipoyindi. I Kaayaguralu Mana Pandagaku Chaalaa Mukhyam Raa, Raaju. Ilaagaite Elaa? Ani Naani Gontulo Benga Vinipinchindi. Mari Raaju Aa Mokkalanu Kaapaadagalugutaadaa, Lekapote Pandagaku Kaayaguralu Undavaa?",
+      "text_en": "As soon as he returned from playing, Nani called Raju and pointed to the withered vegetable plants. The smile vanished from Raju's face — his eyes filled with worry. He picked up a wilted brinjal leaf, and it crumbled dryly in his hand. 'These vegetables are very important for our festival, Raju. What will we do if they are like this?' Nani's voice was filled with concern. Will Raju be able to save these plants, or will there be no vegetables for the festival?"
+    },
+    {
+      "id": 3,
+      "text": "రాజు వెంటనే మొక్కలకు నీళ్ళు పోయడం మొదలుపెట్టాడు, కానీ కొద్దిసేపటికే అతని భుజాలు వాలిపోయాయి. ఎంత పోసినా, ఆ ఎండిన మొక్కలు తడిచినట్లు అనిపించలేదు — అది చాలా పెద్ద పనిలా తోచింది. అతను లోతుగా నిట్టూర్చాడు, చెమటతో తడిసిన నుదుటిని చేతితో తుడుచుకున్నాడు. ఇది చాలా కష్టం! ఇన్ని మొక్కలకి నీళ్ళు పోయడం నా వల్ల కాదు, అని నిరాశగా అన్నాడు. బురద అంటిన పాదాలతో మొక్కల మధ్య నుండి బయటకు వచ్చాడు. రాజు పూర్తిగా వదిలేస్తాడా, లేక ఈ కష్టాన్ని ఎలాగైనా దాటతాడా?",
+      "image_prompt": "The boy deeply sighs, his shoulders slumped in exhaustion. He wipes his sweat-soaked forehead with his hand, his expression one of deep frustration. Harsh midday sun, beating down on the dry earth, creating a feeling of exhaustion and difficulty.",
+      "scene_visual": "The boy deeply sighs, his shoulders slumped in exhaustion. He wipes his sweat-soaked forehead with his hand, his expression one of deep frustration.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Ventane Mokkalaku Nillu Poyadam Modalupettaadu, Kaani Koddisepatike Atani Bhujaalu Vaalipoyaayi. Enta Posinaa, Aa Endina Mokkalu Tadichinatlu Anipinchaledu — Adi Chaalaa Pedda Panilaa Tochindi. Atanu Lotugaa Nitturchaadu, Chematato Tadisina Nudutini Chetito Tuduchukunnaadu. Idi Chaalaa Kashtan! Inni Mokkalaki Nillu Poyadam Naa Valla Kaadu, Ani Niraashagaa Annaadu. Burada Antina Paadaalato Mokkala Madhya Nundi Bayataku Vachchaadu. Raaju Purtigaa Vadilestaadaa, Leka I Kashtaanni Elaagainaa Daatataadaa?",
+      "text_en": "Raju immediately started watering the plants, but soon his shoulders drooped. No matter how much he watered, the dry plants didn't seem to get wet — it felt like a very big task. He sighed deeply, wiping his sweaty forehead with his hand. 'This is too hard! I can't water so many plants,' he said in despair. He walked out from among the plants, his feet covered in mud. Will Raju give up completely, or will he somehow overcome this difficulty?"
+    },
+    {
+      "id": 4,
+      "text": "రాజు నిరాశగా కూర్చోవడం చూసి, నాని అతని దగ్గరకు వచ్చింది, కోప్పడకుండా మెల్లగా మాట్లాడింది. ఆమె తన చేతిలో ఉన్న చల్లని, నునుపైన మట్టి కుండను చూపింది. ఒక్క మొక్కకు నీళ్ళు పోస్తే, ఒక మొక్క బ్రతుకుతుంది. ఒక్కొక్కటిగా ప్రయత్నించు, అని నాని శాంతంగా చెప్పింది. రాజు ఆమె వైపు చూశాడు, మెల్లగా తల ఊపాడు — అతని కళ్ళలో చిన్న ఆశ కనిపించింది. మరి నాని మాటలు రాజులో నిజంగానే పట్టుదలను నింపుతాయా?",
+      "image_prompt": "An older woman gently shows the boy a cool, smooth clay pot she holds in her hand. The boy looks at her and slowly nods, a flicker of hope appearing in his eyes. Late afternoon sun, casting long, soft shadows, a warm golden glow indicating gentle wisdom and a calm atmosphere.",
+      "scene_visual": "An older woman gently shows the boy a cool, smooth clay pot she holds in her hand. The boy looks at her and slowly nods, a flicker of hope appearing in his eyes.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Raaju Niraashagaa Kurchovadam Chusi, Naani Atani Daggaraku Vachchindi, Koppadakundaa Mellagaa Maatlaadindi. Aame Tana Chetilo Unna Challani, Nunupaina Matti Kundanu Chupindi. Okka Mokkaku Nillu Poste, Oka Mokka Bratukutundi. Okkokkatigaa Prayatninchu, Ani Naani Shaantangaa Cheppindi. Raaju Aame Vaipu Chushaadu, Mellagaa Tala Upaadu — Atani Kallalo Chinna Aasha Kanipinchindi. Mari Naani Maatalu Raajulo Nijangaane Pattudalanu Nimputaayaa?",
+      "text_en": "Seeing Raju sitting in despair, Nani came to him and spoke gently, without scolding him. She showed him a cool, smooth clay pot in her hand. 'If you water one plant, one plant will live. Try one by one,' Nani said calmly. Raju looked at her and slowly nodded — a small hope appeared in his eyes. Will Nani's words truly fill Raju with determination?"
+    },
+    {
+      "id": 5,
+      "text": "నాని మాటలు విన్నాక, రాజు ప్రతిరోజు ఉదయం, సాయంత్రం ఒక చిన్న భాగం మొక్కలకే నీళ్ళు పోయడం మొదలుపెట్టాడు. స్నేహితులు ఆడుకోవడానికి పిలిచినా, అలిసిపోయినా — ఒక్కరోజు కూడా నేను వదిలిపెట్టను అని గట్టిగా అనుకున్నాడు. కొన్ని రోజుల తర్వాత, నేల నుండి పచ్చని మొలక — పైకి చూసింది! రాజు ముఖం మీద చిన్న చిరునవ్వు, అతని గుండెలో గర్వం నిండింది. మరి ఈ మొక్కలు పండగ సమయానికి పూర్తిగా కోలుకుంటాయా?",
+      "image_prompt": "The boy kneels down and gazes at a tiny green sprout emerging from the soil. A small smile spreads across his face, and his chest swells with pride. Repeated scenes of early morning cool blue light and warm evening orange light, showing the passage of time and consistent effort.",
+      "scene_visual": "The boy kneels down and gazes at a tiny green sprout emerging from the soil. A small smile spreads across his face, and his chest swells with pride.",
+      "supporting_char_keys": [],
+      "text_te_en": "Naani Maatalu Vinnaaka, Raaju Pratiroju Udayan, Saayantram Oka Chinna Bhaagam Mokkalake Nillu Poyadam Modalupettaadu. Snehitulu Aadukovadaaniki Pilichinaa, Alisipoyinaa — Okkaroju Kudaa Nenu Vadilipettanu Ani Gattigaa Anukunnaadu. Konni Rojula Tarvaata, Nela Nundi Pachchani Molaka — Paiki Chusindi! Raaju Mukham Mida Chinna Chirunavvu, Atani Gundelo Garvam Nindindi. Mari I Mokkalu Pandaga Samayaaniki Purtigaa Kolukuntaayaa?",
+      "text_en": "After listening to Nani's words, Raju started watering a small section of plants every morning and evening. Even when his friends called him to play, or when he was tired — he firmly decided, 'I won't give up even for a single day.' A few days later, a green sprout peeked out from the soil! A small smile appeared on Raju's face, and his heart filled with pride. Will these plants fully recover by the time of the festival?"
+    },
+    {
+      "id": 6,
+      "text": "పండగ ముందు రోజు, రాజు తన శ్రద్ధతో పెంచిన కూరగాయల తోటలోకి వెళ్ళాడు. పచ్చని వంకాయ మొక్కల నుండి ఒక తాజా వంకాయను కోశాడు — అది క్రిస్ప్‌గా 'టప్‌' మని విరిగింది. అతని గుండె గర్వంతో ఉప్పొంగింది, ముఖమంతా ఆనందంతో వెలిగిపోయింది. ఒక గంప నిండా రంగురంగుల కూరగాయలు కోశాడు. అమ్మా! చూడు! ఇవన్నీ మన పండగకు సరిపోతాయి! అని సంతోషంగా అరిచాడు. మరి రాజు చేసిన ఈ కృషికి కుటుంబం ఎలా స్పందిస్తుంది, అతను ఏమి నేర్చుకుంటాడు?",
+      "image_prompt": "The boy carefully plucks a fresh, green brinjal from its plant in the garden. The brinjal snaps crisply from the stem, and his face glows with pure joy. Golden hour light, rich and warm, illuminating the lush green plants and Raju's beaming face, signifying success and beauty.",
+      "scene_visual": "The boy carefully plucks a fresh, green brinjal from its plant in the garden. The brinjal snaps crisply from the stem, and his face glows with pure joy.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Pandaga Mundu Roju, Raaju Tana Shraddhato Penchina Kuragaayala Totaloki Vellaadu. Pachchani Vankaaya Mokkala Nundi Oka Taajaa Vankaayanu Koshaadu — Adi Krisp‌Gaa 'Tap‌' Mani Virigindi. Atani Gunde Garvanto Uppongindi, Mukhamantaa Aanandanto Veligipoyindi. Oka Gampa Nindaa Rangurangula Kuragaayalu Koshaadu. Ammaa! Chudu! Ivanni Mana Pandagaku Saripotaayi! Ani Santoshangaa Arichaadu. Mari Raaju Chesina I Krrishiki Kutumbam Elaa Spandistundi, Atanu Emi Nerchukuntaadu?",
+      "text_en": "The day before the festival, Raju went into the vegetable garden he had carefully nurtured. He plucked a fresh brinjal from the green brinjal plants — it snapped crisply with a 'thup' sound. His heart swelled with pride, and his face lit up with joy. He picked a basket full of colorful vegetables. 'Mom! Look! All these will be enough for our festival!' he shouted happily. How will his family react to Raju's hard work, and what will he learn?"
+    },
+    {
+      "id": 7,
+      "text": "పండగ రోజు, రాజు, అతని కుటుంబం అందరూ కలిసి భోజనం చేశారు. రాజు పెంచిన కూరగాయలతో చేసిన పులుసు సువాసన — ఇల్లంతా నిండిపోయింది, అందరి ముఖాల్లో ఆనందం తొణికిసలాడింది. ప్రతి ముద్ద రుచి చూస్తుంటే, రాజుకు ఒక కొత్త ప్రశాంతత కలిగింది. అతను ఖాళీగా ఉన్న తోట వైపు చూశాడు, మౌనంగా నవ్వాడు. ఈ రుచికి కష్టేఫలేనే కారణం! అని మనసులో అనుకున్నాడు. కష్టేఫలే — ఇదే నిజం!",
+      "image_prompt": "The boy sits at the table, looking towards the now empty garden outside. He smiles silently to himself, a sense of deep peace settling over his features. Warm, inviting candlelight and oil lamps casting a soft, flickering glow inside the home, creating an atmosphere of celebration and family.",
+      "scene_visual": "The boy sits at the table, looking towards the now empty garden outside. He smiles silently to himself, a sense of deep peace settling over his features.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Pandaga Roju, Raaju, Atani Kutumbam Andaru Kalisi Bhojanam Cheshaaru. Raaju Penchina Kuragaayalato Chesina Pulusu Suvaasana — Illantaa Nindipoyindi, Andari Mukhaallo Aanandam Tonikisalaadindi. Prati Mudda Ruchi Chustunte, Raajuku Oka Kotta Prashaantata Kaligindi. Atanu Khaaligaa Unna Tota Vaipu Chushaadu, Maunangaa Navvaadu. I Ruchiki Kashtephalene Kaaranan! Ani Manasulo Anukunnaadu. Kashtephale — Ide Nijan!",
+      "text_en": "On the day of the festival, Raju and his whole family ate together. The aroma of the pulusu (a sour stew) made with the vegetables Raju grew filled the entire house, and happiness shone on everyone's faces. As he tasted each bite, Raju felt a new sense of peace. He looked towards the empty garden and smiled silently. 'Hard work brings sweet rewards!' he thought to himself. Hard work brings sweet rewards — this is the truth!"
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "nani",
+      "description": "Raju's grandmother. A small, stooped woman with a kind, wrinkled face and a silver braid. She always wears a simple cotton saree and carries a small wooden staff. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 6.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 9,
+    "average": 6.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story boasts a compelling narrative arc and exceptional child engagement, primarily due to the effective use of suspense hooks at the end of each scene. However, its primary weakness lies in dialogue richness, with two scenes completely lacking direct speech, which diminishes the oral warmth and character distinctiveness. To reach a 9+ score, the author must integrate more natural, character-specific dialogue throughout and consistently show emotions through actions rather than stating them directly."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chinni Prayatnan, Goppa Phalam",
+  "moral_te_en": "Manasu Petti Chinna Pani Chesinaa, Daani Phalitam Chaalaa Peddadigaa Untundi.",
+  "title_en": "A Small Effort, A Great Outcome",
+  "moral_en": "When you put your heart into even a small task, the result can be truly great.",
+  "id": "20260523_191038",
+  "date": "2026-05-23",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "కష్టేఫలే అనే సామెత కథ",
+  "thumbnail": "stories/20260523_191038/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
