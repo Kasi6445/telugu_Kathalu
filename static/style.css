@@ -720,9 +720,8 @@ a.h-card, a.v-card {
 /* ── SLIDESHOW — YouTube-style full-screen (story.html) ── */
 body.slideshow-mode {
   background: #000;
-  overflow: hidden;
-  height: 100vh;
-  height: 100dvh;
+  overflow-x: hidden;        /* prevent horizontal bleed */
+  overscroll-behavior: none; /* prevent iOS elastic-scroll bounce (replaces overflow:hidden) */
 }
 
 #slideshow {
@@ -1371,4 +1370,45 @@ body.slideshow-mode {
   #play-pause-btn { font-size: 2rem; }
   .nav-btn        { font-size: 1.7rem !important; }
   .speed-btn      { padding: 4px 10px; font-size: 0.57rem; }
+}
+
+/* ── SEO STORY BODY ──────────────────────────────────────────────────────────
+   Semantic article with full story text, rendered below the full-screen player.
+   Visible to crawlers and no-JS users; sighted JS users see the slideshow
+   player above it and won't reach this during normal interaction.
+   The slideshow JS never touches #seo-story-body. */
+#seo-story-body {
+  padding: 2rem 1.5rem 5rem;
+  max-width: 680px;
+  margin: 0 auto;
+  font-family: 'Noto Sans Telugu', sans-serif;
+  line-height: 1.85;
+  color: #1a1a2e;
+}
+#seo-story-body h1 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+}
+#seo-story-body .seo-category {
+  font-size: 0.85rem;
+  color: #FF6B35;
+  margin: 0 0 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+#seo-story-body p {
+  margin: 0.75rem 0;
+  font-size: 1rem;
+}
+#seo-story-body .seo-moral {
+  border-left: 3px solid #FF6B35;
+  padding-left: 1rem;
+  margin-top: 2rem;
+}
+#seo-story-body .seo-moral h2 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+  color: #FF6B35;
 }

@@ -25,7 +25,7 @@ _ICON_512    = f"{BASE_URL}/static/icon-512.png"
 _GA_ID       = "G-39G2696KDV"
 _GSV         = "tYMx4Habst2Z266zGxzjvxtzrq8zAvVMljjU4MBXFfc"
 # Bumped by scripts/bump-css-version.js — keep in sync with index.html / story.html.
-CSS_VERSION  = 28
+CSS_VERSION  = 30
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -162,10 +162,69 @@ def generate_story_head(story: dict, slug: str, timestamp: str) -> str:
     return "\n".join(lines)
 
 
+_CATEGORY_LABELS = {
+    "neeti":        "నీతి కథలు",
+    "podupu":       "పొడుపు కథలు",
+    "tenali":       "తెనాలి రామ",
+    "panchatantra": "పంచతంత్రం",
+    "ramayana":     "రామాయణం",
+    "samethalu":    "సామెతలు",
+    "janapada":     "జానపదం",
+    "bhagavatam":   "భాగవతం",
+}
+
+
+def generate_seo_body(story: dict) -> str:
+    """Return a semantic <article> with all scene text for crawler visibility.
+
+    Injected before </body> in the built story page. The slideshow JS never
+    touches #seo-story-body — it only operates on #slide-text, #bg-image, etc.
+    — so there is no hydration conflict. The article sits below the full-screen
+    player in DOM order: invisible during normal use, visible to crawlers and to
+    users without JS.
+    """
+    title    = story.get("title", "")
+    moral    = story.get("moral", "")
+    scenes   = story.get("scenes", [])
+    category = story.get("category", "")
+
+    lines = ['<article id="seo-story-body" lang="te">']
+
+    if category:
+        cat_label = _CATEGORY_LABELS.get(category, category)
+        lines.append(f'<p class="seo-category">{_e(cat_label)}</p>')
+
+    lines.append(f'<h1>{_e(title)}</h1>')
+
+    for scene in scenes:
+        text = scene.get("text", "").strip()
+        if text:
+            lines.append(f"<p>{_e(text)}</p>")
+
+    if moral:
+        lines += [
+            '<section class="seo-moral">',
+            '<h2>నీతి</h2>',
+            f'<p>{_e(moral)}</p>',
+            '</section>',
+        ]
+
+    lines.append('</article>')
+    return "\n".join(lines)
+
+
 def generate_story_page(story: dict, slug: str, timestamp: str, story_template: str) -> str:
     """Generate full per-story index.html by replacing <head> in the story.html template."""
     new_head = generate_story_head(story, slug, timestamp)
-    return re.sub(r"<head>.*?</head>", new_head, story_template, count=1, flags=re.DOTALL)
+    html = re.sub(r"<head>.*?</head>", new_head, story_template, count=1, flags=re.DOTALL)
+
+    # Inject semantic article with all scene text before </body>.
+    # The article's <h1> is the page's sole h1 — the old hidden #story-h1
+    # was removed from story.html. JS never references #seo-story-body.
+    seo_article = generate_seo_body(story)
+    html = html.replace("</body>", f"\n{seo_article}\n</body>", 1)
+
+    return html
 
 
 def write_story_page(slug: str, html: str, output_root: str = ".") -> Path:

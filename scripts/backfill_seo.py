@@ -39,12 +39,24 @@ def main():
     for entry in stories:
         slug      = entry.get("slug") or entry["id"]
         timestamp = entry["id"]
-        story = {
-            "title":    entry["title"],
-            "moral":    entry.get("moral", ""),
-            "category": entry.get("category", ""),
-            "date":     entry.get("date", ""),
-        }
+
+        # Load the full story.json so generate_seo_body() has scene text.
+        # Fall back to index entry fields if the file is missing (shouldn't happen).
+        story_json_path = ROOT / "stories" / timestamp / "story.json"
+        if story_json_path.exists():
+            with open(story_json_path, encoding="utf-8") as sf:
+                story = json.load(sf)
+            # Ensure date is present (index entry is authoritative for date/slug).
+            story.setdefault("date", entry.get("date", ""))
+        else:
+            print(f"  [warn] stories/{timestamp}/story.json missing — SEO body will have no scenes")
+            story = {
+                "title":    entry["title"],
+                "moral":    entry.get("moral", ""),
+                "category": entry.get("category", ""),
+                "date":     entry.get("date", ""),
+            }
+
         html = generate_story_page(story, slug, timestamp, STORY_TEMPLATE)
         out  = write_story_page(slug, html, output_root=str(ROOT))
         print(f"  [ok] {out.relative_to(ROOT)}")
