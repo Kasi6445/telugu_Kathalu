@@ -67,21 +67,14 @@ def main():
     logger.info(f"Scene  : {scene_num}")
     logger.info(f"Title  : {story.get('title', '—')}")
 
-    from lib.config import STYLE_LOCK
     from lib.image_gen import (
-        _DIRECTOR_PREFIX,
+        _build_prompt,
         _get_working_gemini_model,
         _call_imagen_generate,
         _RETRY_WAITS,
     )
 
-    full_prompt = (
-        f"{_DIRECTOR_PREFIX}"
-        f"{story['main_character']} "
-        f"{story['setting']} "
-        f"{scene.get('image_prompt', '')} "
-        f"{STYLE_LOCK}"
-    )
+    full_prompt = _build_prompt(scene, story)
 
     print(f"\nImage prompt (scene {scene_num}):\n{full_prompt[:600]}...\n")
 

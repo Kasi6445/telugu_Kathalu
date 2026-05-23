@@ -258,11 +258,13 @@ For each scene provide:
                       or unresolved moment that makes a child desperately want to hear the next scene.
                       For the final scene write "resolution".
   characters_in_scene : array of character keys who PHYSICALLY AND VISUALLY APPEAR in this scene.
-                      Allowed values: "main_character" and/or "antagonist".
-                      Include "antagonist" ONLY when the antagonist character is physically
-                      present and visible in this scene's action — not merely mentioned or remembered.
-                      Example: ["main_character"] for solo scenes, ["main_character", "antagonist"]
-                      when they share the scene.
+                      Allowed values: "main_character", "antagonist", and any key from supporting_characters.
+                      Include a key ONLY when that character is physically present and visible —
+                      not merely mentioned or remembered.
+                      Example: ["main_character"] for solo scenes.
+                      Example: ["main_character", "antagonist"] when they share the scene.
+                      Example: ["main_character", "crow", "mouse", "tortoise"] for a group scene
+                      where all ensemble members are physically visible.
   scene_lighting    : the ACTUAL lighting and atmosphere of THIS specific scene moment — written
                       as a painter's direction for the illustrator.
                       Match the real time of day, weather, setting, and emotional tone exactly.
@@ -292,6 +294,17 @@ Also provide:
                       face/hair details, exact clothing colors and style, any distinctive prop.
                       End with: "Always the same character across every scene."
                       OMIT this field entirely if there is no recurring secondary character.
+  supporting_characters : (INCLUDE ONLY for ensemble cast stories where 2 or more NAMED secondary
+                      characters — neither the protagonist nor the antagonist — physically appear
+                      across multiple scenes. Classic example: Panchatantra animal group stories
+                      where a crow, mouse, tortoise, deer etc. each act independently.)
+                      Array of objects, one per recurring secondary character:
+                        key         : short lowercase identifier with no spaces (e.g. "crow", "mouse", "tortoise")
+                        description : 2-sentence English visual description — SAME FORMAT as main_character.
+                                     Include: species, size/build, color, 2-3 specific physical features.
+                                     End with: "Always the same character across every scene."
+                      OMIT this field (or use []) for solo-hero stories or stories with only
+                      main_character + antagonist — adding phantom characters causes image errors.
   setting           : 2-sentence English description.
                       Include: specific Telugu region or village, 3-4 named visual elements, time of day.
                       End with: "Same location across every scene."
@@ -303,6 +316,10 @@ Return ONLY valid JSON:
 {{
   "main_character": "...",
   "antagonist": "...",
+  "supporting_characters": [
+    {{"key": "crow", "description": "A sleek black crow... Always the same character across every scene."}},
+    {{"key": "mouse", "description": "A small nimble mouse... Always the same character across every scene."}}
+  ],
   "setting": "...",
   "moral_in_english": "...",
   "scenes": [
@@ -715,6 +732,16 @@ def _assemble_image_prompts(story: dict[str, Any],
     outline_by_num = {s["scene_number"]: s for s in outline["scenes"]}
     total = len(story["scenes"])
 
+    # Build supporting character lookup from outline (ensemble cast stories only).
+    # Stored in story dict so it persists in story.json and is available to image_gen.
+    supporting_chars_map: dict[str, str] = {
+        sc["key"]: sc["description"]
+        for sc in outline.get("supporting_characters", [])
+        if sc.get("key") and sc.get("description")
+    }
+    if supporting_chars_map:
+        story["supporting_characters"] = outline["supporting_characters"]
+
     for scene in story["scenes"]:
         o = outline_by_num.get(scene["id"], {})
 
@@ -734,6 +761,11 @@ def _assemble_image_prompts(story: dict[str, Any],
         o_chars = o.get("characters_in_scene", ["main_character"])
         antagonist_in_scene = bool(antagonist) and "antagonist" in o_chars
         antagonist_note = f"Also in this scene: {antagonist}" if antagonist_in_scene else ""
+
+        # Supporting characters (ensemble cast): track which ones appear in this scene.
+        # Keys stored on the scene so image_gen._build_prompt can inject their descriptions.
+        scene_supporting_keys = [k for k in supporting_chars_map if k in o_chars]
+        scene["supporting_char_keys"] = scene_supporting_keys
 
         if scene_visual:
             # Pass 2.5 succeeded — use narration-derived visual as the scene action.

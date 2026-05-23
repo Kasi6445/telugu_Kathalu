@@ -157,24 +157,54 @@ _DIRECTOR_PREFIX = (
 )
 
 
+def _get_supporting_chars_str(scene: dict, story: dict) -> str:
+    """
+    Return a space-joined string of visual descriptions for every supporting character
+    that physically appears in this scene (from scene["supporting_char_keys"]).
+
+    These are injected right after main_character in the prompt so the model
+    knows exactly what each ensemble character looks like — prevents hallucinated
+    animal substitutions (e.g. monkey instead of mouse, hyena instead of crow).
+
+    Returns empty string for solo-hero stories or scenes where no supporting
+    characters appear, adding no cost to those generations.
+    """
+    keys = scene.get("supporting_char_keys", [])
+    if not keys:
+        return ""
+    chars_map = {
+        sc["key"]: sc["description"]
+        for sc in story.get("supporting_characters", [])
+        if sc.get("key") and sc.get("description")
+    }
+    descs = [chars_map[k] for k in keys if k in chars_map]
+    return (" ".join(descs) + " ") if descs else ""
+
+
 def _build_prompt(scene: dict, story: dict) -> str:
     """
     5-layer prompt with character/setting FIRST so the model weights them highest.
 
-    Layer 1 (CHARACTER) : verbatim main_character description with visual anchors.
-    Layer 2 (SETTING)   : verbatim setting description with visual anchors.
-    Layer 3 (SCENE)     : the specific moment, action, emotion from image_prompt.
-                          The image_prompt already contains SECONDARY CHARACTER only
-                          for scenes where the antagonist physically appears — so no
-                          antagonist block is added here (prevents extra characters
-                          appearing in solo scenes).
-    Layer 4 (STYLE)     : locked art direction.
+    Layer 1 (CHARACTER)  : verbatim main_character description with visual anchors.
+    Layer 1b (SUPPORTING): descriptions of any supporting ensemble characters that
+                           appear in this scene — injected at the same weight level as
+                           main_character so the model knows exactly how each looks.
+                           Empty for solo-hero stories or scenes with no supporting cast.
+    Layer 2 (SETTING)    : verbatim setting description with visual anchors.
+    Layer 3 (SCENE)      : the specific moment, action, emotion from image_prompt.
+                           The image_prompt already contains SECONDARY CHARACTER only
+                           for scenes where the antagonist physically appears — so no
+                           antagonist block is added here (prevents extra characters
+                           appearing in solo scenes).
+    Layer 4 (STYLE)      : locked art direction.
 
     Prefixed with the director framing.
     """
+    supporting_str = _get_supporting_chars_str(scene, story)
     return (
         f"{_DIRECTOR_PREFIX}"
         f"{story['main_character']} "
+        f"{supporting_str}"
         f"{story['setting']} "
         f"{scene.get('image_prompt', '')} "
         f"{STYLE_LOCK}"
