@@ -52,3 +52,16 @@ if (fs.existsSync(claudeMdPath)) {
   const md = fs.readFileSync(claudeMdPath, 'utf8');
   fs.writeFileSync(claudeMdPath, md.replace(/`v=\d+`/, `\`v=${nextVersion}\``), 'utf8');
 }
+
+// Keep CSS_VERSION in lib/seo_writer.py in sync so promote.py generates correct links.
+const seoWriterPath = path.join(ROOT, 'lib', 'seo_writer.py');
+if (fs.existsSync(seoWriterPath)) {
+  const py = fs.readFileSync(seoWriterPath, 'utf8');
+  const updated_py = py.replace(/^CSS_VERSION\s*=\s*\d+/m, `CSS_VERSION  = ${nextVersion}`);
+  if (updated_py !== py) {
+    fs.writeFileSync(seoWriterPath, updated_py, 'utf8');
+    console.log(`Updated CSS_VERSION in lib/seo_writer.py to ${nextVersion}`);
+  } else {
+    console.warn('Warning: CSS_VERSION not found in lib/seo_writer.py — update it manually.');
+  }
+}

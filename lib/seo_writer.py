@@ -24,6 +24,8 @@ _TWITTER     = "@telugukathalu"
 _ICON_512    = f"{BASE_URL}/static/icon-512.png"
 _GA_ID       = "G-39G2696KDV"
 _GSV         = "tYMx4Habst2Z266zGxzjvxtzrq8zAvVMljjU4MBXFfc"
+# Bumped by scripts/bump-css-version.js — keep in sync with index.html / story.html.
+CSS_VERSION  = 28
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -144,7 +146,7 @@ def generate_story_head(story: dict, slug: str, timestamp: str) -> str:
         '<link rel="preconnect" href="https://fonts.googleapis.com">',
         '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
         '<link rel="preconnect" href="https://www.googletagmanager.com">',
-        '<link rel="stylesheet" href="/static/style.css?v=7">',
+        f'<link rel="stylesheet" href="/static/style.css?v={CSS_VERSION}">',
         '<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">',
         "",
         "<!-- Google Analytics -->",
