@@ -8,9 +8,9 @@ button { font-family: inherit; font-size: inherit; color: inherit; background: n
 body {
   font-family: 'Noto Sans Telugu', 'Segoe UI', sans-serif;
   background:
-    linear-gradient(rgba(0,0,0,0.52), rgba(0,0,0,0.52)),
+    linear-gradient(rgba(4,6,18,0.64), rgba(4,6,18,0.64)),
     url('/static/hero-bg.png') center/cover no-repeat fixed;
-  background-color: #1a0800;
+  background-color: #070b16;
   color: white;
   min-height: 100vh;
 }
@@ -118,7 +118,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 14px 16px 10px;
+  padding: 10px 20px;
 }
 
 .header-brand {
@@ -149,7 +149,7 @@ body {
 #cat-nav {
   display: flex;
   gap: 8px;
-  padding: 0 16px 12px;
+  padding: 0 20px 8px;
   overflow-x: auto;
   scrollbar-width: none;
 }
@@ -157,9 +157,9 @@ body {
 #cat-nav::-webkit-scrollbar { display: none; }
 
 .nav-pill {
-  padding: 6px 14px;
-  border-radius: 20px;
-  font-size: 0.78rem;
+  padding: 5px 14px;
+  border-radius: 18px;
+  font-size: 0.75rem;
   white-space: nowrap;
   cursor: pointer;
   border: 1px solid rgba(255,255,255,0.12);
@@ -178,13 +178,13 @@ body {
 
 /* ── HERO BANNER ── */
 .hero-banner {
-  margin: 16px;
-  border-radius: 20px;
+  margin: 12px 20px;
+  border-radius: 18px;
   overflow: hidden;
   position: relative;
-  min-height: 200px;
-  background: linear-gradient(135deg, #1a0800, #2d1200);
-  border: 1px solid rgba(255,107,53,0.2);
+  min-height: 220px;
+  background: linear-gradient(135deg, #0e0600, #1a0c00);
+  border: 1px solid rgba(255,107,53,0.12);
   display: flex;
   align-items: flex-end;
 }
@@ -195,39 +195,39 @@ body {
   width: 100%; height: 100%;
   background-size: cover;
   background-position: center;
-  opacity: 0.35;
+  opacity: 0.52;
 }
 
 .hero-inner {
   position: relative;
   z-index: 2;
-  padding: 20px;
+  padding: 18px 20px;
   width: 100%;
-  background: linear-gradient(to top, rgba(10,8,0,0.95) 0%, transparent 100%);
+  background: linear-gradient(to top, rgba(8,5,0,0.88) 0%, rgba(8,5,0,0.3) 60%, transparent 100%);
 }
 
 .hero-badge-wrap { margin-bottom: 6px; }
 
 .hero-category-badge {
-  background: rgba(255,107,53,0.2);
+  background: rgba(255,107,53,0.18);
   color: #FF6B35;
-  border: 1px solid rgba(255,107,53,0.3);
+  border: 1px solid rgba(255,107,53,0.25);
   padding: 3px 10px;
-  border-radius: 10px;
-  font-size: 0.72rem;
+  border-radius: 8px;
+  font-size: 0.7rem;
 }
 
 .hero-banner h2 {
-  font-size: clamp(1.1rem, 4vw, 1.4rem);
+  font-size: clamp(1.0rem, 3.5vw, 1.25rem);
   font-weight: 700;
-  margin-bottom: 6px;
-  line-height: 1.3;
+  margin-bottom: 5px;
+  line-height: 1.25;
 }
 
 .hero-banner p {
-  font-size: 0.8rem;
-  color: rgba(255,255,255,0.5);
-  margin-bottom: 14px;
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.62);
+  margin-bottom: 12px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   line-clamp: 2;
@@ -241,9 +241,9 @@ body {
   background: linear-gradient(135deg, #FF6B35, #F7931E);
   border: none;
   color: white;
-  padding: 9px 22px;
-  border-radius: 20px;
-  font-size: 0.88rem;
+  padding: 8px 20px;
+  border-radius: 18px;
+  font-size: 0.82rem;
   cursor: pointer;
   font-family: 'Noto Sans Telugu', sans-serif;
   font-weight: 700;
@@ -253,39 +253,39 @@ body {
 .hero-btn:hover { opacity: 0.85; }
 
 /* ── SECTIONS ── */
-.section { padding: 0 16px 28px; }
+.section { padding: 0 20px 32px; }
 
 .section-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 14px;
+  margin-bottom: 18px;
 }
 
 .section-title-wrap {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 14px;
 }
 
 .section-icon-box {
-  width: 36px; height: 36px;
+  width: 34px; height: 34px;
   border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 18px;
+  font-size: 16px;
   flex-shrink: 0;
 }
 
 .section-name {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 700;
 }
 
 .section-sub {
   font-size: 0.72rem;
-  color: rgba(255,255,255,0.35);
+  color: rgba(255,255,255,0.45);
   margin-top: 2px;
 }
 
@@ -293,12 +293,14 @@ body {
   font-size: 0.75rem;
   color: #FF6B35;
   cursor: pointer;
-  border: 1px solid rgba(255,107,53,0.25);
-  padding: 4px 12px;
-  border-radius: 12px;
+  border: 1px solid rgba(255,107,53,0.3);
+  padding: 5px 14px;
+  border-radius: 14px;
   white-space: nowrap;
   flex-shrink: 0;
+  transition: background 0.2s;
 }
+.see-all:hover { background: rgba(255,107,53,0.1); }
 
 /* ── CATEGORY GRID ── */
 .cat-grid {
@@ -316,19 +318,19 @@ body {
   flex-direction: column;
   align-items: flex-end;
   justify-content: center;
-  padding: 14px 28px 14px 0;
-  height: 138px;
+  padding: 14px 26px 14px 0;
+  height: 135px;
   background-size: auto 100%;
   background-position: left center;
   background-repeat: no-repeat;
   text-align: right;
-  border: 1px solid rgba(255,255,255,0.08);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.12);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.28);
 }
 
 .cat-card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 12px 32px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.04);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.45);
 }
 .cat-card:active { transform: translateY(-1px); }
 
@@ -336,69 +338,69 @@ body {
 .cat-emoji { display: none; }
 
 .cat-name {
-  font-size: 1.0rem;
+  font-size: 0.95rem;
   font-weight: 600;
   line-height: 1.3;
   letter-spacing: 0.2px;
 }
 
 .cat-count {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: 400;
-  color: rgba(255,255,255,0.68);
-  margin-top: 5px;
+  color: rgba(255,255,255,0.72);
+  margin-top: 4px;
 }
 
 /* ── CATEGORY BACKGROUND IMAGES ── */
-/* Card height 138px → image scales to 457px wide (437×132 → auto×138).
-   Baked English in original image at ~159px from left → in 138px-scaled image at ~166px.
-   Gradient: dim illustration (0.18 overlay) for 0-112px, then cinematic 45px fade (112-168px),
-   fully dark at 178px+ ensuring baked text at ~166px is covered. */
+/* Card height 135px → image scales to 447px wide (437×132 → auto×135).
+   Baked English in original at ~159px → scaled at ~163px.
+   Gradient: 0.18 dim on illustration (0-108px), 55px cinematic fade (108-163px),
+   fully dark 173px+ so baked text at ~163px is covered. */
 .cat-bg-neeti {
   background-image:
-    linear-gradient(to right, rgba(30,8,0,0.18) 0px, rgba(30,8,0,0.18) 112px, rgba(30,8,0,0.65) 145px, rgba(30,8,0,0.98) 168px, rgba(30,8,0,0.99) 178px),
+    linear-gradient(to right, rgba(30,8,0,0.18) 0px, rgba(30,8,0,0.18) 108px, rgba(30,8,0,0.62) 140px, rgba(30,8,0,0.97) 163px, rgba(30,8,0,0.99) 173px),
     url('/assets/categories/niti-kathalu.webp');
   background-color: #1e0800;
 }
 .cat-bg-podupu {
   background-image:
-    linear-gradient(to right, rgba(5,25,0,0.18) 0px, rgba(5,25,0,0.18) 112px, rgba(5,25,0,0.65) 145px, rgba(5,25,0,0.98) 168px, rgba(5,25,0,0.99) 178px),
+    linear-gradient(to right, rgba(5,25,0,0.18) 0px, rgba(5,25,0,0.18) 108px, rgba(5,25,0,0.62) 140px, rgba(5,25,0,0.97) 163px, rgba(5,25,0,0.99) 173px),
     url('/assets/categories/podupu-kathalu.webp');
   background-color: #051900;
 }
 .cat-bg-tenali {
   background-image:
-    linear-gradient(to right, rgba(0,10,40,0.18) 0px, rgba(0,10,40,0.18) 112px, rgba(0,10,40,0.65) 145px, rgba(0,10,40,0.98) 168px, rgba(0,10,40,0.99) 178px),
+    linear-gradient(to right, rgba(0,10,40,0.18) 0px, rgba(0,10,40,0.18) 108px, rgba(0,10,40,0.62) 140px, rgba(0,10,40,0.97) 163px, rgba(0,10,40,0.99) 173px),
     url('/assets/categories/tenaali-raama.webp');
   background-color: #000c28;
 }
 .cat-bg-panchatantra {
   background-image:
-    linear-gradient(to right, rgba(0,30,25,0.18) 0px, rgba(0,30,25,0.18) 112px, rgba(0,30,25,0.65) 145px, rgba(0,30,25,0.98) 168px, rgba(0,30,25,0.99) 178px),
+    linear-gradient(to right, rgba(0,30,25,0.18) 0px, rgba(0,30,25,0.18) 108px, rgba(0,30,25,0.62) 140px, rgba(0,30,25,0.97) 163px, rgba(0,30,25,0.99) 173px),
     url('/assets/categories/panchatantran.webp');
   background-color: #001e19;
 }
 .cat-bg-ramayana {
   background-image:
-    linear-gradient(to right, rgba(20,0,35,0.18) 0px, rgba(20,0,35,0.18) 112px, rgba(20,0,35,0.65) 145px, rgba(20,0,35,0.98) 168px, rgba(20,0,35,0.99) 178px),
+    linear-gradient(to right, rgba(20,0,35,0.18) 0px, rgba(20,0,35,0.18) 108px, rgba(20,0,35,0.62) 140px, rgba(20,0,35,0.97) 163px, rgba(20,0,35,0.99) 173px),
     url('/assets/categories/raamaayanan.webp');
   background-color: #100023;
 }
 .cat-bg-samethalu {
   background-image:
-    linear-gradient(to right, rgba(30,15,0,0.18) 0px, rgba(30,15,0,0.18) 112px, rgba(30,15,0,0.65) 145px, rgba(30,15,0,0.98) 168px, rgba(30,15,0,0.99) 178px),
+    linear-gradient(to right, rgba(30,15,0,0.18) 0px, rgba(30,15,0,0.18) 108px, rgba(30,15,0,0.62) 140px, rgba(30,15,0,0.97) 163px, rgba(30,15,0,0.99) 173px),
     url('/assets/categories/saametalu.webp');
   background-color: #1a0c00;
 }
 .cat-bg-janapada {
   background-image:
-    linear-gradient(to right, rgba(0,8,30,0.18) 0px, rgba(0,8,30,0.18) 112px, rgba(0,8,30,0.65) 145px, rgba(0,8,30,0.98) 168px, rgba(0,8,30,0.99) 178px),
+    linear-gradient(to right, rgba(0,8,30,0.18) 0px, rgba(0,8,30,0.18) 108px, rgba(0,8,30,0.62) 140px, rgba(0,8,30,0.97) 163px, rgba(0,8,30,0.99) 173px),
     url('/assets/categories/jaanapadan.webp');
   background-color: #000820;
 }
 .cat-bg-bhagavatam {
   background-image:
-    linear-gradient(to right, rgba(35,20,0,0.18) 0px, rgba(35,20,0,0.18) 112px, rgba(35,20,0,0.65) 145px, rgba(35,20,0,0.98) 168px, rgba(35,20,0,0.99) 178px),
+    linear-gradient(to right, rgba(35,20,0,0.18) 0px, rgba(35,20,0,0.18) 108px, rgba(35,20,0,0.62) 140px, rgba(35,20,0,0.97) 163px, rgba(35,20,0,0.99) 173px),
     url('/assets/categories/bhaagavatan.webp');
   background-color: #201200;
 }
@@ -485,7 +487,7 @@ a.h-card, a.v-card {
     gap: 10px;
   }
   .cat-card {
-    height: 100px;
+    height: 96px;
     padding-right: 14px;
   }
 }

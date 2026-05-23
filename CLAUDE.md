@@ -20,7 +20,7 @@ node scripts/bump-css-version.js
 ```
 
 ### Current version
-`v=18`
+`v=19`
 
 ### Files that reference the version
 - `index.html`
