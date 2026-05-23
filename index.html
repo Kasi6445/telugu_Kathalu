@@ -93,6 +93,11 @@
         </div>
         <div class="header-icons">
           <a href="/favorites.html" class="header-fav-link" title="నా కథలు">♡</a>
+          <div class="lang-switch" id="lang-switch" role="group" aria-label="Language selector">
+            <button class="lang-btn active" data-lang="te" onclick="setLang('te')" aria-pressed="true">తెలుగు</button>
+            <button class="lang-btn" data-lang="te_en" onclick="setLang('te_en')" aria-pressed="false">తె-EN</button>
+            <button class="lang-btn" data-lang="en" onclick="setLang('en')" aria-pressed="false">English</button>
+          </div>
           <button class="header-search" onclick="toggleSearch()" aria-label="కథలు వెతకండి">🔍</button>
         </div>
       </div>
@@ -523,13 +528,11 @@
     function setLang(lang) {
       searchLang = lang;
       localStorage.setItem('tk_lang', lang);
-      document.querySelectorAll('.lang-option').forEach(b => {
+      document.querySelectorAll('#lang-switch .lang-btn').forEach(b => {
         const isActive = b.dataset.lang === lang;
         b.classList.toggle('active', isActive);
         b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       });
-      const dd = document.getElementById('lang-dropdown');
-      if (dd) dd.classList.remove('open');
       applyLanguage(lang);
     }
 
