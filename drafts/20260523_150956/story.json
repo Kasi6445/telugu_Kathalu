@@ -1,0 +1,112 @@
+{
+  "title": "రాముడి గమ్మత్తు, తోట భూతం గుట్టు",
+  "moral": "పిల్లలూ, చూశారా... భయపడకుండా మనసు పెట్టి ఆలోచిస్తే, ఎలాంటి కష్టాన్నైనా దాటొచ్చు కదా!",
+  "main_character": "Tenali Ramakrishna. A slender, quick-witted scholar and poet in the court of Emperor Krishnadevaraya. He has a mischievous twinkle in his eyes and often wears simple, yet elegant, court attire. Always the same character across every scene.",
+  "antagonist": "The 'Bhootham' (Ghost). This is a bulky, tall figure draped in a large, dark, torn cloth, with glowing eyes (painted on a mask). Its voice is deep and guttural, amplified to sound spooky. Always the same character across every scene.",
+  "setting": "Vijayanagara palace gardens, a sprawling area with ancient banyan trees, stone wells, and moonlit pathways. The air is often fragrant with night-blooming jasmine. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మహారాజు కృష్ణదేవరాయల ఆస్థానంలో, తెనాలి రామకృష్ణుడు ఒక చిక్కుప్రశ్నకు చమత్కారంగా సమాధానం చెప్పాడు. అతని పెదవులపై చిరునవ్వు, కళ్ళలో తెలివైన మెరుపు కనిపించాయి. \"మహారాజా, ఈ సమస్యకు సమాధానం చాలా సులభం, కేవలం దృష్టి కోణం మార్చాలి!\" అని అతను వినయంగా అన్నాడు. ఆస్థానికుల పట్టువస్త్రాలు గలగలమంటూ కదిలాయి — అందరూ అతని తెలివిని మెచ్చుకున్నారు. అప్పటివరకు నవ్వులతో నిండిన ఆస్థానం ఒక్కసారిగా... అదోలా మారిపోయింది.",
+      "image_prompt": "The advisor stands before the king, confidently delivering a witty answer to a complex question. A knowing smile plays on his lips, and a clever sparkle is visible in his eyes. Bright midday sun streaming through large arched windows of the palace hall, illuminating dust motes in the air, creating a warm, regal glow.",
+      "scene_visual": "The advisor stands before the king, confidently delivering a witty answer to a complex question. A knowing smile plays on his lips, and a clever sparkle is visible in his eyes.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Mahaaraaju Krrishnadevaraayala Aasthaananlo, Tenaali Raamakrrishnudu Oka Chikkuprashnaku Chamatkaarangaa Samaadhaanam Cheppaadu. Atani Pedavulapai Chirunavvu, Kallalo Telivaina Merupu Kanipinchaayi. \"Mahaaraajaa, I Samasyaku Samaadhaanam Chaalaa Sulabhan, Kevalam Drrishti Konam Maarchaali!\" Ani Atanu Vinayangaa Annaadu. Aasthaanikula Pattuvastraalu Galagalamantu Kadilaayi — Andaru Atani Telivini Mechchukunnaaru. Appativaraku Navvulato Nindina Aasthaanam Okkasaarigaa... Adolaa Maaripoyindi.",
+      "text_en": "In King Krishnadevaraya's court, Tenali Ramakrishna gave a clever answer to a tricky question. A small smile was on his lips, and a smart twinkle was in his eyes. \"Maharaja, the answer to this problem is very easy, we just need to look at it differently!\" he said politely. The silken clothes of the courtiers rustled — everyone admired his cleverness. The court, which had been full of laughter, suddenly... changed."
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి తెలివికి మురిసిపోతున్న ఆస్థానం అప్పుడే మళ్ళీ భయంతో నిండిపోయింది. తోటలో ఒక భూతం తిరుగుతోందని, రాత్రిపూట భయంకరమైన అరుపులు అరుస్తోందని ఒక ఆస్థానికుడు వణికిపోయిన గొంతుతో చెప్పాడు. మహారాజు కనుబొమలు ముడిపడ్డాయి, ఆందోళనగా వింటూ, ఈ కొత్త సమస్య ఏమిటా అని ఆలోచించాడు. \"మహారాజా, ఆ భూతం రాత్రిపూట తోటలో తిరుగుతూ, భయంకరమైన అరుపులు అరుస్తోంది!\" అంటూ అతని గొంతు వణికిపోయింది. తెనాలి, తన బుద్ధిబలంతో అనేక సమస్యలు తీర్చాడు కదా — ఈ అదృశ్య భయాన్ని ఎదుర్కోవడానికి ధైర్యం చేస్తాడా?",
+      "image_prompt": "A courtier stands before the king, trembling as he reports a ghost roaming the garden at night. The king's eyebrows are furrowed in concern as he listens intently to the new problem. The palace hall is now dimmer, with shadows lengthening as evening approaches, casting an unsettling mood, a single oil lamp flickering near the King's throne.",
+      "scene_visual": "A courtier stands before the king, trembling as he reports a ghost roaming the garden at night. The king's eyebrows are furrowed in concern as he listens intently to the new problem.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Tenaali Teliviki Murisipotunna Aasthaanam Appude Malli Bhayanto Nindipoyindi. Totalo Oka Bhutam Tirugutondani, Raatriputa Bhayankaramaina Arupulu Arustondani Oka Aasthaanikudu Vanikipoyina Gontuto Cheppaadu. Mahaaraaju Kanubomalu Mudipaddaayi, Aandolanagaa Vintu, I Kotta Samasya Emitaa Ani Aalochinchaadu. \"Mahaaraajaa, Aa Bhutam Raatriputa Totalo Tirugutu, Bhayankaramaina Arupulu Arustondi!\" Antu Atani Gontu Vanikipoyindi. Tenaali, Tana Buddhibalanto Aneka Samasyalu Tirchaadu Kadaa — I Adrrishya Bhayaanni Edurkovadaaniki Dhairyam Chestaadaa?",
+      "text_en": "Just as the court was still happy about Tenali's cleverness, it suddenly filled with fear again. A courtier, with a shaky voice, said that a ghost was walking around in the garden, making scary sounds at night. The Maharaja frowned, listening carefully and wondering what this new problem was. \"Maharaja, that ghost walks in the garden at night, making terrible screams!\" his voice shook. Tenali had solved many problems with his smart mind, hadn't he? Would he be brave enough to face this unseen fear?"
+    },
+    {
+      "id": 3,
+      "text": "తెనాలి రామకృష్ణుడు రాత్రి వేళ, ఒక లాంతరు, ఒక కర్ర పట్టుకుని, తోటలోకి ఒక్కడే బయలుదేరాడు. అతని కళ్ళు చీకట్లో చుట్టూ పరుగెడుతున్నాయి, గుండెలో చిన్న భయం ఉన్నా కర్రను గట్టిగా పట్టుకున్నాడు. దూరంగా ఏదో మూలుగుతున్నట్లు, ఆకుల గలగలలు ఆందోళనగా వినపడుతున్నాయి. \"ఎవరక్కడ? ధైర్యం ఉంటే ముందుకు రండి!\" అని తెనాలి గట్టిగా అడిగాడు. ఇంతలో — ఒక నల్లటి ఆకారం కనిపించి, భయంకరమైన శబ్దం చేస్తూ మాయమైంది.",
+      "image_prompt": "The advisor walks alone into the dark garden, holding a lantern and gripping a stick tightly. A black figure appears in the distance, makes a terrifying sound, and vanishes. Deep indigo twilight, illuminated only by a small, wavering oil lamp held by Tenali, casting long, dancing shadows of trees.",
+      "scene_visual": "The advisor walks alone into the dark garden, holding a lantern and gripping a stick tightly. A black figure appears in the distance, makes a terrifying sound, and vanishes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Raamakrrishnudu Raatri Vela, Oka Laantaru, Oka Karra Pattukuni, Totaloki Okkade Bayaluderaadu. Atani Kallu Chikatlo Chuttu Parugedutunnaayi, Gundelo Chinna Bhayam Unnaa Karranu Gattigaa Pattukunnaadu. Durangaa Edo Mulugutunnatlu, Aakula Galagalalu Aandolanagaa Vinapadutunnaayi. \"Evarakkada? Dhairyam Unte Munduku Randi!\" Ani Tenaali Gattigaa Adigaadu. Intalo — Oka Nallati Aakaaram Kanipinchi, Bhayankaramaina Shabdam Chestu Maayamaindi.",
+      "text_en": "At night, Tenali Ramakrishna went into the garden all by himself, holding a lantern and a stick. His eyes looked all around in the dark. Even with a little fear in his heart, he held his stick tightly. Far away, he heard something groaning, and the rustling of leaves sounded scary. \"Who's there? If you are brave, come out!\" Tenali called out loudly. Just then — a dark shape appeared, made a terrible noise, and then vanished."
+    },
+    {
+      "id": 4,
+      "text": "అది మాయమైన చోట, తెనాలి పొదల చాటున నక్కి, చాలా జాగ్రత్తగా గమనించాడు. ఆ నల్లటి ఆకారం మళ్ళీ కనిపించింది, అది అటూ ఇటూ ఊగుతూ వింతగా నడుస్తోంది. తెనాలి కనుబొమలు ముడిపడ్డాయి, ఆ భూతం కదలికలు, దాని నుండి వస్తున్న పాత నూనె, చౌకైన అత్తరు వాసన అతనికి అనుమానం కలిగించాయి. \"ఒక భూతానికి ఇంత బరువు ఉంటుందా? అదీ కాక... ఆ వాసన ఏమిటి?\" అని తెనాలి తనలో తాను అనుకున్నాడు. ఒక్కసారిగా... అతని మనసులో ఒక అద్భుతమైన ప్రణాళిక మెరిసింది. మరి, ఈ ప్రణాళికతో ఆ మాయగాడిని బయటపెట్టగలడా?",
+      "image_prompt": "The advisor crouches hidden behind bushes, carefully observing the black figure as it sways and walks strangely. His eyebrows are furrowed in thought as he notices the figure's movements and the peculiar smell emanating from it. Also in this scene: The 'Bhootham' (Ghost). This is a bulky, tall figure draped in a large, dark, torn cloth, with glowing eyes (painted on a mask). Its voice is deep and guttural, amplified to sound spooky. Always the same character across every scene. Moonlit garden path, dappled silver light filtering through dense foliage, creating pockets of deep shadow where Tenali hides.",
+      "scene_visual": "The advisor crouches hidden behind bushes, carefully observing the black figure as it sways and walks strangely. His eyebrows are furrowed in thought as he notices the figure's movements and the peculiar smell emanating from it.",
+      "supporting_char_keys": [],
+      "text_te_en": "Adi Maayamaina Chota, Tenaali Podala Chaatuna Nakki, Chaalaa Jaagrattagaa Gamaninchaadu. Aa Nallati Aakaaram Malli Kanipinchindi, Adi Atu Itu Ugutu Vintagaa Nadustondi. Tenaali Kanubomalu Mudipaddaayi, Aa Bhutam Kadalikalu, Daani Nundi Vastunna Paata Nune, Chaukaina Attaru Vaasana Ataniki Anumaanam Kaliginchaayi. \"Oka Bhutaaniki Inta Baruvu Untundaa? Adi Kaaka... Aa Vaasana Emiti?\" Ani Tenaali Tanalo Taanu Anukunnaadu. Okkasaarigaa... Atani Manasulo Oka Adbhutamaina Pranaalika Merisindi. Mari, I Pranaalikato Aa Maayagaadini Bayatapettagaladaa?",
+      "text_en": "Where the shape disappeared, Tenali hid behind the bushes and watched very carefully. The dark shape appeared again, swaying side to side and walking in a strange way. Tenali frowned. The way the 'ghost' moved, and the smell of old oil and cheap perfume coming from it, made him suspicious. \"Would a ghost be so heavy? And what is that smell?\" Tenali wondered to himself. Suddenly... a brilliant plan popped into his mind. But, would he be able to catch that trickster with this plan?"
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి రామకృష్ణుడు తన ప్రణాళికతో, నమ్మకమైన కొందరు సేవకులను వెంటబెట్టుకుని, బావి దగ్గరికి వచ్చాడు. అతని పెదవులపై ఒక చిరునవ్వు, కళ్ళలో గడుసుదనం కనిపించాయి — సేవకులకు జాగ్రత్తగా సూచనలు ఇస్తూ, వల పన్నించాడు. పెద్ద వల నేల మీద మెల్లగా, గీచుకుంటూ పరుచుకుంది, దానిపై కొన్ని రుచికరమైన పదార్థాలు పెట్టారు. \"భయంకరమైన భూతాలకు ఆకలి కూడా ఉంటుందని నా నమ్మకం!\" అని తెనాలి నవ్వుతూ అన్నాడు. ఈ జిత్తులమారి ఉపాయానికి, ఆ భూతం చిక్కుకుంటుందా లేదా?",
+      "image_prompt": "The advisor stands by a well with several servants, instructing them as they carefully spread a large net on the ground. A cunning smile is on his lips, and a mischievous glint is in his eyes as they place tempting food items on the net. Pre-dawn darkness, a few hidden lanterns casting dim, yellow circles of light around Tenali and the trap, emphasizing the secrecy of their work.",
+      "scene_visual": "The advisor stands by a well with several servants, instructing them as they carefully spread a large net on the ground. A cunning smile is on his lips, and a mischievous glint is in his eyes as they place tempting food items on the net.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Raamakrrishnudu Tana Pranaalikato, Nammakamaina Kondaru Sevakulanu Ventabettukuni, Baavi Daggariki Vachchaadu. Atani Pedavulapai Oka Chirunavvu, Kallalo Gadusudanam Kanipinchaayi — Sevakulaku Jaagrattagaa Suchanalu Istu, Vala Panninchaadu. Pedda Vala Nela Mida Mellagaa, Gichukuntu Paruchukundi, Daanipai Konni Ruchikaramaina Padaarthaalu Pettaaru. \"Bhayankaramaina Bhutaalaku Aakali Kudaa Untundani Naa Nammakan!\" Ani Tenaali Navvutu Annaadu. I Jittulamaari Upaayaaniki, Aa Bhutam Chikkukuntundaa Ledaa?",
+      "text_en": "Tenali Ramakrishna, with his plan ready, took some trusted helpers with him and went to the well. A smile was on his lips, and a clever look was in his eyes. He carefully told the helpers what to do and had them set up a net. A big net slowly spread out on the ground, scraping a little, and some yummy food was placed on it. \"I believe even scary ghosts get hungry!\" Tenali said with a laugh. Would the ghost fall for this clever trick?"
+    },
+    {
+      "id": 6,
+      "text": "అర్ధరాత్రి వేళ, ఆ నల్లటి ఆకారం బావి వైపు మెల్లగా వచ్చింది, ఆహారం వాసనకు ఆకర్షించబడింది. అది వల దగ్గరికి వచ్చి, తినడానికి వంగగానే — ఒక్కసారిగా వల పైకి లేచింది. వలలో చిక్కుకున్న ఆ 'భూతం' పెద్దగా అరుస్తూ, కాళ్ళు చేతులు కొట్టుకుంటూ, బయటపడటానికి ఆరాటపడింది. తెనాలి పెదవులపై గెలిచిన చిరునవ్వు, కళ్ళలో మెరుపు కనిపించాయి. \"చూశారా మహారాజా, ఇది భూతం కాదు, కేవలం ఆకలితో ఉన్న ఒక దొంగ!\" అని తెనాలి స్పష్టంగా అన్నాడు.",
+      "image_prompt": "The black figure approaches the net, bends down to eat, and is suddenly ensnared as the net springs up. The trapped 'ghost' thrashes its limbs and cries out loudly, struggling to escape the net. Also in this scene: The 'Bhootham' (Ghost). This is a bulky, tall figure draped in a large, dark, torn cloth, with glowing eyes (painted on a mask). Its voice is deep and guttural, amplified to sound spooky. Always the same character across every scene. First light of dawn, a soft, pale orange glow on the horizon, gradually illuminating the caught 'ghost' and the surprised faces, bringing clarity to the scene.",
+      "scene_visual": "The black figure approaches the net, bends down to eat, and is suddenly ensnared as the net springs up. The trapped 'ghost' thrashes its limbs and cries out loudly, struggling to escape the net.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Ardharaatri Vela, Aa Nallati Aakaaram Baavi Vaipu Mellagaa Vachchindi, Aahaaram Vaasanaku Aakarshinchabadindi. Adi Vala Daggariki Vachchi, Tinadaaniki Vangagaane — Okkasaarigaa Vala Paiki Lechindi. Valalo Chikkukunna Aa 'Bhutan' Peddagaa Arustu, Kaallu Chetulu Kottukuntu, Bayatapadataaniki Aaraatapadindi. Tenaali Pedavulapai Gelichina Chirunavvu, Kallalo Merupu Kanipinchaayi. \"Chushaaraa Mahaaraajaa, Idi Bhutam Kaadu, Kevalam Aakalito Unna Oka Donga!\" Ani Tenaali Spashtangaa Annaadu.",
+      "text_en": "At midnight, the dark shape slowly came towards the well, pulled by the smell of the food. As it came close to the net and bent down to eat — suddenly, the net sprang up! The 'ghost' caught in the net screamed loudly, kicking and struggling to get free. A winning smile was on Tenali's lips, and his eyes sparkled. \"See, Maharaja, this is not a ghost, but just a hungry thief!\" Tenali said clearly."
+    },
+    {
+      "id": 7,
+      "text": "పట్టుబడిన దొంగను చూసి, మహారాజు కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి — తోటలో ఆవరించిన భయం తొలగిపోయింది. తెనాలి రాజుకు వినయంగా వంగి నమస్కరించాడు, అతని కళ్ళలో సంతృప్తి మెరిసింది. \"తెనాలి, నీ తెలివితేటలకు మరోసారి జోహార్లు!\" అని మహారాజు మెచ్చుకుంటూ, అతనికి బహుమతులు ఇచ్చాడు. ఉదయం గాలిలో మల్లెపూల సువాసన నిండి, అంతా ప్రశాంతంగా అనిపించింది. ఆ దొంగకు తగిన శిక్ష పడింది, రాజ్యంలో మళ్ళీ శాంతి నెలకొంది.",
+      "image_prompt": "The king's eyes widen in astonishment as he looks at the captured thief, while the advisor bows respectfully before him. A look of satisfaction shines in the advisor's eyes as the king praises him and bestows gifts. Gentle morning light, warm amber, painting the palace gardens in a peaceful, resolved glow, with dew sparkling on the leaves.",
+      "scene_visual": "The king's eyes widen in astonishment as he looks at the captured thief, while the advisor bows respectfully before him. A look of satisfaction shines in the advisor's eyes as the king praises him and bestows gifts.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Pattubadina Donganu Chusi, Mahaaraaju Kallu Aashcharyanto Peddavayyaayi — Totalo Aavarinchina Bhayam Tolagipoyindi. Tenaali Raajuku Vinayangaa Vangi Namaskarinchaadu, Atani Kallalo Santrripti Merisindi. \"Tenaali, Ni Telivitetalaku Marosaari Johaarlu!\" Ani Mahaaraaju Mechchukuntu, Ataniki Bahumatulu Ichchaadu. Udayam Gaalilo Mallepula Suvaasana Nindi, Antaa Prashaantangaa Anipinchindi. Aa Dongaku Tagina Shiksha Padindi, Raajyanlo Malli Shaanti Nelakondi.",
+      "text_en": "When the Maharaja saw the caught thief, his eyes grew wide with surprise — the fear that had been in the garden was gone. Tenali bowed politely to the king, with a look of happiness in his eyes. \"Tenali, once again, I praise your cleverness!\" the Maharaja said, giving him gifts. The morning air was filled with the sweet smell of jasmine, and everything felt peaceful. The thief got the punishment he deserved, and peace returned to the kingdom."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king_krishnadevaraya",
+      "description": "Emperor Krishnadevaraya, a robust and majestic ruler with a neatly trimmed beard and a jewel-encrusted turban. He often wears rich silks in royal colors like crimson and gold, and his eyes hold both authority and a fondness for Tenali's wit. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 6,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "narrative_arc",
+    "notes": "The story benefits from a clear plot, good pacing, and flawless grammar, making it an engaging read. The use of suspense hooks at the end of scenes is particularly effective for child engagement. However, the explicit moral statement at the beginning and end significantly weakens the narrative arc, as the lesson should emerge organically from the events. To reach a 9+, the story needs to allow children to infer the moral themselves, and also enhance dialogue richness by ensuring every scene has direct speech and characters possess more distinct voices."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamudi Gammattu, Tota Bhutam Guttu",
+  "moral_te_en": "Pillalu, Chushaaraa... Bhayapadakundaa Manasu Petti Aalochiste, Elaanti Kashtaannainaa Daatochchu Kadaa!",
+  "title_en": "Tenali's Cleverness and the Secret of the Garden Ghost",
+  "moral_en": "Children, did you see... if you think carefully without being afraid, you can overcome any difficulty, right!",
+  "id": "20260523_150956",
+  "date": "2026-05-23",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు భూతం సంఘటన",
+  "thumbnail": "stories/20260523_150956/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
