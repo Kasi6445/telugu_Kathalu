@@ -30,7 +30,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com">
-  <link rel="stylesheet" href="static/style.css?v=19">
+  <link rel="stylesheet" href="static/style.css?v=20">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-39G2696KDV"></script>
   <script>
@@ -93,17 +93,21 @@
         </div>
         <div class="header-icons">
           <a href="/favorites.html" class="header-fav-link" title="నా కథలు">♡</a>
-          <div class="lang-switch" id="lang-switch" role="group" aria-label="Language selector">
-            <button class="lang-btn active" data-lang="te" onclick="setLang('te')" aria-pressed="true">తెలుగు</button>
-            <button class="lang-btn" data-lang="te_en" onclick="setLang('te_en')" aria-pressed="false">తె-EN</button>
-            <button class="lang-btn" data-lang="en" onclick="setLang('en')" aria-pressed="false">English</button>
+          <div class="lang-globe-wrap">
+            <button class="lang-globe-btn" id="lang-globe-btn"
+                    onclick="toggleLangDropdown(event)" aria-label="Language">🌐</button>
+            <div class="lang-dropdown" id="lang-dropdown">
+              <button class="lang-option active" data-lang="te"    onclick="setLang('te')">తెలుగు</button>
+              <button class="lang-option"        data-lang="te_en" onclick="setLang('te_en')">తె-EN</button>
+              <button class="lang-option"        data-lang="en"    onclick="setLang('en')">English</button>
+            </div>
           </div>
           <button class="header-search" onclick="toggleSearch()" aria-label="కథలు వెతకండి">🔍</button>
         </div>
       </div>
 
-      <!-- CATEGORY PILLS -->
-      <nav id="cat-nav" aria-label="కేటగిరీలు">
+      <!-- CATEGORY PILLS — hidden on homepage; preserved for /stories reuse -->
+      <nav id="cat-nav" style="display:none" aria-label="కేటగిరీలు">
         <button class="nav-pill active" onclick="filterCategory('all', this)" aria-pressed="true">అన్నీ</button>
         <button class="nav-pill" onclick="filterCategory('neeti', this)" aria-pressed="false">నీతి కథలు</button>
         <button class="nav-pill" onclick="filterCategory('podupu', this)" aria-pressed="false">పొడుపు కథలు</button>
@@ -382,7 +386,7 @@
           </div>
           <div class="h-card-body">
             <div class="h-card-title">${displayTitle}</div>
-            <div class="h-card-meta">${catLabel(cat)}</div>
+            <div class="h-card-meta" style="color:${cat.color}">${catLabel(cat)}</div>
           </div>`;
         container.appendChild(card);
       });
@@ -528,11 +532,13 @@
     function setLang(lang) {
       searchLang = lang;
       localStorage.setItem('tk_lang', lang);
-      document.querySelectorAll('#lang-switch .lang-btn').forEach(b => {
+      document.querySelectorAll('.lang-option').forEach(b => {
         const isActive = b.dataset.lang === lang;
         b.classList.toggle('active', isActive);
         b.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       });
+      const dd = document.getElementById('lang-dropdown');
+      if (dd) dd.classList.remove('open');
       applyLanguage(lang);
     }
 
@@ -618,6 +624,16 @@
       const haystack = `${slugWords} ${cat} ${sub} ${catEn}`.toLowerCase();
       return q.split(/\s+/).every(word => haystack.includes(word));
     }
+
+    // ── LANGUAGE DROPDOWN ────────────────────────────────────────────────────
+    function toggleLangDropdown(e) {
+      e.stopPropagation();
+      document.getElementById('lang-dropdown').classList.toggle('open');
+    }
+    document.addEventListener('click', () => {
+      const dd = document.getElementById('lang-dropdown');
+      if (dd) dd.classList.remove('open');
+    });
 
     // ── SEARCH ───────────────────────────────────────────────────────────────
     function toggleSearch() {

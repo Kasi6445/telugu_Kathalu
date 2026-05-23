@@ -132,6 +132,7 @@ body {
 .brand-name {
   font-size: 1.1rem;
   font-weight: 700;
+  white-space: nowrap;
   background: linear-gradient(135deg, #FF6B35, #FFD700);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -405,11 +406,12 @@ body {
   background-color: #201200;
 }
 
-/* ── HORIZONTAL CARDS ── */
+/* ── HORIZONTAL CARDS — Netflix-style shelf ── */
 .cards-row {
   display: flex;
   gap: 12px;
   overflow-x: auto;
+  scroll-snap-type: x mandatory;
   scrollbar-width: none;
   padding-bottom: 4px;
 }
@@ -424,7 +426,8 @@ a.h-card, a.v-card {
 
 .h-card {
   flex-shrink: 0;
-  width: 145px;
+  width: 140px;
+  scroll-snap-align: start;
   border-radius: 14px;
   overflow: hidden;
   background: rgba(10,5,0,0.72);
@@ -439,11 +442,17 @@ a.h-card, a.v-card {
 
 .h-card-img {
   width: 100%;
-  height: 95px;
-  background-size: cover;
-  background-position: center;
-  background-color: #1a0a00;
+  aspect-ratio: 2 / 3;
   position: relative;
+  overflow: hidden;
+  background-color: #1a0a00;
+}
+
+.h-card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .h-cat-badge {
@@ -461,7 +470,7 @@ a.h-card, a.v-card {
   font-size: 0.75rem;
   font-weight: 700;
   line-height: 1.3;
-  margin-bottom: 3px;
+  margin-bottom: 4px;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   line-clamp: 2;
@@ -471,7 +480,8 @@ a.h-card, a.v-card {
 
 .h-card-meta {
   font-size: 0.65rem;
-  color: rgba(255,255,255,0.35);
+  font-weight: 600;
+  opacity: 0.85;
 }
 
 /* ── ALL STORIES GRID ── */
@@ -482,6 +492,23 @@ a.h-card, a.v-card {
 }
 
 @media (max-width: 640px) {
+  /* Tighter header */
+  .header-top { padding: 10px 14px; }
+
+  /* Hero: portrait aspect ratio separates illustration (top) from text (bottom) */
+  .hero-banner {
+    aspect-ratio: 3 / 4;
+    min-height: unset;
+  }
+  .hero-inner {
+    background: linear-gradient(to top,
+      rgba(8,5,0,0.96) 0%,
+      rgba(8,5,0,0.88) 32%,
+      rgba(8,5,0,0.30) 58%,
+      transparent 76%);
+  }
+
+  /* Category grid: 2 columns */
   .cat-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
@@ -490,6 +517,11 @@ a.h-card, a.v-card {
     height: 96px;
     padding-right: 14px;
   }
+}
+
+/* Shelf cards wider on desktop */
+@media (min-width: 768px) {
+  .h-card { width: 180px; }
 }
 
 @media (max-width: 400px) {
@@ -929,11 +961,12 @@ body.slideshow-mode {
 }
 
 /* ── CARD IMAGES (lazy-load img) ── */
-.h-card-img img, .v-card-img img {
+.v-card-img img {
   width: 100%; height: 100%;
   object-fit: cover;
   display: block;
 }
+/* .h-card-img img is defined in the shelf section above */
 
 /* ── HEADER ICONS ── */
 .header-icons { display: flex; align-items: center; gap: 4px; }
@@ -1036,7 +1069,60 @@ body.slideshow-mode {
 }
 #fav-btn.active { color: #FF6B35; border-color: rgba(255,107,53,0.5); }
 
-/* ── LANGUAGE TOGGLE — home page only ── */
+/* ── LANGUAGE GLOBE DROPDOWN — home page ── */
+.lang-globe-wrap { position: relative; }
+
+.lang-globe-btn {
+  font-size: 20px;
+  opacity: 0.65;
+  padding: 6px;
+  line-height: 1;
+  transition: opacity 0.2s;
+}
+.lang-globe-btn:hover { opacity: 1; }
+
+.lang-dropdown {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: calc(100% + 6px);
+  background: rgba(12,6,1,0.96);
+  border: 1px solid rgba(255,140,50,0.2);
+  border-radius: 12px;
+  padding: 5px;
+  min-width: 108px;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  z-index: 200;
+  box-shadow: 0 8px 28px rgba(0,0,0,0.55);
+}
+.lang-dropdown.open { display: block; }
+
+.lang-option {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 8px 12px;
+  font-size: 0.78rem;
+  border-radius: 8px;
+  color: rgba(255,255,255,0.55);
+  transition: background 0.15s, color 0.15s;
+  white-space: nowrap;
+  font-family: 'Noto Sans Telugu', sans-serif;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.lang-option.active {
+  background: linear-gradient(135deg, #FF6B35, #F7931E);
+  color: white;
+}
+.lang-option:hover:not(.active) {
+  background: rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.88);
+}
+
+/* ── LANGUAGE TOGGLE — kept for future /stories page reuse ── */
 .lang-switch {
   display: flex;
   align-items: center;
