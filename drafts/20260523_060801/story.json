@@ -1,0 +1,90 @@
+{
+  "title": "జిత్తులమారి నక్క – పంది నమ్మకం",
+  "moral": "కొందరు స్నేహితులుగా కనిపించినా, మన మంచి కోరకపోవచ్చు.",
+  "main_character": "A sturdy, dark-haired wild boar with powerful tusks, always diligent in its daily foraging. It is initially trusting and values its friendships deeply. Always the same character across every scene.",
+  "antagonist": "A sleek, reddish-brown fox with bright, cunning eyes and a perpetually sly grin. It moves with deceptive grace and speaks with a smooth, persuasive voice. Always the same character across every scene.",
+  "setting": "A lush forest near the Godavari river in Andhra Pradesh, filled with ancient banyan trees, dense undergrowth, and a sparkling stream. The air is often humid, carrying the scent of damp earth and wild flowers. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి నదికి దగ్గరలో ఉన్న పచ్చని అడవిలో ఒక బలిష్టమైన అడవి పంది నివసించేది. అది ప్రతి ఉదయం తన దైనందిన వేటలో నిమగ్నమై, కోరలను పదును పెట్టుకునేది. కర్కశమైన, గట్టి చెట్టు బెరడుపై కోరలు రాసుకునే శబ్దం లయబద్ధంగా అడవి అంతా వినిపించేది. తన పని పూర్తయ్యాక, అది తల పైకెత్తి గట్టిగా నిట్టూర్చింది — దాని కళ్ళు మెరిశాయి. \"ఈ పదును నా రక్షణకు ముఖ్యం\" అని గంభీరంగా అంది. ఈ బలమైన అడవి పందికి ఎలాంటి కొత్త సాహసాలు ఎదురుకానున్నాయో...",
+      "image_prompt": "The wild boar lifts its head after sharpening its tusks on a tree bark. Its eyes gleam brightly as it lets out a deep sigh. Early morning sunlight filtering through dense leaves, creating dappled patterns on the forest floor, warm and serene.",
+      "scene_visual": "The wild boar lifts its head after sharpening its tusks on a tree bark. Its eyes gleam brightly as it lets out a deep sigh.",
+      "text_te_en": "Godaavari Nadiki Daggaralo Unna Pachchani Adavilo Oka Balishtamaina Adavi Pandi Nivasinchedi. Adi Prati Udayam Tana Dainandina Vetalo Nimagnamai, Koralanu Padunu Pettukunedi. Karkashamaina, Gatti Chettu Beradupai Koralu Raasukune Shabdam Layabaddhangaa Adavi Antaa Vinipinchedi. Tana Pani Purtayyaaka, Adi Tala Paiketti Gattigaa Nitturchindi — Daani Kallu Merishaayi. \"I Padunu Naa Rakshanaku Mukhyan\" Ani Gambhirangaa Andi. I Balamaina Adavi Pandiki Elaanti Kotta Saahasaalu Edurukaanunnaayo...",
+      "text_en": "In a lush green forest near the Godavari River, lived a strong wild boar. Every morning, it would sharpen its tusks, busy with its daily hunt. The rhythmic sound of its tusks scraping against the rough, hard tree bark echoed throughout the forest. After finishing its work, it lifted its head and let out a deep sigh — its eyes sparkled. \"This sharpness is important for my protection,\" it said seriously. What new adventures awaited this strong wild boar...?"
+    },
+    {
+      "id": 2,
+      "text": "పంది ఇంకా తన పనిలో ఉండగా, పొద వెనకాల నుండి ఎండిన ఆకుల శబ్దం వినిపించింది. ఒక జిత్తులమారి నక్క, మెరుపుతీగలా మెల్లగా పంది దగ్గరికి వచ్చింది. అది పందిని చూసి, ఒక క్షణం ఆగి, ఆందోళనగా తల దించింది. \"మిత్రమా, మన అడవిలో పులి తిరుగుతోంది జాగ్రత్త!\" అని నక్క గొంతు తగ్గించి, పంది చెవిలో గుసగుసలాడింది. అడవి పంది తన భారీ తలను మెల్లగా వంచింది, నక్క మాటలు వింటూ దాని కళ్ళల్లోకి చూసింది. ఈ నక్క నిజంగానే ఆందోళన పడుతోందా, లేక దీని వెనుక ఇంకేమైనా ఉందా?",
+      "image_prompt": "The cunning fox quietly approaches the wild boar and whispers into its ear. The boar slowly bows its large head, looking into the fox's eyes as it listens. Also in this scene: A sleek, reddish-brown fox with bright, cunning eyes and a perpetually sly grin. It moves with deceptive grace and speaks with a smooth, persuasive voice. Always the same character across every scene. Mid-morning, bright and clear, but with long shadows under the trees, hinting at hidden dangers.",
+      "scene_visual": "The cunning fox quietly approaches the wild boar and whispers into its ear. The boar slowly bows its large head, looking into the fox's eyes as it listens.",
+      "text_te_en": "Pandi Inkaa Tana Panilo Undagaa, Poda Venakaala Nundi Endina Aakula Shabdam Vinipinchindi. Oka Jittulamaari Nakka, Meruputigalaa Mellagaa Pandi Daggariki Vachchindi. Adi Pandini Chusi, Oka Kshanam Aagi, Aandolanagaa Tala Dinchindi. \"Mitramaa, Mana Adavilo Puli Tirugutondi Jaagratta!\" Ani Nakka Gontu Tagginchi, Pandi Chevilo Gusagusalaadindi. Adavi Pandi Tana Bhaari Talanu Mellagaa Vanchindi, Nakka Maatalu Vintu Daani Kallalloki Chusindi. I Nakka Nijangaane Aandolana Padutondaa, Leka Dini Venuka Inkemainaa Undaa?",
+      "text_en": "While the boar was still busy with its work, the sound of dry leaves rustling came from behind a bush. A cunning fox slyly approached the boar. It saw the boar, paused for a moment, and then lowered its head with worry. \"Friend, a tiger is roaming in our forest, be careful!\" the fox whispered into the boar's ear, lowering its voice. The wild boar slowly lowered its massive head, listening to the fox's words and looking into its eyes. Was this fox truly worried, or was there something else behind its words?"
+    },
+    {
+      "id": 3,
+      "text": "నక్క మాటలకు అడవి పంది తన భారీ శరీరాన్ని నిటారుగా నిలబెట్టింది. దాని కోరలు మరింత పదునుగా మెరిశాయి. \"నువ్వు నా పక్కన ఉంటే నాకు భయం లేదు\" అని పంది గంభీరంగా బదులిచ్చింది. నక్క తల ఊపినట్టు నటించి, మెల్లగా వెనక్కి తిరిగింది. అది వెళ్ళిపోతూండగా, దాని పెదవులపై ఒక చిన్న నవ్వు మెరిసింది — ఎవరికీ వినిపించని కిలకిల ధ్వని అది. నక్క పంది నమ్మకాన్ని తన స్వార్థానికి ఎలా వాడుకోనుందో?",
+      "image_prompt": "The fox nods its head in feigned agreement and slowly turns away from the wild boar. A small, unheard chuckle plays on its lips as it departs. Also in this scene: A sleek, reddish-brown fox with bright, cunning eyes and a perpetually sly grin. It moves with deceptive grace and speaks with a smooth, persuasive voice. Always the same character across every scene. Bright afternoon sun, but a dark, cool patch of shadow where the fox stands, contrasting with the boar in the sunlight.",
+      "scene_visual": "The fox nods its head in feigned agreement and slowly turns away from the wild boar. A small, unheard chuckle plays on its lips as it departs.",
+      "text_te_en": "Nakka Maatalaku Adavi Pandi Tana Bhaari Shariraanni Nitaarugaa Nilabettindi. Daani Koralu Marinta Padunugaa Merishaayi. \"Nuvvu Naa Pakkana Unte Naaku Bhayam Ledu\" Ani Pandi Gambhirangaa Badulichchindi. Nakka Tala Upinattu Natinchi, Mellagaa Venakki Tirigindi. Adi Vellipotundagaa, Daani Pedavulapai Oka Chinna Navvu Merisindi — Evariki Vinipinchani Kilakila Dhvani Adi. Nakka Pandi Nammakaanni Tana Svaarthaaniki Elaa Vaadukonundo?",
+      "text_en": "At the fox's words, the wild boar straightened its massive body. Its tusks gleamed even sharper. \"If you are by my side, I have nothing to fear,\" the boar replied seriously. The fox pretended to nod and slowly turned back. As it walked away, a small smile flickered on its lips — a silent chuckle no one could hear. How would the fox use the boar's trust for its own selfish gain?"
+    },
+    {
+      "id": 4,
+      "text": "కొద్దిసేపటి తర్వాత, నక్క తాజాగా ఉన్న పులి పాదముద్రలను చూసింది. \"నేను ముందు వెళ్ళాను, నువ్వు నన్ను అనుసరించు!\" అని నక్క పందిని తొందరపెట్టింది. అది ఒక దట్టమైన ముళ్ళ పొదలోకి వెళ్లి, పందిని కూడా అదే దారిలో రమ్మని సైగ చేసింది. పంది ఆ పొద గుండా వెళ్తుండగా, ముళ్ళ పదునైన పొడుపులు దాని గట్టి చర్మాన్ని గీరాయి — ఒక చిన్న నొప్పి కలిగింది. అడవి పంది గందరగోళంగా తల అడ్డంగా ఊపింది, కానీ నక్కను మాత్రం అనుసరించింది. నక్క మోసాన్ని పంది ఎప్పుడు గ్రహిస్తుంది?",
+      "image_prompt": "The wild boar pushes through a dense thorn bush, following the fox's signal. Sharp thorns scratch its tough hide, causing a small sting of pain. Also in this scene: A sleek, reddish-brown fox with bright, cunning eyes and a perpetually sly grin. It moves with deceptive grace and speaks with a smooth, persuasive voice. Always the same character across every scene. Late afternoon, golden light, but the thorny bush casts sharp, dark shadows, making it look menacing.",
+      "scene_visual": "The wild boar pushes through a dense thorn bush, following the fox's signal. Sharp thorns scratch its tough hide, causing a small sting of pain.",
+      "text_te_en": "Koddisepati Tarvaata, Nakka Taajaagaa Unna Puli Paadamudralanu Chusindi. \"Nenu Mundu Vellaanu, Nuvvu Nannu Anusarinchu!\" Ani Nakka Pandini Tondarapettindi. Adi Oka Dattamaina Mulla Podaloki Velli, Pandini Kudaa Ade Daarilo Rammani Saiga Chesindi. Pandi Aa Poda Gundaa Veltundagaa, Mulla Padunaina Podupulu Daani Gatti Charmaanni Giraayi — Oka Chinna Noppi Kaligindi. Adavi Pandi Gandaragolangaa Tala Addangaa Upindi, Kaani Nakkanu Maatram Anusarinchindi. Nakka Mosaanni Pandi Eppudu Grahistundi?",
+      "text_en": "A little while later, the fox saw fresh tiger paw prints. \"I'll go first, you follow me!\" the fox urged the boar. It went into a thick thorny bush and signaled for the boar to follow the same path. As the boar went through the bush, the sharp thorns scratched its tough skin — causing a small pain. The wild boar shook its head in confusion, but still followed the fox. When would the boar realize the fox's trickery?"
+    },
+    {
+      "id": 5,
+      "text": "పందికి నక్క సహాయం పట్ల అనుమానం పెరగసాగింది. దాని గుండెల్లో ఒక చిన్న అశాంతి గంభీరంగా వినిపించింది, ప్రతి అడుగులోనూ అది మరింత స్పష్టమైంది. నక్క ఎప్పుడూ సురక్షితంగా వెనకే ఉండి, పందిని మాత్రం ముందు ప్రమాదంలోకి నెట్టడం పంది గమనించింది. \"నువ్వు ఎప్పుడూ వెనకే ఉంటావు, నేను ముందు వెళ్ళాలా?\" అని పంది నక్కను గంభీరంగా ప్రశ్నించింది. నక్క కాస్త అసహనంగా తన తోకను ఆడిస్తూ, పంది వైపు చూసింది — దాని కళ్ళు మెరిశాయి. పంది నక్క అనుమానాస్పద ప్రవర్తన గురించి ఎప్పుడు నిలదీస్తుంది?",
+      "image_prompt": "The wild boar sternly questions the fox, which is always staying behind it. The fox impatiently wags its tail and looks at the boar, its eyes gleaming. Also in this scene: A sleek, reddish-brown fox with bright, cunning eyes and a perpetually sly grin. It moves with deceptive grace and speaks with a smooth, persuasive voice. Always the same character across every scene. Approaching dusk, long, purple shadows stretching across the forest floor, a sense of growing unease.",
+      "scene_visual": "The wild boar sternly questions the fox, which is always staying behind it. The fox impatiently wags its tail and looks at the boar, its eyes gleaming.",
+      "text_te_en": "Pandiki Nakka Sahaayam Patla Anumaanam Peragasaagindi. Daani Gundello Oka Chinna Ashaanti Gambhirangaa Vinipinchindi, Prati Adugulonu Adi Marinta Spashtamaindi. Nakka Eppudu Surakshitangaa Venake Undi, Pandini Maatram Mundu Pramaadanloki Nettadam Pandi Gamaninchindi. \"Nuvvu Eppudu Venake Untaavu, Nenu Mundu Vellaalaa?\" Ani Pandi Nakkanu Gambhirangaa Prashninchindi. Nakka Kaasta Asahanangaa Tana Tokanu Aadistu, Pandi Vaipu Chusindi — Daani Kallu Merishaayi. Pandi Nakka Anumaanaaspada Pravartana Gurinchi Eppudu Niladistundi?",
+      "text_en": "The boar's suspicion about the fox's help began to grow. A small uneasiness rumbled in its heart, becoming clearer with every step. The boar noticed that the fox always stayed safely behind, pushing the boar into danger ahead. \"You always stay behind, and I have to go first?\" the boar asked the fox seriously. The fox flicked its tail impatiently and looked at the boar — its eyes gleamed. When would the boar confront the fox about its suspicious behavior?"
+    },
+    {
+      "id": 6,
+      "text": "ఇంతలో, నక్క పందిని ఒక పొద వైపు వెళ్ళమని సైగ చేసింది. పంది అడుగులు వేయబోతుండగా, కళ్ళ ముందు ఒక మెరుపు కనిపించింది. ఆకులు కప్పిన పులి బోను లోపల లోహపు మెరుపు — స్పష్టంగా కనిపించింది! ఒక్కసారిగా — పందికి విషయం అర్థమైంది. \"నీ స్నేహం ఒక మోసం! నా ప్రాణాలతో ఆడుకుంటావా?!\" అని పంది కోపంతో గర్జించింది, దాని కోరలు మెరిశాయి. నక్క వెనక్కి రెండు అడుగులు వేసింది, దాని కళ్ళు పెద్దవయ్యాయి. తన మోసపూరిత స్నేహితుడి గురించి నిజం తెలిసిన పంది ఇప్పుడు ఏం చేస్తుంది?",
+      "image_prompt": "The wild boar sees the glint of metal inside a leaf-covered tiger trap and roars in anger. Its tusks gleam menacingly as the fox steps back, its eyes wide with fear. Also in this scene: A sleek, reddish-brown fox with bright, cunning eyes and a perpetually sly grin. It moves with deceptive grace and speaks with a smooth, persuasive voice. Always the same character across every scene. A dramatic moment, with the last rays of sunset cutting sharply through the trees, highlighting the trap and the boar's enraged face, casting the fox in a stark, exposed light.",
+      "scene_visual": "The wild boar sees the glint of metal inside a leaf-covered tiger trap and roars in anger. Its tusks gleam menacingly as the fox steps back, its eyes wide with fear.",
+      "text_te_en": "Intalo, Nakka Pandini Oka Poda Vaipu Vellamani Saiga Chesindi. Pandi Adugulu Veyabotundagaa, Kalla Mundu Oka Merupu Kanipinchindi. Aakulu Kappina Puli Bonu Lopala Lohapu Merupu — Spashtangaa Kanipinchindi! Okkasaarigaa — Pandiki Vishayam Arthamaindi. \"Ni Sneham Oka Mosan! Naa Praanaalato Aadukuntaavaa?!\" Ani Pandi Kopanto Garjinchindi, Daani Koralu Merishaayi. Nakka Venakki Rendu Adugulu Vesindi, Daani Kallu Peddavayyaayi. Tana Mosapurita Snehitudi Gurinchi Nijam Telisina Pandi Ippudu Em Chestundi?",
+      "text_en": "Just then, the fox signaled the boar to go towards a bush. As the boar was about to take a step, a flash appeared before its eyes. The metallic gleam inside a tiger trap covered with leaves — it was clearly visible! All at once — the boar understood everything. \"Your friendship is a trick! Are you playing with my life?!\" the boar roared in anger, its tusks gleaming. The fox took two steps back, its eyes wide. What would the boar do now that it knew the truth about its deceitful friend?"
+    },
+    {
+      "id": 7,
+      "text": "నిజం తెలిసిన అడవి పంది కోపంతో నక్క వైపు దూసుకువెళ్లింది. నక్క భయంతో పరుగు లంకించుకుంది, పొదల చాటున మాయమైపోయింది. పంది దాని విజయ గర్వంతో గట్టిగా నిట్టూర్చింది — దాని కళ్ళు ప్రశాంతంగా మెరిశాయి. అది తన సురక్షితమైన వేట ప్రదేశానికి తిరిగి వెళ్ళింది. అక్కడ మళ్ళీ తన కోరలను చెట్టు బెరడుకు రాసుకుంటూ, వాటిని మరింత పదును పెట్టింది. \"నాకు నా శక్తిపై నమ్మకం ఉంది, మోసపూరిత స్నేహితులపై కాదు\" అని అది గంభీరంగా అంది. ఆ రోజు నుండి, అడవి పంది తన సొంత బలాన్ని నమ్మి జీవించింది.",
+      "image_prompt": "The wild boar returns to its safe hunting spot and resumes sharpening its tusks on the tree bark. Its eyes shine calmly as it grinds its tusks, making a rhythmic sound. Also in this scene: A sleek, reddish-brown fox with bright, cunning eyes and a perpetually sly grin. It moves with deceptive grace and speaks with a smooth, persuasive voice. Always the same character across every scene. Gentle dusk light, warm amber, peaceful resolution as the boar stands tall and strong amidst the familiar forest.",
+      "scene_visual": "The wild boar returns to its safe hunting spot and resumes sharpening its tusks on the tree bark. Its eyes shine calmly as it grinds its tusks, making a rhythmic sound.",
+      "text_te_en": "Nijam Telisina Adavi Pandi Kopanto Nakka Vaipu Dusukuvellindi. Nakka Bhayanto Parugu Lankinchukundi, Podala Chaatuna Maayamaipoyindi. Pandi Daani Vijaya Garvanto Gattigaa Nitturchindi — Daani Kallu Prashaantangaa Merishaayi. Adi Tana Surakshitamaina Veta Pradeshaaniki Tirigi Vellindi. Akkada Malli Tana Koralanu Chettu Beraduku Raasukuntu, Vaatini Marinta Padunu Pettindi. \"Naaku Naa Shaktipai Nammakam Undi, Mosapurita Snehitulapai Kaadu\" Ani Adi Gambhirangaa Andi. Aa Roju Nundi, Adavi Pandi Tana Sonta Balaanni Nammi Jivinchindi.",
+      "text_en": "The wild boar, knowing the truth, charged furiously towards the fox. The fox, terrified, ran away and disappeared behind the bushes. The boar let out a deep sigh of triumphant pride — its eyes shone peacefully. It returned to its safe hunting spot. There, it once again sharpened its tusks against the tree bark, making them even sharper. \"I trust in my own strength, not in deceitful friends,\" it said seriously. From that day on, the wild boar lived trusting in its own strength."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-crafted for a children's narrative, demonstrating strong character voices, a compelling plot, and excellent engagement techniques. The use of direct questions at the end of each scene is particularly effective in drawing the child listener into the unfolding drama. To elevate it further, focus on refining some narrative descriptions to be purely 'shown' rather than 'told,' ensuring every emotion is conveyed through action or sensory detail, and perhaps softening a few formal phrases for an even warmer, more conversational tone."
+  },
+  "title_te_en": "Jittulamaari Nakka – Pandi Nammakam",
+  "moral_te_en": "Kondaru Snehitulugaa Kanipinchinaa, Mana Manchi Korakapovachchu.",
+  "title_en": "The Tricky Fox and the Boar's Trust",
+  "moral_en": "Some people may seem like friends, but they might not truly care about you.",
+  "id": "20260523_060801",
+  "date": "2026-05-23",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - నక్క మరియు అడవి పంది",
+  "thumbnail": "stories/20260523_060801/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
