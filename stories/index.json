@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260523_130805",
+      "slug": "lakshmi-telivi-vinuutna-podupu-katha",
+      "title": "లక్ష్మి తెలివి — వినూత్న పొడుపు కథ",
+      "moral": "మనల్ని మనం నమ్మి, కొత్తగా ఆలోచిస్తే, ఎన్నో అద్భుతాలు చేయవచ్చు, తెలుసా?",
+      "thumbnail": "stories/20260523_130805/images/scene1.jpg",
+      "date": "2026-05-23",
+      "category": "podupu",
+      "subcategory": "royal_riddles",
+      "topic": "తెలివైన పొడుపు కథతో రాజును మెప్పించిన బాలిక",
+      "voice": "te-IN-Chirp3-HD-Leda",
+      "schema_version": 2,
+      "title_en": "Lakshmi's Cleverness — The Unique Riddle",
+      "moral_en": "If we believe in ourselves and think creatively, we can achieve many amazing things, you know?",
+      "title_te_en": "Lakshmi Telivi — Vinutna Podupu Katha",
+      "moral_te_en": "Manalni Manam Nammi, Kottagaa Aalochiste, Enno Adbhutaalu Cheyavachchu, Telusaa?"
+    },
+    {
       "id": "20260523_090757",
       "slug": "bamgaaru-kii-rahasyam",
       "title": "బంగారు కీ రహస్యం",
