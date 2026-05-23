@@ -71,6 +71,7 @@
 </script>
 
 <!-- Site assets -->
+<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/manifest.json">
 <link rel="apple-touch-icon" href="/static/icon-192.png">
 <meta name="theme-color" content="#FF6B35">
@@ -91,9 +92,6 @@
 </head>
 
 <body class="slideshow-mode">
-
-  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
-  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
     <div id="bg-blur"></div>
@@ -228,7 +226,8 @@
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
-      textEl.innerHTML = '';
+      textEl.innerHTML  = '';
+      textEl.scrollTop  = 0;
       _wordSpans        = [];
       _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
       _currentWordIndex = -1;
@@ -279,12 +278,52 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
+      // Scroll active word into view within the subtitle container
+      const activeSpan = _wordSpans[idx];
+      const container  = document.getElementById('slide-text');
+      if (activeSpan && container) {
+        const spanRect = activeSpan.getBoundingClientRect();
+        const boxRect  = container.getBoundingClientRect();
+        if (spanRect.bottom > boxRect.bottom) {
+          container.scrollTop += Math.ceil(spanRect.bottom - boxRect.bottom) + 2;
+        }
+      }
     }
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
+    }
+
+    // Resize subtitle box to match the actual contain-fitted image bounds
+    function positionSubtitleForImage(sceneId) {
+      const preloaded = _preloadedImages && _preloadedImages[sceneId];
+      if (!preloaded) return;
+      const apply = () => {
+        const natW = preloaded.naturalWidth;
+        const natH = preloaded.naturalHeight;
+        if (!natW || !natH) return;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const imgAspect = natW / natH;
+        const vpAspect  = vw / vh;
+        let renderedW, imgLeft;
+        if (imgAspect > vpAspect) {
+          renderedW = vw;
+          imgLeft   = 0;
+        } else {
+          renderedW = vh * imgAspect;
+          imgLeft   = (vw - renderedW) / 2;
+        }
+        const pad = renderedW * 0.02;
+        const box = document.getElementById('subtitle-box');
+        box.style.left      = (imgLeft + pad) + 'px';
+        box.style.width     = (renderedW - pad * 2) + 'px';
+        box.style.transform = 'none';
+      };
+      if (preloaded.naturalWidth) apply();
+      else preloaded.addEventListener('load', apply, { once: true });
     }
 
     function seekToWord(wordIdx, sceneId) {
@@ -341,9 +380,6 @@
         story = await res.json();
         _defaultSpeed = story.defaultSpeed || 1.0;
         currentSpeed  = _defaultSpeed;
-
-        const _h1 = document.getElementById('story-h1');
-        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
@@ -411,6 +447,9 @@
 
         setupSwipeGesture();
         setupKeyboard();
+        window.addEventListener('resize', () => {
+          if (story) positionSubtitleForImage(story.scenes[currentIndex].id);
+        });
         showScene(0);
         storySetLang(storyLang);
 
@@ -440,6 +479,7 @@
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
+        positionSubtitleForImage(scene.id);
       }, 250);
 
       const textEl  = document.getElementById('slide-text');
@@ -886,6 +926,23 @@
     loadStory();
   </script>
 
+
+<article id="seo-story-body" lang="te">
+<p class="seo-category">భాగవతం</p>
+<h1>సత్యవ్రతుడు – చేప చేసిన అద్భుతం</h1>
+<p>రాజు సత్యవ్రతుడు — చాలా మంచివాడు, ధర్మమూర్తి. ప్రతిరోజూ కృతమాల నదికి వెళ్ళేవాడు. ఆ నది నీరు ఎంత స్వచ్ఛంగా ఉంటుందో తెలుసా పిల్లలూ? సత్యవ్రతుడు మెల్లగా చేతులు జోడించి, నదిలోంచి చల్లటి నీటిని పైకి తీశాడు. &quot;ఓ పవిత్ర నది, నా ప్రార్థనలు స్వీకరించు,&quot; అని మనసులో వేడుకున్నాడు. అప్పుడు, ఆ నీటిలో — ఏదో కదిలినట్లు అనిపించింది...</p>
+<p>రాజు చేతిలోని నీటిలో, ఒక్క చిన్న చేప – మెరుస్తూ కనిపించింది. అది చాలా చిన్నది, వేలికొన అంత కూడా ఉండదు. దాని కదలికలు, అరచేతిలో చిన్నగా గిలిగింతలు పెట్టాయి. &quot;ఓ చిన్న చేప, నీకు ఇక్కడేం పని?&quot; అని రాజు ఆశ్చర్యపోయాడు. దానిని తిరిగి నదిలో వదలబోయాడు — కానీ ఆ చేప మెల్లగా మాట్లాడింది...</p>
+<p>&quot;అయ్యా, నన్ను కాపాడు!&quot; అని ఆ చిన్న చేప వేడుకుంది. రాజుకు ఆశ్చర్యం వేసింది, కానీ దానిని తన కమండలంలో ఉంచాడు. ఒక్క రాత్రిలోనే — ఆ చేప కమండలం నిండిపోయింది. &quot;అయ్యా, నాకు ఇంకా పెద్ద ఇల్లు కావాలి!&quot; అని వేడుకుంది. రాజు దానిని చెరువులోకి మార్చాడు. ఆ చేప ఎంత వేగంగా పెరిగిందో తెలుసా? చెరువు నిండి, దాని కదలికలతో నీరు పెద్దగా ఎగిసిపడింది.</p>
+<p>చెరువు కూడా నిండిపోవడంతో, రాజు దానిని సముద్రంలో వదిలాడు. అప్పుడు — ఆ చేప తన నిజ రూపాన్ని చూపింది. అది ఎంత పెద్దదంటే, ఆకాశాన్ని తాకుతున్నట్లుంది! దాని నీడ, నీటిపై చల్లగా, భారీగా పడింది. &quot;రాజా, త్వరలో ప్రళయం వస్తుంది. ప్రాణులను రక్షించు,&quot; అని దివ్యమైన స్వరంతో పలికింది. రాజు భక్తితో చేతులు జోడించాడు — ఇంత పెద్ద పనిని ఆయన ఒక్కరే ఎలా చేయగలడు?</p>
+<p>దైవ ఆజ్ఞను శిరసావహించి, రాజు సత్యవ్రతుడు ఒక పెద్ద పడవను సిద్ధం చేశాడు. అన్ని రకాల ప్రాణులను, సప్త ఋషులను, పవిత్రమైన వేదాలను అందులోకి చేర్చాడు. ఆకాశం నల్లగా మారిపోయింది. పెద్ద పెద్ద వర్షపు బిందువులు — పడవ చెక్క మీద టపటప పడ్డాయి. &quot;ప్రభూ, ఈ ప్రళయం నుండి మమ్మల్ని రక్షించు!&quot; అని రాజు భక్తితో వేడుకున్నాడు. ఈ అలల మధ్య, ఈ పడవ ఎలా నిలబడగలుగుతుంది...?</p>
+<p>ఇంతలో, ఆ భయంకరమైన సముద్రంలో — మత్స్యరూపం మళ్ళీ కనిపించింది. ఆ చేపకు ఒక బంగారు కొమ్ము ఉంది! సత్యవ్రతుడు, దివ్య సర్పం వాసుకిని తాడుగా ఉపయోగించి, పడవను ఆ కొమ్ముకు కట్టాడు. &quot;అయ్యా, నన్ను నమ్ము, నీకు రక్షణ ఉంటుంది,&quot; అని మత్స్యావతారం పలికింది. ఆ దివ్యమైన చేప, అలలను చీల్చుకుంటూ, పడవను లాక్కుపోయింది. మరి ఈ ప్రయాణం ఎక్కడికి?</p>
+<p>ప్రళయ జలాల లోతుల్లో, హయగ్రీవుడు అనే రాక్షసుడు వేదాలను దొంగిలించాడు. ఒక్కసారిగా, మత్స్యావతారం నుండి ఒక అద్భుతమైన కాంతి వెలువడింది — చెడు నిలవలేకపోయింది! అదే క్షణంలో, న్యాయం జరిగింది. మత్స్యరూపం వేదాలను తిరిగి తీసుకొచ్చింది. &quot;వేదాలు సురక్షితంగా తిరిగి వచ్చాయి!&quot; అని రాజు ఆనందంతో కేక వేశాడు. జ్ఞానం తిరిగి వచ్చింది — మరి ప్రపంచం తిరిగి వస్తుందా?</p>
+<p>నెమ్మదిగా, ప్రళయం తగ్గిపోయింది. నీరు వెనక్కి వెళ్ళిపోయింది. భూమి నుండి — మట్టి వాసన, కొత్తగా వికసించిన పువ్వుల సువాసన వచ్చింది. సత్యవ్రతుడు, ఇప్పుడు వైవస్వత మనువుగా మారాడు. మత్స్యావతారం, &quot;ఈ జ్ఞానంతో కొత్త ప్రపంచాన్ని సృష్టించండి,&quot; అని దీవించింది. ఆయన ఆ వేదాల సహాయంతో, కొత్త యుగాన్ని, కొత్త జీవనాన్ని ప్రారంభించాడు. చూశావా పిల్లలూ, దేవుడు మనల్ని ఎలా కాపాడతాడో?</p>
+<section class="seo-moral">
+<h2>నీతి</h2>
+<p>కష్టకాలంలో కూడా, భక్తితో, ధర్మంతో ఉంటే దైవం తప్పక కాపాడుతుంది.</p>
+</section>
+</article>
 </body>
 
 </html>

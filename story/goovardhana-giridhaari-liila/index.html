@@ -71,6 +71,7 @@
 </script>
 
 <!-- Site assets -->
+<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/manifest.json">
 <link rel="apple-touch-icon" href="/static/icon-192.png">
 <meta name="theme-color" content="#FF6B35">
@@ -91,9 +92,6 @@
 </head>
 
 <body class="slideshow-mode">
-
-  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
-  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
     <div id="bg-blur"></div>
@@ -228,7 +226,8 @@
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
-      textEl.innerHTML = '';
+      textEl.innerHTML  = '';
+      textEl.scrollTop  = 0;
       _wordSpans        = [];
       _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
       _currentWordIndex = -1;
@@ -279,12 +278,52 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
+      // Scroll active word into view within the subtitle container
+      const activeSpan = _wordSpans[idx];
+      const container  = document.getElementById('slide-text');
+      if (activeSpan && container) {
+        const spanRect = activeSpan.getBoundingClientRect();
+        const boxRect  = container.getBoundingClientRect();
+        if (spanRect.bottom > boxRect.bottom) {
+          container.scrollTop += Math.ceil(spanRect.bottom - boxRect.bottom) + 2;
+        }
+      }
     }
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
+    }
+
+    // Resize subtitle box to match the actual contain-fitted image bounds
+    function positionSubtitleForImage(sceneId) {
+      const preloaded = _preloadedImages && _preloadedImages[sceneId];
+      if (!preloaded) return;
+      const apply = () => {
+        const natW = preloaded.naturalWidth;
+        const natH = preloaded.naturalHeight;
+        if (!natW || !natH) return;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const imgAspect = natW / natH;
+        const vpAspect  = vw / vh;
+        let renderedW, imgLeft;
+        if (imgAspect > vpAspect) {
+          renderedW = vw;
+          imgLeft   = 0;
+        } else {
+          renderedW = vh * imgAspect;
+          imgLeft   = (vw - renderedW) / 2;
+        }
+        const pad = renderedW * 0.02;
+        const box = document.getElementById('subtitle-box');
+        box.style.left      = (imgLeft + pad) + 'px';
+        box.style.width     = (renderedW - pad * 2) + 'px';
+        box.style.transform = 'none';
+      };
+      if (preloaded.naturalWidth) apply();
+      else preloaded.addEventListener('load', apply, { once: true });
     }
 
     function seekToWord(wordIdx, sceneId) {
@@ -341,9 +380,6 @@
         story = await res.json();
         _defaultSpeed = story.defaultSpeed || 1.0;
         currentSpeed  = _defaultSpeed;
-
-        const _h1 = document.getElementById('story-h1');
-        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
@@ -411,6 +447,9 @@
 
         setupSwipeGesture();
         setupKeyboard();
+        window.addEventListener('resize', () => {
+          if (story) positionSubtitleForImage(story.scenes[currentIndex].id);
+        });
         showScene(0);
         storySetLang(storyLang);
 
@@ -440,6 +479,7 @@
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
+        positionSubtitleForImage(scene.id);
       }, 250);
 
       const textEl  = document.getElementById('slide-text');
@@ -886,6 +926,22 @@
     loadStory();
   </script>
 
+
+<article id="seo-story-body" lang="te">
+<p class="seo-category">భాగవతం</p>
+<h1>గోవర్ధన గిరిధారి లీల</h1>
+<p>పచ్చని వృందావనంలో, యమునా నది పక్కన, కృష్ణుడు చిరునవ్వుతో చూస్తున్నాడు. గోపాలురు, గోపికలు ఎంతో ఆనందంగా పూజకు సిద్ధమవుతున్నారు. కొత్తగా చేసిన వెన్న, పాలు — అద్భుతమైన సువాసన అడవంతా నిండింది. &quot;ఈ రోజు ఇంద్రుడికి పూజ కదా!&quot; అని కృష్ణుడు మెల్లగా అడిగాడు. అసలు వాళ్ళు ఎందుకు పూజ చేస్తున్నారు, కృష్ణయ్య మనసులో ఏముందో ఏం జరగనుందో?</p>
+<p>కృష్ణుడు గోపాలురు మధ్య నిలబడి, శాంతంగా వారిని చూశాడు. అప్పుడు, చల్లని గాలి ఆకుల సవ్వడితో, అతని మృదువైన మాటలు అన్ని చోట్ల వినిపించాయి. ఇంద్రుడిని పూజించడం ఎందుకు అని వారిని అడిగాడు — వినయంగా. &quot;గోవర్ధన పర్వతం మన ఆవులకు ఆహారం ఇస్తుంది కదా, దానినే పూజిద్దామా?&quot; అని సూచించాడు. మరి, పిల్లలూ, ఆ గ్రామస్తులు కృష్ణుడు మాట విని, తమ పాత ఆచారాన్ని మారుస్తారా?</p>
+<p>కృష్ణుడు మాట విని, గ్రామస్తులు ఆనందంగా గోవర్ధన పర్వతానికి పూజ చేశారు. కృష్ణుడు ప్రశాంత చిత్తంతో వారిని చూస్తూ, చిరునవ్వు చిందించాడు. ఇంతలో, ఆకాశం ఒక్కసారిగా నల్లబడింది — నీలిరంగు కాస్తా ముదురు ఊదా రంగులోకి మారింది. ఇంద్రుడు కోపంతో, చేతులు బిగించి, కిందకి చూశాడు. &quot;ఈ పశువుల కాపరులు నాకు అవమానం చేశారు! వారికి నా శక్తి ఏమిటో చూపిస్తాను!&quot; అని గర్జించాడు. మరి, పిల్లలూ, ఇంద్రుడు ఆ గ్రామస్తుల పైన ఏం చేయబోతున్నాడో?</p>
+<p>అప్పుడు, వృందావనంపైకి భయంకరమైన తుఫాను వచ్చింది. చెవులు చిల్లులు పడే ఉరుములు, మెరుపుల వెలుగులు — మైదానమంతా దద్దరిల్లింది. భారీ వర్షం, బలమైన గాలులు — గోపాలురు, పశువులు భయంతో వణికిపోయాయి. కృష్ణుడు మాత్రం ప్రశాంతమైన చిరునవ్వుతో నిలబడ్డాడు. &quot;కృష్ణా! మమ్మల్ని కాపాడు! ఈ వర్షం ఆగడం లేదు!&quot; అని గ్రామస్తులు వేడుకున్నారు. ఈ భయంకరమైన తుఫాను నుండి కృష్ణుడు అందరినీ ఎలా కాపాడతాడో చూశావా?</p>
+<p>గ్రామస్తుల ఆక్రందన విన్న కృష్ణుడు కరుణతో వారిని చూశాడు. అప్పుడు, భూమి కొద్దిగా కదిలిన శబ్దం — తన దివ్యశక్తిని చూపడానికి సిద్ధమయ్యాడు. &quot;భయపడకండి! గోవర్ధన పర్వతం మిమ్మల్ని కాపాడుతుంది!&quot; అని ధైర్యం చెప్పాడు. తన చిటికెన వేలితో ఆ పెద్ద గోవర్ధన పర్వతాన్ని ఎత్తాలని నిర్ణయించుకున్నాడు. అంత పెద్ద కొండను కృష్ణుడు ఒక్కడే, తన చిటికెన వేలితో ఎత్తగలడా?</p>
+<p>కృష్ణుడు తన ఎడమ చిటికెన వేలితో గోవర్ధన పర్వతాన్ని అలవోకగా పైకి ఎత్తాడు. ఆ పెద్ద పర్వతం — ఒక దివ్యమైన గొడుగులా నిలబడింది. పర్వతం కింద ఒక్కసారిగా ప్రశాంతంగా, పొడిగా మారింది — బయట తుఫాను ఉగ్రంగా ఉంది. గ్రామస్తులు, పశువులు దాని కింద తలదాచుకున్నారు — ఆశ్చర్యంతో, భక్తితో చూశారు. &quot;ఆహా! గోవర్ధనధారికి జై!&quot; అని అందరూ కేకలు వేశారు. ఇంద్రుడి తుఫాను ఎప్పుడు ఆగుతుంది, కృష్ణుడు శక్తి చూసి ఇంద్రుడు ఏం చేస్తాడో తెలుసా?</p>
+<p>ఏడు రోజుల తర్వాత, ఇంద్రుడి తుఫాను పూర్తిగా ఆగింది. అప్పుడు ఆకాశంలో సూర్యరశ్మి వచ్చింది — తడిసిన భూమి, పూల సువాసన అద్భుతంగా ఉంది. ఇంద్రుడు కిందికి వచ్చి, కృష్ణుడిని చూసి, తల వంచాడు. &quot;ఓ కృష్ణా! నీ లీల అద్భుతం! నన్ను క్షమించు!&quot; అని వేడుకున్నాడు. కృష్ణుడు గోవర్ధన పర్వతాన్ని మెల్లగా కిందికి దించాడు. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది — గ్రామస్తులు ఆనందంతో, భక్తితో కృష్ణుడిని పూజించారు.</p>
+<section class="seo-moral">
+<h2>నీతి</h2>
+<p>మంచిని నమ్మి, కలిసికట్టుగా ఉంటే, ఎంత పెద్ద ఆపదనైనా దాటవచ్చు.</p>
+</section>
+</article>
 </body>
 
 </html>

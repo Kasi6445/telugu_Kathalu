@@ -71,6 +71,7 @@
 </script>
 
 <!-- Site assets -->
+<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/manifest.json">
 <link rel="apple-touch-icon" href="/static/icon-192.png">
 <meta name="theme-color" content="#FF6B35">
@@ -91,9 +92,6 @@
 </head>
 
 <body class="slideshow-mode">
-
-  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
-  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
     <div id="bg-blur"></div>
@@ -228,7 +226,8 @@
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
-      textEl.innerHTML = '';
+      textEl.innerHTML  = '';
+      textEl.scrollTop  = 0;
       _wordSpans        = [];
       _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
       _currentWordIndex = -1;
@@ -279,12 +278,52 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
+      // Scroll active word into view within the subtitle container
+      const activeSpan = _wordSpans[idx];
+      const container  = document.getElementById('slide-text');
+      if (activeSpan && container) {
+        const spanRect = activeSpan.getBoundingClientRect();
+        const boxRect  = container.getBoundingClientRect();
+        if (spanRect.bottom > boxRect.bottom) {
+          container.scrollTop += Math.ceil(spanRect.bottom - boxRect.bottom) + 2;
+        }
+      }
     }
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
+    }
+
+    // Resize subtitle box to match the actual contain-fitted image bounds
+    function positionSubtitleForImage(sceneId) {
+      const preloaded = _preloadedImages && _preloadedImages[sceneId];
+      if (!preloaded) return;
+      const apply = () => {
+        const natW = preloaded.naturalWidth;
+        const natH = preloaded.naturalHeight;
+        if (!natW || !natH) return;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const imgAspect = natW / natH;
+        const vpAspect  = vw / vh;
+        let renderedW, imgLeft;
+        if (imgAspect > vpAspect) {
+          renderedW = vw;
+          imgLeft   = 0;
+        } else {
+          renderedW = vh * imgAspect;
+          imgLeft   = (vw - renderedW) / 2;
+        }
+        const pad = renderedW * 0.02;
+        const box = document.getElementById('subtitle-box');
+        box.style.left      = (imgLeft + pad) + 'px';
+        box.style.width     = (renderedW - pad * 2) + 'px';
+        box.style.transform = 'none';
+      };
+      if (preloaded.naturalWidth) apply();
+      else preloaded.addEventListener('load', apply, { once: true });
     }
 
     function seekToWord(wordIdx, sceneId) {
@@ -341,9 +380,6 @@
         story = await res.json();
         _defaultSpeed = story.defaultSpeed || 1.0;
         currentSpeed  = _defaultSpeed;
-
-        const _h1 = document.getElementById('story-h1');
-        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
@@ -411,6 +447,9 @@
 
         setupSwipeGesture();
         setupKeyboard();
+        window.addEventListener('resize', () => {
+          if (story) positionSubtitleForImage(story.scenes[currentIndex].id);
+        });
         showScene(0);
         storySetLang(storyLang);
 
@@ -440,6 +479,7 @@
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
+        positionSubtitleForImage(scene.id);
       }, 250);
 
       const textEl  = document.getElementById('slide-text');
@@ -886,6 +926,60 @@
     loadStory();
   </script>
 
+
+<article id="seo-story-body" lang="te">
+<p class="seo-category">పంచతంత్రం</p>
+<h1>నేస్తం చేసిన మోసం</h1>
+<p>నల్లమల అడవిలో — పొద్దు పొడిచే వేళ. హరి అనే జింక పిల్ల గడ్డి మేస్తోంది.
+లేత ఆకుపచ్చ గడ్డి, దాని నోటికి ఎంత రుచిగా ఉందో!
+&quot;ఆహా, ఈ గడ్డి ఎంత రుచిగా ఉందో!&quot; అని అది మురిసిపోయింది.
+మృదువైన గాలికి ఆకులు మెల్లగా కదిలాయి.
+దాని తోక మెల్లగా కదులుతోంది — మనసంతా ప్రశాంతంగా ఉంది.
+కానీ, ఈ ప్రశాంతత ఎంతసేపు ఉంటుందో ఎవరికి తెలుసు?</p>
+<p>హరి ప్రశాంతంగా మేస్తుండగా, దూరంగా ఏదో కదిలింది.
+అంతలో — నక్క ధూర్తుడు అటువైపుగా వచ్చాడు.
+గాలిలో నక్క వాసన రాగానే, హరి చెవులు కొద్దిగా కదిలాయి.
+&quot;నేను నీకు అడవిలోని చక్కని ప్రదేశాలు చూపిస్తాను, మిత్రమా!&quot; అని ధూర్తుడు పలకరించాడు.
+అతని మాటలకు, హరి చెవులు దించుకుని నవ్వింది.
+అపరిచితుడైన ధూర్తుడి స్నేహాన్ని హరి నమ్ముతుందా మరి?</p>
+<p>ధూర్తుడు చూపిన దారి వెంట హరి ముందుకు నడిచింది.
+మరింత పచ్చని గడ్డి దొరుకుతుందని ఆశ పడింది.
+ఒక్కసారిగా — &quot;టప్!&quot; మని ఒక చప్పుడు వినిపించింది.
+హరి కాలు ఉచ్చులో చిక్కుకుంది!
+దాని గుండె వేగంగా కొట్టుకుంది, కళ్ళు భయంతో పెద్దవయ్యాయి.
+&quot;అయ్యో! నా కాలు చిక్కుకుంది! దయచేసి నాకు సహాయం చేయి, మిత్రమా!&quot; అని హరి కేక వేసింది.
+ధూర్తుడు ఇప్పుడు ఏం చేస్తాడు? హరికి సహాయం చేస్తాడా?</p>
+<p>హరి బాధగా అరుస్తుంటే, ధూర్తుడు కొద్ది దూరం వెళ్ళిపోయాడు.
+పొదల చాటునుండి అతని గొంతు మసకగా వినిపించింది.
+&quot;ఈ జింక బాగా లావుగా ఉంది... వేటగాడికి మంచి విందు అవుతుంది!&quot; అని ధూర్తుడు గుసగుసలాడుకున్నాడు.
+ఆ మాటలు వినగానే — హరి తల వాలిపోయింది.
+దాని కళ్ళలో కన్నీళ్ళు తిరిగాయి... నమ్మి మోసపోయింది.
+తన నేస్తమే తన చావు కోరుకుంటుందని తెలిసిన హరి ఇప్పుడు ఏం చేస్తుంది?</p>
+<p>పిల్లలూ, అప్పుడు హరి ఏం చేసిందో తెలుసా?
+భయంతో గుండె దడదడలాడుతున్నా, దానికో ఆలోచన వచ్చింది.
+దూరంగా కాకి అరుపు వినిపించింది — అది దాని గత జ్ఞాపకాలను తట్టింది.
+అడవిలో ఒక వృద్ధ గుడ్లగూబ చెప్పిన మాటలు గుర్తొచ్చాయి: &quot;కష్టాల్లో తెలివిగా ఆలోచించు!&quot;
+&quot;నేను ధైర్యం కోల్పోకూడదు... తెలివిగా ఆలోచించాలి!&quot; అని హరి మనసులో అనుకుంది.
+ఈ ఉచ్చు నుండి బయటపడటానికి హరి తెలివి సరిపోతుందా?</p>
+<p>హరి వెంటనే చనిపోయినట్లు నటించింది, కదలకుండా పడుకుంది.
+దాని శ్వాస ఆగిపోయింది — శరీరం గట్టిగా మారిపోయింది.
+అంతలో, వేటగాడి అడుగుల చప్పుడు దగ్గరయ్యింది.
+&quot;ఇది సరైన సమయం!&quot; అని హరి మనసులో అనుకుంది.
+వేటగాడు దగ్గరకు రాగానే, హరి ఒక్కసారిగా ధూర్తుడిని బలంగా తన్నేసింది.
+నక్క &quot;య్యెల్ప్!&quot; అని అరుస్తూ పక్కకు ఎగిరిపడింది.
+హరి ఉచ్చు నుండి తప్పించుకుని, దొరికిన క్షణమే పరుగు లంకించుకుంది...</p>
+<p>హరి అడవిలోకి వేగంగా పారిపోయింది.
+అలిసిపోయినా, నొప్పితో ఉన్న కాలుతో అది నదిని దాటింది.
+చల్లని నీరు దాని కాలికి హాయిగా అనిపించింది.
+వెనక, వేటగాడు కోపంగా ధూర్తుడిని తరుముకుంటూ వెళ్ళాడు.
+హరి లోతుగా శ్వాస తీసుకుంది — ప్రాణాలతో బయటపడింది.
+&quot;మిత్రుల ఎంపికలో జాగ్రత్తగా ఉండాలి&quot; అని అది తనలో తాను అనుకుంది.
+ఆనాటి నుండి హరి చాలా తెలివిగా, జాగ్రత్తగా జీవించింది.</p>
+<section class="seo-moral">
+<h2>నీతి</h2>
+<p>మంచి మనసు ఉండాలి, కానీ స్నేహితులను ఎంపిక చేసుకునేటప్పుడు జాగ్రత్తగా ఉండాలి. నిజమైన స్నేహితులు ఎప్పుడూ నీ మంచి కోరుకుంటారు కదా!</p>
+</section>
+</article>
 </body>
 
 </html>

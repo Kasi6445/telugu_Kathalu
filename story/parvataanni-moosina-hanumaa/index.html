@@ -71,6 +71,7 @@
 </script>
 
 <!-- Site assets -->
+<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/manifest.json">
 <link rel="apple-touch-icon" href="/static/icon-192.png">
 <meta name="theme-color" content="#FF6B35">
@@ -91,9 +92,6 @@
 </head>
 
 <body class="slideshow-mode">
-
-  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
-  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
     <div id="bg-blur"></div>
@@ -228,7 +226,8 @@
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
-      textEl.innerHTML = '';
+      textEl.innerHTML  = '';
+      textEl.scrollTop  = 0;
       _wordSpans        = [];
       _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
       _currentWordIndex = -1;
@@ -279,12 +278,52 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
+      // Scroll active word into view within the subtitle container
+      const activeSpan = _wordSpans[idx];
+      const container  = document.getElementById('slide-text');
+      if (activeSpan && container) {
+        const spanRect = activeSpan.getBoundingClientRect();
+        const boxRect  = container.getBoundingClientRect();
+        if (spanRect.bottom > boxRect.bottom) {
+          container.scrollTop += Math.ceil(spanRect.bottom - boxRect.bottom) + 2;
+        }
+      }
     }
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
+    }
+
+    // Resize subtitle box to match the actual contain-fitted image bounds
+    function positionSubtitleForImage(sceneId) {
+      const preloaded = _preloadedImages && _preloadedImages[sceneId];
+      if (!preloaded) return;
+      const apply = () => {
+        const natW = preloaded.naturalWidth;
+        const natH = preloaded.naturalHeight;
+        if (!natW || !natH) return;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const imgAspect = natW / natH;
+        const vpAspect  = vw / vh;
+        let renderedW, imgLeft;
+        if (imgAspect > vpAspect) {
+          renderedW = vw;
+          imgLeft   = 0;
+        } else {
+          renderedW = vh * imgAspect;
+          imgLeft   = (vw - renderedW) / 2;
+        }
+        const pad = renderedW * 0.02;
+        const box = document.getElementById('subtitle-box');
+        box.style.left      = (imgLeft + pad) + 'px';
+        box.style.width     = (renderedW - pad * 2) + 'px';
+        box.style.transform = 'none';
+      };
+      if (preloaded.naturalWidth) apply();
+      else preloaded.addEventListener('load', apply, { once: true });
     }
 
     function seekToWord(wordIdx, sceneId) {
@@ -341,9 +380,6 @@
         story = await res.json();
         _defaultSpeed = story.defaultSpeed || 1.0;
         currentSpeed  = _defaultSpeed;
-
-        const _h1 = document.getElementById('story-h1');
-        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
@@ -411,6 +447,9 @@
 
         setupSwipeGesture();
         setupKeyboard();
+        window.addEventListener('resize', () => {
+          if (story) positionSubtitleForImage(story.scenes[currentIndex].id);
+        });
         showScene(0);
         storySetLang(storyLang);
 
@@ -440,6 +479,7 @@
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
+        positionSubtitleForImage(scene.id);
       }, 250);
 
       const textEl  = document.getElementById('slide-text');
@@ -886,6 +926,22 @@
     loadStory();
   </script>
 
+
+<article id="seo-story-body" lang="te">
+<p class="seo-category">రామాయణం</p>
+<h1>పర్వతాన్ని మోసిన హనుమా!</h1>
+<p>లంకలో రాత్రి వేళ యుద్ధం ఉధృతంగా ఉంది. లక్ష్మణుడు వీరోచితంగా పోరాడుతున్నాడు — అతని ధైర్యం చూడు! అదృశ్య దివ్యాస్త్రాల ఘర్షణ ఆకాశంలో ప్రతిధ్వనిస్తూ ఉంది, చెవులు చిల్లులు పడేలా. హనుమాన్ కళ్ళార్పకుండా, తన మిత్రుల కోసం జాగ్రత్తగా చూస్తున్నాడు. &quot;ధర్మం కోసం యుద్ధం!&quot; అంటూ లక్ష్మణుడు ముందుకు దూకాడు. ఇంతటి శక్తివంతమైన శత్రువుల ముందు, లక్ష్మణుడు, రాముడు గెలుస్తారా?</p>
+<p>అంతలో, ఇంద్రజిత్తు ఒక దివ్యాస్త్రంతో లక్ష్మణుడిని కొట్టాడు. ఒక్కసారిగా లక్ష్మణుడు నేల కూలిపోయాడు, కదలడం లేదు. ఆ క్షణంలో, యుద్ధభూమిలో ఒక చల్లని నిశ్శబ్దం ఆవరించింది... అది చాలా భయంకరంగా ఉంది. హనుమాన్ గుండె బరువెక్కింది — అతని కళ్ళు చెమ్మగిల్లాయి. &quot;లక్ష్మణా! కళ్ళు తెరువు!&quot; అని హనుమాన్ వేడుకున్నాడు. ఈ భయంకరమైన పరిస్థితి నుండి లక్ష్మణుడిని కాపాడటానికి ఏదైనా మార్గం ఉందా?</p>
+<p>లక్ష్మణుడు స్పృహ కోల్పోవడంతో, వానర సైన్యం అంతా నిరాశలో మునిగింది. అప్పుడు జాంబవంతుడు, &quot;ద్రోణాచల పర్వతంపై సంజీవని మూలిక మాత్రమే లక్ష్మణుడిని బ్రతికిస్తుంది,&quot; అని చెప్పాడు. వానర సైన్యం గుసగుసలాడింది, ఆందోళనతో, ఆశతో నిండిపోయింది. హనుమాన్ కళ్ళు మెరిశాయి — అతనిలో ఒక దృఢ సంకల్పం కనిపించింది. &quot;నేను వెళ్ళి ఆ సంజీవనిని తెస్తాను!&quot; అన్నాడు హనుమాన్. మరి హనుమాన్ ఆ ద్రోణాచల పర్వతాన్ని, ప్రాణాలను రక్షించే మూలికను సమయానికి కనుగొంటాడా?</p>
+<p>హనుమాన్ గగనమార్గాన దూసుకుపోయి, ద్రోణాచల పర్వతంపై వాలాడు. ఆ పర్వతం చాలా విశాలంగా ఉంది — అడవులు, రకరకాల చెట్లు. అక్కడ వేల సంఖ్యలో మెరుస్తున్న మూలికలు కనిపించాయి. వాటి వెలుగులో, సంజీవని ఏది అనేది గుర్తించడం చాలా కష్టం. హనుమాన్ చేతులు పిడికిళ్ళు బిగించాడు — అతనిలో తీవ్ర ఆందోళన. &quot;ఏది ఆ సంజీవని? సమయం లేదు!&quot; అని హనుమాన్ అరిచాడు. అన్ని మూలికలు ఒకేలా ఉన్నప్పుడు, సరైన మూలికను హనుమాన్ ఎలా కనుగొంటాడు?</p>
+<p>సరైన మూలికను గుర్తించడం అసాధ్యమని హనుమాన్ అర్థం చేసుకున్నాడు. ఒక్క క్షణం కూడా వృథా చేయకుండా, ఒక అద్భుతమైన నిర్ణయం తీసుకున్నాడు. తన శక్తినంతా కూడదీసుకున్నాడు — అతని కళ్ళలో తీవ్రమైన ఏకాగ్రత. అప్పుడు అతని పాదాల కింద భూమి గుఢగుఢమని గర్జించింది. &quot;పర్వతాన్ని తీసుకెళ్ళడమే మార్గం!&quot; అని గంభీరంగా అన్నాడు. పిల్లలూ, ఇంతటి శక్తిమంతుడైన హనుమాన్ నిజంగా ఒక పర్వతాన్ని ఎత్తగలడా?</p>
+<p>ఒక్కసారిగా దివ్యశక్తితో, హనుమాన్ ద్రోణాచల పర్వతాన్ని వేళ్ళతో సహా పెకిలించాడు. ఆ మహా పర్వతాన్ని తన అరచేతిలో ఉంచుకుని, ఆకాశంలోకి దూసుకుపోయాడు. అతని బొచ్చుకు గాలి వేగంగా తాకింది — అది ఒక అద్భుతం. అతని హృదయం ఆశతో, విజయంతో నిండిపోయింది. &quot;లక్ష్మణుడు జీవించాలి!&quot; అంటూ వేగంగా ప్రయాణించాడు. లక్ష్మణుడికి సమయం మించిపోకముందే, హనుమాన్ లంక చేరుకుంటాడా?</p>
+<p>హనుమాన్ పర్వతాన్ని లంకకు తీసుకువచ్చాడు — వానర సైన్యం ఊపిరి పీల్చుకుంది. వైద్యుడు సంజీవని మూలికను లక్ష్మణుడికి అందించాడు. అదే క్షణంలో, లక్ష్మణుడు కళ్ళు తెరిచాడు, నెమ్మదిగా కదిలాడు. వానర సైన్యం నుండి ఒక గొప్ప ఊరట నిట్టూర్పు వినిపించింది. హనుమాన్ ముఖంపై చిరునవ్వు విరిసింది — అతని గుండె నిండా ఆనందం. &quot;హనుమా! నీ ఋణం తీర్చుకోలేము!&quot; అని రాముడు ప్రేమగా అన్నాడు. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది.</p>
+<section class="seo-moral">
+<h2>నీతి</h2>
+<p>నువ్వు మంచి మనసుతో, ధైర్యంతో ప్రయత్నిస్తే — అద్భుతాలు జరుగుతాయి.</p>
+</section>
+</article>
 </body>
 
 </html>

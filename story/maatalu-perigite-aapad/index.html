@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -71,6 +71,7 @@
 </script>
 
 <!-- Site assets -->
+<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/manifest.json">
 <link rel="apple-touch-icon" href="/static/icon-192.png">
 <meta name="theme-color" content="#FF6B35">
@@ -91,9 +92,6 @@
 </head>
 
 <body class="slideshow-mode">
-
-  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
-  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
     <div id="bg-blur"></div>
@@ -176,8 +174,6 @@
     let _wordSpans        = [];
     let _wordOffsets      = []; // estimated start-time (seconds) per word
     let _currentWordIndex = -1;
-    let _speechOnsets     = {}; // sceneId -> detected speech onset (seconds)
-    let _onsetAC          = null; // shared AudioContext for onset detection
 
     const CATEGORIES = {
       neeti:        { te: 'నీతి కథలు',   en: 'Moral Stories'   },
@@ -227,34 +223,11 @@
       }).length);
     }
 
-    // Measure how many seconds of silence precede the first audible word in an MP3.
-    // Uses Web Audio API to decode the cached audio buffer; runs async and caches result.
-    async function detectSpeechOnset(sceneId, audioSrc) {
-      if (sceneId in _speechOnsets) return; // already done or in-flight
-      _speechOnsets[sceneId] = null;        // null = in-progress; trackAudioProgress waits on this
-      try {
-        if (!_onsetAC) _onsetAC = new (window.AudioContext || window.webkitAudioContext)();
-        const resp = await fetch(audioSrc);
-        const ab   = await resp.arrayBuffer();
-        const buf  = await _onsetAC.decodeAudioData(ab);
-        const ch   = buf.getChannelData(0);
-        const WIN  = Math.floor(buf.sampleRate * 0.02); // 20ms analysis window
-        const THR  = 0.008;                             // RMS loudness threshold
-        let onset  = 0;
-        for (let i = 0; i < ch.length; i += WIN) {
-          const end = Math.min(i + WIN, ch.length);
-          let sq = 0;
-          for (let j = i; j < end; j++) sq += ch[j] * ch[j];
-          if (Math.sqrt(sq / (end - i)) > THR) { onset = i / buf.sampleRate; break; }
-        }
-        _speechOnsets[sceneId] = onset;
-      } catch(e) { _speechOnsets[sceneId] = 0; } // fallback: treat as no leading silence
-    }
-
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
-      textEl.innerHTML = '';
+      textEl.innerHTML  = '';
+      textEl.scrollTop  = 0;
       _wordSpans        = [];
       _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
       _currentWordIndex = -1;
@@ -278,12 +251,11 @@
     }
 
     // Proportional timing based on grapheme clusters (syllable-accurate for Telugu).
-    // speechOnset: seconds of detected leading silence — shifts all offsets forward
-    // so word 0 highlights when speech actually starts, not at t=0.
-    function computeWordOffsets(duration, text, speechOnset = 0) {
-      const LEAD  = Math.max(speechOnset, 0);
-      const TRAIL = Math.min(0.3, duration * 0.04);
-      const span  = Math.max(duration * 0.5, duration - LEAD - TRAIL);
+    // LEAD accounts for ~0.3s of silence Chirp3-HD voices always have at the start.
+    function computeWordOffsets(duration, text) {
+      const LEAD  = Math.min(0.3, duration * 0.1);
+      const TRAIL = 0.4;
+      const span  = Math.max(duration - LEAD - TRAIL, duration * 0.6);
       const words = text.match(/\S+/g) || [];
       const sizes = words.map(w => graphemeCount(w));
       const total = sizes.reduce((a, b) => a + b, 0) || 1;
@@ -306,13 +278,52 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
-      _wordSpans[idx].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      // Scroll active word into view within the subtitle container
+      const activeSpan = _wordSpans[idx];
+      const container  = document.getElementById('slide-text');
+      if (activeSpan && container) {
+        const spanRect = activeSpan.getBoundingClientRect();
+        const boxRect  = container.getBoundingClientRect();
+        if (spanRect.bottom > boxRect.bottom) {
+          container.scrollTop += Math.ceil(spanRect.bottom - boxRect.bottom) + 2;
+        }
+      }
     }
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
+    }
+
+    // Resize subtitle box to match the actual contain-fitted image bounds
+    function positionSubtitleForImage(sceneId) {
+      const preloaded = _preloadedImages && _preloadedImages[sceneId];
+      if (!preloaded) return;
+      const apply = () => {
+        const natW = preloaded.naturalWidth;
+        const natH = preloaded.naturalHeight;
+        if (!natW || !natH) return;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const imgAspect = natW / natH;
+        const vpAspect  = vw / vh;
+        let renderedW, imgLeft;
+        if (imgAspect > vpAspect) {
+          renderedW = vw;
+          imgLeft   = 0;
+        } else {
+          renderedW = vh * imgAspect;
+          imgLeft   = (vw - renderedW) / 2;
+        }
+        const pad = renderedW * 0.02;
+        const box = document.getElementById('subtitle-box');
+        box.style.left      = (imgLeft + pad) + 'px';
+        box.style.width     = (renderedW - pad * 2) + 'px';
+        box.style.transform = 'none';
+      };
+      if (preloaded.naturalWidth) apply();
+      else preloaded.addEventListener('load', apply, { once: true });
     }
 
     function seekToWord(wordIdx, sceneId) {
@@ -324,7 +335,7 @@
         const txt = storyLang === 'en' && sc.text_en ? sc.text_en
           : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
           : (sc.text || '');
-        computeWordOffsets(audio.duration, txt, _speechOnsets[sceneId] || 0);
+        computeWordOffsets(audio.duration, txt);
       }
       if (wordIdx >= _wordOffsets.length) return;
       audio.currentTime = _wordOffsets[wordIdx];
@@ -358,7 +369,6 @@
     async function loadStory() {
       const urlParam = getUrlParam();
       if (!urlParam) { window.location.href = '/'; return; }
-      _speechOnsets    = {}; // clear previous story's onset cache
       _preloadedImages = {}; // clear previous story's image cache
 
       try {
@@ -370,9 +380,6 @@
         story = await res.json();
         _defaultSpeed = story.defaultSpeed || 1.0;
         currentSpeed  = _defaultSpeed;
-
-        const _h1 = document.getElementById('story-h1');
-        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
@@ -412,7 +419,7 @@
           audio.onended = () => {
             isPlaying = false;
             updatePlayBtn();
-            setTimeout(() => nextScene(), 50);
+            setTimeout(() => nextScene(), 800);
           };
           document.body.appendChild(audio);
         });
@@ -440,6 +447,9 @@
 
         setupSwipeGesture();
         setupKeyboard();
+        window.addEventListener('resize', () => {
+          if (story) positionSubtitleForImage(story.scenes[currentIndex].id);
+        });
         showScene(0);
         storySetLang(storyLang);
 
@@ -469,6 +479,7 @@
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
+        positionSubtitleForImage(scene.id);
       }, 250);
 
       const textEl  = document.getElementById('slide-text');
@@ -499,10 +510,6 @@
       });
       trackAudioProgress(index);
 
-      // Start speech-onset detection early so offsets are ready by first timeupdate
-      const _oa = document.getElementById(`audio-${scene.id}`);
-      if (_oa) detectSpeechOnset(scene.id, _oa.src);
-
       preloadNextAudio(index);
 
       _playTimeout = setTimeout(() => { _playTimeout = null; playCurrentScene(); }, 150);
@@ -513,7 +520,6 @@
       const nextScene = story.scenes[currentIdx + 1];
       const audio = document.getElementById(`audio-${nextScene.id}`);
       if (audio && audio.readyState < 2) audio.load();
-      if (audio) detectSpeechOnset(nextScene.id, audio.src);
     }
 
     let _tlHandler = null;
@@ -533,18 +539,13 @@
         const pct  = (audio.currentTime / audio.duration) * 100;
         const fill = document.getElementById(`tl-fill-${index}`);
         if (fill) { fill.style.transition = 'width 0.25s linear'; fill.style.width = pct + '%'; }
-        // Compute word offsets once spans are ready and duration is known.
-        // Wait for onset detection (up to 0.4s of playback), then fallback to 0.
+        // Compute word offsets once spans are ready and duration is known
         if (!_wordOffsets.length && _wordSpans.length) {
-          const sc    = story.scenes[index];
-          const onset = _speechOnsets[sc.id];
-          // null = detection in-progress; wait up to 0.5s of playback then fall back to 0
-          const ready = (onset !== null && onset !== undefined) || (audio.currentTime > 0.5);
-          if (!ready) return;
+          const sc  = story.scenes[index];
           const txt = storyLang === 'en' && sc.text_en ? sc.text_en
             : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
             : (sc.text || '');
-          computeWordOffsets(audio.duration, txt, onset || 0);
+          computeWordOffsets(audio.duration, txt);
         }
         highlightWordAtTime(audio.currentTime);
       };
@@ -559,8 +560,7 @@
       audio.muted        = isMuted;
       audio.playbackRate = currentSpeed;
 
-      const onset = _speechOnsets[scene.id];
-      audio.currentTime = (onset && onset > 0.1) ? Math.max(0, onset - 0.05) : 0;
+      audio.currentTime = 0;
 
       audio.play().then(() => {
         isPlaying = true;
@@ -926,6 +926,61 @@
     loadStory();
   </script>
 
+
+<article id="seo-story-body" lang="te">
+<p class="seo-category">పంచతంత్రం</p>
+<h1>మాటలు పెరిగితే — ఆపద</h1>
+<p>కలువ కొలనులో కచ్ఛపం చాలా మురిసిపోయేవాడు.
+ఎర్రని కలువ పూల సువాసన — మధ్యాహ్నం గాలిలో తేలి వచ్చేది.
+తన స్నేహితులైన సంకటం, వికటం అనే హంసలతో గొప్పలు చెప్పేవాడు.
+అతను తన ఛాతీని కొంచెం ఉబ్బుతూ, &quot;ఈ కొలనులో ప్రతి చేప కథ నాకే తెలుసు!&quot; అన్నాడు.
+ప్రతి చిన్న విషయం కూడా తనకే తెలుసని నమ్మేవాడు.
+కానీ ఈ అందమైన కొలను ఎప్పటికీ ఇలాగే ఉంటుందా...?</p>
+<p>కొద్ది వారాలు గడిచాయి — వర్షం జాడ లేదు.
+కొలను నీరు తగ్గి తగ్గి — చివరికి బురద గుంటగా మారింది.
+కచ్ఛపం తన మెడ చాచి, ఇంకిపోతున్న నీటిని పదేపదే చూసేవాడు.
+అతని కాళ్ళ చుట్టూ చిక్కటి బురద — ఎండి పగుళ్లుగా మారుతోంది.
+అతను నిట్టూరుస్తూ, &quot;మిత్రులారా, నీళ్ళు పూర్తిగా ఇంకిపోతున్నాయి... మన గతి ఏమిటి?&quot; అన్నాడు.
+హంసలు ఎగిరిపోగలవు, కానీ నేల మీద చిక్కుకుపోయిన తన స్నేహితుడికి ఏం జరుగుతుంది...?</p>
+<p>సంకటం, వికటం — దూరంగా ఉన్న పెద్ద సరస్సుకు వెళ్ళాలని చెప్పాయి.
+వాటి రెక్కలు — శక్తివంతంగా కదిలాయి — అవి సుదీర్ఘ ప్రయాణానికి సిద్ధమయ్యాయి.
+కచ్ఛపం ఒక్కసారిగా కుంగిపోయాడు.
+అతను తన మెడను హంసల వైపు సాచి, దీనంగా బతిమాలాడు.
+&quot;నన్ను వదిలి వెళ్ళకండి! మీతో పాటు నన్ను కూడా తీసుకువెళ్ళండి!&quot; అన్నాడు.
+కానీ ఒక తాబేలు హంసలతో పాటు ఎగరడం ఎలా సాధ్యం...?</p>
+<p>కచ్ఛపం ఒక తెలివైన ఉపాయం చెప్పాడు.
+&quot;నేను ఒక గట్టి కర్ర మధ్యలో పట్టుకుంటాను — మీరు చివరలు పట్టుకోండి,&quot; అన్నాడు.
+అతను ఒక చిన్న కొమ్మని కొరికి, తన పట్టును పరీక్షించుకున్నాడు.
+బలమైన వెదురు కర్ర — అతని ముక్కుకు గట్టిగా తగిలింది.
+హంసలు హెచ్చరించాయి, &quot;గట్టిగా పట్టుకో, కానీ ఏ కారణం చేతనైనా ప్రయాణంలో నోరు తెరవకు!&quot;
+ఈ ప్రణాళిక పని చేసినా — మాటల మనిషి అయిన కచ్ఛపం నిశ్శబ్దంగా ఉండగలడా...?</p>
+<p>ఆకాశంలో ఎత్తుకు ఎగిరారు.
+కచ్ఛపం క్రింద ఉన్న ప్రపంచాన్ని చూసి — కళ్ళు పెద్దవి చేసుకున్నాడు.
+గాలి అతని శరీరంపై — ఈల వేసినట్లు దూసుకుపోయింది — ఇదివరకు ఎప్పుడూ వినని శబ్దం.
+ఆ అద్భుత దృశ్యాలను చూసి నోరు తెరవకుండా ఉండడం చాలా కష్టం అయ్యింది.
+అతని దవడ పట్టుకుని పట్టుకుని — నొప్పి పుట్టింది.
+&quot;కచ్ఛపం, మౌనంగా ఉండు... మనం దాదాపు చేరుకున్నాం,&quot; అని హంసలు గుర్తుచేశాయి.
+ఇంతలో కింద ఒక గ్రామం వచ్చింది — మనుషులు వాళ్ళని గమనించడం మొదలుపెట్టారు.</p>
+<p>కింద ఉన్న గ్రామస్తులు వాళ్ళని చూసి — వేళ్ళు చూపారు.
+&quot;చూడండి! ఆకాశంలో ఎగిరే మూర్ఖపు తాబేలు!&quot; అని వాళ్ళు ఎగతాళి చేశారు.
+మనుషుల నవ్వు శబ్దం — పైకి తేలి వినిపించింది.
+కచ్ఛపం కళ్ళు సన్నగా చేశాడు — తన గర్వం దెబ్బతిన్నది.
+హంసల హెచ్చరికను ఒక్క క్షణం మర్చిపోయాడు.
+అతను కింద వాళ్ళను తిట్టడానికి — ఒక్కసారిగా నోరు తెరిచాడు.
+అతను నోరు తెరిచాడు... ఇప్పుడు ఏం జరుగుతుంది...?</p>
+<p>నోరు తెరవగానే — కర్ర అతని పట్టు నుండి జారింది.
+ఒక్కసారిగా గాలి శబ్దం ఆగిపోయింది — భయంకరమైన నిశ్శబ్దం.
+కచ్ఛపం ఆకాశం నుండి కిందకు పడ్డాడు.
+అతని కళ్ళు పెద్దవిగా అయ్యాయి — భయంతో నిండిపోయాయి.
+హంసలు భయంతో చూస్తూ ఉండిపోయాయి.
+వాటి కేకలు గాలిలో కలిసిపోయాయి.
+&quot;అయ్యో! మిత్రమా!&quot; అని అవి అరిచాయి.
+గర్వం వల్ల కచ్ఛపం తన ప్రాణాలను కోల్పోయాడు.</p>
+<section class="seo-moral">
+<h2>నీతి</h2>
+<p>మిత్రుల మంచి మాట వినడం ఎప్పుడూ క్షేమం, కానీ మన గర్వం మన నోరు తెరిపిస్తే ప్రమాదంలో పడతాం.</p>
+</section>
+</article>
 </body>
 
 </html>

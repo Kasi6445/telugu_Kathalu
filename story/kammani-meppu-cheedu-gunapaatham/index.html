@@ -71,6 +71,7 @@
 </script>
 
 <!-- Site assets -->
+<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/manifest.json">
 <link rel="apple-touch-icon" href="/static/icon-192.png">
 <meta name="theme-color" content="#FF6B35">
@@ -91,9 +92,6 @@
 </head>
 
 <body class="slideshow-mode">
-
-  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
-  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
     <div id="bg-blur"></div>
@@ -228,7 +226,8 @@
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
-      textEl.innerHTML = '';
+      textEl.innerHTML  = '';
+      textEl.scrollTop  = 0;
       _wordSpans        = [];
       _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
       _currentWordIndex = -1;
@@ -279,12 +278,52 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
+      // Scroll active word into view within the subtitle container
+      const activeSpan = _wordSpans[idx];
+      const container  = document.getElementById('slide-text');
+      if (activeSpan && container) {
+        const spanRect = activeSpan.getBoundingClientRect();
+        const boxRect  = container.getBoundingClientRect();
+        if (spanRect.bottom > boxRect.bottom) {
+          container.scrollTop += Math.ceil(spanRect.bottom - boxRect.bottom) + 2;
+        }
+      }
     }
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
+    }
+
+    // Resize subtitle box to match the actual contain-fitted image bounds
+    function positionSubtitleForImage(sceneId) {
+      const preloaded = _preloadedImages && _preloadedImages[sceneId];
+      if (!preloaded) return;
+      const apply = () => {
+        const natW = preloaded.naturalWidth;
+        const natH = preloaded.naturalHeight;
+        if (!natW || !natH) return;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const imgAspect = natW / natH;
+        const vpAspect  = vw / vh;
+        let renderedW, imgLeft;
+        if (imgAspect > vpAspect) {
+          renderedW = vw;
+          imgLeft   = 0;
+        } else {
+          renderedW = vh * imgAspect;
+          imgLeft   = (vw - renderedW) / 2;
+        }
+        const pad = renderedW * 0.02;
+        const box = document.getElementById('subtitle-box');
+        box.style.left      = (imgLeft + pad) + 'px';
+        box.style.width     = (renderedW - pad * 2) + 'px';
+        box.style.transform = 'none';
+      };
+      if (preloaded.naturalWidth) apply();
+      else preloaded.addEventListener('load', apply, { once: true });
     }
 
     function seekToWord(wordIdx, sceneId) {
@@ -341,9 +380,6 @@
         story = await res.json();
         _defaultSpeed = story.defaultSpeed || 1.0;
         currentSpeed  = _defaultSpeed;
-
-        const _h1 = document.getElementById('story-h1');
-        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
@@ -411,6 +447,9 @@
 
         setupSwipeGesture();
         setupKeyboard();
+        window.addEventListener('resize', () => {
+          if (story) positionSubtitleForImage(story.scenes[currentIndex].id);
+        });
         showScene(0);
         storySetLang(storyLang);
 
@@ -440,6 +479,7 @@
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
+        positionSubtitleForImage(scene.id);
       }, 250);
 
       const textEl  = document.getElementById('slide-text');
@@ -886,6 +926,22 @@
     loadStory();
   </script>
 
+
+<article id="seo-story-body" lang="te">
+<p class="seo-category">పంచతంత్రం</p>
+<h1>కమ్మని మెప్పు, చేదు గుణపాఠం</h1>
+<p>ఒకనాడు, మన కాకి, పొద్దు పొడుస్తూనే — ఆహారం కోసం వెతుకుతోంది. దాని కళ్ళు చురుకుగా నేలంతా గాలించాయి, అప్పుడు దానికి ఒక ముక్క కనిపించింది. ఇదిగో, ఇక్కడ ఒక రొట్టె ముక్క! నేల మీద పడి ఉంది — పొడిపొడిగా, చిన్నగా. దాని ముక్కుతో జాగ్రత్తగా తీసింది — ఆకలితో దాని కడుపు కేకలు వేస్తోంది. దాని రెక్కలు సంతోషంతో రెపరెపలాడాయి, &quot;అబ్బా! ఈరోజు ఆకలి తీరుతుంది!&quot; అని మనసులో అనుకుంది. కానీ, ఈ రొట్టెను ఎక్కడ కూర్చుని తింటే సురక్షితం...?</p>
+<p>ఆ రొట్టె ముక్కను పట్టుకుని, కాకి అమాంతం పైకి ఎగిరింది. ఊరి చివర ఉన్న పెద్ద మర్రి చెట్టు కొమ్మ మీద — అది సురక్షితంగా కూర్చుంది. తలను పక్కకు వాల్చి, ఆ ముక్కను తినబోతుండగా, ఒక కదలిక కనిపించింది. కింద, ఆకుల సవ్వడి చేస్తూ, ఒక నక్క అటుగా వస్తోంది — దాని కళ్ళు మెరుస్తున్నాయి. నక్క పైకి చూసింది... అప్పుడే కాకి నోటిలో రొట్టె ముక్క. &quot;ఆహా! చక్కటి భోజనం!&quot; అని మనసులో అనుకుంది — ఇప్పుడు ఏం చేయాలి?</p>
+<p>కాకిని చూసిన నక్క, మెల్లగా మర్రి చెట్టు కిందకు వచ్చింది. చెట్టు కొమ్మల నుండి పండిన అత్తి పండ్ల వాసన — గాలిలో గుప్పుమంది. నక్క మెల్లగా తల పైకెత్తి, కాకితో మాట్లాడసాగింది — &quot;ఓ అందమైన కాకి! నీ ఈకలు ఎంత మెరుస్తున్నాయో!&quot; &quot;నీ దర్జా చూడు — ఎంత గొప్పగా ఉన్నావో!&quot; అని పొగడసాగింది. మన కాకికి కాస్త వింతగా అనిపించినా — దాని గుండె ఉప్పొంగింది, ఛాతీ కొంచెం ముందుకు వచ్చింది. కానీ, పిల్లలూ, ఈ పొగడ్తలకు కాకి లొంగిపోతుందా...?</p>
+<p>నక్క మాటలకు కాకికి గర్వం తలకెక్కింది — అది ఆనందంగా కొమ్మను గట్టిగా పట్టుకుంది. కానీ, దాని ముక్కులో రొట్టె ముక్కను — ఇంకా గట్టిగా నొక్కుకుంది. దాని కాలి గోళ్ళ కింద, ఆ మర్రి చెట్టు బెరడు — గరుకుగా, గట్టిగా ఉంది. ఒక్క క్షణం ఆలోచించింది... ఆకలి గుర్తుంది. మెల్లగా &quot;కవ్...&quot; అని చిన్నగా శబ్దం చేసింది — ప్రశ్నార్థకంగా. ఇంత జాగ్రత్తగా ఉన్న కాకిని, నక్క ఎలా దారి మళ్ళిస్తుంది?</p>
+<p>కాకి సందేహంగా ఉండటం చూసి, నక్క తన ఉపాయం మార్చింది. మర్రి చెట్టు మొదలు వైపు, ఆకుల మీద చిన్న అడుగు వేసింది — &quot;ఖచ్&quot; మని శబ్దం. &quot;ఓ దేవకాకి! నీ కంఠం వినడానికి దేవతలు కూడా ఎదురు చూస్తారు! ఒక్కసారి పాడవా?&quot; అని వేడుకుంది. కాకి కళ్ళు రొట్టె ముక్క వైపు, నక్క వైపు పదే పదే చూశాయి — దాని శరీరం చిన్నగా వణికింది. పొగడ్తకు లొంగిపోవాలా, జాగ్రత్తగా ఉండాలా... దాని తెలివిని, ఈసారి పొగడ్త జయిస్తుందా...?</p>
+<p>నక్క మాటలకు మన కాకికి — గర్వం అమాంతం పెరిగిపోయింది. తన గొప్ప గొంతును లోకానికి చాటాలని — అది తల పైకెత్తింది. ఛాతీ ఉప్పొంగింది, నోరు తెరిచింది — ఒక &#x27;కా...&#x27; అన్న శబ్దం బయటకు వచ్చింది. కానీ పూర్తిగా పాడకముందే — దాని నోటిలో ఉన్న రొట్టె ముక్క. కింద పడింది... &quot;ధప్&quot; మని, దుమ్ములో కలిసిపోయింది. ఆ క్షణంలో, నక్క ఏం చేస్తుందో తెలుసా...?</p>
+<p>రొట్టె ముక్క కింద పడగానే, నక్క ఒక్క దూకు దూకింది. దానిని నోట కరుచుకుని — &quot;ధన్యవాదాలు, సుందర కాకి!&quot; అంది. క్షణమైనా ఆలస్యం చేయకుండా, అది పరుగు లంకించుకుంది — పొడి నేల మీద &quot;ఖస్ ఖస్&quot; మని అడుగులు. దూరంగా, ఆ నక్క అడుగుల చప్పుడు — నెమ్మదిగా కలిసిపోయింది. కాకి తల వంచుకుంది — దాని రెక్కలు చిన్నగా వేలాడాయి, ఆకలి తీరలేదు. అది అప్పుడు తెలివైన గుణపాఠం నేర్చుకుంది, కదూ?</p>
+<section class="seo-moral">
+<h2>నీతి</h2>
+<p>పిల్లలూ, మనసు పెట్టి ఆలోచిస్తే, పొగడ్తలకు లొంగిపోకుండా ఉంటే, మన సొంతం మనం కాపాడుకోవచ్చు.</p>
+</section>
+</article>
 </body>
 
 </html>

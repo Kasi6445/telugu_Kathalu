@@ -71,6 +71,7 @@
 </script>
 
 <!-- Site assets -->
+<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/manifest.json">
 <link rel="apple-touch-icon" href="/static/icon-192.png">
 <meta name="theme-color" content="#FF6B35">
@@ -91,9 +92,6 @@
 </head>
 
 <body class="slideshow-mode">
-
-  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
-  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
     <div id="bg-blur"></div>
@@ -228,7 +226,8 @@
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
-      textEl.innerHTML = '';
+      textEl.innerHTML  = '';
+      textEl.scrollTop  = 0;
       _wordSpans        = [];
       _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
       _currentWordIndex = -1;
@@ -279,12 +278,52 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
+      // Scroll active word into view within the subtitle container
+      const activeSpan = _wordSpans[idx];
+      const container  = document.getElementById('slide-text');
+      if (activeSpan && container) {
+        const spanRect = activeSpan.getBoundingClientRect();
+        const boxRect  = container.getBoundingClientRect();
+        if (spanRect.bottom > boxRect.bottom) {
+          container.scrollTop += Math.ceil(spanRect.bottom - boxRect.bottom) + 2;
+        }
+      }
     }
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
+    }
+
+    // Resize subtitle box to match the actual contain-fitted image bounds
+    function positionSubtitleForImage(sceneId) {
+      const preloaded = _preloadedImages && _preloadedImages[sceneId];
+      if (!preloaded) return;
+      const apply = () => {
+        const natW = preloaded.naturalWidth;
+        const natH = preloaded.naturalHeight;
+        if (!natW || !natH) return;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const imgAspect = natW / natH;
+        const vpAspect  = vw / vh;
+        let renderedW, imgLeft;
+        if (imgAspect > vpAspect) {
+          renderedW = vw;
+          imgLeft   = 0;
+        } else {
+          renderedW = vh * imgAspect;
+          imgLeft   = (vw - renderedW) / 2;
+        }
+        const pad = renderedW * 0.02;
+        const box = document.getElementById('subtitle-box');
+        box.style.left      = (imgLeft + pad) + 'px';
+        box.style.width     = (renderedW - pad * 2) + 'px';
+        box.style.transform = 'none';
+      };
+      if (preloaded.naturalWidth) apply();
+      else preloaded.addEventListener('load', apply, { once: true });
     }
 
     function seekToWord(wordIdx, sceneId) {
@@ -341,9 +380,6 @@
         story = await res.json();
         _defaultSpeed = story.defaultSpeed || 1.0;
         currentSpeed  = _defaultSpeed;
-
-        const _h1 = document.getElementById('story-h1');
-        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
@@ -411,6 +447,9 @@
 
         setupSwipeGesture();
         setupKeyboard();
+        window.addEventListener('resize', () => {
+          if (story) positionSubtitleForImage(story.scenes[currentIndex].id);
+        });
         showScene(0);
         storySetLang(storyLang);
 
@@ -440,6 +479,7 @@
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
+        positionSubtitleForImage(scene.id);
       }, 250);
 
       const textEl  = document.getElementById('slide-text');
@@ -886,6 +926,22 @@
     loadStory();
   </script>
 
+
+<article id="seo-story-body" lang="te">
+<p class="seo-category">రామాయణం</p>
+<h1>సీతమ్మ పవిత్రత పరీక్ష</h1>
+<p>అయోధ్యకు తిరిగి వచ్చిన సీతమ్మ మనసు ఆనందంతో నిండిపోయింది. తన చేతులతోనే పూలమాల కడుతోంది — మల్లెపూల పరిమళం అంతటా నిండింది. ఆమె పెదవుల మీద ఒక చిరునవ్వు మెరిసింది. &quot;ఈ రోజు నిజంగా ఒక వరం,&quot; అనుకుంది సీతమ్మ, కళ్ళలో భక్తి మెరుస్తూ. ఎన్నో కష్టాలు దాటి, ఇప్పుడు తన రాముడి చెంత ఉంది. ఇంతటి ప్రశాంతత తర్వాత — ఇంకేం జరగబోతోంది?</p>
+<p>సీతమ్మ మనసు ఆనందంలో ఉండగా, సభలో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. చూశావా పిల్లలూ, ఆ ఉత్సాహం అంతా ఒక్క క్షణంలో ఆవిరైంది — గాలి కూడా భారీగా అనిపించింది. రామచంద్రుడు తన ప్రజల వైపు చూసి, ఒక కఠినమైన మాట అన్నాడు. సీతమ్మ కళ్ళు చెమ్మగిల్లాయి, కానీ కన్నీళ్లు రాలనీయలేదు. &quot;జననీ, నీ స్వచ్ఛతను నిరూపించుకోవాలి&quot; అని రాముడు గంభీరంగా పలికాడు. అప్పటికే ఎన్నో కష్టాలు చూసిన సీతమ్మ — తన పవిత్రతను ఎలా నిరూపించుకోగలదు?</p>
+<p>రాముడి మాటలతో సీతమ్మ గుండె బద్దలైనట్లు అనిపించింది, కానీ ఆమె ముఖంలో ధైర్యం మెరిసింది. చేతులు కొద్దిగా వణుకుతున్నా, చూపు మాత్రం స్థిరంగా ఉంది. ఆమె లక్ష్మణుడి వైపు తిరిగి, ఒక అగ్నికుండం సిద్ధం చేయమని కోరింది. లక్ష్మణుడు భయంతో కలత పడ్డా, ఆజ్ఞను పాటించాడు — కట్టెలు పేర్చినప్పుడు చటపట శబ్దం చేసింది. &quot;నా పవిత్రత నా బలం&quot; అని సీతమ్మ గట్టిగా అంది. ఇప్పుడు, ఆ అగ్నిజ్వాలల వైపు సీతమ్మ అడుగులు వేయబోతోంది... ఏం జరుగుతుంది?</p>
+<p>అగ్నికుండం సిద్ధమైంది. సీతమ్మ ఆ జ్వాలల ముందు నిలబడింది — ఆమె ముఖంలో ప్రశాంతత, భక్తి తాండవించాయి. అప్పటికే ఆ మంటల నుండి ఒక వెచ్చని సెగ మెల్లగా వీస్తోంది, అది ఇంకా వేడిగా లేదు. తన కళ్ళు మూసుకుని, మనసులో అగ్నిదేవుడికి ప్రార్థించింది. &quot;నా మనసు రామచంద్రునిపై తప్ప మరెవరిపైనా లేదు&quot; అని తనలో తాను చెప్పుకుంది. ఆమె ప్రార్థన వినబడుతుందా... ఆ అగ్ని ఆమె స్వచ్ఛతకు ఎలా స్పందిస్తుంది?</p>
+<p>సీతమ్మ అగ్నిజ్వాలల్లోకి అడుగు పెట్టింది. ఒక్కసారిగా అందరూ నిట్టూర్చారు. కానీ ఏం ఆశ్చర్యం! అగ్ని ఆమెను తాకలేదు. బదులుగా — ఒక చల్లని గాలి మెల్లగా ఆమె చీరను కదిపింది, తామర పూల సువాసన మోసుకొచ్చింది. ఆమె ముఖం మీద ఒక ప్రశాంతమైన చిరునవ్వు విరిసింది. &quot;ఇది అగ్ని కాదు, ఒక దేవాలయం!&quot; అని సీతమ్మ ఆశ్చర్యంతో పలికింది. ఆ క్షణంలోనే దివ్యమైన కాంతి వెలిగింది. అగ్నిదేవుడు సీతమ్మ నిజం చాటడానికి ఏ రూపంలో వస్తాడు?</p>
+<p>అదే క్షణంలో — అగ్నికుండం నుండి అగ్నిదేవుడు స్వయంగా పైకి వచ్చాడు. ఆయన ప్రకాశం కళ్ళకు మిరుమిట్లు గొలిపింది, కానీ వెచ్చగా, ఓదార్పునిచ్చేలా ఉంది. సీతమ్మను తన చేతుల్లో సున్నితంగా పట్టుకుని, సభలో అందరికీ చూపించాడు. &quot;ఈమె స్వచ్ఛత సూర్యచంద్రులంత నిజం!&quot; అని అగ్నిదేవుడు గంభీరంగా ప్రకటించాడు. సీతమ్మ కళ్ళలో కృతజ్ఞత నిండింది, పెదవుల మీద ప్రశాంతమైన చిరునవ్వు. ఈ దైవ ప్రకటనకు రామచంద్రుడు ఎలా స్పందిస్తాడు... అయోధ్య ప్రజలు ఏం చేస్తారు?</p>
+<p>అగ్నిదేవుడి మాటలు విన్న రాముడు — సీతమ్మ వైపు పరుగున వచ్చాడు. ఆమెను ప్రేమగా దగ్గరకు తీసుకున్నాడు, తన కళ్ళలో ఆనంద బాష్పాలు. &quot;నీ ప్రేమ, త్యాగం నాకు తెలుసు&quot; అని రాముడు మెల్లగా అన్నాడు. ఆ క్షణంలో అయోధ్య అంతా కోలాహలంగా మారింది. వేల మంది ప్రజల చప్పట్లు, జయజయధ్వానాలు నగరం అంతటా మారుమోగాయి. ధర్మం గెలిచిందని అందరూ సంబరపడ్డారు. చూశావా పిల్లలూ, సత్యం ఎప్పుడూ గెలుస్తుంది!</p>
+<section class="seo-moral">
+<h2>నీతి</h2>
+<p>మనసు స్వచ్ఛంగా, నిజాయితీగా ఉంటే, ఏ కష్టం వచ్చినా మన ధైర్యం, మంచితనం బయటపడతాయి.</p>
+</section>
+</article>
 </body>
 
 </html>

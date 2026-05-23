@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -71,6 +71,7 @@
 </script>
 
 <!-- Site assets -->
+<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/manifest.json">
 <link rel="apple-touch-icon" href="/static/icon-192.png">
 <meta name="theme-color" content="#FF6B35">
@@ -91,9 +92,6 @@
 </head>
 
 <body class="slideshow-mode">
-
-  <!-- Visually hidden h1 for SEO — updated with real title once story JSON loads -->
-  <h1 id="story-h1" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">తెలుగు కథ</h1>
 
   <div id="slideshow">
     <div id="bg-blur"></div>
@@ -176,8 +174,6 @@
     let _wordSpans        = [];
     let _wordOffsets      = []; // estimated start-time (seconds) per word
     let _currentWordIndex = -1;
-    let _speechOnsets     = {}; // sceneId -> detected speech onset (seconds)
-    let _onsetAC          = null; // shared AudioContext for onset detection
 
     const CATEGORIES = {
       neeti:        { te: 'నీతి కథలు',   en: 'Moral Stories'   },
@@ -227,34 +223,11 @@
       }).length);
     }
 
-    // Measure how many seconds of silence precede the first audible word in an MP3.
-    // Uses Web Audio API to decode the cached audio buffer; runs async and caches result.
-    async function detectSpeechOnset(sceneId, audioSrc) {
-      if (sceneId in _speechOnsets) return; // already done or in-flight
-      _speechOnsets[sceneId] = null;        // null = in-progress; trackAudioProgress waits on this
-      try {
-        if (!_onsetAC) _onsetAC = new (window.AudioContext || window.webkitAudioContext)();
-        const resp = await fetch(audioSrc);
-        const ab   = await resp.arrayBuffer();
-        const buf  = await _onsetAC.decodeAudioData(ab);
-        const ch   = buf.getChannelData(0);
-        const WIN  = Math.floor(buf.sampleRate * 0.02); // 20ms analysis window
-        const THR  = 0.008;                             // RMS loudness threshold
-        let onset  = 0;
-        for (let i = 0; i < ch.length; i += WIN) {
-          const end = Math.min(i + WIN, ch.length);
-          let sq = 0;
-          for (let j = i; j < end; j++) sq += ch[j] * ch[j];
-          if (Math.sqrt(sq / (end - i)) > THR) { onset = i / buf.sampleRate; break; }
-        }
-        _speechOnsets[sceneId] = onset;
-      } catch(e) { _speechOnsets[sceneId] = 0; } // fallback: treat as no leading silence
-    }
-
     // Split text into clickable word spans, wired up for click-to-seek
     function renderWordSpans(text, sceneId) {
       const textEl = document.getElementById('slide-text');
-      textEl.innerHTML = '';
+      textEl.innerHTML  = '';
+      textEl.scrollTop  = 0;
       _wordSpans        = [];
       _wordOffsets      = [];   // always cleared here — recomputed on first timeupdate
       _currentWordIndex = -1;
@@ -278,12 +251,11 @@
     }
 
     // Proportional timing based on grapheme clusters (syllable-accurate for Telugu).
-    // speechOnset: seconds of detected leading silence — shifts all offsets forward
-    // so word 0 highlights when speech actually starts, not at t=0.
-    function computeWordOffsets(duration, text, speechOnset = 0) {
-      const LEAD  = Math.max(speechOnset, 0);
-      const TRAIL = Math.min(0.3, duration * 0.04);
-      const span  = Math.max(duration * 0.5, duration - LEAD - TRAIL);
+    // LEAD accounts for ~0.3s of silence Chirp3-HD voices always have at the start.
+    function computeWordOffsets(duration, text) {
+      const LEAD  = Math.min(0.3, duration * 0.1);
+      const TRAIL = 0.4;
+      const span  = Math.max(duration - LEAD - TRAIL, duration * 0.6);
       const words = text.match(/\S+/g) || [];
       const sizes = words.map(w => graphemeCount(w));
       const total = sizes.reduce((a, b) => a + b, 0) || 1;
@@ -306,13 +278,52 @@
         s.classList.toggle('spoken', i < idx);
       });
       _currentWordIndex = idx;
-      _wordSpans[idx].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      // Scroll active word into view within the subtitle container
+      const activeSpan = _wordSpans[idx];
+      const container  = document.getElementById('slide-text');
+      if (activeSpan && container) {
+        const spanRect = activeSpan.getBoundingClientRect();
+        const boxRect  = container.getBoundingClientRect();
+        if (spanRect.bottom > boxRect.bottom) {
+          container.scrollTop += Math.ceil(spanRect.bottom - boxRect.bottom) + 2;
+        }
+      }
     }
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
+    }
+
+    // Resize subtitle box to match the actual contain-fitted image bounds
+    function positionSubtitleForImage(sceneId) {
+      const preloaded = _preloadedImages && _preloadedImages[sceneId];
+      if (!preloaded) return;
+      const apply = () => {
+        const natW = preloaded.naturalWidth;
+        const natH = preloaded.naturalHeight;
+        if (!natW || !natH) return;
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        const imgAspect = natW / natH;
+        const vpAspect  = vw / vh;
+        let renderedW, imgLeft;
+        if (imgAspect > vpAspect) {
+          renderedW = vw;
+          imgLeft   = 0;
+        } else {
+          renderedW = vh * imgAspect;
+          imgLeft   = (vw - renderedW) / 2;
+        }
+        const pad = renderedW * 0.02;
+        const box = document.getElementById('subtitle-box');
+        box.style.left      = (imgLeft + pad) + 'px';
+        box.style.width     = (renderedW - pad * 2) + 'px';
+        box.style.transform = 'none';
+      };
+      if (preloaded.naturalWidth) apply();
+      else preloaded.addEventListener('load', apply, { once: true });
     }
 
     function seekToWord(wordIdx, sceneId) {
@@ -324,7 +335,7 @@
         const txt = storyLang === 'en' && sc.text_en ? sc.text_en
           : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
           : (sc.text || '');
-        computeWordOffsets(audio.duration, txt, _speechOnsets[sceneId] || 0);
+        computeWordOffsets(audio.duration, txt);
       }
       if (wordIdx >= _wordOffsets.length) return;
       audio.currentTime = _wordOffsets[wordIdx];
@@ -358,7 +369,6 @@
     async function loadStory() {
       const urlParam = getUrlParam();
       if (!urlParam) { window.location.href = '/'; return; }
-      _speechOnsets    = {}; // clear previous story's onset cache
       _preloadedImages = {}; // clear previous story's image cache
 
       try {
@@ -370,9 +380,6 @@
         story = await res.json();
         _defaultSpeed = story.defaultSpeed || 1.0;
         currentSpeed  = _defaultSpeed;
-
-        const _h1 = document.getElementById('story-h1');
-        if (_h1) _h1.textContent = story.title;
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
@@ -412,7 +419,7 @@
           audio.onended = () => {
             isPlaying = false;
             updatePlayBtn();
-            setTimeout(() => nextScene(), 50);
+            setTimeout(() => nextScene(), 800);
           };
           document.body.appendChild(audio);
         });
@@ -440,6 +447,9 @@
 
         setupSwipeGesture();
         setupKeyboard();
+        window.addEventListener('resize', () => {
+          if (story) positionSubtitleForImage(story.scenes[currentIndex].id);
+        });
         showScene(0);
         storySetLang(storyLang);
 
@@ -469,6 +479,7 @@
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
+        positionSubtitleForImage(scene.id);
       }, 250);
 
       const textEl  = document.getElementById('slide-text');
@@ -499,10 +510,6 @@
       });
       trackAudioProgress(index);
 
-      // Start speech-onset detection early so offsets are ready by first timeupdate
-      const _oa = document.getElementById(`audio-${scene.id}`);
-      if (_oa) detectSpeechOnset(scene.id, _oa.src);
-
       preloadNextAudio(index);
 
       _playTimeout = setTimeout(() => { _playTimeout = null; playCurrentScene(); }, 150);
@@ -513,7 +520,6 @@
       const nextScene = story.scenes[currentIdx + 1];
       const audio = document.getElementById(`audio-${nextScene.id}`);
       if (audio && audio.readyState < 2) audio.load();
-      if (audio) detectSpeechOnset(nextScene.id, audio.src);
     }
 
     let _tlHandler = null;
@@ -533,18 +539,13 @@
         const pct  = (audio.currentTime / audio.duration) * 100;
         const fill = document.getElementById(`tl-fill-${index}`);
         if (fill) { fill.style.transition = 'width 0.25s linear'; fill.style.width = pct + '%'; }
-        // Compute word offsets once spans are ready and duration is known.
-        // Wait for onset detection (up to 0.4s of playback), then fallback to 0.
+        // Compute word offsets once spans are ready and duration is known
         if (!_wordOffsets.length && _wordSpans.length) {
-          const sc    = story.scenes[index];
-          const onset = _speechOnsets[sc.id];
-          // null = detection in-progress; wait up to 0.5s of playback then fall back to 0
-          const ready = (onset !== null && onset !== undefined) || (audio.currentTime > 0.5);
-          if (!ready) return;
+          const sc  = story.scenes[index];
           const txt = storyLang === 'en' && sc.text_en ? sc.text_en
             : storyLang === 'te_en' && sc.text_te_en ? sc.text_te_en
             : (sc.text || '');
-          computeWordOffsets(audio.duration, txt, onset || 0);
+          computeWordOffsets(audio.duration, txt);
         }
         highlightWordAtTime(audio.currentTime);
       };
@@ -559,8 +560,7 @@
       audio.muted        = isMuted;
       audio.playbackRate = currentSpeed;
 
-      const onset = _speechOnsets[scene.id];
-      audio.currentTime = (onset && onset > 0.1) ? Math.max(0, onset - 0.05) : 0;
+      audio.currentTime = 0;
 
       audio.play().then(() => {
         isPlaying = true;
@@ -926,6 +926,22 @@
     loadStory();
   </script>
 
+
+<article id="seo-story-body" lang="te">
+<p class="seo-category">తెనాలి రామ</p>
+<h1>తెనాలి రాముడి తెలివి గుట్టు</h1>
+<p>ఒకరోజు మధ్యాహ్నం, విజయ నగర సామ్రాజ్యంలో — మహారాజు కృష్ణదేవరాయలు తన సింహాసనంపై గర్వంగా కూర్చున్నారు. ఆయన ఛాతీ ముందుకు ఉబ్బింది, కళ్ళు మెరుస్తున్నాయి. సభ నిశ్శబ్దంగా ఉంది, మంత్రుల మెడల్లో మల్లెపూల దండల సువాసన ఘాటుగా అలుముకుంది. రాజు గంభీర స్వరంతో సభను చూస్తూ అడిగాడు, &quot;ఈ ప్రపంచంలో నాకంటే జ్ఞాని ఎవరైనా ఉన్నారా? ఉంటే నిరూపించండి!&quot; ఆయన మాటలకు సభ అంతా నిశ్చేష్టులయ్యింది. ఇంతటి అహంకారి రాజును సవాలు చేసే ధైర్యం ఎవరికి ఉంటుంది?</p>
+<p>రాజు గారు సభలోని భయపడిన ముఖాలను చూసి — ఒక చిరునవ్వు నవ్వారు. ఆయన పెదవులపై ఎగతాళి స్పష్టంగా కనిపించింది. ఆ హాలులో ఘనమైన నిశ్శబ్దం అలముకుంది, కేవలం తాటాకు విసనకర్ర మెల్లని చప్పుడు మాత్రమే వినిపిస్తోంది. రాజు గంభీరంగా ప్రకటించాడు, &quot;ఓడిపోయిన వారికి, ఒక సంవత్సరం పాటు ఏనుగుల శాలను శుభ్రపరిచే శిక్ష!&quot; ఆ శిక్ష గురించి తెలిసిన తర్వాత — ఇంకెవరైనా సవాలు చేయడానికి ధైర్యం చేస్తారా?</p>
+<p>అయినా, ఒక పేరున్న పండితుడు ధైర్యం చేసి ముందుకు వచ్చాడు. రాజు అడిగిన ప్రతీ ప్రశ్నకు సమాధానం చెప్పలేక, చివరికి తల వంచాడు. ఆయన భుజాలు వాలిపోయాయి, రాజు ముందు తల దించి నిలబడ్డాడు. &quot;మహారాజా, మీ జ్ఞానం అపారం. నేను ఓడిపోయాను,&quot; అంటూ మెల్లగా పలికాడు. ఆ పండితుని తోలు చెప్పుల చప్పుడు, రాతి నేల మీద — మెల్లగా దూరంగా వెళ్ళిపోయింది. పిల్లలూ, ఇంత గొప్ప పండితుడే ఓడిపోతే, రాజు అహంకారాన్ని తగ్గించడం ఇంకెవరికైనా సాధ్యమా?</p>
+<p>సభ నిశ్శబ్దంగా ఉండగా, ఇంతలో తెనాలి రామకృష్ణుడు లోపలికి వచ్చాడు. అతని చేతిలో ఒక పాత మట్టి కుండ, దానిపై గుడ్డ కప్పి ఉంది. రాజును చూడకుండా, కళ్ళు కిందకి దించి, వణుకుతున్న చేతులతో — ఆ కుండను గట్టిగా పట్టుకున్నాడు. తెనాలి వేళ్ళకు ఆ మట్టి కుండ గరుకుదనం స్పష్టంగా తగిలింది. అతను భయంగా, వణుకుతున్న స్వరంతో అన్నాడు, &quot;ప్రభూ... నాదొక చిన్న, మూర్ఖపు సందేహం. అడగాలంటేనే భయంగా ఉంది.&quot; ఆ మామూలు కుండలో ఏముందో, తెనాలి ఎందుకు అంత భయపడుతున్నాడో మీకు తెలుసా?</p>
+<p>తెనాలి భయాన్ని చూసి రాజు గారు నవ్వారు, ఆయనకు నవ్వు ఆగలేదు. సింహాసనంపై వెనక్కి జారి, నిర్లక్ష్యంగా చేయి ఊపారు. ఆ క్షణంలో — రాజు చేతికున్న ఉంగరాల మెరుపు సభ అంతా వ్యాపించింది. &quot;రామకృష్ణా, భయపడకు! నీ పిచ్చి ప్రశ్న ఏదో అడుగు, శిక్ష వేయనులే,&quot; అని గట్టిగా చెప్పారు. రాజు శిక్ష వేయనని హామీ ఇచ్చాడు కదా, మరి తెనాలి ఇప్పుడు ఎలాంటి అసాధ్యమైన ప్రశ్న అడుగుతాడు?</p>
+<p>తెనాలి మెల్లగా ఆ గుడ్డ తీశాడు, కుండను రాజు ముందు పెట్టాడు. రాజు కళ్ళలోకి చూస్తూ, తన శిఖను తడుముకుంటూ తెలివిగా అడిగాడు, &quot;మహారాజా, ఇప్పుడు నేను ఈ కుండలో నా తల పెట్టబోతున్నానా లేక మీ తల పెట్టబోతున్నానా?&quot; రాజు ఒక్కసారిగా నిశ్చేష్టుడయ్యాడు — కళ్ళు పెద్దవి చేసుకున్నాడు, నోరు కొద్దిగా తెరుచుకుంది. ఆయనకు మాట రాలేదు. రాజు నుదుటి నుండి ఒక చెమట బిందువు — మెల్లగా కిందికి జారింది. అసలు సరైన సమాధానం లేని ఈ ప్రశ్నకు రాజు ఎలా బదులిస్తాడు?</p>
+<p>ఒక దీర్ఘమైన నిశ్శబ్దం తర్వాత, రాజు ఒక్కసారిగా పెద్దగా నవ్వడం మొదలుపెట్టాడు. ఆయన నవ్వు సభ అంతా ప్రతిధ్వనించింది, గోడలకు తగిలి తిరిగి వచ్చింది. రాజు చేతులు చరుస్తూ, తెనాలిని చూసి అన్నాడు, &quot;రామా! నీ తెలివి నా అహంకారాన్ని ఓడించింది. ఈ బహుమతి నీకే సొంతం!&quot; తెనాలి తెలివి, రాజుకు తన పరిమితులు, వివేకం యొక్క గొప్పతనం గురించి ఒక గొప్ప పాఠం నేర్పింది.</p>
+<section class="seo-moral">
+<h2>నీతి</h2>
+<p>తెలివైన మాటతో, గంభీరమైన శిక్ష కన్నా గొప్ప పాఠం నేర్పించవచ్చు కదా.</p>
+</section>
+</article>
 </body>
 
 </html>
