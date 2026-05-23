@@ -1,0 +1,97 @@
+{
+  "title": "చిన్నారి రాజు తెలివి — పెద్దపులి గుట్టు",
+  "moral": "చిన్నవారైనా, నిశ్శబ్దంగా ఉన్నవారైనా, తమకు ప్రియమైన వాటిని కాపాడటానికి అద్భుతమైన ధైర్యాన్ని, తెలివిని ప్రదర్శించగలరు.",
+  "main_character": "Raju, a small, agile shepherd boy, around 10 years old. He has bright, curious eyes and a quick smile. He knows every path and every animal sound in the forest, usually joyful but becomes serious when his home is threatened. Always the same character across every scene.",
+  "antagonist": "A large, old, and cunning tiger named 'Peddapuli' (Big Tiger). Its fur is dark orange with unusually wide black stripes. It has one torn ear and a piercing, intelligent gaze, moving with silent, powerful grace. Always the same character across every scene.",
+  "setting": "A small, vibrant village nestled at the edge of the Nallamala Forest in Andhra Pradesh. Mud-brick houses with thatched roofs, a central banyan tree, and a winding dirt path leading into the dense, green jungle. Early morning light often filters through the trees, casting long shadows. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవి అంచున ఉన్న పల్లెటూరులో, రాజు అనే పదేళ్ళ కుర్రాడు ఉండేవాడు. ఉదయాన్నే ఆ అడవిలో నుంచి వచ్చే వెచ్చని మట్టి సువాసన, వికసించిన మల్లెల పరిమళం అతని ముక్కుపుటాల నిండా నిండిపోయింది. రాజు తన గొర్రెల మందను అలవాటైన అటవీ మార్గంలో తీసుకెళ్తూ, పెదవుల మీద చిరునవ్వుతో మెల్లగా ఓ పాట పాడుకుంటున్నాడు. \"చల్, చల్, గొర్రెలు! అడవి తల్లి మనకు ఆశ్రయం!\" అని వాటిని ముందుకు నడిపించాడు. అతని కళ్ళు ఉత్సాహంతో మెరిశాయి. — ఈరోజు రాజుకి తన ప్రియమైన అడవిలో ఇంకేం కొత్త సాహసం ఎదురు కానుందో?",
+      "image_prompt": "The boy walks along an accustomed forest path, gently guiding his flock of sheep forward. A soft smile plays on his lips as he hums a song, and his eyes sparkle with enthusiasm. Soft, dappled morning sunlight filtering through dense green canopy, creating patches of warm light and cool shadow on the forest floor.",
+      "scene_visual": "The boy walks along an accustomed forest path, gently guiding his flock of sheep forward. A soft smile plays on his lips as he hums a song, and his eyes sparkle with enthusiasm.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Adavi Anchuna Unna Palleturulo, Raaju Ane Padella Kurraadu Undevaadu. Udayaanne Aa Adavilo Nunchi Vachche Vechchani Matti Suvaasana, Vikasinchina Mallela Parimalam Atani Mukkuputaala Nindaa Nindipoyindi. Raaju Tana Gorrela Mandanu Alavaataina Atavi Maarganlo Tisukeltu, Pedavula Mida Chirunavvuto Mellagaa O Paata Paadukuntunnaadu. \"Chal, Chal, Gorrelu! Adavi Talli Manaku Aashrayan!\" Ani Vaatini Munduku Nadipinchaadu. Atani Kallu Utsaahanto Merishaayi. — Iroju Raajuki Tana Priyamaina Adavilo Inkem Kotta Saahasam Eduru Kaanundo?",
+      "text_en": "In a village on the edge of the Nallamala forest lived a ten-year-old boy named Raju. In the morning, the warm earthy smell from the forest and the fragrance of blooming jasmine filled his nostrils. Raju was leading his flock of sheep along the familiar forest path, humming a soft song with a smile on his lips. \"Go, go, sheep! Mother forest is our shelter!\" he urged them forward. His eyes sparkled with excitement. — What new adventure awaited Raju in his beloved forest today?"
+    },
+    {
+      "id": 2,
+      "text": "రాజు తన గొర్రెలను ఇంటికి తోలుకువస్తుండగా, పల్లెలోని పెద్దల గుసగుసలు వినిపించాయి. పల్లె బావి దగ్గర కనిపించిన పెద్దపులి పాదముద్రల గురించి వారు ఆందోళనగా మాట్లాడుకుంటున్నారు. వారి గుసగుసలు ఒకరకమైన ఉత్కంఠను సృష్టించాయి. రాజు నుదురు ముడిచి, చెవులు రిక్కించి విన్నాడు. అదొక పెద్దపులి అడుగులట! \"ఆ పెద్దపులి మామూలుది కాదు, రాజు. దాని అడుగులు చూశావా?\" అని ఒక పెద్దాయన భయంగా అన్నాడు. రాజు అడవి వైపు ఆందోళనగా చూశాడు. — ఈ కొత్త పెద్దపులి రాజు ప్రశాంతమైన పల్లెకు ముప్పు తేనుందా?",
+      "image_prompt": "The boy furrows his brow and pricks up his ears, listening intently to the worried whispers of the village elders. He then turns his gaze towards the forest with a look of concern on his face. Harsh, bright midday sun beating down on the dusty village square, casting sharp shadows, reflecting the villagers' agitation.",
+      "scene_visual": "The boy furrows his brow and pricks up his ears, listening intently to the worried whispers of the village elders. He then turns his gaze towards the forest with a look of concern on his face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Tana Gorrelanu Intiki Tolukuvastundagaa, Palleloni Peddala Gusagusalu Vinipinchaayi. Palle Baavi Daggara Kanipinchina Peddapuli Paadamudrala Gurinchi Vaaru Aandolanagaa Maatlaadukuntunnaaru. Vaari Gusagusalu Okarakamaina Utkanthanu Srrishtinchaayi. Raaju Nuduru Mudichi, Chevulu Rikkinchi Vinnaadu. Adoka Peddapuli Adugulata! \"Aa Peddapuli Maamuludi Kaadu, Raaju. Daani Adugulu Chushaavaa?\" Ani Oka Peddaayana Bhayangaa Annaadu. Raaju Adavi Vaipu Aandolanagaa Chushaadu. — I Kotta Peddapuli Raaju Prashaantamaina Palleku Muppu Tenundaa?",
+      "text_en": "As Raju was bringing his sheep home, he heard the whispers of the village elders. They were anxiously talking about tiger paw prints seen near the village well. Their whispers created a sense of suspense. Raju frowned and pricked up his ears to listen. They were tiger footprints! \"That tiger is no ordinary one, Raju. Did you see its footprints?\" an old man said fearfully. Raju looked towards the forest with concern. — Would this new tiger bring danger to Raju's peaceful village?"
+    },
+    {
+      "id": 3,
+      "text": "పిల్లలూ, ఇంతలో — ఊహించనిది జరిగింది! చీకటి పడుతున్న వేళ, పల్లె అంచున ఒక లేగదూడ అకస్మాత్తుగా భయంతో అరిచింది. ఆ అరుపు ఊరంతా ప్రతిధ్వనించింది. పెద్దపులి — దాని కళ్ళు నిప్పు కణికల్లా మెరుస్తూ, లేగదూడను పట్టుకుంది. రాజు గుండె దడదడలాడింది, కళ్ళు భయంతో పెద్దవయ్యాయి, కానీ అతని పిడికిళ్లు బిగుసుకున్నాయి. \"మన గొర్రెలను, మన ఊరిని ఎలా కాపాడాలి?\" అని అతను తనలో తాను గొణుక్కున్నాడు. — ఇంత శక్తివంతమైన, ప్రమాదకరమైన జంతువును ఎదుర్కోవడానికి రాజు ఏం చేస్తాడు?",
+      "image_prompt": "A large tiger, with eyes glowing like embers, seizes a calf at the edge of the village. The boy's heart pounds, his eyes widen in fear, but his fists are clenched tightly. Also in this scene: A large, old, and cunning tiger named 'Peddapuli' (Big Tiger). Its fur is dark orange with unusually wide black stripes. It has one torn ear and a piercing, intelligent gaze, moving with silent, powerful grace. Always the same character across every scene. Late afternoon sun, casting long, orange-red shadows as panic spreads, creating an ominous and urgent mood. The forest edge looks dark and menacing.",
+      "scene_visual": "A large tiger, with eyes glowing like embers, seizes a calf at the edge of the village. The boy's heart pounds, his eyes widen in fear, but his fists are clenched tightly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pillalu, Intalo — Uhinchanidi Jarigindi! Chikati Padutunna Vela, Palle Anchuna Oka Legaduda Akasmaattugaa Bhayanto Arichindi. Aa Arupu Urantaa Pratidhvaninchindi. Peddapuli — Daani Kallu Nippu Kanikallaa Merustu, Legadudanu Pattukundi. Raaju Gunde Dadadadalaadindi, Kallu Bhayanto Peddavayyaayi, Kaani Atani Pidikillu Bigusukunnaayi. \"Mana Gorrelanu, Mana Urini Elaa Kaapaadaali?\" Ani Atanu Tanalo Taanu Gonukkunnaadu. — Inta Shaktivantamaina, Pramaadakaramaina Jantuvunu Edurkovadaaniki Raaju Em Chestaadu?",
+      "text_en": "Children, meanwhile — something unexpected happened! As darkness fell, a calf on the edge of the village suddenly cried out in fear. Its cry echoed throughout the village. The tiger — its eyes glowing like embers — had caught the calf. Raju's heart pounded, his eyes widened with fear, but his fists clenched. \"How can I protect our sheep, our village?\" he mumbled to himself. — What would Raju do to face such a powerful, dangerous animal?"
+    },
+    {
+      "id": 4,
+      "text": "పెద్దపులిని భయపెట్టాలని రాజు, ఇనుప గిన్నెలు పట్టుకుని గట్టిగా కొట్టడం మొదలుపెట్టాడు. ఆ లోహపు చప్పుడు నిశ్శబ్దంగా ఉన్న అడవిలో ప్రతిధ్వనించింది. పెద్దపులి కదలకుండా దూరం నుంచి అతనిని గమనిస్తూ ఉంది — దాని కళ్ళలో ఎలాంటి భయమూ లేదు. రాజు నిస్సత్తువగా కింద కూలబడిపోయాడు. \"ఈ పెద్దపులి చాలా తెలివైనది. శబ్దం దానికి భయం కలిగించదు,\" అని అతను నిట్టూర్చాడు. అతని కళ్ళు ఒక్కసారిగా ఆలోచనలో మునిగిపోయాయి. — శబ్దానికి భయపడని పులిని రాజు ఎలా మించిపోగలడు?",
+      "image_prompt": "The boy forcefully strikes metal bowls together, creating a loud clanging sound that echoes through the silent forest. He then collapses to the ground in exhaustion, his eyes lost in thought as the tiger watches him without fear. Also in this scene: A large, old, and cunning tiger named 'Peddapuli' (Big Tiger). Its fur is dark orange with unusually wide black stripes. It has one torn ear and a piercing, intelligent gaze, moving with silent, powerful grace. Always the same character across every scene. Gloomy, overcast sky, muted grey light filtering through the dense tree cover, reflecting Raju's disappointment and the tiger's elusive nature.",
+      "scene_visual": "The boy forcefully strikes metal bowls together, creating a loud clanging sound that echoes through the silent forest. He then collapses to the ground in exhaustion, his eyes lost in thought as the tiger watches him without fear.",
+      "supporting_char_keys": [],
+      "text_te_en": "Peddapulini Bhayapettaalani Raaju, Inupa Ginnelu Pattukuni Gattigaa Kottadam Modalupettaadu. Aa Lohapu Chappudu Nishshabdangaa Unna Adavilo Pratidhvaninchindi. Peddapuli Kadalakundaa Duram Nunchi Atanini Gamanistu Undi — Daani Kallalo Elaanti Bhayamu Ledu. Raaju Nissattuvagaa Kinda Kulabadipoyaadu. \"I Peddapuli Chaalaa Telivainadi. Shabdam Daaniki Bhayam Kaliginchadu,\" Ani Atanu Nitturchaadu. Atani Kallu Okkasaarigaa Aalochanalo Munigipoyaayi. — Shabdaaniki Bhayapadani Pulini Raaju Elaa Minchipogaladu?",
+      "text_en": "To scare the tiger, Raju grabbed iron bowls and started banging them loudly. The metallic sound echoed through the quiet forest. The tiger watched him from a distance without moving — there was no fear in its eyes. Raju slumped to the ground, feeling helpless. \"This tiger is very clever. Noise doesn't scare it,\" he sighed. His eyes suddenly became thoughtful. — How could Raju outsmart a tiger that wasn't afraid of noise?"
+    },
+    {
+      "id": 5,
+      "text": "రోజులు గడిచాయి, రాజు పెద్దపులి కదలికలను నిశితంగా గమనించాడు. అతని నుదురు చిట్లించి, ఆలోచనలో మునిగిపోయాడు. అడవి గురించి తనకున్న జ్ఞానాన్ని ఉపయోగించి, ఒక గుంట తవ్వి, దానిపై బలమైన వల కప్పాలనే ఉపాయం తట్టింది. వలను చేతితో అల్లుతూ, దాని పటుత్వాన్ని పరీక్షించడానికి గట్టిగా లాగాడు — ఆ దారం చేతికి గరుకుగా తగిలింది. అతని కళ్ళలో ఒక ఆశ మెరిసింది. \"ఈసారి నా అడవి తల్లి జ్ఞానంతో దాన్ని పట్టుకుంటాను!\" అని గుసగుసలాడాడు. — రాజు అద్భుతమైన ప్రణాళిక పెద్దపులిపై పనిచేస్తుందా?",
+      "image_prompt": "The boy meticulously weaves a strong net with his hands, preparing it to cover a pit. He pulls hard on the rough thread to test its strength, and a glimmer of hope appears in his eyes. Soft, warm golden hour light filtering through the trees, illuminating Raju as he works, suggesting hope and a renewed sense of purpose.",
+      "scene_visual": "The boy meticulously weaves a strong net with his hands, preparing it to cover a pit. He pulls hard on the rough thread to test its strength, and a glimmer of hope appears in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Rojulu Gadichaayi, Raaju Peddapuli Kadalikalanu Nishitangaa Gamaninchaadu. Atani Nuduru Chitlinchi, Aalochanalo Munigipoyaadu. Adavi Gurinchi Tanakunna Jnyaanaanni Upayoginchi, Oka Gunta Tavvi, Daanipai Balamaina Vala Kappaalane Upaayam Tattindi. Valanu Chetito Allutu, Daani Patutvaanni Parikshinchadaaniki Gattigaa Laagaadu — Aa Daaram Chetiki Garukugaa Tagilindi. Atani Kallalo Oka Aasha Merisindi. \"Isaari Naa Adavi Talli Jnyaananto Daanni Pattukuntaanu!\" Ani Gusagusalaadaadu. — Raaju Adbhutamaina Pranaalika Peddapulipai Panichestundaa?",
+      "text_en": "Days passed, and Raju carefully observed the tiger's movements. He frowned, deep in thought. Using his knowledge of the forest, an idea struck him: to dig a pit and cover it with a strong net. Weaving the net by hand, he pulled it hard to test its strength — the rope felt rough against his hand. A spark of hope shone in his eyes. \"This time, I will catch it with the wisdom of my Mother Forest!\" he whispered. — Would Raju's amazing plan work on the tiger?"
+    },
+    {
+      "id": 6,
+      "text": "తెలివైన రాజు ప్రణాళిక విజయవంతమైంది. పెద్దపులి తన వలలో చిక్కుకుంది — అది చిక్కుకుందని తెలిసి గట్టిగా గర్జించింది. రాజు గుండెల నిండా గాలి పీల్చుకున్నాడు, అతని దవడలు బిగుసుకున్నాయి. పెద్దపులికి ఎటువంటి హాని కలగకుండా, దానిని జాగ్రత్తగా వల నుంచి విడిపించాడు. దూరంగా, అడవి లోపలికి వెళ్లి దానిని విడిచిపెట్టాడు. అది శక్తివంతంగా ఒక అంగ వేసి అడవిలోకి దూసుకెళ్ళిపోయింది. \"ఈ అడవిలో అందరూ క్షేమంగా ఉండాలి!\" అని రాజు మనసులో అనుకుని, నెమ్మదిగా నవ్వాడు. — ఇప్పుడు పల్లె నిజంగా సురక్షితంగా ఉంటుందా, రాజు ధైర్యానికి పల్లె ప్రజలు ఎలా స్పందిస్తారు?",
+      "image_prompt": "The boy carefully releases the large tiger from the net it is caught in, ensuring no harm comes to it. He takes a deep breath, his jaw clenched, as the powerful animal leaps away into the forest. Also in this scene: A large, old, and cunning tiger named 'Peddapuli' (Big Tiger). Its fur is dark orange with unusually wide black stripes. It has one torn ear and a piercing, intelligent gaze, moving with silent, powerful grace. Always the same character across every scene. Dramatic, high-contrast light of early dawn, with sharp shadows and bright highlights, emphasizing the tension and the definitive moment of the trap.",
+      "scene_visual": "The boy carefully releases the large tiger from the net it is caught in, ensuring no harm comes to it. He takes a deep breath, his jaw clenched, as the powerful animal leaps away into the forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Telivaina Raaju Pranaalika Vijayavantamaindi. Peddapuli Tana Valalo Chikkukundi — Adi Chikkukundani Telisi Gattigaa Garjinchindi. Raaju Gundela Nindaa Gaali Pilchukunnaadu, Atani Davadalu Bigusukunnaayi. Peddapuliki Etuvanti Haani Kalagakundaa, Daanini Jaagrattagaa Vala Nunchi Vidipinchaadu. Durangaa, Adavi Lopaliki Velli Daanini Vidichipettaadu. Adi Shaktivantangaa Oka Anga Vesi Adaviloki Dusukellipoyindi. \"I Adavilo Andaru Kshemangaa Undaali!\" Ani Raaju Manasulo Anukuni, Nemmadigaa Navvaadu. — Ippudu Palle Nijangaa Surakshitangaa Untundaa, Raaju Dhairyaaniki Palle Prajalu Elaa Spandistaaru?",
+      "text_en": "Clever Raju's plan was successful. The tiger was caught in his net — it roared loudly, realizing it was trapped. Raju took a deep breath, his jaw set. Without harming the tiger, he carefully freed it from the net. He released it far away, deep inside the forest. It took a powerful leap and disappeared into the forest. \"Everyone in this forest should be safe!\" Raju thought to himself, and smiled softly. — Would the village truly be safe now, and how would the villagers react to Raju's bravery?"
+    },
+    {
+      "id": 7,
+      "text": "రాజు ధైర్యం గురించి విన్న పల్లె ప్రజలు అతనిని అభినందించడానికి గుమిగూడారు. పల్లె డప్పుల చప్పుడు, పిల్లల సంతోషపు పాటలు ఆకాశాన్ని తాకాయి. \"మా రాజు మా అడవి రాజు! మా రక్షకుడు!\" అని వారు ఉత్సాహంగా కేకలు వేశారు. రాజు సిగ్గుగా నవ్వాడు, అతని భుజాలు విశ్రాంతిగా ఉన్నాయి. అడవిలో మళ్ళీ ప్రశాంతత నెలకొంది, రాజు తన గొర్రెల మందను నమ్మకంతో చూసుకుంటూ, తన పనిలో నిమగ్నమయ్యాడు. అతను తన పల్లెలో, తన అడవిలో ఒక భాగమయ్యాడు.",
+      "image_prompt": "Villagers gather around the boy, cheering enthusiastically and beating drums, while children sing joyfully. The boy smiles shyly, his shoulders relaxed, as he becomes engrossed in tending to his flock. Warm, gentle dusk light painting the village in soft amber and pink hues, reflecting the restored peace and community warmth.",
+      "scene_visual": "Villagers gather around the boy, cheering enthusiastically and beating drums, while children sing joyfully. The boy smiles shyly, his shoulders relaxed, as he becomes engrossed in tending to his flock.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Dhairyam Gurinchi Vinna Palle Prajalu Atanini Abhinandinchadaaniki Gumigudaaru. Palle Dappula Chappudu, Pillala Santoshapu Paatalu Aakaashaanni Taakaayi. \"Maa Raaju Maa Adavi Raaju! Maa Rakshakudu!\" Ani Vaaru Utsaahangaa Kekalu Veshaaru. Raaju Siggugaa Navvaadu, Atani Bhujaalu Vishraantigaa Unnaayi. Adavilo Malli Prashaantata Nelakondi, Raaju Tana Gorrela Mandanu Nammakanto Chusukuntu, Tana Panilo Nimagnamayyaadu. Atanu Tana Pallelo, Tana Adavilo Oka Bhaagamayyaadu.",
+      "text_en": "The villagers, hearing about Raju's bravery, gathered to congratulate him. The sound of village drums and children's joyful songs reached the sky. \"Our Raju is the king of our forest! Our protector!\" they cheered enthusiastically. Raju smiled shyly, his shoulders relaxed. Peace returned to the forest, and Raju, confidently tending his flock of sheep, became engrossed in his work. He became a part of his village, a part of his forest."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 10,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.17,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is a strong contender for publication, demonstrating exceptional oral warmth, emotional depth, and a compelling narrative arc with excellent child engagement. The colloquial Telugu is flawless, making it a natural and enjoyable read. To reach a perfect score, the primary area for improvement is dialogue richness; characters could benefit from more distinct voices, and dialogue could be used more actively to drive the plot rather than just reinforcing internal states."
+  },
+  "title_te_en": "Chinnaari Raaju Telivi — Peddapuli Guttu",
+  "moral_te_en": "Chinnavaarainaa, Nishshabdangaa Unnavaarainaa, Tamaku Priyamaina Vaatini Kaapaadataaniki Adbhutamaina Dhairyaanni, Telivini Pradarshinchagalaru.",
+  "title_en": "Young Raju's Cleverness — The Tiger's Secret",
+  "moral_en": "Even the young and the quiet can show incredible courage and wisdom to protect what they hold dear.",
+  "id": "20260523_220925",
+  "date": "2026-05-23",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "తెలుగు జానపద కథ - అడవి రాజు",
+  "thumbnail": "stories/20260523_220925/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
