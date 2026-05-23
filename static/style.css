@@ -317,8 +317,9 @@ body {
   align-items: flex-end;
   justify-content: center;
   padding: 10px 14px 10px 0;
-  height: 110px;          /* fixed — keeps all cards the same row height */
-  background-size: cover;
+  height: 110px;
+  /* auto 100% scales to card height only — never clips illustration top/bottom */
+  background-size: auto 100%;
   background-position: left center;
   background-repeat: no-repeat;
   text-align: right;
