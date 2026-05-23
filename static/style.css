@@ -319,7 +319,7 @@ body {
   padding: 10px 0 10px 14px;
   height: 110px;
   background-size: auto 100%;
-  background-position: right center;
+  background-position: left center;
   background-repeat: no-repeat;
   text-align: left;
 }
@@ -345,62 +345,62 @@ body {
 }
 
 /* ── CATEGORY BACKGROUND IMAGES ── */
-/* Layout: text LEFT, illustration CENTER-RIGHT.
-   background-position: right center → image right-aligned in card.
-   Gradient: dark-left (text readability) → transparent center (illustration)
-   → dark-right (covers baked English text in WebP). */
+/* Layout: text LEFT overlaid on illustration as atmospheric background.
+   background-position: left center — illustration occupies left ~36% of card.
+   Gradient: semi-dark tint on left (shows illustration through tint, text readable)
+   → fully opaque dark by 44% (covers baked English text that starts at ~36%). */
 .cat-bg-neeti {
   background-image:
-    linear-gradient(to right, rgba(36,10,0,0.97) 0%, rgba(36,10,0,0.97) 28%, transparent 48%, rgba(36,10,0,0.95) 66%, rgba(36,10,0,0.99) 74%),
+    linear-gradient(to right, rgba(36,10,0,0.72) 0%, rgba(36,10,0,0.72) 33%, rgba(36,10,0,0.92) 40%, rgba(36,10,0,0.99) 47%),
     url('/assets/categories/niti-kathalu.webp');
   background-color: #240a00;
   border: 1px solid rgba(255,107,53,0.25);
 }
 .cat-bg-podupu {
   background-image:
-    linear-gradient(to right, rgba(18,30,6,0.97) 0%, rgba(18,30,6,0.97) 28%, transparent 48%, rgba(18,30,6,0.95) 66%, rgba(18,30,6,0.99) 74%),
+    linear-gradient(to right, rgba(18,30,6,0.72) 0%, rgba(18,30,6,0.72) 33%, rgba(18,30,6,0.92) 40%, rgba(18,30,6,0.99) 47%),
     url('/assets/categories/podupu-kathalu.webp');
   background-color: #121e06;
   border: 1px solid rgba(100,180,50,0.25);
 }
 .cat-bg-tenali {
   background-image:
-    linear-gradient(to right, rgba(8,20,48,0.97) 0%, rgba(8,20,48,0.97) 28%, transparent 48%, rgba(8,20,48,0.95) 66%, rgba(8,20,48,0.99) 74%),
+    linear-gradient(to right, rgba(8,20,48,0.72) 0%, rgba(8,20,48,0.72) 33%, rgba(8,20,48,0.92) 40%, rgba(8,20,48,0.99) 47%),
     url('/assets/categories/tenaali-raama.webp');
   background-color: #081430;
   border: 1px solid rgba(127,168,224,0.25);
 }
 .cat-bg-panchatantra {
   background-image:
-    linear-gradient(to right, rgba(4,26,24,0.97) 0%, rgba(4,26,24,0.97) 28%, transparent 48%, rgba(4,26,24,0.95) 66%, rgba(4,26,24,0.99) 74%),
+    linear-gradient(to right, rgba(4,26,24,0.72) 0%, rgba(4,26,24,0.72) 33%, rgba(4,26,24,0.92) 40%, rgba(4,26,24,0.99) 47%),
     url('/assets/categories/panchatantran.webp');
   background-color: #041a18;
   border: 1px solid rgba(61,181,138,0.25);
 }
 .cat-bg-ramayana {
   background-image:
-    linear-gradient(to right, rgba(20,6,34,0.97) 0%, rgba(20,6,34,0.97) 28%, transparent 48%, rgba(20,6,34,0.95) 66%, rgba(20,6,34,0.99) 74%),
+    linear-gradient(to right, rgba(20,6,34,0.72) 0%, rgba(20,6,34,0.72) 33%, rgba(20,6,34,0.92) 40%, rgba(20,6,34,0.99) 47%),
     url('/assets/categories/raamaayanan.webp');
   background-color: #140622;
   border: 1px solid rgba(170,100,210,0.25);
 }
 .cat-bg-samethalu {
   background-image:
-    linear-gradient(to right, rgba(28,12,0,0.97) 0%, rgba(28,12,0,0.97) 28%, transparent 48%, rgba(28,12,0,0.95) 66%, rgba(28,12,0,0.99) 74%),
+    linear-gradient(to right, rgba(28,12,0,0.72) 0%, rgba(28,12,0,0.72) 33%, rgba(28,12,0,0.92) 40%, rgba(28,12,0,0.99) 47%),
     url('/assets/categories/saametalu.webp');
   background-color: #1c0c00;
   border: 1px solid rgba(200,133,42,0.25);
 }
 .cat-bg-janapada {
   background-image:
-    linear-gradient(to right, rgba(6,10,30,0.97) 0%, rgba(6,10,30,0.97) 28%, transparent 48%, rgba(6,10,30,0.95) 66%, rgba(6,10,30,0.99) 74%),
+    linear-gradient(to right, rgba(6,10,30,0.72) 0%, rgba(6,10,30,0.72) 33%, rgba(6,10,30,0.92) 40%, rgba(6,10,30,0.99) 47%),
     url('/assets/categories/jaanapadan.webp');
   background-color: #060a1e;
   border: 1px solid rgba(96,144,200,0.25);
 }
 .cat-bg-bhagavatam {
   background-image:
-    linear-gradient(to right, rgba(22,12,0,0.97) 0%, rgba(22,12,0,0.97) 28%, transparent 48%, rgba(22,12,0,0.95) 66%, rgba(22,12,0,0.99) 74%),
+    linear-gradient(to right, rgba(22,12,0,0.72) 0%, rgba(22,12,0,0.72) 33%, rgba(22,12,0,0.92) 40%, rgba(22,12,0,0.99) 47%),
     url('/assets/categories/bhaagavatan.webp');
   background-color: #160c00;
   border: 1px solid rgba(212,148,58,0.25);
