@@ -1,0 +1,90 @@
+{
+  "title": "చెలిమి గెలిచిన వేళ",
+  "moral": "మిత్రులందరూ కలిసి పనిచేస్తే, ఎంత పెద్ద ఆపదనైనా సులభంగా దాటవచ్చు.",
+  "main_character": "A young, agile deer with large, watchful eyes and soft, tawny fur. It is known for its quick thinking and gentle nature, always looking out for its friends. Always the same character across every scene.",
+  "antagonist": "A burly, weathered hunter with a long, grey beard and sharp, calculating eyes. He wears a rough, patched brown tunic and carries a sturdy net and a bow with a quiver of arrows. Always the same character across every scene.",
+  "setting": "A vibrant forest clearing in the Nallamala Hills of Andhra Pradesh, dotted with tall teak trees and flowering shrubs. A clear stream winds through the center, and a small cave opens into a rocky outcrop. It is early morning, with dew still clinging to the leaves. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల కొండల నడుమ, పచ్చని అడవిలో అందమైన నాలుగు ప్రాణులు నివసిస్తున్నాయి. మెరిసే జింక, తెలివైన కాకి, చురుకైన ఎలుక, నెమ్మదైన తాబేలు — వారు మంచి స్నేహితులు. వాళ్ళు నది ఒడ్డున, మెత్తని గులకరాళ్లపై ప్రవహించే సెలయేటి బుడబుడ శబ్దాలు వింటూ ఆనందంగా ఆడుకుంటున్నారు. \"ఎంత మంచి స్నేహితులం కదా!\" అని జింక నవ్వుతూ, తాబేలును తన ముక్కుతో మెల్లగా తట్టింది. జింక తన స్నేహితులను చూసి, దాని కళ్ళు సంతోషంతో మెరిశాయి. వారు ఒకరినొకరు చూసుకుని గట్టిగా నవ్వారు. మరి ఈ నలుగురు స్నేహితులు కలిసి ఎలాంటి సాహసాలు చేస్తారో చూద్దామా పిల్లలూ?",
+      "image_prompt": "The deer gently nudges the tortoise with its snout. Its eyes sparkle with joy as all the friends look at each other and laugh loudly on the soft pebbles by the river. Soft morning sunlight filtering through dense green leaves, creating dappled golden patches on the forest floor, peaceful and warm.",
+      "scene_visual": "The deer gently nudges the tortoise with its snout. Its eyes sparkle with joy as all the friends look at each other and laugh loudly on the soft pebbles by the river.",
+      "text_te_en": "Nallamala Kondala Naduma, Pachchani Adavilo Andamaina Naalugu Praanulu Nivasistunnaayi. Merise Jinka, Telivaina Kaaki, Churukaina Eluka, Nemmadaina Taabelu — Vaaru Manchi Snehitulu. Vaallu Nadi Odduna, Mettani Gulakaraallapai Pravahinche Selayeti Budabuda Shabdaalu Vintu Aanandangaa Aadukuntunnaaru. \"Enta Manchi Snehitulam Kadaa!\" Ani Jinka Navvutu, Taabelunu Tana Mukkuto Mellagaa Tattindi. Jinka Tana Snehitulanu Chusi, Daani Kallu Santoshanto Merishaayi. Vaaru Okarinokaru Chusukuni Gattigaa Navvaaru. Mari I Naluguru Snehitulu Kalisi Elaanti Saahasaalu Chestaaro Chuddaamaa Pillalu?",
+      "text_en": "Amidst the Nallamala hills, in a lush green forest, lived four beautiful creatures. A gleaming deer, a clever crow, a nimble mouse, and a slow tortoise – they were good friends. They played happily by the riverbank, listening to the bubbling sounds of the stream flowing over soft pebbles. \"What good friends we are!\" giggled the deer, gently nudging the tortoise with its nose. The deer's eyes sparkled with joy as it looked at its friends. They looked at each other and laughed heartily. Now, children, shall we see what adventures these four friends will have together?"
+    },
+    {
+      "id": 2,
+      "text": "ఆ రోజు ఉదయం, జింక పచ్చిక మేస్తూ ఉండగా, గాలిలో ఏదో తెలియని వాసన తగిలింది. దాని చెవులు ఒక్కసారిగా అప్రమత్తంగా కదిలాయి, తల పైకెత్తి పరిసరాలను నిశితంగా పరిశీలించింది. తేలికపాటి గాలిలో మనుషుల చెమట వాసన — అది అడవిలో ఎప్పుడూ అనుభూతి చెందనిది. దాని గుండె వేగంగా కొట్టుకోవడం మొదలుపెట్టింది, అది ఆందోళనగా ముందుకు అడుగు వేయలేకపోయింది. \"ఏదో తేడాగా ఉంది...\" అని అది మెల్లగా తనలో తాను అనుకుంది. ఆ క్షణంలో — దాని వెన్నులో చలి పుట్టింది. మరి ఆ వింత వాసన దేనిని సూచిస్తోంది, అది ఎలాంటి ప్రమాదాన్ని తెస్తుంది?",
+      "image_prompt": "The deer stands alert, its ears twitching as it lifts its head to scan the surroundings. Its heart pounds rapidly as it smells an unfamiliar human scent in the light breeze. Bright morning sun, but with long, unsettling shadows cast by the trees, suggesting a hidden presence.",
+      "scene_visual": "The deer stands alert, its ears twitching as it lifts its head to scan the surroundings. Its heart pounds rapidly as it smells an unfamiliar human scent in the light breeze.",
+      "text_te_en": "Aa Roju Udayan, Jinka Pachchika Mestu Undagaa, Gaalilo Edo Teliyani Vaasana Tagilindi. Daani Chevulu Okkasaarigaa Apramattangaa Kadilaayi, Tala Paiketti Parisaraalanu Nishitangaa Parishilinchindi. Telikapaati Gaalilo Manushula Chemata Vaasana — Adi Adavilo Eppudu Anubhuti Chendanidi. Daani Gunde Vegangaa Kottukovadam Modalupettindi, Adi Aandolanagaa Munduku Adugu Veyalekapoyindi. \"Edo Tedaagaa Undi...\" Ani Adi Mellagaa Tanalo Taanu Anukundi. Aa Kshananlo — Daani Vennulo Chali Puttindi. Mari Aa Vinta Vaasana Denini Suchistondi, Adi Elaanti Pramaadaanni Testundi?",
+      "text_en": "That morning, as the deer grazed on the grass, it caught an unfamiliar scent in the air. Its ears twitched alertly, and it lifted its head, carefully scanning its surroundings. The faint smell of human sweat in the gentle breeze – something it had never experienced in the forest before. Its heart began to beat fast, and it couldn't take another step forward, filled with worry. \"Something is wrong...\" it whispered to itself. At that moment – a shiver ran down its spine. What did that strange smell mean, and what danger would it bring?"
+    },
+    {
+      "id": 3,
+      "text": "ఆందోళనలో ఉన్న జింక, పక్కనే ఉన్న పచ్చికను చూసి ఒక్క క్షణం పరధ్యానంలో పడింది. అది అడుగు వేసిందో లేదో — వెంటనే చాకచక్యంగా దాచిన వలలో చిక్కుకుపోయింది. వల తాడు దాని కాళ్ళ చుట్టూ బిగుసుకుపోవడంతో, గట్టిగా పరుషమైన శబ్దం చేస్తూ జింక గింజుకుంది. దాని కళ్ళు భయంతో పెద్దవి అయ్యాయి, అది ప్రాణ భయంతో అటూ ఇటూ కొట్టుకుంది. \"నన్ను కాపాడండి! నేను చిక్కుకుపోయాను!\" అని అది బిగ్గరగా అరిచింది. ఒక్కసారిగా — అది నేలపై కుప్పకూలిపోయింది. ఇప్పుడు ఆ జింక ఈ ప్రమాదకరమైన వల నుండి ఎలా తప్పించుకుంటుంది?",
+      "image_prompt": "The deer struggles violently, thrashing its body as a net rope tightens around its legs. Its eyes are wide with fear as it collapses onto the ground, making a harsh, loud sound. The sun is higher now, casting harsh, direct light on the struggling deer, emphasizing its vulnerability.",
+      "scene_visual": "The deer struggles violently, thrashing its body as a net rope tightens around its legs. Its eyes are wide with fear as it collapses onto the ground, making a harsh, loud sound.",
+      "text_te_en": "Aandolanalo Unna Jinka, Pakkane Unna Pachchikanu Chusi Okka Kshanam Paradhyaananlo Padindi. Adi Adugu Vesindo Ledo — Ventane Chaakachakyangaa Daachina Valalo Chikkukupoyindi. Vala Taadu Daani Kaalla Chuttu Bigusukupovadanto, Gattigaa Parushamaina Shabdam Chestu Jinka Ginjukundi. Daani Kallu Bhayanto Peddavi Ayyaayi, Adi Praana Bhayanto Atu Itu Kottukundi. \"Nannu Kaapaadandi! Nenu Chikkukupoyaanu!\" Ani Adi Biggaragaa Arichindi. Okkasaarigaa — Adi Nelapai Kuppakulipoyindi. Ippudu Aa Jinka I Pramaadakaramaina Vala Nundi Elaa Tappinchukuntundi?",
+      "text_en": "The worried deer, distracted for a moment by the nearby grass, no sooner had it taken a step than it was caught in a cleverly hidden net. As the net's rope tightened around its legs, the deer struggled, making a loud, harsh sound. Its eyes widened with fear, and it thrashed about, terrified for its life. \"Help me! I'm trapped!\" it cried loudly. Suddenly – it collapsed onto the ground. Now, how will the deer escape from this dangerous net?"
+    },
+    {
+      "id": 4,
+      "text": "జింక ఆర్తనాదాలు విన్న కాకి, తన మిత్రుడి దీనస్థితిని చూసి వెంటనే సహాయం చేయాలని నిర్ణయించుకుంది. దాని రెక్కలు వేగంగా కొట్టుకుంటూ, అడవి చెట్ల మీదుగా గబగబా ఎగురుకుంటూ వెళ్ళింది. చిక్కుకుపోయిన జింక, మెడను వంచి ఆశగా కాకి వెళ్ళే దిక్కు చూసింది; దాని చూపులు — ఆకాశంలోకి దూసుకెళ్ళాయి. \"గబగబా వెళ్ళు మిత్రమా!\" అని అది తన మనసులో వేడుకుంది. కాకి వేగంగా అడవి పందిరిలో కలిసిపోయింది. మరి కాకి తన మిత్రుడైన ఎలుకను సమయానికి కనుగొని, జింకను కాపాడగలుగుతుందా?",
+      "image_prompt": "The crow flies rapidly through the forest canopy, its wings beating fast. The trapped deer watches it disappear into the sky, its neck craned and eyes filled with desperate hope. The protagonist watches from the side. A mix of sun and shadow, indicating the urgency of the crow's flight and the deer's waiting.",
+      "scene_visual": "The crow flies rapidly through the forest canopy, its wings beating fast. The trapped deer watches it disappear into the sky, its neck craned and eyes filled with desperate hope.",
+      "text_te_en": "Jinka Aartanaadaalu Vinna Kaaki, Tana Mitrudi Dinasthitini Chusi Ventane Sahaayam Cheyaalani Nirnayinchukundi. Daani Rekkalu Vegangaa Kottukuntu, Adavi Chetla Midugaa Gabagabaa Egurukuntu Vellindi. Chikkukupoyina Jinka, Medanu Vanchi Aashagaa Kaaki Velle Dikku Chusindi; Daani Chupulu — Aakaashanloki Dusukellaayi. \"Gabagabaa Vellu Mitramaa!\" Ani Adi Tana Manasulo Vedukundi. Kaaki Vegangaa Adavi Pandirilo Kalisipoyindi. Mari Kaaki Tana Mitrudaina Elukanu Samayaaniki Kanugoni, Jinkanu Kaapaadagalugutundaa?",
+      "text_en": "Hearing the deer's cries, the crow saw its friend's plight and immediately decided to help. Its wings beat rapidly as it swiftly flew over the forest trees. The trapped deer craned its neck, looking hopefully in the direction the crow flew; its gaze – shot into the sky. \"Hurry, my friend!\" it pleaded in its heart. The crow quickly disappeared into the forest canopy. Now, will the crow be able to find its friend, the mouse, in time and save the deer?"
+    },
+    {
+      "id": 5,
+      "text": "ఎలుక వేగంగా వచ్చి, తన పదునైన పళ్ళతో వల తాడును కొరకడం మొదలుపెట్టింది; ఆ 'కటకటకట' శబ్దం అడవిలో ప్రతిధ్వనించింది. జింక ఒక్కసారిగా వల నుండి బయటపడగానే, అది ఊపిరి పీల్చుకుంది — మిత్రుడికి కృతజ్ఞతగా తల వంచింది. కానీ ఆ క్షణంలోనే, పొదల వెనుక నుండి వేటగాడు బయటపడ్డాడు! అతను చూశాడు — నెమ్మదిగా కదులుతున్న తాబేలును! \"అయ్యో! తాబేలు చిక్కుకుపోయింది!\" అని జింక భయంతో నిశ్చలంగా ఉండిపోయింది, దాని కళ్ళు తాబేలు వైపు ఉన్నాయి. వేటగాడు తాబేలును పట్టుకోవడానికి ముందుకు అడుగు వేశాడు... ఇప్పుడు పాపం ఆ తాబేలుకు ఏం జరుగుతుంది?",
+      "image_prompt": "The hunter emerges from behind the bushes, his gaze fixed on the slowly moving tortoise. The deer stands frozen in fear, its eyes wide and directed towards the tortoise. Also in this scene: A burly, weathered hunter with a long, grey beard and sharp, calculating eyes. He wears a rough, patched brown tunic and carries a sturdy net and a bow with a quiver of arrows. Always the same character across every scene. The forest clearing brightens as the hunter steps into view, casting a long, menacing shadow over the now-free deer and the newly captured turtle.",
+      "scene_visual": "The hunter emerges from behind the bushes, his gaze fixed on the slowly moving tortoise. The deer stands frozen in fear, its eyes wide and directed towards the tortoise.",
+      "text_te_en": "Eluka Vegangaa Vachchi, Tana Padunaina Pallato Vala Taadunu Korakadam Modalupettindi; Aa 'Katakatakata' Shabdam Adavilo Pratidhvaninchindi. Jinka Okkasaarigaa Vala Nundi Bayatapadagaane, Adi Upiri Pilchukundi — Mitrudiki Krritajnyatagaa Tala Vanchindi. Kaani Aa Kshananlone, Podala Venuka Nundi Vetagaadu Bayatapaddaadu! Atanu Chushaadu — Nemmadigaa Kadulutunna Taabelunu! \"Ayyo! Taabelu Chikkukupoyindi!\" Ani Jinka Bhayanto Nishchalangaa Undipoyindi, Daani Kallu Taabelu Vaipu Unnaayi. Vetagaadu Taabelunu Pattukovadaaniki Munduku Adugu Veshaadu... Ippudu Paapam Aa Taabeluku Em Jarugutundi?",
+      "text_en": "The mouse quickly arrived and began gnawing at the net's rope with its sharp teeth; the 'kat-kat-kat' sound echoed through the forest. As soon as the deer was free from the net, it took a deep breath – and bowed its head in gratitude to its friend. But at that very moment, a hunter emerged from behind the bushes! He spotted – the slowly moving tortoise! \"Oh no! The tortoise is trapped!\" the deer stood still in fear, its eyes fixed on the tortoise. The hunter took a step forward to grab the tortoise... Now, what will happen to the poor tortoise?"
+    },
+    {
+      "id": 6,
+      "text": "మిత్రుడిని కాపాడటానికి, కాకి ధైర్యంగా వేటగాడి ముఖం మీద పొడవడం మొదలుపెట్టింది; వేటగాడు కోపంతో \"అమ్మో!\" అని అరిచాడు. ఈ అల్లరిని ఉపయోగించుకుని, ఎలుక వేగంగా తాబేలు కాళ్ళకు కట్టిన తాడును కొరికింది. జింక తన డెక్కలతో నేలను బలంగా తొక్కుతూ, పెద్ద శబ్దం చేసింది — వేటగాడి దృష్టిని మళ్ళించింది. \"పారిపో, మిత్రమా! వేగంగా!\" అని జింక అరిచింది, తాబేలుకు దారి చూపింది. ఆ వేటగాడు — ఆశ్చర్యంతో నోరు తెరిచాడు! ఆ కోపంతో రగిలిపోయిన వేటగాడి నుండి స్నేహితులందరూ తప్పించుకోగలరా?",
+      "image_prompt": "The crow bravely pecks at the hunter's face while the mouse gnaws at the rope on the tortoise's legs. The deer stomps its hooves loudly, diverting the hunter's attention as he cries out in anger. Also in this scene: A burly, weathered hunter with a long, grey beard and sharp, calculating eyes. He wears a rough, patched brown tunic and carries a sturdy net and a bow with a quiver of arrows. Always the same character across every scene. Dynamic, with sunlight glinting off the hunter's weapon and dramatic shadows as the animals move quickly, creating a sense of urgent action.",
+      "scene_visual": "The crow bravely pecks at the hunter's face while the mouse gnaws at the rope on the tortoise's legs. The deer stomps its hooves loudly, diverting the hunter's attention as he cries out in anger.",
+      "text_te_en": "Mitrudini Kaapaadataaniki, Kaaki Dhairyangaa Vetagaadi Mukham Mida Podavadam Modalupettindi; Vetagaadu Kopanto \"Ammo!\" Ani Arichaadu. I Allarini Upayoginchukuni, Eluka Vegangaa Taabelu Kaallaku Kattina Taadunu Korikindi. Jinka Tana Dekkalato Nelanu Balangaa Tokkutu, Pedda Shabdam Chesindi — Vetagaadi Drrishtini Mallinchindi. \"Paaripo, Mitramaa! Vegangaa!\" Ani Jinka Arichindi, Taabeluku Daari Chupindi. Aa Vetagaadu — Aashcharyanto Noru Terichaadu! Aa Kopanto Ragilipoyina Vetagaadi Nundi Snehitulandaru Tappinchukogalaraa?",
+      "text_en": "To save its friend, the crow bravely began pecking at the hunter's face; the hunter yelled \"Ouch!\" in anger. Using this distraction, the mouse quickly gnawed through the rope tied to the tortoise's legs. The deer stomped its hooves hard on the ground, making a loud noise – diverting the hunter's attention. \"Run, my friend! Quickly!\" cried the deer, showing the tortoise the way. The hunter – opened his mouth in surprise! Can all the friends escape from the enraged hunter?"
+    },
+    {
+      "id": 7,
+      "text": "అడవిలోని తమ రహస్య గుహలోకి చేరుకున్న నాలుగు స్నేహితులు, నెమ్మదిగా ఊపిరి పీల్చుకున్నారు. గుహ లోపలి చల్లని, తేమతో కూడిన గాలి వారికి ఎంతో ఓదార్పునిచ్చింది. జింక తన మిత్రుల సాహసానికి కృతజ్ఞతగా వారి పక్కన శాంతంగా పడుకుంది; దాని కళ్ళు ప్రేమతో నిండిపోయాయి. \"మనం ఎప్పుడూ కలిసి ఉంటాం!\" అని వారు ఒకరినొకరు చూసుకుని గట్టిగా అనుకున్నారు. ఆ రాత్రి, వారు ప్రశాంతంగా నిద్రపోయారు. ఎంత గొప్ప స్నేహబంధం కదా?",
+      "image_prompt": "The four friends rest inside their secret cave, slowly catching their breath. The deer lies peacefully beside its friends, its eyes filled with love and gratitude in the cool, damp air of the cave. Soft, indirect light filtering into the mouth of the cave, creating a serene and secure atmosphere, warm and comforting.",
+      "scene_visual": "The four friends rest inside their secret cave, slowly catching their breath. The deer lies peacefully beside its friends, its eyes filled with love and gratitude in the cool, damp air of the cave.",
+      "text_te_en": "Adaviloni Tama Rahasya Guhaloki Cherukunna Naalugu Snehitulu, Nemmadigaa Upiri Pilchukunnaaru. Guha Lopali Challani, Temato Kudina Gaali Vaariki Ento Odaarpunichchindi. Jinka Tana Mitrula Saahasaaniki Krritajnyatagaa Vaari Pakkana Shaantangaa Padukundi; Daani Kallu Premato Nindipoyaayi. \"Manam Eppudu Kalisi Untaan!\" Ani Vaaru Okarinokaru Chusukuni Gattigaa Anukunnaaru. Aa Raatri, Vaaru Prashaantangaa Nidrapoyaaru. Enta Goppa Snehabandham Kadaa?",
+      "text_en": "The four friends, having reached their secret cave in the forest, slowly caught their breath. The cool, damp air inside the cave brought them great comfort. The deer lay peacefully beside its friends, grateful for their bravery; its eyes filled with love. \"We will always be together!\" they firmly told each other, looking at one another. That night, they slept peacefully. What a wonderful friendship, isn't it?"
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.67,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story shines with its authentic, warm narrative voice and exceptional child engagement, making it highly appealing for young listeners. The narrative arc is compelling, building tension effectively and resolving without being preachy. To reach an award-worthy 9+, the most crucial fix is to enhance dialogue richness; several scenes lack direct speech, and character voices could be more distinct and varied, adding another layer of immersion and personality to the overall storytelling."
+  },
+  "title_te_en": "Chelimi Gelichina Vela",
+  "moral_te_en": "Mitrulandaru Kalisi Panicheste, Enta Pedda Aapadanainaa Sulabhangaa Daatavachchu.",
+  "title_en": "When Friendship Won",
+  "moral_en": "If all friends work together, even the biggest danger can be easily overcome.",
+  "id": "20260523_080813",
+  "date": "2026-05-23",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - నాలుగు స్నేహితులు",
+  "thumbnail": "stories/20260523_080813/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
