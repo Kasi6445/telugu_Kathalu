@@ -1,0 +1,139 @@
+{
+  "title": "అమ్మ చూపులో కనకం",
+  "moral": "అసలైన ప్రేమ కళ్ళతో చూసేది కాదు, మనసుతో చూసేది.",
+  "main_character": "A medium-sized, sleek black crow with intelligent, watchful eyes. She has a slightly ruffled feather on her head, giving her a perpetually thoughtful look, and a deep, resonant caw. Always the same character across every scene.",
+  "antagonist": "A magnificent male peacock with shimmering blue-green plumage and a long, ornate tail covered in iridescent 'eyes'. He moves with an air of self-importance and often looks down his long neck at others. Always the same character across every scene.",
+  "setting": "A vibrant banyan tree in a rural Telugu village, perhaps near the historic ruins of Hampi. The tree is ancient, with hanging aerial roots and dense green foliage, overlooking a small, bustling market square. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మర్రిచెట్టులో ఒక తల్లి కాకి తన మూడు చిన్ని పిల్లలతో చాలా సంతోషంగా ఉంది. ఆమె బుర్రమీద కొద్దిగా చెదిరిన ఈక, ఆమె చూపులకు మరింత లోతునిచ్చింది. పిల్లలు గూటిలోని అల్లికల గట్టి పుల్లల మీద మెత్తగా పడుకుని, నోళ్లు తెరుస్తుంటే — ఆమె రెక్కలు వాత్సల్యంతో అల్లారు. వాటి తలలను సున్నితంగా సరిచేస్తూ, \"నా బంగారు పిల్లలు, కడుపు నిండా తిని హాయిగా ఉండండి,\" అని మురిసిపోయింది. మార్కెట్ శబ్దాలు, మామిడి వాసనలు వస్తున్నా, ఆమె ప్రపంచం ఆ గూటిలోనే ఉంది. ఈ ప్రశాంతమైన రోజు ఎలా కొనసాగుతుందో కదా, పిల్లలూ?",
+      "image_prompt": "The mother bird gently adjusts the heads of her three small chicks nestled in their woven stick nest. Her wings flutter with affection as the chicks lie softly with open mouths, and a slightly ruffled feather on her head adds depth to her gaze. Bright morning sun filtering through dense green leaves, casting warm, gentle pools of light on the nest, evoking a sense of peace and new beginnings.",
+      "scene_visual": "The mother bird gently adjusts the heads of her three small chicks nestled in their woven stick nest. Her wings flutter with affection as the chicks lie softly with open mouths, and a slightly ruffled feather on her head adds depth to her gaze.",
+      "supporting_char_keys": [
+        "chick_1",
+        "chick_2",
+        "chick_3"
+      ],
+      "text_te_en": "Marrichettulo Oka Talli Kaaki Tana Mudu Chinni Pillalato Chaalaa Santoshangaa Undi. Aame Burramida Koddigaa Chedirina Ika, Aame Chupulaku Marinta Lotunichchindi. Pillalu Gutiloni Allikala Gatti Pullala Mida Mettagaa Padukuni, Nollu Terustunte — Aame Rekkalu Vaatsalyanto Allaaru. Vaati Talalanu Sunnitangaa Sarichestu, \"Naa Bangaaru Pillalu, Kadupu Nindaa Tini Haayigaa Undandi,\" Ani Murisipoyindi. Maarket Shabdaalu, Maamidi Vaasanalu Vastunnaa, Aame Prapancham Aa Gutilone Undi. I Prashaantamaina Roju Elaa Konasaagutundo Kadaa, Pillalu?",
+      "text_en": "In a banyan tree, a mother crow was very happy with her three little chicks. A slightly ruffled feather on her head gave her gaze even more depth. As the chicks lay softly on the strong woven sticks of the nest, opening their mouths — her wings fluttered with affection. Gently adjusting their heads, she cooed, \"My golden children, eat your fill and be happy.\" Even with the sounds of the market and the smell of mangoes, her world was right there in that nest. How will this peaceful day continue, children?"
+    },
+    {
+      "id": 2,
+      "text": "ఆ కాకి ఇంకా తన పిల్లలను మురిసిపోతూ చూస్తుండగా, పక్క కొమ్మ మీద ఒక నెమలి వచ్చి వాలింది. దాని ఈకలు సూర్యరశ్మిలో మెరుస్తుంటే, అది గొప్పగా తల ఎత్తింది. \"క్రాస్స్స్!\" అని ఒక పదునైన, కర్ణకఠోరమైన అరుపుతో — అది గూటి వైపు చూసింది. పిల్లల అరుపులు విని, \"అయ్యో! ఈ నల్లని, గోల చేసే పిల్లలు నీ బంగారు పిల్లలా?\" అని వెక్కిరించింది. తల్లి కాకి ఒక్కసారిగా రొమ్ము విరిచి, దాని వైపు చూసింది. తన ప్రియమైన పిల్లల గురించి ఈ అవమానానికి తల్లి కాకి ఎలా బదులిస్తుందో?",
+      "image_prompt": "A peacock lands on a nearby branch, proudly lifts its head, and then looks towards the nest while letting out a sharp, harsh cry. Its feathers shimmer in the sunlight, and the mother bird immediately puffs out her chest and stares back at it. Also in this scene: A magnificent male peacock with shimmering blue-green plumage and a long, ornate tail covered in iridescent 'eyes'. He moves with an air of self-importance and often looks down his long neck at others. Always the same character across every scene. Midday sun, bright and clear, highlighting the peacock's iridescent feathers in contrast to the crow's dark silhouette, creating a slightly harsh and confrontational atmosphere.",
+      "scene_visual": "A peacock lands on a nearby branch, proudly lifts its head, and then looks towards the nest while letting out a sharp, harsh cry. Its feathers shimmer in the sunlight, and the mother bird immediately puffs out her chest and stares back at it.",
+      "supporting_char_keys": [
+        "chick_1",
+        "chick_2",
+        "chick_3"
+      ],
+      "text_te_en": "Aa Kaaki Inkaa Tana Pillalanu Murisipotu Chustundagaa, Pakka Komma Mida Oka Nemali Vachchi Vaalindi. Daani Ikalu Suryarashmilo Merustunte, Adi Goppagaa Tala Ettindi. \"Kraasss!\" Ani Oka Padunaina, Karnakathoramaina Aruputo — Adi Guti Vaipu Chusindi. Pillala Arupulu Vini, \"Ayyo! I Nallani, Gola Chese Pillalu Ni Bangaaru Pillalaa?\" Ani Vekkirinchindi. Talli Kaaki Okkasaarigaa Rommu Virichi, Daani Vaipu Chusindi. Tana Priyamaina Pillala Gurinchi I Avamaanaaniki Talli Kaaki Elaa Badulistundo?",
+      "text_en": "As the mother crow continued to lovingly watch her chicks, a peacock landed on a nearby branch. Its feathers shimmered in the sunlight, and it proudly lifted its head. With a sharp, harsh \"Cawww!\" — it looked towards the nest. Hearing the chicks' cries, it mocked, \"Oh dear! Are these black, noisy children your golden children?\" The mother crow immediately puffed out her chest and looked at it. How will the mother crow respond to this insult about her beloved children?"
+    },
+    {
+      "id": 3,
+      "text": "నెమలి మాటలకు తల్లి కాకి రెప్పపాటు ఆలోచించింది — ఆమె చూపులు పిల్లల మీద ఆగాయి. వాటి నల్లని ఈకలు, మెత్తని పొట్ట, నెమలి మాటలకు చిన్నగా బాధపడింది. కానీ, వాటి కళ్లలో మెరిసే చురుకుదనం, చిన్నగా బలపడుతున్న రెక్కలు చూస్తుంటే — ఆమె మనసు నిశ్చయించుకుంది. పిల్లల వెనుక భాగంలోని మెత్తని ఈకలను సున్నితంగా సరిచేస్తూ, \"మీరు నాకు ఎప్పటికీ బంగారమే, నా చిట్టి తల్లులారా,\" అని గుసగుసలాడింది. బయటి మాటలకు తన పిల్లలను ఎలా కాపాడుకోవాలి అని ఆమె ఆలోచించింది.",
+      "image_prompt": "The mother bird gently adjusts the soft feathers on the backs of her chicks, her gaze fixed on them. She whispers to them, and a determined look settles in her eyes as she observes their bright, sparkling eyes and strengthening wings. Soft afternoon light, dappled through leaves, creating a thoughtful and slightly melancholic glow around the nest, emphasizing the crow's internal reflection.",
+      "scene_visual": "The mother bird gently adjusts the soft feathers on the backs of her chicks, her gaze fixed on them. She whispers to them, and a determined look settles in her eyes as she observes their bright, sparkling eyes and strengthening wings.",
+      "supporting_char_keys": [
+        "chick_1",
+        "chick_2",
+        "chick_3"
+      ],
+      "text_te_en": "Nemali Maatalaku Talli Kaaki Reppapaatu Aalochinchindi — Aame Chupulu Pillala Mida Aagaayi. Vaati Nallani Ikalu, Mettani Potta, Nemali Maatalaku Chinnagaa Baadhapadindi. Kaani, Vaati Kallalo Merise Churukudanan, Chinnagaa Balapadutunna Rekkalu Chustunte — Aame Manasu Nishchayinchukundi. Pillala Venuka Bhaaganloni Mettani Ikalanu Sunnitangaa Sarichestu, \"Miru Naaku Eppatiki Bangaarame, Naa Chitti Tallulaaraa,\" Ani Gusagusalaadindi. Bayati Maatalaku Tana Pillalanu Elaa Kaapaadukovaali Ani Aame Aalochinchindi.",
+      "text_en": "The mother crow thought for a moment about the peacock's words — her gaze rested on her chicks. Their black feathers, their soft bellies; she felt a little sad because of the peacock's words. But seeing the sparkle in their eyes and their slowly strengthening wings — her mind was made up. Gently adjusting the soft feathers on their backs, she whispered, \"You will always be gold to me, my little darlings.\" She thought about how to protect her children from outside words."
+    },
+    {
+      "id": 4,
+      "text": "తల్లి కాకి తన పిల్లలను బయటి మాటల నుండి కాపాడాలని నిర్ణయించుకుంది. ఆమె వాటికి ముఖ్యమైన పాఠాలు నేర్పించడం మొదలుపెట్టింది — ప్రమాదాన్ని ఎలా గుర్తించాలి, పెద్దగా ఎలా అరవాలి. కొమ్మల మీద తన రెక్కలను బలంగా కొడుతూ, వేగంగా ఎగరడం ఎలాగో చూపించింది. ఒక పిల్ల కాకి కొద్దిగా తడబడుతూ, ఆకులను కదుపుతూ, ఒక కొమ్మ మీద దిగింది. \"వేగంగా ఎగరడం, గట్టిగా అరవడం... ఇవే మన బలం!\" అని తల్లి కాకి గట్టిగా చెప్పింది. ఈ ప్రత్యేకమైన నైపుణ్యాలను నేర్పడానికి తల్లి కాకి ఎందుకు అంత పట్టుదలతో ఉందో? ఏదైనా ప్రమాదం పొంచి ఉందా?",
+      "image_prompt": "The mother bird demonstrates rapid flying by strongly beating her wings on the branches, while one chick hesitantly lands on a branch, rustling the leaves. She loudly declares, \"Flying fast, shouting loudly... these are our strengths!\" as the chick wobbles slightly. Late afternoon sun, casting long, warm shadows through the tree, creating a purposeful and active atmosphere as lessons unfold.",
+      "scene_visual": "The mother bird demonstrates rapid flying by strongly beating her wings on the branches, while one chick hesitantly lands on a branch, rustling the leaves. She loudly declares, \"Flying fast, shouting loudly... these are our strengths!\" as the chick wobbles slightly.",
+      "supporting_char_keys": [
+        "chick_1",
+        "chick_2",
+        "chick_3"
+      ],
+      "text_te_en": "Talli Kaaki Tana Pillalanu Bayati Maatala Nundi Kaapaadaalani Nirnayinchukundi. Aame Vaatiki Mukhyamaina Paathaalu Nerpinchadam Modalupettindi — Pramaadaanni Elaa Gurtinchaali, Peddagaa Elaa Aravaali. Kommala Mida Tana Rekkalanu Balangaa Kodutu, Vegangaa Egaradam Elaago Chupinchindi. Oka Pilla Kaaki Koddigaa Tadabadutu, Aakulanu Kaduputu, Oka Komma Mida Digindi. \"Vegangaa Egaradan, Gattigaa Aravadan... Ive Mana Balan!\" Ani Talli Kaaki Gattigaa Cheppindi. I Pratyekamaina Naipunyaalanu Nerpadaaniki Talli Kaaki Enduku Anta Pattudalato Undo? Edainaa Pramaadam Ponchi Undaa?",
+      "text_en": "The mother crow decided to protect her children from outside words. She began teaching them important lessons — how to spot danger, and how to cry loudly. Beating her wings strongly against the branches, she showed them how to fly fast. One chick faltered a bit, rustling leaves, and landed on a branch. \"Flying fast, crying loudly... these are our strengths!\" the mother crow said firmly. Why was the mother crow so persistent in teaching these special skills? Was danger lurking?"
+    },
+    {
+      "id": 5,
+      "text": "పిల్లలు నేర్చుకుంటున్నప్పుడు, నెమలి మళ్లీ ఆ దారిన వచ్చింది. దాని అందమైన కాలు కింద ఒక చిన్న పుల్ల — \"కట్\" అని విరిగింది. \"ఇంత గోల ఎందుకు? మీ పిల్లలు ఎప్పటికీ అందంగా మారవు,\" అని నెమలి మళ్లీ వెక్కిరించింది. తల్లి కాకి తల ఎత్తి, దాని వైపు చూసింది — ఒక ధైర్యమైన అరుపుతో బదులిచ్చింది. తన పిల్లల భవిష్యత్తు గురించి ఆమె దృఢ నిశ్చయం చెదరలేదు. ఈ నెమలి వెక్కిరింతలు ఇలాగే కొనసాగుతాయా, లేక తల్లి కాకి సంకల్పం నిజంగా పరీక్షించబడుతుందా?",
+      "image_prompt": "The peacock returns, breaking a small stick under its beautiful leg, and mocks the mother bird and her chicks. The mother bird lifts her head, looks directly at the peacock, and responds with a brave cry, her resolve unwavering. Also in this scene: A magnificent male peacock with shimmering blue-green plumage and a long, ornate tail covered in iridescent 'eyes'. He moves with an air of self-importance and often looks down his long neck at others. Always the same character across every scene. Golden hour light, warm and intense, highlighting the peacock's vibrant colours against the crow's dark, resolute silhouette, emphasizing the contrast in their attitudes.",
+      "scene_visual": "The peacock returns, breaking a small stick under its beautiful leg, and mocks the mother bird and her chicks. The mother bird lifts her head, looks directly at the peacock, and responds with a brave cry, her resolve unwavering.",
+      "supporting_char_keys": [
+        "chick_1",
+        "chick_2",
+        "chick_3"
+      ],
+      "text_te_en": "Pillalu Nerchukuntunnappudu, Nemali Malli Aa Daarina Vachchindi. Daani Andamaina Kaalu Kinda Oka Chinna Pulla — \"Kat\" Ani Virigindi. \"Inta Gola Enduku? Mi Pillalu Eppatiki Andangaa Maaravu,\" Ani Nemali Malli Vekkirinchindi. Talli Kaaki Tala Etti, Daani Vaipu Chusindi — Oka Dhairyamaina Aruputo Badulichchindi. Tana Pillala Bhavishyattu Gurinchi Aame Drridha Nishchayam Chedaraledu. I Nemali Vekkirintalu Ilaage Konasaagutaayaa, Leka Talli Kaaki Sankalpam Nijangaa Parikshinchabadutundaa?",
+      "text_en": "While the chicks were learning, the peacock came by again. A small stick under its beautiful foot — \"Snap!\" it broke. \"Why all this fuss? Your children will never be beautiful,\" the peacock mocked again. The mother crow lifted her head and looked at it — responding with a brave cry. Her firm resolve about her children's future was unshaken. Will the peacock's mockery continue, or will the mother crow's resolve truly be tested?"
+    },
+    {
+      "id": 6,
+      "text": "అకస్మాత్తుగా, ఆకాశం నుండి ఒక పెద్ద డేగ గూటి వైపు దూసుకువచ్చింది. దాని పెద్ద రెక్కల నుండి — గాలి \"ఫెళ్లు\" మని విరుచుకుపడింది. పిల్లలు నేర్చుకున్న పాఠాన్ని గుర్తు తెచ్చుకుని, పెద్దగా అరవడం మొదలుపెట్టాయి — భయంతో చెల్లాచెదురయ్యాయి. \"పిల్లలారా, పారిపోండి! వేగంగా!\" అని తల్లి కాకి భయంకరంగా అరుస్తూ, డేగ వైపు దూకింది. ఆమె రెక్కలు పూర్తిగా విప్పి, డేగకు అడ్డుగా నిలబడింది. పిల్లలు నిజంగా ప్రమాదం నుండి తప్పించుకున్నాయా, మరి ఆ ధైర్యవంతురాలైన తల్లి కాకికి ఏమవుతుందో?",
+      "image_prompt": "A large eagle swoops down from the sky towards the nest, and the mother bird fiercely cries out, \"Children, run! Fast!\" She lunges towards the eagle, spreading her wings fully to stand as a barrier, as the air whips violently from the eagle's large wings. Dramatic, high contrast, with sharp sunlight catching the eagle's wings, casting deep, urgent shadows below, creating a tense and perilous atmosphere.",
+      "scene_visual": "A large eagle swoops down from the sky towards the nest, and the mother bird fiercely cries out, \"Children, run! Fast!\" She lunges towards the eagle, spreading her wings fully to stand as a barrier, as the air whips violently from the eagle's large wings.",
+      "supporting_char_keys": [
+        "chick_1",
+        "chick_2",
+        "chick_3"
+      ],
+      "text_te_en": "Akasmaattugaa, Aakaasham Nundi Oka Pedda Dega Guti Vaipu Dusukuvachchindi. Daani Pedda Rekkala Nundi — Gaali \"Phellu\" Mani Viruchukupadindi. Pillalu Nerchukunna Paathaanni Gurtu Techchukuni, Peddagaa Aravadam Modalupettaayi — Bhayanto Chellaachedurayyaayi. \"Pillalaaraa, Paaripondi! Vegangaa!\" Ani Talli Kaaki Bhayankarangaa Arustu, Dega Vaipu Dukindi. Aame Rekkalu Purtigaa Vippi, Degaku Addugaa Nilabadindi. Pillalu Nijangaa Pramaadam Nundi Tappinchukunnaayaa, Mari Aa Dhairyavanturaalaina Talli Kaakiki Emavutundo?",
+      "text_en": "Suddenly, a large eagle swooped down from the sky towards the nest. From its large wings — the air \"whooshed\" violently. The chicks remembered their lesson and began to cry loudly — scattering in fear. \"Children, run! Fast!\" the mother crow cried terribly, lunging towards the eagle. She spread her wings fully, standing in the eagle's way. Did the children truly escape danger, and what will happen to that brave mother crow?"
+    },
+    {
+      "id": 7,
+      "text": "డేగ దూరంగా పోగానే, తల్లి కాకి తన పిల్లలను దగ్గరకు తీసుకుంది. అవి కొద్దిగా రెక్కలు చిందరవందర అయ్యాయి, కానీ సురక్షితంగా ఉన్నాయి. తన రెక్క కింద వాటి వెచ్చని స్పర్శను ఆస్వాదిస్తూ — ఆమె కళ్ళలో అపారమైన ప్రేమ కనిపించింది. \"నువ్వు నా బంగారు పిల్లలు, ఎప్పటికీ బంగారు పిల్లలే,\" అని ఆమె మురిసిపోయింది. నెమలి మాటలు, డేగ దాడి — ఏవీ ఆమె ప్రేమను మార్చలేవు. ఆమె పిల్లలే ఆమె నిజమైన సంపద, అవి ఆమె కంటికి ఎప్పటికీ బంగారమే.",
+      "image_prompt": "After the eagle departs, the mother bird gathers her chicks close, enjoying their warm touch beneath her wing. Her eyes show immense love as she murmurs, \"You are my golden children, always my golden children,\" to her slightly ruffled but safe offspring. Gentle dusk light, warm amber, bathing the crow and her chicks in a soft, peaceful glow, signifying resolution and enduring love.",
+      "scene_visual": "After the eagle departs, the mother bird gathers her chicks close, enjoying their warm touch beneath her wing. Her eyes show immense love as she murmurs, \"You are my golden children, always my golden children,\" to her slightly ruffled but safe offspring.",
+      "supporting_char_keys": [
+        "chick_1",
+        "chick_2",
+        "chick_3"
+      ],
+      "text_te_en": "Dega Durangaa Pogaane, Talli Kaaki Tana Pillalanu Daggaraku Tisukundi. Avi Koddigaa Rekkalu Chindaravandara Ayyaayi, Kaani Surakshitangaa Unnaayi. Tana Rekka Kinda Vaati Vechchani Sparshanu Aasvaadistu — Aame Kallalo Apaaramaina Prema Kanipinchindi. \"Nuvvu Naa Bangaaru Pillalu, Eppatiki Bangaaru Pillale,\" Ani Aame Murisipoyindi. Nemali Maatalu, Dega Daadi — Evi Aame Premanu Maarchalevu. Aame Pillale Aame Nijamaina Sampada, Avi Aame Kantiki Eppatiki Bangaarame.",
+      "text_en": "As soon as the eagle was gone, the mother crow gathered her children close. Their feathers were a little ruffled, but they were safe. Enjoying their warm touch under her wing — immense love was visible in her eyes. \"You are my golden children, always my golden children,\" she cooed. The peacock's words, the eagle's attack — nothing could change her love. Her children were her true treasure, they were always gold in her eyes."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "chick_1",
+      "description": "A small, fluffy crow chick, slightly bolder than its siblings, with curious, beady black eyes. Always the same character across every scene."
+    },
+    {
+      "key": "chick_2",
+      "description": "A medium-sized crow chick, a bit clumsy but very eager to learn, with soft, downy feathers. Always the same character across every scene."
+    },
+    {
+      "key": "chick_3",
+      "description": "The smallest crow chick, a little shy but quick-witted, with a tiny, developing beak. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 9.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 10,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is an exceptionally well-crafted story for children. The narrative flows beautifully, building tension effectively while maintaining a warm, engaging tone. The emotional depth is consistently shown through action and subtle cues, making the characters feel real. The use of direct address and suspenseful hooks ensures high child engagement. The only minor area for consideration is to further enhance the \"pure oral warmth\" by perhaps adding more conversational interjections or slightly simplifying some descriptive phrases, though it's already very strong. This story is publish-ready and award-worthy."
+  },
+  "title_te_en": "Amma Chupulo Kanakam",
+  "moral_te_en": "Asalaina Prema Kallato Chusedi Kaadu, Manasuto Chusedi.",
+  "title_en": "Gold in Mother's Eyes",
+  "moral_en": "True love is not seen with the eyes, but felt with the heart.",
+  "id": "20260523_230803",
+  "date": "2026-05-23",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "కాకికి తన పిల్లలు బంగారు పిల్లలు అనే కథ",
+  "thumbnail": "stories/20260523_230803/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
