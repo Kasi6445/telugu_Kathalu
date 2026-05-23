@@ -27,10 +27,11 @@
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="static/icon-192.png">
   <meta name="theme-color" content="#FF6B35">
+  <link rel="preload" href="/static/hero-bg.webp" as="image" type="image/webp">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com">
-  <link rel="stylesheet" href="static/style.css?v=21">
+  <link rel="stylesheet" href="static/style.css?v=26">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-39G2696KDV"></script>
   <script>
@@ -87,7 +88,12 @@
     <!-- STICKY HEADER -->
     <header id="main-header">
       <div class="header-top">
-        <div class="header-brand">
+        <!-- Back button — shown only in category view, hidden on homepage -->
+        <button id="cat-back-btn" onclick="history.back()" aria-label="అన్ని కథలు" style="display:none">
+          <span class="back-arrow">←</span>
+          <span id="cat-back-label">అన్నీ</span>
+        </button>
+        <div class="header-brand" id="header-brand">
           <span class="brand-icon">📖</span>
           <span class="brand-name">తెలుగు కథలు</span>
         </div>
@@ -220,6 +226,36 @@
   </div>
 
   <script>
+    // Prevent browser from restoring scroll position on back navigation.
+    // Without this, returning to /?cat=X restores the old scroll offset,
+    // overriding our programmatic scroll-to-top in filterCategory().
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+
+    // ── BROWSER BACK / HISTORY ────────────────────────────────────────────────
+    // When the user presses browser back from inside a category view, popstate
+    // fires with the previous history state. We restore the category rather than
+    // letting the browser exit the app or navigate away.
+    window.addEventListener('popstate', (e) => {
+      const cat = (e.state && e.state.cat) || 'all';
+      filterCategory(cat, null, true);  // true = already from history, don't push again
+    });
+
+    // ── MISTOUCH PREVENTION ───────────────────────────────────────────────────
+    // Track whether the finger moved during a touch sequence. If it did, the
+    // user was scrolling — don't let the lift-off trigger a card navigation.
+    let _touchMoved = false;
+    document.addEventListener('touchstart', () => { _touchMoved = false; }, { passive: true });
+    document.addEventListener('touchmove',  () => { _touchMoved = true;  }, { passive: true });
+    // Capture-phase click listener: fires before the <a> default navigation.
+    // If the touch involved any movement, cancel the click entirely.
+    document.addEventListener('click', e => {
+      if (!_touchMoved) return;
+      if (e.target.closest('a.h-card, a.v-card, .cat-card')) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    }, true);
+
     const CATEGORIES = {
       neeti:        { name: 'నీతి కథలు',   te_en: 'Niti Kathalu',      en: 'Moral Stories',   emoji: '📚', color: '#FF6B35' },
       podupu:       { name: 'పొడుపు కథలు', te_en: 'Podupu Kathalu',    en: 'Riddle Stories',  emoji: '🧩', color: '#97C459' },
@@ -458,7 +494,7 @@
       renderAllStories(filtered);
     }
 
-    function filterCategory(cat, pillEl) {
+    function filterCategory(cat, pillEl, _fromHistory = false) {
       document.querySelectorAll('.nav-pill').forEach(p => p.classList.remove('active'));
       if (pillEl) {
         pillEl.classList.add('active');
@@ -470,8 +506,19 @@
       currentSub = 'all';
       updatePageSections(cat);
       showSubcategoryRow(cat);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
       applyFilters();
+      requestAnimationFrame(() => requestAnimationFrame(() => window.scrollTo(0, 0)));
+
+      // Push/replace history so browser back returns to the previous category
+      // instead of exiting the app. Skip when we're already responding to a
+      // popstate event (to avoid an infinite push loop).
+      if (!_fromHistory) {
+        if (cat === 'all') {
+          history.replaceState({cat: 'all'}, '', location.pathname);
+        } else {
+          history.pushState({cat}, '', location.pathname + '?cat=' + cat);
+        }
+      }
     }
 
     function updatePageSections(cat) {
@@ -479,6 +526,21 @@
       document.getElementById('hero-banner').style.display        = isAll ? '' : 'none';
       document.getElementById('section-categories').style.display = isAll ? '' : 'none';
       document.getElementById('section-recent').style.display     = isAll ? '' : 'none';
+
+      const backBtn   = document.getElementById('cat-back-btn');
+      const brandEl   = document.getElementById('header-brand');
+      if (isAll) {
+        backBtn.style.display = 'none';
+        brandEl.style.display = '';
+      } else {
+        const c     = CATEGORIES[cat] || {};
+        const label = searchLang === 'en'    ? (c.en    || cat)
+                    : searchLang === 'te_en' ? (c.te_en || cat)
+                    : (c.name || cat);
+        document.getElementById('cat-back-label').textContent = label;
+        backBtn.style.display = 'flex';
+        brandEl.style.display = 'none';
+      }
     }
 
     function showSubcategoryRow(catKey) {
@@ -580,6 +642,15 @@
       // Nav pills (re-render)
       renderNavPills(lang);
 
+      // Keep back button label in sync when language changes inside a category view
+      if (currentCat !== 'all') {
+        const c = CATEGORIES[currentCat] || {};
+        const lbl = lang === 'en'    ? (c.en    || currentCat)
+                  : lang === 'te_en' ? (c.te_en || currentCat)
+                  : (c.name || currentCat);
+        document.getElementById('cat-back-label').textContent = lbl;
+      }
+
       // Search placeholder
       document.getElementById('search-input').placeholder = t.search;
 
@@ -668,10 +739,17 @@
       const savedLang = localStorage.getItem('tk_lang') || 'te';
       if (savedLang !== searchLang) setLang(savedLang);
 
-      // Restore category view when coming back from a story page (e.g. /?cat=ramayana)
+      // Restore category view when coming back from a story page (e.g. /?cat=ramayana).
+      // Seed history: replace the initial entry with {cat:'all'} so that pressing
+      // back from a category always has a valid 'all' state to land on.
       const urlCat = new URLSearchParams(window.location.search).get('cat');
       if (urlCat && CATEGORIES[urlCat]) {
-        filterCategory(urlCat, null);
+        // Rewrite to clean URL with 'all' state first, then push the category —
+        // this way browser back from the category returns to the homepage view.
+        history.replaceState({cat: 'all'}, '', location.pathname);
+        filterCategory(urlCat, null);  // will pushState({cat: urlCat})
+      } else {
+        history.replaceState({cat: 'all'}, '', location.href);
       }
     });
 

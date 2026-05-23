@@ -9,7 +9,7 @@ body {
   font-family: 'Noto Sans Telugu', 'Segoe UI', sans-serif;
   background:
     linear-gradient(rgba(4,6,18,0.64), rgba(4,6,18,0.64)),
-    url('/static/hero-bg.png') center/cover no-repeat fixed;
+    url('/static/hero-bg.webp') center/cover no-repeat fixed;
   background-color: #070b16;
   color: white;
   min-height: 100vh;
@@ -144,6 +144,41 @@ body {
   cursor: pointer;
   opacity: 0.6;
   padding: 6px;
+}
+
+/* ── CATEGORY BACK BUTTON ── */
+#cat-back-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: rgba(255,255,255,0.92);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px 2px;
+  font-family: 'Noto Sans Telugu', sans-serif;
+  white-space: nowrap;
+  min-width: 0;
+  /* Generous tap target — prevents accidental misses on mobile */
+  min-height: 44px;
+}
+
+.back-arrow {
+  font-size: 1.1rem;
+  color: #FF6B35;
+  flex-shrink: 0;
+}
+
+#cat-back-label {
+  max-width: 140px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: linear-gradient(135deg, #FF6B35, #FFD700);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 /* ── CATEGORY NAV ── */
@@ -518,22 +553,34 @@ a.h-card, a.v-card {
     height: auto;
     aspect-ratio: 1 / 1.15;
     background-size: cover;
-    background-position: left top;
+    background-position: 10% top;
     align-items: flex-start;
     justify-content: flex-end;
-    padding: 0 12px 12px;
+    padding: 0 12px 14px;
     text-align: left;
   }
+  /* On mobile the desktop horizontal gradient (fixed px stops) would eat the full
+     card width, hiding most of the illustration. Strip it — show only the image,
+     let the ::after bottom-to-top gradient handle text legibility. */
+  .cat-bg-neeti        { background-image: url('/assets/categories/niti-kathalu.webp'); }
+  .cat-bg-podupu       { background-image: url('/assets/categories/podupu-kathalu.webp'); }
+  .cat-bg-tenali       { background-image: url('/assets/categories/tenaali-raama.webp'); }
+  .cat-bg-panchatantra { background-image: url('/assets/categories/panchatantran.webp'); }
+  .cat-bg-ramayana     { background-image: url('/assets/categories/raamaayanan.webp'); }
+  .cat-bg-samethalu    { background-image: url('/assets/categories/saametalu.webp'); }
+  .cat-bg-janapada     { background-image: url('/assets/categories/jaanapadan.webp'); }
+  .cat-bg-bhagavatam   { background-image: url('/assets/categories/bhaagavatan.webp'); }
+
   .cat-card::after {
     content: '';
     position: absolute;
     inset: 0;
     background: linear-gradient(
       to top,
-      rgba(0,0,0,0.90) 0%,
-      rgba(0,0,0,0.75) 22%,
-      rgba(0,0,0,0.28) 44%,
-      transparent 64%
+      rgba(0,0,0,0.93) 0%,
+      rgba(0,0,0,0.80) 28%,
+      rgba(0,0,0,0.22) 55%,
+      transparent 75%
     );
     pointer-events: none;
     z-index: 0;
@@ -545,7 +592,7 @@ a.h-card, a.v-card {
   }
   .cat-card .cat-name {
     font-size: 1.0rem;
-    text-shadow: 0 1px 4px rgba(0,0,0,0.7);
+    text-shadow: 0 1px 6px rgba(0,0,0,0.85);
   }
 }
 

@@ -1,8 +1,9 @@
-const CACHE_NAME    = 'telugu-kathalu-v7';
-const RUNTIME_CACHE = 'telugu-kathalu-runtime-v7';
+const CACHE_NAME    = 'telugu-kathalu-v8';
+const RUNTIME_CACHE = 'telugu-kathalu-runtime-v8';
 
 const PRECACHE_ASSETS = [
   '/static/style.css',
+  '/static/hero-bg.webp',
   '/static/icon-192.png',
   '/static/icon-512.png',
 ];
@@ -43,9 +44,10 @@ self.addEventListener('fetch', event => {
 
   const path = url.pathname;
 
-  // JSON — network-first (always get fresh story data)
+  // JSON — stale-while-revalidate: serve cached version immediately so the
+  // page renders without waiting for the network, then update cache in background.
   if (path.endsWith('.json')) {
-    event.respondWith(networkFirst(request));
+    event.respondWith(staleWhileRevalidate(request));
     return;
   }
 
@@ -66,20 +68,19 @@ self.addEventListener('fetch', event => {
 });
 
 // ── STRATEGIES ───────────────────────────────────────────────────────────────
-async function networkFirst(request) {
-  try {
-    const response = await fetch(request);
+// Serve from cache immediately (instant render), then fetch fresh copy in
+// background and update cache for next visit. Falls back to network on first load.
+async function staleWhileRevalidate(request) {
+  const cached = await caches.match(request);
+  const fetchPromise = fetch(request).then(response => {
     if (response.ok) {
-      const cache = await caches.open(RUNTIME_CACHE);
-      cache.put(request, response.clone());
+      caches.open(RUNTIME_CACHE).then(cache => cache.put(request, response.clone()));
     }
     return response;
-  } catch (_) {
-    const cached = await caches.match(request);
-    return cached || new Response('{}', {
-      headers: { 'Content-Type': 'application/json' }
-    });
-  }
+  }).catch(() => null);
+  return cached || await fetchPromise || new Response('{}', {
+    headers: { 'Content-Type': 'application/json' }
+  });
 }
 
 async function cacheFirst(request, cacheName) {
