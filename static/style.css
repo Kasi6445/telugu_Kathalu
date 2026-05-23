@@ -304,11 +304,11 @@ body {
 .cat-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 18px;
+  gap: 14px 18px;
 }
 
 .cat-card {
-  border-radius: 20px;
+  border-radius: 18px;
   overflow: hidden;
   cursor: pointer;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
@@ -316,18 +316,19 @@ body {
   flex-direction: column;
   align-items: flex-end;
   justify-content: center;
-  padding: 16px 28px 16px 0;
-  height: 150px;
+  padding: 14px 28px 14px 0;
+  height: 138px;
   background-size: auto 100%;
   background-position: left center;
   background-repeat: no-repeat;
   text-align: right;
-  box-shadow: 0 8px 24px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.04);
 }
 
 .cat-card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 12px 32px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.05);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.04);
 }
 .cat-card:active { transform: translateY(-1px); }
 
@@ -335,78 +336,71 @@ body {
 .cat-emoji { display: none; }
 
 .cat-name {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   font-weight: 600;
   line-height: 1.3;
   letter-spacing: 0.2px;
 }
 
 .cat-count {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   font-weight: 400;
   color: rgba(255,255,255,0.68);
-  margin-top: 6px;
+  margin-top: 5px;
 }
 
 /* ── CATEGORY BACKGROUND IMAGES ── */
-/* Card height 150px → image scales to 496px wide (437×132 → auto×150).
-   Baked English in original image at ~159px from left → in 150px-scaled image at ~181px.
-   Gradient stops use absolute px: transparent 0-165px → dark at 182-195px. */
+/* Card height 138px → image scales to 457px wide (437×132 → auto×138).
+   Baked English in original image at ~159px from left → in 138px-scaled image at ~166px.
+   Gradient: dim illustration (0.18 overlay) for 0-112px, then cinematic 45px fade (112-168px),
+   fully dark at 178px+ ensuring baked text at ~166px is covered. */
 .cat-bg-neeti {
   background-image:
-    linear-gradient(to right, transparent 0px, transparent 165px, rgba(30,8,0,0.95) 182px, rgba(30,8,0,0.99) 195px),
+    linear-gradient(to right, rgba(30,8,0,0.18) 0px, rgba(30,8,0,0.18) 112px, rgba(30,8,0,0.65) 145px, rgba(30,8,0,0.98) 168px, rgba(30,8,0,0.99) 178px),
     url('/assets/categories/niti-kathalu.webp');
   background-color: #1e0800;
-  border: 1px solid rgba(255,119,0,0.35);
 }
 .cat-bg-podupu {
   background-image:
-    linear-gradient(to right, transparent 0px, transparent 165px, rgba(5,25,0,0.95) 182px, rgba(5,25,0,0.99) 195px),
+    linear-gradient(to right, rgba(5,25,0,0.18) 0px, rgba(5,25,0,0.18) 112px, rgba(5,25,0,0.65) 145px, rgba(5,25,0,0.98) 168px, rgba(5,25,0,0.99) 178px),
     url('/assets/categories/podupu-kathalu.webp');
   background-color: #051900;
-  border: 1px solid rgba(120,255,0,0.25);
 }
 .cat-bg-tenali {
   background-image:
-    linear-gradient(to right, transparent 0px, transparent 165px, rgba(0,10,40,0.95) 182px, rgba(0,10,40,0.99) 195px),
+    linear-gradient(to right, rgba(0,10,40,0.18) 0px, rgba(0,10,40,0.18) 112px, rgba(0,10,40,0.65) 145px, rgba(0,10,40,0.98) 168px, rgba(0,10,40,0.99) 178px),
     url('/assets/categories/tenaali-raama.webp');
   background-color: #000c28;
-  border: 1px solid rgba(80,130,255,0.3);
 }
 .cat-bg-panchatantra {
   background-image:
-    linear-gradient(to right, transparent 0px, transparent 165px, rgba(0,30,25,0.95) 182px, rgba(0,30,25,0.99) 195px),
+    linear-gradient(to right, rgba(0,30,25,0.18) 0px, rgba(0,30,25,0.18) 112px, rgba(0,30,25,0.65) 145px, rgba(0,30,25,0.98) 168px, rgba(0,30,25,0.99) 178px),
     url('/assets/categories/panchatantran.webp');
   background-color: #001e19;
-  border: 1px solid rgba(0,255,200,0.22);
 }
 .cat-bg-ramayana {
   background-image:
-    linear-gradient(to right, transparent 0px, transparent 165px, rgba(20,0,35,0.95) 182px, rgba(20,0,35,0.99) 195px),
+    linear-gradient(to right, rgba(20,0,35,0.18) 0px, rgba(20,0,35,0.18) 112px, rgba(20,0,35,0.65) 145px, rgba(20,0,35,0.98) 168px, rgba(20,0,35,0.99) 178px),
     url('/assets/categories/raamaayanan.webp');
   background-color: #100023;
-  border: 1px solid rgba(190,90,255,0.25);
 }
 .cat-bg-samethalu {
   background-image:
-    linear-gradient(to right, transparent 0px, transparent 165px, rgba(30,15,0,0.95) 182px, rgba(30,15,0,0.99) 195px),
+    linear-gradient(to right, rgba(30,15,0,0.18) 0px, rgba(30,15,0,0.18) 112px, rgba(30,15,0,0.65) 145px, rgba(30,15,0,0.98) 168px, rgba(30,15,0,0.99) 178px),
     url('/assets/categories/saametalu.webp');
   background-color: #1a0c00;
-  border: 1px solid rgba(255,160,50,0.2);
 }
 .cat-bg-janapada {
   background-image:
-    linear-gradient(to right, transparent 0px, transparent 165px, rgba(0,8,30,0.95) 182px, rgba(0,8,30,0.99) 195px),
+    linear-gradient(to right, rgba(0,8,30,0.18) 0px, rgba(0,8,30,0.18) 112px, rgba(0,8,30,0.65) 145px, rgba(0,8,30,0.98) 168px, rgba(0,8,30,0.99) 178px),
     url('/assets/categories/jaanapadan.webp');
   background-color: #000820;
-  border: 1px solid rgba(80,140,255,0.25);
 }
 .cat-bg-bhagavatam {
   background-image:
-    linear-gradient(to right, transparent 0px, transparent 165px, rgba(35,20,0,0.95) 182px, rgba(35,20,0,0.99) 195px),
+    linear-gradient(to right, rgba(35,20,0,0.18) 0px, rgba(35,20,0,0.18) 112px, rgba(35,20,0,0.65) 145px, rgba(35,20,0,0.98) 168px, rgba(35,20,0,0.99) 178px),
     url('/assets/categories/bhaagavatan.webp');
   background-color: #201200;
-  border: 1px solid rgba(255,200,0,0.22);
 }
 
 /* ── HORIZONTAL CARDS ── */
@@ -488,11 +482,11 @@ a.h-card, a.v-card {
 @media (max-width: 640px) {
   .cat-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 12px;
+    gap: 10px;
   }
   .cat-card {
-    height: 110px;
-    padding-right: 16px;
+    height: 100px;
+    padding-right: 14px;
   }
 }
 
