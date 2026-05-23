@@ -1,0 +1,90 @@
+{
+  "title": "రాజుకు మట్టి నేర్పిన పాఠం",
+  "moral": "అన్నీ తెలుసు అనుకుంటే, నేర్చుకోవడం ఆగిపోతుంది, ఇతరుల మంచి మాటలు దూరమవుతాయి.",
+  "main_character": "Raju is a young, exceptionally skilled potter with strong, calloused hands, a lean build, and a perpetually confident, almost haughty expression. He is fiercely independent and believes his talent surpasses all others, often dismissing advice. Always the same character across every scene.",
+  "antagonist": "Subbaiah is an elderly potter with a kind, wrinkled face framed by sparse white hair and a neatly trimmed beard. He wears a simple, faded white dhoti and an equally simple shirt, always carrying a small, worn wooden tool for shaping clay. Always the same character across every scene.",
+  "setting": "The bustling, sun-drenched pottery village of Gundlapally in Andhra Pradesh, where the air hums with the whir of potter's wheels and the scent of damp clay. Clay pits, drying racks filled with terracotta, and smoking kilns dot the landscape under a vast blue sky. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గుండ్లపల్లి గ్రామంలో, మట్టి చక్రం లయబద్ధంగా తిరుగుతోంది. రాజు, తన చేతులతో ఒక అందమైన కుండను పూర్తి చేశాడు. అతని పెదవుల మీద గర్వంతో కూడిన చిరునవ్వు మెరిసింది — ఇంత అందంగా కుండను తయారు చేసినందుకు అతను మురిసిపోయాడు. చక్రం ఇంకా లయబద్ధంగా తిరుగుతుండగా, కుండ అంచున ఒక చిన్న పగులు కనిపించింది. \"ఇంత అందమైన కుండను ఎవరు చేయగలరు? ఈ చిన్న లోపం లెక్క కాదు!\" అని రాజు తనలో తనే అనుకున్నాడు. ఆ చిన్న పగులు భవిష్యత్తులో ఏదైనా సమస్య తెస్తుందా, పిల్లలూ?",
+      "scene_visual": "The boy is admiring the pot he just finished making on the spinning wheel. A small crack becomes visible on the rim of the pot while the wheel continues to turn rhythmically.",
+      "image_prompt": "The boy is admiring the pot he just finished making on the spinning wheel. A small crack becomes visible on the rim of the pot while the wheel continues to turn rhythmically. Bright morning sun streaming into an open-sided pottery shed, highlighting dust motes dancing in the air and casting sharp shadows on Raju's focused face.",
+      "text_te_en": "Gundlapalli Graamanlo, Matti Chakram Layabaddhangaa Tirugutondi. Raaju, Tana Chetulato Oka Andamaina Kundanu Purti Cheshaadu. Atani Pedavula Mida Garvanto Kudina Chirunavvu Merisindi — Inta Andangaa Kundanu Tayaaru Chesinanduku Atanu Murisipoyaadu. Chakram Inkaa Layabaddhangaa Tirugutundagaa, Kunda Anchuna Oka Chinna Pagulu Kanipinchindi. \"Inta Andamaina Kundanu Evaru Cheyagalaru? I Chinna Lopam Lekka Kaadu!\" Ani Raaju Tanalo Tane Anukunnaadu. Aa Chinna Pagulu Bhavishyattulo Edainaa Samasya Testundaa, Pillalu?",
+      "text_en": "In Gundlapalli village, the potter's wheel spun rhythmically. Raju finished a beautiful pot with his hands. A proud smile shone on his lips — he was delighted to have made such a beautiful pot. As the wheel still spun rhythmically, a tiny crack appeared on the pot's rim. \"Who else can make such a beautiful pot? This tiny flaw doesn't matter!\" Raju thought to himself. Will that tiny crack cause any problems in the future, children?"
+    },
+    {
+      "id": 2,
+      "text": "మట్టి పొడి వాసనతో నిండిన ఆ గ్రామంలో, పెద్దలందరూ కూర్చొని ఉన్నారు. గ్రామ పెద్ద సుబ్బయ్య, పండుగ కోసం పెద్ద కుండల పోటీ ప్రకటించాడు. రాజు వెంటనే తన ఛాతీని ఉబ్బించి నిలబడ్డాడు — అతని కళ్ళలో పోటీతత్వం మెరిసింది. కొందరు వృద్ధులు ప్రత్యేక మట్టి మిశ్రమం గురించి చెప్పబోయినప్పుడు, రాజు చేతులు ఊపాడు. \"నాకు ఎవరి సలహా అవసరం లేదు. నా నైపుణ్యం చాలు!\" అంటూ గంభీరంగా పలికాడు. అప్పుడు రాజు విస్మరించిన ఆ ప్రత్యేక మట్టి మిశ్రమం, అతని గొప్ప కుండను ఎలా ప్రభావితం చేస్తుందో తెలుసా?",
+      "scene_visual": "The boy stands up, puffing out his chest, as elders sit around him. He waves his hands dismissively while speaking, his eyes gleaming with competitiveness.",
+      "image_prompt": "The boy stands up, puffing out his chest, as elders sit around him. He waves his hands dismissively while speaking, his eyes gleaming with competitiveness. Harsh midday sun beating down on the village square, making colors look washed out, with a sense of impending challenge.",
+      "text_te_en": "Matti Podi Vaasanato Nindina Aa Graamanlo, Peddalandaru Kurchoni Unnaaru. Graama Pedda Subbayya, Panduga Kosam Pedda Kundala Poti Prakatinchaadu. Raaju Ventane Tana Chaatini Ubbinchi Nilabaddaadu — Atani Kallalo Potitatvam Merisindi. Kondaru Vrriddhulu Pratyeka Matti Mishramam Gurinchi Cheppaboyinappudu, Raaju Chetulu Upaadu. \"Naaku Evari Salahaa Avasaram Ledu. Naa Naipunyam Chaalu!\" Antu Gambhirangaa Palikaadu. Appudu Raaju Vismarinchina Aa Pratyeka Matti Mishraman, Atani Goppa Kundanu Elaa Prabhaavitam Chestundo Telusaa?",
+      "text_en": "In that village, filled with the smell of dry clay, all the elders were gathered. The village elder, Subbaiah, announced a big pot-making competition for the festival. Raju immediately puffed out his chest and stood up — a competitive spark shone in his eyes. When some old potters tried to tell him about a special clay mixture, Raju waved his hands. \"I don't need anyone's advice. My skill is enough!\" he declared proudly. Do you know how that special clay mixture, which Raju ignored, would affect his great pot?"
+    },
+    {
+      "id": 3,
+      "text": "పెద్ద కుండను తయారు చేయాలని రాజు చక్రం దగ్గర కూర్చున్నాడు. మట్టిని చక్రంపై పెట్టి, దానిని పైకి లేపుతుంటే, అది తన బరువుకే కుప్పకూలిపోతోంది. బురదలో కూరుకుపోయినట్లుగా, మట్టి అతని చేతుల నుండి జారిపోతోంది. అతని నుదిటిపై ముడుతలు పడ్డాయి, అతను కోపంతో పనిబల్లపై పిడికిలి విసిరాడు. \"ఛీ! ఈ మట్టి నా మాట వినడం లేదు!\" అని విసుగుగా అన్నాడు. తన గొప్ప కుండ ఎందుకు పదేపదే పడిపోతుందో రాజు తెలుసుకుంటాడా, లేక మట్టినే నిందిస్తూ ఉంటాడా?",
+      "scene_visual": "The boy sits at the wheel, trying to shape a large pot, but the clay repeatedly collapses. His brow is furrowed with frustration as he angrily slams his fist onto the workbench.",
+      "image_prompt": "The boy sits at the wheel, trying to shape a large pot, but the clay repeatedly collapses. His brow is furrowed with frustration as he angrily slams his fist onto the workbench. Late afternoon light, warm but fading, casting long, tired shadows across Raju's work area, emphasizing his isolation and growing defeat.",
+      "text_te_en": "Pedda Kundanu Tayaaru Cheyaalani Raaju Chakram Daggara Kurchunnaadu. Mattini Chakrampai Petti, Daanini Paiki Leputunte, Adi Tana Baruvuke Kuppakulipotondi. Buradalo Kurukupoyinatlugaa, Matti Atani Chetula Nundi Jaaripotondi. Atani Nuditipai Mudutalu Paddaayi, Atanu Kopanto Paniballapai Pidikili Visiraadu. \"Chi! I Matti Naa Maata Vinadam Ledu!\" Ani Visugugaa Annaadu. Tana Goppa Kunda Enduku Padepade Padipotundo Raaju Telusukuntaadaa, Leka Mattine Nindistu Untaadaa?",
+      "text_en": "Raju sat at the wheel, determined to make a big pot. He placed the clay on the wheel, and as he tried to pull it up, it kept collapsing under its own weight. Like sinking in mud, the clay slipped from his hands. Wrinkles appeared on his forehead, and he angrily slammed his fist on the workbench. \"Ugh! This clay isn't listening to me!\" he grumbled in frustration. Will Raju figure out why his great pot keeps falling apart, or will he keep blaming the clay?"
+    },
+    {
+      "id": 4,
+      "text": "ఎన్నో ప్రయత్నాల తర్వాత, రాజు ఒక పెద్ద కుండను కష్టపడి బట్టీలోకి చేర్చాడు. అగ్ని జ్వాలలు నెమ్మదిగా కుండను కాల్చుతుండగా, రాజు ఆశగా చూశాడు. ఒక్కసారిగా — బట్టీలోపల నుండి పెద్ద పగులు చప్పుడు వినిపించింది. పగిలిన కుండ ముక్కలు కింద పడుతూ, ఠాఠా శబ్దం చేశాయి. రాజు నోరు తెరుచుకుంది, అతని భుజాలు వాలిపోయాయి. కళ్ళు ఆశ్చర్యంతో పెద్దవి అయ్యాయి. \"నాకు నమ్మలేకపోతున్నాను... ఇది ఎలా జరిగింది?\" అని నిస్సత్తువగా అన్నాడు. తన కళాఖండం ముక్కలవ్వగా, రాజు తర్వాత ఏం చేస్తాడు, తన తప్పును అర్థం చేసుకుంటాడా?",
+      "scene_visual": "The boy watches anxiously as a large pot is being fired in the kiln. A loud cracking sound erupts from inside the kiln, and his mouth hangs open in shock as his shoulders slump.",
+      "image_prompt": "The boy watches anxiously as a large pot is being fired in the kiln. A loud cracking sound erupts from inside the kiln, and his mouth hangs open in shock as his shoulders slump. The orange glow from the kiln's mouth casts an infernal, dramatic light on Raju's face, making his shock and despair stark against the darkening evening.",
+      "text_te_en": "Enno Prayatnaala Tarvaata, Raaju Oka Pedda Kundanu Kashtapadi Battiloki Cherchaadu. Agni Jvaalalu Nemmadigaa Kundanu Kaalchutundagaa, Raaju Aashagaa Chushaadu. Okkasaarigaa — Battilopala Nundi Pedda Pagulu Chappudu Vinipinchindi. Pagilina Kunda Mukkalu Kinda Padutu, Thaathaa Shabdam Cheshaayi. Raaju Noru Teruchukundi, Atani Bhujaalu Vaalipoyaayi. Kallu Aashcharyanto Peddavi Ayyaayi. \"Naaku Nammalekapotunnaanu... Idi Elaa Jarigindi?\" Ani Nissattuvagaa Annaadu. Tana Kalaakhandam Mukkalavvagaa, Raaju Tarvaata Em Chestaadu, Tana Tappunu Artham Chesukuntaadaa?",
+      "text_en": "After many attempts, Raju painstakingly managed to get a big pot into the kiln. As the flames slowly baked the pot, Raju watched hopefully. Suddenly — a loud cracking sound came from inside the kiln. Broken pieces of the pot fell to the ground with a clatter. Raju's mouth hung open, and his shoulders slumped. His eyes widened in shock. \"I can't believe it... How did this happen?\" he said weakly. With his masterpiece shattered, what will Raju do next? Will he understand his mistake?"
+    },
+    {
+      "id": 5,
+      "text": "బట్టీలో పగిలిన కుండ ముక్కల మధ్య రాజు తల దించుకుని కూర్చున్నాడు. అతని మనసు నిరాశతో నిండిపోయింది. చుట్టూ ఉన్న కుమ్మర్లు ప్రశాంతంగా పనిచేసుకుంటున్నారు, ఒకరికొకరు సలహాలు ఇచ్చుకుంటున్నారు. అక్కడ తడి మట్టి వాసన, పొగ వాసన కలిసి ఒక కొత్త అనుభూతిని ఇస్తున్నాయి. రాజు వారిని చూస్తుండగా — అతని కళ్ళలో ఒక చిన్న ఆసక్తి మెరిసింది. \"వాళ్ళు ఎంత ప్రశాంతంగా ఉన్నారు... నేను ఎందుకు అలా లేను?\" అని తనలో తనే అనుకున్నాడు. రాజు తన అహంకారాన్ని వదిలి, చుట్టూ ఉన్న జ్ఞానాన్ని స్వీకరిస్తాడా?",
+      "scene_visual": "The boy sits with his head bowed amidst the broken pieces of the pot from the kiln. He looks up to observe other potters calmly working, and a small spark of interest flickers in his eyes.",
+      "image_prompt": "The boy sits with his head bowed amidst the broken pieces of the pot from the kiln. He looks up to observe other potters calmly working, and a small spark of interest flickers in his eyes. The protagonist watches from the side. Also in this scene: Subbaiah is an elderly potter with a kind, wrinkled face framed by sparse white hair and a neatly trimmed beard. He wears a simple, faded white dhoti and an equally simple shirt, always carrying a small, worn wooden tool for shaping clay. Always the same character across every scene. Gentle dusk light, warm amber, painting the scene with a soft, reflective glow, highlighting the contrast between Raju's gloom and the peaceful activity of others.",
+      "text_te_en": "Battilo Pagilina Kunda Mukkala Madhya Raaju Tala Dinchukuni Kurchunnaadu. Atani Manasu Niraashato Nindipoyindi. Chuttu Unna Kummarlu Prashaantangaa Panichesukuntunnaaru, Okarikokaru Salahaalu Ichchukuntunnaaru. Akkada Tadi Matti Vaasana, Poga Vaasana Kalisi Oka Kotta Anubhutini Istunnaayi. Raaju Vaarini Chustundagaa — Atani Kallalo Oka Chinna Aasakti Merisindi. \"Vaallu Enta Prashaantangaa Unnaaru... Nenu Enduku Alaa Lenu?\" Ani Tanalo Tane Anukunnaadu. Raaju Tana Ahankaaraanni Vadili, Chuttu Unna Jnyaanaanni Svikaristaadaa?",
+      "text_en": "Raju sat with his head down amidst the broken pot pieces in the kiln. His mind was filled with despair. The potters around him were working calmly, giving each other advice. The smell of wet clay and smoke combined to create a new feeling there. As Raju watched them — a small spark of interest flickered in his eyes. \"They are so calm... Why am I not like that?\" he wondered to himself. Will Raju let go of his pride and accept the wisdom around him?"
+    },
+    {
+      "id": 6,
+      "text": "తను చేసిన తప్పును అర్థం చేసుకున్న రాజు, మెల్లగా సుబ్బయ్య దగ్గరకు నడిచాడు. అతని కళ్ళలో పశ్చాత్తాపం స్పష్టంగా కనిపించింది. \"గురువుగారు, నా అహంకారం నాకు పాఠం నేర్పింది. దయచేసి నాకు సహాయం చేయండి\" అని వినయంగా అడిగాడు. సుబ్బయ్య చిరునవ్వుతో రాజు భుజంపై చేయి వేసి, మెల్లగా నిమిరాడు — ఆ ముసలి చేతి స్పర్శ రాజుకు ఎంతో ఓదార్పునిచ్చింది. సుబ్బయ్య రాజుకు ఎలాంటి జ్ఞానాన్ని పంచుకుంటాడు, అది రాజు ఆలోచనలను ఎలా మారుస్తుంది?",
+      "scene_visual": "The boy slowly walks towards the old man, his eyes clearly showing repentance. The old man smiles and gently places a comforting hand on the boy's shoulder.",
+      "image_prompt": "The boy slowly walks towards the old man, his eyes clearly showing repentance. The old man smiles and gently places a comforting hand on the boy's shoulder. Also in this scene: Subbaiah is an elderly potter with a kind, wrinkled face framed by sparse white hair and a neatly trimmed beard. He wears a simple, faded white dhoti and an equally simple shirt, always carrying a small, worn wooden tool for shaping clay. Always the same character across every scene. The soft, fading light of late evening, almost twilight, creating an intimate and serious atmosphere for their conversation, with shadows deepening around them.",
+      "text_te_en": "Tanu Chesina Tappunu Artham Chesukunna Raaju, Mellagaa Subbayya Daggaraku Nadichaadu. Atani Kallalo Pashchaattaapam Spashtangaa Kanipinchindi. \"Guruvugaaru, Naa Ahankaaram Naaku Paatham Nerpindi. Dayachesi Naaku Sahaayam Cheyandi\" Ani Vinayangaa Adigaadu. Subbayya Chirunavvuto Raaju Bhujampai Cheyi Vesi, Mellagaa Nimiraadu — Aa Musali Cheti Sparsha Raajuku Ento Odaarpunichchindi. Subbayya Raajuku Elaanti Jnyaanaanni Panchukuntaadu, Adi Raaju Aalochanalanu Elaa Maarustundi?",
+      "text_en": "Raju, understanding his mistake, slowly walked over to Subbaiah. Regret was clearly visible in his eyes. \"Master, my pride has taught me a lesson. Please help me,\" he asked humbly. Subbaiah smiled, placed a hand on Raju's shoulder, and gently patted it — the touch of that old hand brought Raju great comfort. What wisdom will Subbaiah share with Raju, and how will it change Raju's thoughts?"
+    },
+    {
+      "id": 7,
+      "text": "సుబ్బయ్య సలహాలతో, రాజు తన సహ కుమ్మర్లతో కలిసి పని చేయడం మొదలుపెట్టాడు. అందరూ ఒకరికొకరు సలహాలు ఇచ్చుకుంటూ, నవ్వుకుంటూ పనిచేస్తున్నారు — ఆ వాతావరణం ఎంతో ఉత్సాహంగా మారింది. రాజు ఇప్పుడు ఎంతో శ్రద్ధగా, వినయంగా అందరి మాటలు వింటున్నాడు. వారి సహాయంతో, అతను పండుగ కోసం ఒక అద్భుతమైన, దృఢమైన కుండను తయారు చేయగలిగాడు. కుండను చూసి, రాజు ముఖం సంతోషంతో వెలిగిపోయింది. \"కలిసి పనిచేస్తే ఎంత సులువుగా ఉందో!\" అని ఆనందంగా పలికాడు.",
+      "scene_visual": "The boy works collaboratively with other potters, sharing advice and laughing. His face lights up with joy as he proudly looks at the magnificent, sturdy pot they have created together.",
+      "image_prompt": "The boy works collaboratively with other potters, sharing advice and laughing. His face lights up with joy as he proudly looks at the magnificent, sturdy pot they have created together. Bright, cheerful morning light, golden and fresh, illuminating the bustling pottery workshop, reflecting off the newly finished, perfectly formed pot.",
+      "text_te_en": "Subbayya Salahaalato, Raaju Tana Saha Kummarlato Kalisi Pani Cheyadam Modalupettaadu. Andaru Okarikokaru Salahaalu Ichchukuntu, Navvukuntu Panichestunnaaru — Aa Vaataavaranam Ento Utsaahangaa Maarindi. Raaju Ippudu Ento Shraddhagaa, Vinayangaa Andari Maatalu Vintunnaadu. Vaari Sahaayanto, Atanu Panduga Kosam Oka Adbhutamaina, Drridhamaina Kundanu Tayaaru Cheyagaligaadu. Kundanu Chusi, Raaju Mukham Santoshanto Veligipoyindi. \"Kalisi Panicheste Enta Suluvugaa Undo!\" Ani Aanandangaa Palikaadu.",
+      "text_en": "With Subbaiah's advice, Raju began working together with his fellow potters. Everyone was giving each other advice and working with smiles — the atmosphere became very lively. Raju now listened to everyone's words very carefully and humbly. With their help, he was able to make a wonderful, strong pot for the festival. Seeing the pot, Raju's face lit up with joy. \"How easy it is when we work together!\" he exclaimed happily."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is exceptionally well-crafted for children, boasting a compelling narrative arc, flawless grammar, and outstanding child engagement through direct address and suspense hooks. The grandmother's voice is almost perfectly captured. To reach award-worthy status, the single most important fix is to enhance dialogue richness by incorporating more direct interactions between characters, rather than relying on internal monologues in some scenes. This would add another layer of dynamic storytelling."
+  },
+  "title_te_en": "Raajuku Matti Nerpina Paatham",
+  "moral_te_en": "Anni Telusu Anukunte, Nerchukovadam Aagipotundi, Itarula Manchi Maatalu Duramavutaayi.",
+  "title_en": "The Lesson Clay Taught Raju",
+  "moral_en": "If you think you know everything, you stop learning, and you miss out on good advice from others.",
+  "id": "20260522_180938",
+  "date": "2026-05-22",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "అహంకారి పడ్డ నష్టం అనే కథ",
+  "thumbnail": "stories/20260522_180938/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

@@ -1,0 +1,82 @@
+{
+  "title": "రాజూ, కాలువ గొడవ",
+  "moral": "పిల్లలూ, ఏ పనైనా సరే, చిన్నదిగా ఉన్నప్పుడే చూసుకోవాలి, లేదంటే పెద్ద కష్టంగా మారుతుంది కదా!",
+  "main_character": "Raju is a slender, energetic boy of ten with bright, curious eyes and a mop of unruly black hair. He often believes he knows better than others and has a tendency to procrastinate important tasks. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story is set in a vibrant village nestled by the banks of the Godavari River in rural Andhra Pradesh, characterized by red-tiled roofs, lush paddy fields, and a central banyan tree. The air often carries the scent of jasmine and woodsmoke. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గడగడలాడే గోదావరి నది పక్కన, చక్కటి పల్లెటూరిలో రాజూ అనే కుర్రాడు ఉండేవాడు. ఒకరోజు పొలం కాలువలో చిన్న లీకు కనబడగా, రాజూ దాన్ని పట్టించుకోలేదు. తన పాదాల మధ్యన చల్లని బురద నీళ్ళు గిలిగింతలు పెడుతుండగా, వాడు కేరింతలు కొడుతూ ఆ నీటితో ఆడుకున్నాడు. \"ఈ చిన్న లీక్ నాకేం చేస్తుందిలే!\" అని నవ్వుతూ నీళ్ళని పైకి చిమ్మేశాడు. అతని చేతుల్లోంచి నీళ్ళు చిమ్మగానే, ఆకాశంలోకి ఎగిరిన నీటి బిందువులు సూర్యరశ్మికి మెరిసిపోయాయి. రాజూ ఆట ఇంకా కొనసాగిస్తాడా, లేక లీకును సరిచేస్తాడా?",
+      "image_prompt": "The boy laughs and splashes water upwards from the canal leak. Water droplets, flung from his hands, sparkle in the sunlight as they fly into the sky. Bright, golden afternoon sunlight filtering through palm fronds, casting playful shadows on the muddy bank.",
+      "scene_visual": "The boy laughs and splashes water upwards from the canal leak. Water droplets, flung from his hands, sparkle in the sunlight as they fly into the sky.",
+      "text_te_en": "Gadagadalaade Godaavari Nadi Pakkana, Chakkati Palleturilo Raaju Ane Kurraadu Undevaadu. Okaroju Polam Kaaluvalo Chinna Liku Kanabadagaa, Raaju Daanni Pattinchukoledu. Tana Paadaala Madhyana Challani Burada Nillu Giligintalu Pedutundagaa, Vaadu Kerintalu Kodutu Aa Nitito Aadukunnaadu. \"I Chinna Lik Naakem Chestundile!\" Ani Navvutu Nillani Paiki Chimmeshaadu. Atani Chetullonchi Nillu Chimmagaane, Aakaashanloki Egirina Niti Binduvulu Suryarashmiki Merisipoyaayi. Raaju Aata Inkaa Konasaagistaadaa, Leka Likunu Sarichestaadaa?",
+      "text_en": "In a lovely village, right by the gurgling Godavari River, lived a boy named Rajoo. One day, he noticed a tiny leak in the farm canal, but Rajoo didn't worry about it. The cool, muddy water tickled his feet, and he giggled, playing happily. \"This little leak can't hurt anything!\" he laughed, splashing water high into the air. As the water flew from his hands, the tiny drops sparkled like diamonds in the sunlight. Would Rajoo keep playing, or would he fix the leak?"
+    },
+    {
+      "id": 2,
+      "text": "రాజూ ఇంకా లీకును పట్టించుకోకుండా, అల్లరి పనులు చేస్తూ తిరుగుతుండగా, అతని తాతయ్య అక్కడికి వచ్చాడు. \"రాజూ, ఆ కాలువ లీకు పెద్దది కాకముందే సరిచెయ్యి నాయనా,\" అని నెమ్మదిగా చెప్పాడు. కానీ రాజూ తన స్నేహితుల గుంపు వైపు చూస్తూ, చేతిని అలవాటుగా ఊపుతూ, ఆ విషయాన్ని తేలికగా తీసుకున్నాడు. దూరంగా కమ్మరి కొలిమి నుండి వచ్చే టంగ్ టంగ్ శబ్దం వినిపిస్తోంది. \"తాతా, ఇప్పుడెందుకు? సాయంత్రం చూస్తానులే!\" అని నిర్లక్ష్యంగా అన్నాడు. మరి రాజూ సాయంత్రానికి తన మాట నిలబెట్టుకుని, ఆ లీకును సరిచేస్తాడా?",
+      "image_prompt": "The boy casually waves his hand while looking towards his friends, dismissing the old man's advice. He looks towards his group of friends, his expression showing a casual disregard for the old man's words. Warm, fading afternoon light, painting the paddy fields in hues of orange and soft green, a gentle and advisory atmosphere.",
+      "scene_visual": "The boy casually waves his hand while looking towards his friends, dismissing the old man's advice. He looks towards his group of friends, his expression showing a casual disregard for the old man's words.",
+      "text_te_en": "Raaju Inkaa Likunu Pattinchukokundaa, Allari Panulu Chestu Tirugutundagaa, Atani Taatayya Akkadiki Vachchaadu. \"Raaju, Aa Kaaluva Liku Peddadi Kaakamunde Saricheyyi Naayanaa,\" Ani Nemmadigaa Cheppaadu. Kaani Raaju Tana Snehitula Gumpu Vaipu Chustu, Chetini Alavaatugaa Uputu, Aa Vishayaanni Telikagaa Tisukunnaadu. Durangaa Kammari Kolimi Nundi Vachche Tang Tang Shabdam Vinipistondi. \"Taataa, Ippudenduku? Saayantram Chustaanule!\" Ani Nirlakshyangaa Annaadu. Mari Raaju Saayantraaniki Tana Maata Nilabettukuni, Aa Likunu Sarichestaadaa?",
+      "text_en": "Rajoo kept ignoring the leak, running around and getting into mischief, when his grandpa came by. \"Rajoo, please fix that canal leak before it gets bigger, my dear,\" his grandpa said softly. But Rajoo just glanced at his friends, waved his hand, and didn't take it seriously. Far away, they could hear the 'tung tung' sound from the blacksmith's shop. \"Grandpa, why now? I'll fix it in the evening!\" Rajoo said carelessly. Would Rajoo keep his promise and fix the leak by evening?"
+    },
+    {
+      "id": 3,
+      "text": "రాజూ సాయంత్రం లీకును సరిచేస్తానని చెప్పిన కొన్ని గంటలకే, ఆకాశం ఒక్కసారిగా నల్లబడింది — పెను తుఫాను వచ్చింది. చినుకులు పెద్ద ధారాపాతంగా మారాయి, కాలువలోని చిన్న లీకు ఇప్పుడు పెద్ద గండిగా మారి, పొలంలోకి నీరు ఉప్పొంగుతోంది. పక్కనే ఉన్న గుడిసె రేకుల షెడ్డుపై వర్షం ధ్వని చెవులు చిల్లులు పడేలా వినిపిస్తోంది. రాజూ భయంతో చిన్న రాళ్ళు, మట్టితో నీటి ప్రవాహాన్ని ఆపడానికి శక్తికి మించి ప్రయత్నిస్తున్నాడు. \"అయ్యో, ఇది ఆపాలి! ఎలా?\" అని కంగారుగా అరిచాడు. రాజూ పంటపొలాలకు నష్టం జరగకముందే ఈ నీటిని ఆపగలడా?",
+      "image_prompt": "The boy frantically tries to stop the gushing water with small stones and mud, pushing with all his might. Water overflows into the field through the large breach, and his face shows clear panic. Overcast, stormy grey light, with flashes of lightning illuminating the torrential downpour, creating a sense of urgency and chaos.",
+      "scene_visual": "The boy frantically tries to stop the gushing water with small stones and mud, pushing with all his might. Water overflows into the field through the large breach, and his face shows clear panic.",
+      "text_te_en": "Raaju Saayantram Likunu Sarichestaanani Cheppina Konni Gantalake, Aakaasham Okkasaarigaa Nallabadindi — Penu Tuphaanu Vachchindi. Chinukulu Pedda Dhaaraapaatangaa Maaraayi, Kaaluvaloni Chinna Liku Ippudu Pedda Gandigaa Maari, Polanloki Niru Uppongutondi. Pakkane Unna Gudise Rekula Sheddupai Varsham Dhvani Chevulu Chillulu Padelaa Vinipistondi. Raaju Bhayanto Chinna Raallu, Mattito Niti Pravaahaanni Aapadaaniki Shaktiki Minchi Prayatnistunnaadu. \"Ayyo, Idi Aapaali! Elaa?\" Ani Kangaarugaa Arichaadu. Raaju Pantapolaalaku Nashtam Jaragakamunde I Nitini Aapagaladaa?",
+      "text_en": "Just a few hours after Rajoo promised to fix the leak in the evening, the sky suddenly turned dark — a huge storm was coming! The raindrops became a heavy downpour, and the tiny leak in the canal turned into a big hole. Water rushed out and flooded the field. The sound of rain on the tin roof of a nearby hut was so loud it hurt his ears. Rajoo, scared, tried his hardest to stop the water with small stones and mud. \"Oh no, I have to stop this! How?\" he shouted, panicking. Could Rajoo stop the water before it ruined the crops?"
+    },
+    {
+      "id": 4,
+      "text": "నీటి ప్రవాహాన్ని ఆపడానికి రాజూ అరటి ఆకులు, కొమ్మలతో ఒక తాత్కాలిక అడ్డుకట్టను నిర్మించడానికి ప్రయత్నించాడు. అతని ముఖం బురదతో, వర్షపు నీటితో తడిసిపోయింది, కళ్ళలో నీళ్ళు తిరుగుతున్నాయి. కానీ ఆ బలహీనమైన అడ్డుకట్ట నిలబడలేకపోయింది — ఒక్కసారిగా కూలిపోయింది. నలిగిపోయిన అరటి ఆకుల నుండి వచ్చే తీపి వాసన తడి మట్టితో కలిసి మరింత భయంకరంగా అనిపించింది. \"ఇది ఎందుకు పని చేయట్లేదు? అమ్మా!\" అని నిస్సహాయంగా గొంతెత్తి అడిగాడు. ఈ నష్టం ఇంకా పెరుగుతోంది, మరి ఇప్పుడు పొలానికి ఏం జరుగుతుంది?",
+      "image_prompt": "The boy watches helplessly as the weak temporary dam of banana leaves and branches he built suddenly collapses. His face is covered in mud and rainwater, and tears well up in his eyes as he cries out in despair. Dark, bruised purple clouds overhead, occasional glints of light reflecting off the rapidly forming puddles, a feeling of impending doom.",
+      "scene_visual": "The boy watches helplessly as the weak temporary dam of banana leaves and branches he built suddenly collapses. His face is covered in mud and rainwater, and tears well up in his eyes as he cries out in despair.",
+      "text_te_en": "Niti Pravaahaanni Aapadaaniki Raaju Arati Aakulu, Kommalato Oka Taatkaalika Addukattanu Nirminchadaaniki Prayatninchaadu. Atani Mukham Buradato, Varshapu Nitito Tadisipoyindi, Kallalo Nillu Tirugutunnaayi. Kaani Aa Balahinamaina Addukatta Nilabadalekapoyindi — Okkasaarigaa Kulipoyindi. Naligipoyina Arati Aakula Nundi Vachche Tipi Vaasana Tadi Mattito Kalisi Marinta Bhayankarangaa Anipinchindi. \"Idi Enduku Pani Cheyatledu? Ammaa!\" Ani Nissahaayangaa Gontetti Adigaadu. I Nashtam Inkaa Perugutondi, Mari Ippudu Polaaniki Em Jarugutundi?",
+      "text_en": "To stop the rushing water, Rajoo tried to build a quick dam using banana leaves and branches. His face was covered in mud and rainwater, and tears filled his eyes. But the weak dam couldn't hold — it broke apart all at once! The sweet smell from the crushed banana leaves mixed with the wet mud, making the situation feel even worse. \"Why isn't this working? Mommy!\" he cried out, feeling helpless. The damage was getting bigger and bigger. What would happen to the field now?"
+    },
+    {
+      "id": 5,
+      "text": "రాజూ నిస్సహాయంగా చూస్తుండగానే, యువ వరి పంటలో చాలా భాగం నీటిలో మునిగి కొట్టుకుపోయింది. అతని భుజాలు వాలిపోయాయి, కళ్ళ నుండి నీళ్ళు నిశ్శబ్దంగా కారిపోతున్నాయి, ఒక్క అడుగు కూడా కదపలేకపోయాడు. అతని చీలమండల చుట్టూ చల్లని వరద నీరు తిరుగుతోంది — ఆ క్షణం గుండెల్లో ఏదో బరువు కూర్చున్నట్లయింది. చిన్న లీకును పట్టించుకోకపోతే ఎంత పెద్ద నష్టం జరుగుతుందో అప్పుడతనికి పూర్తిగా అర్థమైంది. \"చేతులు కాలిన తరువాత ఆకులు పట్టుకోవడం అంటే ఇదే కదా!\" అని మనసులో బాధగా అనుకున్నాడు. ఈ చేదు పాఠాన్ని రాజూ ఎలా ఎదుర్కొంటాడు, ఇంకా ఏమి చేస్తాడు?",
+      "image_prompt": "The boy stands motionless, his shoulders slumped, as much of the young rice crop is submerged and washed away by the water. Cold floodwater swirls around his ankles, and tears silently stream down his face. The storm has passed, but the sky is a bruised, pale grey, reflecting off the flooded fields, a somber and desolate mood.",
+      "scene_visual": "The boy stands motionless, his shoulders slumped, as much of the young rice crop is submerged and washed away by the water. Cold floodwater swirls around his ankles, and tears silently stream down his face.",
+      "text_te_en": "Raaju Nissahaayangaa Chustundagaane, Yuva Vari Pantalo Chaalaa Bhaagam Nitilo Munigi Kottukupoyindi. Atani Bhujaalu Vaalipoyaayi, Kalla Nundi Nillu Nishshabdangaa Kaaripotunnaayi, Okka Adugu Kudaa Kadapalekapoyaadu. Atani Chilamandala Chuttu Challani Varada Niru Tirugutondi — Aa Kshanam Gundello Edo Baruvu Kurchunnatlayindi. Chinna Likunu Pattinchukokapote Enta Pedda Nashtam Jarugutundo Appudataniki Purtigaa Arthamaindi. \"Chetulu Kaalina Taruvaata Aakulu Pattukovadam Ante Ide Kadaa!\" Ani Manasulo Baadhagaa Anukunnaadu. I Chedu Paathaanni Raaju Elaa Edurkontaadu, Inkaa Emi Chestaadu?",
+      "text_en": "As Rajoo watched, feeling completely helpless, a big part of the young rice plants was covered by water and washed away. His shoulders drooped, and silent tears rolled down his face. He couldn't even move a step. The cold floodwater swirled around his ankles, and a heavy, sad feeling filled his heart. He finally understood how much trouble a tiny ignored leak could cause. \"This is what happens when you try to fix things too late!\" he thought sadly. How would Rajoo deal with this hard lesson, and what would he do next?"
+    },
+    {
+      "id": 6,
+      "text": "కొన్ని వారాల తరువాత, అదే కాలువలో వేరే చిన్న భాగాన్ని రాజూ చాలా జాగ్రత్తగా బాగుచేస్తున్నాడు. అతను ప్రతి రాయిని సరిగా పెట్టి, మట్టిని పట్టుగా అదుముతూ, పనిలో పూర్తిగా నిమగ్నమయ్యాడు. చిన్న పారతో మట్టిని గట్టిగా అదుముతుంటే వినపడే సంతృప్తికరమైన టప్ టప్ శబ్దం, అతని మనసులో దృఢత్వాన్ని ప్రతిబింబిస్తోంది. అతని కళ్ళలో ఒక నిశ్శబ్దమైన సంకల్పం కనిపించింది — అది కొత్త రాజూ. \"ప్రతి చిన్న పనికి దాని సమయం ఉంటుంది,\" అని నెమ్మదిగా, కానీ దృఢంగా అనుకున్నాడు. ఇకపై రాజూ ఏ పనినీ వాయిదా వేయడు, ప్రతి చిన్న సమస్యను వెంటనే పరిష్కరిస్తాడు.",
+      "image_prompt": "The boy carefully repairs a small section of the canal, meticulously placing each stone and firmly pressing down the mud. A quiet determination is visible in his eyes as he works, reflecting a new resolve. Gentle morning sunlight, warm and clear, illuminating the freshly repaired channel and the healthy green paddy, symbolizing new beginnings and wisdom.",
+      "scene_visual": "The boy carefully repairs a small section of the canal, meticulously placing each stone and firmly pressing down the mud. A quiet determination is visible in his eyes as he works, reflecting a new resolve.",
+      "text_te_en": "Konni Vaaraala Taruvaata, Ade Kaaluvalo Vere Chinna Bhaagaanni Raaju Chaalaa Jaagrattagaa Baaguchestunnaadu. Atanu Prati Raayini Sarigaa Petti, Mattini Pattugaa Adumutu, Panilo Purtigaa Nimagnamayyaadu. Chinna Paarato Mattini Gattigaa Adumutunte Vinapade Santrriptikaramaina Tap Tap Shabdan, Atani Manasulo Drridhatvaanni Pratibimbistondi. Atani Kallalo Oka Nishshabdamaina Sankalpam Kanipinchindi — Adi Kotta Raaju. \"Prati Chinna Paniki Daani Samayam Untundi,\" Ani Nemmadigaa, Kaani Drridhangaa Anukunnaadu. Ikapai Raaju E Panini Vaayidaa Veyadu, Prati Chinna Samasyanu Ventane Parishkaristaadu.",
+      "text_en": "A few weeks later, Rajoo was carefully fixing another small part of the same canal. He placed each stone just right, pressed the mud down firmly, and was completely focused on his work. The satisfying 'tap tap' sound he made as he packed the mud with a small shovel showed how determined he was. In his eyes, there was a quiet promise — this was a new Rajoo. \"Every little job has its own right time,\" he thought slowly but strongly. From that day on, Rajoo would never put off any work, and he would fix every small problem right away."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This is a well-crafted children's story with strong oral storytelling elements and excellent engagement hooks for a young audience. The emotional journey of Raju is effectively shown, and the narrative arc is compelling. The grammar is flawless, making it a pleasure to read. The single most important fix to elevate this story to award-worthy status would be to enrich the dialogue. Adding more character-specific lines, especially for Raju and his grandfather, would deepen their personalities and allow the story to unfold more through interaction rather than narration, making it even more vivid."
+  },
+  "title_te_en": "Raaju, Kaaluva Godava",
+  "moral_te_en": "Pillalu, E Panainaa Sare, Chinnadigaa Unnappude Chusukovaali, Ledante Pedda Kashtangaa Maarutundi Kadaa!",
+  "title_en": "Rajoo and the Canal Trouble",
+  "moral_en": "Kids, always take care of any task when it's small, or it might turn into a big problem!",
+  "id": "20260522_190856",
+  "date": "2026-05-22",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "చేతులు కాలిన తరువాత ఆకులు పట్టుకున్న కథ",
+  "thumbnail": "stories/20260522_190856/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

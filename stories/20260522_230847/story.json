@@ -1,0 +1,90 @@
+{
+  "title": "తెనాలి తెలివి, దొంగల తోట పని",
+  "moral": "ఆపద వచ్చినప్పుడు భయపడకుండా తెలివిగా ఆలోచిస్తే, ఎప్పుడూ మంచి జరుగుతుంది కదా పిల్లలూ?",
+  "main_character": "Tenali Ramakrishna is a legendary poet and jester in the court of King Krishnadevaraya of the Vijayanagara Empire. He is renowned for his quick wit, intelligence, and ability to solve complex problems with humor. Always the same character across every scene.",
+  "antagonist": "A trio of scruffy, burly robbers with unkempt beards and tattered dark clothes. They carry crude tools like crowbars and sacks, always looking shifty and determined to get rich quickly. Always the same character across every scene.",
+  "setting": "Tenali Ramakrishna's modest but well-kept house in the vibrant city of Hampi, near the grand Vijayanagara palace. The courtyard is adorned with jasmine vines, and the evening air often carries the scent of cooking spices. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర సామ్రాజ్యంలో ఒక సాయంత్రం, తెనాలి రామకృష్ణుడు తన తోటలో ప్రశాంతంగా కూర్చుని తాళపత్ర గ్రంథం చదువుకుంటున్నాడు. మల్లెపూల మత్తు సువాసన గాలిలో తేలుతూ, మనసుని ఆహ్లాదపరుస్తోంది. ఒక చేత్తో వేడి వేడి టీ కప్పు పట్టుకుని, అతను మెల్లగా నవ్వుకున్నాడు. \"ఆహ్, ఈ సాయంత్రం ఎంత ప్రశాంతంగా ఉంది!\" అని తనలో తాను అనుకున్నాడు. ఆ పక్కనే ఉన్న గోడ వెనుక నుంచి ఏదో శబ్దం వినిపించినట్టు అనిపించింది — అదెలాంటి శబ్దమో ఎవరికీ తెలియదు.",
+      "image_prompt": "The man sits peacefully in his garden, holding a palm-leaf manuscript and a cup of hot tea. A faint sound seems to emanate from behind the wall next to him, momentarily interrupting his serene smile. Gentle dusk light, warm amber, filtering through the garden trees, creating soft shadows.",
+      "scene_visual": "The man sits peacefully in his garden, holding a palm-leaf manuscript and a cup of hot tea. A faint sound seems to emanate from behind the wall next to him, momentarily interrupting his serene smile.",
+      "text_te_en": "Vijayanagara Saamraajyanlo Oka Saayantran, Tenaali Raamakrrishnudu Tana Totalo Prashaantangaa Kurchuni Taalapatra Grantham Chaduvukuntunnaadu. Mallepula Mattu Suvaasana Gaalilo Telutu, Manasuni Aahlaadaparustondi. Oka Chetto Vedi Vedi Ti Kappu Pattukuni, Atanu Mellagaa Navvukunnaadu. \"Aah, I Saayantram Enta Prashaantangaa Undi!\" Ani Tanalo Taanu Anukunnaadu. Aa Pakkane Unna Goda Venuka Nunchi Edo Shabdam Vinipinchinattu Anipinchindi — Adelaanti Shabdamo Evariki Teliyadu.",
+      "text_en": "One evening in the Vijayanagara Empire, Tenali Ramakrishna was sitting peacefully in his garden, reading a palm-leaf manuscript. The sweet scent of jasmine flowers floated in the air, making him feel happy. Holding a hot cup of tea in one hand, he smiled softly to himself. \"Ah, how peaceful this evening is!\" he thought. Suddenly, from behind the nearby wall, he heard a sound — but no one knew what kind of sound it was."
+    },
+    {
+      "id": 2,
+      "text": "ఆ శబ్దాన్ని అనుమానంగా విని, తెనాలి రామకృష్ణుడు తన తాళపత్రాన్ని పక్కన పెట్టాడు. గోడ అవతల నుంచి గుసగుసలు, చిన్నగా లోహపు వస్తువులు కదిలే శబ్దాలు స్పష్టంగా వినిపిస్తున్నాయి. అతని కళ్ళల్లో ఒక మెరుపు కనిపించింది — అది ఆశ్చర్యం కాదు, ఏదో తెలిసినట్టుగా ఉంది. \"ఈ రాత్రికి ఆ తెలివైన రాముడి ఇంటిని దోచుకుందాం!\" అని ఒక ముతక గొంతు గట్టిగా అంది. తెనాలి ఒక చిరునవ్వు నవ్వి, మెల్లగా లేచి నిలబడ్డాడు. ఇప్పుడు అతను ఏం చేయబోతున్నాడో మీకు తెలుసా...?",
+      "image_prompt": "The man slowly rises to his feet, a subtle smirk playing on his lips, after hearing hushed voices and metallic sounds from beyond the wall. A knowing glint appears in his eyes as he processes the distinct voice declaring intent to rob his house. Also in this scene: A trio of scruffy, burly robbers with unkempt beards and tattered dark clothes. They carry crude tools like crowbars and sacks, always looking shifty and determined to get rich quickly. Always the same character across every scene. Deep twilight, shadows stretching long, a sliver of pale moonlight occasionally glinting off a robber's tool.",
+      "scene_visual": "The man slowly rises to his feet, a subtle smirk playing on his lips, after hearing hushed voices and metallic sounds from beyond the wall. A knowing glint appears in his eyes as he processes the distinct voice declaring intent to rob his house.",
+      "text_te_en": "Aa Shabdaanni Anumaanangaa Vini, Tenaali Raamakrrishnudu Tana Taalapatraanni Pakkana Pettaadu. Goda Avatala Nunchi Gusagusalu, Chinnagaa Lohapu Vastuvulu Kadile Shabdaalu Spashtangaa Vinipistunnaayi. Atani Kallallo Oka Merupu Kanipinchindi — Adi Aashcharyam Kaadu, Edo Telisinattugaa Undi. \"I Raatriki Aa Telivaina Raamudi Intini Dochukundaan!\" Ani Oka Mutaka Gontu Gattigaa Andi. Tenaali Oka Chirunavvu Navvi, Mellagaa Lechi Nilabaddaadu. Ippudu Atanu Em Cheyabotunnaado Miku Telusaa...?",
+      "text_en": "Hearing the suspicious sound, Tenali Ramakrishna put his palm-leaf manuscript aside. From beyond the wall, whispers and faint sounds of metal objects moving were clearly audible. A sparkle appeared in his eyes — it wasn't surprise, but more like he knew something. \"Tonight, let's rob that clever Ramu's house!\" a rough voice said loudly. Tenali smiled a little smile and slowly stood up. Do you know what he is going to do now...?"
+    },
+    {
+      "id": 3,
+      "text": "తెనాలి రామకృష్ణుడు నెమ్మదిగా తన ఇంటి లోపలికి నడిచి, బయట దోచుకోవడానికి సిద్ధంగా ఉన్న దొంగలకు వినిపించేలా గట్టిగా మాట్లాడసాగాడు. అతని పట్టు వస్త్రం కదిలినప్పుడు శబ్దం చేస్తూ, అతను కావాలనే అటూ ఇటూ తిరిగాడు. అతని పెదవులపై చిన్న చిరునవ్వు మెరిసింది — గోడ వైపు చూస్తూ. \"ప్రియతమా, మన విలువైన సంపదను తోటలో దాచిపెడదాం!\" అని పెద్దగా అన్నాడు. దొంగలు ఆ మాటలు విని, ఒకరి ముఖం ఒకరు చూసుకున్నారు... ఇది ఎలాంటి పన్నాగమో వారికి అర్థం కాలేదు.",
+      "image_prompt": "The man deliberately walks inside his house, making his silk garment rustle loudly, and speaks in an exaggerated voice towards the wall. A small smile plays on his lips as he loudly declares his intention to hide valuable treasures in the garden. The last vestiges of twilight fading, replaced by the soft, warm glow of oil lamps from inside Tenali's house, casting long, dancing shadows.",
+      "scene_visual": "The man deliberately walks inside his house, making his silk garment rustle loudly, and speaks in an exaggerated voice towards the wall. A small smile plays on his lips as he loudly declares his intention to hide valuable treasures in the garden.",
+      "text_te_en": "Tenaali Raamakrrishnudu Nemmadigaa Tana Inti Lopaliki Nadichi, Bayata Dochukovadaaniki Siddhangaa Unna Dongalaku Vinipinchelaa Gattigaa Maatlaadasaagaadu. Atani Pattu Vastram Kadilinappudu Shabdam Chestu, Atanu Kaavaalane Atu Itu Tirigaadu. Atani Pedavulapai Chinna Chirunavvu Merisindi — Goda Vaipu Chustu. \"Priyatamaa, Mana Viluvaina Sampadanu Totalo Daachipedadaan!\" Ani Peddagaa Annaadu. Dongalu Aa Maatalu Vini, Okari Mukham Okaru Chusukunnaaru... Idi Elaanti Pannaagamo Vaariki Artham Kaaledu.",
+      "text_en": "Tenali Ramakrishna slowly walked into his house and started speaking loudly enough for the thieves, who were ready to rob outside, to hear. His silk clothes made a rustling sound as he deliberately walked back and forth. A small smile played on his lips — as he looked towards the wall. \"My dear, let's hide our valuable treasure in the garden!\" he said loudly. The thieves heard those words and looked at each other's faces... they didn't understand what kind of trick this was."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి రామకృష్ణుడు ఒక పెద్ద పార పట్టుకుని, తోట మధ్యకు వెళ్ళాడు. అతను భూమిని తవ్వడం మొదలుపెట్టాడు — పార నేలలోకి దూసుకుపోయి, మట్టిని మెత్తగా పైకి విసిరింది. \"ఇంకా లోతుగా తవ్వాలి, అప్పుడే సురక్షితంగా ఉంటుంది!\" అని గట్టిగా అనుకుంటూ, శ్రమ పడినట్టుగా నిట్టూర్చాడు. అతని నుదుటిపై చెమట బిందువులు కనిపించాయి, కానీ అతని కళ్ళల్లో మాత్రం ఉత్సాహం మెరిసింది. అప్పుడు దొంగలు, గోడ పక్కన నుండి కళ్ళు చెదరకుండా చూస్తున్నారు... ఆ పెట్టెలో ఏముంటుందో అని ఊహించుకుంటున్నారు.",
+      "image_prompt": "The man vigorously digs into the earth in the middle of his garden with a large shovel, throwing soft soil upwards. Sweat beads form on his forehead, yet his eyes sparkle with enthusiasm as he exhales with effort. Also in this scene: A trio of scruffy, burly robbers with unkempt beards and tattered dark clothes. They carry crude tools like crowbars and sacks, always looking shifty and determined to get rich quickly. Always the same character across every scene. Moonlit garden, silvery light illuminating the freshly dug earth, casting sharp, dark shadows of Tenali and the shovel.",
+      "scene_visual": "The man vigorously digs into the earth in the middle of his garden with a large shovel, throwing soft soil upwards. Sweat beads form on his forehead, yet his eyes sparkle with enthusiasm as he exhales with effort.",
+      "text_te_en": "Tenaali Raamakrrishnudu Oka Pedda Paara Pattukuni, Tota Madhyaku Vellaadu. Atanu Bhumini Tavvadam Modalupettaadu — Paara Nelaloki Dusukupoyi, Mattini Mettagaa Paiki Visirindi. \"Inkaa Lotugaa Tavvaali, Appude Surakshitangaa Untundi!\" Ani Gattigaa Anukuntu, Shrama Padinattugaa Nitturchaadu. Atani Nudutipai Chemata Binduvulu Kanipinchaayi, Kaani Atani Kallallo Maatram Utsaaham Merisindi. Appudu Dongalu, Goda Pakkana Nundi Kallu Chedarakundaa Chustunnaaru... Aa Pettelo Emuntundo Ani Uhinchukuntunnaaru.",
+      "text_en": "Tenali Ramakrishna took a big shovel and went to the middle of the garden. He started digging the earth — the shovel plunged into the soil, softly throwing up dirt. \"We need to dig deeper, only then will it be safe!\" he thought loudly to himself, sighing as if he was working hard. Drops of sweat appeared on his forehead, but in his eyes, excitement sparkled. Meanwhile, the thieves were watching intently from beside the wall... imagining what might be in that box."
+    },
+    {
+      "id": 5,
+      "text": "పెద్ద గొయ్యి తవ్విన తర్వాత, తెనాలి రామకృష్ణుడు బరువుగా ఉన్న ఒక తాళం వేసిన పెట్టెను తోటలోకి లాక్కొచ్చాడు. ఆ చెక్క పెట్టె నేల మీద ఈడ్చుకెళ్ళినప్పుడు వింత శబ్దం చేసింది — కీచుమంటూ, గుంజుకుంటూ. అతను బలవంతంగా దాన్ని గోతిలోకి దించాడు, అప్పుడతను బాగా అలసిపోయినట్లు కనిపించాడు. \"ఇది మన జీవితకాల సంపద, జాగ్రత్తగా ఉండాలి!\" అని శ్రమగా ఊపిరి పీల్చుకుంటూ అన్నాడు. ఆ పెట్టెను పూర్తిగా మట్టితో కప్పి, సంతృప్తిగా తల ఊపాడు. దొంగలు ఆ పెట్టె కోసం ఆ రాత్రంతా తవ్వడానికి సిద్ధంగా ఉన్నారా?",
+      "image_prompt": "The man laboriously drags a heavy, locked wooden box into the large pit he dug, making a strange scraping sound on the ground. He then covers the box completely with soil, nodding his head with a look of deep satisfaction despite his apparent exhaustion. Also in this scene: A trio of scruffy, burly robbers with unkempt beards and tattered dark clothes. They carry crude tools like crowbars and sacks, always looking shifty and determined to get rich quickly. Always the same character across every scene. Dark night, the garden illuminated only by the faint glow of the moon, highlighting the outline of the chest and the weary figure, creating a sense of mystery.",
+      "scene_visual": "The man laboriously drags a heavy, locked wooden box into the large pit he dug, making a strange scraping sound on the ground. He then covers the box completely with soil, nodding his head with a look of deep satisfaction despite his apparent exhaustion.",
+      "text_te_en": "Pedda Goyyi Tavvina Tarvaata, Tenaali Raamakrrishnudu Baruvugaa Unna Oka Taalam Vesina Pettenu Totaloki Laakkochchaadu. Aa Chekka Pette Nela Mida Idchukellinappudu Vinta Shabdam Chesindi — Kichumantu, Gunjukuntu. Atanu Balavantangaa Daanni Gotiloki Dinchaadu, Appudatanu Baagaa Alasipoyinatlu Kanipinchaadu. \"Idi Mana Jivitakaala Sampada, Jaagrattagaa Undaali!\" Ani Shramagaa Upiri Pilchukuntu Annaadu. Aa Pettenu Purtigaa Mattito Kappi, Santrriptigaa Tala Upaadu. Dongalu Aa Pette Kosam Aa Raatrantaa Tavvadaaniki Siddhangaa Unnaaraa?",
+      "text_en": "After digging a big pit, Tenali Ramakrishna dragged a heavy, locked box into the garden. The wooden box made strange sounds as it was dragged on the ground — creaking and scraping. He forcefully lowered it into the pit, and he looked very tired. \"This is our lifelong treasure, we must be careful!\" he said, breathing heavily from effort. Covering the box completely with soil, he nodded his head with satisfaction. Were the thieves ready to dig all night for that box?"
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి రామకృష్ణుడు నిద్రపోతున్నాడని అనుకుని, దొంగలు గోడ దూకి లోపలికి వచ్చారు. రాత్రంతా, వాళ్ళు పారలతో నేలను తవ్వుతూనే ఉన్నారు — టక్ టక్ మని శబ్దాలు, అప్పుడప్పుడు వారి కోపంతో కూడిన అరుపులు వినిపించాయి. తెనాలి తన కిటికీలోంచి అదంతా చూస్తూ, నవ్వును ఆపుకోలేకపోయాడు. చివరికి, పెట్టె దొరికింది — దాన్ని ఆత్రంగా తెరిచారు. \"ఛీ! ఇది కేవలం రాళ్ళు, మట్టి మాత్రమే!\" అని కోపంగా అరిచాడు ఒక దొంగ. వారి ముఖాలు కోపంతో, నిరాశతో నిండిపోయాయి.",
+      "image_prompt": "The thieves eagerly pry open the box they unearthed, only to find it filled with rocks and soil. One thief angrily shouts in frustration, his face contorted with disappointment and rage. The protagonist watches from the side. Also in this scene: A trio of scruffy, burly robbers with unkempt beards and tattered dark clothes. They carry crude tools like crowbars and sacks, always looking shifty and determined to get rich quickly. Always the same character across every scene. Pre-dawn light, a cold, grey-blue hue creeping over the garden, revealing the disheveled robbers and the massive, muddy pit they've dug.",
+      "scene_visual": "The thieves eagerly pry open the box they unearthed, only to find it filled with rocks and soil. One thief angrily shouts in frustration, his face contorted with disappointment and rage.",
+      "text_te_en": "Tenaali Raamakrrishnudu Nidrapotunnaadani Anukuni, Dongalu Goda Duki Lopaliki Vachchaaru. Raatrantaa, Vaallu Paaralato Nelanu Tavvutune Unnaaru — Tak Tak Mani Shabdaalu, Appudappudu Vaari Kopanto Kudina Arupulu Vinipinchaayi. Tenaali Tana Kitikilonchi Adantaa Chustu, Navvunu Aapukolekapoyaadu. Chivariki, Pette Dorikindi — Daanni Aatrangaa Terichaaru. \"Chi! Idi Kevalam Raallu, Matti Maatrame!\" Ani Kopangaa Arichaadu Oka Donga. Vaari Mukhaalu Kopanto, Niraashato Nindipoyaayi.",
+      "text_en": "Thinking Tenali Ramakrishna was asleep, the thieves jumped over the wall and came inside. All night long, they kept digging the ground with their shovels — \"thud-thud\" sounds and occasional angry shouts were heard. Tenali watched all this from his window and couldn't stop laughing. Finally, the box was found — they eagerly opened it. \"Ugh! It's just rocks and dirt!\" one thief shouted angrily. Their faces were filled with anger and disappointment."
+    },
+    {
+      "id": 7,
+      "text": "తెల్లవారేసరికి, అలసిపోయిన దొంగలు తమ పారలను అక్కడే వదిలేసి, తలదించుకుని పారిపోయారు. వారి కోపం, అలసట వారి ప్రతి అడుగులో కనిపించింది. తెనాలి రామకృష్ణుడు నిద్రలేచి, బయట తోటలోకి వచ్చాడు. తాజా, తడి మట్టి సువాసన ఉదయం గాలిలో నిండి ఉంది. అతను తన అద్భుతమైన తోట వైపు చూసి, పెదవులపై సంతృప్తి చిరునవ్వుతో నిలబడ్డాడు. \"ఇక నా తోటలో కొత్త మొక్కలు నాటడానికి సిద్ధంగా ఉంది!\" అని సంతోషంగా అన్నాడు.",
+      "image_prompt": "The man stands in his freshly tilled garden, surveying the transformed land with a contented smile on his lips. The fresh, damp scent of soil fills the morning air as he looks at the neatly prepared ground. Gentle morning light, warm golden rays filtering through the trees, illuminating the beautifully tilled garden, peaceful and fresh.",
+      "scene_visual": "The man stands in his freshly tilled garden, surveying the transformed land with a contented smile on his lips. The fresh, damp scent of soil fills the morning air as he looks at the neatly prepared ground.",
+      "text_te_en": "Tellavaaresariki, Alasipoyina Dongalu Tama Paaralanu Akkade Vadilesi, Taladinchukuni Paaripoyaaru. Vaari Kopan, Alasata Vaari Prati Adugulo Kanipinchindi. Tenaali Raamakrrishnudu Nidralechi, Bayata Totaloki Vachchaadu. Taajaa, Tadi Matti Suvaasana Udayam Gaalilo Nindi Undi. Atanu Tana Adbhutamaina Tota Vaipu Chusi, Pedavulapai Santrripti Chirunavvuto Nilabaddaadu. \"Ika Naa Totalo Kotta Mokkalu Naatadaaniki Siddhangaa Undi!\" Ani Santoshangaa Annaadu.",
+      "text_en": "As morning broke, the tired thieves left their shovels there and ran away with their heads down. Their anger and exhaustion were visible in every step. Tenali Ramakrishna woke up and came out into the garden. The fresh, damp smell of soil filled the morning air. He looked at his wonderful garden and stood with a satisfied smile on his lips. \"Now my garden is ready for planting new saplings!\" he said happily."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 10,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-crafted for children's literature, demonstrating a deep understanding of engaging young readers. The consistent use of showing emotions, natural dialogue, and direct address creates an immersive and warm storytelling experience. To reach a perfect 10 across all dimensions, the narrative could explore slightly more varied sentence structures to mimic the natural ebb and flow of a grandparent's voice, though it is already very strong. This is an award-worthy piece."
+  },
+  "title_te_en": "Tenaali Telivi, Dongala Tota Pani",
+  "moral_te_en": "Aapada Vachchinappudu Bhayapadakundaa Telivigaa Aalochiste, Eppudu Manchi Jarugutundi Kadaa Pillalu?",
+  "title_en": "Tenali's Cleverness and the Thieves' Garden Work",
+  "moral_en": "Children, when trouble comes, if you think cleverly without fear, good things will always happen, won't they?",
+  "id": "20260522_230847",
+  "date": "2026-05-22",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు దోపిడీ పన్నాగం",
+  "thumbnail": "stories/20260522_230847/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
