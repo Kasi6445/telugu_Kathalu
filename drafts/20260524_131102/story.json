@@ -1,0 +1,135 @@
+{
+  "title": "రాముడి తోడు - సుగ్రీవుడి విజయం",
+  "moral": "పిల్లలూ, మంచి స్నేహితులు తోడుంటే, ధర్మం వైపు నిలబడితే ఎలాంటి కష్టం నుంచైనా బయటపడొచ్చు తెలుసా?",
+  "main_character": "Sugriva: a vanara with reddish-gold complexion, slightly smaller and leaner than Vali. Wearing simple golden ornaments. Alert, determined expression. Always the same character across every scene.",
+  "antagonist": "Vali: a powerful vanara king with dark complexion, very large and muscular — visibly bigger and more imposing than Sugriva. Wearing a golden crown and royal vanara ornaments, carrying a heavy mace. Fierce, dominant expression. Always the same character across every scene.",
+  "setting": "The dense, ancient forests of Kishkindha, near towering mountains and a shimmering lake. Vines hang from enormous trees, and the air is filled with the calls of exotic birds. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కిష్కింధా పర్వతాల మధ్య ఒక చల్లటి గుహలో సుగ్రీవుడు దిగులుగా కూర్చున్నాడు. అతని ఎర్రటి బంగారు రంగు బొచ్చును గుహలోని చల్లటి, తేమ గాలి స్పృశిస్తుంటే, ఏదో తెలియని బాధ అతన్ని చుట్టుముట్టింది. భుజాలు వాలిపోయి, తల దించుకుని, లోతైన నిట్టూర్పు వదిలాడు. \"ఈ అన్యాయానికి ముగింపు ఎప్పుడు?\" అని అతను తనలో తానే గొణుక్కున్నాడు. తన రాజ్యం, తన గౌరవం — అన్నీ పోయాయి. మళ్ళీ ఆ సింహాసనంపై కూర్చునే అదృష్టం అతనికి దక్కుతుందా...?",
+      "image_prompt": "The character sits dejectedly in a cool cave, shoulders slumped and head bowed. He lets out a deep sigh as the cool, damp air of the cave touches his red-golden fur. SUPPORTING CHARACTER also in this scene: Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Dim, cool light filtering into the cave entrance, casting long shadows, conveying a sense of gloom and confinement.",
+      "scene_visual": "The character sits dejectedly in a cool cave, shoulders slumped and head bowed. He lets out a deep sigh as the cool, damp air of the cave touches his red-golden fur.",
+      "supporting_char_keys": [
+        "Hanuman"
+      ],
+      "text_te_en": "Kishkindhaa Parvataala Madhya Oka Challati Guhalo Sugrivudu Digulugaa Kurchunnaadu. Atani Errati Bangaaru Rangu Bochchunu Guhaloni Challati, Tema Gaali Sprrishistunte, Edo Teliyani Baadha Atanni Chuttumuttindi. Bhujaalu Vaalipoyi, Tala Dinchukuni, Lotaina Nitturpu Vadilaadu. \"I Anyaayaaniki Mugimpu Eppudu?\" Ani Atanu Tanalo Taane Gonukkunnaadu. Tana Raajyan, Tana Gauravam — Anni Poyaayi. Malli Aa Sinhaasanampai Kurchune Adrrishtam Ataniki Dakkutundaa...?",
+      "text_en": "Sugreeva sat sadly in a cool cave among the Kishkindha mountains. As the cool, damp air of the cave touched his reddish-golden fur, an unknown sorrow surrounded him. His shoulders drooped, he bowed his head, and let out a deep sigh. 'When will this injustice end?' he muttered to himself. His kingdom, his honor — all were lost. Would he ever get the chance to sit on that throne again...?"
+    },
+    {
+      "id": 2,
+      "text": "సుగ్రీవుడు అలా నిట్టూరుస్తూ ఉండగానే, హనుమంతుడు రాముడినీ, లక్ష్మణుడినీ వెంటబెట్టుకుని వచ్చాడు. గుహ ద్వారం దగ్గర రాముడి నారచీరల కింద ఎండుటాకులు మెల్లగా కదులుతుంటే, సుగ్రీవుడు ఆశ్చర్యంతో కళ్ళు పెద్దవి చేసుకుని చూశాడు. హనుమంతుడు సీతమ్మను వెతకడానికి సుగ్రీవుడి సహాయం కావాలని, బదులుగా రాముడు సుగ్రీవుడికి సహాయం చేస్తాడని చెప్పాడు. రాముడు సుగ్రీవుడి కళ్ళలోకి చూసి — \"నీకు న్యాయం జరిగేలా చేస్తాను, సుగ్రీవా\" అన్నాడు. సుగ్రీవుడి మనసులో ఒక ఆశ మొలకెత్తింది, కానీ వాలి బలం తలుచుకుంటే చిన్నపాటి సందేహం కూడా మెరిసింది. ఈ ఇద్దరు రాజకుమారులు అంతటి బలవంతుడైన వాలిని నిజంగానే ఓడించగలరా...?",
+      "image_prompt": "The character watches with wide, astonished eyes as two men approach the cave entrance with another. Dry leaves gently rustle under the ascetic robes of one of the men. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Bright, dappled sunlight filtering through dense forest canopy, creating a sense of new possibility and divine presence.",
+      "scene_visual": "The character watches with wide, astonished eyes as two men approach the cave entrance with another. Dry leaves gently rustle under the ascetic robes of one of the men.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Hanuman"
+      ],
+      "text_te_en": "Sugrivudu Alaa Nitturustu Undagaane, Hanumantudu Raamudini, Lakshmanudini Ventabettukuni Vachchaadu. Guha Dvaaram Daggara Raamudi Naarachirala Kinda Endutaakulu Mellagaa Kadulutunte, Sugrivudu Aashcharyanto Kallu Peddavi Chesukuni Chushaadu. Hanumantudu Sitammanu Vetakadaaniki Sugrivudi Sahaayam Kaavaalani, Badulugaa Raamudu Sugrivudiki Sahaayam Chestaadani Cheppaadu. Raamudu Sugrivudi Kallaloki Chusi — \"Niku Nyaayam Jarigelaa Chestaanu, Sugrivaa\" Annaadu. Sugrivudi Manasulo Oka Aasha Molakettindi, Kaani Vaali Balam Taluchukunte Chinnapaati Sandeham Kudaa Merisindi. I Iddaru Raajakumaarulu Antati Balavantudaina Vaalini Nijangaane Odinchagalaraa...?",
+      "text_en": "As Sugreeva was sighing, Hanuman arrived, bringing Rama and Lakshmana with him. At the cave entrance, as dry leaves rustled gently under Rama's simple clothes, Sugreeva watched with wide, surprised eyes. Hanuman explained that Rama needed Sugreeva's help to find Sita, and in return, Rama would help Sugreeva. Rama looked into Sugreeva's eyes and said, 'I will ensure justice for you, Sugreeva.' A ray of hope sprouted in Sugreeva's heart, but a small doubt also flickered when he thought of Vali's strength. Could these two princes truly defeat someone as powerful as Vali...?"
+    },
+    {
+      "id": 3,
+      "text": "సుగ్రీవుడు తన అన్న వాలి గొప్ప బలం గురించి రాముడికి చెప్పి, తన భయాన్ని వివరించాడు. రాముడు చిరునవ్వు నవ్వి, ఏడు పెద్ద సాల వృక్షాలను చూపించాడు. సుగ్రీవుడు ఆశ్చర్యంగా చూస్తుండగానే, రాముడు తన విల్లు ఎక్కుపెట్టి, ఒక్క బాణంతో ఆ ఏడు వృక్షాలనూ ఒకేసారి చీల్చేశాడు. బాణం ప్రతి చెట్టు గుండా దూసుకుపోతుంటే, \"ధ్వక్\" అనే చప్పుడు అడవిలో ప్రతిధ్వనించింది. సుగ్రీవుడి నోరు తెరుచుకుండిపోయింది — అలాంటి శక్తిని అతను ఎప్పుడూ చూడలేదు! అతని కళ్ళలో ధైర్యం మెరిసింది. \"నా భయాన్ని పోగొట్టారు, రామా!\" అని భక్తితో అన్నాడు. ఇప్పుడు వాలిని ఎదుర్కోవడానికి సుగ్రీవుడికి ఆ ధైర్యం వస్తుందా?",
+      "image_prompt": "The character watches in astonishment as a man draws his bow and pierces seven large Sal trees with a single arrow. His mouth hangs open in awe as the 'dhwak' sound of the arrow echoes through the forest. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Clear, bright midday sun illuminating the forest clearing, highlighting the impressive feat and Rama's serene power.",
+      "scene_visual": "The character watches in astonishment as a man draws his bow and pierces seven large Sal trees with a single arrow. His mouth hangs open in awe as the 'dhwak' sound of the arrow echoes through the forest.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Hanuman"
+      ],
+      "text_te_en": "Sugrivudu Tana Anna Vaali Goppa Balam Gurinchi Raamudiki Cheppi, Tana Bhayaanni Vivarinchaadu. Raamudu Chirunavvu Navvi, Edu Pedda Saala Vrrikshaalanu Chupinchaadu. Sugrivudu Aashcharyangaa Chustundagaane, Raamudu Tana Villu Ekkupetti, Okka Baananto Aa Edu Vrrikshaalanu Okesaari Chilcheshaadu. Baanam Prati Chettu Gundaa Dusukupotunte, \"Dhvak\" Ane Chappudu Adavilo Pratidhvaninchindi. Sugrivudi Noru Teruchukundipoyindi — Alaanti Shaktini Atanu Eppudu Chudaledu! Atani Kallalo Dhairyam Merisindi. \"Naa Bhayaanni Pogottaaru, Raamaa!\" Ani Bhaktito Annaadu. Ippudu Vaalini Edurkovadaaniki Sugrivudiki Aa Dhairyam Vastundaa?",
+      "text_en": "Sugreeva told Rama about his brother Vali's great strength and explained his fear. Rama smiled and pointed to seven large Sala trees. As Sugreeva watched in amazement, Rama strung his bow and, with a single arrow, pierced all seven trees at once. As the arrow shot through each tree, a 'Dhwak' sound echoed through the forest. Sugreeva's mouth hung open — he had never seen such power! Courage shone in his eyes. 'You have removed my fear, Rama!' he said with devotion. Now, would Sugreeva find the courage to face Vali?"
+    },
+    {
+      "id": 4,
+      "text": "రాముడి మాటలతో ధైర్యం తెచ్చుకున్న సుగ్రీవుడు వాలిని యుద్ధానికి పిలిచాడు. ఇద్దరూ గుద్దులాట ప్రారంభించారు. వాలి తన అపారమైన బలంతో సుగ్రీవుడిని ఒక్కసారిగా పైకి లేపి పడేసినప్పుడు — అడవి అంతా వణికిపోయింది. వాలి గంభీరమైన గర్జన అడవిలో ప్రతిధ్వనిస్తుంటే, భూమి కూడా కదులుతున్నట్టు అనిపించింది. వాలి సుగ్రీవుడి కళ్ళలోకి తీక్షణంగా చూసి \"మళ్ళీ నా ముందు నిలబడే ధైర్యం నీకెక్కడిది?\" అన్నాడు. సుగ్రీవుడి శరీరం భయంతో వణికింది, వెంటనే వెనక్కి తగ్గి గుహలోకి పారిపోయాడు. రాముడు అక్కడే నిలబడి, ఒక్క బాణం కూడా వేయలేదు — ఎందుకు?",
+      "image_prompt": "The character is suddenly lifted and thrown by his opponent with immense strength during their fight. The opponent's deep roar echoes through the forest, making the ground feel like it's shaking. Also in this scene: Vali: a powerful vanara king with dark complexion, very large and muscular — visibly bigger and more imposing than Sugriva. Wearing a golden crown and royal vanara ornaments, carrying a heavy mace. Fierce, dominant expression. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Harsh, bright sunlight on the open ground, emphasizing the stark power difference between the brothers and Sugriva's vulnerability.",
+      "scene_visual": "The character is suddenly lifted and thrown by his opponent with immense strength during their fight. The opponent's deep roar echoes through the forest, making the ground feel like it's shaking.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana"
+      ],
+      "text_te_en": "Raamudi Maatalato Dhairyam Techchukunna Sugrivudu Vaalini Yuddhaaniki Pilichaadu. Iddaru Guddulaata Praarambhinchaaru. Vaali Tana Apaaramaina Balanto Sugrivudini Okkasaarigaa Paiki Lepi Padesinappudu — Adavi Antaa Vanikipoyindi. Vaali Gambhiramaina Garjana Adavilo Pratidhvanistunte, Bhumi Kudaa Kadulutunnattu Anipinchindi. Vaali Sugrivudi Kallaloki Tikshanangaa Chusi \"Malli Naa Mundu Nilabade Dhairyam Nikekkadidi?\" Annaadu. Sugrivudi Shariram Bhayanto Vanikindi, Ventane Venakki Taggi Guhaloki Paaripoyaadu. Raamudu Akkade Nilabadi, Okka Baanam Kudaa Veyaledu — Enduku?",
+      "text_en": "Gaining courage from Rama's words, Sugreeva challenged Vali to a fight. Both began to wrestle. When Vali, with his immense strength, lifted Sugreeva up and threw him down — the entire forest trembled. As Vali's mighty roar echoed through the forest, it felt as if the earth itself was shaking. Vali looked sharply into Sugreeva's eyes and said, 'Where did you get the courage to stand before me again?' Sugreeva's body trembled with fear, and he immediately retreated and ran back into the cave. Rama stood there, not shooting a single arrow — why?"
+    },
+    {
+      "id": 5,
+      "text": "సుగ్రీవుడు భయంతో వెనక్కి రాగానే, రాముడు అతని దగ్గరకు వచ్చాడు. \"పోరాటంలో మీ ఇద్దరినీ నేను సరిగ్గా గుర్తించలేకపోయాను, సుగ్రీవా\" అని రాముడు మెల్లగా వివరించాడు. ఆ తర్వాత సుగ్రీవుడి మెడలో వేయడానికి, అందమైన పువ్వులతో అల్లిన ఒక మాలికను అందించాడు. సుగ్రీవుడు ఆ మాలికను మెడలో వేసుకోగానే, దాని చల్లని స్పర్శ అతని మనసుకు ధైర్యాన్నిచ్చింది. \"ధర్మం నీ వైపు ఉంది, భయపడకు\" అని రాముడు భరోసా ఇచ్చాడు. సుగ్రీవుడి భుజాలు నిటారుగా అయ్యాయి, అతని పిడికిళ్ళు బిగించాడు — మళ్ళీ పోరాడటానికి సిద్ధమయ్యాడు. మరి ఈసారి రాముడు సుగ్రీవుడికి సహాయం చేయగలుగుతాడా?",
+      "image_prompt": "The character's shoulders straighten and his fists clench after he puts on a garland of beautiful flowers. The cool touch of the garland gives him courage, and a man reassures him. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Soft, late afternoon sun filtering through leaves, creating a gentle, reassuring glow around Rama and Sugriva, symbolizing renewed hope.",
+      "scene_visual": "The character's shoulders straighten and his fists clench after he puts on a garland of beautiful flowers. The cool touch of the garland gives him courage, and a man reassures him.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana"
+      ],
+      "text_te_en": "Sugrivudu Bhayanto Venakki Raagaane, Raamudu Atani Daggaraku Vachchaadu. \"Poraatanlo Mi Iddarini Nenu Sariggaa Gurtinchalekapoyaanu, Sugrivaa\" Ani Raamudu Mellagaa Vivarinchaadu. Aa Tarvaata Sugrivudi Medalo Veyadaaniki, Andamaina Puvvulato Allina Oka Maalikanu Andinchaadu. Sugrivudu Aa Maalikanu Medalo Vesukogaane, Daani Challani Sparsha Atani Manasuku Dhairyaannichchindi. \"Dharmam Ni Vaipu Undi, Bhayapadaku\" Ani Raamudu Bharosaa Ichchaadu. Sugrivudi Bhujaalu Nitaarugaa Ayyaayi, Atani Pidikillu Biginchaadu — Malli Poraadataaniki Siddhamayyaadu. Mari Isaari Raamudu Sugrivudiki Sahaayam Cheyagalugutaadaa?",
+      "text_en": "As Sugreeva returned in fear, Rama approached him. 'I couldn't properly tell the two of you apart in the fight, Sugreeva,' Rama gently explained. After that, he offered a garland woven with beautiful flowers for Sugreeva to wear around his neck. As Sugreeva put the garland around his neck, its cool touch gave courage to his heart. 'Righteousness is on your side, do not fear,' Rama assured him. Sugreeva's shoulders straightened, and he clenched his fists — he was ready to fight again. But this time, would Rama be able to help Sugreeva?"
+    },
+    {
+      "id": 6,
+      "text": "మాలిక ధరించి, సుగ్రీవుడు మళ్ళీ వాలిని యుద్ధానికి పిలిచాడు. ఇద్దరు అన్నదమ్ములు భయంకరంగా పోరాడుతున్నారు. ఇంతలో... ఆకాశం నుండి ఒక అద్భుతమైన బంగారు కాంతి మెరుపులా భూమిని చేరింది. ఆ దివ్యశక్తి కళ్ళు మిరుమిట్లు గొలిపేలా ప్రకాశించింది — అడవిలో ఉన్నవారందరూ ఒక్క క్షణం కళ్ళు మూసుకున్నారు. భూమి మెల్లగా కంపిస్తున్నట్లు అనిపించింది. వాలి కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, \"రామా... ఇది ధర్మమా?\" అని అడిగాడు. ఆ క్షణంలో, న్యాయం జరిగింది. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది. సుగ్రీవుడు భక్తితో ఆకాశం వైపు చూశాడు. ఇప్పుడు కిష్కింధ రాజ్యానికి, సుగ్రీవుడికి ఏం జరుగుతుంది?",
+      "image_prompt": "A dazzling golden light flashes down from the sky, striking the earth like lightning. Everyone in the forest momentarily closes their eyes as the divine power illuminates the surroundings. Also in this scene: Vali: a powerful vanara king with dark complexion, very large and muscular — visibly bigger and more imposing than Sugriva. Wearing a golden crown and royal vanara ornaments, carrying a heavy mace. Fierce, dominant expression. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. A sudden, blinding flash of divine golden-white light from Rama's position, momentarily overwhelming the forest's natural light, followed by a serene, clear light.",
+      "scene_visual": "A dazzling golden light flashes down from the sky, striking the earth like lightning. Everyone in the forest momentarily closes their eyes as the divine power illuminates the surroundings.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana"
+      ],
+      "text_te_en": "Maalika Dharinchi, Sugrivudu Malli Vaalini Yuddhaaniki Pilichaadu. Iddaru Annadammulu Bhayankarangaa Poraadutunnaaru. Intalo... Aakaasham Nundi Oka Adbhutamaina Bangaaru Kaanti Merupulaa Bhumini Cherindi. Aa Divyashakti Kallu Mirumitlu Golipelaa Prakaashinchindi — Adavilo Unnavaarandaru Okka Kshanam Kallu Musukunnaaru. Bhumi Mellagaa Kampistunnatlu Anipinchindi. Vaali Kallu Aashcharyanto Peddavayyaayi, \"Raamaa... Idi Dharmamaa?\" Ani Adigaadu. Aa Kshananlo, Nyaayam Jarigindi. Devuni Shakti Mundu Chedu Nilavalekapoyindi. Sugrivudu Bhaktito Aakaasham Vaipu Chushaadu. Ippudu Kishkindha Raajyaaniki, Sugrivudiki Em Jarugutundi?",
+      "text_en": "Wearing the garland, Sugreeva challenged Vali to a fight again. The two brothers fought fiercely. Just then... a magnificent golden light, like a flash of lightning, reached the earth from the sky. That divine power shone so brightly that it dazzled the eyes — everyone in the forest closed their eyes for a moment. The earth seemed to tremble gently. Vali's eyes widened in surprise, and he asked, 'Rama... is this justice?' In that moment, justice was served. Evil could not stand before divine power. Sugreeva looked towards the sky with devotion. Now, what would happen to the kingdom of Kishkindha and to Sugreeva?"
+    },
+    {
+      "id": 7,
+      "text": "కొన్ని రోజుల తర్వాత, కిష్కింధ నగరంలో గొప్ప పండుగ వాతావరణం నెలకొంది. రాముడి సమక్షంలో సుగ్రీవుడికి పట్టాభిషేకం జరిగింది. వానర సైన్యం ఆనందంతో కేరింతలు కొడుతూ, బిగ్గరగా అరుస్తూ, విజయోత్సాహంతో అడవి అంతా నింపేసింది. సుగ్రీవుడు తల వంచి రాముడికి నమస్కరించాడు, అతని ముఖంలో శాంతమైన చిరునవ్వు కనిపించింది. \"రామా! మీ సహాయం మరువలేనిది\" అని కృతజ్ఞతతో పలికాడు. అప్పుడు కిష్కింధ రాజ్యంలో ధర్మం మళ్ళీ నెలకొంది, అందరూ సంతోషంగా జీవించారు.",
+      "image_prompt": "The character bows his head to a man during his coronation ceremony amidst a festive atmosphere. A peaceful smile appears on his face as the monkey army cheers joyfully around them. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Warm, golden afternoon light illuminating the bustling monkey kingdom, creating a festive and triumphant atmosphere.",
+      "scene_visual": "The character bows his head to a man during his coronation ceremony amidst a festive atmosphere. A peaceful smile appears on his face as the monkey army cheers joyfully around them.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Hanuman"
+      ],
+      "text_te_en": "Konni Rojula Tarvaata, Kishkindha Nagaranlo Goppa Panduga Vaataavaranam Nelakondi. Raamudi Samakshanlo Sugrivudiki Pattaabhishekam Jarigindi. Vaanara Sainyam Aanandanto Kerintalu Kodutu, Biggaragaa Arustu, Vijayotsaahanto Adavi Antaa Nimpesindi. Sugrivudu Tala Vanchi Raamudiki Namaskarinchaadu, Atani Mukhanlo Shaantamaina Chirunavvu Kanipinchindi. \"Raamaa! Mi Sahaayam Maruvalenidi\" Ani Krritajnyatato Palikaadu. Appudu Kishkindha Raajyanlo Dharmam Malli Nelakondi, Andaru Santoshangaa Jivinchaaru.",
+      "text_en": "A few days later, a great festive atmosphere filled the city of Kishkindha. Sugreeva's coronation took place in the presence of Rama. The Vanara army cheered with joy, shouting loudly, filling the entire forest with their triumphant spirit. Sugreeva bowed his head to Rama, and a peaceful smile appeared on his face. 'Rama! Your help is unforgettable,' he said with gratitude. Then, righteousness was re-established in the kingdom of Kishkindha, and everyone lived happily."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "Hanuman",
+      "description": "Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 7,
+    "dialogue_richness": 7,
+    "grammar_correctness": 9,
+    "narrative_arc": 8,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts a strong narrative arc and impeccable grammar, providing a solid foundation. The consistent use of suspenseful questions at the end of each scene is a highly effective technique for child engagement. To reach an award-worthy level, the primary focus should be on infusing more oral warmth and a conversational tone throughout the narrative, making it sound less like a written report and more like a grandparent's voice. Additionally, consistently showing emotions through action and dialogue, rather than stating them directly, would significantly deepen the emotional impact."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamudi Todu - Sugrivudi Vijayam",
+  "moral_te_en": "Pillalu, Manchi Snehitulu Todunte, Dharmam Vaipu Nilabadite Elaanti Kashtam Nunchainaa Bayatapadochchu Telusaa?",
+  "title_en": "Rama's Help - Sugreeva's Victory",
+  "moral_en": "Children, do you know that if you have good friends by your side and stand for what is right, you can overcome any difficulty?",
+  "id": "20260524_131102",
+  "date": "2026-05-24",
+  "category": "ramayana",
+  "subcategory": "courage_tales",
+  "topic": "సుగ్రీవుడు మరియు వాలి యుద్ధం",
+  "thumbnail": "stories/20260524_131102/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
