@@ -1,0 +1,113 @@
+{
+  "title": "తెనాలి తెలివి: సువాసన బహుమతి",
+  "moral": "పిల్లలూ, నిజమైన విలువ బంగారం, వజ్రాల్లో ఉండదు, అది జ్ఞానంలో, మంచి మనసులో ఉంటుంది అని తెలుసుకున్నారు కదా?",
+  "main_character": "Tenali Ramakrishna is a lean, sharp-eyed man in his late 30s, known for his quick wit and humble demeanor. He wears simple, clean traditional Telugu attire, often a white dhoti and an angavastram. Always the same character across every scene.",
+  "antagonist": "Durmati is a portly man in his 50s with a perpetually sour expression and a neatly trimmed black mustache. He wears rich, dark silk robes with elaborate gold embroidery and a large, gaudy turban. Always the same character across every scene.",
+  "setting": "The royal court of Vijayanagara, Hampi, during the time of King Krishnadevaraya. The court is a grand hall with intricately carved stone pillars, vibrant tapestries depicting battle scenes, and a large, ornate throne at one end. Always the same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర సామ్రాజ్యం, హంపి రాజసభలో, ఆ రోజు కూడా తెనాలి రామకృష్ణుడు తన తెలివితో ఒక చిన్న తగువును ఎంతో చమత్కారంగా పరిష్కరించాడు. అతని మాటలకు మహారాజు కృష్ణదేవరాయల హృదయపూర్వక నవ్వు — ఆ పెద్ద దర్బార్ హాలు అంతా ప్రతిధ్వనించింది. తెనాలి పెదవులపై చిన్న నవ్వు మెరిసింది, తన మాటలకు రాజు సంతోషపడడం చూసి. \"మహారాజా, సగటు మనిషికి తెలివి, ధనవంతుడికి డబ్బు - రెండూ సమానమే!\" అంటూ తెనాలి వినయంగా పలికాడు, అతని మాటల్లో ఎంత జ్ఞానం నిండి ఉందో! రాజు తల పంకించాడు, అతని తెలివిని మెచ్చుకుంటూ. మరి, ఈసారి తెనాలికి ఇంకేం పరీక్ష ఎదురవుతుందో... చూద్దామా?",
+      "image_prompt": "The king throws his head back, laughing heartily, as the boy stands humbly before him. A faint, satisfied smile plays on the boy's lips, reflecting the king's joyful expression. Bright, warm morning sun streaming through high arched windows, illuminating the dust motes dancing in the air of the bustling court.",
+      "scene_visual": "The king throws his head back, laughing heartily, as the boy stands humbly before him. A faint, satisfied smile plays on the boy's lips, reflecting the king's joyful expression.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Vijayanagara Saamraajyan, Hampi Raajasabhalo, Aa Roju Kudaa Tenaali Raamakrrishnudu Tana Telivito Oka Chinna Taguvunu Ento Chamatkaarangaa Parishkarinchaadu. Atani Maatalaku Mahaaraaju Krrishnadevaraayala Hrridayapurvaka Navvu — Aa Pedda Darbaar Haalu Antaa Pratidhvaninchindi. Tenaali Pedavulapai Chinna Navvu Merisindi, Tana Maatalaku Raaju Santoshapadadam Chusi. \"Mahaaraajaa, Sagatu Manishiki Telivi, Dhanavantudiki Dabbu - Rendu Samaaname!\" Antu Tenaali Vinayangaa Palikaadu, Atani Maatallo Enta Jnyaanam Nindi Undo! Raaju Tala Pankinchaadu, Atani Telivini Mechchukuntu. Mari, Isaari Tenaaliki Inkem Pariksha Eduravutundo... Chuddaamaa?",
+      "text_en": "In the Vijayanagara Empire, in the royal court of Hampi, that day too, Tenali Ramakrishna cleverly solved a small dispute with his wit. Maharaja Krishnadevaraya's heartfelt laughter echoed throughout the grand court hall at his words. A small smile appeared on Tenali's lips, seeing the king happy with his words. \"Maharaja, for an ordinary person, wisdom, and for a rich person, money – both are equally important!\" Tenali said humbly, his words full of wisdom! The king nodded, admiring his cleverness. Now, what challenge will Tenali face this time... shall we see?"
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి తెలివికి మురిసిపోయిన మహారాజు, ఆ మరుసటి రోజున ఒక ఆసక్తికరమైన ప్రకటన చేశాడు. తన సింహాసనం నుండి లేచి, చేతిలోని బంగారు గాజులు గలగలమని చప్పుడు చేస్తూ, \"నాకు నా పుట్టినరోజుకు అత్యంత అద్భుతమైన, విలువైన బహుమతి కావాలి!\" అని దర్బార్‌లో ఉన్న అందరికీ వినిపించేలా చెప్పాడు. అందరూ ఆశ్చర్యపోయారు, కానీ తెనాలి నుదుటిపై చిన్న ముడి పడింది — ఏదో లోతుగా ఆలోచిస్తున్నట్లు. అటువంటి అద్భుతమైన బహుమతిని, తనలాంటి సామాన్యమైన వ్యక్తి ఎలా తీసుకురాగలడు?",
+      "image_prompt": "The king rises from his throne, addressing the court with an announcement. His golden bangles jingle loudly as he gestures, while the boy in the crowd furrows his brow in deep thought. The same bright, warm morning light, but a slightly more formal and anticipatory mood in the court.",
+      "scene_visual": "The king rises from his throne, addressing the court with an announcement. His golden bangles jingle loudly as he gestures, while the boy in the crowd furrows his brow in deep thought.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Tenaali Teliviki Murisipoyina Mahaaraaju, Aa Marusati Rojuna Oka Aasaktikaramaina Prakatana Cheshaadu. Tana Sinhaasanam Nundi Lechi, Chetiloni Bangaaru Gaajulu Galagalamani Chappudu Chestu, \"Naaku Naa Puttinarojuku Atyanta Adbhutamaina, Viluvaina Bahumati Kaavaali!\" Ani Darbaar‌Lo Unna Andariki Vinipinchelaa Cheppaadu. Andaru Aashcharyapoyaaru, Kaani Tenaali Nudutipai Chinna Mudi Padindi — Edo Lotugaa Aalochistunnatlu. Atuvanti Adbhutamaina Bahumatini, Tanalaanti Saamaanyamaina Vyakti Elaa Tisukuraagaladu?",
+      "text_en": "Delighted by Tenali's cleverness, the Maharaja made an interesting announcement the very next day. Rising from his throne, his golden bangles jingling, he announced for everyone in the court to hear, \"For my birthday, I want the most wonderful and valuable gift!\" Everyone was surprised, but a small frown appeared on Tenali's forehead — as if he was thinking deeply. How could an ordinary person like him bring such a wonderful gift?"
+    },
+    {
+      "id": 3,
+      "text": "మహారాజు ఇచ్చిన సవాలు తెనాలిని కలవరపెట్టింది; అద్భుతమైన బహుమతి కోసం అతను నగరంలోని రద్దీ మార్కెట్లలో తిరుగుతున్నాడు. సుగంధ ద్రవ్యాలు, మల్లెపూల మాలలు, వేయించిన స్నాక్స్ వాసనలు ఒకదానితో ఒకటి కలిసి, అదోలా పరిమళాలు వెదజల్లుతున్నాయి. అతని భుజాలు కొద్దిగా వంగిపోయాయి, నిరాశగా చిన్న నిట్టూర్పు విడిచాడు. \"ఇవన్నీ విలువైనవే... కానీ ప్రత్యేకమైనవి కావు. మహారాజుకు ఏమి ఇవ్వాలి?\" అంటూ తనలో తనే గొణుక్కున్నాడు. అన్ని అంగళ్ళలో చూసినా, రాజుకు తగినది ఏదీ దొరకలేదని అతని మనసు పీకుతోంది. మరి, తెనాలికి ఏమైనా ఆలోచన వస్తుందా, లేదా ఈ సవాలును వదిలేస్తాడా?",
+      "image_prompt": "The boy walks through a bustling market, his shoulders slightly slumped in despair. He sighs softly amidst the mingled scents of spices, jasmine garlands, and fried snacks. Harsh, bright midday sun beating down on the vibrant, crowded market stalls, casting sharp shadows.",
+      "scene_visual": "The boy walks through a bustling market, his shoulders slightly slumped in despair. He sighs softly amidst the mingled scents of spices, jasmine garlands, and fried snacks.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mahaaraaju Ichchina Savaalu Tenaalini Kalavarapettindi; Adbhutamaina Bahumati Kosam Atanu Nagaranloni Raddi Maarketlalo Tirugutunnaadu. Sugandha Dravyaalu, Mallepula Maalalu, Veyinchina Snaaks Vaasanalu Okadaanito Okati Kalisi, Adolaa Parimalaalu Vedajallutunnaayi. Atani Bhujaalu Koddigaa Vangipoyaayi, Niraashagaa Chinna Nitturpu Vidichaadu. \"Ivanni Viluvainave... Kaani Pratyekamainavi Kaavu. Mahaaraajuku Emi Ivvaali?\" Antu Tanalo Tane Gonukkunnaadu. Anni Angallalo Chusinaa, Raajuku Taginadi Edi Dorakaledani Atani Manasu Pikutondi. Mari, Tenaaliki Emainaa Aalochana Vastundaa, Ledaa I Savaalunu Vadilestaadaa?",
+      "text_en": "The challenge given by the Maharaja troubled Tenali; he was wandering through the bustling city markets looking for a wonderful gift. The scents of spices, jasmine garlands, and fried snacks mixed together, spreading a unique fragrance. His shoulders were slightly slumped, and he let out a small sigh of despair. \"These are all valuable... but not special. What should I give the Maharaja?\" he mumbled to himself. Even after looking in all the shops, his mind was troubled that he couldn't find anything suitable for the king. Now, will Tenali get an idea, or will he give up on this challenge?"
+    },
+    {
+      "id": 4,
+      "text": "నిరాశగా నడుస్తున్న తెనాలి, ఒక నది ఒడ్డున ఆగి, అక్కడ పిల్లలు ఆడుకుంటున్న దృశ్యం చూశాడు. గాలికి ఆకులు మెల్లగా రెపరెపలాడుతున్నాయి, పిల్లల సరదా అరుపులు దూరం నుండి వినబడుతున్నాయి. ఒక పసిపాప మల్లెపూలను వాసన చూస్తూ, ఆ అమాయక ఆనందంలో మునిగిపోవడం చూసి — తెనాలి కళ్ళు ఒక్కసారిగా పెద్దవయ్యాయి. అతని పెదవులపై చిన్న నవ్వు వికసించింది, ఒక ఆలోచన మెరుపులా తట్టింది. \"అవును! అత్యంత విలువైనది కళ్ళ ముందు ఉంది, మనం చూడటం లేదు!\" అంటూ అతను ఆనందంగా పలికాడు. మరి, ఆ సాధారణమైన వస్తువు ఏమిటి, అది రాజుకు తగిన బహుమతి అవుతుందా?",
+      "image_prompt": "The boy stops by a riverbank, watching a small child smelling jasmine flowers. His eyes widen in sudden realization, and a small smile blossoms on his lips. Soft, golden afternoon light filtering through the lush green leaves of trees by a tranquil river, creating a peaceful, contemplative atmosphere.",
+      "scene_visual": "The boy stops by a riverbank, watching a small child smelling jasmine flowers. His eyes widen in sudden realization, and a small smile blossoms on his lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Niraashagaa Nadustunna Tenaali, Oka Nadi Odduna Aagi, Akkada Pillalu Aadukuntunna Drrishyam Chushaadu. Gaaliki Aakulu Mellagaa Reparepalaadutunnaayi, Pillala Saradaa Arupulu Duram Nundi Vinabadutunnaayi. Oka Pasipaapa Mallepulanu Vaasana Chustu, Aa Amaayaka Aanandanlo Munigipovadam Chusi — Tenaali Kallu Okkasaarigaa Peddavayyaayi. Atani Pedavulapai Chinna Navvu Vikasinchindi, Oka Aalochana Merupulaa Tattindi. \"Avunu! Atyanta Viluvainadi Kalla Mundu Undi, Manam Chudatam Ledu!\" Antu Atanu Aanandangaa Palikaadu. Mari, Aa Saadhaaranamaina Vastuvu Emiti, Adi Raajuku Tagina Bahumati Avutundaa?",
+      "text_en": "Tenali, walking dejectedly, stopped by a riverbank and saw children playing there. Leaves gently rustled in the wind, and the joyful shouts of children could be heard from afar. Seeing a small child smelling jasmine flowers, lost in innocent joy — Tenali's eyes suddenly widened. A small smile blossomed on his lips, and an idea struck him like lightning. \"Yes! The most valuable thing is right before our eyes, and we don't see it!\" he exclaimed happily. Now, what was that ordinary thing, and would it be a suitable gift for the king?"
+    },
+    {
+      "id": 5,
+      "text": "మహారాజు పుట్టినరోజు వచ్చింది, దర్బార్‌లో అందరూ విలువైన బహుమతులతో నిండిపోయారు. దుర్మతి, తన బంగారు పళ్ళెంలో వజ్రాలు పొదిగిన పెట్టెను పట్టుకొని వచ్చాడు, దానిపై ఉన్న చిన్న గంటలు గలగలమని మోగుతున్నాయి. ఆ పెట్టెను రాజుకు సమర్పిస్తూ, తెనాలి వైపు చిన్న చూపు చూసి వెటకారంగా నవ్వాడు. ఇంతలో, తెనాలి తన చేతిలో ఒక చిన్న, మూతపెట్టిన మట్టికుండతో నిశ్శబ్దంగా నడుస్తూ వచ్చాడు — అతని ముఖంలో ప్రశాంతమైన చిరునవ్వు. \"ఓహో, తెనాలి! నీ బహుమతి చాలా చిన్నదిగా ఉందే, అది రాజుగారికి సరిపోతుందా?\" అని దుర్మతి ఎగతాళిగా అడిగాడు, అందరి నవ్వుల మధ్య. మరి, ఆ మట్టికుండలో రాజుకు తగిన బహుమతిగా తెనాలి ఏం తెచ్చాడు?",
+      "image_prompt": "A rival man presents a diamond-studded box on a golden platter to the king, then sneers at the boy. The boy quietly walks in, holding a small, covered clay pot, a serene smile on his face. The grand court hall, now filled with the glittering reflections of many expensive gifts, creating a slightly overwhelming and competitive aura under the bright afternoon sun.",
+      "scene_visual": "A rival man presents a diamond-studded box on a golden platter to the king, then sneers at the boy. The boy quietly walks in, holding a small, covered clay pot, a serene smile on his face.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Mahaaraaju Puttinaroju Vachchindi, Darbaar‌Lo Andaru Viluvaina Bahumatulato Nindipoyaaru. Durmati, Tana Bangaaru Pallenlo Vajraalu Podigina Pettenu Pattukoni Vachchaadu, Daanipai Unna Chinna Gantalu Galagalamani Mogutunnaayi. Aa Pettenu Raajuku Samarpistu, Tenaali Vaipu Chinna Chupu Chusi Vetakaarangaa Navvaadu. Intalo, Tenaali Tana Chetilo Oka Chinna, Mutapettina Mattikundato Nishshabdangaa Nadustu Vachchaadu — Atani Mukhanlo Prashaantamaina Chirunavvu. \"Oho, Tenaali! Ni Bahumati Chaalaa Chinnadigaa Unde, Adi Raajugaariki Saripotundaa?\" Ani Durmati Egataaligaa Adigaadu, Andari Navvula Madhya. Mari, Aa Mattikundalo Raajuku Tagina Bahumatigaa Tenaali Em Techchaadu?",
+      "text_en": "The Maharaja's birthday arrived, and everyone in the court was laden with valuable gifts. Durmati came holding a diamond-studded box on a golden plate, with small bells on it jingling. Presenting the box to the king, he glanced at Tenali and smirked. Meanwhile, Tenali walked in silently with a small, lidded clay pot in his hand — a calm smile on his face. \"Oh, Tenali! Your gift is so small, is it even suitable for the king?\" Durmati asked mockingly, amidst everyone's laughter. Now, what did Tenali bring in that clay pot as a suitable gift for the king?"
+    },
+    {
+      "id": 6,
+      "text": "దుర్మతి మాటలకు చిన్నగా నవ్వి, తెనాలి తన మట్టికుండ మూతను జాగ్రత్తగా తీశాడు. ఒక్కసారిగా — సభామందిరం అంతా మల్లెపూల మధురమైన సువాసనతో నిండిపోయింది. ఆ వాసన అందరినీ ఆశ్చర్యపరిచింది, మంత్రముగ్ధులను చేసింది. తెనాలి తన చేతితో graceful గా సంజ్ఞలు చేస్తూ, స్పష్టమైన గొంతుతో వివరించడం మొదలుపెట్టాడు: \"మహారాజా, ఈ పూల సువాసన, వాటి స్వచ్ఛత, వాటి ఆయుష్షు... ఇవన్నీ డబ్బుతో కొనలేము!\" అంటూ ఆ పూల విశిష్టతను వివరించాడు. ఆ సాధారణమైన పూల వెనుక ఎంత లోతైన అర్థం ఉందో, రాజు అర్థం చేసుకుంటాడా?",
+      "image_prompt": "The boy carefully removes the lid from his clay pot, a faint smile on his face. Immediately, the entire court hall is filled with the sweet fragrance of jasmine flowers, surprising everyone. A spotlight-like effect of natural light seems to fall directly on Tenali and his gift, making the simple flowers glow softly against the grandeur of the court.",
+      "scene_visual": "The boy carefully removes the lid from his clay pot, a faint smile on his face. Immediately, the entire court hall is filled with the sweet fragrance of jasmine flowers, surprising everyone.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Durmati Maatalaku Chinnagaa Navvi, Tenaali Tana Mattikunda Mutanu Jaagrattagaa Tishaadu. Okkasaarigaa — Sabhaamandiram Antaa Mallepula Madhuramaina Suvaasanato Nindipoyindi. Aa Vaasana Andarini Aashcharyaparichindi, Mantramugdhulanu Chesindi. Tenaali Tana Chetito Graceful Gaa Sanjnyalu Chestu, Spashtamaina Gontuto Vivarinchadam Modalupettaadu: \"Mahaaraajaa, I Pula Suvaasana, Vaati Svachchata, Vaati Aayushshu... Ivanni Dabbuto Konalemu!\" Antu Aa Pula Vishishtatanu Vivarinchaadu. Aa Saadhaaranamaina Pula Venuka Enta Lotaina Artham Undo, Raaju Artham Chesukuntaadaa?",
+      "text_en": "Smiling slightly at Durmati's words, Tenali carefully removed the lid of his clay pot. Suddenly — the entire court hall was filled with the sweet fragrance of jasmine flowers. The scent surprised everyone and enchanted them. Tenali, making graceful gestures with his hand, began to explain in a clear voice: \"Maharaja, the fragrance of these flowers, their purity, their life... these cannot be bought with money!\" he explained, describing the uniqueness of the flowers. Would the king understand the deep meaning behind those ordinary flowers?"
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి వివరణ విన్న మహారాజు కృష్ణదేవరాయలు, ఒక క్షణం పాటు ఆలోచించి, ఆ పూలను వాసన చూశాడు. అతని ముఖంలో సంతృప్తి కనిపించింది. సభలోని వారంతా మెచ్చుకోలుగా తలలు పంకించారు, చిన్నగా గుసగుసలాడుకున్నారు. \"తెనాలి, నీ తెలివికి, నీ దృష్టికి సాటి లేదు. నీ బహుమతి అన్నిటికంటే విలువైనది!\" అని మహారాజు గంభీరంగా ప్రకటించాడు. తెనాలి వినయంగా రాజుకు నమస్కరించాడు, అతని కళ్ళల్లో చిన్న సంతృప్తి మెరిసింది. నిజమైన విలువ ఎక్కడ ఉందో అందరికీ అర్థమైంది.",
+      "image_prompt": "The king leans in to smell the flowers, a thoughtful expression on his face. A look of deep satisfaction spreads across his features, and the boy bows humbly, a glint of contentment in his eyes. Gentle dusk light beginning to filter into the court, casting warm amber tones, creating a peaceful and reflective atmosphere of resolution and wisdom.",
+      "scene_visual": "The king leans in to smell the flowers, a thoughtful expression on his face. A look of deep satisfaction spreads across his features, and the boy bows humbly, a glint of contentment in his eyes.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Tenaali Vivarana Vinna Mahaaraaju Krrishnadevaraayalu, Oka Kshanam Paatu Aalochinchi, Aa Pulanu Vaasana Chushaadu. Atani Mukhanlo Santrripti Kanipinchindi. Sabhaloni Vaarantaa Mechchukolugaa Talalu Pankinchaaru, Chinnagaa Gusagusalaadukunnaaru. \"Tenaali, Ni Teliviki, Ni Drrishtiki Saati Ledu. Ni Bahumati Annitikante Viluvainadi!\" Ani Mahaaraaju Gambhirangaa Prakatinchaadu. Tenaali Vinayangaa Raajuku Namaskarinchaadu, Atani Kallallo Chinna Santrripti Merisindi. Nijamaina Viluva Ekkada Undo Andariki Arthamaindi.",
+      "text_en": "Maharaja Krishnadevaraya, after hearing Tenali's explanation, thought for a moment and then smelled the flowers. Satisfaction appeared on his face. Everyone in the court nodded in appreciation and whispered softly. \"Tenali, your wisdom and insight are unmatched. Your gift is the most valuable of all!\" the Maharaja declared solemnly. Tenali humbly bowed to the king, a small spark of satisfaction in his eyes. Everyone understood where true value lay."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king_krishnadevaraya",
+      "description": "King Krishnadevaraya is a majestic and wise ruler in his 40s, with a dignified beard and a benevolent gaze. He wears royal attire of rich fabrics, adorned with jewels, and a grand crown. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.0,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and exceptional child engagement through well-placed suspense hooks and direct address. The dialogue is rich and character-specific, driving the plot forward effectively. To reach a 9+ in all dimensions, the primary focus should be on enhancing the oral warmth by softening some of the formal narrative descriptions and, crucially, removing the explicit 'Moral' statement, allowing the story's profound message to emerge organically from the events themselves."
+  },
+  "title_te_en": "Tenaali Telivi: Suvaasana Bahumati",
+  "moral_te_en": "Pillalu, Nijamaina Viluva Bangaaran, Vajraallo Undadu, Adi Jnyaananlo, Manchi Manasulo Untundi Ani Telusukunnaaru Kadaa?",
+  "title_en": "Tenali's Cleverness: The Fragrant Gift",
+  "moral_en": "Children, you've learned that true value isn't found in gold or diamonds, but in wisdom and a kind heart, haven't you?",
+  "id": "20260524_150854",
+  "date": "2026-05-24",
+  "category": "tenali",
+  "subcategory": "court_wit",
+  "topic": "తెనాలి రాముడు మరియు రాజు బహుమతి",
+  "thumbnail": "stories/20260524_150854/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
