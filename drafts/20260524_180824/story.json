@@ -1,0 +1,97 @@
+{
+  "title": "రాజకుమారి లీల ఉపాయం",
+  "moral": "పిల్లలూ, నిజమైన శక్తి అనేది ఒట్టి బలం కాదు తెలుసా — మన దయ, తెలివితేటలే మనకు అసలైన బలం.",
+  "main_character": "Princess Leela, a young princess aged 10-12, slender with long, braided black hair adorned with jasmine flowers. She has bright, curious eyes and a gentle smile, often dressed in simple, elegant silk skirts. She is kind, observant, and loves nature, but initially timid and sheltered. Always the same character across every scene.",
+  "antagonist": "A Rakshasudu, a massive, muscular demon with dark green skin, sharp tusks protruding from his lower jaw, and wild, tangled black hair. He wears a simple loincloth and carries a large, gnarled club. He has small, beady red eyes that often look confused or angry. Always the same character across every scene.",
+  "setting": "A vibrant, ancient Telugu kingdom nestled beside a dense, green forest. The palace has ornate carvings and a sprawling garden, while the village has thatched roofs and a bustling marketplace, all bathed in the warm glow of a perpetual golden hour. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లీలా రాజకుమారి తన అందమైన తోటలో ప్రశాంతంగా పూల మొక్కలకు నీళ్ళు పోస్తోంది. మల్లెపూల ఘుమఘుమలు పరిసరాలన్నీ నిండిపోయాయి. ఆమె చేతి మీద వాలిన ఒక సీతాకోకచిలుకను చూస్తూ, \"ఎంత అందంగా ఉన్నావు!\" అని మెల్లగా అంది. ఆమె పెదవులపై చిరునవ్వు చెరగకుండా, ఆ సీతాకోకచిలుకను ఆప్యాయంగా చూస్తూ నిలబడింది. కానీ ఆ ప్రశాంతత — ఆగింది. ఈ లోకం ఇంకా ప్రశాంతంగా ఉంటుందా, ఏమో?",
+      "image_prompt": "The princess stands still, gently looking at a butterfly that has landed on her hand. A soft smile plays on her lips as she gazes at the delicate insect. Soft morning sunlight filtering through dense green leaves, dappling the garden paths with warm, golden light and cool shadows, creating a serene and idyllic atmosphere.",
+      "scene_visual": "The princess stands still, gently looking at a butterfly that has landed on her hand. A soft smile plays on her lips as she gazes at the delicate insect.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lilaa Raajakumaari Tana Andamaina Totalo Prashaantangaa Pula Mokkalaku Nillu Postondi. Mallepula Ghumaghumalu Parisaraalanni Nindipoyaayi. Aame Cheti Mida Vaalina Oka Sitaakokachilukanu Chustu, \"Enta Andangaa Unnaavu!\" Ani Mellagaa Andi. Aame Pedavulapai Chirunavvu Cheragakundaa, Aa Sitaakokachilukanu Aapyaayangaa Chustu Nilabadindi. Kaani Aa Prashaantata — Aagindi. I Lokam Inkaa Prashaantangaa Untundaa, Emo?",
+      "text_en": "Princess Lila was peacefully watering the flowers in her beautiful garden. The sweet smell of jasmine filled the air. A butterfly landed on her hand, and she softly whispered, \"How beautiful you are!\" A gentle smile stayed on her face as she lovingly watched the butterfly. But that peace — it didn't last. Would this world ever be peaceful again, she wondered?"
+    },
+    {
+      "id": 2,
+      "text": "అంతలో, దూరంగా గ్రామ ప్రజల ఆందోళనతో కూడిన కేకలు రాజభవనం వైపు వినిపించాయి. వారు భయంతో వణికిపోతూ, అరుపులు, కేకలతో రాజ ప్రాంగణంలోకి పరిగెత్తుకు వచ్చారు. లీలా రాజకుమారి కళ్ళు ఆందోళనతో పెద్దవి అయ్యాయి — ఆమె గుండె వేగంగా కొట్టుకుంది. అందరూ భయంతో వణికిపోయారు. \"రాక్షసుడు ప్రతిరోజూ ఆహారం అడుగుతున్నాడు!\" అని ఒక వృద్ధుడు కన్నీళ్లతో మొరపెట్టుకున్నాడు. ఈ భయంకరమైన రాక్షసుడి బారి నుండి గ్రామం ఎలా బయటపడుతుంది?",
+      "image_prompt": "A group of villagers rush into the palace grounds, their faces contorted with fear. An old man among them, with tears streaming down his face, desperately pleads for help. Harsh midday sun casting long, stark shadows across the dusty palace courtyard, highlighting the villagers' distressed faces and creating an atmosphere of urgent fear.",
+      "scene_visual": "A group of villagers rush into the palace grounds, their faces contorted with fear. An old man among them, with tears streaming down his face, desperately pleads for help.",
+      "supporting_char_keys": [],
+      "text_te_en": "Antalo, Durangaa Graama Prajala Aandolanato Kudina Kekalu Raajabhavanam Vaipu Vinipinchaayi. Vaaru Bhayanto Vanikipotu, Arupulu, Kekalato Raaja Praangananloki Parigettuku Vachchaaru. Lilaa Raajakumaari Kallu Aandolanato Peddavi Ayyaayi — Aame Gunde Vegangaa Kottukundi. Andaru Bhayanto Vanikipoyaaru. \"Raakshasudu Pratiroju Aahaaram Adugutunnaadu!\" Ani Oka Vrriddhudu Kannillato Morapettukunnaadu. I Bhayankaramaina Raakshasudi Baari Nundi Graamam Elaa Bayatapadutundi?",
+      "text_en": "Just then, anxious shouts from the villagers echoed from afar, heading towards the palace. Trembling with fear, they ran into the palace grounds, screaming and crying. Princess Lila's eyes grew wide with worry — her heart pounded. Everyone was shaking with fear. \"The monster demands food every single day!\" an old man cried, tears streaming down his face. How would the village escape this terrible monster?"
+    },
+    {
+      "id": 3,
+      "text": "రాజకుమారి లీల, ఆ రాత్రి అంతా నిద్రపోకుండా, పాత రాజ గ్రంథాలను తిరగేస్తూ కూర్చుంది. దుమ్ము పట్టిన ఆ గ్రంథాల నుండి పాత కాగితాల వాసన ముక్కుకు తగులుతోంది. ఆమె నుదురు చిట్లించుకుంటూ, మందపాటి పేజీలను ఒకదాని తర్వాత ఒకటి తిప్పుతోంది — కానీ ఎక్కడా పరిష్కారం కనిపించలేదు. పెద్ద పెద్ద రాక్షసులను కేవలం బలంతో ఓడించిన కథలు మాత్రమే ఉన్నాయి. \"బలం మాత్రమే సరిపోదు, ఇంకేదో ఉండాలి!\" అని లీల గొణుక్కుంది. కేవలం బలం కాదు. మరి ఈ రాక్షసుడిని ఓడించడానికి ఇంకేం మార్గం ఉంటుంది?",
+      "image_prompt": "The princess sits hunched over a large, dusty book, intently flipping through its thick pages. Her brow is furrowed in concentration, reflecting her deep thought. Dim, warm light from oil lamps illuminating a small section of the vast, shadowy royal library, casting long, dancing shadows on the towering bookshelves, creating a contemplative and slightly mysterious mood.",
+      "scene_visual": "The princess sits hunched over a large, dusty book, intently flipping through its thick pages. Her brow is furrowed in concentration, reflecting her deep thought.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajakumaari Lila, Aa Raatri Antaa Nidrapokundaa, Paata Raaja Granthaalanu Tiragestu Kurchundi. Dummu Pattina Aa Granthaala Nundi Paata Kaagitaala Vaasana Mukkuku Tagulutondi. Aame Nuduru Chitlinchukuntu, Mandapaati Pejilanu Okadaani Tarvaata Okati Tipputondi — Kaani Ekkadaa Parishkaaram Kanipinchaledu. Pedda Pedda Raakshasulanu Kevalam Balanto Odinchina Kathalu Maatrame Unnaayi. \"Balam Maatrame Saripodu, Inkedo Undaali!\" Ani Lila Gonukkundi. Kevalam Balam Kaadu. Mari I Raakshasudini Odinchadaaniki Inkem Maargam Untundi?",
+      "text_en": "Princess Lila stayed awake all night, looking through old royal books. The dusty smell of ancient paper filled her nose. Frowning, she turned the thick pages one by one — but she couldn't find a solution anywhere. There were only stories of huge monsters being defeated by pure strength. \"Strength alone isn't enough, there must be something else!\" Lila mumbled to herself. Not just strength. What other way could there be to defeat this monster?"
+    },
+    {
+      "id": 4,
+      "text": "తెల్లవారుజామున, లీల రాజకుమారి తన గుర్తింపును దాచి, రాక్షసుడి గుహ దగ్గరకు వెళ్ళింది. రాక్షసుడి భారీ అడుగుల శబ్దానికి భూమి కూడా కదులుతోంది — ఆమె గుండె భయంతో వణికింది. ఆమె తన పైట కొంగును గట్టిగా పట్టుకుని, కళ్ళు సన్నగా చేసి చూసింది. రాక్షసుడు ఒక పక్షిని పట్టుకోవడానికి అదోలా ప్రయత్నిస్తున్నాడు, కానీ అది పారిపోతోంది. \"అతను కేవలం పెద్దవాడు కాదు, తెలివైనవాడు కాదు.\" అని లీల మనసులో అనుకుంది. అతనికి తెలివి లేదు. ఈ బలహీనతను లీల ఎలా ఉపయోగించుకుంటుంది?",
+      "image_prompt": "The princess, hidden from view, squints her eyes to watch the large demon clumsily attempting to catch a small bird. She tightly grips her garment, her heart pounding with a mix of fear and observation. Also in this scene: A Rakshasudu, a massive, muscular demon with dark green skin, sharp tusks protruding from his lower jaw, and wild, tangled black hair. He wears a simple loincloth and carries a large, gnarled club. He has small, beady red eyes that often look confused or angry. Always the same character across every scene. Late afternoon sun filtering through dense jungle canopy, creating patches of dappled, emerald-green light and deep, ominous shadows around the dark maw of the cave, conveying a sense of danger and hidden observation.",
+      "scene_visual": "The princess, hidden from view, squints her eyes to watch the large demon clumsily attempting to catch a small bird. She tightly grips her garment, her heart pounding with a mix of fear and observation.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tellavaarujaamuna, Lila Raajakumaari Tana Gurtimpunu Daachi, Raakshasudi Guha Daggaraku Vellindi. Raakshasudi Bhaari Adugula Shabdaaniki Bhumi Kudaa Kadulutondi — Aame Gunde Bhayanto Vanikindi. Aame Tana Paita Kongunu Gattigaa Pattukuni, Kallu Sannagaa Chesi Chusindi. Raakshasudu Oka Pakshini Pattukovadaaniki Adolaa Prayatnistunnaadu, Kaani Adi Paaripotondi. \"Atanu Kevalam Peddavaadu Kaadu, Telivainavaadu Kaadu.\" Ani Lila Manasulo Anukundi. Ataniki Telivi Ledu. I Balahinatanu Lila Elaa Upayoginchukuntundi?",
+      "text_en": "At dawn, Princess Lila hid who she was and went near the monster's cave. The ground shook with the sound of the monster's giant footsteps — her heart trembled with fear. She held her shawl tightly and squinted her eyes to see. The monster was clumsily trying to catch a bird, but it kept flying away. \"He's not just big, he's not very smart,\" Lila thought to herself. He wasn't clever. How would Lila use this weakness?"
+    },
+    {
+      "id": 5,
+      "text": "రాజభవన వంటగదికి తిరిగి వచ్చిన లీల రాజకుమారి, తన నుదురు చిట్లించుకుని, ఏదో ఆలోచిస్తోంది. ఆమె కళ్ళల్లో ఒక మెరుపు కనిపించింది. బెల్లం, అటుకుల సువాసన వంటగదంతా నిండిపోయింది. ఆమె వెంటనే సేవకులను పిలిచి, ఒక పెద్ద, కానీ తేలికైన తీపి లడ్డును తయారు చేయమని ఆజ్ఞాపించింది. \"రాక్షసుడి కడుపు నింపడం కాదు, అతని మనసును గెలవాలి.\" అని లీల వారికి వివరించింది. అప్పుడు ఒక ఆలోచన వచ్చింది. కేవలం ఒక లడ్డు, ఒక చిన్న పొడుపు కథ — ఇది రాక్షసుడిని మించిపోవడానికి సరిపోతుందా?",
+      "image_prompt": "The princess stands in the palace kitchen, her brow furrowed in thought, then a sudden spark of realization lights up her eyes. The air around her is filled with the sweet aroma of jaggery and flattened rice. Warm, golden light from cooking fires and open windows illuminating the bustling palace kitchen, reflecting off copper pots and creating a lively, purposeful atmosphere.",
+      "scene_visual": "The princess stands in the palace kitchen, her brow furrowed in thought, then a sudden spark of realization lights up her eyes. The air around her is filled with the sweet aroma of jaggery and flattened rice.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajabhavana Vantagadiki Tirigi Vachchina Lila Raajakumaari, Tana Nuduru Chitlinchukuni, Edo Aalochistondi. Aame Kallallo Oka Merupu Kanipinchindi. Bellan, Atukula Suvaasana Vantagadantaa Nindipoyindi. Aame Ventane Sevakulanu Pilichi, Oka Pedda, Kaani Telikaina Tipi Laddunu Tayaaru Cheyamani Aajnyaapinchindi. \"Raakshasudi Kadupu Nimpadam Kaadu, Atani Manasunu Gelavaali.\" Ani Lila Vaariki Vivarinchindi. Appudu Oka Aalochana Vachchindi. Kevalam Oka Laddu, Oka Chinna Podupu Katha — Idi Raakshasudini Minchipovadaaniki Saripotundaa?",
+      "text_en": "Back in the palace kitchen, Princess Lila frowned, deep in thought. A sparkle lit up her eyes. The sweet smell of jaggery and flattened rice filled the kitchen. She quickly called her servants and told them to make a very big, but light, sweet laddu. \"It's not about filling the monster's tummy, but winning his mind,\" Lila explained to them. Then, another idea popped into her head. Just one laddu, one small riddle — would this be enough to outsmart the monster?"
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి రోజు, లీల రాజకుమారి, ఒక పెద్ద లడ్డును పట్టుకుని, రాక్షసుడి గుహ ముందు నిలబడింది. ఆమె గుండె వేగంగా కొట్టుకుంటున్నా, ఆమె గొంతులో ధైర్యం కనిపించింది. రాక్షసుడు తన కోపాన్ని అరుపులు, కేకలతో వెలిబుచ్చుతున్నాడు. \"ఈ పెద్ద లడ్డును నువ్వు తినగలవా, లేదా నా చిన్న పజిల్ నువ్వు పరిష్కరించగలవా?\" అని లీల అడిగింది. రాక్షసుడు లడ్డును చూసి, ఆ పొడుపు కథ వినగానే అయోమయంతో తల గోక్కున్నాడు. ఇప్పుడు నీ వంతు! రాజకుమారి తెలివికి ఓడిపోయిన రాక్షసుడు ఏం చేస్తాడు?",
+      "image_prompt": "The large demon stands before the princess, scratching his head in confusion. His gaze shifts between the enormous laddu held by the princess and the ground, bewildered by her riddle. Also in this scene: A Rakshasudu, a massive, muscular demon with dark green skin, sharp tusks protruding from his lower jaw, and wild, tangled black hair. He wears a simple loincloth and carries a large, gnarled club. He has small, beady red eyes that often look confused or angry. Always the same character across every scene. A dramatic, almost theatrical light, with the Rakshasudu's cave entrance casting deep, dark shadows, while a single shaft of late morning sunlight illuminates Leela, standing bravely before him, highlighting the contrast between her small, bright figure and his massive, shadowy form.",
+      "scene_visual": "The large demon stands before the princess, scratching his head in confusion. His gaze shifts between the enormous laddu held by the princess and the ground, bewildered by her riddle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju, Lila Raajakumaari, Oka Pedda Laddunu Pattukuni, Raakshasudi Guha Mundu Nilabadindi. Aame Gunde Vegangaa Kottukuntunnaa, Aame Gontulo Dhairyam Kanipinchindi. Raakshasudu Tana Kopaanni Arupulu, Kekalato Velibuchchutunnaadu. \"I Pedda Laddunu Nuvvu Tinagalavaa, Ledaa Naa Chinna Pajil Nuvvu Parishkarinchagalavaa?\" Ani Lila Adigindi. Raakshasudu Laddunu Chusi, Aa Podupu Katha Vinagaane Ayomayanto Tala Gokkunnaadu. Ippudu Ni Vantu! Raajakumaari Teliviki Odipoyina Raakshasudu Em Chestaadu?",
+      "text_en": "The next day, Princess Lila stood in front of the monster's cave, holding a giant laddu. Even though her heart was beating fast, her voice was full of courage. The monster was roaring and shouting in anger. \"Can you eat this huge laddu, or can you solve my little riddle?\" Lila asked. The monster looked at the laddu, then heard the riddle, and scratched his head in confusion. Now it's your turn! What would the monster do, outsmarted by the princess's cleverness?"
+    },
+    {
+      "id": 7,
+      "text": "రాక్షసుడు పొడుపు కథను పరిష్కరించలేక, లడ్డును తినలేక, చివరకు తల దించుకున్నాడు. లీలా రాజకుమారి తెలివితేటలకు అతను ఆశ్చర్యపోయాడు — \"ఇకపై శాంతంగా ఉంటానని\" రాక్షసుడు మాట ఇచ్చాడు. గ్రామ ప్రజలు ఆనందంతో కేకలు వేస్తూ, లీలా రాజకుమారిని అభినందించారు. ఆమె పెదవులపై ఒక మృదువైన, విజయవంతమైన చిరునవ్వు మెరిసింది. గ్రామమంతా ఆనందంతో నిండిపోయింది. ఇప్పుడు పిల్లలు భయం లేకుండా ఆడుకుంటున్నారు — వారి నవ్వులు గ్రామంలో మార్మోగుతున్నాయి.",
+      "image_prompt": "The princess stands gracefully, a soft, victorious smile gracing her lips, as the villagers cheer around her. The demon stands nearby, his head bowed in acknowledgement of her cleverness. Also in this scene: A Rakshasudu, a massive, muscular demon with dark green skin, sharp tusks protruding from his lower jaw, and wild, tangled black hair. He wears a simple loincloth and carries a large, gnarled club. He has small, beady red eyes that often look confused or angry. Always the same character across every scene. Gentle dusk light, warm amber and soft pink hues painting the village, creating a peaceful and celebratory atmosphere, with people gathering happily under the fading sky.",
+      "scene_visual": "The princess stands gracefully, a soft, victorious smile gracing her lips, as the villagers cheer around her. The demon stands nearby, his head bowed in acknowledgement of her cleverness.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raakshasudu Podupu Kathanu Parishkarinchaleka, Laddunu Tinaleka, Chivaraku Tala Dinchukunnaadu. Lilaa Raajakumaari Telivitetalaku Atanu Aashcharyapoyaadu — \"Ikapai Shaantangaa Untaanani\" Raakshasudu Maata Ichchaadu. Graama Prajalu Aanandanto Kekalu Vestu, Lilaa Raajakumaarini Abhinandinchaaru. Aame Pedavulapai Oka Mrriduvaina, Vijayavantamaina Chirunavvu Merisindi. Graamamantaa Aanandanto Nindipoyindi. Ippudu Pillalu Bhayam Lekundaa Aadukuntunnaaru — Vaari Navvulu Graamanlo Maarmogutunnaayi.",
+      "text_en": "The monster couldn't solve the riddle and couldn't eat the laddu, so he finally hung his head. He was amazed by Princess Lila's cleverness — and the monster promised, \"I will be peaceful from now on.\" The villagers cheered with joy and thanked Princess Lila. A soft, victorious smile shone on her lips. The whole village was filled with happiness. Now, children played without fear — their laughter echoed throughout the village."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc, flawless colloquial Telugu, and exceptional child engagement through its clever use of rhetorical questions and direct address. The emotional depth is largely well-handled, showing rather than stating. The most significant area for improvement is dialogue richness; expanding the direct speech for all characters, including the monster and villagers, would add more distinct voices and make the interactions more dynamic and memorable. This single enhancement would elevate an already strong story to award-worthy status."
+  },
+  "title_te_en": "Raajakumaari Lila Upaayam",
+  "moral_te_en": "Pillalu, Nijamaina Shakti Anedi Otti Balam Kaadu Telusaa — Mana Daya, Telivitetale Manaku Asalaina Balan.",
+  "title_en": "Princess Lila's Clever Plan",
+  "moral_en": "Children, true strength isn't just about being strong. Our kindness and cleverness are our real power.",
+  "id": "20260524_180824",
+  "date": "2026-05-24",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "తెలుగు జానపద కథ - రాజకుమారి మరియు రాక్షసుడు",
+  "thumbnail": "stories/20260524_180824/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
