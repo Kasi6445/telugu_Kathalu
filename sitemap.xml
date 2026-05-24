@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.telugukathalu.in/</loc>
-    <lastmod>2026-05-23</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.telugukathalu.in/story/chinnaari-chamchala-sneeham-balam/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.telugukathalu.in/story/ayoodhya-raaju-raamachamdrudu/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.telugukathalu.in/story/gaajula-raadhamma-maaya/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.telugukathalu.in/story/kaaki-preema-bamgaaru-pillala-guttu/</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.telugukathalu.in/story/amma-chuupuloo-kanakam/</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.telugukathalu.in/story/chinnaari-raaju-telivi-peddapuli-guttu/</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.telugukathalu.in/story/kalisi-nilichina-neestaalu/</loc>
+    <lastmod>2026-05-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.telugukathalu.in/story/chinni-prayatnam-goppa-phalam/</loc>
