@@ -1,0 +1,97 @@
+{
+  "title": "కాకి ప్రేమ — బంగారు పిల్లల గుట్టు",
+  "moral": "మనసు నిండా ప్రేమ ఉంటే, ఏ ప్రాణమైనా బంగారమే, వేరే వాళ్ళు ఏమనుకున్నా సరే.",
+  "main_character": "A small, sleek black mother crow with bright, intelligent eyes and a slightly ruffled crown of feathers. She is fiercely protective and devoted to her young, but also a little self-conscious about their plain appearance. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant rural village in Andhra Pradesh, specifically near a large, ancient Banyan tree by a tranquil village pond where women wash clothes. The air is often filled with the distant sounds of temple bells and children's laughter. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక పెద్ద మర్రిచెట్టు కొమ్మల మధ్య, చిన్ని కాకి తన ముగ్గురు పిల్లలకు ప్రేమగా మేత తినిపిస్తోంది. దాని ముక్కుతో వాటి మెత్తని ఈకలను సున్నితంగా సరిచేస్తూ, ముద్దుగా దగ్గరకు తీసుకుంది. ఆ చెట్టు కింద, ఊరి చెరువు పక్కన, ఆడవాళ్ళు బట్టలు ఉతుకుతూ పాటలు పాడుతున్నారు. దాని కళ్ళు వాటి కదలికలను ఆప్యాయంగా చూస్తూ మెరిశాయి. \"నా బంగారు పిల్లలు! ఎంత ఆకలిగా ఉన్నారో!\" అని కాకి గొంతులో మమకారం తొణికిసలాడింది. పిల్లలు నోళ్ళు తెరిచి, రెక్కలు కొట్టుకుంటూ ఆనందంగా అరవడం మొదలుపెట్టాయి. మరి ఈ చిన్ని పిల్లలు లోకంలో కూడా ఇంతే ప్రేమను పొందుతాయా?",
+      "image_prompt": "The crow gently feeds its three chicks, carefully preening their soft feathers with its beak. Its eyes sparkle with affection as the chicks open their mouths and flap their wings happily. Warm, golden morning sunlight filtering through dense banyan leaves, creating dappled patterns on the nest, peaceful and serene.",
+      "scene_visual": "The crow gently feeds its three chicks, carefully preening their soft feathers with its beak. Its eyes sparkle with affection as the chicks open their mouths and flap their wings happily.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Pedda Marrichettu Kommala Madhya, Chinni Kaaki Tana Mugguru Pillalaku Premagaa Meta Tinipistondi. Daani Mukkuto Vaati Mettani Ikalanu Sunnitangaa Sarichestu, Muddugaa Daggaraku Tisukundi. Aa Chettu Kinda, Uri Cheruvu Pakkana, Aadavaallu Battalu Utukutu Paatalu Paadutunnaaru. Daani Kallu Vaati Kadalikalanu Aapyaayangaa Chustu Merishaayi. \"Naa Bangaaru Pillalu! Enta Aakaligaa Unnaaro!\" Ani Kaaki Gontulo Mamakaaram Tonikisalaadindi. Pillalu Nollu Terichi, Rekkalu Kottukuntu Aanandangaa Aravadam Modalupettaayi. Mari I Chinni Pillalu Lokanlo Kudaa Inte Premanu Pondutaayaa?",
+      "text_en": "Among the branches of a big banyan tree, a little crow was lovingly feeding its three chicks. With its beak, it gently smoothed their soft feathers, pulling them close with affection. Under the tree, by the village pond, women were washing clothes and singing songs. The crow's eyes sparkled as it watched their movements with love. \"My golden children! How hungry you are!\" the crow's voice was full of tenderness. The chicks opened their mouths, flapping their wings, and happily chirped. But will these little chicks receive as much love in the world?"
+    },
+    {
+      "id": 2,
+      "text": "పిల్లలు కడుపు నిండా తిని, గూటిలో హాయిగా నిద్రపోతుంటే, కాకి కొమ్మ చివరికి వచ్చి కూర్చుంది. చెరువు అవతల, నెమలి తన పిల్లలతో గంతులు వేస్తుండగా, వాటి ఈకలు సూర్యరశ్మిలో ఇంద్రధనస్సు రంగుల్లా మెరుస్తున్నాయి. అప్పుడే పక్కనుంచి వెళ్తున్న ఓ చిన్నారి ఆగి, \"అమ్మో! ఈ నెమలి పిల్లలు ఎంత అందంగా ఉన్నాయో!\" అని ఆశ్చర్యంగా అంది. కాకి తల పక్కకు వాల్చి, ఆ మాటలను శ్రద్ధగా వింది — దాని గుండెలో ఏదో తెలియని చిన్న ఆలోచన మొదలైంది. దాని కళ్ళలో చిన్న మెరుపు మసకబారింది. ఆ మాటలు విన్న తర్వాత కాకి ఎందుకింత ఆలోచిస్తున్నట్టు?",
+      "image_prompt": "The crow sits on a branch, tilting its head to listen intently to a child's admiring words about the peacock chicks. Its eyes dim slightly as a new thought begins to form in its mind. Bright, clear afternoon sun, casting sharp shadows, highlighting the vibrant colours of other birds, slightly contrasting with the crow's plainness.",
+      "scene_visual": "The crow sits on a branch, tilting its head to listen intently to a child's admiring words about the peacock chicks. Its eyes dim slightly as a new thought begins to form in its mind.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pillalu Kadupu Nindaa Tini, Gutilo Haayigaa Nidrapotunte, Kaaki Komma Chivariki Vachchi Kurchundi. Cheruvu Avatala, Nemali Tana Pillalato Gantulu Vestundagaa, Vaati Ikalu Suryarashmilo Indradhanassu Rangullaa Merustunnaayi. Appude Pakkanunchi Veltunna O Chinnaari Aagi, \"Ammo! I Nemali Pillalu Enta Andangaa Unnaayo!\" Ani Aashcharyangaa Andi. Kaaki Tala Pakkaku Vaalchi, Aa Maatalanu Shraddhagaa Vindi — Daani Gundelo Edo Teliyani Chinna Aalochana Modalaindi. Daani Kallalo Chinna Merupu Masakabaarindi. Aa Maatalu Vinna Tarvaata Kaaki Endukinta Aalochistunnattu?",
+      "text_en": "After the chicks ate their fill and were sleeping peacefully in the nest, the crow came and sat at the end of the branch. Across the pond, a peacock was dancing with its chicks, their feathers shimmering like rainbow colors in the sunlight. Just then, a little child passing by stopped and exclaimed, \"Oh my! How beautiful these peacock chicks are!\" The crow tilted its head and listened carefully to those words — a tiny, unknown thought began in its heart. A little sparkle in its eyes dimmed. Why was the crow thinking so much after hearing those words?"
+    },
+    {
+      "id": 3,
+      "text": "ఆ ఆలోచనతో కాకికి నిద్ర పట్టలేదు, వెంటనే తన పిల్లలను మరింత అందంగా చేయాలని నిర్ణయించుకుంది. మరుసటి రోజు, అది రంగు రంగుల పువ్వులను, మెరిసే రాళ్ళను వెతికి తీసుకురావడం మొదలుపెట్టింది. పెద్ద ఎర్ర మందార పువ్వు రేకును, ఒక పిల్ల కాకి నల్లటి ఈకకు దగ్గరగా పెట్టింది — అది తాకగానే కాస్త చల్లగా అనిపించింది. \"ఇవి మీ అందాన్ని మరింత పెంచుతాయి, నా బంగారు పిల్లలు!\" అని మూలుగుతూ వాటి చుట్టూ జాగ్రత్తగా అలంకరించింది. దాని రెక్కలు కాస్త వణికాయి, ఏదో ఒక అద్భుతం జరుగుతుందని ఆశపడుతోంది. ఈ అలంకరణలు నెమలి పిల్లలంత అందంగా వాటిని చేస్తాయా?",
+      "image_prompt": "The crow carefully places a large red hibiscus petal near a chick's black feather, decorating it with colorful flowers and shiny stones. Its wings tremble slightly with anticipation as it adorns its children. Soft, diffused light under the banyan canopy, a mix of green and brown tones, hinting at the mother crow's gentle but misguided effort.",
+      "scene_visual": "The crow carefully places a large red hibiscus petal near a chick's black feather, decorating it with colorful flowers and shiny stones. Its wings tremble slightly with anticipation as it adorns its children.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Aalochanato Kaakiki Nidra Pattaledu, Ventane Tana Pillalanu Marinta Andangaa Cheyaalani Nirnayinchukundi. Marusati Roju, Adi Rangu Rangula Puvvulanu, Merise Raallanu Vetiki Tisukuraavadam Modalupettindi. Pedda Erra Mandaara Puvvu Rekunu, Oka Pilla Kaaki Nallati Ikaku Daggaragaa Pettindi — Adi Taakagaane Kaasta Challagaa Anipinchindi. \"Ivi Mi Andaanni Marinta Penchutaayi, Naa Bangaaru Pillalu!\" Ani Mulugutu Vaati Chuttu Jaagrattagaa Alankarinchindi. Daani Rekkalu Kaasta Vanikaayi, Edo Oka Adbhutam Jarugutundani Aashapadutondi. I Alankaranalu Nemali Pillalanta Andangaa Vaatini Chestaayaa?",
+      "text_en": "The crow couldn't sleep with that thought, and immediately decided to make its chicks even more beautiful. The next day, it started searching for colorful flowers and shiny pebbles. It placed a large red hibiscus petal near a chick's black feather — it felt a little cool to the touch. \"These will make you even more beautiful, my golden children!\" it cooed, carefully decorating them. Its wings trembled slightly, hoping for a miracle to happen. Would these decorations make them as beautiful as the peacock chicks?"
+    },
+    {
+      "id": 4,
+      "text": "కాకి తన పిల్లలను అలంకరించడం చూసిన ఒక వృద్ధ గుడ్లగూబ, పక్క కొమ్మ మీద నుంచి మెల్లగా దగ్గరకు వచ్చింది. దాని పొడి ఈకలు కదిలినప్పుడు, ఒక రకమైన గలగల శబ్దం వినిపించింది. \"అందమంటే రంగు కాదు, తల్లి. ప్రేమతో పెరిగిన ప్రతి ప్రాణీ అందమైనదే,\" అని గుడ్లగూబ నెమ్మదిగా అంది. కాకి రెక్కలు కొద్దిగా వాలిపోయాయి — దాని తల దించుకుంది. \"కానీ నా పిల్లలు...\" అని ఏదో చెప్పబోయింది, కానీ మాటలు గొంతులోనే ఆగిపోయాయి. అది తన పిల్లల అందాన్ని నిరూపించడానికి ఇంకేం చేస్తుందో కదా?",
+      "image_prompt": "An old owl, with rustling dry feathers, gently approaches the crow and speaks to it from a nearby branch. The crow's wings droop slightly, and it lowers its head, its words caught in its throat. Twilight setting in, shadows lengthening, a single beam of pale moonlight illuminating the owl's wise face, creating a thoughtful, slightly somber mood.",
+      "scene_visual": "An old owl, with rustling dry feathers, gently approaches the crow and speaks to it from a nearby branch. The crow's wings droop slightly, and it lowers its head, its words caught in its throat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaki Tana Pillalanu Alankarinchadam Chusina Oka Vrriddha Gudlaguba, Pakka Komma Mida Nunchi Mellagaa Daggaraku Vachchindi. Daani Podi Ikalu Kadilinappudu, Oka Rakamaina Galagala Shabdam Vinipinchindi. \"Andamante Rangu Kaadu, Talli. Premato Perigina Prati Praani Andamainade,\" Ani Gudlaguba Nemmadigaa Andi. Kaaki Rekkalu Koddigaa Vaalipoyaayi — Daani Tala Dinchukundi. \"Kaani Naa Pillalu...\" Ani Edo Cheppaboyindi, Kaani Maatalu Gontulone Aagipoyaayi. Adi Tana Pillala Andaanni Nirupinchadaaniki Inkem Chestundo Kadaa?",
+      "text_en": "An old owl, seeing the crow decorating its chicks, slowly came closer from a nearby branch. When its dry feathers rustled, a soft rattling sound was heard. \"Beauty isn't about color, dear mother. Every creature raised with love is beautiful,\" the owl said softly. The crow's wings drooped slightly — it lowered its head. \"But my children...\" it tried to say something, but the words stopped in its throat. What else would it do to prove its children's beauty?"
+    },
+    {
+      "id": 5,
+      "text": "గుడ్లగూబ మాటలు కాకి మనసులో ఇంకా మెదులుతూనే ఉన్నాయి, కానీ అది వాటి అర్థాన్ని సరిగా గ్రహించలేకపోయింది. అప్పుడే — ఒక్కసారిగా చెట్టును ఒక పెద్ద గాలివాన ఢీకొంది. చల్లటి గాలులు ఆకులను చీల్చుకుంటూ వెళ్ళాయి, చెట్టు తీవ్రంగా ఊగిపోయింది. ఒక పిల్ల కాకి గూటి అంచున ప్రమాదకరంగా తూలింది, దాని చిన్న అరుపు గాలిలో కలిసిపోయింది. \"నాయనా! జాగ్రత్త!\" అని కాకి నోరు తెరుచుకుంది — పెద్దగా అరిచింది. ఆ పసి ప్రాణాన్ని కాకి కాపాడగలుగుతుందా?",
+      "image_prompt": "A strong storm violently shakes the tree, causing a chick to dangerously sway at the very edge of the nest. The crow opens its beak wide and shouts, its cry almost lost in the cold, tearing winds. Stormy, dark grey clouds gathering, wind-swept branches, a dramatic and urgent atmosphere, limited visibility.",
+      "scene_visual": "A strong storm violently shakes the tree, causing a chick to dangerously sway at the very edge of the nest. The crow opens its beak wide and shouts, its cry almost lost in the cold, tearing winds.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gudlaguba Maatalu Kaaki Manasulo Inkaa Medulutune Unnaayi, Kaani Adi Vaati Arthaanni Sarigaa Grahinchalekapoyindi. Appude — Okkasaarigaa Chettunu Oka Pedda Gaalivaana Dhikondi. Challati Gaalulu Aakulanu Chilchukuntu Vellaayi, Chettu Tivrangaa Ugipoyindi. Oka Pilla Kaaki Guti Anchuna Pramaadakarangaa Tulindi, Daani Chinna Arupu Gaalilo Kalisipoyindi. \"Naayanaa! Jaagratta!\" Ani Kaaki Noru Teruchukundi — Peddagaa Arichindi. Aa Pasi Praanaanni Kaaki Kaapaadagalugutundaa?",
+      "text_en": "The owl's words were still swirling in the crow's mind, but it couldn't quite grasp their meaning. Just then — a big storm suddenly hit the tree. Cold winds tore through the leaves, and the tree swayed violently. One chick dangerously stumbled at the edge of the nest, its tiny cry lost in the wind. \"My child! Be careful!\" the crow opened its mouth — and shrieked loudly. Could the crow save that tiny life?"
+    },
+    {
+      "id": 6,
+      "text": "ఆ క్షణంలో కాకికి ఇంకేమీ గుర్తులేదు, కేవలం తన ప్రాణమైన పిల్లే కనిపించింది. అది రెక్కలు బలంగా కొట్టుకుంటూ, ఉరుముతున్న గాలిని చీల్చుకుంటూ దూకింది — దాని రెక్కల ఝుళిపింపు గాలిలో స్పష్టంగా వినిపించింది. పడిపోతున్న పిల్ల కాకిని గాలిలోనే పట్టుకుంది, దాని గుండె వేగంగా కొట్టుకుంటూనే ఉంది. ఆ పసి ప్రాణాన్ని మళ్ళీ గూటిలోకి తీసుకువచ్చింది, దాని ఒళ్ళంతా వణుకుతోంది. \"నువ్వు నాకు బంగారానివి, నా ప్రాణం!\" అని మెల్లగా మూలిగింది, పిల్ల కాకిని దగ్గరకు తీసుకుంటూ. ఈ భయంకరమైన సంఘటన కాకి పిల్లల పట్ల దాని అభిప్రాయాన్ని ఎలా మారుస్తుంది?",
+      "image_prompt": "The crow powerfully flaps its wings, cutting through the thundering wind, and catches its falling chick in mid-air. Its entire body trembles as it gently brings the chick back into the nest. A dramatic shaft of light breaking through the storm clouds, highlighting the mother crow's heroic rescue, a moment of intense focus and action.",
+      "scene_visual": "The crow powerfully flaps its wings, cutting through the thundering wind, and catches its falling chick in mid-air. Its entire body trembles as it gently brings the chick back into the nest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kshananlo Kaakiki Inkemi Gurtuledu, Kevalam Tana Praanamaina Pille Kanipinchindi. Adi Rekkalu Balangaa Kottukuntu, Urumutunna Gaalini Chilchukuntu Dukindi — Daani Rekkala Jhulipimpu Gaalilo Spashtangaa Vinipinchindi. Padipotunna Pilla Kaakini Gaalilone Pattukundi, Daani Gunde Vegangaa Kottukuntune Undi. Aa Pasi Praanaanni Malli Gutiloki Tisukuvachchindi, Daani Ollantaa Vanukutondi. \"Nuvvu Naaku Bangaaraanivi, Naa Praanan!\" Ani Mellagaa Muligindi, Pilla Kaakini Daggaraku Tisukuntu. I Bhayankaramaina Sanghatana Kaaki Pillala Patla Daani Abhipraayaanni Elaa Maarustundi?",
+      "text_en": "In that moment, the crow remembered nothing else, only its precious chick. It flapped its wings strongly, tearing through the roaring wind, and leaped — the whoosh of its wings was clearly heard in the air. It caught the falling chick in mid-air, its heart still beating fast. It brought the tiny life back into the nest, its whole body trembling. \"You are gold to me, my life!\" it cooed softly, pulling the chick close. How would this terrifying incident change the crow's opinion about its chicks?"
+    },
+    {
+      "id": 7,
+      "text": "పిల్ల కాకిని సురక్షితంగా గూటిలోకి తీసుకువచ్చిన తర్వాత, కాకి దానిని తన రెక్కల కిందకు తీసుకుని హాయిగా పొదిగింది. తన పిల్లల వెచ్చని స్పర్శ దాని గుండెకు శాంతినిచ్చింది. బయటి రంగులు, అందం కాదు, తన ప్రేమ మాత్రమే నిజమని ఆ క్షణంలో స్పష్టంగా అర్థమైంది. \"మీరు ఎలా ఉన్నా, నాకు మీరే నా బంగారు పిల్లలు,\" అని ప్రేమగా వాటిని చూస్తూ అంది, దాని కళ్ళలో ఆనందం నిండి మెరిశాయి. ఆ గుడ్లగూబ చెప్పిన మాటల నిజం అప్పుడే కాకికి పూర్తిగా తెలిసింది. నా పిల్లలూ, చూసారా, అమ్మ ప్రేమ ఎంత గొప్పదో!",
+      "image_prompt": "The crow gently gathers its chicks under its wings, holding them close in the nest. Its eyes sparkle with joy and peace as it looks at its children. Gentle dusk light, warm amber and soft blues, creating a peaceful, intimate glow around the nest, a sense of quiet understanding and enduring love.",
+      "scene_visual": "The crow gently gathers its chicks under its wings, holding them close in the nest. Its eyes sparkle with joy and peace as it looks at its children.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pilla Kaakini Surakshitangaa Gutiloki Tisukuvachchina Tarvaata, Kaaki Daanini Tana Rekkala Kindaku Tisukuni Haayigaa Podigindi. Tana Pillala Vechchani Sparsha Daani Gundeku Shaantinichchindi. Bayati Rangulu, Andam Kaadu, Tana Prema Maatrame Nijamani Aa Kshananlo Spashtangaa Arthamaindi. \"Miru Elaa Unnaa, Naaku Mire Naa Bangaaru Pillalu,\" Ani Premagaa Vaatini Chustu Andi, Daani Kallalo Aanandam Nindi Merishaayi. Aa Gudlaguba Cheppina Maatala Nijam Appude Kaakiki Purtigaa Telisindi. Naa Pillalu, Chusaaraa, Amma Prema Enta Goppado!",
+      "text_en": "After bringing the chick safely back into the nest, the crow tucked it comfortably under its wings. The warm touch of its chicks brought peace to its heart. In that moment, it clearly understood that not outer colors or beauty, but only its love was real. \"No matter how you are, you are my golden children to me,\" it said lovingly, looking at them, its eyes sparkling with joy. The truth of the owl's words finally became clear to the crow then. My children, do you see how great a mother's love is!"
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and rich, character-specific dialogue. The emotional journey of the crow is beautifully shown, not told, and the direct address to the child at the end is a lovely touch. To elevate it to award-winning status, focus on making the narrator's voice consistently more oral and warm by reducing the rhetorical questions and choosing more natural, less formal verbs for the crow's actions."
+  },
+  "title_te_en": "Kaaki Prema — Bangaaru Pillala Guttu",
+  "moral_te_en": "Manasu Nindaa Prema Unte, E Praanamainaa Bangaarame, Vere Vaallu Emanukunnaa Sare.",
+  "title_en": "The Crow's Love: The Secret of Her Golden Children",
+  "moral_en": "If your heart is full of love, then every living thing is golden, no matter what others think.",
+  "id": "20260524_000854",
+  "date": "2026-05-24",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "కాకికి తన పిల్లలు బంగారు పిల్లలు అనే కథ",
+  "thumbnail": "stories/20260524_000854/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
