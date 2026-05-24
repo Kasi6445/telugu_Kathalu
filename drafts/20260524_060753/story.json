@@ -1,0 +1,97 @@
+{
+  "title": "నక్క తెలివి – గాలి గుట్టు",
+  "moral": "పెద్ద సవాలును ఎదుర్కోవడానికి నీ తెలివితేటలు వాడటం ఎంత ఆనందంగా ఉంటుందో కదూ!",
+  "main_character": "A young, sleek fox named Nakkaya, with bright, observant eyes and a bushy, reddish-brown tail. He walks with a confident, springy step, often twitching his nose. Always the same character across every scene.",
+  "antagonist": "A large, grumpy brown bear named Elugubanti, with shaggy fur and small, piercing black eyes. He has a deep, rumbling voice and often sits with his arms crossed, looking stern. Always the same character across every scene.",
+  "setting": "A lush forest in the Nallamala Hills, Andhra Pradesh, with ancient banyan trees, a clear gurgling stream, and sun-dappled clearings. It's late morning, then afternoon, then late afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నక్కయ్య నల్లమల అడవిలో గంతులు వేస్తూ, తన బుట్ట తోకను అటూ ఇటూ ఊపుకుంటూ వెళుతోంది. అప్పుడే దొరికిన అటవీ పండ్ల తోటలోని తియ్యటి సువాసన గాలిలో ఘుమఘుమలాడుతోంది. కడుపు నిండా పండ్లు తిన్న ఆనందంతో, దాని కళ్ళల్లో మెరుపు కనిపించింది. \"ఈ రోజు కూడా తెలివైన నక్క నేనే!\" అని తనలో తాను గర్వంగా అనుకుంది. తన చురుకుదనం పట్ల నక్కయ్యకు చాలా నమ్మకం. కానీ, ఆ ధీమాను పరీక్షించే సవాలు ఒకటి ఎదురుచూస్తోందని దానికి తెలియదు కదూ?",
+      "image_prompt": "The fox leaps and swings its bushy tail as it moves through the forest. A sweet fragrance of forest fruits wafts in the air, and a sparkle is visible in its eyes. Bright morning sun filtering through dense canopy, creating dappled patterns on the forest floor, warm and inviting.",
+      "scene_visual": "The fox leaps and swings its bushy tail as it moves through the forest. A sweet fragrance of forest fruits wafts in the air, and a sparkle is visible in its eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakkayya Nallamala Adavilo Gantulu Vestu, Tana Butta Tokanu Atu Itu Upukuntu Velutondi. Appude Dorikina Atavi Pandla Totaloni Tiyyati Suvaasana Gaalilo Ghumaghumalaadutondi. Kadupu Nindaa Pandlu Tinna Aanandanto, Daani Kallallo Merupu Kanipinchindi. \"I Roju Kudaa Telivaina Nakka Nene!\" Ani Tanalo Taanu Garvangaa Anukundi. Tana Churukudanam Patla Nakkayyaku Chaalaa Nammakan. Kaani, Aa Dhimaanu Parikshinche Savaalu Okati Eduruchustondani Daaniki Teliyadu Kadu?",
+      "text_en": "Nakkaiah was hopping through the Nallamala forest, swinging its bushy tail from side to side. The sweet scent from a recently found wild fruit orchard filled the air. With the joy of a full belly of fruits, a sparkle appeared in its eyes. \"Even today, I am the cleverest fox!\" it thought proudly to itself. Nakkaiah had great confidence in its quick wit. But, it didn't know that a challenge waiting to test that confidence was just around the corner, did it?"
+    },
+    {
+      "id": 2,
+      "text": "నది వైపు వెళ్తున్న నక్కయ్యకు దారి మధ్యలో ఎలుగుబంటి ఎదురైంది. తన దారిని అడ్డగించిన ఎలుగుబంటిని చూసి, నక్కయ్య చెవులు కొద్దిగా వెనక్కి ముడుచుకుంది, తోక మెల్లగా అటూ ఇటూ ఊగింది. ఎలుగుబంటి లోతైన గర్జన భూమి అంతా కంపించినట్లు అనిపించింది. \"నాకు మంచి పొడుపు కథ చెప్పినవారే ఈ దారిలో వెళ్లగలరు!\" అంటూ ఎలుగుబంటి గంభీరంగా చెప్పింది. ఎలుగుబంటి నుండి ఇంత నేరుగా సవాలు ఎదురవడం నక్కయ్యకు ఇదే మొదటిసారి... ఇప్పుడు దాని తెలివి ఎలా పనికొస్తుంది?",
+      "image_prompt": "The fox folds its ears back and its tail sways slowly upon encountering the bear in its path. The bear's deep roar seems to shake the earth. Also in this scene: A large, grumpy brown bear named Elugubanti, with shaggy fur and small, piercing black eyes. He has a deep, rumbling voice and often sits with his arms crossed, looking stern. Always the same character across every scene. Harsh midday sun beating down on the dusty path, casting long, sharp shadows from the bear, creating a tense atmosphere.",
+      "scene_visual": "The fox folds its ears back and its tail sways slowly upon encountering the bear in its path. The bear's deep roar seems to shake the earth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nadi Vaipu Veltunna Nakkayyaku Daari Madhyalo Elugubanti Eduraindi. Tana Daarini Addaginchina Elugubantini Chusi, Nakkayya Chevulu Koddigaa Venakki Muduchukundi, Toka Mellagaa Atu Itu Ugindi. Elugubanti Lotaina Garjana Bhumi Antaa Kampinchinatlu Anipinchindi. \"Naaku Manchi Podupu Katha Cheppinavaare I Daarilo Vellagalaru!\" Antu Elugubanti Gambhirangaa Cheppindi. Elugubanti Nundi Inta Nerugaa Savaalu Eduravadam Nakkayyaku Ide Modatisaari... Ippudu Daani Telivi Elaa Panikostundi?",
+      "text_en": "On its way to the river, Nakkaiah met Elugubanti (the bear) in the middle of the path. Seeing Elugubanti blocking its way, Nakkaiah's ears twitched back a little, and its tail swayed slowly from side to side. Elugubanti's deep roar seemed to shake the whole ground. \"Only those who can tell me a good riddle may pass this way!\" Elugubanti said gravely. This was the first time Nakkaiah had faced such a direct challenge from Elugubanti... How would its cleverness work now?"
+    },
+    {
+      "id": 3,
+      "text": "ఎలుగుబంటి సవాలుకు నక్కయ్య తనకున్న పాత పొడుపు కథల్లో ఒకటి చెప్పింది. ఆ కథ విన్న ఎలుగుబంటి నవ్వి, \"అది చాలా పాతది! ఇంకా మంచిది చెప్పు!\" అని విసుగుగా అన్నది. ఎలుగుబంటి మాటలకు నక్కయ్య తోక కిందకు వాల్చి, చెవులు వెనక్కి మడిచింది. దాని పాదాల కింద ఎండుటాకులు కిర్రుమన్నాయి, అది కొద్దిగా కంగారుగా కదిలింది. తన సాధారణ తెలివితేటలు ఈసారి పనికిరావని నక్కయ్యకు అప్పుడు అర్థమైంది... నిజంగా కొత్త పొడుపు కథ దాని మెదడులో ఉందా?",
+      "image_prompt": "The fox droops its tail and folds its ears back, moving nervously. Dry leaves crunch under its paws as the bear laughs irritably. Also in this scene: A large, grumpy brown bear named Elugubanti, with shaggy fur and small, piercing black eyes. He has a deep, rumbling voice and often sits with his arms crossed, looking stern. Always the same character across every scene. The midday sun remains, but the shadows deepen under the trees, reflecting Nakkaya's growing concern.",
+      "scene_visual": "The fox droops its tail and folds its ears back, moving nervously. Dry leaves crunch under its paws as the bear laughs irritably.",
+      "supporting_char_keys": [],
+      "text_te_en": "Elugubanti Savaaluku Nakkayya Tanakunna Paata Podupu Kathallo Okati Cheppindi. Aa Katha Vinna Elugubanti Navvi, \"Adi Chaalaa Paatadi! Inkaa Manchidi Cheppu!\" Ani Visugugaa Annadi. Elugubanti Maatalaku Nakkayya Toka Kindaku Vaalchi, Chevulu Venakki Madichindi. Daani Paadaala Kinda Endutaakulu Kirrumannaayi, Adi Koddigaa Kangaarugaa Kadilindi. Tana Saadhaarana Telivitetalu Isaari Panikiraavani Nakkayyaku Appudu Arthamaindi... Nijangaa Kotta Podupu Katha Daani Medadulo Undaa?",
+      "text_en": "For Elugubanti's challenge, Nakkaiah told one of its old riddles. Elugubanti laughed after hearing the riddle and said annoyedly, \"That's too old! Tell me a better one!\" At Elugubanti's words, Nakkaiah drooped its tail and folded its ears back. The dry leaves crunched under its paws as it moved a little nervously. Nakkaiah then understood that its usual cleverness wouldn't work this time... Did it really have a new riddle in its mind?"
+    },
+    {
+      "id": 4,
+      "text": "కొత్త పొడుపు కథ కోసం, నక్కయ్య మెల్లగా పొదల్లోకి దూరి, ఆలోచిస్తూ అటూ ఇటూ తిరగసాగింది. దాని ముఖంలో ఆందోళన స్పష్టంగా కనిపించింది, నుదురు చిట్లించి ఏదో తీవ్రంగా ఆలోచిస్తోంది. అది అటూ ఇటూ తిరుగుతుంటే ఆకుల సన్నని గలగల శబ్దం వినిపించింది. \"అడవిలో ఏముంది... ఏది గొప్ప పొడుపు కథ అవుతుంది?\" అని చిన్నగా గొణుక్కుంది. నక్కయ్యకు చాలా కష్టంగా ఉంది, కానీ దాని మనసులో ఒక ఆలోచన మెరిసినట్లు అనిపించింది... అది దానికి దారి చూపుతుందా?",
+      "image_prompt": "The fox slips into the bushes and paces back and forth, its brow furrowed in deep thought. A faint rustling sound of leaves is heard as it moves. Soft, dappled sunlight filters through the dense foliage of the thicket, creating a contemplative, slightly subdued mood.",
+      "scene_visual": "The fox slips into the bushes and paces back and forth, its brow furrowed in deep thought. A faint rustling sound of leaves is heard as it moves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kotta Podupu Katha Kosan, Nakkayya Mellagaa Podalloki Duri, Aalochistu Atu Itu Tiragasaagindi. Daani Mukhanlo Aandolana Spashtangaa Kanipinchindi, Nuduru Chitlinchi Edo Tivrangaa Aalochistondi. Adi Atu Itu Tirugutunte Aakula Sannani Galagala Shabdam Vinipinchindi. \"Adavilo Emundi... Edi Goppa Podupu Katha Avutundi?\" Ani Chinnagaa Gonukkundi. Nakkayyaku Chaalaa Kashtangaa Undi, Kaani Daani Manasulo Oka Aalochana Merisinatlu Anipinchindi... Adi Daaniki Daari Chuputundaa?",
+      "text_en": "For a new riddle, Nakkaiah slowly slipped into the bushes and started pacing back and forth, thinking. Worry was clearly visible on its face, its brow furrowed as it thought deeply about something. As it paced, the faint rustle of leaves could be heard. \"What is there in the forest... what would make a great riddle?\" it mumbled softly. Nakkaiah was having a very hard time, but then an idea seemed to sparkle in its mind... Would it show the way?"
+    },
+    {
+      "id": 5,
+      "text": "కొంతసేపటికి నక్కయ్య ఆలోచనలకు ఒక రూపం వచ్చింది, అది తన కొత్త పొడుపు కథను చిన్నగా రిహార్సల్ చేసింది. దాని గొంతులో మొదట కొద్దిగా వణుకు ఉన్నా, తరువాత దృఢంగా మారింది. పొడవైన గడ్డిలో గాలి సన్నగా వీస్తున్న శబ్దం దాని ఆలోచనలకు స్పూర్తినిచ్చింది. \"వస్తుంది, పోతుంది, మనకు కనిపించదు, కానీ దాని శక్తి తెలుస్తుంది. అదేమిటి?\" అని తనలో తాను అనుకుంది. నక్కయ్యకు ఇప్పుడు ఒక పొడుపు కథ ఉంది... కానీ ఎలుగుబంటి దాన్ని విప్పుతుందా?",
+      "image_prompt": "The fox quietly rehearses its new riddle, its voice initially trembling but then firming up. The sound of wind gently blowing through tall grass is audible. Late afternoon sun, casting longer, softer shadows, giving a sense of quiet anticipation.",
+      "scene_visual": "The fox quietly rehearses its new riddle, its voice initially trembling but then firming up. The sound of wind gently blowing through tall grass is audible.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kontasepatiki Nakkayya Aalochanalaku Oka Rupam Vachchindi, Adi Tana Kotta Podupu Kathanu Chinnagaa Rihaarsal Chesindi. Daani Gontulo Modata Koddigaa Vanuku Unnaa, Taruvaata Drridhangaa Maarindi. Podavaina Gaddilo Gaali Sannagaa Vistunna Shabdam Daani Aalochanalaku Spurtinichchindi. \"Vastundi, Potundi, Manaku Kanipinchadu, Kaani Daani Shakti Telustundi. Ademiti?\" Ani Tanalo Taanu Anukundi. Nakkayyaku Ippudu Oka Podupu Katha Undi... Kaani Elugubanti Daanni Vipputundaa?",
+      "text_en": "After a while, Nakkaiah's thoughts took shape, and it quietly rehearsed its new riddle. Its voice was a little shaky at first, but then it became firm. The sound of the wind softly blowing through the tall grass inspired its thoughts. \"It comes, it goes, we cannot see it, but we know its power. What is it?\" it thought to itself. Nakkaiah now had a riddle... but would Elugubanti solve it?"
+    },
+    {
+      "id": 6,
+      "text": "తన కొత్త పొడుపు కథతో నక్కయ్య మళ్ళీ ఎలుగుబంటి దగ్గరకు ధైర్యంగా వెళ్ళింది. అది నిటారుగా నిలబడి, కళ్ళల్లో తెలిసిన మెరుపుతో పొడుపు కథను చెప్పింది. నక్కయ్య చెప్పిన పొడుపు కథకు ఎలుగుబంటి తల గోక్కుంది, ఆ తరువాత విసుగ్గా ఒక నిట్టూర్పు విడిచింది. దాని ముక్కులో నుండి దుమ్ము పైకి లేచింది. \"సరే, నక్కయ్య! నువ్వు గెలిచావు. నాకు జవాబు తెలియదు.\" అని ఎలుగుబంటి ఓటమిని అంగీకరించింది. ఎలుగుబంటి ఓటమిని ఒప్పుకుంది, కానీ అది నక్కయ్యను దారిలో వెళ్లనిస్తుందా?",
+      "image_prompt": "The bear scratches its head and lets out an irritated sigh after hearing the riddle. Dust rises from its nose as it admits defeat. Also in this scene: A large, grumpy brown bear named Elugubanti, with shaggy fur and small, piercing black eyes. He has a deep, rumbling voice and often sits with his arms crossed, looking stern. Always the same character across every scene. The golden light of late afternoon sun catches the dust Elugubanti kicks up, highlighting the tension and the bear's growing frustration.",
+      "scene_visual": "The bear scratches its head and lets out an irritated sigh after hearing the riddle. Dust rises from its nose as it admits defeat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Kotta Podupu Kathato Nakkayya Malli Elugubanti Daggaraku Dhairyangaa Vellindi. Adi Nitaarugaa Nilabadi, Kallallo Telisina Meruputo Podupu Kathanu Cheppindi. Nakkayya Cheppina Podupu Kathaku Elugubanti Tala Gokkundi, Aa Taruvaata Visuggaa Oka Nitturpu Vidichindi. Daani Mukkulo Nundi Dummu Paiki Lechindi. \"Sare, Nakkayya! Nuvvu Gelichaavu. Naaku Javaabu Teliyadu.\" Ani Elugubanti Otamini Angikarinchindi. Elugubanti Otamini Oppukundi, Kaani Adi Nakkayyanu Daarilo Vellanistundaa?",
+      "text_en": "With its new riddle, Nakkaiah bravely went back to Elugubanti. It stood tall and told the riddle with a knowing sparkle in its eyes. Elugubanti scratched its head at Nakkaiah's riddle, then let out an annoyed sigh. Dust rose from its nose. \"Alright, Nakkaiah! You win. I don't know the answer,\" Elugubanti admitted defeat. Elugubanti admitted defeat, but would it let Nakkaiah pass?"
+    },
+    {
+      "id": 7,
+      "text": "ఎలుగుబంటి పక్కకు తప్పుకోగానే, నక్కయ్య తన తోకను పైకెత్తి, ఆత్మవిశ్వాసంతో అడుగులు వేస్తూ ముందుకు నడిచింది. దాని నడకలో ఒక కొత్త ఉత్సాహం కనిపించింది. ఆనందంగా నడుస్తూ, \"ధన్యవాదాలు, ఎలుగుబంటి!\" అని చిన్నగా పలికింది. చివరకు నక్కయ్యకు నది చేరింది, అక్కడ నీటి గలగల శబ్దం దానికి స్వాగతం పలికింది. తన తెలివితేటలపై నక్కయ్యకు ఇప్పుడు మరింత నమ్మకం కలిగింది, దాని మనసు ఆనందంతో నిండిపోయింది.",
+      "image_prompt": "The fox walks forward with confident steps, its tail lifted high. The gurgling sound of water welcomes it as it reaches the river. Also in this scene: A large, grumpy brown bear named Elugubanti, with shaggy fur and small, piercing black eyes. He has a deep, rumbling voice and often sits with his arms crossed, looking stern. Always the same character across every scene. Gentle dusk light, warm amber hues, spreading a peaceful and satisfied glow over the path and the stream.",
+      "scene_visual": "The fox walks forward with confident steps, its tail lifted high. The gurgling sound of water welcomes it as it reaches the river.",
+      "supporting_char_keys": [],
+      "text_te_en": "Elugubanti Pakkaku Tappukogaane, Nakkayya Tana Tokanu Paiketti, Aatmavishvaasanto Adugulu Vestu Munduku Nadichindi. Daani Nadakalo Oka Kotta Utsaaham Kanipinchindi. Aanandangaa Nadustu, \"Dhanyavaadaalu, Elugubanti!\" Ani Chinnagaa Palikindi. Chivaraku Nakkayyaku Nadi Cherindi, Akkada Niti Galagala Shabdam Daaniki Svaagatam Palikindi. Tana Telivitetalapai Nakkayyaku Ippudu Marinta Nammakam Kaligindi, Daani Manasu Aanandanto Nindipoyindi.",
+      "text_en": "As soon as Elugubanti stepped aside, Nakkaiah lifted its tail and walked forward with confident steps. A new enthusiasm was visible in its walk. Walking happily, it softly said, \"Thank you, Elugubanti!\" Finally, Nakkaiah reached the river, where the gurgling sound of the water welcomed it. Nakkaiah now had even more confidence in its cleverness, and its heart was filled with joy."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "narrative_arc",
+    "notes": "This story is exceptionally well-crafted for a children's audience. It excels in engaging the child listener through direct address and vivid descriptions, while demonstrating strong emotional depth through character actions. The most significant improvement to elevate this to a perfect score would be to remove the explicit moral statement at the beginning, allowing the powerful message of cleverness and perseverance to emerge organically from the narrative itself."
+  },
+  "title_te_en": "Nakka Telivi – Gaali Guttu",
+  "moral_te_en": "Pedda Savaalunu Edurkovadaaniki Ni Telivitetalu Vaadatam Enta Aanandangaa Untundo Kadu!",
+  "title_en": "Nakkaiah's Cleverness – The Wind's Secret",
+  "moral_en": "Isn't it wonderful to use your cleverness to face a big challenge!",
+  "id": "20260524_060753",
+  "date": "2026-05-24",
+  "category": "podupu",
+  "subcategory": "nature_riddles",
+  "topic": "అడవిలో పొడుపు కథ చెప్పిన నక్క",
+  "thumbnail": "stories/20260524_060753/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
