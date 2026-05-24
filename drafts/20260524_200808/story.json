@@ -1,0 +1,97 @@
+{
+  "title": "జిత్తులమారి కొంగ, పీత చాకచక్యం",
+  "moral": "తెలివైన ఆలోచనలు చిన్నవారిని కూడా పెద్ద ఆపద నుండి కాపాడతాయి.",
+  "main_character": "An old, grey crane with long, skinny legs and a sharp, yellow beak. He is constantly hungry and his age makes hunting difficult, leading him to cunning solutions. Always the same character across every scene.",
+  "antagonist": "A small, sturdy crab with a hard, dark-brown shell and two strong, observant pincers. He is known for his sharp mind and cautious nature. Always the same character across every scene.",
+  "setting": "A small, serene pond nestled deep within a lush forest in the Telugu region of Andhra Pradesh. The pond is surrounded by tall green reeds, ancient banyan trees, and smooth, grey rocks. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అనగనగా ఒక అడవిలో, చిన్న చెరువు ఒడ్డున, ఓ ముసలి కొంగ నివసించేది. దానికి వయసు మీద పడటంతో, చేపలను పట్టడం చాలా కష్టంగా మారింది. తన పొడవాటి మెడను వంచి, నీళ్ళలోకి ముక్కును దించినా — చేపలు దొరకడం లేదు. ఓ చేప దాని ముక్కుకు తగిలి తప్పించుకున్నప్పుడు, ఆ ఖాళీ ముక్కు 'క్లాక్' అని శబ్దంతో మూసుకుపోయింది. \"ఈ వయసులో వేట ఎంత కష్టం!\" అంటూ అది నిట్టూర్చింది, దాని పొడవైన మెడ మరింత వాలిపోయింది. మరి ఆ ముసలి కొంగ కడుపు ఎలా నింపుకుంటుంది?",
+      "image_prompt": "The old crane bends its long neck, dipping its beak into the water, but fails to catch any fish. Its empty beak closes with a 'clack' sound as a fish escapes, and its long neck droops further in a sigh. Harsh midday sun, casting sharp, distinct shadows of the reeds on the shallow, murky water, making the scene feel hot and exposed.",
+      "scene_visual": "The old crane bends its long neck, dipping its beak into the water, but fails to catch any fish. Its empty beak closes with a 'clack' sound as a fish escapes, and its long neck droops further in a sigh.",
+      "supporting_char_keys": [],
+      "text_te_en": "Anaganagaa Oka Adavilo, Chinna Cheruvu Odduna, O Musali Konga Nivasinchedi. Daaniki Vayasu Mida Padatanto, Chepalanu Pattadam Chaalaa Kashtangaa Maarindi. Tana Podavaati Medanu Vanchi, Nillaloki Mukkunu Dinchinaa — Chepalu Dorakadam Ledu. O Chepa Daani Mukkuku Tagili Tappinchukunnappudu, Aa Khaali Mukku 'Klaak' Ani Shabdanto Musukupoyindi. \"I Vayasulo Veta Enta Kashtan!\" Antu Adi Nitturchindi, Daani Podavaina Meda Marinta Vaalipoyindi. Mari Aa Musali Konga Kadupu Elaa Nimpukuntundi?",
+      "text_en": "Once upon a time, in a forest, by the side of a small pond, lived an old crane. As it grew older, catching fish became very difficult. Even when it bent its long neck and dipped its beak into the water, no fish were caught. When a fish touched its beak and escaped, the empty beak closed with a 'clack' sound. \"How hard hunting is at this age!\" it sighed, and its long neck drooped even more. How would this old crane fill its tummy?"
+    },
+    {
+      "id": 2,
+      "text": "కొంగ తన కడుపు నింపుకోవడానికి ఒక కొత్త మార్గం గురించి ఆలోచించడం మొదలుపెట్టింది. నిలిచిపోయిన నీటి వాసన, తడి మట్టి సువాసన దాని ఆలోచనలకు తోడయ్యాయి. అప్పుడు అది చెరువులో సందడిగా తిరుగుతున్న చేపలను గమనించింది. ఒక్కసారిగా — దాని కళ్ళలో ఓ మెరుపు కనిపించింది. \"ఒక ఉపాయం తట్టింది!\" అని అది తనలో తాను అనుకుంది. ఆ కొంగకు ఎలాంటి ఉపాయం తట్టింది? అది తన ఆకలిని తీర్చుకోవడానికి ఏం చేస్తుంది?",
+      "image_prompt": "The crane stands by the pond, observing the bustling fish swimming in the water. A sudden flash appears in its eyes, indicating a new idea has struck it. Late afternoon light, golden and soft, but with a slight, ominous shadow under the crane's long beak, hinting at deceit.",
+      "scene_visual": "The crane stands by the pond, observing the bustling fish swimming in the water. A sudden flash appears in its eyes, indicating a new idea has struck it.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konga Tana Kadupu Nimpukovadaaniki Oka Kotta Maargam Gurinchi Aalochinchadam Modalupettindi. Nilichipoyina Niti Vaasana, Tadi Matti Suvaasana Daani Aalochanalaku Todayyaayi. Appudu Adi Cheruvulo Sandadigaa Tirugutunna Chepalanu Gamaninchindi. Okkasaarigaa — Daani Kallalo O Merupu Kanipinchindi. \"Oka Upaayam Tattindi!\" Ani Adi Tanalo Taanu Anukundi. Aa Kongaku Elaanti Upaayam Tattindi? Adi Tana Aakalini Tirchukovadaaniki Em Chestundi?",
+      "text_en": "The crane began to think of a new way to fill its tummy. The smell of still water and the scent of wet earth helped its thoughts. Then it noticed the fish swimming busily in the pond. Suddenly — a sparkle appeared in its eyes. \"An idea has struck me!\" it thought to itself. What kind of idea struck the crane? What would it do to satisfy its hunger?"
+    },
+    {
+      "id": 3,
+      "text": "ఆ జిత్తులమారి కొంగ, తల కొద్దిగా వంచి, బాధగా నటిస్తూ చేపల దగ్గరకు వెళ్ళింది. అది మెల్లగా మాట్లాడటం మొదలుపెట్టగానే, చిన్న చేపలు భయంగా అటు ఇటు కదులుతూ నీటిని అలజడి చేశాయి. 'పిల్లలూ, నాకు చాలా బాధగా ఉంది,\" అని అది నమ్మకంగా అంది, \"త్వరలో ఈ చెరువు ఎండిపోతుంది, నేను మిమ్మల్ని రక్షిస్తాను!\" అని చెప్పింది. ఒక మంచి మనిషి మిమ్మల్ని పెద్ద చెరువులోకి మారుస్తాడని, తాను సహాయం చేస్తానని నమ్మబలికింది. ఆ భయపడిన చేపలు కొంగ దయగల మాటలు నమ్మి, దాని సహాయం తీసుకుంటాయా?",
+      "image_prompt": "The cunning crane approaches the fish, its head slightly bowed, feigning sadness. The small fish nervously dart back and forth, stirring the water as the crane begins to speak. Early morning light, hazy and diffused, creating an illusion of peaceful trust over the pond's surface, despite the crane's words.",
+      "scene_visual": "The cunning crane approaches the fish, its head slightly bowed, feigning sadness. The small fish nervously dart back and forth, stirring the water as the crane begins to speak.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Jittulamaari Konga, Tala Koddigaa Vanchi, Baadhagaa Natistu Chepala Daggaraku Vellindi. Adi Mellagaa Maatlaadatam Modalupettagaane, Chinna Chepalu Bhayangaa Atu Itu Kadulutu Nitini Alajadi Cheshaayi. 'Pillalu, Naaku Chaalaa Baadhagaa Undi,\" Ani Adi Nammakangaa Andi, \"Tvaralo I Cheruvu Endipotundi, Nenu Mimmalni Rakshistaanu!\" Ani Cheppindi. Oka Manchi Manishi Mimmalni Pedda Cheruvuloki Maarustaadani, Taanu Sahaayam Chestaanani Nammabalikindi. Aa Bhayapadina Chepalu Konga Dayagala Maatalu Nammi, Daani Sahaayam Tisukuntaayaa?",
+      "text_en": "The cunning crane, bending its head slightly, went to the fish, pretending to be sad. As it began to speak softly, the small fish moved nervously, stirring the water. 'Children, I am very sad,' it said convincingly, 'This pond will soon dry up, but I will save you!' It convinced them that a kind person would move them to a big pond, and it would help. Would the scared fish believe the crane's kind words and accept its help?"
+    },
+    {
+      "id": 4,
+      "text": "చేపలు కొంగ మాటలు నమ్మి, దానికి చిక్కాయి. కొంగ ఒక్కొక్క చేపను తన నోటితో పట్టుకుని, వాటిని ఆ చెరువుకు కొద్ది దూరంలో ఉన్న ఒక బండ రాయి దగ్గరకు తీసుకెళ్ళేది. అక్కడ — అది వాటిని తినేసేది. గాలిలో వినిపించే ఆ చేపలు నమిలే 'క్రంచ్‌' శబ్దం దాని జిత్తులమారి ఆనందానికి సాక్ష్యం. \"అక్కడ పెద్ద చెరువు ఉంది, భయపడకండి!\" అని అబద్ధం చెబుతూ, మిగిలిన చేపలు తమ వంతు కోసం ఆత్రుతగా ఎదురుచూసేలా చేసింది. కొంగ నిజమైన ఉద్దేశ్యం గురించి చేపలు ఇంకెంత కాలం తెలియకుండా ఉంటాయి?",
+      "image_prompt": "The crane holds a fish in its beak and carries it to a rock a short distance from the pond. A distinct 'crunch' sound of the fish being chewed echoes in the air, revealing the crane's cunning satisfaction. Bright midday sun, casting stark, dark shadows of the crane and the 'eating rock', making the scene feel exposed and dangerously clear.",
+      "scene_visual": "The crane holds a fish in its beak and carries it to a rock a short distance from the pond. A distinct 'crunch' sound of the fish being chewed echoes in the air, revealing the crane's cunning satisfaction.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chepalu Konga Maatalu Nammi, Daaniki Chikkaayi. Konga Okkokka Chepanu Tana Notito Pattukuni, Vaatini Aa Cheruvuku Koddi Duranlo Unna Oka Banda Raayi Daggaraku Tisukelledi. Akkada — Adi Vaatini Tinesedi. Gaalilo Vinipinche Aa Chepalu Namile 'Kranch‌' Shabdam Daani Jittulamaari Aanandaaniki Saakshyan. \"Akkada Pedda Cheruvu Undi, Bhayapadakandi!\" Ani Abaddham Chebutu, Migilina Chepalu Tama Vantu Kosam Aatrutagaa Eduruchuselaa Chesindi. Konga Nijamaina Uddeshyam Gurinchi Chepalu Inkenta Kaalam Teliyakundaa Untaayi?",
+      "text_en": "The fish believed the crane's words and fell into its trap. The crane would catch one fish at a time with its beak and carry them to a large rock a little distance from the pond. There — it would eat them. The 'crunch' sound of the fish being chewed, heard in the air, was proof of its cunning joy. \"There's a big pond there, don't be afraid!\" it lied, making the remaining fish eagerly wait for their turn. How long would the fish remain unaware of the crane's true intentions?"
+    },
+    {
+      "id": 5,
+      "text": "కొంగ తరచుగా చేపలను తీసుకెళ్ళడం, వాటి సంఖ్య తగ్గిపోవడాన్ని చెరువులోని తెలివైన పీత గమనించింది. చిన్న చేపలు ఎక్కడికి వెళ్తున్నాయో అని అది అనుమానంగా ఆలోచించింది. పీత నెమ్మదిగా, జాగ్రత్తగా తన కళ్ళను సన్నగా చేసి, కొంగ వైపు కదిలింది, దాని గట్టి పీతలు కొద్దిగా పైకి లేచాయి. నీటిలో దాని 'స్కాటిల్' శబ్దం స్పష్టంగా వినిపించింది. \"అయ్యా కొంగ, నన్ను కూడా ఆ పెద్ద చెరువుకు తీసుకువెళ్ళండి!\" అని పీత ధైర్యంగా అడిగింది. ఆ కొంగ అనుమానం వచ్చిన పీతను తీసుకెళ్తుందా? మరి ఆ పీత ప్రయాణంలో ఏం కనుగొంటుంది?",
+      "image_prompt": "The crab slowly and carefully moves towards the crane, its eyes narrowed in suspicion. Its hard claws are slightly raised, and a clear 'scuttle' sound is heard in the water as it approaches. Also in this scene: A small, sturdy crab with a hard, dark-brown shell and two strong, observant pincers. He is known for his sharp mind and cautious nature. Always the same character across every scene. Late afternoon sun, warm but with long, stretching shadows across the water, hinting at an impending revelation and a shift in the balance of power.",
+      "scene_visual": "The crab slowly and carefully moves towards the crane, its eyes narrowed in suspicion. Its hard claws are slightly raised, and a clear 'scuttle' sound is heard in the water as it approaches.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konga Tarachugaa Chepalanu Tisukelladan, Vaati Sankhya Taggipovadaanni Cheruvuloni Telivaina Pita Gamaninchindi. Chinna Chepalu Ekkadiki Veltunnaayo Ani Adi Anumaanangaa Aalochinchindi. Pita Nemmadigaa, Jaagrattagaa Tana Kallanu Sannagaa Chesi, Konga Vaipu Kadilindi, Daani Gatti Pitalu Koddigaa Paiki Lechaayi. Nitilo Daani 'Skaatil' Shabdam Spashtangaa Vinipinchindi. \"Ayyaa Konga, Nannu Kudaa Aa Pedda Cheruvuku Tisukuvellandi!\" Ani Pita Dhairyangaa Adigindi. Aa Konga Anumaanam Vachchina Pitanu Tisukeltundaa? Mari Aa Pita Prayaananlo Em Kanugontundi?",
+      "text_en": "The wise crab in the pond noticed the crane frequently taking fish and their numbers decreasing. It wondered suspiciously where the small fish were going. The crab slowly and carefully narrowed its eyes and moved towards the crane, its strong claws raised slightly. Its 'scuttle' sound was clearly heard in the water. \"Mr. Crane, please take me to that big pond too!\" the crab bravely asked. Would the crane take the suspicious crab? And what would the crab discover on its journey?"
+    },
+    {
+      "id": 6,
+      "text": "కొంగ పీతను తన నోటితో పట్టుకుని, ఆ బండ రాయి వైపు ఎగురుతోంది. పీత కిందకు చూడగానే — ఎండకు తెల్లబడిన చేపల ఎముకలు కుప్పలు తెప్పలుగా కనిపించాయి. వాటి నుండి వచ్చే పదునైన లోహపు వాసన పీతకు నిజం చెప్పింది. ఒక్కసారిగా — పీత కళ్ళలో కోపం నిండిపోయింది. అది కొంగ మెడను తన పీతలతో గట్టిగా పట్టుకుంది. కొంగ భయంతో వణికిపోయింది. \"నువ్వు మోసగాడివి! ఈ రోజు నీ అంతం!\" అని పీత గర్జించింది. ఆ తెలివైన పీత కొంగ నుండి తప్పించుకుని, మిగిలిన చేపలను కాపాడగలుగుతుందా?",
+      "image_prompt": "The crab, held in the crane's beak, looks down to see piles of sun-bleached fish bones on the rock below. Its eyes fill with sudden anger as it tightly grips the crane's neck with its claws, causing the crane to tremble in fear. Also in this scene: A small, sturdy crab with a hard, dark-brown shell and two strong, observant pincers. He is known for his sharp mind and cautious nature. Always the same character across every scene. Dramatic, high-contrast lighting with the setting sun casting a blood-red glow on the pile of bones and the struggling crane, highlighting the intense danger and critical moment.",
+      "scene_visual": "The crab, held in the crane's beak, looks down to see piles of sun-bleached fish bones on the rock below. Its eyes fill with sudden anger as it tightly grips the crane's neck with its claws, causing the crane to tremble in fear.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konga Pitanu Tana Notito Pattukuni, Aa Banda Raayi Vaipu Egurutondi. Pita Kindaku Chudagaane — Endaku Tellabadina Chepala Emukalu Kuppalu Teppalugaa Kanipinchaayi. Vaati Nundi Vachche Padunaina Lohapu Vaasana Pitaku Nijam Cheppindi. Okkasaarigaa — Pita Kallalo Kopam Nindipoyindi. Adi Konga Medanu Tana Pitalato Gattigaa Pattukundi. Konga Bhayanto Vanikipoyindi. \"Nuvvu Mosagaadivi! I Roju Ni Antan!\" Ani Pita Garjinchindi. Aa Telivaina Pita Konga Nundi Tappinchukuni, Migilina Chepalanu Kaapaadagalugutundaa?",
+      "text_en": "The crane held the crab in its beak and flew towards the large rock. As the crab looked down — it saw piles of fish bones, bleached white by the sun. The sharp, metallic smell coming from them told the crab the truth. Suddenly — anger filled the crab's eyes. It grabbed the crane's neck tightly with its claws. The crane trembled with fear. \"You are a deceiver! Today is your end!\" roared the crab. Could the clever crab escape the crane and save the remaining fish?"
+    },
+    {
+      "id": 7,
+      "text": "పీత కొంగను చంపి, చెరువు దగ్గరకు విజేతలా తిరిగి వచ్చింది. అది గర్వంగా నిలబడి, తన పీతలను గాలిలో ఊపింది. \"కొంగ మోసగాడు, నేను దానిని చంపాను! మనం సురక్షితంగా ఉన్నాము!\" అని బిగ్గరగా చెప్పింది. మిగిలిన చేపలు పీత మాటలు విని సంతోషంతో గెంతుతూ, నీటిని పైకి చిమ్మాయి. చెరువు ఉపరితలంపై రంగురంగుల నీటి వలయాలు ఏర్పడి, వాటి ఆనందాన్ని చాటాయి. పీత తెలివి, ధైర్యం వల్ల అన్ని చేపలు క్షేమంగా బ్రతికాయి.",
+      "image_prompt": "The crab returns to the pond, standing proudly and waving its claws in the air. The remaining fish leap joyfully, splashing water upwards and creating colorful ripples on the pond's surface. Also in this scene: A small, sturdy crab with a hard, dark-brown shell and two strong, observant pincers. He is known for his sharp mind and cautious nature. Always the same character across every scene. Gentle dusk light, warm amber and peaceful, reflecting serenely off the calm pond surface, signifying safety and a happy ending.",
+      "scene_visual": "The crab returns to the pond, standing proudly and waving its claws in the air. The remaining fish leap joyfully, splashing water upwards and creating colorful ripples on the pond's surface.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pita Konganu Champi, Cheruvu Daggaraku Vijetalaa Tirigi Vachchindi. Adi Garvangaa Nilabadi, Tana Pitalanu Gaalilo Upindi. \"Konga Mosagaadu, Nenu Daanini Champaanu! Manam Surakshitangaa Unnaamu!\" Ani Biggaragaa Cheppindi. Migilina Chepalu Pita Maatalu Vini Santoshanto Gentutu, Nitini Paiki Chimmaayi. Cheruvu Uparitalampai Rangurangula Niti Valayaalu Erpadi, Vaati Aanandaanni Chaataayi. Pita Telivi, Dhairyam Valla Anni Chepalu Kshemangaa Bratikaayi.",
+      "text_en": "The crab killed the crane and returned to the pond like a victor. It stood proudly, waving its claws in the air. \"The crane was a deceiver, and I killed it! We are safe!\" it announced loudly. The remaining fish heard the crab's words and jumped with joy, splashing water upwards. Colorful ripples formed on the pond's surface, showing their happiness. Thanks to the crab's cleverness and bravery, all the fish lived safely."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is exceptionally well-crafted for oral storytelling, with strong emotional depth, a compelling narrative arc, and outstanding child engagement through consistent suspense hooks. The grammar is flawless, reflecting natural colloquial Telugu. The primary area for improvement is dialogue richness; incorporating more direct speech, particularly in the opening scene and for the fish characters, would elevate the story's dynamism and character development, pushing it into award-worthy territory."
+  },
+  "title_te_en": "Jittulamaari Konga, Pita Chaakachakyam",
+  "moral_te_en": "Telivaina Aalochanalu Chinnavaarini Kudaa Pedda Aapada Nundi Kaapaadataayi.",
+  "title_en": "The Cunning Crane and the Clever Crab",
+  "moral_en": "Clever thinking can save even the smallest from great danger.",
+  "id": "20260524_200808",
+  "date": "2026-05-24",
+  "category": "panchatantra",
+  "subcategory": "animal_wisdom",
+  "topic": "పంచతంత్రం - కొంగ మరియు తెలివైన నత్త",
+  "thumbnail": "stories/20260524_200808/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
