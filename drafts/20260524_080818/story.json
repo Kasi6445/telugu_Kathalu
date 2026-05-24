@@ -1,0 +1,105 @@
+{
+  "title": "అంబరీషుడి మనసు, సుదర్శన చక్రం మహిమ",
+  "moral": "నిజమైన భక్తి, అణకువ మనల్ని అన్ని ఆపదల నుండి కాపాడతాయి, కఠినమైన మనసులను కూడా కరిగిస్తాయి.",
+  "main_character": "Ambarisha: A just and wise king, loved by his people, with a calm and serene face. He wears royal but modest attire and a simple crown, reflecting his deep devotion to Lord Vishnu. Always the same character across every scene.",
+  "antagonist": "Durvasa Muni: A lean sage with a long white beard and matted hair, wearing saffron robes. His eyes often hold a spark of impatience, and his brow furrows easily, showing his quick temper. He carries a wooden staff. Always the same character across every scene.",
+  "setting": "The ancient kingdom of Ayodhya, a grand palace with intricate carvings, surrounded by lush gardens and a serene river. The sun rises golden over the palace walls. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అయోధ్య నగరం, సూర్యుడు బంగారు రంగులో కోట గోడలపై మెరుస్తున్నాడు. రాజు అంబరీషుడు తన పూజా గదిలో కళ్ళు మూసుకుని ప్రశాంతంగా కూర్చున్నాడు. అగరబత్తుల కమ్మని సువాసన గది అంతా నిండి, మధురమైన మంత్రాల శబ్దం గాలిలో తేలింది. ఆయన చేతులు భక్తితో జోడించి, \"ఓ లక్ష్మీపతి! ఈ వ్రతం నీకే అంకితం!\" అని మనసులో పలికాడు. తన ముఖంపై దివ్యమైన కాంతి — ఆయన మనసు దైవంపై లీనమైపోయింది. ఈ పవిత్రమైన ఏకాదశి వ్రతం, ఆయన ఎలా పూర్తి చేస్తాడో చూద్దాం?",
+      "image_prompt": "The king sits peacefully with his eyes closed, his hands joined in devotion. A divine light emanates from his face as the golden sun shines on the fort walls outside. Soft morning light, warm and golden, filtering into a serene palace prayer room through arched windows, creating a peaceful atmosphere.",
+      "scene_visual": "The king sits peacefully with his eyes closed, his hands joined in devotion. A divine light emanates from his face as the golden sun shines on the fort walls outside.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ayodhya Nagaran, Suryudu Bangaaru Rangulo Kota Godalapai Merustunnaadu. Raaju Ambarishudu Tana Pujaa Gadilo Kallu Musukuni Prashaantangaa Kurchunnaadu. Agarabattula Kammani Suvaasana Gadi Antaa Nindi, Madhuramaina Mantraala Shabdam Gaalilo Telindi. Aayana Chetulu Bhaktito Jodinchi, \"O Lakshmipati! I Vratam Nike Ankitan!\" Ani Manasulo Palikaadu. Tana Mukhampai Divyamaina Kaanti — Aayana Manasu Daivampai Linamaipoyindi. I Pavitramaina Ekaadashi Vratan, Aayana Elaa Purti Chestaado Chuddaan?",
+      "text_en": "Ayodhya city, the sun shone golden on the palace walls. King Ambarisha sat peacefully in his prayer room, eyes closed. The sweet smell of incense filled the room, and gentle chanting floated in the air. He folded his hands in devotion, whispering in his heart, \"Oh Lakshmi Pati! This vow is for you!\" A divine glow was on his face – his mind was completely lost in God. How will he complete this sacred Ekadashi vow?"
+    },
+    {
+      "id": 2,
+      "text": "అంబరీషుడు తన ఉపవాసం విరమించడానికి సిద్ధమవుతుండగా, రాజభవనం గంట మధురంగా మోగింది — ఒక అపరిచితుడు వచ్చాడని తెలిపింది. అంతలో, కాషాయ వస్త్రాలు కదలిన శబ్దంతో మహర్షి దుర్వాసుడు అక్కడికి వచ్చాడు. రాజు వెంటనే లేచి నిలబడి, చేతులు జోడించి స్వాగతించాడు, కానీ ఆయన చూపులు గడియారం వైపు ఒకసారి పడ్డాయి. దుర్వాసుడు తన ముఖంపై ఏమాత్రం చిరునవ్వు లేకుండా, గంభీరంగా రాజును చూశాడు. \"మహర్షి! దయచేసి భోజనానికి అంగీకరించండి,\" అని అంబరీషుడు వినయంగా కోరాడు. మరి మహర్షి ఈ ఆతిథ్యాన్ని స్వీకరిస్తాడా, రాజు వ్రతానికి ఏమౌతుంది?",
+      "image_prompt": "The king stands up quickly, joining his hands in welcome, but his eyes briefly dart towards a clock. The sage, clad in saffron robes, looks at the king with a grave expression, devoid of any smile. Also in this scene: Durvasa Muni: A lean sage with a long white beard and matted hair, wearing saffron robes. His eyes often hold a spark of impatience, and his brow furrows easily, showing his quick temper. He carries a wooden staff. Always the same character across every scene. Bright midday sun streaming through large palace windows, slightly harsh, highlighting the contrast between the king's calm and the sage's abrupt arrival.",
+      "scene_visual": "The king stands up quickly, joining his hands in welcome, but his eyes briefly dart towards a clock. The sage, clad in saffron robes, looks at the king with a grave expression, devoid of any smile.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ambarishudu Tana Upavaasam Viraminchadaaniki Siddhamavutundagaa, Raajabhavanam Ganta Madhurangaa Mogindi — Oka Aparichitudu Vachchaadani Telipindi. Antalo, Kaashaaya Vastraalu Kadalina Shabdanto Maharshi Durvaasudu Akkadiki Vachchaadu. Raaju Ventane Lechi Nilabadi, Chetulu Jodinchi Svaagatinchaadu, Kaani Aayana Chupulu Gadiyaaram Vaipu Okasaari Paddaayi. Durvaasudu Tana Mukhampai Emaatram Chirunavvu Lekundaa, Gambhirangaa Raajunu Chushaadu. \"Maharshi! Dayachesi Bhojanaaniki Angikarinchandi,\" Ani Ambarishudu Vinayangaa Koraadu. Mari Maharshi I Aatithyaanni Svikaristaadaa, Raaju Vrataaniki Emautundi?",
+      "text_en": "Just as Ambarisha was about to break his fast, the palace bell chimed sweetly, announcing a visitor. Suddenly, with the rustle of saffron robes, Sage Durvasa appeared. The King immediately stood up, folded his hands, and welcomed him, but his eyes quickly glanced at the clock. Durvasa looked at the King seriously, without a hint of a smile. \"Great Sage! Please accept my invitation to eat,\" Ambarisha humbly requested. Will the Sage accept his hospitality, and what will happen to the King's vow?"
+    },
+    {
+      "id": 3,
+      "text": "దుర్వాసుడు \"నేను నదిలో స్నానం చేసి వస్తాను\" అని చెప్పి, ప్రశాంతంగా నది వైపు వెళ్ళిపోయాడు. అంబరీషుడికి ఏం చేయాలో పాలుపోలేదు — రాజభవనంలో మంత్రుల గుసగుసలు పెరిగాయి. నదిలో దుర్వాసుడు స్నానం చేస్తుండగా, నీటి గలగల శబ్దం వినబడింది. రాజు ముఖం చింతతో నిండి, కనుబొమ్మలు ముడిపడ్డాయి. \"మహారాజా, కేవలం జలపానం చేయండి,\" అని ఒక మంత్రి మెల్లిగా సలహా ఇచ్చాడు. ఆ ఒక్క సిప్ నీరు... రాజు సమస్యను తీరుస్తుందా, లేక పెద్ద చిక్కుల్లో పడేస్తుందా?",
+      "image_prompt": "The king stands with his face filled with worry, his eyebrows furrowed in deep thought. A minister whispers advice to him, suggesting he only drink water. Also in this scene: Durvasa Muni: A lean sage with a long white beard and matted hair, wearing saffron robes. His eyes often hold a spark of impatience, and his brow furrows easily, showing his quick temper. He carries a wooden staff. Always the same character across every scene. Late afternoon light, soft and diffused, casting long shadows in the palace hall, reflecting Ambarisha's internal conflict and the passing time.",
+      "scene_visual": "The king stands with his face filled with worry, his eyebrows furrowed in deep thought. A minister whispers advice to him, suggesting he only drink water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Durvaasudu \"Nenu Nadilo Snaanam Chesi Vastaanu\" Ani Cheppi, Prashaantangaa Nadi Vaipu Vellipoyaadu. Ambarishudiki Em Cheyaalo Paalupoledu — Raajabhavananlo Mantrula Gusagusalu Perigaayi. Nadilo Durvaasudu Snaanam Chestundagaa, Niti Galagala Shabdam Vinabadindi. Raaju Mukham Chintato Nindi, Kanubommalu Mudipaddaayi. \"Mahaaraajaa, Kevalam Jalapaanam Cheyandi,\" Ani Oka Mantri Melligaa Salahaa Ichchaadu. Aa Okka Sip Niru... Raaju Samasyanu Tirustundaa, Leka Pedda Chikkullo Padestundaa?",
+      "text_en": "Durvasa said, \"I will bathe in the river and return,\" and calmly walked towards the river. Ambarisha didn't know what to do – whispers grew louder among the ministers in the palace. As Durvasa bathed in the river, the sound of flowing water could be heard. The King's face filled with worry, his eyebrows furrowed. \"Your Majesty, just drink a little water,\" a minister softly advised. Will that one sip of water solve the King's problem, or get him into bigger trouble?"
+    },
+    {
+      "id": 4,
+      "text": "అంబరీషుడు మంత్రుల సలహా విని, దైవంపై భారం వేసి కొద్దిగా నీరు మాత్రమే సేవించాడు. దుర్వాసుడు తిరిగి రాగానే, గదిలో ఒక్కసారిగా ఓజోన్ ఘాటైన వాసన నిండింది. మహర్షి కళ్ళు ఎర్రబడ్డాయి, ఆయన ముఖం కోపంతో వక్రీకరించబడింది. \"నాకు అగౌరవం చేశావు! దీనికి నీకు తగిన శాస్తి!\" అంటూ ఆయన అరిచాడు. నేల నుండి ఒక భయంకరమైన శక్తి ఉద్భవించింది — దాని నుండి ఒక మంద్రమైన గర్జన వినిపించింది, రాజు వైపు దూసుకు వచ్చింది. ఈ కొత్త ఆపదను రాజు ఎలా ఎదుర్కొంటాడు?",
+      "image_prompt": "The sage's eyes turn red and his face contorts with extreme anger as he shouts at the king. From the ground, a terrifying energy with a low growl emerges and rushes towards the king. Also in this scene: Durvasa Muni: A lean sage with a long white beard and matted hair, wearing saffron robes. His eyes often hold a spark of impatience, and his brow furrows easily, showing his quick temper. He carries a wooden staff. Always the same character across every scene. A sudden, dark cloud passes over the sun, plunging the palace courtyard into an ominous, grey light, reflecting Durvasa's overwhelming rage.",
+      "scene_visual": "The sage's eyes turn red and his face contorts with extreme anger as he shouts at the king. From the ground, a terrifying energy with a low growl emerges and rushes towards the king.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ambarishudu Mantrula Salahaa Vini, Daivampai Bhaaram Vesi Koddigaa Niru Maatrame Sevinchaadu. Durvaasudu Tirigi Raagaane, Gadilo Okkasaarigaa Ojon Ghaataina Vaasana Nindindi. Maharshi Kallu Errabaddaayi, Aayana Mukham Kopanto Vakrikarinchabadindi. \"Naaku Agauravam Cheshaavu! Diniki Niku Tagina Shaasti!\" Antu Aayana Arichaadu. Nela Nundi Oka Bhayankaramaina Shakti Udbhavinchindi — Daani Nundi Oka Mandramaina Garjana Vinipinchindi, Raaju Vaipu Dusuku Vachchindi. I Kotta Aapadanu Raaju Elaa Edurkontaadu?",
+      "text_en": "Ambarisha listened to his ministers' advice and, trusting in God, drank only a tiny bit of water. As soon as Durvasa returned, a sharp, strong smell filled the room. The Sage's eyes turned red, and his face twisted with anger. \"You have disrespected me! You will pay for this!\" he roared. A terrifying power rose from the ground – a low growl came from it, and it rushed towards the King. How will the King face this new danger?"
+    },
+    {
+      "id": 5,
+      "text": "రాక్షసి రాజు వైపు దూసుకు వస్తుండగా, ఒక్కసారిగా ఒక దివ్యమైన కాంతి — అదంతా ప్రకాశవంతంగా మారిపోయింది! ఆ కాంతిలో ఒక సుదర్శన చక్రం కనిపించింది, అది భూమిని కంపించేలా చేసే ఒక తేనెటీగ శబ్దం చేసింది. అదే క్షణంలో, ఆ రాక్షసి మాయమైపోయింది. \"ఓ లక్ష్మీపతి! మీ శక్తే నా రక్షణ!\" అని అంబరీషుడు భక్తితో చేతులు జోడించాడు. సుదర్శన చక్రం దుర్వాసుని వెంటపడింది, ఆయన కళ్ళు భయంతో పెద్దవయ్యాయి, వెంటనే పారిపోయాడు. ఈ దివ్యమైన చక్రం నుండి ఎవరైనా తప్పించుకోగలరా?",
+      "image_prompt": "A divine, bright light illuminates everything as a Sudarshana Chakra appears, making a bee-like sound that shakes the earth. The sage's eyes widen with fear as the chakra chases him, causing him to immediately run away. Also in this scene: Durvasa Muni: A lean sage with a long white beard and matted hair, wearing saffron robes. His eyes often hold a spark of impatience, and his brow furrows easily, showing his quick temper. He carries a wooden staff. Always the same character across every scene. A blinding, pure white light erupts from the sky, contrasting sharply with the previous gloom, filling the scene with divine energy and a sense of protective power.",
+      "scene_visual": "A divine, bright light illuminates everything as a Sudarshana Chakra appears, making a bee-like sound that shakes the earth. The sage's eyes widen with fear as the chakra chases him, causing him to immediately run away.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raakshasi Raaju Vaipu Dusuku Vastundagaa, Okkasaarigaa Oka Divyamaina Kaanti — Adantaa Prakaashavantangaa Maaripoyindi! Aa Kaantilo Oka Sudarshana Chakram Kanipinchindi, Adi Bhumini Kampinchelaa Chese Oka Tenetiga Shabdam Chesindi. Ade Kshananlo, Aa Raakshasi Maayamaipoyindi. \"O Lakshmipati! Mi Shakte Naa Rakshana!\" Ani Ambarishudu Bhaktito Chetulu Jodinchaadu. Sudarshana Chakram Durvaasuni Ventapadindi, Aayana Kallu Bhayanto Peddavayyaayi, Ventane Paaripoyaadu. I Divyamaina Chakram Nundi Evarainaa Tappinchukogalaraa?",
+      "text_en": "As the monster rushed towards the King, a sudden, bright, divine light appeared – everything became brilliant! In that light, a Sudarshana Chakra could be seen, making a humming sound like a bee that made the earth tremble. In that very moment, the monster vanished. \"Oh Lakshmi Pati! Your power is my protection!\" Ambarisha folded his hands in devotion. The Sudarshana Chakra chased Durvasa, whose eyes widened with fear, and he immediately ran away. Can anyone escape this divine Chakra?"
+    },
+    {
+      "id": 6,
+      "text": "సుదర్శన చక్రం దుర్వాసుని వెంటపడి, ఆయన లోకాలన్నీ పరుగెత్తాడు — బ్రహ్మ, శివుల దగ్గరికి వెళ్ళినా రక్షణ దొరకలేదు. చక్రం నుండి వచ్చే తీక్షణమైన శబ్దం ఆయనను వెంటాడుతూనే ఉంది. చివరికి, దుర్వాసుడు శ్రీమహావిష్ణువు చెంతకు చేరి, చేతులు జోడించి రక్షించమని వేడుకున్నాడు. విష్ణువు చిరునవ్వుతో, \"నా భక్తుడు అంబరీషుడే నిన్ను కాపాడగలడు,\" అని ప్రశాంతంగా పలికాడు. మరి దుర్వాసుడు రాజు క్షమాపణ కోరతాడా, లేదా ఈ దివ్యరక్షణ నుండి తప్పించుకోలేడా?",
+      "image_prompt": "The sage, pursued by the sharp sound of the divine chakra, desperately joins his hands and pleads for protection before Lord Vishnu. Lord Vishnu looks at him with a calm smile, while the relentless sound of the chakra still echoes. Also in this scene: Durvasa Muni: A lean sage with a long white beard and matted hair, wearing saffron robes. His eyes often hold a spark of impatience, and his brow furrows easily, showing his quick temper. He carries a wooden staff. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Ethereal blue light in Vishnu's celestial abode, soft and omnipresent, conveying divine peace amidst Durvasa's panic and desperate plea.",
+      "scene_visual": "The sage, pursued by the sharp sound of the divine chakra, desperately joins his hands and pleads for protection before Lord Vishnu. Lord Vishnu looks at him with a calm smile, while the relentless sound of the chakra still echoes.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Sudarshana Chakram Durvaasuni Ventapadi, Aayana Lokaalanni Parugettaadu — Brahma, Shivula Daggariki Vellinaa Rakshana Dorakaledu. Chakram Nundi Vachche Tikshanamaina Shabdam Aayananu Ventaadutune Undi. Chivariki, Durvaasudu Shrimahaavishnuvu Chentaku Cheri, Chetulu Jodinchi Rakshinchamani Vedukunnaadu. Vishnuvu Chirunavvuto, \"Naa Bhaktudu Ambarishude Ninnu Kaapaadagaladu,\" Ani Prashaantangaa Palikaadu. Mari Durvaasudu Raaju Kshamaapana Korataadaa, Ledaa I Divyarakshana Nundi Tappinchukoledaa?",
+      "text_en": "The Sudarshana Chakra chased Durvasa, who ran through all the worlds – even Brahma and Shiva could not protect him. The sharp, whirring sound of the Chakra kept following him. Finally, Durvasa reached Lord Vishnu, folded his hands, and begged for protection. Vishnu smiled and calmly said, \"Only my devotee Ambarisha can save you.\" Will Durvasa ask the King for forgiveness, or will he be unable to escape this divine protection?"
+    },
+    {
+      "id": 7,
+      "text": "దుర్వాసుడు పశ్చాత్తాపంతో తిరిగి అంబరీషుడి వద్దకు వచ్చి, ఆయన కాళ్ళపై పడ్డాడు. రాజు దయతో మహర్షిని పైకి లేపి, తన ప్రార్థనా పూసలు పట్టుకుని, చక్రం ఆగమని వేడుకున్నాడు. చక్రం శబ్దం ఒక్కసారిగా ఆగిపోయింది — ఆ ప్రశాంతమైన నిశ్శబ్దం అడవిలో తేలింది, ఒక చల్లని గాలి వీచింది. \"మహారాజా, మీ భక్తి సర్వోన్నతం,\" అని దుర్వాసుడు కళ్ళు మూసుకుని పలికాడు. అంబరీషుడి దైవభక్తి, అణకువ సర్వశక్తివంతమైనవి అని రుజువైంది.",
+      "image_prompt": "The sage falls at the king's feet in remorse, and the king kindly lifts him up. The king holds his prayer beads and pleads, and the sound of the chakra instantly stops, leaving a peaceful silence in the air. Also in this scene: Durvasa Muni: A lean sage with a long white beard and matted hair, wearing saffron robes. His eyes often hold a spark of impatience, and his brow furrows easily, showing his quick temper. He carries a wooden staff. Always the same character across every scene. Gentle dusk light, warm amber, bathing the palace courtyard in a peaceful glow, signifying reconciliation and the triumph of devotion over anger.",
+      "scene_visual": "The sage falls at the king's feet in remorse, and the king kindly lifts him up. The king holds his prayer beads and pleads, and the sound of the chakra instantly stops, leaving a peaceful silence in the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Durvaasudu Pashchaattaapanto Tirigi Ambarishudi Vaddaku Vachchi, Aayana Kaallapai Paddaadu. Raaju Dayato Maharshini Paiki Lepi, Tana Praarthanaa Pusalu Pattukuni, Chakram Aagamani Vedukunnaadu. Chakram Shabdam Okkasaarigaa Aagipoyindi — Aa Prashaantamaina Nishshabdam Adavilo Telindi, Oka Challani Gaali Vichindi. \"Mahaaraajaa, Mi Bhakti Sarvonnatan,\" Ani Durvaasudu Kallu Musukuni Palikaadu. Ambarishudi Daivabhakti, Anakuva Sarvashaktivantamainavi Ani Rujuvaindi.",
+      "text_en": "Durvasa returned to Ambarisha, full of regret, and fell at his feet. The King kindly helped the Sage up, held his prayer beads, and begged the Chakra to stop. The Chakra's sound suddenly stopped – a peaceful silence floated through the forest, and a cool breeze blew. \"Your Majesty, your devotion is supreme,\" Durvasa said, closing his eyes. Ambarisha's devotion and humility were proven to be all-powerful."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Krishna",
+      "description": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.67,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is exceptionally well-structured and engaging, particularly in its narrative arc and ability to captivate a young audience with suspenseful hooks. The emotional depth is consistently shown rather than told, making the characters' experiences vivid. To elevate it further, focus on enriching the dialogue to give each character a more distinct voice and consider refining a few word choices (e.g., \"ఓజోన్,\" \"తేనెటీగ శబ్దం\") for a more traditional and universally understood children's narrative."
+  },
+  "title_te_en": "Ambarishudi Manasu, Sudarshana Chakram Mahima",
+  "moral_te_en": "Nijamaina Bhakti, Anakuva Manalni Anni Aapadala Nundi Kaapaadataayi, Kathinamaina Manasulanu Kudaa Karigistaayi.",
+  "title_en": "Ambarisha's Heart, and the Glory of Sudarshana Chakra",
+  "moral_en": "True devotion and humility protect us from all dangers, and can even melt the hardest hearts.",
+  "id": "20260524_080818",
+  "date": "2026-05-24",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "అంబరీష మహారాజు భక్తి కథ",
+  "thumbnail": "stories/20260524_080818/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
