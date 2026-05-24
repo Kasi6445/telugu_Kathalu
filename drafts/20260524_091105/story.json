@@ -1,0 +1,98 @@
+{
+  "title": "బావిలోని పాట, చిట్టి సాహసం",
+  "moral": "పిల్లలూ, మన చుట్టూ ఉన్న మామూలు వస్తువులను కూడా మనం శ్రద్ధగా చూస్తే, వింటే, వాటిలో ఎన్నో అద్భుతమైన రహస్యాలు దాగి ఉంటాయని చిట్టి నేర్చుకుంది.",
+  "main_character": "Chitti is a lean 8-year-old girl with bright, inquisitive eyes and two long braids that bounce when she walks. She loves exploring the edges of her village and has a habit of humming folk songs to herself. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "Malleswaram Palle is a small, sun-drenched village nestled beside a gurgling stream in rural Andhra Pradesh. It features mud-brick houses with thatched roofs, mango trees providing shade, and a central well with a stone platform. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మల్లేశ్వరం పల్లెలో చిట్టి, ఎనిమిదేళ్ల పిల్లిలా చురుగ్గా ఉండేది, తన పొడవాటి జడలు గంతులు వేస్తూ పల్లెటూరి పాట ఒకటి పాడుకుంటూ బావి దగ్గరికి బయలుదేరింది. ఇంటికి నీళ్లు తేవడానికి వెళ్తున్న చిట్టి మనసులో కొత్త ఉత్సాహం నిండి ఉంది. బావి దగ్గరికి రాగానే, నీళ్లు తోడడానికి తాడును పట్టుకుంది — దాని చల్లని, నునుపైన స్పర్శ చిట్టి చేతులను తాకింది. \"అమ్మా, ఈ బావి ఎప్పుడూ ఇంత లోతుగా కనిపించలేదు కదా?\" అని తనలో తనే అనుకుంది, బావి లోతును పరిశీలనగా చూస్తూ. ప్రతిరోజూ చూసే బావి ఈరోజు ఎందుకో కొత్తగా అనిపించింది. అసలు చిట్టి ఈరోజు బావిలో ఏదైనా అసాధారణమైనది గమనిస్తుందా?",
+      "image_prompt": "The girl stands at the well's edge, holding the rope to draw water, and peers intently into its depths. Her hands feel the cool, smooth texture of the rope as she gazes with a questioning expression. Bright morning sun, golden light on the dusty path, cheerful and warm.",
+      "scene_visual": "The girl stands at the well's edge, holding the rope to draw water, and peers intently into its depths. Her hands feel the cool, smooth texture of the rope as she gazes with a questioning expression.",
+      "supporting_char_keys": [],
+      "text_te_en": "Malleshvaram Pallelo Chitti, Enimidella Pillilaa Churuggaa Undedi, Tana Podavaati Jadalu Gantulu Vestu Palleturi Paata Okati Paadukuntu Baavi Daggariki Bayaluderindi. Intiki Nillu Tevadaaniki Veltunna Chitti Manasulo Kotta Utsaaham Nindi Undi. Baavi Daggariki Raagaane, Nillu Todadaaniki Taadunu Pattukundi — Daani Challani, Nunupaina Sparsha Chitti Chetulanu Taakindi. \"Ammaa, I Baavi Eppudu Inta Lotugaa Kanipinchaledu Kadaa?\" Ani Tanalo Tane Anukundi, Baavi Lotunu Parishilanagaa Chustu. Pratiroju Chuse Baavi Iroju Enduko Kottagaa Anipinchindi. Asalu Chitti Iroju Baavilo Edainaa Asaadhaaranamainadi Gamanistundaa?",
+      "text_en": "In the village of Malleswaram lived Chitti, an eight-year-old girl, as lively as a kitten. With her long braids bouncing, she sang a village song as she set off for the well. Chitti was filled with new excitement as she went to fetch water for her home. As she reached the well, she grabbed the rope to draw water — its cool, smooth touch met her hands. \"Oh, this well never looked so deep before, did it?\" she wondered to herself, gazing intently into its depths. The well she saw every day felt new somehow today. Would Chitti notice anything unusual in the well today?"
+    },
+    {
+      "id": 2,
+      "text": "చిట్టి బిందెను బావిలోకి దించుతుండగా, ఆమెకు లోపలి నుండి ఒక మధురమైన గుసగుస వినిపించింది. ఆ అస్పష్టమైన, ప్రతిధ్వనించే శబ్దం బావి ప్రాచీన రాళ్ళ గుండా కంపించినట్లు అనిపించింది. చిట్టి ఒక్కసారిగా తన కదలికలను ఆపి, తల పక్కకు వంచి శ్రద్ధగా వింది — ఆమె కళ్ళల్లో కుతూహలం మెరిసింది. \"అది ఏమిటి ఆ శబ్దం?\" అని తనలో తనే అనుకుంది. ఆమె గుండె లయ తప్పి కొట్టుకుంది. ఆ మర్మమైన శబ్దం ఎక్కడి నుండి వస్తుంది, అది ఏం చెబుతుంది?",
+      "image_prompt": "The girl pauses her movement of lowering the pot into the well, tilting her head to listen carefully. A spark of curiosity shines in her eyes as she concentrates on the faint, echoing sound. Mid-morning sun, dappled light filtering through mango leaves onto the well, creating a slightly mysterious atmosphere.",
+      "scene_visual": "The girl pauses her movement of lowering the pot into the well, tilting her head to listen carefully. A spark of curiosity shines in her eyes as she concentrates on the faint, echoing sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitti Bindenu Baaviloki Dinchutundagaa, Aameku Lopali Nundi Oka Madhuramaina Gusagusa Vinipinchindi. Aa Aspashtamaina, Pratidhvaninche Shabdam Baavi Praachina Raalla Gundaa Kampinchinatlu Anipinchindi. Chitti Okkasaarigaa Tana Kadalikalanu Aapi, Tala Pakkaku Vanchi Shraddhagaa Vindi — Aame Kallallo Kutuhalam Merisindi. \"Adi Emiti Aa Shabdan?\" Ani Tanalo Tane Anukundi. Aame Gunde Laya Tappi Kottukundi. Aa Marmamaina Shabdam Ekkadi Nundi Vastundi, Adi Em Chebutundi?",
+      "text_en": "As Chitti lowered the pot into the well, she heard a sweet whisper from inside. The faint, echoing sound seemed to vibrate through the well's ancient stones. Chitti instantly stopped her movements, tilted her head, and listened carefully — curiosity sparkled in her eyes. \"What was that sound?\" she wondered to herself. Her heart skipped a beat. Where was that mysterious sound coming from, and what was it trying to say?"
+    },
+    {
+      "id": 3,
+      "text": "ఆ శబ్దం ఎక్కడిదో తెలుసుకోవాలని చిట్టి, బావి చీకటి లోతుల్లోకి తొంగి చూడాలని ప్రయత్నించింది. ఆమె చేతి వేళ్ళు బావి అంచున ఉన్న గరుకుగా, చల్లగా ఉన్న రాతిని తాకాయి. కానీ ఆమె లోపలికి చూడగానే — ఆ మధురమైన గుసగుస ఒక్కసారిగా ఆగిపోయింది. చిట్టి భయంతో వెనక్కి తగ్గింది, ఎందుకు ఆగిపోయిందో అర్థం కాలేదు. \"పెద్దలు చెప్పేవారు, బావిలో లోతైన రహస్యాలు ఉంటాయని\" అని ఆమెకు పాత గ్రామ కథలు గుర్తుకొచ్చాయి. బావి రహస్యాన్ని ఇంకా లోతుగా పరిశోధించడానికి చిట్టి భయపడుతుందా?",
+      "image_prompt": "The girl attempts to peer into the dark depths of the well, her fingers touching the rough, cold stone edge. She quickly recoils with a frightened expression as the soft whispering sound abruptly ceases. Harsh midday sun, casting long, sharp shadows around the well, making the depths appear more intimidating.",
+      "scene_visual": "The girl attempts to peer into the dark depths of the well, her fingers touching the rough, cold stone edge. She quickly recoils with a frightened expression as the soft whispering sound abruptly ceases.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Shabdam Ekkadido Telusukovaalani Chitti, Baavi Chikati Lotulloki Tongi Chudaalani Prayatninchindi. Aame Cheti Vellu Baavi Anchuna Unna Garukugaa, Challagaa Unna Raatini Taakaayi. Kaani Aame Lopaliki Chudagaane — Aa Madhuramaina Gusagusa Okkasaarigaa Aagipoyindi. Chitti Bhayanto Venakki Taggindi, Enduku Aagipoyindo Artham Kaaledu. \"Peddalu Cheppevaaru, Baavilo Lotaina Rahasyaalu Untaayani\" Ani Aameku Paata Graama Kathalu Gurtukochchaayi. Baavi Rahasyaanni Inkaa Lotugaa Parishodhinchadaaniki Chitti Bhayapadutundaa?",
+      "text_en": "Wanting to know where the sound came from, Chitti tried to peer into the dark depths of the well. Her fingertips touched the rough, cool stone edge of the well. But as soon as she looked inside — the sweet whisper suddenly stopped. Chitti recoiled in fear, not understanding why it stopped. Old village stories came to her mind, where elders used to say, 'Wells hold deep secrets.' Would Chitti be afraid to explore the well's secret further?"
+    },
+    {
+      "id": 4,
+      "text": "ఆ శబ్దాన్ని మర్చిపోలేక, చిట్టి మధ్యాహ్నం ఎవరికీ తెలియకుండా బావి దగ్గరికి తిరిగి వచ్చింది. తన చేతిలో ఒక చిన్న గులకరాయిని పట్టుకుని, బావి అంచున జాగ్రత్తగా నిలబడింది. \"నేను ఆ శబ్దాన్ని మళ్ళీ వినాలి\" అని గట్టిగా అనుకుంటూ, ఆ గులకరాయిని బావిలోకి వదిలింది. గులకరాయి లోపలికి వెళ్ళి, దూరం నుండి 'ప్లింక్-స్ప్లాష్' అంటూ వింతగా ప్రతిధ్వనించింది. కానీ ఆ మధురమైన గుసగుస మాత్రం మళ్ళీ వినిపించలేదు, ఆమె ముఖం చిన్నబోయింది. కేవలం ఒక గులకరాయి పడవేయడం బావి రహస్యాన్ని బయటపెట్టడానికి సరిపోతుందా?",
+      "image_prompt": "The girl carefully stands at the well's edge, holding a small pebble in her hand, and drops it into the well. Her face falls into a disappointed expression as she hears only the distant 'plink-splash' and no whisper. Late afternoon, golden hour light, casting long shadows of the mango trees, creating a hopeful but solitary mood.",
+      "scene_visual": "The girl carefully stands at the well's edge, holding a small pebble in her hand, and drops it into the well. Her face falls into a disappointed expression as she hears only the distant 'plink-splash' and no whisper.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Shabdaanni Marchipoleka, Chitti Madhyaahnam Evariki Teliyakundaa Baavi Daggariki Tirigi Vachchindi. Tana Chetilo Oka Chinna Gulakaraayini Pattukuni, Baavi Anchuna Jaagrattagaa Nilabadindi. \"Nenu Aa Shabdaanni Malli Vinaali\" Ani Gattigaa Anukuntu, Aa Gulakaraayini Baaviloki Vadilindi. Gulakaraayi Lopaliki Velli, Duram Nundi 'Plink-Splaash' Antu Vintagaa Pratidhvaninchindi. Kaani Aa Madhuramaina Gusagusa Maatram Malli Vinipinchaledu, Aame Mukham Chinnaboyindi. Kevalam Oka Gulakaraayi Padaveyadam Baavi Rahasyaanni Bayatapettadaaniki Saripotundaa?",
+      "text_en": "Unable to forget the sound, Chitti secretly returned to the well in the afternoon. Holding a small pebble in her hand, she stood carefully at the edge of the well. \"I must hear that sound again,\" she thought firmly, and dropped the pebble into the well. The pebble went down, echoing a strange 'plink-splash' from afar. But the sweet whisper didn't return, and her face fell. Would simply dropping a pebble be enough to uncover the well's secret?"
+    },
+    {
+      "id": 5,
+      "text": "నిరాశపడినా, చిట్టి మాత్రం వదులుకోలేదు — బావి చల్లని రాతి అంచుపై కూర్చుంది. బావి అడుగున ఉన్న తడి మట్టి, నాచు వాసన ఆమెకు కొత్త ఆలోచనలను తెచ్చింది. ఆమె కళ్ళు మూసుకుని, తన నాయనమ్మ ఒకసారి నేర్పినట్లు, చెవులతో కాకుండా హృదయంతో వినడానికి ప్రయత్నించింది. \"నువ్వు నాకు ఏదో చెప్పాలనుకుంటున్నావా, బావి?\" అని మెల్లగా అడిగింది, ఆమె మనసు పూర్తిగా తెరుచుకుంది. అప్పుడు... చిట్టి కేవలం చెవులతో కాకుండా హృదయంతో విన్నప్పుడు ఏం జరుగుతుంది?",
+      "image_prompt": "The girl sits on the cool stone edge of the well, closing her eyes and concentrating deeply. Her expression is one of quiet introspection as she tries to listen with her heart, not just her ears. Early evening, soft twilight hues of orange and purple beginning to paint the sky, creating a quiet and reflective atmosphere.",
+      "scene_visual": "The girl sits on the cool stone edge of the well, closing her eyes and concentrating deeply. Her expression is one of quiet introspection as she tries to listen with her heart, not just her ears.",
+      "supporting_char_keys": [],
+      "text_te_en": "Niraashapadinaa, Chitti Maatram Vadulukoledu — Baavi Challani Raati Anchupai Kurchundi. Baavi Aduguna Unna Tadi Matti, Naachu Vaasana Aameku Kotta Aalochanalanu Techchindi. Aame Kallu Musukuni, Tana Naayanamma Okasaari Nerpinatlu, Chevulato Kaakundaa Hrridayanto Vinadaaniki Prayatninchindi. \"Nuvvu Naaku Edo Cheppaalanukuntunnaavaa, Baavi?\" Ani Mellagaa Adigindi, Aame Manasu Purtigaa Teruchukundi. Appudu... Chitti Kevalam Chevulato Kaakundaa Hrridayanto Vinnappudu Em Jarugutundi?",
+      "text_en": "Though disappointed, Chitti didn't give up — she sat on the cool stone edge of the well. The smell of damp earth and moss from the bottom of the well brought her new thoughts. She closed her eyes and tried to listen with her heart, not just her ears, just as her grandmother had once taught her. \"Are you trying to tell me something, well?\" she asked softly, her mind completely open. Then... what would happen when Chitti listened not just with her ears, but with her heart?"
+    },
+    {
+      "id": 6,
+      "text": "చిట్టి హృదయంతో వింటుండగా, బావిలోని నీరు మెల్లగా మెరవడం మొదలుపెట్టింది. లోపలి నుండి ఒక మృదువైన, మెరిసే నీలం-ఆకుపచ్చ కాంతి వెలువడుతూ, ప్రాచీన రాళ్లను ప్రకాశింపజేసింది. ఆమె కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, లోపల ఒక పురాతన, ప్రవహించే ఊట క్షణకాలం కనిపించింది — అది నిశ్శబ్దంగా గ్రామానికి జీవం పోస్తోంది. \"ఓహో, నువ్వు నిశ్శబ్దంగా మాకు జీవం ఇస్తున్నావు!\" అని చిట్టి గొంతులో ఆశ్చర్యంతో అంది. ఈ లోతైన రహస్యాన్ని, ఈ అవగాహనను చిట్టి తన గ్రామ జీవితంలోకి ఎలా తీసుకువెళ్తుంది?",
+      "image_prompt": "The girl gazes into the well as the water inside begins to glow with a soft, shimmering blue-green light. Her eyes widen in astonishment, reflecting the radiant light illuminating the ancient stones. Deep twilight, the well water emits its own soft, ethereal blue-green light, making the scene feel magical and profoundly intimate.",
+      "scene_visual": "The girl gazes into the well as the water inside begins to glow with a soft, shimmering blue-green light. Her eyes widen in astonishment, reflecting the radiant light illuminating the ancient stones.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitti Hrridayanto Vintundagaa, Baaviloni Niru Mellagaa Meravadam Modalupettindi. Lopali Nundi Oka Mrriduvaina, Merise Nilan-Aakupachcha Kaanti Veluvadutu, Praachina Raallanu Prakaashimpajesindi. Aame Kallu Aashcharyanto Peddavayyaayi, Lopala Oka Puraatana, Pravahinche Uta Kshanakaalam Kanipinchindi — Adi Nishshabdangaa Graamaaniki Jivam Postondi. \"Oho, Nuvvu Nishshabdangaa Maaku Jivam Istunnaavu!\" Ani Chitti Gontulo Aashcharyanto Andi. I Lotaina Rahasyaanni, I Avagaahananu Chitti Tana Graama Jivitanloki Elaa Tisukuveltundi?",
+      "text_en": "As Chitti listened with her heart, the water in the well began to glow softly. A gentle, shimmering blue-green light emerged from within, illuminating the ancient stones. Her eyes widened in wonder, and for a moment, an ancient, flowing spring appeared inside — silently giving life to the village. \"Oh, you silently give us life!\" Chitti exclaimed, her voice filled with awe. How would Chitti carry this deep secret and understanding into her village life?"
+    },
+    {
+      "id": 7,
+      "text": "ఆ నిశ్శబ్దమైన అద్భుతంతో, కొత్త అవగాహనతో నిండిన చిట్టి, బావి నుండి నీరు తోడింది. నీటితో నిండిన ఇత్తడి బిందెను తన నడుముపై చక్కగా బ్యాలెన్స్ చేసుకుని, ఆమె ఇంటికి బయలుదేరింది — ఆ బరువు ఆమెకు ప్రశాంతంగా అనిపించింది. ఆమె పెదవులపై ఒక చిరునవ్వు మెరిసింది, ఆమె హృదయంలో ఒక లోతైన ప్రశాంతత నిండింది. ఆ బావితో తనకు ఏర్పడిన అద్భుతమైన బంధాన్ని ఎవరికీ చెప్పకుండా, ఆమె మనసులో దాచుకుంది. పిల్లలూ, చూశారా? మన చుట్టూ ఉన్న మామూలు వస్తువులను కూడా మనం శ్రద్ధగా చూస్తే, వింటే, వాటిలో ఎన్నో అద్భుతమైన రహస్యాలు దాగి ఉంటాయని చిట్టి నేర్చుకుంది.",
+      "image_prompt": "The girl walks away from the well, gracefully balancing a full brass pot of water on her hip. A gentle smile plays on her lips, reflecting a deep sense of peace and newfound understanding. Gentle dusk light, warm amber and fading pinks in the sky, creating a peaceful and resolved atmosphere as Chitti walks home.",
+      "scene_visual": "The girl walks away from the well, gracefully balancing a full brass pot of water on her hip. A gentle smile plays on her lips, reflecting a deep sense of peace and newfound understanding.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Nishshabdamaina Adbhutanto, Kotta Avagaahanato Nindina Chitti, Baavi Nundi Niru Todindi. Nitito Nindina Ittadi Bindenu Tana Nadumupai Chakkagaa Byaalens Chesukuni, Aame Intiki Bayaluderindi — Aa Baruvu Aameku Prashaantangaa Anipinchindi. Aame Pedavulapai Oka Chirunavvu Merisindi, Aame Hrridayanlo Oka Lotaina Prashaantata Nindindi. Aa Baavito Tanaku Erpadina Adbhutamaina Bandhaanni Evariki Cheppakundaa, Aame Manasulo Daachukundi. Pillalu, Chushaaraa? Mana Chuttu Unna Maamulu Vastuvulanu Kudaa Manam Shraddhagaa Chuste, Vinte, Vaatilo Enno Adbhutamaina Rahasyaalu Daagi Untaayani Chitti Nerchukundi.",
+      "text_en": "Filled with this silent wonder and new understanding, Chitti drew water from the well. Balancing the brass pot, now full of water, perfectly on her hip, she set off for home — the weight felt peaceful to her. A smile played on her lips, and a deep sense of peace filled her heart. She kept the wonderful connection she had formed with the well a secret in her heart, telling no one. Children, do you see? Chitti learned that even ordinary things around us, if we look at them carefully and listen to them, hold many wonderful secrets."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.0,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 6,
+    "dialogue_richness": 5,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 10,
+    "average": 8.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story shines with its authentic oral storytelling voice and exceptional child engagement, particularly through the clever use of suspenseful questions at the end of each scene. The grammar is impeccable, making for a very smooth read. To elevate this to an award-winning piece, the primary focus should be on deepening emotional portrayal by consistently showing, rather than telling, Chiṭṭi's feelings. Additionally, integrating more direct, character-specific dialogue would significantly enrich the narrative and enhance immersion."
+  },
+  "quality_warning": true,
+  "title_te_en": "Baaviloni Paata, Chitti Saahasam",
+  "moral_te_en": "Pillalu, Mana Chuttu Unna Maamulu Vastuvulanu Kudaa Manam Shraddhagaa Chuste, Vinte, Vaatilo Enno Adbhutamaina Rahasyaalu Daagi Untaayani Chitti Nerchukundi.",
+  "title_en": "The Song in the Well, Chitti's Adventure",
+  "moral_en": "Children, Chitti learned that even ordinary things around us, if we look at them carefully and listen to them, hold many wonderful secrets.",
+  "id": "20260524_091105",
+  "date": "2026-05-24",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "తెలుగు జానపద కథ - బావి దగ్గర రహస్యం",
+  "thumbnail": "stories/20260524_091105/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
