@@ -1,0 +1,108 @@
+{
+  "title": "సుదాముడి ప్రేమ, కృష్ణుడి కరుణ",
+  "moral": "నిజమైన స్నేహం ఒక అపురూపమైన నిధి, నిస్వార్థంగా పంచిన ప్రేమ ఊహించని రీతిలో తిరిగి వస్తుంది.",
+  "main_character": "He is a devout Brahmin, lean from a life of austerity and poverty, with a gentle, kind face framed by a simple topknot of hair. He wears worn, patched white cotton garments, always carrying a sense of quiet dignity and humility. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story begins in a small, humble village in rural Andhra Pradesh, featuring a simple hut with a thatched roof, surrounded by dusty paths and sparse fields. It then transitions to the opulent, sea-facing city of Dwarka, with its magnificent palaces and bustling streets. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "వడగాల్పులోనూ, సుదాముడు తన చిట్టి గుడిసె ముందున్న మర్రిచెట్టు నీడన పిల్లలకు పాఠాలు చెబుతున్నాడు. పిల్లలు అటూ ఇటూ కదులుతూ ఉంటే, వారి పాదాల కింద ఎండిన ఆకులు గలగలా శబ్దం చేశాయి. ఒక పిల్లవాడు తప్పు పలకగా, సుదాముడు చిరునవ్వుతో అతని భుజంపై ప్రేమగా తట్టాడు. \"జ్ఞానం నిజమైన సంపద, నా ప్రియమైన పిల్లలారా,\" అంటూ వారి కళ్ళలోకి చూస్తూ అన్నాడు. అతని మనసు మాత్రం, ఆకలితో అలమటిస్తున్న తన కుటుంబం వైపు మళ్ళింది — గుడిసె వైపు ఒకసారి చూసి, దీర్ఘంగా నిట్టూర్చాడు. మరి సుదాముడి కుటుంబానికి ఆకలి బాధలు ఎప్పుడు తీరుతాయి?",
+      "image_prompt": "The old man gently taps a boy on the shoulder, who had mispronounced something, while teaching under a banyan tree. A gentle smile plays on the old man's face as dried leaves rustle softly under the children's feet. Soft, warm morning sunlight filtering through the banyan tree leaves, casting gentle shadows on the dusty ground.",
+      "scene_visual": "The old man gently taps a boy on the shoulder, who had mispronounced something, while teaching under a banyan tree. A gentle smile plays on the old man's face as dried leaves rustle softly under the children's feet.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vadagaalpulonu, Sudaamudu Tana Chitti Gudise Mundunna Marrichettu Nidana Pillalaku Paathaalu Chebutunnaadu. Pillalu Atu Itu Kadulutu Unte, Vaari Paadaala Kinda Endina Aakulu Galagalaa Shabdam Cheshaayi. Oka Pillavaadu Tappu Palakagaa, Sudaamudu Chirunavvuto Atani Bhujampai Premagaa Tattaadu. \"Jnyaanam Nijamaina Sampada, Naa Priyamaina Pillalaaraa,\" Antu Vaari Kallaloki Chustu Annaadu. Atani Manasu Maatran, Aakalito Alamatistunna Tana Kutumbam Vaipu Mallindi — Gudise Vaipu Okasaari Chusi, Dirghangaa Nitturchaadu. Mari Sudaamudi Kutumbaaniki Aakali Baadhalu Eppudu Tirutaayi?",
+      "text_en": "Even in the scorching heat, Sudama was teaching lessons to children under the shade of the banyan tree in front of his small hut. As the children moved here and there, the dry leaves under their feet rustled. When one child mispronounced a word, Sudama gently patted his shoulder with a smile. \"Knowledge is true wealth, my dear children,\" he said, looking into their eyes. But his mind wandered to his family, who were suffering from hunger — he glanced at his hut and sighed deeply. When would Sudama's family be free from the pangs of hunger?"
+    },
+    {
+      "id": 2,
+      "text": "ఆ రోజు సాయంత్రం, గుడిసె లోపల నుండి ఆకలితో ఉన్న చిన్నారి ఏడుపు వినిపించింది... అది సుదాముడి హృదయాన్ని మెలిపెట్టింది. అతని భార్య కళ్ళ వెంట నీళ్ళు కారుతూ, అతని వద్దకు వచ్చి చేతులు జోడించింది. \"స్వామీ, మన పిల్లలు ఆకలితో ఉన్నారు. మీ స్నేహితుడు కృష్ణుడు మనకు సహాయం చేయలేడా?\" అని గుసగుసగా అడిగింది. సుదాముడు తన చూపులను నేలమీదకు దించి, తన చేతులు బిగించాడు — అతని ముఖంలో అంతర్మథనం స్పష్టంగా కనిపించింది. తన కుటుంబం పట్ల ప్రేమ, సహాయం అడగడానికి ఉన్న మొహమాటం అతనిని కలవరపరిచాయి. మరి సుదాముడు తన సంకోచాన్ని వదిలిపెట్టి, పాత స్నేహితుడిని కలుస్తాడా?",
+      "image_prompt": "The wife stands before the man with folded hands, her eyes welling up with tears, as the cries of a hungry child echo from inside their hut. The man clenches his hands and casts his gaze downwards, his face etched with visible internal conflict. Dim, late afternoon light inside the small, sparse hut, highlighting dust motes in the air, creating a feeling of melancholy.",
+      "scene_visual": "The wife stands before the man with folded hands, her eyes welling up with tears, as the cries of a hungry child echo from inside their hut. The man clenches his hands and casts his gaze downwards, his face etched with visible internal conflict.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Roju Saayantran, Gudise Lopala Nundi Aakalito Unna Chinnaari Edupu Vinipinchindi... Adi Sudaamudi Hrridayaanni Melipettindi. Atani Bhaarya Kalla Venta Nillu Kaarutu, Atani Vaddaku Vachchi Chetulu Jodinchindi. \"Svaami, Mana Pillalu Aakalito Unnaaru. Mi Snehitudu Krrishnudu Manaku Sahaayam Cheyaledaa?\" Ani Gusagusagaa Adigindi. Sudaamudu Tana Chupulanu Nelamidaku Dinchi, Tana Chetulu Biginchaadu — Atani Mukhanlo Antarmathanam Spashtangaa Kanipinchindi. Tana Kutumbam Patla Prema, Sahaayam Adagadaaniki Unna Mohamaatam Atanini Kalavaraparichaayi. Mari Sudaamudu Tana Sankochaanni Vadilipetti, Paata Snehitudini Kalustaadaa?",
+      "text_en": "That evening, the cry of a hungry child was heard from inside the hut... It twisted Sudama's heart. His wife, with tears in her eyes, came to him and joined her hands. \"My dear, our children are hungry. Can't your friend Krishna help us?\" she whispered. Sudama lowered his gaze to the ground and clenched his hands — his inner struggle was clear on his face. His love for his family and his hesitation to ask for help troubled him. Would Sudama overcome his hesitation and meet his old friend?"
+    },
+    {
+      "id": 3,
+      "text": "భార్య మాటలు విన్న సుదాముడు, తనలో తాను చాలా ఆలోచించుకున్నాడు. చివరికి, ఆమె వైపు చూసి తల పంకించాడు — అతని కళ్ళల్లో ఒక కొత్త సంకల్పం మెరిసింది. ఒక చిన్న గుడ్డ సంచిలో, తన భార్య ప్రేమగా సిద్ధం చేసిన అటుకులను జాగ్రత్తగా మూటకట్టాడు; ఆ అటుకుల గరుకుదనం అతని చేతికి స్పష్టంగా తెలిసింది. \"నీ ప్రేమతో ఈ చిన్న బహుమతిని తీసుకెళ్తాను,\" అని ఆమెకు ధైర్యం చెబుతూ అన్నాడు. ద్వారకకు సుదూర ప్రయాణానికి సిద్ధమవుతూ, ఆ అటుకుల మూటను గుండెలకు హత్తుకున్నాడు — అతని అడుగుల్లో ధైర్యం పెరిగింది. మరి తన పాత స్నేహితుడిని చూసినప్పుడు కృష్ణుడు ఎలా స్పందిస్తాడు?",
+      "image_prompt": "The man carefully ties flattened rice into a small cloth bag, holding it close to his chest, after looking at his wife and nodding his head. The coarse texture of the flattened rice is distinctly felt in his hands as a new resolve shines in his eyes. Bright, clear morning sunlight on a dusty village path, casting long shadows of a lone figure walking away.",
+      "scene_visual": "The man carefully ties flattened rice into a small cloth bag, holding it close to his chest, after looking at his wife and nodding his head. The coarse texture of the flattened rice is distinctly felt in his hands as a new resolve shines in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bhaarya Maatalu Vinna Sudaamudu, Tanalo Taanu Chaalaa Aalochinchukunnaadu. Chivariki, Aame Vaipu Chusi Tala Pankinchaadu — Atani Kallallo Oka Kotta Sankalpam Merisindi. Oka Chinna Gudda Sanchilo, Tana Bhaarya Premagaa Siddham Chesina Atukulanu Jaagrattagaa Mutakattaadu; Aa Atukula Garukudanam Atani Chetiki Spashtangaa Telisindi. \"Ni Premato I Chinna Bahumatini Tisukeltaanu,\" Ani Aameku Dhairyam Chebutu Annaadu. Dvaarakaku Sudura Prayaanaaniki Siddhamavutu, Aa Atukula Mutanu Gundelaku Hattukunnaadu — Atani Adugullo Dhairyam Perigindi. Mari Tana Paata Snehitudini Chusinappudu Krrishnudu Elaa Spandistaadu?",
+      "text_en": "After hearing his wife's words, Sudama thought deeply to himself. Finally, he looked at her and nodded — a new resolve shone in his eyes. In a small cloth bag, he carefully tied up the rice flakes his wife had lovingly prepared; the rough texture of the rice flakes was clear in his hand. \"I will take this small gift with your love,\" he said, reassuring her. Preparing for the long journey to Dwarka, he hugged the bundle of rice flakes to his chest — courage grew in his steps. How would Krishna react when he saw his old friend?"
+    },
+    {
+      "id": 4,
+      "text": "ఎన్నో రోజుల ప్రయాణం తర్వాత, సుదాముడు ద్వారకా నగరపు అద్భుతమైన ద్వారాల వద్ద నిలబడ్డాడు. సూర్యరశ్మికి మెరిసిపోతున్న ఆ ఇత్తడి ద్వారాలను చూసి అతని కళ్ళు ఆశ్చర్యంతో వెడల్పు అయ్యాయి. చుట్టూ ఉన్న సంపద, వైభవం చూసి, తాను ఇక్కడ పొరపాటున వచ్చానేమోనని వెనక్కి తగ్గాడు. \"ఇది నిజంగా నా స్నేహితుడు కృష్ణుడి నివాసమా?\" అని తనలో తాను గొణుక్కున్నాడు. తన మాసిన బట్టలను సరిచేసుకుంటూ, సిగ్గుతో తల దించుకున్నాడు — తన రూపం మీద అపనమ్మకం పెరిగింది. మరి ద్వారపాలకులు అతనిని లోపలికి అనుమతిస్తారా, అసలు ఈ వైభవం మధ్య కృష్ణుడిని కలుసుకోగలడా?",
+      "image_prompt": "The man stands hesitantly before the magnificent, sun-drenched brass gates of the city, his eyes wide with astonishment. He nervously adjusts his soiled clothes and lowers his head in shame, feeling a profound self-doubt about his appearance. Blazing midday sun illuminating the grand, golden-hued palace walls, creating stark contrasts with the dusty path outside.",
+      "scene_visual": "The man stands hesitantly before the magnificent, sun-drenched brass gates of the city, his eyes wide with astonishment. He nervously adjusts his soiled clothes and lowers his head in shame, feeling a profound self-doubt about his appearance.",
+      "supporting_char_keys": [],
+      "text_te_en": "Enno Rojula Prayaanam Tarvaata, Sudaamudu Dvaarakaa Nagarapu Adbhutamaina Dvaaraala Vadda Nilabaddaadu. Suryarashmiki Merisipotunna Aa Ittadi Dvaaraalanu Chusi Atani Kallu Aashcharyanto Vedalpu Ayyaayi. Chuttu Unna Sampada, Vaibhavam Chusi, Taanu Ikkada Porapaatuna Vachchaanemonani Venakki Taggaadu. \"Idi Nijangaa Naa Snehitudu Krrishnudi Nivaasamaa?\" Ani Tanalo Taanu Gonukkunnaadu. Tana Maasina Battalanu Sarichesukuntu, Sigguto Tala Dinchukunnaadu — Tana Rupam Mida Apanammakam Perigindi. Mari Dvaarapaalakulu Atanini Lopaliki Anumatistaaraa, Asalu I Vaibhavam Madhya Krrishnudini Kalusukogaladaa?",
+      "text_en": "After many days of travel, Sudama stood at the magnificent gates of Dwarka city. His eyes widened in wonder at the shining brass gates, gleaming in the sunlight. Seeing the wealth and grandeur all around, he hesitated, wondering if he had come to the wrong place. \"Is this truly my friend Krishna's home?\" he mumbled to himself. Adjusting his worn clothes, he lowered his head in shame — his self-doubt grew. Would the gatekeepers let him in? Could he even meet Krishna amidst all this splendor?"
+    },
+    {
+      "id": 5,
+      "text": "సుదాముడు అక్కడే తటపటాయిస్తుండగా, కృష్ణుడికి తన బాల్య స్నేహితుడు వచ్చాడని కబురు అందింది. ఒక్క క్షణం కూడా ఆలస్యం చేయకుండా, కృష్ణుడు పరిగెత్తుకుంటూ ద్వారం వద్దకు వచ్చాడు — అతని కళ్ళల్లో ఆనందం ఉప్పొంగింది. \"సుదామా! నా ప్రియమైన స్నేహితుడా! ఎంతకాలానికి నిన్ను చూశాను!\" అని ప్రేమగా అరుస్తూ, సుదాముడిని గట్టిగా కౌగిలించుకున్నాడు. కృష్ణుడి పట్టు వస్త్రం చల్లగా, మెత్తగా తాకుతుండగా, సుదాముడి కళ్ళలో నుండి ఆనంద భాష్పాలు రాలాయి — అతని మనసులోని సందేహాలన్నీ మాయమయ్యాయి. కృష్ణుడు సుదాముడి చేయి పట్టుకుని, ప్రేమగా రాజభవనం లోపలికి తీసుకెళ్ళాడు. మరి సుదాముడు తన కష్టాలను కృష్ణుడికి చెప్పగలుగుతాడా?",
+      "image_prompt": "The friend rushes towards the man at the gate, his face beaming with joy, and embraces him tightly. Cool, soft silk garments brush against the man as tears of happiness stream down his face. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. A warm, golden light fills the palace courtyard, emanating from the inner chambers, highlighting the embrace with a soft glow.",
+      "scene_visual": "The friend rushes towards the man at the gate, his face beaming with joy, and embraces him tightly. Cool, soft silk garments brush against the man as tears of happiness stream down his face.",
+      "supporting_char_keys": [
+        "krishna"
+      ],
+      "text_te_en": "Sudaamudu Akkade Tatapataayistundagaa, Krrishnudiki Tana Baalya Snehitudu Vachchaadani Kaburu Andindi. Okka Kshanam Kudaa Aalasyam Cheyakundaa, Krrishnudu Parigettukuntu Dvaaram Vaddaku Vachchaadu — Atani Kallallo Aanandam Uppongindi. \"Sudaamaa! Naa Priyamaina Snehitudaa! Entakaalaaniki Ninnu Chushaanu!\" Ani Premagaa Arustu, Sudaamudini Gattigaa Kaugilinchukunnaadu. Krrishnudi Pattu Vastram Challagaa, Mettagaa Taakutundagaa, Sudaamudi Kallalo Nundi Aananda Bhaashpaalu Raalaayi — Atani Manasuloni Sandehaalanni Maayamayyaayi. Krrishnudu Sudaamudi Cheyi Pattukuni, Premagaa Raajabhavanam Lopaliki Tisukellaadu. Mari Sudaamudu Tana Kashtaalanu Krrishnudiki Cheppagalugutaadaa?",
+      "text_en": "While Sudama was still hesitating there, Krishna received news that his childhood friend had arrived. Without a moment's delay, Krishna ran to the gate — his eyes overflowing with joy. \"Sudama! My dear friend! How long it has been since I saw you!\" he cried lovingly, embracing Sudama tightly. As Krishna's cool, soft silk clothes touched him, tears of joy fell from Sudama's eyes — all his doubts vanished. Krishna took Sudama's hand and lovingly led him inside the royal palace. Would Sudama be able to tell Krishna about his troubles?"
+    },
+    {
+      "id": 6,
+      "text": "రాజభవనంలోకి వచ్చాక, కృష్ణుడు సుదాముడి చేతిలోని అటుకుల మూటను చూశాడు — అతని కళ్ళల్లో ఆశ్చర్యం, ఆప్యాయత నిండాయి. చిలిపిగా నవ్వుతూ, ఆ మూటను సుదాముడి నుండి తీసుకుని, ఒక్కొక్క అటుకును ప్రేమగా తినడం మొదలుపెట్టాడు. కృష్ణుడు అటుకులను నములుతుంటే, మెల్లని కరకర శబ్దం వినిపించింది; ఆ స్నేహానికి గుర్తుగా వాటిని ఎంతో ఇష్టంగా ఆరగించాడు. \"ఆహా! నాకెప్పుడూ ఇంత రుచికరమైనది తినలేదు!\" అని చెప్పి, సుదాముడి వైపు ప్రేమగా చూశాడు. సుదాముడు తన కష్టాలన్నీ మర్చిపోయి, ఒక ప్రకాశవంతమైన చిరునవ్వుతో నిండిపోయాడు — అతని మనసు భక్తితో ఉప్పొంగింది. మరి సుదాముడు, కేవలం ప్రేమను మాత్రమే ఇచ్చి, తిరిగి తన గుడిసెకు వెళ్ళేసరికి ఏమి చూస్తాడు?",
+      "image_prompt": "The friend playfully takes the small cloth bag from the man's hand and begins to eat the flattened rice, one by one. A soft crunching sound is heard as the friend savors each bite, looking at the man with affectionate eyes. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Bright, joyful light in the opulent palace chamber, perhaps with light streaming through ornate windows, creating a feeling of divine happiness.",
+      "scene_visual": "The friend playfully takes the small cloth bag from the man's hand and begins to eat the flattened rice, one by one. A soft crunching sound is heard as the friend savors each bite, looking at the man with affectionate eyes.",
+      "supporting_char_keys": [
+        "krishna"
+      ],
+      "text_te_en": "Raajabhavananloki Vachchaaka, Krrishnudu Sudaamudi Chetiloni Atukula Mutanu Chushaadu — Atani Kallallo Aashcharyan, Aapyaayata Nindaayi. Chilipigaa Navvutu, Aa Mutanu Sudaamudi Nundi Tisukuni, Okkokka Atukunu Premagaa Tinadam Modalupettaadu. Krrishnudu Atukulanu Namulutunte, Mellani Karakara Shabdam Vinipinchindi; Aa Snehaaniki Gurtugaa Vaatini Ento Ishtangaa Aaraginchaadu. \"Aahaa! Naakeppudu Inta Ruchikaramainadi Tinaledu!\" Ani Cheppi, Sudaamudi Vaipu Premagaa Chushaadu. Sudaamudu Tana Kashtaalanni Marchipoyi, Oka Prakaashavantamaina Chirunavvuto Nindipoyaadu — Atani Manasu Bhaktito Uppongindi. Mari Sudaamudu, Kevalam Premanu Maatrame Ichchi, Tirigi Tana Gudiseku Vellesariki Emi Chustaadu?",
+      "text_en": "Once inside the palace, Krishna saw the bundle of rice flakes in Sudama's hand — his eyes filled with surprise and affection. With a mischievous smile, he took the bundle from Sudama and began to lovingly eat each rice flake. As Krishna chewed the rice flakes, a soft crunching sound was heard; he ate them with great fondness, as a symbol of their friendship. \"Oh! I have never eaten anything so delicious!\" he exclaimed, looking at Sudama with love. Sudama forgot all his troubles and was filled with a bright smile — his heart swelled with devotion. What would Sudama find when he returned to his hut, having given only love?"
+    },
+    {
+      "id": 7,
+      "text": "కృష్ణుడి ఆతిథ్యాన్ని పొంది, సుదాముడు తన గ్రామానికి తిరిగి బయలుదేరాడు — అతని మనసు ప్రశాంతంగా ఉంది. తన గుడిసె ఉన్న చోటుకు చేరుకోగానే, అతను ఆశ్చర్యంతో నిశ్చేష్టుడై నిలబడిపోయాడు. అక్కడ పాత గుడిసె బదులు, ఒక అద్భుతమైన రాజభవనం నిలిచి ఉంది — దాని గోడలపై మెత్తని పట్టు తెరలు గాలికి మెల్లగా కదిలాయి. అతని కుటుంబం కొత్త, అందమైన వస్త్రాలతో, సంతోషంగా కనిపించింది. ఆ దృశ్యం చూసి సుదాముడు మోకాళ్ళపై కూలబడి, కళ్ళు మూసుకుని ప్రార్థించాడు. \"కృష్ణా! నీ స్నేహం నా జీవితాన్ని మార్చింది!\" అని మనసులోనే కృతజ్ఞతతో ఉద్వేగంగా పలికాడు — ఇది కృష్ణుడి నిస్వార్థమైన ప్రేమ మహిమ.",
+      "image_prompt": "The man stands utterly astonished, gazing at a magnificent palace that now stands where his humble hut once was. Soft silk curtains gently sway on the palace walls, and he drops to his knees, closing his eyes in prayer. Gentle evening light, warm amber and rose hues, casting a peaceful glow over the new, magnificent palace, signifying peace and divine blessing.",
+      "scene_visual": "The man stands utterly astonished, gazing at a magnificent palace that now stands where his humble hut once was. Soft silk curtains gently sway on the palace walls, and he drops to his knees, closing his eyes in prayer.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnudi Aatithyaanni Pondi, Sudaamudu Tana Graamaaniki Tirigi Bayaluderaadu — Atani Manasu Prashaantangaa Undi. Tana Gudise Unna Chotuku Cherukogaane, Atanu Aashcharyanto Nishcheshtudai Nilabadipoyaadu. Akkada Paata Gudise Badulu, Oka Adbhutamaina Raajabhavanam Nilichi Undi — Daani Godalapai Mettani Pattu Teralu Gaaliki Mellagaa Kadilaayi. Atani Kutumbam Kotta, Andamaina Vastraalato, Santoshangaa Kanipinchindi. Aa Drrishyam Chusi Sudaamudu Mokaallapai Kulabadi, Kallu Musukuni Praarthinchaadu. \"Krrishnaa! Ni Sneham Naa Jivitaanni Maarchindi!\" Ani Manasulone Krritajnyatato Udvegangaa Palikaadu — Idi Krrishnudi Nisvaarthamaina Prema Mahima.",
+      "text_en": "After receiving Krishna's hospitality, Sudama set off to return to his village — his mind was peaceful. As soon as he reached the place where his hut stood, he was astonished and stood motionless. Instead of his old hut, a magnificent palace stood there — soft silk curtains on its walls gently swayed in the breeze. His family appeared happy, dressed in new, beautiful clothes. Seeing this sight, Sudama fell to his knees, closed his eyes, and prayed. \"Krishna! Your friendship has changed my life!\" he exclaimed emotionally in his heart, filled with gratitude — this was the magic of Krishna's selfless love."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "krishna",
+      "description": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 6,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.1,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is exceptionally well-structured with a compelling narrative arc and excellent child engagement, largely due to the clever use of suspenseful questions at each scene's end. The grammar is flawless, and the dialogue is natural and character-specific. To elevate it to award-worthy status, the most crucial fix is to consistently show emotions through actions and sensory details rather than stating them directly, allowing the reader to feel the characters' experiences more deeply."
+  },
+  "quality_warning": true,
+  "title_te_en": "Sudaamudi Prema, Krrishnudi Karuna",
+  "moral_te_en": "Nijamaina Sneham Oka Apurupamaina Nidhi, Nisvaarthangaa Panchina Prema Uhinchani Ritilo Tirigi Vastundi.",
+  "title_en": "Sudama's Love, Krishna's Compassion",
+  "moral_en": "True friendship is a rare treasure, and love shared selflessly returns in unexpected ways.",
+  "id": "20260524_211418",
+  "date": "2026-05-24",
+  "category": "bhagavatam",
+  "subcategory": "krishna_leela",
+  "topic": "కృష్ణుడు మరియు సుదామ స్నేహం",
+  "thumbnail": "stories/20260524_211418/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
