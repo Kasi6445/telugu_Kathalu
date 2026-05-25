@@ -1,0 +1,119 @@
+{
+  "title": "మాటల బలం, ఈకల పాఠం",
+  "moral": "పిల్లలూ, మనం మాట్లాడే ప్రతి మాటా ఎంత విలువైనదో, ఎంత శక్తివంతమైనదో తెలుసుకోవాలి, ఎందుకంటే ఒక్కసారి నోటి నుండి వెళ్ళిన మాటను తిరిగి తీసుకోలేము.",
+  "main_character": "Karthik, a lively 10-year-old boy, with bright, curious eyes and perpetually messy hair. He's quick-witted but often speaks without considering the impact of his words. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The village of Palakollu, Andhra Pradesh, with its ancient temple gopuram visible in the distance, dusty unpaved roads, and the vibrant colors of local market stalls. The air is often filled with the scent of jasmine and cooking spices. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పాలకొల్లు వీధుల్లో, కార్తీక్ తన స్నేహితులతో గోళీలు ఆడుకుంటున్నాడు, అతని చేతిలో చల్లని, నునుపైన గోళీలు క్లిక్ క్లిక్ అంటూ శబ్దం చేస్తున్నాయి. అప్పుడతను తన తెలివితేటలతో స్నేహితుడిని సులభంగా ఓడించాడు, అతని ముఖం అంతా గెలుపు చిరునవ్వుతో నిండిపోయింది. కార్తీక్ తన ఛాతీని వెనక్కి విరిచి, గట్టిగా నవ్వుతూ, \"చూడు, నేను ఎంత తెలివైనవాడినో! నిన్ను ఓడించడం ఎంత సులువు!\" అన్నాడు. అతను గెలిచాడు — అతని కళ్ళు మెరిశాయి. ఆనందంతో తన స్నేహితుడిని ఉత్సాహంగా హై-ఫైవ్ ఇచ్చాడు. కానీ ఈ గెలుపు, ఈ మాటల ఉత్సాహం కార్తీక్‌ను ఎక్కడికి తీసుకెళ్తుందో ఎవరికి తెలుసు?",
+      "image_prompt": "The boy throws his chest back and laughs loudly, then enthusiastically high-fives his friend. His eyes are sparkling with victory, and his face is filled with a winning smile. Bright afternoon sun casting sharp shadows on the dusty ground of the village square, energetic and warm.",
+      "scene_visual": "The boy throws his chest back and laughs loudly, then enthusiastically high-fives his friend. His eyes are sparkling with victory, and his face is filled with a winning smile.",
+      "supporting_char_keys": [
+        "rohan"
+      ],
+      "text_te_en": "Paalakollu Vidhullo, Kaartik Tana Snehitulato Golilu Aadukuntunnaadu, Atani Chetilo Challani, Nunupaina Golilu Klik Klik Antu Shabdam Chestunnaayi. Appudatanu Tana Telivitetalato Snehitudini Sulabhangaa Odinchaadu, Atani Mukham Antaa Gelupu Chirunavvuto Nindipoyindi. Kaartik Tana Chaatini Venakki Virichi, Gattigaa Navvutu, \"Chudu, Nenu Enta Telivainavaadino! Ninnu Odinchadam Enta Suluvu!\" Annaadu. Atanu Gelichaadu — Atani Kallu Merishaayi. Aanandanto Tana Snehitudini Utsaahangaa Hai-Phaiv Ichchaadu. Kaani I Gelupu, I Maatala Utsaaham Kaartik‌Nu Ekkadiki Tisukeltundo Evariki Telusu?",
+      "text_en": "In the streets of Palakollu, Karthik was playing marbles with his friends. The cool, smooth marbles clicked and clacked in his hand. He easily defeated his friend with his cleverness, and his face was filled with a winning smile. Karthik puffed out his chest, laughed loudly, and said, \"Look how smart I am! It's so easy to beat you!\" He had won — his eyes sparkled. Joyfully, he gave his friend an excited high-five. But who knew where this victory, this excitement of words, would take Karthik?"
+    },
+    {
+      "id": 2,
+      "text": "గోళీ ఆటలో గెలిచిన ఆ ఉత్సాహంతో, కొద్దిరోజుల తర్వాత, కార్తీక్ పండుగ సందడిలో మునిగిపోయాడు. డోలక్ డ్రమ్ములు లయబద్ధంగా మోగుతుంటే, జనం కేరింతలు కొడుతుంటే, కార్తీక్ కళ్ళు రోహన్ వైపు మళ్ళాయి. రోహన్ కాస్త తడబడుతూ నాట్యం చేస్తుండగా, కార్తీక్ ఒక్కసారిగా గట్టిగా నవ్వాడు. \"రోహన్ నాట్యం చూడు, వాడు డ్యాన్స్ చేస్తున్నాడో లేక కింద పడుతున్నాడో కూడా తెలియదు!\" అని గట్టిగా అరిచాడు. రోహన్ ముఖం — ఒక్కసారిగా మాసిపోయింది. కార్తీక్ నోటి మీద చేయి వేసుకుని, అతని నవ్వు క్రమంగా తగ్గిపోయింది, అతని గుండెలో చిన్న కదలిక. ఇది ఏ మలుపు తిరుగుతుందో?",
+      "image_prompt": "The boy laughs loudly, pointing and shouting at his friend who is dancing awkwardly. His friend's face instantly falls, looking crestfallen. Festive evening, strings of small, colorful electric bulbs illuminating the village square, creating a lively but slightly jarring atmosphere.",
+      "scene_visual": "The boy laughs loudly, pointing and shouting at his friend who is dancing awkwardly. His friend's face instantly falls, looking crestfallen.",
+      "supporting_char_keys": [
+        "rohan"
+      ],
+      "text_te_en": "Goli Aatalo Gelichina Aa Utsaahanto, Koddirojula Tarvaata, Kaartik Panduga Sandadilo Munigipoyaadu. Dolak Drammulu Layabaddhangaa Mogutunte, Janam Kerintalu Kodutunte, Kaartik Kallu Rohan Vaipu Mallaayi. Rohan Kaasta Tadabadutu Naatyam Chestundagaa, Kaartik Okkasaarigaa Gattigaa Navvaadu. \"Rohan Naatyam Chudu, Vaadu Dyaans Chestunnaado Leka Kinda Padutunnaado Kudaa Teliyadu!\" Ani Gattigaa Arichaadu. Rohan Mukham — Okkasaarigaa Maasipoyindi. Kaartik Noti Mida Cheyi Vesukuni, Atani Navvu Kramangaa Taggipoyindi, Atani Gundelo Chinna Kadalika. Idi E Malupu Tirugutundo?",
+      "text_en": "A few days later, still buzzing from his marble game victory, Karthik was immersed in the festive atmosphere. As the dholak drums beat rhythmically and the crowd cheered, Karthik's eyes turned towards Rohan. As Rohan danced a little clumsily, Karthik suddenly burst into loud laughter. He shouted loudly, \"Look at Rohan's dance! I can't tell if he's dancing or falling down!\" Rohan's face — instantly fell. Karthik put his hand over his mouth, his laughter slowly faded, and a small stir began in his heart. What turn would this take?"
+    },
+    {
+      "id": 3,
+      "text": "కార్తీక్ పక్కున నవ్విన ఆ మాటలు, రోహన్ గుండెను చీల్చినట్లు అనిపించాయి, రోహన్ ఆ రోజు నుండి కార్తీక్‌ను చూసి ముఖం పక్కకు తిప్పేసుకున్నాడు. \"రోహన్, దయచేసి నాతో మాట్లాడు! అది కేవలం జోక్ మాత్రమే!\" అని కార్తీక్ అతని ఇంటి వైపు చూస్తూ అరిచాడు, కానీ రోహన్ తలుపు కూడా తెరవలేదు. పక్కన ఆడుకుంటున్న పిల్లల నుండి అప్పుడప్పుడు వినబడుతున్న నవ్వులు కార్తీక్‌కి తన మాటలను గుర్తుచేస్తున్నాయి. అతని చేతులు వణికాయి, అతని గుండెలో — ఏదో పీకుతున్నట్లు అనిపించింది. కార్తీక్ తన ఇంటి ముందు అటూ ఇటూ నడుస్తూ, తన తలను కిందకు దించి, రోహన్ ఇంటి వైపు చూశాడు. కానీ ఒక్కసారి నోటి నుండి వెళ్ళిన మాట, గాలిలో కలిసిన గుసగుసలు — వాటిని తిరిగి ఎలా పట్టుకోవాలి?",
+      "image_prompt": "The boy walks back and forth in front of his house, his head bowed, looking towards his friend's closed door. His hands are trembling, and he feels a gnawing pain in his heart. Late afternoon, shadows lengthening and a soft, orange glow from the setting sun, conveying a sense of melancholy and fading hope.",
+      "scene_visual": "The boy walks back and forth in front of his house, his head bowed, looking towards his friend's closed door. His hands are trembling, and he feels a gnawing pain in his heart.",
+      "supporting_char_keys": [
+        "rohan"
+      ],
+      "text_te_en": "Kaartik Pakkuna Navvina Aa Maatalu, Rohan Gundenu Chilchinatlu Anipinchaayi, Rohan Aa Roju Nundi Kaartik‌Nu Chusi Mukham Pakkaku Tippesukunnaadu. \"Rohan, Dayachesi Naato Maatlaadu! Adi Kevalam Jok Maatrame!\" Ani Kaartik Atani Inti Vaipu Chustu Arichaadu, Kaani Rohan Talupu Kudaa Teravaledu. Pakkana Aadukuntunna Pillala Nundi Appudappudu Vinabadutunna Navvulu Kaartik‌Ki Tana Maatalanu Gurtuchestunnaayi. Atani Chetulu Vanikaayi, Atani Gundelo — Edo Pikutunnatlu Anipinchindi. Kaartik Tana Inti Mundu Atu Itu Nadustu, Tana Talanu Kindaku Dinchi, Rohan Inti Vaipu Chushaadu. Kaani Okkasaari Noti Nundi Vellina Maata, Gaalilo Kalisina Gusagusalu — Vaatini Tirigi Elaa Pattukovaali?",
+      "text_en": "Karthik's sudden laughing words felt like they tore Rohan's heart. From that day on, Rohan turned his face away whenever he saw Karthik. Karthik shouted towards Rohan's house, \"Rohan, please talk to me! It was just a joke!\" but Rohan didn't even open the door. The occasional laughter from children playing nearby reminded Karthik of his own words. His hands trembled, and in his heart — something felt like it was tearing. Karthik walked back and forth in front of his house, his head down, looking towards Rohan's house. But once words leave your mouth, like whispers carried by the wind — how can you catch them back?"
+    },
+    {
+      "id": 4,
+      "text": "రోహన్ దూరం పెట్టినప్పుడు, కార్తీక్ తన మనసులోని బాధను అమ్మమ్మకు చెప్పుకున్నాడు. పిల్లలూ, అప్పుడు అమ్మమ్మ ఏం చెప్పిందో తెలుసా? ఆమె కార్తీక్ కళ్ళలోకి లోతుగా చూసింది, అతని చేతిలో ఒక చిన్న ఈకల సంచి పెట్టింది. \"కార్తీక్, నువ్వు ఇప్పుడు ఈ ఈకల సంచిని తీసుకుని, గుడి గోపురం పైకి వెళ్ళు,\" అని ఆమె నెమ్మదిగా చెప్పింది. \"అక్కడ నుండి వీటిని గాలిలోకి వదిలేసి రా.\" అమ్మమ్మ చూపులో — ఓ లోతైన అర్థం కనిపించింది. కార్తీక్ కళ్ళు ఆశతో మెరిశాయి, కానీ అతని మనసులో మాత్రం ఒక సందేహం. కానీ ఆ ఈకలను ఎందుకు పట్టుకోమన్నారో, ఆ తర్వాత ఏం చేయమంటారో కార్తీక్‌కు ఇంకా తెలియలేదు కదూ?",
+      "image_prompt": "The old woman looks deeply into the boy's eyes and places a small bag of feathers into his hand. Her gaze holds a deep meaning, and the boy's eyes sparkle with hope mixed with doubt. Warm, golden light of early morning filtering through the neem tree leaves in the grandmother's courtyard, peaceful and contemplative.",
+      "scene_visual": "The old woman looks deeply into the boy's eyes and places a small bag of feathers into his hand. Her gaze holds a deep meaning, and the boy's eyes sparkle with hope mixed with doubt.",
+      "supporting_char_keys": [
+        "grandmother"
+      ],
+      "text_te_en": "Rohan Duram Pettinappudu, Kaartik Tana Manasuloni Baadhanu Ammammaku Cheppukunnaadu. Pillalu, Appudu Ammamma Em Cheppindo Telusaa? Aame Kaartik Kallaloki Lotugaa Chusindi, Atani Chetilo Oka Chinna Ikala Sanchi Pettindi. \"Kaartik, Nuvvu Ippudu I Ikala Sanchini Tisukuni, Gudi Gopuram Paiki Vellu,\" Ani Aame Nemmadigaa Cheppindi. \"Akkada Nundi Vitini Gaaliloki Vadilesi Raa.\" Ammamma Chupulo — O Lotaina Artham Kanipinchindi. Kaartik Kallu Aashato Merishaayi, Kaani Atani Manasulo Maatram Oka Sandehan. Kaani Aa Ikalanu Enduku Pattukomannaaro, Aa Tarvaata Em Cheyamantaaro Kaartik‌Ku Inkaa Teliyaledu Kadu?",
+      "text_en": "When Rohan kept his distance, Karthik told his grandmother about the pain in his heart. Children, do you know what Grandma said then? She looked deep into Karthik's eyes and placed a small bag of feathers in his hand. She gently said, \"Karthik, now take this bag of feathers and go to the top of the temple tower. From there, release them into the wind and come back.\" In Grandma's gaze — a deep meaning was visible. Karthik's eyes sparkled with hope, but a doubt remained in his mind. But Karthik still didn't know why she asked him to hold the feathers, or what she would ask him to do next, did he?"
+    },
+    {
+      "id": 5,
+      "text": "అమ్మమ్మ మాట విన్న కార్తీక్, ఆ ఈకల సంచిని పట్టుకుని గుడి గోపురం పైకి పరిగెత్తాడు. అక్కడ నుండి ఆ ఈకలను గాలిలోకి వదిలాడు, అవి గాలిలో తేలియాడుతూ దూరంగా వెళ్లిపోయాయి. \"ఇప్పుడు కిందకి వెళ్ళి, ఆ ఈకలన్నింటినీ తిరిగి పోగుచేసి తీసుకురా,\" అని అమ్మమ్మ చెప్పింది. కార్తీక్ దిగ్భ్రాంతితో కిందకు పరిగెత్తాడు, పొడి, దుమ్ముతో నిండిన నేల అతని అడుగుల కింద కరకరలాడుతోంది. అతను అటూ ఇటూ పరిగెత్తాడు, అతని నుదిటి నుండి చెమట బొట్లు కారుతున్నాయి. \"అమ్మా, ఇది అసాధ్యం! ఒక ఈక కూడా తిరిగి దొరకదు!\" అని అరిచాడు, అతని భుజాలు నిరాశగా వాలిపోయాయి. అతను మోకాళ్ళ మీద కూలిపోయాడు — నిస్సహాయంగా. తన మాటలు కూడా ఇలాగే దూరంగా వెళ్ళిపోయాయని అర్థమైంది, కానీ రోహన్‌తో స్నేహాన్ని మళ్ళీ ఎలా కలుపుకోవాలి?",
+      "image_prompt": "The boy kneels on the ground, his shoulders slumped in despair, after failing to collect the scattered feathers. Sweat drips from his forehead onto the dry, dusty ground as he cries out in frustration. Harsh midday sun beating down on the temple steps and surrounding fields, bright and unforgiving, emphasizing Karthik's futile efforts.",
+      "scene_visual": "The boy kneels on the ground, his shoulders slumped in despair, after failing to collect the scattered feathers. Sweat drips from his forehead onto the dry, dusty ground as he cries out in frustration.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ammamma Maata Vinna Kaartik, Aa Ikala Sanchini Pattukuni Gudi Gopuram Paiki Parigettaadu. Akkada Nundi Aa Ikalanu Gaaliloki Vadilaadu, Avi Gaalilo Teliyaadutu Durangaa Vellipoyaayi. \"Ippudu Kindaki Velli, Aa Ikalannintini Tirigi Poguchesi Tisukuraa,\" Ani Ammamma Cheppindi. Kaartik Digbhraantito Kindaku Parigettaadu, Podi, Dummuto Nindina Nela Atani Adugula Kinda Karakaralaadutondi. Atanu Atu Itu Parigettaadu, Atani Nuditi Nundi Chemata Botlu Kaarutunnaayi. \"Ammaa, Idi Asaadhyan! Oka Ika Kudaa Tirigi Dorakadu!\" Ani Arichaadu, Atani Bhujaalu Niraashagaa Vaalipoyaayi. Atanu Mokaalla Mida Kulipoyaadu — Nissahaayangaa. Tana Maatalu Kudaa Ilaage Durangaa Vellipoyaayani Arthamaindi, Kaani Rohan‌To Snehaanni Malli Elaa Kalupukovaali?",
+      "text_en": "Listening to his grandmother, Karthik took the bag of feathers and ran to the top of the temple tower. From there, he released the feathers into the wind, and they floated away, disappearing into the distance. \"Now go down and gather all those feathers back,\" Grandma said. Karthik ran down in shock, the dry, dusty ground crunching under his feet. He ran back and forth, sweat dripping from his forehead. He cried out, \"Grandma, it's impossible! Not a single feather can be found!\" his shoulders drooping in despair. He fell to his knees — helpless. He understood that his words had also flown away just like that, but how could he mend his friendship with Rohan?"
+    },
+    {
+      "id": 6,
+      "text": "ఈకల పాఠం నుండి కార్తీక్‌కు ఒక గొప్ప విషయం అర్థమైంది, తన మాటల వల్ల రోహన్‌కు ఎంత బాధ కలిగిందో అతను తెలుసుకున్నాడు. మెల్లగా రోహన్ ఇంటి వైపు నడిచాడు, అతని అడుగులు నెమ్మదిగా పడుతున్నాయి. రోహన్ ఇంటి ముందు నిలబడి, తన గొంతును తగ్గించుకుని, అతని కళ్ళలోకి సూటిగా చూశాడు. \"రోహన్, నేను చెప్పిన మాటలకు చాలా పశ్చాత్తాపపడుతున్నాను. నా ఉద్దేశ్యం అది కాదు, కానీ నీకు కలిగిన బాధకు నన్ను క్షమించు,\" అని కార్తీక్ నిజాయితీగా చెప్పాడు. కార్తీక్ కళ్ళలో — నిజాయితీ కనిపించింది. పక్క పొలం నుండి కొత్త మట్టి వాసనతో కూడిన గాలి వీస్తోంది, ఒక కొత్త ప్రారంభానికి సంకేతంలా. కానీ రోహన్ కార్తీక్ మాటలను అంగీకరిస్తాడా, లేక వారి స్నేహం ఎప్పటికీ దూరం అవుతుందా?",
+      "image_prompt": "The boy stands in front of his friend's house, looking directly into his friend's eyes, speaking in a lowered voice. Sincere regret is visible in the boy's eyes as a breeze carrying the scent of fresh earth blows past. Soft, diffused light of late afternoon, creating a gentle glow around the two boys as they stand by the village well, quiet and intimate.",
+      "scene_visual": "The boy stands in front of his friend's house, looking directly into his friend's eyes, speaking in a lowered voice. Sincere regret is visible in the boy's eyes as a breeze carrying the scent of fresh earth blows past.",
+      "supporting_char_keys": [
+        "rohan"
+      ],
+      "text_te_en": "Ikala Paatham Nundi Kaartik‌Ku Oka Goppa Vishayam Arthamaindi, Tana Maatala Valla Rohan‌Ku Enta Baadha Kaligindo Atanu Telusukunnaadu. Mellagaa Rohan Inti Vaipu Nadichaadu, Atani Adugulu Nemmadigaa Padutunnaayi. Rohan Inti Mundu Nilabadi, Tana Gontunu Tagginchukuni, Atani Kallaloki Sutigaa Chushaadu. \"Rohan, Nenu Cheppina Maatalaku Chaalaa Pashchaattaapapadutunnaanu. Naa Uddeshyam Adi Kaadu, Kaani Niku Kaligina Baadhaku Nannu Kshaminchu,\" Ani Kaartik Nijaayitigaa Cheppaadu. Kaartik Kallalo — Nijaayiti Kanipinchindi. Pakka Polam Nundi Kotta Matti Vaasanato Kudina Gaali Vistondi, Oka Kotta Praarambhaaniki Sanketanlaa. Kaani Rohan Kaartik Maatalanu Angikaristaadaa, Leka Vaari Sneham Eppatiki Duram Avutundaa?",
+      "text_en": "From the lesson of the feathers, Karthik understood a great truth. He realized how much pain his words had caused Rohan. He slowly walked towards Rohan's house, his steps slow and deliberate. Standing in front of Rohan's house, he lowered his voice and looked directly into Rohan's eyes. Karthik said honestly, \"Rohan, I am very sorry for the words I said. I didn't mean to, but please forgive me for the pain I caused you.\" In Karthik's eyes — sincerity was visible. The wind carried the smell of fresh earth from the nearby field, like a sign of a new beginning. But would Rohan accept Karthik's words, or would their friendship be lost forever?"
+    },
+    {
+      "id": 7,
+      "text": "కార్తీక్ కళ్ళలో కనిపించిన నిజాయితీ రోహన్‌కు స్పష్టంగా అర్థమైంది, కార్తీక్ తన తప్పును నిజంగా తెలుసుకున్నాడని రోహన్ గ్రహించాడు. రోహన్ ముఖం మీద ఒక చిన్న, సందేహాస్పదమైన చిరునవ్వు మెరిసింది. \"సరే, కార్తీక్. నువ్వు నేర్చుకున్నావని ఆశిస్తున్నాను,\" అని రోహన్ మెల్లగా చెప్పాడు, అతని మాటల్లో ఒక విధమైన క్షమ కనిపించింది. రోహన్ చేయి మెల్లగా కార్తీక్ భుజం మీద ఆనింది — అది ఒక వెచ్చని, ఓదార్పు స్పర్శ. ఒక స్నేహానికి — మళ్ళీ ప్రాణం వచ్చింది. కార్తీక్ భుజాలపై నుండి ఒక బరువైన రాయి దొర్లినట్లు అనిపించింది, అతని ముఖం మీద ఒక చిన్న ఆశ నిండిన చిరునవ్వు విరిసింది. అప్పటి నుండి కార్తీక్ ప్రతి మాటను చాలా జాగ్రత్తగా ఆలోచించి మాట్లాడటం మొదలుపెట్టాడు, ఎందుకంటే మాటల బలం, వాటి పరిణామాలు అతనికి పూర్తిగా అర్థమయ్యాయి.",
+      "image_prompt": "The friend gently places his hand on the boy's shoulder, offering a warm and comforting touch. A small, hopeful smile spreads across the boy's face as a burden lifts from his shoulders. Gentle dusk light, warm amber hues painting the sky, peaceful and hopeful, signifying a fresh start.",
+      "scene_visual": "The friend gently places his hand on the boy's shoulder, offering a warm and comforting touch. A small, hopeful smile spreads across the boy's face as a burden lifts from his shoulders.",
+      "supporting_char_keys": [
+        "rohan"
+      ],
+      "text_te_en": "Kaartik Kallalo Kanipinchina Nijaayiti Rohan‌Ku Spashtangaa Arthamaindi, Kaartik Tana Tappunu Nijangaa Telusukunnaadani Rohan Grahinchaadu. Rohan Mukham Mida Oka Chinna, Sandehaaspadamaina Chirunavvu Merisindi. \"Sare, Kaartik. Nuvvu Nerchukunnaavani Aashistunnaanu,\" Ani Rohan Mellagaa Cheppaadu, Atani Maatallo Oka Vidhamaina Kshama Kanipinchindi. Rohan Cheyi Mellagaa Kaartik Bhujam Mida Aanindi — Adi Oka Vechchani, Odaarpu Sparsha. Oka Snehaaniki — Malli Praanam Vachchindi. Kaartik Bhujaalapai Nundi Oka Baruvaina Raayi Dorlinatlu Anipinchindi, Atani Mukham Mida Oka Chinna Aasha Nindina Chirunavvu Virisindi. Appati Nundi Kaartik Prati Maatanu Chaalaa Jaagrattagaa Aalochinchi Maatlaadatam Modalupettaadu, Endukante Maatala Balan, Vaati Parinaamaalu Ataniki Purtigaa Arthamayyaayi.",
+      "text_en": "The sincerity in Karthik's eyes was clear to Rohan, and Rohan realized that Karthik truly understood his mistake. A small, hesitant smile appeared on Rohan's face. \"Alright, Karthik. I hope you've learned your lesson,\" Rohan said softly, a hint of forgiveness in his voice. Rohan's hand gently rested on Karthik's shoulder — it was a warm, comforting touch. A friendship — had come back to life. It felt like a heavy stone had rolled off Karthik's shoulders, and a small, hopeful smile bloomed on his face. From that day on, Karthik began to think very carefully before speaking every word, because he fully understood the power of words and their consequences."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "rohan",
+      "description": "Rohan, Karthik's best friend, a slightly quieter 10-year-old boy, with neat hair and a gentle demeanor. He is sensitive and values loyalty deeply. Always the same character across every scene."
+    },
+    {
+      "key": "grandmother",
+      "description": "Karthik's wise grandmother, an elderly woman with silver hair tied in a neat bun, wearing a simple, soft cotton saree. Her eyes hold years of experience and gentle understanding. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 9,
+    "narrative_arc": 8,
+    "child_engagement": 9,
+    "average": 8.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, rich dialogue, and effective emotional portrayal, making it highly engaging for children. The grammar is nearly flawless, contributing to a smooth reading experience. The primary area for improvement lies in refining the narrative voice; while it attempts to capture the warmth of a grandmother, it often feels inconsistent, leaning too heavily on direct addresses and rhetorical questions rather than embodying a natural, oral storytelling style. To elevate this to award-worthy status, focus on making the grandmother's voice consistently warm and organic, allowing the story's powerful moral to unfold purely through the characters' experiences without explicit narration."
+  },
+  "title_te_en": "Maatala Balan, Ikala Paatham",
+  "moral_te_en": "Pillalu, Manam Maatlaade Prati Maataa Enta Viluvainado, Enta Shaktivantamainado Telusukovaali, Endukante Okkasaari Noti Nundi Vellina Maatanu Tirigi Tisukolemu.",
+  "title_en": "The Power of Words, The Lesson of Feathers",
+  "moral_en": "Children, we must understand how precious and powerful every word we speak is, because once a word leaves our mouth, we cannot take it back.",
+  "id": "20260525_101120",
+  "date": "2026-05-25",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "ఒక్కసారి నోటి నుండి వెళ్లిన మాట వెనక్కు రాదు అనే కథ",
+  "thumbnail": "stories/20260525_101120/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
