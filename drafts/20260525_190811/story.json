@@ -1,0 +1,106 @@
+{
+  "title": "విదురుడి వినయం, కృష్ణుడి దర్శనం",
+  "moral": "నిజమైన భక్తికి ఆర్భాటాలు అవసరం లేదు, మనసులోని పవిత్రతే ముఖ్యం.",
+  "main_character": "Vidura: a wise and righteous minister in the court of Hastinapura, known for his unwavering adherence to dharma. He has a calm and thoughtful expression, with a simple, dignified appearance. Always the same character across every scene.",
+  "antagonist": "Duryodhana: the eldest of the Kauravas, a powerful prince with a muscular build and a proud, often sneering expression. He wears elaborate royal garments in rich golds and purples, adorned with heavy jewels, and a large, ornate crown. Always the same character across every scene.",
+  "setting": "Hastinapura, ancient capital of the Kuru kingdom. The setting shifts between the grand, ornate royal palace and a humble, simple dwelling on the outskirts, both under the bright sun of a busy day. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "హస్తినాపురపు సందడికి దూరంగా, విదురుడు తన పూరింట్లో ప్రశాంతంగా కూర్చున్నాడు. అతని ముఖంపై చిరునవ్వు, చేతిలో పురాతన ధర్మ గ్రంథం. చుట్టూ అరటి తోటలోని తాటాకుల గలగలలు, మల్లెపూల సువాసనలు మనసును ఆహ్లాదపరుస్తున్నాయి. ధర్మ మార్గం గురించి లోతుగా ఆలోచిస్తూ, అతను ఇలా అనుకున్నాడు: \"ధర్మం మార్గం ఎల్లప్పుడూ సరళమైనది, కానీ శక్తివంతమైనది.\" అతని మనసు ఎప్పుడూ భగవంతుడిపైనే నిలిచి ఉంటుంది — ఎంతటి నిశ్చల భక్తి! మరి అట్లాంటి విదురుడి జీవితంలోకి రాబోయే గొప్ప మార్పు ఏమిటో తెలుసా?",
+      "image_prompt": "The old man sits peacefully inside his humble hut. A gentle smile graces his face as he holds an ancient scripture in his hand. Soft morning light filtering through a small window into a modest, clean room, illuminating dust motes dancing in the air, creating a serene and introspective mood.",
+      "scene_visual": "The old man sits peacefully inside his humble hut. A gentle smile graces his face as he holds an ancient scripture in his hand.",
+      "supporting_char_keys": [],
+      "text_te_en": "Hastinaapurapu Sandadiki Durangaa, Vidurudu Tana Purintlo Prashaantangaa Kurchunnaadu. Atani Mukhampai Chirunavvu, Chetilo Puraatana Dharma Granthan. Chuttu Arati Totaloni Taataakula Galagalalu, Mallepula Suvaasanalu Manasunu Aahlaadaparustunnaayi. Dharma Maargam Gurinchi Lotugaa Aalochistu, Atanu Ilaa Anukunnaadu: \"Dharmam Maargam Ellappudu Saralamainadi, Kaani Shaktivantamainadi.\" Atani Manasu Eppudu Bhagavantudipaine Nilichi Untundi — Entati Nishchala Bhakti! Mari Atlaanti Vidurudi Jivitanloki Raaboye Goppa Maarpu Emito Telusaa?",
+      "text_en": "Far from the hustle and bustle of Hastinapura, Vidura sat peacefully in his humble hut. A gentle smile was on his face, and an ancient book of dharma was in his hand. Around him, the rustling of palm leaves in the banana grove and the sweet scent of jasmine flowers filled his mind with joy. Deep in thought about the path of righteousness, he mused: \"The path of dharma is always simple, yet powerful.\" His mind was always fixed on God—what unwavering devotion! Do you know what great change was about to enter the life of such a devoted Vidura?"
+    },
+    {
+      "id": 2,
+      "text": "ఇంతలో, హస్తినాపురమంతా కృష్ణుడు రాబోతున్నాడని వార్త వ్యాపించింది. రాజప్రాసాదం నుండి బిగ్గరగా బూరల శబ్దాలు — నగరం అంతటా మారుమోగాయి. దుర్యోధనుడు తన కోటలో కృష్ణుడికి గొప్ప స్వాగతం పలకాలని నిర్ణయించుకున్నాడు. బంగారు సింహాసనాలు, రత్నాల మెరుపులు... ఆహా, ఎంతటి ఆర్భాటం! అతను గర్వంగా తొడగొట్టి, \"కృష్ణుడు నా ఆతిథ్యాన్ని చూసి ఆశ్చర్యపోవాలి!\" అన్నాడు. ఇదంతా వింటున్న విదురుడు ఆలోచనలో పడి, నుదురు చిట్లించాడు. మరి కృష్ణుడు ఈ గొప్ప ఏర్పాట్లను చూసి సంతోషిస్తాడా, లేక ఇంకేదైనా కోరుకుంటాడా?",
+      "image_prompt": "A proud man stands in his palace, boasting about grand preparations. He confidently slaps his thigh, his face alight with arrogance amidst glittering jewels. Also in this scene: Duryodhana: the eldest of the Kauravas, a powerful prince with a muscular build and a proud, often sneering expression. He wears elaborate royal garments in rich golds and purples, adorned with heavy jewels, and a large, ornate crown. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Dhritarashtra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Bright midday sun harshly illuminating the grand palace courtyard, emphasizing the gold and jewels of the royal court, creating an atmosphere of pomp and potential vanity.",
+      "scene_visual": "A proud man stands in his palace, boasting about grand preparations. He confidently slaps his thigh, his face alight with arrogance amidst glittering jewels.",
+      "supporting_char_keys": [
+        "Dhritarashtra"
+      ],
+      "text_te_en": "Intalo, Hastinaapuramantaa Krrishnudu Raabotunnaadani Vaarta Vyaapinchindi. Raajapraasaadam Nundi Biggaragaa Burala Shabdaalu — Nagaram Antataa Maarumogaayi. Duryodhanudu Tana Kotalo Krrishnudiki Goppa Svaagatam Palakaalani Nirnayinchukunnaadu. Bangaaru Sinhaasanaalu, Ratnaala Merupulu... Aahaa, Entati Aarbhaatan! Atanu Garvangaa Todagotti, \"Krrishnudu Naa Aatithyaanni Chusi Aashcharyapovaali!\" Annaadu. Idantaa Vintunna Vidurudu Aalochanalo Padi, Nuduru Chitlinchaadu. Mari Krrishnudu I Goppa Erpaatlanu Chusi Santoshistaadaa, Leka Inkedainaa Korukuntaadaa?",
+      "text_en": "Meanwhile, news spread throughout Hastinapura that Krishna was coming. Loud trumpet sounds from the royal palace echoed across the city. Duryodhana decided to give Krishna a grand welcome in his palace. Golden thrones, glittering jewels... Oh, what a grand display! He proudly slapped his thigh and declared, \"Krishna must be amazed by my hospitality!\" Hearing all this, Vidura fell into thought, his brow furrowed. Would Krishna be pleased by these grand arrangements, or would he wish for something else?"
+    },
+    {
+      "id": 3,
+      "text": "కృష్ణుడు హస్తినాపురం చేరుకున్నాడు — నగరం గుండెలు అదురుతున్నాయి. ప్రజల గుసగుసలు పెద్దగా మారి, ఆయన రథం రాజప్రాసాదం వైపు కాకుండా... నగరం వెలుపలికి వెళ్తున్నప్పుడు ఆశ్చర్యంతో నిండిన కేకలు వినపడ్డాయి. దుర్యోధనుడి ముఖం కోపంతో ఎర్రబడింది, తల పక్కకు తిప్పాడు. కృష్ణుడు తన రథసారథితో మెల్లగా, \"నాకు నిజమైన ప్రేమ ఉన్న చోటు కావాలి,\" అన్నాడు. విదురుడి గుండెలో ఆశ రెపరెపలాడింది — ఆయన ఎక్కడికి వెళ్తున్నాడు?",
+      "image_prompt": "A proud man stands fuming as the divine guest's chariot turns away from the royal palace. His face is visibly red with anger as he sharply turns his head away. Also in this scene: Duryodhana: the eldest of the Kauravas, a powerful prince with a muscular build and a proud, often sneering expression. He wears elaborate royal garments in rich golds and purples, adorned with heavy jewels, and a large, ornate crown. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Golden afternoon light casting long shadows as Krishna's chariot moves through the city streets, the palace's grandeur now in the background, drawing attention to Krishna's unexpected path.",
+      "scene_visual": "A proud man stands fuming as the divine guest's chariot turns away from the royal palace. His face is visibly red with anger as he sharply turns his head away.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Krrishnudu Hastinaapuram Cherukunnaadu — Nagaram Gundelu Adurutunnaayi. Prajala Gusagusalu Peddagaa Maari, Aayana Ratham Raajapraasaadam Vaipu Kaakundaa... Nagaram Velupaliki Veltunnappudu Aashcharyanto Nindina Kekalu Vinapaddaayi. Duryodhanudi Mukham Kopanto Errabadindi, Tala Pakkaku Tippaadu. Krrishnudu Tana Rathasaarathito Mellagaa, \"Naaku Nijamaina Prema Unna Chotu Kaavaali,\" Annaadu. Vidurudi Gundelo Aasha Reparepalaadindi — Aayana Ekkadiki Veltunnaadu?",
+      "text_en": "Krishna arrived in Hastinapura—the city's heart throbbed. People's whispers grew louder, and cries of surprise were heard as his chariot, instead of going towards the royal palace, headed out of the city. Duryodhana's face turned red with anger, and he turned his head away. Krishna gently told his charioteer, \"I want a place where there is true love.\" Hope fluttered in Vidura's heart—where was he going?"
+    },
+    {
+      "id": 4,
+      "text": "అందరినీ ఆశ్చర్యపరుస్తూ, కృష్ణుడి రథం విదురుడి చిన్న ఇంటి ముందు ఆగింది — అది ఎంతటి అద్భుతం! ఆనందంతో ఉక్కిరిబిక్కిరైన విదురుడు, కృష్ణుడిని లోపలికి ఆహ్వానించాడు. చిన్న వంటగదిలో పండిన అరటిపళ్ళ తీయటి సువాసన, ఆ క్షణంలో అతని చేతులు వణికాయి. భగవంతుడిని చూసి మైమరిచిపోయి, పళ్ళకు బదులు అరటి తొక్కలను ఆయనకు అందించాడు. \"స్వామీ! నా ఇల్లు పావనమైంది!\" అని ఆనంద బాష్పాలతో పలికాడు. మరి ఈ పొరపాటున ఇచ్చిన కానుకను కృష్ణుడు స్వీకరిస్తాడా, లేక విదురుడి మనసు బాధపడుతుందా?",
+      "image_prompt": "An old man, trembling with emotion, offers banana peels to his divine guest. His eyes are wide with overwhelmed joy, completely oblivious to his mistake. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Warm, intimate glow of the kitchen, light reflecting off simple clay pots, highlighting the genuine emotion on Vidura's face and the compassionate gaze of Krishna.",
+      "scene_visual": "An old man, trembling with emotion, offers banana peels to his divine guest. His eyes are wide with overwhelmed joy, completely oblivious to his mistake.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Andarini Aashcharyaparustu, Krrishnudi Ratham Vidurudi Chinna Inti Mundu Aagindi — Adi Entati Adbhutan! Aanandanto Ukkiribikkiraina Vidurudu, Krrishnudini Lopaliki Aahvaaninchaadu. Chinna Vantagadilo Pandina Aratipalla Tiyati Suvaasana, Aa Kshananlo Atani Chetulu Vanikaayi. Bhagavantudini Chusi Maimarichipoyi, Pallaku Badulu Arati Tokkalanu Aayanaku Andinchaadu. \"Svaami! Naa Illu Paavanamaindi!\" Ani Aananda Baashpaalato Palikaadu. Mari I Porapaatuna Ichchina Kaanukanu Krrishnudu Svikaristaadaa, Leka Vidurudi Manasu Baadhapadutundaa?",
+      "text_en": "To everyone's surprise, Krishna's chariot stopped in front of Vidura's small house—what a wonder! Overwhelmed with joy, Vidura invited Krishna inside. The sweet scent of ripe bananas from his small kitchen filled the air, and at that moment, his hands trembled. Lost in devotion upon seeing God, he offered Krishna banana peels instead of the fruit. With tears of joy, he exclaimed, \"My Lord! My home is blessed!\" Would Krishna accept this mistakenly offered gift, or would Vidura's heart be saddened?"
+    },
+    {
+      "id": 5,
+      "text": "పిల్లలూ, ఊహించండి... కృష్ణుడు ఆ అరటి తొక్కలను ప్రేమగా స్వీకరించాడు! ఆయన ముఖంపై దివ్యమైన చిరునవ్వు, ప్రతి తొక్కను ఆనందంగా నమిలాడు — ఆ శబ్దం గది నిండా నిశ్శబ్దంగా వ్యాపించింది. విదురుడి కళ్ళ నుండి ఆనంద బాష్పాలు ధారగా కారాయి, నోట మాట రాలేదు. \"ఇది నేను ఎప్పటికీ రుచి చూడని అత్యంత మధురమైన భోజనం,\" అని కృష్ణుడు కరుణగా పలికాడు. ఆ క్షణంలో — విదురుడి ఇల్లు దివ్య తేజస్సుతో నిండిపోయింది. మరి ఈ అద్భుతమైన సంఘటన హస్తినాపురంలో భక్తికి కొత్త అర్థాన్ని ఎలా చెబుతుంది?",
+      "image_prompt": "The divine guest lovingly chews on a banana peel offered to him. A divine smile graces his face as the quiet sound of chewing fills the small room. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. A soft, radiant golden light emanating subtly from Krishna, bathing the humble room in a divine glow, making Vidura's tear-streaked face appear luminous with joy.",
+      "scene_visual": "The divine guest lovingly chews on a banana peel offered to him. A divine smile graces his face as the quiet sound of chewing fills the small room.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Pillalu, Uhinchandi... Krrishnudu Aa Arati Tokkalanu Premagaa Svikarinchaadu! Aayana Mukhampai Divyamaina Chirunavvu, Prati Tokkanu Aanandangaa Namilaadu — Aa Shabdam Gadi Nindaa Nishshabdangaa Vyaapinchindi. Vidurudi Kalla Nundi Aananda Baashpaalu Dhaaragaa Kaaraayi, Nota Maata Raaledu. \"Idi Nenu Eppatiki Ruchi Chudani Atyanta Madhuramaina Bhojanan,\" Ani Krrishnudu Karunagaa Palikaadu. Aa Kshananlo — Vidurudi Illu Divya Tejassuto Nindipoyindi. Mari I Adbhutamaina Sanghatana Hastinaapuranlo Bhaktiki Kotta Arthaanni Elaa Chebutundi?",
+      "text_en": "Children, imagine... Krishna lovingly accepted those banana peels! A divine smile was on his face, and he happily chewed each peel—the sound quietly filled the room. Tears of joy streamed from Vidura's eyes, and he was speechless. \"This is the sweetest meal I have ever tasted,\" Krishna said kindly. In that moment—Vidura's house was filled with a divine glow. How would this wonderful event give a new meaning to devotion in Hastinapura?"
+    },
+    {
+      "id": 6,
+      "text": "ఈ అద్భుతమైన వార్త హస్తినాపురమంతా దావానలంలా వ్యాపించింది. రాజప్రాసాదంలో దుర్యోధనుడు తల దించుకున్నాడు, అతని గర్వం మంచులా కరిగిపోయింది. హస్తినాపుర ప్రజలు సూర్యాస్తమయపు మృదువైన వెలుగులో — తమ మనసుల్లో కొత్త అవగాహనతో నిండిపోయారు. నిజమైన భక్తికి ఆడంబరాలు అక్కర్లేదని, ప్రేమతో కూడిన చిన్న కానుక కూడా భగవంతుడికి ఎంతో ఇష్టమని అందరూ గ్రహించారు. విదురుడి మనసు శాంతితో, ఆనందంతో నిండిపోయింది.",
+      "image_prompt": "The proud man stands in his royal palace, his head bowed low in defeat. His face, once arrogant, now reflects a profound sense of humility. Gentle dusk light, warm amber and violet hues in the sky, creating a peaceful and reflective atmosphere over the entire city, with Vidura standing calmly at his doorway.",
+      "scene_visual": "The proud man stands in his royal palace, his head bowed low in defeat. His face, once arrogant, now reflects a profound sense of humility.",
+      "supporting_char_keys": [],
+      "text_te_en": "I Adbhutamaina Vaarta Hastinaapuramantaa Daavaanalanlaa Vyaapinchindi. Raajapraasaadanlo Duryodhanudu Tala Dinchukunnaadu, Atani Garvam Manchulaa Karigipoyindi. Hastinaapura Prajalu Suryaastamayapu Mrriduvaina Velugulo — Tama Manasullo Kotta Avagaahanato Nindipoyaaru. Nijamaina Bhaktiki Aadambaraalu Akkarledani, Premato Kudina Chinna Kaanuka Kudaa Bhagavantudiki Ento Ishtamani Andaru Grahinchaaru. Vidurudi Manasu Shaantito, Aanandanto Nindipoyindi.",
+      "text_en": "This amazing news spread like wildfire throughout Hastinapura. In the royal palace, Duryodhana bowed his head, his pride melted like snow. The people of Hastinapura, in the soft light of the sunset—were filled with a new understanding in their hearts. Everyone realized that true devotion doesn't need grand displays, and even a small gift given with love is very dear to God. Vidura's heart was filled with peace and joy."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Krishna",
+      "description": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene."
+    },
+    {
+      "key": "Dhritarashtra",
+      "description": "Dhritarashtra: The blind king of Hastinapura, an elderly man with a dignified but often troubled expression. He wears traditional royal robes in shades of cream and gold, with minimal ornamentation, relying on a staff to guide him. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.0,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is a strong contender for publication, demonstrating exceptional child engagement and a compelling narrative arc. The oral warmth and emotional depth are consistently high, making it feel like a genuine grandmother's tale. To reach a perfect score, the primary focus should be on enhancing dialogue richness by ensuring at least one line of direct speech in every scene, even if it's a brief observation or greeting. This would further immerse the child in the unfolding events."
+  },
+  "title_te_en": "Vidurudi Vinayan, Krrishnudi Darshanam",
+  "moral_te_en": "Nijamaina Bhaktiki Aarbhaataalu Avasaram Ledu, Manasuloni Pavitrate Mukhyan.",
+  "title_en": "Vidura's Humility and Krishna's Visit",
+  "moral_en": "True devotion doesn't need grand displays; the purity of the heart is what truly matters.",
+  "id": "20260525_190811",
+  "date": "2026-05-25",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "విదుర మహాత్ముని జ్ఞాన కథ",
+  "thumbnail": "stories/20260525_190811/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
