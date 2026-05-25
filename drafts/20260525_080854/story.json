@@ -1,0 +1,97 @@
+{
+  "title": "మనసులో నిలిచిన విద్య",
+  "moral": "చదివిన విద్య ఎప్పటికీ నీతోనే ఉంటుంది, ఏ ఆపదలోనైనా అది నీకు తోడుగా నిలుస్తుంది.",
+  "main_character": "Raju is a lean, energetic boy of 10 with bright, inquisitive eyes and a mischievous grin. He often carries a small, worn satchel filled with books, though he prefers playing to studying deeply. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A bustling village named 'పల్లెటూరు' (Palleturu) in rural Andhra Pradesh. Sunlight filters through the dense canopy of mango trees, illuminating the dusty paths and the vibrant colors of saris drying on clotheslines. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లెటూరులో సూర్యరశ్మి మామిడి చెట్ల గుండా కింద పడుతుంటే, రాజు తన స్నేహితులతో ఉత్సాహంగా గోలీలు ఆడుకుంటున్నాడు. అతను ఒక గోలీ గెలిచినప్పుడు పెద్దగా నవ్వుతూ, ఆనందంగా గంతులు వేశాడు. చుట్టూ పండిన మామిడి పండ్ల తీయని వాసన గాలిలో తేలియాడుతోంది — కొన్ని చెట్ల నుండి రాలి, నేల మీద పడుతున్నాయి. \"రేయ్ రాజు, హోంవర్క్ చేశావా?\" అని స్నేహితుడు గణేష్ అడిగాడు. కానీ రాజు — వినలేదు. అప్పుడు రాజు తన చేతిలో ఉన్న గోలీలను చూసుకుంటూ, మరోసారి గట్టిగా నవ్వాడు. రాజు ఇలా ఎప్పుడూ ఆటలకే పరిమితమైపోతాడా?",
+      "image_prompt": "The boy enthusiastically jumps up and laughs loudly after winning a marble game. Sunlight filters through mango trees, casting dappled light on the ground where ripe mangoes lie. Bright afternoon sun, dappled light under mango trees, warm and inviting.",
+      "scene_visual": "The boy enthusiastically jumps up and laughs loudly after winning a marble game. Sunlight filters through mango trees, casting dappled light on the ground where ripe mangoes lie.",
+      "supporting_char_keys": [],
+      "text_te_en": "Palleturulo Suryarashmi Maamidi Chetla Gundaa Kinda Padutunte, Raaju Tana Snehitulato Utsaahangaa Golilu Aadukuntunnaadu. Atanu Oka Goli Gelichinappudu Peddagaa Navvutu, Aanandangaa Gantulu Veshaadu. Chuttu Pandina Maamidi Pandla Tiyani Vaasana Gaalilo Teliyaadutondi — Konni Chetla Nundi Raali, Nela Mida Padutunnaayi. \"Rey Raaju, Honvark Cheshaavaa?\" Ani Snehitudu Ganesh Adigaadu. Kaani Raaju — Vinaledu. Appudu Raaju Tana Chetilo Unna Golilanu Chusukuntu, Marosaari Gattigaa Navvaadu. Raaju Ilaa Eppudu Aatalake Parimitamaipotaadaa?",
+      "text_en": "In the village, as sunlight streamed through the mango trees, Raju was excitedly playing marbles with his friends. He laughed loudly and jumped with joy when he won a marble. The sweet smell of ripe mangoes floated in the air all around – some falling from the trees onto the ground. \"Hey Raju, did you do your homework?\" his friend Ganesh asked. But Raju – didn't listen. Then Raju looked at the marbles in his hand and laughed loudly again. Will Raju always just play games like this?"
+    },
+    {
+      "id": 2,
+      "text": "ఆటల నుండి వెంటనే బడికి వచ్చిన రాజు, తన చేతులు వెనక్కి కట్టుకుని నిలబడ్డాడు — టీచర్ ఏదో ముఖ్యమైనది చెప్పబోతోందని తెలుసు. అప్పుడు టీచర్ ఒక కఠినమైన పరీక్ష గురించి ప్రకటించారు — రేపే ఆ పరీక్ష, అన్ని సబ్జెక్టులపైనా. టీచర్ నల్లబల్లపై పరీక్ష తేదీని పెద్ద అక్షరాలతో రాస్తుంటే, సుద్ద గీతలు చెవుల్లో గీసుకున్నాయి. \"ఈ పరీక్షలో మీ సొంత జ్ఞానమే మీకు సహాయపడుతుంది, పుస్తకాలు కాదు,\" అని ఆమె గట్టిగా చెప్పారు. ఆ క్షణంలో — రాజు మొహంలో చిన్నగా చిట్లించుకున్నాడు. నోట్స్ లేకుండా రాజు ఈ పరీక్షను ఎలా ఎదుర్కొంటాడు?",
+      "image_prompt": "The boy stands with his hands clasped behind his back, his face subtly contorting upon hearing about the difficult exam. The teacher writes the exam date in large letters on the blackboard with a piece of chalk. Classroom interior, bright but slightly harsh morning light through windows, a sense of impending challenge.",
+      "scene_visual": "The boy stands with his hands clasped behind his back, his face subtly contorting upon hearing about the difficult exam. The teacher writes the exam date in large letters on the blackboard with a piece of chalk.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aatala Nundi Ventane Badiki Vachchina Raaju, Tana Chetulu Venakki Kattukuni Nilabaddaadu — Tichar Edo Mukhyamainadi Cheppabotondani Telusu. Appudu Tichar Oka Kathinamaina Pariksha Gurinchi Prakatinchaaru — Repe Aa Pariksha, Anni Sabjektulapainaa. Tichar Nallaballapai Pariksha Tedini Pedda Aksharaalato Raastunte, Sudda Gitalu Chevullo Gisukunnaayi. \"I Parikshalo Mi Sonta Jnyaaname Miku Sahaayapadutundi, Pustakaalu Kaadu,\" Ani Aame Gattigaa Cheppaaru. Aa Kshananlo — Raaju Mohanlo Chinnagaa Chitlinchukunnaadu. Nots Lekundaa Raaju I Parikshanu Elaa Edurkontaadu?",
+      "text_en": "Raju came straight to school from playing, standing with his hands behind his back – he knew the teacher was about to say something important. Then the teacher announced a difficult test – it was tomorrow, covering all subjects. As the teacher wrote the test date in big letters on the blackboard, the chalk squeaked loudly in their ears. \"Your own knowledge will help you in this test, not books,\" she said firmly. At that moment – Raju's face scrunched up a little. How would Raju face this test without notes?"
+    },
+    {
+      "id": 3,
+      "text": "పరీక్ష గురించి విన్న రాజు రాత్రంతా చదువుతూ, తల పట్టుకుని కూర్చున్నాడు — ఎంత చదివినా ఏమీ గుర్తుండడం లేదు. \"అయ్యో, ఇంత తక్కువ సమయంలో నేను ఎలా గుర్తుంచుకోగలను?\" అని నిట్టూర్చాడు. అప్పుడు, ఎవరూ చూడకుండా చుట్టూ కలయచూసి, చిన్న కాగితం ముక్కల మీద ముఖ్యమైన పాయింట్లు రాయడం మొదలుపెట్టాడు. ఆ కాగితం ముక్కలను తన దిండు కింద దాచిపెడుతుంటే, చిన్న శబ్దం వినిపించింది. అది మోసం — రాజుకు తెలుసు. రాజు నిజంగా మోసం చేస్తాడా, లేక వేరే మార్గం వెతుకుతాడా?",
+      "image_prompt": "The boy sits holding his head, then furtively looks around before writing important points on small pieces of paper. He quickly tucks the tiny papers under his pillow, their small size making them easy to conceal. Dim lamplight in Raju's small room, casting long shadows, creating a feeling of secrecy and pressure.",
+      "scene_visual": "The boy sits holding his head, then furtively looks around before writing important points on small pieces of paper. He quickly tucks the tiny papers under his pillow, their small size making them easy to conceal.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pariksha Gurinchi Vinna Raaju Raatrantaa Chaduvutu, Tala Pattukuni Kurchunnaadu — Enta Chadivinaa Emi Gurtundadam Ledu. \"Ayyo, Inta Takkuva Samayanlo Nenu Elaa Gurtunchukogalanu?\" Ani Nitturchaadu. Appudu, Evaru Chudakundaa Chuttu Kalayachusi, Chinna Kaagitam Mukkala Mida Mukhyamaina Paayintlu Raayadam Modalupettaadu. Aa Kaagitam Mukkalanu Tana Dindu Kinda Daachipedutunte, Chinna Shabdam Vinipinchindi. Adi Mosam — Raajuku Telusu. Raaju Nijangaa Mosam Chestaadaa, Leka Vere Maargam Vetukutaadaa?",
+      "text_en": "After hearing about the test, Raju sat up all night studying, holding his head – no matter how much he read, he couldn't remember anything. \"Oh no, how can I remember all this in such a short time?\" he sighed. Then, looking around to make sure no one was watching, he started writing important points on small pieces of paper. As he hid those pieces of paper under his pillow, he heard a small sound. It was cheating – Raju knew it. Would Raju really cheat, or would he find another way?"
+    },
+    {
+      "id": 4,
+      "text": "రాజు దిండు కింద నుండి చిన్న కాగితం ముక్కలు తీయబోతుండగా, వెనక నుండి అమ్మ చేయి అతని భుజంపై పడింది — ఆ స్పర్శ వెచ్చగా, ఓదార్పుగా ఉంది. రాజు తల దించుకున్నాడు, అతని గుండె వేగంగా కొట్టుకుంది. అమ్మ కాగితం ముక్కలను చూసింది, కానీ — కోప్పడలేదు. \"చదివిన విద్య ఎప్పటికీ నీతోనే ఉంటుంది, రాజు,\" అని ఆమె మెల్లగా చెప్పింది. రాజు తన చేతిలోని కాగితాలను చూశాడు, వాటిని వాడాలా వద్దా అని ఆలోచిస్తూ ఉండిపోయాడు. ఇప్పుడు అమ్మకు తెలిసింది, రాజు ఏం చేస్తాడు?",
+      "image_prompt": "As the boy reaches for the small papers under his pillow, a woman's warm hand gently rests on his shoulder from behind. He lowers his head, his eyes fixed on the tiny papers in his hand, contemplating his next move. Early morning light filtering through the kitchen doorway, soft and warm, a quiet moment of reflection.",
+      "scene_visual": "As the boy reaches for the small papers under his pillow, a woman's warm hand gently rests on his shoulder from behind. He lowers his head, his eyes fixed on the tiny papers in his hand, contemplating his next move.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Dindu Kinda Nundi Chinna Kaagitam Mukkalu Tiyabotundagaa, Venaka Nundi Amma Cheyi Atani Bhujampai Padindi — Aa Sparsha Vechchagaa, Odaarpugaa Undi. Raaju Tala Dinchukunnaadu, Atani Gunde Vegangaa Kottukundi. Amma Kaagitam Mukkalanu Chusindi, Kaani — Koppadaledu. \"Chadivina Vidya Eppatiki Nitone Untundi, Raaju,\" Ani Aame Mellagaa Cheppindi. Raaju Tana Chetiloni Kaagitaalanu Chushaadu, Vaatini Vaadaalaa Vaddaa Ani Aalochistu Undipoyaadu. Ippudu Ammaku Telisindi, Raaju Em Chestaadu?",
+      "text_en": "As Raju was about to take the small pieces of paper from under his pillow, his mother's hand rested on his shoulder from behind – her touch was warm and comforting. Raju lowered his head, his heart beating fast. Mom saw the pieces of paper, but – she didn't get angry. \"The knowledge you learn will always stay with you, Raju,\" she said softly. Raju looked at the papers in his hand, wondering whether to use them or not. Now that Mom knew, what would Raju do?"
+    },
+    {
+      "id": 5,
+      "text": "పరీక్ష హాలులో రాజు ఒక కఠినమైన ప్రశ్నకు సమాధానం రాయలేక, తన జేబులో ఉన్న కాగితం ముక్కల వైపు చూశాడు. ఇతర విద్యార్థుల కలాల గీతలు కర్కశంగా వినిపిస్తున్నాయి — ఒత్తిడి పెరిగిపోతోంది. అతని నుదిటిపై చెమట బిందువు నిలిచింది. అతను జేబులోకి చేయి పోనిచ్చాడు, కానీ — ఒక్కసారిగా ఆగిపోయాడు. \"అమ్మా మాటలు... నిజంగా నాకేం గుర్తులేదా?\" అని తనలో తాను గొణుక్కున్నాడు. రాజు ఆ ప్రలోభానికి లొంగిపోతాడా, లేక తన జ్ఞాపకశక్తిని నమ్ముతాడా?",
+      "image_prompt": "Unable to answer a difficult question, the boy glances towards the small papers in his pocket and slowly reaches his hand inside. A bead of sweat glistens on his forehead as he suddenly pauses, his hand frozen in his pocket. Bright classroom, harsh midday sun streaming through windows, creating sharp contrasts, highlighting Raju's internal struggle.",
+      "scene_visual": "Unable to answer a difficult question, the boy glances towards the small papers in his pocket and slowly reaches his hand inside. A bead of sweat glistens on his forehead as he suddenly pauses, his hand frozen in his pocket.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pariksha Haalulo Raaju Oka Kathinamaina Prashnaku Samaadhaanam Raayaleka, Tana Jebulo Unna Kaagitam Mukkala Vaipu Chushaadu. Itara Vidyaarthula Kalaala Gitalu Karkashangaa Vinipistunnaayi — Ottidi Perigipotondi. Atani Nuditipai Chemata Binduvu Nilichindi. Atanu Jebuloki Cheyi Ponichchaadu, Kaani — Okkasaarigaa Aagipoyaadu. \"Ammaa Maatalu... Nijangaa Naakem Gurtuledaa?\" Ani Tanalo Taanu Gonukkunnaadu. Raaju Aa Pralobhaaniki Longipotaadaa, Leka Tana Jnyaapakashaktini Nammutaadaa?",
+      "text_en": "In the exam hall, Raju couldn't write the answer to a difficult question and looked towards the pieces of paper in his pocket. The scratching of other students' pens sounded harsh – the pressure was building. A drop of sweat stood on his forehead. He reached into his pocket, but – suddenly stopped. \"Mom's words... do I really not remember anything?\" he mumbled to himself. Would Raju give in to the temptation, or would he trust his memory?"
+    },
+    {
+      "id": 6,
+      "text": "ఆ క్షణంలో రాజు కళ్ళు మూసుకుని, ఒక నిట్టూర్పు విడిచాడు — తన మనసును ప్రశాంతంగా ఉంచుకోవాలని ప్రయత్నించాడు. అతని నుదురు ముడిపడింది, ఏకాగ్రతతో ఆలోచిస్తున్నాడు. మర్చిపోయిన పాఠాలు మెల్లగా వెలుగులోకి వస్తున్నట్లు అనిపించింది — చీకటి గదిలో దీపం వెలిగినట్లు. అప్పుడు అతని కళ్ళు ఒక్కసారిగా పెద్దవి అయ్యాయి. \"అవును! ఇప్పుడు నాకు గుర్తుంది!\" అని రాజు ఉత్సాహంగా అనుకున్నాడు. పిల్లలూ, ఈ జ్ఞానం రాజుకు పరీక్ష పాస్ అవ్వడానికి సరిపోతుందా?",
+      "image_prompt": "The boy closes his eyes, takes a deep breath, and furrows his brow in intense concentration. His eyes suddenly widen with realization, as if a light has switched on in a dark room. The light seems to brighten around Raju's desk, a metaphorical spotlight on his moment of understanding, a sense of breakthrough.",
+      "scene_visual": "The boy closes his eyes, takes a deep breath, and furrows his brow in intense concentration. His eyes suddenly widen with realization, as if a light has switched on in a dark room.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kshananlo Raaju Kallu Musukuni, Oka Nitturpu Vidichaadu — Tana Manasunu Prashaantangaa Unchukovaalani Prayatninchaadu. Atani Nuduru Mudipadindi, Ekaagratato Aalochistunnaadu. Marchipoyina Paathaalu Mellagaa Veluguloki Vastunnatlu Anipinchindi — Chikati Gadilo Dipam Veliginatlu. Appudu Atani Kallu Okkasaarigaa Peddavi Ayyaayi. \"Avunu! Ippudu Naaku Gurtundi!\" Ani Raaju Utsaahangaa Anukunnaadu. Pillalu, I Jnyaanam Raajuku Pariksha Paas Avvadaaniki Saripotundaa?",
+      "text_en": "At that moment, Raju closed his eyes and let out a sigh – he tried to keep his mind calm. His forehead was furrowed, thinking with concentration. Forgotten lessons slowly seemed to come to light – like a lamp lighting up in a dark room. Then his eyes suddenly widened. \"Yes! Now I remember!\" Raju thought excitedly. Children, will this knowledge be enough for Raju to pass the test?"
+    },
+    {
+      "id": 7,
+      "text": "కొన్ని రోజుల తర్వాత, టీచర్ పరీక్ష ఫలితాలను ప్రకటించడానికి వచ్చారు — ఆమె గొంతు స్పష్టంగా వినిపించింది. రాజు పేరు పిలవగానే, అతను ఉత్సాహంగా లేచి నిలబడ్డాడు. టీచర్ పేపర్లను వెనక్కి ఇస్తుంటే, వాటి శబ్దం వినిపించింది. రాజు తన మార్కులు చూశాడు. అతని ముఖంపై — చిరునవ్వు విరిసింది. \"చదివిన విద్య ఎప్పటికీ చేతిలో ఉంటుంది,\" అని రాజు తనలో తాను అనుకున్నాడు, తన మనసు తేలికపడింది.",
+      "image_prompt": "The boy enthusiastically stands up when his name is called, then looks at his returned exam paper. A wide smile spreads across his face as he sees his marks, his expression filled with relief and joy. Gentle dusk light, warm amber, peaceful resolution as the school day ends, reflecting Raju's newfound peace and understanding.",
+      "scene_visual": "The boy enthusiastically stands up when his name is called, then looks at his returned exam paper. A wide smile spreads across his face as he sees his marks, his expression filled with relief and joy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojula Tarvaata, Tichar Pariksha Phalitaalanu Prakatinchadaaniki Vachchaaru — Aame Gontu Spashtangaa Vinipinchindi. Raaju Peru Pilavagaane, Atanu Utsaahangaa Lechi Nilabaddaadu. Tichar Peparlanu Venakki Istunte, Vaati Shabdam Vinipinchindi. Raaju Tana Maarkulu Chushaadu. Atani Mukhampai — Chirunavvu Virisindi. \"Chadivina Vidya Eppatiki Chetilo Untundi,\" Ani Raaju Tanalo Taanu Anukunnaadu, Tana Manasu Telikapadindi.",
+      "text_en": "A few days later, the teacher came to announce the test results – her voice was clear. When Raju's name was called, he excitedly stood up. As the teacher handed back the papers, their rustling sound was heard. Raju looked at his marks. A smile spread across his face. \"The knowledge you learn will always be with you,\" Raju thought to himself, his mind feeling light."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc, excellent emotional depth through showing, and highly effective child engagement with suspense hooks. The Telugu grammar is flawless and natural. To reach award-worthy status, the primary focus should be on enriching the dialogue. Integrating more natural, flowing conversations between characters would not only enhance character distinctiveness but also significantly boost the oral warmth and authenticity of the storytelling."
+  },
+  "title_te_en": "Manasulo Nilichina Vidya",
+  "moral_te_en": "Chadivina Vidya Eppatiki Nitone Untundi, E Aapadalonainaa Adi Niku Todugaa Nilustundi.",
+  "title_en": "The Knowledge That Stays in the Mind",
+  "moral_en": "The knowledge you learn will always stay with you, and it will support you in any difficulty.",
+  "id": "20260525_080854",
+  "date": "2026-05-25",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "చదివిన విద్య చేతిలో ఉంటుంది అనే కథ",
+  "thumbnail": "stories/20260525_080854/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
