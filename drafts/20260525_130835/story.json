@@ -1,0 +1,97 @@
+{
+  "title": "దొంగ నీళ్ళు పోసిన తెనాలి తోట",
+  "moral": "నువ్వు చిన్నవాడివిగా అనిపించినా, ప్రమాదంలో ఉన్నా, నీ తెలివి నిన్ను బలవంతుడిని చేస్తుంది.",
+  "main_character": "A lean, sharp-eyed court poet and jester known for his quick wit and intelligence. He often uses humor and cleverness to solve problems and outsmart others. Always the same character across every scene.",
+  "antagonist": "A tall, shadowy figure with a tattered dark cloth covering most of his face, leaving only glinting eyes visible. He wears dark, worn clothes that allow him to blend into the night. Always the same character across every scene.",
+  "setting": "A small, traditional South Indian house with a walled garden, fragrant with jasmine and neem trees, under the clear night sky of Vijayanagara. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగరంలో తెనాలి రామకృష్ణుడు తన చిన్న ఇంటి పెరట్లో, మల్లెల తీయని సువాసనల మధ్య సేదతీరుతున్నాడు. చల్లని గాలి ముఖానికి తాకుతుంటే, ఆయన పెదవులపై ఒక చిరునవ్వు మెరిసింది — ఏదో కొత్త పద్యం మనసులో మెదులుతోంది. ఆయన మెల్లగా గుణుకుంటూ, ఆ రాత్రి సౌందర్యాన్ని ఆస్వాదించాడు. \"ఆహా! ఈ రాత్రి ఎంత ప్రశాంతంగా ఉంది!\" అని తనలో తాను అనుకున్నాడు. ఆ నిశ్శబ్దంలో, ఆయన కళ్ళు ఆకాశంలోని నక్షత్రాలను చూస్తూ ఏదో ఆలోచిస్తున్నాయి. ఇంత ప్రశాంతమైన రాత్రిలో తెనాలి ఎలాంటి పద్యం అల్లుతున్నాడో కదా?",
+      "image_prompt": "The man sits relaxed in his small backyard, humming softly to himself. A gentle smile plays on his lips as his eyes gaze up at the starry night sky. Soft, ethereal moonlight casting long, silvery shadows across the garden, emphasizing tranquility.\"\n     immunotherapy and chemotherapy for lung cancer, and there are many different possible combinations of medications that can be used. It is important to work with a doctor to determine the best treatment plan for each individual patient.",
+      "scene_visual": "The man sits relaxed in his small backyard, humming softly to himself. A gentle smile plays on his lips as his eyes gaze up at the starry night sky.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vijayanagaranlo Tenaali Raamakrrishnudu Tana Chinna Inti Peratlo, Mallela Tiyani Suvaasanala Madhya Sedatirutunnaadu. Challani Gaali Mukhaaniki Taakutunte, Aayana Pedavulapai Oka Chirunavvu Merisindi — Edo Kotta Padyam Manasulo Medulutondi. Aayana Mellagaa Gunukuntu, Aa Raatri Saundaryaanni Aasvaadinchaadu. \"Aahaa! I Raatri Enta Prashaantangaa Undi!\" Ani Tanalo Taanu Anukunnaadu. Aa Nishshabdanlo, Aayana Kallu Aakaashanloni Nakshatraalanu Chustu Edo Aalochistunnaayi. Inta Prashaantamaina Raatrilo Tenaali Elaanti Padyam Allutunnaado Kadaa?",
+      "text_en": "In Vijayanagara, Tenali Ramakrishna was relaxing in his small backyard, surrounded by the sweet smell of jasmine flowers. As a cool breeze touched his face, a little smile appeared on his lips — a new poem was forming in his mind. He hummed softly, enjoying the beauty of the night. \"Ah! How peaceful this night is!\" he thought to himself. In the quiet, his eyes looked up at the stars, deep in thought. What kind of poem was Tenali creating on such a calm night?"
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి పద్యాల గురించి ఆలోచిస్తున్నంతలో — హఠాత్తుగా మట్టి గోడ అవతల నుండి గుసగుసలు వినిపించాయి. పొడి ఆకుల సన్నని శబ్దం, ఎవరో అదృశ్యంగా కదులుతున్నట్లు స్పష్టంగా వినిపించింది. ఆయన కళ్ళు సన్నబడ్డాయి, శ్వాస బిగబట్టి నిశితంగా వినసాగాడు. \"ఈ ఇంట బోలెడు సంపద ఉంది, నేస్తమా!\" అని ఒక గంభీరమైన గొంతు మెల్లగా అంది. దొంగలు తన ఇంటిపై కన్నేశారని తెనాలికి అర్థమైంది — ఇప్పుడు ఏం చేయాలో?",
+      "image_prompt": "The man narrows his eyes and holds his breath, listening intently towards the mud wall. The faint rustling sound of dry leaves and hushed whispers are audible from beyond the wall. Also in this scene: A tall, shadowy figure with a tattered dark cloth covering most of his face, leaving only glinting eyes visible. He wears dark, worn clothes that allow him to blend into the night. Always the same character across every scene. The moon is now partially obscured by clouds, creating deeper, menacing shadows along the garden wall, hinting at hidden danger.",
+      "scene_visual": "The man narrows his eyes and holds his breath, listening intently towards the mud wall. The faint rustling sound of dry leaves and hushed whispers are audible from beyond the wall.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Padyaala Gurinchi Aalochistunnantalo — Hathaattugaa Matti Goda Avatala Nundi Gusagusalu Vinipinchaayi. Podi Aakula Sannani Shabdan, Evaro Adrrishyangaa Kadulutunnatlu Spashtangaa Vinipinchindi. Aayana Kallu Sannabaddaayi, Shvaasa Bigabatti Nishitangaa Vinasaagaadu. \"I Inta Boledu Sampada Undi, Nestamaa!\" Ani Oka Gambhiramaina Gontu Mellagaa Andi. Dongalu Tana Intipai Kanneshaarani Tenaaliki Arthamaindi — Ippudu Em Cheyaalo?",
+      "text_en": "While Tenali was thinking about his poems, suddenly, whispers came from beyond the mud wall. He clearly heard the soft rustle of dry leaves, like someone moving secretly. His eyes narrowed, and he held his breath, listening very carefully. \"There's a lot of treasure in this house, friend!\" a deep voice whispered softly. Tenali realized that thieves were planning to steal from his home — what should he do now?"
+    },
+    {
+      "id": 3,
+      "text": "దొంగల మాటలు విన్న తెనాలికి ఒక ఉపాయం తట్టింది. ఆయన కళ్ళల్లో ఒక చిలిపి మెరుపు కనిపించింది, తన భార్యను పిలిచి గట్టిగా మాట్లాడసాగాడు. ఒక పెద్ద, ఖాళీ పెట్టెను తీసుకొచ్చి \"ధూమ్!\" అని పెద్ద చప్పుడుతో నేల మీద వేశాడు. \"మనకున్న అత్యంత విలువైన సంపదను ఈ పెట్టెలో పెట్టి బావిలో దాచు!\" అని ఆమెతో అన్నాడు, దొంగకు వినిపించేలా. తెనాలి వేసిన ఈ ఉచ్చులో దొంగ చిక్కుకుంటాడా?",
+      "image_prompt": "The man loudly drops a large, empty box onto the ground, creating a \"Dhoom!\" sound. A mischievous glint is visible in his eyes as he instructs his wife to hide their \"treasure\" in the well. Also in this scene: A tall, shadowy figure with a tattered dark cloth covering most of his face, leaving only glinting eyes visible. He wears dark, worn clothes that allow him to blend into the night. Always the same character across every scene. Lantern light spills from Tenali's house, illuminating the area around the well, creating a visible target for the thief's attention.",
+      "scene_visual": "The man loudly drops a large, empty box onto the ground, creating a \"Dhoom!\" sound. A mischievous glint is visible in his eyes as he instructs his wife to hide their \"treasure\" in the well.",
+      "supporting_char_keys": [],
+      "text_te_en": "Dongala Maatalu Vinna Tenaaliki Oka Upaayam Tattindi. Aayana Kallallo Oka Chilipi Merupu Kanipinchindi, Tana Bhaaryanu Pilichi Gattigaa Maatlaadasaagaadu. Oka Pedda, Khaali Pettenu Tisukochchi \"Dhum!\" Ani Pedda Chappuduto Nela Mida Veshaadu. \"Manakunna Atyanta Viluvaina Sampadanu I Pettelo Petti Baavilo Daachu!\" Ani Aameto Annaadu, Dongaku Vinipinchelaa. Tenaali Vesina I Uchchulo Donga Chikkukuntaadaa?",
+      "text_en": "Hearing the thieves' words, Tenali got a clever idea. A mischievous sparkle appeared in his eyes, and he called his wife, speaking loudly. He brought a big, empty box and dropped it on the ground with a loud \"THUD!\" \"Put all our most valuable treasure in this box and hide it in the well!\" he told her, making sure the thief could hear. Will the thief fall into Tenali's trap?"
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి, అతని భార్య కలిసి, చాలా బరువున్నట్లు నటిస్తూ ఆ పెట్టెను బావి వైపు మోసుకెళ్లారు. దొంగకు కనిపించేలా, వారు శ్రమ పడుతున్నట్లు స్పష్టంగా చూపించారు. బావి అంచుకు చేరగానే — ఆ పెట్టెను నీటిలోకి వదిలారు. \"PLONK!\" అనే పెద్ద చప్పుడుతో అది బావిలో పడింది. \"ఇక దొంగ పని మొదలవుతుంది!\" అని తెనాలి తన భార్యతో గుసగుసలాడుతూ నవ్వాడు. బావిలో ఉన్న సంపదను దొంగ ఎలా బయటికి తీస్తాడో కదా?",
+      "image_prompt": "The man and his wife strain, pretending to carry a heavy box, and drop it into the well with a loud \"Plonk!\". They exchange a conspiratorial whisper and a smile as the box disappears into the water. Also in this scene: A tall, shadowy figure with a tattered dark cloth covering most of his face, leaving only glinting eyes visible. He wears dark, worn clothes that allow him to blend into the night. Always the same character across every scene. The garden is now darker, with only the faint glow of distant stars, as Tenali and his wife retreat inside, leaving the well shrouded in mystery.",
+      "scene_visual": "The man and his wife strain, pretending to carry a heavy box, and drop it into the well with a loud \"Plonk!\". They exchange a conspiratorial whisper and a smile as the box disappears into the water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali, Atani Bhaarya Kalisi, Chaalaa Baruvunnatlu Natistu Aa Pettenu Baavi Vaipu Mosukellaaru. Dongaku Kanipinchelaa, Vaaru Shrama Padutunnatlu Spashtangaa Chupinchaaru. Baavi Anchuku Cheragaane — Aa Pettenu Nitiloki Vadilaaru. \"Plonk!\" Ane Pedda Chappuduto Adi Baavilo Padindi. \"Ika Donga Pani Modalavutundi!\" Ani Tenaali Tana Bhaaryato Gusagusalaadutu Navvaadu. Baavilo Unna Sampadanu Donga Elaa Bayatiki Tistaado Kadaa?",
+      "text_en": "Tenali and his wife pretended the box was very heavy and carried it together towards the well. They clearly showed they were struggling, so the thief could see them. As they reached the edge of the well — they dropped the box into the water. It fell into the well with a loud \"PLONK!\" \"Now the thief's work will begin!\" Tenali whispered to his wife, chuckling. How will the thief get the treasure out of the well?"
+    },
+    {
+      "id": 5,
+      "text": "పిల్లలూ, తెనాలి ఉపాయం నిజంగా పని చేసింది! దొంగ ఆ రాత్రంతా, బావిలో నీళ్ళను బిందెల కొద్దీ తోడటం మొదలుపెట్టాడు. కిర్రుమనే కపిలి చప్పుడూ, నీళ్ళు తోడుతున్న చప్పుడూ రాత్రంతా వినిపిస్తూనే ఉన్నాయి. \"ఈ నీళ్ళన్నీ ఎప్పుడు ఖాళీ అవుతాయో!\" అని దొంగ విసుగుగా అనుకున్నాడు, చెమటలు కక్కుకుంటూ. కిటికీలోంచి అదంతా చూస్తున్న తెనాలి, నవ్వు ఆపుకోలేకపోయాడు. పాపం దొంగకు ఆ పెట్టెలో అసలు ఏమీ లేదని ఎప్పుడు తెలుస్తుందో?",
+      "image_prompt": "The thief tirelessly draws bucket after bucket of water from the well throughout the night. Sweat beads on his forehead as the creaking sound of the pulley and splashing water fill the air. Also in this scene: A tall, shadowy figure with a tattered dark cloth covering most of his face, leaving only glinting eyes visible. He wears dark, worn clothes that allow him to blend into the night. Always the same character across every scene. The night slowly fades into a pale, pre-dawn grey, with the thief's silhouette stark against the lightening sky, highlighting his continuous labor.",
+      "scene_visual": "The thief tirelessly draws bucket after bucket of water from the well throughout the night. Sweat beads on his forehead as the creaking sound of the pulley and splashing water fill the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pillalu, Tenaali Upaayam Nijangaa Pani Chesindi! Donga Aa Raatrantaa, Baavilo Nillanu Bindela Koddi Todatam Modalupettaadu. Kirrumane Kapili Chappudu, Nillu Todutunna Chappudu Raatrantaa Vinipistune Unnaayi. \"I Nillanni Eppudu Khaali Avutaayo!\" Ani Donga Visugugaa Anukunnaadu, Chematalu Kakkukuntu. Kitikilonchi Adantaa Chustunna Tenaali, Navvu Aapukolekapoyaadu. Paapam Dongaku Aa Pettelo Asalu Emi Ledani Eppudu Telustundo?",
+      "text_en": "Children, Tenali's clever plan really worked! The thief started drawing water from the well, bucket after bucket, all night long. The creaking sound of the well pulley and the splashing of water could be heard all night. \"When will all this water be gone!\" the thief thought with annoyance, sweating heavily. Tenali, watching all this from his window, couldn't stop laughing. Poor thief, when will he realize there's nothing at all in that box?"
+    },
+    {
+      "id": 6,
+      "text": "తెల్లవారుజాము అవుతుండగా, అలసిపోయిన దొంగ మొత్తానికి బావి అడుగుకు చేరుకున్నాడు. \"క్లాట్!\" అని శబ్దంతో పెట్టె బావి అడుగున పడింది — అందులో ఏమీ లేదు! దొంగకు కోపం, నిరాశ కలిసొచ్చాయి — అతని ముఖం ఆశ్చర్యంతో వికృతంగా మారింది. సరిగ్గా ఆ క్షణంలో తెనాలి అక్కడికి వచ్చాడు. \"నా తోటకి నీరు పోసినందుకు ధన్యవాదాలు, మిత్రమా!\" అని పెద్దగా నవ్వుతూ అన్నాడు. ఈ మాటలు విన్న దొంగ ఎలా స్పందిస్తాడు?",
+      "image_prompt": "The exhausted thief finally reaches the bottom of the well, finding the empty box with a \"Clat!\" sound. His face contorts in a grotesque expression of anger and surprise as the man approaches, laughing loudly. Also in this scene: A tall, shadowy figure with a tattered dark cloth covering most of his face, leaving only glinting eyes visible. He wears dark, worn clothes that allow him to blend into the night. Always the same character across every scene. The first golden rays of sunrise cut through the horizon, casting a warm, revealing light on the scene, exposing the thief's folly and Tenali's triumph.",
+      "scene_visual": "The exhausted thief finally reaches the bottom of the well, finding the empty box with a \"Clat!\" sound. His face contorts in a grotesque expression of anger and surprise as the man approaches, laughing loudly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tellavaarujaamu Avutundagaa, Alasipoyina Donga Mottaaniki Baavi Aduguku Cherukunnaadu. \"Klaat!\" Ani Shabdanto Pette Baavi Aduguna Padindi — Andulo Emi Ledu! Dongaku Kopan, Niraasha Kalisochchaayi — Atani Mukham Aashcharyanto Vikrritangaa Maarindi. Sariggaa Aa Kshananlo Tenaali Akkadiki Vachchaadu. \"Naa Totaki Niru Posinanduku Dhanyavaadaalu, Mitramaa!\" Ani Peddagaa Navvutu Annaadu. I Maatalu Vinna Donga Elaa Spandistaadu?",
+      "text_en": "As dawn approached, the tired thief finally reached the bottom of the well. With a \"CLANG!\" the box hit the bottom — there was nothing inside! The thief felt angry and disappointed — his face twisted in surprise. Exactly at that moment, Tenali came there. \"Thank you for watering my garden, friend!\" he said, laughing loudly. How will the thief react to hearing these words?"
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి మాటలకు దొంగ తలదించుకున్నాడు. అవమానంతో, అలసటతో అతని అడుగులు తడబడ్డాయి — వెంటనే ఆ తోట నుండి దూరంగా వెళ్ళిపోయాడు. తెనాలి శాంతంగా తన తోటను చూశాడు. తడి మట్టి, కొత్తగా నీళ్ళు పోసిన మొక్కల సువాసన అద్భుతంగా అనిపించింది. \"ఈ రోజు మన తోట ఎంత పచ్చగా ఉందో చూడు!\" అని తన భార్యతో సంతోషంగా అన్నాడు. తెనాలి తెలివి, అతని తోటను దొంగ చేత పచ్చగా చేసింది.",
+      "image_prompt": "The thief hangs his head in shame, his steps faltering with exhaustion, as he quickly walks away from the garden. The man contentedly surveys his garden, enjoying the fresh scent of wet soil and newly watered plants. Also in this scene: A tall, shadowy figure with a tattered dark cloth covering most of his face, leaving only glinting eyes visible. He wears dark, worn clothes that allow him to blend into the night. Always the same character across every scene. Bright, clear morning light illuminates the sparkling, dewy garden, emphasizing its refreshed beauty and the peaceful atmosphere after the night's events.",
+      "scene_visual": "The thief hangs his head in shame, his steps faltering with exhaustion, as he quickly walks away from the garden. The man contentedly surveys his garden, enjoying the fresh scent of wet soil and newly watered plants.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Maatalaku Donga Taladinchukunnaadu. Avamaananto, Alasatato Atani Adugulu Tadabaddaayi — Ventane Aa Tota Nundi Durangaa Vellipoyaadu. Tenaali Shaantangaa Tana Totanu Chushaadu. Tadi Matti, Kottagaa Nillu Posina Mokkala Suvaasana Adbhutangaa Anipinchindi. \"I Roju Mana Tota Enta Pachchagaa Undo Chudu!\" Ani Tana Bhaaryato Santoshangaa Annaadu. Tenaali Telivi, Atani Totanu Donga Cheta Pachchagaa Chesindi.",
+      "text_en": "At Tenali's words, the thief hung his head. With shame and exhaustion, his steps faltered — he immediately walked away from the garden. Tenali calmly looked at his garden. The wet soil and the sweet smell of the newly watered plants felt wonderful. \"Look how green our garden is today!\" he said happily to his wife. Tenali's cleverness made his garden green, all thanks to the thief."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is an excellent example of engaging children's literature, particularly strong in its oral storytelling quality and direct engagement with the listener. The narrative arc is compelling, and the Telugu is flawlessly colloquial. To elevate it further, the author should focus on consistently showing emotions through action and body language, rather than stating them directly, especially in the concluding scene."
+  },
+  "title_te_en": "Donga Nillu Posina Tenaali Tota",
+  "moral_te_en": "Nuvvu Chinnavaadivigaa Anipinchinaa, Pramaadanlo Unnaa, Ni Telivi Ninnu Balavantudini Chestundi.",
+  "title_en": "Tenali's Garden, Watered by a Thief",
+  "moral_en": "Even if you seem small or are in danger, your cleverness can make you strong.",
+  "id": "20260525_130835",
+  "date": "2026-05-25",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు దొంగ",
+  "thumbnail": "stories/20260525_130835/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
