@@ -1,0 +1,97 @@
+{
+  "title": "లీల తెలివి, మంత్రగాడి చిక్కుముడి",
+  "moral": "బంధించబడినట్లు అనిపించినా, నీ పదునైన ఆలోచనలే నీకు గొప్ప బలం.",
+  "main_character": "Princess Leela is a bright and curious young girl, about 10 years old, with long, braided black hair adorned with jasmine flowers. She has sparkling, observant eyes and a quick smile. Always the same character across every scene.",
+  "antagonist": "Sorcerer Kalaketu is a tall, gaunt man with a long, grey beard and piercing yellow eyes. He wears dark, flowing robes embroidered with ominous symbols and carries a gnarled wooden staff. Always the same character across every scene.",
+  "setting": "The ancient kingdom of Hamsala, nestled beside the Krishna River. The story begins in the royal palace gardens and moves to a towering, dark stone fortress on a jagged mountain peak, perpetually shrouded in mist. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "హమ్సల రాజ్యంలో, కృష్ణా నది ఒడ్డున, మన చిట్టి రాజకుమారి లీల తోటలో కూర్చుంది. ఆమె చుట్టూ మల్లెపూల ఘుమఘుమలు, మనసును ఆహ్లాదపరుస్తున్నాయి. గురువుగారు ఇచ్చిన పొడుపు కథకు జవాబు ఆలోచిస్తూ, ఆమె కళ్ళు మెరుస్తున్నాయి — ముఖం చిరునవ్వుతో వికసించింది. \"అది నక్షత్రం! అది ఆకాశంలో మెరుస్తుంది, కానీ దానిని పట్టుకోలేము!\" అని సంతోషంగా కేక వేసింది. గురువుగారు మెచ్చుకోలుగా తల ఊపారు... కానీ ఈ సంతోషం ఎక్కువసేపు నిలవదేమో?",
+      "image_prompt": "The princess sits in a garden, her eyes sparkling as she thinks, then joyfully shouts the answer. A happy smile blossoms on her face as the scent of jasmine flowers fills the air around her. Warm, golden afternoon sunlight filtering through lush green leaves, casting soft, dappled shadows on the palace garden path, peaceful and serene.",
+      "scene_visual": "The princess sits in a garden, her eyes sparkling as she thinks, then joyfully shouts the answer. A happy smile blossoms on her face as the scent of jasmine flowers fills the air around her.",
+      "supporting_char_keys": [],
+      "text_te_en": "Hamsala Raajyanlo, Krrishnaa Nadi Odduna, Mana Chitti Raajakumaari Lila Totalo Kurchundi. Aame Chuttu Mallepula Ghumaghumalu, Manasunu Aahlaadaparustunnaayi. Guruvugaaru Ichchina Podupu Kathaku Javaabu Aalochistu, Aame Kallu Merustunnaayi — Mukham Chirunavvuto Vikasinchindi. \"Adi Nakshatran! Adi Aakaashanlo Merustundi, Kaani Daanini Pattukolemu!\" Ani Santoshangaa Keka Vesindi. Guruvugaaru Mechchukolugaa Tala Upaaru... Kaani I Santosham Ekkuvasepu Nilavademo?",
+      "text_en": "In the kingdom of Hamsala, on the banks of the Krishna River, our little Princess Leela sat in the garden. Around her, the sweet scent of jasmine flowers filled the air, making her feel happy. Her eyes sparkled as she thought about the answer to the riddle her guru had given her — her face bloomed with a smile. \"It's a star! It shines in the sky, but we can't catch it!\" she happily shouted. Her guru nodded in approval... but would this happiness last long?"
+    },
+    {
+      "id": 2,
+      "text": "లీల సంతోషం ఎక్కువసేపు నిలవలేదు. ఒక్కసారిగా ఆకాశం చీకటిగా మారి, మంత్రగాడు కాలాకేతు ఆమె ముందు ప్రత్యక్షమయ్యాడు. అతని పసుపు కళ్ళు చూసి, లీల భయంతో గొంతులో ఊపిరి బిగబట్టింది — ఆమె గుండె వేగంగా కొట్టుకుంది. కాలాకేతు ఆమెను పట్టుకుని, ఎత్తైన కోటలోకి తీసుకుపోయి, ఒక చీకటి గదిలో బంధించాడు. \"నువ్వు తెలివైన దానివి అయితే, ఈ పొడుపు కథకు సమాధానం చెప్పు: 'సజీవంగా ఉన్నాను, కానీ ఊపిరి పీల్చుకోను. చల్లగా ఉంటాను, కానీ చలికాలం కాదు. నా గుండె కొట్టుకోదు, కానీ నేను జీవిస్తున్నాను. నేను ఎవరు?'\" అని అరుస్తూ, భారీ ఇనుప తలుపును ఒక్కసారిగా మూసేశాడు — ఆ చప్పుడు లీల వెన్నెముకలో వణుకు పుట్టించింది. ఈ భయంకరమైన పొడుపు కథకు లీల ఎలా సమాధానం చెబుతుంది?",
+      "image_prompt": "The sorcerer appears before the princess, then seizes her and locks her in a dark room. His yellow eyes glow menacingly as the heavy iron door slams shut, making her spine shiver. Also in this scene: Sorcerer Kalaketu is a tall, gaunt man with a long, grey beard and piercing yellow eyes. He wears dark, flowing robes embroidered with ominous symbols and carries a gnarled wooden staff. Always the same character across every scene. Dim, eerie green light emanating from a flickering magical orb held by Kalaketu, casting long, distorted shadows on the rough stone walls of the tower prison, cold and menacing.",
+      "scene_visual": "The sorcerer appears before the princess, then seizes her and locks her in a dark room. His yellow eyes glow menacingly as the heavy iron door slams shut, making her spine shiver.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lila Santosham Ekkuvasepu Nilavaledu. Okkasaarigaa Aakaasham Chikatigaa Maari, Mantragaadu Kaalaaketu Aame Mundu Pratyakshamayyaadu. Atani Pasupu Kallu Chusi, Lila Bhayanto Gontulo Upiri Bigabattindi — Aame Gunde Vegangaa Kottukundi. Kaalaaketu Aamenu Pattukuni, Ettaina Kotaloki Tisukupoyi, Oka Chikati Gadilo Bandhinchaadu. \"Nuvvu Telivaina Daanivi Ayite, I Podupu Kathaku Samaadhaanam Cheppu: 'Sajivangaa Unnaanu, Kaani Upiri Pilchukonu. Challagaa Untaanu, Kaani Chalikaalam Kaadu. Naa Gunde Kottukodu, Kaani Nenu Jivistunnaanu. Nenu Evaru?'\" Ani Arustu, Bhaari Inupa Talupunu Okkasaarigaa Museshaadu — Aa Chappudu Lila Vennemukalo Vanuku Puttinchindi. I Bhayankaramaina Podupu Kathaku Lila Elaa Samaadhaanam Chebutundi?",
+      "text_en": "Leela's happiness didn't last long. Suddenly, the sky turned dark, and the wizard Kalaketu appeared before her. Seeing his yellow eyes, Leela held her breath in fear — her heart pounded fast. Kalaketu grabbed her, took her to a tall fort, and locked her in a dark room. \"If you are so clever, answer this riddle: 'I am alive, but I don't breathe. I am cold, but it's not winter. My heart doesn't beat, but I am living. What am I?'\" he shouted, slamming the heavy iron door shut — the sound sent shivers down Leela's spine. How will Leela answer this terrifying riddle?"
+    },
+    {
+      "id": 3,
+      "text": "గదిలో ఒంటరిగా ఉండి, లీల గోడల వెంట అడుగులు వేస్తూ ఆలోచించసాగింది. ఆమె నుదిటిపై చింత రేఖలు, చేతులు కొద్దిగా వణుకుతున్నాయి. చల్లని రాతి గోడను తన వేళ్ళతో తడుముతూ, పొడుపు కథను విడదీయాలని ప్రయత్నించింది. \"సజీవంగా ఉన్నాను, కానీ ఊపిరి పీల్చుకోను...\" అని తనలో తనే గొణుగుకుంది. ఒక్కసారిగా ఆమె కళ్ళల్లో ఒక మెరుపు — \"అది ఒక చేపనా? అది నీటిలో సజీవంగా ఉంటుంది, ఊపిరి పీల్చుకోదు.\" అని గట్టిగా అనుకుంది. కాలాకేతు తిరిగి వచ్చి, ఆమె సమాధానం విన్నాక ఏం చేస్తాడో అని లీల ఆందోళనగా ఎదురుచూస్తోంది...",
+      "image_prompt": "The princess paces the room, her hands slightly trembling as she touches the cold stone wall. Lines of worry crease her forehead as a sudden spark of realization lights up her eyes. A single, high window letting in a thin, pale strip of moonlight, revealing dust motes dancing in the cold air, creating a feeling of isolation and quiet desperation.",
+      "scene_visual": "The princess paces the room, her hands slightly trembling as she touches the cold stone wall. Lines of worry crease her forehead as a sudden spark of realization lights up her eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gadilo Ontarigaa Undi, Lila Godala Venta Adugulu Vestu Aalochinchasaagindi. Aame Nuditipai Chinta Rekhalu, Chetulu Koddigaa Vanukutunnaayi. Challani Raati Godanu Tana Vellato Tadumutu, Podupu Kathanu Vidadiyaalani Prayatninchindi. \"Sajivangaa Unnaanu, Kaani Upiri Pilchukonu...\" Ani Tanalo Tane Gonugukundi. Okkasaarigaa Aame Kallallo Oka Merupu — \"Adi Oka Chepanaa? Adi Nitilo Sajivangaa Untundi, Upiri Pilchukodu.\" Ani Gattigaa Anukundi. Kaalaaketu Tirigi Vachchi, Aame Samaadhaanam Vinnaaka Em Chestaado Ani Lila Aandolanagaa Eduruchustondi...",
+      "text_en": "Alone in the room, Leela walked along the walls, thinking. Lines of worry creased her forehead, and her hands trembled slightly. Touching the cold stone wall with her fingers, she tried to unravel the riddle. \"I am alive, but I don't breathe...\" she mumbled to herself. Suddenly, a spark lit up in her eyes — \"Is it a fish? It lives in water, but doesn't breathe,\" she thought aloud. Leela anxiously waited to see what Kalaketu would do when he returned and heard her answer..."
+    },
+    {
+      "id": 4,
+      "text": "కాలాకేతు మళ్ళీ ప్రత్యక్షమయ్యాడు — అతని కళ్ళల్లో కోపం, గది అంతా అతని మాయాజాలం కారంగా వాసన వేసింది. లీల వైపు చూసి, \"తప్పు! నువ్వు నా సమయాన్ని వృధా చేశావు!\" అని గద్దించాడు. ఆమె కంటి నుండి ఒక కన్నీటి బొట్టు జారింది, కానీ ఆమె గడ్డం మాత్రం పైకెత్తింది — పట్టుదల ఆమె కళ్ళలో కనిపించింది. \"ఈసారి, 'నాకు వేళ్ళు ఉన్నాయి, కానీ పట్టుకోలేను. నాకు బొటనవేలు ఉంది, కానీ బొటనవేలు లేదు. నేను ఎవరు?'\" అని ఇంకో పొడుపు కథ విసిరాడు. కాలాకేతు మాయమైపోగా, గదిలో మళ్ళీ ఆ కారంగా వాసన నిండిపోయింది. ఈ రెండు పొడుపు కథలు, మరింత చిక్కుగా మారాయి... లీల ఎలా బయటపడుతుంది?",
+      "image_prompt": "The sorcerer reappears, his face filled with anger, and hurls another riddle at the princess. A single tear rolls down her cheek, but her chin is raised, showing determination in her eyes. Also in this scene: Sorcerer Kalaketu is a tall, gaunt man with a long, grey beard and piercing yellow eyes. He wears dark, flowing robes embroidered with ominous symbols and carries a gnarled wooden staff. Always the same character across every scene. A sudden flash of sickly green magic momentarily illuminating the dark cell, followed by deeper gloom, emphasizing the sorcerer's power and cruelty.",
+      "scene_visual": "The sorcerer reappears, his face filled with anger, and hurls another riddle at the princess. A single tear rolls down her cheek, but her chin is raised, showing determination in her eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaalaaketu Malli Pratyakshamayyaadu — Atani Kallallo Kopan, Gadi Antaa Atani Maayaajaalam Kaarangaa Vaasana Vesindi. Lila Vaipu Chusi, \"Tappu! Nuvvu Naa Samayaanni Vrridhaa Cheshaavu!\" Ani Gaddinchaadu. Aame Kanti Nundi Oka Kanniti Bottu Jaarindi, Kaani Aame Gaddam Maatram Paikettindi — Pattudala Aame Kallalo Kanipinchindi. \"Isaari, 'Naaku Vellu Unnaayi, Kaani Pattukolenu. Naaku Botanavelu Undi, Kaani Botanavelu Ledu. Nenu Evaru?'\" Ani Inko Podupu Katha Visiraadu. Kaalaaketu Maayamaipogaa, Gadilo Malli Aa Kaarangaa Vaasana Nindipoyindi. I Rendu Podupu Kathalu, Marinta Chikkugaa Maaraayi... Lila Elaa Bayatapadutundi?",
+      "text_en": "Kalaketu appeared again — anger in his eyes, and the whole room smelled spicy from his magic. Looking at Leela, he roared, \"Wrong! You wasted my time!\" A tear rolled down her eye, but she held her chin up — determination shone in her eyes. \"This time, 'I have fingers, but I can't hold. I have a thumb, but no thumb. What am I?'\" he threw another riddle. As Kalaketu vanished, the spicy smell filled the room again. These two riddles became even more puzzling... How will Leela escape?"
+    },
+    {
+      "id": 5,
+      "text": "లీల నిరాశ చెందకుండా, గది గోడలను, తన చుట్టూ ఉన్న వస్తువులను నిశితంగా పరిశీలించసాగింది. చీకటిలో కూడా, భారీ తలుపుకు ఉన్న తాళం రంధ్రం నుండి ఒక మెరుపు ఆమె కళ్ళకు కనిపించింది — అది చాలా క్లిష్టంగా, చిత్రంగా ఉంది. గదిలో కదలకుండా ఉన్న రాతి విగ్రహాలను కూడా ఆమె చూసింది. \"వేళ్ళు... బొటనవేలు... కానీ పట్టుకోలేను.\" అని గొణుగుకుంటూ, ఆమె కళ్ళల్లో ఒక ఆశపు పులకరింపు మొదలైంది. \"ఇక్కడ ఏదో సంబంధం ఉంది!\" అని ఆమె పెదవులపై చిన్న చిరునవ్వు మెరిసింది. ఆమె మనసులో ఒక ప్రణాళిక సిద్ధమవుతోంది... కాలాకేతు తిరిగి వచ్చే లోపు లీల దాన్ని చెప్పగలదా?",
+      "image_prompt": "The princess intently examines the room's walls and objects around her, searching for answers. A glimmer from a complex keyhole on the heavy door catches her eye, and a small smile appears on her lips. A weak, grey light of dawn beginning to filter through the high window, casting long, soft shadows, suggesting a glimmer of hope and clarity after a long night.",
+      "scene_visual": "The princess intently examines the room's walls and objects around her, searching for answers. A glimmer from a complex keyhole on the heavy door catches her eye, and a small smile appears on her lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lila Niraasha Chendakundaa, Gadi Godalanu, Tana Chuttu Unna Vastuvulanu Nishitangaa Parishilinchasaagindi. Chikatilo Kudaa, Bhaari Talupuku Unna Taalam Randhram Nundi Oka Merupu Aame Kallaku Kanipinchindi — Adi Chaalaa Klishtangaa, Chitrangaa Undi. Gadilo Kadalakundaa Unna Raati Vigrahaalanu Kudaa Aame Chusindi. \"Vellu... Botanavelu... Kaani Pattukolenu.\" Ani Gonugukuntu, Aame Kallallo Oka Aashapu Pulakarimpu Modalaindi. \"Ikkada Edo Sambandham Undi!\" Ani Aame Pedavulapai Chinna Chirunavvu Merisindi. Aame Manasulo Oka Pranaalika Siddhamavutondi... Kaalaaketu Tirigi Vachche Lopu Lila Daanni Cheppagaladaa?",
+      "text_en": "Without losing hope, Leela carefully examined the room's walls and the objects around her. Even in the darkness, a glint from the keyhole of the heavy door caught her eye — it was very intricate and strange. She also saw the motionless stone statues in the room. \"Fingers... thumb... but can't hold,\" she mumbled, and a spark of hope began in her eyes. \"There's a connection here!\" a small smile flickered on her lips. A plan was forming in her mind... Could Leela tell it before Kalaketu returned?"
+    },
+    {
+      "id": 6,
+      "text": "కాలాకేతు లీల ఓడిపోయిందని అనుకుంటూ తిరిగి వచ్చాడు. కానీ లీల ధైర్యంగా, నిటారుగా నిలబడింది — ఆమె కంఠం స్పష్టంగా, ప్రతిధ్వనిస్తోంది. \"నీ పొడుపు కథలకు సమాధానం 'తాళం' మరియు 'తాళం చెవి'!\" అని గట్టిగా చెప్పింది. కాలాకేతు ఒక్కసారిగా ఊపిరి బిగబట్టాడు — అతని ముఖం పాలిపోయింది. \"నీ మాయాజాలం కేవలం వాటిని బంధించగలదు, కానీ వాటిని ఉపయోగించలేదు!\" అని లీల తన తెలివిని ప్రదర్శించింది. ఆమె మాటలకు, కాలాకేతు మంత్రం ఒక్కసారిగా బలహీనపడింది.",
+      "image_prompt": "The princess stands tall and brave, her voice clear and echoing as she declares the answers to the riddles. The sorcerer gasps, his face turning pale as her words cause his magic to weaken instantly. Also in this scene: Sorcerer Kalaketu is a tall, gaunt man with a long, grey beard and piercing yellow eyes. He wears dark, flowing robes embroidered with ominous symbols and carries a gnarled wooden staff. Always the same character across every scene. A sudden burst of bright, magical light as Kalaketu's power falters, illuminating the entire cell in a brilliant, shocking flash, highlighting Leela's confident stance and the sorcerer's dismay.",
+      "scene_visual": "The princess stands tall and brave, her voice clear and echoing as she declares the answers to the riddles. The sorcerer gasps, his face turning pale as her words cause his magic to weaken instantly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaalaaketu Lila Odipoyindani Anukuntu Tirigi Vachchaadu. Kaani Lila Dhairyangaa, Nitaarugaa Nilabadindi — Aame Kantham Spashtangaa, Pratidhvanistondi. \"Ni Podupu Kathalaku Samaadhaanam 'Taalan' Mariyu 'Taalam Chevi'!\" Ani Gattigaa Cheppindi. Kaalaaketu Okkasaarigaa Upiri Bigabattaadu — Atani Mukham Paalipoyindi. \"Ni Maayaajaalam Kevalam Vaatini Bandhinchagaladu, Kaani Vaatini Upayoginchaledu!\" Ani Lila Tana Telivini Pradarshinchindi. Aame Maatalaku, Kaalaaketu Mantram Okkasaarigaa Balahinapadindi.",
+      "text_en": "Kalaketu returned, thinking Leela had failed. But Leela stood bravely and straight — her voice clear and echoing. \"The answers to your riddles are 'lock' and 'key'!\" she said loudly. Kalaketu gasped — his face turned pale. \"Your magic can only bind them, but it cannot use them!\" Leela showed her cleverness. At her words, Kalaketu's magic suddenly weakened."
+    },
+    {
+      "id": 7,
+      "text": "లీల జవాబు చెప్పగానే, కాలాకేతు మాయాజాలం ఒక్కసారిగా కరిగిపోయింది. భారీ ఇనుప తలుపు భళ్ళున తెరుచుకుంది — లోపలికి చల్లని గాలి వీచింది. లీల ముఖంపై ఆ చల్లని గాలి తగలగానే, ఆమె మనసు తేలికపడింది. ఆమె చిరునవ్వుతో, ధైర్యంగా బయటకొచ్చింది. \"నా తెలివితేటలు నన్ను విడిపించాయి!\" అని సంతోషంగా కేక వేసింది. తన తెలివితో రాజకుమారి లీల తిరిగి తన రాజ్యానికి చేరుకుంది.",
+      "image_prompt": "The princess steps out through the massive iron door, which has swung open, feeling a cool breeze on her face. She exits with a joyful shout, a light smile gracing her lips as her mind feels relieved. Bright, clear morning sunlight streaming down on the mountain path outside the tower, washing away the darkness and celebrating freedom and new beginnings.",
+      "scene_visual": "The princess steps out through the massive iron door, which has swung open, feeling a cool breeze on her face. She exits with a joyful shout, a light smile gracing her lips as her mind feels relieved.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lila Javaabu Cheppagaane, Kaalaaketu Maayaajaalam Okkasaarigaa Karigipoyindi. Bhaari Inupa Talupu Bhalluna Teruchukundi — Lopaliki Challani Gaali Vichindi. Lila Mukhampai Aa Challani Gaali Tagalagaane, Aame Manasu Telikapadindi. Aame Chirunavvuto, Dhairyangaa Bayatakochchindi. \"Naa Telivitetalu Nannu Vidipinchaayi!\" Ani Santoshangaa Keka Vesindi. Tana Telivito Raajakumaari Lila Tirigi Tana Raajyaaniki Cherukundi.",
+      "text_en": "As soon as Leela gave the answer, Kalaketu's magic instantly melted away. The heavy iron door burst open — a cool breeze blew inside. As the cool breeze touched Leela's face, her mind felt light. With a smile, she bravely stepped out. \"My cleverness set me free!\" she happily shouted. With her wit, Princess Leela returned to her kingdom."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is an exceptionally well-crafted story for children, demonstrating strong emotional depth through showing, rich character-specific dialogue, and a compelling narrative arc. The use of direct questions to the listener and suspense hooks ensures high child engagement. To elevate the 'grandmother authenticity' to a perfect 10, the narrative voice could be made even more consistently warm and conversational, perhaps by replacing a few direct narrative statements with more evocative descriptions or direct addresses to the listener. This would make the storytelling feel even more like a personal, intimate sharing rather than a written account."
+  },
+  "title_te_en": "Lila Telivi, Mantragaadi Chikkumudi",
+  "moral_te_en": "Bandhinchabadinatlu Anipinchinaa, Ni Padunaina Aalochanale Niku Goppa Balan.",
+  "title_en": "Leela's Cleverness and the Wizard's Riddle",
+  "moral_en": "Even if you feel trapped, your sharp thoughts are your greatest strength.",
+  "id": "20260525_000807",
+  "date": "2026-05-25",
+  "category": "podupu",
+  "subcategory": "clever_escapes",
+  "topic": "బంధించబడిన రాజకుమారి పొడుపు కథ",
+  "thumbnail": "stories/20260525_000807/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
