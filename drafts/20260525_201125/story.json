@@ -1,0 +1,97 @@
+{
+  "title": "కుప్పికి నేర్పిన పంచుకునే పాఠం",
+  "moral": "మన దగ్గర కొద్దిగా ఉన్నా, పదిమందితో పంచుకుంటే ఆ సంతోషమే వేరు కదూ!",
+  "main_character": "Kuppi, a young, scruffy street dog, is lean, with one floppy ear and bright, curious eyes. Its intense focus on self-preservation and food is its defining quirk. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A bustling village in rural Andhra Pradesh, nestled beside a gentle river, featuring traditional clay houses, a prominent central banyan tree, and a small, vibrant market square. The story unfolds across various spots within this village, from dusty paths to the riverbank. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "సన్నగా, చింపిరి వెంట్రుకలతో ఉన్న కుప్పి, పొడి నేల మీద ఒక చిన్న మాంసం ముక్కను దాచాలని చూసింది. దాని పదునైన గోళ్ళతో నేలను తవ్వేసరికి — పొడి మట్టి కూలిపోతూ, మట్టి వాసన పైకి లేచింది. \"ఇది నాది, నాది మాత్రమే!\" — అది తన కళ్ళు అటూ ఇటూ తిప్పుతూ గొణుక్కుంది. దాని శరీరం పూర్తిగా బిగుసుకుని, ఎవరైనా వస్తున్నారేమో అని గమనిస్తూ ఉంది. అది దాచుకున్న ఈ రహస్యపు ముక్కను ఇంకెవరైనా చూస్తారేమో కదూ?",
+      "image_prompt": "The dog frantically digs a hole in the dry ground with its sharp claws to hide a small piece of meat. Its body is tensed and its eyes dart around, scanning for any approaching presence. Bright morning sun, warm and inviting over a dusty village path, with a slight shadow under the banyan tree where Kuppi hides its treasure.",
+      "scene_visual": "The dog frantically digs a hole in the dry ground with its sharp claws to hide a small piece of meat. Its body is tensed and its eyes dart around, scanning for any approaching presence.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sannagaa, Chimpiri Ventrukalato Unna Kuppi, Podi Nela Mida Oka Chinna Maansam Mukkanu Daachaalani Chusindi. Daani Padunaina Gollato Nelanu Tavvesariki — Podi Matti Kulipotu, Matti Vaasana Paiki Lechindi. \"Idi Naadi, Naadi Maatrame!\" — Adi Tana Kallu Atu Itu Tipputu Gonukkundi. Daani Shariram Purtigaa Bigusukuni, Evarainaa Vastunnaaremo Ani Gamanistu Undi. Adi Daachukunna I Rahasyapu Mukkanu Inkevarainaa Chustaaremo Kadu?",
+      "text_en": "Kupping, thin and with messy fur, tried to hide a small piece of meat on the dry ground. As its sharp claws dug into the earth, dry soil crumbled, and the smell of dirt rose. \"This is mine, and only mine!\" it grumbled, its eyes darting around. Its body was tense, watching if anyone was coming. What if someone else saw this secret piece it was hiding?"
+    },
+    {
+      "id": 2,
+      "text": "కుప్పికి అప్పుడే ఒక పెద్ద, రసవంతమైన ఎముక దొరికింది, అది సంతోషంగా దాన్ని పట్టుకుని నడుస్తోంది. దాని తోక కొద్దిగా ఊగుతోంది, కాల్చిన మాంసం వాసన ముక్కుకు తగులుతూ, నోరూరిస్తోంది. ఇంతలో — దూరంగా ఒక చిన్న, సన్నటి కుక్కపిల్ల ఆకలిగా దాని వైపు చూస్తూ ఉంది. కుప్పి తన ఎముకను ఇంకా గట్టిగా పట్టుకుంది. \"హే! దగరకు రాకు!\" అని అది మెల్లగా గర్జించింది. ఆ రుచికరమైన ఎముకను కుప్పి ఆ చిన్న కుక్కపిల్లతో పంచుకుంటుందా, లేక తన కోసమే దాచుకుంటుందా?",
+      "image_prompt": "The dog clutches a large, juicy bone tightly in its mouth, turning its head towards a small, thin puppy. Its tail is still, and its eyes are narrowed at the hungry puppy in the distance. Midday sun, harsh and bright, highlighting the gleam on the bone and the puppy's gaunt frame in the open village square.",
+      "scene_visual": "The dog clutches a large, juicy bone tightly in its mouth, turning its head towards a small, thin puppy. Its tail is still, and its eyes are narrowed at the hungry puppy in the distance.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kuppiki Appude Oka Pedda, Rasavantamaina Emuka Dorikindi, Adi Santoshangaa Daanni Pattukuni Nadustondi. Daani Toka Koddigaa Ugutondi, Kaalchina Maansam Vaasana Mukkuku Tagulutu, Noruristondi. Intalo — Durangaa Oka Chinna, Sannati Kukkapilla Aakaligaa Daani Vaipu Chustu Undi. Kuppi Tana Emukanu Inkaa Gattigaa Pattukundi. \"He! Dagaraku Raaku!\" Ani Adi Mellagaa Garjinchindi. Aa Ruchikaramaina Emukanu Kuppi Aa Chinna Kukkapillato Panchukuntundaa, Leka Tana Kosame Daachukuntundaa?",
+      "text_en": "Kupping had just found a big, juicy bone, and it was happily walking with it. Its tail wagged a little, and the smell of roasted meat made its mouth water. Suddenly, a small, thin puppy in the distance looked at it hungrily. Kupping held its bone even tighter. \"Hey! Don't come closer!\" it growled softly. Would Kupping share that tasty bone with the little puppy, or keep it all for itself?"
+    },
+    {
+      "id": 3,
+      "text": "కానీ కొన్ని రోజులకే ఆ ఊరిలో ఆకస్మికంగా కరువు వచ్చింది, ఆహారం దొరకడం చాలా కష్టమైపోయింది. కుప్పి ఏమీ దొరకక, నేలంతా వాసన చూస్తూ తిరిగింది — పొడిబారిన నేల దాని పాదాల కింద 'కర్ర్' మని శబ్దం చేసింది. దాని చెవులు నిరాశగా వాలిపోయాయి. \"ఎక్కడా ఏమీ దొరకడం లేదు!\" — అది గొణుక్కుంది. ఊరిలో ఎక్కడా ఆహారం లేకపోతే కుప్పి ఎలా బతుకుతుంది?",
+      "image_prompt": "The dog wanders across the parched ground, sniffing desperately for food. Its ears are drooped in despair, and the dry soil crunches audibly under its paws. Late afternoon light, casting long, stark shadows, with a hazy, reddish tint from the dry air, emphasizing the desolation.",
+      "scene_visual": "The dog wanders across the parched ground, sniffing desperately for food. Its ears are drooped in despair, and the dry soil crunches audibly under its paws.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaani Konni Rojulake Aa Urilo Aakasmikangaa Karuvu Vachchindi, Aahaaram Dorakadam Chaalaa Kashtamaipoyindi. Kuppi Emi Dorakaka, Nelantaa Vaasana Chustu Tirigindi — Podibaarina Nela Daani Paadaala Kinda 'Karr' Mani Shabdam Chesindi. Daani Chevulu Niraashagaa Vaalipoyaayi. \"Ekkadaa Emi Dorakadam Ledu!\" — Adi Gonukkundi. Urilo Ekkadaa Aahaaram Lekapote Kuppi Elaa Batukutundi?",
+      "text_en": "But just a few days later, a sudden drought hit the village, and finding food became very difficult. Kupping found nothing, sniffing all over the ground. The dry earth crunched under its paws. Its ears drooped sadly. \"There's nothing anywhere!\" it grumbled. If there was no food in the village, how would Kupping survive?"
+    },
+    {
+      "id": 4,
+      "text": "అలా తిరుగుతూ కుప్పికి ఒక చిన్న, పొడి రొట్టె ముక్క దొరికింది, అది వెంటనే దాన్ని నోట కరుచుకుంది. ఆ రొట్టె నోట్లో చాలా పొడిగా, రుచి లేకుండా అనిపించింది. కానీ అప్పుడే — దాని కళ్ళు ఒక వణుకుతున్న వృద్ధ కుక్కపై పడ్డాయి. అది చాలా బలహీనంగా ఉంది. \"నాకు ఎంత ఆకలిగా ఉందో!\" అని కుప్పి మనసులో అనుకుంది, దాని శరీరం బిగుసుకుంది. మరి ఆ రొట్టెను కుప్పి ఏం చేస్తుంది — తినేస్తుందా, లేక ఆ బలహీనమైన కుక్కతో పంచుకుంటుందా?",
+      "image_prompt": "The dog stands still, holding a small, dry piece of bread in its mouth, its gaze fixed on a trembling old dog. Its body is tensed, and the old dog appears very weak and emaciated. Early evening, soft, fading light, casting a gentle blue-grey over the scene, creating a sense of quiet desperation and contemplation.",
+      "scene_visual": "The dog stands still, holding a small, dry piece of bread in its mouth, its gaze fixed on a trembling old dog. Its body is tensed, and the old dog appears very weak and emaciated.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alaa Tirugutu Kuppiki Oka Chinna, Podi Rotte Mukka Dorikindi, Adi Ventane Daanni Nota Karuchukundi. Aa Rotte Notlo Chaalaa Podigaa, Ruchi Lekundaa Anipinchindi. Kaani Appude — Daani Kallu Oka Vanukutunna Vrriddha Kukkapai Paddaayi. Adi Chaalaa Balahinangaa Undi. \"Naaku Enta Aakaligaa Undo!\" Ani Kuppi Manasulo Anukundi, Daani Shariram Bigusukundi. Mari Aa Rottenu Kuppi Em Chestundi — Tinestundaa, Leka Aa Balahinamaina Kukkato Panchukuntundaa?",
+      "text_en": "As it wandered, Kupping found a small, dry piece of bread and immediately grabbed it in its mouth. The bread felt very dry and tasteless in its mouth. But then, its eyes fell upon a trembling old dog. It looked very weak. \"I'm so hungry!\" Kupping thought to itself, its body tensing up. What would Kupping do with that bread – eat it all, or share it with the weak dog?"
+    },
+    {
+      "id": 5,
+      "text": "కొంతసేపటికి కుప్పికి ఒక పెద్ద, సగం తిన్న చేప దొరికింది, కానీ అది ఒక బరువైన కొయ్య కింద ఇరుక్కుపోయింది. తడిసిన కొయ్య వాసన, చేప వాసన కలగలిసి దాన్ని మరింత ఆకలిగా చేశాయి. అది కొయ్యను లాగడానికి ప్రయత్నించింది, ఊపిరి ఆడనంతగా శ్రమపడింది — దాని నాలుక బయటకు వేలాడింది. \"ఊహ్! ఇది కదలడం లేదు!\" — అది నిరాశగా గొణుక్కుంది. ఒక్కదానికే ఆ చేపను ఎలా బయటికి తీయగలదు?",
+      "image_prompt": "The dog strains with all its might, attempting to pull a heavy, wet log to free a large, half-eaten fish trapped underneath. Its tongue hangs out from the exertion, and the combined smell of the wet log and fish fills the air. Overcast sky, diffused grey light, giving a heavy, oppressive feel to the forest edge where the log lies.",
+      "scene_visual": "The dog strains with all its might, attempting to pull a heavy, wet log to free a large, half-eaten fish trapped underneath. Its tongue hangs out from the exertion, and the combined smell of the wet log and fish fills the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kontasepatiki Kuppiki Oka Pedda, Sagam Tinna Chepa Dorikindi, Kaani Adi Oka Baruvaina Koyya Kinda Irukkupoyindi. Tadisina Koyya Vaasana, Chepa Vaasana Kalagalisi Daanni Marinta Aakaligaa Cheshaayi. Adi Koyyanu Laagadaaniki Prayatninchindi, Upiri Aadanantagaa Shramapadindi — Daani Naaluka Bayataku Velaadindi. \"Uh! Idi Kadaladam Ledu!\" — Adi Niraashagaa Gonukkundi. Okkadaanike Aa Chepanu Elaa Bayatiki Tiyagaladu?",
+      "text_en": "A little later, Kupping found a big, half-eaten fish, but it was stuck under a heavy log. The smell of the wet log mixed with the fish made it even hungrier. It tried to pull the log, struggling so hard it was out of breath – its tongue hung out. \"Ugh! It won't move!\" it grumbled in frustration. How could it get that fish out all by itself?"
+    },
+    {
+      "id": 6,
+      "text": "చేపను తీయలేక కుప్పి అలిసిపోయింది, అంతలో — ఇతర ఆకలితో ఉన్న కుక్కలు ఆ కొయ్య వైపు వస్తున్నట్లు చూసింది. అది భయపడింది, కానీ వెంటనే ఒక ఆలోచన వచ్చింది. సాధారణంగా అయితే గర్జించేది, కానీ ఈసారి అది గట్టిగా మొరిగింది. \"భౌ భౌ! ఇక్కడ!\" — అది ఉత్సాహంగా అరిచింది. దాని తోక కొద్దిగా ఊగింది, ఆశగా చూసింది. ఇతర కుక్కలు కుప్పి మొర ఆలకించి సహాయం చేస్తాయా, లేక పట్టించుకోకుండా వెళ్ళిపోతాయా?",
+      "image_prompt": "The dog barks loudly and enthusiastically towards other hungry dogs approaching the log. Its tail wags slightly with hope, and its eyes are fixed on the other dogs, seeking their attention. A brief moment of sunlight breaking through the clouds, illuminating Kuppi and the log, suggesting a turning point, warm and hopeful.",
+      "scene_visual": "The dog barks loudly and enthusiastically towards other hungry dogs approaching the log. Its tail wags slightly with hope, and its eyes are fixed on the other dogs, seeking their attention.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chepanu Tiyaleka Kuppi Alisipoyindi, Antalo — Itara Aakalito Unna Kukkalu Aa Koyya Vaipu Vastunnatlu Chusindi. Adi Bhayapadindi, Kaani Ventane Oka Aalochana Vachchindi. Saadhaaranangaa Ayite Garjinchedi, Kaani Isaari Adi Gattigaa Morigindi. \"Bhau Bhau! Ikkada!\" — Adi Utsaahangaa Arichindi. Daani Toka Koddigaa Ugindi, Aashagaa Chusindi. Itara Kukkalu Kuppi Mora Aalakinchi Sahaayam Chestaayaa, Leka Pattinchukokundaa Vellipotaayaa?",
+      "text_en": "Kupping was tired from trying to get the fish out, and then it saw other hungry dogs coming towards the log. It felt scared, but then an idea popped into its head. Normally it would growl, but this time it barked loudly. \"Woof woof! Over here!\" it yelped excitedly. Its tail wagged a little, and it looked hopeful. Would the other dogs hear Kupping's bark and help, or would they just ignore it and walk away?"
+    },
+    {
+      "id": 7,
+      "text": "కుప్పి అరుపు విని, మిగిలిన కుక్కలు దగ్గరకు వచ్చాయి, పరిస్థితి అర్థం చేసుకున్నాయి. అవి కలిసి కొయ్యను కదిలించాయి, చేపను బయటికి తీశాయి. \"యెల్ప్!\" అని కుప్పి ఆనందంగా అరవగా, మిగతా కుక్కలు కూడా సంతోషంగా అరిచాయి. అందరూ కలిసి చేపను పంచుకుని తిన్నారు, ఆకలి తీరిపోయింది. కుప్పి తోక స్వేచ్ఛగా ఊగింది, అది మరో కుక్కను ఆటపట్టిస్తూ తోసింది. దాని గుండెల్లో కేవలం కడుపు నిండిన ఆనందం మాత్రమే కాదు — అంతకు మించిన వెచ్చదనం నిండింది.",
+      "image_prompt": "The dogs work together, pushing and pulling the heavy log to free the trapped fish. Afterwards, the main dog's tail wags freely as it playfully nudges another dog, sharing the meal. Gentle dusk light, warm amber and soft, bathing the group of dogs in a peaceful glow, symbolizing the end of their hardship and the beginning of camaraderie.",
+      "scene_visual": "The dogs work together, pushing and pulling the heavy log to free the trapped fish. Afterwards, the main dog's tail wags freely as it playfully nudges another dog, sharing the meal.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kuppi Arupu Vini, Migilina Kukkalu Daggaraku Vachchaayi, Paristhiti Artham Chesukunnaayi. Avi Kalisi Koyyanu Kadilinchaayi, Chepanu Bayatiki Tishaayi. \"Yelp!\" Ani Kuppi Aanandangaa Aravagaa, Migataa Kukkalu Kudaa Santoshangaa Arichaayi. Andaru Kalisi Chepanu Panchukuni Tinnaaru, Aakali Tiripoyindi. Kuppi Toka Svechchagaa Ugindi, Adi Maro Kukkanu Aatapattistu Tosindi. Daani Gundello Kevalam Kadupu Nindina Aanandam Maatrame Kaadu — Antaku Minchina Vechchadanam Nindindi.",
+      "text_en": "Hearing Kupping's yelp, the other dogs came closer and understood the situation. Together, they moved the log and pulled out the fish. \"Yelp!\" Kupping cried happily, and the other dogs barked with joy too. Everyone shared the fish and ate it, and their hunger was gone. Kupping's tail wagged freely, and it playfully nudged another dog. Its heart was filled not just with the happiness of a full belly, but with a warmth even greater than that."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.17,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This is an exceptionally well-crafted children's story, demonstrating a deep understanding of engaging young audiences. The consistent use of direct questions at scene ends brilliantly fosters child engagement and oral storytelling authenticity. The narrative arc is compelling, showing genuine character struggle and growth, with emotions effectively shown rather than told. To reach a perfect score, consider giving the other dogs a slightly more distinct 'voice' or reaction beyond just 'yelping' in the final scene, even if brief."
+  },
+  "title_te_en": "Kuppiki Nerpina Panchukune Paatham",
+  "moral_te_en": "Mana Daggara Koddigaa Unnaa, Padimandito Panchukunte Aa Santoshame Veru Kadu!",
+  "title_en": "Kupping's Lesson in Sharing",
+  "moral_en": "Even if you have only a little, sharing it with others brings a special kind of happiness!",
+  "id": "20260525_201125",
+  "date": "2026-05-25",
+  "category": "neeti",
+  "subcategory": "animal_morals",
+  "topic": "స్వార్థపరుడైన కుక్క",
+  "thumbnail": "stories/20260525_201125/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
