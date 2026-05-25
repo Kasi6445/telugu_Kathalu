@@ -1,0 +1,97 @@
+{
+  "title": "బంగారు పక్షి, రాజుకు స్వేచ్ఛ పాఠం",
+  "moral": "నిజమైన సంతోషం, ప్రకృతి ఇచ్చిన చిన్నచిన్న బహుమతుల్ని పంచుకోవడంలో, వాటిని ప్రేమగా చూడటంలోనే ఉంటుంది; సంపదలు పోగుచేసుకోవడంలో కాదు.",
+  "main_character": "A lean, bright-eyed boy of 9 named Raju, with sun-kissed skin and tangled black hair often adorned with a single jasmine bud. He's always humming a tune and has an uncanny ability to find the ripest mangoes in the village orchard. Always the same character across every scene.",
+  "antagonist": "A portly, scowling Zamindar in his late 50s, with a handlebar mustache and a jewel-encrusted turban. He wears a flowing silk dhoti of deep maroon and carries a silver-tipped cane, which he taps impatiently. Always the same character across every scene.",
+  "setting": "A vibrant village nestled beside a gurgling river in rural Andhra Pradesh, with mud-brick houses, lush paddy fields, and ancient banyan trees. The story unfolds from early morning to late evening, capturing the changing light. Always the same character across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లెటూరిలో పొద్దుపొడిచింది, సూర్యకిరణాలు పొలాల మీద పరుచుకుంటున్నాయి.\nమన రాజు నవ్వుతూ, నది ఒడ్డున పూలని ఏరుకుంటూ వెళ్తున్నాడు — అతని కాలికి కట్టిన గజ్జెలు టపటప మ్రోగుతున్నాయి.\nనదిలోకి దిగగానే, చల్లని, నునుపైన గులకరాళ్ళు అతని లేత పాదాలకు హాయిగా తగిలాయి.\nఅతను గెంతులు వేస్తూ, మురిసిపోతూ, 'ఈ రోజు ఆట చాలా బాగుంది!' అని కేకేశాడు.\nఈ అల్లరి పిల్లవాడికి ఈ పల్లెటూరిలో ఇంకా ఎలాంటి కొత్త సాహసాలు ఎదురవుతాయో తెలుసా మీకు?",
+      "image_prompt": "The boy is joyfully jumping and shouting as he wades into the river, picking flowers along its bank. Cool, smooth pebbles touch his tender feet as sunlight spreads across the fields. Bright morning sun, golden light filtering through the dense green canopy of riverside trees, creating dappled patterns on the water.",
+      "scene_visual": "The boy is joyfully jumping and shouting as he wades into the river, picking flowers along its bank. Cool, smooth pebbles touch his tender feet as sunlight spreads across the fields.",
+      "supporting_char_keys": [],
+      "text_te_en": "Palleturilo Poddupodichindi, Suryakiranaalu Polaala Mida Paruchukuntunnaayi.\nMana Raaju Navvutu, Nadi Odduna Pulani Erukuntu Veltunnaadu — Atani Kaaliki Kattina Gajjelu Tapatapa Mrogutunnaayi.\nNadiloki Digagaane, Challani, Nunupaina Gulakaraallu Atani Leta Paadaalaku Haayigaa Tagilaayi.\nAtanu Gentulu Vestu, Murisipotu, 'I Roju Aata Chaalaa Baagundi!' Ani Kekeshaadu.\nI Allari Pillavaadiki I Palleturilo Inkaa Elaanti Kotta Saahasaalu Eduravutaayo Telusaa Miku?",
+      "text_en": "The sun rose in the village, and its rays spread over the fields.\nOur Raju was walking along the river bank, smiling and picking flowers — the anklets on his feet jingled softly.\nAs he stepped into the river, the cool, smooth pebbles felt pleasant on his tender feet.\nHe jumped and rejoiced, shouting, 'Today's game is so much fun!'\nDo you know what new adventures await this mischievous boy in the village?"
+    },
+    {
+      "id": 2,
+      "text": "అలా ఆడుకుంటూ వెళ్తుండగా, రాజుకు పొదల్లో నుంచి ఒక మెత్తటి శబ్దం వినిపించింది – అది చిన్నచిన్న గంటల మోతలా ఉంది.\nఅదిగో — ఒక మెరిసిపోతున్న బంగారు పక్షి!\nదాని మెరుపు చూసి రాజు కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, కానీ దాని విరిగిన రెక్క చూసి అతని ముఖం బాధతో చిన్నబోయింది.\nనెమ్మదిగా దగ్గరికి వెళ్లి, 'అయ్యో, నీకేమైంది పక్షీ?' అని దయగా అడిగాడు.\nఈ అందమైన పక్షికి మన రాజు ఎలా సహాయం చేస్తాడో ఏమో అని అంతా ఆసక్తిగా చూస్తున్నారు.",
+      "image_prompt": "The boy slowly approaches a glittering golden bird hidden in the bushes, his eyes widening in surprise. His face then falls with sadness upon seeing the bird's broken wing. Dappled sunlight under a large banyan tree, a faint, magical glow emanating from the golden bird, casting a soft yellow light on Raju's hands.",
+      "scene_visual": "The boy slowly approaches a glittering golden bird hidden in the bushes, his eyes widening in surprise. His face then falls with sadness upon seeing the bird's broken wing.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alaa Aadukuntu Veltundagaa, Raajuku Podallo Nunchi Oka Mettati Shabdam Vinipinchindi – Adi Chinnachinna Gantala Motalaa Undi.\nAdigo — Oka Merisipotunna Bangaaru Pakshi!\nDaani Merupu Chusi Raaju Kallu Aashcharyanto Peddavayyaayi, Kaani Daani Virigina Rekka Chusi Atani Mukham Baadhato Chinnaboyindi.\nNemmadigaa Daggariki Velli, 'Ayyo, Nikemaindi Pakshi?' Ani Dayagaa Adigaadu.\nI Andamaina Pakshiki Mana Raaju Elaa Sahaayam Chestaado Emo Ani Antaa Aasaktigaa Chustunnaaru.",
+      "text_en": "As he was playing, Raju heard a soft sound from the bushes – it was like the tinkling of tiny bells.\nThere it was — a shimmering golden bird!\nRaju's eyes widened in wonder at its sparkle, but his face saddened when he saw its broken wing.\nHe slowly went closer and kindly asked, 'Oh dear, what happened to you, little bird?'\nEveryone is curious to see how our Raju will help this beautiful bird."
+    },
+    {
+      "id": 3,
+      "text": "కొన్ని రోజుల తర్వాత, రాజు ప్రేమగా చూసుకోగా ఆ బంగారు పక్షికి ఆరోగ్యం కుదిరింది — అది మళ్ళీ సంతోషంగా పాటలు పాడుతోంది.\nఒక్కసారిగా — ఒక బంగారు గుడ్డు!\nఈ అద్భుత వార్త పల్లెటూరంతా పాకి, చివరికి ఆశబోతు జమీందారు చెవినా పడింది.\nజమీందారు రాజు ఇంటికి వచ్చి, కోపంగా 'ఆ బంగారు పక్షి నాది! ఇప్పుడే నాకు అప్పగించు!' అని అరిచాడు.\nరాజు పక్షిని తన గుండెలకి హత్తుకుని, జమీందారు వైపు భయంగా చూశాడు — ఇప్పుడు ఈ అమాయక పిల్లవాడు ఏం చేస్తాడో?",
+      "image_prompt": "The boy tightly hugs the golden bird to his chest, looking fearfully towards the angry landlord. The landlord stands before him, shouting angrily, demanding the bird. Also in this scene: A portly, scowling Zamindar in his late 50s, with a handlebar mustache and a jewel-encrusted turban. He wears a flowing silk dhoti of deep maroon and carries a silver-tipped cane, which he taps impatiently. Always the same character across every scene. Harsh midday sun, bright and unforgiving, casting long, intimidating shadows from the Zamindar's imposing figure as he stands outside Raju's hut.",
+      "scene_visual": "The boy tightly hugs the golden bird to his chest, looking fearfully towards the angry landlord. The landlord stands before him, shouting angrily, demanding the bird.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojula Tarvaata, Raaju Premagaa Chusukogaa Aa Bangaaru Pakshiki Aarogyam Kudirindi — Adi Malli Santoshangaa Paatalu Paadutondi.\nOkkasaarigaa — Oka Bangaaru Guddu!\nI Adbhuta Vaarta Palleturantaa Paaki, Chivariki Aashabotu Jamindaaru Chevinaa Padindi.\nJamindaaru Raaju Intiki Vachchi, Kopangaa 'Aa Bangaaru Pakshi Naadi! Ippude Naaku Appaginchu!' Ani Arichaadu.\nRaaju Pakshini Tana Gundelaki Hattukuni, Jamindaaru Vaipu Bhayangaa Chushaadu — Ippudu I Amaayaka Pillavaadu Em Chestaado?",
+      "text_en": "A few days later, with Raju's loving care, the golden bird recovered — it was singing happily again.\nSuddenly — a golden egg!\nThis amazing news spread throughout the village and finally reached the greedy Zamindar's ears.\nThe Zamindar came to Raju's house and angrily shouted, 'That golden bird is mine! Hand it over to me right now!'\nRaju hugged the bird tightly to his chest and looked at the Zamindar with fear — what will this innocent boy do now?"
+    },
+    {
+      "id": 4,
+      "text": "జమీందారు మాటలకు భయపడి, రాజు పక్షిని తన పాత గోనెసంచిలో దాచడానికి ప్రయత్నించాడు — ఆ గోనెసంచి ముతకగా, గరుకుగా ఉంది.\nకానీ జమీందారు మనుషులు మొత్తం ఇల్లంతా వెతికారు, వాళ్ళ కాళ్ళ కింద అన్నీ చిందరవందర అయ్యాయి.\nరాజు కళ్ళల్లో నీళ్ళు నిండుకున్నాయి, పక్షిని ఇంకా గట్టిగా పట్టుకున్నాడు — అది అతని చేతుల్లో వణికింది.\nఅప్పుడు జమీందారు మనుషులు పక్షిని లాక్కుంటారని, రాజు 'నేను పక్షిని ఇవ్వను!' అని గట్టిగా అరిచాడు.\nదాచడానికి చోటు లేదు, పారిపోవడానికి దారి లేదు — ఇప్పుడు రాజు తన బంగారు పక్షిని ఎలా కాపాడుకుంటాడు?",
+      "image_prompt": "The boy holds the trembling bird even tighter in his hands, tears welling up in his eyes, as he shouts, \"I will not give the bird!\" The landlord's men are ransacking the house, scattering everything under their feet. Also in this scene: A portly, scowling Zamindar in his late 50s, with a handlebar mustache and a jewel-encrusted turban. He wears a flowing silk dhoti of deep maroon and carries a silver-tipped cane, which he taps impatiently. Always the same character across every scene. Dim, dusty light inside Raju's small, cluttered hut, contrasted with the bright, oppressive sunlight streaming through the open doorway where the Zamindar's men loom.",
+      "scene_visual": "The boy holds the trembling bird even tighter in his hands, tears welling up in his eyes, as he shouts, \"I will not give the bird!\" The landlord's men are ransacking the house, scattering everything under their feet.",
+      "supporting_char_keys": [],
+      "text_te_en": "Jamindaaru Maatalaku Bhayapadi, Raaju Pakshini Tana Paata Gonesanchilo Daachadaaniki Prayatninchaadu — Aa Gonesanchi Mutakagaa, Garukugaa Undi.\nKaani Jamindaaru Manushulu Mottam Illantaa Vetikaaru, Vaalla Kaalla Kinda Anni Chindaravandara Ayyaayi.\nRaaju Kallallo Nillu Nindukunnaayi, Pakshini Inkaa Gattigaa Pattukunnaadu — Adi Atani Chetullo Vanikindi.\nAppudu Jamindaaru Manushulu Pakshini Laakkuntaarani, Raaju 'Nenu Pakshini Ivvanu!' Ani Gattigaa Arichaadu.\nDaachadaaniki Chotu Ledu, Paaripovadaaniki Daari Ledu — Ippudu Raaju Tana Bangaaru Pakshini Elaa Kaapaadukuntaadu?",
+      "text_en": "Frightened by the Zamindar's words, Raju tried to hide the bird in his old sack — the sack was coarse and rough.\nBut the Zamindar's men searched the entire house, turning everything upside down.\nTears welled up in Raju's eyes, and he held the bird even tighter — it trembled in his hands.\nJust as the Zamindar's men were about to snatch the bird, Raju loudly cried, 'I won't give you the bird!'\nThere was nowhere to hide, and no way to escape — how will Raju protect his golden bird now?"
+    },
+    {
+      "id": 5,
+      "text": "రాజు దిగులుగా కూర్చుని ఉండగా, బంగారు పక్షి మెల్లగా అతని చేతిని తాకింది — దాని కళ్ళల్లో ఏదో తెలివైన చూపు ఉంది.\nపక్షి తన మెత్తటి, వెచ్చని రెక్కలను రాజు బుగ్గకు ఆనించి, ఏదో చెప్పినట్లుగా చూసింది.\nఆ క్షణంలో — అంతా అర్థమైంది!\nఅతని భయం పోయి, మనసు ప్రశాంతంగా మారింది; 'బంగారం ముఖ్యం కాదు, దాని సంతోషమే ముఖ్యం' అని గట్టిగా అనుకున్నాడు.\nఈ కొత్త తెలివితో, రాజు తన ప్రియమైన పక్షిని కాపాడటానికి ఎలాంటి ధైర్యమైన ప్రణాళిక వేస్తాడో చూద్దాం.",
+      "image_prompt": "The boy sits dejectedly as the golden bird gently touches his hand and then presses its soft, warm wing against his cheek. A wise look is visible in the bird's eyes, and the boy's fear visibly melts away. Soft, warm glow of late afternoon light filtering through the small window, illuminating Raju's thoughtful face and casting a gentle aura around the golden bird.",
+      "scene_visual": "The boy sits dejectedly as the golden bird gently touches his hand and then presses its soft, warm wing against his cheek. A wise look is visible in the bird's eyes, and the boy's fear visibly melts away.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Digulugaa Kurchuni Undagaa, Bangaaru Pakshi Mellagaa Atani Chetini Taakindi — Daani Kallallo Edo Telivaina Chupu Undi.\nPakshi Tana Mettati, Vechchani Rekkalanu Raaju Buggaku Aaninchi, Edo Cheppinatlugaa Chusindi.\nAa Kshananlo — Antaa Arthamaindi!\nAtani Bhayam Poyi, Manasu Prashaantangaa Maarindi; 'Bangaaram Mukhyam Kaadu, Daani Santoshame Mukhyan' Ani Gattigaa Anukunnaadu.\nI Kotta Telivito, Raaju Tana Priyamaina Pakshini Kaapaadataaniki Elaanti Dhairyamaina Pranaalika Vestaado Chuddaan.",
+      "text_en": "As Raju sat sadly, the golden bird gently touched his hand — there was a wise look in its eyes.\nThe bird pressed its soft, warm wings against Raju's cheek, looking as if it was trying to tell him something.\nIn that moment — everything became clear!\nHis fear vanished, and his mind became calm; he firmly thought, 'Gold is not important, its happiness is what matters.'\nWith this new understanding, let's see what brave plan Raju will make to save his beloved bird."
+    },
+    {
+      "id": 6,
+      "text": "జమీందారు మళ్ళీ పక్షిని తీసుకోవడానికి వచ్చినప్పుడు, రాజు భయం లేకుండా అతని ముందు నిలబడ్డాడు.\nఒక్క క్షణం కూడా ఆలోచించకుండా, అతను పక్షి బోను తలుపు తెరిచి, 'పక్షి స్వేచ్ఛగా ఉండాలి!' అని గట్టిగా చెప్పాడు.\nఆ బంగారు పక్షి ఒక్కసారిగా రెక్కలు విదిలించి — 'ఫర్ర్' మంటూ ఆకాశంలోకి దూసుకుపోయింది, దాని రెక్కల గాలి శబ్దం చెవుల్లో మ్రోగింది.\nరాజు మనసులో బాధ ఉన్నా, పక్షి ఎగిరిపోవడం చూసి అతని పెదవుల మీద చిరునవ్వు మెరిసింది — స్వేచ్ఛ ఇచ్చినందుకు అది సంతోషంగా ఉంది.\nఇప్పుడు రాజు చేసిన ఈ త్యాగానికి ఎలాంటి ఫలితం వస్తుంది, కోపంతో ఊగిపోతున్న జమీందారు పరిస్థితి ఏమవుతుంది?",
+      "image_prompt": "The boy stands fearlessly before the landlord, opening the birdcage door and declaring, \"The bird must be free!\" The golden bird flaps its wings and soars into the sky, leaving a faint smile on the boy's lips. Also in this scene: A portly, scowling Zamindar in his late 50s, with a handlebar mustache and a jewel-encrusted turban. He wears a flowing silk dhoti of deep maroon and carries a silver-tipped cane, which he taps impatiently. Always the same character across every scene. Golden hour light, dramatic and intense, as the bird soars upwards against an orange-pink sky, while the Zamindar's face is shadowed in enraged disbelief.",
+      "scene_visual": "The boy stands fearlessly before the landlord, opening the birdcage door and declaring, \"The bird must be free!\" The golden bird flaps its wings and soars into the sky, leaving a faint smile on the boy's lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Jamindaaru Malli Pakshini Tisukovadaaniki Vachchinappudu, Raaju Bhayam Lekundaa Atani Mundu Nilabaddaadu.\nOkka Kshanam Kudaa Aalochinchakundaa, Atanu Pakshi Bonu Talupu Terichi, 'Pakshi Svechchagaa Undaali!' Ani Gattigaa Cheppaadu.\nAa Bangaaru Pakshi Okkasaarigaa Rekkalu Vidilinchi — 'Pharr' Mantu Aakaashanloki Dusukupoyindi, Daani Rekkala Gaali Shabdam Chevullo Mrogindi.\nRaaju Manasulo Baadha Unnaa, Pakshi Egiripovadam Chusi Atani Pedavula Mida Chirunavvu Merisindi — Svechcha Ichchinanduku Adi Santoshangaa Undi.\nIppudu Raaju Chesina I Tyaagaaniki Elaanti Phalitam Vastundi, Kopanto Ugipotunna Jamindaaru Paristhiti Emavutundi?",
+      "text_en": "When the Zamindar came again to take the bird, Raju stood before him without fear.\nWithout a moment's hesitation, he opened the bird's cage door and loudly declared, 'The bird must be free!'\nThe golden bird flapped its wings once — and 'whoosh!' it soared into the sky, the sound of its wings echoing in their ears.\nEven though Raju felt a pang of sadness, a smile lit up his lips as he watched the bird fly away — it was happy to be free.\nNow, what will be the result of Raju's sacrifice, and what will happen to the enraged Zamindar?"
+    },
+    {
+      "id": 7,
+      "text": "బంగారు పక్షి ఆకాశంలోకి ఎగిరిపోతూ ఉండగా, దాని రెక్కల్లోంచి ఒక మెరిసే ఈక మెల్లగా కిందకు జారింది.\nఅది రాజు అరచేతిలో పడగానే — బంగారు పువ్వుగా మారింది!\nపల్లె ప్రజలు రాజు చేసిన పనికి ఆశ్చర్యపోయి, అతన్ని పొగిడారు; కానీ జమీందారు మాత్రం ఏమీ దొరకక, సిగ్గుపడి తల దించుకున్నాడు.\nరాజు ఆ పువ్వుని ప్రేమగా చూస్తూ, 'ఈ పక్షి నాకు ఎప్పటికీ గుర్తుంటుంది' అని మెల్లగా అనుకున్నాడు.\nఆ రోజు నుండి, రాజు ఆ పువ్వుని చూసుకుంటూ, ప్రకృతి గొప్పతనాన్ని, పంచుకోవడంలో ఉన్న ఆనందాన్ని గ్రహించాడు.",
+      "image_prompt": "A glittering feather falls from the golden bird's wings into the boy's palm, instantly transforming into a golden flower. The boy gazes lovingly at the flower while the landlord stands nearby, head bowed in shame. Also in this scene: A portly, scowling Zamindar in his late 50s, with a handlebar mustache and a jewel-encrusted turban. He wears a flowing silk dhoti of deep maroon and carries a silver-tipped cane, which he taps impatiently. Always the same character across every scene. Gentle dusk light, warm amber and soft purple hues, casting a peaceful glow over the village and highlighting Raju's serene face holding the magical flower, while the Zamindar stands alone in a fading, cold light.",
+      "scene_visual": "A glittering feather falls from the golden bird's wings into the boy's palm, instantly transforming into a golden flower. The boy gazes lovingly at the flower while the landlord stands nearby, head bowed in shame.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bangaaru Pakshi Aakaashanloki Egiripotu Undagaa, Daani Rekkallonchi Oka Merise Ika Mellagaa Kindaku Jaarindi.\nAdi Raaju Arachetilo Padagaane — Bangaaru Puvvugaa Maarindi!\nPalle Prajalu Raaju Chesina Paniki Aashcharyapoyi, Atanni Pogidaaru; Kaani Jamindaaru Maatram Emi Dorakaka, Siggupadi Tala Dinchukunnaadu.\nRaaju Aa Puvvuni Premagaa Chustu, 'I Pakshi Naaku Eppatiki Gurtuntundi' Ani Mellagaa Anukunnaadu.\nAa Roju Nundi, Raaju Aa Puvvuni Chusukuntu, Prakrriti Goppatanaanni, Panchukovadanlo Unna Aanandaanni Grahinchaadu.",
+      "text_en": "As the golden bird flew higher into the sky, a shimmering feather gently drifted down from its wings.\nAs it landed in Raju's palm — it transformed into a golden flower!\nThe villagers were amazed by Raju's actions and praised him; but the Zamindar, finding nothing, hung his head in shame.\nRaju looked at the flower with love and softly thought, 'I will always remember this bird.'\nFrom that day on, Raju cherished the flower, understanding the greatness of nature and the joy of sharing."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.17,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is exceptionally well-crafted for a children's audience, demonstrating strong oral storytelling elements, deep emotional portrayal, and a compelling narrative arc. The consistent use of direct address and suspenseful questions ensures high child engagement. The only area for minor improvement is to ensure every scene features direct spoken dialogue rather than internal thoughts, which would further enhance character interaction and dynamism. This story is award-worthy and would be cherished by children."
+  },
+  "title_te_en": "Bangaaru Pakshi, Raajuku Svechcha Paatham",
+  "moral_te_en": "Nijamaina Santoshan, Prakrriti Ichchina Chinnachinna Bahumatulni Panchukovadanlo, Vaatini Premagaa Chudatanlone Untundi; Sampadalu Poguchesukovadanlo Kaadu.",
+  "title_en": "The Golden Bird and Raju's Lesson of Freedom",
+  "moral_en": "True happiness lies in sharing and loving the small gifts nature gives us, not in collecting riches.",
+  "id": "20260525_050821",
+  "date": "2026-05-25",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "తెలుగు జానపద కథ - బంగారు పక్షి",
+  "thumbnail": "stories/20260525_050821/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
