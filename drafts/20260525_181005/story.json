@@ -1,0 +1,111 @@
+{
+  "title": "పరీక్షిత్ రాజుకు శాంతి మార్గం",
+  "moral": "పిల్లలూ, మనసులో భగవంతుడిని తలచుకుంటే, ఎంతటి కష్టమైనా సులువుగా దాటగలము.",
+  "main_character": "A young, righteous king with a noble bearing and a compassionate heart. He has a fair complexion, a regal yet gentle expression, and wears royal garments. Always the same character across every scene.",
+  "antagonist": "A powerful Naga king with scales that shimmer like dark emeralds and eyes that glow with a cold, cunning light. He can take the form of a human or a serpent. Always the same character across every scene.",
+  "setting": "The ancient kingdom of Hastinapura, by the sacred banks of the River Ganga. The royal palace is grand, with intricately carved pillars, while the riverbank is serene, lined with ancient trees. The setting shifts between royal splendor and tranquil natural beauty. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "హస్తినాపుర రాజ్యంలో, పరీక్షిత్ మహారాజు ప్రజలను కన్నబిడ్డల్లా చూసుకునేవాడు. రాజభవనం ప్రాంగణంలో, ప్రజల సంతోషపు గుసగుసలు మెల్లగా వినిపించేవి, అది రాజు మనసును నింపేది. ఆయన ప్రజల మాటలు వింటూ, ముఖంపై ఒక చిరునవ్వు చెరగకుండా చూసుకునేవాడు. \"మీ ఆనందమే నా ఆనందం,\" అని ఆయన ప్రేమగా పలికేవాడు. ప్రజలు కూడా రాజును తమ ప్రాణం కన్నా ఎక్కువగా ప్రేమించేవారు. మరి ఇంత మంచి రాజుకు ఎలాంటి కష్టం రాబోతుందో ఎవరికి తెలుసు?",
+      "image_prompt": "The king stands within the palace grounds, listening intently to the murmurs of his people. A gentle, unwavering smile graces his face as he absorbs their joyful sounds. Bright, warm morning sun filtering through large palace arches, casting golden light on the marble floors, indicating prosperity and peace.",
+      "scene_visual": "The king stands within the palace grounds, listening intently to the murmurs of his people. A gentle, unwavering smile graces his face as he absorbs their joyful sounds.",
+      "supporting_char_keys": [],
+      "text_te_en": "Hastinaapura Raajyanlo, Parikshit Mahaaraaju Prajalanu Kannabiddallaa Chusukunevaadu. Raajabhavanam Praangananlo, Prajala Santoshapu Gusagusalu Mellagaa Vinipinchevi, Adi Raaju Manasunu Nimpedi. Aayana Prajala Maatalu Vintu, Mukhampai Oka Chirunavvu Cheragakundaa Chusukunevaadu. \"Mi Aanandame Naa Aanandan,\" Ani Aayana Premagaa Palikevaadu. Prajalu Kudaa Raajunu Tama Praanam Kannaa Ekkuvagaa Preminchevaaru. Mari Inta Manchi Raajuku Elaanti Kashtam Raabotundo Evariki Telusu?",
+      "text_en": "In the kingdom of Hastinapura, King Parikshit looked after his people as if they were his own children. In the palace grounds, the happy whispers of the people could be heard softly, filling the king's heart. He would listen to his people, making sure a smile never left his face. \"Your happiness is my happiness,\" he would say lovingly. The people also loved their king more than their own lives. But who knew what kind of trouble was coming for such a good king?"
+    },
+    {
+      "id": 2,
+      "text": "ఒకరోజు వేటకెళ్ళిన రాజు, దప్పికతో అలసిపోయి, ఒక ముని ఆశ్రమం చేరాడు. అక్కడ ధ్యానంలో ఉన్న ఒక మునిని చూసి, ఆయన నుదురు చిట్లించుకున్నాడు — అప్పుడు తెలియక ఒక నిర్జీవ సర్పం ఆయన మెడలో వేసాడు. ఆ క్షణంలో, ముని కుమారుడు కోపంతో గట్టిగా అరుస్తూ అక్కడికి వచ్చాడు. ఆ అరుపు — నిశ్శబ్ద అడవిలో ప్రతిధ్వనించింది. \"తక్షకుడి విషంతో ఏడు రోజులలో మరణిస్తావు!\" అని కుమారుడు శపించాడు. రాజు శరీరం ఒక్కసారిగా చల్లబడింది, అతని కళ్ళు భయంతో పెద్దవయ్యాయి. ఇంతటి కఠినమైన శాపాన్ని రాజు ఎలా ఎదుర్కొంటాడు?",
+      "image_prompt": "The king stands motionless, his body chilled, as the sage's son shouts a curse at him. His eyes are wide with fear, fixed on the dead serpent that he unknowingly placed around the meditating sage's neck. Dappled sunlight and deep shadows in a dense forest, creating a sense of unease and sudden shock.",
+      "scene_visual": "The king stands motionless, his body chilled, as the sage's son shouts a curse at him. His eyes are wide with fear, fixed on the dead serpent that he unknowingly placed around the meditating sage's neck.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okaroju Vetakellina Raaju, Dappikato Alasipoyi, Oka Muni Aashramam Cheraadu. Akkada Dhyaananlo Unna Oka Munini Chusi, Aayana Nuduru Chitlinchukunnaadu — Appudu Teliyaka Oka Nirjiva Sarpam Aayana Medalo Vesaadu. Aa Kshananlo, Muni Kumaarudu Kopanto Gattigaa Arustu Akkadiki Vachchaadu. Aa Arupu — Nishshabda Adavilo Pratidhvaninchindi. \"Takshakudi Vishanto Edu Rojulalo Maranistaavu!\" Ani Kumaarudu Shapinchaadu. Raaju Shariram Okkasaarigaa Challabadindi, Atani Kallu Bhayanto Peddavayyaayi. Intati Kathinamaina Shaapaanni Raaju Elaa Edurkontaadu?",
+      "text_en": "One day, while hunting, the king, tired and thirsty, reached a sage's hermitage. Seeing a sage deep in meditation there, he became annoyed and, unknowingly, placed a dead snake around the sage's neck. At that moment, the sage's son arrived, shouting angrily. That shout — echoed through the silent forest. \"You will die in seven days from Takshaka's poison!\" the son cursed. The king's body suddenly grew cold, and his eyes widened with fear. How would the king face such a harsh curse?"
+    },
+    {
+      "id": 3,
+      "text": "శాపాన్ని విన్న రాజు, తన రాజ్యాన్ని విడిచిపెట్టి, పవిత్ర గంగా నది ఒడ్డుకు చేరుకున్నాడు. అక్కడ ఆయన తన భవిష్యత్తు గురించి లోతుగా ఆలోచిస్తూ కూర్చున్నాడు, అతని భుజాలు వాలిపోయాయి. గంగా నది ప్రశాంతమైన ప్రవాహం అతని చెవుల్లో ఓదార్పునిచ్చేలా వినిపించింది. \"ఈ ఏడు రోజులలో నేను ఏమి చేయాలి?\" అని రాజు తనలో తాను ప్రశ్నించుకున్నాడు — ఒక దీర్ఘ నిట్టూర్పు అతని గుండెల నుండి వెలువడింది. అతని చూపులు నదిలో కలిశాయి, ఏదో ఒక మార్గం కోసం ఆరాటపడుతున్నాయి. ఈ క్లిష్ట సమయంలో రాజుకు ఎవరు మార్గదర్శనం చేస్తారు?",
+      "image_prompt": "The king sits by the bank of the holy Ganga river, his shoulders heavily slumped in despair. His gaze is lost in the calm flow of the water, reflecting his deep contemplation and a profound sigh escapes his chest. Soft, ethereal light of early morning by the riverbank, cool blue-grey, reflecting inner contemplation and the gravity of the situation.",
+      "scene_visual": "The king sits by the bank of the holy Ganga river, his shoulders heavily slumped in despair. His gaze is lost in the calm flow of the water, reflecting his deep contemplation and a profound sigh escapes his chest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Shaapaanni Vinna Raaju, Tana Raajyaanni Vidichipetti, Pavitra Gangaa Nadi Odduku Cherukunnaadu. Akkada Aayana Tana Bhavishyattu Gurinchi Lotugaa Aalochistu Kurchunnaadu, Atani Bhujaalu Vaalipoyaayi. Gangaa Nadi Prashaantamaina Pravaaham Atani Chevullo Odaarpunichchelaa Vinipinchindi. \"I Edu Rojulalo Nenu Emi Cheyaali?\" Ani Raaju Tanalo Taanu Prashninchukunnaadu — Oka Dirgha Nitturpu Atani Gundela Nundi Veluvadindi. Atani Chupulu Nadilo Kalishaayi, Edo Oka Maargam Kosam Aaraatapadutunnaayi. I Klishta Samayanlo Raajuku Evaru Maargadarshanam Chestaaru?",
+      "text_en": "Hearing the curse, the king left his kingdom and reached the bank of the sacred Ganga River. There, he sat deeply thinking about his future, his shoulders slumped. The peaceful flow of the Ganga River sounded comforting in his ears. \"What should I do in these seven days?\" the king asked himself — a long sigh escaped his chest. His gaze met the river, longing for some path. Who would guide the king in this difficult time?"
+    },
+    {
+      "id": 4,
+      "text": "ఆ క్షణంలోనే, దివ్య తేజస్సుతో శుక మహర్షి అక్కడికి విచ్చేశారు — ఆయన రాకతో గాలిలో పవిత్ర ధూపం సువాసన నిండిపోయింది. రాజు వెంటనే నేలపై వంగి, ఆయన పాదాలకు నమస్కరించాడు, అతని కళ్ళల్లో ఆశ నిండింది. శుక మహర్షి ముఖంపై ఒక ప్రశాంతమైన నవ్వు మెరిసింది. \"మహాత్మా, మరణానికి సిద్ధంగా ఉండటానికి మార్గం ఏమిటి?\" అని రాజు వినయంగా అడిగాడు. మహర్షి తల ఊపాడు, జ్ఞానాన్ని పంచడానికి సిద్ధంగా ఉన్నట్టు. శుక మహర్షి రాజుకు ఎలాంటి బోధనలు చేస్తారు?",
+      "image_prompt": "The king immediately prostrates himself on the ground, bowing deeply at the feet of the newly arrived sage. His eyes are filled with a desperate hope, contrasting with the serene smile on the sage's radiant face. SUPPORTING CHARACTER also in this scene: shukha_maharshi — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A warm, golden glow from the setting sun bathes the assembly of sages by the river, creating an atmosphere of peace and sacred learning.",
+      "scene_visual": "The king immediately prostrates himself on the ground, bowing deeply at the feet of the newly arrived sage. His eyes are filled with a desperate hope, contrasting with the serene smile on the sage's radiant face.",
+      "supporting_char_keys": [
+        "shukha_maharshi"
+      ],
+      "text_te_en": "Aa Kshananlone, Divya Tejassuto Shuka Maharshi Akkadiki Vichcheshaaru — Aayana Raakato Gaalilo Pavitra Dhupam Suvaasana Nindipoyindi. Raaju Ventane Nelapai Vangi, Aayana Paadaalaku Namaskarinchaadu, Atani Kallallo Aasha Nindindi. Shuka Maharshi Mukhampai Oka Prashaantamaina Navvu Merisindi. \"Mahaatmaa, Maranaaniki Siddhangaa Undataaniki Maargam Emiti?\" Ani Raaju Vinayangaa Adigaadu. Maharshi Tala Upaadu, Jnyaanaanni Panchadaaniki Siddhangaa Unnattu. Shuka Maharshi Raajuku Elaanti Bodhanalu Chestaaru?",
+      "text_en": "At that very moment, Shuka Maharshi arrived with a divine glow — with his arrival, the air filled with the fragrance of sacred incense. The king immediately bowed to the ground, touching his feet, his eyes filled with hope. A peaceful smile shone on Shuka Maharshi's face. \"Great one, what is the path to prepare for death?\" the king humbly asked. The Maharshi nodded, as if ready to share his wisdom. What teachings would Shuka Maharshi give the king?"
+    },
+    {
+      "id": 5,
+      "text": "ఆరు రోజులపాటు, రాజు కళ్ళు రెప్పవేయకుండా, శుక మహర్షి భాగవతం కథలు చెప్తుంటే విన్నాడు. మహర్షి గొంతులోని లయబద్ధమైన, ఓదార్పునిచ్చే స్వరం — ఆ ప్రాంతమంతా నిండిపోయింది. రాజు మనసు భగవంతుడి కథలలో పూర్తిగా లీనమైంది, అతని ముఖం ప్రశాంతంగా మారింది. \"కథలన్నీ విన్న తర్వాత, నా మనస్సు ప్రశాంతంగా ఉంది,\" అని రాజు మెల్లగా చెప్పాడు, అతని ముఖంపై భయం జాడ కూడా లేదు. మరణ భయం పూర్తిగా మాయమై, అతని హృదయం భక్తితో నిండింది. ఏడవ రోజు దగ్గర పడుతోంది; రాజు ఈ కొత్త శాంతితో శాపాన్ని ఎదుర్కోగలడా?",
+      "image_prompt": "The king sits, completely absorbed, listening intently to the sage's rhythmic narration of stories. His face, once etched with fear, now bears a profound, peaceful expression, devoid of any trace of anxiety. SUPPORTING CHARACTER also in this scene: shukha_maharshi — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Soft, consistent daylight filtering through tree canopy, illuminating the earnest faces, conveying a sense of timeless devotion and deep concentration.",
+      "scene_visual": "The king sits, completely absorbed, listening intently to the sage's rhythmic narration of stories. His face, once etched with fear, now bears a profound, peaceful expression, devoid of any trace of anxiety.",
+      "supporting_char_keys": [
+        "shukha_maharshi"
+      ],
+      "text_te_en": "Aaru Rojulapaatu, Raaju Kallu Reppaveyakundaa, Shuka Maharshi Bhaagavatam Kathalu Cheptunte Vinnaadu. Maharshi Gontuloni Layabaddhamaina, Odaarpunichche Svaram — Aa Praantamantaa Nindipoyindi. Raaju Manasu Bhagavantudi Kathalalo Purtigaa Linamaindi, Atani Mukham Prashaantangaa Maarindi. \"Kathalanni Vinna Tarvaata, Naa Manassu Prashaantangaa Undi,\" Ani Raaju Mellagaa Cheppaadu, Atani Mukhampai Bhayam Jaada Kudaa Ledu. Marana Bhayam Purtigaa Maayamai, Atani Hrridayam Bhaktito Nindindi. Edava Roju Daggara Padutondi; Raaju I Kotta Shaantito Shaapaanni Edurkogaladaa?",
+      "text_en": "For six days, the king listened without blinking, as Shuka Maharshi narrated the stories of the Bhagavata. The rhythmic, comforting voice of the Maharshi — filled the entire area. The king's mind became completely absorbed in God's stories, and his face grew peaceful. \"After hearing all the stories, my mind is at peace,\" the king said softly, with no trace of fear on his face. The fear of death completely vanished, and his heart filled with devotion. The seventh day was approaching; could the king face the curse with this new peace?"
+    },
+    {
+      "id": 6,
+      "text": "ఏడవ రోజు రానే వచ్చింది — రాజు పూర్తిగా శ్రీమహావిష్ణువు ధ్యానంలో లీనమై ఉన్నాడు. అతని శరీరం చలనం లేకుండా, అతని పెదాలపై ఒక చిరునవ్వు మెరిసింది. ఇంతలో — నల్లటి పొగ రూపంలో తక్షకుడు అక్కడికి చేరుకున్నాడు, అతని కళ్ళు కసిగా మెరిశాయి. తక్షకుడు దగ్గరవుతున్న కొద్దీ, రాజు నుండి కమలపువ్వుల సువాసన మెల్లగా వెలువడింది. \"నా మనస్సు ఇప్పుడు భగవంతుడితో ఐక్యంగా ఉంది,\" అని రాజు మనసులో పలికాడు, శరీరం గురించి పట్టించుకోకుండా. భక్తిలో లీనమైన రాజును తక్షకుడు ఎలా శాపవిముక్తుడిని చేస్తాడు?",
+      "image_prompt": "The king sits motionless in deep meditation, a serene smile gracing his lips as a dark, smoky form approaches him. A faint fragrance of lotus flowers emanates from his still body, contrasting with the malevolent gleam in the serpent's eyes. Also in this scene: A powerful Naga king with scales that shimmer like dark emeralds and eyes that glow with a cold, cunning light. He can take the form of a human or a serpent. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: shukha_maharshi — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The air around Parikshit glows with a soft, divine golden light, contrasting with the dark, ominous shadows cast by Takshaka's approach.",
+      "scene_visual": "The king sits motionless in deep meditation, a serene smile gracing his lips as a dark, smoky form approaches him. A faint fragrance of lotus flowers emanates from his still body, contrasting with the malevolent gleam in the serpent's eyes.",
+      "supporting_char_keys": [
+        "shukha_maharshi"
+      ],
+      "text_te_en": "Edava Roju Raane Vachchindi — Raaju Purtigaa Shrimahaavishnuvu Dhyaananlo Linamai Unnaadu. Atani Shariram Chalanam Lekundaa, Atani Pedaalapai Oka Chirunavvu Merisindi. Intalo — Nallati Poga Rupanlo Takshakudu Akkadiki Cherukunnaadu, Atani Kallu Kasigaa Merishaayi. Takshakudu Daggaravutunna Koddi, Raaju Nundi Kamalapuvvula Suvaasana Mellagaa Veluvadindi. \"Naa Manassu Ippudu Bhagavantudito Aikyangaa Undi,\" Ani Raaju Manasulo Palikaadu, Shariram Gurinchi Pattinchukokundaa. Bhaktilo Linamaina Raajunu Takshakudu Elaa Shaapavimuktudini Chestaadu?",
+      "text_en": "The seventh day arrived — the king was completely absorbed in meditation on Lord Vishnu. His body was still, and a smile shone on his lips. Meanwhile — Takshaka arrived in the form of black smoke, his eyes gleaming with malice. As Takshaka drew closer, a gentle fragrance of lotus flowers emanated from the king. \"My mind is now one with God,\" the king thought to himself, not caring about his body. How would Takshaka's curse affect a king so absorbed in devotion?"
+    },
+    {
+      "id": 7,
+      "text": "తక్షకుడు రాజును సమీపించగానే, ఒక్కసారిగా ఒక దివ్యమైన కాంతి రాజు చుట్టూ ప్రకాశించింది — చల్లటి గాలి వీస్తూ, పువ్వుల వర్షం కురిసింది. ఆ కాంతి ముందు తక్షకుడు నిలబడలేకపోయాడు, అతని శరీరం వెనక్కి తగ్గిపోయింది. రాజు ముఖంపై దివ్యమైన చిరునవ్వు వెలిగింది, అతని మనసు పరమాత్మలో లీనమైంది. \"ధర్మం ఎప్పుడూ గెలుస్తుంది,\" అని దేవతలు ఆకాశం నుండి పలికినట్టు వినిపించింది. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది, న్యాయం జరిగింది. రాజు శరీరాన్ని విడిచిపెట్టి, శాశ్వత శాంతిని పొందాడు.",
+      "image_prompt": "A brilliant divine light suddenly envelops the king, causing the approaching serpent's dark form to recoil instantly. A profound, divine smile illuminates the king's face amidst the shower of flowers and the cool breeze. Also in this scene: A powerful Naga king with scales that shimmer like dark emeralds and eyes that glow with a cold, cunning light. He can take the form of a human or a serpent. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: shukha_maharshi — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A brilliant, pure white light of divine grace surrounds Parikshit, making Takshaka appear small and insignificant in the encompassing radiance.",
+      "scene_visual": "A brilliant divine light suddenly envelops the king, causing the approaching serpent's dark form to recoil instantly. A profound, divine smile illuminates the king's face amidst the shower of flowers and the cool breeze.",
+      "supporting_char_keys": [
+        "shukha_maharshi"
+      ],
+      "text_te_en": "Takshakudu Raajunu Samipinchagaane, Okkasaarigaa Oka Divyamaina Kaanti Raaju Chuttu Prakaashinchindi — Challati Gaali Vistu, Puvvula Varsham Kurisindi. Aa Kaanti Mundu Takshakudu Nilabadalekapoyaadu, Atani Shariram Venakki Taggipoyindi. Raaju Mukhampai Divyamaina Chirunavvu Veligindi, Atani Manasu Paramaatmalo Linamaindi. \"Dharmam Eppudu Gelustundi,\" Ani Devatalu Aakaasham Nundi Palikinattu Vinipinchindi. Devuni Shakti Mundu Chedu Nilavalekapoyindi, Nyaayam Jarigindi. Raaju Shariraanni Vidichipetti, Shaashvata Shaantini Pondaadu.",
+      "text_en": "As Takshaka approached the king, a divine light suddenly shone around the king — a cool breeze blew, and flowers rained down. Takshaka could not stand before that light; his body recoiled. A divine smile lit up the king's face, and his mind merged with the Supreme Soul. \"Righteousness always wins,\" it sounded as if the gods spoke from the sky. Evil could not stand before God's power, and justice was done. The king left his body and attained eternal peace."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "shukha_maharshi",
+      "description": "A revered sage, young in appearance but ancient in wisdom. He has a serene, youthful face, long matted hair, and wears simple saffron robes. His eyes reflect deep spiritual insight. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 7,
+    "child_engagement": 9,
+    "average": 8.33,
+    "weakest_dimension": "narrative_arc",
+    "notes": "This story excels in emotional depth, grammar, and child engagement, particularly with its effective scene-ending hooks. The transformation of the king is well-depicted, and the language is beautifully colloquial. To reach a 9+ score, the single most important fix is to remove all explicit moral statements, including the initial one and the 'gods said' line. The moral should emerge organically from the narrative, allowing children to discover it through the king's journey rather than being told directly."
+  },
+  "title_te_en": "Parikshit Raajuku Shaanti Maargam",
+  "moral_te_en": "Pillalu, Manasulo Bhagavantudini Talachukunte, Entati Kashtamainaa Suluvugaa Daatagalamu.",
+  "title_en": "King Parikshit's Path to Peace",
+  "moral_en": "Children, if we remember God in our hearts, we can easily overcome any difficulty.",
+  "id": "20260525_181005",
+  "date": "2026-05-25",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "శుక మహర్షి మరియు పరీక్షిత్ రాజు",
+  "thumbnail": "stories/20260525_181005/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
