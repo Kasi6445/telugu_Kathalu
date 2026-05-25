@@ -1,0 +1,124 @@
+{
+  "title": "సోమరి రాముడి పూల తోట ప్రయాణం",
+  "moral": "కష్టపడితే ఎంత పాడుబడిన చోటైనా అందం, ఆనందం వెల్లివిరుస్తాయి.",
+  "main_character": "Ramu is a young man in his early 20s, tall and lanky, with perpetually messy hair and clothes often stained with soil (but not from recent work). He loves the idea of a beautiful garden but dislikes the effort involved in maintaining it. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A sprawling, once-magnificent royal garden in the village of Amaravati, Andhra Pradesh, known for its ancient temples. It features a dried-up fountain, overgrown pathways, and once-vibrant flower beds now filled with weeds. Early morning light often filters through neglected trees. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అమరావతి రాజతోటలో, రాముడు తన ఊయల మీద హాయిగా పడుకుని ఉన్నాడు. అతని కళ్ళు ఆకాశంలో ఎటో తేలియాడుతున్నాయి — తోట అందం గురించి కలలు కంటున్నాయి. చుట్టూ ఎండుటాకులు గలగలమంటూ గాలికి కదులుతుంటే, అతను నెమ్మదిగా ఊయల ఊగుతున్నాడు. \"ఈ తోట ఎంత అందంగా ఉండేది కదా... పని లేకుండా చూసుకోవడం ఎంత బాగుంటుందో!\" అని మనసులో అనుకున్నాడు. తోటలో ఎక్కడా పచ్చదనం లేదు — అంతా ఎండు గడ్డితో నిండిపోయింది. మరి రాముడు ఎప్పుడైనా లేచి, ఈ తోటను బాగు చేస్తాడా?",
+      "image_prompt": "The boy lies comfortably on his swing, his eyes gazing vaguely upwards. Around him, dry leaves rustle softly in the wind as the swing sways gently. Soft morning light, hazy and golden, filtering through dense, unkempt foliage, creating long, sleepy shadows.",
+      "scene_visual": "The boy lies comfortably on his swing, his eyes gazing vaguely upwards. Around him, dry leaves rustle softly in the wind as the swing sways gently.",
+      "supporting_char_keys": [],
+      "text_te_en": "Amaraavati Raajatotalo, Raamudu Tana Uyala Mida Haayigaa Padukuni Unnaadu. Atani Kallu Aakaashanlo Eto Teliyaadutunnaayi — Tota Andam Gurinchi Kalalu Kantunnaayi. Chuttu Endutaakulu Galagalamantu Gaaliki Kadulutunte, Atanu Nemmadigaa Uyala Ugutunnaadu. \"I Tota Enta Andangaa Undedi Kadaa... Pani Lekundaa Chusukovadam Enta Baaguntundo!\" Ani Manasulo Anukunnaadu. Totalo Ekkadaa Pachchadanam Ledu — Antaa Endu Gaddito Nindipoyindi. Mari Raamudu Eppudainaa Lechi, I Totanu Baagu Chestaadaa?",
+      "text_en": "In Amaravati's royal garden, Ramudu was comfortably lying on his swing. His eyes gazed dreamily at the sky, imagining a beautiful garden. Dry leaves rustled around him as the wind blew, and he slowly swung. 'How beautiful this garden used to be... If only it could be beautiful without me having to do any work!' he thought to himself. There was no greenery anywhere in the garden — it was all filled with dry grass. Would Ramudu ever get up and fix this garden?"
+    },
+    {
+      "id": 2,
+      "text": "రాముడు తన ఊయల మీద పడుకుని ఉండగానే, నానమ్మ నెమ్మదిగా తోటలోకి వచ్చింది. ఒకప్పుడు గుమగుమలాడే మల్లెపూల వాసన ఇప్పుడు ఎక్కడా లేదు — తడి మట్టి వాసన మాత్రమే అక్కడ నిండిపోయింది. ఆమె కళ్ళు ఆ తోట పాడుబడిన స్థితిని చూసి బాధగా మూసుకున్నాయి. \"రాము, ఈ తోట ఒకప్పుడు గ్రామ గౌరవం. ఇప్పుడు చూడు, దాని అందం ఎక్కడ ఉంది?\" అని బాధగా అడిగింది. నానమ్మ మాటలకు, రాముడు తన ఊయలలో కొద్దిగా కదిలాడు — ఆమె కళ్ళలోకి చూడకుండా తల పక్కకు తిప్పుకున్నాడు. మరి నానమ్మ మాటలు రాముడిలో మార్పు తెస్తాయా, లేక అతను సోమరిగానే ఉంటాడా?",
+      "image_prompt": "The old woman enters the garden, her eyes slowly closing in sadness. She reacts to the ruined state of the garden, where only the smell of damp earth lingers. Bright, clear midday sun, casting stark shadows from the overgrown trees, highlighting the withered plants and broken pathways.",
+      "scene_visual": "The old woman enters the garden, her eyes slowly closing in sadness. She reacts to the ruined state of the garden, where only the smell of damp earth lingers.",
+      "supporting_char_keys": [
+        "elder"
+      ],
+      "text_te_en": "Raamudu Tana Uyala Mida Padukuni Undagaane, Naanamma Nemmadigaa Totaloki Vachchindi. Okappudu Gumagumalaade Mallepula Vaasana Ippudu Ekkadaa Ledu — Tadi Matti Vaasana Maatrame Akkada Nindipoyindi. Aame Kallu Aa Tota Paadubadina Sthitini Chusi Baadhagaa Musukunnaayi. \"Raamu, I Tota Okappudu Graama Gauravan. Ippudu Chudu, Daani Andam Ekkada Undi?\" Ani Baadhagaa Adigindi. Naanamma Maatalaku, Raamudu Tana Uyalalo Koddigaa Kadilaadu — Aame Kallaloki Chudakundaa Tala Pakkaku Tippukunnaadu. Mari Naanamma Maatalu Raamudilo Maarpu Testaayaa, Leka Atanu Somarigaane Untaadaa?",
+      "text_en": "While Ramudu was still lying on his swing, Nannamma slowly entered the garden. The fragrant jasmine smell that once filled the air was now gone — only the smell of damp earth remained. Her eyes sadly closed, seeing the ruined state of the garden. 'Ramudu, this garden was once the pride of the village. Look now, where is its beauty?' she asked sadly. At Nannamma's words, Ramudu shifted slightly on his swing — he turned his head away, avoiding her eyes. Would Nannamma's words change Ramudu, or would he remain lazy?"
+    },
+    {
+      "id": 3,
+      "text": "నానమ్మ మాటలు విన్న తర్వాత, రాముడు మెల్లగా లేచి ఒక చిన్న గడ్డి మొక్కల గుంపును లాగడానికి ప్రయత్నించాడు. అతని చేతులు ముళ్ళ పొదలు తగిలి గీరుకుపోయాయి — నొప్పితో ఒక్కసారిగా వెనక్కి లాగాడు. కొద్దిసేపటికే అతని నుదుట చెమట పట్టింది. పని భారాన్ని చూసి అతను నిట్టూర్చాడు — చేతిలోని పనిముట్లు కింద పడేశాడు. \"అయ్యో! ఇది నా వల్ల కాదు. చాలా పెద్ద పని!\" అని నిరాశగా అన్నాడు. ఇలా సులువుగా వదిలేస్తే, రాముడు ఎప్పుడైనా ఈ తోటను బాగు చేయగలడా?",
+      "image_prompt": "The boy attempts to pull out a clump of weeds, but quickly recoils his hands. His hands are scratched and bleeding from thorny bushes, and he drops the tools in frustration. Harsh afternoon sun, casting a yellowish, dusty glow on the unkempt ground, emphasizing the vastness and difficulty of the task.",
+      "scene_visual": "The boy attempts to pull out a clump of weeds, but quickly recoils his hands. His hands are scratched and bleeding from thorny bushes, and he drops the tools in frustration.",
+      "supporting_char_keys": [],
+      "text_te_en": "Naanamma Maatalu Vinna Tarvaata, Raamudu Mellagaa Lechi Oka Chinna Gaddi Mokkala Gumpunu Laagadaaniki Prayatninchaadu. Atani Chetulu Mulla Podalu Tagili Girukupoyaayi — Noppito Okkasaarigaa Venakki Laagaadu. Koddisepatike Atani Nuduta Chemata Pattindi. Pani Bhaaraanni Chusi Atanu Nitturchaadu — Chetiloni Panimutlu Kinda Padeshaadu. \"Ayyo! Idi Naa Valla Kaadu. Chaalaa Pedda Pani!\" Ani Niraashagaa Annaadu. Ilaa Suluvugaa Vadileste, Raamudu Eppudainaa I Totanu Baagu Cheyagaladaa?",
+      "text_en": "After hearing Nannamma's words, Ramudu slowly got up and tried to pull out a small clump of weeds. His hands got scratched by thorny bushes — he quickly pulled them back in pain. In a short while, sweat appeared on his forehead. Seeing the heavy work, he sighed — and dropped the tools in his hand. 'Oh no! I can't do this. It's too much work!' he said in despair. If he gives up so easily, will Ramudu ever be able to fix this garden?"
+    },
+    {
+      "id": 4,
+      "text": "రాముడు నిరాశగా కూర్చుని ఉండగా, ఒక చిన్న సీతాకోకచిలుక అతని కళ్ళ ముందు రెక్కలు ఆడిస్తూ ఎగురుతోంది. అది ఎండు గడ్డి మీదుగా నిస్సహాయంగా తిరుగుతోంది — పూల కోసం వెతుకుతోంది. దాని రెక్కల మెత్తని చప్పుడు తప్ప ఇంకేమీ వినిపించడం లేదు. \"ఈ చిన్న జీవికి కూడా ఇక్కడ ఏమీ దొరకడం లేదు. నేను ఏదో ఒకటి చేయాలి\" అని రాముడు గట్టిగా అనుకున్నాడు. అతని దవడ బిగుసుకుంది — కళ్ళల్లో కొత్త దృఢ సంకల్పం కనిపించింది. తన సోమరితనం వల్ల తోటలోని జీవులకు ఎంత నష్టమో చూసిన రాముడు ఇప్పుడు ఏం చేస్తాడు?",
+      "image_prompt": "The boy watches a small butterfly flutter helplessly over the dry grass in front of him. His jaw tightens, and a new determination appears in his eyes as he observes its struggle. Late afternoon light, warm and soft, creating a gentle glow around the delicate butterfly, contrasting with the dullness of the surrounding garden.",
+      "scene_visual": "The boy watches a small butterfly flutter helplessly over the dry grass in front of him. His jaw tightens, and a new determination appears in his eyes as he observes its struggle.",
+      "supporting_char_keys": [
+        "butterfly"
+      ],
+      "text_te_en": "Raamudu Niraashagaa Kurchuni Undagaa, Oka Chinna Sitaakokachiluka Atani Kalla Mundu Rekkalu Aadistu Egurutondi. Adi Endu Gaddi Midugaa Nissahaayangaa Tirugutondi — Pula Kosam Vetukutondi. Daani Rekkala Mettani Chappudu Tappa Inkemi Vinipinchadam Ledu. \"I Chinna Jiviki Kudaa Ikkada Emi Dorakadam Ledu. Nenu Edo Okati Cheyaali\" Ani Raamudu Gattigaa Anukunnaadu. Atani Davada Bigusukundi — Kallallo Kotta Drridha Sankalpam Kanipinchindi. Tana Somaritanam Valla Totaloni Jivulaku Enta Nashtamo Chusina Raamudu Ippudu Em Chestaadu?",
+      "text_en": "While Ramudu was sitting in despair, a small butterfly fluttered its wings and flew in front of his eyes. It was helplessly flitting over the dry grass — searching for flowers. Nothing else could be heard except the soft sound of its wings. 'Even this little creature can't find anything here. I must do something,' Ramudu thought firmly. His jaw tightened — a new determination appeared in his eyes. What would Ramudu do now, after seeing how much harm his laziness caused to the creatures in the garden?"
+    },
+    {
+      "id": 5,
+      "text": "రాముడు ఆ చిన్న సీతాకోకచిలుకను చూసిన తర్వాత, పట్టుదలతో ఒక చిన్న మడిలో పని చేయడం మొదలుపెట్టాడు. కలుపు మొక్కలను లాగుతూ, మట్టిని శుభ్రం చేస్తూ, రోజూ క్రమం తప్పకుండా నీళ్ళు పోస్తూ ఉన్నాడు. కొన్ని రోజులకు, తడి మట్టి నుండి వచ్చే సువాసనతో పాటు — చిన్న ఆకుపచ్చ మొలకలు బయటకు వచ్చాయి! రాముడు మెల్లగా ఒక మొలకను తాకాడు — అతని కళ్ళు ఆనందంతో మెరిసాయి. \"ఆహా! చూడు! కొత్త మొలకలు!\" అని అతను కేరింతలు కొట్టాడు. తన కష్టానికి ఇది మొదటి ఫలితం. మరి రాముడి ఈ పట్టుదల తోట మొత్తాన్ని మారుస్తుందా?",
+      "image_prompt": "The boy gently touches a tiny green sprout emerging from the soil. His eyes sparkle with joy as he exclaims at the sight of the new growth. Early morning light, dew-kissed and fresh, highlighting the vibrant green of the new sprouts against the dark, rich soil, promising renewal.",
+      "scene_visual": "The boy gently touches a tiny green sprout emerging from the soil. His eyes sparkle with joy as he exclaims at the sight of the new growth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamudu Aa Chinna Sitaakokachilukanu Chusina Tarvaata, Pattudalato Oka Chinna Madilo Pani Cheyadam Modalupettaadu. Kalupu Mokkalanu Laagutu, Mattini Shubhram Chestu, Roju Kramam Tappakundaa Nillu Postu Unnaadu. Konni Rojulaku, Tadi Matti Nundi Vachche Suvaasanato Paatu — Chinna Aakupachcha Molakalu Bayataku Vachchaayi! Raamudu Mellagaa Oka Molakanu Taakaadu — Atani Kallu Aanandanto Merisaayi. \"Aahaa! Chudu! Kotta Molakalu!\" Ani Atanu Kerintalu Kottaadu. Tana Kashtaaniki Idi Modati Phalitan. Mari Raamudi I Pattudala Tota Mottaanni Maarustundaa?",
+      "text_en": "After seeing that small butterfly, Ramudu began to work with determination in a small patch. He pulled out weeds, cleaned the soil, and watered it regularly every day. After a few days, along with the smell of damp earth — small green sprouts emerged! Ramudu gently touched a sprout — his eyes sparkled with joy. 'Aha! Look! New sprouts!' he exclaimed. This was the first fruit of his hard work. Would Ramudu's determination change the entire garden?"
+    },
+    {
+      "id": 6,
+      "text": "రాముడు తోటలో నిలబడి పని చేస్తుండగా, నానమ్మ మళ్ళీ అక్కడికి వచ్చింది. తోటలోని ఒక పెద్ద భాగం ఇప్పుడు రంగురంగుల పూలతో కళకళలాడుతోంది — మల్లెల, బంతిపూల సువాసన గాలిలో నిండిపోయింది. నానమ్మ ఆశ్చర్యంగా కళ్ళు పెద్దవి చేసి చూసింది. \"రాము, నువ్వు ఈ తోటకే కాదు, ఈ గ్రామానికే కొత్త ఆశను ఇచ్చావు!\" అని ఆమె ప్రేమగా రాముడి వీపు తట్టింది. రాముడి ముఖం ఆనందంతో వెలిగిపోయింది — అతని కళ్ళల్లో కృతజ్ఞత కనిపించింది. ఇప్పుడు పూర్తిగా బాగుపడిన తోట ఎలా ఉంటుంది, అది అందరికీ ఎలా ఉపయోగపడుతుంది?",
+      "image_prompt": "The old woman stands in the garden, her eyes wide with surprise as she observes the vibrant flowers. She lovingly pats the boy's back, and his face glows with happiness and gratitude. Bright, celebratory sunlight, illuminating the vivid colors of the flowers, creating a cheerful and uplifting atmosphere, full of life.",
+      "scene_visual": "The old woman stands in the garden, her eyes wide with surprise as she observes the vibrant flowers. She lovingly pats the boy's back, and his face glows with happiness and gratitude.",
+      "supporting_char_keys": [
+        "elder"
+      ],
+      "text_te_en": "Raamudu Totalo Nilabadi Pani Chestundagaa, Naanamma Malli Akkadiki Vachchindi. Totaloni Oka Pedda Bhaagam Ippudu Rangurangula Pulato Kalakalalaadutondi — Mallela, Bantipula Suvaasana Gaalilo Nindipoyindi. Naanamma Aashcharyangaa Kallu Peddavi Chesi Chusindi. \"Raamu, Nuvvu I Totake Kaadu, I Graamaanike Kotta Aashanu Ichchaavu!\" Ani Aame Premagaa Raamudi Vipu Tattindi. Raamudi Mukham Aanandanto Veligipoyindi — Atani Kallallo Krritajnyata Kanipinchindi. Ippudu Purtigaa Baagupadina Tota Elaa Untundi, Adi Andariki Elaa Upayogapadutundi?",
+      "text_en": "While Ramudu was standing and working in the garden, Nannamma came there again. A large part of the garden was now vibrant with colorful flowers — the fragrance of jasmine and marigolds filled the air. Nannamma's eyes widened in surprise as she looked. 'Ramudu, you have given new hope not just to this garden, but to this entire village!' she said, lovingly patting Ramudu's back. Ramudu's face lit up with joy — gratitude appeared in his eyes. What would the fully restored garden be like now, and how would it benefit everyone?"
+    },
+    {
+      "id": 7,
+      "text": "కొన్ని నెలల తర్వాత, రాజతోట పూర్తిగా మారిపోయింది — ఇప్పుడు అది పచ్చని స్వర్గంలా ఉంది. పిల్లల నవ్వులు, తేనెటీగల ఝుంకారాలు తోట నిండా మార్మోగుతున్నాయి. రాముడు తన చేతిలో నీళ్ళు పోసే డబ్బాతో నిలబడి, అందరినీ చూస్తూ చిరునవ్వులు చిందించాడు. అతని గుండె నిండా ప్రశాంతమైన ఆనందం నిండిపోయింది. \"ఈ తోట ఇప్పుడు అందరి ఆనందానికి నిలయం\" అని అతను గర్వంగా అనుకున్నాడు. ఒకప్పుడు సోమరి అయిన రాముడు, ఇప్పుడు తోట పనిని ఎంతో ప్రేమగా చేస్తున్నాడు — అతని శ్రమ తోటకే కాదు, గ్రామానికే జీవం పోసింది.",
+      "image_prompt": "The boy stands with a watering can in his hand, smiling gently as he watches everyone in the now lush garden. His heart is filled with peaceful joy, reflecting the vibrant green paradise around him. Gentle afternoon light, golden and warm, dappling through the leaves of thriving trees, creating a soft, idyllic glow over the restored garden and happy people.",
+      "scene_visual": "The boy stands with a watering can in his hand, smiling gently as he watches everyone in the now lush garden. His heart is filled with peaceful joy, reflecting the vibrant green paradise around him.",
+      "supporting_char_keys": [
+        "children",
+        "villagers"
+      ],
+      "text_te_en": "Konni Nelala Tarvaata, Raajatota Purtigaa Maaripoyindi — Ippudu Adi Pachchani Svarganlaa Undi. Pillala Navvulu, Tenetigala Jhunkaaraalu Tota Nindaa Maarmogutunnaayi. Raamudu Tana Chetilo Nillu Pose Dabbaato Nilabadi, Andarini Chustu Chirunavvulu Chindinchaadu. Atani Gunde Nindaa Prashaantamaina Aanandam Nindipoyindi. \"I Tota Ippudu Andari Aanandaaniki Nilayan\" Ani Atanu Garvangaa Anukunnaadu. Okappudu Somari Ayina Raamudu, Ippudu Tota Panini Ento Premagaa Chestunnaadu — Atani Shrama Totake Kaadu, Graamaanike Jivam Posindi.",
+      "text_en": "A few months later, the royal garden was completely transformed — it was now like a green paradise. Children's laughter and the buzzing of bees echoed throughout the garden. Ramudu stood with his watering can in hand, smiling at everyone. His heart was filled with peaceful joy. 'This garden is now a home for everyone's happiness,' he thought proudly. Ramudu, who was once lazy, now did garden work with great love — his hard work brought life not just to the garden, but to the entire village."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "elder",
+      "description": "The respected village elder, an old woman with kind eyes and silver hair pulled back in a neat bun, wearing a simple white saree. She carries a polished wooden walking stick. Always the same character across every scene."
+    },
+    {
+      "key": "butterfly",
+      "description": "A small, brightly colored butterfly, perhaps a yellow or blue swallowtail, with delicate wings. It flits gracefully from plant to plant. Always the same character across every scene."
+    },
+    {
+      "key": "children",
+      "description": "A group of 2-3 young village children, aged 5-10, dressed in traditional, colorful clothes like dhotis and pavadais. They are always full of energy and smiles. Always the same character across every scene."
+    },
+    {
+      "key": "villagers",
+      "description": "A few adult villagers, casually dressed in traditional attire, who occasionally visit the garden for relaxation. They are usually seen chatting or enjoying the peace. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story shines with its authentic grandmotherly voice, excellent narrative arc, and strong child engagement through direct address and suspense hooks. The grammar is flawless, making it a joy to read aloud. The most significant area for improvement is dialogue richness; incorporating more character-specific conversations in every scene would elevate the story, allowing characters to express themselves and advance the plot more dynamically, rather than relying heavily on internal thoughts or narration."
+  },
+  "title_te_en": "Somari Raamudi Pula Tota Prayaanam",
+  "moral_te_en": "Kashtapadite Enta Paadubadina Chotainaa Andan, Aanandam Vellivirustaayi.",
+  "title_en": "Lazy Ramudu's Flower Garden Journey",
+  "moral_en": "Hard work can bring beauty and joy to even the most neglected places.",
+  "id": "20260525_040830",
+  "date": "2026-05-25",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "అందమైన తోట మరియు సోమరి మాలి",
+  "thumbnail": "stories/20260525_040830/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
