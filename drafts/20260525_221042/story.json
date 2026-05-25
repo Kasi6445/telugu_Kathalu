@@ -1,0 +1,117 @@
+{
+  "title": "సీతమ్మకు రక్షణ గీత",
+  "moral": "మనకు అండగా ఉన్నవారి మాట వింటే, ఎంత ఆపద వచ్చినా మనం సురక్షితంగా ఉంటాం.",
+  "main_character": "Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Always the same character across every scene.",
+  "antagonist": "Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene.",
+  "setting": "The peaceful forest hermitage in Panchavati, beside the Godavari river, with tall ancient trees and simple huts made of leaves and wood. The air is filled with the scent of wild flowers and forest earth. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అమ్మమ్మ చెప్పిన కథలో, సీతమ్మ పంచవటి ఆశ్రమంలో ప్రశాంతంగా కూర్చుంది. అప్పుడు లక్ష్మణుడు ఆశ్రమం చుట్టూ అప్రమత్తంగా కావలి కాస్తున్నాడు, అతని అడుగుల కింద ఆరిన ఆకులు మెల్లగా కదులుతున్నాయి. సీతమ్మ ముఖం మీద ఒక నిశ్చలమైన ప్రశాంతత — ఆమె పెదవుల మీద చిరునవ్వు కూడా మెరిసింది. లక్ష్మణుడి నిరంతర శ్రద్ధ ఆమెకు ఎంతో ధైర్యాన్ని ఇచ్చింది. \"లక్ష్మణా, నీ అప్రమత్తత మాకు ఎల్లప్పుడూ ధైర్యాన్ని ఇస్తుంది,\" అని సీతమ్మ ప్రేమగా అంది. కానీ పిల్లలూ, ఈ అడవిలో ఈ ప్రశాంతత ఎంతకాలం నిలుస్తుందో తెలుసా?",
+      "image_prompt": "The woman sits peacefully, her lips curving into a gentle smile. The man vigilantly patrols around the hermitage, dry leaves rustling softly under his feet. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Soft morning sunlight filtering through dense tree canopy, dappled light on the forest floor, peaceful and serene.",
+      "scene_visual": "The woman sits peacefully, her lips curving into a gentle smile. The man vigilantly patrols around the hermitage, dry leaves rustling softly under his feet.",
+      "supporting_char_keys": [
+        "lakshmana"
+      ],
+      "text_te_en": "Ammamma Cheppina Kathalo, Sitamma Panchavati Aashramanlo Prashaantangaa Kurchundi. Appudu Lakshmanudu Aashramam Chuttu Apramattangaa Kaavali Kaastunnaadu, Atani Adugula Kinda Aarina Aakulu Mellagaa Kadulutunnaayi. Sitamma Mukham Mida Oka Nishchalamaina Prashaantata — Aame Pedavula Mida Chirunavvu Kudaa Merisindi. Lakshmanudi Nirantara Shraddha Aameku Ento Dhairyaanni Ichchindi. \"Lakshmanaa, Ni Apramattata Maaku Ellappudu Dhairyaanni Istundi,\" Ani Sitamma Premagaa Andi. Kaani Pillalu, I Adavilo I Prashaantata Entakaalam Nilustundo Telusaa?",
+      "text_en": "In Grandma's story, Sita was sitting peacefully in the Panchavati ashram. Lakshmana was carefully guarding around the ashram, and dry leaves gently rustled under his feet. A calm peace was on Sita's face — a smile even shone on her lips. Lakshmana's constant care gave her great courage. \"Lakshmana, your alertness always gives us courage,\" Sita said lovingly. But children, do you know how long this peace would last in this forest?"
+    },
+    {
+      "id": 2,
+      "text": "సీతమ్మ ఆ మాటలు చెప్పిన కొద్దిసేపటికే — ఒక అద్భుతం జరిగింది. ఆశ్రమం దగ్గరకు మెరిసిపోయే బంగారు జింక ఒకటి వచ్చింది, దాని బొచ్చు సూర్యకాంతిలో వేల చిన్న చిన్న రత్నాల్లా మెరిసింది. సీతమ్మ కళ్ళు ఆశ్చర్యంతో పెద్దవి అయ్యాయి, ఆ జింకను చూస్తూ ఆమె ముందుకు వంగింది. ఆమె హృదయం ఆనందంతో ఉప్పొంగింది, ఆ బంగారు జింకను చూసి ఆమె నోట మాట రాలేదు. \"నాథా, ఆ బంగారు జింకను చూడండి! అది ఎంత అద్భుతంగా ఉంది!\" అని సీతమ్మ రాముడిని బతిమాలింది. మరి రాముడు ఆ మాయా జింకను సీతమ్మ కోసం పట్టుకుంటాడా?",
+      "image_prompt": "The woman leans forward, her eyes wide with astonishment, gazing at a shimmering golden deer. The deer's fur sparkles like thousands of tiny gems in the sunlight near the hermitage. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Bright, clear midday sun, highlighting the deer's unnatural shine against the vibrant green of the forest.",
+      "scene_visual": "The woman leans forward, her eyes wide with astonishment, gazing at a shimmering golden deer. The deer's fur sparkles like thousands of tiny gems in the sunlight near the hermitage.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Sitamma Aa Maatalu Cheppina Koddisepatike — Oka Adbhutam Jarigindi. Aashramam Daggaraku Merisipoye Bangaaru Jinka Okati Vachchindi, Daani Bochchu Suryakaantilo Vela Chinna Chinna Ratnaallaa Merisindi. Sitamma Kallu Aashcharyanto Peddavi Ayyaayi, Aa Jinkanu Chustu Aame Munduku Vangindi. Aame Hrridayam Aanandanto Uppongindi, Aa Bangaaru Jinkanu Chusi Aame Nota Maata Raaledu. \"Naathaa, Aa Bangaaru Jinkanu Chudandi! Adi Enta Adbhutangaa Undi!\" Ani Sitamma Raamudini Batimaalindi. Mari Raamudu Aa Maayaa Jinkanu Sitamma Kosam Pattukuntaadaa?",
+      "text_en": "Soon after Sita said those words — something amazing happened. A shimmering golden deer came near the ashram, its fur sparkling like thousands of tiny gems in the sunlight. Sita's eyes widened with wonder, and she leaned forward, looking at the deer. Her heart swelled with joy, and she was speechless looking at the golden deer. \"My Lord, look at that golden deer! How wonderful it is!\" Sita pleaded with Rama. So, would Rama catch that magical deer for Sita?"
+    },
+    {
+      "id": 3,
+      "text": "రాముడు ఆ బంగారు జింకను పట్టుకోవడానికి వెళ్ళిన తర్వాత, ఆశ్రమంలో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. ఇంతలో అడవిలోంచి రాముడి గొంతు లాంటి ఒక భయంకరమైన కేక వినిపించింది — ఆ చప్పుడు అడవి నిశ్శబ్దాన్ని చీల్చింది. సీతమ్మ చేతులు తన గుండెలపై అదిమి పెట్టుకుంది, ఆమె గుండె వేగంగా కొట్టుకుంది. \"లక్ష్మణా! నాథుడికి ఏదో ప్రమాదం! త్వరగా వెళ్ళి చూడండి!\" అని సీతమ్మ గాభరాగా అరిచింది. మరి రాముడికి నిజంగా ఏమైంది, లక్ష్మణుడు సహాయం చేయడానికి వెళ్తాడా?",
+      "image_prompt": "The woman presses her hands to her chest, her heart pounding, as a terrifying cry echoes from the forest. Her face is contorted with panic as she urgently calls out to the man. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. The forest shadows lengthen slightly, a sense of unease begins to creep in, still bright but with a hint of foreboding.",
+      "scene_visual": "The woman presses her hands to her chest, her heart pounding, as a terrifying cry echoes from the forest. Her face is contorted with panic as she urgently calls out to the man.",
+      "supporting_char_keys": [
+        "lakshmana"
+      ],
+      "text_te_en": "Raamudu Aa Bangaaru Jinkanu Pattukovadaaniki Vellina Tarvaata, Aashramanlo Okkasaarigaa Nishshabdam Alumukundi. Intalo Adavilonchi Raamudi Gontu Laanti Oka Bhayankaramaina Keka Vinipinchindi — Aa Chappudu Adavi Nishshabdaanni Chilchindi. Sitamma Chetulu Tana Gundelapai Adimi Pettukundi, Aame Gunde Vegangaa Kottukundi. \"Lakshmanaa! Naathudiki Edo Pramaadan! Tvaragaa Velli Chudandi!\" Ani Sitamma Gaabharaagaa Arichindi. Mari Raamudiki Nijangaa Emaindi, Lakshmanudu Sahaayam Cheyadaaniki Veltaadaa?",
+      "text_en": "After Rama went to catch the golden deer, silence suddenly fell over the ashram. Meanwhile, a terrifying scream, like Rama's voice, was heard from the forest — that sound tore through the forest's silence. Sita pressed her hands to her chest, her heart beating fast. \"Lakshmana! My Lord is in some danger! Go quickly and see!\" Sita cried out in panic. So, what really happened to Rama, and would Lakshmana go to help?"
+    },
+    {
+      "id": 4,
+      "text": "సీతమ్మ మాటలు విన్న లక్ష్మణుడు, ఆమెపై ఆగ్రహం చూపినా, తన అన్న మాట గుర్తుకు తెచ్చుకున్నాడు. అతను భూమిపై ఒక గీత గీశాడు — అది దాదాపు కనిపించనంత సన్నగా ఉన్నా, ఒక రక్షణ శక్తితో మెరిసింది. సీతమ్మ అప్పటికే తన కాలుతో నేలను తడుతూ, వేగంగా వెళ్ళమని తొందరపెడుతోంది. \"అక్కా, ఈ గీతను దాటకండి. ఇది మిమ్మల్ని రక్షిస్తుంది,\" అని లక్ష్మణుడు గంభీరంగా చెప్పాడు. ఆ తర్వాత అతను అడవిలోకి వెళ్ళిపోయాడు. మరి ఈ గీత ఎలాంటి రక్షణ ఇస్తుంది, సీతమ్మ దాని లోపల ఉంటుందా?",
+      "image_prompt": "The man draws a barely visible line on the ground, which shimmers with protective energy. The woman impatiently taps her foot on the earth, urging him to leave quickly. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Late afternoon light, warm and golden, but with an underlying tension as Lakshmana performs the protective ritual.",
+      "scene_visual": "The man draws a barely visible line on the ground, which shimmers with protective energy. The woman impatiently taps her foot on the earth, urging him to leave quickly.",
+      "supporting_char_keys": [
+        "lakshmana"
+      ],
+      "text_te_en": "Sitamma Maatalu Vinna Lakshmanudu, Aamepai Aagraham Chupinaa, Tana Anna Maata Gurtuku Techchukunnaadu. Atanu Bhumipai Oka Gita Gishaadu — Adi Daadaapu Kanipinchananta Sannagaa Unnaa, Oka Rakshana Shaktito Merisindi. Sitamma Appatike Tana Kaaluto Nelanu Tadutu, Vegangaa Vellamani Tondarapedutondi. \"Akkaa, I Gitanu Daatakandi. Idi Mimmalni Rakshistundi,\" Ani Lakshmanudu Gambhirangaa Cheppaadu. Aa Tarvaata Atanu Adaviloki Vellipoyaadu. Mari I Gita Elaanti Rakshana Istundi, Sitamma Daani Lopala Untundaa?",
+      "text_en": "Lakshmana heard Sita's words. Even though he was upset with her, he remembered his brother's warning. He drew a line on the ground — even though it was almost invisibly thin, it glowed with a protective power. Sita was already tapping the ground with her foot, urging him to go quickly. \"Sister, do not cross this line. It will protect you,\" Lakshmana said gravely. After that, he went into the forest. So, what kind of protection would this line give, and would Sita stay inside it?"
+    },
+    {
+      "id": 5,
+      "text": "లక్ష్మణుడు వెళ్ళిపోయిన తర్వాత, ఆశ్రమం మళ్ళీ నిశ్శబ్దంగా మారింది. ఇంతలో ఒక వృద్ధుడు, మెల్లగా నడుచుకుంటూ ఆశ్రమం దగ్గరకు వచ్చాడు. అతని గొంతు ఎంతో మృదువుగా, హానిచేయని విధంగా వినిపించింది, సీతమ్మకు జాలి కలిగింది. అతను ఆ రక్షణ గీత బయటే నిలబడి, \"తల్లీ, నాకు భిక్ష ప్రసాదించండి,\" అని అడిగాడు. సీతమ్మ మనసులో ఆలోచనలు మొదలయ్యాయి — ఆ గీత దాటాలా వద్దా అని. మరి సీతమ్మ ఆ వృద్ధుడికి భిక్ష ఇవ్వడానికి ఆ గీత దాటుతుందా?",
+      "image_prompt": "An old man stands gently outside the protective line, his voice soft and harmless. He extends his hand, asking for alms from the woman who is contemplating crossing the line. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. The golden hour of late afternoon, casting long shadows, a seemingly peaceful scene, but with a growing sense of unease around the mendicant.",
+      "scene_visual": "An old man stands gently outside the protective line, his voice soft and harmless. He extends his hand, asking for alms from the woman who is contemplating crossing the line.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lakshmanudu Vellipoyina Tarvaata, Aashramam Malli Nishshabdangaa Maarindi. Intalo Oka Vrriddhudu, Mellagaa Naduchukuntu Aashramam Daggaraku Vachchaadu. Atani Gontu Ento Mrriduvugaa, Haanicheyani Vidhangaa Vinipinchindi, Sitammaku Jaali Kaligindi. Atanu Aa Rakshana Gita Bayate Nilabadi, \"Talli, Naaku Bhiksha Prasaadinchandi,\" Ani Adigaadu. Sitamma Manasulo Aalochanalu Modalayyaayi — Aa Gita Daataalaa Vaddaa Ani. Mari Sitamma Aa Vrriddhudiki Bhiksha Ivvadaaniki Aa Gita Daatutundaa?",
+      "text_en": "After Lakshmana left, the ashram became silent again. Meanwhile, an old man slowly walked towards the ashram. His voice sounded so soft and harmless that Sita felt pity. He stood outside the protective line and asked, \"Mother, please give me alms.\" Thoughts began in Sita's mind — whether to cross the line or not. So, would Sita cross that line to give alms to the old man?"
+    },
+    {
+      "id": 6,
+      "text": "తన మనసులో జాలి నిండిన సీతమ్మ — నెమ్మదిగా ఆ రక్షణ గీతను దాటి బయటకు అడుగు పెట్టింది. ఆ క్షణంలోనే, ఆ మారువేషంలో ఉన్న వృద్ధుడు తన అసలు రూపాన్ని చూపాడు. ఒక్కసారిగా — భయంకరమైన రావణుడు తన పది తలలతో, ఇరవై చేతులతో నిలబడ్డాడు, అతని అరుపుకు భూమి కంపించిపోయింది. సీతమ్మ ఒక్కసారిగా ఉలిక్కిపడి, చేతులు నోటికి అడ్డుపెట్టుకుంది, ఆమె కళ్ళల్లో నిస్సహాయత నిండింది. \"నీ రక్షణ ఇప్పుడు ముగిసింది!\" అని రావణుడు గంభీరంగా అన్నాడు. మరి ఈ భయంకరమైన పరిస్థితిని సీతమ్మ ఎలా భరిస్తుంది?",
+      "image_prompt": "The woman steps slowly across the protective line, her hands then flying to cover her mouth in shock. Before her stands a terrifying figure with ten heads and twenty arms, its roar shaking the ground. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. A sudden shift to dark, ominous shadows, as if the sun has momentarily hidden, emphasizing Ravana's terrifying presence.",
+      "scene_visual": "The woman steps slowly across the protective line, her hands then flying to cover her mouth in shock. Before her stands a terrifying figure with ten heads and twenty arms, its roar shaking the ground.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Manasulo Jaali Nindina Sitamma — Nemmadigaa Aa Rakshana Gitanu Daati Bayataku Adugu Pettindi. Aa Kshananlone, Aa Maaruveshanlo Unna Vrriddhudu Tana Asalu Rupaanni Chupaadu. Okkasaarigaa — Bhayankaramaina Raavanudu Tana Padi Talalato, Iravai Chetulato Nilabaddaadu, Atani Arupuku Bhumi Kampinchipoyindi. Sitamma Okkasaarigaa Ulikkipadi, Chetulu Notiki Addupettukundi, Aame Kallallo Nissahaayata Nindindi. \"Ni Rakshana Ippudu Mugisindi!\" Ani Raavanudu Gambhirangaa Annaadu. Mari I Bhayankaramaina Paristhitini Sitamma Elaa Bharistundi?",
+      "text_en": "Sita, filled with pity in her heart — slowly crossed the protective line and stepped outside. At that very moment, the old man in disguise showed his true form. Suddenly — the terrifying Ravana stood with his ten heads and twenty arms, and the earth trembled at his roar. Sita was startled, covered her mouth with her hands, and her eyes filled with helplessness. \"Your protection is now over!\" Ravana said gravely. So, how would Sita endure this terrifying situation?"
+    },
+    {
+      "id": 7,
+      "text": "రావణుడు సీతమ్మను పట్టుకుని ఆకాశంలోకి ఎగిరిపోయాడు, ఆమె దూరంగా వెళుతున్నప్పుడు ఆమె ఆర్తనాదం గాలిలో కలిసిపోయింది. ఆశ్రమం మళ్ళీ నిశ్శబ్దంగా మారింది, కానీ ఇప్పుడు అందులో భయంకరమైన ఖాళీతనం నిండింది. సీతమ్మ దుఃఖంలో మునిగిపోయినా, ఆమె చూపులో ఒక దృఢ సంకల్పం కనిపించింది. ఆమె కళ్ళు ఏదో ఒక ఆశతో, భవిష్యత్తు వైపు చూస్తున్నాయి. ఆ రక్షణ గీత నమ్మకాన్ని ఉంచలేకపోయింది, కానీ సీతమ్మ మనసులో మాత్రం ధైర్యం నిలిచింది.",
+      "image_prompt": "The woman is carried away into the sky by the terrifying figure, her cries fading into the wind. Despite her sorrow, a look of resolute determination fills her eyes as she gazes towards the future. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. The last rays of the setting sun casting long, desolate shadows over the now empty hermitage, a sense of profound loss and quiet tragedy.",
+      "scene_visual": "The woman is carried away into the sky by the terrifying figure, her cries fading into the wind. Despite her sorrow, a look of resolute determination fills her eyes as she gazes towards the future.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raavanudu Sitammanu Pattukuni Aakaashanloki Egiripoyaadu, Aame Durangaa Velutunnappudu Aame Aartanaadam Gaalilo Kalisipoyindi. Aashramam Malli Nishshabdangaa Maarindi, Kaani Ippudu Andulo Bhayankaramaina Khaalitanam Nindindi. Sitamma Duhkhanlo Munigipoyinaa, Aame Chupulo Oka Drridha Sankalpam Kanipinchindi. Aame Kallu Edo Oka Aashato, Bhavishyattu Vaipu Chustunnaayi. Aa Rakshana Gita Nammakaanni Unchalekapoyindi, Kaani Sitamma Manasulo Maatram Dhairyam Nilichindi.",
+      "text_en": "Ravana grabbed Sita and flew into the sky. As she went far away, her cry of distress faded into the air. The ashram became silent again, but now it was filled with a terrible emptiness. Even though Sita was very sad, a strong determination shone in her eyes. Her eyes were looking towards the future with some hope. The protective line couldn't keep her safe, but courage stayed strong in Sita's heart."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 6,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.1,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story shines with its authentic grandmotherly voice and exceptional child engagement, making it highly captivating for young listeners. The grammar is flawless, and the narrative arc for this specific episode is well-structured and compelling. To reach award-winning status, the most crucial improvement would be to enhance the 'emotional_depth' by consistently showing characters' feelings through their actions, body language, and subtle expressions, rather than stating them directly."
+  },
+  "quality_warning": true,
+  "title_te_en": "Sitammaku Rakshana Gita",
+  "moral_te_en": "Manaku Andagaa Unnavaari Maata Vinte, Enta Aapada Vachchinaa Manam Surakshitangaa Untaan.",
+  "title_en": "Sita's Line of Protection",
+  "moral_en": "If we listen to the people who protect us, we will always be safe, no matter what danger comes.",
+  "id": "20260525_221042",
+  "date": "2026-05-25",
+  "category": "ramayana",
+  "subcategory": "dharma_tales",
+  "topic": "లక్ష్మణ రేఖ రహస్యం",
+  "thumbnail": "stories/20260525_221042/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
