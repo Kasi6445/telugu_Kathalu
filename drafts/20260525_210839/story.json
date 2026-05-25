@@ -1,0 +1,128 @@
+{
+  "title": "తెనాలి ఉపాయం, పండితుడి పాఠం",
+  "moral": "నిజమైన తెలివి అంటే పుస్తక జ్ఞానం మాత్రమే కాదు, లోకాన్ని అర్థం చేసుకునే ఉపాయం కూడా.",
+  "main_character": "Tenali Ramakrishna is a slender, quick-witted court poet in his late 30s, always with a mischievous glint in his eyes and a distinctive, slightly askew turban. He often carries a small scroll or a quill, ready to jot down a clever verse or a witty retort. Always the same character across every scene.",
+  "antagonist": "The Arrogant Scholar is a portly man in his 50s, with a severe expression, a long, neatly tied queue, and thick spectacles perched on his nose. He wears an ostentatious, bright purple silk dhoti and an embroidered angavastram, often fanning himself with a peacock feather. Always the same character across every scene.",
+  "setting": "The grand royal court of Vijayanagara, a vast hall with intricate carvings, pillars adorned with sculptures of gods and goddesses, and a high ceiling. Sunlight streams through large arched windows, illuminating the polished marble floor and the King's golden throne. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర రాజసభలో, తెనాలి రామకృష్ణుడు తన చురుకైన హాస్యంతో ఒక చిన్నపాటి తగువును చాకచక్యంగా తీర్చాడు. ఒకరికొకరు ఆరోపణలు చేసుకుంటున్న వారిని చూసి, తెనాలి రామకృష్ణుడు చిరునవ్వు నవ్వాడు — అతని కళ్ళలో మెరుపు స్పష్టంగా కనిపించింది. సభలో ఉన్న వారంతా, సిల్క్ వస్త్రాల సన్నని శబ్దం చేస్తూ, అతని మాటల కోసం ఆతృతగా ఎదురుచూశారు. \"మహారాజా, సగము సత్యాన్ని మాట్లాడిన వారికి సగము దండన సరిపోతుంది!\" అని తెనాలి తనదైన శైలిలో పలికాడు. అతని చమత్కారానికి రాజు పగలబడి నవ్వాడు, సభంతా ఒక్కసారిగా నవ్వులతో నిండిపోయింది. మరి ఇప్పుడు తెనాలి తెలివికి ఏ కొత్త సవాలు ఎదురవుతుందో...",
+      "image_prompt": "The king is bursting into laughter, his body shaking with mirth. His face is red with amusement as the sound of his laughter fills the royal court. Bright, warm morning sun streaming through the arched windows of the court, illuminating the golden throne.",
+      "scene_visual": "The king is bursting into laughter, his body shaking with mirth. His face is red with amusement as the sound of his laughter fills the royal court.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Vijayanagara Raajasabhalo, Tenaali Raamakrrishnudu Tana Churukaina Haasyanto Oka Chinnapaati Taguvunu Chaakachakyangaa Tirchaadu. Okarikokaru Aaropanalu Chesukuntunna Vaarini Chusi, Tenaali Raamakrrishnudu Chirunavvu Navvaadu — Atani Kallalo Merupu Spashtangaa Kanipinchindi. Sabhalo Unna Vaarantaa, Silk Vastraala Sannani Shabdam Chestu, Atani Maatala Kosam Aatrritagaa Eduruchushaaru. \"Mahaaraajaa, Sagamu Satyaanni Maatlaadina Vaariki Sagamu Dandana Saripotundi!\" Ani Tenaali Tanadaina Shaililo Palikaadu. Atani Chamatkaaraaniki Raaju Pagalabadi Navvaadu, Sabhantaa Okkasaarigaa Navvulato Nindipoyindi. Mari Ippudu Tenaali Teliviki E Kotta Savaalu Eduravutundo...",
+      "text_en": "In the royal court of Vijayanagara, Tenali Ramakrishna cleverly settled a small quarrel with his quick wit. Seeing the people accusing each other, Tenali Ramakrishna smiled — a sparkle clearly visible in his eyes. Everyone in the court, making soft rustling sounds with their silk clothes, eagerly waited for his words. \"Your Majesty, half a punishment is enough for those who speak half the truth!\" Tenali said in his unique style. The King burst out laughing at his wit, and the entire court filled with laughter. Now, what new challenge awaits Tenali's cleverness...?"
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి చమత్కారం ఇంకా సభలో ప్రతిధ్వనిస్తుండగానే, ఒక కొత్త పండితుడు గంభీరంగా ప్రవేశించాడు. ఆ పండితుడి ముఖంలో అహంకారం స్పష్టంగా కనిపించింది, పెదవులపై చిన్నపాటి చీదరింపు మెరిసింది. అతను తన చేతిలోని భారీ, తోలు కట్టు పుస్తకాలను బల్లపై \"ధప్\" అని శబ్దంతో పెట్టాడు — ఆ శబ్దం సభంతా ప్రతిధ్వనించింది. \"ఈ సభలో నాతో వాదించగల పండితుడు ఒక్కడైనా ఉన్నాడా?\" అంటూ గద్దించాడు. తెనాలి అతనిని ఆసక్తిగా, చిన్నపాటి చిరునవ్వుతో గమనించాడు. ఈ అహంకార పండితుడిని సవాలు చేయడానికి ఎవరైనా ధైర్యం చేస్తారా?",
+      "image_prompt": "A new scholar is placing heavy, leather-bound books onto a table with a loud thud. His lips curl into a slight sneer, clearly showing his arrogance. Also in this scene: The Arrogant Scholar is a portly man in his 50s, with a severe expression, a long, neatly tied queue, and thick spectacles perched on his nose. He wears an ostentatious, bright purple silk dhoti and an embroidered angavastram, often fanning himself with a peacock feather. Always the same character across every scene. Mid-morning light, a little brighter than before, reflecting off the scholar's shiny turban, highlighting his imposing presence.",
+      "scene_visual": "A new scholar is placing heavy, leather-bound books onto a table with a loud thud. His lips curl into a slight sneer, clearly showing his arrogance.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Tenaali Chamatkaaram Inkaa Sabhalo Pratidhvanistundagaane, Oka Kotta Panditudu Gambhirangaa Praveshinchaadu. Aa Panditudi Mukhanlo Ahankaaram Spashtangaa Kanipinchindi, Pedavulapai Chinnapaati Chidarimpu Merisindi. Atanu Tana Chetiloni Bhaari, Tolu Kattu Pustakaalanu Ballapai \"Dhap\" Ani Shabdanto Pettaadu — Aa Shabdam Sabhantaa Pratidhvaninchindi. \"I Sabhalo Naato Vaadinchagala Panditudu Okkadainaa Unnaadaa?\" Antu Gaddinchaadu. Tenaali Atanini Aasaktigaa, Chinnapaati Chirunavvuto Gamaninchaadu. I Ahankaara Panditudini Savaalu Cheyadaaniki Evarainaa Dhairyam Chestaaraa?",
+      "text_en": "While Tenali's wit was still echoing in the court, a new scholar entered grandly. Arrogance was clearly visible on the scholar's face, and a slight sneer flickered on his lips. He placed his heavy, leather-bound books on the table with a loud \"thud\" — the sound echoed through the entire court. \"Is there even one scholar in this court who can debate with me?\" he challenged loudly. Tenali watched him with interest and a small smile. Will anyone dare to challenge this arrogant scholar?"
+    },
+    {
+      "id": 3,
+      "text": "ఆ పండితుడు ఒక్కొక్కరిగా సభలోని పండితులను వాదనలో సులభంగా ఓడించాడు. ఓడిపోయిన ప్రతి పండితుడు, సిగ్గుతో తల దించుకున్నాడు, వారి ముఖాలు ఎర్రబారిపోయాయి. ఒక పండితుడు భయంతో దగ్గి, వణుకుతున్న గొంతుతో తన ఓటమిని ఒప్పుకున్నాడు. అప్పుడు ఆ పండితుడు విజయగర్వంతో, \"మీ జ్ఞానం నా ముందు కేవలం చిన్న దీపం వంటిది!\" అని ఎగతాళి చేశాడు. తెనాలి రామకృష్ణుడు అన్నీ నిశితంగా గమనిస్తూ కూర్చున్నాడు — అతని కళ్ళలో ఒక కొత్త ఆలోచన మెరిసింది. ఈ అజేయ పండితుడిని ఓడించడానికి తెనాలి ఎలాంటి ఉపాయం ఆలోచిస్తున్నాడో?",
+      "image_prompt": "The scholar stands victoriously, looking down at the defeated scholars with an arrogant smirk. His face is filled with triumphant pride as he mocks their knowledge. Also in this scene: The Arrogant Scholar is a portly man in his 50s, with a severe expression, a long, neatly tied queue, and thick spectacles perched on his nose. He wears an ostentatious, bright purple silk dhoti and an embroidered angavastram, often fanning himself with a peacock feather. Always the same character across every scene. The court is a little dimmer now, the mood heavy with the courtiers' defeat, shadows lengthening slightly under the pillars.",
+      "scene_visual": "The scholar stands victoriously, looking down at the defeated scholars with an arrogant smirk. His face is filled with triumphant pride as he mocks their knowledge.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Aa Panditudu Okkokkarigaa Sabhaloni Panditulanu Vaadanalo Sulabhangaa Odinchaadu. Odipoyina Prati Panditudu, Sigguto Tala Dinchukunnaadu, Vaari Mukhaalu Errabaaripoyaayi. Oka Panditudu Bhayanto Daggi, Vanukutunna Gontuto Tana Otamini Oppukunnaadu. Appudu Aa Panditudu Vijayagarvanto, \"Mi Jnyaanam Naa Mundu Kevalam Chinna Dipam Vantidi!\" Ani Egataali Cheshaadu. Tenaali Raamakrrishnudu Anni Nishitangaa Gamanistu Kurchunnaadu — Atani Kallalo Oka Kotta Aalochana Merisindi. I Ajeya Panditudini Odinchadaaniki Tenaali Elaanti Upaayam Aalochistunnaado?",
+      "text_en": "The scholar easily defeated each of the court's scholars in debate, one by one. Every defeated scholar hung their head in shame, their faces red. One scholar coughed nervously and admitted his defeat with a trembling voice. Then, with a triumphant smirk, the scholar mocked, \"Your knowledge is just like a small lamp compared to mine!\" Tenali Ramakrishna sat watching everything carefully — a new idea sparkled in his eyes. What kind of clever idea is Tenali thinking of to defeat this unbeatable scholar?"
+    },
+    {
+      "id": 4,
+      "text": "అహంకార పండితుడి విజయోత్సాహం ఇంకా సభలో నిండి ఉండగానే, తెనాలి రామకృష్ణుడు ఒక్కసారిగా ముందుకు వచ్చాడు. \"మహారాజా!\" అంటూ వినయంగా వంగి నమస్కరించాడు, కానీ అతని కళ్ళలో ఒక చిలిపి మెరుపు కనిపించింది. \"మహారాజా, నేను 'టింగరి శాస్త్రం'లో ఈ పండితుడిని సవాలు చేయాలనుకుంటున్నాను!\" అని గంభీరంగా పలికాడు. ఆ మాట వినగానే సభలో ఉన్నవారంతా ఒకరి ముఖాలు ఒకరు చూసుకున్నారు — గందరగోళపు గుసగుసలు వినిపించాయి. పండితుడు మొదట అయోమయంగా చూశాడు, తర్వాత కోపంతో అతని ముఖం ఎర్రబడింది. ఈ 'టింగరి శాస్త్రం' అంటే ఏమిటి... దానిపై తెనాలి ఎలా వాదిస్తాడు?",
+      "image_prompt": "The man bows respectfully to the king, then boldly announces his challenge to the scholar. A mischievous sparkle is visible in his eyes as he speaks of the unknown 'Tingari Shastram'. Also in this scene: The Arrogant Scholar is a portly man in his 50s, with a severe expression, a long, neatly tied queue, and thick spectacles perched on his nose. He wears an ostentatious, bright purple silk dhoti and an embroidered angavastram, often fanning himself with a peacock feather. Always the same character across every scene. A shaft of sunlight briefly catches Tenali's face as he speaks, highlighting his bold proposal, while the scholar remains in relative shadow.",
+      "scene_visual": "The man bows respectfully to the king, then boldly announces his challenge to the scholar. A mischievous sparkle is visible in his eyes as he speaks of the unknown 'Tingari Shastram'.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Ahankaara Panditudi Vijayotsaaham Inkaa Sabhalo Nindi Undagaane, Tenaali Raamakrrishnudu Okkasaarigaa Munduku Vachchaadu. \"Mahaaraajaa!\" Antu Vinayangaa Vangi Namaskarinchaadu, Kaani Atani Kallalo Oka Chilipi Merupu Kanipinchindi. \"Mahaaraajaa, Nenu 'Tingari Shaastran'Lo I Panditudini Savaalu Cheyaalanukuntunnaanu!\" Ani Gambhirangaa Palikaadu. Aa Maata Vinagaane Sabhalo Unnavaarantaa Okari Mukhaalu Okaru Chusukunnaaru — Gandaragolapu Gusagusalu Vinipinchaayi. Panditudu Modata Ayomayangaa Chushaadu, Tarvaata Kopanto Atani Mukham Errabadindi. I 'Tingari Shaastran' Ante Emiti... Daanipai Tenaali Elaa Vaadistaadu?",
+      "text_en": "While the arrogant scholar's triumph still filled the court, Tenali Ramakrishna suddenly stepped forward. \"Your Majesty!\" he said, bowing respectfully, but a mischievous twinkle was in his eyes. \"Your Majesty, I wish to challenge this scholar in 'Tingari Shastram' (Nonsense Science)!\" he declared seriously. Hearing those words, everyone in the court looked at each other — confused whispers could be heard. The scholar first looked confused, then his face turned red with anger. What is this 'Tingari Shastram'... and how will Tenali debate on it?"
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి తన సవాలును కొనసాగిస్తూ, ఒక చిరిగిన గుడ్డల మూటను, చిన్న అల్లరి కుక్కపిల్లను తీసుకువచ్చాడు. \"మహారాజా, ఇదిగో నా 'గ్రంథం' – 'పిల్లి-కుక్క మీమాంస'!\" అంటూ ఆ మూటను కుక్కపిల్లను చూపాడు. ఆ చిన్న కుక్కపిల్ల \"క్యావ్ క్యావ్\" అని అరుస్తూ, సభలోని ప్రశాంతతను ఒక్కసారిగా చెదరగొట్టింది. పండితుడు ఆ దృశ్యాన్ని చూసి కళ్ళార్పకుండా చూస్తూ ఉండిపోయాడు — అతని ముఖం గందరగోళంతో నిండిపోయింది. తెనాలి తన అసంబద్ధమైన ప్రదర్శనను చూసి లోలోపల నవ్వుకున్నాడు, సభలో నవ్వు అణచుకోలేక కొందరు పెదవులు నొక్కుకున్నారు. తన జ్ఞానంపై ఇంత గర్వపడే పండితుడు ఈ వింత 'గ్రంథాలకు', కుక్కపిల్లకు ఎలా స్పందిస్తాడు...?",
+      "image_prompt": "The man holds up a ragged bundle of clothes and a small, yelping puppy. The puppy barks loudly, disrupting the quiet of the court, while the scholar stares in utter confusion. Also in this scene: The Arrogant Scholar is a portly man in his 50s, with a severe expression, a long, neatly tied queue, and thick spectacles perched on his nose. He wears an ostentatious, bright purple silk dhoti and an embroidered angavastram, often fanning himself with a peacock feather. Always the same character across every scene. The court is filled with a mixture of disbelief and stifled laughter, the light softening to a late afternoon glow, casting long shadows.",
+      "scene_visual": "The man holds up a ragged bundle of clothes and a small, yelping puppy. The puppy barks loudly, disrupting the quiet of the court, while the scholar stares in utter confusion.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Tenaali Tana Savaalunu Konasaagistu, Oka Chirigina Guddala Mutanu, Chinna Allari Kukkapillanu Tisukuvachchaadu. \"Mahaaraajaa, Idigo Naa 'Granthan' – 'Pilli-Kukka Mimaansa'!\" Antu Aa Mutanu Kukkapillanu Chupaadu. Aa Chinna Kukkapilla \"Kyaav Kyaav\" Ani Arustu, Sabhaloni Prashaantatanu Okkasaarigaa Chedaragottindi. Panditudu Aa Drrishyaanni Chusi Kallaarpakundaa Chustu Undipoyaadu — Atani Mukham Gandaragolanto Nindipoyindi. Tenaali Tana Asambaddhamaina Pradarshananu Chusi Lolopala Navvukunnaadu, Sabhalo Navvu Anachukoleka Kondaru Pedavulu Nokkukunnaaru. Tana Jnyaanampai Inta Garvapade Panditudu I Vinta 'Granthaalaku', Kukkapillaku Elaa Spandistaadu...?",
+      "text_en": "Tenali continued his challenge by bringing a bundle of torn rags and a small, playful puppy. \"Your Majesty, here is my 'text' – 'Pilli-Kukka Mimamsa' (Cat-Dog Philosophy)!\" he said, pointing to the bundle and the puppy. The little puppy barked \"Woof woof,\" instantly breaking the court's peace. The scholar stared at the sight, wide-eyed — his face filled with confusion. Tenali chuckled inwardly at his absurd display, while some in the court pressed their lips together, trying to hold back their laughter. How will this scholar, so proud of his knowledge, react to these strange 'texts' and a puppy...?"
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి పండితుడి వైపు తిరిగి, ఆ చిరిగిన గుడ్డల మూటను, అరుస్తున్న కుక్కపిల్లను చూపిస్తూ, \"మహాపండితా, ఈ 'పిల్లి-కుక్క మీమాంస'లోని గూఢార్థాలను వివరించండి!\" అని అడిగాడు. పండితుడు తెనాలి మాటలకు అక్షరాలా తత్తరపడిపోయాడు, అతని ముఖం కోపంతో, సిగ్గుతో ఎర్రబారిపోయింది. అతను ఏదో చెప్పబోయి, గొంతు బొంగురుపోవడంతో మాట పెగల్లేదు. — \"ఈ 'టింగరి శాస్త్రం' గురించి నాకు ఏమీ తెలియదు!\" అని పండితుడు చివరకు ఒప్పుకున్నాడు. అతని గర్వం ఒక్కసారిగా నేలపాలైపోయింది...",
+      "image_prompt": "The scholar stammers, his face turning red with anger and shame, unable to speak. His voice is hoarse as he finally admits, 'I know nothing about this 'Tingari Shastram!' Also in this scene: The Arrogant Scholar is a portly man in his 50s, with a severe expression, a long, neatly tied queue, and thick spectacles perched on his nose. He wears an ostentatious, bright purple silk dhoti and an embroidered angavastram, often fanning himself with a peacock feather. Always the same character across every scene. The court is now bathed in the warm, golden light of late afternoon, highlighting the scholar's bright red face and Tenali's serene expression.",
+      "scene_visual": "The scholar stammers, his face turning red with anger and shame, unable to speak. His voice is hoarse as he finally admits, 'I know nothing about this 'Tingari Shastram!'",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Tenaali Panditudi Vaipu Tirigi, Aa Chirigina Guddala Mutanu, Arustunna Kukkapillanu Chupistu, \"Mahaapanditaa, I 'Pilli-Kukka Mimaansa'Loni Gudhaarthaalanu Vivarinchandi!\" Ani Adigaadu. Panditudu Tenaali Maatalaku Aksharaalaa Tattarapadipoyaadu, Atani Mukham Kopanto, Sigguto Errabaaripoyindi. Atanu Edo Cheppaboyi, Gontu Bongurupovadanto Maata Pegalledu. — \"I 'Tingari Shaastran' Gurinchi Naaku Emi Teliyadu!\" Ani Panditudu Chivaraku Oppukunnaadu. Atani Garvam Okkasaarigaa Nelapaalaipoyindi...",
+      "text_en": "Tenali turned to the scholar, pointing to the bundle of torn rags and the barking puppy, and asked, \"Great Scholar, please explain the hidden meanings in this 'Cat-Dog Mimamsa'!\" The scholar was utterly flustered by Tenali's words; his face turned red with anger and shame. He tried to say something, but his voice was hoarse, and no words came out. — \"I know nothing about this 'Tingari Shastram' (Nonsense Science)!\" the scholar finally admitted. His pride had instantly crumbled to dust..."
+    },
+    {
+      "id": 7,
+      "text": "పండితుడు తన అజ్ఞానాన్ని ఒప్పుకోగానే, సభలో ఉన్నవారంతా తేలికపాటి, గౌరవపూర్వకమైన చప్పట్లతో తెనాలిని అభినందించారు. రాజు కళ్ళలో ప్రశంస మెరిసింది, అతను చిరునవ్వుతో తెనాలి వైపు చూశాడు. \"నిజమైన జ్ఞానం పుస్తకాలలో మాత్రమే కాదు, తెలివైన ఉపాయాలలో కూడా ఉంటుంది!\" అని మహారాజు గంభీరంగా ప్రకటించాడు. పండితుడు తన తప్పు తెలుసుకున్నవాడిలా తల వంచుకున్నాడు, అతని ముఖంలో ఇప్పుడు అహంకారం బదులు వినయం కనిపించింది. తెనాలి రామకృష్ణుడు తన చేతులు జోడించి నమస్కరించాడు — అతని కళ్ళలో ఒక నిశ్శబ్ద విజయం మెరిసింది.",
+      "image_prompt": "The king smiles and looks at the man with approval, while the scholar bows his head in humility. The scholar's face now shows humility instead of arrogance, and the man's eyes shine with a silent victory. Also in this scene: The Arrogant Scholar is a portly man in his 50s, with a severe expression, a long, neatly tied queue, and thick spectacles perched on his nose. He wears an ostentatious, bright purple silk dhoti and an embroidered angavastram, often fanning himself with a peacock feather. Always the same character across every scene. Gentle dusk light, warm amber, peaceful resolution, casting soft glows on the faces of the court.",
+      "scene_visual": "The king smiles and looks at the man with approval, while the scholar bows his head in humility. The scholar's face now shows humility instead of arrogance, and the man's eyes shine with a silent victory.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Panditudu Tana Ajnyaanaanni Oppukogaane, Sabhalo Unnavaarantaa Telikapaati, Gauravapurvakamaina Chappatlato Tenaalini Abhinandinchaaru. Raaju Kallalo Prashansa Merisindi, Atanu Chirunavvuto Tenaali Vaipu Chushaadu. \"Nijamaina Jnyaanam Pustakaalalo Maatrame Kaadu, Telivaina Upaayaalalo Kudaa Untundi!\" Ani Mahaaraaju Gambhirangaa Prakatinchaadu. Panditudu Tana Tappu Telusukunnavaadilaa Tala Vanchukunnaadu, Atani Mukhanlo Ippudu Ahankaaram Badulu Vinayam Kanipinchindi. Tenaali Raamakrrishnudu Tana Chetulu Jodinchi Namaskarinchaadu — Atani Kallalo Oka Nishshabda Vijayam Merisindi.",
+      "text_en": "As soon as the scholar admitted his ignorance, everyone in the court applauded Tenali with light, respectful claps. Admiration sparkled in the King's eyes, and he looked at Tenali with a smile. \"True knowledge is not just found in books, but also in clever ideas!\" the King declared grandly. The scholar bowed his head as if he had learned his lesson; humility, instead of arrogance, now showed on his face. Tenali Ramakrishna bowed with folded hands — a silent victory sparkled in his eyes."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king",
+      "description": "King Krishnadevaraya is a majestic and wise ruler in his 40s, with a regal bearing, a well-groomed beard, and a golden crown adorned with rubies. He sits on a grand throne, observing his court with a thoughtful and often amused expression. Always the same character across every scene."
+    },
+    {
+      "key": "courtier",
+      "description": "A generic courtier, typically dressed in fine but less elaborate attire than the King or the Arrogant Scholar, often seen murmuring amongst themselves or looking towards the King for direction. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 10,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is an exceptionally well-crafted children's story in Telugu. It excels in showing emotions, natural dialogue, flawless grammar, and a compelling narrative arc with excellent engagement hooks. The oral storytelling quality is very strong, making it feel like a grandparent is narrating. To reach a perfect 10 across the board, one might consider adding even more sensory details or direct conversational asides to further enhance the grandmotherly warmth, though it's already outstanding."
+  },
+  "title_te_en": "Tenaali Upaayan, Panditudi Paatham",
+  "moral_te_en": "Nijamaina Telivi Ante Pustaka Jnyaanam Maatrame Kaadu, Lokaanni Artham Chesukune Upaayam Kudaa.",
+  "title_en": "Tenali's Clever Idea, The Scholar's Lesson",
+  "moral_en": "True wisdom is not just about book knowledge, but also about the cleverness to understand the world.",
+  "id": "20260525_210839",
+  "date": "2026-05-25",
+  "category": "tenali",
+  "subcategory": "court_wit",
+  "topic": "తెనాలి రాముడు మరియు అహంకారి పండితుడు",
+  "thumbnail": "stories/20260525_210839/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
