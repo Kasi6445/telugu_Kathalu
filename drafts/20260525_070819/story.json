@@ -1,0 +1,97 @@
+{
+  "title": "కోతి తెలివి, మొసలి గుణపాఠం",
+  "moral": "తెలివిగా ఆలోచించి, సరైన సమయంలో స్పందిస్తే ఏ ఆపద నుంచైనా బయటపడవచ్చు.",
+  "main_character": "A nimble, small brown monkey with bright, curious eyes and a long, prehensile tail. He is quick-witted and enjoys sweet fruits. Always the same character across every scene.",
+  "antagonist": "A large, ancient-looking green crocodile with rough, scaly skin and sharp teeth, often seen with only his eyes and snout above water. He is powerful but easily tricked. Always the same character across every scene.",
+  "setting": "A lush riverbank in the Godavari delta region of Andhra Pradesh, with a towering Jamun (నేరేడు) fruit tree overhanging the water, surrounded by thick green foliage, bathed in the warm glow of late afternoon sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి నది ఒడ్డున, ఎత్తైన నేరేడు చెట్టు కొమ్మల మీద చిలిపి కోతి ఆనందంగా గంతులు వేస్తోంది. పండిన నేరేడు పండ్ల తియ్యటి వాసన గాలిలో తేలియాడుతోంది — అది మురిసిపోతూ పండ్లను తింటోంది. నదిలో నుండి ఒక్కసారిగా పెద్ద మొసలి బయటకు వచ్చింది. దాని కళ్ళు కోతిని ఆసక్తిగా చూశాయి. \"నమస్కారం, స్నేహితుడా! నువ్వు ఈ నదిలో ఒంటరిగా ఉంటావా?\" అని మొసలి గంభీరంగా అడిగింది. మరి ఈ కొత్తగా వచ్చిన మొసలితో కోతి స్నేహం చేస్తుందా?",
+      "image_prompt": "A large crocodile suddenly emerges from the river. Its eyes are fixed intently on the monkey in the tree. Also in this scene: A large, ancient-looking green crocodile with rough, scaly skin and sharp teeth, often seen with only his eyes and snout above water. He is powerful but easily tricked. Always the same character across every scene. Bright, warm afternoon sun filtering through dense green leaves, dappling the river surface with golden light, creating a serene and inviting atmosphere.",
+      "scene_visual": "A large crocodile suddenly emerges from the river. Its eyes are fixed intently on the monkey in the tree.",
+      "supporting_char_keys": [],
+      "text_te_en": "Godaavari Nadi Odduna, Ettaina Neredu Chettu Kommala Mida Chilipi Koti Aanandangaa Gantulu Vestondi. Pandina Neredu Pandla Tiyyati Vaasana Gaalilo Teliyaadutondi — Adi Murisipotu Pandlanu Tintondi. Nadilo Nundi Okkasaarigaa Pedda Mosali Bayataku Vachchindi. Daani Kallu Kotini Aasaktigaa Chushaayi. \"Namaskaaran, Snehitudaa! Nuvvu I Nadilo Ontarigaa Untaavaa?\" Ani Mosali Gambhirangaa Adigindi. Mari I Kottagaa Vachchina Mosalito Koti Sneham Chestundaa?",
+      "text_en": "On the banks of the Godavari River, a playful monkey was happily jumping on the branches of a tall Jamun tree. The sweet smell of ripe Jamun fruits floated in the air — it was happily eating the fruits. Suddenly, a big crocodile emerged from the river. Its eyes watched the monkey with interest. \"Hello, friend! Do you live alone in this river?\" the crocodile asked seriously. Will the monkey become friends with this new crocodile?"
+    },
+    {
+      "id": 2,
+      "text": "మొసలి ప్రశ్నకు కోతి వెంటనే తల ఊపింది, అలా వాళ్ళిద్దరూ మంచి స్నేహితులయ్యారు. ప్రతిరోజు సాయంత్రం, కోతి నేరేడు పండ్లను కింద ఉన్న మొసలికి విసురుతుంది. నది నీళ్ళు గట్టుకు మెల్లగా తాకుతున్న శబ్దం వారి కబుర్లకు తోడైంది. \"ఈ తియ్యని పండ్లను తిని చూడు, నా స్నేహితుడా!\" అని కోతి ప్రేమగా అంది. వాళ్ళిద్దరి స్నేహం ఇలాగే సాగుతుందా, లేక ఏదైనా మారుతుందా?",
+      "image_prompt": "The monkey lovingly throws ripe java plum fruits down from the tree. The fruits splash gently into the river where the crocodile waits below. Also in this scene: A large, ancient-looking green crocodile with rough, scaly skin and sharp teeth, often seen with only his eyes and snout above water. He is powerful but easily tricked. Always the same character across every scene. Soft, golden late afternoon light, casting long shadows from the tree across the water, feeling warm and secure, indicating the passage of time in friendship.",
+      "scene_visual": "The monkey lovingly throws ripe java plum fruits down from the tree. The fruits splash gently into the river where the crocodile waits below.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mosali Prashnaku Koti Ventane Tala Upindi, Alaa Vaalliddaru Manchi Snehitulayyaaru. Pratiroju Saayantran, Koti Neredu Pandlanu Kinda Unna Mosaliki Visurutundi. Nadi Nillu Gattuku Mellagaa Taakutunna Shabdam Vaari Kaburlaku Todaindi. \"I Tiyyani Pandlanu Tini Chudu, Naa Snehitudaa!\" Ani Koti Premagaa Andi. Vaalliddari Sneham Ilaage Saagutundaa, Leka Edainaa Maarutundaa?",
+      "text_en": "The monkey immediately nodded its head to the crocodile's question, and so they became good friends. Every evening, the monkey would throw Jamun fruits down to the crocodile below. The gentle sound of the river water touching the bank joined their conversations. \"Try these sweet fruits, my friend!\" the monkey said lovingly. Will their friendship continue like this, or will something change?"
+    },
+    {
+      "id": 3,
+      "text": "ఒకరోజు మొసలి భార్యకు కోతి గుండె కావాలి. మొసలి కళ్ళు కంగారుగా పక్కకు కదులుతున్నాయి, అసలు ఉద్దేశాన్ని దాచడానికి ప్రయత్నిస్తోంది. నది నీళ్ళ మట్టి వాసన దాని చుట్టూ అలుముకుంది. అది మళ్ళీ ఒడ్డుకు దగ్గరగా వచ్చి, కోతిని చూసింది. \"నా భార్య నిన్ను కలవాలని ఉంది. మా ఇంటికి రండి, అద్భుతమైన విందు ఉంది!\" అని మొసలి పిలిచింది. అమాయక కోతి మొసలి మాటలు నమ్ముతుందా, దానికి అక్కడ ఏం ఎదురుచూస్తోంది?",
+      "image_prompt": "The crocodile approaches the river bank, its eyes shifting nervously. The muddy scent of the river water surrounds it as it looks at the monkey. Also in this scene: A large, ancient-looking green crocodile with rough, scaly skin and sharp teeth, often seen with only his eyes and snout above water. He is powerful but easily tricked. Always the same character across every scene. The sun is lower, casting longer, slightly more ominous shadows across the river. The water surface reflects a deeper, less inviting green, hinting at impending danger.",
+      "scene_visual": "The crocodile approaches the river bank, its eyes shifting nervously. The muddy scent of the river water surrounds it as it looks at the monkey.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okaroju Mosali Bhaaryaku Koti Gunde Kaavaali. Mosali Kallu Kangaarugaa Pakkaku Kadulutunnaayi, Asalu Uddeshaanni Daachadaaniki Prayatnistondi. Nadi Nilla Matti Vaasana Daani Chuttu Alumukundi. Adi Malli Odduku Daggaragaa Vachchi, Kotini Chusindi. \"Naa Bhaarya Ninnu Kalavaalani Undi. Maa Intiki Randi, Adbhutamaina Vindu Undi!\" Ani Mosali Pilichindi. Amaayaka Koti Mosali Maatalu Nammutundaa, Daaniki Akkada Em Eduruchustondi?",
+      "text_en": "One day, the crocodile's wife wanted the monkey's heart. The crocodile's eyes nervously darted sideways, trying to hide its true intention. The muddy smell of the river water surrounded it. It came close to the bank again and looked at the monkey. \"My wife wants to meet you. Come to our home, there's a wonderful feast!\" the crocodile invited. Will the innocent monkey believe the crocodile's words, and what awaits it there?"
+    },
+    {
+      "id": 4,
+      "text": "కోతి మొసలి వీపు మీద కూర్చుని ప్రయాణం మొదలుపెట్టింది, కానీ నది మధ్యలోకి వెళ్ళగానే మొసలి అసలు రంగు బయటపడింది. కోతి గుండె వేగంగా కొట్టుకుంది, కళ్ళు భయంతో పెద్దవయ్యాయి, కానీ మెదడు మాత్రం వేగంగా ఆలోచిస్తోంది. మొసలి వీపుపై ఉండే చల్లని, గరుకు పొలుసులు ఉచ్చులా అనిపించాయి. \"నా భార్యకు నీ హృదయం కావాలి, అందుకే నిన్ను తీసుకెళ్తున్నాను!\" అని మొసలి కుట్రగా చెప్పింది. ఈ ప్రాణాంతక ఉచ్చు నుండి తెలివైన కోతి ఎలా తప్పించుకుంటుంది?",
+      "image_prompt": "The monkey sits on the crocodile's back, its eyes wide with fear as they reach the middle of the river. The cold, rough scales of the crocodile's back feel like a trap beneath it. Also in this scene: A large, ancient-looking green crocodile with rough, scaly skin and sharp teeth, often seen with only his eyes and snout above water. He is powerful but easily tricked. Always the same character across every scene. Harsh midday sun directly overhead, glinting off the vast, deep blue water, creating a sense of exposure and no immediate escape for the monkey.",
+      "scene_visual": "The monkey sits on the crocodile's back, its eyes wide with fear as they reach the middle of the river. The cold, rough scales of the crocodile's back feel like a trap beneath it.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koti Mosali Vipu Mida Kurchuni Prayaanam Modalupettindi, Kaani Nadi Madhyaloki Vellagaane Mosali Asalu Rangu Bayatapadindi. Koti Gunde Vegangaa Kottukundi, Kallu Bhayanto Peddavayyaayi, Kaani Medadu Maatram Vegangaa Aalochistondi. Mosali Vipupai Unde Challani, Garuku Polusulu Uchchulaa Anipinchaayi. \"Naa Bhaaryaku Ni Hrridayam Kaavaali, Anduke Ninnu Tisukeltunnaanu!\" Ani Mosali Kutragaa Cheppindi. I Praanaantaka Uchchu Nundi Telivaina Koti Elaa Tappinchukuntundi?",
+      "text_en": "The monkey sat on the crocodile's back and started the journey, but as soon as they reached the middle of the river, the crocodile's true colors were revealed. The monkey's heart beat fast, its eyes widened with fear, but its brain was thinking quickly. The cold, rough scales on the crocodile's back felt like a trap. \"My wife wants your heart, that's why I'm taking you!\" the crocodile said cunningly. How will the clever monkey escape from this deadly trap?"
+    },
+    {
+      "id": 5,
+      "text": "కోతి ముఖంలో భయం ఒక్కసారిగా మాయమైంది, దాని కళ్ళలో ఆశ మెరిసింది. అది నిలకడగా, ధైర్యంగా మొసలి వైపు చూసింది. దూరంగా పూల సువాసన మోసుకొస్తున్న వెచ్చని గాలి వీచింది, ఈ ప్రమాదకర పరిస్థితికి అది విరుద్ధంగా అనిపించింది. \"అయ్యో! నా హృదయం చెట్టు మీద ఉంది! నేను ఎప్పుడూ దాన్ని వెంట తెచ్చుకోను!\" అని కోతి అమాయకంగా అంది. అమాయక మొసలి కోతి అబద్ధాన్ని నమ్మి వెనక్కి తిరుగుతుందా?",
+      "image_prompt": "The monkey's face transforms from fear to hope as it looks steadily and bravely at the crocodile. A warm breeze carrying the scent of distant flowers blows gently, contrasting with the dangerous situation. Also in this scene: A large, ancient-looking green crocodile with rough, scaly skin and sharp teeth, often seen with only his eyes and snout above water. He is powerful but easily tricked. Always the same character across every scene. A brief moment of intense sunlight, then the sun starts to dip slightly, hinting at the approaching evening, creating a sense of fleeting time for the decision.",
+      "scene_visual": "The monkey's face transforms from fear to hope as it looks steadily and bravely at the crocodile. A warm breeze carrying the scent of distant flowers blows gently, contrasting with the dangerous situation.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koti Mukhanlo Bhayam Okkasaarigaa Maayamaindi, Daani Kallalo Aasha Merisindi. Adi Nilakadagaa, Dhairyangaa Mosali Vaipu Chusindi. Durangaa Pula Suvaasana Mosukostunna Vechchani Gaali Vichindi, I Pramaadakara Paristhitiki Adi Viruddhangaa Anipinchindi. \"Ayyo! Naa Hrridayam Chettu Mida Undi! Nenu Eppudu Daanni Venta Techchukonu!\" Ani Koti Amaayakangaa Andi. Amaayaka Mosali Koti Abaddhaanni Nammi Venakki Tirugutundaa?",
+      "text_en": "The fear on the monkey's face suddenly disappeared, and hope sparkled in its eyes. It looked steadily and bravely at the crocodile. A warm breeze carrying the scent of flowers from afar blew, seeming contrary to this dangerous situation. \"Oh no! My heart is on the tree! I never carry it with me!\" the monkey said innocently. Will the naive crocodile believe the monkey's lie and turn back?"
+    },
+    {
+      "id": 6,
+      "text": "నిజంగానే మొసలి కోతి మాటలు నమ్మి, వెనక్కి నేరేడు చెట్టు వైపు తిరిగింది. ఒడ్డుకు రాగానే కోతికి ప్రాణం లేచివచ్చింది! అది ఒక్కసారిగా మొసలి వీపు మీది నుండి గెంతి చెట్టు మీదకు దూకింది. నేరేడు చెట్టు గరుకు బెరడు దాని వేగంగా పాకుతున్న పాదాలకు గట్టిగా, సురక్షితంగా అనిపించింది. \"హా హా హా! తెలివైన కోతిని మోసం చేయడం అంత సులభం కాదు!\" అని కోతి బిగ్గరగా నవ్వింది. ఇప్పుడు కోతి సురక్షితంగా చెట్టు మీద ఉంది, మరి మొసలి ఏం చేస్తుంది?",
+      "image_prompt": "The monkey leaps from the crocodile's back the moment they reach the bank. Its rapidly scrambling feet grip the rough bark of the java plum tree, finding safety. Also in this scene: A large, ancient-looking green crocodile with rough, scaly skin and sharp teeth, often seen with only his eyes and snout above water. He is powerful but easily tricked. Always the same character across every scene. Golden hour light, warm and radiant, illuminating the monkey's victorious leap against a backdrop of deep green foliage, signifying triumph.",
+      "scene_visual": "The monkey leaps from the crocodile's back the moment they reach the bank. Its rapidly scrambling feet grip the rough bark of the java plum tree, finding safety.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nijangaane Mosali Koti Maatalu Nammi, Venakki Neredu Chettu Vaipu Tirigindi. Odduku Raagaane Kotiki Praanam Lechivachchindi! Adi Okkasaarigaa Mosali Vipu Midi Nundi Genti Chettu Midaku Dukindi. Neredu Chettu Garuku Beradu Daani Vegangaa Paakutunna Paadaalaku Gattigaa, Surakshitangaa Anipinchindi. \"Haa Haa Haa! Telivaina Kotini Mosam Cheyadam Anta Sulabham Kaadu!\" Ani Koti Biggaragaa Navvindi. Ippudu Koti Surakshitangaa Chettu Mida Undi, Mari Mosali Em Chestundi?",
+      "text_en": "Indeed, the crocodile believed the monkey's words and turned back towards the Jamun tree. As soon as they reached the bank, the monkey felt alive again! It leaped off the crocodile's back and jumped onto the tree. The rough bark of the Jamun tree felt firm and safe under its quickly scrambling feet. \"Ha ha ha! It's not so easy to trick a clever monkey!\" the monkey laughed loudly. Now the monkey is safe on the tree, what will the crocodile do?"
+    },
+    {
+      "id": 7,
+      "text": "చెట్టు పైనుండి కోతి మొసలిని చూసి నవ్వింది, దాని మోసం బయటపడింది. మొసలి తల కొద్దిగా వంగింది, తోక నిరాశగా నెమ్మదిగా కదులుతోంది — తన తెలివితక్కువతనం దానికి అర్థమైంది. దూరంగా కొంగ ఏడుపు నది అంతటా వినిపించింది, అది మొసలి ఓటమికి సాక్ష్యంలా ఉంది. \"స్నేహం అంటే నమ్మకం, మోసం కాదు!\" అని కోతి గట్టిగా చెప్పింది. సిగ్గుపడిన మొసలి ఆ మురికి నీళ్ళలోకి వెనక్కి తిరిగి, శాశ్వతంగా అదృశ్యమైపోయింది.",
+      "image_prompt": "The crocodile hangs its head slightly, its tail moving slowly and dejectedly. It slowly turns back into the murky water, disappearing from sight. Also in this scene: A large, ancient-looking green crocodile with rough, scaly skin and sharp teeth, often seen with only his eyes and snout above water. He is powerful but easily tricked. Always the same character across every scene. Gentle dusk light, warm amber and fading purples in the sky, peaceful and reflective as the conflict resolves and the day ends.",
+      "scene_visual": "The crocodile hangs its head slightly, its tail moving slowly and dejectedly. It slowly turns back into the murky water, disappearing from sight.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chettu Painundi Koti Mosalini Chusi Navvindi, Daani Mosam Bayatapadindi. Mosali Tala Koddigaa Vangindi, Toka Niraashagaa Nemmadigaa Kadulutondi — Tana Telivitakkuvatanam Daaniki Arthamaindi. Durangaa Konga Edupu Nadi Antataa Vinipinchindi, Adi Mosali Otamiki Saakshyanlaa Undi. \"Sneham Ante Nammakan, Mosam Kaadu!\" Ani Koti Gattigaa Cheppindi. Siggupadina Mosali Aa Muriki Nillaloki Venakki Tirigi, Shaashvatangaa Adrrishyamaipoyindi.",
+      "text_en": "From the tree, the monkey looked at the crocodile and laughed, its trick revealed. The crocodile's head drooped slightly, its tail moved slowly in despair — it understood its foolishness. In the distance, the cry of a crane echoed across the river, like a witness to the crocodile's defeat. \"Friendship means trust, not deceit!\" the monkey said loudly. The ashamed crocodile turned back into the murky waters and disappeared forever."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 10,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.5,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is a strong contender for publication, boasting excellent oral warmth, vivid dialogue, and a compelling narrative arc that will deeply engage children. The consistent use of suspenseful questions at the end of each scene is a masterstroke for child engagement. To reach a perfect score, the primary focus should be on enhancing emotional depth by consistently showing characters' feelings through actions and reactions, rather than stating them directly. For example, instead of \"కోతి ఆనందంగా గంతులు వేస్తోంది,\" describe its playful movements and sounds."
+  },
+  "title_te_en": "Koti Telivi, Mosali Gunapaatham",
+  "moral_te_en": "Telivigaa Aalochinchi, Saraina Samayanlo Spandiste E Aapada Nunchainaa Bayatapadavachchu.",
+  "title_en": "The Clever Monkey and the Crocodile's Lesson",
+  "moral_en": "If you think cleverly and react at the right time, you can escape from any danger.",
+  "id": "20260525_070819",
+  "date": "2026-05-25",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - తెలివైన కోతి మరియు మొసలి",
+  "thumbnail": "stories/20260525_070819/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
