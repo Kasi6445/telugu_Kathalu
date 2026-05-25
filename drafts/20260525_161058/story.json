@@ -1,0 +1,108 @@
+{
+  "title": "విదురుడి వినయం, జ్ఞాన మార్గం",
+  "moral": "నిజమైన జ్ఞానం, నిస్వార్థ భక్తి ఎప్పుడూ గౌరవించబడతాయి, అవే నిజమైన మార్గం.",
+  "main_character": "Vidura: A wise and righteous minister in the court of Hastinapura, known for his unwavering devotion to dharma. He possesses a calm demeanor, a gentle face, and wears simple, unadorned white garments, reflecting his inner purity and detachment from worldly grandeur. Always the same character across every scene.",
+  "antagonist": "Duryodhana: A powerful prince with a muscular build and a proud, often arrogant expression. He wears elaborate royal attire with heavy gold armor and a crown. Always the same character across every scene.",
+  "setting": "The ancient city of Hastinapura, alternating between Vidura's humble, mud-walled dwelling with a small courtyard and the grand, opulent royal palace adorned with gold and intricate carvings. The time of day shifts from peaceful mornings to anxious afternoons. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పొద్దు పొడిచింది. హస్తినాపురంలో విదురుడు తన చిన్న ఇంట్లో లేచాడు. మట్టి గోడలు, చిన్న ముంగిలి, కానీ అతని మనసులో మాత్రం అద్భుతమైన శాంతి. అతను కళ్ళు మూసుకుని, చేతులు జోడించి ప్రార్థన చేశాడు. అతని ముఖం మీద — చిరునవ్వు. అప్పుడు, 'ధర్మమే రక్ష, ధర్మమే మార్గం' అని మెల్లగా పలికాడు. పరిమళభరితమైన ధూపం, తులసి ఆకుల సుగంధం ఆ గదంతా నిండిపోయాయి. అంతటి జ్ఞాని, రాజ ప్రాసాదంలో కాకుండా ఇలా నిరాడంబరంగా ఎందుకు జీవిస్తున్నాడో మీకు తెలుసా?",
+      "image_prompt": "The wise man closes his eyes and joins his hands in prayer. A gentle smile plays on his face as fragrant incense fills the small room. Soft morning light filtering through a small, arched window, illuminating dust motes dancing in the air, peaceful and warm.",
+      "scene_visual": "The wise man closes his eyes and joins his hands in prayer. A gentle smile plays on his face as fragrant incense fills the small room.",
+      "supporting_char_keys": [],
+      "text_te_en": "Poddu Podichindi. Hastinaapuranlo Vidurudu Tana Chinna Intlo Lechaadu. Matti Godalu, Chinna Mungili, Kaani Atani Manasulo Maatram Adbhutamaina Shaanti. Atanu Kallu Musukuni, Chetulu Jodinchi Praarthana Cheshaadu. Atani Mukham Mida — Chirunavvu. Appudu, 'Dharmame Raksha, Dharmame Maargan' Ani Mellagaa Palikaadu. Parimalabharitamaina Dhupan, Tulasi Aakula Sugandham Aa Gadantaa Nindipoyaayi. Antati Jnyaani, Raaja Praasaadanlo Kaakundaa Ilaa Niraadambarangaa Enduku Jivistunnaado Miku Telusaa?",
+      "text_en": "The sun rose. In Hastinapura, Vidura woke up in his small house. Mud walls, a tiny courtyard, but in his heart, there was wonderful peace. He closed his eyes, joined his hands, and prayed. A gentle smile was on his face. Then, he softly said, 'Righteousness protects, righteousness is the way.' Fragrant incense and the sweet smell of tulasi leaves filled the room. Do you know why such a wise man lived so simply, instead of in the royal palace?"
+    },
+    {
+      "id": 2,
+      "text": "నిరాడంబరంగా జీవిస్తున్న విదురుడు ఆ తర్వాత రాజసభలోకి అడుగుపెట్టాడు. విదురుడు ధృతరాష్ట్రునికి నమస్కరించి, \"మహారాజా, ధర్మ మార్గమే ప్రజలకు శాంతినిస్తుంది,\" అని వినయంగా వివరించాడు. ఆ రాజప్రాసాదంలో ఖరీదైన అత్తరులు, పట్టు వస్త్రాల ఘాటైన వాసన ఉక్కిరిబిక్కిరి చేస్తోంది. దుర్యోధనుడు మాత్రం పెదవి విరిచి, \"ఈ పాత మాటలు మాకు వద్దు, మాకు అధికారం ముఖ్యం!\" అని గర్వంగా అన్నాడు. ధృతరాష్ట్రుడు తటపటాయించి — తల వంచుకున్నాడు. విదురుడు మెల్లగా నిట్టూర్పు విడిచాడు. మరి, విదురుడి మంచి మాటలు ఎవరైనా వింటారా, లేక అహంకారమే గెలుస్తుందా?",
+      "image_prompt": "The king hesitates, then slowly bows his head in resignation. The prince stands nearby, curling his lip in disdain. Also in this scene: Duryodhana: A powerful prince with a muscular build and a proud, often arrogant expression. He wears elaborate royal attire with heavy gold armor and a crown. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Dhritarashtra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Bright, ornate hall, sunlight streaming through large arched windows, reflecting off gold and jewels, creating a sense of grandeur but also coldness.",
+      "scene_visual": "The king hesitates, then slowly bows his head in resignation. The prince stands nearby, curling his lip in disdain.",
+      "supporting_char_keys": [
+        "Dhritarashtra"
+      ],
+      "text_te_en": "Niraadambarangaa Jivistunna Vidurudu Aa Tarvaata Raajasabhaloki Adugupettaadu. Vidurudu Dhrritaraashtruniki Namaskarinchi, \"Mahaaraajaa, Dharma Maargame Prajalaku Shaantinistundi,\" Ani Vinayangaa Vivarinchaadu. Aa Raajapraasaadanlo Kharidaina Attarulu, Pattu Vastraala Ghaataina Vaasana Ukkiribikkiri Chestondi. Duryodhanudu Maatram Pedavi Virichi, \"I Paata Maatalu Maaku Vaddu, Maaku Adhikaaram Mukhyan!\" Ani Garvangaa Annaadu. Dhrritaraashtrudu Tatapataayinchi — Tala Vanchukunnaadu. Vidurudu Mellagaa Nitturpu Vidichaadu. Mari, Vidurudi Manchi Maatalu Evarainaa Vintaaraa, Leka Ahankaarame Gelustundaa?",
+      "text_en": "Vidura, who lived simply, then entered the royal court. Vidura bowed to Dhritarashtra and humbly explained, 'Your Majesty, only the path of righteousness brings peace to the people.' The strong smell of expensive perfumes and silk clothes in the royal palace was overwhelming. Duryodhana, however, sneered and proudly said, 'We don't need these old sayings, power is what matters to us!' Dhritarashtra hesitated and bowed his head. Vidura sighed softly. So, would anyone listen to Vidura's good words, or would arrogance win?"
+    },
+    {
+      "id": 3,
+      "text": "రాజసభలో విదురుడి మాటలు వినకపోవడంతో, కొద్ది రోజుల్లోనే రాజ్యంలో పెద్ద సమస్య తలెత్తింది. ధృతరాష్ట్రుడు ఆందోళనగా తన చేతులు పిసుకున్నాడు. దూరం నుండి, రాజప్రాసాదం బయట — అల్లరి మూకల అస్పష్టమైన శబ్దాలు వినిపిస్తున్నాయి. దుర్యోధనుడు మాత్రం మొండిగా చేతులు కట్టుకుని నిలబడ్డాడు. \"విదురా, ఈ సమస్యకు పరిష్కారం ఏమిటి?\" అని ధృతరాష్ట్రుడు నిస్సహాయంగా అడిగాడు. విదురుడు తన నుదురు చిట్లించి, రాజ్య భవిష్యత్తు గురించి మౌనంగా ఆలోచించాడు. మరి, ఈ సమస్య రాజ్యంపై ఎలాంటి ప్రభావం చూపుతుంది, విదురుడు ఇప్పుడు ఏం చేస్తాడు?",
+      "image_prompt": "The king anxiously wrings his hands together, his face etched with worry. The prince stands stubbornly with his arms crossed, refusing to acknowledge the problem. Also in this scene: Duryodhana: A powerful prince with a muscular build and a proud, often arrogant expression. He wears elaborate royal attire with heavy gold armor and a crown. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Dhritarashtra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Overcast sky seen through the palace windows, casting a dull, uneasy light over the worried faces in the court, shadows growing longer.",
+      "scene_visual": "The king anxiously wrings his hands together, his face etched with worry. The prince stands stubbornly with his arms crossed, refusing to acknowledge the problem.",
+      "supporting_char_keys": [
+        "Dhritarashtra"
+      ],
+      "text_te_en": "Raajasabhalo Vidurudi Maatalu Vinakapovadanto, Koddi Rojullone Raajyanlo Pedda Samasya Talettindi. Dhrritaraashtrudu Aandolanagaa Tana Chetulu Pisukunnaadu. Duram Nundi, Raajapraasaadam Bayata — Allari Mukala Aspashtamaina Shabdaalu Vinipistunnaayi. Duryodhanudu Maatram Mondigaa Chetulu Kattukuni Nilabaddaadu. \"Viduraa, I Samasyaku Parishkaaram Emiti?\" Ani Dhrritaraashtrudu Nissahaayangaa Adigaadu. Vidurudu Tana Nuduru Chitlinchi, Raajya Bhavishyattu Gurinchi Maunangaa Aalochinchaadu. Mari, I Samasya Raajyampai Elaanti Prabhaavam Chuputundi, Vidurudu Ippudu Em Chestaadu?",
+      "text_en": "Because Vidura's words were not heeded in the royal court, a big problem arose in the kingdom within a few days. Dhritarashtra anxiously wrung his hands. From a distance, outside the royal palace, indistinct sounds of unruly crowds could be heard. Duryodhana, however, stood stubbornly with his arms crossed. Dhritarashtra helplessly asked, 'Vidura, what is the solution to this problem?' Vidura furrowed his brow and silently thought about the future of the kingdom. So, what effect would this problem have on the kingdom, and what would Vidura do now?"
+    },
+    {
+      "id": 4,
+      "text": "రాజ్యంలో సమస్యలు పెరుగుతున్న సమయంలో, శ్రీకృష్ణుడు హస్తినాపురానికి వచ్చాడు. ఆయన రాజప్రాసాదాన్ని దాటి — నేరుగా విదురుడి పూరిపాకకు వచ్చాడు. విదురుడు శ్రీకృష్ణుడిని చూసి ఆనందంతో కన్నీళ్లు పెట్టుకున్నాడు. ఆయనకు సాష్టాంగ నమస్కారం చేశాడు. విదురుడు ప్రేమతో వండిన అన్నం, ఆకుకూరలు శ్రీకృష్ణుడికి వడ్డించాడు. \"విదురా, నీ ప్రేమతో వండిన ఈ భోజనం నాకు అమృతం కన్నా గొప్పది,\" అని శ్రీకృష్ణుడు చిరునవ్వుతో అన్నాడు. ఆ ప్రేమపూర్వక భోజనం శ్రీకృష్ణుడికి అమృతం కన్నా రుచిగా అనిపించింది. మరి, కృష్ణుడి ఈ సందర్శనం విదురుడికి, రాజ్యానికి ఏం అర్థం, ఇది రాజప్రాసాదంలో మార్పు తెస్తుందా?",
+      "image_prompt": "The wise man prostrates himself before the divine guest, tears of joy streaming down his face. He then lovingly serves simple rice and greens to the guest. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Warm, golden light of late afternoon filling Vidura's humble dwelling, radiating peace and a palpable divine presence.",
+      "scene_visual": "The wise man prostrates himself before the divine guest, tears of joy streaming down his face. He then lovingly serves simple rice and greens to the guest.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Raajyanlo Samasyalu Perugutunna Samayanlo, Shrikrrishnudu Hastinaapuraaniki Vachchaadu. Aayana Raajapraasaadaanni Daati — Nerugaa Vidurudi Puripaakaku Vachchaadu. Vidurudu Shrikrrishnudini Chusi Aanandanto Kannillu Pettukunnaadu. Aayanaku Saashtaanga Namaskaaram Cheshaadu. Vidurudu Premato Vandina Annan, Aakukuralu Shrikrrishnudiki Vaddinchaadu. \"Viduraa, Ni Premato Vandina I Bhojanam Naaku Amrritam Kannaa Goppadi,\" Ani Shrikrrishnudu Chirunavvuto Annaadu. Aa Premapurvaka Bhojanam Shrikrrishnudiki Amrritam Kannaa Ruchigaa Anipinchindi. Mari, Krrishnudi I Sandarshanam Vidurudiki, Raajyaaniki Em Arthan, Idi Raajapraasaadanlo Maarpu Testundaa?",
+      "text_en": "As problems in the kingdom grew, Sri Krishna came to Hastinapura. He bypassed the royal palace and went straight to Vidura's humble hut. Vidura shed tears of joy upon seeing Sri Krishna. He prostrated himself before Him. Vidura lovingly served Sri Krishna rice and green leafy vegetables he had cooked. Sri Krishna smiled and said, 'Vidura, this meal cooked with your love is greater to me than nectar.' That loving meal tasted better to Sri Krishna than nectar. So, what did Krishna's visit mean for Vidura and the kingdom? Would it bring change to the royal palace?"
+    },
+    {
+      "id": 5,
+      "text": "కృష్ణుడి సందర్శనం తర్వాత కూడా, రాజ్యంలో సమస్యలు ఇంకా పెరిగాయి. రాజప్రాసాదంలో భారీ, ఆందోళనకరమైన నిశ్శబ్దం అలుముకుంది. దుర్యోధనుడు కోపంగా అటూ ఇటూ తిరుగుతూ ఉన్నాడు. ధృతరాష్ట్రుడు పశ్చాత్తాపంతో తల దించుకున్నాడు. ఆ క్షణంలో — అన్నీ అర్థమయ్యాయి. \"విదురా, దయచేసి మాకు మార్గం చూపించు,\" అని ధృతరాష్ట్రుడు విదురుడిని వేడుకున్నాడు. విదురుడు వారిని అర్థం చేసుకున్నట్లుగా చూశాడు. మరి, తన మాటలను పట్టించుకోని వారికి విదురుడు సహాయం చేస్తాడా?",
+      "image_prompt": "The king bows his head in deep repentance, finally understanding the gravity of the situation. The prince paces angrily back and forth, still consumed by his rage. Also in this scene: Duryodhana: A powerful prince with a muscular build and a proud, often arrogant expression. He wears elaborate royal attire with heavy gold armor and a crown. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Dhritarashtra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Dim, anxious light in the court, shadows lengthening and deepening, reflecting the growing despair and uncertainty of the rulers.",
+      "scene_visual": "The king bows his head in deep repentance, finally understanding the gravity of the situation. The prince paces angrily back and forth, still consumed by his rage.",
+      "supporting_char_keys": [
+        "Dhritarashtra"
+      ],
+      "text_te_en": "Krrishnudi Sandarshanam Tarvaata Kudaa, Raajyanlo Samasyalu Inkaa Perigaayi. Raajapraasaadanlo Bhaari, Aandolanakaramaina Nishshabdam Alumukundi. Duryodhanudu Kopangaa Atu Itu Tirugutu Unnaadu. Dhrritaraashtrudu Pashchaattaapanto Tala Dinchukunnaadu. Aa Kshananlo — Anni Arthamayyaayi. \"Viduraa, Dayachesi Maaku Maargam Chupinchu,\" Ani Dhrritaraashtrudu Vidurudini Vedukunnaadu. Vidurudu Vaarini Artham Chesukunnatlugaa Chushaadu. Mari, Tana Maatalanu Pattinchukoni Vaariki Vidurudu Sahaayam Chestaadaa?",
+      "text_en": "Even after Krishna's visit, problems in the kingdom continued to grow. A heavy, anxious silence fell over the royal palace. Duryodhana was pacing back and forth angrily. Dhritarashtra bowed his head in regret. At that moment, everything became clear. Dhritarashtra pleaded with Vidura, 'Vidura, please show us the way.' Vidura looked at them as if he understood. So, would Vidura help those who had ignored his words?"
+    },
+    {
+      "id": 6,
+      "text": "విదురుడు వారి వేడుకోలు విని, ప్రశాంతంగా నిలబడ్డాడు. అతని ముఖం మీద శాంతమైన నవ్వు మెరిసింది. \"ధర్మ మార్గంలో నడుస్తేనే శాంతి, శ్రేయస్సు లభిస్తాయి,\" అని మెల్లగా ఉపదేశించాడు. ఆ క్షణంలో — న్యాయం జరిగింది. సభలో మృదువైన గుసగుసలు వినిపించాయి, మునుపటి ఉద్రిక్తతకు ఇది పూర్తి విరుద్ధం. ధృతరాష్ట్రుడి ముఖం మీద నిజమైన చిరునవ్వు, దుర్యోధనుడు ఆలోచనలో పడ్డాడు. విదురుడి జ్ఞానం రాజ్యాన్ని మళ్ళీ సరైన మార్గంలో నడిపించింది.",
+      "image_prompt": "The wise man stands calmly, listening to their pleas with serene composure. A peaceful smile shines on his face as he prepares to offer guidance. Also in this scene: Duryodhana: A powerful prince with a muscular build and a proud, often arrogant expression. He wears elaborate royal attire with heavy gold armor and a crown. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Dhritarashtra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle, warm morning light returning to the court, symbols of new hope and understanding, casting a soft glow on the relieved faces.",
+      "scene_visual": "The wise man stands calmly, listening to their pleas with serene composure. A peaceful smile shines on his face as he prepares to offer guidance.",
+      "supporting_char_keys": [
+        "Dhritarashtra"
+      ],
+      "text_te_en": "Vidurudu Vaari Vedukolu Vini, Prashaantangaa Nilabaddaadu. Atani Mukham Mida Shaantamaina Navvu Merisindi. \"Dharma Maarganlo Nadustene Shaanti, Shreyassu Labhistaayi,\" Ani Mellagaa Upadeshinchaadu. Aa Kshananlo — Nyaayam Jarigindi. Sabhalo Mrriduvaina Gusagusalu Vinipinchaayi, Munupati Udriktataku Idi Purti Viruddhan. Dhrritaraashtrudi Mukham Mida Nijamaina Chirunavvu, Duryodhanudu Aalochanalo Paddaadu. Vidurudi Jnyaanam Raajyaanni Malli Saraina Maarganlo Nadipinchindi.",
+      "text_en": "Vidura heard their plea and stood calmly. A peaceful smile shone on his face. He gently advised, 'Only by following the path of righteousness can peace and prosperity be found.' At that moment, justice was served. Soft whispers were heard in the court, a complete contrast to the previous tension. A genuine smile appeared on Dhritarashtra's face, and Duryodhana fell into thought. Vidura's wisdom guided the kingdom back onto the right path."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Krishna",
+      "description": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene."
+    },
+    {
+      "key": "Dhritarashtra",
+      "description": "Dhritarashtra: An old, blind king with a heavy build, richly dressed in royal silks and gold ornaments. His face often carries an expression of worry and indecision. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story shines with its authentic oral storytelling style and exceptional child engagement, largely due to the clever use of direct questions at the end of each scene. The narrative arc is compelling, building tension effectively towards a satisfying resolution. The single most important fix to elevate this to award-worthy status is to introduce at least one line of direct dialogue in every scene, particularly the opening, to deepen character interaction and maintain a consistent 'show, don't tell' approach."
+  },
+  "title_te_en": "Vidurudi Vinayan, Jnyaana Maargam",
+  "moral_te_en": "Nijamaina Jnyaanan, Nisvaartha Bhakti Eppudu Gauravinchabadataayi, Ave Nijamaina Maargan.",
+  "title_en": "Vidura's Humility, the Path of Wisdom",
+  "moral_en": "True wisdom and selfless devotion are always honored, and they are the true path.",
+  "id": "20260525_161058",
+  "date": "2026-05-25",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "విదుర మహాత్ముని జ్ఞాన కథ",
+  "thumbnail": "stories/20260525_161058/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
