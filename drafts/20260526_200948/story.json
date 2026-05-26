@@ -1,0 +1,97 @@
+{
+  "title": "సింహపు చర్మం, గాడిద గుణపాఠం",
+  "moral": "ఎప్పుడూ మనం ఎవరో మర్చిపోకూడదు, మన నిజమైన రూపంలోనే ఆనందం ఉంటుంది.",
+  "main_character": "A common grey donkey, slightly scrawny with long floppy ears and a short tufted tail. He often feels overlooked and wishes he was stronger. Always the same character across every scene.",
+  "antagonist": "A sturdy, middle-aged man with sun-darkened skin and a kind but firm expression. He wears a simple white dhoti and carries a thick wooden stick for guiding his donkeys. Always the same character across every scene.",
+  "setting": "A dusty village on the outskirts of a dense forest in Andhra Pradesh. There are thatched-roof huts, a small watering hole, and fields of dry grass. Early morning transitioning to late afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకప్పుడు అడవి అంచున ఉన్న ఓ పల్లెటూరిలో, గాధా అనే బక్కచిక్కిన గాడిద ఉండేది, దాని చెవులు చాలా పొడవుగా వేలాడుతూ ఉండేవి. ప్రతిరోజూ దాని చాకలి యజమాని బరువైన బట్టల మూటలను దాని వీపున వేసేవాడు. ఆ బట్టల మూటల గరుకుదనం వీపును పీకుతుంటే, గాధా తల వంచుకొని నెమ్మదిగా అడుగులు వేసేది. 'ఈ బరువు నా వీపు విరిచేస్తుంది!' అని అది నిట్టూర్చింది. దాని అడుగులు మరింత భారమయ్యాయి, అది ఎప్పుడూ ఇలా బరువులు మోస్తూనే ఉండాలా అని బాధపడేది. అసలు ఈ గాధా ఎప్పుడైనా బలమైనదిగా, గౌరవించబడినదిగా భావించగలుగుతుందా?",
+      "image_prompt": "The donkey walks slowly, its head bowed under the heavy bundles of clothes on its back. Its steps are heavy as the rough texture of the bundles chafes its back, making it sigh deeply. Also in this scene: A sturdy, middle-aged man with sun-darkened skin and a kind but firm expression. He wears a simple white dhoti and carries a thick wooden stick for guiding his donkeys. Always the same character across every scene. Harsh midday sun beating down on a dusty village path, casting short, sharp shadows under a cloudless sky.",
+      "scene_visual": "The donkey walks slowly, its head bowed under the heavy bundles of clothes on its back. Its steps are heavy as the rough texture of the bundles chafes its back, making it sigh deeply.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okappudu Adavi Anchuna Unna O Palleturilo, Gaadhaa Ane Bakkachikkina Gaadida Undedi, Daani Chevulu Chaalaa Podavugaa Velaadutu Undevi. Pratiroju Daani Chaakali Yajamaani Baruvaina Battala Mutalanu Daani Vipuna Vesevaadu. Aa Battala Mutala Garukudanam Vipunu Pikutunte, Gaadhaa Tala Vanchukoni Nemmadigaa Adugulu Vesedi. 'I Baruvu Naa Vipu Virichestundi!' Ani Adi Nitturchindi. Daani Adugulu Marinta Bhaaramayyaayi, Adi Eppudu Ilaa Baruvulu Mostune Undaalaa Ani Baadhapadedi. Asalu I Gaadhaa Eppudainaa Balamainadigaa, Gauravinchabadinadigaa Bhaavinchagalugutundaa?",
+      "text_en": "Once upon a time, in a village near the edge of a forest, lived a skinny donkey named Gadha, whose ears hung very long. Every day, its washerman owner would pile heavy bundles of clothes onto its back. As the rough bundles chafed its back, Gadha would hang its head and walk slowly. 'This weight will break my back!' it sighed. Its steps grew heavier, and it worried if it would always have to carry such burdens. Would Gadha ever feel strong and respected?"
+    },
+    {
+      "id": 2,
+      "text": "ఒకరోజు, గాధా అలసిపోయి అడవి అంచున గడ్డి మేస్తోంది, దాని కళ్ళు ఒక వింత వస్తువుపై పడ్డాయి. అది ఏదో పెద్ద జంతువు చర్మంలా కనిపించింది, వేటగాళ్ళు వదిలేసినట్లుంది. గాధా చెవులు నిక్కబొడుచుకొని, మెల్లగా దాని దగ్గరికి వెళ్లి జాగ్రత్తగా వాసన చూసింది — ఆ చర్మం నుండి ఓ రకమైన మట్టి, పాత వాసన వస్తోంది. 'ఇదేమిటి? ఇంత పెద్ద చర్మం?' అని అది ఆశ్చర్యపోయింది. ఈ అద్భుతమైన చర్మాన్ని చూసి గాధా మనసులో ఏదో ఆలోచన మొదలైంది. అసలు గాధా ఈ వింతైన, బలమైన చర్మంతో ఏం చేయబోతోంది?",
+      "image_prompt": "The donkey, grazing wearily, approaches a large, strange animal hide lying on the ground. Its ears perk up as it carefully sniffs the hide, which smells of earth and age. Dappled sunlight filtering through dense forest leaves, creating patches of bright green and deep shadow, a sense of mystery.",
+      "scene_visual": "The donkey, grazing wearily, approaches a large, strange animal hide lying on the ground. Its ears perk up as it carefully sniffs the hide, which smells of earth and age.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okaroju, Gaadhaa Alasipoyi Adavi Anchuna Gaddi Mestondi, Daani Kallu Oka Vinta Vastuvupai Paddaayi. Adi Edo Pedda Jantuvu Charmanlaa Kanipinchindi, Vetagaallu Vadilesinatlundi. Gaadhaa Chevulu Nikkaboduchukoni, Mellagaa Daani Daggariki Velli Jaagrattagaa Vaasana Chusindi — Aa Charmam Nundi O Rakamaina Matti, Paata Vaasana Vastondi. 'Idemiti? Inta Pedda Charman?' Ani Adi Aashcharyapoyindi. I Adbhutamaina Charmaanni Chusi Gaadhaa Manasulo Edo Aalochana Modalaindi. Asalu Gaadhaa I Vintaina, Balamaina Charmanto Em Cheyabotondi?",
+      "text_en": "One day, Gadha was tiredly grazing grass at the forest's edge when its eyes fell upon a strange object. It looked like the skin of a large animal, perhaps left behind by hunters. Gadha's ears perked up, and it slowly went closer, sniffing carefully — the skin smelled earthy and old. 'What is this? Such a big skin?' it wondered. Seeing this amazing skin, an idea began to form in Gadha's mind. What was Gadha going to do with this strange, powerful skin?"
+    },
+    {
+      "id": 3,
+      "text": "ఆ చర్మాన్ని చూసిన గాధా, దాన్ని తనపై కప్పుకోవాలని అనుకుంది, మెల్లగా ఆ సింహం చర్మాన్ని తన ఒంటిపైకి జారవిడిచింది. ఒక్కసారిగా — చుట్టూ మేస్తున్న జంతువులు భయంతో పరుగులు తీశాయి! వాటి అడుగుల చప్పుడుకు ఎండుటాకులు గలగలమని చప్పుడు చేశాయి. గాధా నిశ్చేష్టురాలైంది, ఆ తర్వాత దాని ఛాతీ గర్వంగా ఉబ్బింది, నిటారుగా నిలబడింది. 'హా! వీరందరూ నాకు భయపడుతున్నారు!' అని అది ఆనందంతో ఉబ్బితబ్బిబ్బైంది. మరి ఈ కొత్త వేషంలో గాధా ఎంతకాలం తన శక్తిని ఆస్వాదించగలుగుతుంది?",
+      "image_prompt": "The donkey slips the large lion's hide over itself, causing nearby grazing animals to scatter in terror. Its chest swells with pride as the dry leaves rustle loudly under the fleeing animals' hooves. Bright, clear afternoon sun in an open field, highlighting the golden-brown fur of the lion's skin against the vibrant green grass.",
+      "scene_visual": "The donkey slips the large lion's hide over itself, causing nearby grazing animals to scatter in terror. Its chest swells with pride as the dry leaves rustle loudly under the fleeing animals' hooves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Charmaanni Chusina Gaadhaa, Daanni Tanapai Kappukovaalani Anukundi, Mellagaa Aa Sinham Charmaanni Tana Ontipaiki Jaaravidichindi. Okkasaarigaa — Chuttu Mestunna Jantuvulu Bhayanto Parugulu Tishaayi! Vaati Adugula Chappuduku Endutaakulu Galagalamani Chappudu Cheshaayi. Gaadhaa Nishcheshturaalaindi, Aa Tarvaata Daani Chaati Garvangaa Ubbindi, Nitaarugaa Nilabadindi. 'Haa! Virandaru Naaku Bhayapadutunnaaru!' Ani Adi Aanandanto Ubbitabbibbaindi. Mari I Kotta Veshanlo Gaadhaa Entakaalam Tana Shaktini Aasvaadinchagalugutundi?",
+      "text_en": "Gadha looked at the skin and decided to put it on. Slowly, it slipped the lion's skin over its body. Suddenly — the animals grazing nearby ran away in fear! The sound of their footsteps made the dry leaves rustle. Gadha was stunned, then its chest swelled with pride, and it stood tall. 'Ha! They are all afraid of me!' it exclaimed, bursting with joy. How long would Gadha enjoy its power in this new disguise?"
+    },
+    {
+      "id": 4,
+      "text": "సింహం వేషంలో ఉన్న గాధా, ఇప్పుడు అడవిలోని పచ్చటి పొలాల్లోకి ధైర్యంగా నడిచింది, అక్కడ లేత, తీయటి గడ్డిని ఆస్వాదిస్తూ హాయిగా మేస్తోంది. కానీ, దాని లోపల ఏదో తెలియని కంగారు మొదలైంది, దాని కళ్ళు చుట్టూ కలయచూశాయి, గొంతులో ఏదో కదులుతున్నట్లు అనిపించింది. ఒక గాడిదలా అరిచే కోరిక దాని గొంతు దాకా వచ్చింది, కానీ అది బలవంతంగా ఆపుకుంది. 'నేను సింహంలా ఉండాలి, గాడిదలా కాదు!' అని అది తనలో తాను గట్టిగా అనుకుంది. మరి గాధా అసలు స్వరం ఈ తెలివైన వేషాన్ని బయటపెట్టేస్తుందా?",
+      "image_prompt": "Disguised in the lion's skin, the donkey grazes calmly in a green field, but a braying sound struggles to escape its throat. Its eyes dart around nervously as it forcefully suppresses the urge to bray like a donkey. Golden hour light, warm and soft, illuminating the field as the sun begins to set, creating long, hazy shadows.",
+      "scene_visual": "Disguised in the lion's skin, the donkey grazes calmly in a green field, but a braying sound struggles to escape its throat. Its eyes dart around nervously as it forcefully suppresses the urge to bray like a donkey.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sinham Veshanlo Unna Gaadhaa, Ippudu Adaviloni Pachchati Polaalloki Dhairyangaa Nadichindi, Akkada Leta, Tiyati Gaddini Aasvaadistu Haayigaa Mestondi. Kaani, Daani Lopala Edo Teliyani Kangaaru Modalaindi, Daani Kallu Chuttu Kalayachushaayi, Gontulo Edo Kadulutunnatlu Anipinchindi. Oka Gaadidalaa Ariche Korika Daani Gontu Daakaa Vachchindi, Kaani Adi Balavantangaa Aapukundi. 'Nenu Sinhanlaa Undaali, Gaadidalaa Kaadu!' Ani Adi Tanalo Taanu Gattigaa Anukundi. Mari Gaadhaa Asalu Svaram I Telivaina Veshaanni Bayatapettestundaa?",
+      "text_en": "Gadha, in its lion disguise, now bravely walked into the green fields of the forest, happily munching on the tender, sweet grass. But inside, a strange nervousness began, its eyes darted around, and something felt like it was moving in its throat. The urge to bray like a donkey came right up to its throat, but it forcefully held it back. 'I must be like a lion, not a donkey!' it firmly told itself. Would Gadha's true voice reveal its clever disguise?"
+    },
+    {
+      "id": 5,
+      "text": "తనకు వచ్చిన ఈ కొత్త శక్తితో గాధా చాలా గర్వపడింది, కొద్దిగా అజాగ్రత్తగా కూడా ప్రవర్తించడం మొదలుపెట్టింది. మేస్తున్న జంతువులను చూసి, వాటి భయానికి అది లోలోపల నవ్వుకుంది, దాని ముఖంపై ఒక చిన్న చిరునవ్వు కూడా మెరిసింది. 'నన్ను చూసి పారిపోండి, పిరికి జంతువులారా!' అని అది మెల్లగా గొణుగుకుంది. ఆ క్షణంలో — ఒక చిన్న గాడిద అరుపు దాని గొంతు నుండి వెలువడబోయింది! అది వెంటనే గట్టిగా శ్వాస తీసుకుని ఆ అరుపును అణచివేసింది, దాని అరుపు కేవలం ఒక మూలుగులా వినిపించింది. ఈ గాధా వేషాన్ని అసలు ఎవరు చివరికి కనిపెట్టబోతున్నారు?",
+      "image_prompt": "The donkey, feeling proud in its disguise, almost lets out a bray while observing other frightened animals. It quickly takes a deep breath, suppressing the sound into a mere groan, with a small smile playing on its face. Late afternoon sun, casting deep orange and purple hues across the sky, with shadows lengthening, hinting at the approaching end of the day.",
+      "scene_visual": "The donkey, feeling proud in its disguise, almost lets out a bray while observing other frightened animals. It quickly takes a deep breath, suppressing the sound into a mere groan, with a small smile playing on its face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tanaku Vachchina I Kotta Shaktito Gaadhaa Chaalaa Garvapadindi, Koddigaa Ajaagrattagaa Kudaa Pravartinchadam Modalupettindi. Mestunna Jantuvulanu Chusi, Vaati Bhayaaniki Adi Lolopala Navvukundi, Daani Mukhampai Oka Chinna Chirunavvu Kudaa Merisindi. 'Nannu Chusi Paaripondi, Piriki Jantuvulaaraa!' Ani Adi Mellagaa Gonugukundi. Aa Kshananlo — Oka Chinna Gaadida Arupu Daani Gontu Nundi Veluvadaboyindi! Adi Ventane Gattigaa Shvaasa Tisukuni Aa Arupunu Anachivesindi, Daani Arupu Kevalam Oka Mulugulaa Vinipinchindi. I Gaadhaa Veshaanni Asalu Evaru Chivariki Kanipettabotunnaaru?",
+      "text_en": "Gadha became very proud of its new power and started acting a little carelessly. Seeing the grazing animals, it chuckled inwardly at their fear, and a small smile even flickered on its face. 'Run away from me, you timid animals!' it mumbled softly. At that moment — a small donkey's bray was about to escape its throat! It immediately took a deep breath and suppressed the bray, so its sound came out only as a groan. Who would finally discover Gadha's disguise?"
+    },
+    {
+      "id": 6,
+      "text": "అదే సమయంలో, గాధా కోసం వెతుకుతూ దాని యజమాని, చాకలివాడు ఆ పొలం వైపు వచ్చాడు. ఇంతలో, ఆ నిశ్శబ్దమైన పొలంలో — ఒక పెద్ద, స్పష్టమైన గాడిద అరుపు వినిపించింది, 'హీ-హా!' అని. అది గాధా నుండి వచ్చిందని చాకలివాడు వెంటనే గుర్తించాడు, అతని ముఖంపై ఆశ్చర్యం, ఆ తర్వాత ఒక చిన్న చిరునవ్వు మెరిసింది. గాధా ఒక్కసారిగా ఉలిక్కిపడింది, దాని చెవులు కిందకి వేలాడాయి, సింహపు చర్మం లోపల అది చిన్నదైపోయినట్లు అనిపించింది. 'ఓహ్, నా గాడిదా! నువ్వు నన్ను మోసం చేయలేవు!' అని చాకలివాడు నవ్వుతూ అన్నాడు. మరి ఇప్పుడు గాధా వేషం బయటపడిన తర్వాత దానికి ఏం జరగబోతోంది?",
+      "image_prompt": "The donkey's owner approaches the field just as a loud, clear bray, \"Hee-haw!\", echoes from the disguised animal. The donkey flinches, its ears drooping, and it appears to shrink inside the lion's skin as its owner smiles knowingly. Also in this scene: A sturdy, middle-aged man with sun-darkened skin and a kind but firm expression. He wears a simple white dhoti and carries a thick wooden stick for guiding his donkeys. Always the same character across every scene. Twilight, a soft blue-grey light settling over the landscape, making details a little hazy, but the figures are clear against the fading light.",
+      "scene_visual": "The donkey's owner approaches the field just as a loud, clear bray, \"Hee-haw!\", echoes from the disguised animal. The donkey flinches, its ears drooping, and it appears to shrink inside the lion's skin as its owner smiles knowingly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ade Samayanlo, Gaadhaa Kosam Vetukutu Daani Yajamaani, Chaakalivaadu Aa Polam Vaipu Vachchaadu. Intalo, Aa Nishshabdamaina Polanlo — Oka Pedda, Spashtamaina Gaadida Arupu Vinipinchindi, 'Hi-Haa!' Ani. Adi Gaadhaa Nundi Vachchindani Chaakalivaadu Ventane Gurtinchaadu, Atani Mukhampai Aashcharyan, Aa Tarvaata Oka Chinna Chirunavvu Merisindi. Gaadhaa Okkasaarigaa Ulikkipadindi, Daani Chevulu Kindaki Velaadaayi, Sinhapu Charmam Lopala Adi Chinnadaipoyinatlu Anipinchindi. 'Oh, Naa Gaadidaa! Nuvvu Nannu Mosam Cheyalevu!' Ani Chaakalivaadu Navvutu Annaadu. Mari Ippudu Gaadhaa Vesham Bayatapadina Tarvaata Daaniki Em Jaragabotondi?",
+      "text_en": "At the same time, Gadha's owner, the washerman, came towards the field, looking for it. Just then, in the quiet field — a loud, clear donkey's bray was heard, 'Hee-haw!' The washerman immediately recognized it came from Gadha, and a look of surprise, then a small smile, appeared on his face. Gadha suddenly flinched, its ears drooped, and it felt small inside the lion's skin. 'Oh, my donkey! You can't fool me!' the washerman said with a laugh. Now that Gadha's disguise was revealed, what would happen to it?"
+    },
+    {
+      "id": 7,
+      "text": "చాకలివాడు నవ్వుతూ సింహం చర్మాన్ని గాధా ఒంటి నుండి తీసేశాడు. గాధా ఇప్పుడు సింహం కాదు, కేవలం ఒక గాడిద, కానీ దాని ముఖంలో ఎప్పుడూ లేని ప్రశాంతత కనిపించింది. అది తన యజమాని పక్కన నెమ్మదిగా నడుస్తూ, దాని తల మునుపటి కన్నా కొద్దిగా పైకి లేచింది. ఇంటికి వెళ్లే దారిలో చాకలి బండికి ఉన్న చిన్న గంటలు జిలిజిలిమని శ్రావ్యంగా మోగాయి. 'ఇప్పుడు నేను నా నిజమైన రూపంలో సంతోషంగా ఉన్నాను,' అని గాధా తనలో తాను అనుకుంది. పిల్లలూ, మనం ఎవరో మర్చిపోకూడదు, మన నిజమైన రూపంలోనే ఆనందం ఉంటుందని గాధాకు అర్థమైంది.",
+      "image_prompt": "The owner gently removes the lion's skin from the donkey, which then walks beside him with a peaceful expression. Its head is held slightly higher than before as the small bells on the owner's cart jingle melodically on their way home. Also in this scene: A sturdy, middle-aged man with sun-darkened skin and a kind but firm expression. He wears a simple white dhoti and carries a thick wooden stick for guiding his donkeys. Always the same character across every scene. Gentle dusk light, warm amber, peaceful resolution as the sun dips below the horizon, painting the sky in soft hues.",
+      "scene_visual": "The owner gently removes the lion's skin from the donkey, which then walks beside him with a peaceful expression. Its head is held slightly higher than before as the small bells on the owner's cart jingle melodically on their way home.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chaakalivaadu Navvutu Sinham Charmaanni Gaadhaa Onti Nundi Tiseshaadu. Gaadhaa Ippudu Sinham Kaadu, Kevalam Oka Gaadida, Kaani Daani Mukhanlo Eppudu Leni Prashaantata Kanipinchindi. Adi Tana Yajamaani Pakkana Nemmadigaa Nadustu, Daani Tala Munupati Kannaa Koddigaa Paiki Lechindi. Intiki Velle Daarilo Chaakali Bandiki Unna Chinna Gantalu Jilijilimani Shraavyangaa Mogaayi. 'Ippudu Nenu Naa Nijamaina Rupanlo Santoshangaa Unnaanu,' Ani Gaadhaa Tanalo Taanu Anukundi. Pillalu, Manam Evaro Marchipokudadu, Mana Nijamaina Rupanlone Aanandam Untundani Gaadhaaku Arthamaindi.",
+      "text_en": "The washerman, still laughing, took the lion's skin off Gadha. Gadha was no longer a lion, just a donkey, but a peace it had never known before appeared on its face. It walked slowly beside its owner, its head held a little higher than before. On the way home, the small bells on the washerman's cart jingled sweetly. 'Now I am happy being my real self,' Gadha thought to itself. Children, Gadha understood that we should never forget who we are, and that true happiness is found in our real selves."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 9,
+    "average": 8.67,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is a strong contender for publication, exhibiting excellent grandmotherly warmth and high child engagement through its consistent use of suspense hooks. The emotional depth is commendable, showing rather than telling Gadha's journey. To reach award-worthy status, the primary focus should be on enriching the dialogue; while natural, it lacks distinct voices for characters beyond Gadha's internal thoughts. Additionally, allowing the moral to emerge solely from the character's realization, rather than being explicitly stated by the narrator at the end, would perfect the narrative arc."
+  },
+  "title_te_en": "Sinhapu Charman, Gaadida Gunapaatham",
+  "moral_te_en": "Eppudu Manam Evaro Marchipokudadu, Mana Nijamaina Rupanlone Aanandam Untundi.",
+  "title_en": "The Lion's Skin, The Donkey's Lesson",
+  "moral_en": "We should never forget who we are. True happiness comes from being our real selves.",
+  "id": "20260526_200948",
+  "date": "2026-05-26",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - గాడిద మరియు సింహం చర్మం",
+  "thumbnail": "stories/20260526_200948/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
