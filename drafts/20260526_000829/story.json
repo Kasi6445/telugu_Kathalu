@@ -1,0 +1,115 @@
+{
+  "title": "ఒక ముడి, వంద పనులు",
+  "moral": "పిల్లలూ, ఒక్కటి మనం సరిగ్గా నేర్చుకుంటే, అది ఎన్నో పనులకు ఎలా ఉపయోగపడుతుందో చూశారా?",
+  "main_character": "Raju, a 9-year-old boy. Energetic, thin build, always has a smudge of dirt on his cheek, and bright, curious eyes. He's quick to learn but also quick to get discouraged when things are hard. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A bustling village in rural Andhra Pradesh, specifically near a banyan tree with aerial roots, and a small, communal well with a stone platform. The scene transitions from late morning sun to afternoon, then dusk, and back to morning. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాజు ఉదయాన్నే బావి దగ్గరకి వచ్చాడు, బుగ్గ మీద మట్టి మరకతో. బావి తాడు వదులుగా ఉందని చూసి, దాన్ని బిగించడానికి ప్రయత్నించాడు. అతని చిన్ని చేతులకు, ఆ గరుకు జనపనార తాడు రాసుకుని మండింది. \"ఛీ! ఇది నా వల్ల కాదు! ఆడటానికి వెళ్తాను!\" అని విసురుగా ముణిగాడు. అతను తాడును అక్కడే వదిలేశాడు — పరుగు పరుగున వెళ్లి స్నేహితులతో పెద్దగా నవ్వుతూ ఆడుకున్నాడు. బావి తాడు ఎవరు సరి చేస్తారు, మరి రాజుకు పనులు ఎవరు చెబుతారు?",
+      "image_prompt": "The boy angrily throws down the well rope and runs away. A smudge of dirt is visible on his cheek as he abandons the rough jute rope. Bright, warm late morning sun filtering through the leaves of the banyan tree, casting playful dappled shadows on the dusty ground.",
+      "scene_visual": "The boy angrily throws down the well rope and runs away. A smudge of dirt is visible on his cheek as he abandons the rough jute rope.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Udayaanne Baavi Daggaraki Vachchaadu, Bugga Mida Matti Marakato. Baavi Taadu Vadulugaa Undani Chusi, Daanni Biginchadaaniki Prayatninchaadu. Atani Chinni Chetulaku, Aa Garuku Janapanaara Taadu Raasukuni Mandindi. \"Chi! Idi Naa Valla Kaadu! Aadataaniki Veltaanu!\" Ani Visurugaa Munigaadu. Atanu Taadunu Akkade Vadileshaadu — Parugu Paruguna Velli Snehitulato Peddagaa Navvutu Aadukunnaadu. Baavi Taadu Evaru Sari Chestaaru, Mari Raajuku Panulu Evaru Chebutaaru?",
+      "text_en": "Raju came to the well early in the morning, with a smudge of dirt on his cheek. He saw that the well rope was loose and tried to tighten it. The rough jute rope scraped and stung his small hands. \"Ugh! I can't do this! I'm going to play!\" he grumbled angrily. He left the rope right there — and ran off to play with his friends, laughing loudly. Who would fix the well rope, and who would tell Raju what to do?"
+    },
+    {
+      "id": 2,
+      "text": "రాజు ఆటలాడుతుండగా, తాతయ్య పిలిచాడు. పండుగకు చాలా పనులున్నాయని చెప్పాడు. బియ్యం బస్తాలు కట్టాలి, పశువుల దొడ్డి కంచె సరిచేయాలి అన్నాడు. ఇంకా బావి తాడు కూడా బిగించాలి అని చెప్పాడు. దగ్గర్లో బెల్లం కాయలు తయారవుతున్న తీయని, మట్టి వాసన రాజుకు ఆకలి పెట్టింది కానీ, అతని భుజాలు ఒక్కసారిగా వాలిపోయాయి. \"అన్ని పనులా తాతయ్యా? నాకు తెలీదు ఎలా చేయాలో!\" అని అతని కళ్ళు పెద్దవయ్యాయి. తాతయ్య ఇచ్చిన ఈ పనులన్నీ, ఇంతకు ముందు ఒక తాడు కూడా సరి చేయలేని రాజు ఎలా పూర్తి చేస్తాడు?",
+      "image_prompt": "The boy's shoulders slump dramatically as he listens to the old man list many tasks. His eyes widen in disbelief, contrasting with the sweet, earthy smell of jaggery being made nearby. Soft, golden afternoon light, casting long shadows from the village huts, giving a feeling of gentle pressure and expectation.",
+      "scene_visual": "The boy's shoulders slump dramatically as he listens to the old man list many tasks. His eyes widen in disbelief, contrasting with the sweet, earthy smell of jaggery being made nearby.",
+      "supporting_char_keys": [
+        "grandfather"
+      ],
+      "text_te_en": "Raaju Aatalaadutundagaa, Taatayya Pilichaadu. Pandugaku Chaalaa Panulunnaayani Cheppaadu. Biyyam Bastaalu Kattaali, Pashuvula Doddi Kanche Saricheyaali Annaadu. Inkaa Baavi Taadu Kudaa Biginchaali Ani Cheppaadu. Daggarlo Bellam Kaayalu Tayaaravutunna Tiyani, Matti Vaasana Raajuku Aakali Pettindi Kaani, Atani Bhujaalu Okkasaarigaa Vaalipoyaayi. \"Anni Panulaa Taatayyaa? Naaku Telidu Elaa Cheyaalo!\" Ani Atani Kallu Peddavayyaayi. Taatayya Ichchina I Panulanni, Intaku Mundu Oka Taadu Kudaa Sari Cheyaleni Raaju Elaa Purti Chestaadu?",
+      "text_en": "While Raju was playing, Thathayya called him. He said there were many tasks for the festival. He said they needed to tie up rice sacks and fix the cattle shed fence. And also, the well rope needed to be tightened. The sweet, earthy smell of jaggery being made nearby made Raju hungry, but his shoulders slumped all at once. \"All these tasks, Thathayya? I don't know how to do them!\" his eyes widened. How would Raju, who couldn't even fix one rope before, complete all these tasks Thathayya gave him?"
+    },
+    {
+      "id": 3,
+      "text": "తాతయ్య చెప్పిన పనులలో, రాజు ముందుగా బియ్యం బస్తాలు కట్టడానికి వెళ్ళాడు. బస్తా నోరు మూసి, తాడుతో బిగించడానికి ప్రయత్నించాడు కానీ, అతని ముడులు బలహీనంగా ఉన్నాయి. ఒక్కసారిగా — బియ్యం నేలపాలయ్యాయి! గరుకు మట్టి నేల మీద బియ్యం గింజలు చిందరవందరగా పడ్డాయి. మళ్ళీ ప్రయత్నిస్తే, మళ్ళీ అదే జరిగింది, బియ్యం చేతులకు, కళ్ళకు అంటుకున్నాయి. \"ఇది చాలా కష్టం! నేను చేయలేను!\" అంటూ అతను నేల మీద కూర్చుండిపోయాడు, పెద్దగా నిట్టూర్చాడు. ఈ చిన్న ముడి కూడా సరిగ్గా వేయలేని రాజు, మిగిలిన పెద్ద పనులన్నీ ఎలా చేస్తాడు?",
+      "image_prompt": "The boy sits down on the rough ground, sighing heavily, as rice grains scatter around him. Grains of rice cling to his hands and face after his failed attempt to tie the sack. The warm afternoon light begins to dim, creating a slightly melancholic and challenging atmosphere inside the storage shed.",
+      "scene_visual": "The boy sits down on the rough ground, sighing heavily, as rice grains scatter around him. Grains of rice cling to his hands and face after his failed attempt to tie the sack.",
+      "supporting_char_keys": [
+        "grandfather"
+      ],
+      "text_te_en": "Taatayya Cheppina Panulalo, Raaju Mundugaa Biyyam Bastaalu Kattadaaniki Vellaadu. Bastaa Noru Musi, Taaduto Biginchadaaniki Prayatninchaadu Kaani, Atani Mudulu Balahinangaa Unnaayi. Okkasaarigaa — Biyyam Nelapaalayyaayi! Garuku Matti Nela Mida Biyyam Ginjalu Chindaravandaragaa Paddaayi. Malli Prayatniste, Malli Ade Jarigindi, Biyyam Chetulaku, Kallaku Antukunnaayi. \"Idi Chaalaa Kashtan! Nenu Cheyalenu!\" Antu Atanu Nela Mida Kurchundipoyaadu, Peddagaa Nitturchaadu. I Chinna Mudi Kudaa Sariggaa Veyaleni Raaju, Migilina Pedda Panulanni Elaa Chestaadu?",
+      "text_en": "Among the tasks Thathayya mentioned, Raju first went to tie up the rice sacks. He tried to close the sack's opening and tighten it with a rope, but his knots were weak. Suddenly — the rice spilled onto the ground! The rice grains scattered all over the rough, muddy ground. He tried again, and the same thing happened; rice stuck to his hands and eyes. \"This is too hard! I can't do it!\" he sat down on the ground, sighing loudly. How would Raju, who couldn't even tie this small knot properly, do all the other big tasks?"
+    },
+    {
+      "id": 4,
+      "text": "రాజు నిట్టూర్చడం చూసి, తాతయ్య అతని దగ్గరకు వచ్చాడు. \"చూడు రాజు, ఒకసారి సరిగ్గా నేర్చుకుంటే, చాలా పనులకు ఉపయోగపడుతుంది\" అని మెల్లగా చెప్పాడు. ఒక బలమైన, సులభమైన ముడిని ఎలా వేయాలో తాతయ్య ఓపికగా చూపించాడు. రాజు కనుబొమ్మలు ముడిపడి, ఏకాగ్రతతో తాతయ్య చూపించినట్లుగా తాడును కదిపాడు. సాయంత్రం అయ్యేదాకా, రాజు వివిధ రకాల తాడులతో 'కచక్ కచక్' అని రాసుకునే శబ్దంతో ముడులు వేస్తూనే ఉన్నాడు. అతని పెదవుల మీద చిన్న నవ్వు మెరిసింది. ఈ ఒక్క ముడి నేర్చుకుంటే, పండుగ పనులన్నీ ఎలా పూర్తవుతాయి?",
+      "image_prompt": "The boy intently moves ropes, mimicking the old man's patient demonstration of tying a strong knot. A small smile plays on his lips as the 'kachak kachak' sound of ropes rubbing together fills the evening air. Dusk settling in, with the last rays of orange light fading, and a single oil lamp casting a warm, focused glow on Raju's hands.",
+      "scene_visual": "The boy intently moves ropes, mimicking the old man's patient demonstration of tying a strong knot. A small smile plays on his lips as the 'kachak kachak' sound of ropes rubbing together fills the evening air.",
+      "supporting_char_keys": [
+        "grandfather"
+      ],
+      "text_te_en": "Raaju Nitturchadam Chusi, Taatayya Atani Daggaraku Vachchaadu. \"Chudu Raaju, Okasaari Sariggaa Nerchukunte, Chaalaa Panulaku Upayogapadutundi\" Ani Mellagaa Cheppaadu. Oka Balamaina, Sulabhamaina Mudini Elaa Veyaalo Taatayya Opikagaa Chupinchaadu. Raaju Kanubommalu Mudipadi, Ekaagratato Taatayya Chupinchinatlugaa Taadunu Kadipaadu. Saayantram Ayyedaakaa, Raaju Vividha Rakaala Taadulato 'Kachak Kachak' Ani Raasukune Shabdanto Mudulu Vestune Unnaadu. Atani Pedavula Mida Chinna Navvu Merisindi. I Okka Mudi Nerchukunte, Panduga Panulanni Elaa Purtavutaayi?",
+      "text_en": "Seeing Raju sigh, Thathayya came over to him. \"Look, Raju,\" he said softly, \"if you learn one thing properly, it will be useful for many tasks.\" Thathayya patiently showed him how to tie a strong, simple knot. Raju's eyebrows furrowed, and he moved the rope with concentration, just as Thathayya showed him. Until evening, Raju kept tying knots with different kinds of ropes, making a 'kachak kachak' sound as they rubbed together. A small smile appeared on his lips. If he learned just this one knot, how would all the festival tasks be completed?"
+    },
+    {
+      "id": 5,
+      "text": "తర్వాతి రోజు ఉదయాన్నే, రాజు తాతయ్య దగ్గరకి వచ్చాడు, అతని ఛాతీ ఉబ్బి ఉంది. ఒక సంక్లిష్టమైన, గట్టి ముడిని తాతయ్యకు వేసి చూపించాడు. ఒక్కసారిగా — 'థ్వాక్' అని సంతృప్తికరమైన శబ్దం వచ్చింది! \"చూశావా తాతయ్యా, ఎంత గట్టిగా ఉందో!\" అని రాజు గర్వంగా అన్నాడు. కానీ, వెంటనే అతని నుదుట కొద్దిగా ముడుతలు పడ్డాయి. \"ఈ ఒక్కటి నేర్చుకుంటే అన్ని పనులు ఎలా అవుతాయి తాతయ్యా?\" అని అడిగాడు. రాజుకు ఒక కొత్త నేర్పు వచ్చింది, కానీ అది పెద్ద చిత్రంలో ఎలా సరిపోతుందో ఇంకా తెలియదు... ఇప్పుడు ఏం జరుగుతుంది?",
+      "image_prompt": "The boy proudly presents a complex, tight knot to the old man, his chest puffed out. A satisfied 'thwack' sound confirms the knot's strength, though a slight frown soon creases his forehead. Early morning light, soft and clear, illuminating the dust motes dancing in the air, a sense of fresh start mixed with lingering uncertainty.",
+      "scene_visual": "The boy proudly presents a complex, tight knot to the old man, his chest puffed out. A satisfied 'thwack' sound confirms the knot's strength, though a slight frown soon creases his forehead.",
+      "supporting_char_keys": [
+        "grandfather"
+      ],
+      "text_te_en": "Tarvaati Roju Udayaanne, Raaju Taatayya Daggaraki Vachchaadu, Atani Chaati Ubbi Undi. Oka Sanklishtamaina, Gatti Mudini Taatayyaku Vesi Chupinchaadu. Okkasaarigaa — 'Thvaak' Ani Santrriptikaramaina Shabdam Vachchindi! \"Chushaavaa Taatayyaa, Enta Gattigaa Undo!\" Ani Raaju Garvangaa Annaadu. Kaani, Ventane Atani Nuduta Koddigaa Mudutalu Paddaayi. \"I Okkati Nerchukunte Anni Panulu Elaa Avutaayi Taatayyaa?\" Ani Adigaadu. Raajuku Oka Kotta Nerpu Vachchindi, Kaani Adi Pedda Chitranlo Elaa Saripotundo Inkaa Teliyadu... Ippudu Em Jarugutundi?",
+      "text_en": "Early the next morning, Raju came to Thathayya, his chest puffed out. He showed Thathayya a complex, tight knot. Suddenly — there was a satisfying 'thwack' sound! \"See, Thathayya, how strong it is!\" Raju said proudly. But then, his forehead wrinkled slightly. \"How can learning just this one thing help with all the tasks, Thathayya?\" he asked. Raju had learned a new skill, but he still didn't know how it fit into the bigger picture... What would happen now?"
+    },
+    {
+      "id": 6,
+      "text": "అంతలోనే, పండుగ వాతావరణం అంతా ఒక్కసారిగా మారిపోయింది. ఒక్కసారిగా — గాలివాన వచ్చింది! పండుగ తోరణం కూలిపోయేలా ఊగుతోంది, పట్టు చీరల జెండాలు వేగంగా రెపరెపలాడుతున్నాయి. \"అయ్యో! ఇది పడిపోతోంది! పట్టుకోండి!\" అని ప్రజలు కేకలు వేశారు. రాజు కళ్ళు పెద్దవయ్యాయి కానీ, అతను ఒక్క క్షణం కూడా ఆలోచించలేదు. తన నేర్చుకున్న ముడిని ఉపయోగించి, తోరణాన్ని బలంగా కట్టేశాడు. అతని ముఖం మీద ఒక విజయవంతమైన నవ్వు మెరిసింది. రాజుకు ఒక పరిష్కారం దొరికింది, కానీ మిగిలిన పనుల సంగతి ఏంటి?",
+      "image_prompt": "The boy quickly ties the swaying festive archway with a strong knot, preventing it from collapsing. A triumphant smile spreads across his face as silk sari flags flap wildly in the sudden storm. A sudden shift to dramatic, wind-swept lighting with dark clouds overhead, then a break in the clouds allowing a beam of bright, focused light on Raju as he acts.",
+      "scene_visual": "The boy quickly ties the swaying festive archway with a strong knot, preventing it from collapsing. A triumphant smile spreads across his face as silk sari flags flap wildly in the sudden storm.",
+      "supporting_char_keys": [
+        "grandfather"
+      ],
+      "text_te_en": "Antalone, Panduga Vaataavaranam Antaa Okkasaarigaa Maaripoyindi. Okkasaarigaa — Gaalivaana Vachchindi! Panduga Toranam Kulipoyelaa Ugutondi, Pattu Chirala Jendaalu Vegangaa Reparepalaadutunnaayi. \"Ayyo! Idi Padipotondi! Pattukondi!\" Ani Prajalu Kekalu Veshaaru. Raaju Kallu Peddavayyaayi Kaani, Atanu Okka Kshanam Kudaa Aalochinchaledu. Tana Nerchukunna Mudini Upayoginchi, Toranaanni Balangaa Katteshaadu. Atani Mukham Mida Oka Vijayavantamaina Navvu Merisindi. Raajuku Oka Parishkaaram Dorikindi, Kaani Migilina Panula Sangati Enti?",
+      "text_en": "Just then, the entire festival atmosphere changed suddenly. Suddenly — a strong wind and rain came! The festival arch was swaying as if it would fall, and the silk saree flags were flapping wildly. \"Oh no! It's falling! Hold it!\" people shouted. Raju's eyes widened, but he didn't think for a single moment. Using the knot he had learned, he tied the arch strongly. A triumphant smile shone on his face. Raju had found a solution, but what about the other tasks?"
+    },
+    {
+      "id": 7,
+      "text": "తోరణాన్ని నిలబెట్టిన తర్వాత, రాజుకు ఎక్కడా లేని ధైర్యం వచ్చింది. బియ్యం బస్తాలను పటిష్టమైన ముడులతో కట్టాడు, ఒక్క గింజ కూడా బయటకు రాలేదు. పశువుల దొడ్డి కంచె వదులుగా ఉన్నచోట, తన కొత్త ముడులతో గట్టిగా బిగించి సరిచేశాడు. చివరగా, బావి దగ్గరకి వచ్చి, తన చేతులకు నొప్పి పుట్టించిన ఆ వదులైన తాడును పకడ్బందీగా బిగించాడు. బావి బకెట్ నీటిలోకి దిగగానే, 'క్రేక్' అనే ధ్వనితో అది సురక్షితంగా ఉందని తెలిపింది. \"ఇకపై ఏ పనైనా చేయగలను!\" అని రాజు మనసులో అనుకున్నాడు, అతని పెదవుల మీద ప్రశాంతమైన నవ్వు మెరిసింది.",
+      "image_prompt": "The boy securely tightens the loose well rope, which once caused him pain, with his newly learned knots. A peaceful smile graces his lips as the well bucket descends with a reassuring 'creak'. Gentle dusk light, warm amber and violet hues painting the sky, casting peaceful, long shadows as the village settles into a quiet, contented evening.",
+      "scene_visual": "The boy securely tightens the loose well rope, which once caused him pain, with his newly learned knots. A peaceful smile graces his lips as the well bucket descends with a reassuring 'creak'.",
+      "supporting_char_keys": [
+        "grandfather"
+      ],
+      "text_te_en": "Toranaanni Nilabettina Tarvaata, Raajuku Ekkadaa Leni Dhairyam Vachchindi. Biyyam Bastaalanu Patishtamaina Mudulato Kattaadu, Okka Ginja Kudaa Bayataku Raaledu. Pashuvula Doddi Kanche Vadulugaa Unnachota, Tana Kotta Mudulato Gattigaa Biginchi Saricheshaadu. Chivaragaa, Baavi Daggaraki Vachchi, Tana Chetulaku Noppi Puttinchina Aa Vadulaina Taadunu Pakadbandigaa Biginchaadu. Baavi Baket Nitiloki Digagaane, 'Krek' Ane Dhvanito Adi Surakshitangaa Undani Telipindi. \"Ikapai E Panainaa Cheyagalanu!\" Ani Raaju Manasulo Anukunnaadu, Atani Pedavula Mida Prashaantamaina Navvu Merisindi.",
+      "text_en": "After securing the arch, Raju felt a courage he hadn't known before. He tied the rice sacks with strong knots; not a single grain spilled out. Where the cattle shed fence was loose, he tightened and fixed it securely with his new knots. Finally, he came to the well and securely tightened the loose rope that had hurt his hands. As the well bucket went down into the water, a 'creak' sound told him the rope was secure. \"From now on, I can do any task!\" Raju thought to himself, a peaceful smile on his lips."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "grandfather",
+      "description": "A wise old man. Lean and tall, with a long white beard and kind, crinkled eyes. He wears a simple white dhoti and carries a gnarled walking stick. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 9,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The narrative arc is compelling, demonstrating a clear character journey from frustration to mastery. Emotional depth is consistently shown through action and body language, and child engagement is exceptional, especially with the suspenseful questions at the end of each scene. The story would significantly improve by integrating more natural, character-specific dialogue into every scene, particularly in scenes 3 and 7. Additionally, removing the explicit 'Moral' statement at the beginning would enhance the oral storytelling authenticity."
+  },
+  "title_te_en": "Oka Mudi, Vanda Panulu",
+  "moral_te_en": "Pillalu, Okkati Manam Sariggaa Nerchukunte, Adi Enno Panulaku Elaa Upayogapadutundo Chushaaraa?",
+  "title_en": "One Knot, A Hundred Tasks",
+  "moral_en": "Kids, did you see how learning one thing well can help you with so many tasks?",
+  "id": "20260526_000829",
+  "date": "2026-05-26",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "ఒకటి నేర్చుకుంటే పదింటికి పనికొస్తుంది అనే కథ",
+  "thumbnail": "stories/20260526_000829/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
