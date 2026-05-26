@@ -1,0 +1,98 @@
+{
+  "title": "రాకుమారి మీనా, అద్దం మాయ",
+  "moral": "నిజమైన అందం మన మనసులో ఉంటుంది, బయట కనిపించే రూపంలో కాదు.",
+  "main_character": "A young princess, around 8 years old, with bright, curious eyes and long, braided hair adorned with jasmine flowers. She loves exploring the palace gardens and listening to old tales from the village elders. Always the same character across every scene.",
+  "antagonist": "An ancient, gaunt sorceress with sharp features, long tangled grey hair, and piercing yellow eyes. She wears a tattered, dark purple robe and carries a gnarled wooden staff. Always the same character across every scene.",
+  "setting": "A grand but slightly overgrown palace in a lush valley near a small, vibrant Telugu village. The palace has towering stone walls, intricate carvings, and a sprawling garden filled with mango trees and hibiscus. It is always daytime, with a warm, golden sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని లోయలో ఉన్న అందమైన రాజభవనం తోటలో, చిన్నారి మీనా ఆడుకుంటోంది. మల్లెపూల మత్తైన సువాసన గాలిలో తేలియాడుతుంటే, ఆమె నవ్వు ముఖంతో పూల మధ్య గంతులు వేసింది. గ్రామస్థులందరూ ఆమె దయగల మనసును చూసి మురిసిపోయేవారు, కానీ మీనా అప్పుడప్పుడు పాత కథల్లోని రాకుమారిలా అద్భుతమైన అందం తనకుంటే బాగుండు అని నిట్టూర్చేది. ఒక రోజు ఆమె తోటలో ఆడుకుంటూ ఉండగా, ఒక వృద్ధురాలు నవ్వుతూ, \"ఆ రాజకుమారికి అందమే కాదు, దయ కూడా ఉంది!\" అని అంది. తన దయను మెచ్చుకున్నా, ఆమె కళ్ళల్లో ఒక చిన్న కోరిక మెరిసింది. మరి మీనా కోరుకున్న అందం ఆమెకు దక్కుతుందా?",
+      "image_prompt": "The girl is joyfully jumping among flowers in a lush green palace garden, her face beaming with a smile. The intoxicating scent of jasmine flowers floats in the air, and a small desire flickers in her eyes. Warm, golden morning light filtering through dense foliage, casting dappled shadows, peaceful and inviting.",
+      "scene_visual": "The girl is joyfully jumping among flowers in a lush green palace garden, her face beaming with a smile. The intoxicating scent of jasmine flowers floats in the air, and a small desire flickers in her eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchani Loyalo Unna Andamaina Raajabhavanam Totalo, Chinnaari Minaa Aadukuntondi. Mallepula Mattaina Suvaasana Gaalilo Teliyaadutunte, Aame Navvu Mukhanto Pula Madhya Gantulu Vesindi. Graamasthulandaru Aame Dayagala Manasunu Chusi Murisipoyevaaru, Kaani Minaa Appudappudu Paata Kathalloni Raakumaarilaa Adbhutamaina Andam Tanakunte Baagundu Ani Nitturchedi. Oka Roju Aame Totalo Aadukuntu Undagaa, Oka Vrriddhuraalu Navvutu, \"Aa Raajakumaariki Andame Kaadu, Daya Kudaa Undi!\" Ani Andi. Tana Dayanu Mechchukunnaa, Aame Kallallo Oka Chinna Korika Merisindi. Mari Minaa Korukunna Andam Aameku Dakkutundaa?",
+      "text_en": "In the beautiful palace garden, nestled in a green valley, little Meena was playing. The sweet scent of jasmine flowers drifted through the air as she laughed and skipped among the blossoms. All the villagers admired her kind heart. But sometimes, Meena would sigh, wishing she had the amazing beauty of a princess from old stories. One day, while she was playing, an old woman smiled and said, \"That princess has not just beauty, but kindness too!\" Even though her kindness was praised, a tiny wish sparkled in Meena's eyes. Would Meena ever get the beauty she longed for?"
+    },
+    {
+      "id": 2,
+      "text": "అందమైన రూపం కోసం ఆశపడుతూ, మీనా ఒకరోజు రాజభవనం గదుల్లో తిరుగుతూ, మరుగున పడిన ఒక పాత గదిని చూసింది. ఆ గదిలోకి అడుగు పెట్టగానే — ముతక దుమ్ము వాసన ముక్కుపుటాలకెక్కింది. లోపల వెతుకుతుండగా, ఆమెకు అద్భుతమైన చెక్కడాలు ఉన్న ఒక అద్దం కనిపించింది. అద్దంలో తన ప్రతిబింబాన్ని చూసినప్పుడు, ఆమె కళ్ళు పెద్దవిగా అయ్యాయి, నోరు తెరుచుకుంది. అది మామూలు అందం కాదు... అద్భుతమైన రూపాన్ని చూపించింది! \"ఓహ్, ఎంత అద్భుతమైన అందం! ఇది నిజమేనా?\" అని మీనా ఆశ్చర్యంగా అంది. ఈ మాయా అద్దం ఎక్కడిది, ఇప్పుడు మీనాకు ఏం జరుగుతుంది?",
+      "image_prompt": "The girl stands before an old, intricately carved mirror in a dusty, hidden room, her eyes wide and mouth agape in astonishment. A musty smell fills the air as she gazes at her reflection, which appears miraculously beautiful. Dim, shadowed light filtering through a high, grimy window, illuminating dust motes dancing in the air, with a faint, ethereal glow emanating from the mirror.",
+      "scene_visual": "The girl stands before an old, intricately carved mirror in a dusty, hidden room, her eyes wide and mouth agape in astonishment. A musty smell fills the air as she gazes at her reflection, which appears miraculously beautiful.",
+      "supporting_char_keys": [],
+      "text_te_en": "Andamaina Rupam Kosam Aashapadutu, Minaa Okaroju Raajabhavanam Gadullo Tirugutu, Maruguna Padina Oka Paata Gadini Chusindi. Aa Gadiloki Adugu Pettagaane — Mutaka Dummu Vaasana Mukkuputaalakekkindi. Lopala Vetukutundagaa, Aameku Adbhutamaina Chekkadaalu Unna Oka Addam Kanipinchindi. Addanlo Tana Pratibimbaanni Chusinappudu, Aame Kallu Peddavigaa Ayyaayi, Noru Teruchukundi. Adi Maamulu Andam Kaadu... Adbhutamaina Rupaanni Chupinchindi! \"Oh, Enta Adbhutamaina Andan! Idi Nijamenaa?\" Ani Minaa Aashcharyangaa Andi. I Maayaa Addam Ekkadidi, Ippudu Minaaku Em Jarugutundi?",
+      "text_en": "Wishing for a beautiful look, Meena one day explored the palace rooms and found a forgotten old chamber. As she stepped inside, the smell of dusty air filled her nose. While looking around, she discovered a mirror with amazing carvings. When she saw her reflection, her eyes grew wide, and her mouth dropped open. It wasn't just ordinary beauty... it showed a truly stunning form! \"Oh, what incredible beauty! Is this really me?\" Meena gasped in wonder. Where did this magic mirror come from, and what would happen to Meena now?"
+    },
+    {
+      "id": 3,
+      "text": "ఆ అద్దం చూపిన అందంతో, రాజభవనంలో అందరూ మీనాను కొత్తగా చూడటం మొదలుపెట్టారు. ఆమెను చూసిన వారందరూ, \"మీరు నిజంగా చాలా అందంగా ఉన్నారు, రాణి గారు!\" అని పొగడసాగారు. మీనా పెదవులపై ఒక బలవంతపు చిరునవ్వు కనిపించినా, ఆమె మనసులో ఏదో తెలియని బెంగ మొదలైంది. ఆమె ఒంటరిగా నడుస్తుంటే, రాజభవనం కారిడార్లలో తన అడుగుల శబ్దం మాత్రమే ప్రతిధ్వనించేది. పొగడ్తలు వింటున్న మీనా, అద్దంలో ఆ అందమైన రూపం వెనుక ఒక నీడ కదలికను చూసింది... ఆ అద్దంలో కనిపించిన నీడ ఎవరు, అంతగా పొగడ్తలు అందుకుంటున్నా మీనా ఎందుకు ఒంటరిగా ఫీలవుతోంది?",
+      "image_prompt": "The girl walks alone through the long palace corridors, a forced smile on her lips, as only the echo of her footsteps resonates around her. She glimpses a moving shadow behind the beautiful form reflected in the mirror. Bright, artificial light from flickering oil lamps in the palace hall, creating stark contrasts and long, unsettling shadows.",
+      "scene_visual": "The girl walks alone through the long palace corridors, a forced smile on her lips, as only the echo of her footsteps resonates around her. She glimpses a moving shadow behind the beautiful form reflected in the mirror.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Addam Chupina Andanto, Raajabhavananlo Andaru Minaanu Kottagaa Chudatam Modalupettaaru. Aamenu Chusina Vaarandaru, \"Miru Nijangaa Chaalaa Andangaa Unnaaru, Raani Gaaru!\" Ani Pogadasaagaaru. Minaa Pedavulapai Oka Balavantapu Chirunavvu Kanipinchinaa, Aame Manasulo Edo Teliyani Benga Modalaindi. Aame Ontarigaa Nadustunte, Raajabhavanam Kaaridaarlalo Tana Adugula Shabdam Maatrame Pratidhvaninchedi. Pogadtalu Vintunna Minaa, Addanlo Aa Andamaina Rupam Venuka Oka Nida Kadalikanu Chusindi... Aa Addanlo Kanipinchina Nida Evaru, Antagaa Pogadtalu Andukuntunnaa Minaa Enduku Ontarigaa Philavutondi?",
+      "text_en": "With the beauty the mirror showed, everyone in the palace started to look at Meena differently. Everyone who saw her began to praise her, saying, \"You are truly so beautiful, Princess!\" Even though a forced smile appeared on Meena's lips, a strange sadness began in her heart. As she walked alone, only the sound of her footsteps echoed in the palace hallways. While listening to the praises, Meena saw a shadow moving behind the beautiful reflection in the mirror... Who was that shadow in the mirror, and why did Meena feel so lonely even with all the compliments?"
+    },
+    {
+      "id": 4,
+      "text": "అద్దంలో కనిపించిన ఆ నీడ, చాలా కాలంగా ఆ అద్దం శక్తి కోసం ఎదురుచూస్తున్న దుర్ముని అనే మంత్రగత్తెది. మాయా అద్దం శక్తి ఆమెను ఆకర్షించగా, దుర్ముని ఒక్కసారిగా మీనా ముందు ప్రత్యక్షమైంది. ఆమె చిరిగిన వస్త్రాల నుండి కంపు కొడుతున్న కట్టెల వాసన వచ్చింది. మీనా చేతులు వణికాయి, కానీ ఆమె కళ్ళు స్థిరంగా దుర్మునిని చూశాయి. \"ఆ అద్దం నీది కాదు, అమాయకురాలా! అది ఆత్మను మింగేస్తుంది!\" అని దుర్ముని బిగ్గరగా అరిచింది. మీనా ఆ మంత్రగత్తె నుండి తనను, అద్దాన్ని ఎలా కాపాడుకుంటుంది?",
+      "image_prompt": "The girl stands with trembling hands, her eyes fixed on the witch who has suddenly appeared before her. The witch's torn clothes emit a foul smell of burning wood as she shouts loudly. Also in this scene: An ancient, gaunt sorceress with sharp features, long tangled grey hair, and piercing yellow eyes. She wears a tattered, dark purple robe and carries a gnarled wooden staff. Always the same character across every scene. Gloomy, overcast light filtering through tall windows, casting a cold, grey pallor over the scene, emphasizing Durmuni's dark presence.",
+      "scene_visual": "The girl stands with trembling hands, her eyes fixed on the witch who has suddenly appeared before her. The witch's torn clothes emit a foul smell of burning wood as she shouts loudly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Addanlo Kanipinchina Aa Nida, Chaalaa Kaalangaa Aa Addam Shakti Kosam Eduruchustunna Durmuni Ane Mantragattedi. Maayaa Addam Shakti Aamenu Aakarshinchagaa, Durmuni Okkasaarigaa Minaa Mundu Pratyakshamaindi. Aame Chirigina Vastraala Nundi Kampu Kodutunna Kattela Vaasana Vachchindi. Minaa Chetulu Vanikaayi, Kaani Aame Kallu Sthirangaa Durmunini Chushaayi. \"Aa Addam Nidi Kaadu, Amaayakuraalaa! Adi Aatmanu Mingestundi!\" Ani Durmuni Biggaragaa Arichindi. Minaa Aa Mantragatte Nundi Tananu, Addaanni Elaa Kaapaadukuntundi?",
+      "text_en": "The shadow in the mirror belonged to a witch named Durmuni, who had been waiting for the mirror's power for a very long time. The magic mirror's power drew her in, and Durmuni suddenly appeared before Meena. A foul, stale smell came from her torn clothes. Meena's hands trembled, but her eyes bravely stared at Durmuni. \"That mirror is not yours, innocent girl! It devours souls!\" Durmuni shrieked loudly. How would Meena protect herself and the mirror from this witch?"
+    },
+    {
+      "id": 5,
+      "text": "దుర్ముని మాటలు విన్న మీనా, ఆ అద్దాన్ని నాశనం చేయాలని నిర్ణయించుకుంది. ఆమె దాన్ని పగలగొట్టడానికి ప్రయత్నించింది, కానీ అద్దం మాయాశక్తి ఆమెను అడ్డుకుంది. ఆ చల్లని, నునుపైన అద్దం ఆమె చేతికి అంటుకుని, చీకటి శక్తితో కంపించింది. దుర్ముని శక్తి పెరుగుతూ ఉండగా, మీనా కళ్ళల్లోంచి కన్నీళ్లు ధారాపాతంగా కారాయి. అద్దంలో తన నిజమైన ప్రతిబింబం మసకబారుతూ, కృత్రిమ రూపం బలపడుతున్నట్లు కనిపించింది. \"నా నిజమైన రూపాన్ని నాకు తిరిగి ఇవ్వు!\" అని మీనా గుండెలు పగిలేలా అరిచింది. అద్దం మాయకు, దుర్ముని దుష్టత్వానికి మీనా తన నిజమైన రూపాన్ని ఎప్పటికీ కోల్పోతుందా?",
+      "image_prompt": "The girl struggles to break the mirror, which clings to her hand and vibrates with dark energy, as tears stream down her face. Her true reflection in the cool, smooth mirror blurs, while an artificial form strengthens. Also in this scene: An ancient, gaunt sorceress with sharp features, long tangled grey hair, and piercing yellow eyes. She wears a tattered, dark purple robe and carries a gnarled wooden staff. Always the same character across every scene. Dark and oppressive, with only slivers of moonlight piercing through the gloom, highlighting the struggle, reflecting menacingly in the mirror.",
+      "scene_visual": "The girl struggles to break the mirror, which clings to her hand and vibrates with dark energy, as tears stream down her face. Her true reflection in the cool, smooth mirror blurs, while an artificial form strengthens.",
+      "supporting_char_keys": [],
+      "text_te_en": "Durmuni Maatalu Vinna Minaa, Aa Addaanni Naashanam Cheyaalani Nirnayinchukundi. Aame Daanni Pagalagottadaaniki Prayatninchindi, Kaani Addam Maayaashakti Aamenu Addukundi. Aa Challani, Nunupaina Addam Aame Chetiki Antukuni, Chikati Shaktito Kampinchindi. Durmuni Shakti Perugutu Undagaa, Minaa Kallallonchi Kannillu Dhaaraapaatangaa Kaaraayi. Addanlo Tana Nijamaina Pratibimbam Masakabaarutu, Krritrima Rupam Balapadutunnatlu Kanipinchindi. \"Naa Nijamaina Rupaanni Naaku Tirigi Ivvu!\" Ani Minaa Gundelu Pagilelaa Arichindi. Addam Maayaku, Durmuni Dushtatvaaniki Minaa Tana Nijamaina Rupaanni Eppatiki Kolpotundaa?",
+      "text_en": "Hearing Durmuni's words, Meena decided to destroy the mirror. She tried to smash it, but the mirror's magic power stopped her. The cold, smooth mirror stuck to her hand and pulsed with dark energy. As Durmuni's power grew, tears streamed down Meena's face. Her true reflection in the mirror became blurry, and the fake, beautiful form seemed to grow stronger. \"Give me back my real self!\" Meena cried with all her heart. Would Meena lose her true self forever to the mirror's magic and Durmuni's evil?"
+    },
+    {
+      "id": 6,
+      "text": "మీనా కన్నీళ్లతో పోరాడుతుండగా, దుర్ముని అద్దం వైపు దూకింది. ఆ క్షణంలో, మీనా తన ప్రజల నిజమైన ప్రేమను, వారి చిరునవ్వులను గుర్తుచేసుకుంది. ఆమె ఒక లోతైన శ్వాస తీసుకుంది, ఆమె కళ్ళు అచంచలమైన సంకల్పంతో నిండిపోయాయి. ఆమెకు తన నిజమైన ఆత్మ చాలు! — ఒక్కసారిగా, మీనా అద్దాన్ని నేలకేసి కొట్టింది. పెద్ద శబ్దం చేస్తూ అద్దం ముక్కలైపోయింది, ఆ వెంటనే గదిలో నిశ్శబ్దం ఆవరించింది. ఇప్పుడు మాయా అద్దం పగిలిపోయింది, మరి తర్వాత ఏం జరుగుతుంది?",
+      "image_prompt": "The girl, filled with unwavering resolve, forcefully smashes the mirror onto the ground. The mirror shatters with a loud, resounding crash, and an immediate silence falls over the room. Also in this scene: An ancient, gaunt sorceress with sharp features, long tangled grey hair, and piercing yellow eyes. She wears a tattered, dark purple robe and carries a gnarled wooden staff. Always the same character across every scene. A sudden flash of bright, pure white light as the mirror shatters, momentarily blinding, then returning to a soft, natural light as the magic dissipates.",
+      "scene_visual": "The girl, filled with unwavering resolve, forcefully smashes the mirror onto the ground. The mirror shatters with a loud, resounding crash, and an immediate silence falls over the room.",
+      "supporting_char_keys": [],
+      "text_te_en": "Minaa Kannillato Poraadutundagaa, Durmuni Addam Vaipu Dukindi. Aa Kshananlo, Minaa Tana Prajala Nijamaina Premanu, Vaari Chirunavvulanu Gurtuchesukundi. Aame Oka Lotaina Shvaasa Tisukundi, Aame Kallu Achanchalamaina Sankalpanto Nindipoyaayi. Aameku Tana Nijamaina Aatma Chaalu! — Okkasaarigaa, Minaa Addaanni Nelakesi Kottindi. Pedda Shabdam Chestu Addam Mukkalaipoyindi, Aa Ventane Gadilo Nishshabdam Aavarinchindi. Ippudu Maayaa Addam Pagilipoyindi, Mari Tarvaata Em Jarugutundi?",
+      "text_en": "As Meena struggled with her tears, Durmuni leaped towards the mirror. In that very moment, Meena remembered the true love of her people and their happy smiles. She took a deep breath, and her eyes filled with strong determination. Her true self was enough! — All at once, Meena slammed the mirror onto the floor. With a loud crash, the mirror shattered into many pieces, and then silence filled the room. Now the magic mirror was broken, but what would happen next?"
+    },
+    {
+      "id": 7,
+      "text": "అద్దం పగిలిపోగానే, దుర్ముని శక్తి ఒక్కసారిగా చెదిరిపోయింది, ఆమె చీకటి నీడలా కనుమరుగైంది. మీనా తన నిజమైన రూపంతో అక్కడే నిలబడింది, ఆమె ముఖంపై ప్రశాంతమైన చిరునవ్వు, కళ్ళల్లో లోపలి కాంతి మెరిసింది. రాజభవనంలోకి ప్రజలు పరుగెత్తుకుంటూ వచ్చి ఆమెను ప్రేమగా ఆలింగనం చేసుకున్నారు. ఆమె తల్లి చెయ్యి ఆమె చెంపను సున్నితంగా తాకింది. \"మా రాకుమారి దయగల హృదయం ఎప్పుడూ అందమైనదే!\" అని వాళ్ళు ప్రేమగా అన్నారు. మీనాకు తన నిజమైన అందం తన దయలోనే ఉందని అర్థమైంది.",
+      "image_prompt": "The girl stands in her true form, a peaceful smile gracing her face and an inner light shining in her eyes, as her mother gently touches her cheek. People rush into the palace, lovingly embracing her. Warm, gentle afternoon sun streaming through an open archway, illuminating Meena and her family in a soft, golden glow, peaceful and serene.",
+      "scene_visual": "The girl stands in her true form, a peaceful smile gracing her face and an inner light shining in her eyes, as her mother gently touches her cheek. People rush into the palace, lovingly embracing her.",
+      "supporting_char_keys": [],
+      "text_te_en": "Addam Pagilipogaane, Durmuni Shakti Okkasaarigaa Chediripoyindi, Aame Chikati Nidalaa Kanumarugaindi. Minaa Tana Nijamaina Rupanto Akkade Nilabadindi, Aame Mukhampai Prashaantamaina Chirunavvu, Kallallo Lopali Kaanti Merisindi. Raajabhavananloki Prajalu Parugettukuntu Vachchi Aamenu Premagaa Aalinganam Chesukunnaaru. Aame Talli Cheyyi Aame Chempanu Sunnitangaa Taakindi. \"Maa Raakumaari Dayagala Hrridayam Eppudu Andamainade!\" Ani Vaallu Premagaa Annaaru. Minaaku Tana Nijamaina Andam Tana Dayalone Undani Arthamaindi.",
+      "text_en": "As soon as the mirror broke, Durmuni's power vanished, and she disappeared like a dark shadow. Meena stood there in her true form, a peaceful smile on her face, and an inner light shining in her eyes. The people rushed into the palace and lovingly hugged her. Her mother's hand gently touched her cheek. \"Our princess's kind heart is always beautiful!\" they said with love. Meena finally understood that her true beauty came from her kindness."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 7.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 9,
+    "average": 7.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story features a compelling narrative arc with effective suspense hooks at the end of most scenes, making it highly engaging for a young audience. The grammar is nearly flawless, and the plot moves with good pace. To reach an award-worthy level, the primary focus should be on refining the narrative voice to embody a warm, oral storytelling style, rather than a descriptive written one. This includes consistently showing emotions through action and dialogue instead of stating them, and enriching character voices with more distinct and frequent direct speech in every scene."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raakumaari Minaa, Addam Maaya",
+  "moral_te_en": "Nijamaina Andam Mana Manasulo Untundi, Bayata Kanipinche Rupanlo Kaadu.",
+  "title_en": "Princess Meena and the Mirror's Magic",
+  "moral_en": "True beauty lies in our heart, not in our outward appearance.",
+  "id": "20260526_131120",
+  "date": "2026-05-26",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "తెలుగు జానపద కథ - మాయా అద్దం మరియు రాజకుమారి",
+  "thumbnail": "stories/20260526_131120/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
