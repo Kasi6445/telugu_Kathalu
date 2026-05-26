@@ -1,7 +1,7 @@
 {
   "title": "అయోధ్య రాజు: రామచంద్రుడు",
   "moral": "ధర్మం నిలిచినప్పుడు, శాంతి, సంపదలు వెల్లివిరుస్తాయి, అందరికీ ఆనందాన్ని ఇస్తాయి.",
-  "main_character": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene.",
+  "main_character": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). For the Pattabhishekam coronation: wearing royal golden silk garments with a royal blue outer robe, properly bathed and groomed with hair arranged neatly (NOT matted jata-mukuta — that was forest exile; this is the coronation), adorned with traditional gold ornaments: necklace, arm bands, earrings. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene.",
   "antagonist": "",
   "setting": "The ancient city of Ayodhya, specifically the royal palace and its grand courtyards. Golden-hued stone architecture, intricate carvings, and lush gardens with flowering trees. Same location across every scene.",
   "scenes": [
@@ -74,7 +74,7 @@
     },
     {
       "id": 6,
-      "text": "రాముడి తలమీద కిరీటం ఉంచే సమయం ఆసన్నమైంది, మహర్షులు, పెద్దలు ముందుకు వచ్చారు. జటామకుటంతో ఉన్న అతని శిరస్సుపై — ఆ రత్నఖచితమైన రాజకిరీటం చల్లగా, బరువుగా ఒదిగింది. ఆ క్షణంలో, రాముడి కళ్ళు స్థిరంగా, లోతుగా కనిపించాయి, ఒక రాజుగా తన ధర్మాన్ని స్వీకరించడానికి సిద్ధమయ్యాడు. ప్రజలంతా సంతోషంతో, \"న్యాయం జరిగింది! ధర్మం గెలిచింది!\" అని ఉద్వేగంగా అరిచారు. రాముడు ఇప్పుడు అయోధ్యకు ధర్మరాజు, శాంతికి ప్రతీకగా సింహాసనంపై కూర్చున్నాడు. మరి ఈ కొత్త రాజు పాలనలో అయోధ్య ఎలా ఉంటుందో ఊహించుకోగలవా?",
+      "text": "రాముడి తలమీద కిరీటం ఉంచే సమయం ఆసన్నమైంది, మహర్షులు, పెద్దలు ముందుకు వచ్చారు. పట్టభిషేకానికి తగినట్లు పట్టువస్త్రాలు ధరించి, రత్నాభరణాలతో అలంకరించబడిన అతని శిరస్సుపై — ఆ రత్నఖచితమైన రాజకిరీటం చల్లగా, బరువుగా ఒదిగింది. ఆ క్షణంలో, రాముడి కళ్ళు స్థిరంగా, లోతుగా కనిపించాయి, ఒక రాజుగా తన ధర్మాన్ని స్వీకరించడానికి సిద్ధమయ్యాడు. ప్రజలంతా సంతోషంతో, \"న్యాయం జరిగింది! ధర్మం గెలిచింది!\" అని ఉద్వేగంగా అరిచారు. రాముడు ఇప్పుడు అయోధ్యకు ధర్మరాజు, శాంతికి ప్రతీకగా సింహాసనంపై కూర్చున్నాడు. మరి ఈ కొత్త రాజు పాలనలో అయోధ్య ఎలా ఉంటుందో ఊహించుకోగలవా?",
       "image_prompt": "A jeweled royal crown is gently placed upon the man's head. His eyes appear steady and deep, ready to accept his duty as king. A majestic, celebratory light, with golden hues from the setting sun streaming through the palace arches, illuminating Rama on the throne.",
       "scene_visual": "A jeweled royal crown is gently placed upon the man's head. His eyes appear steady and deep, ready to accept his duty as king.",
       "supporting_char_keys": [
@@ -83,8 +83,8 @@
         "Hanuman",
         "Bharata"
       ],
-      "text_te_en": "Raamudi Talamida Kiritam Unche Samayam Aasannamaindi, Maharshulu, Peddalu Munduku Vachchaaru. Jataamakutanto Unna Atani Shirassupai — Aa Ratnakhachitamaina Raajakiritam Challagaa, Baruvugaa Odigindi. Aa Kshananlo, Raamudi Kallu Sthirangaa, Lotugaa Kanipinchaayi, Oka Raajugaa Tana Dharmaanni Svikarinchadaaniki Siddhamayyaadu. Prajalantaa Santoshanto, \"Nyaayam Jarigindi! Dharmam Gelichindi!\" Ani Udvegangaa Arichaaru. Raamudu Ippudu Ayodhyaku Dharmaraaju, Shaantiki Pratikagaa Sinhaasanampai Kurchunnaadu. Mari I Kotta Raaju Paalanalo Ayodhya Elaa Untundo Uhinchukogalavaa?",
-      "text_en": "The time came to place the crown on Ramudu's head, and the sages and elders stepped forward. On his head, which had been adorned with matted locks, the jewel-studded royal crown settled coolly and heavily. In that moment, Ramudu's eyes appeared steady and deep, ready to accept his duty as a king. All the people joyfully and excitedly shouted, \"Justice has been served! Righteousness has won!\" Ramudu now sat on the throne as the righteous king of Ayodhya, a symbol of peace. Can you imagine what Ayodhya will be like under the rule of this new king?"
+      "text_te_en": "Raamudi Talamida Kiritam Unche Samayam Aasannamaindi, Maharshulu, Peddalu Munduku Vachchaaru. Pattabhishekaniki Taginatlu Pattuvasthraaluu Dhariinchi, Ratnabharanaalato Alankarinchabadina Atani Shirassupai — Aa Ratnakhachitamaina Raajakiritam Challagaa, Baruvugaa Odigindi. Aa Kshananlo, Raamudi Kallu Sthirangaa, Lotugaa Kanipinchaayi, Oka Raajugaa Tana Dharmaanni Svikarinchadaaniki Siddhamayyaadu. Prajalantaa Santoshanto, \"Nyaayam Jarigindi! Dharmam Gelichindi!\" Ani Udvegangaa Arichaaru. Raamudu Ippudu Ayodhyaku Dharmaraaju, Shaantiki Pratikagaa Sinhaasanampai Kurchunnaadu. Mari I Kotta Raaju Paalanalo Ayodhya Elaa Untundo Uhinchukogalavaa?",
+      "text_en": "The time came to place the crown on Ramudu's head, and the sages and elders stepped forward. Dressed in royal silk garments befitting the Pattabhishekam and adorned with jewels, the jewel-studded royal crown settled coolly and heavily on his head. In that moment, Ramudu's eyes appeared steady and deep, ready to accept his duty as a king. All the people joyfully and excitedly shouted, \"Justice has been served! Righteousness has won!\" Ramudu now sat on the throne as the righteous king of Ayodhya, a symbol of peace. Can you imagine what Ayodhya will be like under the rule of this new king?"
     },
     {
       "id": 7,
@@ -108,7 +108,7 @@
     },
     {
       "key": "Lakshmana",
-      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. For the coronation ceremony: wearing royal silk garments in saffron-gold with gold ornaments, properly bathed and groomed (NOT wearing forest exile bark cloth — this is the coronation, not the exile). He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
     },
     {
       "key": "Hanuman",
