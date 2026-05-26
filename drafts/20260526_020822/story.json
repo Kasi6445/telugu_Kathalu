@@ -1,0 +1,127 @@
+{
+  "title": "జ్ఞాని చేప ముందుచూపు",
+  "moral": "ముందుచూపుతో ఆలోచిస్తే, ప్రమాదాల నుండి మనల్ని మనం కాపాడుకోవచ్చు, కానీ ఆలస్యం చేస్తే బాధపడక తప్పదు కదూ.",
+  "main_character": "A shimmering, silver fish with wise, calm eyes and slightly larger fins, always observant. She is known for her thoughtful nature and foresight. Always the same character across every scene.",
+  "antagonist": "Two burly fishermen with sun-weathered skin, clad in simple, patched loincloths and carrying heavy, knotted fishing nets. They have determined, focused expressions. Always the same character across every scene.",
+  "setting": "A serene, clear pond in the heart of the Godavari river delta, surrounded by lush green rice paddies and swaying palm trees under the bright morning sun. Same location across every every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి డెల్టాలోని నిర్మలమైన చెరువులో జ్ఞాని, శీఘ్రకారి, దీర్ఘసూత్రి అనే మూడు చేపలు ఆనందంగా ఈత కొడుతున్నాయి. జ్ఞాని చేప, తన పెద్ద రెక్కలను నెమ్మదిగా కదుపుతూ, పచ్చని కలుపు మొక్కల గుండా సున్నితమైన అలలను సృష్టించింది. ఆ అలలు — అన్నీ ప్రశాంతంగా ఉన్నాయని చెప్పాయి. మిగిలిన చేపలతో పాటు తను నెమ్మదిగా కదులుతూ, ఈ ప్రశాంతతను ఆస్వాదిస్తూ ఉంది. \"ఈ చెరువు ఎంత ప్రశాంతంగా ఉంది కదా!\" అని జ్ఞాని తన స్నేహితులతో అంది. కానీ ఈ ప్రశాంతమైన జీవితం ఎప్పటికీ కొనసాగుతుందా పిల్లలూ?",
+      "image_prompt": "The wise fish slowly moves its large fins, swimming through green aquatic plants. Its movement creates gentle ripples that spread across the calm, clear water. Bright, warm morning sun filtering through the water, casting dappled light on the pond bed, creating a serene and idyllic atmosphere.",
+      "scene_visual": "The wise fish slowly moves its large fins, swimming through green aquatic plants. Its movement creates gentle ripples that spread across the calm, clear water.",
+      "supporting_char_keys": [
+        "sheeghrakaari",
+        "deerghasootri"
+      ],
+      "text_te_en": "Godaavari Deltaaloni Nirmalamaina Cheruvulo Jnyaani, Shighrakaari, Dirghasutri Ane Mudu Chepalu Aanandangaa Ita Kodutunnaayi. Jnyaani Chepa, Tana Pedda Rekkalanu Nemmadigaa Kaduputu, Pachchani Kalupu Mokkala Gundaa Sunnitamaina Alalanu Srrishtinchindi. Aa Alalu — Anni Prashaantangaa Unnaayani Cheppaayi. Migilina Chepalato Paatu Tanu Nemmadigaa Kadulutu, I Prashaantatanu Aasvaadistu Undi. \"I Cheruvu Enta Prashaantangaa Undi Kadaa!\" Ani Jnyaani Tana Snehitulato Andi. Kaani I Prashaantamaina Jivitam Eppatiki Konasaagutundaa Pillalu?",
+      "text_en": "In a serene pond in the Godavari Delta, three fish named Jnani, Sheeghrakari, and Deerghasutri were swimming happily. Jnani the fish, gently moving her large fins, created soft ripples through the green weeds. Those ripples — seemed to say that everything was peaceful. She moved slowly with the other fish, enjoying this tranquility. \"How peaceful this pond is!\" Jnani said to her friends. But children, will this peaceful life last forever?"
+    },
+    {
+      "id": 2,
+      "text": "జ్ఞాని, శీఘ్రకారి, దీర్ఘసూత్రి ఆ ప్రశాంతతను ఆస్వాదిస్తున్న సమయమే — చెరువు ఒడ్డుకు ఇద్దరు మత్స్యకారులు వచ్చారు. వారి బరువైన అడుగుల కింద ఎండుటాకులు 'కర్చక్ కర్చక్' మంటూ శబ్దం చేశాయి. జ్ఞాని చేప రెక్కలు ఒక్కసారిగా బిగుసుకుపోయాయి — అది పెద్ద కలువ ఆకు వెనుక దాక్కుని, వారి మాటలు జాగ్రత్తగా వినసాగింది. \"రేపు ఉదయమే వచ్చి ఈ చెరువులోని చేపలన్నీ పట్టుకుందాం!\" అని ఒక మత్స్యకారుడు అన్నాడు. తమ ఇల్లు ప్రమాదంలో పడినప్పుడు, ఆ మూడు చేపలు ఇప్పుడు ఏం చేయగలవు మరి?",
+      "image_prompt": "The wise fish's fins suddenly stiffen as it quickly hides behind a large lily pad. Its eyes are fixed on the two fishermen standing on the bank, their heavy footsteps crunching dry leaves. Also in this scene: Two burly fishermen with sun-weathered skin, clad in simple, patched loincloths and carrying heavy, knotted fishing nets. They have determined, focused expressions. Always the same character across every scene. The golden afternoon light starts to dim slightly, with long shadows stretching across the pond's edge, creating a sudden, unsettling mood.",
+      "scene_visual": "The wise fish's fins suddenly stiffen as it quickly hides behind a large lily pad. Its eyes are fixed on the two fishermen standing on the bank, their heavy footsteps crunching dry leaves.",
+      "supporting_char_keys": [
+        "sheeghrakaari",
+        "deerghasootri"
+      ],
+      "text_te_en": "Jnyaani, Shighrakaari, Dirghasutri Aa Prashaantatanu Aasvaadistunna Samayame — Cheruvu Odduku Iddaru Matsyakaarulu Vachchaaru. Vaari Baruvaina Adugula Kinda Endutaakulu 'Karchak Karchak' Mantu Shabdam Cheshaayi. Jnyaani Chepa Rekkalu Okkasaarigaa Bigusukupoyaayi — Adi Pedda Kaluva Aaku Venuka Daakkuni, Vaari Maatalu Jaagrattagaa Vinasaagindi. \"Repu Udayame Vachchi I Cheruvuloni Chepalanni Pattukundaan!\" Ani Oka Matsyakaarudu Annaadu. Tama Illu Pramaadanlo Padinappudu, Aa Mudu Chepalu Ippudu Em Cheyagalavu Mari?",
+      "text_en": "Just as Jnani, Sheeghrakari, and Deerghasutri were enjoying that peace — two fishermen came to the pond's edge. The dry leaves under their heavy footsteps made a 'crunch, crunch' sound. Jnani's fins suddenly stiffened — she hid behind a large lotus leaf and began to listen carefully to their words. \"Let's come back tomorrow morning and catch all the fish in this pond!\" said one fisherman. Now that their home was in danger, what could these three fish do?"
+    },
+    {
+      "id": 3,
+      "text": "మత్స్యకారుల మాటలు వినగానే జ్ఞాని చేప మనసులో ఒక నిర్ణయానికి వచ్చింది. ఒక్కసారిగా — అది నిర్ణయం తీసుకుంది. దాని రెక్కలు వేగంగా కదలడం మొదలుపెట్టాయి. చెరువు అడుగున ఉన్న చిన్న రహస్య కాలువ వైపు వేగంగా దూసుకుపోయింది. \"నేను ఇప్పుడే వెళ్ళిపోతాను, ఆలోచించడానికి సమయం లేదు!\" అని చెబుతూనే, ఆ చల్లని మట్టి ప్రవాహం దానిని ముందుకు లాగింది. కానీ శీఘ్రకారి, దీర్ఘసూత్రి మాత్రం ఇంకా ఎటూ తేల్చుకోలేక, భవిష్యత్తు గురించి చర్చించుకుంటూ ఉండిపోయాయి... అవి జ్ఞానిని అనుసరిస్తాయా, లేక మత్స్యకారులను ఎదుర్కొంటాయా?",
+      "image_prompt": "The wise fish's fins begin to move rapidly as it darts quickly towards a small, secret canal at the bottom of the pond. The cool, muddy current of the canal pulls it forward as it disappears from view. The light is becoming more diffused, a slightly greyish tone indicating the passage of time and the weight of the decision, with Gnyaani's path slightly brighter.",
+      "scene_visual": "The wise fish's fins begin to move rapidly as it darts quickly towards a small, secret canal at the bottom of the pond. The cool, muddy current of the canal pulls it forward as it disappears from view.",
+      "supporting_char_keys": [
+        "sheeghrakaari",
+        "deerghasootri"
+      ],
+      "text_te_en": "Matsyakaarula Maatalu Vinagaane Jnyaani Chepa Manasulo Oka Nirnayaaniki Vachchindi. Okkasaarigaa — Adi Nirnayam Tisukundi. Daani Rekkalu Vegangaa Kadaladam Modalupettaayi. Cheruvu Aduguna Unna Chinna Rahasya Kaaluva Vaipu Vegangaa Dusukupoyindi. \"Nenu Ippude Vellipotaanu, Aalochinchadaaniki Samayam Ledu!\" Ani Chebutune, Aa Challani Matti Pravaaham Daanini Munduku Laagindi. Kaani Shighrakaari, Dirghasutri Maatram Inkaa Etu Telchukoleka, Bhavishyattu Gurinchi Charchinchukuntu Undipoyaayi... Avi Jnyaanini Anusaristaayaa, Leka Matsyakaarulanu Edurkontaayaa?",
+      "text_en": "As soon as Jnani heard the fishermen's words, she made a decision in her mind. All at once — she decided. Her fins began to move quickly. She darted towards a small secret canal at the bottom of the pond. \"I'm leaving right now, there's no time to think!\" she said, as the cool muddy current pulled her forward. But Sheeghrakari and Deerghasutri were still undecided, discussing their future... Would they follow Jnani, or face the fishermen?"
+    },
+    {
+      "id": 4,
+      "text": "జ్ఞాని వెళ్ళిపోయిన మరుసటి ఉదయం, మత్స్యకారులు చెరువు దగ్గరకు తిరిగి వచ్చారు. శీఘ్రకారి, దీర్ఘసూత్రి మాత్రం ఇంకా అక్కడే ఉన్నాయి. వాళ్ళు తమ పెద్ద వలలను గట్టిగా నీటిలోకి విసిరారు. ఒక్కసారిగా — 'ధప్' మంటూ వల నీటిలో పడింది. ఆ వల శీఘ్రకారిని, దీర్ఘసూత్రిని చుట్టేసింది, అవి వలలో చిక్కుకొని కొట్టుకున్నాయి. \"అయ్యో! మనం చిక్కుకుపోయాము!\" అని శీఘ్రకారి భయంతో అరిచింది. మత్స్యకారుల చేతిలో చిక్కిన ఈ రెండు చేపలు ఇప్పుడు ఎలా తప్పించుకుంటాయి?",
+      "image_prompt": "The two remaining fish are thrashing violently, entangled within the large net that has just been thrown into the water. The net has tightly wrapped around them, trapping them as it sinks slightly into the water. Also in this scene: Two burly fishermen with sun-weathered skin, clad in simple, patched loincloths and carrying heavy, knotted fishing nets. They have determined, focused expressions. Always the same character across every scene. A stark, bright morning sun, reflecting harshly off the water, illuminating the struggle within the dark, coarse net with no escape in sight.",
+      "scene_visual": "The two remaining fish are thrashing violently, entangled within the large net that has just been thrown into the water. The net has tightly wrapped around them, trapping them as it sinks slightly into the water.",
+      "supporting_char_keys": [
+        "sheeghrakaari",
+        "deerghasootri"
+      ],
+      "text_te_en": "Jnyaani Vellipoyina Marusati Udayan, Matsyakaarulu Cheruvu Daggaraku Tirigi Vachchaaru. Shighrakaari, Dirghasutri Maatram Inkaa Akkade Unnaayi. Vaallu Tama Pedda Valalanu Gattigaa Nitiloki Visiraaru. Okkasaarigaa — 'Dhap' Mantu Vala Nitilo Padindi. Aa Vala Shighrakaarini, Dirghasutrini Chuttesindi, Avi Valalo Chikkukoni Kottukunnaayi. \"Ayyo! Manam Chikkukupoyaamu!\" Ani Shighrakaari Bhayanto Arichindi. Matsyakaarula Chetilo Chikkina I Rendu Chepalu Ippudu Elaa Tappinchukuntaayi?",
+      "text_en": "The next morning, after Jnani had left, the fishermen returned to the pond. Sheeghrakari and Deerghasutri were still there. They strongly threw their big nets into the water. All at once — 'Splash!' the net fell into the water. The net surrounded Sheeghrakari and Deerghasutri, and they thrashed, caught in the net. \"Oh no! We're trapped!\" cried Sheeghrakari in fear. How would these two fish, caught by the fishermen, escape now?"
+    },
+    {
+      "id": 5,
+      "text": "వలలో చిక్కుకున్న శీఘ్రకారికి అకస్మాత్తుగా ఒక ఉపాయం తట్టింది. ఒక్కసారిగా — అది చనిపోయినట్లు నటించింది. అది తన శరీరాన్ని కదలకుండా ఉంచి, కళ్ళు సగం మూసుకుంది. మత్స్యకారుడు దానిని పట్టుకున్నప్పుడు, అతని చేతికి దాని శరీరం గరుకుగా, చల్లగా అనిపించింది. \"ఈ చచ్చిన చేపను బయట పడేయండి!\" అని విసుగుగా అన్నాడు. కానీ దీర్ఘసూత్రి మాత్రం వలలోనే భయంతో వణుకుతూ, నిరాశగా చూస్తూ ఉండిపోయింది... మత్స్యకారులు శీఘ్రకారి ఉపాయాన్ని నమ్ముతారా, మరి దీర్ఘసూత్రికి ఏం జరుగుతుంది?",
+      "image_prompt": "The quick-witted fish lies motionless with its eyes half-closed, pretending to be dead in the fisherman's hand. The fisherman holds its rough, cold body, looking annoyed. Also in this scene: Two burly fishermen with sun-weathered skin, clad in simple, patched loincloths and carrying heavy, knotted fishing nets. They have determined, focused expressions. Always the same character across every scene. Intense, direct sunlight highlighting the fish in the net and the fishermen's hands, creating a sense of urgency and high stakes, with shadows deepening around Deerghasootri.",
+      "scene_visual": "The quick-witted fish lies motionless with its eyes half-closed, pretending to be dead in the fisherman's hand. The fisherman holds its rough, cold body, looking annoyed.",
+      "supporting_char_keys": [
+        "sheeghrakaari",
+        "deerghasootri"
+      ],
+      "text_te_en": "Valalo Chikkukunna Shighrakaariki Akasmaattugaa Oka Upaayam Tattindi. Okkasaarigaa — Adi Chanipoyinatlu Natinchindi. Adi Tana Shariraanni Kadalakundaa Unchi, Kallu Sagam Musukundi. Matsyakaarudu Daanini Pattukunnappudu, Atani Chetiki Daani Shariram Garukugaa, Challagaa Anipinchindi. \"I Chachchina Chepanu Bayata Padeyandi!\" Ani Visugugaa Annaadu. Kaani Dirghasutri Maatram Valalone Bhayanto Vanukutu, Niraashagaa Chustu Undipoyindi... Matsyakaarulu Shighrakaari Upaayaanni Nammutaaraa, Mari Dirghasutriki Em Jarugutundi?",
+      "text_en": "Suddenly, an idea struck Sheeghrakari, who was caught in the net. All at once — she pretended to be dead. She kept her body still and half-closed her eyes. When the fisherman picked her up, her body felt rough and cold in his hand. \"Throw this dead fish out!\" he said with annoyance. But Deerghasutri remained in the net, trembling with fear and looking hopeless... Would the fishermen believe Sheeghrakari's trick, and what would happen to Deerghasutri?"
+    },
+    {
+      "id": 6,
+      "text": "మత్స్యకారుడు శీఘ్రకారిని చనిపోయిందని భావించి, దానిని చెరువులోకి విసిరేశాడు. 'ఛప్' మంటూ అది నీటిలో పడింది. చల్లని, ఆహ్లాదకరమైన నీరు దాని పొలుసులకు తగలగానే, శీఘ్రకారి ఊపిరి పీల్చుకుంది, దాని శరీరంలో ప్రాణం వచ్చినట్లయ్యింది. అది లోతుగా మునిగి, వేగంగా ఈదుకుంటూ వెళ్ళింది. \"ఆహా! నేను తప్పించుకున్నాను!\" అని మనసులో అనుకుంది. దీర్ఘసూత్రి మాత్రం మత్స్యకారుల బుట్టలో చిక్కి, నిస్సహాయంగా దూరంగా వెళ్ళిపోయింది. మరి జ్ఞాని ఎక్కడికి వెళ్ళింది, ఇప్పుడు శీఘ్రకారికి ఏం జరుగుతుందో?",
+      "image_prompt": "The quick-witted fish splashes into the cool water as the fisherman throws it back into the pond. It immediately takes a deep breath, its scales feeling the pleasant water, and swims away swiftly into the depths. Also in this scene: Two burly fishermen with sun-weathered skin, clad in simple, patched loincloths and carrying heavy, knotted fishing nets. They have determined, focused expressions. Always the same character across every scene. A bright, almost blinding flash of sunlight on the water as Sheeghrakaari splashes back in, contrasting with the darkening shadows around the departing fishermen and their basket.",
+      "scene_visual": "The quick-witted fish splashes into the cool water as the fisherman throws it back into the pond. It immediately takes a deep breath, its scales feeling the pleasant water, and swims away swiftly into the depths.",
+      "supporting_char_keys": [
+        "sheeghrakaari",
+        "deerghasootri"
+      ],
+      "text_te_en": "Matsyakaarudu Shighrakaarini Chanipoyindani Bhaavinchi, Daanini Cheruvuloki Visireshaadu. 'Chap' Mantu Adi Nitilo Padindi. Challani, Aahlaadakaramaina Niru Daani Polusulaku Tagalagaane, Shighrakaari Upiri Pilchukundi, Daani Shariranlo Praanam Vachchinatlayyindi. Adi Lotugaa Munigi, Vegangaa Idukuntu Vellindi. \"Aahaa! Nenu Tappinchukunnaanu!\" Ani Manasulo Anukundi. Dirghasutri Maatram Matsyakaarula Buttalo Chikki, Nissahaayangaa Durangaa Vellipoyindi. Mari Jnyaani Ekkadiki Vellindi, Ippudu Shighrakaariki Em Jarugutundo?",
+      "text_en": "The fisherman, thinking Sheeghrakari was dead, threw her back into the pond. 'Splash!' she landed in the water. As the cool, refreshing water touched her scales, Sheeghrakari took a breath, and life returned to her body. She dove deep and swam away quickly. \"Aha! I escaped!\" she thought to herself. Deerghasutri, however, was caught in the fishermen's basket and helplessly carried away. Where had Jnani gone, and what would happen to Sheeghrakari now?"
+    },
+    {
+      "id": 7,
+      "text": "దూరంగా ప్రవహిస్తున్న ఒక కొత్త, సురక్షితమైన చెరువులో జ్ఞాని ప్రశాంతంగా ఈత కొడుతోంది. ఇంతలో శీఘ్రకారి అలసిపోయి, ఆయాసంగా జ్ఞాని దగ్గరకు వచ్చింది. కొత్త చెరువులోని స్వచ్ఛమైన నీరు 'గుర్... గుర్...' మంటూ శబ్దం చేస్తూ వారికి స్వాగతం పలికింది. జ్ఞాని శీఘ్రకారిని ప్రేమగా చూసింది. \"చూశావా? ముందుచూపు మన ప్రాణాలను కాపాడుతుంది.\" అని జ్ఞాని శాంతంగా అంది. దీర్ఘసూత్రి మాత్రం — ఎక్కడా కనిపించలేదు.",
+      "image_prompt": "The wise fish calmly swims in a new, safe pond as the exhausted quick-witted fish arrives, panting. The wise fish looks at the quick-witted fish with a loving expression, while the clean water of the new pond gurgles around them. Warm, golden dusk light filtering through tall reeds, casting long, soft shadows, creating a serene and peaceful atmosphere of safety and quiet reflection.",
+      "scene_visual": "The wise fish calmly swims in a new, safe pond as the exhausted quick-witted fish arrives, panting. The wise fish looks at the quick-witted fish with a loving expression, while the clean water of the new pond gurgles around them.",
+      "supporting_char_keys": [
+        "sheeghrakaari"
+      ],
+      "text_te_en": "Durangaa Pravahistunna Oka Kotta, Surakshitamaina Cheruvulo Jnyaani Prashaantangaa Ita Kodutondi. Intalo Shighrakaari Alasipoyi, Aayaasangaa Jnyaani Daggaraku Vachchindi. Kotta Cheruvuloni Svachchamaina Niru 'Gur... Gur...' Mantu Shabdam Chestu Vaariki Svaagatam Palikindi. Jnyaani Shighrakaarini Premagaa Chusindi. \"Chushaavaa? Munduchupu Mana Praanaalanu Kaapaadutundi.\" Ani Jnyaani Shaantangaa Andi. Dirghasutri Maatram — Ekkadaa Kanipinchaledu.",
+      "text_en": "Far away, in a new, safe pond, Jnani was swimming peacefully. Just then, Sheeghrakari, tired and breathless, came to Jnani. The fresh water of the new pond gurgled, welcoming them. Jnani looked at Sheeghrakari with love. \"See? Foresight saves our lives,\" Jnani said calmly. Deerghasutri, however — was nowhere to be seen."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "sheeghrakaari",
+      "description": "A vibrant, agile blue fish, slightly smaller than Gnyaani, with quick, darting movements and alert eyes. He is known for his ability to think fast under pressure. Always the same character across every scene."
+    },
+    {
+      "key": "deerghasootri",
+      "description": "A plump, golden-scaled fish, a bit slower than the others, with dreamy, often distracted eyes and a leisurely swimming style. He is known for his habit of putting things off. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is exceptionally well-written for a children's audience, showcasing strong oral storytelling, consistent child engagement, and a compelling narrative arc. The emotional depth is skillfully conveyed through actions rather than direct statements. To elevate it further, consider giving 'దీర్ఘసూత్రి' a distinct voice through dialogue, perhaps expressing its indecision or fear, which would enhance the 'dialogue_richness' dimension."
+  },
+  "title_te_en": "Jnyaani Chepa Munduchupu",
+  "moral_te_en": "Munduchuputo Aalochiste, Pramaadaala Nundi Manalni Manam Kaapaadukovachchu, Kaani Aalasyam Cheste Baadhapadaka Tappadu Kadu.",
+  "title_en": "Jnani's Foresight",
+  "moral_en": "Thinking ahead can save us from dangers, but if we delay, we will surely face trouble.",
+  "id": "20260526_020822",
+  "date": "2026-05-26",
+  "category": "panchatantra",
+  "subcategory": "animal_wisdom",
+  "topic": "పంచతంత్రం - మూడు చేపలు",
+  "thumbnail": "stories/20260526_020822/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
