@@ -1,0 +1,97 @@
+{
+  "title": "యమునా తీరం, కృష్ణయ్య నృత్యం",
+  "moral": "ధైర్యంతో, దైవశక్తితో ఎంత పెద్ద కష్టాన్నైనా దాటవచ్చు, అప్పుడు ప్రశాంతత, స్వచ్ఛత మన చుట్టూ నిండుతాయి.",
+  "main_character": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene.",
+  "antagonist": "Kaliya: A massive, venomous serpent (naga) with multiple heads, each crowned. His scales are dark and glistening, reflecting the poisoned waters. His eyes glow with a malevolent green light. Always the same character across every scene.",
+  "setting": "The lush banks of the Yamuna River in Vrindavan, a village filled with grazing cows and happy cowherds. The air is warm and fragrant with blooming flowers, but a strange, unsettling quiet hangs near the river's edge. Early morning light, soft and golden, illuminates the scene. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "వృందావనంలో యమునా నది ఒడ్డున, చిన్ని కృష్ణయ్య తన గోపబాలురతో, గోపికలతో ఆడుకుంటున్నాడు. మందహాసం చెదరని కృష్ణుడు, వారిని ఆటపట్టిస్తూ పరుగులెత్తుతున్నాడు. పరిగెడుతుంటే మట్టి వాసన, జాస్మిన్ పూల సువాసన కలిసి గాలిలో మత్తుగా ఉన్నాయి. \"చూడండి, నా బంతిని పట్టుకోండి!\" అని నవ్వుతూ తన చేతిలోని బంతిని పైకి విసిరాడు. గోపబాలురు, గోపికలు ఆ బంతిని అందుకోవడానికి పరుగు పరుగున ప్రయత్నిస్తున్నారు. — కానీ యమునా నది మాత్రం, ఈరోజు చాలా నిశ్శబ్దంగా ఉంది. ఈ అందమైన నది ఎందుకలా కదలకుండా ఉండిపోయింది?",
+      "image_prompt": "The boy, smiling, throws a ball high into the air while other children run to catch it. His smile remains unbroken as he playfully teases them. Bright, clear morning sunlight filtering through the leaves of large trees, casting soft shadows on the riverbank, warm and inviting.",
+      "scene_visual": "The boy, smiling, throws a ball high into the air while other children run to catch it. His smile remains unbroken as he playfully teases them.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vrrindaavananlo Yamunaa Nadi Odduna, Chinni Krrishnayya Tana Gopabaalurato, Gopikalato Aadukuntunnaadu. Mandahaasam Chedarani Krrishnudu, Vaarini Aatapattistu Parugulettutunnaadu. Parigedutunte Matti Vaasana, Jaasmin Pula Suvaasana Kalisi Gaalilo Mattugaa Unnaayi. \"Chudandi, Naa Bantini Pattukondi!\" Ani Navvutu Tana Chetiloni Bantini Paiki Visiraadu. Gopabaaluru, Gopikalu Aa Bantini Andukovadaaniki Parugu Paruguna Prayatnistunnaaru. — Kaani Yamunaa Nadi Maatran, Iroju Chaalaa Nishshabdangaa Undi. I Andamaina Nadi Endukalaa Kadalakundaa Undipoyindi?",
+      "text_en": "In Vrindavan, on the banks of the Yamuna River, little Krishna was playing with his cowherd boys and girls. Krishna, with his never-fading smile, was teasing them and running around. As they ran, the smell of earth and the sweet scent of jasmine flowers mixed in the air, making it feel magical. \"Look, catch my ball!\" he said, laughing, and threw the ball high into the air. The cowherd boys and girls ran quickly, trying to catch the ball. — But the Yamuna River was very quiet today. Why was this beautiful river so still?"
+    },
+    {
+      "id": 2,
+      "text": "కృష్ణుడు విసిరిన బంతి, ఆ నిశ్శబ్దంగా ఉన్న యమునా నదిలోని చీకటి సుడిగుండంలో పడిపోయింది. అప్పుడు గోపబాలురు, గోపికలు ఒకరినొకరు పట్టుకున్నారు — వారి కళ్ళు భయంతో పెద్దవి అయ్యాయి. నదిలో నుండి పక్షుల కిలకిలరావాలు కూడా వినిపించలేదు, భయానకమైన నిశ్శబ్దం అలుముకుంది. \"కృష్ణా, ఆ నది విషపూరితం! లోపలికి వెళ్ళకు!\" అని వారు ఆందోళనగా కేకలు వేశారు. వారి మాటలు విని కృష్ణుడు వెనక్కి తగ్గుతాడా, లేదా ఆ ప్రమాదకరమైన నది దగ్గరికి వెళ్ళే ధైర్యం చేస్తాడా?",
+      "image_prompt": "The children huddle together, clutching each other as the ball disappears into a dark whirlpool in the silent river. Their eyes are wide with fear, reflecting the ominous silence that has fallen over the scene. The river's edge is cast in deep, unnatural shadows despite the bright morning, with hints of dark, murky green in the water, creating a sense of foreboding.",
+      "scene_visual": "The children huddle together, clutching each other as the ball disappears into a dark whirlpool in the silent river. Their eyes are wide with fear, reflecting the ominous silence that has fallen over the scene.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnudu Visirina Banti, Aa Nishshabdangaa Unna Yamunaa Nadiloni Chikati Sudigundanlo Padipoyindi. Appudu Gopabaaluru, Gopikalu Okarinokaru Pattukunnaaru — Vaari Kallu Bhayanto Peddavi Ayyaayi. Nadilo Nundi Pakshula Kilakilaraavaalu Kudaa Vinipinchaledu, Bhayaanakamaina Nishshabdam Alumukundi. \"Krrishnaa, Aa Nadi Vishapuritan! Lopaliki Vellaku!\" Ani Vaaru Aandolanagaa Kekalu Veshaaru. Vaari Maatalu Vini Krrishnudu Venakki Taggutaadaa, Ledaa Aa Pramaadakaramaina Nadi Daggariki Velle Dhairyam Chestaadaa?",
+      "text_en": "The ball Krishna threw fell into a dark whirlpool in the quiet Yamuna River. Then the cowherd boys and girls grabbed onto each other — their eyes grew wide with fear. Not even the chirping of birds could be heard from the river; a terrifying silence had fallen. \"Krishna, that river is poisonous! Don't go in!\" they cried out anxiously. Would Krishna step back after hearing their words, or would he dare to go near that dangerous river?"
+    },
+    {
+      "id": 3,
+      "text": "గోపబాలుర భయంతో కూడిన కేకలు వింటూ కూడా, కృష్ణుడు తన చిరునవ్వు చెదరనివ్వలేదు. తన స్నేహితుల బాధను, భూమి వేదనను చూసిన కృష్ణయ్య, అకుంఠిత దీక్షతో ముందడుగు వేశాడు. \"భయపడకండి, నేను విషాన్ని తొలగిస్తాను!\" అని ధైర్యంగా చెప్పి, ఒక్కసారిగా నదిలోకి దూకాడు. — పెద్ద చప్పుడైంది. ఆ వెంటనే... ఏదో ప్రమాదం రాబోతున్నట్టుగా గలగలమనే శబ్దం లోపలి నుండి వినిపించింది. ఆ విషపూరిత నది లోపల, భయంకరమైన ఏ జీవి దాగి ఉందో?",
+      "image_prompt": "The boy, with an unwavering smile, bravely leaps into the river despite the fearful cries of his friends. A large splash erupts as he enters the water, followed by a gurgling sound from within the river. The water around Krishna glows with a faint, otherworldly blue as he plunges in, contrasting sharply with the dark, heavy green of the river, intense and dramatic.",
+      "scene_visual": "The boy, with an unwavering smile, bravely leaps into the river despite the fearful cries of his friends. A large splash erupts as he enters the water, followed by a gurgling sound from within the river.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gopabaalura Bhayanto Kudina Kekalu Vintu Kudaa, Krrishnudu Tana Chirunavvu Chedaranivvaledu. Tana Snehitula Baadhanu, Bhumi Vedananu Chusina Krrishnayya, Akunthita Dikshato Mundadugu Veshaadu. \"Bhayapadakandi, Nenu Vishaanni Tolagistaanu!\" Ani Dhairyangaa Cheppi, Okkasaarigaa Nadiloki Dukaadu. — Pedda Chappudaindi. Aa Ventane... Edo Pramaadam Raabotunnattugaa Galagalamane Shabdam Lopali Nundi Vinipinchindi. Aa Vishapurita Nadi Lopala, Bhayankaramaina E Jivi Daagi Undo?",
+      "text_en": "Even after hearing the fearful cries of the cowherd boys, Krishna did not let his smile fade. Seeing the pain of his friends and the suffering of the earth, Krishna stepped forward with unwavering determination. \"Don't be afraid, I will remove the poison!\" he said bravely, and jumped into the river all at once. — There was a big splash. Right after that... a rattling sound came from inside, as if some danger was approaching. What terrifying creature was hiding inside that poisonous river?"
+    },
+    {
+      "id": 4,
+      "text": "కృష్ణుడు దూకగానే, నది లోపల నుండి ఒక భయంకరమైన శబ్దం మొదలైంది. ఇంతలో, యమునా నది లోతుల్లో నుండి ఒక పెద్ద నాగుపాము, కాళీయ సర్పం, పైకి వచ్చింది. ఆ సర్పం వేల పదునైన కత్తులు ఒకదానికొకటి రాసుకున్నట్టుగా బుసలు కొడుతూ, గాలిలో విషాన్ని నింపింది. గోపబాలురు, గోపికలు ఒకరినొకరు గట్టిగా పట్టుకున్నారు — కృష్ణుడు పోయాడని అనుకున్నారు. \"అయ్యో! కృష్ణుడు ప్రమాదంలో ఉన్నాడు!\" అని వారు గుండెలు పట్టుకుని అరిచారు. ఈ భయంకరమైన కాళీయ సర్పం పట్టు నుండి కృష్ణుడు ఎలా తప్పించుకుంటాడు?",
+      "image_prompt": "A massive serpent, hissing loudly, rises from the depths of the river, filling the air with its venomous breath. Its scales appear like thousands of sharp knives rubbing against each other as it emerges. Also in this scene: Kaliya: A massive, venomous serpent (naga) with multiple heads, each crowned. His scales are dark and glistening, reflecting the poisoned waters. His eyes glow with a malevolent green light. Always the same character across every scene. The water churns violently, dark and turbulent, reflecting the menacing scales of Kaliya under a sky that has grown heavy and grey, creating a sense of impending doom.",
+      "scene_visual": "A massive serpent, hissing loudly, rises from the depths of the river, filling the air with its venomous breath. Its scales appear like thousands of sharp knives rubbing against each other as it emerges.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnudu Dukagaane, Nadi Lopala Nundi Oka Bhayankaramaina Shabdam Modalaindi. Intalo, Yamunaa Nadi Lotullo Nundi Oka Pedda Naagupaamu, Kaaliya Sarpan, Paiki Vachchindi. Aa Sarpam Vela Padunaina Kattulu Okadaanikokati Raasukunnattugaa Busalu Kodutu, Gaalilo Vishaanni Nimpindi. Gopabaaluru, Gopikalu Okarinokaru Gattigaa Pattukunnaaru — Krrishnudu Poyaadani Anukunnaaru. \"Ayyo! Krrishnudu Pramaadanlo Unnaadu!\" Ani Vaaru Gundelu Pattukuni Arichaaru. I Bhayankaramaina Kaaliya Sarpam Pattu Nundi Krrishnudu Elaa Tappinchukuntaadu?",
+      "text_en": "As soon as Krishna jumped, a terrifying sound began from inside the river. Just then, a huge cobra, the Kaliya serpent, rose from the depths of the Yamuna River. The serpent hissed, filling the air with poison, like thousands of sharp knives rubbing against each other. The cowherd boys and girls held onto each other tightly — they thought Krishna was gone. \"Oh no! Krishna is in danger!\" they cried, clutching their chests. How would Krishna escape from the grasp of this terrifying Kaliya serpent?"
+    },
+    {
+      "id": 5,
+      "text": "కాళీయ సర్పం కృష్ణయ్యను చుట్టేయగానే, ఒక్కసారిగా భూమి కంపించింది. కృష్ణయ్య శరీరం, పర్వతంలా విస్తరించింది. — నేల కంపించింది. కాళీయ సర్పం కదల్లేక, తన పట్టు వదిలేసింది. అప్పుడు చిరునవ్వుతో ఉన్న కృష్ణయ్య, దాని పడగలపైకి అలవోకగా ఎగిరాడు. \"నీ శక్తి నా ముందు నిలబడదు, కాళియా!\" అని చెప్పి, ఆ సర్పం పడగలపై నిలబడ్డాడు. ఆ భయంకరమైన సర్పం పడగలపై నిలబడ్డ కృష్ణయ్య ఇప్పుడు ఏం చేయబోతున్నాడు?",
+      "image_prompt": "The boy, smiling, effortlessly leaps onto the multiple hoods of the massive serpent after it releases its grip on him. The ground trembles as the serpent, unable to move, is pinned by the boy's expanded form. Also in this scene: Kaliya: A massive, venomous serpent (naga) with multiple heads, each crowned. His scales are dark and glistening, reflecting the poisoned waters. His eyes glow with a malevolent green light. Always the same character across every scene. A brilliant, soft golden light emanates from Krishna, momentarily pushing back the dark shadows of the river, a beacon of hope against the turbulent water.",
+      "scene_visual": "The boy, smiling, effortlessly leaps onto the multiple hoods of the massive serpent after it releases its grip on him. The ground trembles as the serpent, unable to move, is pinned by the boy's expanded form.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaliya Sarpam Krrishnayyanu Chutteyagaane, Okkasaarigaa Bhumi Kampinchindi. Krrishnayya Shariran, Parvatanlaa Vistarinchindi. — Nela Kampinchindi. Kaaliya Sarpam Kadalleka, Tana Pattu Vadilesindi. Appudu Chirunavvuto Unna Krrishnayya, Daani Padagalapaiki Alavokagaa Egiraadu. \"Ni Shakti Naa Mundu Nilabadadu, Kaaliyaa!\" Ani Cheppi, Aa Sarpam Padagalapai Nilabaddaadu. Aa Bhayankaramaina Sarpam Padagalapai Nilabadda Krrishnayya Ippudu Em Cheyabotunnaadu?",
+      "text_en": "As soon as the Kaliya serpent wrapped itself around Krishna, the earth trembled all at once. Krishna's body grew as big as a mountain. — The ground shook. The Kaliya serpent couldn't move and let go of its hold. Then Krishna, with a smile, easily leaped onto its hoods. \"Your power cannot stand before me, Kaliya!\" he said, and stood on the serpent's hoods. What would Krishna do now, standing on the hoods of that terrifying serpent?"
+    },
+    {
+      "id": 6,
+      "text": "కృష్ణయ్య కాళీయ సర్పం పడగలపై నిలబడి, అద్భుతమైన నాట్యం చేయడం మొదలుపెట్టాడు. అతని పాదాల లయబద్ధమైన తాకిడితో, సర్పం పడగలు వణికిపోయాయి — ఒక దివ్యమైన సంగీతంలా వినిపించింది. ఆ నాట్యంతో దైవశక్తి మెరుపులా ప్రకాశించింది. గోపబాలురు, గోపికలు ఆ అద్భుతాన్ని చూసి, మోకాళ్ళపై పడ్డారు. \"జై కృష్ణా! జై కృష్ణా!\" అని భక్తితో నినదించారు. మరి ఈ కాళీయ సర్పం, తన తప్పును తెలుసుకుని యమునా నదిని విడిచి వెళ్తుందా?",
+      "image_prompt": "The boy begins to dance gracefully on the serpent's hoods, causing them to tremble with each rhythmic step. Divine power radiates from him like lightning as the other children fall to their knees in awe. Also in this scene: Kaliya: A massive, venomous serpent (naga) with multiple heads, each crowned. His scales are dark and glistening, reflecting the poisoned waters. His eyes glow with a malevolent green light. Always the same character across every scene. A blinding flash of pure, golden-white divine light bursts from Krishna, illuminating the entire river and bank, making Kaliya's dark form seem insignificant against its brilliance, majestic and overwhelming.",
+      "scene_visual": "The boy begins to dance gracefully on the serpent's hoods, causing them to tremble with each rhythmic step. Divine power radiates from him like lightning as the other children fall to their knees in awe.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnayya Kaaliya Sarpam Padagalapai Nilabadi, Adbhutamaina Naatyam Cheyadam Modalupettaadu. Atani Paadaala Layabaddhamaina Taakidito, Sarpam Padagalu Vanikipoyaayi — Oka Divyamaina Sangitanlaa Vinipinchindi. Aa Naatyanto Daivashakti Merupulaa Prakaashinchindi. Gopabaaluru, Gopikalu Aa Adbhutaanni Chusi, Mokaallapai Paddaaru. \"Jai Krrishnaa! Jai Krrishnaa!\" Ani Bhaktito Ninadinchaaru. Mari I Kaaliya Sarpan, Tana Tappunu Telusukuni Yamunaa Nadini Vidichi Veltundaa?",
+      "text_en": "Krishna stood on the hoods of the Kaliya serpent and began to perform a wonderful dance. With the rhythmic touch of his feet, the serpent's hoods trembled — it sounded like divine music. With that dance, divine power shone like lightning. The cowherd boys and girls saw that miracle and fell to their knees. \"Jai Krishna! Jai Krishna!\" they chanted with devotion. Now, would this Kaliya serpent realize its mistake and leave the Yamuna River?"
+    },
+    {
+      "id": 7,
+      "text": "కృష్ణయ్య నాట్యంతో, కాళీయ సర్పం తలలు వాల్చి, కళ్ళల్లో దుష్టత్వం పోయింది. అది పశ్చాత్తాపంతో, భక్తితో కృష్ణయ్యకు నమస్కరించింది. \"ఓ ప్రభూ, దయచేసి నన్ను క్షమించు! నేను వెళ్ళిపోతాను.\" అని వేడుకుంది. అదే క్షణంలో — విషం మాయమైంది. విషపూరిత వాసన పోయి, స్వచ్ఛమైన నీటి వాసన, వికసించిన తామర పూల సువాసన గాలిలో తేలింది. కృష్ణయ్య దయతో కాళీయ సర్పానికి అభయమిచ్చి, దాన్ని వేరే చోటికి వెళ్ళమని ఆజ్ఞాపించాడు. అప్పుడు యమునా నది మళ్ళీ ప్రాణం పోసుకుని, తన ప్రశాంతమైన ప్రవాహంతో అందరికీ ఆనందాన్ని పంచిపెట్టింది.",
+      "image_prompt": "The serpent bows its heads in submission to the boy, its eyes now devoid of malice. The air, once filled with venom, now carries the fresh scent of clean water and blooming lotus flowers. Also in this scene: Kaliya: A massive, venomous serpent (naga) with multiple heads, each crowned. His scales are dark and glistening, reflecting the poisoned waters. His eyes glow with a malevolent green light. Always the same character across every scene. The golden morning light returns, softer and brighter than before, reflecting off the now crystal-clear, sparkling blue waters of the Yamuna, peaceful and vibrant.",
+      "scene_visual": "The serpent bows its heads in submission to the boy, its eyes now devoid of malice. The air, once filled with venom, now carries the fresh scent of clean water and blooming lotus flowers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnayya Naatyanto, Kaaliya Sarpam Talalu Vaalchi, Kallallo Dushtatvam Poyindi. Adi Pashchaattaapanto, Bhaktito Krrishnayyaku Namaskarinchindi. \"O Prabhu, Dayachesi Nannu Kshaminchu! Nenu Vellipotaanu.\" Ani Vedukundi. Ade Kshananlo — Visham Maayamaindi. Vishapurita Vaasana Poyi, Svachchamaina Niti Vaasana, Vikasinchina Taamara Pula Suvaasana Gaalilo Telindi. Krrishnayya Dayato Kaaliya Sarpaaniki Abhayamichchi, Daanni Vere Chotiki Vellamani Aajnyaapinchaadu. Appudu Yamunaa Nadi Malli Praanam Posukuni, Tana Prashaantamaina Pravaahanto Andariki Aanandaanni Panchipettindi.",
+      "text_en": "With Krishna's dance, the Kaliya serpent bowed its heads, and the evil in its eyes disappeared. It bowed to Krishna with regret and devotion. \"Oh Lord, please forgive me! I will leave,\" it pleaded. At that very moment — the poison vanished. The poisonous smell was gone, replaced by the scent of pure water and blooming lotus flowers in the air. Krishna, with kindness, gave the Kaliya serpent protection and ordered it to go to another place. Then the Yamuna River came back to life, sharing its peaceful flow and bringing joy to everyone."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and strong child engagement through vivid imagery and suspense. The dialogue is natural and helps advance the plot effectively. To elevate it to award-winning status, the primary focus should be on refining the 'grandmother authenticity' by consistently using more colloquial language and avoiding overly formal phrases. Additionally, varying the scene-ending rhetorical questions would make the oral storytelling feel more natural and less like a written prompt."
+  },
+  "title_te_en": "Yamunaa Tiran, Krrishnayya Nrrityam",
+  "moral_te_en": "Dhairyanto, Daivashaktito Enta Pedda Kashtaannainaa Daatavachchu, Appudu Prashaantata, Svachchata Mana Chuttu Nindutaayi.",
+  "title_en": "The Yamuna Riverbank, Krishna's Dance",
+  "moral_en": "With courage and divine power, you can overcome any big trouble. Then, peace and purity will fill everything around you.",
+  "id": "20260526_010856",
+  "date": "2026-05-26",
+  "category": "bhagavatam",
+  "subcategory": "krishna_leela",
+  "topic": "కాళింది నదిలో కాళీయ మర్దనం",
+  "thumbnail": "stories/20260526_010856/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
