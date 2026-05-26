@@ -1,0 +1,98 @@
+{
+  "title": "కాకి గుండె, నక్క మాట",
+  "moral": "పిల్లలూ, ఎవరితో స్నేహం చేసినా, వాళ్ళ మాటలు వినడమే కాకుండా, వాళ్ళ పనులను కూడా జాగ్రత్తగా చూడాలి కదూ?",
+  "main_character": "The Crow (కాకి) is a small, glossy black bird with sharp, intelligent eyes and a strong, pointed beak. It is generally trusting and enjoys simple pleasures like finding food. Always the same character across every scene.",
+  "antagonist": "The Fox (నక్క) is a lean, reddish-brown fox with a bushy tail and narrow, cunning eyes. It moves with a sly grace and often has a deceptive smile. Always the same character across every scene.",
+  "setting": "A vibrant forest clearing near a small village in Andhra Pradesh, with ancient banyan trees, thorny bushes, and a winding stream. The early morning sun filters through the leaves, casting dappled shadows. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక అందమైన పొద్దున, చిట్టి కాకి ఆకలిగా అడవిలో తిరుగుతూ వెళ్ళింది. అకస్మాత్తుగా, దానికి ఒక పెద్ద చీజ్ ముక్క కనిపించింది — దాని కళ్ళు మెరిసిపోయాయి. ఆనందంగా దాన్ని ముక్కున కరుచుకుని, కాకి ఒక ఎత్తైన కొమ్మ మీద వాలింది. పొడి ఆకుల మెత్తని చప్పుడుతో అది కొమ్మ మీద కుదురుకుంది, నెమ్మదిగా చీజ్‌ను కొరకసాగింది. దాని కళ్ళు మెరుస్తూ చుట్టూ చూస్తూ, అది తన అదృష్టానికి మురిసిపోయింది. ఈ ప్రశాంతమైన అడవిలో దానితో పాటు ఇంకెవరున్నారు... తెలుసా?",
+      "image_prompt": "The crow lands on a high branch, holding a large piece of cheese in its beak. Its eyes sparkle with joy as it settles on the branch, making a soft rustling sound with dry leaves. Bright morning sun filtering through dense green leaves, casting warm, dappled light on the forest floor and the crow's branch.",
+      "scene_visual": "The crow lands on a high branch, holding a large piece of cheese in its beak. Its eyes sparkle with joy as it settles on the branch, making a soft rustling sound with dry leaves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Andamaina Podduna, Chitti Kaaki Aakaligaa Adavilo Tirugutu Vellindi. Akasmaattugaa, Daaniki Oka Pedda Chij Mukka Kanipinchindi — Daani Kallu Merisipoyaayi. Aanandangaa Daanni Mukkuna Karuchukuni, Kaaki Oka Ettaina Komma Mida Vaalindi. Podi Aakula Mettani Chappuduto Adi Komma Mida Kudurukundi, Nemmadigaa Chij‌Nu Korakasaagindi. Daani Kallu Merustu Chuttu Chustu, Adi Tana Adrrishtaaniki Murisipoyindi. I Prashaantamaina Adavilo Daanito Paatu Inkevarunnaaru... Telusaa?",
+      "text_en": "One beautiful morning, the Crow was flying around the forest, feeling hungry. Suddenly, it saw a big piece of cheese — its eyes sparkled! Happily, it grabbed the cheese in its beak and landed on a high branch. With the soft rustle of dry leaves, it settled on the branch and slowly began to nibble the cheese. Its eyes shining, it looked around, delighted with its good fortune. Who else was there with it in this peaceful forest... do you know?"
+    },
+    {
+      "id": 2,
+      "text": "కాకి తన చీజ్ ముక్కను ఆస్వాదిస్తున్నప్పుడు, అడవిలోంచి ఒక నక్క మెల్లగా అడుగులు వేస్తూ వచ్చింది. దాని మెత్తని అడుగుల చప్పుడు అస్సలు వినిపించలేదు, అది కాకి ఉన్న చెట్టు కింద నిలబడింది. నక్క తల పైకెత్తి, చిరునవ్వుతో కాకిని చూసింది, దాని కళ్ళు మెరిసిపోయాయి. కాకి ఉత్సుకతతో తల వంచి, దాని మాటల కోసం ఎదురుచూసింది. \"ఓ ప్రియమైన కాకి, నీ పాట ఎంత మధురంగా ఉంటుందో వినాలని ఉంది!\" అని నక్క మధురంగా పలికింది. ఈ పొగడ్తకు కాకి కొంచెం సంతోషపడింది... అది ఇప్పుడు పాడుతుందా? చీజ్ పడిపోతుందా?",
+      "image_prompt": "The fox stands silently beneath the tree, looking up at the crow with a smile. The crow tilts its head curiously, its eyes fixed on the fox, still holding the cheese in its beak. Also in this scene: The Fox (నక్క) is a lean, reddish-brown fox with a bushy tail and narrow, cunning eyes. It moves with a sly grace and often has a deceptive smile. Always the same character across every scene. Mid-morning light, a little brighter, with the fox emerging from the shadows of deeper woods into the clearing.",
+      "scene_visual": "The fox stands silently beneath the tree, looking up at the crow with a smile. The crow tilts its head curiously, its eyes fixed on the fox, still holding the cheese in its beak.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaki Tana Chij Mukkanu Aasvaadistunnappudu, Adavilonchi Oka Nakka Mellagaa Adugulu Vestu Vachchindi. Daani Mettani Adugula Chappudu Assalu Vinipinchaledu, Adi Kaaki Unna Chettu Kinda Nilabadindi. Nakka Tala Paiketti, Chirunavvuto Kaakini Chusindi, Daani Kallu Merisipoyaayi. Kaaki Utsukatato Tala Vanchi, Daani Maatala Kosam Eduruchusindi. \"O Priyamaina Kaaki, Ni Paata Enta Madhurangaa Untundo Vinaalani Undi!\" Ani Nakka Madhurangaa Palikindi. I Pogadtaku Kaaki Konchem Santoshapadindi... Adi Ippudu Paadutundaa? Chij Padipotundaa?",
+      "text_en": "While the Crow was enjoying its piece of cheese, a Fox slowly walked out of the forest. Its soft footsteps made no sound at all, and it stood under the tree where the Crow was. The Fox looked up at the Crow with a smile, its eyes sparkling. The Crow tilted its head curiously, waiting for its words. \"Oh, dear Crow, I wish to hear how sweet your song is!\" the Fox said sweetly. The Crow felt a little happy with this praise... Will it sing now? Will the cheese fall?"
+    },
+    {
+      "id": 3,
+      "text": "నక్క మాటలకు మురిసిపోయిన కాకి, నిజంగానే పాడాలనుకుంది — అది తన నోరు తెరిచింది. ఒక్కసారిగా — చీజ్ ముక్క కింద పడింది! నక్క వేగంగా, దాని పదునైన దవడలతో చీజ్‌ను పట్టుకుంది, అది నేలకు కూడా తాకలేదు. \"అయ్యో! నా చీజ్ పడిపోయింది!\" అని కాకి బాధగా అరిచింది, దాని తల కొంచెం వాలిపోయింది. కింద నక్క చీజ్‌ను ఆబగా తినేస్తుంటే, కాకి నిరాశగా చూస్తూ ఉండిపోయింది. నక్క చీజ్‌ను పంచుకుంటుందా, లేక కాకి ఈ సంఘటన నుండి ఏదైనా నేర్చుకుంటుందా?",
+      "image_prompt": "The crow opens its mouth to sing, and the piece of cheese falls rapidly towards the ground. The fox swiftly catches the cheese in its sharp jaws before it touches the earth, while the crow looks down with a slightly bowed head. Also in this scene: The Fox (నక్క) is a lean, reddish-brown fox with a bushy tail and narrow, cunning eyes. It moves with a sly grace and often has a deceptive smile. Always the same character across every scene. Bright, clear daylight, the moment of action highlighted by a ray of sun directly on the falling cheese and the fox's quick movement.",
+      "scene_visual": "The crow opens its mouth to sing, and the piece of cheese falls rapidly towards the ground. The fox swiftly catches the cheese in its sharp jaws before it touches the earth, while the crow looks down with a slightly bowed head.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Maatalaku Murisipoyina Kaaki, Nijangaane Paadaalanukundi — Adi Tana Noru Terichindi. Okkasaarigaa — Chij Mukka Kinda Padindi! Nakka Vegangaa, Daani Padunaina Davadalato Chij‌Nu Pattukundi, Adi Nelaku Kudaa Taakaledu. \"Ayyo! Naa Chij Padipoyindi!\" Ani Kaaki Baadhagaa Arichindi, Daani Tala Konchem Vaalipoyindi. Kinda Nakka Chij‌Nu Aabagaa Tinestunte, Kaaki Niraashagaa Chustu Undipoyindi. Nakka Chij‌Nu Panchukuntundaa, Leka Kaaki I Sanghatana Nundi Edainaa Nerchukuntundaa?",
+      "text_en": "Delighted by the Fox's words, the Crow truly wanted to sing — so it opened its mouth. All at once — the piece of cheese fell down! The Fox quickly caught the cheese with its sharp jaws, before it even touched the ground. \"Oh no! My cheese fell!\" cried the Crow sadly, its head drooping a little. As the Fox greedily ate the cheese below, the Crow watched in despair. Will the Fox share the cheese, or will the Crow learn something from this incident?"
+    },
+    {
+      "id": 4,
+      "text": "చీజ్ మొత్తం తినేసిన నక్క, కాకి వైపు చూసి నవ్వింది, దాని శ్వాసలో చీజ్ వాసన ఇంకా ఉంది. అది క్షమాపణ అడగలేదు, కనీసం పంచుకునే ప్రయత్నమూ చేయలేదు. \"మిత్రమా, ఇంకా చాలా రుచికరమైన ఆహారం ఉంది, వెళ్దామా?\" అని నక్క మళ్లీ మధురంగా అడిగింది. కాకి కళ్ళు సన్నగా చేసి నక్కను గమనించింది, దాని మనసులో అనుమానం మొదలైంది. అది నక్క మాటలను నమ్మాలా వద్దా అని లోలోపల మదనపడింది, అయినా ఒక స్నేహితుడు కావాలని ఆశపడింది. కాకి మళ్ళీ నక్కను నమ్ముతుందా, లేక దాని జిత్తులమారి స్వభావాన్ని గ్రహిస్తుందా?",
+      "image_prompt": "The fox, having finished the cheese, smiles up at the crow, its breath still carrying the scent of the food. The crow narrows its eyes, observing the fox with growing suspicion. Also in this scene: The Fox (నక్క) is a lean, reddish-brown fox with a bushy tail and narrow, cunning eyes. It moves with a sly grace and often has a deceptive smile. Always the same character across every scene. Afternoon light, slightly warmer and softer, as if a veil of doubt has settled over the scene.",
+      "scene_visual": "The fox, having finished the cheese, smiles up at the crow, its breath still carrying the scent of the food. The crow narrows its eyes, observing the fox with growing suspicion.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chij Mottam Tinesina Nakka, Kaaki Vaipu Chusi Navvindi, Daani Shvaasalo Chij Vaasana Inkaa Undi. Adi Kshamaapana Adagaledu, Kanisam Panchukune Prayatnamu Cheyaledu. \"Mitramaa, Inkaa Chaalaa Ruchikaramaina Aahaaram Undi, Veldaamaa?\" Ani Nakka Malli Madhurangaa Adigindi. Kaaki Kallu Sannagaa Chesi Nakkanu Gamaninchindi, Daani Manasulo Anumaanam Modalaindi. Adi Nakka Maatalanu Nammaalaa Vaddaa Ani Lolopala Madanapadindi, Ayinaa Oka Snehitudu Kaavaalani Aashapadindi. Kaaki Malli Nakkanu Nammutundaa, Leka Daani Jittulamaari Svabhaavaanni Grahistundaa?",
+      "text_en": "The Fox, having eaten all the cheese, looked at the Crow and smiled, the smell of cheese still on its breath. It didn't apologize, nor did it even try to share. \"Friend, there's still a lot of delicious food, shall we go?\" the Fox asked sweetly again. The Crow narrowed its eyes and watched the Fox, suspicion beginning in its mind. It wondered inside whether to trust the Fox's words or not, yet it still wished for a friend. Will the Crow trust the Fox again, or will it realize its cunning nature?"
+    },
+    {
+      "id": 5,
+      "text": "కాకి అడవిలో ఒంటరిగా తిరుగుతూ, అకస్మాత్తుగా ఒక మెరిసే పూసను కనుగొంది. నక్క అప్పుడే అక్కడికి వచ్చి, కాకి ముక్కులో పూసను చూసి, మళ్ళీ పొగడడం మొదలుపెట్టింది. దాని ముక్కులో ఆ పూస చిన్నగా మెరుస్తూ ఉంది, కాకి జాగ్రత్తగా నక్కను చూసింది. \"కాకి మిత్రమా, నీ కళ్ళు ఆ ముత్యం కంటే ప్రకాశవంతంగా ఉన్నాయి!\" అని నక్క మళ్ళీ మాయ మాటలు చెప్పింది. కాకి పూసను గట్టిగా పట్టుకుంది, నక్క ప్రశంసలను అనుమానంగా వింటూ, దాని ఉద్దేశ్యాన్ని పరీక్షించింది. ఇప్పుడు కాకి ఆ పూసతో ఏం చేస్తుంది, నక్క ఎంత దూరం వెళుతుంది?",
+      "image_prompt": "The crow holds a small, shining bead tightly in its beak, looking warily at the fox. The bead glimmers faintly in its beak as the crow listens to the fox's praises with a doubtful expression. Also in this scene: The Fox (నక్క) is a lean, reddish-brown fox with a bushy tail and narrow, cunning eyes. It moves with a sly grace and often has a deceptive smile. Always the same character across every scene. Late afternoon, shadows lengthening slightly, creating a more tense and watchful atmosphere.",
+      "scene_visual": "The crow holds a small, shining bead tightly in its beak, looking warily at the fox. The bead glimmers faintly in its beak as the crow listens to the fox's praises with a doubtful expression.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaki Adavilo Ontarigaa Tirugutu, Akasmaattugaa Oka Merise Pusanu Kanugondi. Nakka Appude Akkadiki Vachchi, Kaaki Mukkulo Pusanu Chusi, Malli Pogadadam Modalupettindi. Daani Mukkulo Aa Pusa Chinnagaa Merustu Undi, Kaaki Jaagrattagaa Nakkanu Chusindi. \"Kaaki Mitramaa, Ni Kallu Aa Mutyam Kante Prakaashavantangaa Unnaayi!\" Ani Nakka Malli Maaya Maatalu Cheppindi. Kaaki Pusanu Gattigaa Pattukundi, Nakka Prashansalanu Anumaanangaa Vintu, Daani Uddeshyaanni Parikshinchindi. Ippudu Kaaki Aa Pusato Em Chestundi, Nakka Enta Duram Velutundi?",
+      "text_en": "The Crow was flying alone in the forest when it suddenly found a shiny bead. The Fox arrived just then, saw the bead in the Crow's beak, and started praising it again. The bead sparkled gently in its beak, and the Crow watched the Fox carefully. \"Friend Crow, your eyes are brighter than that pearl!\" the Fox said with tricky words again. The Crow held the bead tightly, listening to the Fox's praises with suspicion, testing its intentions. What will the Crow do with that bead now, and how far will the Fox go?"
+    },
+    {
+      "id": 6,
+      "text": "కాకి తన మాటలకు మోసపోదని తెలుసుకున్న నక్క, ఒక్కసారిగా దాని మీదకు దూకింది. పూసను లాక్కోవడానికి నక్క నోరు తెరిచింది — అది దాని నిజమైన స్వభావం! కాకి రెక్కలు ఒక్కసారిగా కొట్టుకున్నాయి, దాని కళ్ళు పెద్దవయ్యాయి, అంతా అర్థమైపోయింది. \"నువ్వు నిజమైన స్నేహితుడివి కాదు, నక్క!\" అని కాకి గట్టిగా అరుస్తూ పైకి ఎగిరింది. దాని గంభీరమైన అరుపు అడవిలో ప్రతిధ్వనించింది, అది వేగంగా ఆకాశంలోకి దూసుకుపోయింది. నక్క నిజస్వభావం తెలిసిన కాకి, ఇప్పుడు ఎలా బ్రతుకుతుంది?",
+      "image_prompt": "The fox lunges at the crow, its mouth open to snatch the bead, revealing its true nature. The crow's eyes widen in realization as it beats its wings forcefully, letting out a loud cry as it soars into the sky. Also in this scene: The Fox (నక్క) is a lean, reddish-brown fox with a bushy tail and narrow, cunning eyes. It moves with a sly grace and often has a deceptive smile. Always the same character across every scene. Golden hour light, dramatic and intense, with the crow silhouetted against the setting sun as it flies away, leaving the fox in shadow.",
+      "scene_visual": "The fox lunges at the crow, its mouth open to snatch the bead, revealing its true nature. The crow's eyes widen in realization as it beats its wings forcefully, letting out a loud cry as it soars into the sky.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaki Tana Maatalaku Mosapodani Telusukunna Nakka, Okkasaarigaa Daani Midaku Dukindi. Pusanu Laakkovadaaniki Nakka Noru Terichindi — Adi Daani Nijamaina Svabhaavan! Kaaki Rekkalu Okkasaarigaa Kottukunnaayi, Daani Kallu Peddavayyaayi, Antaa Arthamaipoyindi. \"Nuvvu Nijamaina Snehitudivi Kaadu, Nakka!\" Ani Kaaki Gattigaa Arustu Paiki Egirindi. Daani Gambhiramaina Arupu Adavilo Pratidhvaninchindi, Adi Vegangaa Aakaashanloki Dusukupoyindi. Nakka Nijasvabhaavam Telisina Kaaki, Ippudu Elaa Bratukutundi?",
+      "text_en": "The Fox, realizing the Crow wouldn't be fooled by its words, suddenly pounced on it. The Fox opened its mouth to snatch the bead — that was its true nature! The Crow's wings flapped all at once, its eyes widened, and it understood everything. \"You are not a true friend, Fox!\" the Crow cried loudly as it flew upwards. Its loud cry echoed through the forest, and it swiftly soared into the sky. Now that the Crow knew the Fox's true nature, how would it live?"
+    },
+    {
+      "id": 7,
+      "text": "కాకి ఒక ఎత్తైన చెట్టు కొమ్మపై వాలి, దూరం నుండి నక్కను చూసింది, దాని మనసులో ప్రశాంతత నిండింది. దాని ఈకలను సాయంత్రపు గాలి మెల్లగా సవరించింది, అది లోకంలోకి ప్రశాంతంగా చూసింది. ఇప్పుడు అది తన స్నేహితులను ఎంపిక చేసుకోవడంలో చాలా తెలివిగా మారింది. నమ్మకం లేకుండా మాటలు చెప్పేవారిని దూరం పెట్టి, నిజమైన స్నేహాన్ని కోరుకుంది. అది ఒంటరిగా ఉన్నా, తన తెలివి మీద నమ్మకంతో సంతోషంగా జీవించింది. చూశారా పిల్లలూ, నిజమైన స్నేహం అంటే నమ్మకం, మోసం కాదు కదూ?",
+      "image_prompt": "The crow perches calmly on a high tree branch, gazing into the distance. The evening breeze gently ruffles its feathers as it looks out at the world with a serene expression. Gentle dusk light, warm amber and soft blues, creating a peaceful and reflective mood as the day ends.",
+      "scene_visual": "The crow perches calmly on a high tree branch, gazing into the distance. The evening breeze gently ruffles its feathers as it looks out at the world with a serene expression.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaki Oka Ettaina Chettu Kommapai Vaali, Duram Nundi Nakkanu Chusindi, Daani Manasulo Prashaantata Nindindi. Daani Ikalanu Saayantrapu Gaali Mellagaa Savarinchindi, Adi Lokanloki Prashaantangaa Chusindi. Ippudu Adi Tana Snehitulanu Empika Chesukovadanlo Chaalaa Telivigaa Maarindi. Nammakam Lekundaa Maatalu Cheppevaarini Duram Petti, Nijamaina Snehaanni Korukundi. Adi Ontarigaa Unnaa, Tana Telivi Mida Nammakanto Santoshangaa Jivinchindi. Chushaaraa Pillalu, Nijamaina Sneham Ante Nammakan, Mosam Kaadu Kadu?",
+      "text_en": "The Crow landed on a high tree branch and watched the Fox from a distance, its mind filled with peace. The evening breeze gently ruffled its feathers, and it looked out at the world peacefully. Now it had become very wise in choosing its friends. It kept away from those who spoke words without trust and sought true friendship. Even though it was alone, it lived happily, trusting in its own wisdom. See, children, true friendship means trust, not deceit, right?"
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 4,
+    "child_engagement": 9,
+    "average": 7.5,
+    "weakest_dimension": "narrative_arc",
+    "notes": "The story shines with an engaging, oral storytelling voice and impeccable grammar, making it a pleasure to read aloud. The consistent use of suspenseful questions at the end of each scene is a masterstroke for child engagement. However, the emotional depth often relies on direct statements rather than showing through action. The most critical flaw is the explicit moralizing at the end, which severely undermines the narrative arc by telling the lesson instead of allowing it to emerge naturally from the events. To elevate this story to award-worthy status, all explicit moral statements must be removed, allowing the child to infer the wisdom from the crow's journey."
+  },
+  "quality_warning": true,
+  "title_te_en": "Kaaki Gunde, Nakka Maata",
+  "moral_te_en": "Pillalu, Evarito Sneham Chesinaa, Vaalla Maatalu Vinadame Kaakundaa, Vaalla Panulanu Kudaa Jaagrattagaa Chudaali Kadu?",
+  "title_en": "The Crow's Simple Heart and the Fox's Tricky Words",
+  "moral_en": "Children, when you make friends with someone, it's not enough to just listen to their words, right? You should also carefully watch their actions!",
+  "id": "20260526_181123",
+  "date": "2026-05-26",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - కాకి మరియు నక్క స్నేహం",
+  "thumbnail": "stories/20260526_181123/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
