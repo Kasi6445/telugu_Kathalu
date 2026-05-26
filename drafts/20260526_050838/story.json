@@ -1,0 +1,124 @@
+{
+  "title": "అంగదుడి పాదం — లంకలో సవాల్",
+  "moral": "అచంచలమైన నమ్మకం, ధైర్యం ఉంటే ఎలాంటి కష్టాలనైనా జయించవచ్చు.",
+  "main_character": "A strong, young vanara prince with a reddish-gold complexion, muscular and agile. He wears a simple dhoti and a golden armlet, reflecting his royal lineage. He is known for his unwavering loyalty and immense strength. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The island kingdom of Lanka, with its towering golden palaces and lush tropical foliage. The air is often heavy with the scent of exotic flowers and the distant sound of the ocean. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లంక ద్వీపం తీరానికి రామసేన చేరుకుంది. ఎర్రటి బంగారు వర్ణంతో, బలమైన అంగదుడు తన సైన్యంతో నిలబడ్డాడు. ఉప్పుగాలి అతని శరీరంపై వీస్తోంది, దూరంగా వింత పూల సువాసనలు కొట్టుకొస్తున్నాయి. అతని కనుబొమ్మలు ముడిపడ్డాయి, కళ్ళు దూరంగా ఉన్న నగర గోడలను నిశితంగా చూస్తున్నాయి. \"రామా, ఈ లంక ఎంత భయంకరంగా ఉంది!\" అని అంగదుడు రాముడి వైపు చూశాడు. — భయంకరమైన సవాలు ఇది. ఈ భయంకరమైన ద్వీప రాజ్యంలో రాముడి సేనను ఎలాంటి సవాలు ఎదురుచూస్తోంది?",
+      "image_prompt": "The warrior stands firmly on the shore, his brows furrowed as his eyes intently watch the distant city walls. The salty air blows across his body, carrying the scent of strange flowers. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Bright, harsh midday sun glares off the white sands of the beach, casting sharp, deep shadows under the palm trees.",
+      "scene_visual": "The warrior stands firmly on the shore, his brows furrowed as his eyes intently watch the distant city walls. The salty air blows across his body, carrying the scent of strange flowers.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana",
+        "hanuman"
+      ],
+      "text_te_en": "Lanka Dvipam Tiraaniki Raamasena Cherukundi. Errati Bangaaru Varnanto, Balamaina Angadudu Tana Sainyanto Nilabaddaadu. Uppugaali Atani Sharirampai Vistondi, Durangaa Vinta Pula Suvaasanalu Kottukostunnaayi. Atani Kanubommalu Mudipaddaayi, Kallu Durangaa Unna Nagara Godalanu Nishitangaa Chustunnaayi. \"Raamaa, I Lanka Enta Bhayankarangaa Undi!\" Ani Angadudu Raamudi Vaipu Chushaadu. — Bhayankaramaina Savaalu Idi. I Bhayankaramaina Dvipa Raajyanlo Raamudi Senanu Elaanti Savaalu Eduruchustondi?",
+      "text_en": "Rama's army reached the shore of Lanka island. Strong Angadu, shining like red gold, stood with his army. The salty wind blew on his body, and the scent of strange flowers drifted from afar. His eyebrows furrowed, his eyes sharply watched the city walls in the distance. \"Rama, how terrifying this Lanka is!\" Angadu looked at Rama. — This is a fearsome challenge. What kind of challenge awaits Rama's army in this fearsome island kingdom?"
+    },
+    {
+      "id": 2,
+      "text": "రాముడి సైన్యాన్ని ఎలాంటి సవాలు ఎదురుచూస్తుందోనని ఆలోచిస్తుండగా, రాముడు శాంతంగా సైన్యం మధ్య నిలబడ్డాడు. అతని ముఖంలో స్థిరత్వం కనిపించింది, కళ్ళు సైన్యంపై పడ్డాయి. అడవి శిబిరంలో ఆకుల గలగలలు తప్ప వేరే శబ్దం లేదు, వానర సైన్యం ఉత్కంఠగా వింటోంది. \"మీలో ఎవరు నా సందేశాన్ని రావణుని వద్దకు తీసుకువెళ్లగలరు?\" అని రాముడు గంభీరంగా అడిగాడు. అంగదుడు ఆశ్చర్యంగా రాముడిని చూశాడు. — అతని గుండె వేగంగా కొట్టుకుంది. భయంకరమైన రావణుడిని ఎదుర్కొనేందుకు ఆ మహాయోధులలో ఎవరు ముందుకు వస్తారు?",
+      "image_prompt": "The leader stands calmly amidst his army, his gaze falling upon them as he gravely asks a question. A warrior looks at him with a surprised expression. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Late afternoon sun filters through the dense canopy, dappling the forest floor with warm light and long, thoughtful shadows.",
+      "scene_visual": "The leader stands calmly amidst his army, his gaze falling upon them as he gravely asks a question. A warrior looks at him with a surprised expression.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana",
+        "hanuman"
+      ],
+      "text_te_en": "Raamudi Sainyaanni Elaanti Savaalu Eduruchustundonani Aalochistundagaa, Raamudu Shaantangaa Sainyam Madhya Nilabaddaadu. Atani Mukhanlo Sthiratvam Kanipinchindi, Kallu Sainyampai Paddaayi. Adavi Shibiranlo Aakula Galagalalu Tappa Vere Shabdam Ledu, Vaanara Sainyam Utkanthagaa Vintondi. \"Milo Evaru Naa Sandeshaanni Raavanuni Vaddaku Tisukuvellagalaru?\" Ani Raamudu Gambhirangaa Adigaadu. Angadudu Aashcharyangaa Raamudini Chushaadu. — Atani Gunde Vegangaa Kottukundi. Bhayankaramaina Raavanudini Edurkonenduku Aa Mahaayodhulalo Evaru Munduku Vastaaru?",
+      "text_en": "While thinking about what challenge awaited Rama's army, Rama stood calmly among the soldiers. His face showed calm strength, and his eyes looked over his army. In the forest camp, there was no sound except the rustling of leaves, the Vanara army listened eagerly. \"Who among you can take my message to Ravana?\" Rama asked seriously. Angadu looked at Rama in surprise. — His heart beat fast. Who among those great warriors would step forward to face the fearsome Ravana?"
+    },
+    {
+      "id": 3,
+      "text": "రావణుడిని ఎదుర్కొనేందుకు ఎవరు వస్తారని ఎదురుచూస్తుండగా, అంగదుడు ముందుకు దూకి నిలబడ్డాడు. అతని కళ్ళలో అచంచలమైన విశ్వాసం మెరిసింది. రాముడి కళ్ళు అంగదుడిని నమ్మకంగా చూశాయి, అతని ముఖం మెల్లిగా చిరునవ్వుతో వికసించింది. \"రామా, మీ ఆజ్ఞను నేను శిరసావహిస్తాను!\" అని అంగదుడు గంభీరంగా అన్నాడు. రాముడు అంగదుడి భుజంపై వెచ్చగా, గట్టిగా చేయి వేశాడు — అదొక నిశ్శబ్ద బలం. రావణుడి సభలో అంగదుడి ధైర్యం సరిపోతుందా?",
+      "image_prompt": "The warrior steps forward, declaring his resolve, as the leader places a warm, firm hand on his shoulder. The leader's face slowly blossoms into a gentle smile. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Golden hour light bathes the scene in a soft, reverent glow, emphasizing the sacred moment of blessing and commitment.",
+      "scene_visual": "The warrior steps forward, declaring his resolve, as the leader places a warm, firm hand on his shoulder. The leader's face slowly blossoms into a gentle smile.",
+      "supporting_char_keys": [
+        "rama"
+      ],
+      "text_te_en": "Raavanudini Edurkonenduku Evaru Vastaarani Eduruchustundagaa, Angadudu Munduku Duki Nilabaddaadu. Atani Kallalo Achanchalamaina Vishvaasam Merisindi. Raamudi Kallu Angadudini Nammakangaa Chushaayi, Atani Mukham Melligaa Chirunavvuto Vikasinchindi. \"Raamaa, Mi Aajnyanu Nenu Shirasaavahistaanu!\" Ani Angadudu Gambhirangaa Annaadu. Raamudu Angadudi Bhujampai Vechchagaa, Gattigaa Cheyi Veshaadu — Adoka Nishshabda Balan. Raavanudi Sabhalo Angadudi Dhairyam Saripotundaa?",
+      "text_en": "While waiting to see who would come forward to face Ravana, Angadu leaped forward and stood. Unwavering confidence shone in his eyes. Rama's eyes looked at Angadu with trust, his face slowly blossomed into a smile. \"Rama, I will obey your command!\" Angadu said seriously. Rama placed a warm, firm hand on Angadu's shoulder — it was a silent strength. Would Angadu's courage be enough in Ravana's court?"
+    },
+    {
+      "id": 4,
+      "text": "అంగదుడి ధైర్యం రావణుడి సభలో సరిపోతుందా అని చూస్తుండగా, రాముడి ఆశీస్సులతో అతను మహామంత్రి సభలోకి అడుగుపెట్టాడు. అతని పాదాలు స్థిరంగా కదిలాయి, చూపు సూటిగా ఉంది. రావణుడు సింహాసనంపై కూర్చుని అంగదుడిని అహంకారంగా చూశాడు. అంగదుడు రాముడి సందేశాన్ని, శాంతి వచనాన్ని ధైర్యంగా చెప్పాడు. రావణుడి ముఖం కోపంతో ఎర్రబడింది, అతని చేతులు సింహాసనం చేతులు పిసికాయి. \"ఒక వానరుడు నన్ను ఎదిరిస్తాడా?\" అని రావణుడు గర్జించాడు. అంగదుడి మాటల తర్వాత సభలో నిశ్శబ్దం అలుముకుంది — రావణుడి ఆభరణాల సన్నని శబ్దం తప్ప. శక్తివంతమైన రావణుడి కోపం నుండి అంగదుడు ఎలా బయటపడతాడు?",
+      "image_prompt": "The king sits on his throne, his face turning red with anger as his hands squeeze the arms of the throne. A tense silence fills the assembly, broken only by the faint jingle of the king's ornaments. SUPPORTING CHARACTER also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Dim, oppressive light in Ravana's throne room, with flickering torches casting long, menacing shadows across the dark stone pillars and the demon king's multiple heads.",
+      "scene_visual": "The king sits on his throne, his face turning red with anger as his hands squeeze the arms of the throne. A tense silence fills the assembly, broken only by the faint jingle of the king's ornaments.",
+      "supporting_char_keys": [
+        "ravana"
+      ],
+      "text_te_en": "Angadudi Dhairyam Raavanudi Sabhalo Saripotundaa Ani Chustundagaa, Raamudi Aashissulato Atanu Mahaamantri Sabhaloki Adugupettaadu. Atani Paadaalu Sthirangaa Kadilaayi, Chupu Sutigaa Undi. Raavanudu Sinhaasanampai Kurchuni Angadudini Ahankaarangaa Chushaadu. Angadudu Raamudi Sandeshaanni, Shaanti Vachanaanni Dhairyangaa Cheppaadu. Raavanudi Mukham Kopanto Errabadindi, Atani Chetulu Sinhaasanam Chetulu Pisikaayi. \"Oka Vaanarudu Nannu Ediristaadaa?\" Ani Raavanudu Garjinchaadu. Angadudi Maatala Tarvaata Sabhalo Nishshabdam Alumukundi — Raavanudi Aabharanaala Sannani Shabdam Tappa. Shaktivantamaina Raavanudi Kopam Nundi Angadudu Elaa Bayatapadataadu?",
+      "text_en": "While watching if Angadu's courage would be enough in Ravana's court, he entered Ravana's grand court with Rama's blessings. His feet moved steadily, his gaze was direct. Ravana sat on his throne and looked at Angadu arrogantly. Angadu bravely delivered Rama's message, words of peace. Ravana's face turned red with anger, his hands squeezed the arms of the throne. \"Will a monkey challenge me?\" Ravana roared. After Angadu's words, silence fell over the court — except for the faint sound of Ravana's ornaments. How would Angadu escape from the powerful Ravana's anger?"
+    },
+    {
+      "id": 5,
+      "text": "శక్తివంతమైన రావణుడి కోపం నుండి ఎలా బయటపడతాడని చూస్తుండగా, అంగదుడు మరింత ధైర్యంగా నిలబడ్డాడు. ఒక్క అడుగు ముందుకు వేసి, తన పాదాన్ని మెరిసే రాతి నేలపై బలంగా మోపాడు — ఆ చప్పుడు సభంతా ప్రతిధ్వనించింది. రావణుడి సభలోని యోధులు నిశ్చేష్టులయ్యారు, వారి కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి. \"నా పాదాన్ని కదపగల ధీరుడు ఎవడు?\" అని అంగదుడు సవాల్ విసిరాడు. రావణుడు, అతని సైన్యం ముఖాలు అయోమయంగా మారాయి, వారి గర్వం దెబ్బతింది. రావణుడి మహాయోధులలో ఎవరు అంగదుడి అసాధ్యమైన సవాలును స్వీకరించడానికి ధైర్యం చేస్తారు?",
+      "image_prompt": "The warrior takes a bold step forward and forcefully places his foot on the shining stone floor. The sound echoes through the assembly hall, as the warriors' eyes widen in surprise. SUPPORTING CHARACTER also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. A sudden burst of divine, golden-white light radiates from Angada, momentarily dazzling the dark court and highlighting his unmoving form, contrasting sharply with the surrounding gloom.",
+      "scene_visual": "The warrior takes a bold step forward and forcefully places his foot on the shining stone floor. The sound echoes through the assembly hall, as the warriors' eyes widen in surprise.",
+      "supporting_char_keys": [
+        "ravana"
+      ],
+      "text_te_en": "Shaktivantamaina Raavanudi Kopam Nundi Elaa Bayatapadataadani Chustundagaa, Angadudu Marinta Dhairyangaa Nilabaddaadu. Okka Adugu Munduku Vesi, Tana Paadaanni Merise Raati Nelapai Balangaa Mopaadu — Aa Chappudu Sabhantaa Pratidhvaninchindi. Raavanudi Sabhaloni Yodhulu Nishcheshtulayyaaru, Vaari Kallu Aashcharyanto Peddavayyaayi. \"Naa Paadaanni Kadapagala Dhirudu Evadu?\" Ani Angadudu Savaal Visiraadu. Raavanudu, Atani Sainyam Mukhaalu Ayomayangaa Maaraayi, Vaari Garvam Debbatindi. Raavanudi Mahaayodhulalo Evaru Angadudi Asaadhyamaina Savaalunu Svikarinchadaaniki Dhairyam Chestaaru?",
+      "text_en": "While watching how he would escape from the powerful Ravana's anger, Angadu stood even more bravely. Taking one step forward, he firmly placed his foot on the shining stone floor — the sound echoed throughout the court. The warriors in Ravana's court were stunned, their eyes widened in surprise. \"Who is brave enough to move my foot?\" Angadu challenged. Ravana and his army's faces became confused, their pride was hurt. Who among Ravana's great warriors would dare to accept Angadu's impossible challenge?"
+    },
+    {
+      "id": 6,
+      "text": "అంగదుడి అసాధ్యమైన సవాలును ఎవరూ స్వీకరించకపోవడంతో, అతను సభను వీడి రాముడి వద్దకు తిరిగి వచ్చాడు. అతని ముఖంపై నిగనిగలాడే చిరునవ్వు కనిపించింది. అంగదుడు తన కథను చెప్పగానే, వానర సైన్యం జయజయధ్వానాలు చేసింది — శిబిరమంతా మార్మోగింది. రాముడు శాంతంగా అంగదుడిని చూశాడు, అతని కళ్ళలో గర్వం మెరిసింది. \"నీ భక్తి, నీ ధైర్యం విజయాన్ని తెస్తాయి,\" అని రాముడు ఆశీర్వదించాడు. రాముడి సైన్యం ఐక్యంగా, నూతన ఉత్సాహంతో యుద్ధానికి సిద్ధమైంది. అంగదుడి భక్తి, ధైర్యం వారికి గొప్ప స్ఫూర్తినిచ్చాయి.",
+      "image_prompt": "The warrior returns to the leader, a radiant smile on his face, as the army erupts in cheers. Pride shines in the leader's eyes as he looks at the warrior. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Gentle dusk light, warm amber, settles over the camp, creating a peaceful yet determined atmosphere as the warriors gather, ready for what lies ahead.",
+      "scene_visual": "The warrior returns to the leader, a radiant smile on his face, as the army erupts in cheers. Pride shines in the leader's eyes as he looks at the warrior.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana",
+        "hanuman"
+      ],
+      "text_te_en": "Angadudi Asaadhyamaina Savaalunu Evaru Svikarinchakapovadanto, Atanu Sabhanu Vidi Raamudi Vaddaku Tirigi Vachchaadu. Atani Mukhampai Niganigalaade Chirunavvu Kanipinchindi. Angadudu Tana Kathanu Cheppagaane, Vaanara Sainyam Jayajayadhvaanaalu Chesindi — Shibiramantaa Maarmogindi. Raamudu Shaantangaa Angadudini Chushaadu, Atani Kallalo Garvam Merisindi. \"Ni Bhakti, Ni Dhairyam Vijayaanni Testaayi,\" Ani Raamudu Aashirvadinchaadu. Raamudi Sainyam Aikyangaa, Nutana Utsaahanto Yuddhaaniki Siddhamaindi. Angadudi Bhakti, Dhairyam Vaariki Goppa Sphurtinichchaayi.",
+      "text_en": "Since no one accepted Angadu's impossible challenge, he left the court and returned to Rama. A shining smile appeared on his face. As soon as Angadu told his story, the Vanara army cheered loudly — the whole camp echoed. Rama looked at Angadu calmly, pride shone in his eyes. \"Your devotion and your courage will bring victory,\" Rama blessed. Rama's army, united and with new enthusiasm, prepared for battle. Angadu's devotion and courage gave them great inspiration."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "hanuman",
+      "description": "Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Always the same character across every scene."
+    },
+    {
+      "key": "ravana",
+      "description": "Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 10,
+    "dialogue_richness": 10,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is an exceptionally well-crafted story for children, demonstrating a strong grasp of narrative technique and emotional portrayal. The consistent use of 'showing, not telling' for emotions and the effective suspense hooks at the end of each scene are particularly commendable. To elevate it further, consider refining some descriptive phrases to be even more purely oral and conversational, removing any lingering formality that might slightly distance it from a grandmother's spontaneous storytelling. This would make it truly award-worthy."
+  },
+  "title_te_en": "Angadudi Paadam — Lankalo Savaal",
+  "moral_te_en": "Achanchalamaina Nammakan, Dhairyam Unte Elaanti Kashtaalanainaa Jayinchavachchu.",
+  "title_en": "Angadu's Foot — A Challenge in Lanka",
+  "moral_en": "If you have strong belief and courage, you can overcome any challenge.",
+  "id": "20260526_050838",
+  "date": "2026-05-26",
+  "category": "ramayana",
+  "subcategory": "devotion_tales",
+  "topic": "అంగద రాముని భక్తి",
+  "thumbnail": "stories/20260526_050838/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
