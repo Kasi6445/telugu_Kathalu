@@ -1,0 +1,97 @@
+{
+  "title": "మర్రి చెట్టు గుట్టు, రాజు బాట",
+  "moral": "భయాన్ని దాటి, చుట్టూ ఉన్న ప్రపంచాన్ని జాగ్రత్తగా గమనిస్తే, ఎన్నో పరిష్కారాలు దొరుకుతాయి.",
+  "main_character": "Raju is a lean, active boy of nine years old, with bright, curious eyes and a mop of unruly black hair that often falls over his forehead. He is deeply observant of nature and often daydreams, but can be timid when facing new challenges. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant Telugu village named \"కొత్తపల్లె\" (Kothapalle) nestled beside the Godavari river. Mud-brick homes with thatched roofs, children playing near a community well, and fields of green paddy. The air is always filled with the scent of woodsmoke and damp earth, under the bright morning sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కొత్తపల్లెలో, సూర్యరశ్మి పచ్చని పొలాలపై ఆడుకుంటున్న వేళ, రాజు బావి దగ్గర నీళ్ళు తోడుతున్నాడు. అతని చేతిలో తాడు మెల్లగా లాగుతుంటే, బావి కప్పె చకచకా శబ్దం చేస్తూ, చల్లని నీళ్ళ బొక్కెన పైకి వచ్చింది. రాజు ఒక పాట పాడుకుంటూ, నీటిని కుండలోకి పోస్తూ, తల్లి వైపు చూసి నవ్వాడు. \"అమ్మా, నీళ్ళు తెచ్చాను!\" అని గట్టిగా చెప్పాడు. ఇంతలో, ఒక ముసలమ్మ అటుగా వెళ్తూ, మాయా మర్రి చెట్టు గురించి గొణుక్కుంది — దాని శక్తి, దాని చుట్టూ అలుముకున్న భయం గురించి. రాజు చెవిలో ఆ మాటలు పడ్డాయి... ఆ మర్రి చెట్టులో నిజంగానే ఏదో మాయ ఉందా?",
+      "image_prompt": "The boy pulls a rope from a well, drawing up a bucket of water. He smiles brightly towards his mother while pouring the water into a pot. Bright, golden morning light filtering through the neem trees, casting long, playful shadows on the dusty ground.",
+      "scene_visual": "The boy pulls a rope from a well, drawing up a bucket of water. He smiles brightly towards his mother while pouring the water into a pot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kottapallelo, Suryarashmi Pachchani Polaalapai Aadukuntunna Vela, Raaju Baavi Daggara Nillu Todutunnaadu. Atani Chetilo Taadu Mellagaa Laagutunte, Baavi Kappe Chakachakaa Shabdam Chestu, Challani Nilla Bokkena Paiki Vachchindi. Raaju Oka Paata Paadukuntu, Nitini Kundaloki Postu, Talli Vaipu Chusi Navvaadu. \"Ammaa, Nillu Techchaanu!\" Ani Gattigaa Cheppaadu. Intalo, Oka Musalamma Atugaa Veltu, Maayaa Marri Chettu Gurinchi Gonukkundi — Daani Shakti, Daani Chuttu Alumukunna Bhayam Gurinchi. Raaju Chevilo Aa Maatalu Paddaayi... Aa Marri Chettulo Nijangaane Edo Maaya Undaa?",
+      "text_en": "In Kothapalle, as the sunlight played on the green fields, Raju was drawing water from the well. As he slowly pulled the rope in his hand, the well's pulley made a quick sound, and the bucket of cool water came up. Raju sang a song, poured the water into a pot, and smiled at his mother. \"Mom, I brought the water!\" he said loudly. Just then, an old woman passing by mumbled about the magical Banyan tree — about its power and the fear surrounding it. Raju overheard those words... Was there really some magic in that Banyan tree?"
+    },
+    {
+      "id": 2,
+      "text": "మర్నాడు ఉదయం, బావి అడుగున పగుళ్లు పడిన మట్టి కనిపించింది — ఒక్క చుక్క నీరు కూడా లేదు. గ్రామస్తుల గుసగుసలు పెరిగాయి, వారి నుదుట చింత రేఖలు స్పష్టంగా కనిపించాయి. పెద్దలందరూ ఒకచోట చేరి, తమ చేతులు పిసుకుంటూ, భయంతో వణికిపోయారు. రాజు వారి మధ్య కూర్చుని, ప్రతి మాటను శ్రద్ధగా విన్నాడు. \"ఈ మర్రి చెట్టు దగ్గరికెళ్లాలంటే చాలా భయం!\" అని ఒక పెద్దాయన గొంతు వణకుతూ అన్నాడు. అందరి చూపులు ఆ మాయా మర్రి చెట్టు వైపు తిరిగాయి... మరి ఆ భయాన్ని దాటి ఎవరు వెళ్తారు?",
+      "image_prompt": "Several elders huddle together, wringing their hands in fear. Their worried gazes are collectively fixed on a distant, large tree. Harsh, midday sun beating down on the village square, highlighting the parched earth and the worried faces, creating a sense of urgency.",
+      "scene_visual": "Several elders huddle together, wringing their hands in fear. Their worried gazes are collectively fixed on a distant, large tree.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marnaadu Udayan, Baavi Aduguna Pagullu Padina Matti Kanipinchindi — Okka Chukka Niru Kudaa Ledu. Graamastula Gusagusalu Perigaayi, Vaari Nuduta Chinta Rekhalu Spashtangaa Kanipinchaayi. Peddalandaru Okachota Cheri, Tama Chetulu Pisukuntu, Bhayanto Vanikipoyaaru. Raaju Vaari Madhya Kurchuni, Prati Maatanu Shraddhagaa Vinnaadu. \"I Marri Chettu Daggarikellaalante Chaalaa Bhayan!\" Ani Oka Peddaayana Gontu Vanakutu Annaadu. Andari Chupulu Aa Maayaa Marri Chettu Vaipu Tirigaayi... Mari Aa Bhayaanni Daati Evaru Veltaaru?",
+      "text_en": "The next morning, cracked mud was seen at the bottom of the well — not a single drop of water was left. The villagers' whispers grew louder, and lines of worry clearly showed on their foreheads. All the elders gathered in one place, wringing their hands, trembling with fear. Raju sat among them, listening carefully to every word. \"It's very scary to go near that Banyan tree!\" an old man said, his voice trembling. Everyone's gaze turned towards the magical Banyan tree... But who would dare to go beyond that fear?"
+    },
+    {
+      "id": 3,
+      "text": "పెద్దల మాటలు రాజు మనసులో మెదులుతూనే ఉన్నాయి. రాత్రి పడుకున్నాక, అతని గుండె వేగంగా కొట్టుకుంది — నిద్ర పట్టలేదు. తెల్లవారుఝామున, చీకటి ఇంకా పూర్తిగా వీడని వేళ, రాజు మెల్లిగా లేచాడు. అతని చిన్న పాదాల కింద ఇసుక గరగరలాడింది, అతని అడుగులు అడవి వైపు ధైర్యంగా సాగాయి. \"నేను వెళ్ళాలి... మన ఊరి కోసం!\" అని తనలో తాను గట్టిగా చెప్పుకున్నాడు. అడవి వైపు వెళ్తుండగా, దట్టమైన చెట్ల నుండి వింత చప్పుళ్ళు... రాజు గుండె ఒక్కసారిగా జారిపోయింది.",
+      "image_prompt": "The boy walks resolutely towards a dense forest in the pre-dawn darkness. His heart suddenly drops as strange sounds emerge from the thick trees. Late afternoon light, casting long, deep shadows as Raju enters the edge of the forest, creating an ominous and solitary atmosphere.",
+      "scene_visual": "The boy walks resolutely towards a dense forest in the pre-dawn darkness. His heart suddenly drops as strange sounds emerge from the thick trees.",
+      "supporting_char_keys": [],
+      "text_te_en": "Peddala Maatalu Raaju Manasulo Medulutune Unnaayi. Raatri Padukunnaaka, Atani Gunde Vegangaa Kottukundi — Nidra Pattaledu. Tellavaarujhaamuna, Chikati Inkaa Purtigaa Vidani Vela, Raaju Melligaa Lechaadu. Atani Chinna Paadaala Kinda Isuka Garagaralaadindi, Atani Adugulu Adavi Vaipu Dhairyangaa Saagaayi. \"Nenu Vellaali... Mana Uri Kosan!\" Ani Tanalo Taanu Gattigaa Cheppukunnaadu. Adavi Vaipu Veltundagaa, Dattamaina Chetla Nundi Vinta Chappullu... Raaju Gunde Okkasaarigaa Jaaripoyindi.",
+      "text_en": "The elders' words kept echoing in Raju's mind. After going to bed that night, his heart beat fast — he couldn't sleep. In the early morning, when the darkness hadn't completely faded, Raju slowly got up. The sand crunched under his small feet, and his steps bravely headed towards the forest. \"I must go... for our village!\" he told himself firmly. As he walked towards the forest, strange noises came from the thick trees... Raju's heart suddenly sank."
+    },
+    {
+      "id": 4,
+      "text": "చివరకు, రాజు మాయా మర్రి చెట్టు దగ్గరకు చేరుకున్నాడు. ఆ చెట్టు ఎంత పెద్దదంటే — ఆకాశాన్ని తాకుతుందేమో అనిపించింది. దాని దట్టమైన కొమ్మల కింద చల్లని, తడి గాలి వీచింది, పాత మట్టి, ఆకులు కుళ్ళిన వాసన ముక్కుకు తగిలింది. పిల్లలూ, అట్లాంటి చెట్టు దగ్గర మీరుంటే మీకు ఎలా అనిపిస్తుంది? రాజు ఆ చెట్టు ముందు చిన్నగా నిలబడ్డాడు, అతని గొంతు పెగలడం లేదు. \"మర్రి చెట్టూ... దయచేసి మాకు సహాయం చేయి,\" అని మెల్లిగా అడిగాడు. ఎంతసేపు ఎదురుచూసినా, ఎటువంటి స్పందన రాకపోవడంతో, అతని భుజాలు వాలిపోయాయి. వెనుతిరుగుతుండగా, లోపలి నుండి ఒక సన్నని వెలుగు — చెట్టు వేర్ల మధ్యలో మెరిసింది.",
+      "image_prompt": "The boy stands small before a massive tree, his shoulders slumped in dejection. As he turns to leave, a thin light suddenly gleams from within the tree's roots. Dappled, greenish light filtering through the thick leaves of the Banyan tree, creating a mystical and slightly eerie atmosphere, with pockets of deep shadow.",
+      "scene_visual": "The boy stands small before a massive tree, his shoulders slumped in dejection. As he turns to leave, a thin light suddenly gleams from within the tree's roots.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chivaraku, Raaju Maayaa Marri Chettu Daggaraku Cherukunnaadu. Aa Chettu Enta Peddadante — Aakaashaanni Taakutundemo Anipinchindi. Daani Dattamaina Kommala Kinda Challani, Tadi Gaali Vichindi, Paata Matti, Aakulu Kullina Vaasana Mukkuku Tagilindi. Pillalu, Atlaanti Chettu Daggara Mirunte Miku Elaa Anipistundi? Raaju Aa Chettu Mundu Chinnagaa Nilabaddaadu, Atani Gontu Pegaladam Ledu. \"Marri Chettu... Dayachesi Maaku Sahaayam Cheyi,\" Ani Melligaa Adigaadu. Entasepu Eduruchusinaa, Etuvanti Spandana Raakapovadanto, Atani Bhujaalu Vaalipoyaayi. Venutirugutundagaa, Lopali Nundi Oka Sannani Velugu — Chettu Verla Madhyalo Merisindi.",
+      "text_en": "Finally, Raju reached the magical Banyan tree. The tree was so big — it seemed to touch the sky. Under its thick branches, a cool, damp breeze blew, and the smell of old earth and rotting leaves filled his nose. Children, how would you feel if you were near such a tree? Raju stood small in front of the tree, his voice stuck in his throat. \"Banyan tree... please help us,\" he asked softly. After waiting for a long time without any response, his shoulders drooped. As he turned to leave, a thin light from inside — shimmered between the tree's roots."
+    },
+    {
+      "id": 5,
+      "text": "రాజు ఆ వెలుగు వైపు అడుగు వేశాడు. అప్పుడు అతని మనసులో అమ్మమ్మ చెప్పిన మాటలు మెదిలాయి — \"చెట్లు మనతో మాట్లాడతాయి, మనం వింటే.\" ఆ క్షణంలో, రాజు కనులలో ఒక మెరుపు కనిపించింది, అతను కూర్చుని, మర్రి చెట్టును నిశితంగా గమనించసాగాడు. చుట్టూ కనిపించని పురుగుల సన్నని ఝంకారం వినిపించింది. చెట్టు వేర్లు, కొమ్మలు, ఆకుల కదలికలు... అన్నీ జాగ్రత్తగా చూశాడు. అలా చూస్తూ ఉండగా, దట్టమైన పొదలలో దాగి ఉన్న ఒక సన్నని దారి కనిపించింది. ముళ్ళ తీగలను బలవంతంగా పక్కకు నెట్టి చూశాడు — అక్కడ ఒక చీకటి గదిలాంటి రంధ్రం!",
+      "image_prompt": "The boy intently observes the tree, then forcefully pushes aside thorny vines. He reveals a dark, room-like hole hidden within dense bushes. The light is softer now, late afternoon, with golden shafts piercing through the canopy, illuminating the path Raju finds, giving a sense of discovery.",
+      "scene_visual": "The boy intently observes the tree, then forcefully pushes aside thorny vines. He reveals a dark, room-like hole hidden within dense bushes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Aa Velugu Vaipu Adugu Veshaadu. Appudu Atani Manasulo Ammamma Cheppina Maatalu Medilaayi — \"Chetlu Manato Maatlaadataayi, Manam Vinte.\" Aa Kshananlo, Raaju Kanulalo Oka Merupu Kanipinchindi, Atanu Kurchuni, Marri Chettunu Nishitangaa Gamaninchasaagaadu. Chuttu Kanipinchani Purugula Sannani Jhankaaram Vinipinchindi. Chettu Verlu, Kommalu, Aakula Kadalikalu... Anni Jaagrattagaa Chushaadu. Alaa Chustu Undagaa, Dattamaina Podalalo Daagi Unna Oka Sannani Daari Kanipinchindi. Mulla Tigalanu Balavantangaa Pakkaku Netti Chushaadu — Akkada Oka Chikati Gadilaanti Randhran!",
+      "text_en": "Raju stepped towards that light. Then his grandmother's words echoed in his mind — \"Trees talk to us, if we listen.\" At that moment, a spark appeared in Raju's eyes, and he sat down, beginning to observe the Banyan tree closely. The faint buzzing of unseen insects could be heard all around. He carefully watched the tree's roots, branches, and the movement of its leaves... everything. As he watched, a narrow path hidden in the thick bushes became visible. He forcefully pushed aside the thorny vines — and there was a dark, room-like hole!"
+    },
+    {
+      "id": 6,
+      "text": "రాజు భయం భయంగానే ఆ రంధ్రంలోకి పాకాడు. లోపల చాలా చీకటిగా, చల్లగా ఉంది. చిన్నారి రాజు నెమ్మదిగా ముందుకు వెళ్ళగా, ఒక చిన్న నీటి బుగ్గ కనిపించింది — కానీ అది రాళ్ళతో, మట్టితో మూసుకుపోయి ఉంది. \"ఇదిగో! ఇక్కడే ఉంది పరిష్కారం!\" అని గట్టిగా చెప్పాడు. రాజు తన చిన్న చేతులతో రాళ్లను, మట్టిని తొలగించడం మొదలుపెట్టాడు. ఒక్కసారిగా — చల్లని నీరు గలగలమంటూ ఉప్పొంగింది. రాజు ముఖం వెలిగిపోయింది, వెంటనే ఊరి వైపు పరుగు తీశాడు.",
+      "image_prompt": "The boy uses his small hands to clear rocks and mud from a blocked spring. Cold water suddenly gushes forth, illuminating his face with joy. A moment of natural wonder, with the hidden spring illuminated by a single, bright shaft of sunlight breaking through the dense foliage, making the water sparkle.",
+      "scene_visual": "The boy uses his small hands to clear rocks and mud from a blocked spring. Cold water suddenly gushes forth, illuminating his face with joy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Bhayam Bhayangaane Aa Randhranloki Paakaadu. Lopala Chaalaa Chikatigaa, Challagaa Undi. Chinnaari Raaju Nemmadigaa Munduku Vellagaa, Oka Chinna Niti Bugga Kanipinchindi — Kaani Adi Raallato, Mattito Musukupoyi Undi. \"Idigo! Ikkade Undi Parishkaaran!\" Ani Gattigaa Cheppaadu. Raaju Tana Chinna Chetulato Raallanu, Mattini Tolaginchadam Modalupettaadu. Okkasaarigaa — Challani Niru Galagalamantu Uppongindi. Raaju Mukham Veligipoyindi, Ventane Uri Vaipu Parugu Tishaadu.",
+      "text_en": "Raju fearfully crawled into that hole. Inside, it was very dark and cold. As little Raju slowly moved forward, he saw a small spring of water — but it was blocked by rocks and mud. \"Here it is! The solution is right here!\" he said loudly. Raju began to remove the rocks and mud with his small hands. All at once — cool water gushed out with a bubbling sound. Raju's face lit up, and he immediately ran towards the village."
+    },
+    {
+      "id": 7,
+      "text": "రాజు ఊరికి చేరుకోగానే, అందరూ ఆశ్చర్యంగా అతని వైపు చూశారు. రాజు జరిగినదంతా వేగంగా చెప్పాడు. అతని మాటలు విని, గ్రామస్తుల పెదవులపై చిరునవ్వులు విరిశాయి. వెంటనే అందరూ మర్రి చెట్టు దగ్గరకు పరుగు తీశారు. రాజు చూపించిన దారిలో, అందరూ కలిసి రాళ్లను, మట్టిని తొలగించారు. బావి నిండా నీరు ఉప్పొంగింది, గ్రామస్తుల నుండి సామూహికంగా ఒక నిట్టూర్పు వినిపించింది — అది ఉపశమనం. \"రాజూ! నువ్వు మా ప్రాణాలను కాపాడావు!\" అని ఒక పెద్దాయన రాజును దగ్గరకు తీసుకున్నాడు, రాజు భుజంపై గర్వంగా చేయి వేశాడు.",
+      "image_prompt": "Villagers collectively remove rocks and mud from the spring, guided by the boy. The well quickly fills with water, and an old man proudly places a hand on the boy's shoulder. Golden hour light, warm and expansive, bathing the village and the Banyan tree in a peaceful glow, symbolizing hope and community spirit.",
+      "scene_visual": "Villagers collectively remove rocks and mud from the spring, guided by the boy. The well quickly fills with water, and an old man proudly places a hand on the boy's shoulder.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Uriki Cherukogaane, Andaru Aashcharyangaa Atani Vaipu Chushaaru. Raaju Jariginadantaa Vegangaa Cheppaadu. Atani Maatalu Vini, Graamastula Pedavulapai Chirunavvulu Virishaayi. Ventane Andaru Marri Chettu Daggaraku Parugu Tishaaru. Raaju Chupinchina Daarilo, Andaru Kalisi Raallanu, Mattini Tolaginchaaru. Baavi Nindaa Niru Uppongindi, Graamastula Nundi Saamuhikangaa Oka Nitturpu Vinipinchindi — Adi Upashamanan. \"Raaju! Nuvvu Maa Praanaalanu Kaapaadaavu!\" Ani Oka Peddaayana Raajunu Daggaraku Tisukunnaadu, Raaju Bhujampai Garvangaa Cheyi Veshaadu.",
+      "text_en": "As soon as Raju reached the village, everyone looked at him in surprise. Raju quickly told them everything that had happened. Hearing his words, smiles bloomed on the villagers' lips. Immediately, everyone ran towards the Banyan tree. Following the path Raju showed, everyone together removed the rocks and mud. The well filled with gushing water, and a collective sigh was heard from the villagers — it was relief. \"Raju! You saved our lives!\" an old man said, hugging Raju and proudly placing a hand on his shoulder."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and exceptional child engagement, making it highly appealing. The emotional depth is largely well-handled, showing rather than telling. However, the primary area for improvement lies in 'grandmother_authenticity'; the prose frequently adopts a formal, descriptive tone that detracts from the warm, oral storytelling voice. To elevate this to an award-worthy piece, the language needs to be consistently more colloquial and conversational, truly embodying the voice of a grandparent sharing a beloved tale."
+  },
+  "title_te_en": "Marri Chettu Guttu, Raaju Baata",
+  "moral_te_en": "Bhayaanni Daati, Chuttu Unna Prapanchaanni Jaagrattagaa Gamaniste, Enno Parishkaaraalu Dorukutaayi.",
+  "title_en": "The Secret of the Banyan Tree, and Raju's Path",
+  "moral_en": "If you overcome your fear and carefully observe the world around you, you will find many solutions.",
+  "id": "20260526_101013",
+  "date": "2026-05-26",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "తెలుగు జానపద కథ - మాయా మర్రి చెట్టు",
+  "thumbnail": "stories/20260526_101013/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
