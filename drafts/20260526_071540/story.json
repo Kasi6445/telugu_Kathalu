@@ -1,0 +1,88 @@
+{
+  "title": "పాలు తాగిన పిల్లి, తెనాలి తెలివి",
+  "moral": "ఎప్పుడూ సమస్య పైపైన చూడకూడదు, దాని లోపలికి వెళ్లి మూలం కనుగొనాలి కదూ!",
+  "main_character": "A quick-witted and intelligent Brahmin scholar, known for his sharp humor and ability to solve complex problems with ingenious solutions. He often wears traditional South Indian attire, a dhoti and an angavastram, with a distinctive tilak on his forehead. Always the same character across every scene.",
+  "antagonist": "The benevolent yet demanding emperor of the Vijayanagara Empire, known for his wisdom but also his occasional challenging nature towards his courtiers. He is depicted wearing rich royal robes, adorned with intricate gold jewelry and a majestic crown. Always the same character across every scene.",
+  "setting": "The grand Vijayanagara court and Tenali Ramakrishna's modest home in the kingdom. The court features ornate pillars, vibrant tapestries, and a central throne, while Tenali's home has simple clay pots and a small courtyard, often bathed in the warm morning light. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర సామ్రాజ్యంలో, మహారాజు కృష్ణదేవరాయలు కోపంగా, చేతులు పిడికిళ్ళు బిగించి చూస్తున్నాడు. రాజభవనపు వంటగదిలో పిల్లులు పాలను తాగేస్తున్నాయి. ఒక పిల్లి, చిన్నగా 'శ్లక్, శ్లక్' అని శబ్దం చేస్తూ, మట్టి పాత్రలో ఉన్న పాలను తాగుతోంది. — మహారాజు ముఖం ఎర్రబడింది. \"ఈ పిల్లుల బెడద ఎలా తీరుతుందో నాకు అర్థం కావడం లేదు!\" అని గొణిగాడు. తెనాలి రామకృష్ణుడు ఒక మూల నిలబడి, పెదవులపై చిరునవ్వుతో మహారాజును గమనిస్తున్నాడు. అసలు ఈ పిల్లుల బెడదకు మహారాజు ఏదైనా పరిష్కారం కనుగొంటాడా?",
+      "image_prompt": "The king stands, clenching his fists tightly while watching. His face is visibly red with anger as he observes the cats. Also in this scene: The benevolent yet demanding emperor of the Vijayanagara Empire, known for his wisdom but also his occasional challenging nature towards his courtiers. He is depicted wearing rich royal robes, adorned with intricate gold jewelry and a majestic crown. Always the same character across every scene. Bright morning light streaming through large archways into the opulent court, casting long shadows.",
+      "scene_visual": "The king stands, clenching his fists tightly while watching. His face is visibly red with anger as he observes the cats.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vijayanagara Saamraajyanlo, Mahaaraaju Krrishnadevaraayalu Kopangaa, Chetulu Pidikillu Biginchi Chustunnaadu. Raajabhavanapu Vantagadilo Pillulu Paalanu Taagestunnaayi. Oka Pilli, Chinnagaa 'Shlak, Shlak' Ani Shabdam Chestu, Matti Paatralo Unna Paalanu Taagutondi. — Mahaaraaju Mukham Errabadindi. \"I Pillula Bedada Elaa Tirutundo Naaku Artham Kaavadam Ledu!\" Ani Gonigaadu. Tenaali Raamakrrishnudu Oka Mula Nilabadi, Pedavulapai Chirunavvuto Mahaaraajunu Gamanistunnaadu. Asalu I Pillula Bedadaku Mahaaraaju Edainaa Parishkaaram Kanugontaadaa?",
+      "text_en": "In the Vijayanagara Empire, Maharaju Krishnadevarayalu was watching angrily, with his hands clenched into fists. Cats were drinking milk in the palace kitchen. One cat was drinking milk from an earthen pot, making a soft 'shluk, shluk' sound. — The Maharaju's face turned red. \"I don't understand how to get rid of this cat nuisance!\" he grumbled. Tenali Ramakrishna stood in a corner, watching the Maharaju with a small smile on his lips. Would the Maharaju ever find a solution to this cat problem?"
+    },
+    {
+      "id": 2,
+      "text": "మరుసటి రోజు, మహారాజు సభలో కళ్ళు మెరుస్తూ ఒక రాజ శాసనం ప్రకటించాడు. ఒక సేవకుడు తాళపత్రాన్ని 'ఖర్రుర్' మని శబ్దం చేస్తూ విప్పాడు. ఆ రాజ శాసనం వినగానే అందరూ ఆశ్చర్యపోయారు. \"ఎవరైతే పిల్లుల నుండి పాలను రక్షిస్తారో వారికి బహుమతి లభిస్తుంది!\" అని మహారాజు గంభీరంగా చెప్పాడు. తెనాలి రామకృష్ణుడి కళ్ళలో ఒక మెరుపు కనిపించింది, ఆలోచనలు వేగంగా పరుగెడుతున్నాయి. అసలు పిల్లులన్నీ పాలు తాగకుండా ఆపడం ఎవరికైనా సాధ్యమవుతుందా?",
+      "image_prompt": "The man stands in the court, his eyes sparkling with a sudden realization. A distinct flash of insight crosses his face as his thoughts race. Also in this scene: The benevolent yet demanding emperor of the Vijayanagara Empire, known for his wisdom but also his occasional challenging nature towards his courtiers. He is depicted wearing rich royal robes, adorned with intricate gold jewelry and a majestic crown. Always the same character across every scene. The court remains brightly lit, but a slight tension hangs in the air, reflected in the King's stern expression.",
+      "scene_visual": "The man stands in the court, his eyes sparkling with a sudden realization. A distinct flash of insight crosses his face as his thoughts race.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju, Mahaaraaju Sabhalo Kallu Merustu Oka Raaja Shaasanam Prakatinchaadu. Oka Sevakudu Taalapatraanni 'Kharrur' Mani Shabdam Chestu Vippaadu. Aa Raaja Shaasanam Vinagaane Andaru Aashcharyapoyaaru. \"Evaraite Pillula Nundi Paalanu Rakshistaaro Vaariki Bahumati Labhistundi!\" Ani Mahaaraaju Gambhirangaa Cheppaadu. Tenaali Raamakrrishnudi Kallalo Oka Merupu Kanipinchindi, Aalochanalu Vegangaa Parugedutunnaayi. Asalu Pillulanni Paalu Taagakundaa Aapadam Evarikainaa Saadhyamavutundaa?",
+      "text_en": "The next day, in the royal court, the Maharaju, with sparkling eyes, announced a royal decree. A servant unrolled a palm-leaf manuscript with a 'kharrur' sound. Everyone was surprised to hear the royal decree. \"Whoever protects the milk from the cats will receive a reward!\" the Maharaju declared solemnly. A spark appeared in Tenali Ramakrishna's eyes, and his thoughts raced. Could anyone really stop all the cats from drinking milk?"
+    },
+    {
+      "id": 3,
+      "text": "మహారాజు సవాలును స్వీకరించి, తెనాలి రామకృష్ణుడు ఒక రాజభవనపు పిల్లిని తన ఇంటికి తీసుకెళ్లాడు. అతని ముఖంలో ఒక చిన్న చిరునవ్వు మెరిసింది, ఏదో కొత్త ప్రయోగం చేయబోతున్నట్టు. ఒక మట్టి గిన్నెలో పాలు పెట్టి, పిల్లి దగ్గరికి రాగానే... దాన్ని చల్లటి నీళ్లలో ముంచాడు. పిల్లి 'మ్యావ్!' అని అరుస్తూ, ఒక్కసారిగా వెనక్కి దూకింది. \"పాలు తాగితే చలి, తాగకుంటే సుఖం!\" అని తెనాలి గట్టిగా చెప్పాడు. ఈ వింత శిక్షణ నిజంగా పనిచేస్తుందా, లేక తెనాలి ఏదో ఆడుకుంటున్నాడా?",
+      "image_prompt": "The man quickly dunks the approaching cat into a basin of cold water. The cat arches its back and leaps away, letting out a sharp 'meow' of surprise. Warm, late afternoon sunlight filters into Tenali's simple courtyard, highlighting the water splashing.",
+      "scene_visual": "The man quickly dunks the approaching cat into a basin of cold water. The cat arches its back and leaps away, letting out a sharp 'meow' of surprise.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mahaaraaju Savaalunu Svikarinchi, Tenaali Raamakrrishnudu Oka Raajabhavanapu Pillini Tana Intiki Tisukellaadu. Atani Mukhanlo Oka Chinna Chirunavvu Merisindi, Edo Kotta Prayogam Cheyabotunnattu. Oka Matti Ginnelo Paalu Petti, Pilli Daggariki Raagaane... Daanni Challati Nillalo Munchaadu. Pilli 'Myaav!' Ani Arustu, Okkasaarigaa Venakki Dukindi. \"Paalu Taagite Chali, Taagakunte Sukhan!\" Ani Tenaali Gattigaa Cheppaadu. I Vinta Shikshana Nijangaa Panichestundaa, Leka Tenaali Edo Aadukuntunnaadaa?",
+      "text_en": "Accepting the Maharaju's challenge, Tenali Ramakrishna took a palace cat to his home. A small smile twinkled on his face, as if he was about to try a new experiment. He placed milk in an earthen bowl, and as soon as the cat came near... he dunked it in cold water. The cat cried 'Meow!' and jumped back instantly. \"If you drink milk, you'll get cold; if you don't, you'll be comfortable!\" Tenali said loudly. Would this strange training really work, or was Tenali just playing around?"
+    },
+    {
+      "id": 4,
+      "text": "కొన్ని రోజులకు తెనాలి ఇంట్లో అప్పుడప్పుడు తడి పిల్లి బొచ్చు వాసన వచ్చేది. పిల్లి పాలు కనిపించగానే భయంతో వెనక్కి తగ్గేది, దూరం పారిపోయేది. అదే సమయంలో ఇతర మంత్రులు, సైన్యాధిపతులు మహారాజుకు తమ ప్రయత్నాలు విఫలమయ్యాయని చెప్పారు. \"పిల్లులను ఆపడం సాధ్యం కావడం లేదు మహారాజా,\" అని తల దించుకున్నారు. తెనాలి రామకృష్ణుడి పెదవులపై ఒక సంతృప్తికరమైన నవ్వు మెరిసింది. \"ఇప్పుడు నా పిల్లి పాలను ముట్టుకోవాలంటే భయపడుతుంది,\" అని తనలో తాను అనుకున్నాడు. ఒక పిల్లిని భయపెట్టడం ద్వారా, తెనాలి రాజభవనంలోని పిల్లుల సమస్యను ఎలా పరిష్కరిస్తాడు?",
+      "image_prompt": "The man stands observing, a satisfied smile playing on his lips. He watches as the cat recoils in fear and runs away from a bowl of milk. Dimming twilight in Tenali's house, casting long, quiet shadows as he contemplates his next move.",
+      "scene_visual": "The man stands observing, a satisfied smile playing on his lips. He watches as the cat recoils in fear and runs away from a bowl of milk.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojulaku Tenaali Intlo Appudappudu Tadi Pilli Bochchu Vaasana Vachchedi. Pilli Paalu Kanipinchagaane Bhayanto Venakki Taggedi, Duram Paaripoyedi. Ade Samayanlo Itara Mantrulu, Sainyaadhipatulu Mahaaraajuku Tama Prayatnaalu Viphalamayyaayani Cheppaaru. \"Pillulanu Aapadam Saadhyam Kaavadam Ledu Mahaaraajaa,\" Ani Tala Dinchukunnaaru. Tenaali Raamakrrishnudi Pedavulapai Oka Santrriptikaramaina Navvu Merisindi. \"Ippudu Naa Pilli Paalanu Muttukovaalante Bhayapadutundi,\" Ani Tanalo Taanu Anukunnaadu. Oka Pillini Bhayapettadam Dvaaraa, Tenaali Raajabhavananloni Pillula Samasyanu Elaa Parishkaristaadu?",
+      "text_en": "After a few days, the smell of wet cat fur would occasionally come from Tenali's house. As soon as the cat saw milk, it would shrink back in fear and run away. At the same time, other ministers and commanders told the Maharaju that their efforts had failed. \"It's not possible to stop the cats, Maharaju,\" they said, bowing their heads. A satisfied smile twinkled on Tenali Ramakrishna's lips. \"Now my cat is afraid to touch milk,\" he thought to himself. By scaring one cat, how would Tenali solve the problem of all the palace cats?"
+    },
+    {
+      "id": 5,
+      "text": "పిల్లలూ, ఇప్పుడు ఏం జరిగిందంటే చూడండి! మళ్ళీ మహారాజు సభలో తెనాలి రామకృష్ణుడు తన పిల్లితో ప్రవేశించాడు. అతని ముఖంలో నమ్మకం, ఒక గొప్ప ప్రదర్శన ఇవ్వబోతున్నంత ఆనందం కనిపించాయి. ఒక సేవకుడు 'క్లింగ్' అని శబ్దం చేస్తూ, పాల గిన్నెను వణకుతున్న పిల్లి ముందు పెట్టాడు. ఆ పిల్లి పాలను చూడగానే భయంతో శరీరం బిగించి, గట్టిగా 'మ్యావ్!' అని అరిచి పరుగు లంకించుకుంది. మహారాజు కనుబొమ్మలు ముడిచాడు. \"ఇదేనా నీ పరిష్కారం, రామకృష్ణా? ఒక్క పిల్లిని భయపెట్టావు!\" అని మహారాజు ప్రశ్నించాడు. ఈ వింత పరిష్కారాన్ని తెనాలి ఎలా వివరిస్తాడు?",
+      "image_prompt": "A trembling cat tenses its body, lets out a loud 'meow,' and runs away from a bowl of milk. The king watches with furrowed brows as the cat flees in terror. Also in this scene: The benevolent yet demanding emperor of the Vijayanagara Empire, known for his wisdom but also his occasional challenging nature towards his courtiers. He is depicted wearing rich royal robes, adorned with intricate gold jewelry and a majestic crown. Always the same character across every scene. Bright, formal lighting in the court, spotlighting Tenali and the cat, with the King's face in a mixture of confusion and annoyance.",
+      "scene_visual": "A trembling cat tenses its body, lets out a loud 'meow,' and runs away from a bowl of milk. The king watches with furrowed brows as the cat flees in terror.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pillalu, Ippudu Em Jarigindante Chudandi! Malli Mahaaraaju Sabhalo Tenaali Raamakrrishnudu Tana Pillito Praveshinchaadu. Atani Mukhanlo Nammakan, Oka Goppa Pradarshana Ivvabotunnanta Aanandam Kanipinchaayi. Oka Sevakudu 'Kling' Ani Shabdam Chestu, Paala Ginnenu Vanakutunna Pilli Mundu Pettaadu. Aa Pilli Paalanu Chudagaane Bhayanto Shariram Biginchi, Gattigaa 'Myaav!' Ani Arichi Parugu Lankinchukundi. Mahaaraaju Kanubommalu Mudichaadu. \"Idenaa Ni Parishkaaran, Raamakrrishnaa? Okka Pillini Bhayapettaavu!\" Ani Mahaaraaju Prashninchaadu. I Vinta Parishkaaraanni Tenaali Elaa Vivaristaadu?",
+      "text_en": "Children, see what happened next! Tenali Ramakrishna entered the Maharaju's court again, with his cat. His face showed confidence and joy, as if he was about to give a great performance. A servant placed a bowl of milk with a 'kling' sound in front of the trembling cat. As soon as the cat saw the milk, its body tensed with fear, it cried 'Meow!' loudly, and ran away. The Maharaju frowned. \"Is this your solution, Ramakrishna? You only scared one cat!\" the Maharaju asked. How would Tenali explain this strange solution?"
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి రామకృష్ణుడు నెమ్మదిగా నవ్వి, మహారాజు వైపు చూశాడు. \"మహారాజా, నేను ఒక్క పిల్లికి మాత్రమే శిక్షణ ఇచ్చాను.\" అని చెప్పాడు. \"పాలను తాగితే చలి వస్తుందని ఈ పిల్లికి భయం కలిగించాను, కానీ ఇది అన్ని పిల్లులకు వర్తించదు కదా.\" అని వివరిస్తూ ముందుకు అడుగు వేశాడు. \"పిల్లులను శిక్షించడం కాదు, పాలను వాటికి అందుబాటులో లేకుండా చేయడమే పరిష్కారం!\" అని స్పష్టంగా చెప్పాడు. మహారాజుకు ఒక్కసారిగా విషయం అర్థమైంది — అతని ముఖం వెలిగిపోయింది. సభ అంతా మహారాజు బిగ్గరగా నవ్వుతూ నిండిపోయింది, తెనాలి తెలివిని మెచ్చుకుంటూ.",
+      "image_prompt": "The king's face suddenly lights up with understanding as he bursts into loud laughter. He claps his hands, filling the court with his mirth, appreciating the man's cleverness. Also in this scene: The benevolent yet demanding emperor of the Vijayanagara Empire, known for his wisdom but also his occasional challenging nature towards his courtiers. He is depicted wearing rich royal robes, adorned with intricate gold jewelry and a majestic crown. Always the same character across every scene. Gentle, warm amber light in the court, reflecting the King's approval and the peaceful resolution.",
+      "scene_visual": "The king's face suddenly lights up with understanding as he bursts into loud laughter. He claps his hands, filling the court with his mirth, appreciating the man's cleverness.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Raamakrrishnudu Nemmadigaa Navvi, Mahaaraaju Vaipu Chushaadu. \"Mahaaraajaa, Nenu Okka Pilliki Maatrame Shikshana Ichchaanu.\" Ani Cheppaadu. \"Paalanu Taagite Chali Vastundani I Pilliki Bhayam Kaliginchaanu, Kaani Idi Anni Pillulaku Vartinchadu Kadaa.\" Ani Vivaristu Munduku Adugu Veshaadu. \"Pillulanu Shikshinchadam Kaadu, Paalanu Vaatiki Andubaatulo Lekundaa Cheyadame Parishkaaran!\" Ani Spashtangaa Cheppaadu. Mahaaraajuku Okkasaarigaa Vishayam Arthamaindi — Atani Mukham Veligipoyindi. Sabha Antaa Mahaaraaju Biggaragaa Navvutu Nindipoyindi, Tenaali Telivini Mechchukuntu.",
+      "text_en": "Tenali Ramakrishna smiled slowly and looked at the Maharaju. \"Maharaju, I only trained one cat,\" he said. \"I made this cat afraid that it would get cold if it drank milk, but this doesn't apply to all cats, does it?\" he explained, stepping forward. \"The solution is not to train the cats, but to make the milk unavailable to them!\" he stated clearly. Suddenly, the Maharaju understood — his face lit up. The entire court filled with the Maharaju's loud laughter, praising Tenali's cleverness."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is exceptionally engaging for children, utilizing suspenseful questions at every scene's end and direct address to the listener, making it highly interactive. The emotional portrayal is consistently strong, shown through actions and reactions rather than stated. To reach award-worthy status, the primary focus should be on enhancing dialogue richness by giving each character a more distinct and memorable voice, moving beyond functional speech to truly character-specific interactions."
+  },
+  "title_te_en": "Paalu Taagina Pilli, Tenaali Telivi",
+  "moral_te_en": "Eppudu Samasya Paipaina Chudakudadu, Daani Lopaliki Velli Mulam Kanugonaali Kadu!",
+  "title_en": "The Milk-Drinking Cat and Tenali's Wit",
+  "moral_en": "You should never just look at the surface of a problem. You need to go deep inside and find its real cause!",
+  "id": "20260526_071540",
+  "date": "2026-05-26",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రామకృష్ణుడు మరియు పిల్లి పాలు",
+  "thumbnail": "stories/20260526_071540/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
