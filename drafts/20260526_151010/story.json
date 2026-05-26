@@ -1,0 +1,119 @@
+{
+  "title": "ధర్మ మార్గంలో రాముడి ప్రయాణం",
+  "moral": "జీవితంలో ఎలాంటి మలుపులు వచ్చినా, ధైర్యంగా ధర్మాన్ని పట్టుకుంటే మనసు నిండుగా ఉంటుంది, తెలుసా పిల్లలూ?",
+  "main_character": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story begins in the royal city of Ayodhya, with its grand palace and fragrant gardens, then shifts to the vast, ancient Dandakaranya forest, characterized by towering sal trees and winding rivers. The narrative spans from bright mornings in the palace to tranquil evenings deep in the wilderness.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అయోధ్యలోని అందమైన పూల తోటలలో, రామచంద్రుడు నెమ్మదిగా నడుస్తున్నాడు. అతని అడుగులు నేలను తాకుతున్నప్పుడు — పువ్వులు కూడా సంతోషంగా చిరునవ్వు చిందిస్తున్నట్లు అనిపించేది. మల్లెపూల, సంపెంగ పూల సువాసనలు గాలిలో తేలియాడుతూ, మనసును ఆహ్లాదపరుస్తున్నాయి. ఎవరిని చూసినా, అతని కళ్ళల్లో ఒక ప్రత్యేకమైన మెరుపు కనిపించేది, పెదవులపై చిరునవ్వు విరిసేది. \"మీరందరూ సంతోషంగా ఉండాలి,\" అంటూ, తన చూపుతోనే అందరినీ ఆశీర్వదించాడు. అంతటి ప్రేమను పంచే రాముడికి, ఈ శాంతమైన రాజ్యంలో ఎలాంటి ఆనందం ఎదురుచూస్తుందో?",
+      "image_prompt": "The man walks slowly through beautiful flower gardens, his steps gently touching the ground. A special sparkle is visible in his eyes and a gentle smile blossoms on his lips as he looks at everyone. Bright, golden morning sun filtering through lush green trees, creating a peaceful, idyllic glow.",
+      "scene_visual": "The man walks slowly through beautiful flower gardens, his steps gently touching the ground. A special sparkle is visible in his eyes and a gentle smile blossoms on his lips as he looks at everyone.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ayodhyaloni Andamaina Pula Totalalo, Raamachandrudu Nemmadigaa Nadustunnaadu. Atani Adugulu Nelanu Taakutunnappudu — Puvvulu Kudaa Santoshangaa Chirunavvu Chindistunnatlu Anipinchedi. Mallepula, Sampenga Pula Suvaasanalu Gaalilo Teliyaadutu, Manasunu Aahlaadaparustunnaayi. Evarini Chusinaa, Atani Kallallo Oka Pratyekamaina Merupu Kanipinchedi, Pedavulapai Chirunavvu Virisedi. \"Mirandaru Santoshangaa Undaali,\" Antu, Tana Chuputone Andarini Aashirvadinchaadu. Antati Premanu Panche Raamudiki, I Shaantamaina Raajyanlo Elaanti Aanandam Eduruchustundo?",
+      "text_en": "In the beautiful flower gardens of Ayodhya, Ramachandra walked slowly. As his footsteps touched the ground, it felt as if even the flowers were happily smiling. The sweet scents of jasmine and champak flowers floated in the air, making everyone's heart happy. Whoever he looked at, a special sparkle could be seen in his eyes, and a smile bloomed on his lips. 'May you all be happy,' he said, blessing everyone with just his gaze. For Rama, who shared so much love, what kind of happiness awaited him in this peaceful kingdom?"
+    },
+    {
+      "id": 2,
+      "text": "అయోధ్యలో ఆనందం నిండిన వాతావరణం, ఒక్కసారిగా మారిపోయింది. రాజభవనపు కారిడార్లలో, సేవకుల గుసగుసలు ఆందోళనగా వినిపిస్తున్నాయి. రాముడికి కైకేయి కోరిక, తండ్రి మాట తెలిసి — అతని నుదుట చిన్నగా ముడుతలు పడ్డాయి. కానీ, అతని కళ్ళు మాత్రం స్థిరంగా ఉన్నాయి. \"నేను అరణ్యానికి వెళ్తాను,\" అని చెప్పాడు, అతని గొంతులో ఏమాత్రం చలనం లేదు. ఈ రాజ్యాన్ని పాలించాల్సిన రాముడు, అన్ని సుఖాలను వదిలి, నిజంగా అడవికి వెళ్ళిపోతాడా?",
+      "image_prompt": "The man stands still, having just heard distressing news. Small wrinkles appear on his forehead, yet his eyes remain steady and unwavering. Dim, heavy light inside the palace, shadows lengthening as if reflecting the sudden sorrow, a sense of foreboding.",
+      "scene_visual": "The man stands still, having just heard distressing news. Small wrinkles appear on his forehead, yet his eyes remain steady and unwavering.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ayodhyalo Aanandam Nindina Vaataavaranan, Okkasaarigaa Maaripoyindi. Raajabhavanapu Kaaridaarlalo, Sevakula Gusagusalu Aandolanagaa Vinipistunnaayi. Raamudiki Kaikeyi Korika, Tandri Maata Telisi — Atani Nuduta Chinnagaa Mudutalu Paddaayi. Kaani, Atani Kallu Maatram Sthirangaa Unnaayi. \"Nenu Aranyaaniki Veltaanu,\" Ani Cheppaadu, Atani Gontulo Emaatram Chalanam Ledu. I Raajyaanni Paalinchaalsina Raamudu, Anni Sukhaalanu Vadili, Nijangaa Adaviki Vellipotaadaa?",
+      "text_en": "The joyful atmosphere in Ayodhya suddenly changed. In the palace corridors, the worried whispers of the servants could be heard. When Rama learned of Kaikeyi's wish and his father's words, small wrinkles appeared on his forehead. But his eyes remained steady. 'I will go to the forest,' he said, with no change in his voice. Would Rama, who was supposed to rule this kingdom, really leave all comforts and go to the forest?"
+    },
+    {
+      "id": 3,
+      "text": "రాముడు అడవికి వెళ్తాననగానే, సీతమ్మ, లక్ష్మణుడు అతని వద్దకు పరుగున వచ్చారు. అతని మాట వినకుండా, అతనితో పాటు తాము కూడా వస్తామని బలంగా చెప్పారు. రాముడు వారిని ఆపడానికి ప్రయత్నించినా — వారి కళ్ళు మాత్రం స్థిరంగా ఉన్నాయి. \"మీరు లేని అయోధ్య నాకు అరణ్యమే,\" అంటూ, సీతమ్మ గొంతులో ప్రేమ నిండిన దృఢత్వం పలికింది. వారి వల్కల వస్త్రాలు చిరుగాలికి కదులుతుండగా, రాముడు ప్రేమగా వారిని చూసి, ఒక చిన్న చిరునవ్వు నవ్వాడు. రాజ భోగాలు అలవాటైన వీరు, అడవి కష్టాలను ఎలా తట్టుకుంటారు?",
+      "image_prompt": "The man looks lovingly at the woman and the other man who stand firmly beside him. Their bark clothes gently sway in the breeze as a small smile appears on the man's face. SUPPORTING CHARACTER also in this scene: Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Soft, melancholic light in a private chamber, perhaps early morning, with dust motes dancing in the air, emphasizing intimacy and sorrow.",
+      "scene_visual": "The man looks lovingly at the woman and the other man who stand firmly beside him. Their bark clothes gently sway in the breeze as a small smile appears on the man's face.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Raamudu Adaviki Veltaananagaane, Sitamma, Lakshmanudu Atani Vaddaku Paruguna Vachchaaru. Atani Maata Vinakundaa, Atanito Paatu Taamu Kudaa Vastaamani Balangaa Cheppaaru. Raamudu Vaarini Aapadaaniki Prayatninchinaa — Vaari Kallu Maatram Sthirangaa Unnaayi. \"Miru Leni Ayodhya Naaku Aranyame,\" Antu, Sitamma Gontulo Prema Nindina Drridhatvam Palikindi. Vaari Valkala Vastraalu Chirugaaliki Kadulutundagaa, Raamudu Premagaa Vaarini Chusi, Oka Chinna Chirunavvu Navvaadu. Raaja Bhogaalu Alavaataina Viru, Adavi Kashtaalanu Elaa Tattukuntaaru?",
+      "text_en": "As soon as Rama said he would go to the forest, Sita and Lakshmana rushed to him. Without listening to him, they strongly said they would also come with him. Even though Rama tried to stop them, their eyes remained steady. 'Ayodhya without you is a forest to me,' Sita said with loving determination in her voice. As their bark clothes swayed in the gentle breeze, Rama looked at them lovingly and gave a small smile. How would these people, used to royal comforts, endure the hardships of the forest?"
+    },
+    {
+      "id": 4,
+      "text": "అయోధ్య నగరం మొత్తం దుఃఖంలో మునిగిపోయింది. రాముడు, సీత, లక్ష్మణులు నగర ద్వారం దాటి ముందుకు కదిలారు. వెనక నుంచి వస్తున్న ప్రజల ఆర్తనాదాలు, రానురాను చిన్నబోయాయి... చివరకు వినిపించకుండా పోయాయి. రాముడి కళ్ళు ముందున్న దారిని స్థిరంగా చూస్తున్నాయి, కానీ అతని పెదవులు మాత్రం కొద్దిగా వణికాయి. \"భయపడకండి, ధర్మం రక్షిస్తుంది,\" అంటూ, తన ప్రజలకు ధైర్యం చెప్పాడు. ఈ విశాలమైన, తెలియని అడవిలో వారికి ఎలాంటి ప్రమాదాలు, సవాళ్లు ఎదురవుతాయి?",
+      "image_prompt": "The man walks forward, having just passed the city gate, leaving his people behind. His eyes are fixed steadily on the path ahead, but his lips tremble slightly. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Harsh, bright midday sun on a dusty road, emphasizing the long journey ahead and the separation, but with a clear path forward.",
+      "scene_visual": "The man walks forward, having just passed the city gate, leaving his people behind. His eyes are fixed steadily on the path ahead, but his lips tremble slightly.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Ayodhya Nagaram Mottam Duhkhanlo Munigipoyindi. Raamudu, Sita, Lakshmanulu Nagara Dvaaram Daati Munduku Kadilaaru. Venaka Nunchi Vastunna Prajala Aartanaadaalu, Raanuraanu Chinnaboyaayi... Chivaraku Vinipinchakundaa Poyaayi. Raamudi Kallu Mundunna Daarini Sthirangaa Chustunnaayi, Kaani Atani Pedavulu Maatram Koddigaa Vanikaayi. \"Bhayapadakandi, Dharmam Rakshistundi,\" Antu, Tana Prajalaku Dhairyam Cheppaadu. I Vishaalamaina, Teliyani Adavilo Vaariki Elaanti Pramaadaalu, Savaallu Eduravutaayi?",
+      "text_en": "The entire city of Ayodhya was plunged into sorrow. Rama, Sita, and Lakshmana moved forward, past the city gate. The cries of the people coming from behind grew fainter and fainter... until they could no longer be heard. Rama's eyes were steadily looking at the path ahead, but his lips trembled slightly. 'Do not be afraid, Dharma will protect you,' he said, encouraging his people. What dangers and challenges would they face in this vast, unknown forest?"
+    },
+    {
+      "id": 5,
+      "text": "అడవిలోకి అడుగుపెట్టాక, వారికి మొదట చిన్న చిన్న కష్టాలు ఎదురయ్యాయి. ఎత్తైన చెట్ల మధ్య, తెలియని పక్షుల కూతలు దూరంగా వినిపిస్తున్నాయి. ఆకలి వేసినప్పుడు, ముగ్గురూ కలిసి అడవి పండ్లను వెతికారు, దప్పికైనప్పుడు సెలయేటి నీరు తాగారు. రాముడు చిరునవ్వుతో, లక్ష్మణుడికి, సీతకు అడవిలోని రహస్యాలను నేర్పించాడు. \"ఈ అరణ్యం మనకు గురుకులం,\" అంటూ, రాముడు అడవికి కొత్త అర్థం చెప్పాడు. ఈ అడవిని తమ సొంత ఇల్లుగా ఎలా మలుచుకుంటారు, పిల్లలూ, ఆ పద్నాలుగు సంవత్సరాలు?",
+      "image_prompt": "The three characters search together for wild fruits among tall trees. The man smiles as he teaches the woman and the other man the secrets of the forest. SUPPORTING CHARACTER also in this scene: Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Dappled sunlight filtering through dense forest canopy, creating patches of light and shadow, suggesting both beauty and the unknown.",
+      "scene_visual": "The three characters search together for wild fruits among tall trees. The man smiles as he teaches the woman and the other man the secrets of the forest.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Adaviloki Adugupettaaka, Vaariki Modata Chinna Chinna Kashtaalu Edurayyaayi. Ettaina Chetla Madhya, Teliyani Pakshula Kutalu Durangaa Vinipistunnaayi. Aakali Vesinappudu, Mugguru Kalisi Adavi Pandlanu Vetikaaru, Dappikainappudu Selayeti Niru Taagaaru. Raamudu Chirunavvuto, Lakshmanudiki, Sitaku Adaviloni Rahasyaalanu Nerpinchaadu. \"I Aranyam Manaku Gurukulan,\" Antu, Raamudu Adaviki Kotta Artham Cheppaadu. I Adavini Tama Sonta Illugaa Elaa Maluchukuntaaru, Pillalu, Aa Padnaalugu Sanvatsaraalu?",
+      "text_en": "After entering the forest, they first faced small difficulties. Among the tall trees, the calls of unknown birds could be heard in the distance. When they were hungry, all three searched for forest fruits, and when thirsty, they drank stream water. Rama, with a smile, taught Lakshmana and Sita the secrets of the forest. 'This forest is our school,' Rama said, giving a new meaning to the forest. Children, how would they turn this forest into their own home for those fourteen years?"
+    },
+    {
+      "id": 6,
+      "text": "ఒక ప్రశాంతమైన నది ఒడ్డున, రాముడు కళ్ళు మూసుకుని కూర్చున్నాడు. అతని శ్వాస నిదానంగా, స్థిరంగా సాగుతోంది. నది నీరు రాళ్ళపై నుండి ప్రవహిస్తూ, ఒక మధురమైన సంగీతంలా వినిపిస్తోంది. ఆ క్షణంలో — అతని ముఖంపై ఒక దివ్యమైన ప్రశాంతత వెల్లివిరిసింది. అప్పుడు రాముడు, తనలో తాను \"ఈ ధర్మమే నాకు రక్షణ,\" అని అనుకున్నాడు. ఈ అద్భుతమైన శాంతి నుండి, రాముడు తన ప్రయాణాన్ని కొనసాగించడానికి ఎలాంటి కొత్త శక్తిని పొందుతాడు?",
+      "image_prompt": "The man sits with his eyes closed by the bank of a peaceful river. A divine serenity spreads across his face as the river water flows over rocks. Soft, golden light of a setting sun reflecting on the river, creating a serene, almost ethereal glow, emphasizing spiritual calm.",
+      "scene_visual": "The man sits with his eyes closed by the bank of a peaceful river. A divine serenity spreads across his face as the river water flows over rocks.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Prashaantamaina Nadi Odduna, Raamudu Kallu Musukuni Kurchunnaadu. Atani Shvaasa Nidaanangaa, Sthirangaa Saagutondi. Nadi Niru Raallapai Nundi Pravahistu, Oka Madhuramaina Sangitanlaa Vinipistondi. Aa Kshananlo — Atani Mukhampai Oka Divyamaina Prashaantata Vellivirisindi. Appudu Raamudu, Tanalo Taanu \"I Dharmame Naaku Rakshana,\" Ani Anukunnaadu. I Adbhutamaina Shaanti Nundi, Raamudu Tana Prayaanaanni Konasaaginchadaaniki Elaanti Kotta Shaktini Pondutaadu?",
+      "text_en": "On the bank of a peaceful river, Rama sat with his eyes closed. His breath was slow and steady. The river water flowed over the rocks, sounding like sweet music. In that moment, a divine calmness spread across his face. Then Rama thought to himself, 'This Dharma is my protection.' From this wonderful peace, what new strength would Rama gain to continue his journey?"
+    },
+    {
+      "id": 7,
+      "text": "రాముడు, సీత, లక్ష్మణులు కలిసి, ఒక చిన్న పర్ణశాలను నిర్మిస్తున్నారు. కొత్తగా కోసిన కలప వాసన, తడి మట్టి సువాసన అడవి గాలిలో కలిసిపోతున్నాయి. లక్ష్మణుడు చెక్కలను సరిచేస్తుండగా, సీతమ్మ పూల మొక్కలు నాటుతోంది. రాముడు వారిని చూసి, ఒక సంతృప్తిగా నవ్వాడు. \"ఇది మన ఇల్లు, అన్నయ్య,\" అంటూ, లక్ష్మణుడు ఆనందంగా చెప్పాడు. ధర్మాన్ని నిలబెట్టడానికి, రాముడి కుటుంబం అడవిలోనే ఒక కొత్త జీవితాన్ని ప్రారంభించి, సంతోషంగా జీవించారు.",
+      "image_prompt": "The three characters are busy constructing a small hut together in the forest. The woman plants flower saplings while the other man adjusts wooden pieces, and the man watches with a satisfied smile. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Warm, gentle dusk light, a mix of amber and soft blues, casting long shadows, signifying peace and the promise of a quiet evening.",
+      "scene_visual": "The three characters are busy constructing a small hut together in the forest. The woman plants flower saplings while the other man adjusts wooden pieces, and the man watches with a satisfied smile.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Raamudu, Sita, Lakshmanulu Kalisi, Oka Chinna Parnashaalanu Nirmistunnaaru. Kottagaa Kosina Kalapa Vaasana, Tadi Matti Suvaasana Adavi Gaalilo Kalisipotunnaayi. Lakshmanudu Chekkalanu Sarichestundagaa, Sitamma Pula Mokkalu Naatutondi. Raamudu Vaarini Chusi, Oka Santrriptigaa Navvaadu. \"Idi Mana Illu, Annayya,\" Antu, Lakshmanudu Aanandangaa Cheppaadu. Dharmaanni Nilabettadaaniki, Raamudi Kutumbam Adavilone Oka Kotta Jivitaanni Praarambhinchi, Santoshangaa Jivinchaaru.",
+      "text_en": "Rama, Sita, and Lakshmana together were building a small hut made of leaves. The smell of freshly cut wood and the scent of wet earth mingled in the forest air. While Lakshmana was arranging the wood, Sita was planting flower saplings. Rama looked at them and smiled with satisfaction. 'This is our home, brother,' Lakshmana said happily. To uphold Dharma, Rama's family started a new life in the forest and lived happily."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "Sita",
+      "description": "Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is an exceptionally well-crafted children's story in Telugu, demonstrating a deep understanding of the genre. The narrative flows beautifully, engaging the listener with consistent suspense hooks and direct address, making it feel like a true oral tradition. Emotional depth is conveyed subtly through actions and expressions, and the grammar is flawless, contributing to a highly immersive experience. To elevate it further, exploring slightly more distinct individual voices for supporting characters, beyond their current strong portrayal, could add another layer of richness."
+  },
+  "title_te_en": "Dharma Maarganlo Raamudi Prayaanam",
+  "moral_te_en": "Jivitanlo Elaanti Malupulu Vachchinaa, Dhairyangaa Dharmaanni Pattukunte Manasu Nindugaa Untundi, Telusaa Pillalu?",
+  "title_en": "Rama's Journey on the Path of Dharma",
+  "moral_en": "Children, do you know? No matter what challenges come in life, if you bravely follow what is right, your heart will always feel full and happy!",
+  "id": "20260526_151010",
+  "date": "2026-05-26",
+  "category": "ramayana",
+  "subcategory": "courage_tales",
+  "topic": "రాముడు వనవాసం",
+  "thumbnail": "stories/20260526_151010/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
