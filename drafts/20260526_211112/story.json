@@ -1,0 +1,98 @@
+{
+  "title": "నీడలోని నిజం",
+  "moral": "నిజమైన దయ నిశ్శబ్దంగా వస్తుంది, దాని విలువ అవసరమైనప్పుడు మాత్రమే తెలుస్తుంది.",
+  "main_character": "A middle-aged man, with a tanned, kind face and a slight limp from a long journey. He wears a simple, faded white dhoti and shirt, carrying a worn cloth bag. He is generally patient but can be quick to judge when tired. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A dusty, unpaved road winding through the dry plains of rural Anantapur district, Andhra Pradesh. Sparse thorny bushes line the road, and in the distance, a small temple gopuram is visible. The air shimmers with heat. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లెటూరి బాటలో ఒక బాటసారి తన ప్రయాణం మొదలుపెట్టాడు — ఉదయపు సూర్యుడు ఇంకా మెల్లగా పైకి వస్తున్నాడు. అతని అడుగులు వేగంగా, దృఢంగా పడుతున్నాయి; ప్రతి అడుగుకూ అతని పాదాల చుట్టూటి ఎర్రటి ధూళి రేగుతోంది, అతని చెప్పులను కప్పేస్తోంది. అతని మొహంలో ఒక కొత్త ఆశ, ఆ రోజు ప్రయాణం పట్ల నమ్మకం కనిపించాయి. అతను తనలో తాను గొణుగుకున్నాడు, \"ఈ రోజు ప్రయాణం బాగానే సాగుతుంది!\" అతని తల పైకెత్తి, ఆకాశాన్ని చూస్తూ, ఎంతో ఉత్సాహంగా సాగిపోతున్నాడు. ఆ దూరం — అతని ముందు ఉంది. ఈ ఉత్సాహం చివరి వరకు ఉంటుందా, లేదా ఈ ప్రయాణం అతన్ని అలసిపోతుందా?",
+      "image_prompt": "The traveler walks briskly along a village road, his steps firm and fast. Red dust rises around his feet with every step, covering his sandals, as he looks up at the sky with a hopeful expression. Clear morning light, golden-yellow, casting long shadows, hinting at the coming heat.",
+      "scene_visual": "The traveler walks briskly along a village road, his steps firm and fast. Red dust rises around his feet with every step, covering his sandals, as he looks up at the sky with a hopeful expression.",
+      "supporting_char_keys": [],
+      "text_te_en": "Palleturi Baatalo Oka Baatasaari Tana Prayaanam Modalupettaadu — Udayapu Suryudu Inkaa Mellagaa Paiki Vastunnaadu. Atani Adugulu Vegangaa, Drridhangaa Padutunnaayi; Prati Aduguku Atani Paadaala Chuttuti Errati Dhuli Regutondi, Atani Cheppulanu Kappestondi. Atani Mohanlo Oka Kotta Aasha, Aa Roju Prayaanam Patla Nammakam Kanipinchaayi. Atanu Tanalo Taanu Gonugukunnaadu, \"I Roju Prayaanam Baagaane Saagutundi!\" Atani Tala Paiketti, Aakaashaanni Chustu, Ento Utsaahangaa Saagipotunnaadu. Aa Duram — Atani Mundu Undi. I Utsaaham Chivari Varaku Untundaa, Ledaa I Prayaanam Atanni Alasipotundaa?",
+      "text_en": "A traveler began his journey on a village road — the morning sun was still slowly rising. His steps were quick and firm; with every step, red dust rose around his feet, covering his sandals. A new hope and confidence for the day's journey shone on his face. He mumbled to himself, \"Today's journey will go well!\" He lifted his head, looked at the sky, and walked on with great excitement. The distance — it lay before him. Would this excitement last until the end, or would this journey tire him out?"
+    },
+    {
+      "id": 2,
+      "text": "కానీ సూర్యుడు నెమ్మదిగా నడినెత్తినకి ఎక్కాడు, అతని ఉత్సాహం నెమ్మదిగా కరిగిపోసాగింది. అతని భుజాలు వాలిపోగా, నుదుటిపై నుండి కారే చెమటను తన చేతితో తుడుచుకున్నాడు — అతని ముఖం అలసటతో నిండిపోయింది. చుట్టూ ఉన్న గాలి దుప్పటిలా వేడిగా, బరువుగా అనిపించింది, ఊపిరి తీయడం కూడా కష్టంగా మారింది. అతని గొంతు ఎండిపోయింది. \"అయ్యో, ఈ ఎండ భరించలేనంత వేడిగా ఉంది!\" అని అతను పెద్దగా అనుకున్నాడు. కళ్ళు నలిపాడు. ఇంత అలసిపోయిన బాటసారికి, ఈ భరించలేని ఎండ నుండి సేద తీరడానికి ఎక్కడ ఆశ్రయం దొరుకుతుంది?",
+      "image_prompt": "The traveler wipes sweat from his forehead with his hand, his shoulders slumped. His face is filled with exhaustion, and he rubs his eyes, struggling to breathe in the heavy, hot air. Harsh midday sun, stark white and blinding, creating sharp, dark shadows directly beneath objects, emphasizing the heat.",
+      "scene_visual": "The traveler wipes sweat from his forehead with his hand, his shoulders slumped. His face is filled with exhaustion, and he rubs his eyes, struggling to breathe in the heavy, hot air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaani Suryudu Nemmadigaa Nadinettinaki Ekkaadu, Atani Utsaaham Nemmadigaa Karigiposaagindi. Atani Bhujaalu Vaalipogaa, Nudutipai Nundi Kaare Chematanu Tana Chetito Tuduchukunnaadu — Atani Mukham Alasatato Nindipoyindi. Chuttu Unna Gaali Duppatilaa Vedigaa, Baruvugaa Anipinchindi, Upiri Tiyadam Kudaa Kashtangaa Maarindi. Atani Gontu Endipoyindi. \"Ayyo, I Enda Bharinchalenanta Vedigaa Undi!\" Ani Atanu Peddagaa Anukunnaadu. Kallu Nalipaadu. Inta Alasipoyina Baatasaariki, I Bharinchaleni Enda Nundi Seda Tiradaaniki Ekkada Aashrayam Dorukutundi?",
+      "text_en": "But the sun slowly climbed to the top of the sky, and his excitement began to melt away. His shoulders drooped, and he wiped the sweat from his forehead with his hand — his face was filled with tiredness. The air around him felt hot and heavy like a blanket, making it hard to even breathe. His throat was dry. \"Oh no, this sun is unbearably hot!\" he thought aloud. He rubbed his eyes. For such a tired traveler, where could he find shelter from this unbearable heat?"
+    },
+    {
+      "id": 3,
+      "text": "ఇంతలో, దూరంగా ఒక పెద్ద, పురాతన మర్రి చెట్టు కనిపించింది — దాని దట్టమైన ఆకుపచ్చని పందిరి వేడెక్కిన горизонтаనికి ఒక చల్లని ఒయాసిస్‌లా కనిపించింది. అతని కళ్ళల్లో ఆశ మెరిసింది. ఆ చెట్టును చూడగానే అతని అడుగులు వేగంగా పడ్డాయి, ప్రాణం తిరిగి వచ్చినట్లుగా అనిపించింది. అతని చూపులు ఆ చెట్టుపై స్థిరపడ్డాయి. \"అక్కడ ఒక చెట్టు ఉంది! ఆ నీడలో కాసేపు విశ్రాంతి తీసుకోవాలి\" అని అతను ఉత్సాహంగా అరిచాడు. ఆ చెట్టు నీడ అతనికి కావాల్సినంత ఉపశమనం ఇస్తుందా, లేదా ఇంకేదైనా అతన్ని నిరాశపరుస్తుందా?",
+      "image_prompt": "The traveler's eyes light up as he spots a large, ancient banyan tree in the distance. His steps quicken, and he enthusiastically shouts, his gaze fixed on the tree's dense green canopy. Midday sun still harsh, but the tree's shadow is a stark, inviting patch of deep cool blue-green on the dry earth.",
+      "scene_visual": "The traveler's eyes light up as he spots a large, ancient banyan tree in the distance. His steps quicken, and he enthusiastically shouts, his gaze fixed on the tree's dense green canopy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Intalo, Durangaa Oka Pedda, Puraatana Marri Chettu Kanipinchindi — Daani Dattamaina Aakupachchani Pandiri Vedekkina Горизонтаniki Oka Challani Oyaasis‌Laa Kanipinchindi. Atani Kallallo Aasha Merisindi. Aa Chettunu Chudagaane Atani Adugulu Vegangaa Paddaayi, Praanam Tirigi Vachchinatlugaa Anipinchindi. Atani Chupulu Aa Chettupai Sthirapaddaayi. \"Akkada Oka Chettu Undi! Aa Nidalo Kaasepu Vishraanti Tisukovaali\" Ani Atanu Utsaahangaa Arichaadu. Aa Chettu Nida Ataniki Kaavaalsinanta Upashamanam Istundaa, Ledaa Inkedainaa Atanni Niraashaparustundaa?",
+      "text_en": "Just then, a large, ancient banyan tree appeared in the distance — its thick green canopy looked like a cool oasis in the hot horizon. Hope sparkled in his eyes. As soon as he saw the tree, his steps quickened, and it felt as if life had returned to him. His gaze fixed on the tree. \"There's a tree! I must rest for a while in its shade,\" he shouted excitedly. Would the tree's shade give him the relief he needed, or would something else disappoint him?"
+    },
+    {
+      "id": 4,
+      "text": "చివరకు, ఆ మర్రి చెట్టు నీడ చేరుకున్నాడు — దాని చల్లని, నునుపైన బెరడు అతని వీపుకు హాయిగా అనిపించింది, అతను దానిపై వాలిపోయాడు. ఒక పెద్ద నిట్టూర్పు విడిచి, కళ్ళు మూసుకున్నాడు. కొంతసేపు అలా విశ్రాంతి తీసుకున్నాక, అతను చెట్టు కొమ్మల వైపు చూసి ముఖం చిట్లించాడు. \"ఈ చెట్టుకు మంచి పండ్లేవీ లేవు కదా! కేవలం నీడ మాత్రమే\" అని అతను గొణుగుకున్నాడు. ఆ చెట్టు ఇచ్చిన గొప్ప బహుమతి విలువను అతను ఎలా అర్థం చేసుకుంటాడు?",
+      "image_prompt": "The traveler leans against the cool, smooth bark of the banyan tree, letting out a deep sigh and closing his eyes. After resting, he frowns as he looks up at the branches, muttering about the lack of fruit. Deep, dappled shade under the banyan, a mosaic of soft greens and browns, contrasting with the bright, hot world outside.",
+      "scene_visual": "The traveler leans against the cool, smooth bark of the banyan tree, letting out a deep sigh and closing his eyes. After resting, he frowns as he looks up at the branches, muttering about the lack of fruit.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chivaraku, Aa Marri Chettu Nida Cherukunnaadu — Daani Challani, Nunupaina Beradu Atani Vipuku Haayigaa Anipinchindi, Atanu Daanipai Vaalipoyaadu. Oka Pedda Nitturpu Vidichi, Kallu Musukunnaadu. Kontasepu Alaa Vishraanti Tisukunnaaka, Atanu Chettu Kommala Vaipu Chusi Mukham Chitlinchaadu. \"I Chettuku Manchi Pandlevi Levu Kadaa! Kevalam Nida Maatrame\" Ani Atanu Gonugukunnaadu. Aa Chettu Ichchina Goppa Bahumati Viluvanu Atanu Elaa Artham Chesukuntaadu?",
+      "text_en": "Finally, he reached the shade of the banyan tree — its cool, smooth bark felt comfortable against his back, and he leaned against it. He let out a big sigh and closed his eyes. After resting for a while, he looked up at the tree branches and frowned. \"This tree doesn't have any good fruits, does it? Only shade,\" he grumbled. How would he understand the value of the great gift the tree had given him?"
+    },
+    {
+      "id": 5,
+      "text": "అలా విశ్రాంతి తీసుకుంటుండగా, ఆ చెట్టు కేవలం నీడ మాత్రమే కాకుండా, ఇంకా ఎన్నో సౌకర్యాలను ఇస్తుందని గమనించాడు. పైనున్న ఆకుల గుండా ఒక మృదువైన గాలి వీచింది, చిన్న పక్షుల కిలకిలరావాలు వినిపించాయి — అతని మనసుకు ఎంతో ప్రశాంతత లభించింది. అతని కళ్ళు మూసుకున్నాయి, పెదవులపై ఒక చిన్న చిరునవ్వు మెరిసింది. మనసులో ఒక ఆలోచన మెరిసింది. \"నిజమే, ఈ నీడ ఎంత గొప్ప ఉపశమనం!\" అని అతను మళ్ళీ గొణుగుకున్నాడు. అతని ఆలోచనలను పూర్తిగా మార్చే చివరి గ్రహింపు ఏమిటి?",
+      "image_prompt": "The traveler's eyes are closed as a gentle breeze rustles through the leaves above him. A small smile plays on his lips, reflecting the peace he feels from the birdsong and cool air. Soft, diffused light filtering through the dense canopy, creating a serene, almost sacred atmosphere, cool and inviting.",
+      "scene_visual": "The traveler's eyes are closed as a gentle breeze rustles through the leaves above him. A small smile plays on his lips, reflecting the peace he feels from the birdsong and cool air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alaa Vishraanti Tisukuntundagaa, Aa Chettu Kevalam Nida Maatrame Kaakundaa, Inkaa Enno Saukaryaalanu Istundani Gamaninchaadu. Painunna Aakula Gundaa Oka Mrriduvaina Gaali Vichindi, Chinna Pakshula Kilakilaraavaalu Vinipinchaayi — Atani Manasuku Ento Prashaantata Labhinchindi. Atani Kallu Musukunnaayi, Pedavulapai Oka Chinna Chirunavvu Merisindi. Manasulo Oka Aalochana Merisindi. \"Nijame, I Nida Enta Goppa Upashamanan!\" Ani Atanu Malli Gonugukunnaadu. Atani Aalochanalanu Purtigaa Maarche Chivari Grahimpu Emiti?",
+      "text_en": "As he rested, he noticed that the tree offered not just shade, but many other comforts. A gentle breeze blew through the leaves above, and the chirping of small birds could be heard — bringing great peace to his mind. His eyes closed, and a small smile appeared on his lips. An idea sparked in his mind. \"It's true, what great relief this shade is!\" he mumbled again. What was the final realization that would completely change his thoughts?"
+    },
+    {
+      "id": 6,
+      "text": "కొద్దిసేపటికి, బాటసారి లేచి నిలబడ్డాడు — అతని శరీరం ఇప్పుడు పూర్తిగా శక్తిని పుంజుకుంది. సూర్యుడి వెచ్చదనం ఇంతకు ముందులా బాధించలేదు, చల్లని నీడ అతనిని పూర్తిగా పునరుత్తేజపరిచింది. అతని కళ్ళల్లో ఒక లోతైన అవగాహన, కృతజ్ఞత కనిపించాయి; అతను చెట్టు వైపు తిరిగి కొద్దిగా తల వంచాడు. అతని గుండె నిండిపోయింది. \"చెట్టూ, నీ నిస్వార్థ ప్రేమకు ధన్యవాదాలు\" అని అతను నెమ్మదిగా అన్నాడు. ఈ కొత్త అవగాహన అతని చర్యలను, భవిష్యత్తు దృక్పథాన్ని ఎలా మారుస్తుంది?",
+      "image_prompt": "The traveler stands up, his body now fully re-energized, and turns towards the tree. He bows his head slightly, his eyes reflecting deep understanding and gratitude for the cool shade. Late afternoon sun, warm orange and gold, casting long, gentle shadows, highlighting the tree's majestic form.",
+      "scene_visual": "The traveler stands up, his body now fully re-energized, and turns towards the tree. He bows his head slightly, his eyes reflecting deep understanding and gratitude for the cool shade.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koddisepatiki, Baatasaari Lechi Nilabaddaadu — Atani Shariram Ippudu Purtigaa Shaktini Punjukundi. Suryudi Vechchadanam Intaku Mundulaa Baadhinchaledu, Challani Nida Atanini Purtigaa Punaruttejaparichindi. Atani Kallallo Oka Lotaina Avagaahana, Krritajnyata Kanipinchaayi; Atanu Chettu Vaipu Tirigi Koddigaa Tala Vanchaadu. Atani Gunde Nindipoyindi. \"Chettu, Ni Nisvaartha Premaku Dhanyavaadaalu\" Ani Atanu Nemmadigaa Annaadu. I Kotta Avagaahana Atani Charyalanu, Bhavishyattu Drrikpathaanni Elaa Maarustundi?",
+      "text_en": "After a little while, the traveler stood up — his body now completely full of energy. The sun's warmth no longer bothered him as before; the cool shade had completely refreshed him. A deep understanding and gratitude appeared in his eyes; he turned towards the tree and bowed his head slightly. His heart was full. \"Thank you, dear tree, for your selfless love,\" he said softly. How would this new understanding change his actions and future outlook?"
+    },
+    {
+      "id": 7,
+      "text": "ఆ మర్రి చెట్టు అందించిన నిస్వార్థ ప్రేమను మనసులో నింపుకొని, బాటసారి తేలికైన అడుగులతో తన ప్రయాణాన్ని కొనసాగించాడు — అతని పెదవులపై ఒక జ్ఞానభరితమైన చిరునవ్వు. దూరం నుండి సాయంత్రపు కీచురాళ్ళ శబ్దం వినిపించడం మొదలైంది. ఇప్పుడు అతను ప్రతీ చిన్న దయను, నిస్వార్థమైన సహాయాన్ని ఎంతో విలువైనదిగా భావిస్తున్నాడు. ఒక నిస్వార్థ ప్రేమ — జీవితాన్ని మార్చగలదు. చూశారా పిల్లలూ, చిన్న చిన్న సహాయాలు కూడా ఎంత గొప్ప పాఠాలను నేర్పుతాయో!",
+      "image_prompt": "The traveler continues his journey with light steps, carrying the memory of the banyan tree's selfless love. A knowing smile graces his lips as the sounds of evening crickets begin to fill the air. Gentle dusk light, soft amber and purple hues painting the sky, peaceful and contemplative.",
+      "scene_visual": "The traveler continues his journey with light steps, carrying the memory of the banyan tree's selfless love. A knowing smile graces his lips as the sounds of evening crickets begin to fill the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Marri Chettu Andinchina Nisvaartha Premanu Manasulo Nimpukoni, Baatasaari Telikaina Adugulato Tana Prayaanaanni Konasaaginchaadu — Atani Pedavulapai Oka Jnyaanabharitamaina Chirunavvu. Duram Nundi Saayantrapu Kichuraalla Shabdam Vinipinchadam Modalaindi. Ippudu Atanu Prati Chinna Dayanu, Nisvaarthamaina Sahaayaanni Ento Viluvainadigaa Bhaavistunnaadu. Oka Nisvaartha Prema — Jivitaanni Maarchagaladu. Chushaaraa Pillalu, Chinna Chinna Sahaayaalu Kudaa Enta Goppa Paathaalanu Nerputaayo!",
+      "text_en": "With the selfless love offered by the banyan tree filling his heart, the traveler continued his journey with light steps — a wise smile on his lips. From a distance, the sound of evening crickets began to be heard. Now, he valued every small kindness and selfless help as very precious. One selfless act of love — can change a life. See, children, even small acts of help can teach such great lessons!"
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 9,
+    "average": 7.17,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story shines with a warm, engaging narrative voice, effectively using suspense hooks at the end of each scene to keep a child captivated. The core message is clear and emerges naturally from the traveler's journey of realization. To reach a 9+, the editor should focus on showing emotions through action and body language rather than stating them directly, and enriching the story with more character-specific dialogue to deepen the reader's connection to the traveler's internal world."
+  },
+  "quality_warning": true,
+  "title_te_en": "Nidaloni Nijam",
+  "moral_te_en": "Nijamaina Daya Nishshabdangaa Vastundi, Daani Viluva Avasaramainappudu Maatrame Telustundi.",
+  "title_en": "The Truth in the Shade",
+  "moral_en": "Real kindness arrives silently, and its true worth is understood only when you need it most.",
+  "id": "20260526_211112",
+  "date": "2026-05-26",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "చెట్టు నీడ మరియు బాటసారి",
+  "thumbnail": "stories/20260526_211112/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
