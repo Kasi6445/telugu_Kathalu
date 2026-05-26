@@ -1,0 +1,98 @@
+{
+  "title": "పగిలిన కుండ పూల బాట",
+  "moral": "మనలో లోపాలున్నా, వాటితోనే ఈ లోకానికి గొప్ప అందాన్ని, మంచిని పంచగలం.",
+  "main_character": "Raju is a slender boy, about 10 years old, with bright, curious eyes and a perpetually dusty tunic. He carries two water pots on a yoke across his shoulders every day, always with a determined stride. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small village in rural Andhra Pradesh, nestled by green hills. A dusty path, lined with occasional thorny bushes and a few tall banyan trees, leads from the village to a clear, flowing river. The sun is often bright and warm, painting the landscape in vibrant hues. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని కొండల మధ్య, రాజు రోజూ నదికి వెళ్తాడు, రెండు కుండలు భుజాన పెట్టుకుని. అతని అడుగులు స్థిరంగా పడుతుంటాయి, కానీ అతని చూపులు మాత్రం పగిలిన కుండపైనే. నిండు కుండలో నీళ్లు లయబద్ధంగా కదులుతుంటే, ఆ పగిలిన కుండ నుండి చుక్కలు చుక్కలుగా నీరు కారుతుంది, నేల తడుస్తుంది. రాజు ఆ కుండ వైపు చూసి, చిన్నగా నిట్టూర్చాడు, ఏదో బాధ అతని మనసును తొలిచేస్తునట్లు. \"ఈ రోజు కూడా, పర్ఫెక్ట్ కుండ నిండా ఉంది, కానీ ఇది...\" అని అతను మనసులో అనుకున్నాడు, ఆ కుండ సంగతి తలచుకుంటే. అసలు ఆ పగిలిన కుండ ఎందుకు ఎప్పుడూ కారుతుంది? రాజు దాని గురించి ఏం అనుకుంటున్నాడు?",
+      "image_prompt": "The boy walks with two pots on his shoulders, his gaze fixed on one of them. Water drips steadily from the broken pot, wetting the ground, as he lets out a soft sigh. Bright morning sun filtering through banyan leaves, dappling the dusty path, warm and peaceful.",
+      "scene_visual": "The boy walks with two pots on his shoulders, his gaze fixed on one of them. Water drips steadily from the broken pot, wetting the ground, as he lets out a soft sigh.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchani Kondala Madhya, Raaju Roju Nadiki Veltaadu, Rendu Kundalu Bhujaana Pettukuni. Atani Adugulu Sthirangaa Padutuntaayi, Kaani Atani Chupulu Maatram Pagilina Kundapaine. Nindu Kundalo Nillu Layabaddhangaa Kadulutunte, Aa Pagilina Kunda Nundi Chukkalu Chukkalugaa Niru Kaarutundi, Nela Tadustundi. Raaju Aa Kunda Vaipu Chusi, Chinnagaa Nitturchaadu, Edo Baadha Atani Manasunu Tolichestunatlu. \"I Roju Kudaa, Parphekt Kunda Nindaa Undi, Kaani Idi...\" Ani Atanu Manasulo Anukunnaadu, Aa Kunda Sangati Talachukunte. Asalu Aa Pagilina Kunda Enduku Eppudu Kaarutundi? Raaju Daani Gurinchi Em Anukuntunnaadu?",
+      "text_en": "Among green hills, Raju goes to the river every day, carrying two pots on his shoulders. His steps are steady, but his gaze is fixed on the broken pot. While the water in the full pot sways gently, water drips drop by drop from the broken pot, wetting the ground. Raju looked at that pot and sighed softly, as if some sadness was troubling his heart. \"Even today, the perfect pot is full, but this one...\" he thought to himself, remembering the broken pot's condition. Why does that broken pot always leak? What does Raju think about it?"
+    },
+    {
+      "id": 2,
+      "text": "నిండుగా ఉన్న కుండ లోపల నీళ్లు గలగలమంటూ, తన గొప్పతనం చెప్పుకుంటున్నట్లు అనిపించింది రాజుకి. 'చూశావా, నేను ఒక్క చుక్క కూడా పోగొట్టను!' అన్నట్లుగా అది మెరిసింది, రాజు చేతికి చల్లగా, నునుపుగా తగిలింది. పగిలిన కుండ మాత్రం సిగ్గుతో తల వంచుకున్నట్లు, దాని అంచులు గరుకుగా, చిరిగిపోయినట్లు అనిపించాయి రాజుకి. ఆ కుండ బాధను చూసి, రాజు మనసు కదిలింది, అతని గుండెలో ఏదో తెలియని నొప్పి. అతను మెల్లగా దానిని నిమిరాడు, \"నువ్వు ఏడ్వకు, కుండా.\" అని గుసగుసలాడాడు. మరి రాజు ఆ పగిలిన కుండను బాగుచేయడానికి ఏమైనా ప్రయత్నిస్తాడా? లేక అది ఎప్పుడూ ఇలాగే బాధపడుతుందా?",
+      "image_prompt": "The boy gently strokes the rough, torn edges of the broken pot. He whispers softly to the pot, his face showing a hint of sorrow. Mid-morning sun, slightly brighter and more direct on the path, a sense of routine but with underlying tension.",
+      "scene_visual": "The boy gently strokes the rough, torn edges of the broken pot. He whispers softly to the pot, his face showing a hint of sorrow.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nindugaa Unna Kunda Lopala Nillu Galagalamantu, Tana Goppatanam Cheppukuntunnatlu Anipinchindi Raajuki. 'Chushaavaa, Nenu Okka Chukka Kudaa Pogottanu!' Annatlugaa Adi Merisindi, Raaju Chetiki Challagaa, Nunupugaa Tagilindi. Pagilina Kunda Maatram Sigguto Tala Vanchukunnatlu, Daani Anchulu Garukugaa, Chirigipoyinatlu Anipinchaayi Raajuki. Aa Kunda Baadhanu Chusi, Raaju Manasu Kadilindi, Atani Gundelo Edo Teliyani Noppi. Atanu Mellagaa Daanini Nimiraadu, \"Nuvvu Edvaku, Kundaa.\" Ani Gusagusalaadaadu. Mari Raaju Aa Pagilina Kundanu Baagucheyadaaniki Emainaa Prayatnistaadaa? Leka Adi Eppudu Ilaage Baadhapadutundaa?",
+      "text_en": "The water inside the full pot seemed to gurgle, as if bragging about how great it was to Raju. 'See, I don't lose even a single drop!' it seemed to shine, feeling cool and smooth in Raju's hand. The broken pot, however, seemed to hang its head in shame; its edges felt rough and torn to Raju. Seeing the pot's sadness, Raju's heart was moved, and he felt a little ache in his chest. He gently stroked it and whispered, \"Don't cry, pot.\" Will Raju try to fix the broken pot? Or will it always remain sad like this?"
+    },
+    {
+      "id": 3,
+      "text": "ఒకరోజు, రాజు నీళ్లు తెస్తుండగా, ఊరి పెద్దాయన అతనిని పిలిచాడు, అతని గొంతు లోతుగా, గంభీరంగా వినిపించింది. పగిలిన కుండ నుండి కారుతున్న నీటి చప్పుడు ఆ పెద్దాయన మాటల మధ్యలో కూడా స్పష్టంగా వినిపించింది. రాజు తల పైకెత్తి, ఆ పెద్దాయన వైపు చూశాడు, అతని నుదుట చింతరేఖలు ఏర్పడ్డాయి. \"రాజు, ఆ పగిలిన కుండతో నీకు చాలా శ్రమ కదా? దాన్ని మార్చాలి.\" అన్నాడు పెద్దాయన, అతని కంఠం మార్పు లేకుండా. రాజు చూపులు పెద్దాయన నుండి కుండ వైపు మళ్ళాయి, అతని భుజాలు కొంచెం వంగిపోయాయి. రాజు ఆ కుండను మార్చడానికి ఒప్పుకుంటాడా? లేక దాన్ని కాపాడుకోవడానికి ప్రయత్నిస్తాడా?",
+      "image_prompt": "The boy lifts his head to look at the elder, then his gaze shifts to the broken pot on his shoulder. Lines of worry crease his forehead, and his shoulders slump slightly as he considers the elder's words. Bright, direct sunlight, casting sharp shadows, reflecting the elder's sternness and Raju's worry.",
+      "scene_visual": "The boy lifts his head to look at the elder, then his gaze shifts to the broken pot on his shoulder. Lines of worry crease his forehead, and his shoulders slump slightly as he considers the elder's words.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okaroju, Raaju Nillu Testundagaa, Uri Peddaayana Atanini Pilichaadu, Atani Gontu Lotugaa, Gambhirangaa Vinipinchindi. Pagilina Kunda Nundi Kaarutunna Niti Chappudu Aa Peddaayana Maatala Madhyalo Kudaa Spashtangaa Vinipinchindi. Raaju Tala Paiketti, Aa Peddaayana Vaipu Chushaadu, Atani Nuduta Chintarekhalu Erpaddaayi. \"Raaju, Aa Pagilina Kundato Niku Chaalaa Shrama Kadaa? Daanni Maarchaali.\" Annaadu Peddaayana, Atani Kantham Maarpu Lekundaa. Raaju Chupulu Peddaayana Nundi Kunda Vaipu Mallaayi, Atani Bhujaalu Konchem Vangipoyaayi. Raaju Aa Kundanu Maarchadaaniki Oppukuntaadaa? Leka Daanni Kaapaadukovadaaniki Prayatnistaadaa?",
+      "text_en": "One day, as Raju was bringing water, the village elder called him, his voice sounding deep and serious. The sound of water leaking from the broken pot was clearly audible even amidst the elder's words. Raju looked up at the elder, lines of worry appeared on his forehead. \"Raju, that broken pot causes you a lot of trouble, doesn't it? You should replace it,\" said the elder, his voice firm. Raju's gaze shifted from the elder to the pot, and his shoulders drooped a little. Will Raju agree to replace the pot? Or will he try to save it?"
+    },
+    {
+      "id": 4,
+      "text": "రాజు ఆ కుండను కాపాడాలనుకున్నాడు, అందుకే నది ఒడ్డున మెత్తని మట్టిని తడిపి తీసుకువచ్చాడు. ఆ చల్లని, గరుకు మట్టిని పగులుకు అంటించి, గట్టిగా నొక్కుతూ, అతని మొహం మీద చెమట పట్టింది. కానీ కొద్దిసేపటికే ఆ మట్టి పెచ్చులు పెచ్చులుగా రాలిపోయింది, బురద నీరు చిమ్ముతూ కిందికి కారింది. రాజు నిరాశగా తల పట్టుకున్నాడు, చిన్నగా నిట్టూర్చాడు, \"ఇది పట్టుకోవడం లేదు... ఇంకా కారుతోంది!\" అని అరిచాడు. అతను కోపంగా నేల మీద చిన్నగా గుద్దాడు, అతని వేళ్ళకు మట్టి అంటుకుని ఉంది. మరి రాజు ఇంకేమైనా ఉపాయంతో ఆ పగిలిన కుండను బాగుచేయగలడా?",
+      "image_prompt": "The boy presses cool, rough mud firmly into the crack of the pot, sweat beading on his face. Muddy water gushes down as the mud flakes off, and he angrily punches the ground, mud clinging to his fingers. Late afternoon sun, a softer, warmer light, but still highlighting Raju's struggle and the failed attempt.",
+      "scene_visual": "The boy presses cool, rough mud firmly into the crack of the pot, sweat beading on his face. Muddy water gushes down as the mud flakes off, and he angrily punches the ground, mud clinging to his fingers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Aa Kundanu Kaapaadaalanukunnaadu, Anduke Nadi Odduna Mettani Mattini Tadipi Tisukuvachchaadu. Aa Challani, Garuku Mattini Paguluku Antinchi, Gattigaa Nokkutu, Atani Moham Mida Chemata Pattindi. Kaani Koddisepatike Aa Matti Pechchulu Pechchulugaa Raalipoyindi, Burada Niru Chimmutu Kindiki Kaarindi. Raaju Niraashagaa Tala Pattukunnaadu, Chinnagaa Nitturchaadu, \"Idi Pattukovadam Ledu... Inkaa Kaarutondi!\" Ani Arichaadu. Atanu Kopangaa Nela Mida Chinnagaa Guddaadu, Atani Vellaku Matti Antukuni Undi. Mari Raaju Inkemainaa Upaayanto Aa Pagilina Kundanu Baagucheyagaladaa?",
+      "text_en": "Raju wanted to save the pot, so he brought wet, soft clay from the riverbank. He pressed the cool, rough clay onto the crack, pushing hard, and sweat formed on his face. But after a little while, the clay fell off in flakes, and muddy water dripped down muddily. Raju held his head sadly, sighed softly, and cried out, \"It's not holding... it's still leaking!\" He gently tapped the ground lightly, his fingers covered in clay. Can Raju fix the broken pot with any other idea?"
+    },
+    {
+      "id": 5,
+      "text": "మరుసటి రోజు కూడా రాజు నీళ్లు తెస్తూ నడుస్తున్నాడు, అతని మనసులో ఇంకా పగిలిన కుండ గురించే ఆలోచన. సడెన్‌గా అతని కళ్ళు ఒక అందమైన దృశ్యంపై పడ్డాయి — దారి పక్కన, పగిలిన కుండ వైపు మాత్రమే రంగురంగుల పూలు వికసించి ఉన్నాయి! ఆ పూల నుండి తీయని, మట్టి సువాసన వస్తోంది, మిగిలిన దారి అంతా దుమ్ముతో నిండి ఉంది. రాజు అక్కడే ఆగిపోయాడు, అతని కళ్ళు ఆశ్చర్యంగా పెద్దవయ్యాయి, ఆ పూల బాటను చూస్తూ. \"ఈ పువ్వులు... ఎప్పుడూ ఈ వైపునే ఎందుకు?\" అని తనను తాను ప్రశ్నించుకున్నాడు. మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? ఒక్కసారిగా — అతని మెదడులో ఒక ఆలోచన మెరిసింది. ఆ పూలకు, పగిలిన కుండకు మధ్య ఉన్న సంబంధాన్ని రాజు ఏం అర్థం చేసుకున్నాడు?",
+      "image_prompt": "The boy stops abruptly, his eyes widening in surprise as he gazes at a path of colorful flowers. The flowers bloom only on the side where water drips from the broken pot, contrasting with the dusty path. Golden hour light, soft and warm, highlighting the colourful flowers and Raju's contemplative expression.",
+      "scene_visual": "The boy stops abruptly, his eyes widening in surprise as he gazes at a path of colorful flowers. The flowers bloom only on the side where water drips from the broken pot, contrasting with the dusty path.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju Kudaa Raaju Nillu Testu Nadustunnaadu, Atani Manasulo Inkaa Pagilina Kunda Gurinche Aalochana. Saden‌Gaa Atani Kallu Oka Andamaina Drrishyampai Paddaayi — Daari Pakkana, Pagilina Kunda Vaipu Maatrame Rangurangula Pulu Vikasinchi Unnaayi! Aa Pula Nundi Tiyani, Matti Suvaasana Vastondi, Migilina Daari Antaa Dummuto Nindi Undi. Raaju Akkade Aagipoyaadu, Atani Kallu Aashcharyangaa Peddavayyaayi, Aa Pula Baatanu Chustu. \"I Puvvulu... Eppudu I Vaipune Enduku?\" Ani Tananu Taanu Prashninchukunnaadu. Miku Telusaa, Appudu Em Jarigindo? Okkasaarigaa — Atani Medadulo Oka Aalochana Merisindi. Aa Pulaku, Pagilina Kundaku Madhya Unna Sambandhaanni Raaju Em Artham Chesukunnaadu?",
+      "text_en": "The next day, Raju was still walking, bringing water, his mind still thinking about the broken pot. Suddenly, his eyes fell upon a beautiful sight — along the path, only on the side of the broken pot, colorful flowers were blooming! A sweet, earthy scent came from those flowers, while the rest of the path was dusty. Raju stopped right there, his eyes wide with surprise, looking at the flower path. \"These flowers... why are they always on this side?\" he asked himself. Do you know what happened then? Suddenly — a big idea popped into his head. What did Raju understand about the connection between the flowers and the broken pot?"
+    },
+    {
+      "id": 6,
+      "text": "ఆ రోజు సాయంత్రం, రాజు పగిలిన కుండను మెల్లగా కిందకి దించాడు, దాని వైపు ప్రేమగా చూశాడు. ఒక చిన్న చిరుగాలి వీస్తూ, పూల సువాసనను అతని వైపు మోసుకువచ్చింది, ఆకుల సవ్వడి వినిపించింది. రాజు దాని పగుళ్లను ప్రేమగా నిమిరాడు, అతని పెదవులపై చిరునవ్వు. \"కుండా, నువ్వు బాధపడాల్సిన అవసరం లేదు, చూశావా?\" అని మెల్లగా అన్నాడు, అతని గొంతులో ఆప్యాయత. \"నీ లోపమే, ఈ అందమైన పూలను సృష్టించింది!\" అని గర్వంగా చెప్పాడు, అతని ముఖంలో విజయం. రాజు మాటలకు ఆ పగిలిన కుండ ఎలా స్పందిస్తుంది? ఇక రాజు ఏం చేస్తాడు?",
+      "image_prompt": "The boy gently lowers the broken pot and lovingly strokes its cracks. A small smile plays on his lips, and his face shows triumph as he looks at the pot. Soft, warm late afternoon light, illuminating Raju's face and the pot, a serene and hopeful glow.",
+      "scene_visual": "The boy gently lowers the broken pot and lovingly strokes its cracks. A small smile plays on his lips, and his face shows triumph as he looks at the pot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Roju Saayantran, Raaju Pagilina Kundanu Mellagaa Kindaki Dinchaadu, Daani Vaipu Premagaa Chushaadu. Oka Chinna Chirugaali Vistu, Pula Suvaasananu Atani Vaipu Mosukuvachchindi, Aakula Savvadi Vinipinchindi. Raaju Daani Pagullanu Premagaa Nimiraadu, Atani Pedavulapai Chirunavvu. \"Kundaa, Nuvvu Baadhapadaalsina Avasaram Ledu, Chushaavaa?\" Ani Mellagaa Annaadu, Atani Gontulo Aapyaayata. \"Ni Lopame, I Andamaina Pulanu Srrishtinchindi!\" Ani Garvangaa Cheppaadu, Atani Mukhanlo Vijayan. Raaju Maatalaku Aa Pagilina Kunda Elaa Spandistundi? Ika Raaju Em Chestaadu?",
+      "text_en": "That evening, Raju gently set down the broken pot and looked at it with love. A gentle breeze blew, carrying the scent of flowers towards him, and the rustling of leaves could be heard. Raju lovingly stroked its cracks, a smile on his lips. \"Pot, you don't need to be sad, do you see?\" he said softly, his voice full of affection. \"Your flaw created these beautiful flowers!\" he declared proudly, a proud smile on his face. How will the broken pot respond to Raju's words? What will Raju do next?"
+    },
+    {
+      "id": 7,
+      "text": "అప్పటి నుండి రాజు రోజూ నదికి వెళ్తాడు, రెండు కుండలను ఎప్పటిలాగే మోస్తాడు, కానీ ఇప్పుడు అతని మనసులో ఎలాంటి బాధ లేదు. అతని అడుగులు తేలికగా పడుతుంటాయి, అతని ముఖంపై ఒక తెలిసిన చిరునవ్వు మెరుస్తుంది. నిండు కుండలో నీళ్లు నిండుగా వచ్చి, అందరికీ దాహం తీరుస్తాయి, పగిలిన కుండ నుండి కారే నీళ్లు మాత్రం దారికి అందమైన పూల బాటను సృష్టిస్తాయి. ఆ చుక్కల చప్పుడు ఇప్పుడు రాజుకి ఒక తీయని సంగీతంలా వినిపిస్తుంది. ఒక్క కుండ నిండుదనం, ఇంకో కుండ లోపం — రెండూ కలిసి ప్రపంచానికి ఎంతో మంచిని చేస్తున్నాయి.",
+      "image_prompt": "The boy walks with light steps, carrying two pots on his shoulders. A knowing smile shines on his face as water drips from one pot, creating a path of flowers. Gentle dusk light, warm amber, casting long shadows, peaceful and reflective.",
+      "scene_visual": "The boy walks with light steps, carrying two pots on his shoulders. A knowing smile shines on his face as water drips from one pot, creating a path of flowers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appati Nundi Raaju Roju Nadiki Veltaadu, Rendu Kundalanu Eppatilaage Mostaadu, Kaani Ippudu Atani Manasulo Elaanti Baadha Ledu. Atani Adugulu Telikagaa Padutuntaayi, Atani Mukhampai Oka Telisina Chirunavvu Merustundi. Nindu Kundalo Nillu Nindugaa Vachchi, Andariki Daaham Tirustaayi, Pagilina Kunda Nundi Kaare Nillu Maatram Daariki Andamaina Pula Baatanu Srrishtistaayi. Aa Chukkala Chappudu Ippudu Raajuki Oka Tiyani Sangitanlaa Vinipistundi. Okka Kunda Nindudanan, Inko Kunda Lopam — Rendu Kalisi Prapanchaaniki Ento Manchini Chestunnaayi.",
+      "text_en": "From then on, Raju went to the river every day, carrying both pots as usual, but now there was no sadness in his heart. His steps were light, and a familiar smile shone on his face. The full pot brought plenty of water, helping everyone drink, while the water leaking from the broken pot created a beautiful flower path along the way. The sound of those drips now sounded like sweet music to Raju. One pot's fullness, and the other pot's flaw — both together were doing so much good for the world."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 4,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 7.67,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc and exceptional child engagement, with well-placed suspense hooks and direct address. The emotional journey is largely shown effectively, and the grammar is solid. However, the 'grandmother_authenticity' is inconsistent, often shifting between a warm oral style and more formal, descriptive prose. The most critical area for improvement is 'dialogue richness,' as several scenes lack direct character speech, making parts feel like a report. To elevate this to an award-winning piece, the author must consistently adopt a conversational tone and integrate more natural, character-specific dialogue throughout."
+  },
+  "quality_warning": true,
+  "title_te_en": "Pagilina Kunda Pula Baata",
+  "moral_te_en": "Manalo Lopaalunnaa, Vaatitone I Lokaaniki Goppa Andaanni, Manchini Panchagalan.",
+  "title_en": "The Broken Pot's Flower Path",
+  "moral_en": "Even with our flaws, we can bring great beauty and goodness to the world.",
+  "id": "20260526_231052",
+  "date": "2026-05-26",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "రెండు కుండలు మరియు జ్ఞానం",
+  "thumbnail": "stories/20260526_231052/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
