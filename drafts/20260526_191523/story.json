@@ -1,0 +1,115 @@
+{
+  "title": "మొసలి స్నేహం, కోతి తెలివి",
+  "moral": "నిజమైన స్నేహితులు ఒకరినొకరు మోసం చేసుకోరు, కదా పిల్లలూ? మోసం చేసిన వారిని నమ్మడం అస్సలు మంచిది కాదు.",
+  "main_character": "Makara, a large, green-scaled crocodile with kind, ancient eyes and a gentle demeanor. He lives in a river, is generally good-hearted but somewhat easily swayed by those he loves. Always the same character across every scene.",
+  "antagonist": "Makari, Makara's wife, a slightly smaller, more aggressive crocodile with sharp, calculating eyes and a perpetually hungry expression. She is driven by desire and lacks empathy. Always the same character across every scene.",
+  "setting": "A vibrant riverbank in a lush forest near a South Indian village, with a towering Jamun fruit tree overhanging the water, sun-dappled water, and emerald green foliage. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నది ఒడ్డున, ఎత్తైన నేరేడు చెట్టు కింద, దయగల కళ్లతో మకర అనే పెద్ద మొసలి ప్రశాంతంగా నివసించేది. ఆ చెట్టుపై కపి అనే కోతి, ఎప్పుడూ సరదాగా అటూ ఇటూ దూకుతూ, పండ్లు సేకరిస్తూ ఉండేది. ఒకరోజు కపి, పండిన నేరేడు పండ్లను మకరకి విసిరింది — ఆ పండ్లు నదిపై మెత్తగా పడి చిన్న అలలను సృష్టించాయి. మకర ఆ పండ్లను చూసి, తన దంతాలు కనిపించేలా వెడల్పుగా నవ్వింది — ఆనందంగా వాటిని రుచి చూసింది. \"మిత్రమా! ఈ పండ్లు ఎంత తీయగా ఉన్నాయో చూడు!\" అని కపి తన చిరునవ్వుతో పండ్లు విసురుతూ అంది. వారిద్దరి మధ్య ఒక అందమైన స్నేహం చిగురించింది, కానీ ఈ బంధం ఎటువైపు వెళ్తుందో ఎవరికీ తెలియదు కదా?",
+      "image_prompt": "The large crocodile laughs widely, revealing its teeth, as it tastes the fruits. The fruits gently fall onto the river, creating small ripples. Bright, warm morning sunlight dappling through dense leaves, creating a mosaic of light and shadow on the riverbank, peaceful and inviting.",
+      "scene_visual": "The large crocodile laughs widely, revealing its teeth, as it tastes the fruits. The fruits gently fall onto the river, creating small ripples.",
+      "supporting_char_keys": [
+        "kapi"
+      ],
+      "text_te_en": "Nadi Odduna, Ettaina Neredu Chettu Kinda, Dayagala Kallato Makara Ane Pedda Mosali Prashaantangaa Nivasinchedi. Aa Chettupai Kapi Ane Koti, Eppudu Saradaagaa Atu Itu Dukutu, Pandlu Sekaristu Undedi. Okaroju Kapi, Pandina Neredu Pandlanu Makaraki Visirindi — Aa Pandlu Nadipai Mettagaa Padi Chinna Alalanu Srrishtinchaayi. Makara Aa Pandlanu Chusi, Tana Dantaalu Kanipinchelaa Vedalpugaa Navvindi — Aanandangaa Vaatini Ruchi Chusindi. \"Mitramaa! I Pandlu Enta Tiyagaa Unnaayo Chudu!\" Ani Kapi Tana Chirunavvuto Pandlu Visurutu Andi. Vaariddari Madhya Oka Andamaina Sneham Chigurinchindi, Kaani I Bandham Etuvaipu Veltundo Evariki Teliyadu Kadaa?",
+      "text_en": "On the river bank, under a tall Jamun tree, lived a big crocodile named Makar. He had kind eyes and lived very peacefully. High up in that tree lived a monkey named Kapi. Kapi loved to jump around and collect fruits. One day, Kapi threw some ripe Jamun fruits down to Makar. The fruits plopped softly onto the river, making tiny ripples. Makar saw the fruits and smiled a big, wide smile, showing his teeth. He tasted them happily. \"Friend! Look how sweet these fruits are!\" Kapi called out with a cheerful smile, throwing more fruits. A lovely friendship began between them, but who knew where this friendship would go?"
+    },
+    {
+      "id": 2,
+      "text": "మకర ఆ రోజు ఇంటికి తిరిగి వెళ్ళినప్పుడు, తాను తెచ్చిన నేరేడు పండ్లను తన భార్య మకరికి ప్రేమగా అందించింది. మకరి ఆ పండ్లను చూసి, మొదట మెరిసే కళ్లతో ఆనందించింది, ఆ తీయని వాసన ఆమె ముక్కుపుటాల నిండా నిండిపోయింది. ఆమె వాటిని రుచి చూసిన తర్వాత, ఆమె కళ్ళలో ఒక వింత మెరుపు కనిపించింది, తన భర్త వైపు తిరిగి చూసింది. \"ఆ కోతి హృదయం తింటే ఎంత రుచిగా ఉంటుందో కదా!\" అని ఆమె పదునైన గొంతుతో అంది. మకర అది విని ఒక్కసారిగా నిశ్చేష్టుడైంది — తన పొలుసులు కొద్దిగా నిక్కబొడుచుకున్నాయి. తన భార్య మాటలకు, స్నేహితుడికి మధ్య నలిగిపోయిన మకర ఇప్పుడు ఏం చేయాలి?",
+      "image_prompt": "The female crocodile looks at her husband with a strange glint in her eyes after tasting the sweet fruits. Her husband's scales slightly bristle upon hearing her sharp-voiced suggestion. Also in this scene: Makari, Makara's wife, a slightly smaller, more aggressive crocodile with sharp, calculating eyes and a perpetually hungry expression. She is driven by desire and lacks empathy. Always the same character across every scene. Dim, murky light underwater near Makara's den, casting long, wavering shadows, creating a sense of hidden danger and foreboding.",
+      "scene_visual": "The female crocodile looks at her husband with a strange glint in her eyes after tasting the sweet fruits. Her husband's scales slightly bristle upon hearing her sharp-voiced suggestion.",
+      "supporting_char_keys": [],
+      "text_te_en": "Makara Aa Roju Intiki Tirigi Vellinappudu, Taanu Techchina Neredu Pandlanu Tana Bhaarya Makariki Premagaa Andinchindi. Makari Aa Pandlanu Chusi, Modata Merise Kallato Aanandinchindi, Aa Tiyani Vaasana Aame Mukkuputaala Nindaa Nindipoyindi. Aame Vaatini Ruchi Chusina Tarvaata, Aame Kallalo Oka Vinta Merupu Kanipinchindi, Tana Bharta Vaipu Tirigi Chusindi. \"Aa Koti Hrridayam Tinte Enta Ruchigaa Untundo Kadaa!\" Ani Aame Padunaina Gontuto Andi. Makara Adi Vini Okkasaarigaa Nishcheshtudaindi — Tana Polusulu Koddigaa Nikkaboduchukunnaayi. Tana Bhaarya Maatalaku, Snehitudiki Madhya Naligipoyina Makara Ippudu Em Cheyaali?",
+      "text_en": "When Makar went home that day, he lovingly gave the Jamun fruits to his wife, Makari. Makari's eyes sparkling with joy when she saw the fruits, and the sweet smell filled her nose. But after she tasted them, a strange sparkle came into her eyes, and she looked at her husband. \"Oh, how delicious that monkey's heart would be to eat!\" she said in a sharp voice. Makar was shocked when he heard this – his scales stood up a little. Caught between his wife's words and his friend, what was Makar to do now?"
+    },
+    {
+      "id": 3,
+      "text": "మరుసటి రోజు ఉదయం, మకర భారమైన గుండెలతో కపి నివసించే నేరేడు చెట్టు దగ్గరకు వెళ్ళింది. అది నదిలో కదలగానే, దాని పొలుసులపై నీళ్లు మెల్లగా తాకుతూ ఒక వింత శబ్దం చేశాయి. మకర తల దించి, కపి కళ్ళలోకి చూడకుండా ప్రయత్నించింది — దాని తోక అప్పుడప్పుడు తెలియకుండానే కదిలింది. చెట్టు కొమ్మపై ఊగుతున్న కపి, మకరను చూసి ఉత్సాహంగా అటూ ఇటూ దూకింది. \"నా భార్య నిన్ను కలవాలని కోరుకుంటుంది, మిత్రమా. నా వీపుపై వచ్చి మా ఇంటికి రా,\" అని మకర గొంతులో ఏదో భయంతో అంది. కపి సంతోషంగా తల ఊపింది, కానీ ఈ ఆహ్వానం వెనుక దాగి ఉన్న ప్రమాదం దానికి తెలుసా?",
+      "image_prompt": "The large crocodile, with a heavy heart, tries to avoid looking into the monkey's eyes while its tail occasionally moves. The monkey, swinging on a tree branch, excitedly jumps around upon seeing the crocodile. Late afternoon sun, golden and soft, filtering through the leaves, creating a false sense of peace that belies Makara's inner turmoil.",
+      "scene_visual": "The large crocodile, with a heavy heart, tries to avoid looking into the monkey's eyes while its tail occasionally moves. The monkey, swinging on a tree branch, excitedly jumps around upon seeing the crocodile.",
+      "supporting_char_keys": [
+        "kapi"
+      ],
+      "text_te_en": "Marusati Roju Udayan, Makara Bhaaramaina Gundelato Kapi Nivasinche Neredu Chettu Daggaraku Vellindi. Adi Nadilo Kadalagaane, Daani Polusulapai Nillu Mellagaa Taakutu Oka Vinta Shabdam Cheshaayi. Makara Tala Dinchi, Kapi Kallaloki Chudakundaa Prayatninchindi — Daani Toka Appudappudu Teliyakundaane Kadilindi. Chettu Kommapai Ugutunna Kapi, Makaranu Chusi Utsaahangaa Atu Itu Dukindi. \"Naa Bhaarya Ninnu Kalavaalani Korukuntundi, Mitramaa. Naa Vipupai Vachchi Maa Intiki Raa,\" Ani Makara Gontulo Edo Bhayanto Andi. Kapi Santoshangaa Tala Upindi, Kaani I Aahvaanam Venuka Daagi Unna Pramaadam Daaniki Telusaa?",
+      "text_en": "The next morning, Makar went to the Jamun tree where Kapi lived, with a very heavy heart. As he moved through the river, the water gently brushed against his scales, making a strange sound. Makar kept his head down, trying not to look into Kapi's eyes – his tail twitched now and then without him even knowing. Kapi, swinging on a tree branch, jumped excitedly when he saw Makar. \"My wife really wants to meet you, friend. Come to our home on my back,\" Makar said, with a hint of fear in his voice. Kapi happily nodded his head, but did he know the danger hiding behind this invitation?"
+    },
+    {
+      "id": 4,
+      "text": "కపి మకర వీపుపై కూర్చుని నది దాటుతుండగా, లోతైన నీటి ప్రవాహం దాని పాదాల చుట్టూ చల్లగా భయంకరంగా తిరిగింది. నది మధ్యలోకి చేరగానే, మకర గుండె బరువు పెరిగింది, దాని కళ్ళ నుండి నీళ్లు ధారగా కారాయి. అది ఒక చిన్న మూలుగుతో తన తప్పును ఒప్పుకుంటూ, కంఠం పూడుకుపోయి చెప్పింది... \"నా భార్య నీ హృదయం కోరుకుంటుంది!\" కపి ఒక్కసారిగా భయంతో వణికిపోయింది, దాని బొచ్చు నిక్కబొడుచుకుంది, మకర వీపును గట్టిగా పట్టుకుంది. చెట్టుకు దూరంగా, నడి నదిలో, కపి ఇప్పుడు ఎలా తప్పించుకోవాలి?",
+      "image_prompt": "The large crocodile, with tears streaming from its eyes, confesses its wife's desire for the monkey's heart with a choked voice. The monkey's fur bristles with fear as it tightly grips the crocodile's back in the deep water. The river's surface now appears dark and menacing under an overcast sky, reflecting the sudden shift from trust to terror, a few raindrops begin to fall.",
+      "scene_visual": "The large crocodile, with tears streaming from its eyes, confesses its wife's desire for the monkey's heart with a choked voice. The monkey's fur bristles with fear as it tightly grips the crocodile's back in the deep water.",
+      "supporting_char_keys": [
+        "kapi"
+      ],
+      "text_te_en": "Kapi Makara Vipupai Kurchuni Nadi Daatutundagaa, Lotaina Niti Pravaaham Daani Paadaala Chuttu Challagaa Bhayankarangaa Tirigindi. Nadi Madhyaloki Cheragaane, Makara Gunde Baruvu Perigindi, Daani Kalla Nundi Nillu Dhaaragaa Kaaraayi. Adi Oka Chinna Muluguto Tana Tappunu Oppukuntu, Kantham Pudukupoyi Cheppindi... \"Naa Bhaarya Ni Hrridayam Korukuntundi!\" Kapi Okkasaarigaa Bhayanto Vanikipoyindi, Daani Bochchu Nikkaboduchukundi, Makara Vipunu Gattigaa Pattukundi. Chettuku Durangaa, Nadi Nadilo, Kapi Ippudu Elaa Tappinchukovaali?",
+      "text_en": "As Kapi sat on Makar's back, crossing the river, the deep water swirled coldly and scary around his feet. When they reached the middle of the river, Makar's heart felt very heavy, and tears streamed from his eyes. With a small groan, he confessed his mistake, his voice choked up... \"My wife wants your heart!\" Kapi suddenly shivered with fear, his fur stood on end, and he held onto Makar's back very tightly. Far from the tree, in the middle of the river, how would Kapi escape now?"
+    },
+    {
+      "id": 5,
+      "text": "కపి గుండె వేగంగా కొట్టుకుంటున్నా, అది తన భయాన్ని బయటపడనీయకుండా జాగ్రత్తపడింది. దాని తడి బొచ్చు నుండి మట్టి వాసన వస్తున్నా, అది తన గొంతులో వణుకు లేకుండా మాట్లాడడానికి ప్రయత్నించింది. \"ఓ మిత్రమా! నా గుండెను చెట్టుపైనే వదిలిపెట్టాను! దయచేసి నన్ను వెనక్కి తీసుకెళ్ళు!\" అని కపి ఆత్రంగా అంది. మకర కళ్ళు ఆశ్చర్యంతో వెడల్పుగా తెరుచుకున్నాయి — దానిలో ఒక చిన్న ఆశ మెరిసింది. తన తప్పును సరిదిద్దుకోవాలనే కోరికతో అది మళ్ళీ వెనక్కి తిరిగింది, కానీ కపి ప్రాణాలు దక్కుతాయా?",
+      "image_prompt": "The monkey, despite its pounding heart, calmly tells the crocodile that it left its heart on the tree. The crocodile's eyes widen in surprise, showing a glimmer of hope as it turns back towards the shore. The light is still dim, but a sliver of hope appears as a faint glow on the horizon, hinting at a possible escape.",
+      "scene_visual": "The monkey, despite its pounding heart, calmly tells the crocodile that it left its heart on the tree. The crocodile's eyes widen in surprise, showing a glimmer of hope as it turns back towards the shore.",
+      "supporting_char_keys": [
+        "kapi"
+      ],
+      "text_te_en": "Kapi Gunde Vegangaa Kottukuntunnaa, Adi Tana Bhayaanni Bayatapadaniyakundaa Jaagrattapadindi. Daani Tadi Bochchu Nundi Matti Vaasana Vastunnaa, Adi Tana Gontulo Vanuku Lekundaa Maatlaadadaaniki Prayatninchindi. \"O Mitramaa! Naa Gundenu Chettupaine Vadilipettaanu! Dayachesi Nannu Venakki Tisukellu!\" Ani Kapi Aatrangaa Andi. Makara Kallu Aashcharyanto Vedalpugaa Teruchukunnaayi — Daanilo Oka Chinna Aasha Merisindi. Tana Tappunu Sarididdukovaalane Korikato Adi Malli Venakki Tirigindi, Kaani Kapi Praanaalu Dakkutaayaa?",
+      "text_en": "Even though Kapi's heart was beating super fast, he was careful not to show his fear. Even with the smell of mud coming from his wet fur, he tried to speak without a shaky voice. \"Oh, friend! I left my heart on the tree! Please, please take me back!\" Kapi said anxiously. Makar's eyes opened wide in surprise – a tiny spark of hope shone in them. Wanting to fix his mistake, he turned back again. But would Kapi's life be saved?"
+    },
+    {
+      "id": 6,
+      "text": "మకర కపి మాటలు నమ్మి, మళ్ళీ నది ఒడ్డుకు వేగంగా ఈదుకుంటూ వెళ్ళింది. చెట్టు దగ్గరకు రాగానే, కపి ఒక్కసారిగా మకర వీపుపై నుండి గట్టిగా దూకింది — దాని చేతులకు నేరేడు చెట్టు బరక బెరడు తగిలింది. కపి పైకి ఎగబాకుతుండగా, మకర బుర్ర గీసుకుంది, దాని కనుబొమ్మలు గందరగోళంగా ముడిపడ్డాయి. \"గుండెను చెట్టుపైనా? ఇది ఏమిటి?\" అని మకర గొణుక్కుంటూ, తాను ఎంత తెలివితక్కువగా ప్రవర్తించిందో తెలుసుకుంది. కపి ఇప్పుడు క్షేమంగా ఉంది, కానీ మకరతో దాని స్నేహం ఎలా కొనసాగుతుంది?",
+      "image_prompt": "The monkey forcefully jumps off the crocodile's back onto the rough bark of the Jamun tree as they reach the shore. The crocodile scratches its head, its eyebrows furrowed in confusion as it mutters to itself. The sun begins to set, casting long, warm orange and pink hues across the river and tree, signifying the end of a perilous journey and a new beginning.",
+      "scene_visual": "The monkey forcefully jumps off the crocodile's back onto the rough bark of the Jamun tree as they reach the shore. The crocodile scratches its head, its eyebrows furrowed in confusion as it mutters to itself.",
+      "supporting_char_keys": [
+        "kapi"
+      ],
+      "text_te_en": "Makara Kapi Maatalu Nammi, Malli Nadi Odduku Vegangaa Idukuntu Vellindi. Chettu Daggaraku Raagaane, Kapi Okkasaarigaa Makara Vipupai Nundi Gattigaa Dukindi — Daani Chetulaku Neredu Chettu Baraka Beradu Tagilindi. Kapi Paiki Egabaakutundagaa, Makara Burra Gisukundi, Daani Kanubommalu Gandaragolangaa Mudipaddaayi. \"Gundenu Chettupainaa? Idi Emiti?\" Ani Makara Gonukkuntu, Taanu Enta Telivitakkuvagaa Pravartinchindo Telusukundi. Kapi Ippudu Kshemangaa Undi, Kaani Makarato Daani Sneham Elaa Konasaagutundi?",
+      "text_en": "Makar believed Kapi's words and quickly swam back to the river bank. As soon as they reached the tree, Kapi suddenly jumped hard off Makar's back – his hands grabbed the rough bark of the Jamun tree. As Kapi climbed higher, Makar scratched his head, his eyebrows all wrinkled in confusion. \"Heart on the tree? What does that mean?\" Makar mumbled, realizing how silly he had been. Kapi was safe now, but what would happen to his friendship with Makar?"
+    },
+    {
+      "id": 7,
+      "text": "నేరేడు చెట్టుపై సురక్షితంగా కూర్చున్న కపి, తన కళ్ళలో కోపం మెరుస్తూ మకర వైపు చూసింది. చల్లని సాయంత్రపు గాలి వీచింది, నేరేడు ఆకులను కదిలించింది. మకర చుట్టూ నిశ్చలమైన నీరు దానికి మరింత ఒంటరితనాన్ని కలిగించింది. \"విశ్వాసఘాతుక మిత్రుడితో స్నేహం నాకు వద్దు!\" అని కపి గట్టిగా, స్పష్టంగా అరిచింది. మకర తల వంచుకుంది, దాని కళ్ళలో పశ్చాత్తాపం స్పష్టంగా కనిపించింది, మెల్లగా నీటిలోకి మునిగిపోయింది. ఆ క్షణంలో మకర, తన తప్పుడు నిర్ణయానికి ఎంత మూల్యం చెల్లించుకుందో స్పష్టంగా అర్థమైంది.",
+      "image_prompt": "The monkey, safe on the tree, looks at the crocodile with anger glinting in its eyes and shouts loudly. The crocodile bows its head, clear remorse visible in its eyes, and slowly sinks into the still water. Gentle dusk light, warm amber, slowly fading to deep indigo as night approaches, reflecting the peaceful but somber resolution and Makara's solitude.",
+      "scene_visual": "The monkey, safe on the tree, looks at the crocodile with anger glinting in its eyes and shouts loudly. The crocodile bows its head, clear remorse visible in its eyes, and slowly sinks into the still water.",
+      "supporting_char_keys": [
+        "kapi"
+      ],
+      "text_te_en": "Neredu Chettupai Surakshitangaa Kurchunna Kapi, Tana Kallalo Kopam Merustu Makara Vaipu Chusindi. Challani Saayantrapu Gaali Vichindi, Neredu Aakulanu Kadilinchindi. Makara Chuttu Nishchalamaina Niru Daaniki Marinta Ontaritanaanni Kaliginchindi. \"Vishvaasaghaatuka Mitrudito Sneham Naaku Vaddu!\" Ani Kapi Gattigaa, Spashtangaa Arichindi. Makara Tala Vanchukundi, Daani Kallalo Pashchaattaapam Spashtangaa Kanipinchindi, Mellagaa Nitiloki Munigipoyindi. Aa Kshananlo Makara, Tana Tappudu Nirnayaaniki Enta Mulyam Chellinchukundo Spashtangaa Arthamaindi.",
+      "text_en": "Kapi, sitting safely on the Jamun tree, looked at Makar with anger sparkling in his eyes. A cool evening breeze blew, rustling the Jamun leaves. The still water around Makar made him feel even more lonely. \"I don't want to be friends with a friend who betrays me!\" Kapi shouted loudly and clearly. Makar bowed his head, with clear regret in his eyes, and slowly sank into the water. In that moment, Makar clearly understood how much he had lost because of his bad choice."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "kapi",
+      "description": "Kapi, a nimble, brown-furred monkey with bright, intelligent eyes and a long, prehensile tail. He is quick-witted and enjoys the sweet fruits of his tree. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is a very well-crafted story with a strong narrative arc, excellent emotional depth shown through action, and vivid, character-specific dialogue. The grammar is flawless, making it a pleasure to read. The suspense hooks at the end of each scene are particularly effective for child engagement. To reach award-worthy status (a 9+ in all dimensions), the primary focus should be on refining the 'grandmother_authenticity' by simplifying some vocabulary and sentence structures to achieve a more consistently oral, warm, and less formal tone, making it feel even more like a grandparent's spontaneous telling."
+  },
+  "title_te_en": "Mosali Snehan, Koti Telivi",
+  "moral_te_en": "Nijamaina Snehitulu Okarinokaru Mosam Chesukoru, Kadaa Pillalu? Mosam Chesina Vaarini Nammadam Assalu Manchidi Kaadu.",
+  "title_en": "The Crocodile's Friendship, the Monkey's Cleverness",
+  "moral_en": "True friends never trick each other, right, kids? It's really not good to trust someone who has tricked you.",
+  "id": "20260526_191523",
+  "date": "2026-05-26",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - విశ్వాసఘాతుక కొండముచ్చు",
+  "thumbnail": "stories/20260526_191523/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
