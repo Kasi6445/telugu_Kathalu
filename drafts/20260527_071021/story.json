@@ -1,0 +1,98 @@
+{
+  "title": "శబ్దం వెనుక రహస్యం",
+  "moral": "పిల్లలూ, కొన్నిసార్లు మనల్ని ఎంతగానో భయపెట్టే పెద్ద పెద్ద శబ్దాలు చేసేవి, నిజానికి లోపల ఏమీ లేని ఖాళీ వస్తువులే కావొచ్చు అని ఈ కథ మనకు చెబుతుంది.",
+  "main_character": "A lean, reddish-brown jackal with intelligent, amber eyes and a bushy tail. It is always hungry and a bit of a trickster, but also cautious when facing the unknown. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A dry deciduous forest in the Nallamala Hills of Andhra Pradesh, characterized by thorny bushes, sparse teak trees, and sun-baked earth. The time is a hot afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవిలో ఎండిన పొదల మధ్య, ఎర్రటి రంగులో సన్నగా ఉన్న ఒక నక్క ఆహారం కోసం వెతుకుతోంది. దాని కడుపులోంచి గురగుర శబ్దాలు స్పష్టంగా వినిపించాయి — ఆకలితో దాని కళ్ళు పదునుగా అటూ ఇటూ తిరిగాయి. అది వేసే ప్రతి అడుగుకీ, ఎండిన ఆకులు కింద 'కర్ర్' మని పెద్దగా శబ్దం చేశాయి. అది నిట్టూర్చి, \"ఈ రోజు ఆహారం దొరకదేమో! ఆకలితో చచ్చిపోతాను!\" అని తనలో తనే అనుకుంది. ఈ నిర్జనమైన అడవిలో ఆ నక్కకు ఒక చిన్న ముద్ద అయినా దొరుకుతుందా?",
+      "image_prompt": "The fox, thin and reddish, is cautiously moving through dry bushes, searching for food. Its sharp eyes dart intently from side to side, and dry leaves audibly crunch under its every step. Harsh midday sun filters through the sparse, dry canopy, casting sharp, dancing shadows on the dusty ground, emphasizing the heat and scarcity.",
+      "scene_visual": "The fox, thin and reddish, is cautiously moving through dry bushes, searching for food. Its sharp eyes dart intently from side to side, and dry leaves audibly crunch under its every step.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Adavilo Endina Podala Madhya, Errati Rangulo Sannagaa Unna Oka Nakka Aahaaram Kosam Vetukutondi. Daani Kadupulonchi Guragura Shabdaalu Spashtangaa Vinipinchaayi — Aakalito Daani Kallu Padunugaa Atu Itu Tirigaayi. Adi Vese Prati Aduguki, Endina Aakulu Kinda 'Karr' Mani Peddagaa Shabdam Cheshaayi. Adi Nitturchi, \"I Roju Aahaaram Dorakademo! Aakalito Chachchipotaanu!\" Ani Tanalo Tane Anukundi. I Nirjanamaina Adavilo Aa Nakkaku Oka Chinna Mudda Ayinaa Dorukutundaa?",
+      "text_en": "In the Nallamala forest, among the dry bushes, a thin, reddish fox was searching for food. Rumbling sounds could be clearly heard from its tummy — its hungry eyes darted sharply here and there. With every step it took, the dry leaves on the ground made a loud 'crunch' sound. It sighed and thought to itself, \"Maybe I won't find any food today! I'll die of hunger!\" Would this fox find even a tiny bite in this lonely forest?"
+    },
+    {
+      "id": 2,
+      "text": "అలాంటి సమయంలో, ఒక్కసారిగా ఒక లోతైన, పెద్ద 'బూమ్' శబ్దం నిశ్శబ్దంగా ఉన్న అడవంతా మారుమోగింది — భూమి కూడా కొద్దిగా కంపించింది. ఆ శబ్దానికి నక్క చెవులు వెనక్కి మడిచిపోయాయి, తోక కడుపులోకి ముడుచుకుంది, దాని కళ్ళు భయంతో పెద్దవిగా అయ్యాయి. \"అదేంటి శబ్దం? ఇంత పెద్ద జంతువా? నా జీవితంలో ఎప్పుడూ వినలేదు!\" అని అది గట్టిగా అనుకుంది. ఇంత భయంకరమైన శబ్దం చేస్తూన్న ఆ వింత జీవి ఏమై ఉంటుంది?",
+      "image_prompt": "The fox recoils sharply, its ears flattened back and tail tucked tightly under its belly. Its eyes are wide with fear, reflecting the sudden, deep 'boom' sound that reverberates through the silent forest. The harsh sunlight remains, but the sudden sound casts a psychological shadow, making the forest feel ominous and tense, with the jackal hidden in deep, cool shade.",
+      "scene_visual": "The fox recoils sharply, its ears flattened back and tail tucked tightly under its belly. Its eyes are wide with fear, reflecting the sudden, deep 'boom' sound that reverberates through the silent forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alaanti Samayanlo, Okkasaarigaa Oka Lotaina, Pedda 'Bum' Shabdam Nishshabdangaa Unna Adavantaa Maarumogindi — Bhumi Kudaa Koddigaa Kampinchindi. Aa Shabdaaniki Nakka Chevulu Venakki Madichipoyaayi, Toka Kadupuloki Muduchukundi, Daani Kallu Bhayanto Peddavigaa Ayyaayi. \"Adenti Shabdan? Inta Pedda Jantuvaa? Naa Jivitanlo Eppudu Vinaledu!\" Ani Adi Gattigaa Anukundi. Inta Bhayankaramaina Shabdam Chestunna Aa Vinta Jivi Emai Untundi?",
+      "text_en": "Just then, suddenly, a deep, loud 'BOOM' echoed through the silent forest — the ground even trembled a little. At the sound, the fox's ears folded back, its tail tucked between its legs, and its eyes grew wide with fear. \"What was that sound? Such a big animal? I've never heard anything like it in my life!\" it thought loudly. What could that strange creature be, making such a terrifying sound?"
+    },
+    {
+      "id": 3,
+      "text": "కడుపు ఆకలితో మండిపోతోంది, ఆ శబ్దం వెనుక రహస్యం తెలుసుకోవాలనే ఆసక్తి నక్కను ముందుకు నడిపించాయి. దాని శరీరం నేలకు దగ్గరగా వంచి, కండరాలు బిగుసుకున్నాయి — దాని గుండె దడదడ కొట్టుకుంది. \"నేను చూడాలి... లేదంటే ఆకలితో చస్తాను! కానీ అది చాలా ప్రమాదకరంగా ఉంది...\" అని అది మెల్లగా గుసగుసలాడింది. ఆ నక్క ఆ భయంకరమైన శబ్దానికి మరీ దగ్గరగా వెళ్ళి, ప్రమాదంలో పడుతుందేమో?",
+      "image_prompt": "The fox creeps forward, its body low to the ground and muscles tensed, drawn by a mix of hunger and curiosity. Its heart pounds rapidly as it whispers to itself, contemplating the danger of approaching the mysterious sound. Dappled sunlight filters through thicker foliage as the jackal moves deeper, creating a nervous, shifting pattern of light and shadow around its creeping form.",
+      "scene_visual": "The fox creeps forward, its body low to the ground and muscles tensed, drawn by a mix of hunger and curiosity. Its heart pounds rapidly as it whispers to itself, contemplating the danger of approaching the mysterious sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kadupu Aakalito Mandipotondi, Aa Shabdam Venuka Rahasyam Telusukovaalane Aasakti Nakkanu Munduku Nadipinchaayi. Daani Shariram Nelaku Daggaragaa Vanchi, Kandaraalu Bigusukunnaayi — Daani Gunde Dadadada Kottukundi. \"Nenu Chudaali... Ledante Aakalito Chastaanu! Kaani Adi Chaalaa Pramaadakarangaa Undi...\" Ani Adi Mellagaa Gusagusalaadindi. Aa Nakka Aa Bhayankaramaina Shabdaaniki Mari Daggaragaa Velli, Pramaadanlo Padutundemo?",
+      "text_en": "Its tummy was burning with hunger, and its curiosity to know the secret behind the sound pushed the fox forward. Its body was low to the ground, muscles tensed — its heart thumped loudly. \"I must see... otherwise, I'll die of hunger! But it's very dangerous...\" it whispered softly. Would the fox go too close to that scary sound and get into danger?"
+    },
+    {
+      "id": 4,
+      "text": "కొద్దిదూరం వెళ్ళాక, నక్కకు ఒక పెద్ద, గుండ్రటి, వింత వస్తువు కనిపించింది — అది ఒక డోలు! కానీ ఆ డోలు నుండి వస్తున్న శబ్దం ఇప్పుడు చెవులు చిల్లులు పడేంత పెద్దదిగా, భయంకరంగా ఉంది. అది అక్కడే గడ్డకట్టి నిలబడిపోయింది, దాని వెన్ను వెంట వెంట్రుకలు నిక్కబొడుచుకున్నాయి, ఒక చిన్న మూలుగు దాని గొంతులోంచి బయటపడింది. \"ఓ మై గాడ్! ఇంత పెద్దది! ఇది ఏ రాక్షసుడో అయ్యుండాలి! లోపల ఏముందో?\" అని అది భయంతో వణికింది. అంత పెద్ద, శబ్దం చేస్తూన్న వస్తువు లోపల ఏ రాక్షసుడు దాగి ఉన్నాడు?",
+      "image_prompt": "The fox freezes in place, its fur standing on end along its spine, upon seeing a large, round, strange object. A small whimper escapes its throat as it trembles with fear at the deafening, terrifying sound emanating from the object. The object sits in a small, sun-drenched clearing, appearing almost menacing against the bright, open backdrop, while the jackal remains hidden in the gloom of the surrounding trees.",
+      "scene_visual": "The fox freezes in place, its fur standing on end along its spine, upon seeing a large, round, strange object. A small whimper escapes its throat as it trembles with fear at the deafening, terrifying sound emanating from the object.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koddiduram Vellaaka, Nakkaku Oka Pedda, Gundrati, Vinta Vastuvu Kanipinchindi — Adi Oka Dolu! Kaani Aa Dolu Nundi Vastunna Shabdam Ippudu Chevulu Chillulu Padenta Peddadigaa, Bhayankarangaa Undi. Adi Akkade Gaddakatti Nilabadipoyindi, Daani Vennu Venta Ventrukalu Nikkaboduchukunnaayi, Oka Chinna Mulugu Daani Gontulonchi Bayatapadindi. \"O Mai Gaad! Inta Peddadi! Idi E Raakshasudo Ayyundaali! Lopala Emundo?\" Ani Adi Bhayanto Vanikindi. Anta Pedda, Shabdam Chestunna Vastuvu Lopala E Raakshasudu Daagi Unnaadu?",
+      "text_en": "After going a little further, the fox saw a big, round, strange object — it was a drum! But the sound coming from the drum was now ear-splittingly loud and terrifying. It froze right there, the fur on its back stood up, and a small whimper escaped its throat. \"Oh my God! It's so big! This must be some monster! What's inside?\" it trembled with fear. What monster could be hiding inside such a big, noisy object?"
+    },
+    {
+      "id": 5,
+      "text": "నక్క కళ్ళు సన్నగా చేసి, ఆ డోలును చాలా జాగ్రత్తగా గమనించింది. అప్పుడు దాని ముఖంలో ఒక మెరుపు — ఏదో అర్థమైనట్లు! ఒక ఎండిన చెట్టు కొమ్మ పదే పదే ఆ డోలు పైభాగానికి రాసుకుంటుంది — అదే ఆ శబ్దం! ఆ కొమ్మ రాసుకునే 'ఖర్ ఖర్' శబ్దం డోలు శబ్దం నుండి విడిగా వినిపించింది. \"అంటే... లోపల ఏమీ లేదా? కేవలం ఆ కొమ్మే శబ్దం చేస్తోందా?\" అని ఆశ్చర్యంగా అంది. లోపల ఏమీ లేకపోతే, నక్క ఆ 'రాక్షసుడి' దగ్గరకు వెళ్ళడానికి ఇప్పుడు ధైర్యం చేస్తుందా?",
+      "image_prompt": "The fox squints its eyes, carefully observing the drum, and a flash of understanding crosses its face. It notices a dried tree branch repeatedly scraping against the top of the drum, creating the distinct 'khr khr' sound. A ray of sunlight highlights the rubbing branch and the drum, bringing clarity to the scene, while the jackal watches from a slightly darker, contemplative spot.",
+      "scene_visual": "The fox squints its eyes, carefully observing the drum, and a flash of understanding crosses its face. It notices a dried tree branch repeatedly scraping against the top of the drum, creating the distinct 'khr khr' sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Kallu Sannagaa Chesi, Aa Dolunu Chaalaa Jaagrattagaa Gamaninchindi. Appudu Daani Mukhanlo Oka Merupu — Edo Arthamainatlu! Oka Endina Chettu Komma Pade Pade Aa Dolu Paibhaagaaniki Raasukuntundi — Ade Aa Shabdan! Aa Komma Raasukune 'Khar Khar' Shabdam Dolu Shabdam Nundi Vidigaa Vinipinchindi. \"Ante... Lopala Emi Ledaa? Kevalam Aa Komme Shabdam Chestondaa?\" Ani Aashcharyangaa Andi. Lopala Emi Lekapote, Nakka Aa 'Raakshasudi' Daggaraku Velladaaniki Ippudu Dhairyam Chestundaa?",
+      "text_en": "The fox narrowed its eyes and carefully observed the drum. Then a spark lit up its face — as if it understood something! A dry tree branch was rubbing against the top of the drum again and again — that was the sound! The 'kharr kharr' sound of the branch rubbing was heard separately from the drum's sound. \"So... there's nothing inside? Is it just that branch making the sound?\" it said in surprise. If there was nothing inside, would the fox now dare to go near that 'monster'?"
+    },
+    {
+      "id": 6,
+      "text": "పిల్లలూ, అప్పుడు ఆ నక్క ఏం చేసిందో తెలుసా? అది తన ధైర్యాన్ని కూడగట్టుకుంది — దాని కళ్ళల్లో ధైర్యం మెరిసింది. ఒక్కసారిగా ఆ డోలు మీదకు దూకింది, తన పదునైన పంజాలతో దాని తోలును చింపేసింది. డోలు తోలు 'ఠప్' మని చిరిగింది. అది లోపల చూసింది — డోలు ఖాళీ! \"హా! ఇది కేవలం డోలు! భయపడాల్సిన అవసరం లేదు! లోపల ఏమీ లేదు!\" అని నోరు తెరిచి చిన్న నవ్వు నవ్వింది. ఈ సంఘటన ఆ నక్క జీవితాన్ని ఎలా మారుస్తుంది?",
+      "image_prompt": "The fox, with courage shining in its eyes, leaps onto the drum and tears its skin with sharp claws. It then peers inside the now-empty drum, a small, knowing smile spreading across its open mouth. The climax is bathed in bright, clear sunlight, highlighting the torn drum and the jackal's triumphant posture, dispelling the earlier tension and gloom.",
+      "scene_visual": "The fox, with courage shining in its eyes, leaps onto the drum and tears its skin with sharp claws. It then peers inside the now-empty drum, a small, knowing smile spreading across its open mouth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pillalu, Appudu Aa Nakka Em Chesindo Telusaa? Adi Tana Dhairyaanni Kudagattukundi — Daani Kallallo Dhairyam Merisindi. Okkasaarigaa Aa Dolu Midaku Dukindi, Tana Padunaina Panjaalato Daani Tolunu Chimpesindi. Dolu Tolu 'Thap' Mani Chirigindi. Adi Lopala Chusindi — Dolu Khaali! \"Haa! Idi Kevalam Dolu! Bhayapadaalsina Avasaram Ledu! Lopala Emi Ledu!\" Ani Noru Terichi Chinna Navvu Navvindi. I Sanghatana Aa Nakka Jivitaanni Elaa Maarustundi?",
+      "text_en": "Children, do you know what the fox did then? It gathered all its courage — bravery shone in its eyes. Suddenly, it jumped onto the drum and tore its skin with its sharp claws. The drum's skin ripped with a 'thwap'. It looked inside — the drum was empty! \"Ha! It's just a drum! There's no need to be scared! There's nothing inside!\" it said, opening its mouth in a small laugh. How would this event change the fox's life?"
+    },
+    {
+      "id": 7,
+      "text": "ఆ నక్కకు ఇప్పుడు చాలా ఉపశమనం కలిగింది. దాని ముఖంలో ప్రశాంతత, తెలిసిన చూపు కనిపించాయి. ఆ పెద్ద శబ్దానికి భయపడాల్సిన అవసరం లేదని దానికి అర్థమైంది. అడవిలో మళ్ళీ ప్రశాంతమైన కీచురాళ్ళ శబ్దం వినిపించింది. \"ఇకపై, పెద్ద శబ్దాలకు నేను భయపడను... ముందు వెళ్లి చూడాలి!\" అని అది గర్వంగా అడుగులు వేస్తూ ముందుకు సాగింది. ఆకలితో ఉన్నా, ఇప్పుడు దాని నడకలో కొత్త ధైర్యం, ప్రశాంతత ఉన్నాయి. అది తన ఆహారం కోసం ప్రశాంతంగా వెతుకుతూ ముందుకు సాగింది.",
+      "image_prompt": "The fox walks forward with proud steps, a sense of calm and knowing evident in its expression. It continues its search for food with a newfound confidence, no longer fearing loud sounds in the now peaceful forest. Gentle dusk light begins to spread, casting warm amber tones over the forest, creating a peaceful and resolved atmosphere as the jackal moves into the fading light.",
+      "scene_visual": "The fox walks forward with proud steps, a sense of calm and knowing evident in its expression. It continues its search for food with a newfound confidence, no longer fearing loud sounds in the now peaceful forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Nakkaku Ippudu Chaalaa Upashamanam Kaligindi. Daani Mukhanlo Prashaantata, Telisina Chupu Kanipinchaayi. Aa Pedda Shabdaaniki Bhayapadaalsina Avasaram Ledani Daaniki Arthamaindi. Adavilo Malli Prashaantamaina Kichuraalla Shabdam Vinipinchindi. \"Ikapai, Pedda Shabdaalaku Nenu Bhayapadanu... Mundu Velli Chudaali!\" Ani Adi Garvangaa Adugulu Vestu Munduku Saagindi. Aakalito Unnaa, Ippudu Daani Nadakalo Kotta Dhairyan, Prashaantata Unnaayi. Adi Tana Aahaaram Kosam Prashaantangaa Vetukutu Munduku Saagindi.",
+      "text_en": "The fox now felt a great sense of relief. Calmness and a knowing look appeared on its face. It understood that there was no need to be afraid of that big sound. The peaceful chirping of crickets could be heard in the forest again. \"From now on, I won't be scared of loud sounds... I'll go and see first!\" it said, walking forward with proud steps. Even though it was hungry, there was new courage and peace in its walk now. It continued searching for its food calmly."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 6.5,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 6,
+    "child_engagement": 7,
+    "average": 6.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a clear narrative arc with good emotional depth, effectively showing the fox's fear and courage. However, its primary flaw lies in its formal, almost didactic tone, evident in the explicit moral at the beginning and the repetitive, leading questions at the end of each scene. To elevate this to an award-worthy piece, the narrative needs to adopt a more natural, conversational voice, allowing the moral to unfold organically through the fox's experience rather than being stated upfront."
+  },
+  "quality_warning": true,
+  "title_te_en": "Shabdam Venuka Rahasyam",
+  "moral_te_en": "Pillalu, Konnisaarlu Manalni Entagaano Bhayapette Pedda Pedda Shabdaalu Chesevi, Nijaaniki Lopala Emi Leni Khaali Vastuvule Kaavochchu Ani I Katha Manaku Chebutundi.",
+  "title_en": "The Secret Behind the Sound",
+  "moral_en": "Children, this story tells us that sometimes, big, scary sounds that frighten us a lot might actually come from empty things with nothing inside.",
+  "id": "20260527_071021",
+  "date": "2026-05-27",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - నక్క మరియు డోలు శబ్దం",
+  "thumbnail": "stories/20260527_071021/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
