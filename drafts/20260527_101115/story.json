@@ -1,0 +1,97 @@
+{
+  "title": "సాలీడు నేర్పిన పొడుపు కథ",
+  "moral": "పిల్లలూ, మనసు పెట్టి ఆలోచిస్తే, చీకటిలో కూడా తెలివి వెలుగు దారి చూపిస్తుంది తెలుసా?",
+  "main_character": "Dharmayya, a middle-aged merchant of lean build. He has kind eyes and a thoughtful expression, always wearing simple, clean cotton clothes. Known for his sharp mind and love for puzzles. Always the same character across every scene.",
+  "antagonist": "Maharaju, the King. A stout man with a stern face and a thick, dark mustache. He wears rich silks of deep red and gold, a heavy crown on his head, and carries a jeweled dagger at his hip. Always the same character across every scene.",
+  "setting": "A prosperous kingdom in the Godavari delta region of ancient Andhra. Bustling markets filled with exotic goods, grand palaces of carved stone, and ancient, formidable prisons. The air is often humid with the scent of spices and river water. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ధర్మయ్య తన దుకాణంలో కూర్చుని, కొనుగోలుదారులతో సరదాగా కబుర్లు చెబుతున్నాడు. పండిన మామిడి పండ్ల తీపి వాసన, పసుపు సుగంధం అతని చుట్టూ అల్లుకుపోయాయి. ఒక కస్టమర్ ఆలోచిస్తూ ఉండగా, ధర్మయ్య తన నాణేలను సంతోషంగా లెక్కపెడుతూ, \"ఏమిటి, ఈ పొడుపు కథకు జవాబు దొరికిందా?\" అని అడిగాడు. అతని కళ్ళలో మెరుపు, పెదవులపై చిరునవ్వు నిలిచి ఉన్నాయి. ఇంతలో — ఒక రాజభటుడు అతని వైపు అడుగు వేశాడు. ఆ కవచం సూర్యరశ్మిలో మెరుస్తూ, నేరుగా ధర్మయ్య దగ్గరకు వచ్చాడు.",
+      "image_prompt": "The merchant sits, happily counting coins, as a royal guard steps towards him. The guard's armor gleams brightly under the sunlight as he approaches. Bright, warm midday sun filtering through woven awnings, casting dappled shadows on the market stalls and the vibrant goods.",
+      "scene_visual": "The merchant sits, happily counting coins, as a royal guard steps towards him. The guard's armor gleams brightly under the sunlight as he approaches.",
+      "supporting_char_keys": [],
+      "text_te_en": "Dharmayya Tana Dukaananlo Kurchuni, Konugoludaarulato Saradaagaa Kaburlu Chebutunnaadu. Pandina Maamidi Pandla Tipi Vaasana, Pasupu Sugandham Atani Chuttu Allukupoyaayi. Oka Kastamar Aalochistu Undagaa, Dharmayya Tana Naanelanu Santoshangaa Lekkapedutu, \"Emiti, I Podupu Kathaku Javaabu Dorikindaa?\" Ani Adigaadu. Atani Kallalo Merupu, Pedavulapai Chirunavvu Nilichi Unnaayi. Intalo — Oka Raajabhatudu Atani Vaipu Adugu Veshaadu. Aa Kavacham Suryarashmilo Merustu, Nerugaa Dharmayya Daggaraku Vachchaadu.",
+      "text_en": "Dharmayya sat in his shop, chatting happily with customers. The sweet smell of ripe mangoes and the fragrance of turmeric filled the air around him. While a customer was thinking, Dharmayya happily counted his coins and asked, \"Well, have you found the answer to this riddle?\" A sparkle was in his eyes, and a smile on his lips. Just then — a royal guard stepped towards him. His armor gleamed in the sunlight as he walked straight to Dharmayya."
+    },
+    {
+      "id": 2,
+      "text": "ఆ రాజభటుడు ధర్మయ్య దగ్గరకు రాగానే — అతని కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి. భటులు ఏమాత్రం మాట లేకుండా, ధర్మయ్యను గట్టిగా పట్టుకున్నారు. \"నేను ఏ తప్పు చేయలేదు! ఇది అన్యాయం!\" అని ధర్మయ్య అరిచాడు, తన చేతులు గాలిలో పైకి లేపాడు. అతని చేతులకు — ఇనుప సంకెళ్ళు బిగిసాయి. ఆ సంకెళ్ళ చల్లటి ఇనుము అతని మణికట్టును గట్టిగా నొక్కింది. అతన్ని చీకటి, ప్రతిధ్వనించే కారిడార్ల గుండా లాక్కువెళ్లారు, అతని అడుగుల చప్పుడు నిశ్శబ్దంలో కలిసిపోయింది.",
+      "image_prompt": "The merchant raises his hands in protest as guards forcefully seize him. Cold iron shackles are clamped tightly around his wrists, pressing into his skin. Dim, grey light filtering through a high, barred window, illuminating dust motes dancing in the heavy air of the palace courtyard as Dharmayya is led away.",
+      "scene_visual": "The merchant raises his hands in protest as guards forcefully seize him. Cold iron shackles are clamped tightly around his wrists, pressing into his skin.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raajabhatudu Dharmayya Daggaraku Raagaane — Atani Kallu Aashcharyanto Peddavayyaayi. Bhatulu Emaatram Maata Lekundaa, Dharmayyanu Gattigaa Pattukunnaaru. \"Nenu E Tappu Cheyaledu! Idi Anyaayan!\" Ani Dharmayya Arichaadu, Tana Chetulu Gaalilo Paiki Lepaadu. Atani Chetulaku — Inupa Sankellu Bigisaayi. Aa Sankella Challati Inumu Atani Manikattunu Gattigaa Nokkindi. Atanni Chikati, Pratidhvaninche Kaaridaarla Gundaa Laakkuvellaaru, Atani Adugula Chappudu Nishshabdanlo Kalisipoyindi.",
+      "text_en": "As the royal guard approached Dharmayya — his eyes widened in surprise. Without a word, the guards firmly seized Dharmayya. \"I haven't done anything wrong! This is unfair!\" Dharmayya cried, raising his hands in the air. Iron chains were clamped onto his wrists. The cold iron of the chains pressed tightly against his wrists. He was dragged through dark, echoing corridors, his footsteps fading into silence."
+    },
+    {
+      "id": 3,
+      "text": "చీకటి చెరసాలలోని ఆ తడి వాసన ధర్మయ్య బట్టలకి అంటుకుని ఉంది. అతనిని రాజు ముందు నిలబెట్టారు. మహారాజు కళ్ళు ధర్మయ్య వైపు నిప్పులు కురిపించినట్లు చూసాయి. \"నీ తెలివిని నిరూపించు, వ్యాపారీ! నాకు జవాబు తెలియని పొడుపు కథను చెప్పు, నీకు స్వేచ్ఛ!\" అని మహారాజు గంభీరంగా ఆదేశించాడు. ధర్మయ్య తన దవడ బిగించాడు, కళ్ళతో ఏదో ఆశ కోసం వెతికాడు. ఒక్కసారిగా — రాజదర్బారులో నిశ్శబ్దం అలుముకుంది. రాజు మాటలు ధర్మయ్య మనసులో ప్రతిధ్వనిస్తూ ఉండగా, భారీ తలుపు మోతతో అతని గది మూసుకుపోయింది.",
+      "image_prompt": "The merchant stands before the king, who sternly challenges him to prove his wit. The king's eyes burn intensely as he issues his command. Also in this scene: Maharaju, the King. A stout man with a stern face and a thick, dark mustache. He wears rich silks of deep red and gold, a heavy crown on his head, and carries a jeweled dagger at his hip. Always the same character across every scene. Harsh, flickering torchlight in the King's dimly lit audience chamber, casting long, dramatic shadows on the stone walls and the King's imposing figure.",
+      "scene_visual": "The merchant stands before the king, who sternly challenges him to prove his wit. The king's eyes burn intensely as he issues his command.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chikati Cherasaalaloni Aa Tadi Vaasana Dharmayya Battalaki Antukuni Undi. Atanini Raaju Mundu Nilabettaaru. Mahaaraaju Kallu Dharmayya Vaipu Nippulu Kuripinchinatlu Chusaayi. \"Ni Telivini Nirupinchu, Vyaapaari! Naaku Javaabu Teliyani Podupu Kathanu Cheppu, Niku Svechcha!\" Ani Mahaaraaju Gambhirangaa Aadeshinchaadu. Dharmayya Tana Davada Biginchaadu, Kallato Edo Aasha Kosam Vetikaadu. Okkasaarigaa — Raajadarbaarulo Nishshabdam Alumukundi. Raaju Maatalu Dharmayya Manasulo Pratidhvanistu Undagaa, Bhaari Talupu Motato Atani Gadi Musukupoyindi.",
+      "text_en": "The damp smell of the dark prison clung to Dharmayya's clothes. He was brought before the King. The King's eyes glared at Dharmayya as if spitting fire. \"Prove your cleverness, merchant! Tell me a riddle I cannot answer, and you shall be free!\" the King commanded gravely. Dharmayya clenched his jaw, his eyes searching for a glimmer of hope. Suddenly — silence fell over the royal court. As the King's words echoed in Dharmayya's mind, the heavy door clanged shut, locking him in his cell."
+    },
+    {
+      "id": 4,
+      "text": "తన గదిలో అటూ ఇటూ తిరుగుతూ, ధర్మయ్య తన జుట్టును చేతులతో చిందరవందర చేసుకున్నాడు. అతని భుజాలు కుంగిపోయాయి, ఆలోచనలు ఏమీ తోచడం లేదు. \"ఎలాంటి పొడుపు కథ? మహారాజును ఎలా ఓడించాలి?\" అని అతను తనలో తాను గొణుక్కున్నాడు. అతను నిరాశగా గోడకు ఆనుకున్నాడు, ఆ చల్లటి, గరుకైన రాయి అతని వేళ్ళకు తగిలింది. అతని కళ్ళ ముందు — అంతా చీకటిగా కనిపించింది. ఇంతలో, అతని దృష్టి ఒక సన్నని సాలీడు వైపు మళ్ళింది, అది గది పైభాగంలో జాగ్రత్తగా తన గూడు అల్లుతోంది.",
+      "image_prompt": "The merchant leans against a cold, rough wall, his shoulders slumped in despair. His gaze shifts to a slender spider carefully weaving its web high up in the room. A single shaft of pale moonlight slices through the high prison window, illuminating a small, dusty patch on the cell floor where Dharmayya paces.",
+      "scene_visual": "The merchant leans against a cold, rough wall, his shoulders slumped in despair. His gaze shifts to a slender spider carefully weaving its web high up in the room.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Gadilo Atu Itu Tirugutu, Dharmayya Tana Juttunu Chetulato Chindaravandara Chesukunnaadu. Atani Bhujaalu Kungipoyaayi, Aalochanalu Emi Tochadam Ledu. \"Elaanti Podupu Katha? Mahaaraajunu Elaa Odinchaali?\" Ani Atanu Tanalo Taanu Gonukkunnaadu. Atanu Niraashagaa Godaku Aanukunnaadu, Aa Challati, Garukaina Raayi Atani Vellaku Tagilindi. Atani Kalla Mundu — Antaa Chikatigaa Kanipinchindi. Intalo, Atani Drrishti Oka Sannani Saalidu Vaipu Mallindi, Adi Gadi Paibhaaganlo Jaagrattagaa Tana Gudu Allutondi.",
+      "text_en": "Pacing back and forth in his cell, Dharmayya ran his hands through his hair. His shoulders slumped, and no ideas came to him. \"What kind of riddle? How can I defeat the King?\" he mumbled to himself. He leaned against the wall in despair, the cold, rough stone touching his fingers. Everything seemed dark before his eyes. Just then, his gaze fell upon a tiny spider, carefully weaving its web in the upper part of the cell."
+    },
+    {
+      "id": 5,
+      "text": "ఆ సాలీడు గూడు అల్లుతుండగా — దాని సన్నటి దారం మసక వెలుగులో మెరుస్తూ ధర్మయ్య కళ్ళను ఆకట్టుకుంది. అతనికి తన చిన్ననాటి జ్ఞాపకాలు గుర్తొచ్చాయి, ఎప్పుడో విన్న ఒక కథ మనసులో మెదిలింది. అతని మనసులో — ఒక మెరుపు మెరిసింది! అతని కళ్ళలో మెరుపు, పెదవులపై చిన్న విజయోత్సాహపు నవ్వు ఏర్పడింది. \"అవును! ఇదే సరైన పొడుపు కథ!\" అని ధర్మయ్య ఉత్సాహంగా పలికాడు. ఇంతలో, బయట బరువు అడుగుల చప్పుడు, తాళాల గలగల ధ్వని వినిపించాయి, సమయం అయిపోయిందని సూచిస్తూ.",
+      "image_prompt": "The merchant's eyes light up with a sudden realization, and a small, triumphant smile forms on his lips. A faint glimmer of light catches the delicate thread of the spider's web, drawing his attention. The faint, cold moonlight is now joined by the warm, unsteady glow of a guard's lantern approaching the cell door, creating dancing shadows within the cell.",
+      "scene_visual": "The merchant's eyes light up with a sudden realization, and a small, triumphant smile forms on his lips. A faint glimmer of light catches the delicate thread of the spider's web, drawing his attention.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Saalidu Gudu Allutundagaa — Daani Sannati Daaram Masaka Velugulo Merustu Dharmayya Kallanu Aakattukundi. Ataniki Tana Chinnanaati Jnyaapakaalu Gurtochchaayi, Eppudo Vinna Oka Katha Manasulo Medilindi. Atani Manasulo — Oka Merupu Merisindi! Atani Kallalo Merupu, Pedavulapai Chinna Vijayotsaahapu Navvu Erpadindi. \"Avunu! Ide Saraina Podupu Katha!\" Ani Dharmayya Utsaahangaa Palikaadu. Intalo, Bayata Baruvu Adugula Chappudu, Taalaala Galagala Dhvani Vinipinchaayi, Samayam Ayipoyindani Suchistu.",
+      "text_en": "As the spider wove its web — its thin thread gleamed in the dim light, catching Dharmayya's eye. He remembered his childhood, a story he had once heard came to his mind. A flash of an idea sparked in his mind! A sparkle appeared in his eyes, and a small triumphant smile formed on his lips. \"Yes! This is the perfect riddle!\" Dharmayya exclaimed excitedly. Just then, heavy footsteps and the jingle of keys were heard outside, signaling that time was up."
+    },
+    {
+      "id": 6,
+      "text": "రాజు ముందు నిలబడి, ధర్మయ్య గంభీరంగా తన పొడుపు కథను చెప్పాడు. అతని చూపులు మహారాజు ముఖంపై నిలిచాయి, ఎంతో నమ్మకంతో, జాగ్రత్తగా చూస్తున్నాడు. \"అంతటా తిరుగుతాను, కానీ కదలలేను. అందరినీ కలుస్తాను, కానీ ఎవరినీ పలకరించలేను. నేను ఎవరు?\" అని అడిగాడు. దర్బార్ అంతా నిశ్శబ్దంగా ఉండిపోయింది, మహారాజు నిరాశగా నిట్టూర్చాడు, అతని పట్టు వస్త్రాలు మెల్లగా కదిలాయి. మహారాజు ముఖంలో — ఓటమి స్పష్టంగా కనిపించింది. రాజు ఇష్టం లేనట్లు చేయి పైకెత్తి, తన భటులకు సంజ్ఞ చేశాడు.",
+      "image_prompt": "The merchant stands confidently before the king, posing his riddle. The king's face clearly shows defeat as he reluctantly raises a hand to signal his guards. Also in this scene: Maharaju, the King. A stout man with a stern face and a thick, dark mustache. He wears rich silks of deep red and gold, a heavy crown on his head, and carries a jeweled dagger at his hip. Always the same character across every scene. Grand, opulent throne room, lit by numerous oil lamps and torches, casting a warm, golden glow on the King's rich attire and the merchant's humble clothes.",
+      "scene_visual": "The merchant stands confidently before the king, posing his riddle. The king's face clearly shows defeat as he reluctantly raises a hand to signal his guards.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Mundu Nilabadi, Dharmayya Gambhirangaa Tana Podupu Kathanu Cheppaadu. Atani Chupulu Mahaaraaju Mukhampai Nilichaayi, Ento Nammakanto, Jaagrattagaa Chustunnaadu. \"Antataa Tirugutaanu, Kaani Kadalalenu. Andarini Kalustaanu, Kaani Evarini Palakarinchalenu. Nenu Evaru?\" Ani Adigaadu. Darbaar Antaa Nishshabdangaa Undipoyindi, Mahaaraaju Niraashagaa Nitturchaadu, Atani Pattu Vastraalu Mellagaa Kadilaayi. Mahaaraaju Mukhanlo — Otami Spashtangaa Kanipinchindi. Raaju Ishtam Lenatlu Cheyi Paiketti, Tana Bhatulaku Sanjnya Cheshaadu.",
+      "text_en": "Standing before the King, Dharmayya gravely presented his riddle. His gaze was fixed on the King's face, watching carefully, full of confidence. \"I travel everywhere, but I cannot move. I meet everyone, but I cannot greet anyone. Who am I?\" he asked. The entire court remained silent, and the King sighed in frustration, his silken robes rustling softly. Defeat was clearly visible on the King's face. The King reluctantly raised his hand, signaling to his guards."
+    },
+    {
+      "id": 7,
+      "text": "భటులు ధర్మయ్యను చెరసాల నుండి బయటకు తీసుకువచ్చారు. మహారాజు నెమ్మదిగా, \"మీ తెలివికి నా ప్రశంసలు, వ్యాపారీ. మీరు స్వేచ్ఛగా వెళ్ళవచ్చు\" అని పలికాడు. ధర్మయ్య తల ఎత్తుకొని, పెదవులపై చిన్న నవ్వుతో బయటి ప్రపంచంలోకి అడుగు పెట్టాడు. అతని ముఖంపై తాకిన వెచ్చని, స్వచ్ఛమైన గాలి, మల్లెపూల సువాసనతో అతన్ని నింపింది. ధర్మయ్య గుండెల్లో — స్వేచ్ఛ గాలి నిండింది. చీకటి రోజులు ముగిసిపోయాయి, అతని తెలివి అతనికి కొత్త జీవితాన్ని ఇచ్చింది.",
+      "image_prompt": "The merchant steps out of the prison, his head held high and a small smile on his lips. Warm, fresh air and the scent of jasmine flowers greet his face as he emerges into the outside world. Also in this scene: Maharaju, the King. A stout man with a stern face and a thick, dark mustache. He wears rich silks of deep red and gold, a heavy crown on his head, and carries a jeweled dagger at his hip. Always the same character across every scene. Bright, clear morning sun shining over the palace courtyard, illuminating the grandeur of the architecture and the path to freedom through the open gates.",
+      "scene_visual": "The merchant steps out of the prison, his head held high and a small smile on his lips. Warm, fresh air and the scent of jasmine flowers greet his face as he emerges into the outside world.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bhatulu Dharmayyanu Cherasaala Nundi Bayataku Tisukuvachchaaru. Mahaaraaju Nemmadigaa, \"Mi Teliviki Naa Prashansalu, Vyaapaari. Miru Svechchagaa Vellavachchu\" Ani Palikaadu. Dharmayya Tala Ettukoni, Pedavulapai Chinna Navvuto Bayati Prapanchanloki Adugu Pettaadu. Atani Mukhampai Taakina Vechchani, Svachchamaina Gaali, Mallepula Suvaasanato Atanni Nimpindi. Dharmayya Gundello — Svechcha Gaali Nindindi. Chikati Rojulu Mugisipoyaayi, Atani Telivi Ataniki Kotta Jivitaanni Ichchindi.",
+      "text_en": "The guards led Dharmayya out of the prison. The King slowly said, \"My compliments on your cleverness, merchant. You may go free.\" Dharmayya stepped out into the world, his head held high, a small smile on his lips. The warm, fresh air touched his face, filling him with the scent of jasmine. Dharmayya's heart was filled with the breath of freedom. The dark days were over; his cleverness had given him a new life."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-crafted for a children's audience, boasting a compelling narrative arc, rich dialogue, and excellent grammar. The emotional depth is consistently shown rather than told, and the engagement hooks are perfectly placed to captivate a young listener. The single most important fix to elevate this to an award-winning piece would be to infuse more consistent oral warmth throughout the narrative, making the descriptive passages sound more like a grandparent's natural, flowing speech rather than slightly formal written prose."
+  },
+  "title_te_en": "Saalidu Nerpina Podupu Katha",
+  "moral_te_en": "Pillalu, Manasu Petti Aalochiste, Chikatilo Kudaa Telivi Velugu Daari Chupistundi Telusaa?",
+  "title_en": "The Riddle the Spider Taught",
+  "moral_en": "Children, do you know that if you think carefully, even in darkness, your cleverness can light up the path?",
+  "id": "20260527_101115",
+  "date": "2026-05-27",
+  "category": "podupu",
+  "subcategory": "clever_escapes",
+  "topic": "పొడుపు కథతో చెరసాల నుండి తప్పించుకున్న వ్యాపారి",
+  "thumbnail": "stories/20260527_101115/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
