@@ -1,0 +1,111 @@
+{
+  "title": "పగిలిన కుండ, పూల బాట",
+  "moral": "కొన్నిసార్లు, లోపాలున్న వస్తువులు కూడా, తమదైన ప్రత్యేకతతో ఎంత అద్భుతమైన పనులు చేస్తాయో తెలుసా?",
+  "main_character": "Raju is a diligent and kind-hearted young boy, about 10 years old, with bright, curious eyes and often dusty clothes from his daily work. He is earnest and responsible, sometimes overly focused on perfection. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds in a small, traditional village in rural Andhra Pradesh, nestled beside a flowing river. Dusty footpaths wind between mud-brick homes, leading to a large banyan tree in the village center and vibrant green fields beyond. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నది ఒడ్డున, రాజు ఉదయాన్నే తన భుజాలపై రెండు మట్టి కుండలను జాగ్రత్తగా మోస్తున్నాడు, పిల్లలూ. ఒక కుండ నిగనిగలాడుతూ, ఎంతో అందంగా ఉంటే, ఇంకో దాని పక్కన చిన్న చీలిక స్పష్టంగా కనిపిస్తోంది. ఆ కుండల చల్లని, గరుకు స్పర్శ రాజు భుజాలకు అలవాటు, కానీ అతని వేళ్ళు అప్పుడప్పుడు ఆ పగిలిన కుండ అంచులను తడుముతున్నాయి. రాజు కళ్ళు ముందున్న దారిపైనే నిలిచాయి, అతని పెదవులు గట్టిగా అదిమిపట్టి ఉన్నాయి. \"ఈ రోజు కూడా నీరు నింపుదాం!\" అంటూ తనలో తాను గొణుక్కున్నాడు. — ఆ పగిలిన కుండ ఎందుకు అలా ఉంది?",
+      "image_prompt": "The boy carefully carries two clay pots on his shoulders, one gleaming and beautiful, the other with a visible crack. His fingers occasionally brush against the rough, broken edge of the cracked pot as his eyes are fixed on the path ahead. Early morning sunlight, soft golden hues filtering through the trees, peaceful and fresh.",
+      "scene_visual": "The boy carefully carries two clay pots on his shoulders, one gleaming and beautiful, the other with a visible crack. His fingers occasionally brush against the rough, broken edge of the cracked pot as his eyes are fixed on the path ahead.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nadi Odduna, Raaju Udayaanne Tana Bhujaalapai Rendu Matti Kundalanu Jaagrattagaa Mostunnaadu, Pillalu. Oka Kunda Niganigalaadutu, Ento Andangaa Unte, Inko Daani Pakkana Chinna Chilika Spashtangaa Kanipistondi. Aa Kundala Challani, Garuku Sparsha Raaju Bhujaalaku Alavaatu, Kaani Atani Vellu Appudappudu Aa Pagilina Kunda Anchulanu Tadumutunnaayi. Raaju Kallu Mundunna Daaripaine Nilichaayi, Atani Pedavulu Gattigaa Adimipatti Unnaayi. \"I Roju Kudaa Niru Nimpudaan!\" Antu Tanalo Taanu Gonukkunnaadu. — Aa Pagilina Kunda Enduku Alaa Undi?",
+      "text_en": "By the river, early in the morning, Raju was carefully carrying two clay pots on his shoulders, children. One pot was shiny and very beautiful, while the other clearly had a small crack on its side. The cool, rough feel of the pots was familiar to Raju's shoulders, but his fingers sometimes traced the edges of that cracked pot. Raju's eyes were fixed on the path ahead, and his lips were pressed together tightly. \"Let's fill water today too!\" he muttered to himself. — Why was that pot cracked?"
+    },
+    {
+      "id": 2,
+      "text": "నది నుండి ఇంటికి చేరగానే, రాజు తన భుజాలపై నుండి కుండలను దించాడు. నున్నటి కుండలోని నీరు 'గళగళ' మంటూ తొట్టెలోకి మొత్తం నిండిపోయింది. కానీ చీలిక ఉన్న కుండ నుండి మాత్రం, నీరు కారుతున్న 'చిటపట' చప్పుడు స్పష్టంగా వినిపించింది — సగం మాత్రమే మిగిలింది. రాజు భుజాలు కొద్దిగా వంగిపోయాయి, అతని చూపు ఆ సగం ఖాళీగా ఉన్న కుండపైనే నిలిచిపోయింది. \"అయ్యో, మళ్ళీ సగం మాత్రమే మిగిలింది,\" అని నిట్టూర్చాడు. — ఈ కుండని వదిలేస్తాడా?",
+      "image_prompt": "The boy lowers the pots from his shoulders, watching water pour fully from one and only partially from the other. His shoulders are slightly slumped, and his gaze is fixed on the cracked pot, which is only half full. Bright morning sun, clear blue sky, highlighting the contrast between the full and half-empty pots.",
+      "scene_visual": "The boy lowers the pots from his shoulders, watching water pour fully from one and only partially from the other. His shoulders are slightly slumped, and his gaze is fixed on the cracked pot, which is only half full.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nadi Nundi Intiki Cheragaane, Raaju Tana Bhujaalapai Nundi Kundalanu Dinchaadu. Nunnati Kundaloni Niru 'Galagala' Mantu Totteloki Mottam Nindipoyindi. Kaani Chilika Unna Kunda Nundi Maatran, Niru Kaarutunna 'Chitapata' Chappudu Spashtangaa Vinipinchindi — Sagam Maatrame Migilindi. Raaju Bhujaalu Koddigaa Vangipoyaayi, Atani Chupu Aa Sagam Khaaligaa Unna Kundapaine Nilichipoyindi. \"Ayyo, Malli Sagam Maatrame Migilindi,\" Ani Nitturchaadu. — I Kundani Vadilestaadaa?",
+      "text_en": "As soon as he reached home from the river, Raju lowered the pots from his shoulders. The water from the smooth pot gurgled and completely filled the trough. But from the cracked pot, the 'drip-drip' sound of water leaking was clearly heard — only half of it remained. Raju's shoulders slumped a little, and his gaze stayed on that half-empty pot. \"Oh no, only half is left again,\" he sighed. — Will he give up on this pot?"
+    },
+    {
+      "id": 3,
+      "text": "రోజులు గడుస్తున్న కొద్దీ, రాజుకు చీలిక కుండపై విసుగు పెరిగింది. అతని ముఖం చిట్లించుకున్నాడు, కనుబొమ్మలు ముడిపడ్డాయి. మార్కెట్‌కు వెళ్లే దారిలో, అతని బేర్‌ఫుట్ కింద పొడి, ధూళి దారి 'కరకర' మని శబ్దం చేస్తోంది. ఆ చీలిక కుండ వైపు చూడకుండానే, తనలో తనే గొణుక్కున్నాడు: \"నీ వల్ల నా పని రెట్టింపు అవుతోంది. నిన్ను మార్చాలి.\" అతని అడుగులు బరువుగా పడుతున్నాయి, పాత కుండను వదిలేయాలన్న ఆలోచనతో అతని భుజాలు ఇంకొంచెం వంగిపోయాయి. — దాన్ని మార్చాక ఏం జరుగుతుంది?",
+      "image_prompt": "The boy walks with heavy steps, his bare feet crunching on the dry, dusty path. His face is scrunched up, eyebrows furrowed in frustration, as his shoulders are further slumped with the thought of replacing the old pot. Mid-morning, direct sunlight, casting sharp shadows, reflecting Raju's internal conflict.",
+      "scene_visual": "The boy walks with heavy steps, his bare feet crunching on the dry, dusty path. His face is scrunched up, eyebrows furrowed in frustration, as his shoulders are further slumped with the thought of replacing the old pot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Rojulu Gadustunna Koddi, Raajuku Chilika Kundapai Visugu Perigindi. Atani Mukham Chitlinchukunnaadu, Kanubommalu Mudipaddaayi. Maarket‌Ku Velle Daarilo, Atani Ber‌Phut Kinda Podi, Dhuli Daari 'Karakara' Mani Shabdam Chestondi. Aa Chilika Kunda Vaipu Chudakundaane, Tanalo Tane Gonukkunnaadu: \"Ni Valla Naa Pani Rettimpu Avutondi. Ninnu Maarchaali.\" Atani Adugulu Baruvugaa Padutunnaayi, Paata Kundanu Vadileyaalanna Aalochanato Atani Bhujaalu Inkonchem Vangipoyaayi. — Daanni Maarchaaka Em Jarugutundi?",
+      "text_en": "As days passed, Raju grew more and more annoyed with the cracked pot. His face frowned, and his eyebrows furrowed. On the way to the market, the dry, dusty path crunched under his bare feet. Without even looking at the cracked pot, he grumbled to himself: \"You're making my work double. I need to replace you.\" His steps were heavy, and his shoulders slumped even more with the thought of getting rid of the old pot. — What will happen after he replaces it?"
+    },
+    {
+      "id": 4,
+      "text": "కొత్త కుండ కొనడానికి మార్కెట్‌కు వెళ్తున్న రాజు తల వంచుకుని నడుస్తున్నాడు, అతని చూపు నేల పైనే నిలిచింది. గ్రామ దేవాలయం నుండి వస్తున్న ధూపపు వాసన, మట్టి వాసనతో కలిసి గాలిలో తేలింది. అదే సమయంలో, తన ఇంటి ముందు కూర్చున్న గ్రామ పెద్ద తాతయ్య, రాజును గమనించాడు. రాజు మామూలు కన్నా నెమ్మదిగా నడుస్తున్నాడు, అతని కళ్ళలో కాంతి తగ్గింది. \"ఏమైంది నాయనా, ఎందుకు ఇంత ఆలోచనగా ఉన్నావు?\" అని తాతయ్య ప్రేమగా అడిగాడు. — రాజు తన బాధను తాతయ్యతో పంచుకుంటాడా?",
+      "image_prompt": "The boy walks slowly with his head bowed, his gaze fixed on the ground. An old man, sitting in front of his house, notices the boy's diminished light in his eyes. Warm, dappled light under a large banyan tree, creating a serene and inviting atmosphere.",
+      "scene_visual": "The boy walks slowly with his head bowed, his gaze fixed on the ground. An old man, sitting in front of his house, notices the boy's diminished light in his eyes.",
+      "supporting_char_keys": [
+        "thathayya"
+      ],
+      "text_te_en": "Kotta Kunda Konadaaniki Maarket‌Ku Veltunna Raaju Tala Vanchukuni Nadustunnaadu, Atani Chupu Nela Paine Nilichindi. Graama Devaalayam Nundi Vastunna Dhupapu Vaasana, Matti Vaasanato Kalisi Gaalilo Telindi. Ade Samayanlo, Tana Inti Mundu Kurchunna Graama Pedda Taatayya, Raajunu Gamaninchaadu. Raaju Maamulu Kannaa Nemmadigaa Nadustunnaadu, Atani Kallalo Kaanti Taggindi. \"Emaindi Naayanaa, Enduku Inta Aalochanagaa Unnaavu?\" Ani Taatayya Premagaa Adigaadu. — Raaju Tana Baadhanu Taatayyato Panchukuntaadaa?",
+      "text_en": "Raju was walking to the market to buy a new pot, his head bowed, his gaze fixed on the ground. The scent of incense from the village temple mixed with the smell of earth, floating in the air. At the same time, Thathayya, the village elder, who was sitting in front of his house, noticed Raju. Raju was walking slower than usual, and the light in his eyes had dimmed. \"What's wrong, my boy? Why are you so lost in thought?\" Thathayya asked kindly. — Will Raju share his troubles with Thathayya?"
+    },
+    {
+      "id": 5,
+      "text": "తాతయ్య దయగల మాటలతో, రాజు తన మనసులోని బాధను వెళ్లగక్కాడు. అతని చేతులు ఆవేశంగా కదిలాయి, గొంతులో కొద్దిగా నిరాశ వినిపించింది. \"ఈ కుండ సగం నీటిని వృధా చేస్తోంది, తాతయ్యా,\" అని గట్టిగా చెప్పాడు. అతని భుజాలు కొద్దిగా తేలికపడినట్లు అనిపించాయి, కానీ అతని కళ్ళలో మాత్రం ఇంకా నిశ్చయత్వం ఉంది. తాతయ్య మర్రి చెట్టు ఆకుల సన్నని గలగల శబ్దం మధ్య, ఓపికగా విన్నాడు. — తాతయ్య ఏం చెబుతాడు?",
+      "image_prompt": "The boy passionately expresses his frustration, his hands moving animatedly as he speaks. His shoulders feel slightly lighter, but a determined look remains in his eyes as the old man patiently listens under the rustling banyan tree leaves. Soft, diffused light under the tree, creating an intimate and trusting space for conversation.",
+      "scene_visual": "The boy passionately expresses his frustration, his hands moving animatedly as he speaks. His shoulders feel slightly lighter, but a determined look remains in his eyes as the old man patiently listens under the rustling banyan tree leaves.",
+      "supporting_char_keys": [
+        "thathayya"
+      ],
+      "text_te_en": "Taatayya Dayagala Maatalato, Raaju Tana Manasuloni Baadhanu Vellagakkaadu. Atani Chetulu Aaveshangaa Kadilaayi, Gontulo Koddigaa Niraasha Vinipinchindi. \"I Kunda Sagam Nitini Vrridhaa Chestondi, Taatayyaa,\" Ani Gattigaa Cheppaadu. Atani Bhujaalu Koddigaa Telikapadinatlu Anipinchaayi, Kaani Atani Kallalo Maatram Inkaa Nishchayatvam Undi. Taatayya Marri Chettu Aakula Sannani Galagala Shabdam Madhya, Opikagaa Vinnaadu. — Taatayya Em Chebutaadu?",
+      "text_en": "With Thathayya's kind words, Raju poured out the sorrow in his heart. His hands moved expressively, and a hint of despair was heard in his voice. \"This pot wastes half the water, Thathayya,\" he said firmly. His shoulders felt a little lighter, but there was still determination in his eyes. Thathayya listened patiently amidst the soft rustling of the banyan tree leaves. — What will Thathayya say?"
+    },
+    {
+      "id": 6,
+      "text": "తాతయ్య చిరునవ్వు నవ్వి, రాజు చేయి పట్టుకుని నది వైపు వెళ్లే దారి పక్కకు తీసుకెళ్ళాడు. \"చూడు నాయనా, ఈ అందమైన పూలన్నీ ఎక్కడ మొలిచాయో?\" అని తాతయ్య ఆ దారి పక్కన వికసించిన రంగురంగుల పూల గుంపును చూపించాడు. రాజు కళ్ళు ఒక్కసారిగా పెద్దవయ్యాయి, అతని నోరు కొద్దిగా తెరుచుకుంది — మాట రాలేదు. ధూళి దారికి అంచున, చీలిక కుండ వైపు మాత్రమే, ఎన్నో ఎర్రటి, పసుపు రంగు పూలు వికసించి ఉన్నాయి. అతనికి మెల్లగా అర్థం అవుతోంది. — ఈ అద్భుతాన్ని రాజు ఎలా స్వీకరిస్తాడు?",
+      "image_prompt": "The old man, smiling, leads the boy by the hand to the side of the path leading to the river, pointing to a cluster of colorful flowers. The boy's eyes widen, and his mouth slightly opens in speechless astonishment at the many red and yellow flowers blooming along the dusty path, specifically on the side of the cracked pot. Golden afternoon light, illuminating the path and the flowers, making them glow with newfound beauty.",
+      "scene_visual": "The old man, smiling, leads the boy by the hand to the side of the path leading to the river, pointing to a cluster of colorful flowers. The boy's eyes widen, and his mouth slightly opens in speechless astonishment at the many red and yellow flowers blooming along the dusty path, specifically on the side of the cracked pot.",
+      "supporting_char_keys": [
+        "thathayya"
+      ],
+      "text_te_en": "Taatayya Chirunavvu Navvi, Raaju Cheyi Pattukuni Nadi Vaipu Velle Daari Pakkaku Tisukellaadu. \"Chudu Naayanaa, I Andamaina Pulanni Ekkada Molichaayo?\" Ani Taatayya Aa Daari Pakkana Vikasinchina Rangurangula Pula Gumpunu Chupinchaadu. Raaju Kallu Okkasaarigaa Peddavayyaayi, Atani Noru Koddigaa Teruchukundi — Maata Raaledu. Dhuli Daariki Anchuna, Chilika Kunda Vaipu Maatrame, Enno Errati, Pasupu Rangu Pulu Vikasinchi Unnaayi. Ataniki Mellagaa Artham Avutondi. — I Adbhutaanni Raaju Elaa Svikaristaadu?",
+      "text_en": "Thathayya smiled, took Raju's hand, and led him to the side of the path that went towards the river. \"Look, my boy, where did all these beautiful flowers grow?\" Thathayya asked, pointing to the cluster of colorful flowers blooming by the path. Raju's eyes widened suddenly, and his mouth opened slightly — no words came out. Along the edge of the dusty path, only on the side of the cracked pot, many red and yellow flowers were blooming. He was slowly starting to understand. — How will Raju react to this wonder?"
+    },
+    {
+      "id": 7,
+      "text": "రాజు ముఖంపై ఒక పెద్ద చిరునవ్వు విరిసింది, అతని కళ్ళు జ్ఞానంతో మెరిశాయి. అతను మెల్లగా ఒక పువ్వును తాకాడు, ఆ పూల సువాసన, మట్టి వాసనతో కలిసి గాలిలో నిండిపోయింది. ఆ చీలిక కుండ వైపు ప్రేమగా చూశాడు, అతని భుజాలు నిటారుగా అయ్యాయి. \"ప్రతి ఒక్కరికీ ఒక ప్రత్యేకత ఉంటుంది, తాతయ్యా!\" అని సంతోషంగా అన్నాడు. ఆ రోజు నుండి, రాజు తన రెండు కుండలను ఎంతో ఇష్టంగా మోశాడు, వాటి ప్రత్యేకతను గౌరవించాడు. — ఒక్కసారిగా అన్నీ అర్థమయ్యాయి.",
+      "image_prompt": "A wide smile spreads across the boy's face, and his eyes sparkle with understanding as he gently touches a flower. He looks lovingly at the cracked pot, his shoulders now standing tall, as the scent of the flowers mixes with the earthy smell in the air. Gentle dusk light, warm amber, peaceful and reflective, as Raju walks home with both pots.",
+      "scene_visual": "A wide smile spreads across the boy's face, and his eyes sparkle with understanding as he gently touches a flower. He looks lovingly at the cracked pot, his shoulders now standing tall, as the scent of the flowers mixes with the earthy smell in the air.",
+      "supporting_char_keys": [
+        "thathayya"
+      ],
+      "text_te_en": "Raaju Mukhampai Oka Pedda Chirunavvu Virisindi, Atani Kallu Jnyaananto Merishaayi. Atanu Mellagaa Oka Puvvunu Taakaadu, Aa Pula Suvaasana, Matti Vaasanato Kalisi Gaalilo Nindipoyindi. Aa Chilika Kunda Vaipu Premagaa Chushaadu, Atani Bhujaalu Nitaarugaa Ayyaayi. \"Prati Okkariki Oka Pratyekata Untundi, Taatayyaa!\" Ani Santoshangaa Annaadu. Aa Roju Nundi, Raaju Tana Rendu Kundalanu Ento Ishtangaa Moshaadu, Vaati Pratyekatanu Gauravinchaadu. — Okkasaarigaa Anni Arthamayyaayi.",
+      "text_en": "A big smile spread across Raju's face, and his eyes sparkled with understanding. He gently touched a flower, and the scent of the flowers, mixed with the smell of earth, filled the air. He looked lovingly at the cracked pot, and his shoulders straightened. \"Everyone has a special quality, Thathayya!\" he said happily. From that day on, Raju carried both his pots with great affection, respecting their unique qualities. — Everything made sense all at once."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "thathayya",
+      "description": "An elderly man with a gentle smile and wise, crinkled eyes, often seen wearing a simple white dhoti and sitting under the village banyan tree. He has a calm demeanor and a deep understanding of life. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 10,
+    "emotional_depth": 10,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is a strong contender for publication, showcasing exceptional oral warmth, emotional depth, and child engagement through its clever use of direct address and suspense hooks. The Telugu is impeccable, natural, and free of archaic forms. The narrative arc is compelling and resolves beautifully without being preachy. The single most important fix to reach a perfect score would be to enhance the dialogue richness by ensuring every scene features external direct speech and by giving the characters, particularly Raju, more distinct spoken lines beyond internal monologues."
+  },
+  "title_te_en": "Pagilina Kunda, Pula Baata",
+  "moral_te_en": "Konnisaarlu, Lopaalunna Vastuvulu Kudaa, Tamadaina Pratyekatato Enta Adbhutamaina Panulu Chestaayo Telusaa?",
+  "title_en": "The Cracked Pot, The Flower Path",
+  "moral_en": "Do you know that sometimes, even things with flaws can do wonderful things in their own special way?",
+  "id": "20260527_000950",
+  "date": "2026-05-27",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "రెండు కుండలు మరియు జ్ఞానం",
+  "thumbnail": "stories/20260527_000950/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
