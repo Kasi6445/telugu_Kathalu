@@ -1,0 +1,107 @@
+{
+  "title": "డప్పు గుట్టు, నక్క పాఠం",
+  "moral": "పిల్లలూ, పైకి కనిపించే శబ్దాలను బట్టి, లోపల విలువ ఉంటుందని మనం ఎప్పుడూ అనుకోకూడదు తెలుసా?",
+  "main_character": "A small, lean jackal with russet fur and bright, curious eyes, always sniffing around for an easy meal. He is known for his quick wit and cautious nature, always assessing risks before acting. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A dense forest bordering a small village in rural Telangana, filled with ancient banyan trees, thorny bushes, and a winding dry riverbed. The setting is typically early morning or late afternoon, with golden or dappled sunlight filtering through the canopy. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పొద్దున్నే లేచి, నక్క బుద్ధిగా అడవి అంచున తిరుగుతోంది. దాని చిన్న పాదాల కింద ఉన్న బురద మట్టి మెత్తగా, పదునుగా తగులుతోంది. ముక్కును గాలిలోకి ఎత్తి, ఏదో వాసన కోసం పదేపదే పీలుస్తూ ఉంది. దాని చెవులు అటూ ఇటూ కదులుతున్నాయి — ఎక్కడైనా ఒక చిన్న జీవి కనపడుతుందా అని. \"ఈ రోజు ఆహారం ఎక్కడ దొరుకుతుందో?\" అని అది తనలో తాను అనుకుంది. దాని కడుపులో ఆకలి గిలగిలా తిరుగుతోంది, తెలుసా పిల్లలూ? మరి దానికి ఆహారం దొరుకుతుందా, లేక ఈ రోజు ఉసూరుమంటూ వెనక్కి వెళ్ళిపోతుందా?",
+      "image_prompt": "The fox walks along the forest edge, repeatedly lifting its snout into the air to sniff for a scent. Its ears twitch back and forth, searching for any sign of a small creature. Soft morning light, dappled yellow and green through dense leaves, creating long shadows on the forest floor.",
+      "scene_visual": "The fox walks along the forest edge, repeatedly lifting its snout into the air to sniff for a scent. Its ears twitch back and forth, searching for any sign of a small creature.",
+      "supporting_char_keys": [],
+      "text_te_en": "Poddunne Lechi, Nakka Buddhigaa Adavi Anchuna Tirugutondi. Daani Chinna Paadaala Kinda Unna Burada Matti Mettagaa, Padunugaa Tagulutondi. Mukkunu Gaaliloki Etti, Edo Vaasana Kosam Padepade Pilustu Undi. Daani Chevulu Atu Itu Kadulutunnaayi — Ekkadainaa Oka Chinna Jivi Kanapadutundaa Ani. \"I Roju Aahaaram Ekkada Dorukutundo?\" Ani Adi Tanalo Taanu Anukundi. Daani Kadupulo Aakali Gilagilaa Tirugutondi, Telusaa Pillalu? Mari Daaniki Aahaaram Dorukutundaa, Leka I Roju Usurumantu Venakki Vellipotundaa?",
+      "text_en": "Waking up early in the morning, the fox was smartly roaming at the edge of the forest. The muddy soil under its small paws felt soft and a bit rough. Lifting its nose into the air, it sniffed repeatedly for some smell. Its ears moved back and forth — wondering if it could spot a small creature anywhere. \"Where will I find food today?\" it wondered to itself. Its stomach was rumbling with hunger, do you know, children? So, would it find food, or would it go back disappointed today?"
+    },
+    {
+      "id": 2,
+      "text": "నక్క అలా అడుగులు వేస్తూ, ఆహారం వెతుకుతుంటే — ఒక్కసారిగా \"భూమ్!\" అని ఒక పెద్ద చప్పుడు అడవిని చీల్చుకుంటూ వచ్చింది. ఆ చప్పుడు భూమి గుండా దాని కాళ్ళలోకి పాకి, శరీరాన్ని వణికించింది. నక్క అక్కడే ఆగిపోయింది — దాని చెవులు రెండూ నిటారుగా నిలబడ్డాయి, తోక కొద్దిగా కిందికి ఒదిగిపోయింది. దాని కళ్ళల్లో భయం తాండవించినట్లు, చూపులు గాలిలో తచ్చాడాయి. \"అది ఏమిటి?\" అని అది గుసగుసలాడింది. మళ్ళీ అలాంటి భయంకరమైన చప్పుడు వస్తుందా అని అది కలవరపడింది...",
+      "image_prompt": "The fox stops abruptly, its body trembling as a loud boom echoes through the forest. Its ears stand straight up, and its tail is slightly tucked down, with fear evident in its eyes. Mid-morning sun, brighter and more direct, but still filtered by leaves, casting sharp patches of light and shadow, increasing the sense of mystery.",
+      "scene_visual": "The fox stops abruptly, its body trembling as a loud boom echoes through the forest. Its ears stand straight up, and its tail is slightly tucked down, with fear evident in its eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Alaa Adugulu Vestu, Aahaaram Vetukutunte — Okkasaarigaa \"Bhum!\" Ani Oka Pedda Chappudu Adavini Chilchukuntu Vachchindi. Aa Chappudu Bhumi Gundaa Daani Kaallaloki Paaki, Shariraanni Vanikinchindi. Nakka Akkade Aagipoyindi — Daani Chevulu Rendu Nitaarugaa Nilabaddaayi, Toka Koddigaa Kindiki Odigipoyindi. Daani Kallallo Bhayam Taandavinchinatlu, Chupulu Gaalilo Tachchaadaayi. \"Adi Emiti?\" Ani Adi Gusagusalaadindi. Malli Alaanti Bhayankaramaina Chappudu Vastundaa Ani Adi Kalavarapadindi...",
+      "text_en": "As the fox was walking like that, searching for food — suddenly, a loud \"BOOM!\" sound ripped through the forest. That sound traveled through the ground into its paws, shaking its body. The fox stopped right there — both its ears stood up straight, and its tail drooped a little. Fear danced in its eyes, and its gaze darted through the air. \"What was that?\" it whispered. It worried if such a terrifying sound would come again..."
+    },
+    {
+      "id": 3,
+      "text": "ఆ భయంకరమైన చప్పుడు మళ్ళీ వినపడింది, ఈసారి మరింత దగ్గరగా. నక్క శరీరం కొద్దిగా వణికినా, దాని కుతూహలం భయాన్ని మించిపోయింది. అది అడుగులు తీసి అడుగులు వేస్తూ, పాత యుద్ధభూమి వైపు నెమ్మదిగా కదిలింది. అక్కడ గాలిలో తుప్పు పట్టిన లోహం వాసన, తడిసిన మట్టి సువాసన కలిసి వింతగా అనిపించాయి. దాని కళ్ళు భయంతో పెద్దవయ్యాయి, కానీ ఏదో తెలియని ఆసక్తితో నిండి ఉన్నాయి. \"ఇంత పెద్ద శబ్దం ఎక్కడ నుండి వస్తుంది?\" అని అది నిశ్శబ్దంగా అడిగింది. ఇంత పాడుబడిన చోట, అంత పెద్ద చప్పుడు చేసేది ఏదైనా ప్రమాదకరమైనది ఉంటుందా?",
+      "image_prompt": "The fox slowly moves towards an old battlefield, its body slightly trembling but driven by curiosity. Its eyes are wide with fear but also filled with an unknown interest as it approaches the source of the sound. Overcast sky, muted grey light, making the abandoned field appear bleak and foreboding.",
+      "scene_visual": "The fox slowly moves towards an old battlefield, its body slightly trembling but driven by curiosity. Its eyes are wide with fear but also filled with an unknown interest as it approaches the source of the sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Bhayankaramaina Chappudu Malli Vinapadindi, Isaari Marinta Daggaragaa. Nakka Shariram Koddigaa Vanikinaa, Daani Kutuhalam Bhayaanni Minchipoyindi. Adi Adugulu Tisi Adugulu Vestu, Paata Yuddhabhumi Vaipu Nemmadigaa Kadilindi. Akkada Gaalilo Tuppu Pattina Loham Vaasana, Tadisina Matti Suvaasana Kalisi Vintagaa Anipinchaayi. Daani Kallu Bhayanto Peddavayyaayi, Kaani Edo Teliyani Aasaktito Nindi Unnaayi. \"Inta Pedda Shabdam Ekkada Nundi Vastundi?\" Ani Adi Nishshabdangaa Adigindi. Inta Paadubadina Chota, Anta Pedda Chappudu Chesedi Edainaa Pramaadakaramainadi Untundaa?",
+      "text_en": "That terrifying sound was heard again, this time even closer. Even though the fox's body trembled a little, its curiosity overcame its fear. It took step after step, slowly moving towards an old battlefield. There, the smell of rusty metal and damp earth mixed in the air, feeling strange. Its eyes widened with fear, but they were filled with an unknown curiosity. \"Where is such a big sound coming from?\" it silently asked. In such a desolate place, could something dangerous be making such a loud noise?"
+    },
+    {
+      "id": 4,
+      "text": "కొద్దిగా ముందుకు వెళ్ళి, నక్క ఒక పాత శిథిలమైన గోడ వెనుక నుండి తొంగి చూసింది. ఆ గోడకు రాపిడి తగిలి, దాని మెత్తని బొచ్చుకు దుమ్ము అంటుకుంది. దాని కళ్ళు చిన్నగా చేసి, ప్రతి కదలికను గమనిస్తూ, శరీరాన్ని నేలకు అదుముకుంది. గుండె వేగంగా కొట్టుకుంటోంది, కానీ చూపు మాత్రం అక్కడే స్థిరంగా ఉంది. \"అది అక్కడ ఏమిటి?\" అని అది ఆశ్చర్యంగా అనుకుంది. అది ఒక పెద్ద జంతువా, లేక ప్రమాదకరమైన ఉచ్చులో చిక్కుకుందా?",
+      "image_prompt": "The fox peeks from behind a crumbling old wall, pressing its body to the ground. Its eyes are narrowed, observing every movement, as dust clings to its soft fur from the wall. Harsh, direct midday sun beating down on the barren field, creating strong contrast between light and shadow, emphasizing the isolated object.",
+      "scene_visual": "The fox peeks from behind a crumbling old wall, pressing its body to the ground. Its eyes are narrowed, observing every movement, as dust clings to its soft fur from the wall.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koddigaa Munduku Velli, Nakka Oka Paata Shithilamaina Goda Venuka Nundi Tongi Chusindi. Aa Godaku Raapidi Tagili, Daani Mettani Bochchuku Dummu Antukundi. Daani Kallu Chinnagaa Chesi, Prati Kadalikanu Gamanistu, Shariraanni Nelaku Adumukundi. Gunde Vegangaa Kottukuntondi, Kaani Chupu Maatram Akkade Sthirangaa Undi. \"Adi Akkada Emiti?\" Ani Adi Aashcharyangaa Anukundi. Adi Oka Pedda Jantuvaa, Leka Pramaadakaramaina Uchchulo Chikkukundaa?",
+      "text_en": "Moving a little further, the fox peeked from behind an old, ruined wall. Rubbing against the wall, dust stuck to its soft fur. It squinted its eyes, watching every movement, pressing its body to the ground. Its heart was beating fast, but its gaze remained fixed there. \"What is that over there?\" it wondered in surprise. Was it a big animal, or was it caught in a dangerous trap?"
+    },
+    {
+      "id": 5,
+      "text": "నక్క మెల్లగా ఆ వస్తువు దగ్గరకు నడిచింది, చుట్టూ తిరుగుతూ జాగ్రత్తగా పరిశీలించింది. అప్పుడు ఒక సన్నని గాలి వీచింది, ఎండిన ఆకులు గలగలమంటూ శబ్దం చేశాయి — అప్పుడే అర్థమైంది. అది ఒక పెద్ద డప్పు, దానిపై రాలిన కొమ్మలు పడితేనే ఆ చప్పుడు వస్తుంది. \"అయ్యో! ఇది కేవలం డోలే!\" అని అది ఒక్కసారిగా నిట్టూర్చింది. భయం తగ్గిపోయినా, దాని చెవులు ఇంకా నిటారుగానే ఉన్నాయి, ఏదో తెలియని అనుమానం. ఇంత పెద్ద డప్పును ఇక్కడ ఎందుకు వదిలిపెట్టారు, మరి దీని లోపల ఏముంటుంది?",
+      "image_prompt": "The fox walks around the object, carefully examining it, as dried leaves rustle around it. It realizes the loud sound came from a large drum, and though its fear subsides, its ears remain upright with suspicion. Late afternoon sun, casting long, soft shadows, giving a sense of discovery and reducing the earlier tension. The drum is bathed in a warm, golden glow.",
+      "scene_visual": "The fox walks around the object, carefully examining it, as dried leaves rustle around it. It realizes the loud sound came from a large drum, and though its fear subsides, its ears remain upright with suspicion.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Mellagaa Aa Vastuvu Daggaraku Nadichindi, Chuttu Tirugutu Jaagrattagaa Parishilinchindi. Appudu Oka Sannani Gaali Vichindi, Endina Aakulu Galagalamantu Shabdam Cheshaayi — Appude Arthamaindi. Adi Oka Pedda Dappu, Daanipai Raalina Kommalu Paditene Aa Chappudu Vastundi. \"Ayyo! Idi Kevalam Dole!\" Ani Adi Okkasaarigaa Nitturchindi. Bhayam Taggipoyinaa, Daani Chevulu Inkaa Nitaarugaane Unnaayi, Edo Teliyani Anumaanan. Inta Pedda Dappunu Ikkada Enduku Vadilipettaaru, Mari Dini Lopala Emuntundi?",
+      "text_en": "The fox slowly walked closer to the object, circling it and carefully examining it. Then a gentle breeze blew, and dry leaves rustled — that's when it understood. It was a big drum, and the sound came only when fallen branches landed on it. \"Oh! It's just a drum!\" it sighed all at once. Even though its fear lessened, its ears were still perked up, with some unknown suspicion. Why was such a big drum left here? And what could be inside it?"
+    },
+    {
+      "id": 6,
+      "text": "ఈ పెద్ద డప్పులో ఏదో గొప్ప విషయం ఉండాలి అని నక్కకు గట్టి నమ్మకం కలిగింది. దాని ముక్కు పదేపదే కదులుతూ, ఏదైనా వాసన పసిగడుతుందేమోనని ప్రయత్నించింది. అది తన కాలుతో డప్పును మెల్లగా తట్టింది — లోపల బోలుగా ఉన్న శబ్దం ప్రతిధ్వనించింది. \"ఇంత శబ్దం చేసేది ఖచ్చితంగా లోపల ఏదో గొప్పది ఉంటుంది,\" అని అది ఉత్సాహంగా అనుకుంది. మరి ఆ డప్పు లోపల నక్క ఆశించిన నిధి దాగి ఉందా, లేక కమ్మని ఆహారం దొరుకుతుందా?",
+      "image_prompt": "The fox repeatedly moves its snout, trying to sniff out something from the large drum. It gently taps the drum with its paw, and a hollow sound echoes from within, exciting it. Approaching dusk, the light is fading to a soft, diffused orange, hinting at the end of the day and a moment of truth.",
+      "scene_visual": "The fox repeatedly moves its snout, trying to sniff out something from the large drum. It gently taps the drum with its paw, and a hollow sound echoes from within, exciting it.",
+      "supporting_char_keys": [],
+      "text_te_en": "I Pedda Dappulo Edo Goppa Vishayam Undaali Ani Nakkaku Gatti Nammakam Kaligindi. Daani Mukku Padepade Kadulutu, Edainaa Vaasana Pasigadutundemonani Prayatninchindi. Adi Tana Kaaluto Dappunu Mellagaa Tattindi — Lopala Bolugaa Unna Shabdam Pratidhvaninchindi. \"Inta Shabdam Chesedi Khachchitangaa Lopala Edo Goppadi Untundi,\" Ani Adi Utsaahangaa Anukundi. Mari Aa Dappu Lopala Nakka Aashinchina Nidhi Daagi Undaa, Leka Kammani Aahaaram Dorukutundaa?",
+      "text_en": "The fox became strongly convinced that there must be something great inside this big drum. Its nose twitched repeatedly, trying to sniff out any smell. It gently tapped the drum with its paw — a hollow sound echoed from inside. \"Something that makes such a big sound must surely have something great inside,\" it thought excitedly. So, was the treasure the fox hoped for hidden inside that drum, or would it find delicious food?"
+    },
+    {
+      "id": 7,
+      "text": "ఆశగా నక్క తన పదునైన గోళ్ళతో డప్పు చర్మాన్ని బలంగా చీల్చింది — \"టకటక\" మని ఒక వింత శబ్దంతో అది చిరిగిపోయింది. డప్పు లోపల చూస్తే — పూర్తిగా బోలుగా ఉంది! దాని చెవులు దిగులుగా వేలాడాయి, చిన్నగా \"అయ్యో, ఏమీ లేదు!\" అని గొణుక్కుంది. అంత శబ్దం చేసిన డప్పులో కనీసం ఒక్క చిన్న ఎముక కూడా లేదు. దాని ప్రయత్నాలన్నీ వృథా అయ్యాయని అది నిరాశగా తల దించుకుంది. ఈ ఖాళీ డప్పు నుండి నక్క ఏం నేర్చుకుంటుందో చూద్దాం!",
+      "image_prompt": "The fox tears open the drum's skin with its sharp claws, creating a strange ripping sound. Its ears droop sadly as it looks inside to find the drum completely empty, not even a small bone. Twilight, shadows deepening to deep blues and purples, emphasizing the stark emptiness of the drum.",
+      "scene_visual": "The fox tears open the drum's skin with its sharp claws, creating a strange ripping sound. Its ears droop sadly as it looks inside to find the drum completely empty, not even a small bone.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aashagaa Nakka Tana Padunaina Gollato Dappu Charmaanni Balangaa Chilchindi — \"Takataka\" Mani Oka Vinta Shabdanto Adi Chirigipoyindi. Dappu Lopala Chuste — Purtigaa Bolugaa Undi! Daani Chevulu Digulugaa Velaadaayi, Chinnagaa \"Ayyo, Emi Ledu!\" Ani Gonukkundi. Anta Shabdam Chesina Dappulo Kanisam Okka Chinna Emuka Kudaa Ledu. Daani Prayatnaalanni Vrrithaa Ayyaayani Adi Niraashagaa Tala Dinchukundi. I Khaali Dappu Nundi Nakka Em Nerchukuntundo Chuddaan!",
+      "text_en": "Eagerly, the fox strongly tore the drum's skin with its sharp claws — it ripped with a strange \"tak-tak\" sound. Looking inside the drum — it was completely hollow! Its ears drooped sadly, and it mumbled softly, \"Oh no, there's nothing!\" There wasn't even a single small bone in the drum that had made such a big sound. It lowered its head in disappointment, realizing all its efforts were in vain. Let's see what the fox learns from this empty drum!"
+    },
+    {
+      "id": 8,
+      "text": "నక్క చిరిగిపోయిన డప్పు నుండి నెమ్మదిగా వెనుతిరిగింది. సాయంత్రపు చల్లని గాలి ఆకుల గుండా సన్నగా వీస్తూ, అప్పటి డప్పు శబ్దానికి పూర్తి విరుద్ధంగా ప్రశాంతంగా ఉంది. దాని తల కొద్దిగా కిందికి వాలి ఉంది, కానీ కళ్ళల్లో మాత్రం ఏదో కొత్త జ్ఞానం మెరిసింది. \"శబ్దం మాత్రమే ఉంది, లోపల ఏమీ లేదు,\" అని అది నెమ్మదిగా అనుకుంది. కేవలం పెద్దగా ఉండే శబ్దాలు, లేదా పైకి కనిపించే ఆర్భాటాలు నిజమైన విలువను కలిగి ఉండవని నక్కకు ఆ రోజు అర్థమైంది.",
+      "image_prompt": "The fox slowly turns away from the torn drum, its head slightly bowed. A new understanding shines in its eyes, contrasting with the peaceful evening breeze rustling through the leaves. Deep blue hour of twilight, a single pale star visible, creating a serene and contemplative atmosphere.",
+      "scene_visual": "The fox slowly turns away from the torn drum, its head slightly bowed. A new understanding shines in its eyes, contrasting with the peaceful evening breeze rustling through the leaves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Chirigipoyina Dappu Nundi Nemmadigaa Venutirigindi. Saayantrapu Challani Gaali Aakula Gundaa Sannagaa Vistu, Appati Dappu Shabdaaniki Purti Viruddhangaa Prashaantangaa Undi. Daani Tala Koddigaa Kindiki Vaali Undi, Kaani Kallallo Maatram Edo Kotta Jnyaanam Merisindi. \"Shabdam Maatrame Undi, Lopala Emi Ledu,\" Ani Adi Nemmadigaa Anukundi. Kevalam Peddagaa Unde Shabdaalu, Ledaa Paiki Kanipinche Aarbhaataalu Nijamaina Viluvanu Kaligi Undavani Nakkaku Aa Roju Arthamaindi.",
+      "text_en": "The fox slowly turned away from the torn drum. The cool evening breeze gently rustled through the leaves, peaceful, completely opposite to the drum's earlier sound. Its head was slightly bowed, but a new understanding sparkled in its eyes. \"Only sound was there, nothing inside,\" it thought softly. That day, the fox understood that just loud sounds or outward show-offs don't always hold true value."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 4,
+    "child_engagement": 8,
+    "average": 7.83,
+    "weakest_dimension": "narrative_arc",
+    "notes": "The story shines with its authentic oral warmth, vivid emotional portrayal, and flawless colloquial Telugu. The suspense hooks are well-placed, ensuring strong child engagement. However, the narrative arc is severely hampered by explicitly stating the moral at the outset and reiterating it at the end, which transforms the story into a sermon. To elevate this to an award-worthy piece, the explicit moral must be removed, allowing the profound lesson to emerge organically from the fox's journey and discovery."
+  },
+  "quality_warning": true,
+  "title_te_en": "Dappu Guttu, Nakka Paatham",
+  "moral_te_en": "Pillalu, Paiki Kanipinche Shabdaalanu Batti, Lopala Viluva Untundani Manam Eppudu Anukokudadu Telusaa?",
+  "title_en": "The Drum's Secret, and the Fox's Lesson",
+  "moral_en": "Children, do you know that we should never think there is value inside just by the loud sounds or appearances from the outside?",
+  "id": "20260527_061051",
+  "date": "2026-05-27",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - నక్క మరియు డోలు శబ్దం",
+  "thumbnail": "stories/20260527_061051/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
