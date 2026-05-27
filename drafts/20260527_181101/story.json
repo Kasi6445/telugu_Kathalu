@@ -1,0 +1,112 @@
+{
+  "title": "ఉప్పు రుచి, దయ విలువ",
+  "moral": "పిల్లలూ, ఇతరులు చేసిన మంచిని మర్చిపోకుండా, వారికి సాయం చేసినప్పుడు కలిగే సంతోషం మరే దానిలోనూ ఉండదు.",
+  "main_character": "Raju, a lively 11-year-old boy, with bright, curious eyes and perpetually dusty knees from playing. He has a quick smile but can be easily distracted by fun. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant village in rural Andhra Pradesh, with houses made of mud and thatch, surrounded by green fields and mango trees. The village well is a central gathering point. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని పొలాల మధ్య, రాజూ ఒక రంగుల సీతాకోకచిలుక వెనుక పరుగెత్తుతున్నాడు, అతని ముఖం నిండా నవ్వులు. అతని పాదాల కింద మెత్తటి మట్టి — దుమ్ము రేగుతూ పైకి లేచింది. \"నిన్ను పట్టుకుంటాను!\" అని కేక వేస్తూ, అతను రెక్కల వెనుక వేగంగా పరిగెత్తాడు. ఆ చిలిపి సీతాకోకచిలుక అటు ఇటు ఎగురుతూ, రాజూని ఇంకా ఆటలోకి లాగింది. ఒక్కసారిగా — అతని కడుపులోంచి పెద్ద చప్పుడు వినిపించింది. ఆట ఆగిపోయింది.",
+      "image_prompt": "The boy is running swiftly through green fields, chasing a colorful butterfly. Dust billows up from the soft soil beneath his feet as he runs with a smiling face. Bright, warm midday sun casting sharp shadows on the dusty village path, golden light filtering through the leaves of a large banyan tree.",
+      "scene_visual": "The boy is running swiftly through green fields, chasing a colorful butterfly. Dust billows up from the soft soil beneath his feet as he runs with a smiling face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchani Polaala Madhya, Raaju Oka Rangula Sitaakokachiluka Venuka Parugettutunnaadu, Atani Mukham Nindaa Navvulu. Atani Paadaala Kinda Mettati Matti — Dummu Regutu Paiki Lechindi. \"Ninnu Pattukuntaanu!\" Ani Keka Vestu, Atanu Rekkala Venuka Vegangaa Parigettaadu. Aa Chilipi Sitaakokachiluka Atu Itu Egurutu, Raajuni Inkaa Aataloki Laagindi. Okkasaarigaa — Atani Kadupulonchi Pedda Chappudu Vinipinchindi. Aata Aagipoyindi.",
+      "text_en": "Amidst green fields, Rajoo was chasing a colorful butterfly, his face full of smiles. The soft earth beneath his feet kicked up dust. \"I'll catch you!\" he shouted, running fast behind its wings. The mischievous butterfly fluttered here and there, pulling Rajoo deeper into the game. Suddenly — a loud rumble came from his tummy. The game stopped."
+    },
+    {
+      "id": 2,
+      "text": "కడుపులో ఆకలితో, రాజూ మెల్లగా లక్ష్మిఅమ్మ చిన్న గుడిసె వైపు నడిచాడు — అక్కడి నుండి కమ్మని ఉప్మా వాసన గాలిలో తేలింది. లక్ష్మిఅమ్మ అతనిని చూసి, ప్రేమగా నవ్వింది. \"రాజూ, ఆకలిగా ఉన్నావా? ఈరోజు ఉప్మా చాలా రుచిగా ఉంది, కొంచెం తిను\" అని ఆవిడ అతనికి ప్లేటు అందించింది. రాజూ కళ్ళు పెద్దవి చేసుకుని, ఆ వేడి వేడి ఉప్మాను ఆత్రంగా తిన్నాడు. ఆ రుచి అతని ఆకలిని తీర్చింది—ఒక్కసారిగా అతని మనసు నిండిపోయింది. లక్ష్మిఅమ్మ దయ అతని గుండెను నింపింది.",
+      "image_prompt": "The boy eagerly eats the hot upma from a plate offered by the old woman. His eyes are wide with anticipation as he savors the delicious taste. The gentle, diffused light inside Lakshmiamma's small, neat hut, with a single oil lamp flickering softly on a shelf, creating a cozy, inviting glow.",
+      "scene_visual": "The boy eagerly eats the hot upma from a plate offered by the old woman. His eyes are wide with anticipation as he savors the delicious taste.",
+      "supporting_char_keys": [
+        "lakshmiamma"
+      ],
+      "text_te_en": "Kadupulo Aakalito, Raaju Mellagaa Lakshmiamma Chinna Gudise Vaipu Nadichaadu — Akkadi Nundi Kammani Upmaa Vaasana Gaalilo Telindi. Lakshmiamma Atanini Chusi, Premagaa Navvindi. \"Raaju, Aakaligaa Unnaavaa? Iroju Upmaa Chaalaa Ruchigaa Undi, Konchem Tinu\" Ani Aavida Ataniki Pletu Andinchindi. Raaju Kallu Peddavi Chesukuni, Aa Vedi Vedi Upmaanu Aatrangaa Tinnaadu. Aa Ruchi Atani Aakalini Tirchindi—Okkasaarigaa Atani Manasu Nindipoyindi. Lakshmiamma Daya Atani Gundenu Nimpindi.",
+      "text_en": "With a rumbling tummy, Rajoo slowly walked towards Lakshmiamma's small hut — from where the delicious smell of Upma floated in the air. Lakshmiamma saw him and smiled lovingly. \"Rajoo, are you hungry? Today's Upma is very tasty, have some,\" she said, offering him a plate. Rajoo's eyes widened, and he eagerly ate the hot Upma. The taste satisfied his hunger — his heart suddenly felt full. Lakshmiamma's kindness filled his heart."
+    },
+    {
+      "id": 3,
+      "text": "రాజూ ఆ ప్రశాంతతలో మునిగి ఉండగానే, దూరం నుండి స్నేహితుల కేరింతలు వినిపించాయి — వారంతా గోలీలు ఆడుకుంటున్నారు. అతని ముఖం ఒక్కసారిగా వెలిగిపోయింది, వారిలో చేరాలని ఆరాటపడ్డాడు. అప్పుడే లక్ష్మిఅమ్మ అతని వైపు చూసింది, ఆమె గొంతులో ఏదో ఆదుర్దా కనిపించింది. \"రాజూ, నా చేతులు నొప్పిగా ఉన్నాయి, బావి నుండి రెండు కుండల నీళ్ళు తెచ్చి పెడతావా?\" అని ఆవిడ అడిగింది. రాజూ భుజాలు ఒక్కసారిగా కిందకి జారిపోయాయి. స్నేహితుల ఆట వైపు చూస్తూ, అతను నిదానంగా ఖాళీ కుండలను అందుకున్నాడు.",
+      "image_prompt": "The boy's shoulders slump as he slowly takes two empty pots from the old woman. He glances longingly towards his friends playing in the distance, his face showing reluctance. Late afternoon sun, beginning to dip, casting long shadows across the dusty street, making the journey to the well seem even longer and more daunting.",
+      "scene_visual": "The boy's shoulders slump as he slowly takes two empty pots from the old woman. He glances longingly towards his friends playing in the distance, his face showing reluctance.",
+      "supporting_char_keys": [
+        "lakshmiamma"
+      ],
+      "text_te_en": "Raaju Aa Prashaantatalo Munigi Undagaane, Duram Nundi Snehitula Kerintalu Vinipinchaayi — Vaarantaa Golilu Aadukuntunnaaru. Atani Mukham Okkasaarigaa Veligipoyindi, Vaarilo Cheraalani Aaraatapaddaadu. Appude Lakshmiamma Atani Vaipu Chusindi, Aame Gontulo Edo Aadurdaa Kanipinchindi. \"Raaju, Naa Chetulu Noppigaa Unnaayi, Baavi Nundi Rendu Kundala Nillu Techchi Pedataavaa?\" Ani Aavida Adigindi. Raaju Bhujaalu Okkasaarigaa Kindaki Jaaripoyaayi. Snehitula Aata Vaipu Chustu, Atanu Nidaanangaa Khaali Kundalanu Andukunnaadu.",
+      "text_en": "As Rajoo was enjoying the peace, he heard his friends cheering from a distance — they were all playing marbles. His face suddenly lit up, and he longed to join them. Just then, Lakshmiamma looked at him, and a hint of worry was in her voice. \"Rajoo, my hands are hurting. Could you bring two pots of water from the well?\" she asked. Rajoo's shoulders slumped instantly. Looking towards his friends' game, he slowly took the empty pots."
+    },
+    {
+      "id": 4,
+      "text": "బావి దగ్గరికి చేరుకున్న రాజూ, నీటిని పైకి లాగుతూ, ఆ చల్లటి, గరుకు తాడు తన చేతులకు రాసుకుంటుంటే విసుక్కున్నాడు. అతని నుదురు ముడుచుకుంది — ఈ పని ఎప్పుడు పూర్తవుతుందా అని. \"ఈ నీళ్ళు ఎంత బరువుగా ఉన్నాయో! నేను ఇప్పుడు గోలీలు ఆడాలి కదా!\" అని అతను గొణుక్కున్నాడు. ఒక్క కుండ నింపి, దానిని పక్కన పెట్టి, రెండో కుండను నింపబోయాడు. అప్పుడు — అతని అలసిన చేతుల్లో నుండి ఒక కుండ జారింది. దాన్ని పట్టుకోవడానికి అతను తన శక్తి అంతా ఉపయోగించాడు.",
+      "image_prompt": "As the boy fills the second pot, one of the pots slips from his tired hands. He strains with all his might to catch the falling pot, his brow furrowed in frustration. The fading light of dusk, with the path to the well becoming cooler and more shadowed, emphasizing the loneliness and difficulty of his task.",
+      "scene_visual": "As the boy fills the second pot, one of the pots slips from his tired hands. He strains with all his might to catch the falling pot, his brow furrowed in frustration.",
+      "supporting_char_keys": [],
+      "text_te_en": "Baavi Daggariki Cherukunna Raaju, Nitini Paiki Laagutu, Aa Challati, Garuku Taadu Tana Chetulaku Raasukuntunte Visukkunnaadu. Atani Nuduru Muduchukundi — I Pani Eppudu Purtavutundaa Ani. \"I Nillu Enta Baruvugaa Unnaayo! Nenu Ippudu Golilu Aadaali Kadaa!\" Ani Atanu Gonukkunnaadu. Okka Kunda Nimpi, Daanini Pakkana Petti, Rendo Kundanu Nimpaboyaadu. Appudu — Atani Alasina Chetullo Nundi Oka Kunda Jaarindi. Daanni Pattukovadaaniki Atanu Tana Shakti Antaa Upayoginchaadu.",
+      "text_en": "When Rajoo reached the well, he grumbled as the cold, rough rope rubbed against his hands while he pulled up the water. His brow furrowed — wondering when this work would be finished. \"How heavy this water is! I should be playing marbles now!\" he grumbled. He filled one pot, placed it aside, and was about to fill the second. Then — one pot slipped from his tired hands. He used all his strength to hold it."
+    },
+    {
+      "id": 5,
+      "text": "కుండను నిలబెట్టి, రాజూ అక్కడ కాసేపు ఆగిపోయాడు. అతని నోట్లో మట్టి రుచి — అది లక్ష్మిఅమ్మ పెట్టిన ఉప్మా కమ్మదనాన్ని గుర్తు చేసింది. \"ఆకలితో ఉన్నప్పుడు ఆవిడ ఎంత ప్రేమగా అన్నం పెట్టారు...\" ఆమె దయ, ఆప్యాయత అతని కళ్ళ ముందు మెరిశాయి. తాను ఇప్పుడు ఆడుకోవాలని అనుకుంటున్న గోలీల ఆట కన్నా, ఆవిడకు సాయం చేయడమే ముఖ్యమనిపించింది. ఒక దీర్ఘ శ్వాస తీసుకుని, అతను నడుము నిటారు చేసుకున్నాడు.",
+      "image_prompt": "The boy takes a deep breath and straightens his back, standing tall beside the pots. A memory of the delicious upma and the old woman's kindness flashes in his mind, changing his resolve. The soft, ethereal glow of twilight, with the first stars beginning to twinkle, giving the scene a quiet, introspective quality.",
+      "scene_visual": "The boy takes a deep breath and straightens his back, standing tall beside the pots. A memory of the delicious upma and the old woman's kindness flashes in his mind, changing his resolve.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kundanu Nilabetti, Raaju Akkada Kaasepu Aagipoyaadu. Atani Notlo Matti Ruchi — Adi Lakshmiamma Pettina Upmaa Kammadanaanni Gurtu Chesindi. \"Aakalito Unnappudu Aavida Enta Premagaa Annam Pettaaru...\" Aame Daya, Aapyaayata Atani Kalla Mundu Merishaayi. Taanu Ippudu Aadukovaalani Anukuntunna Golila Aata Kannaa, Aavidaku Saayam Cheyadame Mukhyamanipinchindi. Oka Dirgha Shvaasa Tisukuni, Atanu Nadumu Nitaaru Chesukunnaadu.",
+      "text_en": "After steadying the pot, Rajoo stopped there for a moment. The taste of earth in his mouth — reminded him of the delicious Upma Lakshmiamma had given him. \"How lovingly she fed me when I was hungry...\" Her kindness and affection flashed before his eyes. Helping her felt more important than the marble game he wanted to play now. Taking a deep breath, he straightened his back."
+    },
+    {
+      "id": 6,
+      "text": "కొత్త శక్తి వచ్చినట్లుగా, రాజూ రెండు కుండలను జాగ్రత్తగా పట్టుకున్నాడు — ఆ చల్లటి మట్టి కుండలు అతని చేతికి హాయిగా అనిపించాయి. నిటారుగా నడుస్తూ, అతను లక్ష్మిఅమ్మ గుడిసె వైపు సాగాడు. అతని పెదవులపై చిన్న నవ్వు మెరిసింది. గుడిసె దగ్గరికి చేరుకొని, వాటిని లోపల జాగ్రత్తగా పెట్టాడు. \"లక్ష్మిఅమ్మ, నీళ్ళు తెచ్చాను\" అని అతను పిలిచాడు. లోపల నుండి లక్ష్మిఅమ్మ సంతోషంగా బయటికి వచ్చింది.",
+      "image_prompt": "The boy carefully carries two cool clay pots, walking straight towards the old woman's hut. A small smile plays on his lips as he approaches the hut, feeling a renewed sense of purpose. The warm, inviting light spilling from Lakshmiamma's doorway onto the darkened path, creating a beacon of comfort and gratitude.",
+      "scene_visual": "The boy carefully carries two cool clay pots, walking straight towards the old woman's hut. A small smile plays on his lips as he approaches the hut, feeling a renewed sense of purpose.",
+      "supporting_char_keys": [
+        "lakshmiamma"
+      ],
+      "text_te_en": "Kotta Shakti Vachchinatlugaa, Raaju Rendu Kundalanu Jaagrattagaa Pattukunnaadu — Aa Challati Matti Kundalu Atani Chetiki Haayigaa Anipinchaayi. Nitaarugaa Nadustu, Atanu Lakshmiamma Gudise Vaipu Saagaadu. Atani Pedavulapai Chinna Navvu Merisindi. Gudise Daggariki Cherukoni, Vaatini Lopala Jaagrattagaa Pettaadu. \"Lakshmiamma, Nillu Techchaanu\" Ani Atanu Pilichaadu. Lopala Nundi Lakshmiamma Santoshangaa Bayatiki Vachchindi.",
+      "text_en": "As if new strength had come, Rajoo carefully held the two pots — the cool clay pots felt comfortable in his hands. Walking straight, he headed towards Lakshmiamma's hut. A small smile appeared on his lips. Reaching the hut, he carefully placed them inside. \"Lakshmiamma, I brought the water,\" he called out. Lakshmiamma happily came out from inside."
+    },
+    {
+      "id": 7,
+      "text": "లక్ష్మిఅమ్మ రాజూ వైపు ప్రేమగా చూస్తూ, అతని తల నిమిరింది — ఆ స్పర్శ ఎంతో ఆప్యాయంగా అనిపించింది. \"నువ్వు చేసిన సహాయం మర్చిపోను రాజూ. నీకు మంచి జరుగుతుంది\" అని దీవించింది. రాజూ ఆనందంతో మెరిసిపోయాడు. తన కడుపు నిండా ఆకలి తీర్చిన ఆవిడకు సాయం చేయడం, గోలీల ఆట కన్నా ఎంతో సంతోషాన్ని ఇచ్చింది. అప్పుడు — అతని మనసు పూర్తిగా తేలికైంది.",
+      "image_prompt": "The old woman looks at the boy with affection and gently strokes his head. The boy's face glows with happiness as he receives her warm, appreciative touch. The soft, intimate glow of the setting sun, painting the sky in hues of orange and purple, as Raju walks away, feeling a quiet warmth in his heart.",
+      "scene_visual": "The old woman looks at the boy with affection and gently strokes his head. The boy's face glows with happiness as he receives her warm, appreciative touch.",
+      "supporting_char_keys": [
+        "lakshmiamma"
+      ],
+      "text_te_en": "Lakshmiamma Raaju Vaipu Premagaa Chustu, Atani Tala Nimirindi — Aa Sparsha Ento Aapyaayangaa Anipinchindi. \"Nuvvu Chesina Sahaayam Marchiponu Raaju. Niku Manchi Jarugutundi\" Ani Divinchindi. Raaju Aanandanto Merisipoyaadu. Tana Kadupu Nindaa Aakali Tirchina Aavidaku Saayam Cheyadan, Golila Aata Kannaa Ento Santoshaanni Ichchindi. Appudu — Atani Manasu Purtigaa Telikaindi.",
+      "text_en": "Lakshmiamma looked at Rajoo lovingly and stroked his head — that touch felt very warm. \"I won't forget your help, Rajoo. Good things will happen to you,\" she blessed him. Rajoo beamed with joy. Helping the woman who had filled his hungry stomach gave him more happiness than playing marbles. Then — his heart felt completely light."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "lakshmiamma",
+      "description": "Lakshmiamma, an elderly woman with kind, crinkled eyes and a gentle smile, usually wearing a simple, faded cotton saree. She walks with a slight stoop and carries a small, woven basket. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.1,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and strong child engagement, making it highly readable. The grandmother's voice is largely authentic, with natural dialogue and pacing. The primary area for improvement is emotional depth; many emotions are stated directly rather than shown through action or sensory details. Refining these instances to 'show, don't tell' would elevate the story significantly, allowing young readers to feel Raju's journey more profoundly."
+  },
+  "quality_warning": true,
+  "title_te_en": "Uppu Ruchi, Daya Viluva",
+  "moral_te_en": "Pillalu, Itarulu Chesina Manchini Marchipokundaa, Vaariki Saayam Chesinappudu Kalige Santosham Mare Daanilonu Undadu.",
+  "title_en": "The Taste of Salt, The Value of Kindness",
+  "moral_en": "Children, never forget the good deeds others do for you. The joy you feel when you help them in return is unlike any other.",
+  "id": "20260527_181101",
+  "date": "2026-05-27",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "ఉప్పు తిన్న ఇంటికి రెండు పూటలు వెళ్ళాలి అనే కథ",
+  "thumbnail": "stories/20260527_181101/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
