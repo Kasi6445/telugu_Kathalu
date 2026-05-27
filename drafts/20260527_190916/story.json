@@ -1,0 +1,113 @@
+{
+  "title": "రాజూ, మందు మొక్కల గుట్టు",
+  "moral": "ఇతరులు మనకి చేసిన సహాయాన్ని గుర్తించడం, వారికి తిరిగి సాయం చేయాలనే తపన ఉండడం చాలా గొప్ప విషయం, ఎందుకంటే అందరికీ ప్రేమ, దయ అవసరం.",
+  "main_character": "Raju. A lean, energetic boy of twelve with bright, curious eyes and perpetually messy black hair. He often acts before thinking, driven by his immediate desires. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, humble village in rural Andhra Pradesh, nestled beside a gently flowing river. The scene features a mud-walled hut with a thatched roof, a vibrant green vegetable patch, and a large, ancient tamarind tree. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పన్నెండేళ్ళ రాజు ఆకలితో, అలసటతో నడుస్తూ, ఒక చిన్న పల్లెటూరి పొలిమేరలో తడబడుతూ వచ్చాడు. అతని కాళ్ళు కదలకుండా పోయాయి — నేల మీద కూలబడి, కళ్ళు మూసుకున్నాడు. అతని పాదాలకు అంటుకున్న పొడి దుమ్ము, రాళ్ళ వల్ల అవి భారంగా, గరుకుగా అనిపించాయి, కన్నీళ్లు ఉబికి వచ్చాయి. ఇంతలో ఒక వెచ్చని చేయి అతని భుజంపై పడింది, ఒక కమ్మని గొంతు వినిపించింది: \"అయ్యో పాపం! ఎవరు నువ్వు బాబు? ఆకలిగా ఉందా?\" రాజు నెమ్మదిగా కళ్ళు తెరిచి చూశాడు — ఒక దయగల ముఖం అతని వైపు ప్రేమగా చూస్తోంది.",
+      "image_prompt": "The boy slowly opens his eyes, looking up from where he has collapsed on the ground. A kind face looks lovingly down at him, its expression filled with warmth. Late afternoon sun, golden and warm, filtering through the tamarind tree leaves, casting long, soft shadows around the hut.",
+      "scene_visual": "The boy slowly opens his eyes, looking up from where he has collapsed on the ground. A kind face looks lovingly down at him, its expression filled with warmth.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Pannendella Raaju Aakalito, Alasatato Nadustu, Oka Chinna Palleturi Polimeralo Tadabadutu Vachchaadu. Atani Kaallu Kadalakundaa Poyaayi — Nela Mida Kulabadi, Kallu Musukunnaadu. Atani Paadaalaku Antukunna Podi Dummu, Raalla Valla Avi Bhaarangaa, Garukugaa Anipinchaayi, Kannillu Ubiki Vachchaayi. Intalo Oka Vechchani Cheyi Atani Bhujampai Padindi, Oka Kammani Gontu Vinipinchindi: \"Ayyo Paapan! Evaru Nuvvu Baabu? Aakaligaa Undaa?\" Raaju Nemmadigaa Kallu Terichi Chushaadu — Oka Dayagala Mukham Atani Vaipu Premagaa Chustondi.",
+      "text_en": "Twelve-year-old Raju, hungry and tired, stumbled into the outskirts of a small village. His legs gave out — he collapsed onto the ground and closed his eyes. The dry dust and stones clinging to his feet made them feel heavy and rough, and tears welled up in his eyes. Just then, a warm hand rested on his shoulder, and a kind voice spoke: \"Oh dear! Who are you, child? Are you hungry?\" Raju slowly opened his eyes — a kind face was looking at him with love."
+    },
+    {
+      "id": 2,
+      "text": "ఆ అమ్మమ్మ ఆదరణతో రాజు ఆ ఇంట్లోనే ఉండిపోయాడు, కానీ కొన్ని రోజులకే ఆ తోటలో కలుపు తీయమన్న పని అతనికి విసుగు తెప్పించింది. తడి మట్టి, పచ్చని ఆకుల సువాసన చుట్టూ ఉన్నా, అతని మనసు మాత్రం ఎక్కడో నది దగ్గర ఆడుకుంటున్న పిల్లల వైపు లాగుతోంది. నిట్టూర్చాడు — ఆ చిన్న చిన్న మొక్కలను పీకుతూ, ఎప్పుడు ఈ పని అయిపోతుందా అని చూస్తున్నాడు. \"ఈ మొక్కలు మన ఆకలి తీరుస్తాయి, వాటిని జాగ్రత్తగా చూసుకోవాలి,\" అని అమ్మమ్మ ప్రేమగా చెప్పింది, కానీ రాజు చెవి పట్టించుకోలేదు.",
+      "image_prompt": "The boy sighs deeply as he reluctantly pulls small weeds from the garden soil. His eyes are unfocused, looking past the wet earth and green leaves around him. Bright, clear morning sunlight illuminating the vibrant green of the garden, with a gentle warmth.",
+      "scene_visual": "The boy sighs deeply as he reluctantly pulls small weeds from the garden soil. His eyes are unfocused, looking past the wet earth and green leaves around him.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Aa Ammamma Aadaranato Raaju Aa Intlone Undipoyaadu, Kaani Konni Rojulake Aa Totalo Kalupu Tiyamanna Pani Ataniki Visugu Teppinchindi. Tadi Matti, Pachchani Aakula Suvaasana Chuttu Unnaa, Atani Manasu Maatram Ekkado Nadi Daggara Aadukuntunna Pillala Vaipu Laagutondi. Nitturchaadu — Aa Chinna Chinna Mokkalanu Pikutu, Eppudu I Pani Ayipotundaa Ani Chustunnaadu. \"I Mokkalu Mana Aakali Tirustaayi, Vaatini Jaagrattagaa Chusukovaali,\" Ani Ammamma Premagaa Cheppindi, Kaani Raaju Chevi Pattinchukoledu.",
+      "text_en": "With Ammama's kindness, Raju stayed in her house, but after a few days, the work of weeding the garden started to bore him. Even though the smell of wet soil and green leaves was all around, his mind was drawn to the children playing by the river. He sighed — pulling out the small plants, wondering when this work would be over. \"These plants feed us, we must take good care of them,\" Ammama said lovingly, but Raju didn't pay attention."
+    },
+    {
+      "id": 3,
+      "text": "నది వైపు నుండి వస్తున్న పిల్లల నవ్వుల శబ్దాలు రాజుకి మరింత తొందరపెట్టాయి — తన పనిని త్వరగా ముగించి వాళ్లతో చేరాలని. ఏది కలుపో, ఏది పంట మొక్కో సరిగా చూడకుండా, వేగంగా చేతులు కదిపాడు. \"ఈ పిచ్చి మొక్కలన్నీ పీకేస్తే పని తొందరగా అయిపోతుంది!\" అని గొణుగుతూ, వేగంగా కొన్ని మొక్కలను నేల నుండి లాగాడు. చిన్నపాటి కూతతో వేర్లు మట్టి నుండి తెగిపోయాయి, ఆకులు గలగలలాడాయి — ఆ పీకిన మొక్కల గుట్టను పక్కకు విసిరేశాడు, అందులో ఒక చిన్న మందు మొక్క కూడా ఉందన్న విషయం అతని కంట పడలేదు.",
+      "image_prompt": "The boy rapidly pulls plants from the ground, not distinguishing between weeds and crops. He quickly throws the uprooted pile of plants aside, their roots tearing from the soil with a small sound. Midday sun, bright and high, casting sharp, distinct shadows from the leaves and Raju's hurried movements.",
+      "scene_visual": "The boy rapidly pulls plants from the ground, not distinguishing between weeds and crops. He quickly throws the uprooted pile of plants aside, their roots tearing from the soil with a small sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nadi Vaipu Nundi Vastunna Pillala Navvula Shabdaalu Raajuki Marinta Tondarapettaayi — Tana Panini Tvaragaa Muginchi Vaallato Cheraalani. Edi Kalupo, Edi Panta Mokko Sarigaa Chudakundaa, Vegangaa Chetulu Kadipaadu. \"I Pichchi Mokkalanni Pikeste Pani Tondaragaa Ayipotundi!\" Ani Gonugutu, Vegangaa Konni Mokkalanu Nela Nundi Laagaadu. Chinnapaati Kutato Verlu Matti Nundi Tegipoyaayi, Aakulu Galagalalaadaayi — Aa Pikina Mokkala Guttanu Pakkaku Visireshaadu, Andulo Oka Chinna Mandu Mokka Kudaa Undanna Vishayam Atani Kanta Padaledu.",
+      "text_en": "The sounds of children laughing from the river made Raju even more eager — he wanted to finish his work quickly and join them. Without properly checking which was a weed and which was a crop plant, he moved his hands quickly. \"If I pull out all these silly plants, the work will be done faster!\" he grumbled, quickly pulling some plants from the ground. With a small tearing sound, the roots broke from the soil, and the leaves rustled — he tossed the pile of pulled plants aside, not noticing that a small medicinal plant was among them."
+    },
+    {
+      "id": 4,
+      "text": "సాయంత్రం రాజు ఆట ముగించుకుని తిరిగి రాగానే, అమ్మమ్మ గుడిసె పక్కన తోట వైపు చూసింది. పాడైన ఆ తోటను చూసి ఆమె ముఖం ఒక్కసారిగా చిన్నబోయింది — ఆకులు వడలిపోయిన ఒక మందు మొక్కను చేతిలోకి తీసుకుంది. నలిగిపోయిన ఆ ఆకుల నుండి చేదు వాసన మెల్లగా గాలిలో కలిసి, తోట సువాసనతో కలిసింది, ఆమె కళ్ళు చెమ్మగిల్లాయి. \"అయ్యో! ఇవి మన మందు మొక్కలు కదూ... ఇప్పుడు ఎలా?\" అని ఆమె గొంతులో బాధ వినిపించింది. రాజు ఆమె వైపు చూశాడు — చేతిలో వడలిపోయిన మొక్కలతో నిస్సత్తువగా నిలబడిన అమ్మమ్మను చూసి అతను గుండె బరువెక్కింది.",
+      "image_prompt": "The old woman stands weakly, holding a withered medicinal plant in her hand. Her face is visibly fallen, and her eyes are welled up with sadness. A soft, diffused light under the shade of the tamarind tree, creating a somber, muted atmosphere.",
+      "scene_visual": "The old woman stands weakly, holding a withered medicinal plant in her hand. Her face is visibly fallen, and her eyes are welled up with sadness.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Saayantram Raaju Aata Muginchukuni Tirigi Raagaane, Ammamma Gudise Pakkana Tota Vaipu Chusindi. Paadaina Aa Totanu Chusi Aame Mukham Okkasaarigaa Chinnaboyindi — Aakulu Vadalipoyina Oka Mandu Mokkanu Chetiloki Tisukundi. Naligipoyina Aa Aakula Nundi Chedu Vaasana Mellagaa Gaalilo Kalisi, Tota Suvaasanato Kalisindi, Aame Kallu Chemmagillaayi. \"Ayyo! Ivi Mana Mandu Mokkalu Kadu... Ippudu Elaa?\" Ani Aame Gontulo Baadha Vinipinchindi. Raaju Aame Vaipu Chushaadu — Chetilo Vadalipoyina Mokkalato Nissattuvagaa Nilabadina Ammammanu Chusi Atanu Gunde Baruvekkindi.",
+      "text_en": "In the evening, when Raju returned after playing, Ammama looked towards the garden next to her hut. Seeing the damaged garden, her face instantly fell — she picked up a withered medicinal plant. A bitter smell from the crushed leaves slowly mixed with the garden's fragrance in the air, and her eyes welled up. \"Oh no! These are our medicinal plants, aren't they... What will we do now?\" her voice trembled with sadness. Raju looked at her — seeing Ammama standing helplessly with withered plants in her hand, his heart felt heavy."
+    },
+    {
+      "id": 5,
+      "text": "అమ్మమ్మ బాధను చూసిన రాజుకి తను చేసిన తప్పు ఎంత పెద్దదో అర్థమైంది — గుండె నిండా పశ్చాత్తాపం నిండిపోయింది. తడిసిపోయిన మట్టిలోకి ఆ వడలిపోయిన మొక్కలను మళ్ళీ నాటడానికి ప్రయత్నించాడు, కానీ అవి నిలబడలేదు. చల్లటి, తడి మట్టి అతని వేళ్ళకు అంటుకుంది, కానీ మొక్కలు నిలబడకపోవడంతో అతని ఛాతీ బరువెక్కింది. \"నేను చేసిన తప్పు వల్ల అమ్మాకు ఎంత కష్టం వచ్చింది!\" అని మనసులో బాధపడ్డాడు. వడలిపోతున్న ఆ మొక్కలను, ఆ తర్వాత దూరంగా ఉన్న అమ్మమ్మ గుడిసెను చూశాడు — అతని మనసులో అపరాధ భావం లోతుగా నాటుకుపోయింది.",
+      "image_prompt": "The boy desperately tries to replant the withered plants into the cool, wet soil. The plants refuse to stand upright, and the wet soil clings to his fingers. Overcast sky, a soft, even grey light, reflecting Raju's inner turmoil and the fading hope.",
+      "scene_visual": "The boy desperately tries to replant the withered plants into the cool, wet soil. The plants refuse to stand upright, and the wet soil clings to his fingers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ammamma Baadhanu Chusina Raajuki Tanu Chesina Tappu Enta Peddado Arthamaindi — Gunde Nindaa Pashchaattaapam Nindipoyindi. Tadisipoyina Mattiloki Aa Vadalipoyina Mokkalanu Malli Naatadaaniki Prayatninchaadu, Kaani Avi Nilabadaledu. Challati, Tadi Matti Atani Vellaku Antukundi, Kaani Mokkalu Nilabadakapovadanto Atani Chaati Baruvekkindi. \"Nenu Chesina Tappu Valla Ammaaku Enta Kashtam Vachchindi!\" Ani Manasulo Baadhapaddaadu. Vadalipotunna Aa Mokkalanu, Aa Tarvaata Durangaa Unna Ammamma Gudisenu Chushaadu — Atani Manasulo Aparaadha Bhaavam Lotugaa Naatukupoyindi.",
+      "text_en": "Seeing Ammama's sadness, Raju understood how big his mistake was — his heart filled with regret. He tried to replant the withered plants into the wet soil, but they wouldn't stand. The cool, wet soil clung to his fingers, but as the plants wouldn't stand, his chest felt heavy. \"Because of my mistake, Ammama is suffering so much!\" he thought sadly to himself. He looked at the wilting plants, and then at Ammama's hut in the distance — a deep sense of guilt settled in his heart."
+    },
+    {
+      "id": 6,
+      "text": "ఆ రోజు నుండి రాజులో మార్పు మొదలైంది — తన తప్పును సరిదిద్దుకోవడానికి నిర్ణయించుకున్నాడు. జాగ్రత్తగా మట్టిని సిద్ధం చేశాడు, పొడి ఆకులను, చిన్న పుల్లలను అందులో కలిపాడు, అతని కళ్ళలో ఒక కొత్త బాధ్యత కనిపించింది. చిన్న విత్తనాలను నాటాడు — అమ్మా వైపు చూసి, \"అమ్మా, నన్ను క్షమించు. నేను ఈ తోటను మళ్ళీ పెంచుతాను, జాగ్రత్తగా చూసుకుంటాను,\" అని మాట ఇచ్చాడు. రాజు పని చేయడాన్ని చూసిన అమ్మమ్మ పెదవులపై ఒక చిన్న ఆశ చిగురించింది, అతని నిజాయితీ ఆమె మనసును తాకింది.",
+      "image_prompt": "The boy carefully plants small seeds into the prepared soil, mixing in dry leaves and small sticks. His eyes reflect a new sense of responsibility as he looks towards the old woman. A break in the clouds, with a soft ray of sunlight illuminating Raju's face and the newly prepared soil, symbolizing hope.",
+      "scene_visual": "The boy carefully plants small seeds into the prepared soil, mixing in dry leaves and small sticks. His eyes reflect a new sense of responsibility as he looks towards the old woman.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Aa Roju Nundi Raajulo Maarpu Modalaindi — Tana Tappunu Sarididdukovadaaniki Nirnayinchukunnaadu. Jaagrattagaa Mattini Siddham Cheshaadu, Podi Aakulanu, Chinna Pullalanu Andulo Kalipaadu, Atani Kallalo Oka Kotta Baadhyata Kanipinchindi. Chinna Vittanaalanu Naataadu — Ammaa Vaipu Chusi, \"Ammaa, Nannu Kshaminchu. Nenu I Totanu Malli Penchutaanu, Jaagrattagaa Chusukuntaanu,\" Ani Maata Ichchaadu. Raaju Pani Cheyadaanni Chusina Ammamma Pedavulapai Oka Chinna Aasha Chigurinchindi, Atani Nijaayiti Aame Manasunu Taakindi.",
+      "text_en": "From that day, a change began in Raju — he decided to fix his mistake. He carefully prepared the soil, mixing in dry leaves and small twigs; a new sense of responsibility shone in his eyes. He planted small seeds — looking at Ammama, he promised, \"Ammama, please forgive me. I will grow this garden again and take good care of it.\" Seeing Raju work, a small spark of hope appeared on Ammama's lips; his sincerity touched her heart."
+    },
+    {
+      "id": 7,
+      "text": "కొన్ని నెలలు గడిచాయి, తోట మళ్ళీ పచ్చగా కళకళలాడింది, రాజు ప్రేమగా పెంచిన కూరగాయలతో నిండిపోయింది. ఒక రోజు సాయంత్రం, రాజు, అమ్మమ్మ ఇద్దరూ ఆ గుడిసె లోపల కూర్చుని, ఆ తోట పంటతో చేసిన కమ్మని కూరగాయల భోజనం చేస్తున్నారు. freshly cooked vegetables ఆకలిని తీర్చే సువాసనతో ఇల్లంతా నిండిపోయింది, రాజు సంతోషంగా అమ్మమ్మకు వడ్డించాడు. \"అమ్మా, ఈ కూరగాయలు ఎంత రుచిగా ఉన్నాయో!\" అని నవ్వుతూ అన్నాడు. అమ్మమ్మ రాజు వైపు ప్రేమగా చూసింది — ఆ రుచికరమైన భోజనంలో కేవలం కూరగాయలే కాదు, రాజు పట్టుదల, ప్రేమ కూడా ఉన్నాయని ఆమెకు తెలుసు.",
+      "image_prompt": "The boy happily serves a meal of freshly cooked vegetables to the old woman. A warm smile plays on his face as the old woman looks at him with loving eyes. Warm candlelight glowing inside the hut, casting a soft, intimate golden light on Raju and Amma as they eat.",
+      "scene_visual": "The boy happily serves a meal of freshly cooked vegetables to the old woman. A warm smile plays on his face as the old woman looks at him with loving eyes.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Konni Nelalu Gadichaayi, Tota Malli Pachchagaa Kalakalalaadindi, Raaju Premagaa Penchina Kuragaayalato Nindipoyindi. Oka Roju Saayantran, Raaju, Ammamma Iddaru Aa Gudise Lopala Kurchuni, Aa Tota Pantato Chesina Kammani Kuragaayala Bhojanam Chestunnaaru. Freshly Cooked Vegetables Aakalini Tirche Suvaasanato Illantaa Nindipoyindi, Raaju Santoshangaa Ammammaku Vaddinchaadu. \"Ammaa, I Kuragaayalu Enta Ruchigaa Unnaayo!\" Ani Navvutu Annaadu. Ammamma Raaju Vaipu Premagaa Chusindi — Aa Ruchikaramaina Bhojananlo Kevalam Kuragaayale Kaadu, Raaju Pattudala, Prema Kudaa Unnaayani Aameku Telusu.",
+      "text_en": "A few months passed, and the garden was green and vibrant again, filled with vegetables that Raju had lovingly grown. One evening, Raju and Ammama sat inside the hut, enjoying a delicious vegetable meal made from the garden's harvest. The house was filled with the hunger-satisfying aroma of freshly cooked vegetables, and Raju happily served Ammama. \"Ammama, these vegetables are so tasty!\" he said with a smile. Ammama looked at Raju with love — she knew that in that delicious meal, there was not just vegetables, but also Raju's determination and love."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "amma",
+      "description": "An elderly woman with a gentle, wrinkled face and kind, knowing eyes, her grey hair tied in a neat bun. She wears a simple, faded cotton saree, often carrying a small basket or a watering can. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.33,
+    "weakest_dimension": "grammar_correctness",
+    "notes": "This is an exceptionally well-written story with a strong emotional core and a compelling narrative arc that will resonate with young readers. The character development of Raju is particularly effective, and the grandmother's presence is authentically warm. To elevate it further, ensure all language is consistently Telugu, avoiding any English phrases, and perhaps weave in one more moment of sensory delight or wonder to fully captivate a child's imagination."
+  },
+  "title_te_en": "Raaju, Mandu Mokkala Guttu",
+  "moral_te_en": "Itarulu Manaki Chesina Sahaayaanni Gurtinchadan, Vaariki Tirigi Saayam Cheyaalane Tapana Undadam Chaalaa Goppa Vishayan, Endukante Andariki Prema, Daya Avasaran.",
+  "title_en": "Raju and the Secret of the Medicinal Plants",
+  "moral_en": "It is a wonderful thing to recognize the help others give us and to have the desire to help them back, because everyone needs love and kindness.",
+  "id": "20260527_190916",
+  "date": "2026-05-27",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "అన్నం పెట్టిన చేయి కొట్టరాదు అనే సామెత కథ",
+  "thumbnail": "stories/20260527_190916/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
