@@ -1,0 +1,124 @@
+{
+  "title": "కొండ మోసిన ఆంజనేయుడు",
+  "moral": "ఎంత పెద్ద కష్టమైనా, గుండె నిండా నమ్మకం, ధైర్యం ఉంటే సాధించలేనిది ఏదీ ఉండదు చూడు.",
+  "main_character": "Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The war-torn plains of Lanka, filled with the scent of tropical flowers and distant battle smoke, under a starlit night. Later, the icy peaks of the distant Himalayas, serene and majestic. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లంక యుద్ధభూమిలో, ఆ చీకటి రాత్రిలో, హనుమంతుడు మెల్లగా అడుగులు వేస్తున్నాడు. అతని కళ్ళు చీకట్లో మెరుస్తూ, ఎక్కడా శత్రువుల అలికిడి ఉందో చూస్తున్నాయి. యుద్ధం ఇంకా పూర్తి అవ్వలేదు, దూరంగా కత్తుల చప్పుడు ఇంకా వినిపిస్తూనే ఉంది. రాముడి సేవలో తను ఎప్పుడూ సిద్ధంగా ఉండాలని అతని మనసులో ఉంది. \"ప్రభూ! మీ ఆజ్ఞకై నేను సిద్ధంగా ఉన్నాను!\" అని మనసులోనే అనుకున్నాడు. ఒక్కసారిగా — అడవి అంతా ఉలిక్కిపడింది. ఆ గాఢమైన రాత్రి నిశ్శబ్దాన్ని చీల్చుకుంటూ ఒక భయంకరమైన కేక వినిపించింది.",
+      "image_prompt": "The monkey warrior is cautiously walking through the dark battlefield, his eyes gleaming as he scans for any enemy presence. A terrifying scream suddenly pierces the profound silence of the deep night, startling the entire forest. Moonlit battlefield, torches flickering orange in the distance, casting long, shifting shadows, urgent and watchful.",
+      "scene_visual": "The monkey warrior is cautiously walking through the dark battlefield, his eyes gleaming as he scans for any enemy presence. A terrifying scream suddenly pierces the profound silence of the deep night, startling the entire forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lanka Yuddhabhumilo, Aa Chikati Raatrilo, Hanumantudu Mellagaa Adugulu Vestunnaadu. Atani Kallu Chikatlo Merustu, Ekkadaa Shatruvula Alikidi Undo Chustunnaayi. Yuddham Inkaa Purti Avvaledu, Durangaa Kattula Chappudu Inkaa Vinipistune Undi. Raamudi Sevalo Tanu Eppudu Siddhangaa Undaalani Atani Manasulo Undi. \"Prabhu! Mi Aajnyakai Nenu Siddhangaa Unnaanu!\" Ani Manasulone Anukunnaadu. Okkasaarigaa — Adavi Antaa Ulikkipadindi. Aa Gaadhamaina Raatri Nishshabdaanni Chilchukuntu Oka Bhayankaramaina Keka Vinipinchindi.",
+      "text_en": "In the battlefield of Lanka, on that dark night, Hanuman was walking slowly. His eyes glowed in the darkness, looking for any sign of enemies. The war was not yet over; the clang of swords could still be heard in the distance. He always wanted to be ready to serve Rama. He thought to himself, \"My Lord! I am ready for your command!\" Suddenly—the whole forest was startled. A terrible scream pierced the deep silence of the night."
+    },
+    {
+      "id": 2,
+      "text": "ఆ కేక వినగానే హనుమంతుడు ఉరుకులు పరుగులుగా పరుగు తీశాడు, అక్కడ లక్ష్మణుడు నేల మీద పడిపోయి ఉన్నాడు. రాముడు దుఃఖంతో అతని పక్కన కూలబడ్డాడు, భుజాలు వాలిపోయాయి. వైద్యుడు సుషేణుడు లక్ష్మణుడిని పరీక్షించి, తల పట్టుకున్నాడు. వానర సైన్యం చుట్టూ గుసగుసలాడుకుంటూ ఆందోళనగా చూస్తున్నారు. \"సూర్యోదయానికల్లా సంజీవని రాకపోతే, యువరాజును కాపాడలేము!\" అని సుషేణుడు నిట్టూర్చాడు. కాలం వేగంగా కరిగిపోతోంది. ఆ మాటలు వినగానే హనుమంతుడి కళ్ళు ఒక్కసారిగా నిప్పులు చెరిగినట్లు మెరిశాయి.",
+      "image_prompt": "The monkey warrior rushes to the scene where a wounded prince lies on the ground, while another warrior sits beside him in sorrow. Upon hearing the physician's grim prognosis, the monkey warrior's eyes suddenly flash as if spitting fire. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Dim, smoky firelight on the battlefield tent, casting deep shadows on the faces of the worried onlookers, a sense of heavy despair.",
+      "scene_visual": "The monkey warrior rushes to the scene where a wounded prince lies on the ground, while another warrior sits beside him in sorrow. Upon hearing the physician's grim prognosis, the monkey warrior's eyes suddenly flash as if spitting fire.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Aa Keka Vinagaane Hanumantudu Urukulu Parugulugaa Parugu Tishaadu, Akkada Lakshmanudu Nela Mida Padipoyi Unnaadu. Raamudu Duhkhanto Atani Pakkana Kulabaddaadu, Bhujaalu Vaalipoyaayi. Vaidyudu Sushenudu Lakshmanudini Parikshinchi, Tala Pattukunnaadu. Vaanara Sainyam Chuttu Gusagusalaadukuntu Aandolanagaa Chustunnaaru. \"Suryodayaanikallaa Sanjivani Raakapote, Yuvaraajunu Kaapaadalemu!\" Ani Sushenudu Nitturchaadu. Kaalam Vegangaa Karigipotondi. Aa Maatalu Vinagaane Hanumantudi Kallu Okkasaarigaa Nippulu Cheriginatlu Merishaayi.",
+      "text_en": "As soon as he heard that scream, Hanuman ran quickly. There, Lakshmana lay fallen on the ground. Rama sat beside him, filled with sorrow, his shoulders slumped. The physician Sushena examined Lakshmana and held his head in despair. The Vanara army whispered anxiously, watching around them. \"If Sanjeevani doesn't arrive by sunrise, we cannot save the young prince!\" Sushena sighed. Time was slipping away fast. As soon as Hanuman heard those words, his eyes suddenly blazed like fire."
+    },
+    {
+      "id": 3,
+      "text": "సుషేణుడు చెప్పిన మాటలు హనుమంతుడికి గుండెలో బాణంలా గుచ్చుకున్నాయి. అతని పిడికిళ్ళు బిగుసుకున్నాయి, కళ్ళు నిప్పుల కొలిమిలా మారాయి. \"నేను వెళ్తాను! సూర్యోదయానికల్లా సంజీవనిని తెస్తాను!\" అని గంభీరంగా పలికాడు. ఆ మాటతోనే ఒక్కసారిగా భూమి కంపించింది, వానరులు నిశ్శబ్దంగా చూస్తున్నారు. శీతలమైన రాత్రి గాలి అతని శరీరాన్ని రాచుకుంటూ ఉండగా, అతను తన బలాన్ని అంతా కూడదీసుకున్నాడు. ఆకాశంలోకి — నింగిలోకి దూసుకుపోయాడు. ఒక చిన్న చుక్కలా చీకటిలో కలిసిపోతూ, తన లక్ష్యం వైపు పయనిస్తున్నాడు.",
+      "image_prompt": "The monkey warrior clenches his fists and declares his resolve, then gathers all his strength. He then shoots up into the sky, becoming a small dot disappearing into the darkness as the earth trembles beneath him. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. A powerful, upward surge of movement against the dark, star-filled sky, the faint glow of the distant moon.",
+      "scene_visual": "The monkey warrior clenches his fists and declares his resolve, then gathers all his strength. He then shoots up into the sky, becoming a small dot disappearing into the darkness as the earth trembles beneath him.",
+      "supporting_char_keys": [
+        "rama"
+      ],
+      "text_te_en": "Sushenudu Cheppina Maatalu Hanumantudiki Gundelo Baananlaa Guchchukunnaayi. Atani Pidikillu Bigusukunnaayi, Kallu Nippula Kolimilaa Maaraayi. \"Nenu Veltaanu! Suryodayaanikallaa Sanjivanini Testaanu!\" Ani Gambhirangaa Palikaadu. Aa Maatatone Okkasaarigaa Bhumi Kampinchindi, Vaanarulu Nishshabdangaa Chustunnaaru. Shitalamaina Raatri Gaali Atani Shariraanni Raachukuntu Undagaa, Atanu Tana Balaanni Antaa Kudadisukunnaadu. Aakaashanloki — Ningiloki Dusukupoyaadu. Oka Chinna Chukkalaa Chikatilo Kalisipotu, Tana Lakshyam Vaipu Payanistunnaadu.",
+      "text_en": "Sushena's words pierced Hanuman's heart like an arrow. His fists clenched, and his eyes turned into fiery furnaces. \"I will go! I will bring Sanjeevani by sunrise!\" he declared solemnly. With those words, the earth trembled, and the Vanaras watched in silence. As the cold night air brushed against his body, he gathered all his strength. He soared into the sky—up into the heavens. Disappearing like a tiny speck in the darkness, he journeyed towards his goal."
+    },
+    {
+      "id": 4,
+      "text": "దూరం ప్రయాణించి, హనుమంతుడు ద్రోణాచల పర్వతాన్ని చేరుకున్నాడు. అక్కడికి చేరుకోగానే, చల్లటి గాలిలో రకరకాల మూలికల సువాసనలు గుప్పుమన్నాయి. పర్వతమంతా దివ్యమైన వెలుగుతో మెరుస్తూ ఉంది, కానీ ఏది సంజీవనియో అతనికి అర్థం కాలేదు. ఆ మూలికల మధ్య సంజీవనిని గుర్తించలేక అతని కనుబొమ్మలు ముడిపడ్డాయి. ఒక గొప్ప ఆలోచన మెరుపులా తట్టింది. \"ఏది సంజీవనియో తెలియదు... మొత్తం పర్వతాన్నే తీసుకుపోతాను!\" అని గట్టిగా అనుకున్నాడు. ఆ క్షణంలోనే, భూమి కంపించేలా ఒక పెద్ద గర్జన చేసి, పర్వతాన్ని వేళ్ళతో పెకిలించడం మొదలుపెట్టాడు.",
+      "image_prompt": "Unable to identify the specific herb among the glowing mountain's many plants, the monkey warrior's brows furrow in thought. With a mighty roar that shakes the earth, he begins to uproot the entire mountain with his hands. Eerie pre-dawn light on a snow-capped mountain, the glowing herbs casting soft, otherworldly lights, a sense of isolation and urgency.",
+      "scene_visual": "Unable to identify the specific herb among the glowing mountain's many plants, the monkey warrior's brows furrow in thought. With a mighty roar that shakes the earth, he begins to uproot the entire mountain with his hands.",
+      "supporting_char_keys": [],
+      "text_te_en": "Duram Prayaaninchi, Hanumantudu Dronaachala Parvataanni Cherukunnaadu. Akkadiki Cherukogaane, Challati Gaalilo Rakarakaala Mulikala Suvaasanalu Guppumannaayi. Parvatamantaa Divyamaina Veluguto Merustu Undi, Kaani Edi Sanjivaniyo Ataniki Artham Kaaledu. Aa Mulikala Madhya Sanjivanini Gurtinchaleka Atani Kanubommalu Mudipaddaayi. Oka Goppa Aalochana Merupulaa Tattindi. \"Edi Sanjivaniyo Teliyadu... Mottam Parvataanne Tisukupotaanu!\" Ani Gattigaa Anukunnaadu. Aa Kshananlone, Bhumi Kampinchelaa Oka Pedda Garjana Chesi, Parvataanni Vellato Pekilinchadam Modalupettaadu.",
+      "text_en": "Traveling a great distance, Hanuman reached the Dronachala mountain. As soon as he arrived, the cool air was filled with the sweet scents of various herbs. The entire mountain glowed with a divine light, but he couldn't tell which one was Sanjeevani. Unable to identify Sanjeevani among the herbs, his eyebrows furrowed. A brilliant idea struck him like lightning. \"I don't know which one is Sanjeevani... I will take the whole mountain!\" he thought firmly. At that very moment, he let out a mighty roar that shook the earth and began to uproot the mountain with his hands."
+    },
+    {
+      "id": 5,
+      "text": "ఆ భారీ పర్వతాన్ని మోసుకుంటూ హనుమంతుడు ఆకాశంలో వేగంగా దూసుకుపోతున్నాడు. గాలి హోరు అతని చెవుల్లో మోగుతోంది, పర్వతం బరువు అతని భుజాలపై ఒత్తిడి చేస్తోంది. ఇంతలో, భరతుడు అతన్ని చూశాడు, తన అన్నదమ్ములకు హాని తలపెట్టే రాక్షసుడనుకున్నాడు. \"ఎవరు ఆ పర్వతాన్ని మోస్తున్నావు, రాక్షసుడా?\" అని బాణం సంధించాడు. హనుమంతుడు పళ్ళు బిగబట్టాడు, తన ముఖంలో ఆవేదన కనిపించింది. \"లక్ష్మణుడి ప్రాణాలు నిలవాలి!\" అని సంజీవని గురించి వివరించాడు. భరతుడు నిజం తెలుసుకుని, తన తప్పుకు తల వంచాడు, హనుమంతుడు ముందుకు సాగిపోయాడు.",
+      "image_prompt": "The monkey warrior speeds through the sky, carrying the massive mountain on his shoulders, his face showing anguish. A prince on the ground aims and shoots an arrow at him, mistaking him for a demon. SUPPORTING CHARACTER also in this scene: Bharata: a young prince with a fair complexion, wearing a simple white dhoti and minimal ornaments (he lives in austerity while Rama is in exile). Gentle, grief-stricken yet dignified expression. Carries Rama's sandals (paduka) as a symbol of his brother's authority. The sky slowly lightening with the first hints of dawn, casting a pale, ethereal glow on the flying figure and the prince below, a sense of fleeting time.",
+      "scene_visual": "The monkey warrior speeds through the sky, carrying the massive mountain on his shoulders, his face showing anguish. A prince on the ground aims and shoots an arrow at him, mistaking him for a demon.",
+      "supporting_char_keys": [
+        "bharata"
+      ],
+      "text_te_en": "Aa Bhaari Parvataanni Mosukuntu Hanumantudu Aakaashanlo Vegangaa Dusukupotunnaadu. Gaali Horu Atani Chevullo Mogutondi, Parvatam Baruvu Atani Bhujaalapai Ottidi Chestondi. Intalo, Bharatudu Atanni Chushaadu, Tana Annadammulaku Haani Talapette Raakshasudanukunnaadu. \"Evaru Aa Parvataanni Mostunnaavu, Raakshasudaa?\" Ani Baanam Sandhinchaadu. Hanumantudu Pallu Bigabattaadu, Tana Mukhanlo Aavedana Kanipinchindi. \"Lakshmanudi Praanaalu Nilavaali!\" Ani Sanjivani Gurinchi Vivarinchaadu. Bharatudu Nijam Telusukuni, Tana Tappuku Tala Vanchaadu, Hanumantudu Munduku Saagipoyaadu.",
+      "text_en": "Carrying the massive mountain, Hanuman sped through the sky. The rushing wind roared in his ears, and the mountain's weight pressed down on his shoulders. Just then, Bharata saw him and mistook him for a demon trying to harm his brothers. \"Who are you, demon, carrying that mountain?\" he asked, aiming an arrow. Hanuman gritted his teeth, distress visible on his face. \"Lakshmana's life must be saved!\" he explained about Sanjeevani. Bharata learned the truth, bowed his head in apology for his mistake, and Hanuman continued on his way."
+    },
+    {
+      "id": 6,
+      "text": "సూర్యోదయం అవ్వడానికి మరికొద్ది క్షణాలే ఉండగా, హనుమంతుడు ద్రోణాచల పర్వతంతో లంకకు చేరుకున్నాడు. ఆ వెంటనే వైద్యుడు సుషేణుడు పర్వతం మీద నుండి సంజీవనిని గుర్తించి, మెల్లగా దాన్ని నలిపాడు. ఆ మూలికల తీయని సువాసన వాతావరణమంతా నిండిపోయింది, ఒక దివ్యమైన కాంతి లక్ష్మణుడి శరీరాన్ని తాకింది. హనుమంతుడు ఒక పెద్ద నిట్టూర్పు వదిలాడు, అతని ముఖంలో సంతోషం వెల్లివిరిసింది. లక్ష్మణుడు కళ్ళు తెరిచాడు! \"ఆహా! యువరాజు ప్రాణాలు నిలిచాయి!\" అని సుషేణుడు ఆనందంగా పలికాడు. రాముడు ఆనందంతో ఉరకలు వేస్తూ, తన ప్రియమైన తమ్ముడిని దగ్గరికి తీసుకున్నాడు.",
+      "image_prompt": "The monkey warrior arrives with the mountain just before sunrise, and the physician quickly identifies and crushes the herb. As a divine light touches the wounded prince and he opens his eyes, the monkey warrior's face beams with immense joy. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. The first golden rays of sunrise breaking over the horizon, illuminating the scene with warm, hopeful light, dispelling the night's despair.",
+      "scene_visual": "The monkey warrior arrives with the mountain just before sunrise, and the physician quickly identifies and crushes the herb. As a divine light touches the wounded prince and he opens his eyes, the monkey warrior's face beams with immense joy.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Suryodayam Avvadaaniki Marikoddi Kshanaale Undagaa, Hanumantudu Dronaachala Parvatanto Lankaku Cherukunnaadu. Aa Ventane Vaidyudu Sushenudu Parvatam Mida Nundi Sanjivanini Gurtinchi, Mellagaa Daanni Nalipaadu. Aa Mulikala Tiyani Suvaasana Vaataavaranamantaa Nindipoyindi, Oka Divyamaina Kaanti Lakshmanudi Shariraanni Taakindi. Hanumantudu Oka Pedda Nitturpu Vadilaadu, Atani Mukhanlo Santosham Vellivirisindi. Lakshmanudu Kallu Terichaadu! \"Aahaa! Yuvaraaju Praanaalu Nilichaayi!\" Ani Sushenudu Aanandangaa Palikaadu. Raamudu Aanandanto Urakalu Vestu, Tana Priyamaina Tammudini Daggariki Tisukunnaadu.",
+      "text_en": "With only a few moments left until sunrise, Hanuman reached Lanka with the Dronachala mountain. Immediately, the physician Sushena identified Sanjeevani from the mountain and gently crushed it. The sweet fragrance of the herbs filled the air, and a divine light touched Lakshmana's body. Hanuman let out a big sigh of relief, his face beaming with joy. Lakshmana opened his eyes! \"Aha! The young prince's life is saved!\" Sushena exclaimed happily. Rama, overjoyed, rushed to embrace his beloved brother."
+    },
+    {
+      "id": 7,
+      "text": "లక్ష్మణుడు కోలుకోవడంతో, వానర సైన్యం ఆనందంతో జయజయధ్వానాలు చేసింది. వారి సంతోష నినాదాలు ఆకాశాన్ని తాకాయి, లంక గిరిజన ప్రాంతమంతా మార్మోగిపోయింది. రాముడు తన తమ్ముడిని చూసి ఒక పెద్ద చిరునవ్వు నవ్వాడు, ఆ తర్వాత హనుమంతుడి వైపు తిరిగాడు. హనుమంతుడు చేతులు జోడించాడు, కళ్ళలో భక్తితో కూడిన ఆనంద బాష్పాలు నిండాయి. రాముడు హనుమంతుడిని కౌగిలించుకున్నాడు. \"నువ్వు నా సోదరుడివి, నా ప్రాణం!\" అని ప్రేమగా పలికాడు. ఆ క్షణంలో, ఆంజనేయుడి ముఖంలో కలిగిన ఆనందం వర్ణనాతీతం, అతని సేవకు దక్కిన గొప్ప బహుమానం అదే.",
+      "image_prompt": "The king smiles at his recovered brother, then turns and embraces the monkey warrior. The monkey warrior stands with folded hands, his eyes filled with tears of devotional joy, as he is hugged by the king. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Bright morning sun, warm and clear, shining down on the relieved faces, a scene of peace and gratitude after the long night.",
+      "scene_visual": "The king smiles at his recovered brother, then turns and embraces the monkey warrior. The monkey warrior stands with folded hands, his eyes filled with tears of devotional joy, as he is hugged by the king.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Lakshmanudu Kolukovadanto, Vaanara Sainyam Aanandanto Jayajayadhvaanaalu Chesindi. Vaari Santosha Ninaadaalu Aakaashaanni Taakaayi, Lanka Girijana Praantamantaa Maarmogipoyindi. Raamudu Tana Tammudini Chusi Oka Pedda Chirunavvu Navvaadu, Aa Tarvaata Hanumantudi Vaipu Tirigaadu. Hanumantudu Chetulu Jodinchaadu, Kallalo Bhaktito Kudina Aananda Baashpaalu Nindaayi. Raamudu Hanumantudini Kaugilinchukunnaadu. \"Nuvvu Naa Sodarudivi, Naa Praanan!\" Ani Premagaa Palikaadu. Aa Kshananlo, Aanjaneyudi Mukhanlo Kaligina Aanandam Varnanaatitan, Atani Sevaku Dakkina Goppa Bahumaanam Ade.",
+      "text_en": "With Lakshmana's recovery, the Vanara army cheered with joy. Their happy shouts reached the sky, echoing throughout the hilly regions of Lanka. Rama smiled a big smile at his brother, then turned to Hanuman. Hanuman clasped his hands together, his eyes filled with tears of devotional joy. Rama embraced Hanuman. \"You are my brother, my very life!\" he said lovingly. At that moment, the happiness on Anjaneya's face was beyond words, that was the greatest reward for his service."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "bharata",
+      "description": "Bharata: a young prince with a fair complexion, wearing a simple white dhoti and minimal ornaments (he lives in austerity while Rama is in exile). Gentle, grief-stricken yet dignified expression. Carries Rama's sandals (paduka) as a symbol of his brother's authority. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 8.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a strong narrative arc, excellent emotional depth, and flawless grammar, making it a compelling read. The use of showing over telling for emotions is particularly commendable. To achieve an award-worthy score, the primary focus should be on enhancing the 'grandmother_authenticity' by consistently adopting a warmer, more conversational oral storytelling voice, removing the few instances of formal phrasing. This would make the narrative feel less like a written piece and more like a cherished bedtime story."
+  },
+  "title_te_en": "Konda Mosina Aanjaneyudu",
+  "moral_te_en": "Enta Pedda Kashtamainaa, Gunde Nindaa Nammakan, Dhairyam Unte Saadhinchalenidi Edi Undadu Chudu.",
+  "title_en": "Hanuman Who Carried the Mountain",
+  "moral_en": "No matter how big a problem is, if you have a heart full of faith and courage, there's nothing you can't achieve.",
+  "id": "20260527_121132",
+  "date": "2026-05-27",
+  "category": "ramayana",
+  "subcategory": "devotion_tales",
+  "topic": "హనుమంతుడు సంజీవని తెచ్చిన కథ",
+  "thumbnail": "stories/20260527_121132/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
