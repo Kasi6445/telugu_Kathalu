@@ -1,0 +1,98 @@
+{
+  "title": "మర్రి నీడలో జ్ఞానమార్గం",
+  "moral": "మనం ఊహించనివి కూడా, కొన్నిసార్లు ఎంతో విలువైన సహాయాన్ని అందిస్తాయి.",
+  "main_character": "A young, energetic man in his early twenties, with a lean build and sun-kissed skin. He wears a simple white dhoti and carries a small cloth bag. He is initially a bit self-centered and quick to judge. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A sun-baked, dusty rural road in the Rayalaseema region of Andhra Pradesh. Sparse dry bushes, distant rocky hills, a prominent ancient banyan tree with sprawling aerial roots, and a clear blue sky. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాముడు ఉదయాన్నే తన ప్రయాణం మొదలుపెట్టాడు. ఎర్రటి దూళి అతని అడుగుల వెంట చిన్న చిన్న పొగలుగా పైకి లేస్తోంది. అతను ఉత్సాహంగా అడుగులు వేస్తూ, ఏదో పాటను గుణుకుంటూ ముందుకు సాగుతున్నాడు. ఇంతలో, పక్కనే నడుస్తున్న ఒక పెద్దాయనను చూసి చిరునవ్వు నవ్వాడు. \"అయ్యా, ఈ రోజు చీకటి పడేలోపే ఆ ఊరు చేరాలి!\" అని రాముడు గట్టిగా అన్నాడు, తన దృఢ సంకల్పాన్ని చాటుతూ. పెద్దాయన తలూపుతూ, \"ఈ ఎండకి తట్టుకోవడం కష్టం బాబు,\" అని హెచ్చరించాడు. రాముడు తన వడిని చూసి ఆశ్చర్యపోయాడు — ఈ ప్రయాణం ఇంత వేగంగా సాగుతుందా?",
+      "image_prompt": "The boy walks enthusiastically, humming a song, and smiles at an old man walking beside him. Small puffs of red dust rise with each of his steps as he moves forward. Bright morning sun, clear blue sky, casting sharp, short shadows. The road is bathed in warm yellow light.",
+      "scene_visual": "The boy walks enthusiastically, humming a song, and smiles at an old man walking beside him. Small puffs of red dust rise with each of his steps as he moves forward.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamudu Udayaanne Tana Prayaanam Modalupettaadu. Errati Duli Atani Adugula Venta Chinna Chinna Pogalugaa Paiki Lestondi. Atanu Utsaahangaa Adugulu Vestu, Edo Paatanu Gunukuntu Munduku Saagutunnaadu. Intalo, Pakkane Nadustunna Oka Peddaayananu Chusi Chirunavvu Navvaadu. \"Ayyaa, I Roju Chikati Padelope Aa Uru Cheraali!\" Ani Raamudu Gattigaa Annaadu, Tana Drridha Sankalpaanni Chaatutu. Peddaayana Taluputu, \"I Endaki Tattukovadam Kashtam Baabu,\" Ani Hechcharinchaadu. Raamudu Tana Vadini Chusi Aashcharyapoyaadu — I Prayaanam Inta Vegangaa Saagutundaa?",
+      "text_en": "Ramu started his journey early in the morning. Red dust rose in small puffs with his footsteps. He walked enthusiastically, humming a song as he went forward. Just then, he saw an old man walking beside him and smiled. \"Sir, I must reach that village before dark today!\" Ramu said loudly, showing his strong determination. The old man nodded, \"It's hard to bear this heat, son,\" he warned. Ramu was surprised by his own speed — would this journey really go so fast?"
+    },
+    {
+      "id": 2,
+      "text": "దూరం నుండి చూస్తే, ఆ పెద్ద మర్రిచెట్టు నీడ ఎంతో ఆహ్వానిస్తున్నట్లు కనిపించింది. గాలిలో మట్టి వాసనతో పాటు, చెట్టు ఆకుల చల్లదనం రాముడిని ఆకర్షించింది. రాముడు మెల్లగా తన వేగాన్ని పెంచాడు — పచ్చని చెట్టును చూసి అతని కళ్ళల్లో ఆశ మెరిసింది. దగ్గరికి వెళ్ళాక, చెట్టు కింద కూర్చున్న పెద్దాయనను పలకరించాడు. \"అయ్యో! ఈ చెట్టుకు పండ్లు కూడా లేవా?\" అని నిట్టూర్చాడు రాముడు, ఆశగా చెట్టు కొమ్మల వైపు చూస్తూ. పెద్దాయన, \"ఈ చెట్టు పండ్లను ఇవ్వదు బాబు, కానీ అంతకు మించి ఎన్నో ఇస్తుంది,\" అని ప్రశాంతంగా అన్నాడు. రాముడికి ఆ మాటలు అర్థం కాలేదు... ఎంతో ఉపశమనం అనుకున్నది ఇప్పుడు నిరాశగా మారిందా?",
+      "image_prompt": "The boy looks up at the tree branches, sighing in disappointment. Hope that had sparkled in his eyes moments before now seems to fade as he sees no fruits. Mid-morning sun, slightly higher, creating a dappled light under the tree, with bright glare just outside its canopy.",
+      "scene_visual": "The boy looks up at the tree branches, sighing in disappointment. Hope that had sparkled in his eyes moments before now seems to fade as he sees no fruits.",
+      "supporting_char_keys": [],
+      "text_te_en": "Duram Nundi Chuste, Aa Pedda Marrichettu Nida Ento Aahvaanistunnatlu Kanipinchindi. Gaalilo Matti Vaasanato Paatu, Chettu Aakula Challadanam Raamudini Aakarshinchindi. Raamudu Mellagaa Tana Vegaanni Penchaadu — Pachchani Chettunu Chusi Atani Kallallo Aasha Merisindi. Daggariki Vellaaka, Chettu Kinda Kurchunna Peddaayananu Palakarinchaadu. \"Ayyo! I Chettuku Pandlu Kudaa Levaa?\" Ani Nitturchaadu Raamudu, Aashagaa Chettu Kommala Vaipu Chustu. Peddaayana, \"I Chettu Pandlanu Ivvadu Baabu, Kaani Antaku Minchi Enno Istundi,\" Ani Prashaantangaa Annaadu. Raamudiki Aa Maatalu Artham Kaaledu... Ento Upashamanam Anukunnadi Ippudu Niraashagaa Maarindaa?",
+      "text_en": "From a distance, the shade of that big banyan tree looked very inviting. Along with the smell of earth in the air, the coolness of the tree's leaves attracted Ramu. Ramu slowly increased his pace — hope sparkled in his eyes as he saw the green tree. After reaching it, he greeted the old man sitting under the tree. \"Oh no! This tree doesn't even have fruits?\" Ramu sighed, looking hopefully at the tree branches. The old man calmly said, \"This tree doesn't give fruits, son, but it gives much more than that.\" Ramu didn't understand those words... Had what he thought would be great relief now turned into disappointment?"
+    },
+    {
+      "id": 3,
+      "text": "సూర్యుడు నెత్తిమీదికి వచ్చాడు — ఎండ వేడిమి మరింత తీవ్రమైంది. చెట్టు నీడలో ఉన్నా కూడా, రాముడు నుదుటిపై చెమటను తుడుచుకుంటూ అసహనంగా కదిలిపోయాడు. ఎక్కడో కనిపించని కీటకాల గుసగుసలు వేడిని మరింత పెంచుతున్నట్లు అనిపించింది. \"ఈ నీడ లేకపోతే నా పరిస్థితి ఇంకెలా ఉండేదో!\" అని రాముడు తనలో తనే గొణుక్కున్నాడు, గొంతు ఎండిపోయి, దాహంతో అల్లాడుతూ. పెద్దాయన అతని వైపు చూసి, \"నిజం బాబు, ఈ ఎడారిలో ఇదొక దేవాలయం లాంటిది,\" అని అన్నాడు. ఇంత వేడిలో ప్రయాణం కొనసాగించడం ఎలాగో రాముడికి తెలియలేదు... ఏంచేయాలో అర్థం కాలేదు.",
+      "image_prompt": "The boy impatiently wipes sweat from his forehead while muttering to himself, his throat dry. Even under the tree's shade, beads of sweat glisten on his brow, indicating the intense heat. Harsh midday sun, directly overhead, creating deep, dark shadows under the tree and blinding white light on the open road.",
+      "scene_visual": "The boy impatiently wipes sweat from his forehead while muttering to himself, his throat dry. Even under the tree's shade, beads of sweat glisten on his brow, indicating the intense heat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Suryudu Nettimidiki Vachchaadu — Enda Vedimi Marinta Tivramaindi. Chettu Nidalo Unnaa Kudaa, Raamudu Nudutipai Chematanu Tuduchukuntu Asahanangaa Kadilipoyaadu. Ekkado Kanipinchani Kitakaala Gusagusalu Vedini Marinta Penchutunnatlu Anipinchindi. \"I Nida Lekapote Naa Paristhiti Inkelaa Undedo!\" Ani Raamudu Tanalo Tane Gonukkunnaadu, Gontu Endipoyi, Daahanto Allaadutu. Peddaayana Atani Vaipu Chusi, \"Nijam Baabu, I Edaarilo Idoka Devaalayam Laantidi,\" Ani Annaadu. Inta Vedilo Prayaanam Konasaaginchadam Elaago Raamudiki Teliyaledu... Encheyaalo Artham Kaaledu.",
+      "text_en": "The sun was directly overhead — the heat became more intense. Even in the tree's shade, Ramu restlessly wiped sweat from his forehead. The unseen whispers of insects somewhere seemed to increase the heat even more. \"If not for this shade, what would my condition be!\" Ramu muttered to himself, his throat dry and parched with thirst. The old man looked at him and said, \"It's true, son, in this desert, this is like a temple.\" Ramu didn't know how to continue his journey in such heat... He didn't understand what to do."
+    },
+    {
+      "id": 4,
+      "text": "మధ్యాహ్నం ఎండ భగభగ మండుతోంది. రాముడు తన వస్తువులను సర్దుకుని, మళ్ళీ ప్రయాణం మొదలుపెట్టాలని ప్రయత్నించాడు. కానీ, బయట ఉన్న ఉక్కపోత అతనిని ఒక్క అడుగు కూడా వేయనివ్వలేదు — వేడి గాలి ముఖానికి తగిలి, అతనిని వెనక్కి నెట్టింది. అతను నిరాశగా మర్రిచెట్టు కాండానికి వెన్ను ఆనించి కూలబడ్డాడు — చెట్టు బెరడు చల్లగా, గరుకుగా అతని వీపుకు తగిలింది. \"ఇంత ఎండలో ఒక్క అడుగు కూడా వేయలేకపోతున్నా!\" అని రాముడు విసుగుగా అన్నాడు, తల దించుకుని. \"కొన్నిసార్లు ఆగి ఉండటమే ముందుకెళ్లడం బాబు,\" అని పెద్దాయన శాంతంగా చెప్పాడు. ఈ 'పండ్లు లేని' చెట్టు కింద రాముడు ఎంతసేపు ఉండాల్సి వస్తుందో?",
+      "image_prompt": "The boy slumps back against the banyan tree trunk, hanging his head in despair. The cool, rough texture of the tree's bark presses against his back as he gives up trying to move. Blazing afternoon sun, casting long, stark shadows from the tree, making the open road shimmer with heat.",
+      "scene_visual": "The boy slumps back against the banyan tree trunk, hanging his head in despair. The cool, rough texture of the tree's bark presses against his back as he gives up trying to move.",
+      "supporting_char_keys": [],
+      "text_te_en": "Madhyaahnam Enda Bhagabhaga Mandutondi. Raamudu Tana Vastuvulanu Sardukuni, Malli Prayaanam Modalupettaalani Prayatninchaadu. Kaani, Bayata Unna Ukkapota Atanini Okka Adugu Kudaa Veyanivvaledu — Vedi Gaali Mukhaaniki Tagili, Atanini Venakki Nettindi. Atanu Niraashagaa Marrichettu Kaandaaniki Vennu Aaninchi Kulabaddaadu — Chettu Beradu Challagaa, Garukugaa Atani Vipuku Tagilindi. \"Inta Endalo Okka Adugu Kudaa Veyalekapotunnaa!\" Ani Raamudu Visugugaa Annaadu, Tala Dinchukuni. \"Konnisaarlu Aagi Undatame Mundukelladam Baabu,\" Ani Peddaayana Shaantangaa Cheppaadu. I 'Pandlu Leni' Chettu Kinda Raamudu Entasepu Undaalsi Vastundo?",
+      "text_en": "The afternoon sun was blazing fiercely. Ramu packed his belongings and tried to start his journey again. But the stifling heat outside wouldn't let him take even one step — the hot wind hit his face and pushed him back. He slumped against the banyan tree's trunk in despair — the tree bark felt cool and rough against his back. \"I can't take even one step in this heat!\" Ramu said irritably, hanging his head. \"Sometimes, staying still is moving forward, son,\" the old man said calmly. How long would Ramu have to stay under this 'fruitless' tree?"
+    },
+    {
+      "id": 5,
+      "text": "రాముడు అలా కూర్చుని అలసట తీర్చుకుంటూ ఉండగా, పైన ఆకుల సవ్వడి వినబడింది — ఒక పక్షి గూటిలోకి వచ్చి చేరింది. కింద చూస్తే, చెట్టు వేళ్ళ దగ్గర పారిన నీటిలో ఒక చిన్న చీమ దాహం తీర్చుకుంటోంది. \"చూశావా బాబు, ఈ చెట్టు ఎందరికో ఆశ్రయం ఇస్తుంది,\" అని పెద్దాయన మెల్లగా అన్నాడు. రాముడి కళ్ళల్లో ఆలోచనలు మెరిశాయి — అతని ముఖం సిగ్గుతో కొద్దిగా ఎర్రబడింది. \"నేను ఎంత స్వార్థపరుడిని! నా గురించి మాత్రమే ఆలోచించాను,\" అని రాముడు పశ్చాత్తాపంతో అన్నాడు. ఈ చెట్టు విలువ కేవలం పండ్లలోనే లేదా?",
+      "image_prompt": "The boy's face flushes slightly with shame as new thoughts spark in his eyes. He looks down at a small ant quenching its thirst near the tree roots, a realization dawning on him. Late afternoon sun, beginning to soften, casting longer, warmer shadows, with golden light filtering through the leaves.",
+      "scene_visual": "The boy's face flushes slightly with shame as new thoughts spark in his eyes. He looks down at a small ant quenching its thirst near the tree roots, a realization dawning on him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamudu Alaa Kurchuni Alasata Tirchukuntu Undagaa, Paina Aakula Savvadi Vinabadindi — Oka Pakshi Gutiloki Vachchi Cherindi. Kinda Chuste, Chettu Vella Daggara Paarina Nitilo Oka Chinna Chima Daaham Tirchukuntondi. \"Chushaavaa Baabu, I Chettu Endariko Aashrayam Istundi,\" Ani Peddaayana Mellagaa Annaadu. Raamudi Kallallo Aalochanalu Merishaayi — Atani Mukham Sigguto Koddigaa Errabadindi. \"Nenu Enta Svaarthaparudini! Naa Gurinchi Maatrame Aalochinchaanu,\" Ani Raamudu Pashchaattaapanto Annaadu. I Chettu Viluva Kevalam Pandlalone Ledaa?",
+      "text_en": "As Ramu sat there resting, he heard the rustling of leaves above — a bird had returned to its nest. Looking down, a small ant was quenching its thirst in the water spilled near the tree roots. \"See, son, this tree gives shelter to so many,\" the old man said softly. Thoughts sparkled in Ramu's eyes — his face turned a little red with shame. \"How selfish I am! I only thought about myself,\" Ramu said with regret. Was the value of this tree only in its fruits?"
+    },
+    {
+      "id": 6,
+      "text": "ఇంతలో, ఒక్కసారిగా గాలి ఉధృతంగా వీచింది — దూళి మేఘాల్లా పైకి లేచింది. ఆకాశంలో నల్లటి మేఘాలు వేగంగా అలుముకున్నాయి, వర్షపు వాసన మట్టిలోంచి ఘాటుగా పైకి వచ్చింది. పెద్దాయన, \"తుఫాను వస్తోంది, చెట్టును పట్టుకో బాబు!\" అని హెచ్చరించాడు. రాముడి గుండె వేగంగా కొట్టుకుంది — అతను భయంతో చెట్టు కాండాన్ని గట్టిగా పట్టుకున్నాడు, కళ్ళు విశాలమయ్యాయి. \"ఈ చెట్టు లేకుంటే ఈ తుఫానులో నేను కొట్టుకుపోయేవాడిని!\" అని రాముడు గట్టిగా అరిచాడు, భయంతో వణుకుతూ. ఈ భయంకరమైన తుఫాను నుండి ఆ మర్రిచెట్టు వారిని కాపాడుతుందా?",
+      "image_prompt": "The boy grips the tree trunk tightly, his body trembling with fear as a storm approaches. His eyes are wide with fright, reflecting the dark, rapidly gathering clouds above. Dramatic, dark storm clouds overhead, dimming the light to a deep grey-blue, with flashes of distant lightning briefly illuminating the tree.",
+      "scene_visual": "The boy grips the tree trunk tightly, his body trembling with fear as a storm approaches. His eyes are wide with fright, reflecting the dark, rapidly gathering clouds above.",
+      "supporting_char_keys": [],
+      "text_te_en": "Intalo, Okkasaarigaa Gaali Udhrritangaa Vichindi — Duli Meghaallaa Paiki Lechindi. Aakaashanlo Nallati Meghaalu Vegangaa Alumukunnaayi, Varshapu Vaasana Mattilonchi Ghaatugaa Paiki Vachchindi. Peddaayana, \"Tuphaanu Vastondi, Chettunu Pattuko Baabu!\" Ani Hechcharinchaadu. Raamudi Gunde Vegangaa Kottukundi — Atanu Bhayanto Chettu Kaandaanni Gattigaa Pattukunnaadu, Kallu Vishaalamayyaayi. \"I Chettu Lekunte I Tuphaanulo Nenu Kottukupoyevaadini!\" Ani Raamudu Gattigaa Arichaadu, Bhayanto Vanukutu. I Bhayankaramaina Tuphaanu Nundi Aa Marrichettu Vaarini Kaapaadutundaa?",
+      "text_en": "Just then, the wind suddenly blew fiercely — dust rose like clouds. Dark clouds quickly covered the sky, and the smell of rain sharply rose from the earth. The old man warned, \"A storm is coming, hold onto the tree, son!\" Ramu's heart beat fast — he gripped the tree trunk tightly in fear, his eyes wide. \"If not for this tree, I would have been swept away in this storm!\" Ramu shouted loudly, trembling with fear. Would that banyan tree protect them from this terrible storm?"
+    },
+    {
+      "id": 7,
+      "text": "తుఫాను తగ్గిపోయింది — గాలి చల్లగా, కొత్తగా వీచింది. వర్షం తర్వాత మట్టి వాసన మరింత ఆహ్లాదకరంగా అనిపించింది. రాముడు నెమ్మదిగా కళ్ళు తెరిచి, చెట్టు కాండాన్ని ప్రేమగా నిమిరాడు — అతని పెదవులపై ప్రశాంతమైన చిరునవ్వు విరిసింది. \"నువ్వు కేవలం నీడ మాత్రమే కాదు, ఒక ప్రాణదాతవి,\" అని అతను కృతజ్ఞతతో చెట్టుతో అన్నాడు. \"ఇప్పుడు నీకు అర్థమైంది కదా బాబు, నిస్వార్థ ప్రేమ విలువ,\" అని పెద్దాయన నవ్వుతూ చెప్పాడు. రాముడు తన ప్రయాణాన్ని తిరిగి మొదలుపెట్టాడు, కానీ ఇప్పుడు అతని మనసులో చెట్టు పట్ల ఎంతో గౌరవం, కొత్త జ్ఞానం నిండి ఉన్నాయి.",
+      "image_prompt": "The boy slowly opens his eyes and lovingly strokes the tree trunk. A peaceful smile blooms on his lips, reflecting his gratitude and newfound understanding. Gentle dusk light, warm amber and soft purples on the horizon, reflecting off the wet leaves, peaceful and serene.",
+      "scene_visual": "The boy slowly opens his eyes and lovingly strokes the tree trunk. A peaceful smile blooms on his lips, reflecting his gratitude and newfound understanding.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tuphaanu Taggipoyindi — Gaali Challagaa, Kottagaa Vichindi. Varsham Tarvaata Matti Vaasana Marinta Aahlaadakarangaa Anipinchindi. Raamudu Nemmadigaa Kallu Terichi, Chettu Kaandaanni Premagaa Nimiraadu — Atani Pedavulapai Prashaantamaina Chirunavvu Virisindi. \"Nuvvu Kevalam Nida Maatrame Kaadu, Oka Praanadaatavi,\" Ani Atanu Krritajnyatato Chettuto Annaadu. \"Ippudu Niku Arthamaindi Kadaa Baabu, Nisvaartha Prema Viluva,\" Ani Peddaayana Navvutu Cheppaadu. Raamudu Tana Prayaanaanni Tirigi Modalupettaadu, Kaani Ippudu Atani Manasulo Chettu Patla Ento Gauravan, Kotta Jnyaanam Nindi Unnaayi.",
+      "text_en": "The storm subsided — the air blew cool and fresh. The smell of earth after the rain felt even more pleasant. Ramu slowly opened his eyes and lovingly stroked the tree trunk — a peaceful smile bloomed on his lips. \"You are not just shade, but a lifesaver,\" he said gratefully to the tree. \"Now you understand, son, the value of selfless love,\" the old man said with a smile. Ramu started his journey again, but now his heart was filled with great respect for the tree and new wisdom."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 7,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.1,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and rich, natural dialogue. To achieve award-worthy status, the primary focus should be on enhancing the 'grandmother authenticity' by softening the narrative voice to feel more oral and less like written prose. Additionally, ensure all emotional states are consistently shown through action and body language, rather than being directly stated, to deepen the reader's connection."
+  },
+  "quality_warning": true,
+  "title_te_en": "Marri Nidalo Jnyaanamaargam",
+  "moral_te_en": "Manam Uhinchanivi Kudaa, Konnisaarlu Ento Viluvaina Sahaayaanni Andistaayi.",
+  "title_en": "The Path of Wisdom in the Banyan's Shade",
+  "moral_en": "Sometimes, even things we don't expect can offer very valuable help.",
+  "id": "20260527_031047",
+  "date": "2026-05-27",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "చెట్టు నీడ మరియు బాటసారి",
+  "thumbnail": "stories/20260527_031047/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
