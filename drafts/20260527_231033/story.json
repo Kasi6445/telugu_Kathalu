@@ -1,0 +1,108 @@
+{
+  "title": "రాజూ, ఓర్పు గుట్టు",
+  "moral": "ఆశతో ఎదురుచూస్తే, మంచి తప్పకుండా మనల్ని వెతుక్కుంటూ వస్తుంది, తెలుసా పిల్లలూ?",
+  "main_character": "Raju is a young boy, about 10 years old, with bright, curious eyes and a perpetually hopeful smile. He is slender but surprisingly strong from helping his family in the fields. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The village of Palem is nestled amidst sun-baked fields, with small mud-and-thatch houses. A winding, dry riverbed cuts through the village, and a large, ancient Banyan tree stands at its edge, providing the only significant shade. The scenes will span from early morning to late afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లెలో రాజు అనే చిన్నారి ఉండేవాడు, అతని చేతుల్లో ఓ చిన్న మొక్క — ఎంతో ప్రేమగా దానిని చూసుకునేవాడు. తన దగ్గరున్న నీళ్ళను ఆ మొక్క మీద మెల్లగా పోశాడు, అతని నుదుట చిన్నగా ముడుతలు పడ్డాయి. ఆ పొడి నేల ఆ కొద్దిపాటి నీటిని చప్పున తాగేసింది, అక్కడ ఒక తడి మరక మాత్రమే మిగిలింది. ఇంకేమాత్రం నీరు లేదు. అయినా రాజు గుండెలో ఏదో తెలియని ఆశ — \"నువ్వు బ్రతకాలి కదా, చిన్న మొక్క!\" అని మొక్కతో గుసగుసలాడాడు, కానీ ఆ మొక్క ఆకులు ఇంకా వాలిపోయి ఉన్నాయి.",
+      "image_prompt": "The boy gently pours a small amount of water onto a wilting plant held in his hands. Small wrinkles appear on his forehead as the dry soil quickly absorbs the water, leaving only a damp spot. Early morning light, golden and soft, filtering through the sparse leaves of a small plant in a dusty, sun-baked yard.",
+      "scene_visual": "The boy gently pours a small amount of water onto a wilting plant held in his hands. Small wrinkles appear on his forehead as the dry soil quickly absorbs the water, leaving only a damp spot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pallelo Raaju Ane Chinnaari Undevaadu, Atani Chetullo O Chinna Mokka — Ento Premagaa Daanini Chusukunevaadu. Tana Daggarunna Nillanu Aa Mokka Mida Mellagaa Poshaadu, Atani Nuduta Chinnagaa Mudutalu Paddaayi. Aa Podi Nela Aa Koddipaati Nitini Chappuna Taagesindi, Akkada Oka Tadi Maraka Maatrame Migilindi. Inkemaatram Niru Ledu. Ayinaa Raaju Gundelo Edo Teliyani Aasha — \"Nuvvu Bratakaali Kadaa, Chinna Mokka!\" Ani Mokkato Gusagusalaadaadu, Kaani Aa Mokka Aakulu Inkaa Vaalipoyi Unnaayi.",
+      "text_en": "In a village, there lived a little boy named Raju. In his hands was a small plant — he cared for it with so much love. He gently poured the water he had onto the plant, and little wrinkles appeared on his forehead. The dry soil quickly drank up that little bit of water, leaving only a wet patch. There was no more water. Still, an unknown hope filled Raju's heart — he whispered to the plant, \"You must live, little plant!\" But the plant's leaves were still drooping."
+    },
+    {
+      "id": 2,
+      "text": "మొక్క ఇంకా వాలిపోవడంతో, రాజు వెంటనే ఊరి బావి దగ్గరికి వచ్చాడు — అక్కడ జనం గుంపులు గుంపులుగా నిలబడి ఉన్నారు. రాజు భయంగా బావి లోపలికి చూశాడు, అతని ఆశ నిండిన కళ్ళు ఒక్కసారిగా ఆరిపోయాయి. ఒక చిన్న గులకరాయిని బావిలోకి వదిలాడు, దాని శబ్దం లోపల ఎక్కడో పొడి నేల మీద పడి — హఠాత్తుగా మాయమైంది. \"బావిలో చుక్క నీరు కూడా లేదు! మన బ్రతుకులు ఎలా?\" అని ఒక ముసలమ్మ గుండెలు బాదుకుంది. ఎవరి ముఖంలోనూ ఆశ కనిపించలేదు. ఆ పక్కనే ఉన్న మరో వృద్ధురాలు తల అడ్డంగా ఊపింది, ఆమె కళ్ళు ఆ ఖాళీ బావిని చూస్తూ ఏదో పెను ప్రమాదాన్ని సూచించాయి.",
+      "image_prompt": "The boy fearfully peers into the village well and drops a small pebble into its depths. His hopeful eyes dim as the pebble's sound abruptly vanishes upon hitting dry ground far below, revealing the well's complete dryness. Mid-morning, harsh direct sunlight beats down on the dusty village square around the dry well, casting sharp, short shadows.",
+      "scene_visual": "The boy fearfully peers into the village well and drops a small pebble into its depths. His hopeful eyes dim as the pebble's sound abruptly vanishes upon hitting dry ground far below, revealing the well's complete dryness.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mokka Inkaa Vaalipovadanto, Raaju Ventane Uri Baavi Daggariki Vachchaadu — Akkada Janam Gumpulu Gumpulugaa Nilabadi Unnaaru. Raaju Bhayangaa Baavi Lopaliki Chushaadu, Atani Aasha Nindina Kallu Okkasaarigaa Aaripoyaayi. Oka Chinna Gulakaraayini Baaviloki Vadilaadu, Daani Shabdam Lopala Ekkado Podi Nela Mida Padi — Hathaattugaa Maayamaindi. \"Baavilo Chukka Niru Kudaa Ledu! Mana Bratukulu Elaa?\" Ani Oka Musalamma Gundelu Baadukundi. Evari Mukhanlonu Aasha Kanipinchaledu. Aa Pakkane Unna Maro Vrriddhuraalu Tala Addangaa Upindi, Aame Kallu Aa Khaali Baavini Chustu Edo Penu Pramaadaanni Suchinchaayi.",
+      "text_en": "As the plant kept drooping, Raju immediately went to the village well. People were standing there in groups. Raju looked fearfully into the well, and his hopeful eyes suddenly lost their sparkle. He dropped a small pebble into the well, and its sound fell somewhere on the dry ground inside — then suddenly disappeared. \"There isn't even a drop of water in the well! How will we live?\" cried an old woman, full of sorrow. No hope was visible on anyone's face. Another old woman standing nearby shook her head, her eyes looking at the empty well, seemed to warn of a great danger."
+    },
+    {
+      "id": 3,
+      "text": "ఆ వృద్ధురాలి మాటలు రాజు మనసులో మెదులుతూనే ఉన్నాయి, అతను అప్పుడు పెద్ద మర్రి చెట్టు కింద కూర్చున్నాడు. ఆ చెట్టు గరుకు బెరడు అతని వీపుకు హాయిగా అనిపించింది, అది ఆ వేడిలో చిన్న ఓదార్పు. రాజు కళ్ళు దూరంగా ఉన్న ఎండిపోయిన నది వైపు వెళ్ళాయి, అతనిలో ఏదో కొత్త ఆలోచన మొగ్గ తొడిగింది. ఒక గొప్ప ఆలోచన అతనిలో మెరిసింది. \"నేనే వెతుకుతాను! ఎక్కడో ఒక చోట నీరు దొరకాలి కదా!\" అని తనలో తనే గట్టిగా అనుకున్నాడు. రాజు ఒక్కసారిగా లేచి, ఒక గట్టి కర్రను పట్టుకుని, ఎవరూ నీళ్ళు వెతకని ఆ ఎండిపోయిన నది వైపు నడవడం మొదలుపెట్టాడు.",
+      "image_prompt": "The boy sits under a large banyan tree, then suddenly stands up, grabbing a sturdy stick. The rough bark of the tree provides comfort against his back as he resolutely begins walking towards the distant, dried-up river. Warm afternoon light filters through the dense canopy of the Banyan tree, creating a dappled, calm, and contemplative atmosphere.",
+      "scene_visual": "The boy sits under a large banyan tree, then suddenly stands up, grabbing a sturdy stick. The rough bark of the tree provides comfort against his back as he resolutely begins walking towards the distant, dried-up river.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vrriddhuraali Maatalu Raaju Manasulo Medulutune Unnaayi, Atanu Appudu Pedda Marri Chettu Kinda Kurchunnaadu. Aa Chettu Garuku Beradu Atani Vipuku Haayigaa Anipinchindi, Adi Aa Vedilo Chinna Odaarpu. Raaju Kallu Durangaa Unna Endipoyina Nadi Vaipu Vellaayi, Atanilo Edo Kotta Aalochana Mogga Todigindi. Oka Goppa Aalochana Atanilo Merisindi. \"Nene Vetukutaanu! Ekkado Oka Chota Niru Dorakaali Kadaa!\" Ani Tanalo Tane Gattigaa Anukunnaadu. Raaju Okkasaarigaa Lechi, Oka Gatti Karranu Pattukuni, Evaru Nillu Vetakani Aa Endipoyina Nadi Vaipu Nadavadam Modalupettaadu.",
+      "text_en": "The old woman's words kept echoing in Raju's mind. He then sat under a big banyan tree. The tree's rough bark felt comforting against his back, a small comfort in the heat. Raju's eyes went towards the dried-up river in the distance, and a new idea began to sprout in him. A great idea flashed in his mind. He said firmly to himself, \"I will search! Water must be found somewhere, right!\" Raju suddenly stood up, holding a strong stick, and started walking towards the dried-up river, where no one else was looking for water."
+    },
+    {
+      "id": 4,
+      "text": "రోజులు గడిచిపోయాయి, రాజు అలసిపోకుండా ఆ ఎండిన నదిలో రకరకాల చోట్ల తవ్వుతూనే ఉన్నాడు. అతని చేతిలోని కర్ర ఆ గట్టి నేల మీద రాసుకుంటూ ఒక వింత శబ్దం చేసింది, కానీ కనిపించిందల్లా పొడి మట్టి మాత్రమే. అతని ముఖం చెమటతో, దుమ్ముతో నిండిపోయింది, భుజాలు వాలిపోయాయి. అతను మరింత అలసిపోయాడు. \"ఇంకెంత తవ్వాలి? నీళ్లు ఎందుకు కనిపించట్లేదు?\" అని నిట్టూర్చాడు. చివరికి రాజు నేల మీద కూలబడిపోయాడు, అతని చిన్న తవ్వే కర్ర అతని చేతిలో నుండి జారిపడింది — అది అంతం లేని ఎండిన నేల వైపు చూస్తున్నట్టు అనిపించింది.",
+      "image_prompt": "The boy collapses onto the ground, his shoulders slumped in exhaustion from continuously digging in the dry riverbed. His face is covered in sweat and dust, and his small digging stick slips from his hand, pointing towards the endless dry earth. Late afternoon sun, a fiery orange-red, casts long, dramatic shadows across the barren riverbed, highlighting Raju's exhaustion.",
+      "scene_visual": "The boy collapses onto the ground, his shoulders slumped in exhaustion from continuously digging in the dry riverbed. His face is covered in sweat and dust, and his small digging stick slips from his hand, pointing towards the endless dry earth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Rojulu Gadichipoyaayi, Raaju Alasipokundaa Aa Endina Nadilo Rakarakaala Chotla Tavvutune Unnaadu. Atani Chetiloni Karra Aa Gatti Nela Mida Raasukuntu Oka Vinta Shabdam Chesindi, Kaani Kanipinchindallaa Podi Matti Maatrame. Atani Mukham Chematato, Dummuto Nindipoyindi, Bhujaalu Vaalipoyaayi. Atanu Marinta Alasipoyaadu. \"Inkenta Tavvaali? Nillu Enduku Kanipinchatledu?\" Ani Nitturchaadu. Chivariki Raaju Nela Mida Kulabadipoyaadu, Atani Chinna Tavve Karra Atani Chetilo Nundi Jaaripadindi — Adi Antam Leni Endina Nela Vaipu Chustunnattu Anipinchindi.",
+      "text_en": "Days passed. Raju kept digging in different places in the dried river, without getting tired. The stick in his hand made a strange scraping sound on the hard ground, but all he saw was dry soil. His face was covered in sweat and dust, and his shoulders drooped. He became even more tired. He sighed, \"How much more do I have to dig? Why isn't there any water?\" Finally, Raju collapsed onto the ground, his small digging stick slipping from his hand — it seemed to be looking at the endless dry land."
+    },
+    {
+      "id": 5,
+      "text": "రాజు అలా నిరాశగా కూర్చున్నప్పుడు, అక్కడి నుండి వెళ్తున్న ఒక వృద్ధురాలు అతని దగ్గరికి వచ్చింది, ఆమె చీర మెల్లగా సన్నని శబ్దం చేసింది. ఆమె రాజు పక్కన కూర్చుని అతని ముఖాన్ని ప్రేమగా నిమిరింది. \"ఓర్పు ఉంటే, భగవంతుడు నీకు దారి చూపిస్తాడు, చిన్నారి\" అని మెల్లగా అంది. ఆ మాటలు అతని గుండెలో కొత్త శక్తిని నింపాయి. రాజు కళ్ళలో మళ్ళీ ఆశ మెరిసింది, అతని పెదవులపై చిన్న నవ్వు విరిసింది. అతను తన బొబ్బలు వచ్చిన చేతులను చూసుకుని, మళ్ళీ ఆ నది వైపు చూశాడు — అతని చూపులో ఒక కొత్త పట్టుదల కనిపించింది.",
+      "image_prompt": "An old woman gently strokes the boy's face as he sits dejectedly on the ground. Hope rekindles in his eyes, and a small smile appears on his lips as he looks at his blistered hands and then back towards the river with new determination. Gentle golden hour light, warm and comforting, illuminates the old woman's wise face and Raju's thoughtful expression.",
+      "scene_visual": "An old woman gently strokes the boy's face as he sits dejectedly on the ground. Hope rekindles in his eyes, and a small smile appears on his lips as he looks at his blistered hands and then back towards the river with new determination.",
+      "supporting_char_keys": [
+        "old_woman"
+      ],
+      "text_te_en": "Raaju Alaa Niraashagaa Kurchunnappudu, Akkadi Nundi Veltunna Oka Vrriddhuraalu Atani Daggariki Vachchindi, Aame Chira Mellagaa Sannani Shabdam Chesindi. Aame Raaju Pakkana Kurchuni Atani Mukhaanni Premagaa Nimirindi. \"Orpu Unte, Bhagavantudu Niku Daari Chupistaadu, Chinnaari\" Ani Mellagaa Andi. Aa Maatalu Atani Gundelo Kotta Shaktini Nimpaayi. Raaju Kallalo Malli Aasha Merisindi, Atani Pedavulapai Chinna Navvu Virisindi. Atanu Tana Bobbalu Vachchina Chetulanu Chusukuni, Malli Aa Nadi Vaipu Chushaadu — Atani Chupulo Oka Kotta Pattudala Kanipinchindi.",
+      "text_en": "As Raju sat there in despair, an old woman passing by came near him, her sari making a soft, rustling sound. She sat next to Raju and gently stroked his face with love. \"If you have patience, God will show you the way, little one,\" she softly said. Those words filled his heart with new strength. Hope sparkled in Raju's eyes again, and a small smile bloomed on his lips. He looked at his blistered hands, then looked back at the river — a new determination was visible in his gaze."
+    },
+    {
+      "id": 6,
+      "text": "వృద్ధురాలి మాటలు రాజు మనసులో ధైర్యాన్ని నింపాయి, అతను తనకున్న చివరి శక్తితో మళ్ళీ తవ్వడం మొదలుపెట్టాడు. ఈసారి కర్ర నేలలోకి దిగుతూ ఉండగా, అతనికి చిన్న తడి తగిలింది — అతని చేతులు ఒక్కసారిగా వణికాయి. రాజు వేగంగా మరింత లోతుగా తవ్వాడు, అప్పుడు చిన్న బురద నీటి బిందువు నేల నుండి బయటపడింది. అతని ముఖం మీద ఒక పెద్ద, కన్నీటి నవ్వు విరిసింది, నమ్మలేనంత సంతోషంతో కళ్ళు పెద్దవయ్యాయి. \"నీళ్లు! నీళ్లు దొరికాయి!\" అని గట్టిగా అరిచాడు. ఆ చిన్న నీటి బిందువు క్షణాల్లో పెద్దదై, నేల నుండి ఉప్పొంగి బయటికి వచ్చింది, ఇంకా నీళ్లు వస్తున్నాయని చెప్పినట్లు.",
+      "image_prompt": "The boy frantically digs deeper into the ground with his stick, his hands trembling as he feels dampness. A large, tearful smile spreads across his face, and his eyes widen in disbelief as a small drop of muddy water emerges and quickly swells from the earth. A single shaft of bright, almost divine, sunlight breaks through a gap in the clouds directly onto the spot where water emerges, creating a moment of awe and wonder.",
+      "scene_visual": "The boy frantically digs deeper into the ground with his stick, his hands trembling as he feels dampness. A large, tearful smile spreads across his face, and his eyes widen in disbelief as a small drop of muddy water emerges and quickly swells from the earth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vrriddhuraali Maatalu Raaju Manasulo Dhairyaanni Nimpaayi, Atanu Tanakunna Chivari Shaktito Malli Tavvadam Modalupettaadu. Isaari Karra Nelaloki Digutu Undagaa, Ataniki Chinna Tadi Tagilindi — Atani Chetulu Okkasaarigaa Vanikaayi. Raaju Vegangaa Marinta Lotugaa Tavvaadu, Appudu Chinna Burada Niti Binduvu Nela Nundi Bayatapadindi. Atani Mukham Mida Oka Pedda, Kanniti Navvu Virisindi, Nammalenanta Santoshanto Kallu Peddavayyaayi. \"Nillu! Nillu Dorikaayi!\" Ani Gattigaa Arichaadu. Aa Chinna Niti Binduvu Kshanaallo Peddadai, Nela Nundi Uppongi Bayatiki Vachchindi, Inkaa Nillu Vastunnaayani Cheppinatlu.",
+      "text_en": "The old woman's words filled Raju's heart with courage. He started digging again with his last bit of strength. This time, as the stick went into the ground, he felt a little dampness — his hands trembled instantly. Raju dug faster and deeper, and then a small drop of muddy water appeared from the ground. A big, tearful smile bloomed on his face, and his eyes widened with unbelievable joy. \"Water! Water found!\" he shouted loudly. That small drop of water quickly grew bigger, gushing out from the ground, as if saying more water was coming."
+    },
+    {
+      "id": 7,
+      "text": "రాజు ఆనందంతో కేక వేయగానే, ఆ మాటలు ఊరంతా పాకాయి — జనం గుంపులు గుంపులుగా నది వైపు పరుగెత్తుకు వచ్చారు. నీళ్లు కుండల్లోకి, బకెట్లలోకి పడుతున్న ఆ సంతోషపు చప్పుడు మళ్ళీ వారాల తర్వాత వినిపించింది. \"చిన్న రాజు చేసిన పని ఎంత గొప్పది!\" అని అందరూ మురిసిపోయారు. రాజు అక్కడే నిలబడి, తన మంచితనాన్ని, ధైర్యాన్ని చూపిస్తున్నట్టు, నెమ్మదిగా నవ్వాడు. గ్రామస్థుల ముఖాల్లో కనిపించిన ఆ ప్రశాంతత, సంతోషం చూసి రాజు గుండె నిండిపోయింది — అతని ఆత్మ సంతృప్తితో తేలిక పడింది.",
+      "image_prompt": "Villagers rush in groups towards the river, carrying pots and buckets, as the sound of water filling containers echoes. The boy stands amidst them, gently smiling, his heart filled with contentment at the sight of peace and happiness on the villagers' faces. Late afternoon, golden light bathes the entire riverbed and the joyous villagers, creating a warm, peaceful, and abundant atmosphere.",
+      "scene_visual": "Villagers rush in groups towards the river, carrying pots and buckets, as the sound of water filling containers echoes. The boy stands amidst them, gently smiling, his heart filled with contentment at the sight of peace and happiness on the villagers' faces.",
+      "supporting_char_keys": [
+        "old_woman"
+      ],
+      "text_te_en": "Raaju Aanandanto Keka Veyagaane, Aa Maatalu Urantaa Paakaayi — Janam Gumpulu Gumpulugaa Nadi Vaipu Parugettuku Vachchaaru. Nillu Kundalloki, Baketlaloki Padutunna Aa Santoshapu Chappudu Malli Vaaraala Tarvaata Vinipinchindi. \"Chinna Raaju Chesina Pani Enta Goppadi!\" Ani Andaru Murisipoyaaru. Raaju Akkade Nilabadi, Tana Manchitanaanni, Dhairyaanni Chupistunnattu, Nemmadigaa Navvaadu. Graamasthula Mukhaallo Kanipinchina Aa Prashaantata, Santosham Chusi Raaju Gunde Nindipoyindi — Atani Aatma Santrriptito Telika Padindi.",
+      "text_en": "As soon as Raju shouted with joy, those words spread throughout the village — people came running in groups towards the river. The joyful sound of water falling into pots and buckets was heard again after weeks. \"How wonderful is the work done by little Raju!\" everyone rejoiced. Raju stood there, smiling gently, as if showing his goodness and courage. Seeing the peace and happiness on the villagers' faces, Raju's heart was filled — his soul felt light with satisfaction."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "old_woman",
+      "description": "An elderly village woman with deep-set, kind eyes and a face weathered by sun and time. She wears a simple, faded cotton sari and carries a small bundle of herbs. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.0,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 8,
+    "average": 8.0,
+    "weakest_dimension": "emotional_depth",
+    "notes": "The story has a strong narrative arc and excellent grammar, providing a solid foundation for an engaging children's tale. The most significant area for improvement lies in consistently *showing* emotions through character actions, body language, and subtle expressions, rather than explicitly stating them. This would deepen the emotional connection for young readers and enhance the overall impact. Additionally, weaving the direct child address (\"తెలుసా పిల్లలూ?\") more organically into the narrative, perhaps through the grandmother's voice, would further boost authenticity and engagement."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raaju, Orpu Guttu",
+  "moral_te_en": "Aashato Eduruchuste, Manchi Tappakundaa Manalni Vetukkuntu Vastundi, Telusaa Pillalu?",
+  "title_en": "Raju and the Secret of Patience",
+  "moral_en": "Children, if you wait with hope, good things will surely find their way to you.",
+  "id": "20260527_231033",
+  "date": "2026-05-27",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "ఓర్పు ఉన్న చోట భగవంతుడు ఉంటాడు అనే కథ",
+  "thumbnail": "stories/20260527_231033/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
