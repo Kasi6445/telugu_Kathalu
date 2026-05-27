@@ -1,0 +1,123 @@
+{
+  "title": "ధర్మ రక్షణకు పరశురాముడి ప్రయాణం",
+  "moral": "అన్యాయం ఎంత పెద్దదైనా, ధైర్యంతో ధర్మాన్ని నిలబెడితే, శాంతి తప్పక వెల్లివిరుస్తుంది.",
+  "main_character": "A young, powerful sage-warrior with a lean, muscular build and intense, focused eyes. He wears simple saffron robes and carries a gleaming battle-axe (parashu) on his back, always ready to uphold dharma. Always the same character across every scene.",
+  "antagonist": "A mighty king with a strong, imposing physique and a proud, stern face. He wears rich golden armor and a large crown, often seen with many strong warriors around him. Always the same character across every scene.",
+  "setting": "A peaceful hermitage in the foothills of the Sahyadri mountains, near a clear flowing river. There are ancient banyan trees and small huts made of wood and mud. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "సహ్యాద్రి పర్వతాల చెంత, ప్రశాంతమైన ఆశ్రమంలో, యువ పరశురాముడు తన గొడ్డలిని పట్టుకుని సాధన చేస్తున్నాడు. అతని నుదురు ఏకాగ్రతతో ముడతలు పడింది, ప్రతి కదలికలోనూ అకుంఠిత దీక్ష కనిపించింది. చెక్క లక్ష్యంపై గొడ్డలి లయబద్ధంగా పడుతున్నప్పుడు — ఒక గంభీరమైన చప్పుడు అడవంతా ప్రతిధ్వనించింది. అప్పుడు అతను ఆ గొడ్డలిని పైకెత్తి, దృఢంగా ఇలా అన్నాడు: \"తండ్రీ! నా అస్త్రం ఎప్పుడూ ధర్మాన్ని రక్షిస్తుంది.\" సాధన పూర్తి చేసి, తల్లిదండ్రుల గుడిసె వైపు గౌరవంగా చూశాడు.",
+      "image_prompt": "The young boy is practicing with his axe, lifting it high after striking a wooden target. His forehead is furrowed with intense concentration, showing unwavering dedication. Bright morning sun filtering through ancient banyan leaves, casting dappled gold and green shadows on the forest floor.",
+      "scene_visual": "The young boy is practicing with his axe, lifting it high after striking a wooden target. His forehead is furrowed with intense concentration, showing unwavering dedication.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sahyaadri Parvataala Chenta, Prashaantamaina Aashramanlo, Yuva Parashuraamudu Tana Goddalini Pattukuni Saadhana Chestunnaadu. Atani Nuduru Ekaagratato Mudatalu Padindi, Prati Kadalikalonu Akunthita Diksha Kanipinchindi. Chekka Lakshyampai Goddali Layabaddhangaa Padutunnappudu — Oka Gambhiramaina Chappudu Adavantaa Pratidhvaninchindi. Appudu Atanu Aa Goddalini Paiketti, Drridhangaa Ilaa Annaadu: \"Tandri! Naa Astram Eppudu Dharmaanni Rakshistundi.\" Saadhana Purti Chesi, Tallidandrula Gudise Vaipu Gauravangaa Chushaadu.",
+      "text_en": "Near the Sahyadri mountains, in a peaceful ashram, young Parasurama was practicing with his axe. His forehead was furrowed with concentration, and unwavering dedication shone in every movement. As the axe fell rhythmically on the wooden target, a mighty sound echoed through the forest. Then he lifted the axe and said firmly, \"Father! My weapon will always protect Dharma.\" After finishing his practice, he looked respectfully towards his parents' hut."
+    },
+    {
+      "id": 2,
+      "text": "పరశురాముడు తన తల్లిదండ్రుల గుడిసె వైపు నడుస్తుండగా, తండ్రి జమదగ్ని ఆశ్రమం మధ్యలో నిలబడి ఉన్నాడు. జమదగ్ని ముఖంపై మెత్తటి చిరునవ్వు, ఆయన చేతిలో ఒక దివ్యమైన ఆవు ఉంది — అది కామధేనువు. “ఈ కామధేనువు మన ఆశ్రమానికి ఆశీర్వాదం, నా కుమారుడా,” అని జమదగ్ని ప్రేమగా చెప్పాడు. పరశురాముడు ఆవును చూసి, అతని కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, ఆవు నుండి వచ్చిన వెచ్చని శ్వాస అతని చేతిపై పడగానే అద్భుతంగా అనిపించింది. ఇంతలో దూరంగా — గుర్రాల అడుగుల చప్పుడు వినిపించి, ఆశ్రమ ప్రశాంతతను భగ్నం చేసింది.",
+      "image_prompt": "The old man stands in the middle of the hermitage, gently holding a divine cow. A soft smile is on the old man's face, and the boy's eyes widen in wonder as he sees the cow. SUPPORTING CHARACTER also in this scene: jamadagni — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Golden afternoon light bathing the hermitage clearing, making the cow's coat glow, peaceful and serene.",
+      "scene_visual": "The old man stands in the middle of the hermitage, gently holding a divine cow. A soft smile is on the old man's face, and the boy's eyes widen in wonder as he sees the cow.",
+      "supporting_char_keys": [
+        "renuka"
+      ],
+      "text_te_en": "Parashuraamudu Tana Tallidandrula Gudise Vaipu Nadustundagaa, Tandri Jamadagni Aashramam Madhyalo Nilabadi Unnaadu. Jamadagni Mukhampai Mettati Chirunavvu, Aayana Chetilo Oka Divyamaina Aavu Undi — Adi Kaamadhenuvu. “I Kaamadhenuvu Mana Aashramaaniki Aashirvaadan, Naa Kumaarudaa,” Ani Jamadagni Premagaa Cheppaadu. Parashuraamudu Aavunu Chusi, Atani Kallu Aashcharyanto Peddavayyaayi, Aavu Nundi Vachchina Vechchani Shvaasa Atani Chetipai Padagaane Adbhutangaa Anipinchindi. Intalo Durangaa — Gurraala Adugula Chappudu Vinipinchi, Aashrama Prashaantatanu Bhagnam Chesindi.",
+      "text_en": "As Parasurama walked towards his parents' hut, Father Jamadagni stood in the middle of the ashram. A gentle smile was on Jamadagni's face, and in his hand was a divine cow—it was Kamadhenu. \"This Kamadhenu is a blessing to our ashram, my son,\" Jamadagni said lovingly. Parasurama looked at the cow, his eyes widening in wonder. The warm breath from the cow felt wonderful on his hand. Meanwhile, in the distance, the sound of horses' hooves was heard, breaking the peace of the ashram."
+    },
+    {
+      "id": 3,
+      "text": "ఆ గుర్రాల చప్పుడు దగ్గరవ్వగానే, కర్తవీర్యార్జునుడు తన సైన్యంతో ఆశ్రమం ముందు నిలిచాడు. అతని బంగారు కవచం నుండి భారీ చప్పుడు చేస్తూ కిందకు దిగాడు — అతని ముఖంపై ఒక ఎగతాళి నవ్వు. జమదగ్ని స్వరంలో కొద్దిపాటి వణుకు ఉన్నా, స్థిరంగా నిలబడ్డాడు. కర్తవీర్యార్జునుడు చేతులు చాపి, “ఈ ఆవు నాకు కావాలి! ఇది నా రాజ్యంలో ఉండాలి!” అని గద్దించాడు. వెంటనే అతను సైనికులకు సైగ చేశాడు, వాళ్ళు బలవంతంగా కామధేనువు వైపు వెళ్ళడం మొదలుపెట్టారు.",
+      "image_prompt": "The king dismounts from his golden armor, standing before the hermitage with his army. A mocking laugh is on his face as he extends his hands and signals his soldiers towards the divine cow. Also in this scene: A mighty king with a strong, imposing physique and a proud, stern face. He wears rich golden armor and a large crown, often seen with many strong warriors around him. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: jamadagni — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Harsh midday sun beating down on the dusty path, highlighting the king's gleaming armor and the sage's distressed face, tense atmosphere.",
+      "scene_visual": "The king dismounts from his golden armor, standing before the hermitage with his army. A mocking laugh is on his face as he extends his hands and signals his soldiers towards the divine cow.",
+      "supporting_char_keys": [
+        "renuka"
+      ],
+      "text_te_en": "Aa Gurraala Chappudu Daggaravvagaane, Kartaviryaarjunudu Tana Sainyanto Aashramam Mundu Nilichaadu. Atani Bangaaru Kavacham Nundi Bhaari Chappudu Chestu Kindaku Digaadu — Atani Mukhampai Oka Egataali Navvu. Jamadagni Svaranlo Koddipaati Vanuku Unnaa, Sthirangaa Nilabaddaadu. Kartaviryaarjunudu Chetulu Chaapi, “I Aavu Naaku Kaavaali! Idi Naa Raajyanlo Undaali!” Ani Gaddinchaadu. Ventane Atanu Sainikulaku Saiga Cheshaadu, Vaallu Balavantangaa Kaamadhenuvu Vaipu Velladam Modalupettaaru.",
+      "text_en": "As the sound of the horses grew closer, Kartaveeryarjuna stood before the ashram with his army. He dismounted with a heavy clatter from his golden armor, a mocking smile on his face. Though there was a slight tremor in Jamadagni's voice, he stood firm. Kartaveeryarjuna stretched out his hands and roared, \"I want this cow! It must be in my kingdom!\" Immediately, he signaled his soldiers, and they began to move forcefully towards Kamadhenu."
+    },
+    {
+      "id": 4,
+      "text": "కామధేనువును బలవంతంగా తీసుకెళ్ళారని తెలిసి పరశురాముడు ఆశ్రమానికి తిరిగి వచ్చాడు. అక్కడ తండ్రి జమదగ్ని కళ్ళ నుండి కన్నీరు కారుస్తూ, గుడిసె ముందు కూర్చుని ఉన్నాడు — అతని ముఖంలో నిస్సహాయత. దూరంగా, గాలిలో కామధేనువు యొక్క మూలుగు వినిపించింది... పరశురాముడు షాక్‌తో ఆగిపోయాడు. అతని దవడలు బిగుసుకున్నాయి, కోపం అతని కళ్ళలో మంటలు రేపింది. “తండ్రీ! ఎవరు ఈ అన్యాయం చేశారు?” అని గొంతు పెంచి అడిగాడు. తన గొడ్డలిని బిగించి పట్టుకున్నాడు, అతని కళ్ళు దృఢ సంకల్పంతో మండిపోయాయి.",
+      "image_prompt": "The boy stands frozen in shock, gripping his axe tightly, as he sees his father weeping in front of the hut. Tears stream from his father's eyes, showing helplessness, while the boy's own eyes burn with fiery resolve. SUPPORTING CHARACTER also in this scene: jamadagni — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Late afternoon shadows stretching long across the hermitage, a somber, muted light reflecting the mood of distress.",
+      "scene_visual": "The boy stands frozen in shock, gripping his axe tightly, as he sees his father weeping in front of the hut. Tears stream from his father's eyes, showing helplessness, while the boy's own eyes burn with fiery resolve.",
+      "supporting_char_keys": [
+        "renuka"
+      ],
+      "text_te_en": "Kaamadhenuvunu Balavantangaa Tisukellaarani Telisi Parashuraamudu Aashramaaniki Tirigi Vachchaadu. Akkada Tandri Jamadagni Kalla Nundi Kanniru Kaarustu, Gudise Mundu Kurchuni Unnaadu — Atani Mukhanlo Nissahaayata. Durangaa, Gaalilo Kaamadhenuvu Yokka Mulugu Vinipinchindi... Parashuraamudu Shaak‌To Aagipoyaadu. Atani Davadalu Bigusukunnaayi, Kopam Atani Kallalo Mantalu Repindi. “Tandri! Evaru I Anyaayam Cheshaaru?” Ani Gontu Penchi Adigaadu. Tana Goddalini Biginchi Pattukunnaadu, Atani Kallu Drridha Sankalpanto Mandipoyaayi.",
+      "text_en": "Knowing that Kamadhenu had been taken by force, Parasurama returned to the ashram. There, Father Jamadagni was sitting in front of the hut, tears flowing from his eyes, helplessness on his face. In the distance, Kamadhenu's mournful cry was heard in the air... Parasurama stopped in shock. His jaw tightened, and anger blazed in his eyes. \"Father! Who committed this injustice?\" he asked, raising his voice. He gripped his axe tightly, his eyes burning with fierce determination."
+    },
+    {
+      "id": 5,
+      "text": "పరశురాముడు కర్తవీర్యార్జునుడిని అడ్డగించి, అతని ముందు నిలబడ్డాడు — అతని నుండి దివ్యశక్తి వెలువడుతోంది. గొడ్డలి నుండి ఒక్కసారిగా బంగారు కాంతి మెరిసింది — ఆ కాంతిలో కర్తవీర్యార్జునుడు ఒక్క క్షణం కళ్ళు పెద్దవి చేసి, నిర్ఘాంతపోయాడు. “ధర్మాన్ని అపహరించిన వారికి శిక్ష తప్పదు!” అని పరశురాముడు గంభీరంగా హెచ్చరించాడు. అంతలో కామధేనువు మెల్లగా ఆశ్రమం వైపు తిరిగి నడిచింది, కానీ కర్తవీర్యార్జునుడి ముఖంపై ప్రతీకారం అనే చీకటి మేఘం కమ్ముకుంది.",
+      "image_prompt": "The boy stands before the king, blocking his path, with divine power emanating from him. A golden light flashes from his axe, causing the king's eyes to widen in momentary astonishment. Also in this scene: A mighty king with a strong, imposing physique and a proud, stern face. He wears rich golden armor and a large crown, often seen with many strong warriors around him. Always the same character across every scene. A sudden burst of bright, almost blinding golden light from the center of the scene, contrasting with the dark, stormy clouds gathering on the horizon.",
+      "scene_visual": "The boy stands before the king, blocking his path, with divine power emanating from him. A golden light flashes from his axe, causing the king's eyes to widen in momentary astonishment.",
+      "supporting_char_keys": [],
+      "text_te_en": "Parashuraamudu Kartaviryaarjunudini Addaginchi, Atani Mundu Nilabaddaadu — Atani Nundi Divyashakti Veluvadutondi. Goddali Nundi Okkasaarigaa Bangaaru Kaanti Merisindi — Aa Kaantilo Kartaviryaarjunudu Okka Kshanam Kallu Peddavi Chesi, Nirghaantapoyaadu. “Dharmaanni Apaharinchina Vaariki Shiksha Tappadu!” Ani Parashuraamudu Gambhirangaa Hechcharinchaadu. Antalo Kaamadhenuvu Mellagaa Aashramam Vaipu Tirigi Nadichindi, Kaani Kartaviryaarjunudi Mukhampai Pratikaaram Ane Chikati Megham Kammukundi.",
+      "text_en": "Parasurama intercepted Kartaveeryarjuna and stood before him, divine power emanating from him. Suddenly, a golden light flashed from the axe. In that light, Kartaveeryarjuna's eyes widened for a moment, and he was stunned. \"Those who steal Dharma will not escape punishment!\" Parasurama warned gravely. Meanwhile, Kamadhenu slowly walked back towards the ashram, but a dark cloud of revenge settled on Kartaveeryarjuna's face."
+    },
+    {
+      "id": 6,
+      "text": "ఆశ్రమానికి తిరిగి వచ్చిన పరశురాముడికి తన తల్లి రేణుక, తండ్రి జమదగ్ని నిర్జీవంగా పడి ఉన్న చోట ఏడుస్తూ కనిపించింది. ఆమె చేతులు వణికిపోతున్నాయి, ఆశ్రమమంతా ఆమె దుఃఖంతో నిండిన నిశ్శబ్దమైన ఏడుపుతో ప్రతిధ్వనించింది. పరశురాముడి ప్రపంచం ఒక్కసారిగా ఛిద్రమైపోయింది. “నా తండ్రీ! ఇది ఎలా జరిగింది?” అని అతని గొంతు మూగబోయింది. మెల్లగా తండ్రి జపమాల చేతిలోకి తీసుకున్నాడు, అతని ముఖంపై ఒక భయంకరమైన దీక్ష రూపుదిద్దుకుంది.",
+      "image_prompt": "The boy finds his mother weeping over his parents' lifeless bodies and gently takes his father's prayer beads into his hand. Her hands are trembling with grief, and a fierce resolve forms on the boy's face. SUPPORTING CHARACTER also in this scene: renuka — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Dusky, fading light of sunset casting long, mournful shadows, painting the scene in hues of deep orange and purple, heavy with sorrow.",
+      "scene_visual": "The boy finds his mother weeping over his parents' lifeless bodies and gently takes his father's prayer beads into his hand. Her hands are trembling with grief, and a fierce resolve forms on the boy's face.",
+      "supporting_char_keys": [
+        "renuka"
+      ],
+      "text_te_en": "Aashramaaniki Tirigi Vachchina Parashuraamudiki Tana Talli Renuka, Tandri Jamadagni Nirjivangaa Padi Unna Chota Edustu Kanipinchindi. Aame Chetulu Vanikipotunnaayi, Aashramamantaa Aame Duhkhanto Nindina Nishshabdamaina Eduputo Pratidhvaninchindi. Parashuraamudi Prapancham Okkasaarigaa Chidramaipoyindi. “Naa Tandri! Idi Elaa Jarigindi?” Ani Atani Gontu Mugaboyindi. Mellagaa Tandri Japamaala Chetiloki Tisukunnaadu, Atani Mukhampai Oka Bhayankaramaina Diksha Rupudiddukundi.",
+      "text_en": "When Parasurama returned to the ashram, he saw his mother Renuka weeping where Father Jamadagni lay lifeless. Her hands were trembling, and the entire ashram echoed with her silent, sorrowful cries. Parasurama's world shattered in an instant. \"My father! How did this happen?\" his voice choked. He slowly took his father's prayer beads into his hand, and a terrible resolve formed on his face."
+    },
+    {
+      "id": 7,
+      "text": "తల్లి దుఃఖం, తండ్రి మరణం చూసిన పరశురాముడు తీవ్రమైన నిశ్శబ్ద సంకల్పంతో నిలబడ్డాడు. అతని కళ్ళ నుండి ఒక దివ్యమైన తేజస్సు ప్రసరిస్తోంది — అతనిలో అపారమైన శక్తి నిండినట్లు. తన గొడ్డలిని పైకెత్తాడు, అతని నుండి వెలువడిన తీవ్రమైన, నిశ్శబ్ద శక్తి భూమిని తాకింది. \"ఈ భూమిపై అన్యాయం చేసిన రాజులు ఉండరు!\" అని గంభీరంగా శపథం చేశాడు. ఆ క్షణంలో — భూమి కొద్దిగా కంపించింది, పరశురాముడు తన దివ్యమైన ప్రయాణాన్ని ప్రారంభించాడు.",
+      "image_prompt": "The boy stands with intense, silent resolve, raising his axe high. A divine radiance emanates from his eyes, and the ground trembles slightly as he makes his solemn vow. SUPPORTING CHARACTER also in this scene: renuka — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The first light of dawn, a fiery red-orange on the horizon, illuminating Parashurama's determined face, symbolic of a new, fierce resolve.",
+      "scene_visual": "The boy stands with intense, silent resolve, raising his axe high. A divine radiance emanates from his eyes, and the ground trembles slightly as he makes his solemn vow.",
+      "supporting_char_keys": [
+        "renuka"
+      ],
+      "text_te_en": "Talli Duhkhan, Tandri Maranam Chusina Parashuraamudu Tivramaina Nishshabda Sankalpanto Nilabaddaadu. Atani Kalla Nundi Oka Divyamaina Tejassu Prasaristondi — Atanilo Apaaramaina Shakti Nindinatlu. Tana Goddalini Paikettaadu, Atani Nundi Veluvadina Tivramaina, Nishshabda Shakti Bhumini Taakindi. \"I Bhumipai Anyaayam Chesina Raajulu Undaru!\" Ani Gambhirangaa Shapatham Cheshaadu. Aa Kshananlo — Bhumi Koddigaa Kampinchindi, Parashuraamudu Tana Divyamaina Prayaanaanni Praarambhinchaadu.",
+      "text_en": "Parasurama, seeing his mother's sorrow and his father's death, stood with fierce, silent determination. A divine radiance emanated from his eyes, as if immense power filled him. He raised his axe, and a fierce, silent energy emanating from him touched the earth. \"There will be no unjust kings left on this earth!\" he swore gravely. In that moment, the earth trembled slightly, and Parasurama began his divine journey."
+    },
+    {
+      "id": 8,
+      "text": "పరశురాముడు తన దివ్య సంకల్పంతో ముందుకు సాగాడు, అన్యాయం చేసిన రాజులకు న్యాయం చేకూర్చాడు. అతని శక్తితో ధర్మం తిరిగి నిలబడింది, ప్రపంచం మొత్తంలో శాంతి వెల్లివిరిసింది. అప్పుడు ప్రశాంతమైన గాలి వీచింది, చెట్ల ఆకులు మెల్లగా కదిలాయి — అన్నీ సద్దుమణిగినట్లు. పరశురాముడు శాంతంగా, ఒక నిశ్శబ్ద శక్తితో తపస్సు చేసుకోవడానికి అడవిలోకి వెళ్ళాడు. ధర్మం ఎప్పుడూ గెలుస్తుంది.",
+      "image_prompt": "The boy walks calmly into the forest to perform penance. A peaceful breeze gently sways the leaves of the trees around him, signifying tranquility. Gentle dusk light, warm amber and soft blues, bathing the mountains and hermitage in a peaceful glow, signifying tranquility.",
+      "scene_visual": "The boy walks calmly into the forest to perform penance. A peaceful breeze gently sways the leaves of the trees around him, signifying tranquility.",
+      "supporting_char_keys": [],
+      "text_te_en": "Parashuraamudu Tana Divya Sankalpanto Munduku Saagaadu, Anyaayam Chesina Raajulaku Nyaayam Chekurchaadu. Atani Shaktito Dharmam Tirigi Nilabadindi, Prapancham Mottanlo Shaanti Vellivirisindi. Appudu Prashaantamaina Gaali Vichindi, Chetla Aakulu Mellagaa Kadilaayi — Anni Saddumaniginatlu. Parashuraamudu Shaantangaa, Oka Nishshabda Shaktito Tapassu Chesukovadaaniki Adaviloki Vellaadu. Dharmam Eppudu Gelustundi.",
+      "text_en": "Parasurama moved forward with his divine resolve and brought justice to the unjust kings. With his power, Dharma was re-established, and peace flourished throughout the world. Then a peaceful breeze blew, and the leaves of the trees swayed gently, as if everything had settled. Parasurama peacefully went into the forest to meditate with a silent power. Dharma always wins."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "renuka",
+      "description": "A kind and graceful woman with long dark hair, wearing a simple blue saree. Her face shows deep devotion and motherly love. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 6.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 6,
+    "child_engagement": 6,
+    "average": 6.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story is grammatically sound and presents a clear mythological plot. However, it reads more like a formal summary than an engaging children's narrative, lacking the warmth and conversational tone of a grandparent. To reach a higher score, the most crucial fix is to infuse the story with more natural, character-specific dialogue and to 'show' emotions through actions and reactions rather than explicitly stating them. Additionally, the explicit moral at the end should be removed, allowing the message to emerge organically from the story's events."
+  },
+  "quality_warning": true,
+  "title_te_en": "Dharma Rakshanaku Parashuraamudi Prayaanam",
+  "moral_te_en": "Anyaayam Enta Peddadainaa, Dhairyanto Dharmaanni Nilabedite, Shaanti Tappaka Vellivirustundi.",
+  "title_en": "Parasurama's Journey to Protect Dharma",
+  "moral_en": "No matter how great the injustice, if Dharma is upheld with courage, peace will surely flourish.",
+  "id": "20260527_091056",
+  "date": "2026-05-27",
+  "category": "bhagavatam",
+  "subcategory": "avatara_kathas",
+  "topic": "పరశురాముడు అవతారం కథ",
+  "thumbnail": "stories/20260527_091056/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
