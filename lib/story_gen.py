@@ -254,8 +254,20 @@ For each scene provide:
   key_dialogue      : ONE line of direct speech — exactly what the character OR another character says.
                       Write it as actual spoken words, not a description.
                       (e.g. "అమ్మా! ఇది నా వల్ల కాదు!" or "నువ్వు చేయగలవు — ప్రయత్నించు!")
-  scene_hook        : for all scenes EXCEPT the last — one sentence describing the unanswered question
-                      or unresolved moment that makes a child desperately want to hear the next scene.
+  scene_mode        : the narrative mode for this scene — choose exactly one:
+                        "action"    — something happens fast; character moves and acts
+                        "dialogue"  — a conversation is the engine; words carry the scene
+                        "discovery" — character finds or realises something that changes everything
+                        "still"     — a quiet, powerful emotional moment; weight without movement
+                      Ensure NO TWO adjacent scenes share the same mode.
+                      Ensure at least 3 different modes appear across the full story.
+  scene_hook        : for all scenes EXCEPT the last — describe the MOMENT (not a question)
+                      that makes the child want to hear what comes next. This must be a story
+                      event or image, NOT a narrator's question.
+                      BANNED: "Will X happen?", "What will Y do?", "Can Z succeed?"
+                      GOOD: "character takes one step and then stops — something is wrong"
+                             "the object falls — and what falls out is unexpected"
+                             "they both look at each other and neither speaks"
                       For the final scene write "resolution".
   characters_in_scene : array of character keys who PHYSICALLY AND VISUALLY APPEAR in this scene.
                       Allowed values: "main_character", "antagonist", and any key from supporting_characters.
@@ -330,6 +342,7 @@ Return ONLY valid JSON:
       "child_emotion":       "...",
       "sensory_detail":      "...",
       "key_dialogue":        "...",
+      "scene_mode":          "action",
       "scene_hook":          "...",
       "characters_in_scene": ["main_character"],
       "supporting_character": null,
@@ -368,11 +381,11 @@ def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
 
     # Build scene outline including dialogue and hooks
     scenes_outline = "\n".join(
-        f"Scene {s['scene_number']}: {s['story_beat']}\n"
+        f"Scene {s['scene_number']} [{s.get('scene_mode','action').upper()} scene]: {s['story_beat']}\n"
         f"  Character feels : {s['character_emotion']}\n"
         f"  Sensory detail  : {s['sensory_detail']}\n"
         f"  Key dialogue    : {s.get('key_dialogue', '')}\n"
-        f"  Scene hook      : {s.get('scene_hook', '')}"
+        f"  Forward moment  : {s.get('scene_hook', '')}"
         for s in outline["scenes"]
     )
 
@@ -490,7 +503,7 @@ not just reads well on paper. Use these markers to shape the audio:
 
 ====== ప్రతి scene కి rules ======
 
-1. LENGTH: 5-7 sentences. This is not negotiable. Short scenes feel thin and rushed.
+1. LENGTH: 5-7 sentences. This is not negotiable.
 
 2. DIALOGUE (mandatory):
    Every scene MUST contain at least one line of direct speech using the key_dialogue from the outline.
@@ -535,23 +548,51 @@ not just reads well on paper. Use these markers to shape the audio:
    Example: "అతను విన్నాడు: అది అతని అమ్మ గొంతు."
    Example: "ఒక్కసారిగా — అన్నీ అర్థమయ్యాయి."
 
-4. SENSORY ANCHOR:
-   Weave the sensory_detail from the outline naturally into the scene text.
-   Smell, sound, texture, temperature — bring the scene alive.
+4. SENSORY ANCHOR — ONE detail only:
+   Use ONE sensory detail per scene (smell, sound, texture, temperature) woven into action.
+   DO NOT describe the setting — the sensory detail must be part of what the character DOES.
+   BAD: "నది ఒడ్డున చల్లటి గాలి వీచింది, పూల సువాసన వచ్చింది, నీళ్ళ చప్పుడు వినిపించింది."
+   GOOD: "అతను నీళ్ళలో చేయి పెట్టగానే — ఆ చల్లదనం అతన్ని తేరుకోనిచ్చింది."
 
-5. CHILD DIRECT ADDRESS (2-3 scenes only — not every scene):
-   Occasionally address the child listener directly:
-   "పిల్లలూ, ఇప్పుడు ఏం జరిగిందంటే చూడండి..."
-   "మీకు తెలుసా, అప్పుడు అతను ఏం చేశాడో?"
-   Use sparingly — only at moments of high suspense or revelation.
+5. CHILD DIRECT ADDRESS — ONCE per entire story, not per scene:
+   Use direct address at most ONE time across all scenes, only at the single biggest revelation.
+   "మీకు తెలుసా, అప్పుడు ఏం జరిగిందో?" — use this ONCE and never again.
+   DO NOT use it to end scenes with a question.
 
-6. SCENE-END HOOK (all scenes except the last):
-   End every scene (except the final one) with an unanswered question or unresolved moment
-   that makes the child desperately want to hear the next scene.
-   Use the scene_hook from the outline as guidance.
-   Example ending: "కానీ వెళ్ళే ముందు — ఒక్క పని చేయాలి. ఆ పని ఏమిటో మీకు తెలుసా?"
+6. SCENE FORWARD MOMENTUM — NO RHETORICAL QUESTIONS (CRITICAL RULE):
+   BANNED: ending any scene with a narrator's question to the audience.
+   BANNED: "మరి రాజు ఏం చేస్తాడు?", "ఆ కుండ ఏం చెప్తుందో?", "ఇప్పుడు ఏం జరుగుతుందో?"
+   These questions BREAK the story's spell and make children feel disconnected.
 
-7. FLOW: Each scene must feel like it grows out of the previous one.
+   INSTEAD: end each scene mid-action or on a MOMENT — something that just happened
+   that makes the next scene feel inevitable. The child should be pulled forward by
+   curiosity about WHAT HAPPENED, not by a narrator asking them to guess.
+
+   BAD ending:  "రాజు ఆ కుండ వైపు చూశాడు. మరి అతను ఏం నిర్ణయిస్తాడో?"
+   GOOD ending: "రాజు ఆ కుండ వైపు చూశాడు — తన చేతుల్లో ఒక పాత నేస్తాన్ని పట్టుకున్నట్లు."
+
+7. EACH SCENE MUST ADVANCE THE STORY (CRITICAL RULE):
+   Every scene must introduce something NEW — a new event, new character decision,
+   new discovery, or new turn. A scene that re-describes or re-explains what the
+   previous scene already established is FORBIDDEN.
+
+   Test: after writing each scene, ask: "What new thing happened here that wasn't
+   in the previous scene?" If the answer is "nothing — we just described the same
+   situation more," DELETE it and rewrite.
+
+   BAD: Scene 1 shows pot leaking → Scene 2 ALSO shows pot leaking with more description.
+   GOOD: Scene 1 shows pot leaking → Scene 2 character ACTS because of it (tries to fix it,
+         asks someone, makes a decision).
+
+8. VARY NARRATIVE MODE across scenes — no two adjacent scenes should feel the same.
+   Rotate through these modes (use each at least once across 7 scenes):
+   - ACTION scene: something happens fast, character moves and does things
+   - DIALOGUE scene: a conversation is the engine, words carry the scene
+   - DISCOVERY scene: character finds or realizes something that changes everything
+   - STILL/EMOTIONAL scene: a quiet, powerful moment — no action, just weight
+   The story should feel like it shifts GEAR between scenes, not narrate at one flat speed.
+
+9. FLOW: Each scene must feel like it grows out of the previous one.
    Start scenes 2+ with a callback to the last moment of the previous scene.
 
 Return ONLY valid JSON (no markdown fences, no extra text):
