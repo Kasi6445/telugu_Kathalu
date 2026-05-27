@@ -1,0 +1,112 @@
+{
+  "title": "తాతా నమ్మకం, రాజు మనసు",
+  "moral": "పిల్లలూ, మనకు మంచి చేసిన వారిని ఎప్పుడూ మర్చిపోకూడదు, ఆ మంచితనమే మనకు నిజమైన సంతోషాన్నిస్తుంది.",
+  "main_character": "Raju, a nimble 10-year-old boy with bright, curious eyes and often torn clothes. He is quick-witted but sometimes impulsive, always looking for an adventure or a shortcut. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small village near the Godavari river in Andhra Pradesh. The village is surrounded by lush green fields, ancient banyan trees, and Ramaiah's humble hut with a thatched roof. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి ఒడ్డున రాజు పొడుగైన మామిడి చెట్టు కొమ్మల్లోకి దూసుకెళ్లాడు, వాడి చిరిగిన చొక్కా గీసుకుంటూ పోయింది. పదేళ్ళ రాజు చేతులు పదునైన చిరుతలా చెట్టు కొమ్మల్ని పట్టుకున్నాయి, వాడి కళ్ళలో మెరుపు. పండిన మామిడి కాయను తెంపుతుంటే — ఆ తీపి జిగురు వాడి చేతులకు అంటుకుంది. పెద్ద మామిడి పండును పట్టుకుని, రాజు చిరునవ్వుతో కిందకు చూశాడు. “ఈ రోజు పెద్ద మామిడి పండు నాకే, ఎవరికీ తెలియదు!” అని గొణుక్కున్నాడు. సరిగ్గా అప్పుడే ఒక నీడ వాడి మీద పడింది, కింద నుండి ఒక మెల్లని గొంతు వినిపించింది.",
+      "image_prompt": "The boy holds a large ripe mango in his hand, smiling as he looks down from the tree branches. A sudden shadow falls over him, and the sticky sweetness of the mango juice clings to his hands. Bright, dappled sunlight filtering through dense mango leaves, creating dancing patterns on the ground below.",
+      "scene_visual": "The boy holds a large ripe mango in his hand, smiling as he looks down from the tree branches. A sudden shadow falls over him, and the sticky sweetness of the mango juice clings to his hands.",
+      "supporting_char_keys": [],
+      "text_te_en": "Godaavari Odduna Raaju Podugaina Maamidi Chettu Kommalloki Dusukellaadu, Vaadi Chirigina Chokkaa Gisukuntu Poyindi. Padella Raaju Chetulu Padunaina Chirutalaa Chettu Kommalni Pattukunnaayi, Vaadi Kallalo Merupu. Pandina Maamidi Kaayanu Temputunte — Aa Tipi Jiguru Vaadi Chetulaku Antukundi. Pedda Maamidi Pandunu Pattukuni, Raaju Chirunavvuto Kindaku Chushaadu. “I Roju Pedda Maamidi Pandu Naake, Evariki Teliyadu!” Ani Gonukkunnaadu. Sariggaa Appude Oka Nida Vaadi Mida Padindi, Kinda Nundi Oka Mellani Gontu Vinipinchindi.",
+      "text_en": "On the banks of the Godavari river, Raju climbed into the branches of a tall mango tree, his torn shirt snagging as he went. Ten-year-old Raju's hands, sharp like a cheetah's claws, gripped the tree branches, a sparkle in his eyes. As he plucked a ripe mango — its sweet sap stuck to his hands. Holding the big mango, Raju smiled and looked down. \"Today, this big mango is all mine, nobody will know!\" he whispered to himself. Just then, a shadow fell over him, and a gentle voice came from below."
+    },
+    {
+      "id": 2,
+      "text": "కింద నుండి వినిపించిన ఆ గొంతు విని రాజు ఒక్కసారిగా ఉలిక్కిపడ్డాడు, చేతిలోని మామిడి పండు కింద పడబోయింది. రామయ్యా తాత నెమ్మదిగా నవ్వుతూ, వాడిని కిందకు రమ్మని సైగ చేశాడు. రాజు తల దించుకుని నెమ్మదిగా కిందకు దిగాడు, అతని కనుబొమ్మలు ఆశ్చర్యంతో ముడిపడ్డాయి. రామయ్యా తాత కోపంగా చూడలేదు, బదులుగా వాడి చేతిని పట్టుకుని తన గుడిసె వైపు నడిచాడు. లోపల నుండి వేడి అన్నం, పప్పు పులుసు కమ్మటి వాసన గుబాళించింది. “ఆకలి వేస్తే అడగాలి కదా, దొంగతనం ఎందుకు? రా, ముందు తిను,” అని రామయ్యా తాత ప్రేమగా అన్నాడు. రాజు ఆ వేడి అన్నం వైపు, తాత వైపు చూశాడు — ఈ అపురూపమైన దయను నమ్మలేకపోయాడు.",
+      "image_prompt": "Startled by a voice from below, the boy almost drops the mango from his hand as an old man gently signals him to descend. With his head bowed, the boy slowly climbs down, his eyebrows furrowed in surprise. Warm, golden light of late afternoon, casting long shadows from the banyan tree near Ramaiah's hut, evoking a sense of peace.",
+      "scene_visual": "Startled by a voice from below, the boy almost drops the mango from his hand as an old man gently signals him to descend. With his head bowed, the boy slowly climbs down, his eyebrows furrowed in surprise.",
+      "supporting_char_keys": [
+        "ramaiah"
+      ],
+      "text_te_en": "Kinda Nundi Vinipinchina Aa Gontu Vini Raaju Okkasaarigaa Ulikkipaddaadu, Chetiloni Maamidi Pandu Kinda Padaboyindi. Raamayyaa Taata Nemmadigaa Navvutu, Vaadini Kindaku Rammani Saiga Cheshaadu. Raaju Tala Dinchukuni Nemmadigaa Kindaku Digaadu, Atani Kanubommalu Aashcharyanto Mudipaddaayi. Raamayyaa Taata Kopangaa Chudaledu, Badulugaa Vaadi Chetini Pattukuni Tana Gudise Vaipu Nadichaadu. Lopala Nundi Vedi Annan, Pappu Pulusu Kammati Vaasana Gubaalinchindi. “Aakali Veste Adagaali Kadaa, Dongatanam Enduku? Raa, Mundu Tinu,” Ani Raamayyaa Taata Premagaa Annaadu. Raaju Aa Vedi Annam Vaipu, Taata Vaipu Chushaadu — I Apurupamaina Dayanu Nammalekapoyaadu.",
+      "text_en": "Hearing the voice from below, Raju suddenly flinched, and the mango in his hand almost fell. Ramayya Thatha smiled gently and motioned for him to come down. Raju lowered his head and slowly climbed down, his eyebrows furrowed in surprise. Ramayya Thatha didn't look angry; instead, he took Raju's hand and walked towards his hut. From inside, the delicious smell of hot rice and lentil stew wafted out. \"If you're hungry, you should ask, why steal? Come, eat first,\" Ramayya Thatha said kindly. Raju looked at the hot rice, then at Thatha — he couldn't believe this extraordinary kindness."
+    },
+    {
+      "id": 3,
+      "text": "రామయ్యా తాత ఇచ్చిన భోజనం తిని, రాజు మనసు తేలికపడింది, తాత మాటలు వాడి గుండెల్లో నాటుకుపోయాయి. ఆ మరుసటి రోజు నుండి రాజు రామయ్యా తాతతో పాటు పొలం పనులకు వెళ్ళడం మొదలుపెట్టాడు. వాడి చేతులు పని చేస్తూ ఉంటే — ఎండిన మట్టి వాడి వేళ్ళ మధ్య నుండి రాలిపోయింది. కలుపు మొక్కలను పీకేస్తూ, నీరు పారుస్తూ, వాడి ముఖంలో ఒక కొత్త మెరుపు కనిపించింది. “తాతా, ఈ మొక్కలు ఎంత పెద్దగా పెరిగాయో చూడు! నేను నాటాను!” అని రాజు ఆనందంగా అరిచాడు, వాడి గొంతులో కొత్త గర్వం. సాయంత్రం, రామయ్యా తాత తన చిన్న సంపాదనను జాగ్రత్తగా లెక్కించి, ఒక చిన్న చెక్క పెట్టెలో భద్రపరచడం రాజు గమనించాడు.",
+      "image_prompt": "The boy works diligently in the fields, pulling weeds and watering plants alongside the old man. Dry soil sifts through his fingers as he joyfully points at the growing plants, a new sparkle visible in his eyes. Bright, clear morning light, the air feeling fresh and clean, highlighting the vibrant green of the growing crops.",
+      "scene_visual": "The boy works diligently in the fields, pulling weeds and watering plants alongside the old man. Dry soil sifts through his fingers as he joyfully points at the growing plants, a new sparkle visible in his eyes.",
+      "supporting_char_keys": [
+        "ramaiah"
+      ],
+      "text_te_en": "Raamayyaa Taata Ichchina Bhojanam Tini, Raaju Manasu Telikapadindi, Taata Maatalu Vaadi Gundello Naatukupoyaayi. Aa Marusati Roju Nundi Raaju Raamayyaa Taatato Paatu Polam Panulaku Velladam Modalupettaadu. Vaadi Chetulu Pani Chestu Unte — Endina Matti Vaadi Vella Madhya Nundi Raalipoyindi. Kalupu Mokkalanu Pikestu, Niru Paarustu, Vaadi Mukhanlo Oka Kotta Merupu Kanipinchindi. “Taataa, I Mokkalu Enta Peddagaa Perigaayo Chudu! Nenu Naataanu!” Ani Raaju Aanandangaa Arichaadu, Vaadi Gontulo Kotta Garvan. Saayantran, Raamayyaa Taata Tana Chinna Sampaadananu Jaagrattagaa Lekkinchi, Oka Chinna Chekka Pettelo Bhadraparachadam Raaju Gamaninchaadu.",
+      "text_en": "After eating the meal Ramayya Thatha gave him, Raju's heart felt lighter, and Thatha's words settled deep within him. From the very next day, Raju started going to the fields with Ramayya Thatha to work. As his hands worked — dry soil sifted through his fingers. Weeding and watering, a new sparkle appeared on his face. \"Thatha, look how big these plants have grown! I planted them!\" Raju exclaimed happily, a new pride in his voice. In the evening, Raju noticed Ramayya Thatha carefully counting his small earnings and putting them safely into a small wooden box."
+    },
+    {
+      "id": 4,
+      "text": "రాత్రి పూట, రామయ్యా తాత మంచం మీద నిద్రపోతుంటే, రాజు నిశ్శబ్దంగా గుడిసెలో కూర్చున్నాడు. వాడి కళ్ళు చెక్క పెట్టె వైపు వెళ్ళాయి, దాని లోపల ఉన్న నాణేలు మెరుస్తున్నట్లు అనిపించాయి. పాత గోడ గడియారం నిశ్శబ్దంగా టిక్ టిక్ అని కొట్టుకుంటూ, ఆ చీకటిని మరింత లోతు చేసింది. వాడి మనసులో పాత కోరికలు మళ్ళీ బయటపడ్డాయి, కొత్తగా అలవాటైన మంచితనం ఒక యుద్ధం చేశాయి. “కొంచెం తీసుకుంటే ఎవరికీ తెలియదు కదా... కానీ తాతా నన్ను నమ్మడు...” అని వాడి మనసులో గందరగోళం. రాజు చేయి నెమ్మదిగా పెట్టె వైపు కదిలింది — వాడి కళ్ళు అప్రయత్నంగా తెరిచి ఉన్న తలుపు వైపు చూశాయి.",
+      "image_prompt": "The boy sits silently in the dark hut, his eyes fixed on a small wooden box where coins seem to shimmer. His hand slowly moves towards the box, while his gaze involuntarily shifts towards the open door. Dim, quiet interior of the hut, with a single shaft of late afternoon sun cutting through a window, illuminating dust motes and creating a mood of introspection.",
+      "scene_visual": "The boy sits silently in the dark hut, his eyes fixed on a small wooden box where coins seem to shimmer. His hand slowly moves towards the box, while his gaze involuntarily shifts towards the open door.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raatri Puta, Raamayyaa Taata Mancham Mida Nidrapotunte, Raaju Nishshabdangaa Gudiselo Kurchunnaadu. Vaadi Kallu Chekka Pette Vaipu Vellaayi, Daani Lopala Unna Naanelu Merustunnatlu Anipinchaayi. Paata Goda Gadiyaaram Nishshabdangaa Tik Tik Ani Kottukuntu, Aa Chikatini Marinta Lotu Chesindi. Vaadi Manasulo Paata Korikalu Malli Bayatapaddaayi, Kottagaa Alavaataina Manchitanam Oka Yuddham Cheshaayi. “Konchem Tisukunte Evariki Teliyadu Kadaa... Kaani Taataa Nannu Nammadu...” Ani Vaadi Manasulo Gandaragolan. Raaju Cheyi Nemmadigaa Pette Vaipu Kadilindi — Vaadi Kallu Aprayatnangaa Terichi Unna Talupu Vaipu Chushaayi.",
+      "text_en": "At night, while Ramayya Thatha slept on his cot, Raju sat silently in the hut. His eyes went to the wooden box; the coins inside seemed to shimmer. The old wall clock silently ticked, making the darkness feel even deeper. Old desires resurfaced in his mind, battling with the kindness he had recently grown accustomed to. \"If I take a little, nobody will know, right? But Thatha won't trust me...\" his mind was in turmoil. Raju's hand slowly moved towards the box — his eyes involuntarily glanced at the open door."
+    },
+    {
+      "id": 5,
+      "text": "ఆ క్షణంలో, రాజు మనసులో మంచితనం కన్నా ఆ ఆశే గెలిచింది, వాడి చేయి చటుక్కున ముందుకు కదిలింది. గుడిసెలో ఎవరూ చూడడం లేదని అనుకుని, వాడు పెట్టె తెరిచి కొన్ని నాణేలు తీసుకున్నాడు. చల్లటి, నునుపైన నాణేలు వాడి అరచేతిలో మెల్లగా గలగలమన్నాయి. ఆ చప్పుడు — వాడి గుండెల్లో ఒక భయాన్ని నింపింది. “ఇది ఎవరికీ తెలియదు... తెలియకూడదు...” అని వాడి పెదవులు కదిలాయి, వాడి భుజాలు ఒక్కసారిగా కిందకు వాలిపోయాయి. ఆ రాత్రి, రాజు రామయ్యా తాతను చూశాడు, తాత పెట్టె వైపు ఆలోచిస్తూ, పెదవులు బిగించి కూర్చున్నాడు.",
+      "image_prompt": "The boy's hand quickly moves forward, opening the wooden box and taking out several coins. The cold, smooth coins jingle softly in his palm, and his shoulders slump as he whispers to himself. Fading twilight, casting long, indistinct shadows across the hut, making Raju's action feel secretive and heavy.",
+      "scene_visual": "The boy's hand quickly moves forward, opening the wooden box and taking out several coins. The cold, smooth coins jingle softly in his palm, and his shoulders slump as he whispers to himself.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kshananlo, Raaju Manasulo Manchitanam Kannaa Aa Aashe Gelichindi, Vaadi Cheyi Chatukkuna Munduku Kadilindi. Gudiselo Evaru Chudadam Ledani Anukuni, Vaadu Pette Terichi Konni Naanelu Tisukunnaadu. Challati, Nunupaina Naanelu Vaadi Arachetilo Mellagaa Galagalamannaayi. Aa Chappudu — Vaadi Gundello Oka Bhayaanni Nimpindi. “Idi Evariki Teliyadu... Teliyakudadu...” Ani Vaadi Pedavulu Kadilaayi, Vaadi Bhujaalu Okkasaarigaa Kindaku Vaalipoyaayi. Aa Raatri, Raaju Raamayyaa Taatanu Chushaadu, Taata Pette Vaipu Aalochistu, Pedavulu Biginchi Kurchunnaadu.",
+      "text_en": "In that moment, greed won over kindness in Raju's heart, and his hand quickly moved forward. Thinking no one was watching in the hut, he opened the box and took out a few coins. The cool, smooth coins gently jingled in his palm. That sound — filled his heart with fear. \"Nobody will know this... nobody should know...\" his lips moved, and his shoulders slumped all at once. That night, Raju watched Ramayya Thatha, who sat with his lips pressed together, thinking about the box."
+    },
+    {
+      "id": 6,
+      "text": "రామయ్యా తాత ముఖంలో ఆ చిన్న మార్పు రాజును కలవరపెట్టింది, మరుసటి రోజు వాడు గుడిసె వెనుక నుండి వాళ్ళ మాటలు విన్నాడు. రామయ్యా తాత తన పక్కింటి వాళ్ళతో బాధగా మాట్లాడుతున్నాడు, వాడి గొంతులో ఒక నిస్సహాయత. “ఆ మందులకు డబ్బు సరిపోవడం లేదు, ఈసారికి వాయిదా వేయాల్సిందే,” అని తాత నిట్టూర్చాడు. తాత పాత మంచం బాధగా కిర్రుమంది, తాత తల పట్టుకుని కూర్చున్నాడు. రాజు గుండె ఒక్కసారిగా బరువెక్కింది, వాడి కళ్ళ ముందు తాత మంచితనం, వాడి దొంగతనం మెరిశాయి. వాడి కళ్ళు చెమ్మగిల్లాయి — తన ఆకలి తీర్చిన చేతులకు తను చేసిన అన్యాయం వాడిని కలిచివేసింది. ఒక కొత్త ధైర్యంతో, రాజు దొంగిలించిన డబ్బును తిరిగి పెట్టెలో పెట్టాడు, దానితో పాటు తను కష్టపడి సంపాదించిన కొద్ది డబ్బును కూడా కలిపాడు.",
+      "image_prompt": "The old man sits on his creaking bed, holding his head in despair as he sighs about not having enough money. The boy, hidden behind the hut, watches with eyes welling up, his heart heavy with the weight of his actions. The soft, flickering glow of a single oil lamp inside Ramaiah's hut, creating deep shadows that emphasize his distress and Raju's hidden guilt.",
+      "scene_visual": "The old man sits on his creaking bed, holding his head in despair as he sighs about not having enough money. The boy, hidden behind the hut, watches with eyes welling up, his heart heavy with the weight of his actions.",
+      "supporting_char_keys": [
+        "ramaiah"
+      ],
+      "text_te_en": "Raamayyaa Taata Mukhanlo Aa Chinna Maarpu Raajunu Kalavarapettindi, Marusati Roju Vaadu Gudise Venuka Nundi Vaalla Maatalu Vinnaadu. Raamayyaa Taata Tana Pakkinti Vaallato Baadhagaa Maatlaadutunnaadu, Vaadi Gontulo Oka Nissahaayata. “Aa Mandulaku Dabbu Saripovadam Ledu, Isaariki Vaayidaa Veyaalsinde,” Ani Taata Nitturchaadu. Taata Paata Mancham Baadhagaa Kirrumandi, Taata Tala Pattukuni Kurchunnaadu. Raaju Gunde Okkasaarigaa Baruvekkindi, Vaadi Kalla Mundu Taata Manchitanan, Vaadi Dongatanam Merishaayi. Vaadi Kallu Chemmagillaayi — Tana Aakali Tirchina Chetulaku Tanu Chesina Anyaayam Vaadini Kalichivesindi. Oka Kotta Dhairyanto, Raaju Dongilinchina Dabbunu Tirigi Pettelo Pettaadu, Daanito Paatu Tanu Kashtapadi Sampaadinchina Koddi Dabbunu Kudaa Kalipaadu.",
+      "text_en": "The small change in Ramayya Thatha's face troubled Raju, and the next day, he overheard their conversation from behind the hut. Ramayya Thatha was speaking sadly with his neighbors, a helplessness in his voice. \"There isn't enough money for the medicine, we'll have to postpone it this time,\" Thatha sighed. Thatha's old cot creaked sadly, and Thatha sat holding his head. Raju's heart suddenly felt heavy; Thatha's kindness and his own theft flashed before his eyes. His eyes welled up — the injustice he had done to the hands that fed his hunger deeply disturbed him. With new courage, Raju put the stolen money back into the box, along with the little money he had earned through hard work."
+    },
+    {
+      "id": 7,
+      "text": "మరుసటి రోజు ఉదయం, రాజు గుడిసెలోకి అడుగుపెట్టాడు, వాడి గుండె బరువుగా ఉంది కానీ మనసులో ఒక స్థిరత్వం. తల దించుకుని తాత కాళ్ళ దగ్గర కూర్చున్నాడు, వాడి కళ్ళు తాత వైపు చూడలేకపోయాయి. “తాతా, నేను తప్పు చేశాను. నన్ను క్షమించు. ఇకపై నీకు ఎప్పటికీ అన్యాయం చేయను,” అని వాడి గొంతు తడబడింది. రామయ్యా తాత వాడి వైపు చూసి, చిరునవ్వు నవ్వాడు, వాడి భుజం మీద చేయి వేశాడు. ఆ చేతి చల్లదనం — రాజు మనసును ప్రశాంతం చేసింది. రాజు తాత చేతిని గట్టిగా పట్టుకున్నాడు, వాడి కళ్ళలో నిజమైన పశ్చాత్తాపం, కృతజ్ఞత నిండాయి, జీవితంలో మళ్ళీ ఎప్పటికీ అబద్ధం చెప్పకూడదని నిర్ణయించుకున్నాడు.",
+      "image_prompt": "The boy sits at the old man's feet with his head bowed, his voice trembling as he confesses his mistake. The old man smiles gently and places a cool hand on the boy's shoulder, as the boy grips his hand, his eyes filled with genuine regret. Gentle dusk light, warm amber and soft, as the sun sets, casting a peaceful glow over Ramaiah's hut, symbolizing a new, hopeful beginning.",
+      "scene_visual": "The boy sits at the old man's feet with his head bowed, his voice trembling as he confesses his mistake. The old man smiles gently and places a cool hand on the boy's shoulder, as the boy grips his hand, his eyes filled with genuine regret.",
+      "supporting_char_keys": [
+        "ramaiah"
+      ],
+      "text_te_en": "Marusati Roju Udayan, Raaju Gudiseloki Adugupettaadu, Vaadi Gunde Baruvugaa Undi Kaani Manasulo Oka Sthiratvan. Tala Dinchukuni Taata Kaalla Daggara Kurchunnaadu, Vaadi Kallu Taata Vaipu Chudalekapoyaayi. “Taataa, Nenu Tappu Cheshaanu. Nannu Kshaminchu. Ikapai Niku Eppatiki Anyaayam Cheyanu,” Ani Vaadi Gontu Tadabadindi. Raamayyaa Taata Vaadi Vaipu Chusi, Chirunavvu Navvaadu, Vaadi Bhujam Mida Cheyi Veshaadu. Aa Cheti Challadanam — Raaju Manasunu Prashaantam Chesindi. Raaju Taata Chetini Gattigaa Pattukunnaadu, Vaadi Kallalo Nijamaina Pashchaattaapan, Krritajnyata Nindaayi, Jivitanlo Malli Eppatiki Abaddham Cheppakudadani Nirnayinchukunnaadu.",
+      "text_en": "The next morning, Raju stepped into the hut, his heart heavy but with a new resolve in his mind. He sat down at Thatha's feet, his head bowed, unable to look Thatha in the eye. \"Thatha, I made a mistake. Please forgive me. I will never do you wrong again,\" his voice trembled. Ramayya Thatha looked at him, smiled gently, and placed a hand on his shoulder. The coolness of that hand — calmed Raju's mind. Raju held Thatha's hand tightly, his eyes filled with true remorse and gratitude, and he decided never to lie again in his life."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "ramaiah",
+      "description": "Ramaiah, an elderly farmer, with a gentle smile and calloused hands, always wearing a simple white dhoti. He is patient, wise, and his eyes hold a deep understanding of life's simple truths. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 5,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a compelling narrative arc and flawless grammar, making it a solid foundation. However, its emotional depth is frequently undermined by stating feelings directly instead of showing them through character actions and reactions. To reach an award-worthy level, the most critical improvement would be to consistently embody emotions, allowing the young reader to infer and feel the characters' experiences more profoundly."
+  },
+  "quality_warning": true,
+  "title_te_en": "Taataa Nammakan, Raaju Manasu",
+  "moral_te_en": "Pillalu, Manaku Manchi Chesina Vaarini Eppudu Marchipokudadu, Aa Manchitaname Manaku Nijamaina Santoshaannistundi.",
+  "title_en": "Thatha's Trust, Raju's Heart",
+  "moral_en": "Children, we should never forget those who have been kind to us, for that kindness is what truly brings us happiness.",
+  "id": "20260527_201100",
+  "date": "2026-05-27",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "అన్నం పెట్టిన చేయి కొట్టరాదు అనే సామెత కథ",
+  "thumbnail": "stories/20260527_201100/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
