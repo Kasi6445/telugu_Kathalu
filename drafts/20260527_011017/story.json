@@ -1,0 +1,98 @@
+{
+  "title": "కుండ చూపిన అందం",
+  "moral": "పిల్లలూ, లోపాలు ఉన్నాయని బాధపడకూడదు. ఎందుకంటే, ఆ లోపంలోనే ఒక అద్భుతమైన అందం దాగి ఉండొచ్చు, అది ఈ ప్రపంచాన్ని ఇంకా అందంగా మార్చగలదు.",
+  "main_character": "Ramaiah is an elderly, gentle man with a wispy white beard and kind eyes. He wears a simple, clean white dhoti and a faded cotton shirt, known for his quiet diligence and thoughtful nature. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, picturesque village named Anantapur in rural Andhra Pradesh. The path from the village well to the master's garden is dusty but lined with ancient banyan trees, bathed in the soft glow of morning sunlight. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అనంతపురం గ్రామంలోని రామయ్య తాతకు ఉదయాన్నే బావి దగ్గరికి వెళ్ళి నీళ్ళు తేవడం అలవాటు. ఆయన భుజాల మీద రెండు మట్టి కుండలు, అవి నిండుగా జలజలలాడుతూ ఉండేవి. మెల్లగా అడుగులు వేస్తూ, ఆ ధూళితో నిండిన బాటలో నడుస్తుంటే — కుండల్లో నీళ్ళు ఝుమ్మని శబ్దం చేసేవి. ఆయన పెదవుల మీద చిన్న చిరునవ్వు, \"రోజువారీ పని ఎంత ప్రశాంతంగా ఉంటుందో!\" అని మనసులో అనుకునేవాడు. రామయ్య తాతకు ఆ పని అంటే చాలా ఇష్టం, కానీ ఈ ప్రశాంతమైన రోజు ఒక కొత్త మలుపు తీసుకోబోతోందని ఆయనకు అప్పుడు తెలియదు.",
+      "image_prompt": "The old man walks slowly along a dusty path, carrying two full clay pots balanced on his shoulders. A small smile plays on his lips as the water in the pots makes a sloshing sound with each step. soft, warm morning sunlight filtering through the banyan leaves, creating dappled shadows on the dusty path, peaceful and serene",
+      "scene_visual": "The old man walks slowly along a dusty path, carrying two full clay pots balanced on his shoulders. A small smile plays on his lips as the water in the pots makes a sloshing sound with each step.",
+      "supporting_char_keys": [],
+      "text_te_en": "Anantapuram Graamanloni Raamayya Taataku Udayaanne Baavi Daggariki Velli Nillu Tevadam Alavaatu. Aayana Bhujaala Mida Rendu Matti Kundalu, Avi Nindugaa Jalajalalaadutu Undevi. Mellagaa Adugulu Vestu, Aa Dhulito Nindina Baatalo Nadustunte — Kundallo Nillu Jhummani Shabdam Chesevi. Aayana Pedavula Mida Chinna Chirunavvu, \"Rojuvaari Pani Enta Prashaantangaa Untundo!\" Ani Manasulo Anukunevaadu. Raamayya Taataku Aa Pani Ante Chaalaa Ishtan, Kaani I Prashaantamaina Roju Oka Kotta Malupu Tisukobotondani Aayanaku Appudu Teliyadu.",
+      "text_en": "Ramayya Thatha, from Ananthapuram village, had a habit of going to the well every morning to fetch water. He carried two clay pots on his shoulders, full and gurgling with water. As he slowly walked along the dusty path, the water in the pots made a gentle sloshing sound. A small smile played on his lips, and he would think to himself, 'How peaceful this daily work is!' Ramayya Thatha loved this work very much, but he didn't know then that this peaceful day was about to take a new turn."
+    },
+    {
+      "id": 2,
+      "text": "ఆ రెండు కుండల్లో, ఒక కుండ నిండుగా నీటిని పట్టుకుని గర్వంగా ఉండేది. కానీ రెండవది, దాని పక్కన పెద్ద పగులుతో, నీటిని కారిపోనీస్తూ ఉండేది. ప్రతి అడుగుకి, ఆ కుండ నుండి టపటపా నీళ్ళు నేల మీద పడుతుంటే — ఎండిపోయిన భూమి మీద చిన్న చిన్న చుక్కలు ఏర్పడేవి. రామయ్య తాత ఆ కారిపోయే కుండ వైపు చూసి, ఆయన ముఖం మీద చిన్న బాధ కనిపించింది. \"అయ్యో, నీవు ఎందుకు అంత విచారంగా ఉన్నావు?\" అని ఆ కుండతో మెల్లిగా అన్నాడు. ఆ నీరు వృధా అవుతున్నందుకు ఆయన మనసులో ఏదో ఆలోచన మొదలైంది... ఈ సమస్యకు ఆయనకు ఒక పరిష్కారం దొరుకుతుందా?",
+      "image_prompt": "The old man looks down at one of the clay pots, which has a large crack and is steadily dripping water onto the dry ground. A hint of sadness is visible on his face as small drops of water create tiny wet spots on the dusty path. bright, clear midday sun casting sharp shadows, highlighting the difference between the two pots, a hint of concern in the air",
+      "scene_visual": "The old man looks down at one of the clay pots, which has a large crack and is steadily dripping water onto the dry ground. A hint of sadness is visible on his face as small drops of water create tiny wet spots on the dusty path.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Rendu Kundallo, Oka Kunda Nindugaa Nitini Pattukuni Garvangaa Undedi. Kaani Rendavadi, Daani Pakkana Pedda Paguluto, Nitini Kaariponistu Undedi. Prati Aduguki, Aa Kunda Nundi Tapatapaa Nillu Nela Mida Padutunte — Endipoyina Bhumi Mida Chinna Chinna Chukkalu Erpadevi. Raamayya Taata Aa Kaaripoye Kunda Vaipu Chusi, Aayana Mukham Mida Chinna Baadha Kanipinchindi. \"Ayyo, Nivu Enduku Anta Vichaarangaa Unnaavu?\" Ani Aa Kundato Melligaa Annaadu. Aa Niru Vrridhaa Avutunnanduku Aayana Manasulo Edo Aalochana Modalaindi... I Samasyaku Aayanaku Oka Parishkaaram Dorukutundaa?",
+      "text_en": "Of those two pots, one pot held its water full and proud. But the second one, with a big crack on its side, kept leaking water. With every step, water dripped from that pot onto the ground, forming small drops on the dry earth. Ramayya Thatha looked at the leaking pot, and a little sadness appeared on his face. He gently said to the pot, 'Oh dear, why are you so sad?' A thought began to form in his mind about the wasted water... Would he find a solution to this problem?"
+    },
+    {
+      "id": 3,
+      "text": "కారిపోయే కుండ తనను తాను నిందించుకుంటూ, \"నాతో నీ నీటిని వృధా చేస్తున్నందుకు నన్ను క్షమించు,\" అన్నట్లుగా తల వంచుకుంది. రామయ్య తాత ఆ కుండను మెల్లగా తాకాడు. ఆయన వేళ్ళ కింద ఆ పగిలిన మట్టి గరుకుగా తగిలింది — ఆయన నుదురు చిట్లింది, ఏదో ఆలోచిస్తున్నట్లు. \"నువ్వు వృధా చేస్తున్నావా, లేక ఇంకేదైనా చేస్తున్నావా?\" అని తనకు తాను ప్రశ్నించుకున్నాడు. లోపాలు ఉన్నాయని బాధపడే ఆ కుండకు ఆయన ఎలా ధైర్యం చెప్పగలడు?",
+      "image_prompt": "The old man gently touches the cracked clay pot, his brow furrowed in deep thought. The rough texture of the broken clay is felt beneath his fingertips as he ponders. late afternoon light, golden and soft, but with a melancholic undertone, casting long shadows that seem to reflect the pot's sorrow",
+      "scene_visual": "The old man gently touches the cracked clay pot, his brow furrowed in deep thought. The rough texture of the broken clay is felt beneath his fingertips as he ponders.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaripoye Kunda Tananu Taanu Nindinchukuntu, \"Naato Ni Nitini Vrridhaa Chestunnanduku Nannu Kshaminchu,\" Annatlugaa Tala Vanchukundi. Raamayya Taata Aa Kundanu Mellagaa Taakaadu. Aayana Vella Kinda Aa Pagilina Matti Garukugaa Tagilindi — Aayana Nuduru Chitlindi, Edo Aalochistunnatlu. \"Nuvvu Vrridhaa Chestunnaavaa, Leka Inkedainaa Chestunnaavaa?\" Ani Tanaku Taanu Prashninchukunnaadu. Lopaalu Unnaayani Baadhapade Aa Kundaku Aayana Elaa Dhairyam Cheppagaladu?",
+      "text_en": "The leaking pot seemed to blame itself, bowing its head as if to say, 'Forgive me for wasting your water.' Ramayya Thatha gently touched the pot. The rough, cracked clay felt coarse under his fingers – his brow furrowed, as if deep in thought. He questioned himself, 'Are you wasting, or are you doing something else?' How could he comfort this pot that was sad about its flaws?"
+    },
+    {
+      "id": 4,
+      "text": "ప్రతిరోజూ రామయ్య తాత నీళ్ళు తీసుకెళ్తుంటే, ఆ కారిపోయే కుండ వైపు మరింత శ్రద్ధగా చూసేవాడు. కుండ నుంచి నీళ్ళు పడిన చోట — మెల్లగా ఒక ఆకుపచ్చని గీతలా చిన్న మొక్కలు మొలకెత్తడం ఆయన కంటపడింది. ఆ తడి మట్టి నుండి వచ్చే మట్టి వాసన ఆయనకు కొత్త ఆలోచనలు రేకెత్తించింది. ఆయన కళ్ళలో ఏదో మెరుపు... \"ఇది కేవలం లోపమేనా, లేక మరొకటా?\" అని ఆయన మనసులో గట్టిగా అనుకున్నాడు. ఈ చిన్న మొక్కలలో రామయ్య తాతకు ఏం కనిపించిందో మీకు తెలుసా?",
+      "image_prompt": "The old man's gaze falls upon a thin green line of small plants sprouting along the path where the water has been dripping. A spark of realization lights up his eyes as he observes the new growth emerging from the damp soil. early morning light, cool and crisp, with dew still on the ground, a sense of dawning realization and quiet contemplation",
+      "scene_visual": "The old man's gaze falls upon a thin green line of small plants sprouting along the path where the water has been dripping. A spark of realization lights up his eyes as he observes the new growth emerging from the damp soil.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pratiroju Raamayya Taata Nillu Tisukeltunte, Aa Kaaripoye Kunda Vaipu Marinta Shraddhagaa Chusevaadu. Kunda Nunchi Nillu Padina Chota — Mellagaa Oka Aakupachchani Gitalaa Chinna Mokkalu Molakettadam Aayana Kantapadindi. Aa Tadi Matti Nundi Vachche Matti Vaasana Aayanaku Kotta Aalochanalu Rekettinchindi. Aayana Kallalo Edo Merupu... \"Idi Kevalam Lopamenaa, Leka Marokataa?\" Ani Aayana Manasulo Gattigaa Anukunnaadu. I Chinna Mokkalalo Raamayya Taataku Em Kanipinchindo Miku Telusaa?",
+      "text_en": "Every day, as Ramayya Thatha carried water, he paid more attention to the leaking pot. He noticed that where the water dripped from the pot, small plants were slowly sprouting, forming a green line. The earthy smell from the wet soil sparked new thoughts in him. A sparkle appeared in his eyes... He thought to himself, 'Is this just a flaw, or something more?' Do you know what Ramayya Thatha saw in these small plants?"
+    },
+    {
+      "id": 5,
+      "text": "ఆ చిన్న మొక్కల నుండి స్ఫూర్తి పొందిన రామయ్య తాత, మరుసటి రోజు నుంచే ఆ బాట పొడవునా పూల విత్తనాలను చల్లడం మొదలుపెట్టాడు. ఆయన దవడలు బిగుసుకున్నాయి — ఒక నిశ్శబ్ద సంకల్పం ఆయన కళ్ళలో కనిపించింది. మెత్తని మట్టి ఆయన వేళ్ళ మధ్య నుంచి జారిపోతుంటే, విత్తనాలను జాగ్రత్తగా నాటాడు. \"నువ్వు ఎంత ప్రత్యేకమైనదో త్వరలోనే చూస్తావు,\" అని ఆ కారిపోయే కుండతో అన్నాడు. రామయ్య తాత తెలివైన ప్రణాళిక పని చేస్తుందా... ఆ దారి భవిష్యత్తులో ఎలా మారబోతోంది?",
+      "image_prompt": "The old man carefully scatters flower seeds along the path, his jaw set with quiet determination. Soft soil sifts through his fingers as he plants the tiny seeds, a resolute glint in his eyes. bright, hopeful daylight, showing Ramaiah kneeling on the path, the ground freshly tilled, an atmosphere of new beginnings",
+      "scene_visual": "The old man carefully scatters flower seeds along the path, his jaw set with quiet determination. Soft soil sifts through his fingers as he plants the tiny seeds, a resolute glint in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chinna Mokkala Nundi Sphurti Pondina Raamayya Taata, Marusati Roju Nunche Aa Baata Podavunaa Pula Vittanaalanu Challadam Modalupettaadu. Aayana Davadalu Bigusukunnaayi — Oka Nishshabda Sankalpam Aayana Kallalo Kanipinchindi. Mettani Matti Aayana Vella Madhya Nunchi Jaaripotunte, Vittanaalanu Jaagrattagaa Naataadu. \"Nuvvu Enta Pratyekamainado Tvaralone Chustaavu,\" Ani Aa Kaaripoye Kundato Annaadu. Raamayya Taata Telivaina Pranaalika Pani Chestundaa... Aa Daari Bhavishyattulo Elaa Maarabotondi?",
+      "text_en": "Inspired by those small plants, Ramayya Thatha started scattering flower seeds along the path from the very next day. His jaw tightened – a silent determination was visible in his eyes. As the soft soil slipped through his fingers, he carefully planted the seeds. He said to the leaking pot, 'You will soon see how special you are.' Will Ramayya Thatha's clever plan work... How will that path change in the future?"
+    },
+    {
+      "id": 6,
+      "text": "కొన్ని నెలలు గడిచాయి. ఇప్పుడు ఆ బాటలో — కారిపోయే కుండ వైపు రంగురంగుల పువ్వులు విరబూసి ఉన్నాయి. ఒకవైపు అందమైన పూల తోట, మరోవైపు మామూలు ధూళి బాట, రెండూ పక్కపక్కనే ఎంత తేడాగా ఉన్నాయో చూశావా పిల్లలూ? మల్లెపూలు, బంతిపూల తియ్యటి సువాసన గాలిలో నిండిపోయింది. రామయ్య తాత ఆ పూలను చూసి మురిసిపోయాడు — ఆయన కళ్ళు ఆనందంతో మెరిశాయి. \"చూడు, నీ లోపం ఒక అందమైన తోటను సృష్టించింది!\" అని ఆ కుండతో ప్రేమగా అన్నాడు. ఇప్పుడు ఆ కుండ తనను తాను ఎలా చూసుకుంటుందో ఊహించుకోండి?",
+      "image_prompt": "The old man gazes with delight at the vibrant, colorful flowers that now bloom along the path where the leaking pot passes. His eyes sparkle with joy as the sweet fragrance of jasmine and marigolds fills the air. glorious, warm midday sun illuminating the colorful flowers, vibrant and full of life, a feeling of triumph and beauty",
+      "scene_visual": "The old man gazes with delight at the vibrant, colorful flowers that now bloom along the path where the leaking pot passes. His eyes sparkle with joy as the sweet fragrance of jasmine and marigolds fills the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Nelalu Gadichaayi. Ippudu Aa Baatalo — Kaaripoye Kunda Vaipu Rangurangula Puvvulu Virabusi Unnaayi. Okavaipu Andamaina Pula Tota, Marovaipu Maamulu Dhuli Baata, Rendu Pakkapakkane Enta Tedaagaa Unnaayo Chushaavaa Pillalu? Mallepulu, Bantipula Tiyyati Suvaasana Gaalilo Nindipoyindi. Raamayya Taata Aa Pulanu Chusi Murisipoyaadu — Aayana Kallu Aanandanto Merishaayi. \"Chudu, Ni Lopam Oka Andamaina Totanu Srrishtinchindi!\" Ani Aa Kundato Premagaa Annaadu. Ippudu Aa Kunda Tananu Taanu Elaa Chusukuntundo Uhinchukondi?",
+      "text_en": "Several months passed. Now, along that path – colorful flowers bloomed on the side where the pot leaked. Children, did you see how different they were, a beautiful flower garden on one side, and a normal dusty path on the other, both side by side? The sweet fragrance of jasmine and marigolds filled the air. Ramayya Thatha gazed at the flowers with delight – his eyes sparkled with joy. He lovingly said to the pot, 'Look, your flaw created a beautiful garden!' Now, imagine how that pot must have felt about itself?"
+    },
+    {
+      "id": 7,
+      "text": "అప్పటి నుండి, రామయ్య తాత, ఆ ప్రత్యేకమైన కుండ కలిసి తమ రోజువారీ ప్రయాణం కొనసాగించారు. తోటలోని మొక్కలకు నీళ్ళు అందిస్తూ, దారి పొడవునా అందమైన పూలకు ప్రాణం పోస్తూ సాగిపోయారు. గాలి వీచినప్పుడు ఆకుల సన్నని గలగల శబ్దం వాళ్ళ ప్రయాణానికి తోడుగా ఉండేది. రామయ్య తాత ముఖం మీద ప్రశాంతమైన నవ్వు — ఆ కుండ కూడా తన ప్రత్యేకతను గుర్తించి, నిశ్శబ్దంగా గర్వపడింది. \"ఈ దారి ఎంత అందంగా ఉందో!\" అని రామయ్య తాత గొణుగుతూ, ప్రతి అడుగులోనూ ఆ అందాన్ని ఆస్వాదించాడు. అలా, లోపాలతో ఉన్నప్పటికీ, ఆ కుండ ప్రపంచానికి ఆనందాన్ని, అందాన్ని పంచిపెట్టింది.",
+      "image_prompt": "The old man walks along the now flower-lined path, carrying the special pot, a peaceful smile gracing his face. He murmurs softly, appreciating the beauty of the path as the gentle rustle of leaves accompanies his steps. gentle dusk light, warm amber and soft, casting long, peaceful shadows as the day ends, a feeling of harmony and lasting contentment",
+      "scene_visual": "The old man walks along the now flower-lined path, carrying the special pot, a peaceful smile gracing his face. He murmurs softly, appreciating the beauty of the path as the gentle rustle of leaves accompanies his steps.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appati Nundi, Raamayya Taata, Aa Pratyekamaina Kunda Kalisi Tama Rojuvaari Prayaanam Konasaaginchaaru. Totaloni Mokkalaku Nillu Andistu, Daari Podavunaa Andamaina Pulaku Praanam Postu Saagipoyaaru. Gaali Vichinappudu Aakula Sannani Galagala Shabdam Vaalla Prayaanaaniki Todugaa Undedi. Raamayya Taata Mukham Mida Prashaantamaina Navvu — Aa Kunda Kudaa Tana Pratyekatanu Gurtinchi, Nishshabdangaa Garvapadindi. \"I Daari Enta Andangaa Undo!\" Ani Raamayya Taata Gonugutu, Prati Adugulonu Aa Andaanni Aasvaadinchaadu. Alaa, Lopaalato Unnappatiki, Aa Kunda Prapanchaaniki Aanandaanni, Andaanni Panchipettindi.",
+      "text_en": "From then on, Ramayya Thatha and that special pot continued their daily journey together. They watered the plants in the garden, bringing life to the beautiful flowers along the path. The gentle rustling of leaves when the wind blew accompanied their journey. A peaceful smile was on Ramayya Thatha's face – and the pot, recognizing its own specialness, was silently proud. Ramayya Thatha murmured, 'How beautiful this path is!' and enjoyed that beauty with every step. Thus, even with its flaws, the pot brought joy and beauty to the world."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 7,
+    "child_engagement": 9,
+    "average": 7.17,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story has a charming premise, excellent grammar, and strong child engagement through direct address and suspense hooks. However, its emotional depth is often stated rather than shown, and the dialogue is sparse and lacks distinct character voices, making it feel more like a report. To elevate this to an award-worthy piece, the most crucial fix would be to infuse more natural, character-specific dialogue and to portray emotions through actions and subtle cues, allowing the reader to feel rather than be told."
+  },
+  "quality_warning": true,
+  "title_te_en": "Kunda Chupina Andam",
+  "moral_te_en": "Pillalu, Lopaalu Unnaayani Baadhapadakudadu. Endukante, Aa Lopanlone Oka Adbhutamaina Andam Daagi Undochchu, Adi I Prapanchaanni Inkaa Andangaa Maarchagaladu.",
+  "title_en": "The Beauty Revealed by the Pot",
+  "moral_en": "Children, you shouldn't be sad if you have flaws. Because sometimes, a wonderful beauty might be hidden within those flaws, and it can make this world even more beautiful.",
+  "id": "20260527_011017",
+  "date": "2026-05-27",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "రెండు కుండలు మరియు జ్ఞానం",
+  "thumbnail": "stories/20260527_011017/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
