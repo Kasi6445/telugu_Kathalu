@@ -1,0 +1,136 @@
+{
+  "title": "చంటి తెలివి, నిజం చెప్పే కుండ",
+  "moral": "పిల్లలూ, శ్రద్ధగా వినడం, కొత్తగా ఆలోచించడం నేర్చుకుంటే — ఎలాంటి సాక్ష్యం లేకపోయినా, ఎంత కష్టమైన సమస్యకైనా సరైన పరిష్కారం దొరుకుతుంది.",
+  "main_character": "Chanti is a curious and observant young boy, small for his age but with bright, keen eyes and a thoughtful demeanor. He loves listening to the elders' stories and often learns from their wisdom. Always the same character across every scene.",
+  "antagonist": "Ramayya is a stubborn, slightly gruff farmer with a bushy mustache, always wearing a worn dhoti and carrying a bamboo stick. He is quick to accuse but not inherently malicious, just sometimes misguided. Always the same character across every scene.",
+  "setting": "The story unfolds in 'అనంతపురం' (Ananthapuram), a small, vibrant village in rural Andhra Pradesh, characterized by its mud houses, a bustling market square, and a majestic central banyan tree where the panchayat meets. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అనంతపురం పల్లెలో రోజూలాగే సందడి మొదలయ్యింది, కానీ ఈరోజు బ్రహ్మాండమైన మర్రిచెట్టు కింద అందరూ గుమిగూడారు. చిన్నారి చంటి, తన చిన్ని చేతులతో చెట్టు వెనక నక్కి, పెద్దల మాటలు వింటూ కళ్ళు పెద్దవి చేసుకున్నాడు. దూరం నుండి బావి దగ్గర నీళ్ళు తోడుకుంటున్న ఆడవాళ్ళ గుసగుసలు, గలగల శబ్దాలు వినిపిస్తున్నాయి. అతని చిన్న గుండె ఉత్సాహంతో కొట్టుకుంది — ఈరోజు మళ్ళీ ఏం పంచాయతీ? అని తనలో తనే అనుకున్నాడు. పిల్లలూ, ఈరోజు పెద్దలు ఏ ముఖ్యమైన విషయం గురించి మాట్లాడుకోబోతున్నారో తెలుసా?",
+      "image_prompt": "The small boy peeks from behind a huge banyan tree, listening intently to the adults. His eyes are wide with curiosity as he tries to understand the murmurs. Bright morning sun filtering through the dense banyan leaves, casting dappled light and shadow on the dusty ground, peaceful and warm.",
+      "scene_visual": "The small boy peeks from behind a huge banyan tree, listening intently to the adults. His eyes are wide with curiosity as he tries to understand the murmurs.",
+      "supporting_char_keys": [
+        "peddamaniṣi",
+        "avva"
+      ],
+      "text_te_en": "Anantapuram Pallelo Rojulaage Sandadi Modalayyindi, Kaani Iroju Brahmaandamaina Marrichettu Kinda Andaru Gumigudaaru. Chinnaari Chanti, Tana Chinni Chetulato Chettu Venaka Nakki, Peddala Maatalu Vintu Kallu Peddavi Chesukunnaadu. Duram Nundi Baavi Daggara Nillu Todukuntunna Aadavaalla Gusagusalu, Galagala Shabdaalu Vinipistunnaayi. Atani Chinna Gunde Utsaahanto Kottukundi — Iroju Malli Em Panchaayati? Ani Tanalo Tane Anukunnaadu. Pillalu, Iroju Peddalu E Mukhyamaina Vishayam Gurinchi Maatlaadukobotunnaaro Telusaa?",
+      "text_en": "In Anantapuram village, the usual hustle and bustle had begun, but today everyone was gathered under a magnificent banyan tree. Little Chanti, with his tiny hands, hid behind the tree, listening to the elders' words with wide eyes. From a distance, he could hear the whispers and gurgling sounds of women drawing water near the well. His little heart beat with excitement – 'What kind of village meeting is it today?' he wondered to himself. Children, do you know what important matter the elders are going to discuss today?"
+    },
+    {
+      "id": 2,
+      "text": "పెద్దలు కూర్చున్న కొద్దిసేపటికే, కోపంతో ఊగిపోతున్న రామయ్య, తన పొరుగున ఉన్న గోపాల్ వైపు వేలు చూపాడు. అతని కళ్ళు నిప్పులు చెరుగుతున్నట్లు ఎర్రబడ్డాయి. ఇంతలో, పక్కనుండి వెళ్తున్న గేదె మెడలో ఉన్న గంట — ఠంగున మోగి, ఆ ఉద్రిక్త వాతావరణాన్ని ఒక్క క్షణం చీల్చింది. చంటి ముఖం చిట్లించుకుని, ఆ వాదనేంటో అర్థం కాక అయోమయంగా చూశాడు. “నా భార్య బంగారం నువ్వే దొంగిలించావు, గోపాల్!” అని రామయ్య బిగ్గరగా అరిచాడు. మరి గోపాల్ దొంగ అని నిరూపితమవుతుందా, లేక ఈ కథ వెనక ఇంకేమైనా ఉందా?",
+      "image_prompt": "An angry man points an accusing finger at his neighbor, shouting loudly. His eyes are red, burning as if spitting fire, reflecting his intense rage. Also in this scene: Ramayya is a stubborn, slightly gruff farmer with a bushy mustache, always wearing a worn dhoti and carrying a bamboo stick. He is quick to accuse but not inherently malicious, just sometimes misguided. Always the same character across every scene. Harsh midday sun beating down on the open ground, creating sharp, dramatic shadows, reflecting the tense and confrontational atmosphere.",
+      "scene_visual": "An angry man points an accusing finger at his neighbor, shouting loudly. His eyes are red, burning as if spitting fire, reflecting his intense rage.",
+      "supporting_char_keys": [
+        "peddamaniṣi",
+        "avva",
+        "gopal"
+      ],
+      "text_te_en": "Peddalu Kurchunna Koddisepatike, Kopanto Ugipotunna Raamayya, Tana Poruguna Unna Gopaal Vaipu Velu Chupaadu. Atani Kallu Nippulu Cherugutunnatlu Errabaddaayi. Intalo, Pakkanundi Veltunna Gede Medalo Unna Ganta — Thanguna Mogi, Aa Udrikta Vaataavaranaanni Okka Kshanam Chilchindi. Chanti Mukham Chitlinchukuni, Aa Vaadanento Artham Kaaka Ayomayangaa Chushaadu. “Naa Bhaarya Bangaaram Nuvve Dongilinchaavu, Gopaal!” Ani Raamayya Biggaragaa Arichaadu. Mari Gopaal Donga Ani Nirupitamavutundaa, Leka I Katha Venaka Inkemainaa Undaa?",
+      "text_en": "Soon after the elders sat down, Ramayya, shaking with anger, pointed his finger at his neighbor Gopal. His eyes turned red as if spitting fire. Just then, the bell around the neck of a buffalo passing by rang with a 'thang,' piercing the tense atmosphere for a moment. Chanti frowned, looking confused, not understanding what the argument was about. 'You stole my wife's gold, Gopal!' Ramayya shouted loudly. Will Gopal be proven a thief, or is there something else behind this story?"
+    },
+    {
+      "id": 3,
+      "text": "పెద్దమనుషులు, పెద్దమనిషి సహా, ఇద్దరి మాటలూ శ్రద్ధగా విన్నారు, కానీ ఎక్కడా సరైన సాక్ష్యం కనిపించలేదు. పాత చెక్క పంచాయతీ బెంచి 'కీచ్... కీచ్...' మని చప్పుడు చేస్తూ, ఒక పెద్దాయన అశాంతితో కదిలాడు. చంటి తల పక్కకు వంచి, తికమక పెట్టే ఆ మాటల అర్థాన్ని తెలుసుకోవడానికి ప్రయత్నిస్తున్నాడు. “సాక్ష్యం లేకుండా ఎలా తీర్పు చెప్పగలం?” అని పెద్దమనిషి విసుగ్గా అన్నాడు. మరి పెద్దలు సాక్ష్యం లేకుండా అసలు నిజం ఎలా కనుగొంటారు?",
+      "image_prompt": "The boy tilts his head, trying to make sense of the confusing words spoken by the elders. An old man shifts restlessly on the creaking wooden panchayat bench, showing impatience. Also in this scene: Ramayya is a stubborn, slightly gruff farmer with a bushy mustache, always wearing a worn dhoti and carrying a bamboo stick. He is quick to accuse but not inherently malicious, just sometimes misguided. Always the same character across every scene. Overcast sky, casting a soft, diffused light over the scene, making faces appear weary and thoughtful, creating an atmosphere of uncertainty.",
+      "scene_visual": "The boy tilts his head, trying to make sense of the confusing words spoken by the elders. An old man shifts restlessly on the creaking wooden panchayat bench, showing impatience.",
+      "supporting_char_keys": [
+        "peddamaniṣi",
+        "avva",
+        "gopal"
+      ],
+      "text_te_en": "Peddamanushulu, Peddamanishi Sahaa, Iddari Maatalu Shraddhagaa Vinnaaru, Kaani Ekkadaa Saraina Saakshyam Kanipinchaledu. Paata Chekka Panchaayati Benchi 'Kich... Kich...' Mani Chappudu Chestu, Oka Peddaayana Ashaantito Kadilaadu. Chanti Tala Pakkaku Vanchi, Tikamaka Pette Aa Maatala Arthaanni Telusukovadaaniki Prayatnistunnaadu. “Saakshyam Lekundaa Elaa Tirpu Cheppagalan?” Ani Peddamanishi Visuggaa Annaadu. Mari Peddalu Saakshyam Lekundaa Asalu Nijam Elaa Kanugontaaru?",
+      "text_en": "The elders, including the head elder, listened carefully to both their words, but no proper evidence was found anywhere. The old wooden village council bench creaked as an old man shifted restlessly. Chanti tilted his head, trying to understand the meaning of those confusing words. 'How can we give a verdict without evidence?' the head elder said with annoyance. So how will the elders find the real truth without any proof?"
+    },
+    {
+      "id": 4,
+      "text": "అందరూ పరిష్కారం దొరకక సతమతమవుతుంటే, చంటికి అవ్వ చెప్పిన ఒక పాత కథ గుర్తుకొచ్చింది. అతను మెల్లగా అడుగులు వేసుకుంటూ, అవ్వ దగ్గరికి వెళ్లి ఆమె చీర కొంగును సున్నితంగా లాగాడు. “అవ్వా, నాకు ఒక ఆలోచన ఉంది...” అని చంటి మెల్లగా గుసగుసలాడాడు, తన ఆలోచనను పెద్దలు స్వీకరిస్తారో లేదో అని సందేహంగా చూశాడు. అవ్వ తన స్ట్రెచ్ చేసిన పత్తి చీర 'సలసల' శబ్దంతో వంగి, చంటి మాటలను శ్రద్ధగా వింది. మరి చంటికి ఎలాంటి తెలివైన ఆలోచన వచ్చింది?",
+      "image_prompt": "The boy gently tugs at the corner of the old woman's sari, whispering his idea to her. He looks up at her with a hesitant expression, unsure if his suggestion will be accepted. Late afternoon sun, golden and warm, casting long shadows, creating a sense of quiet conspiracy and budding hope.",
+      "scene_visual": "The boy gently tugs at the corner of the old woman's sari, whispering his idea to her. He looks up at her with a hesitant expression, unsure if his suggestion will be accepted.",
+      "supporting_char_keys": [
+        "avva"
+      ],
+      "text_te_en": "Andaru Parishkaaram Dorakaka Satamatamavutunte, Chantiki Avva Cheppina Oka Paata Katha Gurtukochchindi. Atanu Mellagaa Adugulu Vesukuntu, Avva Daggariki Velli Aame Chira Kongunu Sunnitangaa Laagaadu. “Avvaa, Naaku Oka Aalochana Undi...” Ani Chanti Mellagaa Gusagusalaadaadu, Tana Aalochananu Peddalu Svikaristaaro Ledo Ani Sandehangaa Chushaadu. Avva Tana Strech Chesina Patti Chira 'Salasala' Shabdanto Vangi, Chanti Maatalanu Shraddhagaa Vindi. Mari Chantiki Elaanti Telivaina Aalochana Vachchindi?",
+      "text_en": "While everyone was struggling to find a solution, Chanti remembered an old story his grandmother had told him. He slowly walked over to his grandmother and gently tugged at the corner of her saree. 'Grandma, I have an idea...' Chanti whispered softly, looking doubtful if the elders would accept his idea. Grandma, bending down with the rustle of her stretched cotton saree, listened carefully to Chanti's words. So, what clever idea did Chanti come up with?"
+    },
+    {
+      "id": 5,
+      "text": "అవ్వ ముఖంలో ఒక వింత మెరుపు, కళ్ళలో ఒక చిలిపి మెరుపు మెరిసింది. ఆమె పెద్దమనిషి వైపు తిరిగి, చంటి చెప్పిన ఆలోచనను వివరించింది. వెంటనే, ఒక మట్టి కుండను పంచాయతీ మధ్యలో పెట్టారు — దాని నుండి మట్టి వాసన ఘాటుగా వస్తోంది. “ఈ కుండలో చెయ్యి పెడితే, నిజం దానంతట అదే బయటపడుతుంది,” అని అవ్వ గంభీరంగా చెప్పింది. చంటి దూరంగా నిలబడి, తన చిన్ని పిడికిళ్ళు బిగించి, తన వింత ప్రణాళికను చూస్తూ ఆందోళనగా ఎదురుచూశాడు. మరి ఆ 'నిజం చెప్పే' కుండ నిజంగా పనిచేస్తుందా, లేక అది కేవలం ఒక తెలివైన ఉపాయమా?",
+      "image_prompt": "An old woman stands gravely as a clay pot, emitting a strong earthy smell, is placed in the center of the gathering. The boy stands at a distance, clenching his small fists, anxiously watching his peculiar plan unfold. Also in this scene: Ramayya is a stubborn, slightly gruff farmer with a bushy mustache, always wearing a worn dhoti and carrying a bamboo stick. He is quick to accuse but not inherently malicious, just sometimes misguided. Always the same character across every scene. Soft, fading light of dusk, creating an ethereal glow around the pot, making the scene feel mysterious and suspenseful.",
+      "scene_visual": "An old woman stands gravely as a clay pot, emitting a strong earthy smell, is placed in the center of the gathering. The boy stands at a distance, clenching his small fists, anxiously watching his peculiar plan unfold.",
+      "supporting_char_keys": [
+        "peddamaniṣi",
+        "avva",
+        "gopal"
+      ],
+      "text_te_en": "Avva Mukhanlo Oka Vinta Merupu, Kallalo Oka Chilipi Merupu Merisindi. Aame Peddamanishi Vaipu Tirigi, Chanti Cheppina Aalochananu Vivarinchindi. Ventane, Oka Matti Kundanu Panchaayati Madhyalo Pettaaru — Daani Nundi Matti Vaasana Ghaatugaa Vastondi. “I Kundalo Cheyyi Pedite, Nijam Daanantata Ade Bayatapadutundi,” Ani Avva Gambhirangaa Cheppindi. Chanti Durangaa Nilabadi, Tana Chinni Pidikillu Biginchi, Tana Vinta Pranaalikanu Chustu Aandolanagaa Eduruchushaadu. Mari Aa 'Nijam Cheppe' Kunda Nijangaa Panichestundaa, Leka Adi Kevalam Oka Telivaina Upaayamaa?",
+      "text_en": "A strange sparkle appeared on Grandma's face, and a mischievous twinkle in her eyes. She turned to the head elder and explained Chanti's idea. Immediately, a clay pot was placed in the middle of the village council – a strong earthy smell wafted from it. 'If you put your hand in this pot, the truth will reveal itself,' Grandma said gravely. Chanti stood at a distance, clenching his tiny fists, watching his strange plan and waiting anxiously. So, will that 'truth-telling' pot really work, or is it just a clever trick?"
+    },
+    {
+      "id": 6,
+      "text": "మొదట గోపాల్, ధైర్యంగా ముందుకు వచ్చి, తన చేతిని ఆ కుండలోకి దూర్చాడు. అతను తన చేతిని బయటకు తీయగానే — అది నల్లటి మసి పూసుకుని ఉంది. “నాకు భయం లేదు, నేను నిజమే చెబుతున్నాను!” అని గోపాల్ దృఢంగా అన్నాడు. తర్వాత రామయ్య వంతు వచ్చింది; అతని చేతులు వణికాయి, గుండె వేగంగా కొట్టుకుంది. అతను కేవలం వేళ్ళను మాత్రమే కుండలోకి ముంచి, బయటకు తీశాడు — అతని చెయ్యి తెల్లగా, శుభ్రంగా ఉంది. చంటి కళ్ళు తెలివైన సంతృప్తితో మెరిశాయి. ఒకరి చెయ్యి నల్లగా, మరొకరిది శుభ్రంగా ఉండటానికి అర్థం ఏమిటి?",
+      "image_prompt": "The first man bravely plunges his hand into the pot and pulls it out, revealing it covered in black soot. The second man, with trembling hands, dips only his fingertips into the pot, pulling out a clean, white hand. Also in this scene: Ramayya is a stubborn, slightly gruff farmer with a bushy mustache, always wearing a worn dhoti and carrying a bamboo stick. He is quick to accuse but not inherently malicious, just sometimes misguided. Always the same character across every scene. Deep twilight, shadows lengthening dramatically, only the faint glow of a nearby lantern illuminating the pot and the men's faces, highlighting the contrasting hands in a dramatic and tense moment.",
+      "scene_visual": "The first man bravely plunges his hand into the pot and pulls it out, revealing it covered in black soot. The second man, with trembling hands, dips only his fingertips into the pot, pulling out a clean, white hand.",
+      "supporting_char_keys": [
+        "peddamaniṣi",
+        "avva",
+        "gopal"
+      ],
+      "text_te_en": "Modata Gopaal, Dhairyangaa Munduku Vachchi, Tana Chetini Aa Kundaloki Durchaadu. Atanu Tana Chetini Bayataku Tiyagaane — Adi Nallati Masi Pusukuni Undi. “Naaku Bhayam Ledu, Nenu Nijame Chebutunnaanu!” Ani Gopaal Drridhangaa Annaadu. Tarvaata Raamayya Vantu Vachchindi; Atani Chetulu Vanikaayi, Gunde Vegangaa Kottukundi. Atanu Kevalam Vellanu Maatrame Kundaloki Munchi, Bayataku Tishaadu — Atani Cheyyi Tellagaa, Shubhrangaa Undi. Chanti Kallu Telivaina Santrriptito Merishaayi. Okari Cheyyi Nallagaa, Marokaridi Shubhrangaa Undataaniki Artham Emiti?",
+      "text_en": "First, Gopal bravely came forward and plunged his hand into the pot. As soon as he took his hand out – it was covered in black soot. 'I am not afraid, I am telling the truth!' Gopal said firmly. Then it was Ramayya's turn; his hands trembled, and his heart beat fast. He only dipped his fingers into the pot and took them out – his hand was white and clean. Chanti's eyes sparkled with clever satisfaction. What does it mean for one person's hand to be black and the other's clean?"
+    },
+    {
+      "id": 7,
+      "text": "పెద్దమనిషి నెమ్మదిగా నవ్వి, అసలు రహస్యం బయటపెట్టాడు. ఆ కుండలో మసి మాత్రమే ఉంది, కానీ నిజం చెప్పేవారు ధైర్యంగా చేయి పెడితే, అది నల్లగా అవుతుంది. అబద్ధం చెప్పేవారు భయపడి, చేయి ముంచకుండా బయటకు తీయడంతో, అది శుభ్రంగా ఉంటుంది. “నిజంగా, అది దొంగతనం కాదు... పొరపాటున మా ఇంటి పక్కన పెట్టాను!” అని రామయ్య తల దించుకుని ఒప్పుకున్నాడు, అతని ముఖం సిగ్గుతో ఎర్రబడింది. గ్రామస్తులందరూ — ఒక్కసారిగా హమ్మయ్య అని ఊపిరి వదిలారు. చంటి ముఖం సంతోషంతో వెలిగిపోయింది, అతని తెలివికి న్యాయం జరిగింది.",
+      "image_prompt": "The man hangs his head in shame, his face flushed red as he confesses. The boy's face lights up with a satisfied smile, his cleverness having brought justice. Also in this scene: Ramayya is a stubborn, slightly gruff farmer with a bushy mustache, always wearing a worn dhoti and carrying a bamboo stick. He is quick to accuse but not inherently malicious, just sometimes misguided. Always the same character across every scene. Gentle dusk light, warm amber, bathing the scene in a peaceful glow of resolution, illuminating Chanti's satisfied smile and the villagers' relieved faces.",
+      "scene_visual": "The man hangs his head in shame, his face flushed red as he confesses. The boy's face lights up with a satisfied smile, his cleverness having brought justice.",
+      "supporting_char_keys": [
+        "peddamaniṣi",
+        "avva",
+        "gopal"
+      ],
+      "text_te_en": "Peddamanishi Nemmadigaa Navvi, Asalu Rahasyam Bayatapettaadu. Aa Kundalo Masi Maatrame Undi, Kaani Nijam Cheppevaaru Dhairyangaa Cheyi Pedite, Adi Nallagaa Avutundi. Abaddham Cheppevaaru Bhayapadi, Cheyi Munchakundaa Bayataku Tiyadanto, Adi Shubhrangaa Untundi. “Nijangaa, Adi Dongatanam Kaadu... Porapaatuna Maa Inti Pakkana Pettaanu!” Ani Raamayya Tala Dinchukuni Oppukunnaadu, Atani Mukham Sigguto Errabadindi. Graamastulandaru — Okkasaarigaa Hammayya Ani Upiri Vadilaaru. Chanti Mukham Santoshanto Veligipoyindi, Atani Teliviki Nyaayam Jarigindi.",
+      "text_en": "The head elder smiled slowly and revealed the real secret. In that pot, there was only soot. But those who tell the truth, if they bravely put their hand in, it will become black. Those who lie, being afraid, would take their hand out without dipping it, so it would remain clean. 'Truly, it wasn't a theft... I accidentally placed it next to my house!' Ramayya admitted, lowering his head, his face red with shame. All the villagers breathed a sigh of relief at once. Chanti's face lit up with happiness; his cleverness had brought justice."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "peddamaniṣi",
+      "description": "The village head, a dignified old man with a neatly tied white turban and a gentle, knowing smile. He presides over village matters with calm authority. Always the same character across every scene."
+    },
+    {
+      "key": "avva",
+      "description": "An old, wise woman of the village, always found sitting under the banyan tree, with kind eyes, a deeply wrinkled face, and wearing a traditional, simple cotton saree. She is a repository of folk wisdom. Always the same character across every scene."
+    },
+    {
+      "key": "gopal",
+      "description": "Gopal is a slender farmer with a kind face and a generally worried expression, wearing a simple white shirt and dhoti. He is known for his honesty but is now wrongly accused, causing him great distress. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This is an exceptionally well-structured and engaging children's story, showcasing strong oral storytelling elements and a compelling narrative arc. The consistent use of suspense hooks and direct address to the child listener ensures high engagement throughout. To elevate it to an award-winning piece, the primary improvement would be to introduce at least one line of direct dialogue in the opening scene, perhaps a brief interaction between Chanti and another character, to fully meet the 'dialogue richness' criteria."
+  },
+  "title_te_en": "Chanti Telivi, Nijam Cheppe Kunda",
+  "moral_te_en": "Pillalu, Shraddhagaa Vinadan, Kottagaa Aalochinchadam Nerchukunte — Elaanti Saakshyam Lekapoyinaa, Enta Kashtamaina Samasyakainaa Saraina Parishkaaram Dorukutundi.",
+  "title_en": "Chanti's Cleverness and the Truth-Telling Pot",
+  "moral_en": "Children, if you learn to listen carefully and think creatively – even without any evidence, you can find the right solution for any difficult problem.",
+  "id": "20260527_080910",
+  "date": "2026-05-27",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "తెలుగు జానపద కథ - గ్రామ పంచాయతీ న్యాయం",
+  "thumbnail": "stories/20260527_080910/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
