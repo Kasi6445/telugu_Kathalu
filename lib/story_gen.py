@@ -359,6 +359,8 @@ def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
                   topic: str, categories: dict[str, Any],
                   attempt: int = 1,
                   existing_titles: list[str] | None = None,
+                  existing_topics: list[str] | None = None,
+                  existing_morals: list[str] | None = None,
                   prev_failure_notes: str | None = None) -> dict[str, Any]:
     """Convert English outline into grandmother-voiced Telugu narration."""
     cat = categories[cat_key]
@@ -390,14 +392,22 @@ def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
 """
 
     existing_titles_block = ""
-    if existing_titles:
-        titles_list = "\n".join(f"  - {t}" for t in existing_titles if t)
+    if existing_titles or existing_topics or existing_morals:
+        titles_list  = "\n".join(f"  - {t}" for t in (existing_titles or []) if t)
+        topics_list  = "\n".join(f"  - {t}" for t in (existing_topics or []) if t)
+        morals_list  = "\n".join(f"  - {m[:120]}" for m in (existing_morals or []) if m)
         existing_titles_block = (
-            f"\nTITLE UNIQUENESS — MANDATORY:\n"
-            f"These story titles already exist in the library. "
-            f"Your new title MUST be different in both wording AND specific angle covered. "
-            f"Do NOT produce a title that overlaps in meaning or topic with any of these:\n"
-            f"{titles_list}\n"
+            f"\nCONCEPT UNIQUENESS — MANDATORY (most important rule):\n"
+            f"The library already has these stories. Your new story MUST be genuinely different\n"
+            f"in CONCEPT, LESSON, and CHARACTERS — not just in title wording.\n\n"
+            f"EXISTING TITLES (your title must be completely different):\n"
+            f"{titles_list}\n\n"
+            f"EXISTING TOPICS (your story must cover a different topic/event):\n"
+            f"{topics_list}\n\n"
+            f"EXISTING MORALS/LESSONS (your story must teach a different lesson):\n"
+            f"{morals_list}\n\n"
+            f"If your story would teach the same lesson or feature the same event as any entry\n"
+            f"above — even with different wording — REWRITE it to be genuinely different.\n"
         )
 
     retry_feedback_block = ""
@@ -1013,6 +1023,8 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
     story["image_prompt"]   : pre-assembled 5-layer prompt per scene
     """
     existing_titles = [s.get("title", "") for s in story_index]
+    existing_topics = [s.get("topic", "") for s in story_index if s.get("topic")]
+    existing_morals = [s.get("moral", "") for s in story_index if s.get("moral")]
 
     # ── Pass 1: Outline ───────────────────────────────────────────────────────
     set_stage("outline")
@@ -1033,6 +1045,8 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
         set_stage("narration")
         telugu_story = _pass2_telugu(outline, cat_key, sub_key, topic, categories, attempt,
                                      existing_titles=existing_titles,
+                                     existing_topics=existing_topics,
+                                     existing_morals=existing_morals,
                                      prev_failure_notes=prev_failure_notes)
 
         # Pass 2.5: extract narration-grounded visual descriptions for each scene.
