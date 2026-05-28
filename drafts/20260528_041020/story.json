@@ -1,0 +1,98 @@
+{
+  "title": "దాహం తీర్చిన తెలివి",
+  "moral": "అమ్మమ్మ మాట వినండి, చిన్న చిన్న ప్రయత్నాలు కూడా పెద్ద సమస్యలను పరిష్కరించగలవని గుర్తుంచుకోండి.",
+  "main_character": "A small, nimble crow with glossy black feathers and sharp, observant eyes. It is known for its quick thinking and resourcefulness. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A parched, dusty village in the heart of Andhra Pradesh, surrounded by dry fields and a few wilting trees. The sun beats down intensely on cracked earth and a weathered, terracotta water pot. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అందమైన నల్లని కాకి ఒకటి, ఎండలో తపించిపోయిన పొలాల మీదుగా, రెక్కలు కష్టంగా కదుపుతూ ఎగురుతోంది. దాని చిన్న కళ్ళు, నీటి జాడ కోసం పదునుగా వెతుకుతున్నాయి, అయినా ఎక్కడా కనిపించట్లేదు. ఎండిన భూమి మీద వేడి గాలి మెరుస్తూ, దాని దాహాన్ని మరింత పెంచుతోంది. \"నీళ్లు ఎక్కడ దొరుకుతాయో?\" అని మనసులో గుసగుసలాడుకుంటూ, అది మెల్లగా కిందకు చూసింది. దాని రెక్కల వేగం తగ్గింది, కానీ ఆశ మాత్రం చావలేదు. అప్పుడు — ఒక్క మెరుపు — దానికి ఆశ కలిగింది. దూరంగా, నేల మీద, ఏదో మెరిసినట్లు కనిపించింది.",
+      "image_prompt": "The bird slowly looks down, its wing speed decreasing. Its small eyes sharply focus on something shimmering in the distance on the dry ground. Harsh midday sun, bright and unforgiving, casting sharp shadows on the dry ground.",
+      "scene_visual": "The bird slowly looks down, its wing speed decreasing. Its small eyes sharply focus on something shimmering in the distance on the dry ground.",
+      "supporting_char_keys": [],
+      "text_te_en": "Andamaina Nallani Kaaki Okati, Endalo Tapinchipoyina Polaala Midugaa, Rekkalu Kashtangaa Kaduputu Egurutondi. Daani Chinna Kallu, Niti Jaada Kosam Padunugaa Vetukutunnaayi, Ayinaa Ekkadaa Kanipinchatledu. Endina Bhumi Mida Vedi Gaali Merustu, Daani Daahaanni Marinta Penchutondi. \"Nillu Ekkada Dorukutaayo?\" Ani Manasulo Gusagusalaadukuntu, Adi Mellagaa Kindaku Chusindi. Daani Rekkala Vegam Taggindi, Kaani Aasha Maatram Chaavaledu. Appudu — Okka Merupu — Daaniki Aasha Kaligindi. Durangaa, Nela Mida, Edo Merisinatlu Kanipinchindi.",
+      "text_en": "A beautiful black crow was flying with great effort over the sun-baked fields. Its small eyes were sharply looking for water, but it couldn't find any. The hot air shimmered over the dry land, making its thirst even worse. 'Where can I find water?' it whispered to itself, looking down slowly. Its wings slowed, but its hope stayed strong. Then — a sudden sparkle — gave it new hope. Far away, on the ground, something seemed to shine."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరుపును చూసి, కాకి వేగంగా కిందకు దూసుకువచ్చింది, దాని గుండె ఆశతో కొట్టుకుంది. అది ఒక మట్టి కుండ అని గుర్తించి, ఆత్రంగా దాని అంచున వాలింది, దాని ముక్కుకు కుండ గరుకుదనం తగిలింది. లోపల చూస్తే — నీళ్లున్నాయి, కానీ చాలా లోతుగా ఉన్నాయి. \"అయ్యో! నీళ్లు చాలా లోతుగా ఉన్నాయి!\" అని నిరాశగా అనుకుంటూ, అది తన భుజాలు దించుకుంది. అది నిరాశగా తల దించుకుంది. ఎంత ప్రయత్నించినా, దాని ముక్కు నీటిని అందుకోలేకపోయింది, అది చాలా విసుగుపడింది.",
+      "image_prompt": "The bird lands eagerly on the rim of an earthen pot and lowers its head. Its beak touches the rough texture of the pot, but cannot reach the water far below. Bright, direct sunlight illuminating the crow's frustrated efforts at the edge of the pot, highlighting the low water level inside.",
+      "scene_visual": "The bird lands eagerly on the rim of an earthen pot and lowers its head. Its beak touches the rough texture of the pot, but cannot reach the water far below.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merupunu Chusi, Kaaki Vegangaa Kindaku Dusukuvachchindi, Daani Gunde Aashato Kottukundi. Adi Oka Matti Kunda Ani Gurtinchi, Aatrangaa Daani Anchuna Vaalindi, Daani Mukkuku Kunda Garukudanam Tagilindi. Lopala Chuste — Nillunnaayi, Kaani Chaalaa Lotugaa Unnaayi. \"Ayyo! Nillu Chaalaa Lotugaa Unnaayi!\" Ani Niraashagaa Anukuntu, Adi Tana Bhujaalu Dinchukundi. Adi Niraashagaa Tala Dinchukundi. Enta Prayatninchinaa, Daani Mukku Nitini Andukolekapoyindi, Adi Chaalaa Visugupadindi.",
+      "text_en": "Seeing that sparkle, the crow quickly flew down, its heart full of hope. It saw it was a clay pot and eagerly landed on its edge, its beak touching the pot's rough surface. Looking inside — there was water, but it was very, very deep. 'Oh no! The water is too deep!' it thought sadly, its shoulders drooping. It hung its head in disappointment. No matter how hard it tried, its beak couldn't reach the water. It felt very frustrated."
+    },
+    {
+      "id": 3,
+      "text": "కాకి తన మెడను సాగదీసి, నీటిని చేరుకోవడానికి తీవ్రంగా ప్రయత్నించింది, కానీ ఎంతకీ అందలేదు. దాహం దాన్ని పట్టి పీడిస్తోంది. అది కుండ అంచున తన ముక్కుతో పొడిచింది, తన రెక్కలు ఆగ్రహంతో కదులుతున్నాయి. \"ఇది ఎలా సాధ్యం?\" అని మనసులో ప్రశ్నించుకుంది, దాని నోట్లో ఎండిన దుమ్ము రుచి ఇంకా ఉంది. దాహం వల్ల దాని తల పైకీ, కిందకీ కదులుతోంది. అది చేయగలిగినదంతా చేసి, అలసిపోయింది, చివరకు నిస్సహాయంగా చుట్టూ చూసింది – ఏదైనా సహాయం దొరుకుతుందేమోనని.",
+      "image_prompt": "The bird stretches its neck, trying intensely to reach the water, then pecks the pot's rim. Its wings move in frustration as its head bobs up and down from thirst, and it looks around helplessly. The bright sun continues to beat down, but a growing shadow from a nearby wilting tree begins to creep over the pot, mirroring the crow's darkening mood.",
+      "scene_visual": "The bird stretches its neck, trying intensely to reach the water, then pecks the pot's rim. Its wings move in frustration as its head bobs up and down from thirst, and it looks around helplessly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaki Tana Medanu Saagadisi, Nitini Cherukovadaaniki Tivrangaa Prayatninchindi, Kaani Entaki Andaledu. Daaham Daanni Patti Pidistondi. Adi Kunda Anchuna Tana Mukkuto Podichindi, Tana Rekkalu Aagrahanto Kadulutunnaayi. \"Idi Elaa Saadhyan?\" Ani Manasulo Prashninchukundi, Daani Notlo Endina Dummu Ruchi Inkaa Undi. Daaham Valla Daani Tala Paiki, Kindaki Kadulutondi. Adi Cheyagaliginadantaa Chesi, Alasipoyindi, Chivaraku Nissahaayangaa Chuttu Chusindi – Edainaa Sahaayam Dorukutundemonani.",
+      "text_en": "The crow stretched its neck, trying very hard to reach the water, but it just couldn't. Thirst was making it suffer. It poked the pot's edge with its beak, its wings flapping in anger. 'How can I do this?' it wondered, the taste of dry dust still in its mouth. Its head moved up and down because of its thirst. It had tried everything and was very tired. Finally, it looked around helplessly – hoping to find some help."
+    },
+    {
+      "id": 4,
+      "text": "చుట్టూ చూస్తున్న కాకి కళ్ళు, కుండ పక్కనే ఉన్న చిన్న గులకరాళ్ళ కుప్ప మీద పడ్డాయి. దాని కళ్ళలో మెరుపు మెరిసింది. ఒక అద్భుతమైన ఆలోచన దాని చిన్న మెదడులో మెరిసింది, వెంటనే అది నిటారుగా నిలబడింది. \"ఆహా! ఒక ఆలోచన!\" అని ఆనందంగా అనుకుంది, దాని తల ఒక పక్కకు వంగింది. నేల మీద ఉన్న చిన్న రాళ్ళ గలగల శబ్దం దాని చెవులకు వినిపించింది. అది తన ముక్కుతో ఒక చిన్న గులక రాయిని పట్టుకుని, కుండ వైపు చాలా శ్రద్ధగా చూసింది.",
+      "image_prompt": "The bird stands upright, its head tilted to one side, as its eyes fall on a pile of pebbles. It carefully picks up a small pebble with its beak, looking intently at the pot. A patch of sunlight brightly illuminates the pile of pebbles, making them stand out against the dull earth, as if a spotlight on the crow's new idea.",
+      "scene_visual": "The bird stands upright, its head tilted to one side, as its eyes fall on a pile of pebbles. It carefully picks up a small pebble with its beak, looking intently at the pot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chuttu Chustunna Kaaki Kallu, Kunda Pakkane Unna Chinna Gulakaraalla Kuppa Mida Paddaayi. Daani Kallalo Merupu Merisindi. Oka Adbhutamaina Aalochana Daani Chinna Medadulo Merisindi, Ventane Adi Nitaarugaa Nilabadindi. \"Aahaa! Oka Aalochana!\" Ani Aanandangaa Anukundi, Daani Tala Oka Pakkaku Vangindi. Nela Mida Unna Chinna Raalla Galagala Shabdam Daani Chevulaku Vinipinchindi. Adi Tana Mukkuto Oka Chinna Gulaka Raayini Pattukuni, Kunda Vaipu Chaalaa Shraddhagaa Chusindi.",
+      "text_en": "As the crow looked around, its eyes saw a small pile of pebbles right next to the pot. A spark lit up in its eyes. A wonderful idea popped into its clever little head, and it immediately stood up tall. 'Aha! An idea!' it thought happily, tilting its head to one side. It heard the soft clatter of small stones on the ground. It picked up a tiny pebble with its beak and looked very carefully at the pot."
+    },
+    {
+      "id": 5,
+      "text": "కాకి ఒక్కటొక్కటిగా గులకరాళ్ళను తన ముక్కుతో పట్టుకుని, కుండలో జాగ్రత్తగా వేయడం మొదలుపెట్టింది. ఒక్కొక్క రాయి నీటిలో పడినప్పుడు, \"ప్లింక్, ప్లింక్\" అనే మృదువైన శబ్దం వినిపించింది. \"ఇంకొకటి... ఇంకొకటి...\" అని మనసులో అనుకుంటూ, అది అలసిపోకుండా పనిచేసింది. దాని రెక్కలు స్థిరంగా ఉన్నాయి, చూపు ఎప్పుడూ కుండ మీదే ఉంది. నీళ్ళు పైకి లేచాయి! నీటి మట్టం స్పష్టంగా పైకి వచ్చింది, కానీ ఇంకా అంచుకు చేరలేదు, అది మరింత ప్రయత్నించాలని కోరింది.",
+      "image_prompt": "The bird tirelessly drops pebbles one by one into the pot with its beak. Its gaze is fixed on the pot as the water level visibly rises with each 'plink' sound. The afternoon sun is softer, casting longer shadows. The crow is bathed in a warm, golden light, emphasizing its diligent work.",
+      "scene_visual": "The bird tirelessly drops pebbles one by one into the pot with its beak. Its gaze is fixed on the pot as the water level visibly rises with each 'plink' sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaki Okkatokkatigaa Gulakaraallanu Tana Mukkuto Pattukuni, Kundalo Jaagrattagaa Veyadam Modalupettindi. Okkokka Raayi Nitilo Padinappudu, \"Plink, Plink\" Ane Mrriduvaina Shabdam Vinipinchindi. \"Inkokati... Inkokati...\" Ani Manasulo Anukuntu, Adi Alasipokundaa Panichesindi. Daani Rekkalu Sthirangaa Unnaayi, Chupu Eppudu Kunda Mide Undi. Nillu Paiki Lechaayi! Niti Mattam Spashtangaa Paiki Vachchindi, Kaani Inkaa Anchuku Cheraledu, Adi Marinta Prayatninchaalani Korindi.",
+      "text_en": "The crow began to pick up the pebbles one by one with its beak and carefully drop them into the pot. Each time a stone fell into the water, a soft 'plink, plink' sound was heard. 'One more... and another one...' it thought to itself, working without getting tired. Its wings were steady, and its eyes were always on the pot. The water rose! The water level clearly came up, but it still hadn't reached the very top. It knew it needed to try harder."
+    },
+    {
+      "id": 6,
+      "text": "చిట్టచివరి గులక రాయిని కుండలో వేయగానే, నీటి మట్టం సరిగ్గా అంచు వరకు చేరింది. కాకి ఒక్క క్షణం ఆగి, ఊపిరి పీల్చుకుంది, దాని భుజాలు విశ్రాంతిగా దించుకుంది, కళ్ళు ఆనందంతో మెరిశాయి. \"చివరకు!\" అని గట్టిగా అనుకుంది, దాని స్వరం ఆశతో నిండిపోయింది. ఆ చల్లని స్పర్శ — ప్రాణం పోసింది. అది తన ముక్కును నీటిలో ముంచి, చల్లని, స్వచ్ఛమైన నీటిని తాగింది, దాహం తీరడంతో దాని ప్రాణం లేచివచ్చింది.",
+      "image_prompt": "The bird dips its beak into the water, which has finally reached the pot's rim. Its eyes sparkle with joy as it drinks the cool, clear water, its shoulders relaxed. A gentle, warm amber light of late afternoon, peaceful and triumphant, falling softly on the crow and the now-fuller water pot.",
+      "scene_visual": "The bird dips its beak into the water, which has finally reached the pot's rim. Its eyes sparkle with joy as it drinks the cool, clear water, its shoulders relaxed.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chittachivari Gulaka Raayini Kundalo Veyagaane, Niti Mattam Sariggaa Anchu Varaku Cherindi. Kaaki Okka Kshanam Aagi, Upiri Pilchukundi, Daani Bhujaalu Vishraantigaa Dinchukundi, Kallu Aanandanto Merishaayi. \"Chivaraku!\" Ani Gattigaa Anukundi, Daani Svaram Aashato Nindipoyindi. Aa Challani Sparsha — Praanam Posindi. Adi Tana Mukkunu Nitilo Munchi, Challani, Svachchamaina Nitini Taagindi, Daaham Tiradanto Daani Praanam Lechivachchindi.",
+      "text_en": "As soon as the very last pebble dropped into the pot, the water level reached right up to the edge. The crow stopped for a moment, took a deep breath, its shoulders relaxed, and its eyes sparkled with joy. 'Finally!' it chirped loudly, its voice full of hope. That cool touch — felt like magic. It dipped its beak into the water and drank the cool, clear water. With its thirst gone, it felt alive again."
+    },
+    {
+      "id": 7,
+      "text": "కాకి కడుపు నిండా నీళ్ళు తాగి, చాలా సేపటి తర్వాత తృప్తిగా తల పైకెత్తింది, దాని కళ్ళు సంతృప్తితో మెరుస్తున్నాయి. \"ఈ రుచి చాలా బాగుంది!\" అని మనసులో అనుకుంటూ, అది తన తెలివితేటలను చూసి గర్వపడింది. నీళ్ళు తాగేటప్పుడు వినిపించిన గుడగుడ శబ్దం దాని ఆనందాన్ని పెంచింది. అది రెక్కలు విప్పుకుంది. అది తన రెక్కలు విప్పుకుని, సంతోషంగా ఆకాశంలోకి ఎగిరిపోయింది, దాని చిన్న గుండె ఆనందంతో నిండిపోయింది.",
+      "image_prompt": "The bird contentedly lifts its head after drinking its fill, then spreads its wings. Its eyes sparkle with satisfaction as it happily flies into the sky. The golden hour, with soft, diffused sunlight painting the sky in oranges and pinks, as the crow takes flight into the peaceful evening.",
+      "scene_visual": "The bird contentedly lifts its head after drinking its fill, then spreads its wings. Its eyes sparkle with satisfaction as it happily flies into the sky.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaki Kadupu Nindaa Nillu Taagi, Chaalaa Sepati Tarvaata Trriptigaa Tala Paikettindi, Daani Kallu Santrriptito Merustunnaayi. \"I Ruchi Chaalaa Baagundi!\" Ani Manasulo Anukuntu, Adi Tana Telivitetalanu Chusi Garvapadindi. Nillu Taagetappudu Vinipinchina Gudaguda Shabdam Daani Aanandaanni Penchindi. Adi Rekkalu Vippukundi. Adi Tana Rekkalu Vippukuni, Santoshangaa Aakaashanloki Egiripoyindi, Daani Chinna Gunde Aanandanto Nindipoyindi.",
+      "text_en": "The crow drank all the water it needed. After a long time, it lifted its head happily, its eyes shining with satisfaction. 'This tastes so good!' it thought to itself, feeling proud of how clever it was. The gurgling sound it made while drinking water made it even happier. It spread its wings and happily flew up into the sky, its little heart full of joy."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc and impeccable grammar, providing a strong foundation. However, it currently reads more like a descriptive report than an engaging oral tale, primarily due to the lack of character interaction and the tendency to state emotions rather than show them. To elevate this story to an award-worthy piece, the most crucial fix is to infuse it with more dynamic dialogue and embody the crow's feelings through actions and sensory details, making it feel truly alive and spoken. Additionally, integrating the moral organically within the narrative, rather than stating it separately, would enhance its authenticity."
+  },
+  "quality_warning": true,
+  "title_te_en": "Daaham Tirchina Telivi",
+  "moral_te_en": "Ammamma Maata Vinandi, Chinna Chinna Prayatnaalu Kudaa Pedda Samasyalanu Parishkarinchagalavani Gurtunchukondi.",
+  "title_en": "Cleverness Quenches Thirst",
+  "moral_en": "Remember this lesson: even small efforts can solve big problems.",
+  "id": "20260528_041020",
+  "date": "2026-05-28",
+  "category": "neeti",
+  "subcategory": "animal_morals",
+  "topic": "తెలివైన కాకి మరియు నీళ్ల కుండ",
+  "thumbnail": "stories/20260528_041020/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
