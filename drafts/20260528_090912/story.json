@@ -1,0 +1,118 @@
+{
+  "title": "బంగారు మొక్క, తెనాలి పాఠం",
+  "moral": "తెలివిగా ఆలోచిస్తే, ఎటువంటి కష్టాన్నైనా సులభంగా దాటవచ్చు.",
+  "main_character": "Tenali Ramakrishna is a slender man with a quick smile and intelligent, twinkling eyes. He often wears simple but neat court attire, sometimes with a slightly mischievous tilt to his cap. Always the same character across every scene.",
+  "antagonist": "Royal Scholar Vikramasimhudu is a portly man with a proud, upturned nose and a meticulously groomed mustache. He wears opulent, heavily embroidered robes in deep reds and purples, and carries a scroll tied with a golden ribbon. Always the same character across every scene.",
+  "setting": "The grand court of Vijayanagara, Hampi, specifically the royal durbar hall. It features towering, intricately carved stone pillars, vibrant frescoes depicting epic tales, and polished stone floors. The time varies from bustling morning sessions to quieter afternoons. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాజుగారి ప్రశ్నకి తెనాలి రామకృష్ణుడు చిరునవ్వు చిందించాడు. అతని కళ్ళల్లో ఒక మెరుపు — సభలోని వారందరూ ఉత్సాహంగా చూస్తున్నారు. \"మహారాజా, కడుపు నిండిన సింహానికి వేట కన్నా నిద్రే ముఖ్యం!\" అని తెలివిగా జవాబు చెప్పాడు. ఎత్తైన స్తంభాలపై సభవారి నవ్వుల ప్రతిధ్వని మెల్లగా వినిపించింది. రాజు పెదాలు వికసించి నవ్వాయి, కానీ అంతలోనే గంభీరంగా కనిపించే పండితుడు విక్రమసింహుడు ముందుకు అడుగు వేశాడు.",
+      "image_prompt": "The boy smiles subtly, his eyes sparkling with intelligence as he delivers his clever answer. A subtle sparkle in his eyes indicates his satisfaction. Also in this scene: Royal Scholar Vikramasimhudu is a portly man with a proud, upturned nose and a meticulously groomed mustache. He wears opulent, heavily embroidered robes in deep reds and purples, and carries a scroll tied with a golden ribbon. Always the same character across every scene. Bright morning sun streaming through large arched windows, illuminating dust motes dancing in the air, creating a grand, active atmosphere.",
+      "scene_visual": "The boy smiles subtly, his eyes sparkling with intelligence as he delivers his clever answer. A subtle sparkle in his eyes indicates his satisfaction.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Raajugaari Prashnaki Tenaali Raamakrrishnudu Chirunavvu Chindinchaadu. Atani Kallallo Oka Merupu — Sabhaloni Vaarandaru Utsaahangaa Chustunnaaru. \"Mahaaraajaa, Kadupu Nindina Sinhaaniki Veta Kannaa Nidre Mukhyan!\" Ani Telivigaa Javaabu Cheppaadu. Ettaina Stambhaalapai Sabhavaari Navvula Pratidhvani Mellagaa Vinipinchindi. Raaju Pedaalu Vikasinchi Navvaayi, Kaani Antalone Gambhirangaa Kanipinche Panditudu Vikramasinhudu Munduku Adugu Veshaadu.",
+      "text_en": "Tenali Ramakrishna smiled at the King's question. A sparkle was in his eyes — everyone in the court watched eagerly. \"Maharaja, for a lion with a full stomach, sleep is more important than hunting!\" he answered cleverly. The echoes of the courtiers' laughter gently sounded among the tall pillars. The King's lips curved into a smile, but just then, the serious-looking scholar Vikramasimha stepped forward."
+    },
+    {
+      "id": 2,
+      "text": "విక్రమసింహుడు తన చేతిలోని తాళపత్రాన్ని విప్పాడు — ఆ సభ అంతా నిశ్శబ్దంగా మారింది. అతను బంగారు మొక్క గురించి గొప్పగా వివరించాడు, అది కేవలం తెలివైన వారి చేతుల్లోనే పెరుగుతుందని చెప్పాడు. \"ఈ పోటీలో పాల్గొని, ఈ అసాధ్యమైన మొక్కను పెంచగల ధీరుడు ఎవరో చూడాలి!\" అని గంభీరంగా ప్రకటించాడు. తెనాలి రామకృష్ణుడి నుదిటిపై ఒక చిన్న ముడత పడింది, అతని చూపులు ఆలోచనలో పడ్డాయి. సభికుల పట్టువస్త్రాలు మర్మరిస్తూ, ఆశ్చర్యంతో గుసగుసలాడారు. విక్రమసింహుడు నేరుగా తెనాలి వైపు సవాలుగా చూశాడు — తెనాలి కనుబొమ్మ ఎగరేసి, ఏదో ఆలోచిస్తున్నట్లు కనిపించాడు.",
+      "image_prompt": "The scholar looks directly at the boy with a challenging gaze, his proclamation hanging in the silent hall. The boy raises an eyebrow, a small wrinkle forming on his forehead as he appears to be deep in thought. Also in this scene: Royal Scholar Vikramasimhudu is a portly man with a proud, upturned nose and a meticulously groomed mustache. He wears opulent, heavily embroidered robes in deep reds and purples, and carries a scroll tied with a golden ribbon. Always the same character across every scene. The mid-morning light has intensified, casting sharp shadows from the pillars and intricate carvings, creating a sense of drama and impending challenge.",
+      "scene_visual": "The scholar looks directly at the boy with a challenging gaze, his proclamation hanging in the silent hall. The boy raises an eyebrow, a small wrinkle forming on his forehead as he appears to be deep in thought.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Vikramasinhudu Tana Chetiloni Taalapatraanni Vippaadu — Aa Sabha Antaa Nishshabdangaa Maarindi. Atanu Bangaaru Mokka Gurinchi Goppagaa Vivarinchaadu, Adi Kevalam Telivaina Vaari Chetullone Perugutundani Cheppaadu. \"I Potilo Paalgoni, I Asaadhyamaina Mokkanu Penchagala Dhirudu Evaro Chudaali!\" Ani Gambhirangaa Prakatinchaadu. Tenaali Raamakrrishnudi Nuditipai Oka Chinna Mudata Padindi, Atani Chupulu Aalochanalo Paddaayi. Sabhikula Pattuvastraalu Marmaristu, Aashcharyanto Gusagusalaadaaru. Vikramasinhudu Nerugaa Tenaali Vaipu Savaalugaa Chushaadu — Tenaali Kanubomma Egaresi, Edo Aalochistunnatlu Kanipinchaadu.",
+      "text_en": "Vikramasimha unrolled the palm-leaf scroll in his hand — the entire court fell silent. He proudly described a golden plant, saying it would only grow in the hands of the truly wise. \"Let's see who among you is brave enough to participate in this challenge and grow this impossible plant!\" he declared solemnly. A small frown appeared on Tenali Ramakrishna's forehead, and his gaze became thoughtful. The courtiers' silk clothes rustled as they whispered in surprise. Vikramasimha looked directly at Tenali with a challenge — Tenali raised an eyebrow, appearing to be deep in thought."
+    },
+    {
+      "id": 3,
+      "text": "తెనాలి ఒక ఖాళీ కుండ తెచ్చి, దానిలో మెరిసే బంగారు నాణెం ఒకటి జాగ్రత్తగా ఉంచాడు. దానిపై పొడి, గట్టి మట్టిని కప్పాడు. కుండలో ఎలాంటి మార్పూ లేకపోవడం చూసి విక్రమసింహుడు నవ్వాడు — అతని ముఖం ఎగతాళితో నిండిపోయింది. \"రామకృష్ణా, బంగారు మొక్కను నాటడం ఇంత సులభం అనుకున్నావా?\" అని ఎగతాళిగా అడిగాడు. తెనాలి పెదవుల చివర ఒక చిన్న కదలిక కనిపించింది, అతను రహస్యంగా నవ్వినట్లు. విక్రమసింహుడి ఎగతాళికి జవాబివ్వకుండా, తెనాలి నెమ్మదిగా అక్కడి నుండి వెళ్ళిపోయాడు — ఆ 'విఫలమైన' కుండను అక్కడే వదిలిపెట్టి.",
+      "image_prompt": "The scholar laughs mockingly at the boy, his face contorted with derision as he questions the boy's attempt. A subtle, secret smile plays at the corner of the boy's lips as he quietly walks away, leaving the pot behind. Also in this scene: Royal Scholar Vikramasimhudu is a portly man with a proud, upturned nose and a meticulously groomed mustache. He wears opulent, heavily embroidered robes in deep reds and purples, and carries a scroll tied with a golden ribbon. Always the same character across every scene. A patch of direct, harsh afternoon sun falls on the empty pot, highlighting its barrenness and the apparent failure, creating a stark, quiet moment.",
+      "scene_visual": "The scholar laughs mockingly at the boy, his face contorted with derision as he questions the boy's attempt. A subtle, secret smile plays at the corner of the boy's lips as he quietly walks away, leaving the pot behind.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Oka Khaali Kunda Techchi, Daanilo Merise Bangaaru Naanem Okati Jaagrattagaa Unchaadu. Daanipai Podi, Gatti Mattini Kappaadu. Kundalo Elaanti Maarpu Lekapovadam Chusi Vikramasinhudu Navvaadu — Atani Mukham Egataalito Nindipoyindi. \"Raamakrrishnaa, Bangaaru Mokkanu Naatadam Inta Sulabham Anukunnaavaa?\" Ani Egataaligaa Adigaadu. Tenaali Pedavula Chivara Oka Chinna Kadalika Kanipinchindi, Atanu Rahasyangaa Navvinatlu. Vikramasinhudi Egataaliki Javaabivvakundaa, Tenaali Nemmadigaa Akkadi Nundi Vellipoyaadu — Aa 'Viphalamaina' Kundanu Akkade Vadilipetti.",
+      "text_en": "Tenali brought an empty pot and carefully placed a shining gold coin inside it. He covered it with dry, hard soil. Seeing no change in the pot, Vikramasimha laughed — his face filled with mockery. \"Ramakrishna, did you think planting a golden plant was this easy?\" he asked mockingly. A slight movement appeared at the corner of Tenali's lips, as if he was secretly smiling. Without answering Vikramasimha's taunt, Tenali slowly walked away — leaving the 'failed' pot behind."
+    },
+    {
+      "id": 4,
+      "text": "తర్వాత కొన్ని రోజులు తెనాలి సభలో జరిగే ప్రతి చిన్న విషయాన్ని గమనించాడు. పోటీ గురించి ప్రజలు ఎలా మాట్లాడుకుంటున్నారో, విక్రమసింహుడి ముఖంలో గర్వం ఎలా మెరుస్తుందో చూశాడు. అంతఃపుర కారిడార్లలో నడుస్తుండగా, బయటి సంత నుండి వచ్చే సందడి వినిపిస్తున్నా, అతని ఆలోచనలు ఆపలేదు. \"బంగారు మొక్కను పెంచడం కన్నా, మనుషుల ఆశను పెంచడం సులభం,\" అని తనలో తాను గొణుక్కున్నాడు. అతని కళ్ళల్లో ఒక కొత్త మెరుపు — ఒక ఉపాయం తట్టినట్లు. ఆ క్షణంలో తెనాలి పెదాలపై ఒక చిలిపి నవ్వు మెరిసింది.",
+      "image_prompt": "The boy mutters to himself, a new sparkle appearing in his eyes as a clever idea strikes him. A mischievous smile spreads across his lips, revealing his newfound plan. Late afternoon sun, warm and golden, streaming through an archway, creating long, thoughtful shadows as Tenali paces, lost in contemplation.",
+      "scene_visual": "The boy mutters to himself, a new sparkle appearing in his eyes as a clever idea strikes him. A mischievous smile spreads across his lips, revealing his newfound plan.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tarvaata Konni Rojulu Tenaali Sabhalo Jarige Prati Chinna Vishayaanni Gamaninchaadu. Poti Gurinchi Prajalu Elaa Maatlaadukuntunnaaro, Vikramasinhudi Mukhanlo Garvam Elaa Merustundo Chushaadu. Antahpura Kaaridaarlalo Nadustundagaa, Bayati Santa Nundi Vachche Sandadi Vinipistunnaa, Atani Aalochanalu Aapaledu. \"Bangaaru Mokkanu Penchadam Kannaa, Manushula Aashanu Penchadam Sulabhan,\" Ani Tanalo Taanu Gonukkunnaadu. Atani Kallallo Oka Kotta Merupu — Oka Upaayam Tattinatlu. Aa Kshananlo Tenaali Pedaalapai Oka Chilipi Navvu Merisindi.",
+      "text_en": "For the next few days, Tenali observed every small thing happening in the court. He saw how people talked about the competition and how pride shone on Vikramasimha's face. As he walked through the palace corridors, even the bustling sounds from the market outside couldn't stop his thoughts. \"It's easier to grow people's greed than a golden plant,\" he muttered to himself. A new sparkle appeared in his eyes — as if an idea had struck him. At that moment, a mischievous smile appeared on Tenali's lips."
+    },
+    {
+      "id": 5,
+      "text": "కొన్ని రోజుల తర్వాత తెనాలి ఒక చిన్న, పచ్చని మొలక ఉన్న కుండతో సభలోకి అడుగుపెట్టాడు. ఆ మొలక నుండి వచ్చే మట్టి వాసన సభలో కొత్త వాతావరణాన్ని నింపింది. అతని ముఖం ప్రశాంతంగా, నమ్మకంతో కనిపించింది. \"మహారాజా, ఇది ఆ బంగారు మొక్కే,\" అని ప్రకటించాడు. \"ఈ మొక్క పెరగాలంటే, దానికి కేవలం నిజమైన కష్టార్జితంతో సంపాదించిన నీరు మాత్రమే కావాలి.\" విక్రమసింహుడి ముఖం కోపంతో వికృతంగా మారి పెద్దగా నవ్వాడు — రాజు మాత్రం తెనాలి వైపు చూసి నవ్వుకున్నాడు.",
+      "image_prompt": "The boy confidently walks into the hall, carrying a small pot containing a green sprout. His face appears calm and confident as he presents the plant to the assembly. Also in this scene: Royal Scholar Vikramasimhudu is a portly man with a proud, upturned nose and a meticulously groomed mustache. He wears opulent, heavily embroidered robes in deep reds and purples, and carries a scroll tied with a golden ribbon. Always the same character across every scene. Soft, diffused light in the durbar hall, as if anticipating a subtle revelation, creating a calm but expectant mood.",
+      "scene_visual": "The boy confidently walks into the hall, carrying a small pot containing a green sprout. His face appears calm and confident as he presents the plant to the assembly.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Konni Rojula Tarvaata Tenaali Oka Chinna, Pachchani Molaka Unna Kundato Sabhaloki Adugupettaadu. Aa Molaka Nundi Vachche Matti Vaasana Sabhalo Kotta Vaataavaranaanni Nimpindi. Atani Mukham Prashaantangaa, Nammakanto Kanipinchindi. \"Mahaaraajaa, Idi Aa Bangaaru Mokke,\" Ani Prakatinchaadu. \"I Mokka Peragaalante, Daaniki Kevalam Nijamaina Kashtaarjitanto Sampaadinchina Niru Maatrame Kaavaali.\" Vikramasinhudi Mukham Kopanto Vikrritangaa Maari Peddagaa Navvaadu — Raaju Maatram Tenaali Vaipu Chusi Navvukunnaadu.",
+      "text_en": "A few days later, Tenali entered the court with a pot containing a small, green sprout. The earthy smell from the sprout filled the court with a fresh atmosphere. His face looked calm and confident. \"Maharaja, this is the golden plant,\" he announced. \"For this plant to grow, it only needs water earned through true hard work.\" Vikramasimha's face twisted in anger, and he laughed loudly — but the King just looked at Tenali and smiled to himself."
+    },
+    {
+      "id": 6,
+      "text": "సభలోని ధనవంతులు, పండితులు తమ సంపాదనతో నీరు పోయడానికి ముందుకు వచ్చారు — కానీ మొక్క కదల్లేదు. విక్రమసింహుడు కూడా నీరు పోశాడు, అయినా ఆ మొక్క అలాగే ఉండిపోయింది. తెనాలి తల వంచి, తన విజయాన్ని రహస్యంగా ఆస్వాదించాడు. అంతలో, ఒక బీద రైతు సభలోకి అడుగుపెట్టాడు — సభికులంతా ఒక్కసారిగా ఊపిరి బిగబట్టారు. \"మహారాజా, నా పొలంలో కష్టపడి పండించిన పంటతో సంపాదించిన ఈ నీరు మాత్రమే నాది,\" అని వణుకుతున్న గొంతుతో చెప్పాడు. రైతు నీరు పోయగానే, ఆ చిన్న మొలక ఒక్కసారిగా నిటారుగా నిలబడి, పైకి ఎగిరింది — అందరూ ఆశ్చర్యంతో చూశారు.",
+      "image_prompt": "A poor farmer, with a trembling voice, pours water from his pot onto the small sprout. Immediately, the tiny sprout dramatically shoots upwards, growing tall and straight as everyone watches in astonishment. Also in this scene: Royal Scholar Vikramasimhudu is a portly man with a proud, upturned nose and a meticulously groomed mustache. He wears opulent, heavily embroidered robes in deep reds and purples, and carries a scroll tied with a golden ribbon. Always the same character across every scene. A single, focused beam of sunlight highlights the farmer as he approaches the plant, making him seem pure and honest amidst the opulent court.",
+      "scene_visual": "A poor farmer, with a trembling voice, pours water from his pot onto the small sprout. Immediately, the tiny sprout dramatically shoots upwards, growing tall and straight as everyone watches in astonishment.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "farmer"
+      ],
+      "text_te_en": "Sabhaloni Dhanavantulu, Panditulu Tama Sampaadanato Niru Poyadaaniki Munduku Vachchaaru — Kaani Mokka Kadalledu. Vikramasinhudu Kudaa Niru Poshaadu, Ayinaa Aa Mokka Alaage Undipoyindi. Tenaali Tala Vanchi, Tana Vijayaanni Rahasyangaa Aasvaadinchaadu. Antalo, Oka Bida Raitu Sabhaloki Adugupettaadu — Sabhikulantaa Okkasaarigaa Upiri Bigabattaaru. \"Mahaaraajaa, Naa Polanlo Kashtapadi Pandinchina Pantato Sampaadinchina I Niru Maatrame Naadi,\" Ani Vanukutunna Gontuto Cheppaadu. Raitu Niru Poyagaane, Aa Chinna Molaka Okkasaarigaa Nitaarugaa Nilabadi, Paiki Egirindi — Andaru Aashcharyanto Chushaaru.",
+      "text_en": "The rich and learned people in the court came forward to water the plant with their earnings — but the plant did not move. Even Vikramasimha poured water, but the plant remained still. Tenali bowed his head, secretly enjoying his victory. Just then, a poor farmer entered the court — everyone held their breath. \"Maharaja, this water is truly mine, earned from the crops I toiled to grow in my field,\" he said with a trembling voice. As soon as the farmer poured the water, the small sprout suddenly stood tall and shot upwards — everyone watched in amazement."
+    },
+    {
+      "id": 7,
+      "text": "రాజుగారు సింహాసనం నుండి లేచి నిలబడ్డారు — సభలో గంభీరమైన నిశ్శబ్దం ఏర్పడింది. అతని పెదాలపై చిరునవ్వు వికసించింది. \"రామకృష్ణా, నీ తెలివితేటలు బంగారు మొక్క కన్నా విలువైనవి!\" అని బిగ్గరగా ప్రకటించాడు. రాజుగారి గంభీరమైన నవ్వు సభ అంతా నిండిపోయింది, అది ఆమోదాన్ని చాటింది. విక్రమసింహుడు ఒక్క మాట కూడా పలుకలేకపోయాడు, అతని తల వంగిపోయింది. తెనాలి రామకృష్ణుడు వినయంగా నవ్వాడు — అతని ముఖంలో సంతృప్తి కనిపించింది.",
+      "image_prompt": "The king stands up from his throne, a smile blossoming on his lips as he praises the boy's intelligence. The scholar stands silently, his head bowed low in defeat, unable to utter a single word. Also in this scene: Royal Scholar Vikramasimhudu is a portly man with a proud, upturned nose and a meticulously groomed mustache. He wears opulent, heavily embroidered robes in deep reds and purples, and carries a scroll tied with a golden ribbon. Always the same character across every scene. Gentle dusk light, warm amber, filling the court, casting long, soft shadows, signifying peace and a lesson learned.",
+      "scene_visual": "The king stands up from his throne, a smile blossoming on his lips as he praises the boy's intelligence. The scholar stands silently, his head bowed low in defeat, unable to utter a single word.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Raajugaaru Sinhaasanam Nundi Lechi Nilabaddaaru — Sabhalo Gambhiramaina Nishshabdam Erpadindi. Atani Pedaalapai Chirunavvu Vikasinchindi. \"Raamakrrishnaa, Ni Telivitetalu Bangaaru Mokka Kannaa Viluvainavi!\" Ani Biggaragaa Prakatinchaadu. Raajugaari Gambhiramaina Navvu Sabha Antaa Nindipoyindi, Adi Aamodaanni Chaatindi. Vikramasinhudu Okka Maata Kudaa Palukalekapoyaadu, Atani Tala Vangipoyindi. Tenaali Raamakrrishnudu Vinayangaa Navvaadu — Atani Mukhanlo Santrripti Kanipinchindi.",
+      "text_en": "The King rose from his throne — a solemn silence fell over the court. A smile bloomed on his lips. \"Ramakrishna, your wisdom is more valuable than any golden plant!\" he declared loudly. The King's grand laughter filled the entire court, signifying his approval. Vikramasimha could not utter a single word, his head bowed low. Tenali Ramakrishna smiled humbly — satisfaction was visible on his face."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king_krishnadevaraya",
+      "description": "Emperor Krishnadevaraya is a majestic figure, broad-shouldered with a regal beard and a calm, commanding presence. He wears a crown adorned with jewels and rich, gold-threaded garments befitting his status. Always the same character across every scene."
+    },
+    {
+      "key": "farmer",
+      "description": "The farmer is a lean, sun-weathered man with calloused hands and a humble, honest gaze. He wears simple, coarse cotton dhoti and a worn turban. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 10,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is remarkably strong in its emotional portrayal, character dialogue, grammatical correctness, compelling narrative arc, and ability to engage a young audience. Tenali's wit and the story's central conflict are expertly crafted, leading to a satisfying and wondrous resolution. To elevate this to an award-worthy piece (9+), the primary focus should be on transforming the narrative voice from formal prose to a warm, conversational style, as if a grandparent is truly telling the tale. Infusing more oral warmth and perhaps occasional direct addresses to the listener would make it truly irresistible."
+  },
+  "title_te_en": "Bangaaru Mokka, Tenaali Paatham",
+  "moral_te_en": "Telivigaa Aalochiste, Etuvanti Kashtaannainaa Sulabhangaa Daatavachchu.",
+  "title_en": "The Golden Plant, Tenali's Lesson",
+  "moral_en": "If you think cleverly, any problem can be easily overcome.",
+  "id": "20260528_090912",
+  "date": "2026-05-28",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు పోటీలో విజయం",
+  "thumbnail": "stories/20260528_090912/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
