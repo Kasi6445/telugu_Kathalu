@@ -1,0 +1,125 @@
+{
+  "title": "రాజు మాట – నమ్మకం బలం",
+  "moral": "ఎప్పుడూ నిజం చెప్పే వారి మాటలను ప్రజలు నమ్ముతారు, అది చాలా ముఖ్యమైన విషయం.",
+  "main_character": "Raju is an 8-year-old boy, slightly small for his age, with bright, curious eyes that often hold a mischievous twinkle. He is highly imaginative, but frequently uses this creativity to tell elaborate, untrue stories to avoid chores or gain attention. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, traditional Telugu village situated beside a flowing river, surrounded by lush green paddy fields stretching to the horizon. The village features huts with thatched roofs, a main dusty path, and a large, ancient banyan tree at its center, with the story progressing from morning to evening. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పొద్దున్నే లేచి పనులు చేయాల్సిన రాజు, అమ్మ కళ్ళల్లోకి చూస్తూ ముఖం అమాయకంగా పెట్టాడు. ఆ చల్లటి, మట్టి వాసన పీలుస్తూ, తన పని తప్పించుకోవడానికి ఒక కొత్త ఆలోచన చేశాడు. రాజు మొహంలో ఒక చిలిపి నవ్వు మెరిసింది — తను చాలా తెలివైనవాడినని అనుకున్నాడు. \"అమ్మా, ఒక పెద్ద కోతి నాతో మాట్లాడింది, అందుకే ఆలస్యం!\" అని అబద్ధం చెప్పాడు. అమ్మ నవ్వి, తల అడ్డంగా ఊపింది — తన పనిలోకి తిరిగి వెళ్ళిపోయింది.",
+      "image_prompt": "The boy looks into his mother's eyes, putting on an innocent face. A mischievous smile sparkles on his face as he tells a lie. Bright, clear morning sunlight filtering through the leaves of a small neem tree near their hut, casting playful, dancing shadows on the ground.",
+      "scene_visual": "The boy looks into his mother's eyes, putting on an innocent face. A mischievous smile sparkles on his face as he tells a lie.",
+      "supporting_char_keys": [
+        "mother"
+      ],
+      "text_te_en": "Poddunne Lechi Panulu Cheyaalsina Raaju, Amma Kallalloki Chustu Mukham Amaayakangaa Pettaadu. Aa Challati, Matti Vaasana Pilustu, Tana Pani Tappinchukovadaaniki Oka Kotta Aalochana Cheshaadu. Raaju Mohanlo Oka Chilipi Navvu Merisindi — Tanu Chaalaa Telivainavaadinani Anukunnaadu. \"Ammaa, Oka Pedda Koti Naato Maatlaadindi, Anduke Aalasyan!\" Ani Abaddham Cheppaadu. Amma Navvi, Tala Addangaa Upindi — Tana Paniloki Tirigi Vellipoyindi.",
+      "text_en": "Raju, who was supposed to wake up early and do his chores, looked into his mother's eyes with an innocent face. Breathing in the cool, earthy smell, he came up with a new idea to get out of his work. A mischievous smile sparkled on Raju's face — he thought he was very clever. \"Mom, a big monkey talked to me, that's why I'm late!\" he lied. Mom laughed and shook her head — she went back to her work."
+    },
+    {
+      "id": 2,
+      "text": "అమ్మ తన మాట నమ్మిందో లేదో అని రాజు ఆలోచిస్తూ ఉన్నాడు. ఇంతలో, ఊరి పెద్దాయన కనిపించగానే, రాజు ఉత్సాహంగా ఆయన దగ్గరికి పరిగెత్తాడు. పెద్దాయన దగ్గర నుంచి వచ్చే ఆ పొగాకు వాసన రాజుకు అలవాటు. \"పెద్దాయనా, నేను పొద్దున్న ఒక అద్భుతమైన పక్షిని చూశాను, అది మనుషుల భాషలో మాట్లాడింది!\" అని రాజు ఊపిరి తీసుకోకుండా చెప్పాడు. పెద్దాయన రాజు తల నిమిరాడు — ఆయన కళ్ళల్లో ఎన్నో కథలు దాగి ఉన్నాయనిపించింది. పెద్దాయన మరేమీ మాట్లాడకుండా అటుగా వెళ్ళిపోయాడు.",
+      "image_prompt": "The boy excitedly runs towards the old man and speaks rapidly. The old man gently strokes the boy's head, his eyes seeming to hold many stories. Late afternoon sun, casting long, soft shadows over the village square where Raju and the elder villager are talking, creating a warm yet slightly melancholic atmosphere.",
+      "scene_visual": "The boy excitedly runs towards the old man and speaks rapidly. The old man gently strokes the boy's head, his eyes seeming to hold many stories.",
+      "supporting_char_keys": [
+        "elder_villager"
+      ],
+      "text_te_en": "Amma Tana Maata Nammindo Ledo Ani Raaju Aalochistu Unnaadu. Intalo, Uri Peddaayana Kanipinchagaane, Raaju Utsaahangaa Aayana Daggariki Parigettaadu. Peddaayana Daggara Nunchi Vachche Aa Pogaaku Vaasana Raajuku Alavaatu. \"Peddaayanaa, Nenu Poddunna Oka Adbhutamaina Pakshini Chushaanu, Adi Manushula Bhaashalo Maatlaadindi!\" Ani Raaju Upiri Tisukokundaa Cheppaadu. Peddaayana Raaju Tala Nimiraadu — Aayana Kallallo Enno Kathalu Daagi Unnaayanipinchindi. Peddaayana Maremi Maatlaadakundaa Atugaa Vellipoyaadu.",
+      "text_en": "Raju was wondering if his mother believed him or not. Just then, when the village elder appeared, Raju excitedly ran towards him. Raju was used to the smell of tobacco coming from the elder. \"Elder, this morning I saw an amazing bird, and it spoke in human language!\" Raju said without taking a breath. The elder stroked Raju's head — it felt like many stories were hidden in his eyes. The elder walked away without saying anything else."
+    },
+    {
+      "id": 3,
+      "text": "పెద్దాయన కూడా తన మాట ఎందుకు నమ్మలేదో అని రాజుకు అర్థం కాలేదు. ఇంతలో, దూరంగా, పొలాల వైపు నుంచి ఒక చిన్న గురగుర శబ్దం వినిపించింది. రాజు కళ్ళు పెద్దవయ్యాయి — భయంతో గుండె వేగంగా కొట్టుకుంది. అతనికి నిజంగానే అడవి కుక్కలు కనిపించాయి! \"అమ్మో! అక్కడికి చూడండి! అడవి కుక్కలు వస్తున్నాయి!\" అని వణుకుతున్న గొంతుతో అరిచాడు. కానీ ఎవరూ పట్టించుకోలేదు — వాళ్లందరూ అలసిన నవ్వుతో తలలు ఊపి, తమ పనుల్లో మునిగిపోయారు.",
+      "image_prompt": "The boy's eyes widen in fear as he points towards the fields and shouts with a trembling voice. The villagers shake their heads with tired smiles, continuing their work, ignoring his desperate cries. Mid-afternoon, slightly hazy sun, casting a yellowish light over the dusty village paths, creating a subtle sense of unease and foreboding.",
+      "scene_visual": "The boy's eyes widen in fear as he points towards the fields and shouts with a trembling voice. The villagers shake their heads with tired smiles, continuing their work, ignoring his desperate cries.",
+      "supporting_char_keys": [
+        "mother",
+        "elder_villager"
+      ],
+      "text_te_en": "Peddaayana Kudaa Tana Maata Enduku Nammaledo Ani Raajuku Artham Kaaledu. Intalo, Durangaa, Polaala Vaipu Nunchi Oka Chinna Guragura Shabdam Vinipinchindi. Raaju Kallu Peddavayyaayi — Bhayanto Gunde Vegangaa Kottukundi. Ataniki Nijangaane Adavi Kukkalu Kanipinchaayi! \"Ammo! Akkadiki Chudandi! Adavi Kukkalu Vastunnaayi!\" Ani Vanukutunna Gontuto Arichaadu. Kaani Evaru Pattinchukoledu — Vaallandaru Alasina Navvuto Talalu Upi, Tama Panullo Munigipoyaaru.",
+      "text_en": "Raju couldn't understand why even the elder didn't believe his words. Just then, from a distance, from the direction of the fields, a low growling sound was heard. Raju's eyes widened — his heart pounded with fear. He really saw wild dogs! \"Oh no! Look over there! Wild dogs are coming!\" he shouted with a trembling voice. But no one paid attention — they all shook their heads with tired smiles and went back to their work."
+    },
+    {
+      "id": 4,
+      "text": "గ్రామస్థులు తన మాటను వినకపోవడంతో రాజుకు భయం మరింత పెరిగింది. అమ్మ చేతిని పట్టుకుని, దాని కరుకుదనాన్ని గమనిస్తూ, ఆమెను లాగడానికి ప్రయత్నించాడు. అతని గొంతులో మాటలు రాలేదు — కళ్ళల్లో నీళ్లు సుడులు తిరిగాయి. \"నువ్వు ఎప్పుడూ ఇలాంటి కథలు చెప్తావు కదా, రాజు. ఇప్పుడు పని ఉంది,\" అని అమ్మ మెల్లగా చెప్పింది. రాజు అమ్మ వైపు చూశాడు — తన మాటలకు విలువ లేదని అర్థమైపోయింది. అతను ఒంటరిగా నిలబడ్డాడు.",
+      "image_prompt": "The boy clutches his mother's hand, trying to pull her, as tears swirl in his eyes. His mother looks at him softly, her expression conveying that his words hold no weight. The dim interior of their simple hut, lit by a single flickering oil lamp on a shelf, casting warm but confined light, emphasizing Raju's emotional isolation.",
+      "scene_visual": "The boy clutches his mother's hand, trying to pull her, as tears swirl in his eyes. His mother looks at him softly, her expression conveying that his words hold no weight.",
+      "supporting_char_keys": [
+        "mother"
+      ],
+      "text_te_en": "Graamasthulu Tana Maatanu Vinakapovadanto Raajuku Bhayam Marinta Perigindi. Amma Chetini Pattukuni, Daani Karukudanaanni Gamanistu, Aamenu Laagadaaniki Prayatninchaadu. Atani Gontulo Maatalu Raaledu — Kallallo Nillu Sudulu Tirigaayi. \"Nuvvu Eppudu Ilaanti Kathalu Cheptaavu Kadaa, Raaju. Ippudu Pani Undi,\" Ani Amma Mellagaa Cheppindi. Raaju Amma Vaipu Chushaadu — Tana Maatalaku Viluva Ledani Arthamaipoyindi. Atanu Ontarigaa Nilabaddaadu.",
+      "text_en": "Raju's fear grew even more when the villagers didn't listen to him. He grabbed his mother's hand, noticing its roughness, and tried to pull her. Words wouldn't come out of his throat — tears welled up in his eyes. \"You always tell stories like this, Raju. Now there's work to do,\" Mom said softly. Raju looked at his mother — he understood that his words had no value. He stood alone."
+    },
+    {
+      "id": 5,
+      "text": "ఆ ఒంటరితనం, నిస్సహాయత రాజు గుండెను పిండినట్లు అనిపించింది. చివరి ప్రయత్నంగా, రాజు వణుకుతున్న అడుగులతో పెద్దాయన దగ్గరికి పరిగెత్తాడు. ఆయన చేతి చల్లదనం రాజుకు కొంచెం ధైర్యాన్ని ఇచ్చింది. \"నాన్నా, నిజంగానే అవి వస్తున్నాయి! దయచేసి నన్ను నమ్మండి!\" అని ప్రాధేయపడ్డాడు. పెద్దాయన రాజు తల మీద చేయి ఉంచాడు — ఆయన కళ్ళలో జాలి ఉన్నా, పెదవులు గట్టిగా మూసుకున్నాయి. ఆ మౌనంలో ఒక పాఠం ఉంది.",
+      "image_prompt": "The boy runs with trembling steps to the old man, pleading desperately. The old man places a hand on the boy's head, his eyes showing pity, but his lips are tightly sealed. Under the large banyan tree, dappled sunlight filters through the dense canopy of leaves, creating a calm but slightly somber atmosphere around the elder and Raju.",
+      "scene_visual": "The boy runs with trembling steps to the old man, pleading desperately. The old man places a hand on the boy's head, his eyes showing pity, but his lips are tightly sealed.",
+      "supporting_char_keys": [
+        "elder_villager"
+      ],
+      "text_te_en": "Aa Ontaritanan, Nissahaayata Raaju Gundenu Pindinatlu Anipinchindi. Chivari Prayatnangaa, Raaju Vanukutunna Adugulato Peddaayana Daggariki Parigettaadu. Aayana Cheti Challadanam Raajuku Konchem Dhairyaanni Ichchindi. \"Naannaa, Nijangaane Avi Vastunnaayi! Dayachesi Nannu Nammandi!\" Ani Praadheyapaddaadu. Peddaayana Raaju Tala Mida Cheyi Unchaadu — Aayana Kallalo Jaali Unnaa, Pedavulu Gattigaa Musukunnaayi. Aa Maunanlo Oka Paatham Undi.",
+      "text_en": "That loneliness and helplessness felt like they were crushing Raju's heart. As a last attempt, Raju ran with trembling steps towards the elder. The coolness of his hand gave Raju a little courage. \"Father, they are really coming! Please believe me!\" he pleaded. The elder placed his hand on Raju's head — even though there was pity in his eyes, his lips were tightly sealed. There was a lesson in that silence."
+    },
+    {
+      "id": 6,
+      "text": "పెద్దాయన మౌనం రాజును మరింత కృంగదీసింది. ఇంతలో, పొలాల వైపు నుండి అడవి కుక్కల అరుపులు, గొర్రెల భయంతో కూడిన కేకలు ఒక్కసారిగా వినిపించాయి. అందరూ ఉలిక్కిపడ్డారు — ఆ చప్పుడుతో గ్రామం మొత్తం నిశ్శబ్దంగా మారిపోయింది. \"అయ్యో! రాజు నిజమే చెప్పాడు! త్వరగా వెళ్ళండి!\" అని ఒకరు అరిచారు. రాజు కళ్ళ నుంచి భయం, ఆనందం రెండూ కలిసి నీళ్లుగా కారాయి — అతని శరీరం వణికింది. అందరూ అతని పక్కనుంచి పొలాల వైపు పరిగెత్తారు.",
+      "image_prompt": "The boy stands trembling as tears of both fear and joy stream from his eyes. Villagers, startled by the sounds from the fields, rush past him, their faces now filled with urgency. Late afternoon light, turning golden and hazy, but now imbued with a sense of urgent chaos as dust is kicked up by running feet and shadows lengthen dramatically.",
+      "scene_visual": "The boy stands trembling as tears of both fear and joy stream from his eyes. Villagers, startled by the sounds from the fields, rush past him, their faces now filled with urgency.",
+      "supporting_char_keys": [
+        "mother",
+        "elder_villager"
+      ],
+      "text_te_en": "Peddaayana Maunam Raajunu Marinta Krringadisindi. Intalo, Polaala Vaipu Nundi Adavi Kukkala Arupulu, Gorrela Bhayanto Kudina Kekalu Okkasaarigaa Vinipinchaayi. Andaru Ulikkipaddaaru — Aa Chappuduto Graamam Mottam Nishshabdangaa Maaripoyindi. \"Ayyo! Raaju Nijame Cheppaadu! Tvaragaa Vellandi!\" Ani Okaru Arichaaru. Raaju Kalla Nunchi Bhayan, Aanandam Rendu Kalisi Nillugaa Kaaraayi — Atani Shariram Vanikindi. Andaru Atani Pakkanunchi Polaala Vaipu Parigettaaru.",
+      "text_en": "The elder's silence disheartened Raju even more. Just then, from the direction of the fields, the barks of wild dogs and the frightened bleats of sheep were suddenly heard. Everyone was startled — the whole village fell silent with that sound. \"Oh no! Raju was telling the truth! Go quickly!\" someone shouted. Both fear and joy streamed as tears from Raju's eyes — his body trembled. Everyone ran past him towards the fields."
+    },
+    {
+      "id": 7,
+      "text": "ఆ ప్రమాదం తప్పిన తర్వాత, అమ్మ, పెద్దాయన రాజు దగ్గరికి వచ్చారు. అమ్మ చేయి అతని భుజం మీద సున్నితంగా ఆనింది — ఆ వెచ్చదనం రాజుకు ఎంతో ధైర్యాన్ని ఇచ్చింది. రాజు తల వంచుకున్నాడు — తన తప్పు తెలుసుకున్నాడు. \"ఇకపై నేను ఎప్పుడూ అబద్ధాలు చెప్పను, అమ్మా,\" అని అతని కళ్ళు పైకి లేచాయి. ఆ కళ్ళల్లో నిజాయితీ, పశ్చాత్తాపం స్పష్టంగా కనిపించాయి.",
+      "image_prompt": "The boy, with his head bowed, looks up at his mother. His eyes, now lifted, clearly show honesty and deep remorse. Gentle dusk light, warm amber and soft purple hues beginning to spread across the evening sky, creating a peaceful and reflective atmosphere over the village.",
+      "scene_visual": "The boy, with his head bowed, looks up at his mother. His eyes, now lifted, clearly show honesty and deep remorse.",
+      "supporting_char_keys": [
+        "mother",
+        "elder_villager"
+      ],
+      "text_te_en": "Aa Pramaadam Tappina Tarvaata, Amma, Peddaayana Raaju Daggariki Vachchaaru. Amma Cheyi Atani Bhujam Mida Sunnitangaa Aanindi — Aa Vechchadanam Raajuku Ento Dhairyaanni Ichchindi. Raaju Tala Vanchukunnaadu — Tana Tappu Telusukunnaadu. \"Ikapai Nenu Eppudu Abaddhaalu Cheppanu, Ammaa,\" Ani Atani Kallu Paiki Lechaayi. Aa Kallallo Nijaayiti, Pashchaattaapam Spashtangaa Kanipinchaayi.",
+      "text_en": "After the danger had passed, Mom and the elder came to Raju. Mom's hand gently rested on his shoulder — that warmth gave Raju a lot of courage. Raju bowed his head — he understood his mistake. \"From now on, I will never tell lies, Mom,\" he said as his eyes looked up. Honesty and regret were clearly visible in those eyes."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "mother",
+      "description": "Raju's mother is a kind and hardworking woman in her late 30s, always wearing a traditional cotton saree, her hands often stained with turmeric or flour. Her face shows both warmth and the quiet weariness of daily village life. Always the same character across every scene."
+    },
+    {
+      "key": "elder_villager",
+      "description": "A wise and respected old man in his 70s, with a long white beard and gentle, knowing eyes. He wears a simple white dhoti and often carries a sturdy wooden walking stick. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 6,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.83,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a compelling narrative arc and flawless colloquial Telugu, making it a strong and engaging read. To reach award-worthy status, the primary focus should be on enhancing emotional depth by consistently showing feelings through action and dialogue, rather than stating them directly. Additionally, removing explicit moral statements and narrator intrusions would significantly boost the grandmother's oral authenticity, making the story feel more like a natural bedtime tale."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raaju Maata – Nammakam Balam",
+  "moral_te_en": "Eppudu Nijam Cheppe Vaari Maatalanu Prajalu Nammutaaru, Adi Chaalaa Mukhyamaina Vishayan.",
+  "title_en": "Raju's Words – The Power of Trust",
+  "moral_en": "People always believe those who tell the truth, and that is very important.",
+  "id": "20260528_071016",
+  "date": "2026-05-28",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "అబద్ధాలు చెప్పే కుర్రాడు",
+  "thumbnail": "stories/20260528_071016/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
