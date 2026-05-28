@@ -374,6 +374,7 @@ def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
                   existing_titles: list[str] | None = None,
                   existing_topics: list[str] | None = None,
                   existing_morals: list[str] | None = None,
+                  same_cat_stories: list[dict] | None = None,
                   prev_failure_notes: str | None = None) -> dict[str, Any]:
     """Convert English outline into grandmother-voiced Telugu narration."""
     cat = categories[cat_key]
@@ -405,22 +406,38 @@ def _pass2_telugu(outline: dict[str, Any], cat_key: str, sub_key: str,
 """
 
     existing_titles_block = ""
-    if existing_titles or existing_topics or existing_morals:
-        titles_list  = "\n".join(f"  - {t}" for t in (existing_titles or []) if t)
-        topics_list  = "\n".join(f"  - {t}" for t in (existing_topics or []) if t)
-        morals_list  = "\n".join(f"  - {m[:120]}" for m in (existing_morals or []) if m)
+    if existing_titles or same_cat_stories:
+        # Same-category block: show title + underlying event side-by-side.
+        # This is the primary duplicate guard — flat topic lists are too easy to
+        # paraphrase around; explicit character+event pairs are not.
+        same_cat_block = ""
+        if same_cat_stories:
+            same_cat_lines = "\n".join(
+                f"  · \"{s['title']}\"  [event: {s['topic']}]"
+                if s.get("topic") else f"  · \"{s['title']}\""
+                for s in same_cat_stories
+            )
+            same_cat_block = (
+                f"SAME-CATEGORY STORIES ALREADY IN THE LIBRARY — ALL BLOCKED:\n"
+                f"(Character + Event = the pair that must be unique. Title wording does NOT matter.)\n"
+                f"{same_cat_lines}\n\n"
+                f"DUPLICATE TEST — ask yourself before writing:\n"
+                f"  Does my story use the SAME character doing the SAME key action as any row above?\n"
+                f"  Different title / different dialogue / told from a different angle = STILL a duplicate.\n"
+                f"  Example: 'పర్వతాన్ని మోసిన హనుమా' and 'సంజీవని తెచ్చిన ఆంజనేయుడు' are the SAME story.\n"
+                f"  If the answer is YES → pivot to a completely different event.\n\n"
+            )
+
+        titles_list = "\n".join(f"  - {t}" for t in (existing_titles or []) if t)
+
         existing_titles_block = (
-            f"\nCONCEPT UNIQUENESS — MANDATORY (most important rule):\n"
-            f"The library already has these stories. Your new story MUST be genuinely different\n"
-            f"in CONCEPT, LESSON, and CHARACTERS — not just in title wording.\n\n"
-            f"EXISTING TITLES (your title must be completely different):\n"
+            f"\n====== CONCEPT UNIQUENESS — MANDATORY (checked before quality) ======\n"
+            f"{same_cat_block}"
+            f"ALL LIBRARY TITLES (your title must not duplicate or closely echo any of these):\n"
             f"{titles_list}\n\n"
-            f"EXISTING TOPICS (your story must cover a different topic/event):\n"
-            f"{topics_list}\n\n"
-            f"EXISTING MORALS/LESSONS (your story must teach a different lesson):\n"
-            f"{morals_list}\n\n"
-            f"If your story would teach the same lesson or feature the same event as any entry\n"
-            f"above — even with different wording — REWRITE it to be genuinely different.\n"
+            f"If your story covers the same event as anything above — even with different wording —\n"
+            f"STOP and rewrite with a genuinely different event.\n"
+            f"====================================================================\n"
         )
 
     retry_feedback_block = ""
@@ -1066,6 +1083,17 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
     existing_titles = [s.get("title", "") for s in story_index]
     existing_topics = [s.get("topic", "") for s in story_index if s.get("topic")]
     existing_morals = [s.get("moral", "") for s in story_index if s.get("moral")]
+    # Per-category title+event pairs for precise duplicate detection.
+    # Flat cross-category lists are too easy for the LLM to paraphrase around;
+    # showing character+event pairs within the same category makes same-concept
+    # stories impossible to miss even with different title wording.
+    same_cat_stories = [
+        {"title": s.get("title", ""), "topic": s.get("topic", "")}
+        for s in story_index
+        if isinstance(s, dict)
+        and s.get("category") == cat_key
+        and (s.get("title") or s.get("topic"))
+    ]
 
     # ── Pass 1: Outline ───────────────────────────────────────────────────────
     set_stage("outline")
@@ -1088,6 +1116,7 @@ def generate_story(cat_key: str, sub_key: str, topic: str,
                                      existing_titles=existing_titles,
                                      existing_topics=existing_topics,
                                      existing_morals=existing_morals,
+                                     same_cat_stories=same_cat_stories,
                                      prev_failure_notes=prev_failure_notes)
 
         # Pass 2.5: extract narration-grounded visual descriptions for each scene.
