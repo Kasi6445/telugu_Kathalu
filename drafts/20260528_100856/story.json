@@ -1,0 +1,97 @@
+{
+  "title": "రాజు చతురత, రాక్షసుడి పాఠం",
+  "moral": "ఎంత పెద్ద సమస్య అయినా, తెలివైన ఆలోచన, తక్షణ నిర్ణయంతో అధిగమించవచ్చు అని రాజు నిరూపించాడు.",
+  "main_character": "Raju is a quick-witted boy, around 10 years old, with bright, curious eyes and a lean build. He often has a thoughtful expression, even when playing. Always the same character across every scene.",
+  "antagonist": "Rakshasudu (Giant) is a hulking, green-skinned giant with a booming voice and a scowl perpetually etched on his face. He wears a rough, animal-hide tunic and carries a large, gnarled club. Always the same character across every scene.",
+  "setting": "A small, sun-drenched village nestled at the edge of a dense, green forest in rural Andhra Pradesh. Clay-tiled roofs gleam, and mango trees cast dappled shadows. The air is filled with the scent of jasmine and earth. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మామిడి చెట్టు కింద కూర్చున్న రాజు కళ్ళు మెరిసిపోతున్నాయి, పెదవుల మీద చిన్న నవ్వు ఆడుతోంది. అమ్మమ్మ ఇచ్చిన పొడుపు కథను తీక్షణంగా ఆలోచిస్తున్నాడు. చుట్టూRipe మామిడి పండ్ల తీయని వాసన గాలిలో నిండి ఉంది. \"అవును! సమాధానం 'నిశ్శబ్దం'!\" అని ఆనందంగా అరచాడు. అతని ముఖంలో విజయం స్పష్టంగా కనిపించింది. ఆ క్షణంలో — అడవిలో నుండి ఒక వింత శబ్దం, భూమిని కదిలించినట్లు, రాజు చెవుల్లో పడింది.",
+      "image_prompt": "The boy joyfully shouts the answer to a riddle, his face alight with triumph. His sparkling eyes suddenly widen as a strange, earth-shaking sound from the forest reaches his ears. Bright, warm afternoon sun filtering through dense mango leaves, creating intricate patterns of light and shadow on the ground.",
+      "scene_visual": "The boy joyfully shouts the answer to a riddle, his face alight with triumph. His sparkling eyes suddenly widen as a strange, earth-shaking sound from the forest reaches his ears.",
+      "supporting_char_keys": [],
+      "text_te_en": "Maamidi Chettu Kinda Kurchunna Raaju Kallu Merisipotunnaayi, Pedavula Mida Chinna Navvu Aadutondi. Ammamma Ichchina Podupu Kathanu Tikshanangaa Aalochistunnaadu. Chutturipe Maamidi Pandla Tiyani Vaasana Gaalilo Nindi Undi. \"Avunu! Samaadhaanam 'Nishshabdan'!\" Ani Aanandangaa Arachaadu. Atani Mukhanlo Vijayam Spashtangaa Kanipinchindi. Aa Kshananlo — Adavilo Nundi Oka Vinta Shabdan, Bhumini Kadilinchinatlu, Raaju Chevullo Padindi.",
+      "text_en": "Raju sat under a mango tree, his eyes sparkling, a small smile playing on his lips. He was deeply thinking about a riddle his grandmother had given him. The sweet smell of ripe mangoes filled the air all around him. \"Yes! The answer is 'Silence'!\" he shouted happily. Victory was clear on his face. At that very moment — a strange sound, like the earth shaking, came from the forest and reached Raju's ears."
+    },
+    {
+      "id": 2,
+      "text": "ఆ వింత చప్పుడు ఎక్కడి నుంచి వచ్చిందో తెలుసుకోవాలని రాజు అడవి అంచు వైపు నడిచాడు. చెట్ల పొదల వెనుక నుండి ఒక పెద్ద, వెంట్రుకల చేయి ఒక్కసారిగా అతని భుజాన్ని పట్టుకుంది. రాజు కళ్ళు పెద్దవి అయ్యాయి, గుండె వేగంగా కొట్టుకుంది — ఊపిరి బిగబట్టాడు. ఆ రాక్షసుడి ముతక, గరుకు చేయి అతని చేతిని గట్టిగా పట్టుకుంది. \"హా హా హా! చిన్నపాప, ఈరోజు నా ఆకలి తీర్చడానికి దొరికావు!\" అని రాక్షసుడు భయంకరంగా నవ్వాడు. రాక్షసుడు రాజును గాలిలోకి లేపాడు — అతని భయంకరమైన నవ్వు రాజు ముఖానికి దగ్గరగా ఉంది.",
+      "image_prompt": "The monster lifts the boy into the air, holding him firmly. The monster's terrifying laugh echoes, its face looming menacingly close to the boy's terrified expression. Also in this scene: Rakshasudu (Giant) is a hulking, green-skinned giant with a booming voice and a scowl perpetually etched on his face. He wears a rough, animal-hide tunic and carries a large, gnarled club. Always the same character across every scene. Harsh, dappled sunlight at the forest edge, with deep, threatening shadows cast by the giant's immense form.",
+      "scene_visual": "The monster lifts the boy into the air, holding him firmly. The monster's terrifying laugh echoes, its face looming menacingly close to the boy's terrified expression.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vinta Chappudu Ekkadi Nunchi Vachchindo Telusukovaalani Raaju Adavi Anchu Vaipu Nadichaadu. Chetla Podala Venuka Nundi Oka Pedda, Ventrukala Cheyi Okkasaarigaa Atani Bhujaanni Pattukundi. Raaju Kallu Peddavi Ayyaayi, Gunde Vegangaa Kottukundi — Upiri Bigabattaadu. Aa Raakshasudi Mutaka, Garuku Cheyi Atani Chetini Gattigaa Pattukundi. \"Haa Haa Haa! Chinnapaapa, Iroju Naa Aakali Tirchadaaniki Dorikaavu!\" Ani Raakshasudu Bhayankarangaa Navvaadu. Raakshasudu Raajunu Gaaliloki Lepaadu — Atani Bhayankaramaina Navvu Raaju Mukhaaniki Daggaragaa Undi.",
+      "text_en": "Curious to know where the strange sound came from, Raju walked towards the edge of the forest. Suddenly, a huge, hairy hand reached out from behind the bushes and grabbed his shoulder. Raju's eyes widened, his heart pounded — he held his breath. The monster's rough, coarse hand held his arm tightly. \"Ha ha ha! Little child, you've been caught to satisfy my hunger today!\" the monster roared with a terrifying laugh. The monster lifted Raju into the air — his scary laugh was close to Raju's face."
+    },
+    {
+      "id": 3,
+      "text": "రాజు భయంతో వణికిపోతున్నాడు కానీ ధైర్యం తెచ్చుకున్నాడు. అతను రాక్షసుడి కళ్ళలోకి సూటిగా చూశాడు, గొంతు కొద్దిగా వణుకుతూనే అడిగాడు. \"మహాశయా, మీకు పొడుపు కథలు తెలుసా?\" రాక్షసుడికి ఆశ్చర్యం వేసింది, అతని భారీ నవ్వు చెట్ల గుండా ప్రతిధ్వనించి, ఆకులను కదిలించింది. ఆ పెద్ద చేతిలో రాజు ఇంకా ఊగుతున్నాడు. రాక్షసుడు రాజును కొద్దిగా కిందకి దించాడు — అతని క్రూరమైన కళ్ళల్లో ఒక చిన్న ఆసక్తి మెరిసింది.",
+      "image_prompt": "The boy, trembling with fear, looks directly into the monster's eyes and asks a question. The monster, still holding the boy, shows a flicker of interest in its cruel eyes as its massive laugh echoes through the trees. Also in this scene: Rakshasudu (Giant) is a hulking, green-skinned giant with a booming voice and a scowl perpetually etched on his face. He wears a rough, animal-hide tunic and carries a large, gnarled club. Always the same character across every scene. Overcast sky as a storm begins to gather, making the forest appear darker and more foreboding.",
+      "scene_visual": "The boy, trembling with fear, looks directly into the monster's eyes and asks a question. The monster, still holding the boy, shows a flicker of interest in its cruel eyes as its massive laugh echoes through the trees.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Bhayanto Vanikipotunnaadu Kaani Dhairyam Techchukunnaadu. Atanu Raakshasudi Kallaloki Sutigaa Chushaadu, Gontu Koddigaa Vanukutune Adigaadu. \"Mahaashayaa, Miku Podupu Kathalu Telusaa?\" Raakshasudiki Aashcharyam Vesindi, Atani Bhaari Navvu Chetla Gundaa Pratidhvaninchi, Aakulanu Kadilinchindi. Aa Pedda Chetilo Raaju Inkaa Ugutunnaadu. Raakshasudu Raajunu Koddigaa Kindaki Dinchaadu — Atani Kruramaina Kallallo Oka Chinna Aasakti Merisindi.",
+      "text_en": "Raju was trembling with fear, but he gathered his courage. He looked straight into the monster's eyes and asked, his voice shaking slightly, \"Sir, do you know riddles?\" The monster was surprised, and his huge laugh echoed through the trees, making the leaves rustle. Raju was still dangling in that big hand. The monster lowered Raju a little — a flicker of interest shone in his cruel eyes."
+    },
+    {
+      "id": 4,
+      "text": "రాక్షసుడు నవ్వుతూ, \"సరే, నీ తెలివిని చూద్దాం! నా పొడుపు కథను నువ్వు చెప్పలేకపోతే, నిన్ను వదిలేస్తాను!\" అన్నాడు. రాజు కళ్ళలో ఒక ఆశ మెరిసింది, చిన్న చేతితో రాక్షసుడి వైపు చూపిస్తూ అడిగాడు. \"చెట్టుకు కాస్తాయి కానీ పండ్లు కావు. తీగకు పూస్తాయి కానీ పువ్వులు కావు. ఏమిటది?\" రాక్షసుడు తన భారీ అడుగులతో అటూఇటూ నడుస్తూ ఆలోచిస్తున్నాడు, అతని బరువుకు ఎండుటాకులు కింద నలిగిపోయాయి. అతను తల గీరుకున్నాడు — ఈ సాధారణ పొడుపు కథకు సమాధానం దొరకక ఇబ్బంది పడ్డాడు.",
+      "image_prompt": "The monster paces back and forth, scratching its head in confusion. Dried leaves crunch under its massive feet as it struggles to answer the simple riddle, a look of bewilderment on its face. Also in this scene: Rakshasudu (Giant) is a hulking, green-skinned giant with a booming voice and a scowl perpetually etched on his face. He wears a rough, animal-hide tunic and carries a large, gnarled club. Always the same character across every scene. A single shaft of sunlight breaks through the clouds, illuminating Raju's face while the giant remains in shadow.",
+      "scene_visual": "The monster paces back and forth, scratching its head in confusion. Dried leaves crunch under its massive feet as it struggles to answer the simple riddle, a look of bewilderment on its face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raakshasudu Navvutu, \"Sare, Ni Telivini Chuddaan! Naa Podupu Kathanu Nuvvu Cheppalekapote, Ninnu Vadilestaanu!\" Annaadu. Raaju Kallalo Oka Aasha Merisindi, Chinna Chetito Raakshasudi Vaipu Chupistu Adigaadu. \"Chettuku Kaastaayi Kaani Pandlu Kaavu. Tigaku Pustaayi Kaani Puvvulu Kaavu. Emitadi?\" Raakshasudu Tana Bhaari Adugulato Atuitu Nadustu Aalochistunnaadu, Atani Baruvuku Endutaakulu Kinda Naligipoyaayi. Atanu Tala Girukunnaadu — I Saadhaarana Podupu Kathaku Samaadhaanam Dorakaka Ibbandi Paddaadu.",
+      "text_en": "The monster chuckled, \"Alright, let's see your cleverness! If you can't solve my riddle, I'll let you go!\" A spark of hope lit up in Raju's eyes, and pointing towards the monster with his small hand, he asked, \"They grow on trees but are not fruits. They bloom on vines but are not flowers. What are they?\" The monster walked back and forth with his heavy steps, thinking, dry leaves crunching under his weight. He scratched his head — he was troubled because he couldn't find the answer to this simple riddle."
+    },
+    {
+      "id": 5,
+      "text": "\"ఛీ, ఇది చాలా సులభం, కానీ నాకు గుర్తు రావట్లేదు!\" అని రాక్షసుడు కోపంగా అన్నాడు. \"సరే, మరో పొడుపు కథ చెప్పు, దాన్ని కూడా నేను చెప్పలేకపోతే, నిన్ను నిజంగా వదిలేస్తాను!\" రాజు నుదురు ముడిచి ఆలోచించాడు, తర్వాత అతని కళ్ళల్లో ఒక నమ్మకమైన మెరుపు కనిపించింది. \"దానికి ఆయువు లేదు, ఆకారం లేదు. అది అందరినీ వెంటాడుతుంది, ఎవరికీ దొరకదు. అది ఏమిటి?\" రాక్షసుడి చెవి దగ్గర ఒక చిన్న ఈగ ఝుమ్మని తిరుగుతూ అతనికి మరింత చిరాకు తెప్పించింది. రాక్షసుడి కళ్ళు సన్నబడ్డాయి — రాజు చెప్పిన లోతైన పొడుపు కథ అర్థం చేసుకోవడానికి ప్రయత్నిస్తున్నాడు.",
+      "image_prompt": "The monster angrily complains, its eyes narrowing as it tries to understand the boy's new, deeper riddle. A small fly buzzing near the monster's ear adds to its visible irritation. Also in this scene: Rakshasudu (Giant) is a hulking, green-skinned giant with a booming voice and a scowl perpetually etched on his face. He wears a rough, animal-hide tunic and carries a large, gnarled club. Always the same character across every scene. The light begins to fade, casting long, eerie shadows as evening approaches, increasing the tension.",
+      "scene_visual": "The monster angrily complains, its eyes narrowing as it tries to understand the boy's new, deeper riddle. A small fly buzzing near the monster's ear adds to its visible irritation.",
+      "supporting_char_keys": [],
+      "text_te_en": "\"Chi, Idi Chaalaa Sulabhan, Kaani Naaku Gurtu Raavatledu!\" Ani Raakshasudu Kopangaa Annaadu. \"Sare, Maro Podupu Katha Cheppu, Daanni Kudaa Nenu Cheppalekapote, Ninnu Nijangaa Vadilestaanu!\" Raaju Nuduru Mudichi Aalochinchaadu, Tarvaata Atani Kallallo Oka Nammakamaina Merupu Kanipinchindi. \"Daaniki Aayuvu Ledu, Aakaaram Ledu. Adi Andarini Ventaadutundi, Evariki Dorakadu. Adi Emiti?\" Raakshasudi Chevi Daggara Oka Chinna Iga Jhummani Tirugutu Ataniki Marinta Chiraaku Teppinchindi. Raakshasudi Kallu Sannabaddaayi — Raaju Cheppina Lotaina Podupu Katha Artham Chesukovadaaniki Prayatnistunnaadu.",
+      "text_en": "\"Ugh, this is too easy, but I can't remember it!\" the monster said angrily. \"Alright, tell me another riddle, and if I can't solve that one either, I'll truly let you go!\" Raju frowned in thought, then a confident sparkle appeared in his eyes. \"It has no life, no form. It chases everyone, but no one can catch it. What is it?\" A small fly buzzed near the monster's ear, annoying him even more. The monster's eyes narrowed — he was trying to understand the deep riddle Raju had told."
+    },
+    {
+      "id": 6,
+      "text": "రాక్షసుడు అటూఇటూ వేగంగా తిరుగుతూ, గొణుగుతూ, కోపంగా అరిచాడు. రాజు ప్రశాంతంగా, చిన్న నవ్వుతో రాక్షసుడి పరుగును చూస్తున్నాడు. రాక్షసుడి భారీ శ్వాసలు గట్టిగా వినిపిస్తున్నాయి, అవి అతని చిరాకును తెలియజేస్తున్నాయి. ఎంత ఆలోచించినా, ఈ పొడుపు కథకు సమాధానం దొరకలేదు. \"ఛీ! ఇది నా వల్ల కాదు! దీనికి సమాధానం ఏమిటో చెప్పు!\" అని రాక్షసుడు విసిగిపోయి అరిచాడు. చివరికి రాక్షసుడు ఒక చెట్టుకి ఒరిగిపోయాడు — అతని చేతిలోని భారీ గద కింద పడి పెద్ద శబ్దం చేసింది.",
+      "image_prompt": "The monster paces rapidly, muttering and shouting in frustration, then leans against a tree in defeat. Its heavy club falls from its hand with a loud thud, signifying its complete surrender to the riddle. Also in this scene: Rakshasudu (Giant) is a hulking, green-skinned giant with a booming voice and a scowl perpetually etched on his face. He wears a rough, animal-hide tunic and carries a large, gnarled club. Always the same character across every scene. Deep twilight, with the last rays of orange light disappearing behind the trees, creating a silhouettes of the giant and Raju.",
+      "scene_visual": "The monster paces rapidly, muttering and shouting in frustration, then leans against a tree in defeat. Its heavy club falls from its hand with a loud thud, signifying its complete surrender to the riddle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raakshasudu Atuitu Vegangaa Tirugutu, Gonugutu, Kopangaa Arichaadu. Raaju Prashaantangaa, Chinna Navvuto Raakshasudi Parugunu Chustunnaadu. Raakshasudi Bhaari Shvaasalu Gattigaa Vinipistunnaayi, Avi Atani Chiraakunu Teliyajestunnaayi. Enta Aalochinchinaa, I Podupu Kathaku Samaadhaanam Dorakaledu. \"Chi! Idi Naa Valla Kaadu! Diniki Samaadhaanam Emito Cheppu!\" Ani Raakshasudu Visigipoyi Arichaadu. Chivariki Raakshasudu Oka Chettuki Origipoyaadu — Atani Chetiloni Bhaari Gada Kinda Padi Pedda Shabdam Chesindi.",
+      "text_en": "The monster paced back and forth quickly, grumbling and shouting angrily. Raju watched the monster's frantic movements calmly, with a small smile. The monster's heavy breaths were loud, showing his frustration. No matter how much he thought, he couldn't find the answer to this riddle. \"Ugh! I can't do this! Tell me the answer!\" the monster yelled, exasperated. Finally, the monster leaned against a tree — the huge club in his hand fell to the ground with a loud thud."
+    },
+    {
+      "id": 7,
+      "text": "రాజు నెమ్మదిగా రాక్షసుడి దగ్గరికి వెళ్ళాడు, అతని ముఖం ఇప్పుడు ప్రశాంతంగా ఉంది. \"దానికి సమాధానం 'గతం', మహాశయా.\" అని రాజు చిన్నగా చెప్పాడు. రాక్షసుడు ఒక్క క్షణం నిశ్శబ్దంగా ఉండిపోయాడు, ఆశ్చర్యంతో అతని నోరు తెరుచుకుంది. రాజు తెలివితేటలకు అతను ఆశ్చర్యపోయాడు, తన మాట నిలబెట్టుకోవాలని రాజును వదిలేశాడు. సాయంత్రపు చల్లటి గాలి రాజు జుట్టును నిమురుతుండగా, అతను సంతోషంగా గ్రామం వైపు నడిచాడు.",
+      "image_prompt": "The boy calmly approaches the monster and quietly reveals the answer to the riddle. The monster stands silent for a moment, its mouth agape in astonishment at the boy's cleverness. Also in this scene: Rakshasudu (Giant) is a hulking, green-skinned giant with a booming voice and a scowl perpetually etched on his face. He wears a rough, animal-hide tunic and carries a large, gnarled club. Always the same character across every scene. Early night, with a few stars beginning to twinkle in the darkening sky, casting a peaceful, calming blue hue over the scene.",
+      "scene_visual": "The boy calmly approaches the monster and quietly reveals the answer to the riddle. The monster stands silent for a moment, its mouth agape in astonishment at the boy's cleverness.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Nemmadigaa Raakshasudi Daggariki Vellaadu, Atani Mukham Ippudu Prashaantangaa Undi. \"Daaniki Samaadhaanam 'Gatan', Mahaashayaa.\" Ani Raaju Chinnagaa Cheppaadu. Raakshasudu Okka Kshanam Nishshabdangaa Undipoyaadu, Aashcharyanto Atani Noru Teruchukundi. Raaju Telivitetalaku Atanu Aashcharyapoyaadu, Tana Maata Nilabettukovaalani Raajunu Vadileshaadu. Saayantrapu Challati Gaali Raaju Juttunu Nimurutundagaa, Atanu Santoshangaa Graamam Vaipu Nadichaadu.",
+      "text_en": "Raju slowly walked towards the monster, his face now calm. \"The answer is 'the past', Sir,\" Raju said softly. The monster remained silent for a moment, his mouth open in surprise. He was amazed by Raju's cleverness and, to keep his word, he let Raju go. As the cool evening breeze ruffled Raju's hair, he happily walked towards the village."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, rich dialogue, and strong emotional portrayal through action. It's highly engaging for a child, with well-paced tension and a satisfying resolution. The primary area for improvement lies in the narrative voice; it often leans towards a formal, written style rather than the warm, conversational tone of a grandparent. To elevate it to a 9+, the editor should focus on softening the narration, allowing the moral to emerge organically from the events, and perhaps incorporating more direct, oral storytelling elements."
+  },
+  "title_te_en": "Raaju Chaturata, Raakshasudi Paatham",
+  "moral_te_en": "Enta Pedda Samasya Ayinaa, Telivaina Aalochana, Takshana Nirnayanto Adhigaminchavachchu Ani Raaju Nirupinchaadu.",
+  "title_en": "Raju's Cleverness and the Monster's Lesson",
+  "moral_en": "Raju proved that no matter how big a problem, it can be overcome with clever thinking and quick decisions.",
+  "id": "20260528_100856",
+  "date": "2026-05-28",
+  "category": "podupu",
+  "subcategory": "clever_escapes",
+  "topic": "పొడుపు కథతో శత్రువు నుండి తప్పించిన బాలుడు",
+  "thumbnail": "stories/20260528_100856/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
