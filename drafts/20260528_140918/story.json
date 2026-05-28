@@ -1,0 +1,115 @@
+{
+  "title": "రామా, ఆలోచించి మాట్లాడు",
+  "moral": "మాట ఒకసారి బయటికి వస్తే, దాన్ని వెనక్కి తీసుకోలేము కదా, అందుకే ఎప్పుడూ ఆలోచించి మాట్లాడాలి.",
+  "main_character": "Rama is a spirited 10-year-old boy, lean with bright, curious eyes and a perpetually slightly-open mouth, always ready to speak. He's quick-witted but often blurts out the first thing that comes to his mind. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant village named Pothavaram in rural Andhra Pradesh, nestled beside a gushing river. The village has mud-brick houses with thatched roofs, a central banyan tree, and fields of paddy stretching into the distance under the clear blue sky. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నానమ్మ, 'అప్పుడు ఆ రాజు...' అని కథ చెప్తుండగా, రామా తన పాదాల మీద ఎగిరి గంతులు వేశాడు — అతని కళ్ళు మెరుస్తూనే ఉన్నాయి. మిఠాయిల కోసం దంచుతున్న బెల్లం తీయటి వాసన ఇంటి నిండా నిండి ఉన్నా, అతని దృష్టి మాత్రం నానమ్మ మీదనే. పూర్తి వాక్యం వినకుండానే, తను చెప్పదల్చుకున్నది చెప్పడానికి అతని పెదవులు అప్పుడే కదులుతున్నాయి. \"నానమ్మా, కానీ నాకు ఒక కొత్త ఆట ఆలోచన ఉంది!\" అని ఆతృతగా అన్నాడు. నానమ్మ ఓపికగా నవ్వి, మెల్లగా తల ఊపింది — ఆమె కళ్ళలో ఒక చిన్న ఆందోళన మెరిసింది.",
+      "image_prompt": "The boy eagerly jumps on his feet, his lips already moving to speak before the old woman finishes her story. His eyes are sparkling brightly, fixed intently on the old woman. Bright morning sun filtering through the open doorway of a humble kitchen, illuminating dust motes dancing in the air.",
+      "scene_visual": "The boy eagerly jumps on his feet, his lips already moving to speak before the old woman finishes her story. His eyes are sparkling brightly, fixed intently on the old woman.",
+      "supporting_char_keys": [
+        "nanamma"
+      ],
+      "text_te_en": "Naanamma, 'Appudu Aa Raaju...' Ani Katha Cheptundagaa, Raamaa Tana Paadaala Mida Egiri Gantulu Veshaadu — Atani Kallu Merustune Unnaayi. Mithaayila Kosam Danchutunna Bellam Tiyati Vaasana Inti Nindaa Nindi Unnaa, Atani Drrishti Maatram Naanamma Midane. Purti Vaakyam Vinakundaane, Tanu Cheppadalchukunnadi Cheppadaaniki Atani Pedavulu Appude Kadulutunnaayi. \"Naanammaa, Kaani Naaku Oka Kotta Aata Aalochana Undi!\" Ani Aatrritagaa Annaadu. Naanamma Opikagaa Navvi, Mellagaa Tala Upindi — Aame Kallalo Oka Chinna Aandolana Merisindi.",
+      "text_en": "Nani was telling a story, 'Once upon a time, the king...', and Rama was jumping up and down on his feet, his eyes sparkling. Even though the sweet smell of jaggery being crushed for sweets filled the house, his attention was only on Nani. Before she could finish her sentence, his lips were already moving, eager to say what he wanted. \"Nani, but I have an idea for a new game!\" he said eagerly. Nani smiled patiently and nodded slowly, a tiny worry flickering in her eyes."
+    },
+    {
+      "id": 2,
+      "text": "నానమ్మ మాటల్లోని ఆందోళన రామాకు అర్థం కాలేదు, ఆ తర్వాత రోజు పొలాల వైపు నడిచాడు. దూరంగా ఉన్న బావి నుండి పరిచయమైన కపిల చప్పుడు వినబడుతోంది — ఇప్పుడు ఆ చప్పుడులో ఏదో తెలియని ఆందోళన కలిపినట్లుంది. అప్పుడు ఇద్దరు రైతులు గుసగుసలాడుకోవడం వినిపించింది, రామా చెవులు రిక్కించి విన్నాడు. \"బావిలో పూడిక పెరిగింది, త్వరగా శుభ్రం చేయాలి\" అని ఒక రైతు ఇంకొకరితో అన్నాడు. బావి ఎండిపోతుందేమోనని రామా కళ్ళు పెద్దవి చేసుకున్నాయి — ఒక క్షణం కూడా ఆలోచించకుండా, అందరికీ చెప్పడానికి పరుగులంకించుకున్నాడు.",
+      "image_prompt": "The boy's eyes widen in alarm as he hears farmers discussing the well's condition. Without a moment's thought, he turns and runs, his small figure quickly disappearing towards the village. Harsh midday sun beating down on the dusty village path, casting sharp, short shadows as Rama hurries.",
+      "scene_visual": "The boy's eyes widen in alarm as he hears farmers discussing the well's condition. Without a moment's thought, he turns and runs, his small figure quickly disappearing towards the village.",
+      "supporting_char_keys": [],
+      "text_te_en": "Naanamma Maatalloni Aandolana Raamaaku Artham Kaaledu, Aa Tarvaata Roju Polaala Vaipu Nadichaadu. Durangaa Unna Baavi Nundi Parichayamaina Kapila Chappudu Vinabadutondi — Ippudu Aa Chappudulo Edo Teliyani Aandolana Kalipinatlundi. Appudu Iddaru Raitulu Gusagusalaadukovadam Vinipinchindi, Raamaa Chevulu Rikkinchi Vinnaadu. \"Baavilo Pudika Perigindi, Tvaragaa Shubhram Cheyaali\" Ani Oka Raitu Inkokarito Annaadu. Baavi Endipotundemonani Raamaa Kallu Peddavi Chesukunnaayi — Oka Kshanam Kudaa Aalochinchakundaa, Andariki Cheppadaaniki Parugulankinchukunnaadu.",
+      "text_en": "Rama didn't understand the worry in Nani's words. The next day, he walked towards the fields. From the distant well, he heard the familiar sound of the water wheel, but now, the sound seemed to carry an unknown worry. Then he heard two farmers whispering, and Rama pricked up his ears and listened. \"The well has too much silt, it needs to be cleaned quickly,\" one farmer said to the other. Rama's eyes widened, thinking the well might dry up. Without thinking for a moment, he started running to tell everyone."
+    },
+    {
+      "id": 3,
+      "text": "ఊరిలోకి పరిగెత్తుకుంటూ వచ్చిన రామా, మధ్యలో ఉన్న మర్రిచెట్టు దగ్గర గుమిగూడిన జనాలను చూశాడు. అతని గుండె వేగంగా కొట్టుకుంటోంది, ఊపిరి అందడం లేదు. పరుగు పరుగున వారి దగ్గరికి వెళ్లి, తన ఛాతీని ఉబ్బించి, పెద్దగా అరిచాడు: \"బావి ఎండిపోయింది! మనకి నీళ్లు లేవు!\" అక్కడున్న వారి కళ్ళలో ఆందోళన వెంటనే కనిపించింది. ఆందోళనతో కూడిన గొంతుల కలకలం ఒక్కసారిగా పెరిగింది — కొందరు అరుస్తున్నారు, మరికొందరు భయంతో కేకలు వేశారు.",
+      "image_prompt": "The boy, breathless from running, inflates his chest and loudly shouts his news to the gathered villagers. His heart is pounding rapidly, and his voice is filled with urgency. Bright but slightly hazy afternoon light, reflecting off the disturbed dusty ground as people stir into action.",
+      "scene_visual": "The boy, breathless from running, inflates his chest and loudly shouts his news to the gathered villagers. His heart is pounding rapidly, and his voice is filled with urgency.",
+      "supporting_char_keys": [],
+      "text_te_en": "Uriloki Parigettukuntu Vachchina Raamaa, Madhyalo Unna Marrichettu Daggara Gumigudina Janaalanu Chushaadu. Atani Gunde Vegangaa Kottukuntondi, Upiri Andadam Ledu. Parugu Paruguna Vaari Daggariki Velli, Tana Chaatini Ubbinchi, Peddagaa Arichaadu: \"Baavi Endipoyindi! Manaki Nillu Levu!\" Akkadunna Vaari Kallalo Aandolana Ventane Kanipinchindi. Aandolanato Kudina Gontula Kalakalam Okkasaarigaa Perigindi — Kondaru Arustunnaaru, Marikondaru Bhayanto Kekalu Veshaaru.",
+      "text_en": "Rama ran into the village and saw people gathered near the banyan tree in the center. His heart was pounding fast, and he was out of breath. He rushed to them, puffed out his chest, and shouted loudly: \"The well is dry! We have no water!\" Worry immediately appeared in the eyes of those present. The clamor of anxious voices suddenly grew louder; some were shouting, others were screaming in fear."
+    },
+    {
+      "id": 4,
+      "text": "గ్రామస్తులు బిత్తరపోయి బావి వైపు పరిగెత్తగా, ఇంతలో తాతయ్య అక్కడికి వచ్చాడు. తాతయ్య ప్రశాంతంగా పరిస్థితిని అదుపులోకి తెచ్చే ప్రయత్నం చేశాడు, బావి దగ్గర ఒక బకెట్ నీళ్లు తోడాడు — ఆ చల్లని, తడి వాసన అందరినీ ఆశ్చర్యపరిచింది. \"రామా, నువ్వు పూర్తిగా వినలేదు కదా?\" అని తాతయ్య శాంతంగా అడిగాడు. రామా తల దించుకున్నాడు, తన వేళ్లను నలుపుకుంటూ, ఎవరి కళ్ళలోకి చూడకుండా ప్రయత్నించాడు. గ్రామస్తులు నెమ్మదిగా శాంతించారు, కానీ వారి కోపపు చూపులు అతని వైపు తిరిగాయి.",
+      "image_prompt": "The boy hangs his head low, nervously twisting his fingers together. He avoids making eye contact with anyone, feeling the villagers' angry stares. The well area is dappled with shade from a nearby neem tree, a mix of sunlight and cool shadows creating a sense of unfolding truth.",
+      "scene_visual": "The boy hangs his head low, nervously twisting his fingers together. He avoids making eye contact with anyone, feeling the villagers' angry stares.",
+      "supporting_char_keys": [
+        "thatha"
+      ],
+      "text_te_en": "Graamastulu Bittarapoyi Baavi Vaipu Parigettagaa, Intalo Taatayya Akkadiki Vachchaadu. Taatayya Prashaantangaa Paristhitini Adupuloki Techche Prayatnam Cheshaadu, Baavi Daggara Oka Baket Nillu Todaadu — Aa Challani, Tadi Vaasana Andarini Aashcharyaparichindi. \"Raamaa, Nuvvu Purtigaa Vinaledu Kadaa?\" Ani Taatayya Shaantangaa Adigaadu. Raamaa Tala Dinchukunnaadu, Tana Vellanu Nalupukuntu, Evari Kallaloki Chudakundaa Prayatninchaadu. Graamastulu Nemmadigaa Shaantinchaaru, Kaani Vaari Kopapu Chupulu Atani Vaipu Tirigaayi.",
+      "text_en": "As the villagers, bewildered, ran towards the well, Grandpa arrived there. Grandpa calmly tried to bring the situation under control. He drew a bucket of water from the well, and the cool, wet smell surprised everyone. \"Rama, you didn't listen completely, did you?\" Grandpa asked calmly. Rama hung his head, fidgeting with his fingers, trying not to look anyone in the eye. The villagers slowly calmed down, but their angry glares turned towards him."
+    },
+    {
+      "id": 5,
+      "text": "గ్రామస్తుల కోపపు చూపులు చూసి రామాకు చాలా ఇబ్బందిగా అనిపించింది, వారిని సముదాయించడానికి ప్రయత్నించాడు. అతని కాళ్ళ కింద నేల గరుకుగా ఉంది, అతను నెమ్మదిగా పాదాలతో దుమ్మును తన్నాడు. \"కానీ నేను తప్పు చెప్పలేదు, వాళ్ళు 'పెద్ద సమస్య' అన్నారు!\" అని అతని గొంతు వణుకుతూ, భయంతో, ఆగ్రహంతో అన్నాడు. అతని మాటలు ఇంకా గందరగోళంగా మారాయి, అందరినీ మరింత చిరాకుపరిచాయి. తాతయ్య మెల్లగా రామా చేయి పట్టుకున్నాడు — ఇంకా గుసగుసలాడుతున్న, అసమ్మతితో కూడిన గుంపు నుండి అతనిని దూరంగా తీసుకెళ్ళాడు.",
+      "image_prompt": "The boy kicks dust with his feet, his voice trembling with fear and anger as he tries to justify himself to the villagers. The old man gently takes the boy's hand, leading him away from the murmuring, disapproving crowd. Late afternoon sun, casting long, weary shadows across the village square, a feeling of collective exhaustion settling over the scene.",
+      "scene_visual": "The boy kicks dust with his feet, his voice trembling with fear and anger as he tries to justify himself to the villagers. The old man gently takes the boy's hand, leading him away from the murmuring, disapproving crowd.",
+      "supporting_char_keys": [
+        "thatha"
+      ],
+      "text_te_en": "Graamastula Kopapu Chupulu Chusi Raamaaku Chaalaa Ibbandigaa Anipinchindi, Vaarini Samudaayinchadaaniki Prayatninchaadu. Atani Kaalla Kinda Nela Garukugaa Undi, Atanu Nemmadigaa Paadaalato Dummunu Tannaadu. \"Kaani Nenu Tappu Cheppaledu, Vaallu 'Pedda Samasya' Annaaru!\" Ani Atani Gontu Vanukutu, Bhayanto, Aagrahanto Annaadu. Atani Maatalu Inkaa Gandaragolangaa Maaraayi, Andarini Marinta Chiraakuparichaayi. Taatayya Mellagaa Raamaa Cheyi Pattukunnaadu — Inkaa Gusagusalaadutunna, Asammatito Kudina Gumpu Nundi Atanini Durangaa Tisukellaadu.",
+      "text_en": "Rama felt very uncomfortable under the villagers' angry glares and tried to calm them down. The ground beneath his feet felt rough, and he slowly kicked at the dust with his feet. \"But I didn't say anything wrong, they said 'big problem'!\" he said, his voice trembling with fear and anger. His words only made things more confusing and irritated everyone further. Grandpa gently took Rama's hand and led him away from the still whispering, disapproving crowd."
+    },
+    {
+      "id": 6,
+      "text": "తాతయ్య రామాను మర్రిచెట్టు కింద కూర్చోబెట్టి, నెమ్మదిగా మాట్లాడటం మొదలుపెట్టాడు. సాయంత్రపు గాలిలో ఆ పాత మర్రిచెట్టు ఆకులు నిదానంగా కదిలాయి, ఒక శాంతమైన వాతావరణం నెలకొంది. \"రామా, మాట ఒకసారి నోరు దాటితే, దాన్ని వెనక్కి తీసుకోలేము కదా?\" అని ప్రేమగా అడిగాడు. రామా తల దించుకుని సిగ్గుపడ్డాడు, కానీ తాతయ్య మాటలు వింటూ అతని కళ్ళలో ఒక కొత్త అవగాహన మెరిసింది. \"అందుకే, మాట్లాడే ముందు బాగా ఆలోచించుకోవాలి\" అని తాతయ్య వివరించాడు — రామా తనలో ఒక మార్పును కోరుకున్నాడు.",
+      "image_prompt": "The boy sits under the banyan tree, his head bowed in shame as the old man speaks. A new understanding dawns in his eyes, reflecting a desire for change. Soft, warm golden hour light filtering through the dense canopy of the banyan tree, creating a peaceful and reflective atmosphere.",
+      "scene_visual": "The boy sits under the banyan tree, his head bowed in shame as the old man speaks. A new understanding dawns in his eyes, reflecting a desire for change.",
+      "supporting_char_keys": [
+        "thatha"
+      ],
+      "text_te_en": "Taatayya Raamaanu Marrichettu Kinda Kurchobetti, Nemmadigaa Maatlaadatam Modalupettaadu. Saayantrapu Gaalilo Aa Paata Marrichettu Aakulu Nidaanangaa Kadilaayi, Oka Shaantamaina Vaataavaranam Nelakondi. \"Raamaa, Maata Okasaari Noru Daatite, Daanni Venakki Tisukolemu Kadaa?\" Ani Premagaa Adigaadu. Raamaa Tala Dinchukuni Siggupaddaadu, Kaani Taatayya Maatalu Vintu Atani Kallalo Oka Kotta Avagaahana Merisindi. \"Anduke, Maatlaade Mundu Baagaa Aalochinchukovaali\" Ani Taatayya Vivarinchaadu — Raamaa Tanalo Oka Maarpunu Korukunnaadu.",
+      "text_en": "Grandpa sat Rama down under the banyan tree and began to speak softly. In the evening breeze, the leaves of the old banyan tree swayed gently, creating a peaceful atmosphere. \"Rama, once words leave your mouth, you can't take them back, can you?\" he asked kindly. Rama hung his head in shame, but as he listened to Grandpa's words, a new understanding sparkled in his eyes. \"That's why you should think carefully before you speak,\" Grandpa explained, and Rama wished for a change within himself."
+    },
+    {
+      "id": 7,
+      "text": "కొన్ని రోజుల తర్వాత, రామా సంతకు వెళ్ళాడు. అక్కడ ఇద్దరు స్త్రీలు కొత్త మార్కెట్ ధరల గురించి మాట్లాడుకుంటున్నారు. గతంలో అయితే వెంటనే ఏదో ఒకటి చెప్పేసేవాడు, కానీ ఇప్పుడు ప్రశాంతంగా విన్నాడు. ఒక ఎద్దుల బండి నుండి వచ్చిన గంట చప్పుడు మార్కెట్ సందడిని చీల్చుకుంటూ వచ్చింది, అప్పుడతను ఆ స్త్రీల వైపు చూశాడు. \"క్షమించండి, మీరు ధర పెరిగింది అని చెప్పారా, లేదా తగ్గింది అని చెప్పారా?\" అని నెమ్మదిగా అడిగాడు. ఒక చిన్న చిరునవ్వు అతని పెదవులపై మెరిసింది — తను నేర్చుకున్న పాఠాన్ని గుర్తు చేసుకున్నాడు.",
+      "image_prompt": "The boy calmly listens to two women discussing market prices, then turns to them. A small smile plays on his lips as he carefully asks for clarification, remembering his lesson. Bright, cheerful morning light in the bustling village market, vibrant and clear, reflecting off colourful produce.",
+      "scene_visual": "The boy calmly listens to two women discussing market prices, then turns to them. A small smile plays on his lips as he carefully asks for clarification, remembering his lesson.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojula Tarvaata, Raamaa Santaku Vellaadu. Akkada Iddaru Strilu Kotta Maarket Dharala Gurinchi Maatlaadukuntunnaaru. Gatanlo Ayite Ventane Edo Okati Cheppesevaadu, Kaani Ippudu Prashaantangaa Vinnaadu. Oka Eddula Bandi Nundi Vachchina Ganta Chappudu Maarket Sandadini Chilchukuntu Vachchindi, Appudatanu Aa Strila Vaipu Chushaadu. \"Kshaminchandi, Miru Dhara Perigindi Ani Cheppaaraa, Ledaa Taggindi Ani Cheppaaraa?\" Ani Nemmadigaa Adigaadu. Oka Chinna Chirunavvu Atani Pedavulapai Merisindi — Tanu Nerchukunna Paathaanni Gurtu Chesukunnaadu.",
+      "text_en": "A few days later, Rama went to the market. There, two women were talking about new market prices. In the past, he would have immediately blurted something out, but now he listened calmly. The sound of a bell from an ox cart cut through the market's hustle and bustle, and then he looked at the women. \"Excuse me, did you say the price went up, or did it go down?\" he asked softly. A small smile flickered on his lips; he remembered the lesson he had learned."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "nanamma",
+      "description": "An elderly woman with silver hair tied in a neat bun, a warm, gentle smile, and hands calloused from years of work. She wears a simple cotton saree. Always the same character across every scene."
+    },
+    {
+      "key": "thatha",
+      "description": "Thatha (Grandfather) is an old man with a kind, wrinkled face, a long white beard, and a calm demeanor. He often wears a simple white dhoti and carries a walking stick made of polished wood. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-crafted, demonstrating excellent emotional depth, a compelling narrative arc, and flawless colloquial Telugu. The protagonist's journey of learning is effectively portrayed through actions and natural dialogue, making it highly engaging. To elevate it further, consider subtly weaving the 'oral warmth' of a grandparent's voice throughout the entire narrative, perhaps through occasional narrative asides or by having the grandfather explicitly echo the grandmother's storytelling style, ensuring a consistent, intimate connection with the young listener."
+  },
+  "title_te_en": "Raamaa, Aalochinchi Maatlaadu",
+  "moral_te_en": "Maata Okasaari Bayatiki Vaste, Daanni Venakki Tisukolemu Kadaa, Anduke Eppudu Aalochinchi Maatlaadaali.",
+  "title_en": "Rama, Think Before You Speak",
+  "moral_en": "Once words come out, you can't take them back, can you? That's why you should always think before you speak.",
+  "id": "20260528_140918",
+  "date": "2026-05-28",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "మాట్లాడకముందే ఆలోచించు అనే కథ",
+  "thumbnail": "stories/20260528_140918/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
