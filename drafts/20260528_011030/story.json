@@ -1,0 +1,98 @@
+{
+  "title": "రాము తెలివి, గాలి గుట్టు",
+  "moral": "పిల్లలూ, మనసు పెట్టి ఆలోచిస్తే, ఎంత కష్టమైన పొడుపు కథకైనా జవాబు దొరుకుతుంది, తెలుసా?",
+  "main_character": "A lean, bright-eyed boy of about 10, with disheveled black hair and wearing a simple, patched dhoti. He has an insatiable curiosity and a habit of observing small details around him. Always the same character across every scene.",
+  "antagonist": "A stout man in his late 40s, with a neatly trimmed black beard and a stern expression. He wears a rich, emerald green velvet robe adorned with gold embroidery and a heavy gold crown set with a large ruby. He carries a small, ornate scepter. Always the same character across every scene.",
+  "setting": "A vibrant village in the Godavari delta region of ancient Andhra Pradesh. Mud-plastered huts with thatched roofs, mango trees providing shade, and the distant sound of temple bells. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పొద్దు పొడిచిందంటే, రామన్న చేపల వలలు వేసి వస్తుంటే, రాము వాటి మధ్య కూర్చునేవాడు. ఒకరోజు, వలలో చిక్కుకున్న ఒక పెద్ద ముడిని అతని స్నేహితులు ఎంత ప్రయత్నించినా విప్పలేకపోయారు. రాము ఆ ముడిని చేతుల్లోకి తీసుకుని, దాని రంపాల అంచులను మెల్లగా తడిమాడు — ఆ వల తేమగా, గరుకుగా అతని వేళ్ళకి తగిలింది. అతని ముఖం మీద ఒక వెడల్పాటి నవ్వు విరిసింది, కళ్ళు ఆసక్తిగా మెరిశాయి. \"చూడండి! ఎంత సులభమో!\" అని చెప్పి, ఒక్క క్షణంలో ముడిని విప్పేశాడు. ఆ క్షణంలోనే — ఒక గుర్రం మీద రాజ భటుడు వేగంగా వాళ్ళ పక్కనుంచి వెళ్ళి, చేతిలో ఒక తాళపత్రాన్ని పట్టుకుని, పట్నం వైపు దూసుకుపోయాడు.",
+      "image_prompt": "The boy takes a large, tangled knot into his hands and gently touches its rough edges. A wide smile spreads across his face, and his eyes sparkle with interest. Bright, warm morning sun filtering through mango leaves, dappling the village path.",
+      "scene_visual": "The boy takes a large, tangled knot into his hands and gently touches its rough edges. A wide smile spreads across his face, and his eyes sparkle with interest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Poddu Podichindante, Raamanna Chepala Valalu Vesi Vastunte, Raamu Vaati Madhya Kurchunevaadu. Okaroju, Valalo Chikkukunna Oka Pedda Mudini Atani Snehitulu Enta Prayatninchinaa Vippalekapoyaaru. Raamu Aa Mudini Chetulloki Tisukuni, Daani Rampaala Anchulanu Mellagaa Tadimaadu — Aa Vala Temagaa, Garukugaa Atani Vellaki Tagilindi. Atani Mukham Mida Oka Vedalpaati Navvu Virisindi, Kallu Aasaktigaa Merishaayi. \"Chudandi! Enta Sulabhamo!\" Ani Cheppi, Okka Kshananlo Mudini Vippeshaadu. Aa Kshananlone — Oka Gurram Mida Raaja Bhatudu Vegangaa Vaalla Pakkanunchi Velli, Chetilo Oka Taalapatraanni Pattukuni, Patnam Vaipu Dusukupoyaadu.",
+      "text_en": "As soon as the sun rose, when Ramanna came back after casting his fishing nets, Ramu would sit among them. One day, his friends tried their best but couldn't untie a big knot caught in the net. Ramu took the knot into his hands and gently felt its rough edges — the net felt damp and coarse against his fingers. A wide smile spread across his face, and his eyes sparkled with interest. \"Look! How easy it is!\" he said, and untied the knot in an instant. Just then — a royal guard on horseback galloped past them, holding a palm-leaf scroll in his hand, rushing towards the town."
+    },
+    {
+      "id": 2,
+      "text": "రాజ భటుడు పట్నం నడిబొడ్డుకి చేరుకుని, తన గుర్రాన్ని ఆపి, పెద్దగా కేక వేశాడు. అతని గంభీరమైన గొంతు — చుట్టూ ఉన్న జనంలో ప్రతి ఒక్కరికీ స్పష్టంగా వినిపించింది, ప్రతిధ్వనించింది. \"మహారాజుగారు ఒక పొడుపు కథను విసిరారు!\" అని అతను ప్రకటించాడు. రాము కళ్ళు పెద్దవి చేసుకుని, ఆ మాటలు జాగ్రత్తగా విన్నాడు, అతని నుదుటిపై చిన్న ముడుత పడింది. \"ఈ పొడుపు కథకు జవాబు చెప్పలేనివారు, రాజుగారి కోపానికి గురవుతారు!\" అని భటుడు హెచ్చరించాడు. రాము గుండె ఒక్కసారిగా వేగంగా కొట్టుకుంది, కానీ అతని చూపులు మాత్రం పట్నం వైపు గట్టిగా నిలిచాయి.",
+      "image_prompt": "The boy widens his eyes and listens carefully to the royal guard's loud announcement. A small wrinkle forms on his forehead as his gaze remains fixed towards the city. Harsh midday sun beating down on the dusty village square, creating sharp shadows.",
+      "scene_visual": "The boy widens his eyes and listens carefully to the royal guard's loud announcement. A small wrinkle forms on his forehead as his gaze remains fixed towards the city.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaja Bhatudu Patnam Nadibodduki Cherukuni, Tana Gurraanni Aapi, Peddagaa Keka Veshaadu. Atani Gambhiramaina Gontu — Chuttu Unna Jananlo Prati Okkariki Spashtangaa Vinipinchindi, Pratidhvaninchindi. \"Mahaaraajugaaru Oka Podupu Kathanu Visiraaru!\" Ani Atanu Prakatinchaadu. Raamu Kallu Peddavi Chesukuni, Aa Maatalu Jaagrattagaa Vinnaadu, Atani Nudutipai Chinna Muduta Padindi. \"I Podupu Kathaku Javaabu Cheppalenivaaru, Raajugaari Kopaaniki Guravutaaru!\" Ani Bhatudu Hechcharinchaadu. Raamu Gunde Okkasaarigaa Vegangaa Kottukundi, Kaani Atani Chupulu Maatram Patnam Vaipu Gattigaa Nilichaayi.",
+      "text_en": "The royal guard reached the heart of the town, stopped his horse, and shouted loudly. His deep voice — was clearly heard by everyone in the crowd around him, echoing. \"The King has posed a riddle!\" he announced. Ramu's eyes widened, and he listened carefully to those words, a small wrinkle forming on his forehead. \"Those who cannot answer this riddle will face the King's wrath!\" the guard warned. Ramu's heart suddenly beat fast, but his gaze remained fixed on the town."
+    },
+    {
+      "id": 3,
+      "text": "రాము పట్నం వైపు అడుగులు వేశాడు, గుండె దడదడ కొట్టుకుంటున్నా, తల మాత్రం పైకెత్తి నడిచాడు. పెద్ద పెద్ద గోడలున్న కోటను చూసి, అతని చిన్న శరీరం మరింత చిన్నదిగా అనిపించింది. భారీ ద్వారం దగ్గర నిలబడిన భటులు అతన్ని ఆశ్చర్యంగా చూశారు, కానీ రాము వెనక్కి తగ్గలేదు. \"నేను రాజుగారి పొడుపు కథకు సమాధానం చెప్పడానికి వచ్చాను,\" అని చిన్న గొంతుతోనే ధైర్యంగా చెప్పాడు. అతని మాట విన్న భటులు, ఒకరి మొహాలు ఒకరు చూసుకుని, అతన్ని లోపలికి అనుమతించారు. రాము ఒట్టి కాళ్ళతో కోట లోపల మెరిసే రాతి నేల మీద అడుగు వేశాడు — ఆ చల్లదనం అతని అడుగులకు ధైర్యాన్నిచ్చింది.",
+      "image_prompt": "The boy stands before the massive castle gate and bravely declares his purpose in a small voice. The guards exchange surprised glances at his words before allowing him entry. Also in this scene: A stout man in his late 40s, with a neatly trimmed black beard and a stern expression. He wears a rich, emerald green velvet robe adorned with gold embroidery and a heavy gold crown set with a large ruby. He carries a small, ornate scepter. Always the same character across every scene. Dim, cool light filtering through high palace windows, creating long, imposing shadows in the vast hall.",
+      "scene_visual": "The boy stands before the massive castle gate and bravely declares his purpose in a small voice. The guards exchange surprised glances at his words before allowing him entry.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamu Patnam Vaipu Adugulu Veshaadu, Gunde Dadadada Kottukuntunnaa, Tala Maatram Paiketti Nadichaadu. Pedda Pedda Godalunna Kotanu Chusi, Atani Chinna Shariram Marinta Chinnadigaa Anipinchindi. Bhaari Dvaaram Daggara Nilabadina Bhatulu Atanni Aashcharyangaa Chushaaru, Kaani Raamu Venakki Taggaledu. \"Nenu Raajugaari Podupu Kathaku Samaadhaanam Cheppadaaniki Vachchaanu,\" Ani Chinna Gontutone Dhairyangaa Cheppaadu. Atani Maata Vinna Bhatulu, Okari Mohaalu Okaru Chusukuni, Atanni Lopaliki Anumatinchaaru. Raamu Otti Kaallato Kota Lopala Merise Raati Nela Mida Adugu Veshaadu — Aa Challadanam Atani Adugulaku Dhairyaannichchindi.",
+      "text_en": "Ramu walked towards the town, his heart thumping, but his head held high. Seeing the fort with its huge walls, his small body felt even smaller. The guards standing at the massive gate looked at him in surprise, but Ramu did not back down. \"I have come to answer the King's riddle,\" he said bravely in a small voice. Hearing his words, the guards looked at each other and allowed him inside. Ramu stepped onto the shining stone floor inside the fort with his bare feet — the coolness gave courage to his steps."
+    },
+    {
+      "id": 4,
+      "text": "రామును విశాలమైన, నిశ్శబ్దమైన దర్బారులోకి తీసుకెళ్లారు, అక్కడ రాజు సింహాసనం మీద గంభీరంగా కూర్చుని ఉన్నాడు. సుగంధ పరిమళాలు — మల్లెపూల ధూపం వాసన ఆ గది నిండా నిండి ఉన్నా, రాము వాటిని గమనించనంతగా ఆలోచనలో మునిగిపోయాడు. రాజు రాము వైపు సూటిగా చూసి, అతని కళ్ళలోకి చూస్తూ పొడుపు కథను చెప్పడం మొదలుపెట్టాడు. \"నేను నిన్ను చూస్తాను, కానీ నీకు కనపడను. నాది ఒక స్వరం, కానీ నోరు లేదు. నేను ఎవరు?\" రాజు గంభీరంగా అడిగాడు. రాము నుదురు ముడిపడింది, పెదవి కొరుక్కుంటూ, ఆ మాటల అర్థం కోసం వెతికాడు — ఆ క్షణంలో అతనికి ఏ సమాధానం స్ఫురించలేదు.",
+      "image_prompt": "The boy's brow furrows as he bites his lip, searching for the meaning of the riddle. He is so lost in thought that he doesn't notice the fragrant jasmine incense filling the silent, spacious court. Also in this scene: A stout man in his late 40s, with a neatly trimmed black beard and a stern expression. He wears a rich, emerald green velvet robe adorned with gold embroidery and a heavy gold crown set with a large ruby. He carries a small, ornate scepter. Always the same character across every scene. Golden light from torch sconces flickering on the ornate walls, casting a warm but imposing glow on the King and a challenging shadow on Ramu.",
+      "scene_visual": "The boy's brow furrows as he bites his lip, searching for the meaning of the riddle. He is so lost in thought that he doesn't notice the fragrant jasmine incense filling the silent, spacious court.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamunu Vishaalamaina, Nishshabdamaina Darbaaruloki Tisukellaaru, Akkada Raaju Sinhaasanam Mida Gambhirangaa Kurchuni Unnaadu. Sugandha Parimalaalu — Mallepula Dhupam Vaasana Aa Gadi Nindaa Nindi Unnaa, Raamu Vaatini Gamaninchanantagaa Aalochanalo Munigipoyaadu. Raaju Raamu Vaipu Sutigaa Chusi, Atani Kallaloki Chustu Podupu Kathanu Cheppadam Modalupettaadu. \"Nenu Ninnu Chustaanu, Kaani Niku Kanapadanu. Naadi Oka Svaran, Kaani Noru Ledu. Nenu Evaru?\" Raaju Gambhirangaa Adigaadu. Raamu Nuduru Mudipadindi, Pedavi Korukkuntu, Aa Maatala Artham Kosam Vetikaadu — Aa Kshananlo Ataniki E Samaadhaanam Sphurinchaledu.",
+      "text_en": "Ramu was led into the spacious, silent court, where the King sat majestically on his throne. Fragrant aromas — the scent of jasmine incense filled the room, but Ramu was so lost in thought that he didn't notice them. The King looked directly at Ramu, gazing into his eyes, and began to tell the riddle. \"I see you, but you cannot see me. I have a voice, but no mouth. Who am I?\" the King asked gravely. Ramu's brow furrowed, and he bit his lip, searching for the meaning of those words — at that moment, no answer came to him."
+    },
+    {
+      "id": 5,
+      "text": "రాము కోట ఆవరణలో ఒక నిశ్శబ్దమైన మూలకి వెళ్లి, తల పట్టుకుని కూర్చున్నాడు. అతని మనసులో పొడుపు కథ పదే పదే మెదులుతోంది, కానీ సమాధానం దొరకడం లేదు. సాయంత్రం చీకటి పడుతోంది, దూరం నుంచి మిడతల కిచకిచలు — ఒకే లయలో వినిపించాయి, అవి అతని ఆలోచనలను మరింత కమ్మేశాయి. \"ఇది చాలా కష్టం... కానీ నేను వదులుకోను,\" అని తనలో తాను గొణుక్కున్నాడు, నిట్టూర్చాడు. రాము కనురెప్పలు భారంగా మూసుకుపోయాయి, కానీ అతని పెదవులు గట్టిగా అదిమి పెట్టుకున్నాయి. ఇంతలో, పక్క చెట్టు మీద నుంచి ఒక గుడ్లగూబ కూసింది, రాము ఒక్కసారిగా తలెత్తి చూశాడు — అతని కళ్ళలో ఒక కొత్త ఆలోచన మెరిసింది.",
+      "image_prompt": "The boy, sitting with his head in his hands, suddenly looks up as an owl hoots from a nearby tree. A new idea sparks and shines brightly in his eyes. Soft, fading twilight, painting the palace walls in hues of deep blue and purple, with a single star beginning to twinkle.",
+      "scene_visual": "The boy, sitting with his head in his hands, suddenly looks up as an owl hoots from a nearby tree. A new idea sparks and shines brightly in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamu Kota Aavaranalo Oka Nishshabdamaina Mulaki Velli, Tala Pattukuni Kurchunnaadu. Atani Manasulo Podupu Katha Pade Pade Medulutondi, Kaani Samaadhaanam Dorakadam Ledu. Saayantram Chikati Padutondi, Duram Nunchi Midatala Kichakichalu — Oke Layalo Vinipinchaayi, Avi Atani Aalochanalanu Marinta Kammeshaayi. \"Idi Chaalaa Kashtan... Kaani Nenu Vadulukonu,\" Ani Tanalo Taanu Gonukkunnaadu, Nitturchaadu. Raamu Kanureppalu Bhaarangaa Musukupoyaayi, Kaani Atani Pedavulu Gattigaa Adimi Pettukunnaayi. Intalo, Pakka Chettu Mida Nunchi Oka Gudlaguba Kusindi, Raamu Okkasaarigaa Taletti Chushaadu — Atani Kallalo Oka Kotta Aalochana Merisindi.",
+      "text_en": "Ramu went to a quiet corner in the fort courtyard and sat down, holding his head. The riddle kept repeating in his mind, but he couldn't find the answer. Evening was falling, and the chirping of crickets from a distance — heard in a steady rhythm, further enveloped his thoughts. \"This is very difficult... but I won't give up,\" he muttered to himself, sighing. Ramu's eyelids felt heavy and closed, but his lips were pressed tightly together. Just then, an owl hooted from a nearby tree, and Ramu suddenly looked up — a new idea sparkled in his eyes."
+    },
+    {
+      "id": 6,
+      "text": "తెల్లవారుజామున, రాము మళ్ళీ దర్బారులోకి ప్రవేశించాడు, అతని ముఖం మీద ఒక చిన్న నవ్వు మెరిసింది, కళ్ళు ప్రకాశవంతంగా ఉన్నాయి. రాజు, సభలోని మంత్రులు అతన్ని ఆశ్చర్యంగా చూశారు, రాము ధైర్యంగా ముందుకు అడుగు వేశాడు. \"మహారాజా, ఆ పొడుపు కథకు సమాధానం 'గాలి'!\" అని స్పష్టంగా చెప్పాడు. అతని మాట వినగానే — సభలోని వారందరూ ఒక్కసారిగా గట్టిగా గాలి పీల్చారు. రాజు కనుబొమ్మలు ఎగరెత్తాడు, అతని కళ్ళలో ఆశ్చర్యం, ఆ తర్వాత మెప్పు కనిపించింది.",
+      "image_prompt": "The boy confidently steps forward into the court, a small smile on his face, and declares the answer to the riddle. The king raises his eyebrows in surprise, and then admiration fills his eyes. Also in this scene: A stout man in his late 40s, with a neatly trimmed black beard and a stern expression. He wears a rich, emerald green velvet robe adorned with gold embroidery and a heavy gold crown set with a large ruby. He carries a small, ornate scepter. Always the same character across every scene. Bright, clear moonlight streaming through the open arches, illuminating the throne room in silver and deep shadows, highlighting Ramu's confident stance.",
+      "scene_visual": "The boy confidently steps forward into the court, a small smile on his face, and declares the answer to the riddle. The king raises his eyebrows in surprise, and then admiration fills his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tellavaarujaamuna, Raamu Malli Darbaaruloki Praveshinchaadu, Atani Mukham Mida Oka Chinna Navvu Merisindi, Kallu Prakaashavantangaa Unnaayi. Raaju, Sabhaloni Mantrulu Atanni Aashcharyangaa Chushaaru, Raamu Dhairyangaa Munduku Adugu Veshaadu. \"Mahaaraajaa, Aa Podupu Kathaku Samaadhaanam 'Gaali'!\" Ani Spashtangaa Cheppaadu. Atani Maata Vinagaane — Sabhaloni Vaarandaru Okkasaarigaa Gattigaa Gaali Pilchaaru. Raaju Kanubommalu Egarettaadu, Atani Kallalo Aashcharyan, Aa Tarvaata Meppu Kanipinchindi.",
+      "text_en": "At dawn, Ramu entered the court again, a small smile gleaming on his face, his eyes bright. The King and the ministers in the assembly looked at him in surprise, as Ramu bravely stepped forward. \"Your Majesty, the answer to that riddle is 'wind'!\" he stated clearly. As soon as they heard his words — everyone in the assembly took a sharp breath. The King raised his eyebrows, and surprise, followed by approval, appeared in his eyes."
+    },
+    {
+      "id": 7,
+      "text": "రాజు సింహాసనం నుంచి లేచి నిలబడ్డాడు, అతని ముఖం మీద చిరునవ్వు విరిసింది. \"నువ్వు నిజంగా తెలివైన బాలుడివి! నీ తెలివితేటలు మాకు అవసరం,\" అని రాజు రామును మెచ్చుకున్నాడు. రాము ఆనందంతో తల వంచి నమస్కరించాడు, అతని గడ్డం మీద చిరునవ్వు చెదరలేదు. రాజు అతని చేతిలో బంగారు నాణేల సంచిని పెట్టాడు — ఆ నాణేల గలగల శబ్దం కోట నిండా వినిపించింది. రాము ఆ బంగారాన్ని చూసి, అతని పెదవిపై నవ్వు మరింత పెద్దదైంది, అతని నిజమైన విజయం పొడుపు కథకు జవాబు చెప్పడంలోనే ఉందని తెలుసుకున్నాడు. అతను సాధించిన విజయం, అతని ముఖం మీద చెరగని చిరునవ్వును నింపింది.",
+      "image_prompt": "The king places a bag of gold coins into the boy's hand as the boy bows his head in happiness. The boy's smile widens even further as the jingle of the coins echoes through the castle. Also in this scene: A stout man in his late 40s, with a neatly trimmed black beard and a stern expression. He wears a rich, emerald green velvet robe adorned with gold embroidery and a heavy gold crown set with a large ruby. He carries a small, ornate scepter. Always the same character across every scene. Warm, inviting glow from many oil lamps and torches, creating a festive and celebratory atmosphere in the throne room.",
+      "scene_visual": "The king places a bag of gold coins into the boy's hand as the boy bows his head in happiness. The boy's smile widens even further as the jingle of the coins echoes through the castle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Sinhaasanam Nunchi Lechi Nilabaddaadu, Atani Mukham Mida Chirunavvu Virisindi. \"Nuvvu Nijangaa Telivaina Baaludivi! Ni Telivitetalu Maaku Avasaran,\" Ani Raaju Raamunu Mechchukunnaadu. Raamu Aanandanto Tala Vanchi Namaskarinchaadu, Atani Gaddam Mida Chirunavvu Chedaraledu. Raaju Atani Chetilo Bangaaru Naanela Sanchini Pettaadu — Aa Naanela Galagala Shabdam Kota Nindaa Vinipinchindi. Raamu Aa Bangaaraanni Chusi, Atani Pedavipai Navvu Marinta Peddadaindi, Atani Nijamaina Vijayam Podupu Kathaku Javaabu Cheppadanlone Undani Telusukunnaadu. Atanu Saadhinchina Vijayan, Atani Mukham Mida Cheragani Chirunavvunu Nimpindi.",
+      "text_en": "The King rose from his throne, a smile spreading across his face. \"You are truly a clever boy! We need your intelligence,\" the King praised Ramu. Ramu bowed his head in happiness, his smile did not fade. The King placed a bag of gold coins in his hand — the jingle of the coins echoed throughout the fort. Ramu looked at the gold, and the smile on his lips grew even wider, realizing that his true victory lay in answering the riddle. The success he achieved filled his face with an indelible smile."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 7,
+    "grammar_correctness": 7,
+    "narrative_arc": 9,
+    "child_engagement": 7,
+    "average": 7.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and effectively portrays Ramu's emotional journey through actions rather than direct statements. However, the language often leans towards a formal, written style, detracting from the warmth expected of a bedtime story. To reach an award-worthy level, the most crucial fix is to infuse the prose with a more colloquial, oral cadence, perhaps by simplifying complex descriptions and incorporating more direct engagement with the child listener."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamu Telivi, Gaali Guttu",
+  "moral_te_en": "Pillalu, Manasu Petti Aalochiste, Enta Kashtamaina Podupu Kathakainaa Javaabu Dorukutundi, Telusaa?",
+  "title_en": "Ramu's Cleverness and the Secret of the Wind",
+  "moral_en": "Children, if you think with all your heart, you can find the answer to even the most difficult riddle, you know?",
+  "id": "20260528_011030",
+  "date": "2026-05-28",
+  "category": "podupu",
+  "subcategory": "royal_riddles",
+  "topic": "రాజు మరియు తెలివైన బాలుడు పొడుపు కథ",
+  "thumbnail": "stories/20260528_011030/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
