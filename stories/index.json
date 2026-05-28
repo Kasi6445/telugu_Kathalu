@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260528_191204",
+      "slug": "simham-chinna-eluka-sneeham",
+      "title": "సింహం, చిన్న ఎలుక స్నేహం",
+      "moral": "చిన్న సాయం కూడా ఊహించని సమయంలో గొప్ప ఉపకారం అవుతుంది.",
+      "thumbnail": "stories/20260528_191204/images/scene1.jpg",
+      "date": "2026-05-28",
+      "category": "panchatantra",
+      "subcategory": "animal_wisdom",
+      "topic": "పంచతంత్రం - సింహం మరియు ఎలుక",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "The Friendship of the Lion and the Little Mouse",
+      "moral_en": "Even a small help can become a great favor at an unexpected time.",
+      "title_te_en": "Sinhan, Chinna Eluka Sneham",
+      "moral_te_en": "Chinna Saayam Kudaa Uhinchani Samayanlo Goppa Upakaaram Avutundi."
+    },
+    {
       "id": "20260528_161239",
       "slug": "tiiyani-maatala-guttu",
       "title": "తీయని మాటల గుట్టు",
