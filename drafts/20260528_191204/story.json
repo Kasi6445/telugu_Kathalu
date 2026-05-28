@@ -1,0 +1,114 @@
+{
+  "title": "సింహం, చిన్న ఎలుక స్నేహం",
+  "moral": "చిన్న సాయం కూడా ఊహించని సమయంలో గొప్ప ఉపకారం అవుతుంది.",
+  "main_character": "A majestic, powerful lion with a thick golden mane and piercing amber eyes, accustomed to ruling his jungle with unquestioned authority. He often naps deeply, confident in his strength. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A lush forest in the Nallamala Hills of Andhra Pradesh, filled with towering Sal trees and dense undergrowth, where ancient banyan roots twist around sun-dappled clearings. The air is often thick with the scent of damp earth and wild flowers. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవిలో ఒక పెద్ద సింహం, బంగారు రంగు జూలుతో, చెట్ల నీడలో హాయిగా నిద్రపోతోంది. దాని నిద్ర ఎంత గాఢంగా ఉందంటే, దాని శ్వాసతో ఆకులు మెల్లగా కదిలాయి. హూం... అన్న ఒక పెద్ద నిట్టూర్పు — అడవిని నిశ్శబ్దంగా నింపింది. అది తన బలాన్ని నమ్ముకుని, ఏ బెరుకు లేకుండా కళ్ళు మూసుకుంది. ఇంతలో, ఒక చిన్న ఎలుక, దారి తప్పి — సింహం పెద్ద పాదం మీద నుండి పాకుతూ వెళ్ళింది. అది సింహం పెద్ద పాదం మీద నుండి — తెలియకుండానే పాకుతూ వెళ్ళింది.",
+      "image_prompt": "A small mouse, having lost its way, crawls unknowingly over the large, sleeping lion's massive paw. The lion's golden mane is visible as it rests peacefully in the shade of the trees. Warm, dappled sunlight filtering through dense canopy, creating soft patterns on the forest floor and the lion's golden mane, emphasizing a serene, sleepy atmosphere.",
+      "scene_visual": "A small mouse, having lost its way, crawls unknowingly over the large, sleeping lion's massive paw. The lion's golden mane is visible as it rests peacefully in the shade of the trees.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Adavilo Oka Pedda Sinhan, Bangaaru Rangu Juluto, Chetla Nidalo Haayigaa Nidrapotondi. Daani Nidra Enta Gaadhangaa Undante, Daani Shvaasato Aakulu Mellagaa Kadilaayi. Hun... Anna Oka Pedda Nitturpu — Adavini Nishshabdangaa Nimpindi. Adi Tana Balaanni Nammukuni, E Beruku Lekundaa Kallu Musukundi. Intalo, Oka Chinna Eluka, Daari Tappi — Sinham Pedda Paadam Mida Nundi Paakutu Vellindi. Adi Sinham Pedda Paadam Mida Nundi — Teliyakundaane Paakutu Vellindi.",
+      "text_en": "In the Nallamala forest, a big lion with a golden mane was sleeping peacefully in the shade of the trees. Its sleep was so deep that the leaves gently moved with its breath. A big sigh, 'Hoom...', silently filled the forest. Trusting its strength, it closed its eyes without any fear. Just then, a little mouse, having lost its way, crawled over the lion's big paw. It crawled over the lion's big paw without even knowing it."
+    },
+    {
+      "id": 2,
+      "text": "ఆ చిన్న స్పర్శకు సింహం ఒక్కసారిగా కళ్ళు తెరిచింది — కోపంతో దాని శరీరం ఉడికింది. ఆహా, తన నిద్రకు భంగం కలిగించిన ఆ చిన్న ప్రాణిని చూసి, అది గట్టిగా గర్జించింది. ఆ గర్జనతో అడవి నిశ్శబ్దంగా వణికిపోయింది — భూమి కూడా కంపించింది. వెంటనే, అది తన పెద్ద పాదంతో ఆ ఎలుకను పట్టుకుంది, అది అదురుతున్న గుండెలతో వణికిపోయింది. \"మహారాజా, నన్ను క్షమించండి! దయచేసి నన్ను వదిలిపెట్టండి!\" అని ఆ చిన్న ఎలుక ప్రాధేయపడింది. ఆ ప్రాధేయపడటం చూసి, సింహం ఒక్కసారిగా — దాన్ని విడిచిపెట్టింది.",
+      "image_prompt": "The lion, having just woken up in anger, catches the small, trembling mouse under its large paw. The mouse pleads with a terrified expression, its tiny body shaking beneath the lion's immense limb. The dappled sunlight now feels more intense, highlighting the lion's large, shadowed paw over the tiny, trembling mouse, creating a vivid sense of immediate danger and power imbalance.",
+      "scene_visual": "The lion, having just woken up in anger, catches the small, trembling mouse under its large paw. The mouse pleads with a terrified expression, its tiny body shaking beneath the lion's immense limb.",
+      "supporting_char_keys": [
+        "mouse"
+      ],
+      "text_te_en": "Aa Chinna Sparshaku Sinham Okkasaarigaa Kallu Terichindi — Kopanto Daani Shariram Udikindi. Aahaa, Tana Nidraku Bhangam Kaliginchina Aa Chinna Praanini Chusi, Adi Gattigaa Garjinchindi. Aa Garjanato Adavi Nishshabdangaa Vanikipoyindi — Bhumi Kudaa Kampinchindi. Ventane, Adi Tana Pedda Paadanto Aa Elukanu Pattukundi, Adi Adurutunna Gundelato Vanikipoyindi. \"Mahaaraajaa, Nannu Kshaminchandi! Dayachesi Nannu Vadilipettandi!\" Ani Aa Chinna Eluka Praadheyapadindi. Aa Praadheyapadatam Chusi, Sinham Okkasaarigaa — Daanni Vidichipettindi.",
+      "text_en": "With that small touch, the lion suddenly opened its eyes — its body boiled with anger. Oh, seeing the tiny creature that disturbed its sleep, it roared loudly. With that roar, the forest silently trembled — even the ground shook. Immediately, it caught the mouse with its big paw, and the mouse trembled with a pounding heart. \"Oh King, forgive me! Please let me go!\" pleaded the little mouse. Seeing its plea, the lion suddenly — let it go."
+    },
+    {
+      "id": 3,
+      "text": "కొన్ని రోజుల తర్వాత, అదే అడవిలో సింహం వేటగాళ్ళ వలలో చిక్కుకుంది — ఎంత ప్రయత్నించినా బయటపడలేకపోయింది. దాని బంగారు జూలు వలకు చిక్కుకుపోయి, ప్రతి కదలికతో తాడులు దానికి గీసుకుపోయాయి. \"నన్ను విడిపించేదెవరు? ఈ బంధం నుండి బయటపడలేనా?\" అని అది అడవి అంతా వినిపించేలా గట్టిగా గర్జించింది. దాని గర్జనలు నిస్సహాయంగా అడవి అంతటా మార్మోగాయి — ఎవరూ దగ్గరికి రాలేదు. ఆ క్షణంలో, దాని శక్తి అంతా — వృథా అయిపోయింది. దాని ఆక్రందనలు ఆ అడవిలో ఒక చిన్న మిత్రుడి చెవిలో పడ్డాయి.",
+      "image_prompt": "The lion is caught in a hunter's net, struggling fiercely but unable to free itself. Its golden mane is entangled in the ropes, which chafe against its body with every desperate movement. Twilight descends, casting long, eerie shadows through the dense trees, making the coarse, dark net almost invisible against the darkening undergrowth, emphasizing the lion's isolation and profound fear.",
+      "scene_visual": "The lion is caught in a hunter's net, struggling fiercely but unable to free itself. Its golden mane is entangled in the ropes, which chafe against its body with every desperate movement.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojula Tarvaata, Ade Adavilo Sinham Vetagaalla Valalo Chikkukundi — Enta Prayatninchinaa Bayatapadalekapoyindi. Daani Bangaaru Julu Valaku Chikkukupoyi, Prati Kadalikato Taadulu Daaniki Gisukupoyaayi. \"Nannu Vidipinchedevaru? I Bandham Nundi Bayatapadalenaa?\" Ani Adi Adavi Antaa Vinipinchelaa Gattigaa Garjinchindi. Daani Garjanalu Nissahaayangaa Adavi Antataa Maarmogaayi — Evaru Daggariki Raaledu. Aa Kshananlo, Daani Shakti Antaa — Vrrithaa Ayipoyindi. Daani Aakrandanalu Aa Adavilo Oka Chinna Mitrudi Chevilo Paddaayi.",
+      "text_en": "A few days later, in the same forest, the lion got caught in a hunter's net — no matter how much it tried, it couldn't get out. Its golden mane was tangled in the net, and with every movement, the ropes scratched it. \"Who will free me? Can I not escape this trap?\" it roared loudly for the whole forest to hear. Its helpless roars echoed throughout the forest — no one came near. At that moment, all its strength — was wasted. Its cries fell upon the ears of a small friend in that forest."
+    },
+    {
+      "id": 4,
+      "text": "సింహం ఆర్తనాదాలు విన్న ఆ చిన్న ఎలుక, మెల్లగా శబ్దం వచ్చిన దిక్కుగా వెళ్ళింది. దగ్గరికి వెళ్ళగానే, అది వలలో చిక్కుకున్న సింహాన్ని చూసి — దాని గుండె ద్రవించింది. \"ఆయన నన్ను క్షమించారు. బహుశా నేను సహాయం చేయగలను\" అని చిన్నగా గొణుగుకుంది. భయంతో కూడిన ఆ అడవి వాసన, దానికి సహాయం చేయాలనే కోరికను మరింత పెంచింది. అప్పుడు, దాని చిన్న తల పైకి ఎత్తి, వలను పరీక్షగా చూసింది. ఒక్కసారిగా — సహాయం చేయాలని నిశ్చయించుకుంది.",
+      "image_prompt": "The small mouse approaches the trapped lion and lifts its tiny head to carefully examine the ropes of the net. Its small eyes intently scan the thick cords, determining how to help. The last slivers of orange and purple daylight streak through the forest, illuminating the mouse's small, determined figure against the dark, struggling form of the lion, creating a poignant contrast.",
+      "scene_visual": "The small mouse approaches the trapped lion and lifts its tiny head to carefully examine the ropes of the net. Its small eyes intently scan the thick cords, determining how to help.",
+      "supporting_char_keys": [
+        "mouse"
+      ],
+      "text_te_en": "Sinham Aartanaadaalu Vinna Aa Chinna Eluka, Mellagaa Shabdam Vachchina Dikkugaa Vellindi. Daggariki Vellagaane, Adi Valalo Chikkukunna Sinhaanni Chusi — Daani Gunde Dravinchindi. \"Aayana Nannu Kshaminchaaru. Bahushaa Nenu Sahaayam Cheyagalanu\" Ani Chinnagaa Gonugukundi. Bhayanto Kudina Aa Adavi Vaasana, Daaniki Sahaayam Cheyaalane Korikanu Marinta Penchindi. Appudu, Daani Chinna Tala Paiki Etti, Valanu Parikshagaa Chusindi. Okkasaarigaa — Sahaayam Cheyaalani Nishchayinchukundi.",
+      "text_en": "Hearing the lion's cries, the little mouse slowly went towards the sound. As it got closer, it saw the lion caught in the net — its heart melted. \"He forgave me. Maybe I can help,\" it whispered softly. The scent of the fearful forest only increased its desire to help. Then, it lifted its small head and carefully examined the net. All at once — it decided to help."
+    },
+    {
+      "id": 5,
+      "text": "వెంటనే ఆ చిన్న ఎలుక, వల మీదకు ఎక్కి, దారాలను కొరకడం మొదలుపెట్టింది. దాని చిన్న పళ్ళు ఆ లావుపాటి దారాలను కత్తిరించడానికి ఎంతగానో శ్రమించాయి. కిర్రు... కిర్రు... అనే శబ్దం — ఆ నిశ్శబ్ద అడవిలో స్పష్టంగా వినిపించింది. \"నువ్వు నిజంగా నాకు సహాయం చేస్తున్నావా, చిన్న మిత్రమా?\" అని సింహం నమ్మలేక అడిగింది. ఎలుక మాట్లాడకుండా, తన పని తాను చేసుకుంటూ పోయింది — కళ్ళల్లో పట్టుదల మెరిసింది. ఒక పెద్ద తాడు ఒక్కసారిగా — టప్ అని తెగిపోయింది. ఆ దెబ్బకు వల కాస్త వదులై, సింహం శరీరం కాస్త కదిలింది.",
+      "image_prompt": "The small mouse climbs onto the net and begins to gnaw diligently through the thick ropes with its tiny teeth. A large rope snaps with a distinct 'tap' sound, causing the net to loosen and the lion's body to shift slightly. Deep blue hour, almost night, with only the pale moonlight filtering through the gaps in the canopy, casting stark silhouettes of the mighty, trapped lion and the tiny, busy mouse.",
+      "scene_visual": "The small mouse climbs onto the net and begins to gnaw diligently through the thick ropes with its tiny teeth. A large rope snaps with a distinct 'tap' sound, causing the net to loosen and the lion's body to shift slightly.",
+      "supporting_char_keys": [
+        "mouse"
+      ],
+      "text_te_en": "Ventane Aa Chinna Eluka, Vala Midaku Ekki, Daaraalanu Korakadam Modalupettindi. Daani Chinna Pallu Aa Laavupaati Daaraalanu Kattirinchadaaniki Entagaano Shraminchaayi. Kirru... Kirru... Ane Shabdam — Aa Nishshabda Adavilo Spashtangaa Vinipinchindi. \"Nuvvu Nijangaa Naaku Sahaayam Chestunnaavaa, Chinna Mitramaa?\" Ani Sinham Nammaleka Adigindi. Eluka Maatlaadakundaa, Tana Pani Taanu Chesukuntu Poyindi — Kallallo Pattudala Merisindi. Oka Pedda Taadu Okkasaarigaa — Tap Ani Tegipoyindi. Aa Debbaku Vala Kaasta Vadulai, Sinham Shariram Kaasta Kadilindi.",
+      "text_en": "Immediately, the little mouse climbed onto the net and began to gnaw at the ropes. Its small teeth worked hard to cut through those thick ropes. A 'kirru... kirru...' sound — was clearly heard in the silent forest. \"Are you really helping me, little friend?\" the lion asked, unable to believe it. The mouse, without speaking, continued its work — determination shining in its eyes. Suddenly, a thick rope — snapped with a 'tap'. With that, the net loosened a bit, and the lion's body moved slightly."
+    },
+    {
+      "id": 6,
+      "text": "మరికొన్ని క్షణాల్లో, చివరి తాడు కూడా — టప్... మని తెగిపోయింది. సింహం వల నుండి బయటపడి, ఆనందంతో ఒక పెద్ద గర్జన చేసింది — దాని సంతోషం అడవి అంతా నిండింది. \"నీ చిన్న సహాయం నా ప్రాణాన్ని కాపాడింది! నీకు చాలా కృతజ్ఞతలు!\" అని సింహం పెద్దగా పలికింది. దాని కళ్ళల్లో కృతజ్ఞత మెరిసింది — ఇంత చిన్న ప్రాణి చేసిన ఉపకారానికి అది తల వంచింది. ఆ గర్జనతో అడవి నిశ్శబ్దంగా నిలబడింది — దాని కొత్త స్నేహాన్ని చూస్తూ.",
+      "image_prompt": "The lion, now free from the net, lets out a mighty roar of joy that echoes through the forest. Its eyes shine with gratitude as it looks down at the small creature that saved it. A sudden burst of brilliant moonlight breaks through a gap in the clouds, illuminating the freed lion and the small mouse in a radiant, almost magical glow, signifying the turning point and a moment of grace.",
+      "scene_visual": "The lion, now free from the net, lets out a mighty roar of joy that echoes through the forest. Its eyes shine with gratitude as it looks down at the small creature that saved it.",
+      "supporting_char_keys": [
+        "mouse"
+      ],
+      "text_te_en": "Marikonni Kshanaallo, Chivari Taadu Kudaa — Tap... Mani Tegipoyindi. Sinham Vala Nundi Bayatapadi, Aanandanto Oka Pedda Garjana Chesindi — Daani Santosham Adavi Antaa Nindindi. \"Ni Chinna Sahaayam Naa Praanaanni Kaapaadindi! Niku Chaalaa Krritajnyatalu!\" Ani Sinham Peddagaa Palikindi. Daani Kallallo Krritajnyata Merisindi — Inta Chinna Praani Chesina Upakaaraaniki Adi Tala Vanchindi. Aa Garjanato Adavi Nishshabdangaa Nilabadindi — Daani Kotta Snehaanni Chustu.",
+      "text_en": "In a few more moments, the last rope also — snapped with a 'tap'. The lion broke free from the net and let out a big roar of joy — its happiness filled the entire forest. \"Your small help saved my life! Thank you very much!\" the lion said loudly. Gratitude shone in its eyes — it bowed its head to the favor done by such a small creature. With that roar, the forest stood silently — watching their new friendship."
+    },
+    {
+      "id": 7,
+      "text": "అప్పుడు ఆ పెద్ద సింహం, ఆ చిన్న ఎలుక — ఇద్దరూ కొత్త స్నేహంతో నడిచారు. సింహం తన పెద్ద పాదాలను మెల్లగా, జాగ్రత్తగా వేసింది — తన చిన్న మిత్రుడికి దారి ఇస్తూ. అడవి నేల మీద దాని పాదాల మెత్తటి శబ్దం, ఎలుక అడుగులను అనుసరించింది. మహారాజు అయిన సింహం, తన ప్రాణం కాపాడిన చిన్న ఎలుకను గౌరవంగా చూసింది. అక్కడ మాటలు లేవు, కానీ వారి మధ్య — లోతైన బంధం ఏర్పడింది.",
+      "image_prompt": "The large lion and the small mouse walk side-by-side, the lion carefully placing its massive paws to accommodate its tiny friend. The soft thud of the lion's steps on the forest floor accompanies the mouse's small movements, signifying their new bond. Gentle dawn light, warm amber and soft pinks, painting the forest in a peaceful, serene glow, symbolizing a new beginning and a lasting, unexpected friendship.",
+      "scene_visual": "The large lion and the small mouse walk side-by-side, the lion carefully placing its massive paws to accommodate its tiny friend. The soft thud of the lion's steps on the forest floor accompanies the mouse's small movements, signifying their new bond.",
+      "supporting_char_keys": [
+        "mouse"
+      ],
+      "text_te_en": "Appudu Aa Pedda Sinhan, Aa Chinna Eluka — Iddaru Kotta Snehanto Nadichaaru. Sinham Tana Pedda Paadaalanu Mellagaa, Jaagrattagaa Vesindi — Tana Chinna Mitrudiki Daari Istu. Adavi Nela Mida Daani Paadaala Mettati Shabdan, Eluka Adugulanu Anusarinchindi. Mahaaraaju Ayina Sinhan, Tana Praanam Kaapaadina Chinna Elukanu Gauravangaa Chusindi. Akkada Maatalu Levu, Kaani Vaari Madhya — Lotaina Bandham Erpadindi.",
+      "text_en": "Then the big lion and the little mouse — both walked with a new friendship. The lion placed its big paws gently and carefully — making way for its little friend. The soft sound of its paws on the forest floor followed the mouse's steps. The lion, who was king, looked at the little mouse who saved its life with respect. There were no words, but between them — a deep bond was formed."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "mouse",
+      "description": "A tiny, agile field mouse with soft grey fur, twitching whiskers, and beady black eyes, always scurrying and curious. He is quick-witted and observant, despite his small size. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and strong child engagement, making it a classic fable well-executed. The emotional depth is mostly conveyed through actions, which is commendable. To reach an award-worthy level, the primary focus should be on refining the narrative voice to consistently embody the warmth and natural flow of a grandparent's oral storytelling, rather than occasionally slipping into formal prose. Additionally, ensuring at least one line of character-specific dialogue in every scene would significantly enhance its richness and maintain consistent engagement."
+  },
+  "quality_warning": true,
+  "title_te_en": "Sinhan, Chinna Eluka Sneham",
+  "moral_te_en": "Chinna Saayam Kudaa Uhinchani Samayanlo Goppa Upakaaram Avutundi.",
+  "title_en": "The Friendship of the Lion and the Little Mouse",
+  "moral_en": "Even a small help can become a great favor at an unexpected time.",
+  "id": "20260528_191204",
+  "date": "2026-05-28",
+  "category": "panchatantra",
+  "subcategory": "animal_wisdom",
+  "topic": "పంచతంత్రం - సింహం మరియు ఎలుక",
+  "thumbnail": "stories/20260528_191204/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
