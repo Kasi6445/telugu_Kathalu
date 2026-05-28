@@ -1,0 +1,132 @@
+{
+  "title": "వెన్న ముద్దల ముద్దుల కృష్ణుడు",
+  "moral": "ప్రేమ, భక్తి ఉంటే చిలిపి పనులు కూడా ఆనందాన్ని, అద్భుతాలను సృష్టిస్తాయి చూడు.",
+  "main_character": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The ancient village of Gokulam, nestled by the Yamuna river. Huts with thatched roofs, mud-plastered walls, and small courtyards are common. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోకులం వీధుల్లో ప్రతి ఇంట్లోనూ, పొద్దున్నే వెన్న చిలికే చప్పుడు వినిపించేది. పసుపు పీతాంబరం ధరించి, నెమలి పింఛం కిరీటంతో, చిన్న కృష్ణయ్య తన చిన్ని వేళ్ళతో యశోద చీరను పట్టుకుని నిలబడ్డాడు. వెన్న చిలుకుతున్న గోపికల వైపు అతని కళ్ళు మెరుస్తూ చూశాయి — అతని చిన్ని పెదవులపై చిరునవ్వు మెరిసింది. లోపల నుండి వచ్చే 'ఘుర్న్-ఘుర్న్' శబ్దానికి అతని చెవులు అప్రమత్తమయ్యాయి. \"అమ్మా, అది ఏమిటి?\" అని తన చిన్ని వేలితో చూపించాడు. గోపికల కుండలో మెరుస్తున్న తెల్లటి వెన్న ముద్దపై అతని చూపు నిలిచింది. ఆ క్షణంలో — అతని మనసులో ఒక చిలిపి ఆలోచన మెరిసింది.",
+      "image_prompt": "The boy stands holding his mother's saree, his small finger pointing towards the gleaming white lump of butter in the gopikas' pot. A mischievous thought twinkles in his eyes as a faint smile plays on his tiny lips. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Bright morning sun streaming into a rustic kitchen, warm and inviting, highlighting the butter pot.",
+      "scene_visual": "The boy stands holding his mother's saree, his small finger pointing towards the gleaming white lump of butter in the gopikas' pot. A mischievous thought twinkles in his eyes as a faint smile plays on his tiny lips.",
+      "supporting_char_keys": [
+        "yashoda"
+      ],
+      "text_te_en": "Gokulam Vidhullo Prati Intlonu, Poddunne Venna Chilike Chappudu Vinipinchedi. Pasupu Pitaambaram Dharinchi, Nemali Pincham Kiritanto, Chinna Krrishnayya Tana Chinni Vellato Yashoda Chiranu Pattukuni Nilabaddaadu. Venna Chilukutunna Gopikala Vaipu Atani Kallu Merustu Chushaayi — Atani Chinni Pedavulapai Chirunavvu Merisindi. Lopala Nundi Vachche 'Ghurn-Ghurn' Shabdaaniki Atani Chevulu Apramattamayyaayi. \"Ammaa, Adi Emiti?\" Ani Tana Chinni Velito Chupinchaadu. Gopikala Kundalo Merustunna Tellati Venna Muddapai Atani Chupu Nilichindi. Aa Kshananlo — Atani Manasulo Oka Chilipi Aalochana Merisindi.",
+      "text_en": "In the streets of Gokulam, every morning, the sound of churning butter could be heard from every house. Wearing a yellow silk dhoti and a peacock feather crown, little Krishna stood holding Yashoda's saree with his tiny fingers. His eyes sparkled as he looked at the Gopis churning butter — a smile twinkled on his little lips. His ears perked up at the 'ghurn-ghurn' sound coming from inside. “Amma, what is that?” he asked, pointing with his tiny finger. His gaze fixed on the shining white butter lump in the Gopis' pot. At that moment — a mischievous idea sparkled in his mind."
+    },
+    {
+      "id": 2,
+      "text": "వెంటనే, యశోద ఇంటి ముందు పదుల సంఖ్యలో గోపికలు గుమిగూడారు — వారి మాటల సవ్వడి, నవ్వుల గుసగుసలతో ఆ వాతావరణం నిండిపోయింది. వారి చేతులు నడుముపై పెట్టుకుని నిలబడ్డారు. ఒక గోపిక ముందుకు వచ్చింది — ఆమె కళ్ళలో చిలిపి మెరుపు. \"యశోదా, నీ కృష్ణుడు మళ్ళీ మా ఇళ్లలో వెన్న దొంగిలించాడు!\" అని కొద్దిగా కోపంగా, కొద్దిగా మురిపెంగా అంది. యశోద తల అడ్డంగా తిప్పుతూ, పెదవులపై ఒక చిరునవ్వు దాగింది. \"ఈసారి వాడిని ఎలా ఆపాలో చూస్తాను\" అని మనసులో అనుకుంది.",
+      "image_prompt": "A gopika steps forward, her hands on her hips, and accuses the boy's mother of his butter-stealing antics. The mother shakes her head, a secret smile playing on her lips, as the gopika's eyes sparkle with playful mischief. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Mid-morning light, soft and diffuse, on the shaded porch of a village home, creating a gentle, communal atmosphere.",
+      "scene_visual": "A gopika steps forward, her hands on her hips, and accuses the boy's mother of his butter-stealing antics. The mother shakes her head, a secret smile playing on her lips, as the gopika's eyes sparkle with playful mischief.",
+      "supporting_char_keys": [
+        "yashoda",
+        "gopis"
+      ],
+      "text_te_en": "Ventane, Yashoda Inti Mundu Padula Sankhyalo Gopikalu Gumigudaaru — Vaari Maatala Savvadi, Navvula Gusagusalato Aa Vaataavaranam Nindipoyindi. Vaari Chetulu Nadumupai Pettukuni Nilabaddaaru. Oka Gopika Munduku Vachchindi — Aame Kallalo Chilipi Merupu. \"Yashodaa, Ni Krrishnudu Malli Maa Illalo Venna Dongilinchaadu!\" Ani Koddigaa Kopangaa, Koddigaa Muripengaa Andi. Yashoda Tala Addangaa Tipputu, Pedavulapai Oka Chirunavvu Daagindi. \"Isaari Vaadini Elaa Aapaalo Chustaanu\" Ani Manasulo Anukundi.",
+      "text_en": "Soon, dozens of Gopis gathered in front of Yashoda's house — the air filled with their chatter and whispering laughter. They stood with their hands on their hips. One Gopi came forward — a mischievous twinkle in her eyes. “Yashoda, your Krishna has stolen butter from our houses again!” she said, a little angrily, a little fondly. Yashoda shook her head, a smile hidden on her lips. “This time, I'll see how to stop him,” she thought to herself."
+    },
+    {
+      "id": 3,
+      "text": "యశోద మొహంపై పట్టుదల కనిపించింది, కృష్ణుడి చిలిపి పనులను ఆపాలని ఆమె నిశ్చయించుకుంది. ఆమె ఒక పెద్ద కుండ నిండా తాజాగా చిలికిన వెన్నను తీసుకుంది. గోడకు ఉన్న ఎత్తైన దూలానికి, పొడవాటి తాడును కట్టడానికి ఆమె చేతులు జాగ్రత్తగా కదిలాయి — ఆ తాడు స్పర్శ పొడిగా, గరుకుగా ఉంది. \"ఇదిగో, ఇప్పుడు చూద్దాం నా చిన్ని కృష్ణా!\" అని చిన్నగా నవ్వుతూ అనుకుంది. ఆ కుండ గాలిలో ఊగుతోంది — కానీ అతని చూపు చెదరలేదు. చీకటి మలుపులో నిలబడి, కృష్ణయ్య ఆ కుండను పరీక్షగా చూశాడు.",
+      "image_prompt": "The mother carefully ties a long rope to a high beam on the wall, suspending a large pot full of freshly churned butter. The boy stands in the dim corner, his gaze fixed intently on the swinging pot, his expression unyielding. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Afternoon sun slanting through a small window, creating dust motes dancing in the golden light within the cool, dim room.",
+      "scene_visual": "The mother carefully ties a long rope to a high beam on the wall, suspending a large pot full of freshly churned butter. The boy stands in the dim corner, his gaze fixed intently on the swinging pot, his expression unyielding.",
+      "supporting_char_keys": [
+        "yashoda"
+      ],
+      "text_te_en": "Yashoda Mohampai Pattudala Kanipinchindi, Krrishnudi Chilipi Panulanu Aapaalani Aame Nishchayinchukundi. Aame Oka Pedda Kunda Nindaa Taajaagaa Chilikina Vennanu Tisukundi. Godaku Unna Ettaina Dulaaniki, Podavaati Taadunu Kattadaaniki Aame Chetulu Jaagrattagaa Kadilaayi — Aa Taadu Sparsha Podigaa, Garukugaa Undi. \"Idigo, Ippudu Chuddaam Naa Chinni Krrishnaa!\" Ani Chinnagaa Navvutu Anukundi. Aa Kunda Gaalilo Ugutondi — Kaani Atani Chupu Chedaraledu. Chikati Malupulo Nilabadi, Krrishnayya Aa Kundanu Parikshagaa Chushaadu.",
+      "text_en": "Determination showed on Yashoda's face; she was determined to stop Krishna's mischievous acts. She took a large pot full of freshly churned butter. Her hands carefully moved to tie a long rope to a high beam on the wall — the rope felt dry and rough to the touch. “There, now let's see, my little Krishna!” she thought, chuckling softly. The pot swung in the air — but his gaze did not waver. Standing in a dark corner, Krishna examined the pot carefully."
+    },
+    {
+      "id": 4,
+      "text": "కృష్ణయ్య తన స్నేహితులందరినీ పిలిచాడు — వారి కళ్ళలో కూడా వెన్న ఆశ మెరుస్తోంది. ఒకరిపై ఒకరు ఎక్కుతూ, మెల్లగా ఒక మానవ పిరమిడ్‌ను తయారు చేశారు. కృష్ణుడు అందరిపైకి ఎక్కాడు, అతని వెనుక స్నేహితుల వెచ్చని శ్వాస తాకుతోంది. అతని ముఖంపై పెద్ద చిరునవ్వు మెరిసింది — విజయం దగ్గర పడింది. \"ఇంకొక అడుగు! దాదాపు చేరుకున్నాం!\" అని కృష్ణుడు తన స్నేహితులకు గుసగుసగా చెప్పాడు. చివరికి, అతని వేళ్ళు ఆ మట్టి కుండ చల్లని, నునుపైన ఉపరితలాన్ని తాకాయి.",
+      "image_prompt": "The boy stands at the apex of a human pyramid formed by his friends, his fingers just reaching the suspended pot. A wide smile spreads across his face as his fingers touch the cool, smooth surface of the earthen pot. Late afternoon, golden hour light filtering into the dim, cool interior of the storeroom, highlighting their focused efforts.",
+      "scene_visual": "The boy stands at the apex of a human pyramid formed by his friends, his fingers just reaching the suspended pot. A wide smile spreads across his face as his fingers touch the cool, smooth surface of the earthen pot.",
+      "supporting_char_keys": [
+        "cowherd_friends"
+      ],
+      "text_te_en": "Krrishnayya Tana Snehitulandarini Pilichaadu — Vaari Kallalo Kudaa Venna Aasha Merustondi. Okaripai Okaru Ekkutu, Mellagaa Oka Maanava Piramid‌Nu Tayaaru Cheshaaru. Krrishnudu Andaripaiki Ekkaadu, Atani Venuka Snehitula Vechchani Shvaasa Taakutondi. Atani Mukhampai Pedda Chirunavvu Merisindi — Vijayam Daggara Padindi. \"Inkoka Adugu! Daadaapu Cherukunnaan!\" Ani Krrishnudu Tana Snehitulaku Gusagusagaa Cheppaadu. Chivariki, Atani Vellu Aa Matti Kunda Challani, Nunupaina Uparitalaanni Taakaayi.",
+      "text_en": "Krishna called all his friends — the hope of butter sparkling in their eyes too. Climbing on top of each other, they slowly formed a human pyramid. Krishna climbed to the very top, feeling the warm breath of his friends behind him. A big smile shone on his face — victory was near. “One more step! We're almost there!” Krishna whispered to his friends. Finally, his fingers touched the cool, smooth surface of the clay pot."
+    },
+    {
+      "id": 5,
+      "text": "కృష్ణుడు ఆ వెన్న కుండలో చేతులు పెట్టి, పెద్ద ముద్దను తీశాడు. ఆ వెన్న జిడ్డు అతని చిన్ని చేతులకు, ముఖానికి అంటింది — ఆ తీపి చల్లదనం అతని నాలుకపై కరిగిపోయింది. అతని ముఖం ఆనందంతో వెలిగిపోయింది. \"మిత్రులారా, రుచి చూడండి!\" అని కేరింతలు కొడుతూ, తన స్నేహితులకు, ఆఖరికి అటుగా వచ్చిన కోతులకు కూడా అందించాడు. అందరూ కలిసి ఆ వెన్న ముద్దలను ఆస్వాదించారు. అప్పుడే యశోద గదిలోకి అడుగు పెట్టింది — ఆమె మొహంపై చిరునవ్వు మెరిసింది.",
+      "image_prompt": "The boy pulls a large lump of butter from the pot, his hands and face smeared with its greasy sweetness, and offers it to his friends and monkeys. His face glows with delight as the mother steps into the room, a smile beginning to form on her lips. Soft, fading daylight casting long shadows, a peaceful and intimate glow illuminating the shared joy.",
+      "scene_visual": "The boy pulls a large lump of butter from the pot, his hands and face smeared with its greasy sweetness, and offers it to his friends and monkeys. His face glows with delight as the mother steps into the room, a smile beginning to form on her lips.",
+      "supporting_char_keys": [
+        "cowherd_friends",
+        "monkeys"
+      ],
+      "text_te_en": "Krrishnudu Aa Venna Kundalo Chetulu Petti, Pedda Muddanu Tishaadu. Aa Venna Jiddu Atani Chinni Chetulaku, Mukhaaniki Antindi — Aa Tipi Challadanam Atani Naalukapai Karigipoyindi. Atani Mukham Aanandanto Veligipoyindi. \"Mitrulaaraa, Ruchi Chudandi!\" Ani Kerintalu Kodutu, Tana Snehitulaku, Aakhariki Atugaa Vachchina Kotulaku Kudaa Andinchaadu. Andaru Kalisi Aa Venna Muddalanu Aasvaadinchaaru. Appude Yashoda Gadiloki Adugu Pettindi — Aame Mohampai Chirunavvu Merisindi.",
+      "text_en": "Krishna put his hands into the butter pot and took out a large lump. The greasy butter stuck to his tiny hands and face — its sweet coolness melted on his tongue. His face lit up with joy. “Friends, taste this!” he cheered, offering it to his friends and even to the monkeys that came by. Everyone together enjoyed the butter lumps. Just then, Yashoda stepped into the room — a smile shone on her face."
+    },
+    {
+      "id": 6,
+      "text": "గదిలోకి అడుగుపెట్టిన యశోద, కృష్ణుడి ముఖం నిండా అంటిన వెన్న చూసి ఒక క్షణం ఆశ్చర్యపోయింది. గది అంతా వెన్న తీయని సువాసన నిండిపోయింది. అతని చిన్ని పెదవులపై ఇంకా వెన్న ముద్దలు అంటి ఉన్నాయి. \"కృష్ణా! మళ్ళీనా?\" అని ఆమె గొంతులో కఠినత్వం కరిగిపోయింది. కృష్ణుడు నెమ్మదిగా తల పైకెత్తాడు — అతని కళ్ళలో స్వచ్ఛమైన ప్రేమ మెరిసింది. ఆ చిలిపి నవ్వు చెదరలేదు.",
+      "image_prompt": "The boy slowly lifts his head, his face still smeared with butter, to look at his mother who has just entered the room. His eyes sparkle with pure love and a mischievous smile remains on his butter-smeared lips. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The warm glow of an oil lamp, casting soft, flickering light on their faces, intimate and loving.",
+      "scene_visual": "The boy slowly lifts his head, his face still smeared with butter, to look at his mother who has just entered the room. His eyes sparkle with pure love and a mischievous smile remains on his butter-smeared lips.",
+      "supporting_char_keys": [
+        "yashoda"
+      ],
+      "text_te_en": "Gadiloki Adugupettina Yashoda, Krrishnudi Mukham Nindaa Antina Venna Chusi Oka Kshanam Aashcharyapoyindi. Gadi Antaa Venna Tiyani Suvaasana Nindipoyindi. Atani Chinni Pedavulapai Inkaa Venna Muddalu Anti Unnaayi. \"Krrishnaa! Mallinaa?\" Ani Aame Gontulo Kathinatvam Karigipoyindi. Krrishnudu Nemmadigaa Tala Paikettaadu — Atani Kallalo Svachchamaina Prema Merisindi. Aa Chilipi Navvu Chedaraledu.",
+      "text_en": "Stepping into the room, Yashoda was surprised for a moment to see Krishna's face covered in butter. The whole room was filled with the sweet scent of butter. Butter lumps were still stuck to his little lips. “Krishna! Again?” The sternness in her voice melted away. Krishna slowly lifted his head — pure love sparkled in his eyes. That mischievous smile did not fade."
+    },
+    {
+      "id": 7,
+      "text": "కృష్ణుడి అమాయకపు నవ్వు చూసి, యశోద గుండె కరిగిపోయింది — ఆమె మొహంపై కోపం జాడ లేకుండా పోయింది. ఆమె చేతులు సాచి, వెన్న అంటిన కృష్ణుడిని తన దగ్గరకు తీసుకుంది. ఆమె చీర మెత్తటి వెచ్చదనం కృష్ణుడిని చుట్టుముట్టింది. \"నువ్వు నా చిన్ని చిలిపి దొంగవి!\" అని అతని నుదుటిపై ముద్దు పెడుతూ గుసగుసలాడింది. ఆ క్షణంలో, గోపికల ఫిర్యాదులు, ఆమె పట్టుదల అన్నీ మర్చిపోయింది. ఆమె గుండె ప్రేమతో నిండిపోయింది. కృష్ణుడి చిలిపి ఆటలు — ఆమెకు ఎంతో ఆనందాన్నిచ్చాయి.",
+      "image_prompt": "The mother extends her arms and pulls the butter-smeared boy close, embracing him in the soft warmth of her saree. She whispers \"You are my little mischievous thief!\" as she gently kisses his forehead, her heart filled with love. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle dusk light, warm amber, peaceful resolution, illuminating their loving embrace.",
+      "scene_visual": "The mother extends her arms and pulls the butter-smeared boy close, embracing him in the soft warmth of her saree. She whispers \"You are my little mischievous thief!\" as she gently kisses his forehead, her heart filled with love.",
+      "supporting_char_keys": [
+        "yashoda"
+      ],
+      "text_te_en": "Krrishnudi Amaayakapu Navvu Chusi, Yashoda Gunde Karigipoyindi — Aame Mohampai Kopam Jaada Lekundaa Poyindi. Aame Chetulu Saachi, Venna Antina Krrishnudini Tana Daggaraku Tisukundi. Aame Chira Mettati Vechchadanam Krrishnudini Chuttumuttindi. \"Nuvvu Naa Chinni Chilipi Dongavi!\" Ani Atani Nudutipai Muddu Pedutu Gusagusalaadindi. Aa Kshananlo, Gopikala Phiryaadulu, Aame Pattudala Anni Marchipoyindi. Aame Gunde Premato Nindipoyindi. Krrishnudi Chilipi Aatalu — Aameku Ento Aanandaannichchaayi.",
+      "text_en": "Seeing Krishna's innocent smile, Yashoda's heart melted — all trace of anger vanished from her face. She stretched out her arms and pulled the butter-covered Krishna close to her. The soft warmth of her saree enveloped Krishna. “You are my little naughty thief!” she whispered, kissing his forehead. In that moment, she forgot all about the Gopis' complaints and her determination. Her heart was filled with love. Krishna's mischievous games — brought her immense joy."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "yashoda",
+      "description": "A loving village woman in her late twenties/early thirties with a warm, expressive face. She wears a simple but colourful cotton saree and traditional bangles. Always the same character across every scene."
+    },
+    {
+      "key": "gopis",
+      "description": "A group of lively village women, varying in age, with bright eyes and friendly smiles. They wear traditional cotton sarees in various colours and carry water pots or churners. Always the same character across every scene."
+    },
+    {
+      "key": "cowherd_friends",
+      "description": "A group of energetic young boys, similar age to Krishna, with dusty skin and bright, curious eyes. They wear simple dhotis and often carry small sticks. Always the same character across every scene."
+    },
+    {
+      "key": "monkeys",
+      "description": "Small, agile monkeys with light brown fur and long tails. They have intelligent, quick eyes and are often seen playfully snatching food. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and nearly flawless grammar, providing a strong foundation. To truly shine, the language needs to be refined to consistently embody the warmth and natural flow of a grandparent's oral storytelling, moving away from formal vocabulary. Additionally, strive to *show* all emotions through character actions, expressions, and dialogue, rather than stating them directly, allowing young listeners to feel the story more deeply."
+  },
+  "quality_warning": true,
+  "title_te_en": "Venna Muddala Muddula Krrishnudu",
+  "moral_te_en": "Prema, Bhakti Unte Chilipi Panulu Kudaa Aanandaanni, Adbhutaalanu Srrishtistaayi Chudu.",
+  "title_en": "Darling Krishna and the Butter Balls",
+  "moral_en": "Look, when there is love and devotion, even naughty deeds can bring joy and create wonders.",
+  "id": "20260528_001059",
+  "date": "2026-05-28",
+  "category": "bhagavatam",
+  "subcategory": "krishna_leela",
+  "topic": "బాల కృష్ణుడు వెన్న దొంగిలించిన కథ",
+  "thumbnail": "stories/20260528_001059/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
