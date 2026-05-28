@@ -1,0 +1,107 @@
+{
+  "title": "చింటూ సాహసం: జీవధార రహస్యం",
+  "moral": "చిన్నవారైనా, పెద్దవారైనా — మనసు పెట్టి ప్రయత్నిస్తే, సాధించలేనిది ఏదీ ఉండదు చూడు.",
+  "main_character": "Chintu is a 9-year-old slender boy with bright, curious eyes and messy black hair. He wears a simple, faded blue dhoti. He is full of energy and questions, always eager to explore. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant village named \"పాలవెల్లి\" (Palavelli) nestled beside the Godavari river in Andhra Pradesh. Mud-plastered houses with thatched roofs, mango trees laden with fruit, the distant sound of temple bells, and the gentle gurgle of the river. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పాలవెల్లి నది ఒడ్డున చింటూ సీతాకోకచిలుకల వెంట పరుగులు తీస్తున్నాడు — అతని చిరునవ్వు చెవుల దాకా పాకింది. చిన్న చేతులు గాలిలో ఊపుతూ గంతులు వేస్తుంటే, అతని పాదాల కింద వేడి ఇసుక పట్టుకున్నట్లు అనిపించింది. పట్టు పట్టు! నన్ను పట్టుకోలేవు! అంటూ గట్టిగా నవ్వాడు. ఇంతలో ఎక్కడ నుంచో వచ్చిన గంభీరమైన గొంతులు అతని చెవిలో పడ్డాయి. ఒక్కసారిగా — నవ్వు ఆగిపోయింది. ఆ అరుపులు వింటూనే, చింటూ అడుగులు ఆగిపోయాయి, చుట్టూ చూశాడు.",
+      "image_prompt": "The boy abruptly stops running and laughing, his feet halting in the sand as he looks around. His wide smile, which had reached his ears, vanishes from his face. Bright, golden afternoon sun dappling through mango leaves, creating playful shadows on the riverbank.",
+      "scene_visual": "The boy abruptly stops running and laughing, his feet halting in the sand as he looks around. His wide smile, which had reached his ears, vanishes from his face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Paalavelli Nadi Odduna Chintu Sitaakokachilukala Venta Parugulu Tistunnaadu — Atani Chirunavvu Chevula Daakaa Paakindi. Chinna Chetulu Gaalilo Uputu Gantulu Vestunte, Atani Paadaala Kinda Vedi Isuka Pattukunnatlu Anipinchindi. Pattu Pattu! Nannu Pattukolevu! Antu Gattigaa Navvaadu. Intalo Ekkada Nuncho Vachchina Gambhiramaina Gontulu Atani Chevilo Paddaayi. Okkasaarigaa — Navvu Aagipoyindi. Aa Arupulu Vintune, Chintu Adugulu Aagipoyaayi, Chuttu Chushaadu.",
+      "text_en": "Chintoo was running after butterflies on the banks of the Palavelli river — his smile stretched from ear to ear. His small hands waved in the air as he jumped, and the warm sand felt like it was holding his feet. \"Catch me, catch me! You can't catch me!\" he laughed loudly. Just then, serious voices from somewhere reached his ears. Suddenly — his laughter stopped. As he heard those shouts, Chintoo's steps halted, and he looked around."
+    },
+    {
+      "id": 2,
+      "text": "ఆ అరుపులు వినగానే, చింటూ మామిడి చెట్టు వెనుకకు ఒదిగి, ఆ పెద్దల మాటలు వినసాగాడు. చెట్టు కింద ఎండిన ఆకులు గలగలలాడుతుంటే, పెద్దల గొంతులు మరింత దిగులుగా వినిపించాయి. జీవధార మొక్క వాడిపోతే మన గ్రామానికి జీవనం ఉండదు! అని ఒక పెద్దాయన బాధగా అన్నాడు. అతని ముఖం మెల్లగా ముడుచుకుంది — ఆందోళనతో. ఒకరు నిట్టూర్చారు — 'తేజస్సు పువ్వు' అన్న మాట చింటూ గుండెల్లో మెరిసింది, ఆ మాట గుహ గురించి ఏదో చెప్పింది.",
+      "image_prompt": "The boy crouches behind a mango tree, listening intently to the elders' somber voices. He observes an old man's face slowly creasing with worry as he speaks. Soft, diffused daylight in the village square, slightly muted by the shade of the large mango tree, hinting at unspoken worries.",
+      "scene_visual": "The boy crouches behind a mango tree, listening intently to the elders' somber voices. He observes an old man's face slowly creasing with worry as he speaks.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Arupulu Vinagaane, Chintu Maamidi Chettu Venukaku Odigi, Aa Peddala Maatalu Vinasaagaadu. Chettu Kinda Endina Aakulu Galagalalaadutunte, Peddala Gontulu Marinta Digulugaa Vinipinchaayi. Jivadhaara Mokka Vaadipote Mana Graamaaniki Jivanam Undadu! Ani Oka Peddaayana Baadhagaa Annaadu. Atani Mukham Mellagaa Muduchukundi — Aandolanato. Okaru Nitturchaaru — 'Tejassu Puvvu' Anna Maata Chintu Gundello Merisindi, Aa Maata Guha Gurinchi Edo Cheppindi.",
+      "text_en": "As soon as he heard those shouts, Chintoo hid behind a mango tree and began listening to the elders' words. The dry leaves rustled under the tree, and the elders' voices sounded even sadder. \"If the Jeevadhara plant withers, our village will lose its life!\" an old man said sadly. His face slowly wrinkled — with worry. Someone sighed — the words 'Tejasu Puvvu' (Radiant Flower) sparkled in Chintoo's heart, and those words mentioned something about a cave."
+    },
+    {
+      "id": 3,
+      "text": "పెద్దల మాటలు వినగానే, అతని చిన్న కళ్ళు నిండా నీళ్ళు తిరిగాయి, కానీ పెదవులు గట్టిగా బిగించుకున్నాడు. గాలికి వాడిన జీవధార మొక్క తీపి-చేదు వాసన అతని ముక్కుపుటాలకెక్కింది, గుండెను పిండేసింది. గ్రామానికి వచ్చిన కష్టం చూసి, చింటూ పిడికిలి బిగించాడు — అతని చిన్న కళ్ళలో భయం, పట్టుదల రెండూ కనిపించాయి. ఆ పువ్వును నేను తెస్తాను, ఎలాగైనా సరే! అని మనసులో గట్టిగా అనుకున్నాడు. చీకటి పడగానే — చిన్న మూట సర్దుకున్నాడు, ఎవరికీ తెలియకుండా ఇంటి నుండి బయలుదేరాడు.",
+      "image_prompt": "The boy clenches his small fists, his lips pressed tightly together. His small eyes show a mix of fear and determination, even as they well up with tears. Early morning twilight, a soft, cool blue light filtering through the village trees, hinting at the unknown journey ahead.",
+      "scene_visual": "The boy clenches his small fists, his lips pressed tightly together. His small eyes show a mix of fear and determination, even as they well up with tears.",
+      "supporting_char_keys": [],
+      "text_te_en": "Peddala Maatalu Vinagaane, Atani Chinna Kallu Nindaa Nillu Tirigaayi, Kaani Pedavulu Gattigaa Biginchukunnaadu. Gaaliki Vaadina Jivadhaara Mokka Tipi-Chedu Vaasana Atani Mukkuputaalakekkindi, Gundenu Pindesindi. Graamaaniki Vachchina Kashtam Chusi, Chintu Pidikili Biginchaadu — Atani Chinna Kallalo Bhayan, Pattudala Rendu Kanipinchaayi. Aa Puvvunu Nenu Testaanu, Elaagainaa Sare! Ani Manasulo Gattigaa Anukunnaadu. Chikati Padagaane — Chinna Muta Sardukunnaadu, Evariki Teliyakundaa Inti Nundi Bayaluderaadu.",
+      "text_en": "As soon as he heard the elders' words, his small eyes filled with tears, but he pressed his lips together tightly. The sweet-bitter scent of the withered Jeevadhara plant wafted into his nostrils, squeezing his heart. Seeing the trouble that had come to the village, Chintoo clenched his fists — both fear and determination were visible in his small eyes. \"I will bring that flower, no matter what!\" he thought firmly to himself. As soon as darkness fell — he packed a small bag and left home without anyone knowing."
+    },
+    {
+      "id": 4,
+      "text": "చీకటి పడకముందే ఇంటి నుండి బయలుదేరిన చింటూ, క్రమంగా దట్టమైన అడవిలోకి అడుగు పెట్టాడు. అడుగు కింద ఆకులు శబ్దాలకు, కనిపించని కీటకాల కూతలకు చింటూ ఒక్కోసారి ఉలిక్కిపడ్డాడు. అతని చూపులు నాలుగు దిక్కులా తిరుగుతుంటే, గుండె దడదడ కొట్టుకుంది. ఈ దారి ఎక్కడికి వెళ్తుంది? అని తనలో తనే అనుకున్నాడు. అతని చేతిలో ఉన్న చిన్న మూటను మరింత గట్టిగా పట్టుకున్నాడు — వేళ్ళు తెల్లబడ్డాయి. ఒక్కసారిగా — ముల్లు గుచ్చుకుంది, ఒక ముళ్ల తీగ అతని దారికి అడ్డుపడింది.",
+      "image_prompt": "The boy walks into a dense forest, clutching a small bundle so tightly that his knuckles turn white. His eyes dart nervously in all directions as his heart pounds, and a thorn suddenly pricks him. Deep forest shadows, patches of dappled sunlight struggling to break through the thick canopy, creating a mysterious and slightly menacing atmosphere.",
+      "scene_visual": "The boy walks into a dense forest, clutching a small bundle so tightly that his knuckles turn white. His eyes dart nervously in all directions as his heart pounds, and a thorn suddenly pricks him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chikati Padakamunde Inti Nundi Bayaluderina Chintu, Kramangaa Dattamaina Adaviloki Adugu Pettaadu. Adugu Kinda Aakulu Shabdaalaku, Kanipinchani Kitakaala Kutalaku Chintu Okkosaari Ulikkipaddaadu. Atani Chupulu Naalugu Dikkulaa Tirugutunte, Gunde Dadadada Kottukundi. I Daari Ekkadiki Veltundi? Ani Tanalo Tane Anukunnaadu. Atani Chetilo Unna Chinna Mutanu Marinta Gattigaa Pattukunnaadu — Vellu Tellabaddaayi. Okkasaarigaa — Mullu Guchchukundi, Oka Mulla Tiga Atani Daariki Addupadindi.",
+      "text_en": "Chintoo, who had left home before dark, gradually stepped into the dense forest. Chintoo sometimes flinched at the sound of leaves underfoot and the chirping of unseen insects. His eyes darted in all four directions, and his heart pounded. \"Where does this path lead?\" he wondered to himself. He clutched the small bag in his hand even tighter — his knuckles turned white. Suddenly — a thorn pricked him, a thorny vine blocked his path."
+    },
+    {
+      "id": 5,
+      "text": "ముళ్ల తీగ గుచ్చుకున్న వేలును చూస్తూ, చింటూ అక్కడే కూర్చుండిపోయాడు, అతని ముఖం చిన్నబుచ్చుకుంది, నిట్టూర్చాడు. చేతిలో పట్టుకున్న చల్లటి నునుపైన నదీ రాయి అతనికి ఏదో ధైర్యాన్నిచ్చింది. మెల్లగా పెదవుల మీద చిరునవ్వు మెరిసింది — అమ్మమ్మ ఎప్పుడూ చెప్పేది, తొందరపడకు చింటూ, దయతో ఆలోచించు అని. ఆ మాటలు గుర్తుకొచ్చి, అతని మనసు కాస్త తేలికపడింది. అంతలో చెట్టు కొమ్మలో — చిన్న పక్షి చిక్కుకుపోయింది, రెక్కలు కొట్టుకుంటూ బాధగా అరిచింది.",
+      "image_prompt": "The boy sits down, looking at his pricked finger, and then a small smile appears on his lips. He holds a cool, smooth river stone in his hand, and then notices a small bird trapped in a tree branch, flapping its wings distressfully. A single shaft of golden sunlight pierces the canopy, illuminating Chintu's thoughtful face, making the surrounding shadows feel less daunting.",
+      "scene_visual": "The boy sits down, looking at his pricked finger, and then a small smile appears on his lips. He holds a cool, smooth river stone in his hand, and then notices a small bird trapped in a tree branch, flapping its wings distressfully.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mulla Tiga Guchchukunna Velunu Chustu, Chintu Akkade Kurchundipoyaadu, Atani Mukham Chinnabuchchukundi, Nitturchaadu. Chetilo Pattukunna Challati Nunupaina Nadi Raayi Ataniki Edo Dhairyaannichchindi. Mellagaa Pedavula Mida Chirunavvu Merisindi — Ammamma Eppudu Cheppedi, Tondarapadaku Chintu, Dayato Aalochinchu Ani. Aa Maatalu Gurtukochchi, Atani Manasu Kaasta Telikapadindi. Antalo Chettu Kommalo — Chinna Pakshi Chikkukupoyindi, Rekkalu Kottukuntu Baadhagaa Arichindi.",
+      "text_en": "Looking at his thorn-pricked finger, Chintoo sat down right there, his face saddened, and he sighed. The cool, smooth river stone he held in his hand gave him some courage. A small smile slowly appeared on his lips — his grandma always used to say, \"Don't rush, Chintoo, think with kindness.\" Remembering those words, his heart felt a little lighter. Just then, in a tree branch — a small bird was trapped, flapping its wings and crying sadly."
+    },
+    {
+      "id": 6,
+      "text": "చిక్కుకుపోయిన పక్షిని చూడగానే, చింటూ మెల్లగా దాని దగ్గరికి వెళ్ళి, చేతులు చాచి ఆదుకున్నాడు. పక్షి రెక్కల చప్పుడు అతని అరచేతికి మృదువుగా తగిలి, అది స్వేచ్ఛగా ఆకాశంలోకి ఎగిరింది. థాంక్యూ, చిన్న పక్షి! అని చింటూ ఆనందంగా నవ్వాడు. అతని కళ్ళు ఆశతో మెరిశాయి — పక్షి వైపు చూశాడు. అది దారి చూపింది — ఒక చీకటి గుహ వైపు! పక్షి ఆ దట్టమైన పొదల్లోకి ఎగురుకుంటూ వెళ్ళింది, ఒక చిన్న సందు కనిపించింది.",
+      "image_prompt": "The boy gently releases a small bird from his outstretched hands, and it flies freely into the sky. His eyes sparkle with hope as he watches the bird fly towards a dark cave, revealing a small opening in dense bushes. The mouth of the cave is shrouded in deep blue-grey shadows, contrasting with the vibrant green of the surrounding foliage, with a subtle, pulsating light within.",
+      "scene_visual": "The boy gently releases a small bird from his outstretched hands, and it flies freely into the sky. His eyes sparkle with hope as he watches the bird fly towards a dark cave, revealing a small opening in dense bushes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chikkukupoyina Pakshini Chudagaane, Chintu Mellagaa Daani Daggariki Velli, Chetulu Chaachi Aadukunnaadu. Pakshi Rekkala Chappudu Atani Arachetiki Mrriduvugaa Tagili, Adi Svechchagaa Aakaashanloki Egirindi. Thaankyu, Chinna Pakshi! Ani Chintu Aanandangaa Navvaadu. Atani Kallu Aashato Merishaayi — Pakshi Vaipu Chushaadu. Adi Daari Chupindi — Oka Chikati Guha Vaipu! Pakshi Aa Dattamaina Podalloki Egurukuntu Vellindi, Oka Chinna Sandu Kanipinchindi.",
+      "text_en": "As soon as he saw the trapped bird, Chintoo slowly went to it, stretched out his hands, and helped it. The soft flutter of the bird's wings touched his palm, and it flew freely into the sky. \"Thank you, little bird!\" Chintoo laughed happily. His eyes sparkled with hope — he looked towards the bird. It showed him the way — towards a dark cave! The bird flew into the dense bushes, and a small opening appeared."
+    },
+    {
+      "id": 7,
+      "text": "గుహలోకి అడుగు పెట్టగానే — చింటూ కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, లోపల తేజస్సు పువ్వు ప్రకాశిస్తోంది. గుహ లోపల చల్లటి గాలి వీస్తుంటే, పువ్వు నుండి వచ్చిన తేలికపాటి సంగీతం లాంటి శబ్దం అతన్ని మంత్రముగ్ధుడిని చేసింది. చిన్న పాదాలు ధైర్యంగా ముందుకు కదిలాయి, అతని ముఖం మీద పట్టుదల కనిపించింది. గ్రామం కోసం, జీవధార కోసం! అని మనసులో అనుకున్నాడు. అతని చేతిలో — తేజస్సు పువ్వు మెరిసింది! దాన్ని తీసుకుని బయటికి వచ్చాడు, కళ్ళు మళ్ళీ సూర్యరశ్మికి అలవాటుపడ్డాయి.",
+      "image_prompt": "The boy steps into the cave, his eyes widening in astonishment at the sight of a glowing flower inside. A light, musical sound emanates from the flower, captivating him as a cool breeze blows within the cave. The cave interior is dark except for the brilliant, soft white-gold luminescence of the Tejassu Puvvu, casting ethereal shadows and illuminating Chintu's face with a gentle glow.",
+      "scene_visual": "The boy steps into the cave, his eyes widening in astonishment at the sight of a glowing flower inside. A light, musical sound emanates from the flower, captivating him as a cool breeze blows within the cave.",
+      "supporting_char_keys": [],
+      "text_te_en": "Guhaloki Adugu Pettagaane — Chintu Kallu Aashcharyanto Peddavayyaayi, Lopala Tejassu Puvvu Prakaashistondi. Guha Lopala Challati Gaali Vistunte, Puvvu Nundi Vachchina Telikapaati Sangitam Laanti Shabdam Atanni Mantramugdhudini Chesindi. Chinna Paadaalu Dhairyangaa Munduku Kadilaayi, Atani Mukham Mida Pattudala Kanipinchindi. Graamam Kosan, Jivadhaara Kosan! Ani Manasulo Anukunnaadu. Atani Chetilo — Tejassu Puvvu Merisindi! Daanni Tisukuni Bayatiki Vachchaadu, Kallu Malli Suryarashmiki Alavaatupaddaayi.",
+      "text_en": "As soon as he stepped into the cave — Chintoo's eyes widened in wonder, the Tejasu Puvvu (Radiant Flower) was glowing inside. A cool breeze blew inside the cave, and a light, music-like sound from the flower enchanted him. His small feet moved forward bravely, and determination was visible on his face. \"For the village, for Jeevadhara!\" he thought to himself. In his hand — the Tejasu Puvvu glowed! He took it and came out, his eyes adjusting to the sunlight again."
+    },
+    {
+      "id": 8,
+      "text": "చింటూ చేతిలో తేజస్సు పువ్వుతో పాలవెల్లి గ్రామంలోకి రాగానే, ప్రజల కళ్ళు అతని వైపు తిరిగాయి — అతని ముఖం మీద శాంతమైన చిరునవ్వు. జీవధార మొక్క దగ్గర పువ్వును పెట్టగానే, అతని కళ్ళు ఆనందంతో మెరిశాయి — కళ్ళలో నీళ్ళు తిరిగాయి. ఒక్కసారిగా — జీవధార మొక్క చిగురించింది! పాలవెల్లి అంతా పువ్వుల సువాసనతో నిండిపోయింది — ఆ వాసన ఎంతో స్వచ్ఛంగా ఉంది. చింటూ! నువ్వు మా గ్రామ వీర బాలుడివి! అంటూ ప్రజలందరూ అతనిని పొగిడారు, వారి కళ్ళలో కృతజ్ఞత కనిపించింది.",
+      "image_prompt": "The boy places the glowing flower near the wilting plant, his eyes sparkling with joy and welling up with tears. The plant instantly sprouts new growth, and the entire village fills with the pure fragrance of flowers. Warm, late afternoon sunlight bathes the village square, illuminating the vibrant green of the revived plant and casting long, peaceful shadows, creating a sense of community and relief.",
+      "scene_visual": "The boy places the glowing flower near the wilting plant, his eyes sparkling with joy and welling up with tears. The plant instantly sprouts new growth, and the entire village fills with the pure fragrance of flowers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chintu Chetilo Tejassu Puvvuto Paalavelli Graamanloki Raagaane, Prajala Kallu Atani Vaipu Tirigaayi — Atani Mukham Mida Shaantamaina Chirunavvu. Jivadhaara Mokka Daggara Puvvunu Pettagaane, Atani Kallu Aanandanto Merishaayi — Kallalo Nillu Tirigaayi. Okkasaarigaa — Jivadhaara Mokka Chigurinchindi! Paalavelli Antaa Puvvula Suvaasanato Nindipoyindi — Aa Vaasana Ento Svachchangaa Undi. Chintu! Nuvvu Maa Graama Vira Baaludivi! Antu Prajalandaru Atanini Pogidaaru, Vaari Kallalo Krritajnyata Kanipinchindi.",
+      "text_en": "As Chintoo entered Palavelli village with the Tejasu Puvvu in his hand, people's eyes turned towards him — a calm smile on his face. As soon as he placed the flower near the Jeevadhara plant, his eyes sparkled with joy — tears welled up in his eyes. Suddenly — the Jeevadhara plant sprouted! All of Palavelli was filled with the fragrance of flowers — the scent was so pure. \"Chintoo! You are our village's brave boy!\" everyone praised him, and gratitude was visible in their eyes."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 7.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 7,
+    "child_engagement": 8,
+    "average": 7.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a compelling narrative with excellent grammar and mostly effective emotional portrayal. However, the language occasionally shifts into a more literary register, which diminishes the authentic oral warmth of a bedtime story. The explicit moral stated at the very beginning also detracts from the story's ability to let its themes emerge organically. To elevate this to an award-worthy piece, the most crucial step is to revise the prose for consistent colloquial warmth and remove the preachy opening, allowing the moral to be discovered through Chintu's actions."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chintu Saahasan: Jivadhaara Rahasyam",
+  "moral_te_en": "Chinnavaarainaa, Peddavaarainaa — Manasu Petti Prayatniste, Saadhinchalenidi Edi Undadu Chudu.",
+  "title_en": "Chintoo's Adventure: The Secret of Jeevadhara",
+  "moral_en": "Whether you are young or old, if you try with all your heart, there is nothing you cannot achieve.",
+  "id": "20260528_031120",
+  "date": "2026-05-28",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "తెలుగు జానపద కథ - వీర బాలుడు",
+  "thumbnail": "stories/20260528_031120/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
