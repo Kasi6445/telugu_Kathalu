@@ -1,0 +1,112 @@
+{
+  "title": "అమ్మ మనసు, మాయ మాటలు",
+  "moral": "మనసు నిండా ప్రేమ ఉన్నా, తప్పుడు సలహాలు ఒక్కోసారి మనల్ని తప్పుదోవ పట్టిస్తాయి, కానీ నిజమైన ధర్మం ఎప్పుడూ సరైన మార్గాన్ని చూపిస్తుంది.",
+  "main_character": "A beautiful queen, youngest wife of King Dasharatha, with a regal bearing and a loving heart for her son Bharata. She often wears vibrant silks and jewels, but her true treasure is her family. Always the same character across every scene.",
+  "antagonist": "An old, hunchbacked royal maidservant with sharp, piercing eyes and a perpetual scowl. She wears simple, faded garments and carries a gnarled walking stick. Her voice is often a harsh whisper. Always the same character across every scene.",
+  "setting": "Ayodhya, the capital of the Kosala kingdom. The royal palace, with its ornate courtyards and grand chambers, bathed in the golden light of late afternoon or the soft glow of oil lamps. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అయోధ్య రాజప్రాసాదంలో, మహారాణి కైకేయి ముఖం వెన్నెలలా వెలిగిపోతూ ఉంది. పట్టుచీర అంచు సన్నగా కదులుతుండగా, ఆమె ఆనందంగా ఆభరణాలు ఎంపిక చేసుకుంటోంది. రేపు జరగబోయే రామ పట్టాభిషేకానికి తను ఎలా ముస్తాబవ్వాలో ఆలోచిస్తూ, పెదవుల మీద ఓ పాట మూలిగింది. ఆమె మనసు నిండా రాముడిపై అంతులేని ప్రేమ — \"రామ పట్టాభిషేకం... నా కళ్ళ ముందు పండుగ!\" అని మనసులో అనుకుంది. ఇంతలో, గది ద్వారం దగ్గర ఒక వంకర నీడ పడింది.",
+      "image_prompt": "The queen is happily selecting jewelry, with a song humming on her lips. The edge of her silk saree subtly moves as her face glows like moonlight. Also in this scene: An old, hunchbacked royal maidservant with sharp, piercing eyes and a perpetual scowl. She wears simple, faded garments and carries a gnarled walking stick. Her voice is often a harsh whisper. Always the same character across every scene. Bright morning sunlight streaming through an arched palace window, illuminating dust motes dancing in the air, creating a serene and hopeful atmosphere.",
+      "scene_visual": "The queen is happily selecting jewelry, with a song humming on her lips. The edge of her silk saree subtly moves as her face glows like moonlight.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ayodhya Raajapraasaadanlo, Mahaaraani Kaikeyi Mukham Vennelalaa Veligipotu Undi. Pattuchira Anchu Sannagaa Kadulutundagaa, Aame Aanandangaa Aabharanaalu Empika Chesukuntondi. Repu Jaragaboye Raama Pattaabhishekaaniki Tanu Elaa Mustaabavvaalo Aalochistu, Pedavula Mida O Paata Muligindi. Aame Manasu Nindaa Raamudipai Antuleni Prema — \"Raama Pattaabhishekan... Naa Kalla Mundu Panduga!\" Ani Manasulo Anukundi. Intalo, Gadi Dvaaram Daggara Oka Vankara Nida Padindi.",
+      "text_en": "In the royal palace of Ayodhya, Queen Kaikeyi's face glowed like the moon. As the edge of her silk saree gently swayed, she happily chose her jewelry. A soft song hummed on her lips as she thought about how she would get ready for Rama's coronation tomorrow. Her heart was full of endless love for Rama. \"Rama's coronation... what a celebration for me!\" she thought. Just then, a crooked shadow fell near the doorway of her room."
+    },
+    {
+      "id": 2,
+      "text": "ఆ నీడ మంథరది అని తెలుసుకున్న కైకేయి, ఆమె వైపు చూసి చిరునవ్వులు చిందించింది. కానీ మంథర ముఖంలో మాత్రం ఎప్పుడూ ఉండే ఆ చిరునవ్వు లేదు — ఆమె కళ్ళల్లో ఒక తెలివైన మెరుపు మెరిసింది. \"మహారాణి, మీ కుమారుడు భరతుడి భవిష్యత్తు గురించి ఆలోచించరా?\" అని మంథర గొంతు పొడి ఆకుల చప్పుడులా కర్కశంగా వినిపించింది. కైకేయి నుదుటిపై సన్నగా ముడుతలు పడ్డాయి — ఆమె ముఖంలో ఆ చిరునవ్వు మెల్లగా మాయమైంది.",
+      "image_prompt": "The queen looks at the maid, her initial smile slowly disappearing from her face. Fine wrinkles appear on the queen's forehead as the maid's eyes gleam with a cunning spark. Also in this scene: An old, hunchbacked royal maidservant with sharp, piercing eyes and a perpetual scowl. She wears simple, faded garments and carries a gnarled walking stick. Her voice is often a harsh whisper. Always the same character across every scene. The light begins to soften, shifting to a late afternoon glow, casting long, unsettling shadows from the palace columns, hinting at growing unease.",
+      "scene_visual": "The queen looks at the maid, her initial smile slowly disappearing from her face. Fine wrinkles appear on the queen's forehead as the maid's eyes gleam with a cunning spark.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Nida Mantharadi Ani Telusukunna Kaikeyi, Aame Vaipu Chusi Chirunavvulu Chindinchindi. Kaani Manthara Mukhanlo Maatram Eppudu Unde Aa Chirunavvu Ledu — Aame Kallallo Oka Telivaina Merupu Merisindi. \"Mahaaraani, Mi Kumaarudu Bharatudi Bhavishyattu Gurinchi Aalochincharaa?\" Ani Manthara Gontu Podi Aakula Chappudulaa Karkashangaa Vinipinchindi. Kaikeyi Nudutipai Sannagaa Mudutalu Paddaayi — Aame Mukhanlo Aa Chirunavvu Mellagaa Maayamaindi.",
+      "text_en": "Kaikeyi recognized Manthara's shadow and smiled at her. But Manthara's face didn't have its usual smile; instead, a cunning sparkle shone in her eyes. \"Queen, don't you think about your son Bharata's future?\" Manthara's voice sounded harsh, like the rustling of dry leaves. Fine wrinkles appeared on Kaikeyi's forehead, and the smile slowly disappeared from her face."
+    },
+    {
+      "id": 3,
+      "text": "మంథర మాటలు కైకేయి మనసులో అనుమానం విత్తనాన్ని నాటాయి. భరతుడిపై కైకేయికి ఉన్న అపారమైన ప్రేమను మంథర బాగా ఉపయోగించుకుంది. ఆమె కైకేయికి మరింత దగ్గరగా వంగి, కుట్రపూరితమైన గొంతుతో గుసగుసలాడింది. \"రాముడు రాజు అయితే, భరతుడు సేవకుడు అవుతాడు! ఇది న్యాయమా?\" అని ఆమె మాటలు నిశ్శబ్దమైన గదిని నింపాయి. కైకేయి చేతులు తెలియకుండానే పిసుకున్నాయి — ఆమె కళ్ళు ఆందోళనగా అటూ ఇటూ చూశాయి.",
+      "image_prompt": "The queen unconsciously clenches her hands while her eyes dart around anxiously. The maid leans closer to the queen, whispering conspiratorially in the silent room. Also in this scene: An old, hunchbacked royal maidservant with sharp, piercing eyes and a perpetual scowl. She wears simple, faded garments and carries a gnarled walking stick. Her voice is often a harsh whisper. Always the same character across every scene. Twilight deepens, with only a few oil lamps casting flickering, uncertain light, making Manthara's shadow loom large and menacing on the wall.",
+      "scene_visual": "The queen unconsciously clenches her hands while her eyes dart around anxiously. The maid leans closer to the queen, whispering conspiratorially in the silent room.",
+      "supporting_char_keys": [],
+      "text_te_en": "Manthara Maatalu Kaikeyi Manasulo Anumaanam Vittanaanni Naataayi. Bharatudipai Kaikeyiki Unna Apaaramaina Premanu Manthara Baagaa Upayoginchukundi. Aame Kaikeyiki Marinta Daggaragaa Vangi, Kutrapuritamaina Gontuto Gusagusalaadindi. \"Raamudu Raaju Ayite, Bharatudu Sevakudu Avutaadu! Idi Nyaayamaa?\" Ani Aame Maatalu Nishshabdamaina Gadini Nimpaayi. Kaikeyi Chetulu Teliyakundaane Pisukunnaayi — Aame Kallu Aandolanagaa Atu Itu Chushaayi.",
+      "text_en": "Manthara's words planted a seed of doubt in Kaikeyi's mind. Manthara cleverly used Kaikeyi's great love for Bharata. She leaned closer to Kaikeyi and whispered in a scheming voice. \"If Rama becomes king, Bharata will become a servant! Is this fair?\" Her words filled the quiet room. Kaikeyi unknowingly wrung her hands, and her eyes darted around anxiously."
+    },
+    {
+      "id": 4,
+      "text": "మంథర మాటల మాయలో పడి, కైకేయి మనసు భయంతో నిండిపోయింది. రాజా దశరథుడు తనకి గతంలో ఇచ్చిన రెండు వరాలను గుర్తుచేసుకుంది. దశరథుడిని పిలిపించి, ఆమె గంభీరమైన గొంతుతో తన కోరికను వెల్లడించింది. \"నా రెండు వరాలు తీర్చండి, మహారాజా!\" అని ఆమె పలికింది. దశరథుడు ముఖం పాలిపోయి, దుఃఖంతో నిండిన దీర్ఘ నిట్టూర్పు విడిచాడు — ఆ శబ్దం అంత పెద్ద గదిలో ప్రతిధ్వనించింది.",
+      "image_prompt": "The king lets out a long, sorrowful sigh that echoes in the large room. His face has turned pale as the queen makes her demand in a grave voice. The royal chambers are dimly lit, heavy velvet drapes muffling any outside sound, creating a tense and sorrowful atmosphere.",
+      "scene_visual": "The king lets out a long, sorrowful sigh that echoes in the large room. His face has turned pale as the queen makes her demand in a grave voice.",
+      "supporting_char_keys": [],
+      "text_te_en": "Manthara Maatala Maayalo Padi, Kaikeyi Manasu Bhayanto Nindipoyindi. Raajaa Dasharathudu Tanaki Gatanlo Ichchina Rendu Varaalanu Gurtuchesukundi. Dasharathudini Pilipinchi, Aame Gambhiramaina Gontuto Tana Korikanu Velladinchindi. \"Naa Rendu Varaalu Tirchandi, Mahaaraajaa!\" Ani Aame Palikindi. Dasharathudu Mukham Paalipoyi, Duhkhanto Nindina Dirgha Nitturpu Vidichaadu — Aa Shabdam Anta Pedda Gadilo Pratidhvaninchindi.",
+      "text_en": "Falling under the spell of Manthara's words, Kaikeyi's mind filled with fear. She remembered the two boons King Dasharatha had granted her long ago. She called Dasharatha and, in a serious voice, told him her wish. \"Grant my two boons, great King!\" she said. King Dasharatha's face turned pale, and he let out a long sigh filled with sorrow. The sound echoed in the large room."
+    },
+    {
+      "id": 5,
+      "text": "కైకేయి అడిగిన వరాల వల్ల, రాముడు సీత, లక్ష్మణులతో కలిసి అయోధ్యను విడిచి వెళ్ళడానికి సిద్ధమయ్యాడు. రథం బయలుదేరుతుండగా, కైకేయి అంతఃపుర ద్వారం వద్ద నిలబడి చూసింది. రాముడి ముఖం ప్రశాంతంగా, పెదవుల మీద చిరునవ్వుతో నిండి ఉంది. రథం కదిలి, దూరం అవుతుండగా, ఆ దారిలో రేగిన మట్టి వాసన కైకేయిని కదిలించింది. \"రామా... నువ్వు నిజంగానే వెళ్ళిపోతున్నావా?\" అని ఆమె కళ్ళల్లో నీళ్ళు నిండిపోయాయి.",
+      "image_prompt": "The queen stands at the palace gate, watching the chariot move away into the distance. Tears fill her eyes as the prince's face remains calm with a gentle smile. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. A harsh midday sun beats down on the palace courtyard, making the shadows sharp and unforgiving, reflecting Kaikeyi's inner turmoil.",
+      "scene_visual": "The queen stands at the palace gate, watching the chariot move away into the distance. Tears fill her eyes as the prince's face remains calm with a gentle smile.",
+      "supporting_char_keys": [
+        "Rama"
+      ],
+      "text_te_en": "Kaikeyi Adigina Varaala Valla, Raamudu Sita, Lakshmanulato Kalisi Ayodhyanu Vidichi Velladaaniki Siddhamayyaadu. Ratham Bayaluderutundagaa, Kaikeyi Antahpura Dvaaram Vadda Nilabadi Chusindi. Raamudi Mukham Prashaantangaa, Pedavula Mida Chirunavvuto Nindi Undi. Ratham Kadili, Duram Avutundagaa, Aa Daarilo Regina Matti Vaasana Kaikeyini Kadilinchindi. \"Raamaa... Nuvvu Nijangaane Vellipotunnaavaa?\" Ani Aame Kallallo Nillu Nindipoyaayi.",
+      "text_en": "Because of the boons Kaikeyi asked for, Rama got ready to leave Ayodhya with Sita and Lakshmana. As the chariot was about to leave, Kaikeyi stood at the palace gate and watched. Rama's face was calm, with a gentle smile on his lips. As the chariot moved and went far away, the smell of dust rising from the path stirred Kaikeyi. \"Rama... are you really leaving?\" Tears filled her eyes."
+    },
+    {
+      "id": 6,
+      "text": "కొద్ది రోజులకు భరతుడు అయోధ్యకు తిరిగి వచ్చాడు. రాముడు అడవికి వెళ్ళిన విషయం తెలియగానే, అతని మనసు దుఃఖంతో నిండిపోయింది. సింహాసనం తనకు వద్దు అని తల్లి ముందు నిలబడి, ధర్మాన్ని నిలబెట్టాడు. \"రాముడు లేని సింహాసనం నాకు వద్దు, అమ్మా!\" అని భరతుడి గొంతు స్పష్టంగా, ప్రతిధ్వనించేలా పలికింది. ఆ మాటలకు కైకేయి వెనక్కి తగ్గింది — ఆమె ముఖం సిగ్గుతో, పశ్చాత్తాపంతో నిండిపోయింది.",
+      "image_prompt": "The queen recoils, her face filled with shame and regret. The prince stands before her, his voice clear and echoing as he rejects the throne. SUPPORTING CHARACTER also in this scene: Bharata: a young prince with a fair complexion, wearing a simple white dhoti and minimal ornaments (he lives in austerity while Rama is in exile). Gentle, grief-stricken yet dignified expression. Carries Rama's sandals (paduka) as a symbol of his brother's authority. The palace hall is bathed in the soft, golden light of early evening, suggesting a moment of truth and reflection, yet the air is thick with unspoken pain.",
+      "scene_visual": "The queen recoils, her face filled with shame and regret. The prince stands before her, his voice clear and echoing as he rejects the throne.",
+      "supporting_char_keys": [
+        "Bharata"
+      ],
+      "text_te_en": "Koddi Rojulaku Bharatudu Ayodhyaku Tirigi Vachchaadu. Raamudu Adaviki Vellina Vishayam Teliyagaane, Atani Manasu Duhkhanto Nindipoyindi. Sinhaasanam Tanaku Vaddu Ani Talli Mundu Nilabadi, Dharmaanni Nilabettaadu. \"Raamudu Leni Sinhaasanam Naaku Vaddu, Ammaa!\" Ani Bharatudi Gontu Spashtangaa, Pratidhvaninchelaa Palikindi. Aa Maatalaku Kaikeyi Venakki Taggindi — Aame Mukham Sigguto, Pashchaattaapanto Nindipoyindi.",
+      "text_en": "A few days later, Bharata returned to Ayodhya. As soon as he learned that Rama had gone to the forest, his heart filled with sorrow. He stood before his mother, saying he didn't want the throne, and upheld what was right. \"I don't want a throne without Rama, Mother!\" Bharata's voice was clear and echoing. At those words, Kaikeyi stepped back, her face filled with shame and regret."
+    },
+    {
+      "id": 7,
+      "text": "భరతుడి మాటలు కైకేయి మనసును చీల్చేశాయి. రాముడి ధర్మాన్ని భరతుడి కళ్ళల్లో చూసిన కైకేయికి, తాను చేసిన తప్పు ఎంత పెద్దదో అర్థమైంది. ఆమె భుజాలు వాలిపోయాయి, కళ్ళ నుండి కన్నీరు ధారాపాతంగా కారింది. నిశ్శబ్దంగా ఉన్న గదిలో ఆమె వెక్కి వెక్కి ఏడుస్తున్న శబ్దం వినిపించింది. \"నేను... నేను ఎంత పెద్ద తప్పు చేశాను!\" అని ఆమె మనసు చితికిపోయింది.",
+      "image_prompt": "The queen's shoulders slump as tears stream down her face. Her sobbing can be heard in the silent room, indicating her deep remorse. A single oil lamp casts a warm but solitary glow on Kaikeyi, highlighting her sorrow, while the rest of the chamber remains in soft, forgiving shadow.",
+      "scene_visual": "The queen's shoulders slump as tears stream down her face. Her sobbing can be heard in the silent room, indicating her deep remorse.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bharatudi Maatalu Kaikeyi Manasunu Chilcheshaayi. Raamudi Dharmaanni Bharatudi Kallallo Chusina Kaikeyiki, Taanu Chesina Tappu Enta Peddado Arthamaindi. Aame Bhujaalu Vaalipoyaayi, Kalla Nundi Kanniru Dhaaraapaatangaa Kaarindi. Nishshabdangaa Unna Gadilo Aame Vekki Vekki Edustunna Shabdam Vinipinchindi. \"Nenu... Nenu Enta Pedda Tappu Cheshaanu!\" Ani Aame Manasu Chitikipoyindi.",
+      "text_en": "Bharata's words tore Kaikeyi's heart. Seeing Rama's goodness in Bharata's eyes, Kaikeyi understood how big a mistake she had made. Her shoulders slumped, and tears streamed from her eyes. In the quiet room, the sound of her sobbing could be heard. \"I... what a huge mistake I made!\" her heart broke."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "Bharata",
+      "description": "Bharata: a young prince with a fair complexion, wearing a simple white dhoti and minimal ornaments (he lives in austerity while Rama is in exile). Gentle, grief-stricken yet dignified expression. Carries Rama's sandals (paduka) as a symbol of his brother's authority. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 6.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 8,
+    "child_engagement": 4,
+    "average": 6.17,
+    "weakest_dimension": "child_engagement",
+    "notes": "The story presents a solid narrative arc with excellent grammar, making it structurally sound. However, it reads more like a formal summary than an engaging children's story, lacking the warmth and direct address characteristic of a grandmother's tale. To truly captivate a young audience, the narrative needs significant work on incorporating direct child engagement techniques and expanding character-specific dialogue to bring the scenes to life."
+  },
+  "quality_warning": true,
+  "title_te_en": "Amma Manasu, Maaya Maatalu",
+  "moral_te_en": "Manasu Nindaa Prema Unnaa, Tappudu Salahaalu Okkosaari Manalni Tappudova Pattistaayi, Kaani Nijamaina Dharmam Eppudu Saraina Maargaanni Chupistundi.",
+  "title_en": "A Mother's Heart and Tricky Words",
+  "moral_en": "Even with a heart full of love, bad advice can sometimes lead us down the wrong path. But true goodness and duty will always show us the right way.",
+  "id": "20260528_061220",
+  "date": "2026-05-28",
+  "category": "ramayana",
+  "subcategory": "dharma_tales",
+  "topic": "కైకేయి మరియు మంధర కథ",
+  "thumbnail": "stories/20260528_061220/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
