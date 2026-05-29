@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260529_061108",
+      "slug": "telivaina-bujji-kumdeelu-katha",
+      "title": "తెలివైన బుజ్జి కుందేలు కథ",
+      "moral": "చిన్నవారైనా, తెలివిగా ఆలోచిస్తే ఎలాంటి పెద్ద కష్టాన్నైనా సులభంగా దాటగలరు.",
+      "thumbnail": "stories/20260529_061108/images/scene1.jpg",
+      "date": "2026-05-29",
+      "category": "neeti",
+      "subcategory": "animal_morals",
+      "topic": "తెలివైన కుందేలు మరియు సింహం",
+      "voice": "te-IN-Chirp3-HD-Leda",
+      "schema_version": 2,
+      "title_en": "The Story of Clever Bujji, the Rabbit",
+      "moral_en": "Even if you are small, with clever thinking, you can easily overcome any big problem.",
+      "title_te_en": "Telivaina Bujji Kundelu Katha",
+      "moral_te_en": "Chinnavaarainaa, Telivigaa Aalochiste Elaanti Pedda Kashtaannainaa Sulabhangaa Daatagalaru."
+    },
+    {
       "id": "20260529_041153",
       "slug": "tenaali-telivi-bamgaaru-aambali-4",
       "title": "తెనాలి తెలివి: బంగారు ఆంబలి",
