@@ -1,0 +1,97 @@
+{
+  "title": "తెనాలి తెలివి: బంగారు ఆంబలి",
+  "moral": "కష్టమైన సమస్యలకు కూడా తెలివైన ఆలోచనతో పరిష్కారం దొరుకుతుంది.",
+  "main_character": "Tenali Ramakrishna. A slender, quick-witted scholar and poet in the court of Krishnadevaraya. He has a sharp mind, a mischievous twinkle in his eye, and an uncanny ability to turn problems into opportunities. Always the same character across every scene.",
+  "antagonist": "King Krishnadevaraya. A majestic and wise ruler with a grand beard and a regal turban. He enjoys intellectual challenges and often tests his courtiers' intelligence, especially Tenali's. Always the same character across every scene.",
+  "setting": "The grand royal court of Vijayanagara, Hampi. Ornate pillars, vibrant tapestries depicting battle scenes, and a large, polished marble floor. Mid-morning, sunlight streaming through high arched windows. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయ నగర ఆస్థానంలో తెనాలి రామకృష్ణుడు తన చమత్కారాలతో అందరినీ ఆకట్టుకున్నాడు. ఆ రోజు కూడా ఒక పద్యం చెప్పి, సభలోని వారిని నవ్వించాడు, అతని కళ్ళలో తెలివైన మెరుపు కనిపించింది. \"మహారాజా, మీ ఆస్థానంలో తెలివైన వారికి కొదవే లేదు, కానీ నా అంతటి వాడు మరొకడు లేడు!\" అని వినయంగా అన్నాడు. అతని మాటలకు సభలోని వారి పట్టు వస్త్రాలు కదిలేలా, మెల్లని నవ్వులు వినిపించాయి. శ్రీకృష్ణదేవరాయల ముఖంలో ఒక పెద్ద చిరునవ్వు విచ్చుకుంది — ఒక కొత్త ఆలోచన మెరిసినట్లుగా ఉంది. ఆ క్షణంలో తెనాలి వైపు చూస్తూ రాజు ఏదో తలచుకున్నాడు.",
+      "image_prompt": "The king smiles broadly, looking towards the witty character. A new thought seems to sparkle in the king's eyes as he gazes at the character. Also in this scene: King Krishnadevaraya. A majestic and wise ruler with a grand beard and a regal turban. He enjoys intellectual challenges and often tests his courtiers' intelligence, especially Tenali's. Always the same character across every scene. Bright morning sunlight filtering through high, ornate windows, illuminating dust motes in the air, a warm golden glow on the King's throne.",
+      "scene_visual": "The king smiles broadly, looking towards the witty character. A new thought seems to sparkle in the king's eyes as he gazes at the character.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vijaya Nagara Aasthaananlo Tenaali Raamakrrishnudu Tana Chamatkaaraalato Andarini Aakattukunnaadu. Aa Roju Kudaa Oka Padyam Cheppi, Sabhaloni Vaarini Navvinchaadu, Atani Kallalo Telivaina Merupu Kanipinchindi. \"Mahaaraajaa, Mi Aasthaananlo Telivaina Vaariki Kodave Ledu, Kaani Naa Antati Vaadu Marokadu Ledu!\" Ani Vinayangaa Annaadu. Atani Maatalaku Sabhaloni Vaari Pattu Vastraalu Kadilelaa, Mellani Navvulu Vinipinchaayi. Shrikrrishnadevaraayala Mukhanlo Oka Pedda Chirunavvu Vichchukundi — Oka Kotta Aalochana Merisinatlugaa Undi. Aa Kshananlo Tenaali Vaipu Chustu Raaju Edo Talachukunnaadu.",
+      "text_en": "In the court of Vijayanagara, Tenali Ramakrishna charmed everyone with his wit. That day too, he recited a poem and made everyone in the assembly laugh, a clever sparkle visible in his eyes. \"Maharaja, there is no shortage of clever people in your court, but there is no one quite like me!\" he said humbly. At his words, soft laughter was heard, making the silk clothes of those in the assembly rustle. A big smile bloomed on Sri Krishnadevaraya's face — as if a new idea had sparked. At that moment, looking towards Tenali, the king thought of something."
+    },
+    {
+      "id": 2,
+      "text": "రాజుగారు వెంటనే ఒక బంగారు పళ్ళెంలో మిలమిలా మెరుస్తున్న ఆంబలిని తెప్పించారు. దానిని ఒక పట్టు దిండు మీద పెట్టగానే, గిన్నె నుండి ఒక చిన్న గలగల శబ్దం వినిపించింది. \"ఈ బంగారు ఆంబలిని పెదవులకు తగలకుండా తినగలిగిన వారికి అద్భుతమైన బహుమతి!\" అని రాజు గంభీరంగా ప్రకటించారు. ఆ మాట వినగానే తెనాలి రామకృష్ణుడి నుదురు కొద్దిగా ముడిపడింది — ఒక కొత్త చిక్కుముడి ఎదురైనట్లు. సభలోని వారంతా ఒకరి ముఖాలు ఒకరు చూసుకుంటూ, గొణుగుడు మొదలుపెట్టారు. పెదవులకు తగలకుండా తినడమా... ఇది ఎలా సాధ్యం? తెనాలి ఆలోచనలో పడ్డాడు.",
+      "image_prompt": "The king stands solemnly, announcing a challenge to the assembly. A shimmering golden porridge rests in a bowl on a silk pillow before him. Also in this scene: King Krishnadevaraya. A majestic and wise ruler with a grand beard and a regal turban. He enjoys intellectual challenges and often tests his courtiers' intelligence, especially Tenali's. Always the same character across every scene. The court remains brightly lit, but a shadow of confusion falls over the faces of the courtiers, the golden bowl gleaming prominently.",
+      "scene_visual": "The king stands solemnly, announcing a challenge to the assembly. A shimmering golden porridge rests in a bowl on a silk pillow before him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajugaaru Ventane Oka Bangaaru Pallenlo Milamilaa Merustunna Aambalini Teppinchaaru. Daanini Oka Pattu Dindu Mida Pettagaane, Ginne Nundi Oka Chinna Galagala Shabdam Vinipinchindi. \"I Bangaaru Aambalini Pedavulaku Tagalakundaa Tinagaligina Vaariki Adbhutamaina Bahumati!\" Ani Raaju Gambhirangaa Prakatinchaaru. Aa Maata Vinagaane Tenaali Raamakrrishnudi Nuduru Koddigaa Mudipadindi — Oka Kotta Chikkumudi Edurainatlu. Sabhaloni Vaarantaa Okari Mukhaalu Okaru Chusukuntu, Gonugudu Modalupettaaru. Pedavulaku Tagalakundaa Tinadamaa... Idi Elaa Saadhyan? Tenaali Aalochanalo Paddaadu.",
+      "text_en": "The king immediately had a shimmering golden porridge brought in a golden plate. As soon as it was placed on a silk cushion, a small sound was heard from the bowl. \"There will be a wonderful reward for anyone who can eat this golden porridge without their lips touching it!\" the king announced gravely. Hearing those words, Tenali Ramakrishna's brow furrowed slightly — as if a new puzzle had appeared. Everyone in the assembly looked at each other's faces and began to murmur. Eating without lips touching... how is this possible? Tenali fell into deep thought."
+    },
+    {
+      "id": 3,
+      "text": "చాలా మంది ఆస్థాన పండితులు, మంత్రులు ఆంబలి తినడానికి ప్రయత్నించారు. ఒకరు గబగబా తినబోయారు, మరికొందరు జాగ్రత్తగా ప్రయత్నించారు. కానీ వారి పెదవులకు ఆంబలి అంటుకోకుండా తినడం ఎవరికీ సాధ్యం కాలేదు — ఆంబలి మార్బుల్ నేల మీద చిందరవందరగా పడింది. \"ఛీ ఛీ! ఇది అసాధ్యం మహారాజా! నా పెదవులన్నీ ఆంబలితో నిండిపోయాయి!\" అని ఒక మంత్రి విసుగుతో అన్నాడు. ఆ చప్పుడుకు, ఆ చిందరవందరను చూసి సభలో నవ్వులు, చిన్న చిన్న నిట్టూర్పులు వినిపించాయి. తెనాలి రామకృష్ణుడు ఆ దృశ్యాన్ని చూసి చిన్నగా నవ్వాడు, కానీ వెంటనే ముఖం పక్కకు తిప్పుకున్నాడు — ఏదో లోతైన ఆలోచనలో మునిగినట్లు.",
+      "image_prompt": "A minister stands frustrated, his face smeared with porridge, as spilled porridge lies on the marble floor. The witty character observes the scene, then turns his face away, deep in thought. Also in this scene: King Krishnadevaraya. A majestic and wise ruler with a grand beard and a regal turban. He enjoys intellectual challenges and often tests his courtiers' intelligence, especially Tenali's. Always the same character across every scene. The court is still bright, but a few small puddles of golden porridge on the polished floor catch the light, making the scene a bit chaotic.",
+      "scene_visual": "A minister stands frustrated, his face smeared with porridge, as spilled porridge lies on the marble floor. The witty character observes the scene, then turns his face away, deep in thought.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chaalaa Mandi Aasthaana Panditulu, Mantrulu Aambali Tinadaaniki Prayatninchaaru. Okaru Gabagabaa Tinaboyaaru, Marikondaru Jaagrattagaa Prayatninchaaru. Kaani Vaari Pedavulaku Aambali Antukokundaa Tinadam Evariki Saadhyam Kaaledu — Aambali Maarbul Nela Mida Chindaravandaragaa Padindi. \"Chi Chi! Idi Asaadhyam Mahaaraajaa! Naa Pedavulanni Aambalito Nindipoyaayi!\" Ani Oka Mantri Visuguto Annaadu. Aa Chappuduku, Aa Chindaravandaranu Chusi Sabhalo Navvulu, Chinna Chinna Nitturpulu Vinipinchaayi. Tenaali Raamakrrishnudu Aa Drrishyaanni Chusi Chinnagaa Navvaadu, Kaani Ventane Mukham Pakkaku Tippukunnaadu — Edo Lotaina Aalochanalo Muniginatlu.",
+      "text_en": "Many court scholars and ministers tried to eat the porridge. One person tried to eat it quickly, while others tried carefully. But no one could eat it without the porridge touching their lips — the porridge spilled all over the marble floor. \"Oh dear! This is impossible, Maharaja! My lips are all covered in porridge!\" a minister said in frustration. At the sound and the mess, laughter and small sighs were heard in the assembly. Tenali Ramakrishna smiled slightly at the sight, but then quickly turned his face away — as if he was deep in thought."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి ఆస్థానంలోని ఒక మూలకు వెళ్ళి, తన గడ్డం నిమురుకుంటూ తీవ్రంగా ఆలోచించసాగాడు. సభలో వస్తున్న చిన్న చిన్న మాటల శబ్దాలు, అతని మౌనమైన ఆలోచనకు భిన్నంగా వినిపిస్తున్నాయి. \"పెదవులకు తగలకుండా... కానీ నా నోటికి చేరాలి. ఎలా?\" అని తనలో తాను అనుకున్నాడు. ఆ సవాలులోని మెలికను విప్పడానికి అతని మనసు వేగంగా పనిచేసింది. ఒక్కసారిగా అతని ముఖం మీద ఒక పెద్ద చిరునవ్వు విచ్చుకుంది — ఒక అద్భుతమైన ఉపాయం తట్టినట్లు. ఆ క్షణంలో తెనాలి కళ్ళలో ఒక కొత్త మెరుపు కనిపించింది, తన సమస్యకు పరిష్కారం దొరికింది.",
+      "image_prompt": "The witty character stands in a corner, stroking his beard and thinking intensely. Suddenly, a broad smile spreads across his face, and a new sparkle appears in his eyes. A quieter, more subdued corner of the court, perhaps near a window, with soft, diffused light, creating a thoughtful, introspective mood.",
+      "scene_visual": "The witty character stands in a corner, stroking his beard and thinking intensely. Suddenly, a broad smile spreads across his face, and a new sparkle appears in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Aasthaananloni Oka Mulaku Velli, Tana Gaddam Nimurukuntu Tivrangaa Aalochinchasaagaadu. Sabhalo Vastunna Chinna Chinna Maatala Shabdaalu, Atani Maunamaina Aalochanaku Bhinnangaa Vinipistunnaayi. \"Pedavulaku Tagalakundaa... Kaani Naa Notiki Cheraali. Elaa?\" Ani Tanalo Taanu Anukunnaadu. Aa Savaaluloni Melikanu Vippadaaniki Atani Manasu Vegangaa Panichesindi. Okkasaarigaa Atani Mukham Mida Oka Pedda Chirunavvu Vichchukundi — Oka Adbhutamaina Upaayam Tattinatlu. Aa Kshananlo Tenaali Kallalo Oka Kotta Merupu Kanipinchindi, Tana Samasyaku Parishkaaram Dorikindi.",
+      "text_en": "Tenali went to a corner of the court and began to think deeply, stroking his beard. The small sounds of chatter in the assembly seemed to contrast with his silent thoughts. \"Without touching my lips... but it must reach my mouth. How?\" he wondered to himself. His mind worked quickly to untangle the twist in the challenge. Suddenly, a big smile bloomed on his face — as if a brilliant idea had struck him. At that moment, a new sparkle appeared in Tenali's eyes; he had found a solution to his problem."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి రామకృష్ణుడు తిరిగి సభలోకి అడుగుపెట్టాడు, అతని కళ్ళలో ఒక చిలిపి మెరుపు కనిపించింది. అతని నడకలో ఒక ఉత్సాహం, ధోతి కదులుతున్నప్పుడు చిన్నగా శబ్దం వినిపించింది. అతను రాజు ముందు నిలబడి, వినయంగా నమస్కరించాడు. \"మహారాజా, ఈ చిక్కుముడిని విప్పడానికి నేను సిద్ధం!\" అని ధీమాగా అన్నాడు. అతని మాట వినగానే సభలోని వారందరి చూపులు అతని వైపు తిరిగాయి. తెనాలి ఏమి చేయబోతున్నాడో అని అందరూ ఆసక్తిగా చూశారు.",
+      "image_prompt": "The witty character confidently walks back into the assembly, his dhoti rustling softly. He bows respectfully before the king, a mischievous sparkle in his eyes. Also in this scene: King Krishnadevaraya. A majestic and wise ruler with a grand beard and a regal turban. He enjoys intellectual challenges and often tests his courtiers' intelligence, especially Tenali's. Always the same character across every scene. The court is abuzz, the light feeling more focused on Tenali as he approaches, casting a slight dramatic shadow behind him.",
+      "scene_visual": "The witty character confidently walks back into the assembly, his dhoti rustling softly. He bows respectfully before the king, a mischievous sparkle in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Raamakrrishnudu Tirigi Sabhaloki Adugupettaadu, Atani Kallalo Oka Chilipi Merupu Kanipinchindi. Atani Nadakalo Oka Utsaahan, Dhoti Kadulutunnappudu Chinnagaa Shabdam Vinipinchindi. Atanu Raaju Mundu Nilabadi, Vinayangaa Namaskarinchaadu. \"Mahaaraajaa, I Chikkumudini Vippadaaniki Nenu Siddhan!\" Ani Dhimaagaa Annaadu. Atani Maata Vinagaane Sabhaloni Vaarandari Chupulu Atani Vaipu Tirigaayi. Tenaali Emi Cheyabotunnaado Ani Andaru Aasaktigaa Chushaaru.",
+      "text_en": "Tenali Ramakrishna stepped back into the assembly, a mischievous sparkle in his eyes. There was excitement in his walk, and a soft sound was heard as his dhoti moved. He stood before the king and bowed humbly. \"Maharaja, I am ready to untangle this puzzle!\" he said confidently. As soon as they heard his words, everyone in the assembly turned their gaze towards him. Everyone watched eagerly, wondering what Tenali was going to do."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి రామకృష్ణుడు బంగారు ఆంబలి గిన్నెను తీసుకుని, తన రెండు చేతులను దోసెడుగా పట్టుకున్నాడు. ఆ తీయని ఆంబలి అతని చేతుల్లో మెరుస్తూ, కమ్మని వాసనను వెదజల్లింది. అతను ఆ ఆంబలిని తన చేతుల్లో నుండి నోటిలోకి ఒంపుకున్నాడు. \"మహారాజా! ఆంబలి నా పెదవులను తాకలేదు, నా చేతులను మాత్రమే తాకింది!\" అని చిరునవ్వుతో చెప్పాడు. తెనాలి తెలివికి రాజుగారు ఒక్క క్షణం నిశ్చేష్టులయ్యారు — ఆ తర్వాత సభంతా దద్దరిల్లేలా బిగ్గరగా నవ్వారు. ఆ నవ్వుతో పాటు సభలోని వారందరి ముఖాల్లో ఆశ్చర్యం, సంతోషం కనిపించాయి.",
+      "image_prompt": "The witty character cups his hands together, pouring the shimmering porridge directly from his hands into his mouth. He smiles triumphantly, with no porridge touching his lips, only his cupped hands. Also in this scene: King Krishnadevaraya. A majestic and wise ruler with a grand beard and a regal turban. He enjoys intellectual challenges and often tests his courtiers' intelligence, especially Tenali's. Always the same character across every scene. A bright, almost theatrical spotlight seems to fall on Tenali, highlighting his actions, while the King's face is illuminated with joyous surprise.",
+      "scene_visual": "The witty character cups his hands together, pouring the shimmering porridge directly from his hands into his mouth. He smiles triumphantly, with no porridge touching his lips, only his cupped hands.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Raamakrrishnudu Bangaaru Aambali Ginnenu Tisukuni, Tana Rendu Chetulanu Dosedugaa Pattukunnaadu. Aa Tiyani Aambali Atani Chetullo Merustu, Kammani Vaasananu Vedajallindi. Atanu Aa Aambalini Tana Chetullo Nundi Notiloki Ompukunnaadu. \"Mahaaraajaa! Aambali Naa Pedavulanu Taakaledu, Naa Chetulanu Maatrame Taakindi!\" Ani Chirunavvuto Cheppaadu. Tenaali Teliviki Raajugaaru Okka Kshanam Nishcheshtulayyaaru — Aa Tarvaata Sabhantaa Daddarillelaa Biggaragaa Navvaaru. Aa Navvuto Paatu Sabhaloni Vaarandari Mukhaallo Aashcharyan, Santosham Kanipinchaayi.",
+      "text_en": "Tenali Ramakrishna took the golden porridge bowl and cupped his two hands together. The sweet porridge shimmered in his hands, spreading a delicious aroma. He poured the porridge from his cupped hands directly into his mouth. \"Maharaja! The porridge did not touch my lips, it only touched my hands!\" he said with a smile. The king was speechless for a moment at Tenali's cleverness — then he burst into loud laughter that echoed through the entire assembly. Along with his laughter, surprise and joy appeared on the faces of everyone in the assembly."
+    },
+    {
+      "id": 7,
+      "text": "రాజుగారు తెనాలి తెలివికి ఎంతో సంతోషించారు, ముఖంలో మెచ్చుకోలు స్పష్టంగా కనిపించింది. \"తెనాలి, నీ తెలివిని మించినది ఈ లోకంలో మరొకటి లేదు!\" అని ప్రశంసించారు. వెంటనే బంగారు నాణేల సంచులు తెచ్చి, తెనాలి చేతుల్లో పెట్టించారు. ఆ బరువైన నాణేలు తెనాలి చేతుల్లో పడగానే ఒక గలగల శబ్దం వినిపించింది. తెనాలి వినయంగా తల వంచి, రాజుగారి ఆశీర్వాదం తీసుకున్నాడు. ఆ సభలో ఉన్న వారందరూ తెనాలి తెలివికి జేజేలు పలికారు.",
+      "image_prompt": "The witty character stands humbly as the king places heavy bags of gold coins into his hands. The coins make a distinct clinking sound as they settle, and the witty character bows his head respectfully. Also in this scene: King Krishnadevaraya. A majestic and wise ruler with a grand beard and a regal turban. He enjoys intellectual challenges and often tests his courtiers' intelligence, especially Tenali's. Always the same character across every scene. A warm, celebratory glow fills the court, the King's smile reflecting the general joy, a peaceful and happy end to the day.",
+      "scene_visual": "The witty character stands humbly as the king places heavy bags of gold coins into his hands. The coins make a distinct clinking sound as they settle, and the witty character bows his head respectfully.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajugaaru Tenaali Teliviki Ento Santoshinchaaru, Mukhanlo Mechchukolu Spashtangaa Kanipinchindi. \"Tenaali, Ni Telivini Minchinadi I Lokanlo Marokati Ledu!\" Ani Prashansinchaaru. Ventane Bangaaru Naanela Sanchulu Techchi, Tenaali Chetullo Pettinchaaru. Aa Baruvaina Naanelu Tenaali Chetullo Padagaane Oka Galagala Shabdam Vinipinchindi. Tenaali Vinayangaa Tala Vanchi, Raajugaari Aashirvaadam Tisukunnaadu. Aa Sabhalo Unna Vaarandaru Tenaali Teliviki Jejelu Palikaaru.",
+      "text_en": "The king was very pleased with Tenali's cleverness, and his admiration was clearly visible on his face. \"Tenali, there is nothing in this world that surpasses your wit!\" he praised. Immediately, bags of gold coins were brought and placed in Tenali's hands. As the heavy coins fell into Tenali's hands, a jingling sound was heard. Tenali humbly bowed his head and received the king's blessings. Everyone in the assembly cheered for Tenali's cleverness."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-crafted, boasting flawless grammar, vivid dialogue, and a perfectly executed narrative arc that will captivate young listeners. The emotional depth is largely conveyed through action and reaction, which is commendable. The single most important fix to elevate this to an award-winning piece would be to infuse more of a direct, warm, and conversational 'grandmother's voice' into the narration, perhaps with occasional direct addresses to the child or more informal phrasing, to truly make it feel like a spoken bedtime story."
+  },
+  "title_te_en": "Tenaali Telivi: Bangaaru Aambali",
+  "moral_te_en": "Kashtamaina Samasyalaku Kudaa Telivaina Aalochanato Parishkaaram Dorukutundi.",
+  "title_en": "Tenali's Wit: The Golden Porridge",
+  "moral_en": "Even for difficult problems, a clever idea can lead to a solution.",
+  "id": "20260529_011415",
+  "date": "2026-05-29",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు బంగారు ఆంబలి",
+  "thumbnail": "stories/20260529_011415/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
