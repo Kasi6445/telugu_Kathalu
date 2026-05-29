@@ -1,0 +1,97 @@
+{
+  "title": "తెనాలి తెలివి: బంగారు ఆంబలి",
+  "moral": "నిజమైన విలువ ధనంలో కాదు, అవసరంలో ఉన్నవారికి చూపించే దయలో ఉంటుందని తెనాలి నిరూపించాడు.",
+  "main_character": "Tenali Ramakrishna. A quick-witted scholar and poet in King Krishnadevaraya's court. He is lean with sharp, intelligent eyes and a mischievous smile, often dressed in simple but clean white dhoti and angavastram. Always the same character across every scene.",
+  "antagonist": "Minister Bhairava. A portly man with a thick mustache that he constantly twirls, always wearing an elaborate, jewel-encrusted silk robe of deep crimson. He carries a small, ornate fan. Always the same character across every scene.",
+  "setting": "The grand, bustling city of Vijayanagara, encompassing the opulent royal palace, Tenali's modest home, and the sun-baked village outskirts. The scenes transition between richly decorated halls, simple courtyards, and dusty paths. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అప్పుడు తెనాలి రామకృష్ణుడు, పిల్లవాడిలా అల్లరిగా, మహారాజుగారి వంటశాలలోకి వెళ్ళాడు. అక్కడ పెద్ద పెద్ద మట్టి పొయ్యిల నుండి వచ్చే కర్రల పొగతో పాటు, యాలకుల, బెల్లం తీయని వాసన గది అంతా నిండిపోయింది. ఎవరూ చూడకుండా, ఒక లడ్డూను అందుకున్నాడు — అతని కళ్ళల్లో మెరుపు. \"అహా! ఈ లడ్డూ ఎంత రుచిగా ఉందో!\" అని చిన్నగా గొణుక్కున్నాడు. అతను కళ్ళు మూసుకుని, ఆ రుచిని ఆస్వాదిస్తున్నంతలో, ఒక రాజభటుడు వేగంగా లోపలికి వచ్చాడు. అతని ముఖం కంగారుతో నిండి ఉంది — ఏదో ముఖ్యమైన వార్త తెచ్చినట్లు, తెనాలి కోసమే చూస్తున్నాడు.",
+      "image_prompt": "The boy secretly reaches for a laddoo and closes his eyes, savoring its taste. A mischievous sparkle is visible in his eyes as he enjoys the sweet treat. Warm morning sunlight streams through arched windows into the busy royal kitchen, illuminating clouds of steam and flour dust, creating a lively, golden glow.",
+      "scene_visual": "The boy secretly reaches for a laddoo and closes his eyes, savoring its taste. A mischievous sparkle is visible in his eyes as he enjoys the sweet treat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appudu Tenaali Raamakrrishnudu, Pillavaadilaa Allarigaa, Mahaaraajugaari Vantashaalaloki Vellaadu. Akkada Pedda Pedda Matti Poyyila Nundi Vachche Karrala Pogato Paatu, Yaalakula, Bellam Tiyani Vaasana Gadi Antaa Nindipoyindi. Evaru Chudakundaa, Oka Laddunu Andukunnaadu — Atani Kallallo Merupu. \"Ahaa! I Laddu Enta Ruchigaa Undo!\" Ani Chinnagaa Gonukkunnaadu. Atanu Kallu Musukuni, Aa Ruchini Aasvaadistunnantalo, Oka Raajabhatudu Vegangaa Lopaliki Vachchaadu. Atani Mukham Kangaaruto Nindi Undi — Edo Mukhyamaina Vaarta Techchinatlu, Tenaali Kosame Chustunnaadu.",
+      "text_en": "Then Tenali Ramakrishna, mischievous like a child, went into the King's kitchen. There, along with the smoke from the big clay stoves, the sweet smell of cardamom and jaggery filled the whole room. Without anyone seeing, he grabbed a laddoo — a sparkle in his eyes. \"Oh! How delicious this laddoo is!\" he mumbled softly. As he closed his eyes and savored the taste, a royal guard quickly entered. His face was full of worry — as if he had brought important news, and was looking for Tenali."
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి రామకృష్ణుడిని ఆ రాజభటుడు నేరుగా కొలువు తీర్చి ఉన్న సభామండపానికి తీసుకెళ్ళాడు. అక్కడ మహారాజు కృష్ణదేవరాయలు కొలువు తీరి ఉండగా, మంత్రి భైరవుడు గంభీరమైన గొంతుతో మాట్లాడసాగాడు. మంత్రి భైరవుడి గంభీరమైన గొంతు, పాలరాతి నేల మీద ప్రతిధ్వనించి, సభామండపాన్ని నింపేసింది. \"తెనాలి, మహారాజుగారికి 'బంగారు ఆంబలి' కావాలి,\" అని భైరవుడు అన్నాడు. \"ఈ బంగారు ఆంబలిని నువ్వు సిద్ధం చేయగలవా?\" అని సవాలు విసిరాడు. అతను ఒక్క క్షణం ఆగి, తన కనుబొమ్మలను పైకి ఎత్తాడు, కానీ వెంటనే అతని పెదవుల మీద నవ్వు మెరిసింది — ఏదో పన్నాగం పన్నినట్లు.",
+      "image_prompt": "The minister challenges the boy to prepare 'golden ambrosia,' raising his eyebrows in doubt. A knowing smile immediately appears on the boy's lips, hinting at a clever plan. Also in this scene: Minister Bhairava. A portly man with a thick mustache that he constantly twirls, always wearing an elaborate, jewel-encrusted silk robe of deep crimson. He carries a small, ornate fan. Always the same character across every scene. Bright midday sun pours through open arches of the grand court, casting long shadows from the ornate pillars onto the polished floor, creating a formal and imposing atmosphere.",
+      "scene_visual": "The minister challenges the boy to prepare 'golden ambrosia,' raising his eyebrows in doubt. A knowing smile immediately appears on the boy's lips, hinting at a clever plan.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Raamakrrishnudini Aa Raajabhatudu Nerugaa Koluvu Tirchi Unna Sabhaamandapaaniki Tisukellaadu. Akkada Mahaaraaju Krrishnadevaraayalu Koluvu Tiri Undagaa, Mantri Bhairavudu Gambhiramaina Gontuto Maatlaadasaagaadu. Mantri Bhairavudi Gambhiramaina Gontu, Paalaraati Nela Mida Pratidhvaninchi, Sabhaamandapaanni Nimpesindi. \"Tenaali, Mahaaraajugaariki 'Bangaaru Aambali' Kaavaali,\" Ani Bhairavudu Annaadu. \"I Bangaaru Aambalini Nuvvu Siddham Cheyagalavaa?\" Ani Savaalu Visiraadu. Atanu Okka Kshanam Aagi, Tana Kanubommalanu Paiki Ettaadu, Kaani Ventane Atani Pedavula Mida Navvu Merisindi — Edo Pannaagam Panninatlu.",
+      "text_en": "The royal guard took Tenali Ramakrishna directly to the royal court where the King was seated. There, while King Krishnadevaraya was holding court, Minister Bhairava began to speak in a serious voice. Minister Bhairava's serious voice echoed on the marble floor, filling the entire court. \"Tenali, His Majesty the King wants 'Golden Porridge',\" Bhairava said. \"Can you prepare this Golden Porridge?\" he challenged. He paused for a moment, raised his eyebrows, but then a smile quickly appeared on his lips — as if he had planned something mischievous."
+    },
+    {
+      "id": 3,
+      "text": "సభ నుండి తిరిగి వచ్చిన తెనాలి, తన పూరింటి వరండాలో కూర్చున్నాడు. అతని పిల్లలు ఆరుబయట మట్టితో, ఆకులతో ఆడుకుంటున్నారు — వారి నవ్వులు గాలిలో తేలియాడుతున్నాయి. పిల్లల చిన్ని పాదాల చప్పుడు, చల్లని మట్టి నేల మీద మెల్లగా వినిపిస్తోంది. అతను నుదుటిని చిట్లించి, ఆలోచనలో మునిగిపోయాడు — బంగారు ఆంబలి ఎలా తయారు చేయాలో అర్థం కానట్లు. అప్పుడు అతని భార్య వచ్చి, \"ఏమి ఆలోచిస్తున్నారు, నాథా?\" అని ప్రేమగా అడిగింది. ఒక్కసారిగా అతని ముఖం వికసించింది — ఒక మెరుపు ఆలోచన తట్టినట్లు, సమస్యకు సమాధానం దొరికినట్లు.",
+      "image_prompt": "The boy sits on his porch, his brow furrowed in deep thought, trying to solve a problem. Suddenly, his face brightens with a wide smile, as if a brilliant idea has just struck him. Gentle afternoon light filters through a leafy tree into Tenali's modest courtyard, dappling the ground in soft greens and yellows, creating a peaceful and reflective mood.",
+      "scene_visual": "The boy sits on his porch, his brow furrowed in deep thought, trying to solve a problem. Suddenly, his face brightens with a wide smile, as if a brilliant idea has just struck him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sabha Nundi Tirigi Vachchina Tenaali, Tana Purinti Varandaalo Kurchunnaadu. Atani Pillalu Aarubayata Mattito, Aakulato Aadukuntunnaaru — Vaari Navvulu Gaalilo Teliyaadutunnaayi. Pillala Chinni Paadaala Chappudu, Challani Matti Nela Mida Mellagaa Vinipistondi. Atanu Nudutini Chitlinchi, Aalochanalo Munigipoyaadu — Bangaaru Aambali Elaa Tayaaru Cheyaalo Artham Kaanatlu. Appudu Atani Bhaarya Vachchi, \"Emi Aalochistunnaaru, Naathaa?\" Ani Premagaa Adigindi. Okkasaarigaa Atani Mukham Vikasinchindi — Oka Merupu Aalochana Tattinatlu, Samasyaku Samaadhaanam Dorikinatlu.",
+      "text_en": "Returning from the court, Tenali sat on the porch of his humble hut. His children were playing outside with mud and leaves — their laughter floated in the air. The soft sound of the children's tiny feet could be heard gently on the cool mud ground. He furrowed his brow, lost in thought — as if he couldn't figure out how to make Golden Porridge. Then his wife came and lovingly asked, \"What are you thinking about, my dear?\" Suddenly, his face brightened — as if a brilliant idea had struck him, and he had found the answer to the problem."
+    },
+    {
+      "id": 4,
+      "text": "ఆ ఆలోచన తట్టిన వెంటనే, తెనాలి తన భార్యను పిలిచాడు. అతను తన భార్యకు మెల్లగా గుసగుసలాడి, ఆమె కళ్ళల్లోకి చూశాడు — ఆమె ఆశ్చర్యంతో కళ్ళు పెద్దవి చేసుకుంది. పొయ్యి మీద మట్టి కుండలో ఆంబలి మెల్లగా ఉడుకుతోంది — బుడగలు బుడగలుగా శబ్దం చేస్తూ. అప్పుడు అతను ఒక చిన్న బంగారు ఆకును తీసి, ఆ ఆంబలిలో వేశాడు. \"చూడమ్మా, ఇది కదా నిజమైన 'బంగారు ఆంబలి'!\" అని చిరునవ్వుతో అన్నాడు. అతను ఆ బంగారు ఆకును కలిపి, చిరునవ్వు నవ్వాడు — రహస్యం తెలిసినట్లు, ఆ మట్టి కుండను జాగ్రత్తగా మూసి, రాజభవనం వైపు కాకుండా, పల్లెటూరి వైపు నడిచాడు.",
+      "image_prompt": "The boy carefully places a small golden leaf into the simmering ambrosia in a clay pot. He then smiles knowingly, as if he has just revealed a secret. Warm, late afternoon sunlight illuminates Tenali's simple kitchen, casting long shadows from the cooking pots and giving the scene a cozy, domestic glow.",
+      "scene_visual": "The boy carefully places a small golden leaf into the simmering ambrosia in a clay pot. He then smiles knowingly, as if he has just revealed a secret.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Aalochana Tattina Ventane, Tenaali Tana Bhaaryanu Pilichaadu. Atanu Tana Bhaaryaku Mellagaa Gusagusalaadi, Aame Kallalloki Chushaadu — Aame Aashcharyanto Kallu Peddavi Chesukundi. Poyyi Mida Matti Kundalo Aambali Mellagaa Udukutondi — Budagalu Budagalugaa Shabdam Chestu. Appudu Atanu Oka Chinna Bangaaru Aakunu Tisi, Aa Aambalilo Veshaadu. \"Chudammaa, Idi Kadaa Nijamaina 'Bangaaru Aambali'!\" Ani Chirunavvuto Annaadu. Atanu Aa Bangaaru Aakunu Kalipi, Chirunavvu Navvaadu — Rahasyam Telisinatlu, Aa Matti Kundanu Jaagrattagaa Musi, Raajabhavanam Vaipu Kaakundaa, Palleturi Vaipu Nadichaadu.",
+      "text_en": "As soon as the idea struck him, Tenali called his wife. He whispered softly to his wife, looking into her eyes — her eyes widened in surprise. On the stove, porridge was gently cooking in a clay pot — making bubbling sounds. Then he took a small gold leaf and put it into the porridge. \"Look, my dear, this is the real 'Golden Porridge'!\" he said with a smile. He stirred the gold leaf in, smiling — as if he knew a secret. He carefully covered the clay pot and walked not towards the palace, but towards the village."
+    },
+    {
+      "id": 5,
+      "text": "పల్లెటూరి పొలిమేరలకు చేరుకోగానే, తెనాలికి ఒక బావి దగ్గర ఆడుకుంటున్న కొందరు పేద పిల్లలు కనిపించారు. వారి కళ్ళు ఆశగా మెరిశాయి — ఆకలితో అల్లాడిపోతున్నట్లు. అతను వారి దగ్గరికి వెళ్లి, \"ఈ ఆంబలి రుచిగా ఉందా, పిల్లలూ?\" అని ప్రేమగా అడిగాడు. పిల్లలు ఆశగా ఆంబలిని గటగటా తాగడం మొదలుపెట్టారు — ఆ చప్పుడు ఎంతో ఆనందంగా ఉంది. ఆంబలి రుచి చూసిన పిల్లల కళ్ళల్లో — ఒక్కసారిగా వెలుగు నిండింది. పిల్లలు తిన్న తర్వాత, తెనాలి వారి ఖాళీ కుండలను తీసుకున్నాడు, అతని ముఖంలో ఒక లోతైన సంతృప్తి కనిపించింది — ఏదో గొప్ప కార్యం సాధించినట్లు.",
+      "image_prompt": "The poor children eagerly drink the ambrosia from their bowls, their faces showing deep satisfaction. Their eyes, previously dull with hunger, now sparkle with light and happiness. The golden hour light of early evening bathes the dusty village path and the children playing, casting a warm, soft glow that feels both ordinary and magical.",
+      "scene_visual": "The poor children eagerly drink the ambrosia from their bowls, their faces showing deep satisfaction. Their eyes, previously dull with hunger, now sparkle with light and happiness.",
+      "supporting_char_keys": [],
+      "text_te_en": "Palleturi Polimeralaku Cherukogaane, Tenaaliki Oka Baavi Daggara Aadukuntunna Kondaru Peda Pillalu Kanipinchaaru. Vaari Kallu Aashagaa Merishaayi — Aakalito Allaadipotunnatlu. Atanu Vaari Daggariki Velli, \"I Aambali Ruchigaa Undaa, Pillalu?\" Ani Premagaa Adigaadu. Pillalu Aashagaa Aambalini Gatagataa Taagadam Modalupettaaru — Aa Chappudu Ento Aanandangaa Undi. Aambali Ruchi Chusina Pillala Kallallo — Okkasaarigaa Velugu Nindindi. Pillalu Tinna Tarvaata, Tenaali Vaari Khaali Kundalanu Tisukunnaadu, Atani Mukhanlo Oka Lotaina Santrripti Kanipinchindi — Edo Goppa Kaaryam Saadhinchinatlu.",
+      "text_en": "As soon as he reached the outskirts of the village, Tenali saw some poor children playing near a well. Their eyes sparkled with hope — as if they were suffering from hunger. He went up to them and lovingly asked, \"Is this porridge tasty, children?\" The children eagerly began to drink the porridge quickly — the sound was full of joy. After tasting the porridge, the children's eyes — suddenly filled with light. After the children had eaten, Tenali took their empty bowls, and a deep satisfaction was visible on his face — as if he had accomplished something great."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి తిరిగి సభకు చేరుకున్నాడు. అప్పటికే మంత్రి భైరవుడు, బంగారు ఆకులతో, కుంకుమపువ్వుతో నిండిన ఒక సువాసనగల ఆంబలిని మహారాజుకు సమర్పించాడు. మహారాజు ముఖం కొద్దిగా చిట్లించింది — భైరవుడి ఆంబలి అంత రుచిగా లేనట్లు. మంత్రి భైరవుడు ఇచ్చిన కుంకుమపువ్వు ఆంబలి నుండి, ఘాటైన తీయని వాసన గాలిలో తేలియాడుతోంది. అప్పుడు తెనాలి ముందుకు వచ్చి, \"మహారాజా, ఆకలితో ఉన్నవారికి, సాదా ఆంబలి కూడా బంగారమే,\" అని వినయంగా వివరించాడు. మహారాజు ముఖం ఒక్కసారిగా మెత్తబడింది — సత్యాన్ని గ్రహించినట్లు, భైరవుడి ముఖం మాత్రం పాలిపోయింది.",
+      "image_prompt": "The king's face softens with understanding as the boy humbly explains the true meaning of 'golden ambrosia.' Beside him, the minister's face turns pale, revealing his shock and defeat. Also in this scene: Minister Bhairava. A portly man with a thick mustache that he constantly twirls, always wearing an elaborate, jewel-encrusted silk robe of deep crimson. He carries a small, ornate fan. Always the same character across every scene. The court hall is filled with the bright, direct light of late morning, making the jewels on the ministers' robes sparkle and highlighting the contrasting expressions on the faces of the King, Tenali, and Bhairava.",
+      "scene_visual": "The king's face softens with understanding as the boy humbly explains the true meaning of 'golden ambrosia.' Beside him, the minister's face turns pale, revealing his shock and defeat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Tirigi Sabhaku Cherukunnaadu. Appatike Mantri Bhairavudu, Bangaaru Aakulato, Kunkumapuvvuto Nindina Oka Suvaasanagala Aambalini Mahaaraajuku Samarpinchaadu. Mahaaraaju Mukham Koddigaa Chitlinchindi — Bhairavudi Aambali Anta Ruchigaa Lenatlu. Mantri Bhairavudu Ichchina Kunkumapuvvu Aambali Nundi, Ghaataina Tiyani Vaasana Gaalilo Teliyaadutondi. Appudu Tenaali Munduku Vachchi, \"Mahaaraajaa, Aakalito Unnavaariki, Saadaa Aambali Kudaa Bangaarame,\" Ani Vinayangaa Vivarinchaadu. Mahaaraaju Mukham Okkasaarigaa Mettabadindi — Satyaanni Grahinchinatlu, Bhairavudi Mukham Maatram Paalipoyindi.",
+      "text_en": "Tenali returned to the court. By then, Minister Bhairava had already presented the King with a fragrant porridge, filled with gold leaves and saffron. The King's face slightly wrinkled — as if Bhairava's porridge wasn't very tasty. A strong sweet smell from Minister Bhairava's saffron porridge floated in the air. Then Tenali stepped forward and humbly explained, \"Your Majesty, for those who are hungry, even plain porridge is gold.\" The King's face softened at once — as if he had understood the truth, while Bhairava's face turned pale."
+    },
+    {
+      "id": 7,
+      "text": "మహారాజు కృష్ణదేవరాయలు తెనాలి తెలివికి ఎంతో మెచ్చుకున్నాడు. మహారాజు సంతోషంతో తల పంకించాడు — తెనాలి తెలివికి అబ్బురపడినట్లు. \"తెనాలి, నీ తెలివికి సరితూగే బహుమతి లేదు,\" అని మహారాజు మెచ్చుకున్నాడు. వెంటనే ఆయన ఒక పట్టు సంచిలో బంగారు నాణేలు తెప్పించి, తెనాలికి బహుమతిగా ఇచ్చాడు. పట్టు సంచిలో బంగారు నాణేలు గలగలా శబ్దం చేశాయి — సభలో నిశ్శబ్దం అలుముకుంది. తెనాలి తల వంచి నమస్కరించాడు — అతని కళ్ళల్లో దయ మెరిసింది, ఆ నాణేలు ఆకలితో ఉన్న పిల్లలకు సహాయపడాలని కోరాడు.",
+      "image_prompt": "The king hands the boy a silk pouch filled with gold coins, which rattle audibly. The boy bows respectfully, his eyes sparkling with compassion as he accepts the reward. Also in this scene: Minister Bhairava. A portly man with a thick mustache that he constantly twirls, always wearing an elaborate, jewel-encrusted silk robe of deep crimson. He carries a small, ornate fan. Always the same character across every scene. Gentle dusk light, warm amber, streams into the court from western windows, reflecting off the gold coins and Tenali's thoughtful face, creating a peaceful and resolved atmosphere.",
+      "scene_visual": "The king hands the boy a silk pouch filled with gold coins, which rattle audibly. The boy bows respectfully, his eyes sparkling with compassion as he accepts the reward.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mahaaraaju Krrishnadevaraayalu Tenaali Teliviki Ento Mechchukunnaadu. Mahaaraaju Santoshanto Tala Pankinchaadu — Tenaali Teliviki Abburapadinatlu. \"Tenaali, Ni Teliviki Sarituge Bahumati Ledu,\" Ani Mahaaraaju Mechchukunnaadu. Ventane Aayana Oka Pattu Sanchilo Bangaaru Naanelu Teppinchi, Tenaaliki Bahumatigaa Ichchaadu. Pattu Sanchilo Bangaaru Naanelu Galagalaa Shabdam Cheshaayi — Sabhalo Nishshabdam Alumukundi. Tenaali Tala Vanchi Namaskarinchaadu — Atani Kallallo Daya Merisindi, Aa Naanelu Aakalito Unna Pillalaku Sahaayapadaalani Koraadu.",
+      "text_en": "King Krishnadevaraya greatly praised Tenali's cleverness. The King nodded his head happily — as if amazed by Tenali's wisdom. \"Tenali, there is no gift that can match your cleverness,\" the King praised. Immediately, he had a silk bag of gold coins brought and gave it to Tenali as a reward. The gold coins jingled in the silk bag — silence fell over the court. Tenali bowed his head — kindness shone in his eyes, and he wished for those coins to help the hungry children."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 10,
+    "dialogue_richness": 7,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story shines with excellent emotional depth, effectively showing characters' feelings through actions and expressions. The narrative arc is compelling, building tension and delivering a satisfying, moral-driven resolution. To reach a 9+ score, the primary focus should be on transforming the narrative from a descriptive written style to a warm, oral storytelling voice, perhaps by simplifying sentence structures and reducing parenthetical explanations. Additionally, enriching the dialogue to give characters more distinct voices and interactions would significantly enhance the story's overall appeal."
+  },
+  "title_te_en": "Tenaali Telivi: Bangaaru Aambali",
+  "moral_te_en": "Nijamaina Viluva Dhananlo Kaadu, Avasaranlo Unnavaariki Chupinche Dayalo Untundani Tenaali Nirupinchaadu.",
+  "title_en": "Tenali's Cleverness: The Golden Porridge",
+  "moral_en": "Tenali proved that true value is not in wealth, but in the kindness shown to those in need.",
+  "id": "20260529_031047",
+  "date": "2026-05-29",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు బంగారు ఆంబలి",
+  "thumbnail": "stories/20260529_031047/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
