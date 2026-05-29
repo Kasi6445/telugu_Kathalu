@@ -1,0 +1,98 @@
+{
+  "title": "తెనాలి తెలివి: బంగారు ఆంబలి",
+  "moral": "నిజమైన సంపద బయట కనిపించే మెరుపులో కాదు, కడుపు నింపే ఆకలి తీర్చే జ్ఞానంలో ఉంటుంది.",
+  "main_character": "Tenali Ramakrishna - witty, sharp, observant, a poet-jester in the Vijayanagara court. He is a lean man with a quick smile and intelligent eyes, often dressed in simple but clean attire. Always the same character across every scene.",
+  "antagonist": "King Krishnadevaraya - The benevolent but sometimes demanding emperor of Vijayanagara. He is a regal figure, adorned with jewels and fine silk, with a majestic bearing and a booming laugh. Always the same character across every scene.",
+  "setting": "The magnificent court of Vijayanagara, Hampi, at different times of day. The scenes will feature grand stone pillars, intricate carvings, and rich tapestries, bathed in various natural and artificial lights. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర ఆస్థానంలో ఒక చిన్న తగాదా రాజుగారి ముందుకొచ్చింది. తెనాలి రామకృష్ణుడు తన చురుకైన చూపులతో ఇద్దరినీ చూసి, పెదవులపై చిరునవ్వుతో నిలబడ్డాడు. ఒక పొడుపు కథ చెప్పి, ఆస్థానంలో నవ్వుల జల్లు కురిపించాడు. ఆస్థానంలోని పెద్ద రాతి పైకప్పుల నుండి నవ్వుల ప్రతిధ్వనులు మారుమోగాయి. \"మహారాజా, సగటు మనిషికి తెలివి, రాజుకు ధర్మం ముఖ్యం!\" అని తెనాలి గంభీరంగా అన్నాడు. రాజు కృష్ణదేవరాయలు తన సింహాసనంపై ముందుకు వంగి, విశాలమైన చిరునవ్వుతో తెనాలిని మెచ్చుకున్నాడు.",
+      "image_prompt": "The king leans forward on his throne, looking at the wise man. A broad smile spreads across the king's face as he appreciates the wise man. Also in this scene: King Krishnadevaraya - The benevolent but sometimes demanding emperor of Vijayanagara. He is a regal figure, adorned with jewels and fine silk, with a majestic bearing and a booming laugh. Always the same character across every scene. Bright morning sun streaming through large arched windows, casting long shadows on the polished floor of the grand durbar hall, feeling vibrant and energetic.",
+      "scene_visual": "The king leans forward on his throne, looking at the wise man. A broad smile spreads across the king's face as he appreciates the wise man.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vijayanagara Aasthaananlo Oka Chinna Tagaadaa Raajugaari Mundukochchindi. Tenaali Raamakrrishnudu Tana Churukaina Chupulato Iddarini Chusi, Pedavulapai Chirunavvuto Nilabaddaadu. Oka Podupu Katha Cheppi, Aasthaananlo Navvula Jallu Kuripinchaadu. Aasthaananloni Pedda Raati Paikappula Nundi Navvula Pratidhvanulu Maarumogaayi. \"Mahaaraajaa, Sagatu Manishiki Telivi, Raajuku Dharmam Mukhyan!\" Ani Tenaali Gambhirangaa Annaadu. Raaju Krrishnadevaraayalu Tana Sinhaasanampai Munduku Vangi, Vishaalamaina Chirunavvuto Tenaalini Mechchukunnaadu.",
+      "text_en": "A small dispute came before the King in the Vijayanagara court. Tenali Ramakrishna looked at both parties with his sharp eyes, standing with a smile on his lips. He told a riddle, filling the court with showers of laughter. Echoes of laughter resounded from the large stone ceilings of the court. \"Your Majesty, cleverness is important for the common man, and justice for the king!\" Tenali said with importance. King Krishnadevaraya leaned forward on his throne and praised Tenali with a wide smile."
+    },
+    {
+      "id": 2,
+      "text": "ఆ ప్రశంసల వెనుకే, రాజుగారు అకస్మాత్తుగా ఒక కొత్త ఆలోచనలో పడ్డారు. తన బంగారు గాజులు గలగలమని చప్పుడు చేస్తుండగా, ఆయన తెనాలి వైపు చూసి ఇలా అడిగారు: \"తెనాలి, నేను బంగారు ఆంబలి రుచి చూడాలని ఉంది, నువ్వు తయారుచేయగలవా?\" రాజుగారి మాటలు విన్న తెనాలి, నుదుట కొద్దిగా చిట్లించుకున్నాడు. బంగారు ఆంబలి అంటే ఏమిటో అర్థం కానట్లు ఆలోచనలో పడ్డాడు. ఆ సవాలుతో రాజు సభను ముగించగా, తెనాలి తల వంచి నిలబడ్డాడు — అతని ముఖంలో ఒక వింత భావం.",
+      "image_prompt": "The wise man stands with his head bowed, his brow slightly furrowed in thought. A strange expression crosses his face as he ponders the king's unusual request. Also in this scene: King Krishnadevaraya - The benevolent but sometimes demanding emperor of Vijayanagara. He is a regal figure, adorned with jewels and fine silk, with a majestic bearing and a booming laugh. Always the same character across every scene. Late afternoon sun, a warm orange glow, filtering through silk curtains, making the durbar hall feel more intimate but also slightly imposing for Tenali.",
+      "scene_visual": "The wise man stands with his head bowed, his brow slightly furrowed in thought. A strange expression crosses his face as he ponders the king's unusual request.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Prashansala Venuke, Raajugaaru Akasmaattugaa Oka Kotta Aalochanalo Paddaaru. Tana Bangaaru Gaajulu Galagalamani Chappudu Chestundagaa, Aayana Tenaali Vaipu Chusi Ilaa Adigaaru: \"Tenaali, Nenu Bangaaru Aambali Ruchi Chudaalani Undi, Nuvvu Tayaarucheyagalavaa?\" Raajugaari Maatalu Vinna Tenaali, Nuduta Koddigaa Chitlinchukunnaadu. Bangaaru Aambali Ante Emito Artham Kaanatlu Aalochanalo Paddaadu. Aa Savaaluto Raaju Sabhanu Muginchagaa, Tenaali Tala Vanchi Nilabaddaadu — Atani Mukhanlo Oka Vinta Bhaavan.",
+      "text_en": "Right after those praises, the King suddenly had a new idea. As his golden bangles jingled, he looked at Tenali and asked: \"Tenali, I wish to taste golden porridge, can you make it?\" Hearing the King's words, Tenali frowned slightly. He seemed to be thinking, as if he didn't understand what golden porridge meant. As the King ended the court with that challenge, Tenali stood with his head bowed — a strange expression on his face."
+    },
+    {
+      "id": 3,
+      "text": "రాజుగారి సవాలును స్వీకరించి, తెనాలి తన ఇంటికి చేరుకున్నాడు. ఒక పాత్రలో ఆంబలిని వండి, అందులో బంగారు ముక్కలను వేసి కరిగించడానికి ప్రయత్నించాడు. పొయ్యి నుండి తీవ్రమైన పొగ, ఆంబలి మాడిన వాసన — దానికి కరిగిన బంగారం ఘాటు వాసన తోడైంది. తెనాలి విసుగుతో చేతులు విసిరాడు, అతని చెంపకు మసి అంటుకుంది. \"ఛీ! ఇది ఎలా తినగలం? బంగారు ఆంబలి అంటే ఇది కాదు!\" అని గొణిగాడు. ఆ పాడుబడిన ఆంబలిని చూస్తూ, తెనాలి నిరాశగా కూర్చుండిపోయాడు — అతని మనసులో ఒక కొత్త ఆలోచన మెదలడం మొదలైంది.",
+      "image_prompt": "The wise man throws his hands up in frustration, looking at the burnt porridge. A smudge of soot marks his cheek, and thick smoke billows from the stove. Dim, flickering lamplight in Tenali's small kitchen, casting deep shadows and highlighting his troubled expression, creating a sense of isolation and struggle.",
+      "scene_visual": "The wise man throws his hands up in frustration, looking at the burnt porridge. A smudge of soot marks his cheek, and thick smoke billows from the stove.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajugaari Savaalunu Svikarinchi, Tenaali Tana Intiki Cherukunnaadu. Oka Paatralo Aambalini Vandi, Andulo Bangaaru Mukkalanu Vesi Kariginchadaaniki Prayatninchaadu. Poyyi Nundi Tivramaina Poga, Aambali Maadina Vaasana — Daaniki Karigina Bangaaram Ghaatu Vaasana Todaindi. Tenaali Visuguto Chetulu Visiraadu, Atani Chempaku Masi Antukundi. \"Chi! Idi Elaa Tinagalan? Bangaaru Aambali Ante Idi Kaadu!\" Ani Gonigaadu. Aa Paadubadina Aambalini Chustu, Tenaali Niraashagaa Kurchundipoyaadu — Atani Manasulo Oka Kotta Aalochana Medaladam Modalaindi.",
+      "text_en": "Accepting the King's challenge, Tenali reached his home. He cooked porridge in a pot and tried to melt pieces of gold into it. Intense smoke billowed from the stove, the smell of burnt porridge filled the air — and to that, the pungent smell of melted gold was added. Tenali threw his hands up in frustration, soot stuck to his cheek. \"Ugh! How can anyone eat this? This is not what golden porridge means!\" he grumbled. Looking at the spoiled porridge, Tenali sat down in despair — a new idea began to stir in his mind."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి ఆస్థానం నుండి బయటపడి, గ్రామ వీధుల్లో నడుస్తూ పోతున్నాడు. అక్కడి ఇళ్ళ నుండి వస్తున్న అన్నం, పప్పుల తీయని వాసన అతని ముక్కుపుటాలకెక్కింది. ఒక చిన్న ఇంట్లో, ఒక తల్లి తన బిడ్డకు ప్రేమగా ఆంబలి తినిపించడం చూశాడు — బిడ్డ ముఖంలో తృప్తి, తల్లి కళ్ళలో ఆనందం. తెనాలి ముఖం ఒక్కసారిగా వెలిగిపోయింది — ఒక మెరుపులాంటి ఆలోచన. \"ఆహా! నిజమైన బంగారం కడుపు నింపే ఆహారంలో ఉంది!\" అని తనలో తాను అనుకున్నాడు. ఆ క్షణం నుండి, తెనాలి మనసులో ఒక స్పష్టమైన ప్రణాళిక రూపుదిద్దుకుంటూ, అతను వేగంగా తన ఇంటి వైపు నడిచాడు.",
+      "image_prompt": "The wise man's face suddenly brightens with a flash of insight as he observes a mother feeding her child. He quickly turns and walks away, a clear plan forming in his mind. Warm, golden late afternoon sun illuminating a bustling village street, dust motes dancing in the light, creating a feeling of simple beauty and profound realization.",
+      "scene_visual": "The wise man's face suddenly brightens with a flash of insight as he observes a mother feeding her child. He quickly turns and walks away, a clear plan forming in his mind.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Aasthaanam Nundi Bayatapadi, Graama Vidhullo Nadustu Potunnaadu. Akkadi Illa Nundi Vastunna Annan, Pappula Tiyani Vaasana Atani Mukkuputaalakekkindi. Oka Chinna Intlo, Oka Talli Tana Biddaku Premagaa Aambali Tinipinchadam Chushaadu — Bidda Mukhanlo Trripti, Talli Kallalo Aanandan. Tenaali Mukham Okkasaarigaa Veligipoyindi — Oka Merupulaanti Aalochana. \"Aahaa! Nijamaina Bangaaram Kadupu Nimpe Aahaaranlo Undi!\" Ani Tanalo Taanu Anukunnaadu. Aa Kshanam Nundi, Tenaali Manasulo Oka Spashtamaina Pranaalika Rupudiddukuntu, Atanu Vegangaa Tana Inti Vaipu Nadichaadu.",
+      "text_en": "Tenali left the court and walked through the village streets. The sweet smell of rice and lentils coming from the houses filled his nostrils. In a small house, he saw a mother lovingly feeding porridge to her child — satisfaction on the child's face, joy in the mother's eyes. Tenali's face suddenly lit up — a flash of an idea. \"Aha! True gold is in the food that fills the stomach!\" he thought to himself. From that moment, a clear plan formed in Tenali's mind, and he walked quickly towards his home."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి ఇంటికి చేరిన వెంటనే, అతను ఒక మట్టి కుండలో బియ్యం, పప్పు కలిపి వండడం మొదలుపెట్టాడు. ఆంబలి మెల్లగా బుడగలు వేస్తూ, ఓదార్పునిచ్చే సువాసనను గది అంతా నింపింది. అతను దానిని కలుపుతుండగా, పెదవులపై ఒక నమ్మకమైన చిరునవ్వు మెరిసింది — అతని కళ్ళల్లో తెలివి మెరిసింది. చివరిగా, ఒక చిటికెడు పసుపు కలిపి, దానికి బంగారు రంగును అద్దాడు. \"ఇది మామూలు ఆంబలి కాదు, మహారాజుకు విలువైన గుణపాఠం!\" అని తెనాలి తృప్తిగా అన్నాడు. ఆ వేడి ఆంబలిని ఒక సాదా మట్టి గిన్నెలోకి జాగ్రత్తగా వంచి, తన ప్రదర్శనకు సిద్ధమయ్యాడు.",
+      "image_prompt": "The wise man stirs the bubbling porridge in an earthen pot, a confident smile playing on his lips. He carefully pours the golden-colored porridge into a simple clay bowl, his eyes sparkling with intelligence. The soft glow of a cooking fire inside a humble dwelling, casting dancing shadows on the walls, making the scene feel intimate and focused on creation.",
+      "scene_visual": "The wise man stirs the bubbling porridge in an earthen pot, a confident smile playing on his lips. He carefully pours the golden-colored porridge into a simple clay bowl, his eyes sparkling with intelligence.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Intiki Cherina Ventane, Atanu Oka Matti Kundalo Biyyan, Pappu Kalipi Vandadam Modalupettaadu. Aambali Mellagaa Budagalu Vestu, Odaarpunichche Suvaasananu Gadi Antaa Nimpindi. Atanu Daanini Kaluputundagaa, Pedavulapai Oka Nammakamaina Chirunavvu Merisindi — Atani Kallallo Telivi Merisindi. Chivarigaa, Oka Chitikedu Pasupu Kalipi, Daaniki Bangaaru Rangunu Addaadu. \"Idi Maamulu Aambali Kaadu, Mahaaraajuku Viluvaina Gunapaathan!\" Ani Tenaali Trriptigaa Annaadu. Aa Vedi Aambalini Oka Saadaa Matti Ginneloki Jaagrattagaa Vanchi, Tana Pradarshanaku Siddhamayyaadu.",
+      "text_en": "As soon as Tenali reached home, he started cooking rice and lentils together in an earthen pot. The porridge slowly bubbled, filling the room with a comforting aroma. As he stirred it, a confident smile appeared on his lips — cleverness sparkled in his eyes. Finally, he added a pinch of turmeric, giving it a golden color. \"This is not ordinary porridge, but a valuable lesson for the King!\" Tenali said with satisfaction. He carefully poured the hot porridge into a simple earthen bowl, ready for his presentation."
+    },
+    {
+      "id": 6,
+      "text": "మరునాడు, తెనాలి ఆ మట్టి గిన్నెతో రాజుగారి ఆస్థానానికి వచ్చాడు. రాజుగారు తెనాలి చేతిలోని సాదా ఆంబలిని చూసి మొదట అయోమయంగా చూశారు. తెనాలి తన కళ్ళలో ఒక తెలివైన మెరుపుతో నిటారుగా నిలబడ్డాడు. \"మహారాజా, ఈ ఆంబలి పండించే శ్రమ, పౌరుల ఆరోగ్యం - ఇవే కదా అసలైన బంగారం?\" అని వినయంగా అడిగాడు. రాజుగారి ముఖంలో మొదట అస్పష్టత, ఆ తర్వాత నెమ్మదిగా అవగాహన మెరిసింది. రాజు ఒక క్షణం ఆలోచించి, తెనాలి వైపు చూస్తూ, తన పెదవులపై ఒక నవ్వును విరియబోయాడు.",
+      "image_prompt": "The king looks at the wise man, his face slowly shifting from confusion to dawning understanding. He pauses for a moment, then a smile begins to form on his lips as he gazes at the wise man. Also in this scene: King Krishnadevaraya - The benevolent but sometimes demanding emperor of Vijayanagara. He is a regal figure, adorned with jewels and fine silk, with a majestic bearing and a booming laugh. Always the same character across every scene. The grand durbar hall, now lit by dozens of oil lamps and torches, creating a dramatic, warm glow around the King and Tenali, emphasizing the importance of their exchange.",
+      "scene_visual": "The king looks at the wise man, his face slowly shifting from confusion to dawning understanding. He pauses for a moment, then a smile begins to form on his lips as he gazes at the wise man.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marunaadu, Tenaali Aa Matti Ginneto Raajugaari Aasthaanaaniki Vachchaadu. Raajugaaru Tenaali Chetiloni Saadaa Aambalini Chusi Modata Ayomayangaa Chushaaru. Tenaali Tana Kallalo Oka Telivaina Meruputo Nitaarugaa Nilabaddaadu. \"Mahaaraajaa, I Aambali Pandinche Shrama, Paurula Aarogyam - Ive Kadaa Asalaina Bangaaran?\" Ani Vinayangaa Adigaadu. Raajugaari Mukhanlo Modata Aspashtata, Aa Tarvaata Nemmadigaa Avagaahana Merisindi. Raaju Oka Kshanam Aalochinchi, Tenaali Vaipu Chustu, Tana Pedavulapai Oka Navvunu Viriyaboyaadu.",
+      "text_en": "The next day, Tenali came to the King's court with that earthen bowl. The King first looked confusedly at the simple porridge in Tenali's hand. Tenali stood tall with a clever sparkle in his eyes. \"Your Majesty, isn't the hard work that grows this porridge, and the health of the citizens — isn't this the real gold?\" he humbly asked. First, confusion appeared on the King's face, then slowly, understanding dawned. The King thought for a moment, looked at Tenali, and a smile began to spread on his lips."
+    },
+    {
+      "id": 7,
+      "text": "రాజుగారి ముఖంపై నవ్వు పూర్తిగా వికసించింది — ఒక గొప్ప సత్యాన్ని అర్థం చేసుకున్న తృప్తి. ఆస్థానం అంతా నిండిపోయేలా రాజుగారి ఆనందపు నవ్వులు మారుమోగాయి. \"తెనాలి, నీ తెలివికి మించిన బంగారం లేదు! నీవు నిజంగా బంగారు ఆంబలి ఇచ్చావు!\" అని రాజు గంభీరంగా ప్రకటించాడు. తెనాలి ముఖంలో ఒక సున్నితమైన, తెలిసిన చిరునవ్వు మెరిసింది. రాజు ఆంబలిని రుచి చూసి, దానిని ఎంతగానో మెచ్చుకున్నాడు — తెనాలికి విలువైన బహుమతులు ఇచ్చి సత్కరించాడు.",
+      "image_prompt": "The king's face breaks into a full, joyful smile, his laughter echoing through the court. The wise man returns a subtle, knowing smile as the king praises his wisdom. Also in this scene: King Krishnadevaraya - The benevolent but sometimes demanding emperor of Vijayanagara. He is a regal figure, adorned with jewels and fine silk, with a majestic bearing and a booming laugh. Always the same character across every scene. The court bathed in the soft, golden light of early evening, a peaceful and contented atmosphere, reflecting the King's enlightened mood.",
+      "scene_visual": "The king's face breaks into a full, joyful smile, his laughter echoing through the court. The wise man returns a subtle, knowing smile as the king praises his wisdom.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajugaari Mukhampai Navvu Purtigaa Vikasinchindi — Oka Goppa Satyaanni Artham Chesukunna Trripti. Aasthaanam Antaa Nindipoyelaa Raajugaari Aanandapu Navvulu Maarumogaayi. \"Tenaali, Ni Teliviki Minchina Bangaaram Ledu! Nivu Nijangaa Bangaaru Aambali Ichchaavu!\" Ani Raaju Gambhirangaa Prakatinchaadu. Tenaali Mukhanlo Oka Sunnitamaina, Telisina Chirunavvu Merisindi. Raaju Aambalini Ruchi Chusi, Daanini Entagaano Mechchukunnaadu — Tenaaliki Viluvaina Bahumatulu Ichchi Satkarinchaadu.",
+      "text_en": "The smile on the King's face fully bloomed — the satisfaction of understanding a great truth. The King's joyful laughter echoed throughout the court. \"Tenali, there is no gold greater than your wisdom! You have truly given me golden porridge!\" the King gravely declared. A gentle, knowing smile sparkled on Tenali's face. The King tasted the porridge and praised it greatly — he honored Tenali with valuable gifts."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 4,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 6,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and flawless grammar, making it a well-structured and technically strong piece. However, its formal prose and tendency to state emotions rather than show them significantly reduce its warmth and direct appeal to young children. To reach an award-worthy level, the most critical improvement would be to infuse a more oral, conversational tone, perhaps by incorporating direct addresses to the child and simplifying descriptive language, while also focusing on embodying emotions through action and dialogue."
+  },
+  "quality_warning": true,
+  "title_te_en": "Tenaali Telivi: Bangaaru Aambali",
+  "moral_te_en": "Nijamaina Sampada Bayata Kanipinche Merupulo Kaadu, Kadupu Nimpe Aakali Tirche Jnyaananlo Untundi.",
+  "title_en": "Tenali's Cleverness: The Golden Porridge",
+  "moral_en": "True wealth is not in outward glitter, but in the wisdom that satisfies hunger and nourishes life.",
+  "id": "20260529_041153",
+  "date": "2026-05-29",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు బంగారు ఆంబలి",
+  "thumbnail": "stories/20260529_041153/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
