@@ -1,0 +1,97 @@
+{
+  "title": "తెలివైన బుజ్జి కుందేలు కథ",
+  "moral": "చిన్నవారైనా, తెలివిగా ఆలోచిస్తే ఎలాంటి పెద్ద కష్టాన్నైనా సులభంగా దాటగలరు.",
+  "main_character": "A small, quick-witted rabbit named బుజ్జి (Bujji). It has bright, curious eyes and soft, white fur. It often twitches its nose when deep in thought. Always the same character across every scene.",
+  "antagonist": "A large, powerful lion named రాజా (Raja). It has a thick, golden mane and piercing yellow eyes. Its roar is deep and resonating, and it wears an air of unchallenged authority. Always the same character across every scene.",
+  "setting": "A lush forest in the Nallamala Hills of Andhra Pradesh. Tall teak trees cast long shadows, a meandering river provides water, and vibrant bougainvillea bushes add splashes of color. It's late morning, with sunlight filtering through the canopy. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవిలో, బుజ్జి కుందేలు చెవులు అటూ ఇటూ కదిలిస్తూ, పచ్చటి గడ్డిలో ఆడుకుంటోంది. కరకరమంటూ ఒక క్యారెట్ కొరుకుతూ, దాని చిన్నారి ముక్కు పదే పదే కదిపింది. \"ఈ రోజు ఎంత ప్రశాంతంగా ఉంది!\" అని తనలో తనే అనుకుంది. ఇంతలో, దాని చెవులు ఒక్కసారిగా నిక్కబొడుచుకున్నాయి. అడవిలో ఏదో తెలియని చప్పుడు — బుజ్జి గుండె వేగంగా కొట్టుకుంది.",
+      "image_prompt": "The bunny suddenly stops playing in the green grass and sharply perks its ears up. Its previously wiggling ears are now stiff and pointed, listening intently to an unknown sound. Bright morning sun filtering through green leaves, dappled light on the forest floor, peaceful and fresh.",
+      "scene_visual": "The bunny suddenly stops playing in the green grass and sharply perks its ears up. Its previously wiggling ears are now stiff and pointed, listening intently to an unknown sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Adavilo, Bujji Kundelu Chevulu Atu Itu Kadilistu, Pachchati Gaddilo Aadukuntondi. Karakaramantu Oka Kyaaret Korukutu, Daani Chinnaari Mukku Pade Pade Kadipindi. \"I Roju Enta Prashaantangaa Undi!\" Ani Tanalo Tane Anukundi. Intalo, Daani Chevulu Okkasaarigaa Nikkaboduchukunnaayi. Adavilo Edo Teliyani Chappudu — Bujji Gunde Vegangaa Kottukundi.",
+      "text_en": "In the Nallamala forest, Bujji the rabbit was playing in the green grass, moving its ears back and forth. It munched on a carrot with a crunch, its tiny nose twitching again and again. \"How peaceful this day is!\" it thought to itself. Suddenly, its ears stood straight up. There was an unknown sound in the forest — Bujji's heart began to beat fast."
+    },
+    {
+      "id": 2,
+      "text": "అప్పుడే, ఒక లేడి భయంతో పరుగులు పెడుతూ బుజ్జి పక్కనుంచి దూసుకుపోయింది. దాని గిట్టల చప్పుడు... నేలంతా దడదడలాడించింది. \"సింహం రోజుకొక జంతువును తినాలని చెప్పింది!\" అంటూనే అది పరుగు ఆపకుండా వెళ్ళిపోయింది. బుజ్జి చెవులు కొద్దిగా వెనక్కి మడిచింది — గుండె దడదడమని కొట్టుకుంది. అడవిలో ఇక శాంతి ఉండదు — ఈ ఆలోచనే బుజ్జిని వణికించింది.",
+      "image_prompt": "A deer, running in fear, darts past the bunny, its hooves making the ground tremble. The bunny folds its ears back slightly, its heart beating fast as the deer shouts about the lion. Midday sun, strong and harsh, casting sharp shadows as the news spreads, creating a sense of urgency.",
+      "scene_visual": "A deer, running in fear, darts past the bunny, its hooves making the ground tremble. The bunny folds its ears back slightly, its heart beating fast as the deer shouts about the lion.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appude, Oka Ledi Bhayanto Parugulu Pedutu Bujji Pakkanunchi Dusukupoyindi. Daani Gittala Chappudu... Nelantaa Dadadadalaadinchindi. \"Sinham Rojukoka Jantuvunu Tinaalani Cheppindi!\" Antune Adi Parugu Aapakundaa Vellipoyindi. Bujji Chevulu Koddigaa Venakki Madichindi — Gunde Dadadadamani Kottukundi. Adavilo Ika Shaanti Undadu — I Aalochane Bujjini Vanikinchindi.",
+      "text_en": "Just then, a deer, running in fear, darted past Bujji. The sound of its hooves made the whole ground tremble. \"The lion said it would eat one animal every day!\" it cried, running off without stopping. Bujji's ears folded back a little — its heart thumped. There would be no peace in the forest anymore — this thought made Bujji tremble."
+    },
+    {
+      "id": 3,
+      "text": "ఆ రోజు సాయంత్రం, జంతువులన్నీ ఒకచోట చేరి, భయంతో వణికిపోయాయి. చిన్న చీటీలు లాగారు... ఒక పేరు చదివారు. ఆ పేరు వినగానే — అడవంతా నిశ్శబ్దంగా మారిపోయింది. \"రేపు నువ్వే సింహానికి ఆహారం, బుజ్జి!\" అని ఒక ముసలి నక్క నెమ్మదిగా చెప్పింది. బుజ్జి కళ్ళు పెద్దవిగా అయ్యాయి, శరీరం కంపించింది — కానీ దానిలో ఏదో మెరుపు కనిపించింది. రేపు నా వంతు — దానికి తెలుసు.",
+      "image_prompt": "All the trembling animals gather as an old fox slowly announces the bunny's name from a drawn slip. The bunny's eyes widen and its body trembles, but a flash appears within them. Overcast sky, dim and grey, reflecting the somber mood of the forest, feeling heavy and oppressive.",
+      "scene_visual": "All the trembling animals gather as an old fox slowly announces the bunny's name from a drawn slip. The bunny's eyes widen and its body trembles, but a flash appears within them.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Roju Saayantran, Jantuvulanni Okachota Cheri, Bhayanto Vanikipoyaayi. Chinna Chitilu Laagaaru... Oka Peru Chadivaaru. Aa Peru Vinagaane — Adavantaa Nishshabdangaa Maaripoyindi. \"Repu Nuvve Sinhaaniki Aahaaran, Bujji!\" Ani Oka Musali Nakka Nemmadigaa Cheppindi. Bujji Kallu Peddavigaa Ayyaayi, Shariram Kampinchindi — Kaani Daanilo Edo Merupu Kanipinchindi. Repu Naa Vantu — Daaniki Telusu.",
+      "text_en": "That evening, all the animals gathered in one place, trembling with fear. They drew small slips of paper... and read a name. As soon as they heard that name — the whole forest became silent. \"Tomorrow, you are the lion's food, Bujji!\" a wise old fox said softly. Bujji's eyes grew wide, its body trembled — but a spark of an idea lit up within it. Tomorrow was its turn — it knew."
+    },
+    {
+      "id": 4,
+      "text": "మరుసటి రోజు, బుజ్జి అడుగులు నెమ్మదిగా, జాగ్రత్తగా పడ్డాయి. ఎండిన ఆకులపై దాని చిన్న పాదాలు నడుస్తుంటే... సన్నని శబ్దం వినిపించింది. \"నేను తొందరపడకూడదు, తెలివిగా ఆలోచించాలి,\" అని బుజ్జి తనలో తనే అనుకుంది. దాని కళ్ళు చుట్టూ చూస్తున్నాయి, మనసులో ఏదో లెక్కలు వేసుకుంటున్నట్లు. ఇంతలో, దూరం నుంచి ఒక పెద్ద గర్జన అడవిలో ప్రతిధ్వనించింది — సింహంకు కోపం వస్తున్నట్లు. సింహం దగ్గరికి... బుజ్జి నడిచింది.",
+      "image_prompt": "The bunny walks slowly and carefully on dry leaves, its small feet making faint sounds. Its eyes scan the surroundings, appearing to calculate something, as a loud roar echoes from the distance. Late afternoon sun, long shadows stretching, casting an orange glow that feels both warm and slightly foreboding as time runs out.",
+      "scene_visual": "The bunny walks slowly and carefully on dry leaves, its small feet making faint sounds. Its eyes scan the surroundings, appearing to calculate something, as a loud roar echoes from the distance.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju, Bujji Adugulu Nemmadigaa, Jaagrattagaa Paddaayi. Endina Aakulapai Daani Chinna Paadaalu Nadustunte... Sannani Shabdam Vinipinchindi. \"Nenu Tondarapadakudadu, Telivigaa Aalochinchaali,\" Ani Bujji Tanalo Tane Anukundi. Daani Kallu Chuttu Chustunnaayi, Manasulo Edo Lekkalu Vesukuntunnatlu. Intalo, Duram Nunchi Oka Pedda Garjana Adavilo Pratidhvaninchindi — Sinhanku Kopam Vastunnatlu. Sinham Daggariki... Bujji Nadichindi.",
+      "text_en": "The next day, Bujji's steps were slow and careful. As its tiny paws walked on the dry leaves, a faint sound was heard. \"I shouldn't rush, I must think cleverly,\" Bujji thought to itself. Its eyes were looking around, as if it was calculating something in its mind. Suddenly, a loud roar echoed in the forest from a distance — as if the lion was getting angry. Towards the lion... Bujji walked."
+    },
+    {
+      "id": 5,
+      "text": "చివరికి, బుజ్జి సింహం గుహ దగ్గరికి చేరుకుంది — సింహం కళ్ళు నిప్పులు చెరుగుతున్నాయి. సింహం దగ్గరగా వచ్చి, బుజ్జి ముక్కు పక్కన వేడి గాలులు పీల్చింది. బుజ్జి శరీరం కొద్దిగా వణికింది, కానీ కళ్ళు మాత్రం సింహం కళ్ళలోకి చూస్తూ నిలబడింది. \"నువ్వు! ఇంకో సింహం నన్ను ఆపింది!\" అని బుజ్జి కంగారుగా చెప్పింది. సింహం కళ్ళు సన్నబడ్డాయి, దానిలో కోపంతో పాటు ఏదో తెలియని ఆశ్చర్యం మెరిసింది. అది నమ్మలేదు — ఇంకా అడగాలని చూసింది.",
+      "image_prompt": "The bunny stands trembling slightly, but bravely looks directly into the lion's fiery eyes near its cave. The lion breathes hot air near the bunny's nose, its eyes narrowing with anger and a flash of unknown surprise. Also in this scene: A large, powerful lion named రాజా (Raja). It has a thick, golden mane and piercing yellow eyes. Its roar is deep and resonating, and it wears an air of unchallenged authority. Always the same character across every scene. The mouth of the lion's dark cave, deep shadows within, a sliver of harsh late afternoon light illuminating the lion's angry face.",
+      "scene_visual": "The bunny stands trembling slightly, but bravely looks directly into the lion's fiery eyes near its cave. The lion breathes hot air near the bunny's nose, its eyes narrowing with anger and a flash of unknown surprise.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chivariki, Bujji Sinham Guha Daggariki Cherukundi — Sinham Kallu Nippulu Cherugutunnaayi. Sinham Daggaragaa Vachchi, Bujji Mukku Pakkana Vedi Gaalulu Pilchindi. Bujji Shariram Koddigaa Vanikindi, Kaani Kallu Maatram Sinham Kallaloki Chustu Nilabadindi. \"Nuvvu! Inko Sinham Nannu Aapindi!\" Ani Bujji Kangaarugaa Cheppindi. Sinham Kallu Sannabaddaayi, Daanilo Kopanto Paatu Edo Teliyani Aashcharyam Merisindi. Adi Nammaledu — Inkaa Adagaalani Chusindi.",
+      "text_en": "Finally, Bujji reached the lion's cave — the lion's eyes were fiery. The lion came closer and breathed hot air next to Bujji's nose. Bujji's body trembled a little, but its eyes looked into the lion's eyes and stood firm. \"I was coming, but another lion stopped me!\" Bujji said nervously. The lion's eyes narrowed, and along with anger, some unknown surprise sparkled in them. It didn't believe — it wanted to ask more."
+    },
+    {
+      "id": 6,
+      "text": "బుజ్జి మెల్లగా, తల కొద్దిగా పైకెత్తి, సింహాన్ని ఒక పాత బావి దగ్గరికి నడిపించింది. బావి దగ్గరికి రాగానే — ఒక చల్లని తేమ గాలి ముఖానికి తాకింది. \"అదే, ఆ బావిలోనే ఉంది ఆ ఇంకో సింహం!\" అని బుజ్జి గుసగుసలాడింది. దాని ముఖం మీద ఒక చిన్న చిరునవ్వు మెరిసింది — సింహం చూడలేదు. సింహం బావిలోకి తొంగి చూసింది — అక్కడ తన ప్రతిబింబం కోపంగా చూస్తున్నట్లు కనిపించింది. ఆ బావిలో — అది గట్టిగా గర్జించింది.",
+      "image_prompt": "The bunny, with a slight, unseen smile, leads the lion to an old well and whispers about another lion inside. The lion peers into the well, seeing its own angry reflection staring back from the cool, moist depths. Also in this scene: A large, powerful lion named రాజా (Raja). It has a thick, golden mane and piercing yellow eyes. Its roar is deep and resonating, and it wears an air of unchallenged authority. Always the same character across every scene. Twilight descending, the well's opening a dark circle, the last slivers of orange light catching the lion's agitated fur.",
+      "scene_visual": "The bunny, with a slight, unseen smile, leads the lion to an old well and whispers about another lion inside. The lion peers into the well, seeing its own angry reflection staring back from the cool, moist depths.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bujji Mellagaa, Tala Koddigaa Paiketti, Sinhaanni Oka Paata Baavi Daggariki Nadipinchindi. Baavi Daggariki Raagaane — Oka Challani Tema Gaali Mukhaaniki Taakindi. \"Ade, Aa Baavilone Undi Aa Inko Sinhan!\" Ani Bujji Gusagusalaadindi. Daani Mukham Mida Oka Chinna Chirunavvu Merisindi — Sinham Chudaledu. Sinham Baaviloki Tongi Chusindi — Akkada Tana Pratibimbam Kopangaa Chustunnatlu Kanipinchindi. Aa Baavilo — Adi Gattigaa Garjinchindi.",
+      "text_en": "Bujji slowly, lifting its head a little, led the lion to an old well. As soon as they reached the well — a cool, damp breeze touched its face. \"That's it, that other lion is in that well!\" Bujji whispered. A small smile sparkled on its face — the lion didn't see. The lion peered into the well — there, its own reflection appeared to be looking angrily. Into that well — it roared loudly."
+    },
+    {
+      "id": 7,
+      "text": "తన ప్రతిబింబాన్ని చూసి, సింహం కోపంతో గట్టిగా గర్జించి — బావిలోకి దూకింది. దూరం నుంచి ఒక పెద్ద చప్పుడు... అడవిలో ప్రతిధ్వనించింది. కొద్దిసేపటికి, బుజ్జి చిన్నగా నవ్వి — తన స్నేహితుల దగ్గరికి పరుగెత్తింది. అన్ని జంతువులు గుమిగూడి, సంతోషంతో గంతులు వేశాయి. \"హుర్రే! బుజ్జి మనల్ని రక్షించింది!\" అంటూ అడవి అంతా అరిచాయి. చిన్న బుజ్జి... పెద్ద సింహాన్ని ఓడించింది. చూశావా, తెలివి ఉంటే ఎంత పెద్ద కష్టాన్నైనా దాటొచ్చు.",
+      "image_prompt": "The angry lion roars loudly and leaps into the well after seeing its reflection. A loud splash echoes through the forest, and a moment later, the bunny softly smiles and runs towards its friends. Gentle dusk light, warm amber, peaceful and calm as the forest settles into quiet celebration.",
+      "scene_visual": "The angry lion roars loudly and leaps into the well after seeing its reflection. A loud splash echoes through the forest, and a moment later, the bunny softly smiles and runs towards its friends.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Pratibimbaanni Chusi, Sinham Kopanto Gattigaa Garjinchi — Baaviloki Dukindi. Duram Nunchi Oka Pedda Chappudu... Adavilo Pratidhvaninchindi. Koddisepatiki, Bujji Chinnagaa Navvi — Tana Snehitula Daggariki Parugettindi. Anni Jantuvulu Gumigudi, Santoshanto Gantulu Veshaayi. \"Hurre! Bujji Manalni Rakshinchindi!\" Antu Adavi Antaa Arichaayi. Chinna Bujji... Pedda Sinhaanni Odinchindi. Chushaavaa, Telivi Unte Enta Pedda Kashtaannainaa Daatochchu.",
+      "text_en": "Seeing its own reflection, the lion roared loudly in anger — and jumped into the well. A loud splash from a distance... echoed in the forest. After a little while, Bujji smiled softly — and ran to its friends. All the animals gathered and jumped with joy. \"Hurray! Bujji saved us!\" the whole forest shouted. Little Bujji... defeated the big lion. See, with cleverness, you can overcome any big problem."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 10,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is a strong contender, boasting excellent emotional depth, flawless grammar, and high child engagement. The narrative arc is compelling, with a clear struggle and resolution. To elevate it to a perfect 9+ across all dimensions, consider weaving in more direct speech in every scene to enhance the oral storytelling feel and character interaction. Additionally, integrating the moral more subtly into the narrative's conclusion, allowing it to emerge purely from the events, would refine its literary quality and avoid a direct sermon."
+  },
+  "title_te_en": "Telivaina Bujji Kundelu Katha",
+  "moral_te_en": "Chinnavaarainaa, Telivigaa Aalochiste Elaanti Pedda Kashtaannainaa Sulabhangaa Daatagalaru.",
+  "title_en": "The Story of Clever Bujji, the Rabbit",
+  "moral_en": "Even if you are small, with clever thinking, you can easily overcome any big problem.",
+  "id": "20260529_061108",
+  "date": "2026-05-29",
+  "category": "neeti",
+  "subcategory": "animal_morals",
+  "topic": "తెలివైన కుందేలు మరియు సింహం",
+  "thumbnail": "stories/20260529_061108/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
