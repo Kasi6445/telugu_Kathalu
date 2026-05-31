@@ -48,5 +48,5 @@ jobs:
           git add drafts/
           git diff --quiet --cached && echo "Nothing to commit" && exit 0
           git commit -m "Add story draft $(date -u +%Y-%m-%dT%H:%M)"
-          git pull --rebase
+          git pull --rebase --autostash
           git push
