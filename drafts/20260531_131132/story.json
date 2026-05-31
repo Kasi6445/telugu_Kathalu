@@ -1,0 +1,98 @@
+{
+  "title": "నక్క మోసం, ఒంటె దయ",
+  "moral": "ఎవరైనా మనల్ని మోసం చేసినా, మనం దయగా ఉండటమే నిజమైన బలం, అది ఎప్పుడో ఒకప్పుడు మంచిని తీసుకొస్తుంది.",
+  "main_character": "ఒంటె (Onthe) - A large, gentle camel with a long neck and soft brown fur. He is kind-hearted and trusting, often too naive for his own good. Always the same character across every scene.",
+  "antagonist": "నక్క (Nakka) - A sleek, cunning fox with bright, mischievous eyes and reddish-brown fur. She is quick-witted and self-serving, always looking for an advantage. Always the same character across every scene.",
+  "setting": "A dense forest bordering a small, traditional Telugu village in the Rayalaseema region, with ancient banyan trees, a meandering river, and rocky outcrops. The air is often filled with the chirping of cicadas and the distant calls of peacocks. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "దట్టమైన అడవిలో ఒంటె నెమ్మదిగా ఆకులను మేస్తోంది, దాని పెద్ద పాదాల కింద ఆకులు గలగలా శబ్దం చేశాయి. అప్పుడు మెరుపులాంటి నక్క ఒకటి దాని పక్కకు వచ్చింది, దాని కళ్ళల్లో ఏదో తెలివి మెరిసింది. ఒంటె ఆప్యాయంగా తల వంచి, \"నక్క స్నేహితుడా, నీకు స్వాగతం!\" అని పలకరించింది. నక్క నవ్వి, తన తోకను ఒక్కసారి ఆడించింది — ఆ నవ్వు వెనుక ఏదో లెక్క ఉన్నట్టు. ఒంటె దాని విశాలమైన వెన్నెముకను చూస్తూ, 'ఇది ఉపయోగపడుతుంది' అని నక్క మనసులో అనుకుంది.",
+      "image_prompt": "The fox approaches the grazing camel, its tail flicking once. A calculating glint shines in the fox's eyes as it observes the camel's broad back. Also in this scene: నక్క (Nakka) - A sleek, cunning fox with bright, mischievous eyes and reddish-brown fur. She is quick-witted and self-serving, always looking for an advantage. Always the same character across every scene. Bright, warm morning sun filtering through dense green canopy, creating dappled light on the forest floor, peaceful and inviting.",
+      "scene_visual": "The fox approaches the grazing camel, its tail flicking once. A calculating glint shines in the fox's eyes as it observes the camel's broad back.",
+      "supporting_char_keys": [],
+      "text_te_en": "Dattamaina Adavilo Onte Nemmadigaa Aakulanu Mestondi, Daani Pedda Paadaala Kinda Aakulu Galagalaa Shabdam Cheshaayi. Appudu Merupulaanti Nakka Okati Daani Pakkaku Vachchindi, Daani Kallallo Edo Telivi Merisindi. Onte Aapyaayangaa Tala Vanchi, \"Nakka Snehitudaa, Niku Svaagatan!\" Ani Palakarinchindi. Nakka Navvi, Tana Tokanu Okkasaari Aadinchindi — Aa Navvu Venuka Edo Lekka Unnattu. Onte Daani Vishaalamaina Vennemukanu Chustu, 'Idi Upayogapadutundi' Ani Nakka Manasulo Anukundi.",
+      "text_en": "In a thick forest, Onte was slowly grazing on leaves, the leaves rustling under its big feet. Then a quick Nakka came beside it, with a clever sparkle in its eyes. Onte affectionately bowed its head and greeted, \"Welcome, friend Nakka!\" Nakka smiled and wagged its tail once — as if there was a plan behind that smile. Nakka looked at Onte's broad back and thought to itself, 'This will be useful.'"
+    },
+    {
+      "id": 2,
+      "text": "కొన్ని రోజులు ఇద్దరూ కలిసి అడవిలో తిరిగారు, కథలు చెప్పుకున్నారు, దొరికిన పళ్ళు తిన్నారు. కానీ మెల్లగా అడవిలో ఆహారం దొరకడం కష్టం అవుతోంది, నది ఒడ్డున నేల పగిలిపోయింది — బీటలు వారిన భూమి సూర్యుడి కింద మెరుస్తోంది. \"ఈ నది ఎండిపోతే మనకు తిండి దొరకదు,\" అని ఒంటె నిట్టూర్చింది, దాని తల వాలిపోయింది. నక్క చుట్టూ కలయచూసింది, దాని కళ్ళు ఆందోళనతో మెరిశాయి. ఒంటె దాదాపు ఎండిపోయిన నీటిగుంట వైపు చూసింది, తరువాత తన పెదవి కొరుకుతున్న నక్క వైపు దృష్టి సారించింది.",
+      "image_prompt": "The camel sighs, its head drooping as it looks at the almost dried-up waterhole. The parched earth around the waterhole is cracked and gleaming under the sun. Also in this scene: నక్క (Nakka) - A sleek, cunning fox with bright, mischievous eyes and reddish-brown fur. She is quick-witted and self-serving, always looking for an advantage. Always the same character across every scene. Harsh, bright midday sun beating down, casting sharp shadows and highlighting the dry, dusty landscape, feeling oppressive and hot.",
+      "scene_visual": "The camel sighs, its head drooping as it looks at the almost dried-up waterhole. The parched earth around the waterhole is cracked and gleaming under the sun.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojulu Iddaru Kalisi Adavilo Tirigaaru, Kathalu Cheppukunnaaru, Dorikina Pallu Tinnaaru. Kaani Mellagaa Adavilo Aahaaram Dorakadam Kashtam Avutondi, Nadi Odduna Nela Pagilipoyindi — Bitalu Vaarina Bhumi Suryudi Kinda Merustondi. \"I Nadi Endipote Manaku Tindi Dorakadu,\" Ani Onte Nitturchindi, Daani Tala Vaalipoyindi. Nakka Chuttu Kalayachusindi, Daani Kallu Aandolanato Merishaayi. Onte Daadaapu Endipoyina Nitigunta Vaipu Chusindi, Taruvaata Tana Pedavi Korukutunna Nakka Vaipu Drrishti Saarinchindi.",
+      "text_en": "For a few days, they both roamed the forest together, telling stories and eating fruits they found. But slowly, food became hard to find in the forest. The ground by the riverbank was cracked — the parched earth shimmered under the sun. \"If this river dries up, we won't have food,\" Onte sighed, its head drooping. Nakka looked around, its eyes sparkling with worry. Onte looked at the almost dry waterhole, then focused on Nakka, who was biting its lip."
+    },
+    {
+      "id": 3,
+      "text": "ఎండిపోయిన అడవిని చూసి నక్కకు ఒక ఉపాయం తట్టింది — దూరం లో ఒక నది, దాని అవతలి వైపు పచ్చని ద్వీపం కనిపించింది. ఆ ద్వీపంలో పండ్లతో నిండిన చెట్లను చూసి నక్క కళ్ళు మెరిశాయి, వెంటనే ఒంటె దగ్గరికి వచ్చి, \"మిత్రమా, నువ్వు బలంగా ఉన్నావు, నన్ను అవతలికి మోయగలవు!\" అని బతిమాలింది. ఒంటె నది వేగాన్ని చూసి కొంచెం భయపడింది, దాని కళ్ళు పెద్దవయ్యాయి. నది ఉరుముతున్న శబ్దం దాని చెవుల్లో ప్రతిధ్వనిస్తోంది. ఒంటె మెల్లగా ఒక కాలు నీళ్ళలోకి పెట్టింది, దాని శరీరం ఒక్కసారిగా వణికింది.",
+      "image_prompt": "The camel slowly places one leg into the roaring river, its large eyes wide with fear. Its body shivers slightly as the sound of the thundering river echoes in its ears. Also in this scene: నక్క (Nakka) - A sleek, cunning fox with bright, mischievous eyes and reddish-brown fur. She is quick-witted and self-serving, always looking for an advantage. Always the same character across every scene. Overcast sky, a heavy grey light reflecting off the turbulent river, making the scene feel daunting and dangerous.",
+      "scene_visual": "The camel slowly places one leg into the roaring river, its large eyes wide with fear. Its body shivers slightly as the sound of the thundering river echoes in its ears.",
+      "supporting_char_keys": [],
+      "text_te_en": "Endipoyina Adavini Chusi Nakkaku Oka Upaayam Tattindi — Duram Lo Oka Nadi, Daani Avatali Vaipu Pachchani Dvipam Kanipinchindi. Aa Dvipanlo Pandlato Nindina Chetlanu Chusi Nakka Kallu Merishaayi, Ventane Onte Daggariki Vachchi, \"Mitramaa, Nuvvu Balangaa Unnaavu, Nannu Avataliki Moyagalavu!\" Ani Batimaalindi. Onte Nadi Vegaanni Chusi Konchem Bhayapadindi, Daani Kallu Peddavayyaayi. Nadi Urumutunna Shabdam Daani Chevullo Pratidhvanistondi. Onte Mellagaa Oka Kaalu Nillaloki Pettindi, Daani Shariram Okkasaarigaa Vanikindi.",
+      "text_en": "Seeing the dry forest, an idea struck Nakka — in the distance, a river appeared, and on its other side, a green island. Nakka's eyes sparkled when it saw the fruit-laden trees on that island. It immediately went to Onte and pleaded, \"My friend, you are strong, you can carry me across!\" Onte was a little scared seeing the river's speed, its eyes widened. The roaring sound of the river echoed in its ears. Onte slowly put one leg into the water, its body trembled all at once."
+    },
+    {
+      "id": 4,
+      "text": "ఒంటె తన ప్రాణాలకు తెగించి, నక్కను వీపున ఎక్కించుకొని నదిని దాటింది, దాని పెద్ద అడుగులు నీటిలో నెమ్మదిగా కదిలాయి. ద్వీపంలోకి చేరుకోగానే నక్క పండ్ల చెట్ల వైపు పరిగెత్తింది, పండిన మామిడి పండ్ల తీయని రసం దాని ముక్కు మీద కారుతోంది. \"అబ్బా! కడుపు నిండిపోయింది, ఇప్పుడు ఒక పాట పాడాలి!\" అని నక్క గట్టిగా అరిచింది, దాని మొహంలో స్వార్థపు నవ్వు మెరిసింది. ఒంటె అలసిపోయి తల వంచుకుంది, నక్క ప్రవర్తన దానికి అర్థం కాలేదు. అకస్మాత్తుగా — దూరం నుండి కోపంగా ఉన్న మనుషుల అరుపులు వినిపించాయి.",
+      "image_prompt": "The fox shouts loudly, its face beaming with a selfish smile, as sweet mango juice drips from its nose. The camel hangs its head low, exhausted and confused by the fox's behavior. Also in this scene: నక్క (Nakka) - A sleek, cunning fox with bright, mischievous eyes and reddish-brown fur. She is quick-witted and self-serving, always looking for an advantage. Always the same character across every scene. Late afternoon sun, casting long, golden shadows across the lush island, but with an ominous, reddish glow on the horizon hinting at trouble.",
+      "scene_visual": "The fox shouts loudly, its face beaming with a selfish smile, as sweet mango juice drips from its nose. The camel hangs its head low, exhausted and confused by the fox's behavior.",
+      "supporting_char_keys": [],
+      "text_te_en": "Onte Tana Praanaalaku Teginchi, Nakkanu Vipuna Ekkinchukoni Nadini Daatindi, Daani Pedda Adugulu Nitilo Nemmadigaa Kadilaayi. Dvipanloki Cherukogaane Nakka Pandla Chetla Vaipu Parigettindi, Pandina Maamidi Pandla Tiyani Rasam Daani Mukku Mida Kaarutondi. \"Abbaa! Kadupu Nindipoyindi, Ippudu Oka Paata Paadaali!\" Ani Nakka Gattigaa Arichindi, Daani Mohanlo Svaarthapu Navvu Merisindi. Onte Alasipoyi Tala Vanchukundi, Nakka Pravartana Daaniki Artham Kaaledu. Akasmaattugaa — Duram Nundi Kopangaa Unna Manushula Arupulu Vinipinchaayi.",
+      "text_en": "Onte risked its life, carried Nakka on its back, and crossed the river, its big steps moving slowly in the water. As soon as they reached the island, Nakka ran towards the fruit trees, the sweet juice of ripe mangoes dripping on its nose. \"Ah! My tummy is full, now I must sing a song!\" Nakka shouted loudly, a selfish smile gleaming on its face. Onte, tired, bowed its head, not understanding Nakka's behavior. Suddenly — angry shouts of humans were heard from a distance."
+    },
+    {
+      "id": 5,
+      "text": "గ్రామస్తులు కర్రలతో కోపంగా వచ్చారు, ఒంటెను దొంగ అనుకొని కొట్టడం మొదలుపెట్టారు, విరిగిన కొమ్మల ఘాటైన వాసన గాలిలో నిండింది. నక్క పొదల్లోకి దూరి దాక్కుంది, ఒంటె పడే బాధను చూసి కూడా కదల్లేదు. \"అయ్యో, నక్కా! నన్ను ఒంటరిగా వదిలేసి వెళ్తున్నావా?\" అని ఒంటె బాధగా మూలిగింది, దాని కంటి నుండి ఒక కన్నీటి బొట్టు జారింది. నక్క ఒక్కసారి కూడా వెనక్కి చూడకుండా అడవిలోకి పారిపోయింది, దాని భయం దానిని నడిపించింది. ఒంటె నెమ్మదిగా నేల మీద కుప్పకూలిపోయింది, దాని చూపులు నక్క మాయమైన చోట నిలిచిపోయాయి.",
+      "image_prompt": "The camel slowly collapses onto the ground, a single tear rolling down its face. Its gaze remains fixed on the spot where the fox disappeared into the forest. Also in this scene: నక్క (Nakka) - A sleek, cunning fox with bright, mischievous eyes and reddish-brown fur. She is quick-witted and self-serving, always looking for an advantage. Always the same character across every scene. Twilight descending, a deep blue-purple hue, with the last vestiges of orange light fading, creating a somber and lonely atmosphere.",
+      "scene_visual": "The camel slowly collapses onto the ground, a single tear rolling down its face. Its gaze remains fixed on the spot where the fox disappeared into the forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Graamastulu Karralato Kopangaa Vachchaaru, Ontenu Donga Anukoni Kottadam Modalupettaaru, Virigina Kommala Ghaataina Vaasana Gaalilo Nindindi. Nakka Podalloki Duri Daakkundi, Onte Pade Baadhanu Chusi Kudaa Kadalledu. \"Ayyo, Nakkaa! Nannu Ontarigaa Vadilesi Veltunnaavaa?\" Ani Onte Baadhagaa Muligindi, Daani Kanti Nundi Oka Kanniti Bottu Jaarindi. Nakka Okkasaari Kudaa Venakki Chudakundaa Adaviloki Paaripoyindi, Daani Bhayam Daanini Nadipinchindi. Onte Nemmadigaa Nela Mida Kuppakulipoyindi, Daani Chupulu Nakka Maayamaina Chota Nilichipoyaayi.",
+      "text_en": "The villagers came angrily with sticks and started beating Onte, thinking it was a thief. The sharp smell of broken branches filled the air. Nakka slipped into the bushes and hid, not moving even after seeing Onte's pain. \"Oh, Nakka! Are you leaving me alone?\" Onte groaned sadly, a tear rolling down its eye. Nakka ran into the forest without looking back even once, driven by its fear. Onte slowly collapsed onto the ground, its gaze fixed on where Nakka had disappeared."
+    },
+    {
+      "id": 6,
+      "text": "గాయాలతో ఒంటె మెల్లగా కదిలింది, ఒక చిన్న గుప్త సెలయేరును కనుగొంది, దాని చల్లని నీళ్ళు దాహాన్ని తీర్చాయి. ఆ నీటి రుచి దాని ప్రాణాలను తిరిగి తెచ్చింది. ఇంతలో నది వైపు నుండి ఒక దీనమైన అరుపు వినిపించింది — నక్క గొంతు వణుకుతోంది, వరద పెరిగి అది చిక్కుకుపోయింది. \"ఓ అంటె, ఓ అంటె! నన్ను రక్షించు! నన్ను నీవు తప్ప ఎవ్వరూ రక్షించలేరు!\" అని నక్క కేకలు వేసింది. ఒంటె కోపంగా నిట్టూర్చింది, కానీ దాని మనసులో దయ తొంగిచూసింది. ఒంటె నెమ్మదిగా తల తిప్పి, ప్రవహించే నది అవతల నక్క దీనమైన చూపులను కలిసింది.",
+      "image_prompt": "The camel slowly turns its head, its gaze meeting the fox's desperate eyes across the flowing river. The fox's voice trembles as it cries out for help, trapped by the rising floodwaters. Also in this scene: నక్క (Nakka) - A sleek, cunning fox with bright, mischievous eyes and reddish-brown fur. She is quick-witted and self-serving, always looking for an advantage. Always the same character across every scene. Moonlit night, with silver light reflecting off the rapidly rising river, casting dramatic shadows and highlighting Nakka's desperate face.",
+      "scene_visual": "The camel slowly turns its head, its gaze meeting the fox's desperate eyes across the flowing river. The fox's voice trembles as it cries out for help, trapped by the rising floodwaters.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gaayaalato Onte Mellagaa Kadilindi, Oka Chinna Gupta Selayerunu Kanugondi, Daani Challani Nillu Daahaanni Tirchaayi. Aa Niti Ruchi Daani Praanaalanu Tirigi Techchindi. Intalo Nadi Vaipu Nundi Oka Dinamaina Arupu Vinipinchindi — Nakka Gontu Vanukutondi, Varada Perigi Adi Chikkukupoyindi. \"O Ante, O Ante! Nannu Rakshinchu! Nannu Nivu Tappa Evvaru Rakshinchaleru!\" Ani Nakka Kekalu Vesindi. Onte Kopangaa Nitturchindi, Kaani Daani Manasulo Daya Tongichusindi. Onte Nemmadigaa Tala Tippi, Pravahinche Nadi Avatala Nakka Dinamaina Chupulanu Kalisindi.",
+      "text_en": "Wounded, Onte slowly moved and found a small hidden stream. Its cool water quenched its thirst. The taste of that water brought its life back. Meanwhile, a pitiful cry was heard from the river — Nakka's voice was trembling, caught in the rising flood. \"Oh Onte, Oh Onte! Save me! No one but you can save me!\" Nakka screamed. Onte sighed angrily, but kindness peeked through its heart. Onte slowly turned its head and met Nakka's desperate gaze across the flowing river."
+    },
+    {
+      "id": 7,
+      "text": "తన బాధను మరిచి, ఒంటె మెల్లగా నదిలోకి అడుగు పెట్టింది, దాని వీపున నక్కను జాగ్రత్తగా ఎక్కించుకుంది. నక్క చలితో వణుకుతూ ఒంటె శరీరాన్ని గట్టిగా పట్టుకుంది, దాని తడి బొచ్చు ఒంటెకు చల్లగా అనిపించింది. ప్రమాదకరమైన ప్రవాహాన్ని దాటి ఒంటె నక్కను ఒడ్డుకు చేర్చింది, దాని చూపుల్లో శాంతం తొంగిచూసింది. \"నువ్వు చూపిన దయకు నేను ఎప్పటికీ రుణపడి ఉంటాను, అంటె,\" అని నక్క తల వంచుకుంది, దాని గొంతులో నిజమైన పశ్చాత్తాపం వినిపించింది. అప్పటి నుండి నక్క ఒంటెకు నిజమైన స్నేహితురాలిగా మారింది, దాని విశ్వాసం ఎన్నటికీ చెదరలేదు.",
+      "image_prompt": "The fox bows its head low, its voice filled with genuine remorse, as the camel looks on peacefully. Its wet fur feels cool against the camel's body, a reminder of the dangerous currents they just crossed. Also in this scene: నక్క (Nakka) - A sleek, cunning fox with bright, mischievous eyes and reddish-brown fur. She is quick-witted and self-serving, always looking for an advantage. Always the same character across every scene. Early dawn, a soft, pale pink and orange light breaking over the horizon, illuminating the two animals safely on the riverbank, serene and hopeful.",
+      "scene_visual": "The fox bows its head low, its voice filled with genuine remorse, as the camel looks on peacefully. Its wet fur feels cool against the camel's body, a reminder of the dangerous currents they just crossed.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Baadhanu Marichi, Onte Mellagaa Nadiloki Adugu Pettindi, Daani Vipuna Nakkanu Jaagrattagaa Ekkinchukundi. Nakka Chalito Vanukutu Onte Shariraanni Gattigaa Pattukundi, Daani Tadi Bochchu Onteku Challagaa Anipinchindi. Pramaadakaramaina Pravaahaanni Daati Onte Nakkanu Odduku Cherchindi, Daani Chupullo Shaantam Tongichusindi. \"Nuvvu Chupina Dayaku Nenu Eppatiki Runapadi Untaanu, Ante,\" Ani Nakka Tala Vanchukundi, Daani Gontulo Nijamaina Pashchaattaapam Vinipinchindi. Appati Nundi Nakka Onteku Nijamaina Snehituraaligaa Maarindi, Daani Vishvaasam Ennatiki Chedaraledu.",
+      "text_en": "Forgetting its pain, Onte slowly stepped into the river and carefully took Nakka onto its back. Nakka, trembling with cold, held tightly to Onte's body; its wet fur felt cool to Onte. Crossing the dangerous current, Onte brought Nakka to the bank, peace shining in its eyes. \"I will forever be grateful for your kindness, Onte,\" Nakka bowed its head, true regret heard in its voice. From that day on, Nakka became Onte's true friend, its loyalty never wavering."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 6.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 4,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 8,
+    "average": 6.67,
+    "weakest_dimension": "emotional_depth",
+    "notes": "The story presents a compelling narrative arc with good potential for child engagement, featuring clear plot points and suspense. However, its primary weakness lies in 'emotional_depth,' as feelings are frequently stated directly rather than shown through character actions, body language, or subtle dialogue. Additionally, the 'grandmother_authenticity' is inconsistent, often leaning towards a more formal, literary style instead of a warm, oral storytelling voice. To reach a 9+, the author should focus on embodying emotions through character behavior and adopting a consistently colloquial, conversational tone in the narration."
+  },
+  "quality_warning": true,
+  "title_te_en": "Nakka Mosan, Onte Daya",
+  "moral_te_en": "Evarainaa Manalni Mosam Chesinaa, Manam Dayagaa Undatame Nijamaina Balan, Adi Eppudo Okappudu Manchini Tisukostundi.",
+  "title_en": "Nakka's Deceit, Onte's Kindness",
+  "moral_en": "Even if someone deceives us, our kindness is our true strength, and it will bring good in the end.",
+  "id": "20260531_131132",
+  "date": "2026-05-31",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - ఆపదలో ఒంటె మరియు నక్క నిజమైన స్నేహం",
+  "thumbnail": "stories/20260531_131132/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
