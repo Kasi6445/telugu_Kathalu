@@ -1,0 +1,114 @@
+{
+  "title": "తెనాలి తెలివి: జ్యోతిష్యుడి గుట్టు",
+  "moral": "నిజమైన తెలివి కళ్ళతో చూసి, మనసుతో ఆలోచించి తెలుసుకునేది, గుడ్డిగా నమ్మేది కాదు.",
+  "main_character": "Tenali Ramakrishna: He is a witty and intelligent poet-jester in the court of Emperor Krishnadevaraya. Known for his sharp intellect, quick thinking, and ability to solve complex problems with humor and cleverness. Always the same character across every scene.",
+  "antagonist": "The Fortune-telling Thief: A portly man with shifty eyes and a greasy, black beard. He wears a gaudy, oversized turban of bright red and tattered, once-fine silk robes of deep purple, carrying a worn leather satchel filled with dubious \"prophecy\" tools. Always the same character across every scene.",
+  "setting": "The bustling city of Vijayanagara, during the reign of Emperor Krishnadevaraya. The royal palace courtyards, crowded marketplaces filled with vibrant stalls, and dusty village roads are prominent. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర సామ్రాజ్యంలో, శ్రీకృష్ణదేవరాయల ఆస్థానం నవ్వులతో నిండిపోయింది. తెనాలి రామకృష్ణుడు మహారాజు వైపు చూసి, కళ్ళతోనే అల్లరి నవ్వు నవ్వాడు. ఆయన ఒక చిక్కు ప్రశ్న వేశాడు — మహారాజు ఆలోచనలో పడ్డాడు. \"మహారాజా, మూడు కాళ్ళ మేక ఒకేసారి నాలుగు దారులు ఎలా దాటగలదు?\" అని తెనాలి అడిగాడు. మహారాజు ముఖం మీద ప్రశ్నార్ధకం కనిపించింది, కానీ తెనాలి పెదవులపై చిలిపి నవ్వు మెరిసింది. ఆస్థానమంతా ఆయన సమాధానం కోసం ఎదురుచూసింది.",
+      "image_prompt": "The boy looks towards the king, his eyes twinkling as he poses a puzzling question. A mischievous smile plays on the boy's lips, contrasting with the king's puzzled expression. Bright midday sun streaming through large arched windows, illuminating the vibrant colors of the court, creating a lively, regal atmosphere.",
+      "scene_visual": "The boy looks towards the king, his eyes twinkling as he poses a puzzling question. A mischievous smile plays on the boy's lips, contrasting with the king's puzzled expression.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Vijayanagara Saamraajyanlo, Shrikrrishnadevaraayala Aasthaanam Navvulato Nindipoyindi. Tenaali Raamakrrishnudu Mahaaraaju Vaipu Chusi, Kallatone Allari Navvu Navvaadu. Aayana Oka Chikku Prashna Veshaadu — Mahaaraaju Aalochanalo Paddaadu. \"Mahaaraajaa, Mudu Kaalla Meka Okesaari Naalugu Daarulu Elaa Daatagaladu?\" Ani Tenaali Adigaadu. Mahaaraaju Mukham Mida Prashnaardhakam Kanipinchindi, Kaani Tenaali Pedavulapai Chilipi Navvu Merisindi. Aasthaanamantaa Aayana Samaadhaanam Kosam Eduruchusindi.",
+      "text_en": "In the Vijayanagara Empire, King Sri Krishnadevaraya's court was filled with laughter. Tenali Ramakrishna looked at the King and gave a mischievous smile with his eyes. He asked a tricky question — the King fell into thought. \"Maharaja, how can a three-legged goat cross four paths at once?\" Tenali asked. A question mark appeared on the King's face, but a playful smile sparkled on Tenali's lips. The whole court waited for his answer."
+    },
+    {
+      "id": 2,
+      "text": "కొద్ది రోజుల్లోనే, విజయనగరంలో ఒక వింత జ్యోతిష్యుడు ప్రత్యక్షమయ్యాడు. అతను పోయిన వస్తువుల గురించి, భవిష్యత్తు గురించి అద్భుతంగా చెప్తున్నాడని అంతా గుసగుసలాడారు. అతని దగ్గర రాగి నాణేలు గలగలమని మోగుతూ ఉండేవి, ప్రజలు ఎంతో ఆత్రుతగా ఆయనకు డబ్బులు చెల్లించేవారు. \"అతను నిజంగా భవిష్యత్తును చెప్పగలడు! నా పోయిన గొర్రెను ఎక్కడ ఉందో చెప్పాడు!\" అని ఒక రైతు ఆశ్చర్యంతో చెప్పాడు. ఆ జ్యోతిష్యుడు ఒక మాయగాడిలా ఆకాశం వైపు చెయ్యి చూపించాడు — చూస్తున్న వారందరూ కళ్ళు పెద్దవి చేసి చూశారు.",
+      "image_prompt": "The astrologer dramatically points one hand upwards towards the sky. Onlookers gaze at him with wide, captivated eyes, their faces reflecting awe. Also in this scene: The Fortune-telling Thief: A portly man with shifty eyes and a greasy, black beard. He wears a gaudy, oversized turban of bright red and tattered, once-fine silk robes of deep purple, carrying a worn leather satchel filled with dubious \"prophecy\" tools. Always the same character across every scene. Harsh midday sun beating down on a dusty marketplace, casting long shadows from crowded stalls, creating a bustling, slightly chaotic feel.",
+      "scene_visual": "The astrologer dramatically points one hand upwards towards the sky. Onlookers gaze at him with wide, captivated eyes, their faces reflecting awe.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koddi Rojullone, Vijayanagaranlo Oka Vinta Jyotishyudu Pratyakshamayyaadu. Atanu Poyina Vastuvula Gurinchi, Bhavishyattu Gurinchi Adbhutangaa Cheptunnaadani Antaa Gusagusalaadaaru. Atani Daggara Raagi Naanelu Galagalamani Mogutu Undevi, Prajalu Ento Aatrutagaa Aayanaku Dabbulu Chellinchevaaru. \"Atanu Nijangaa Bhavishyattunu Cheppagaladu! Naa Poyina Gorrenu Ekkada Undo Cheppaadu!\" Ani Oka Raitu Aashcharyanto Cheppaadu. Aa Jyotishyudu Oka Maayagaadilaa Aakaasham Vaipu Cheyyi Chupinchaadu — Chustunna Vaarandaru Kallu Peddavi Chesi Chushaaru.",
+      "text_en": "In a few days, a strange astrologer appeared in Vijayanagara. Everyone whispered that he could wonderfully tell about lost things and the future. Copper coins jingled near him, and people eagerly paid him money. \"He can truly tell the future! He told me where my lost sheep was!\" a farmer said in surprise. The astrologer pointed his hand towards the sky like a magician — everyone watching widened their eyes."
+    },
+    {
+      "id": 3,
+      "text": "ఆ జ్యోతిష్యుడి పేరు నగరమంతా పాకింది. మహారాజు శ్రీకృష్ణదేవరాయలకు కూడా అతని గురించి వార్తలు చేరాయి. ప్రజలు గుడ్డిగా నమ్ముతున్నారని ఆయనకు ఆందోళన కలిగింది. తన చేతిలో ఉన్న పాత తాళపత్రం చింతగా నలిపాడు. \"ప్రజలు అతని మాటలు గుడ్డిగా నమ్ముతున్నారు, రామకృష్ణా\" అని మహారాజు నెమ్మదిగా అన్నాడు. తెనాలి రామకృష్ణుడు మహారాజు కళ్ళలో ఆందోళన చూశాడు — పరిస్థితి తీవ్రత అతనికి అర్థమైంది. అప్పుడే అతని మనసులో ఒక ఆలోచన మెరిసింది.",
+      "image_prompt": "The king slowly crumples an old palm leaf in his hand, his gaze fixed on the boy. A look of deep concern is visible in the king's eyes as the boy observes him. Soft, golden late afternoon light filtering through intricate lattice windows in the Emperor's private study, lending a contemplative and serious mood.",
+      "scene_visual": "The king slowly crumples an old palm leaf in his hand, his gaze fixed on the boy. A look of deep concern is visible in the king's eyes as the boy observes him.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Aa Jyotishyudi Peru Nagaramantaa Paakindi. Mahaaraaju Shrikrrishnadevaraayalaku Kudaa Atani Gurinchi Vaartalu Cheraayi. Prajalu Guddigaa Nammutunnaarani Aayanaku Aandolana Kaligindi. Tana Chetilo Unna Paata Taalapatram Chintagaa Nalipaadu. \"Prajalu Atani Maatalu Guddigaa Nammutunnaaru, Raamakrrishnaa\" Ani Mahaaraaju Nemmadigaa Annaadu. Tenaali Raamakrrishnudu Mahaaraaju Kallalo Aandolana Chushaadu — Paristhiti Tivrata Ataniki Arthamaindi. Appude Atani Manasulo Oka Aalochana Merisindi.",
+      "text_en": "The astrologer's name spread throughout the city. News about him also reached King Sri Krishnadevaraya. He felt worried that people were blindly believing him. He anxiously crumpled an old palm leaf manuscript in his hand. \"People are blindly believing his words, Ramakrishna,\" the King said slowly. Tenali Ramakrishna saw the worry in the King's eyes — he understood the seriousness of the situation. Just then, an idea sparked in his mind."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి రామకృష్ణుడు ఒక సామాన్య గ్రామీణుడి వేషం వేసుకున్నాడు. అతను మార్కెట్లోకి వెళ్ళి, ఆ జ్యోతిష్యుడిని రహస్యంగా గమనించసాగాడు. చుట్టూ ఉన్న పువ్వుల సువాసన, మట్టి వాసన కూడా అతనికి అంటలేదు — అంత శ్రద్ధగా చూశాడు. జ్యోతిష్యుడు ప్రజల మాటలను మెల్లగా వినడం, ఆ తర్వాత వాటిని తన అంచనాలుగా చెప్పడం తెనాలి గమనించాడు. \"ఇతను భవిష్యత్తు చెప్పడం లేదు... ప్రజలను చదువుతున్నాడు\" అని తెనాలి తనలో తాను అనుకున్నాడు. జ్యోతిష్యుడు అటుగా వెళ్ళే వారి మాటలు వింటూనే, కొత్తగా వచ్చిన వాళ్ళకు 'భవిష్యత్తు' చెప్పడం తెనాలి కళ్ళతో చూశాడు.",
+      "image_prompt": "Disguised as a common villager, the boy intently watches the astrologer from a distance in the bustling market. He is so focused on observing that he seems oblivious to the surrounding scents of flowers and earth. Also in this scene: The Fortune-telling Thief: A portly man with shifty eyes and a greasy, black beard. He wears a gaudy, oversized turban of bright red and tattered, once-fine silk robes of deep purple, carrying a worn leather satchel filled with dubious \"prophecy\" tools. Always the same character across every scene. Bright, high sun in the busy marketplace, creating strong contrasts of light and shadow, highlighting the crowded, lively atmosphere.",
+      "scene_visual": "Disguised as a common villager, the boy intently watches the astrologer from a distance in the bustling market. He is so focused on observing that he seems oblivious to the surrounding scents of flowers and earth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Raamakrrishnudu Oka Saamaanya Graaminudi Vesham Vesukunnaadu. Atanu Maarketloki Velli, Aa Jyotishyudini Rahasyangaa Gamaninchasaagaadu. Chuttu Unna Puvvula Suvaasana, Matti Vaasana Kudaa Ataniki Antaledu — Anta Shraddhagaa Chushaadu. Jyotishyudu Prajala Maatalanu Mellagaa Vinadan, Aa Tarvaata Vaatini Tana Anchanaalugaa Cheppadam Tenaali Gamaninchaadu. \"Itanu Bhavishyattu Cheppadam Ledu... Prajalanu Chaduvutunnaadu\" Ani Tenaali Tanalo Taanu Anukunnaadu. Jyotishyudu Atugaa Velle Vaari Maatalu Vintune, Kottagaa Vachchina Vaallaku 'Bhavishyattu' Cheppadam Tenaali Kallato Chushaadu.",
+      "text_en": "Tenali Ramakrishna disguised himself as a common villager. He went to the market and secretly began to observe the astrologer. The scent of flowers and the smell of earth around him didn't even register — he watched so carefully. Tenali noticed the astrologer quietly listening to people's words, and then presenting them as his predictions. \"He isn't telling the future... he's reading people,\" Tenali thought to himself. Tenali saw with his own eyes the astrologer listening to passersby, and then telling the 'future' to newcomers."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి రామకృష్ణుడు మహారాజు దగ్గరికి వచ్చి, తాను చూసినదంతా వివరించాడు. ఆ జ్యోతిష్యుడి మోసాన్ని ఎలా బయటపెట్టాలో ఒక ఉపాయం కూడా చెప్పాడు. \"మహారాజా, ఆ దొంగ జ్యోతిష్యుడి మోసాన్ని బయటపెట్టడానికి నాకు ఒక ఉపాయం ఉంది\" అని తెనాలి తన గొంతు తగ్గించి, మెల్లగా చెప్పాడు. మహారాజు కళ్ళు కొద్దిగా పెద్దవి అయ్యాయి — ఆ తర్వాత అతని ముఖం మీద ఒక నవ్వు మెల్లిగా వికసించింది. తెనాలి ఒక కుట్రదారుడిలా నవ్వి, తన ప్రణాళికను వివరించాడు.",
+      "image_prompt": "The boy leans in and speaks softly to the king, outlining his plan to expose the fraud. The king's eyes widen slightly in surprise, then a slow smile spreads across his face as the boy grins conspiratorially. Warm candlelight in a private chamber of the palace, casting flickering shadows on the ornate tapestries, creating an intimate and conspiratorial mood.",
+      "scene_visual": "The boy leans in and speaks softly to the king, outlining his plan to expose the fraud. The king's eyes widen slightly in surprise, then a slow smile spreads across his face as the boy grins conspiratorially.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Raamakrrishnudu Mahaaraaju Daggariki Vachchi, Taanu Chusinadantaa Vivarinchaadu. Aa Jyotishyudi Mosaanni Elaa Bayatapettaalo Oka Upaayam Kudaa Cheppaadu. \"Mahaaraajaa, Aa Donga Jyotishyudi Mosaanni Bayatapettadaaniki Naaku Oka Upaayam Undi\" Ani Tenaali Tana Gontu Tagginchi, Mellagaa Cheppaadu. Mahaaraaju Kallu Koddigaa Peddavi Ayyaayi — Aa Tarvaata Atani Mukham Mida Oka Navvu Melligaa Vikasinchindi. Tenaali Oka Kutradaarudilaa Navvi, Tana Pranaalikanu Vivarinchaadu.",
+      "text_en": "Tenali Ramakrishna came to the King and explained everything he had seen. He also told him a trick to expose the astrologer's fraud. \"Maharaja, I have a plan to expose that fake astrologer's trickery,\" Tenali said softly, lowering his voice. The King's eyes widened a little — then a smile slowly bloomed on his face. Tenali smiled like a conspirator and explained his plan."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి ఆ జ్యోతిష్యుడిని రాజభవనానికి పిలిపించాడు. రాజ ఖజానా నుండి ఏదో 'దొంగిలించబడింది' అని చెప్పి, దాని జాడ చెప్పమని అడిగాడు. \"ఓ గొప్ప జ్యోతిష్యుడా, మా రాజ ఖజానా నుండి దొంగిలించబడిన నిధి ఎక్కడ ఉందో చెప్పగలవా?\" అని తెనాలి అడిగాడు. జ్యోతిష్యుడి నుదుటిపై చెమట బిందువులు కనిపించాయి — అతను చాలా కంగారు పడ్డాడు. తనకి తెలిసిన వివరాలు లేక, ఎటు చూడాలో తెలియక, రాజభవనం తోట వైపు వేలు చూపించాడు — కేవలం ఊహిస్తున్నాడు.",
+      "image_prompt": "The astrologer stands before the boy, nervously pointing a finger vaguely towards the palace garden. Beads of sweat are visible on the astrologer's forehead, betraying his extreme anxiety. Also in this scene: The Fortune-telling Thief: A portly man with shifty eyes and a greasy, black beard. He wears a gaudy, oversized turban of bright red and tattered, once-fine silk robes of deep purple, carrying a worn leather satchel filled with dubious \"prophecy\" tools. Always the same character across every scene. Bright, formal lighting from numerous oil lamps and torches in the grand audience hall, creating a sense of drama and expectation, with sharp contrasts on faces.",
+      "scene_visual": "The astrologer stands before the boy, nervously pointing a finger vaguely towards the palace garden. Beads of sweat are visible on the astrologer's forehead, betraying his extreme anxiety.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Aa Jyotishyudini Raajabhavanaaniki Pilipinchaadu. Raaja Khajaanaa Nundi Edo 'Dongilinchabadindi' Ani Cheppi, Daani Jaada Cheppamani Adigaadu. \"O Goppa Jyotishyudaa, Maa Raaja Khajaanaa Nundi Dongilinchabadina Nidhi Ekkada Undo Cheppagalavaa?\" Ani Tenaali Adigaadu. Jyotishyudi Nudutipai Chemata Binduvulu Kanipinchaayi — Atanu Chaalaa Kangaaru Paddaadu. Tanaki Telisina Vivaraalu Leka, Etu Chudaalo Teliyaka, Raajabhavanam Tota Vaipu Velu Chupinchaadu — Kevalam Uhistunnaadu.",
+      "text_en": "Tenali called the astrologer to the royal palace. He told him that something had been 'stolen' from the royal treasury and asked him to tell its whereabouts. \"Oh great astrologer, can you tell us where the stolen treasure from our royal treasury is?\" Tenali asked. Drops of sweat appeared on the astrologer's forehead — he was very nervous. Not knowing any details and unsure where to look, he pointed his finger towards the palace garden — he was just guessing."
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి రామకృష్ణుడు అప్పుడు నిజం బయటపెట్టాడు. ఆ 'దొంగిలించబడిన' నిధి కేవలం ఒక మట్టి సంచి మాత్రమేనని, దాన్ని తానే ఒక చోట పెట్టి, మళ్ళీ తీసేశానని చెప్పాడు. జ్యోతిష్యుడి చేతిలో ఉన్న అద్దం ఒక్కసారిగా కిందపడి, టప్పున శబ్దం చేస్తూ పగిలిపోయింది. మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? \"నన్ను క్షమించండి మహారాజా, నేను కేవలం ఒక మోసగాడిని\" అని జ్యోతిష్యుడు తల దించుకున్నాడు. ఆ నిజం అందరికీ అర్థమైంది — తెనాలి ముఖం మీద శాంతమైన నవ్వు వికసించింది.",
+      "image_prompt": "The astrologer's mirror slips from his grasp and shatters loudly on the ground. He hangs his head in shame, while the boy looks on with a calm, knowing smile. Also in this scene: The Fortune-telling Thief: A portly man with shifty eyes and a greasy, black beard. He wears a gaudy, oversized turban of bright red and tattered, once-fine silk robes of deep purple, carrying a worn leather satchel filled with dubious \"prophecy\" tools. Always the same character across every scene. Gentle dusk light, warm amber, filtering through the palace windows, casting a peaceful glow on the scene of justice and resolution.",
+      "scene_visual": "The astrologer's mirror slips from his grasp and shatters loudly on the ground. He hangs his head in shame, while the boy looks on with a calm, knowing smile.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Raamakrrishnudu Appudu Nijam Bayatapettaadu. Aa 'Dongilinchabadina' Nidhi Kevalam Oka Matti Sanchi Maatramenani, Daanni Taane Oka Chota Petti, Malli Tiseshaanani Cheppaadu. Jyotishyudi Chetilo Unna Addam Okkasaarigaa Kindapadi, Tappuna Shabdam Chestu Pagilipoyindi. Miku Telusaa, Appudu Em Jarigindo? \"Nannu Kshaminchandi Mahaaraajaa, Nenu Kevalam Oka Mosagaadini\" Ani Jyotishyudu Tala Dinchukunnaadu. Aa Nijam Andariki Arthamaindi — Tenaali Mukham Mida Shaantamaina Navvu Vikasinchindi.",
+      "text_en": "Tenali Ramakrishna then revealed the truth. He said that the 'stolen' treasure was just a bag of mud, which he himself had placed somewhere and then removed. The mirror in the astrologer's hand suddenly fell to the ground and shattered with a 'tap' sound. Do you know what happened then? \"Forgive me, Maharaja, I am just a fraud,\" the astrologer said, bowing his head. Everyone understood the truth — a calm smile bloomed on Tenali's face."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "emperor",
+      "description": "Emperor Krishnadevaraya: A majestic and wise ruler with a strong, noble face and a neatly trimmed beard. He wears rich, embroidered silk robes in royal blue and a jeweled crown, often seen with a thoughtful expression. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 7,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 7,
+    "child_engagement": 8,
+    "average": 7.67,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story boasts excellent grammar and a warm, engaging narrative voice, making it a pleasant read. However, its primary weakness lies in dialogue richness; characters lack distinct voices, and not every scene features direct speech, which can flatten the narrative. To reach an award-worthy 9+, focus on crafting unique voices for each character and allowing the story's profound moral to unfold naturally through the events, rather than stating it upfront. This would deepen the emotional impact and encourage children to discover the lesson themselves."
+  },
+  "quality_warning": true,
+  "title_te_en": "Tenaali Telivi: Jyotishyudi Guttu",
+  "moral_te_en": "Nijamaina Telivi Kallato Chusi, Manasuto Aalochinchi Telusukunedi, Guddigaa Nammedi Kaadu.",
+  "title_en": "Tenali's Cleverness: The Astrologer's Secret",
+  "moral_en": "True wisdom comes from seeing with your eyes and thinking with your mind, not from blindly believing.",
+  "id": "20260531_161052",
+  "date": "2026-05-31",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు భవిష్యత్ చెప్పే దొంగ జ్యోతిష్యుడు",
+  "thumbnail": "stories/20260531_161052/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
