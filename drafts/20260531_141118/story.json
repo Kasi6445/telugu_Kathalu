@@ -1,0 +1,117 @@
+{
+  "title": "కలలు నేసే లలిత",
+  "moral": "నీ ప్రత్యేకతను పంచుకుంటే, అది నీకే కాదు, ప్రపంచానికీ ఆనందాన్నిస్తుంది.",
+  "main_character": "A slender young woman in her early twenties, with nimble fingers and large, expressive eyes that often seem to be looking at something beyond the immediate world. She wears simple, hand-spun cotton clothes dyed with natural colors, often with a small, colourful motif she's experimenting with. She is a quiet, observant dreamer who expresses her deepest feelings through her weaving. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A bustling, sun-drenched village named 'స్వప్నపురం' (Swapnapuram - Dream Village) in rural Andhra Pradesh, nestled beside the gentle flow of the Godavari river. The air is filled with the scent of jasmine and freshly tilled earth, and the sounds of distant temple bells and children's laughter echo through the narrow lanes. The story takes place over several days, from bright mornings to warm afternoons. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లలిత తన మగ్గం దగ్గర కూర్చుని, రంగురంగుల దారాలను వేగంగా మారుస్తూ చీర నేస్తుంది. ఆమె వేళ్ళు దారాల మధ్య నాట్యం చేస్తున్నాయి, పెదవులపై చిరునవ్వు మెరుస్తోంది. మగ్గం నుండి 'థ్వాక్-థ్వాక్' మనే శబ్దం లయబద్ధంగా వినిపిస్తుంది. \"ఈ ఆకుపచ్చ రంగు, ఆ కొండల పచ్చదనం... నా కలలో చూసినట్లే ఉంది,\" అని ఆమె గుసగుసలాడింది. ఆ క్షణంలో, నేస్తున్న చీర ఒక అద్భుతమైన మెరుపుతో జిగేల్మంది — కలలోని అందాలు మగ్గంపై నిజమవుతున్నాయి.",
+      "image_prompt": "The weaver sits at her loom, rapidly changing colorful threads as she weaves a saree. As she works, the saree on the loom suddenly shimmers with a wonderful, magical sparkle. Soft, warm morning sunlight filtering through the open doorway of a small, mud-walled weaving hut, illuminating dust motes dancing in the air, peaceful and golden.",
+      "scene_visual": "The weaver sits at her loom, rapidly changing colorful threads as she weaves a saree. As she works, the saree on the loom suddenly shimmers with a wonderful, magical sparkle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lalita Tana Maggam Daggara Kurchuni, Rangurangula Daaraalanu Vegangaa Maarustu Chira Nestundi. Aame Vellu Daaraala Madhya Naatyam Chestunnaayi, Pedavulapai Chirunavvu Merustondi. Maggam Nundi 'Thvaak-Thvaak' Mane Shabdam Layabaddhangaa Vinipistundi. \"I Aakupachcha Rangu, Aa Kondala Pachchadanan... Naa Kalalo Chusinatle Undi,\" Ani Aame Gusagusalaadindi. Aa Kshananlo, Nestunna Chira Oka Adbhutamaina Meruputo Jigelmandi — Kalaloni Andaalu Maggampai Nijamavutunnaayi.",
+      "text_en": "Lalita sat at her loom, quickly changing colorful threads and weaving a saree. Her fingers danced among the threads, and a small smile shone on her lips. The 'thwack-thwack' sound from the loom was rhythmic. \"This green color, the greenery of those mountains... it's just like I saw in my dream,\" she whispered. At that moment, the saree she was weaving shimmered with a wonderful sparkle — the beauty from her dreams was coming true on the loom."
+    },
+    {
+      "id": 2,
+      "text": "స్వప్నపురం సంతలో, లలిత తన చీరలను జాగ్రత్తగా పరిచింది — ఆమె చూపులు ఆశగా కొనుగోలుదారులను వెతుకుతున్నాయి. చుట్టూ పసుపు, మసాలా దినుసుల ఘాటైన వాసన నిండి ఉన్నా, ఆమె చీరల అందాన్ని ఎవరూ పట్టించుకోలేదు. జనం పక్కనుండి వెళ్ళిపోతుంటే, ఆమె భుజాలు మెల్లగా వాలిపోయాయి. \"అందమైన చీరలే, లలితా, కానీ కొనుగోలుదారులు 'ఆచరణాత్మకమైనవి' కోరుకుంటారు,\" అని ఆమె తల్లి మెల్లగా అంది. లలిత తల్లి నిట్టూర్చి, అమ్ముడుపోని చీరల కుప్పను చూస్తూ ఆందోళనగా తల ఊపింది.",
+      "image_prompt": "The weaver sits among her carefully displayed sarees, her gaze anxiously searching for potential buyers. As people walk past, her shoulders slowly slump, reflecting her growing disappointment. Bright, bustling midday sun beating down on the vibrant village market, casting sharp shadows from canvas awnings, lively but with an underlying hint of struggle.",
+      "scene_visual": "The weaver sits among her carefully displayed sarees, her gaze anxiously searching for potential buyers. As people walk past, her shoulders slowly slump, reflecting her growing disappointment.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Svapnapuram Santalo, Lalita Tana Chiralanu Jaagrattagaa Parichindi — Aame Chupulu Aashagaa Konugoludaarulanu Vetukutunnaayi. Chuttu Pasupu, Masaalaa Dinusula Ghaataina Vaasana Nindi Unnaa, Aame Chirala Andaanni Evaru Pattinchukoledu. Janam Pakkanundi Vellipotunte, Aame Bhujaalu Mellagaa Vaalipoyaayi. \"Andamaina Chirale, Lalitaa, Kaani Konugoludaarulu 'Aacharanaatmakamainavi' Korukuntaaru,\" Ani Aame Talli Mellagaa Andi. Lalita Talli Nitturchi, Ammuduponi Chirala Kuppanu Chustu Aandolanagaa Tala Upindi.",
+      "text_en": "At the Swapnapura market, Lalita carefully displayed her sarees — her eyes eagerly searched for buyers. Even though the air was filled with the strong smell of turmeric and spices, no one noticed the beauty of her sarees. As people walked past, her shoulders slowly drooped. \"They are beautiful sarees, Lalita, but buyers want 'practical' ones,\" her mother gently said. Lalita's mother sighed, shaking her head worriedly as she looked at the pile of unsold sarees."
+    },
+    {
+      "id": 3,
+      "text": "అమ్ముడుపోని చీరల బాధతో, లలిత తన మగ్గం దగ్గర నిరాశగా కూర్చుంది. ఆమె నుదురు ముడతలు పడింది, సాధారణ చీర నేయడానికి ఆమె చేతులు తడబడుతున్నాయి — మునుపటి లయ లేదు. మగ్గం నుండి 'ఢప్' అని నిస్తేజంగా శబ్దం వినిపిస్తుంది. \"నా చేతులకు ఈ సాధారణ నమూనాలను నేయడం రావడం లేదు... నా మనసు అంగీకరించడం లేదు,\" అని ఆమె ఆవేదనగా అంది. ఆ పక్కనే దాచి ఉంచిన తన కలల దారాల మూట వైపు దీనంగా చూసింది.",
+      "image_prompt": "The weaver sits dejectedly at her loom, her hands fumbling as she tries to weave a simple saree. Her brow is furrowed with frustration, and she gazes longingly at a hidden bundle of colorful dream threads beside her. The interior of the weaving hut is dimmer now, with the afternoon sun casting long, pale shadows through the window, reflecting Lalita's inner gloom and uncertainty.",
+      "scene_visual": "The weaver sits dejectedly at her loom, her hands fumbling as she tries to weave a simple saree. Her brow is furrowed with frustration, and she gazes longingly at a hidden bundle of colorful dream threads beside her.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ammuduponi Chirala Baadhato, Lalita Tana Maggam Daggara Niraashagaa Kurchundi. Aame Nuduru Mudatalu Padindi, Saadhaarana Chira Neyadaaniki Aame Chetulu Tadabadutunnaayi — Munupati Laya Ledu. Maggam Nundi 'Dhap' Ani Nistejangaa Shabdam Vinipistundi. \"Naa Chetulaku I Saadhaarana Namunaalanu Neyadam Raavadam Ledu... Naa Manasu Angikarinchadam Ledu,\" Ani Aame Aavedanagaa Andi. Aa Pakkane Daachi Unchina Tana Kalala Daaraala Muta Vaipu Dinangaa Chusindi.",
+      "text_en": "Sad about the unsold sarees, Lalita sat dejectedly at her loom. Her brow was furrowed, and her hands fumbled as she tried to weave a plain saree — the old rhythm was gone. The loom made a dull 'dhap' sound. \"My hands can't weave these plain patterns... my heart doesn't agree,\" she said with distress. She looked longingly at the bundle of dream threads hidden beside her."
+    },
+    {
+      "id": 4,
+      "text": "అప్పుడే, ఒక చిన్నారి తన తల్లి చెయ్యి పట్టుకుని సంతలో నడుస్తూ, లలిత అమ్మి మిగిలిపోయిన కలల చీరను చూసింది. ఆమె కళ్ళు పెద్దవి చేసుకుని, ఆ చీరలోని రంగులను చూస్తూ నిలబడిపోయింది. ఒక్కసారిగా — ఆ చిన్నారి సంతోషంతో గంతులు వేస్తూ కేక వేసింది! \"అమ్మా, చూడు! ఈ చీరలో నక్షత్రాలు ఉన్నాయి, అవి మెరుస్తున్నాయి!\" అని ఆమె కేక వేసింది. ఆ చిన్నారి కేక విన్న లలిత ఆశ్చర్యంతో చూసింది, ఆమె పెదవులపై చిన్న నవ్వు మెరిసింది. చిన్నారి తల్లి నవ్వుతూ, లలిత వైపు ఆలోచనగా చూసింది.",
+      "image_prompt": "A little girl, holding her mother's hand, stops abruptly and stares wide-eyed at the weaver's unsold dream saree. Her eyes are wide with wonder as she points excitedly at the saree, exclaiming that it has shining stars. Bright, late afternoon sunlight illuminates the market stall, making the vibrant 'dream saree' glow, contrasting with the dusty surroundings, a moment of unexpected joy.",
+      "scene_visual": "A little girl, holding her mother's hand, stops abruptly and stares wide-eyed at the weaver's unsold dream saree. Her eyes are wide with wonder as she points excitedly at the saree, exclaiming that it has shining stars.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Appude, Oka Chinnaari Tana Talli Cheyyi Pattukuni Santalo Nadustu, Lalita Ammi Migilipoyina Kalala Chiranu Chusindi. Aame Kallu Peddavi Chesukuni, Aa Chiraloni Rangulanu Chustu Nilabadipoyindi. Okkasaarigaa — Aa Chinnaari Santoshanto Gantulu Vestu Keka Vesindi! \"Ammaa, Chudu! I Chiralo Nakshatraalu Unnaayi, Avi Merustunnaayi!\" Ani Aame Keka Vesindi. Aa Chinnaari Keka Vinna Lalita Aashcharyanto Chusindi, Aame Pedavulapai Chinna Navvu Merisindi. Chinnaari Talli Navvutu, Lalita Vaipu Aalochanagaa Chusindi.",
+      "text_en": "Just then, a little girl, holding her mother's hand, walked through the market and saw one of Lalita's unsold dream sarees. Her eyes widened, and she stopped, gazing at the colors in the saree. Suddenly — the little girl jumped with joy and cried out! \"Mommy, look! This saree has stars, and they're sparkling!\" she exclaimed. Lalita looked on in surprise when she heard the little girl's cry, and a small smile appeared on her lips. The little girl's mother smiled and looked thoughtfully at Lalita."
+    },
+    {
+      "id": 5,
+      "text": "ఆ చిన్నారి మెరుపు కళ్ళను గుర్తుచేసుకుంటూ, లలిత మళ్ళీ తన మగ్గం దగ్గరకు చేరింది. ఆమె ముఖంపై సంకల్పం కనిపించింది, చేతులు దారాలను పట్టుకున్నాయి, కానీ నుదురుపై చిన్న ఆలోచన రేఖ ఉంది. ఆమె చేతుల్లో పట్టుకున్న పట్టు దారాలు చల్లగా, మృదువుగా అనిపించాయి. \"ఈ చీరలో నా కలలు మాత్రమే కాదు, నా ఆశలు, నా ప్రేమ కూడా నేస్తాను,\" అని ఆమె తనలో తాను అనుకుంది. ఆమె నేస్తుండగా, మగ్గంపై నమూనాలు కొత్తగా, సజీవంగా, అద్భుతంగా మెలికలు తిరిగాయి.",
+      "image_prompt": "The weaver returns to her loom with a determined expression, her hands holding silk threads. As she weaves, new and vibrant patterns begin to twist and turn wonderfully on the loom, reflecting her renewed hope. The weaving hut at dusk, illuminated by a single flickering oil lamp, casting dancing shadows and highlighting the intense focus on Lalita's face and the shimmering threads, a scene of quiet resolve.",
+      "scene_visual": "The weaver returns to her loom with a determined expression, her hands holding silk threads. As she weaves, new and vibrant patterns begin to twist and turn wonderfully on the loom, reflecting her renewed hope.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chinnaari Merupu Kallanu Gurtuchesukuntu, Lalita Malli Tana Maggam Daggaraku Cherindi. Aame Mukhampai Sankalpam Kanipinchindi, Chetulu Daaraalanu Pattukunnaayi, Kaani Nudurupai Chinna Aalochana Rekha Undi. Aame Chetullo Pattukunna Pattu Daaraalu Challagaa, Mrriduvugaa Anipinchaayi. \"I Chiralo Naa Kalalu Maatrame Kaadu, Naa Aashalu, Naa Prema Kudaa Nestaanu,\" Ani Aame Tanalo Taanu Anukundi. Aame Nestundagaa, Maggampai Namunaalu Kottagaa, Sajivangaa, Adbhutangaa Melikalu Tirigaayi.",
+      "text_en": "Remembering the little girl's sparkling eyes, Lalita returned to her loom. Determination showed on her face, her hands held the threads, but there was a small line of thought on her brow. The silk threads in her hands felt cool and soft. \"In this saree, I will weave not just my dreams, but my hopes and my love too,\" she thought to herself. As she wove, the patterns on the loom twisted and turned, new, alive, and wonderful."
+    },
+    {
+      "id": 6,
+      "text": "గ్రామ పండుగలో, లలిత తన కొత్త కలల చీరను ప్రదర్శించింది — ఆమె చేతులు బిగుసుకుని ఉన్నాయి, గుండె వేగంగా కొట్టుకుంటోంది. చుట్టూ జనం మూగారు, వారి గుసగుసలు ఆ చీరపై ఆసక్తిని చూపాయి. పెద్దామ మొదట సందేహంగా చూసినా, ఒక్కసారిగా ఆమె కళ్ళు మెరిశాయి. \"ఇది కేవలం చీర కాదు, లలితా! ఇది ఒక కథ... ఒక కల... మన గ్రామానికి ఆభరణం!\" అని ఆమె సంతోషంగా ప్రకటించింది. లలిత భుజాలు మెల్లగా వదులుతూ, ముఖంపై ప్రకాశవంతమైన చిరునవ్వుతో నిలబడింది. పెద్దామ ఆ మెరిసే చీరను ఎత్తుకుని లలిత వైపు చూపగా, గ్రామమంతా చప్పట్లతో మారుమోగిపోయింది.",
+      "image_prompt": "The weaver stands with a bright smile as an elder woman holds up her new dream saree for the village to see. The shimmering saree catches the light as the elder proudly displays it, and the entire village erupts in applause. Vibrant festival lighting with strings of colourful lamps and oil diyas casting a warm, celebratory glow over the village square, illuminating smiling faces and the radiant saree, a moment of public triumph.",
+      "scene_visual": "The weaver stands with a bright smile as an elder woman holds up her new dream saree for the village to see. The shimmering saree catches the light as the elder proudly displays it, and the entire village erupts in applause.",
+      "supporting_char_keys": [
+        "amma",
+        "peddayya"
+      ],
+      "text_te_en": "Graama Pandugalo, Lalita Tana Kotta Kalala Chiranu Pradarshinchindi — Aame Chetulu Bigusukuni Unnaayi, Gunde Vegangaa Kottukuntondi. Chuttu Janam Mugaaru, Vaari Gusagusalu Aa Chirapai Aasaktini Chupaayi. Peddaama Modata Sandehangaa Chusinaa, Okkasaarigaa Aame Kallu Merishaayi. \"Idi Kevalam Chira Kaadu, Lalitaa! Idi Oka Katha... Oka Kala... Mana Graamaaniki Aabharanan!\" Ani Aame Santoshangaa Prakatinchindi. Lalita Bhujaalu Mellagaa Vadulutu, Mukhampai Prakaashavantamaina Chirunavvuto Nilabadindi. Peddaama Aa Merise Chiranu Ettukuni Lalita Vaipu Chupagaa, Graamamantaa Chappatlato Maarumogipoyindi.",
+      "text_en": "At the village festival, Lalita displayed her new dream saree — her hands were clenched, and her heart was beating fast. People gathered around, their whispers showing interest in the saree. The elder woman, who first looked doubtful, suddenly had her eyes sparkle. \"This isn't just a saree, Lalita! It's a story... a dream... a jewel for our village!\" she joyfully declared. Lalita slowly relaxed her shoulders, standing with a bright smile on her face. As the elder woman held up the sparkling saree and pointed towards Lalita, the whole village echoed with applause."
+    },
+    {
+      "id": 7,
+      "text": "ఆ రోజు నుండి, లలితను 'కలల నేతకారి' అని పిలవడం మొదలుపెట్టారు. ఆమె మగ్గం ఇప్పుడు ఎప్పుడూ నిశ్శబ్దంగా ఉండదు, కొత్త చీరల తయారీతో సందడిగా ఉంటుంది. ఆమె దుకాణంలో అనేక రంగుల చీరలు మెల్లగా గలగలలాడుతూ వేలాడుతున్నాయి, దూర ప్రాంతాల నుండి కూడా ప్రజలను ఆకర్షిస్తున్నాయి. లలిత ముఖంపై ప్రశాంతమైన చిరునవ్వు, ఆమె కళ్ళలో ఇంకా కొత్త కలలు మెరుస్తున్నాయి. \"నా కలలు ఇప్పుడు అందరి కలలు అయ్యాయి,\" అని ఆమె తన మగ్గం వైపు చూస్తూ అంది. ఆమె కుటుంబం సంతోషంగా, గౌరవంగా జీవించింది, ప్రతి నేతలోనూ ఆ ఆనందం ప్రతిబింబించింది.",
+      "image_prompt": "The weaver stands in her bustling shop, gazing at her now constantly busy loom and the many colorful sarees hanging around. A serene smile rests on her face, and new dreams sparkle in her eyes as she looks towards her loom. Bright, clear morning sunlight streaming into a now larger, more prosperous weaving hut, filled with light and color, reflecting a sense of peace and abundance.",
+      "scene_visual": "The weaver stands in her bustling shop, gazing at her now constantly busy loom and the many colorful sarees hanging around. A serene smile rests on her face, and new dreams sparkle in her eyes as she looks towards her loom.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Aa Roju Nundi, Lalitanu 'Kalala Netakaari' Ani Pilavadam Modalupettaaru. Aame Maggam Ippudu Eppudu Nishshabdangaa Undadu, Kotta Chirala Tayaarito Sandadigaa Untundi. Aame Dukaananlo Aneka Rangula Chiralu Mellagaa Galagalalaadutu Velaadutunnaayi, Dura Praantaala Nundi Kudaa Prajalanu Aakarshistunnaayi. Lalita Mukhampai Prashaantamaina Chirunavvu, Aame Kallalo Inkaa Kotta Kalalu Merustunnaayi. \"Naa Kalalu Ippudu Andari Kalalu Ayyaayi,\" Ani Aame Tana Maggam Vaipu Chustu Andi. Aame Kutumbam Santoshangaa, Gauravangaa Jivinchindi, Prati Netalonu Aa Aanandam Pratibimbinchindi.",
+      "text_en": "From that day on, people started calling Lalita 'The Dream Weaver'. Her loom was never silent now, bustling with the creation of new sarees. Many colorful sarees hung gently rustling in her shop, attracting people even from faraway places. Lalita had a peaceful smile on her face, and new dreams still sparkled in her eyes. \"My dreams have now become everyone's dreams,\" she said, looking at her loom. Her family lived happily and honorably, and that joy was reflected in every weave."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "amma",
+      "description": "A kind, practical woman in her late forties, with hair tied in a neat bun, always wearing a simple, worn cotton saree. She cares deeply for Lalita and the family's well-being. Always the same character across every scene."
+    },
+    {
+      "key": "peddayya",
+      "description": "A wise, elderly man with a long white beard and spectacles perched on his nose, dressed in a crisp white dhoti and kurta. He is respected for his business acumen and foresight. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and rich, character-specific dialogue that truly advances the plot. The moral emerges organically, making it a powerful read. To reach a 9+ score, the primary focus should be on infusing more oral warmth and direct address, making it sound less like a written piece and more like a grandparent's spoken tale. Additionally, refine the emotional portrayal by consistently showing, rather than stating, characters' feelings."
+  },
+  "quality_warning": true,
+  "title_te_en": "Kalalu Nese Lalita",
+  "moral_te_en": "Ni Pratyekatanu Panchukunte, Adi Nike Kaadu, Prapanchaaniki Aanandaannistundi.",
+  "title_en": "Lalita, the Dream Weaver",
+  "moral_en": "When you share your unique gift, it brings happiness not just to you, but to the world.",
+  "id": "20260531_141118",
+  "date": "2026-05-31",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "కలలను బంధించే చీరల నేతకారి",
+  "thumbnail": "stories/20260531_141118/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
