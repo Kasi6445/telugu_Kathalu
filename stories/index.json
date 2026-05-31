@@ -1,6 +1,40 @@
 {
   "stories": [
     {
+      "id": "20260531_090829",
+      "slug": "kanipimchani-bahumati-tenaali-telivi",
+      "title": "కనిపించని బహుమతి, తెనాలి తెలివి",
+      "moral": "తెలివిగా ఆలోచిస్తే, కనిపించని వాటిలో కూడా గొప్ప విలువను మనం కనుగొనగలం.",
+      "thumbnail": "stories/20260531_090829/images/scene1.jpg",
+      "date": "2026-05-31",
+      "category": "tenali",
+      "subcategory": "funny_adventures",
+      "topic": "తెనాలి రాముడు మరియు అదృశ్య బహుమతి చిక్కు",
+      "voice": "te-IN-Chirp3-HD-Achird",
+      "schema_version": 2,
+      "title_en": "The Invisible Gift, Tenali's Wit",
+      "moral_en": "When we think cleverly, we can find great value even in things we can't see.",
+      "title_te_en": "Kanipinchani Bahumati, Tenaali Telivi",
+      "moral_te_en": "Telivigaa Aalochiste, Kanipinchani Vaatilo Kudaa Goppa Viluvanu Manam Kanugonagalan."
+    },
+    {
+      "id": "20260531_081037",
+      "slug": "guddi-nammakam-veenuvu-polam",
+      "title": "గుడ్డి నమ్మకం, వేణువు పొలం",
+      "moral": "ఎవరి మాటలైనా గుడ్డిగా నమ్మితే, సొంతంగా ఆలోచించకుండా చేస్తే, చివరికి మనమే బాధపడతాం.",
+      "thumbnail": "stories/20260531_081037/images/scene1.jpg",
+      "date": "2026-05-31",
+      "category": "samethalu",
+      "subcategory": "hard_lessons",
+      "topic": "గుడ్డి నమ్మకం నష్టాలు అనే కథ",
+      "voice": "te-IN-Chirp3-HD-Autonoe",
+      "schema_version": 2,
+      "title_en": "Blind Belief, Venu's Field",
+      "moral_en": "If you blindly believe what others say and don't think for yourself, you will end up getting hurt.",
+      "title_te_en": "Guddi Nammakan, Venuvu Polam",
+      "moral_te_en": "Evari Maatalainaa Guddigaa Nammite, Sontangaa Aalochinchakundaa Cheste, Chivariki Maname Baadhapadataan."
+    },
+    {
       "id": "20260529_061108",
       "slug": "telivaina-bujji-kumdeelu-katha",
       "title": "తెలివైన బుజ్జి కుందేలు కథ",
