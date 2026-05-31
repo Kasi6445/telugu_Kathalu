@@ -55,6 +55,16 @@ def main():
     index      = load_index()
     stories    = index.get("stories", [])
 
+    # Include already-generated drafts in the dedup pool so the balancer
+    # doesn't re-pick the same topic between promotion runs.
+    for draft_json in DRAFTS_DIR.glob("*/story.json"):
+        try:
+            draft = json.loads(draft_json.read_text(encoding="utf-8"))
+            if draft.get("topic"):
+                stories = stories + [draft]
+        except Exception:
+            pass
+
     # ── Slot selection ────────────────────────────────────────────────────────
     forced = args.category or args.subcategory or args.topic
     if forced:
