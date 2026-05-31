@@ -1,0 +1,134 @@
+{
+  "title": "చిన్నా, కొత్త చూపు",
+  "moral": "మీకు తెలుసా పిల్లలూ, మనం ఒక్కసారి మనసు తెరిచి చూస్తే, ప్రతి మనిషిలోనూ ఎంతో గొప్పదనం, మంచితనం కనిపిస్తుంది.",
+  "main_character": "Chinna is a curious boy of ten, with bright, inquisitive eyes and a perpetually messy mop of hair. He often thinks he knows best and sometimes overlooks the good in others. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds in the vibrant village of Palakolam, nestled by a winding river, with its lively central market, ancient banyan tree, and sun-drenched paddy fields. The events take place over a few days, from morning to evening. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పాలకులం పల్లెటూరిలో చిన్నా అనే పదేళ్ల కుర్రాడు, తన చిందరవందర జుట్టును సరిచేసుకుంటూ, బావి గట్టు మీద కూర్చున్నాడు. అతని కళ్ళు చుట్టూ తిరుగుతున్న జనాలను గమనిస్తున్నాయి, కానీ అతని మనసులో మాత్రం ఒకటే ఆలోచన. బావి చక్రం కీచుమని తిరుగుతూ నీటిని పైకి లాగుతున్నప్పుడు, చిన్నా విసుగ్గా కాలు తట్టాడు — అందరూ ఏదో చేస్తున్నారు కానీ, నిజంగా గొప్ప పని ఎవరు చేస్తున్నారు? అంటూ తనలో తాను గొణుక్కున్నాడు. దూరంగా వయసు మీరిన ఒక అమ్మమ్మ నీటి కుండను మోయడానికి కష్టపడుతుంటే, చిన్నా ఆమె వైపు చూసి పెదవి విరిచాడు — అంతా మామూలే అని తన తల అడ్డంగా తిప్పాడు.",
+      "image_prompt": "The boy sits on the well's edge, tapping his foot impatiently as the well wheel creaks. He watches an old woman struggling with a water pot, then curls his lip and shakes his head dismissively. Bright morning sunlight, casting long, sharp shadows across the dusty village path, vibrant and clear.",
+      "scene_visual": "The boy sits on the well's edge, tapping his foot impatiently as the well wheel creaks. He watches an old woman struggling with a water pot, then curls his lip and shakes his head dismissively.",
+      "supporting_char_keys": [
+        "old_woman",
+        "farmer",
+        "potter"
+      ],
+      "text_te_en": "Paalakulam Palleturilo Chinnaa Ane Padella Kurraadu, Tana Chindaravandara Juttunu Sarichesukuntu, Baavi Gattu Mida Kurchunnaadu. Atani Kallu Chuttu Tirugutunna Janaalanu Gamanistunnaayi, Kaani Atani Manasulo Maatram Okate Aalochana. Baavi Chakram Kichumani Tirugutu Nitini Paiki Laagutunnappudu, Chinnaa Visuggaa Kaalu Tattaadu — Andaru Edo Chestunnaaru Kaani, Nijangaa Goppa Pani Evaru Chestunnaaru? Antu Tanalo Taanu Gonukkunnaadu. Durangaa Vayasu Mirina Oka Ammamma Niti Kundanu Moyadaaniki Kashtapadutunte, Chinnaa Aame Vaipu Chusi Pedavi Virichaadu — Antaa Maamule Ani Tana Tala Addangaa Tippaadu.",
+      "text_en": "In Palakulam village, a ten-year-old boy named Chinna sat on the well's edge, adjusting his messy hair. His eyes watched the people moving around, but in his mind, there was only one thought. As the well's wheel creaked, pulling water up, Chinna impatiently tapped his foot — 'Everyone is doing something, but who is doing truly great work?' he grumbled to himself. In the distance, an old grandmother struggled to carry a water pot. Chinna looked at her and frowned — 'It's all the same,' he thought, shaking his head."
+    },
+    {
+      "id": 2,
+      "text": "చిన్నా అట్లా విసుగుగా ఆలోచిస్తూ ఉండగా, ఊరి పెద్ద గంభీరమైన గొంతుతో పండుగ గురించి ప్రకటించారు. అందరూ కలిసి కమ్యూనిటీ హాల్‌ని సిద్ధం చేయాలని, ప్రతి ఒక్కరూ తమ వంతు సాయం చేయాలని పెద్ద పలికారు. చుట్టూ ఉన్న జనం ఉత్సాహంగా గుసగుసలాడుతుంటే, చిన్నా మాత్రం చేతులు కట్టుకుని నిలబడ్డాడు — అతని నుదుట చిక్కుముడి పడింది. 'అందరూ కలిసి చేయాలి? కానీ ఎవరికి ఏం తెలుసు?' అని చిన్నా గొణుక్కున్నాడు, అతని పెదవులు బిగుసుకుపోయాయి. పాడుపడిన హాల్‌ వైపు చూస్తూ, ఆ అసాధ్యమైన పనిని ఊహించుకున్నాడు — ఎవ్వరూ సరిగ్గా చేయలేరని అతని మనసులో బలంగా ముద్రపడింది.",
+      "image_prompt": "The boy stands with his arms crossed, a deep furrow in his brow as the village elder announces the festival preparations. His lips are tightly pressed as he gazes towards the dilapidated hall, imagining the impossible task. Mid-morning sun, filtering through the sparse leaves of the banyan tree near the hall, creating a dappled, slightly anxious light.",
+      "scene_visual": "The boy stands with his arms crossed, a deep furrow in his brow as the village elder announces the festival preparations. His lips are tightly pressed as he gazes towards the dilapidated hall, imagining the impossible task.",
+      "supporting_char_keys": [
+        "old_woman",
+        "farmer",
+        "potter"
+      ],
+      "text_te_en": "Chinnaa Atlaa Visugugaa Aalochistu Undagaa, Uri Pedda Gambhiramaina Gontuto Panduga Gurinchi Prakatinchaaru. Andaru Kalisi Kamyuniti Haal‌Ni Siddham Cheyaalani, Prati Okkaru Tama Vantu Saayam Cheyaalani Pedda Palikaaru. Chuttu Unna Janam Utsaahangaa Gusagusalaadutunte, Chinnaa Maatram Chetulu Kattukuni Nilabaddaadu — Atani Nuduta Chikkumudi Padindi. 'Andaru Kalisi Cheyaali? Kaani Evariki Em Telusu?' Ani Chinnaa Gonukkunnaadu, Atani Pedavulu Bigusukupoyaayi. Paadupadina Haal‌ Vaipu Chustu, Aa Asaadhyamaina Panini Uhinchukunnaadu — Evvaru Sariggaa Cheyalerani Atani Manasulo Balangaa Mudrapadindi.",
+      "text_en": "While Chinna was thinking with such boredom, the village elder announced the festival in a serious voice. The elder said that everyone should come together to prepare the community hall, and everyone should help in their own way. As the people around him excitedly whispered, Chinna stood with his arms crossed — a frown creased his forehead. 'Everyone together? But what does anyone really know?' Chinna grumbled, his lips tight. Looking at the dilapidated hall, he imagined the impossible task — a strong feeling in his mind that no one could do it properly."
+    },
+    {
+      "id": 3,
+      "text": "తర్వాతి రోజు, చిన్నా హాల్‌ శుభ్రం చేసే పనిని తన చేతుల్లోకి తీసుకున్నాడు. తను సులువు అనుకున్న పనులను అందరికీ అప్పగించాడు, కానీ అతని ప్రణాళికలు ఒక్కసారిగా తారుమారయ్యాయి — ఎవరూ వినడం లేదు, పనులు ఎక్కడివక్కడ ఆగిపోయాయి. పాత దుమ్ము, సాలీడు గూళ్ల వాసనతో హాల్‌ నిండిపోగా, చిన్నా విసుగ్గా చేతులు పైకెత్తాడు. 'ఇలా అయితే పండుగకు సిద్ధం చేయడం అసాధ్యం!' అని చిన్నా అరిచాడు, అతని ముఖం ఎర్రబడింది. ఆ గందరగోళం మధ్య, చిన్నా అంతగా పట్టించుకోని ఆ పొలం రైతు మాత్రం, ఒక విరిగిన చెక్క దూలాన్ని ఎంతో బలంగా, నెమ్మదిగా సరిచేయడం మొదలుపెట్టాడు.",
+      "image_prompt": "The boy throws his hands up in exasperation, his face flushed red as he shouts amidst the chaotic, dusty hall. In the background, a farmer steadily begins to repair a broken wooden beam, seemingly oblivious to the boy's outburst. Harsh, direct sunlight streaming through the hall's open doorways, highlighting dust motes dancing in the air, a sense of chaotic activity.",
+      "scene_visual": "The boy throws his hands up in exasperation, his face flushed red as he shouts amidst the chaotic, dusty hall. In the background, a farmer steadily begins to repair a broken wooden beam, seemingly oblivious to the boy's outburst.",
+      "supporting_char_keys": [
+        "farmer"
+      ],
+      "text_te_en": "Tarvaati Roju, Chinnaa Haal‌ Shubhram Chese Panini Tana Chetulloki Tisukunnaadu. Tanu Suluvu Anukunna Panulanu Andariki Appaginchaadu, Kaani Atani Pranaalikalu Okkasaarigaa Taarumaarayyaayi — Evaru Vinadam Ledu, Panulu Ekkadivakkada Aagipoyaayi. Paata Dummu, Saalidu Gulla Vaasanato Haal‌ Nindipogaa, Chinnaa Visuggaa Chetulu Paikettaadu. 'Ilaa Ayite Pandugaku Siddham Cheyadam Asaadhyan!' Ani Chinnaa Arichaadu, Atani Mukham Errabadindi. Aa Gandaragolam Madhya, Chinnaa Antagaa Pattinchukoni Aa Polam Raitu Maatran, Oka Virigina Chekka Dulaanni Ento Balangaa, Nemmadigaa Saricheyadam Modalupettaadu.",
+      "text_en": "The next day, Chinna took charge of cleaning the hall. He assigned tasks he thought were easy to everyone, but his plans quickly went awry — no one was listening, and work stopped everywhere. As the hall filled with the smell of old dust and cobwebs, Chinna threw his hands up in frustration. 'If it's like this, preparing for the festival is impossible!' Chinna shouted, his face red. Amidst the chaos, the farmer, whom Chinna hadn't paid much attention to, began to strongly and carefully fix a broken wooden beam."
+    },
+    {
+      "id": 4,
+      "text": "ఆ రైతును చూసిన చిన్నా ఒక్కసారిగా నిశ్శబ్దంగా ఉండిపోయాడు. తను పనికి రానివాడు అనుకున్న రైతు, విరిగిన పైకప్పును ఎంతో నైపుణ్యంగా సరిచేస్తున్నాడు. సుత్తెతో దూలాన్ని కొట్టే శబ్దం గట్టిగా వినిపించింది — అది ఎంతో పటిష్టమైన పనికి నిదర్శనం. చిన్నా కళ్ళు వెడల్పు అయ్యాయి, అతని నోరు కొద్దిగా తెరుచుకుంది — ఆశ్చర్యంతో అతని ముఖం మెరిసింది. 'ఈయనకు ఇంత బలం, ఇంత తెలివి ఉందని నేను ఎప్పుడూ అనుకోలేదు' అని చిన్నా తనలో తాను గొణుక్కున్నాడు. ఆ క్షణంలో — అతని మనసులో ఒక కొత్త ఆలోచన మెరిసింది. కాసేపటి తర్వాత, కుమ్మరి కూడా అద్భుతమైన డిజైన్‌లను గోడలపై వేయడం చిన్నా చూశాడు.",
+      "image_prompt": "The boy stands silently, his eyes wide and mouth slightly agape, watching the farmer skillfully repair the broken roof beam. His face shines with surprise as the strong sound of the hammer hitting the beam echoes through the hall. Late afternoon light, soft and golden, illuminating the farmer's focused face and strong hands, a sense of quiet dedication.",
+      "scene_visual": "The boy stands silently, his eyes wide and mouth slightly agape, watching the farmer skillfully repair the broken roof beam. His face shines with surprise as the strong sound of the hammer hitting the beam echoes through the hall.",
+      "supporting_char_keys": [
+        "farmer"
+      ],
+      "text_te_en": "Aa Raitunu Chusina Chinnaa Okkasaarigaa Nishshabdangaa Undipoyaadu. Tanu Paniki Raanivaadu Anukunna Raitu, Virigina Paikappunu Ento Naipunyangaa Sarichestunnaadu. Sutteto Dulaanni Kotte Shabdam Gattigaa Vinipinchindi — Adi Ento Patishtamaina Paniki Nidarshanan. Chinnaa Kallu Vedalpu Ayyaayi, Atani Noru Koddigaa Teruchukundi — Aashcharyanto Atani Mukham Merisindi. 'Iyanaku Inta Balan, Inta Telivi Undani Nenu Eppudu Anukoledu' Ani Chinnaa Tanalo Taanu Gonukkunnaadu. Aa Kshananlo — Atani Manasulo Oka Kotta Aalochana Merisindi. Kaasepati Tarvaata, Kummari Kudaa Adbhutamaina Dijain‌Lanu Godalapai Veyadam Chinnaa Chushaadu.",
+      "text_en": "Seeing the farmer, Chinna suddenly fell silent. The farmer, whom he thought was useless, was skillfully fixing the broken ceiling. The sound of the hammer hitting the beam echoed loudly — a testament to strong, solid work. Chinna's eyes widened, his mouth slightly open — his face lit up with surprise. 'I never thought he had so much strength and skill,' Chinna mumbled to himself. In that moment — a new idea sparked in his mind. A little later, Chinna also saw the potter creating amazing designs on the walls."
+    },
+    {
+      "id": 5,
+      "text": "కుమ్మరిని చూసిన చిన్నాకు ఎంతో ఆశ్చర్యం కలిగింది. తను కేవలం మట్టి కుండలు మాత్రమే చేయగలడు అనుకున్న ఆ కుమ్మరి, హాల్‌ గోడలపై ఎంతో అందమైన, సూక్ష్మమైన నమూనాలను చిత్రించాడు. రంగుల సువాసన గాలిలో తేలియాడుతుంటే, చిన్నా నెమ్మదిగా దగ్గరికి వెళ్ళి, ఆ చిత్రాలను పరిశీలించాడు. 'ఈ రంగులు, ఈ నమూనాలు... ఇది నిజంగా అద్భుతం!' అని చిన్నా మెల్లగా అన్నాడు, అతని పెదవులపై చిన్న చిరునవ్వు మెరిసింది. తను తక్కువ అంచనా వేసిన మనుషులలో ఇంత కళ ఉందా అని తన తల గోక్కున్నాడు. చీకటి పడుతున్న వేళ, పండుగ అలంకరణలో ఒక ముఖ్యమైన భాగం కనిపించలేదు — అది ఎక్కడ ఉందో ఎవరికీ తెలియదు.",
+      "image_prompt": "The boy slowly approaches the hall walls, closely examining the beautiful, intricate patterns painted by the potter. A small smile plays on his lips as the scent of paints wafts through the air. Early evening light, turning from golden to soft orange, casting long shadows and highlighting the vibrant colours of the painted walls, a sense of calm artistry.",
+      "scene_visual": "The boy slowly approaches the hall walls, closely examining the beautiful, intricate patterns painted by the potter. A small smile plays on his lips as the scent of paints wafts through the air.",
+      "supporting_char_keys": [
+        "potter"
+      ],
+      "text_te_en": "Kummarini Chusina Chinnaaku Ento Aashcharyam Kaligindi. Tanu Kevalam Matti Kundalu Maatrame Cheyagaladu Anukunna Aa Kummari, Haal‌ Godalapai Ento Andamaina, Sukshmamaina Namunaalanu Chitrinchaadu. Rangula Suvaasana Gaalilo Teliyaadutunte, Chinnaa Nemmadigaa Daggariki Velli, Aa Chitraalanu Parishilinchaadu. 'I Rangulu, I Namunaalu... Idi Nijangaa Adbhutan!' Ani Chinnaa Mellagaa Annaadu, Atani Pedavulapai Chinna Chirunavvu Merisindi. Tanu Takkuva Anchanaa Vesina Manushulalo Inta Kala Undaa Ani Tana Tala Gokkunnaadu. Chikati Padutunna Vela, Panduga Alankaranalo Oka Mukhyamaina Bhaagam Kanipinchaledu — Adi Ekkada Undo Evariki Teliyadu.",
+      "text_en": "Chinna was very surprised to see the potter. The potter, whom he thought could only make clay pots, was painting beautiful and intricate patterns on the hall walls. As the scent of paints floated in the air, Chinna slowly went closer and examined the paintings. 'These colors, these patterns... this is truly amazing!' Chinna said softly, a small smile appearing on his lips. He scratched his head, wondering if the people he had underestimated had so much art within them. As darkness fell, an important part of the festival decorations was missing — no one knew where it was."
+    },
+    {
+      "id": 6,
+      "text": "అందరూ కంగారు పడుతుంటే, పండుగకు అవసరమైన అలంకరణ వస్త్రం కనిపించలేదని తెలిసి, ఆ పాత అమ్మమ్మ ముందుకు వచ్చింది. ఆమె ముఖంలో ఎటువంటి కంగారు లేదు, ప్రశాంతంగా ఊరిలో ఉన్న ప్రతి మూలనూ గుర్తు చేసుకుంది. 'అది పాత బడి వెనకాల ఉన్న పెట్టెలో ఉంటుంది' అని అమ్మమ్మ నెమ్మదిగా చెప్పింది, ఆమె మాటల్లో ఎంతో నమ్మకం. అందరూ అక్కడికి వెళ్ళి చూడగా, మెరిసిపోతున్న పట్టు వస్త్రం బయటపడింది — అది మృదువుగా, సున్నితంగా ఉంది. 'అమ్మమ్మ, మీ జ్ఞాపకశక్తి, మీ జ్ఞానం ఎంత గొప్పవి!' అని చిన్నా అన్నాడు, అతని గొంతులో ఎంతో గౌరవం. చిన్నా ఆ వస్త్రాన్ని పట్టుకోవడానికి అమ్మమ్మకు సాయం చేశాడు, ఆమెను బలహీనురాలిగా కాక — ఎంతో జ్ఞానం ఉన్న వ్యక్తిగా చూశాడు.",
+      "image_prompt": "An old woman calmly steps forward, her face serene, and points towards the old school, confidently stating where the missing decoration is. The boy then respectfully helps her hold the shimmering silk cloth that is found there. Dusk, a deep blue twilight descends, with the soft glow of oil lamps starting to flicker inside the hall, casting warm, intimate light.",
+      "scene_visual": "An old woman calmly steps forward, her face serene, and points towards the old school, confidently stating where the missing decoration is. The boy then respectfully helps her hold the shimmering silk cloth that is found there.",
+      "supporting_char_keys": [
+        "old_woman",
+        "farmer",
+        "potter"
+      ],
+      "text_te_en": "Andaru Kangaaru Padutunte, Pandugaku Avasaramaina Alankarana Vastram Kanipinchaledani Telisi, Aa Paata Ammamma Munduku Vachchindi. Aame Mukhanlo Etuvanti Kangaaru Ledu, Prashaantangaa Urilo Unna Prati Mulanu Gurtu Chesukundi. 'Adi Paata Badi Venakaala Unna Pettelo Untundi' Ani Ammamma Nemmadigaa Cheppindi, Aame Maatallo Ento Nammakan. Andaru Akkadiki Velli Chudagaa, Merisipotunna Pattu Vastram Bayatapadindi — Adi Mrriduvugaa, Sunnitangaa Undi. 'Ammamma, Mi Jnyaapakashakti, Mi Jnyaanam Enta Goppavi!' Ani Chinnaa Annaadu, Atani Gontulo Ento Gauravan. Chinnaa Aa Vastraanni Pattukovadaaniki Ammammaku Saayam Cheshaadu, Aamenu Balahinuraaligaa Kaaka — Ento Jnyaanam Unna Vyaktigaa Chushaadu.",
+      "text_en": "While everyone was panicking, realizing the festival decoration cloth was missing, the old grandmother came forward. There was no panic on her face; she calmly recalled every corner of the village. 'It should be in the box behind the old school,' the grandmother said softly, with great confidence in her words. Everyone went there and found the shimmering silk cloth — it was soft and delicate. 'Grandmother, your memory and your wisdom are so great!' Chinna said, his voice full of respect. Chinna helped the grandmother hold the cloth, seeing her not as weak, but as a person of great knowledge."
+    },
+    {
+      "id": 7,
+      "text": "చిన్నా ఇప్పుడు మారిన చూపుతో అందరితో కలిసి పనిచేశాడు. రైతుతో కలిసి దూలాలు బిగించాడు, కుమ్మరి పక్కన నిలబడి రంగులు కలిపాడు, అమ్మమ్మ చెప్పినట్లు అలంకరణ వస్త్రాలను జాగ్రత్తగా అమర్చాడు. బయట నుంచి చల్లని గాలి వీస్తూ ఆకుల సవ్వడి వినిపిస్తుంటే, చిన్నా ముఖం నిజమైన ఆనందంతో వెలిగిపోయింది — అతని నవ్వులో ఎంతో స్నేహం తొణికిసలాడింది. ప్రతి ఒక్కరూ తమ ప్రత్యేక నైపుణ్యాలతో హాల్‌ను అద్భుతంగా మార్చారు. 'ప్రతి ఒక్కరిలోనూ ఏదో ఒక అద్భుతమైన గుణం ఉంటుంది, మనం చూడటమే ముఖ్యం!' అని చిన్నా గట్టిగా అన్నాడు, అతని గుండెల్లో ఒక కొత్త వెలుగు నిండింది. ఆ మందిరం — ఇప్పుడు నిజంగా ఒక కొత్త కాంతితో మెరిసిపోయింది.",
+      "image_prompt": "The boy works alongside others, helping the farmer with beams, mixing paints with the potter, and carefully arranging decorations as instructed by the old woman. His face glows with genuine joy and friendship, illuminated by the cool breeze rustling leaves from outside. Night, the hall brightly lit by numerous oil lamps and small lanterns, creating a festive, warm glow that spills out onto the dark village path, full of warmth and celebration.",
+      "scene_visual": "The boy works alongside others, helping the farmer with beams, mixing paints with the potter, and carefully arranging decorations as instructed by the old woman. His face glows with genuine joy and friendship, illuminated by the cool breeze rustling leaves from outside.",
+      "supporting_char_keys": [
+        "old_woman",
+        "farmer",
+        "potter"
+      ],
+      "text_te_en": "Chinnaa Ippudu Maarina Chuputo Andarito Kalisi Panicheshaadu. Raituto Kalisi Dulaalu Biginchaadu, Kummari Pakkana Nilabadi Rangulu Kalipaadu, Ammamma Cheppinatlu Alankarana Vastraalanu Jaagrattagaa Amarchaadu. Bayata Nunchi Challani Gaali Vistu Aakula Savvadi Vinipistunte, Chinnaa Mukham Nijamaina Aanandanto Veligipoyindi — Atani Navvulo Ento Sneham Tonikisalaadindi. Prati Okkaru Tama Pratyeka Naipunyaalato Haal‌Nu Adbhutangaa Maarchaaru. 'Prati Okkarilonu Edo Oka Adbhutamaina Gunam Untundi, Manam Chudatame Mukhyan!' Ani Chinnaa Gattigaa Annaadu, Atani Gundello Oka Kotta Velugu Nindindi. Aa Mandiram — Ippudu Nijangaa Oka Kotta Kaantito Merisipoyindi.",
+      "text_en": "Chinna now worked with everyone with his changed perspective. He helped the farmer secure the beams, stood beside the potter mixing colors, and carefully arranged the decoration cloths as the grandmother instructed. As a cool breeze blew from outside, rustling the leaves, Chinna's face glowed with true joy — his smile was full of friendship. Everyone, with their special skills, transformed the hall wonderfully. 'Everyone has some amazing quality; it's important that we see it!' Chinna said loudly, a new light filling his heart. The hall — now truly shone with a new brilliance."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "old_woman",
+      "description": "An elderly woman with deeply wrinkled skin and a gentle smile, always wearing a faded but clean cotton saree. She carries a small bamboo cane and speaks softly. Always the same character across every scene."
+    },
+    {
+      "key": "farmer",
+      "description": "A strong, sun-tanned man in his fifties, with calloused hands and a sturdy build, often seen in a simple dhoti and a worn shirt. He has a kind but tired face. Always the same character across every scene."
+    },
+    {
+      "key": "potter",
+      "description": "A young, nimble potter in his late twenties, with clay-stained hands and a focused expression, often covered in fine dust. He wears a simple white vest and a lungi. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 7,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story presents a compelling narrative arc with a clear character transformation for చిన్నా, and its grammar is exceptionally clean and natural. The emotional journey is largely shown through action, which is effective. However, to reach an award-worthy level, the dialogue needs significant enrichment; other characters require distinct voices and more direct speech to make interactions dynamic and less report-like. Additionally, weaving the 'grandmotherly' warmth more consistently into the narrative, beyond the opening moral, would greatly enhance its authenticity and immersive quality for a young audience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chinnaa, Kotta Chupu",
+  "moral_te_en": "Miku Telusaa Pillalu, Manam Okkasaari Manasu Terichi Chuste, Prati Manishilonu Ento Goppadanan, Manchitanam Kanipistundi.",
+  "title_en": "Chinna, A New Perspective",
+  "moral_en": "Do you know, children, if we just open our hearts and look, we can see so much greatness and goodness in every person.",
+  "id": "20260531_181119",
+  "date": "2026-05-31",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "ఒకరిలో ఒకరు చూస్తే, అందరిలో గొప్పతనం కనిపిస్తుంది అనే కథ",
+  "thumbnail": "stories/20260531_181119/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
