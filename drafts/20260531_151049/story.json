@@ -1,0 +1,98 @@
+{
+  "title": "మురళి ప్రయాణం, పొడుపు కథ గుట్టు",
+  "moral": "ఏ కష్టం వచ్చినా, బుర్ర ఉపయోగించి ఆలోచిస్తే, ఎంత పెద్ద సమస్యకైనా ఒక మంచి పరిష్కారం దొరుకుతుంది చూశావా?",
+  "main_character": "Murali is a young, lean boatman in his early twenties, with sharp, curious eyes and calloused hands from years of rowing. He has a habit of silently observing everything around him. Always the same character across every scene.",
+  "antagonist": "The River Goddess appears as a shimmering figure of light and water, with long, flowing dark green hair adorned with lotus flowers. Her eyes glow with ancient wisdom, and she wears a robe that appears to be woven from flowing river currents. Always the same character across every scene.",
+  "setting": "The story takes place on the wide, ancient Godavari River near a small, bustling village named Rajahmundry. The riverbanks are lined with lush green trees, and distant hills are visible under a clear morning sky. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మురళి తన చిన్న పడవను గోదావరి నదిలో అలవోకగా నడిపిస్తున్నాడు. అతని పెదవుల మీద ఒక చిన్న నవ్వు మెరిసింది, తెడ్డులు నీటిని తాకుతుంటే వచ్చే చల్లని చిరుజల్లు అతని ముఖానికి తగిలింది. \"అమ్మా, అవతలి ఒడ్డుకు త్వరగా చేరుకుంటాం!\" అంటూ ప్రయాణికులతో ఉత్సాహంగా పలికాడు. అతని చేతులు లయబద్ధంగా తెడ్డులు వేస్తుంటే, ప్రయాణికులు సంతోషంగా కూర్చున్నారు. నది మధ్యలోకి చేరుకోగానే — ఒక్కసారిగా అతని దారిలో ఒక వింత మెరుపు కనిపించింది. ఆ మెరుపు క్రమంగా పెద్దదై, మరింత ప్రకాశవంతంగా మారుతోంది.",
+      "image_prompt": "The boy is rhythmically paddling his small boat across the river. A strange, bright flash of light suddenly appears in his path, growing larger and more luminous. Bright, clear morning sun casting long shadows from the riverbank trees, with a dazzling, unnatural shimmer reflecting off the water directly ahead of the boat.",
+      "scene_visual": "The boy is rhythmically paddling his small boat across the river. A strange, bright flash of light suddenly appears in his path, growing larger and more luminous.",
+      "supporting_char_keys": [],
+      "text_te_en": "Murali Tana Chinna Padavanu Godaavari Nadilo Alavokagaa Nadipistunnaadu. Atani Pedavula Mida Oka Chinna Navvu Merisindi, Teddulu Nitini Taakutunte Vachche Challani Chirujallu Atani Mukhaaniki Tagilindi. \"Ammaa, Avatali Odduku Tvaragaa Cherukuntaan!\" Antu Prayaanikulato Utsaahangaa Palikaadu. Atani Chetulu Layabaddhangaa Teddulu Vestunte, Prayaanikulu Santoshangaa Kurchunnaaru. Nadi Madhyaloki Cherukogaane — Okkasaarigaa Atani Daarilo Oka Vinta Merupu Kanipinchindi. Aa Merupu Kramangaa Peddadai, Marinta Prakaashavantangaa Maarutondi.",
+      "text_en": "Murali was gently steering his small boat in the Godavari River. A small smile appeared on his lips, and the cool spray from the oars hitting the water touched his face. \"Mother, we'll reach the other bank soon!\" he said happily to his passengers. As his hands rowed in a steady rhythm, the passengers sat happily. Just as they reached the middle of the river — suddenly, a strange bright light appeared in his path. That light gradually grew bigger and shone brighter."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరుపు వెలుగులోంచి, ఒక మహారాణిలా నది దేవత ప్రత్యక్షమైంది — మురళి ఆశ్చర్యంతో కళ్ళు పెద్దవి చేశాడు. అతని నోరు తెరుచుకుంది — చేతులు తెడ్డులను గట్టిగా పట్టుకున్నాయి. ఆమె నుండి కమలం పూల సువాసన నది గాలిలో మెల్లగా తేలింది. దేవత అతని పడవ దారిని అడ్డగించి, పదునైన చూపుతో చూస్తూ ఇలా అంది: \"నేను నదిలో ఉన్నాను, కానీ నీరు కాదు. నన్ను దాటకుండా నువ్వు అవతలి ఒడ్డుకు చేరలేవు. నన్ను పట్టుకోలేవు, కానీ నా అడుగులు లెక్కించగలవు. నేనెవరు?\" దేవత చివరి మాటలు గాలిలో అలా నిలిచిపోయాయి... మురళి ఏం చేయాలో తెలియక అక్కడే స్తంభించిపోయాడు.",
+      "image_prompt": "The boy stares wide-eyed, his mouth agape, as a river goddess appears before him. His hands are tightly gripping the paddles, and he is frozen in astonishment. Also in this scene: The River Goddess appears as a shimmering figure of light and water, with long, flowing dark green hair adorned with lotus flowers. Her eyes glow with ancient wisdom, and she wears a robe that appears to be woven from flowing river currents. Always the same character across every scene. The river is bathed in a soft, otherworldly glow from the Goddess's form, contrasting with the bright morning sun, creating an ethereal, sacred atmosphere around her.",
+      "scene_visual": "The boy stares wide-eyed, his mouth agape, as a river goddess appears before him. His hands are tightly gripping the paddles, and he is frozen in astonishment.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merupu Velugulonchi, Oka Mahaaraanilaa Nadi Devata Pratyakshamaindi — Murali Aashcharyanto Kallu Peddavi Cheshaadu. Atani Noru Teruchukundi — Chetulu Teddulanu Gattigaa Pattukunnaayi. Aame Nundi Kamalam Pula Suvaasana Nadi Gaalilo Mellagaa Telindi. Devata Atani Padava Daarini Addaginchi, Padunaina Chuputo Chustu Ilaa Andi: \"Nenu Nadilo Unnaanu, Kaani Niru Kaadu. Nannu Daatakundaa Nuvvu Avatali Odduku Cheralevu. Nannu Pattukolevu, Kaani Naa Adugulu Lekkinchagalavu. Nenevaru?\" Devata Chivari Maatalu Gaalilo Alaa Nilichipoyaayi... Murali Em Cheyaalo Teliyaka Akkade Stambhinchipoyaadu.",
+      "text_en": "From the light of that flash, the River Goddess appeared like a queen — Murali's eyes grew wide with surprise. His mouth dropped open — his hands held the oars tightly. The sweet smell of lotus flowers floated gently from her in the river air. The Goddess stood in his boat's way, looked at him with a piercing gaze, and said: \"I am in the river, but I am not water. You cannot reach the other bank without crossing me. You cannot hold me, but you can count my steps. Who am I?\" The Goddess's last words stayed in the air... Murali froze, not knowing what to do."
+    },
+    {
+      "id": 3,
+      "text": "దేవత చెప్పిన పొడుపు కథ మురళి మనసులో మెదులుతోంది — అతని నుదురు ముడుచుకుంది. అతను కింద పెదవిని కొరుకుతున్నాడు — ఆందోళనతో ముఖం చిన్నబోయింది. దూరంగా నది ఒడ్డు నుండి రామచిలుక అరుపు వినిపించినా, అతని ధ్యాసంతా పొడుపు కథ మీదే ఉంది. \"నన్ను పట్టుకోలేవు, కానీ నా అడుగులు లెక్కించగలవు... అది ఎలా సాధ్యం?\" అని తనలో తనే గొణుక్కున్నాడు. ఇంతలో, అతని చూపు నదిలో సుడులు తిరుగుతున్న నీటి ప్రవాహం మీద పడింది. ఆ క్షణంలో — అతని మనసులో ఒక చిన్న ఆలోచన మెరుపులా తళుక్కుమంది.",
+      "image_prompt": "The boy's brow is furrowed in deep thought as he bites his lower lip. His gaze falls upon the swirling water currents in the river, and a flash of understanding crosses his face. Also in this scene: The River Goddess appears as a shimmering figure of light and water, with long, flowing dark green hair adorned with lotus flowers. Her eyes glow with ancient wisdom, and she wears a robe that appears to be woven from flowing river currents. Always the same character across every scene. The Goddess's glow has dimmed slightly, casting long, contemplative shadows across Murali's face, highlighting his deep concentration in the otherwise bright morning.",
+      "scene_visual": "The boy's brow is furrowed in deep thought as he bites his lower lip. His gaze falls upon the swirling water currents in the river, and a flash of understanding crosses his face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Devata Cheppina Podupu Katha Murali Manasulo Medulutondi — Atani Nuduru Muduchukundi. Atanu Kinda Pedavini Korukutunnaadu — Aandolanato Mukham Chinnaboyindi. Durangaa Nadi Oddu Nundi Raamachiluka Arupu Vinipinchinaa, Atani Dhyaasantaa Podupu Katha Mide Undi. \"Nannu Pattukolevu, Kaani Naa Adugulu Lekkinchagalavu... Adi Elaa Saadhyan?\" Ani Tanalo Tane Gonukkunnaadu. Intalo, Atani Chupu Nadilo Sudulu Tirugutunna Niti Pravaaham Mida Padindi. Aa Kshananlo — Atani Manasulo Oka Chinna Aalochana Merupulaa Talukkumandi.",
+      "text_en": "The riddle told by the Goddess was spinning in Murali's mind — his forehead wrinkled. He was biting his lip — his face looked worried. Even though he heard the sound of a parrot from the distant river bank, his mind was completely on the riddle. \"You cannot hold me, but you can count my steps... How is that possible?\" he whispered to himself. Just then, his eyes fell on the swirling water in the river. In that moment — a small idea flashed like a bright light in his mind."
+    },
+    {
+      "id": 4,
+      "text": "మురళి కొద్దిగా కదిలాడు, దేవత కళ్ళలోకి చూడకుండా తల దించుకున్నాడు — అతని భుజాలు కొద్దిగా వాలాయి. పడవ పక్కన నది నీరు మెల్లగా గురగురమని ప్రవహిస్తోంది. \"దేవతా, అది నది ఒడ్డు కాదా? దాని అడుగులు లెక్కించలేము కానీ...\" అని తడబడుతూ అడిగాడు. అతని గొంతులో ఒక చిన్న నిట్టూర్పు కలిసింది. దేవత కళ్ళు ఇంకా మురళి మీదే ఉన్నాయి, ఆమె నెమ్మదిగా తల అడ్డంగా ఊపింది. ఆ క్షణంలో — పడవ చుట్టూ నిశ్శబ్దం మరింత లోతుగా మారింది.",
+      "image_prompt": "The boy slightly shifts, his shoulders slumped, and he looks down, avoiding the goddess's gaze. He asks a question hesitantly, a small sigh escaping his throat, as the goddess slowly shakes her head. Also in this scene: The River Goddess appears as a shimmering figure of light and water, with long, flowing dark green hair adorned with lotus flowers. Her eyes glow with ancient wisdom, and she wears a robe that appears to be woven from flowing river currents. Always the same character across every scene. The light around the Goddess intensifies slightly, making her appear more formidable, while Murali's face is subtly shadowed, reflecting his uncertainty.",
+      "scene_visual": "The boy slightly shifts, his shoulders slumped, and he looks down, avoiding the goddess's gaze. He asks a question hesitantly, a small sigh escaping his throat, as the goddess slowly shakes her head.",
+      "supporting_char_keys": [],
+      "text_te_en": "Murali Koddigaa Kadilaadu, Devata Kallaloki Chudakundaa Tala Dinchukunnaadu — Atani Bhujaalu Koddigaa Vaalaayi. Padava Pakkana Nadi Niru Mellagaa Guraguramani Pravahistondi. \"Devataa, Adi Nadi Oddu Kaadaa? Daani Adugulu Lekkinchalemu Kaani...\" Ani Tadabadutu Adigaadu. Atani Gontulo Oka Chinna Nitturpu Kalisindi. Devata Kallu Inkaa Murali Mide Unnaayi, Aame Nemmadigaa Tala Addangaa Upindi. Aa Kshananlo — Padava Chuttu Nishshabdam Marinta Lotugaa Maarindi.",
+      "text_en": "Murali moved a little, lowering his head, not looking into the Goddess's eyes — his shoulders slumped a little. The river water gurgled gently beside the boat. \"Goddess, isn't that the river bank? We can't count its steps, but...\" he asked hesitantly. A small sigh came from his throat. The Goddess's eyes were still on Murali, and she slowly shook her head. In that moment — the silence around the boat became even deeper."
+    },
+    {
+      "id": 5,
+      "text": "మురళి తన చేతిలోని తెడ్డును చూసుకున్నాడు — దాని నునుపైన, అరిగిన చెక్క అతని చేతికి ఎంతో సుపరిచితంగా అనిపించింది. అతని కళ్ళు ఒక్కసారిగా పెద్దవి అయ్యాయి, పెదవుల మీద ఒక చిన్న నవ్వు మెరిసింది. అప్పుడు — ఒక మెరుపులా ఆలోచన వచ్చింది! \"అవును! నేను దానిని పట్టుకోలేను, కానీ దాని అడుగులు ప్రతిరోజూ లెక్కపెడతాను!\" అని తనలో తనే గట్టిగా అనుకున్నాడు. అతను దేవత వైపు తలెత్తి చూశాడు, అతని కళ్ళలో కొత్త ధైర్యం మెరిసింది. ఇప్పుడు సమాధానం చెప్పడానికి సిద్ధంగా ఉన్నాడు.",
+      "image_prompt": "The boy gazes at the worn wooden paddle in his hand, his eyes suddenly widening. A small smile appears on his lips, and he looks up at the goddess, his eyes shining with newfound courage. Also in this scene: The River Goddess appears as a shimmering figure of light and water, with long, flowing dark green hair adorned with lotus flowers. Her eyes glow with ancient wisdom, and she wears a robe that appears to be woven from flowing river currents. Always the same character across every scene. A sudden, bright shaft of sunlight breaks through a cloud, momentarily illuminating Murali's face, making his expression of realization stand out against the soft, ethereal light of the Goddess.",
+      "scene_visual": "The boy gazes at the worn wooden paddle in his hand, his eyes suddenly widening. A small smile appears on his lips, and he looks up at the goddess, his eyes shining with newfound courage.",
+      "supporting_char_keys": [],
+      "text_te_en": "Murali Tana Chetiloni Teddunu Chusukunnaadu — Daani Nunupaina, Arigina Chekka Atani Chetiki Ento Suparichitangaa Anipinchindi. Atani Kallu Okkasaarigaa Peddavi Ayyaayi, Pedavula Mida Oka Chinna Navvu Merisindi. Appudu — Oka Merupulaa Aalochana Vachchindi! \"Avunu! Nenu Daanini Pattukolenu, Kaani Daani Adugulu Pratiroju Lekkapedataanu!\" Ani Tanalo Tane Gattigaa Anukunnaadu. Atanu Devata Vaipu Taletti Chushaadu, Atani Kallalo Kotta Dhairyam Merisindi. Ippudu Samaadhaanam Cheppadaaniki Siddhangaa Unnaadu.",
+      "text_en": "Murali looked at the oar in his hand — its smooth, worn wood felt so familiar in his hand. His eyes suddenly grew wide, and a small smile appeared on his lips. Then — an idea came to him like a flash! \"Yes! I cannot hold it, but I count its steps every day!\" he thought to himself, loudly. He looked up at the Goddess, new courage sparkling in his eyes. Now he was ready with the answer."
+    },
+    {
+      "id": 6,
+      "text": "మురళి ధైర్యంగా నిలబడ్డాడు, అతని ముఖం మీద ఒక పెద్ద చిరునవ్వు విరిసింది — ఇంతకుముందు ఉన్న కంగారు అంతా మాయమైంది. అతని గొంతు నీటి మీద స్పష్టంగా, ప్రతిధ్వనిస్తూ వినిపించింది. \"దేవతా! ఆ పొడుపు కథకు సమాధానం 'ప్రయాణం'!\" అని గట్టిగా పలికాడు. దేవత ముఖం మీద ఒక మెరిసే నవ్వు వికసించింది, ఆమె శరీరం సంతోషంతో మరింత ప్రకాశవంతంగా మెరిసింది. ఆ క్షణంలో — నది ప్రవాహం మురళి పడవను నెమ్మదిగా ముందుకు కదిపింది.",
+      "image_prompt": "The boy stands confidently, a wide smile spreading across his face, as he loudly declares the answer. The goddess's face lights up with a radiant smile, and her body glows even more brightly. Also in this scene: The River Goddess appears as a shimmering figure of light and water, with long, flowing dark green hair adorned with lotus flowers. Her eyes glow with ancient wisdom, and she wears a robe that appears to be woven from flowing river currents. Always the same character across every scene. The Goddess's light brightens dramatically, a warm golden hue washing over the scene, reflecting her pleasure, illuminating Murali's triumphant stance.",
+      "scene_visual": "The boy stands confidently, a wide smile spreading across his face, as he loudly declares the answer. The goddess's face lights up with a radiant smile, and her body glows even more brightly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Murali Dhairyangaa Nilabaddaadu, Atani Mukham Mida Oka Pedda Chirunavvu Virisindi — Intakumundu Unna Kangaaru Antaa Maayamaindi. Atani Gontu Niti Mida Spashtangaa, Pratidhvanistu Vinipinchindi. \"Devataa! Aa Podupu Kathaku Samaadhaanam 'Prayaanan'!\" Ani Gattigaa Palikaadu. Devata Mukham Mida Oka Merise Navvu Vikasinchindi, Aame Shariram Santoshanto Marinta Prakaashavantangaa Merisindi. Aa Kshananlo — Nadi Pravaaham Murali Padavanu Nemmadigaa Munduku Kadipindi.",
+      "text_en": "Murali stood up bravely, a big smile spread across his face — all the nervousness he felt before had gone away. His voice was clear and echoed over the water. \"Goddess! The answer to that riddle is 'Journey'!\" he said proudly. A bright smile bloomed on the Goddess's face, and her body shone even brighter with happiness. In that moment — the river current gently pushed Murali's boat forward."
+    },
+    {
+      "id": 7,
+      "text": "నది దేవత ముఖం మీద మెరిసిన నవ్వుతో, ఆమె రూపం మెల్లగా కరిగిపోయింది — చూశావా, ఎంత అద్భుతంగా జరిగిందో! ఆమె మాయమవుతుండగా, ఒక చల్లని గాలి మురళి ముఖాన్ని తాకింది, ఎంతో హాయిగా అనిపించింది. \"నీ తెలివికి నేను సంతోషించాను, యువకుడా. నీ ప్రయాణం సురక్షితంగా సాగుతుంది!\" అని దేవత మధురమైన గొంతు వినిపించింది. మురళి గుండెలో ఒక వెచ్చదనం నిండింది, అతని చేతులకు కొత్త శక్తి వచ్చినట్లు అనిపించింది. ఆ క్షణంలో — అతను కొత్త ఉత్సాహంతో తెడ్డు వేయడం మొదలుపెట్టాడు. అవతలి ఒడ్డుకు పడవ వేగంగా సాగిపోయింది.",
+      "image_prompt": "The river goddess's form slowly dissolves with a glowing smile, as a cool breeze touches the boy's face. He begins to paddle with new enthusiasm, his heart filled with warmth and his hands feeling a surge of fresh energy. Also in this scene: The River Goddess appears as a shimmering figure of light and water, with long, flowing dark green hair adorned with lotus flowers. Her eyes glow with ancient wisdom, and she wears a robe that appears to be woven from flowing river currents. Always the same character across every scene. The golden light from the Goddess slowly fades as she disappears, leaving the river bathed in the soft, gentle warmth of the late morning sun, peaceful and serene.",
+      "scene_visual": "The river goddess's form slowly dissolves with a glowing smile, as a cool breeze touches the boy's face. He begins to paddle with new enthusiasm, his heart filled with warmth and his hands feeling a surge of fresh energy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nadi Devata Mukham Mida Merisina Navvuto, Aame Rupam Mellagaa Karigipoyindi — Chushaavaa, Enta Adbhutangaa Jarigindo! Aame Maayamavutundagaa, Oka Challani Gaali Murali Mukhaanni Taakindi, Ento Haayigaa Anipinchindi. \"Ni Teliviki Nenu Santoshinchaanu, Yuvakudaa. Ni Prayaanam Surakshitangaa Saagutundi!\" Ani Devata Madhuramaina Gontu Vinipinchindi. Murali Gundelo Oka Vechchadanam Nindindi, Atani Chetulaku Kotta Shakti Vachchinatlu Anipinchindi. Aa Kshananlo — Atanu Kotta Utsaahanto Teddu Veyadam Modalupettaadu. Avatali Odduku Padava Vegangaa Saagipoyindi.",
+      "text_en": "With the bright smile on the River Goddess's face, her form slowly faded away — see how wonderfully it happened! As she disappeared, a cool breeze touched Murali's face, feeling so nice. \"I am pleased with your cleverness, young man. Your journey will be safe!\" the Goddess's sweet voice was heard. A warm feeling filled Murali's heart, and his hands felt like they had new strength. In that moment — he began to row with new energy. The boat quickly moved towards the other bank."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 7,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 7,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts excellent grammar and a compelling narrative arc with a clear problem and solution, making it inherently engaging. To achieve an award-worthy score (9+), the most crucial improvement would be to remove the explicitly stated moral at the beginning, allowing it to emerge naturally from the story's events. Additionally, enhancing the 'grandmother_authenticity' by weaving more direct, warm addresses to the child listener throughout, rather than just at the end, would transform it into a truly immersive oral tale."
+  },
+  "quality_warning": true,
+  "title_te_en": "Murali Prayaanan, Podupu Katha Guttu",
+  "moral_te_en": "E Kashtam Vachchinaa, Burra Upayoginchi Aalochiste, Enta Pedda Samasyakainaa Oka Manchi Parishkaaram Dorukutundi Chushaavaa?",
+  "title_en": "Murali's Journey and the Secret of the Riddle",
+  "moral_en": "See? No matter what trouble comes your way, if you use your brain to think, you can find a good solution for even the biggest problem!",
+  "id": "20260531_151049",
+  "date": "2026-05-31",
+  "category": "podupu",
+  "subcategory": "clever_escapes",
+  "topic": "నది దేవత పొడుపు కథతో పడవ నడిపే వ్యక్తి ప్రయాణం",
+  "thumbnail": "stories/20260531_151049/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
