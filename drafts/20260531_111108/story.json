@@ -1,0 +1,98 @@
+{
+  "title": "నీడ చెప్పిన రహస్యం",
+  "moral": "చూడడం నేర్చుకుంటే, చిన్న విషయాల్లో కూడా పెద్ద పెద్ద నిజాలు దాగి ఉంటాయని తెలుస్తుంది కదూ.",
+  "main_character": "Vira is a lean, quick-witted boy of twelve with bright, curious eyes and perpetually dusty knees from his explorations. He often wears a simple, patched cotton tunic and dhoti, and has a habit of silently watching ants or leaves for long periods. Always the same character across every scene.",
+  "antagonist": "The Royal Advisor, Praveen, is a thin, tall man in his late fifties with a sharp, angular face and a neatly trimmed grey beard. He wears an elaborate, deep indigo silk robe with gold embroidery and a heavy turban, always carrying a rolled scroll in his hand. Always the same character across every scene.",
+  "setting": "The tale unfolds in the ancient Telugu kingdom of Hamsalapuri, where a majestic, white stone palace with intricate carvings overlooks a winding river and lush green fields. The air is often filled with the scent of jasmine and the distant sounds of market chatter. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "హంసలపూరి రాజ్యంలో వీర అనే పన్నెండేళ్ళ అబ్బాయి, నది ఒడ్డున మోకాళ్ళపై కూర్చుని, ఇసుకలో వింత ఆకారాలను గీస్తున్నాడు. ప్రశాంతంగా ప్రవహించే నది గలగల శబ్దం అతని చెవుల్లో మారుమోగుతుంటే, అతని కళ్ళు చుట్టూ ఉన్న ప్రపంచాన్ని నిశితంగా గమనిస్తున్నాయి. మెల్లగా తల పైకెత్తి, సూర్యరశ్మి చెట్ల గుండా ఎలా పడుతుందో చూస్తూ, అతను చిన్నగా ఇలా అన్నాడు: \"అమ్మో, ఈ నీడలు ఎంత వింతగా మారుతున్నాయి!\" అతని కళ్ళు — ఏదో రహస్యం వెతుకుతున్నట్లు మెరిశాయి. ఆ క్షణంలో, ఆకాశంలోకి చూస్తూ, ఇంకేదో చూడాలనిపించింది.",
+      "image_prompt": "The boy kneels by the riverbank, drawing strange shapes in the sand, then slowly lifts his head to observe the sunlight filtering through the trees. His eyes sparkle as if searching for a secret, reflecting the shifting shadows around him. Soft, warm morning sunlight filtering through dense banyan leaves, creating a dappled pattern on the riverbank, serene and inviting.",
+      "scene_visual": "The boy kneels by the riverbank, drawing strange shapes in the sand, then slowly lifts his head to observe the sunlight filtering through the trees. His eyes sparkle as if searching for a secret, reflecting the shifting shadows around him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Hansalapuri Raajyanlo Vira Ane Pannendella Abbaayi, Nadi Odduna Mokaallapai Kurchuni, Isukalo Vinta Aakaaraalanu Gistunnaadu. Prashaantangaa Pravahinche Nadi Galagala Shabdam Atani Chevullo Maarumogutunte, Atani Kallu Chuttu Unna Prapanchaanni Nishitangaa Gamanistunnaayi. Mellagaa Tala Paiketti, Suryarashmi Chetla Gundaa Elaa Padutundo Chustu, Atanu Chinnagaa Ilaa Annaadu: \"Ammo, I Nidalu Enta Vintagaa Maarutunnaayi!\" Atani Kallu — Edo Rahasyam Vetukutunnatlu Merishaayi. Aa Kshananlo, Aakaashanloki Chustu, Inkedo Chudaalanipinchindi.",
+      "text_en": "In the kingdom of Hamsalapuri, a twelve-year-old boy named Veera was kneeling by the riverbank, drawing strange shapes in the sand. The gentle gurgle of the peacefully flowing river echoed in his ears, while his eyes keenly observed the world around him. Slowly, he lifted his head and watched how the sunlight fell through the trees, murmuring softly, \"Oh my, how strangely these shadows are changing!\" His eyes sparkled as if searching for a secret. In that moment, looking up at the sky, he felt like seeing something more."
+    },
+    {
+      "id": 2,
+      "text": "అక్కడ అలా చూస్తుండగానే, దూరం నుండి ఏదో పెద్ద శబ్దం వినిపించింది. పల్లె జనం అంతా ఒకచోట గుమిగూడుతుంటే, వీర వారి అంచున నిలబడి, ఆశగా చూశాడు. అంతలో రాజదూత రాకతో, అతని కంఠం గంభీరంగా వినిపించింది: \"రాజ పొడుపు కథకు సమాధానం చెప్పలేని వారికి, పట్నం నుండి బహిష్కరణ!\" ఒక్కసారిగా — నిశ్శబ్దం అలుముకుంది. వీర గుండె వేగంగా కొట్టుకుంది, అతని చూపు తల్లి వైపు వెళ్ళింది, ఆమె వద్దని తల ఊపినా, వీర కళ్ళు మాత్రం దూరంగా మెరిసే రాజప్రాసాదంపైనే నిలిచిపోయాయి.",
+      "image_prompt": "The boy stands at the edge of a gathered crowd, his gaze fixed on the distant, gleaming royal palace. His mother shakes her head in disapproval, but his eyes remain intently focused on the palace, ignoring her gesture. Bright, harsh midday sun beating down on the dusty village square, illuminating the messenger's vibrant attire against the muted village homes, creating a sense of urgency.",
+      "scene_visual": "The boy stands at the edge of a gathered crowd, his gaze fixed on the distant, gleaming royal palace. His mother shakes her head in disapproval, but his eyes remain intently focused on the palace, ignoring her gesture.",
+      "supporting_char_keys": [],
+      "text_te_en": "Akkada Alaa Chustundagaane, Duram Nundi Edo Pedda Shabdam Vinipinchindi. Palle Janam Antaa Okachota Gumigudutunte, Vira Vaari Anchuna Nilabadi, Aashagaa Chushaadu. Antalo Raajaduta Raakato, Atani Kantham Gambhirangaa Vinipinchindi: \"Raaja Podupu Kathaku Samaadhaanam Cheppaleni Vaariki, Patnam Nundi Bahishkarana!\" Okkasaarigaa — Nishshabdam Alumukundi. Vira Gunde Vegangaa Kottukundi, Atani Chupu Talli Vaipu Vellindi, Aame Vaddani Tala Upinaa, Vira Kallu Maatram Durangaa Merise Raajapraasaadampaine Nilichipoyaayi.",
+      "text_en": "As he was watching there, a loud noise came from a distance. All the village people gathered in one place, and Veera stood at the edge of the crowd, watching eagerly. Just then, a royal messenger arrived, and his voice boomed: \"Those who cannot answer the King's riddle will be banished from the town!\" Suddenly, silence fell. Veera's heart beat fast, and his gaze went to his mother. Even though she shook her head, telling him not to, Veera's eyes remained fixed on the sparkling royal palace in the distance."
+    },
+    {
+      "id": 3,
+      "text": "ఆ తరువాత రోజు, వీర తన చిన్న సంచిని గట్టిగా పట్టుకుని, రాజప్రాసాదం ప్రాంగణంలో నిలబడ్డాడు — చుట్టూ ఉన్న వైభవం అతన్ని భయపెడుతోంది. ప్యాలెస్ స్తంభాలను అలంకరించిన మల్లెపూల ఘాటైన సువాసన గాలిలో నిండి ఉంది. రాజ సలహాదారు ప్రవీణ్, తన పదునైన చూపులతో అందరినీ కలయచూసి, గంభీరంగా ఇలా ప్రకటించాడు: \"నేను పగలు ఒక రూపం, రాత్రి మరొక రూపం. ఉదయం చిన్నది, సాయంత్రం పెద్దది. నేనెవరు?\" ఆ పొడుపు కథ — గాలిలో తేలింది. ప్రవీణ్ చూపు వీర చిన్న ఆకారంపై ఒక్క క్షణం ఆగి, ముందుకు సాగింది.",
+      "image_prompt": "The boy stands in the grand palace courtyard, clutching his small bag tightly, as the royal advisor announces the riddle to the assembled crowd. The advisor's sharp gaze briefly pauses on the boy's small figure before moving on, amidst the strong scent of jasmine flowers adorning the palace pillars. Also in this scene: The Royal Advisor, Praveen, is a thin, tall man in his late fifties with a sharp, angular face and a neatly trimmed grey beard. He wears an elaborate, deep indigo silk robe with gold embroidery and a heavy turban, always carrying a rolled scroll in his hand. Always the same character across every scene. Clear, bright afternoon sun reflecting off the white palace walls, making everything seem grand and daunting, with long shadows just beginning to stretch.",
+      "scene_visual": "The boy stands in the grand palace courtyard, clutching his small bag tightly, as the royal advisor announces the riddle to the assembled crowd. The advisor's sharp gaze briefly pauses on the boy's small figure before moving on, amidst the strong scent of jasmine flowers adorning the palace pillars.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Taruvaata Roju, Vira Tana Chinna Sanchini Gattigaa Pattukuni, Raajapraasaadam Praangananlo Nilabaddaadu — Chuttu Unna Vaibhavam Atanni Bhayapedutondi. Pyaales Stambhaalanu Alankarinchina Mallepula Ghaataina Suvaasana Gaalilo Nindi Undi. Raaja Salahaadaaru Pravin, Tana Padunaina Chupulato Andarini Kalayachusi, Gambhirangaa Ilaa Prakatinchaadu: \"Nenu Pagalu Oka Rupan, Raatri Maroka Rupan. Udayam Chinnadi, Saayantram Peddadi. Nenevaru?\" Aa Podupu Katha — Gaalilo Telindi. Pravin Chupu Vira Chinna Aakaarampai Okka Kshanam Aagi, Munduku Saagindi.",
+      "text_en": "The next day, Veera stood in the royal palace courtyard, clutching his small bag tightly – the grandeur all around him was intimidating. The strong scent of jasmine flowers decorating the palace pillars filled the air. Royal advisor Praveen, with his sharp gaze, looked at everyone and solemnly announced: \"I am one shape in the day, another at night. Small in the morning, big in the evening. Who am I?\" The riddle hung in the air. Praveen's gaze paused on Veera's small figure for a moment, then moved on."
+    },
+    {
+      "id": 4,
+      "text": "పొడుపు కథకు సమాధానం వెతుకుతూ, వీర రాజప్రాసాదంలోని తోటల్లో గంటల తరబడి తిరిగాడు. అతని చెప్పులు లేని పాదాల కింద ఆకులు గలగలమంటున్నాయి. \"పగలు ఒక రూపం... రాత్రి మరొక రూపం... కానీ ఎలా?\" అని తనలో తనే గొణుక్కుంటూ, పొడవాటి నీడలను చూసి నిట్టూర్చాడు. సూర్యుడు అస్తమిస్తున్న వేళ, ఒక రాజ సైనికుడి నీడ గోడల నిండా పాకింది. ఆ నీడ — గోడల నిండా పాకింది. ఆ దృశ్యం చూసి, వీర కనుబొమ్మలు ఒక్కసారిగా ముడిపడ్డాయి.",
+      "image_prompt": "The boy walks barefoot through the palace gardens, muttering to himself, and then watches as the long shadow of a royal soldier stretches across the walls at sunset. His eyebrows furrow in sudden understanding as he observes the soldier's shadow extending across the stone surfaces. Golden hour light, warm and rich, casting long, distorted shadows across the manicured palace gardens, highlighting textures and colors dramatically.",
+      "scene_visual": "The boy walks barefoot through the palace gardens, muttering to himself, and then watches as the long shadow of a royal soldier stretches across the walls at sunset. His eyebrows furrow in sudden understanding as he observes the soldier's shadow extending across the stone surfaces.",
+      "supporting_char_keys": [],
+      "text_te_en": "Podupu Kathaku Samaadhaanam Vetukutu, Vira Raajapraasaadanloni Totallo Gantala Tarabadi Tirigaadu. Atani Cheppulu Leni Paadaala Kinda Aakulu Galagalamantunnaayi. \"Pagalu Oka Rupan... Raatri Maroka Rupan... Kaani Elaa?\" Ani Tanalo Tane Gonukkuntu, Podavaati Nidalanu Chusi Nitturchaadu. Suryudu Astamistunna Vela, Oka Raaja Sainikudi Nida Godala Nindaa Paakindi. Aa Nida — Godala Nindaa Paakindi. Aa Drrishyam Chusi, Vira Kanubommalu Okkasaarigaa Mudipaddaayi.",
+      "text_en": "Searching for the answer to the riddle, Veera wandered through the royal palace gardens for hours. Leaves rustled under his bare feet. He mumbled to himself, \"One shape in the day... another at night... but how?\" and sighed as he looked at the long shadows. As the sun was setting, the shadow of a royal soldier stretched across the walls. Seeing that sight, Veera's eyebrows furrowed instantly."
+    },
+    {
+      "id": 5,
+      "text": "సంధ్య సమీపిస్తుందని రాజ డప్పుల శబ్దం దూరం నుండి వినిపిస్తుంటే, వీర ఒక స్తంభం వెనుక దాక్కుని, ఇతర పోటీదారులు మాట్లాడుకోవడం విన్నాడు. వారు గట్టిగా, కానీ తప్పు సమాధానాలు చెబుతుంటే, అతని మనసులో సందేహాలు పెరిగాయి. \"అది నది! అది ఎప్పుడూ మారుతుంది, కానీ ఎప్పుడూ ఒకే విధంగా ఉంటుంది!\" అని ఒకరు నమ్మకంగా చెప్పడం విన్నాడు. ప్రవీణ్ సలహాదారు — తల అడ్డంగా ఊపాడు. అతని కళ్ళు చీకటి పడకముందే సరైన సమాధానం కావాలని కోరుకుంటున్నట్లు ఉన్నాయి.",
+      "image_prompt": "The boy hides behind a pillar, listening to other contestants confidently give incorrect answers to the riddle. The royal advisor shakes his head in clear disapproval, his eyes conveying an urgent desire for the correct answer before darkness falls. Also in this scene: The Royal Advisor, Praveen, is a thin, tall man in his late fifties with a sharp, angular face and a neatly trimmed grey beard. He wears an elaborate, deep indigo silk robe with gold embroidery and a heavy turban, always carrying a rolled scroll in his hand. Always the same character across every scene. Dimming twilight, a deep blue creeping into the sky, with artificial torchlight just beginning to flicker around the palace courtyard, creating an atmosphere of growing tension.",
+      "scene_visual": "The boy hides behind a pillar, listening to other contestants confidently give incorrect answers to the riddle. The royal advisor shakes his head in clear disapproval, his eyes conveying an urgent desire for the correct answer before darkness falls.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sandhya Samipistundani Raaja Dappula Shabdam Duram Nundi Vinipistunte, Vira Oka Stambham Venuka Daakkuni, Itara Potidaarulu Maatlaadukovadam Vinnaadu. Vaaru Gattigaa, Kaani Tappu Samaadhaanaalu Chebutunte, Atani Manasulo Sandehaalu Perigaayi. \"Adi Nadi! Adi Eppudu Maarutundi, Kaani Eppudu Oke Vidhangaa Untundi!\" Ani Okaru Nammakangaa Cheppadam Vinnaadu. Pravin Salahaadaaru — Tala Addangaa Upaadu. Atani Kallu Chikati Padakamunde Saraina Samaadhaanam Kaavaalani Korukuntunnatlu Unnaayi.",
+      "text_en": "As the sound of royal drums announced the approaching dusk, Veera hid behind a pillar and listened to the other contestants talking. As they confidently gave wrong answers, doubts grew in his mind. He heard one person confidently say, \"It's the river! It always changes, but it always stays the same!\" Advisor Praveen shook his head. His eyes seemed to wish for the correct answer before darkness fell."
+    },
+    {
+      "id": 6,
+      "text": "చివరి రోజు ఉదయం, సూర్యుడు ఉదయించి, రాజప్రాసాదం భారీ నీడను ప్రాంగణమంతా పరుచుతుంటే, వీర హఠాత్తుగా ఆ పొడుపు కథ అర్థం చేసుకున్నాడు. చల్లటి, స్వచ్ఛమైన గాలిలో ప్యాలెస్ పచ్చిక బయళ్ళ నుండి వచ్చే పొగమంచు సువాసన అలుముకుంది. అతని నోటి నుండి చిన్నగా ఒక ఆశ్చర్య ధ్వని వెలువడింది, కళ్ళు ఆనందంతో పెద్దవి అయ్యాయి: \"అది... అది కేవలం నీడ కాదు!\" ఒక్కసారిగా — చీకటి పటాపంచలైంది. ఒక విజయవంతమైన చిరునవ్వు అతని పెదవులపై విరిసింది, వీర జనంలో నుండి ముందుకు అడుగు వేశాడు.",
+      "image_prompt": "The boy's eyes widen with sudden understanding as the morning sun casts the palace's huge shadow across the courtyard. A triumphant smile spreads across his lips as he steps forward from the crowd, a small gasp of realization escaping him. Also in this scene: The Royal Advisor, Praveen, is a thin, tall man in his late fifties with a sharp, angular face and a neatly trimmed grey beard. He wears an elaborate, deep indigo silk robe with gold embroidery and a heavy turban, always carrying a rolled scroll in his hand. Always the same character across every scene. Early morning light, a soft, ethereal golden glow just cresting the palace roof, making the long, sharp shadows of the architecture strikingly visible against the courtyard stones, full of potential.",
+      "scene_visual": "The boy's eyes widen with sudden understanding as the morning sun casts the palace's huge shadow across the courtyard. A triumphant smile spreads across his lips as he steps forward from the crowd, a small gasp of realization escaping him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chivari Roju Udayan, Suryudu Udayinchi, Raajapraasaadam Bhaari Nidanu Praanganamantaa Paruchutunte, Vira Hathaattugaa Aa Podupu Katha Artham Chesukunnaadu. Challati, Svachchamaina Gaalilo Pyaales Pachchika Bayalla Nundi Vachche Pogamanchu Suvaasana Alumukundi. Atani Noti Nundi Chinnagaa Oka Aashcharya Dhvani Veluvadindi, Kallu Aanandanto Peddavi Ayyaayi: \"Adi... Adi Kevalam Nida Kaadu!\" Okkasaarigaa — Chikati Pataapanchalaindi. Oka Vijayavantamaina Chirunavvu Atani Pedavulapai Virisindi, Vira Jananlo Nundi Munduku Adugu Veshaadu.",
+      "text_en": "On the morning of the last day, as the sun rose and the royal palace cast its huge shadow all over the courtyard, Veera suddenly understood the riddle. The scent of mist from the palace lawns filled the cool, fresh air. A small gasp of surprise escaped his lips, and his eyes widened with joy: \"It's... it's not just a shadow!\" Suddenly, the confusion vanished. A triumphant smile spread across his lips, and Veera stepped forward from the crowd."
+    },
+    {
+      "id": 7,
+      "text": "వీర రాజు ముందు నిటారుగా నిలబడి, అతని గొంతు స్పష్టంగా, స్థిరంగా వినిపించింది. \"రాజా, ఆ పొడుపు కథకు సమాధానం 'నీడ'!\" అని వివరించాడు. అక్కడ గుమిగూడిన జనం నుండి ఒక సమ్మతి ధ్వని వినిపించింది. రాజు, రాజ సలహాదారు ప్రవీణ్ ఇద్దరూ ఆ బాలుడి జ్ఞానానికి ముగ్ధులయ్యారు. ఆ బాలుడు — విజయం సాధించాడు. రాజు చిరునవ్వుతో, వీర తెలివిని మెచ్చుకుంటూ, విలువైన బహుమతిని ప్రదానం చేశాడు.",
+      "image_prompt": "The boy stands confidently before the king, clearly stating 'The answer to the riddle is 'shadow'!'. The king smiles warmly in admiration of the boy's intelligence, as a murmur of agreement rises from the assembled crowd. Also in this scene: The Royal Advisor, Praveen, is a thin, tall man in his late fifties with a sharp, angular face and a neatly trimmed grey beard. He wears an elaborate, deep indigo silk robe with gold embroidery and a heavy turban, always carrying a rolled scroll in his hand. Always the same character across every scene. Bright, clear morning sun, high in the sky, illuminating the entire palace courtyard evenly, a sense of openness and triumph.",
+      "scene_visual": "The boy stands confidently before the king, clearly stating 'The answer to the riddle is 'shadow'!'. The king smiles warmly in admiration of the boy's intelligence, as a murmur of agreement rises from the assembled crowd.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vira Raaju Mundu Nitaarugaa Nilabadi, Atani Gontu Spashtangaa, Sthirangaa Vinipinchindi. \"Raajaa, Aa Podupu Kathaku Samaadhaanam 'Nida'!\" Ani Vivarinchaadu. Akkada Gumigudina Janam Nundi Oka Sammati Dhvani Vinipinchindi. Raaju, Raaja Salahaadaaru Pravin Iddaru Aa Baaludi Jnyaanaaniki Mugdhulayyaaru. Aa Baaludu — Vijayam Saadhinchaadu. Raaju Chirunavvuto, Vira Telivini Mechchukuntu, Viluvaina Bahumatini Pradaanam Cheshaadu.",
+      "text_en": "Veera stood tall before the King, his voice clear and steady. He explained, \"Your Majesty, the answer to the riddle is 'shadow'!\" A murmur of agreement rose from the gathered crowd. Both the King and Royal Advisor Praveen were impressed by the boy's wisdom. The boy had succeeded. The King smiled, praising Veera's cleverness, and presented him with a valuable gift."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 5,
+    "emotional_depth": 6,
+    "dialogue_richness": 5,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 7,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts a strong, well-structured narrative arc and impeccable grammar, making it a clean and coherent read. The core concept of solving a riddle through keen observation is excellent for a children's story. However, the narrative voice often leans towards formal prose rather than the warm, oral style expected of a bedtime story, which impacts emotional depth and child engagement. To significantly improve, the most critical fix is to infuse the storytelling with more conversational warmth and expand the sparse dialogue to give characters distinct voices, making the narrative more immersive and relatable for young listeners."
+  },
+  "quality_warning": true,
+  "title_te_en": "Nida Cheppina Rahasyam",
+  "moral_te_en": "Chudadam Nerchukunte, Chinna Vishayaallo Kudaa Pedda Pedda Nijaalu Daagi Untaayani Telustundi Kadu.",
+  "title_en": "The Secret Told by the Shadow",
+  "moral_en": "If you learn to look closely, you'll find big truths hidden even in small things.",
+  "id": "20260531_111108",
+  "date": "2026-05-31",
+  "category": "podupu",
+  "subcategory": "royal_riddles",
+  "topic": "కాలం మారే కొద్దీ పొడుపు కథ",
+  "thumbnail": "stories/20260531_111108/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
