@@ -1,0 +1,98 @@
+{
+  "title": "రాము, రాక్షసుడి స్నేహం",
+  "moral": "ఎవరినీ వారి రూపం చూసి తీర్పు చెప్పకూడదు, మనసును చూడాలి.",
+  "main_character": "Ramu is a small, energetic boy, about 8 years old, with bright, curious eyes and a perpetually messy topknot. He loves exploring and making new friends. Always the same character across every scene.",
+  "antagonist": "A large, shaggy creature with rough, dark brown fur and long, curved horns. Its face looks fearsome with prominent fangs, but its eyes are often downcast and appear lonely. It wears no clothes. Always the same character across every scene.",
+  "setting": "A small, vibrant village nestled beside a dense, ancient forest in rural Andhra Pradesh. Brightly painted houses, a central banyan tree, and the sounds of children playing fill the air. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పగలంతా ఆడుకుని, రాముడు ఇంటి పక్కన ఉన్న పెద్ద నీళ్ళ కుండ వెనుక దాక్కున్నాడు. అప్పుడే ఇద్దరు పండు ముసలి వాళ్ళు గుసగుసలాడుకుంటూ అటుగా వచ్చారు — వారి గొంతుల్లో భయం నిండి ఉంది. పక్షుల కిలకిలరావాలు కూడా వారి మాటలను పూర్తిగా కప్పలేకపోయాయి. ఒకరు ఇంకొకరి చెవిలో, \"ఆ అడవిలోకి ఎవ్వరూ వెళ్ళకూడదు... అక్కడ ఒక రాక్షసుడు ఉన్నాడట!\" అని మెల్లగా చెప్పారు. రాముడి కళ్ళు ఒక్కసారిగా పెద్దవయ్యాయి — రాక్షసుడు...! అతని చిన్న మనసులో ఏదో తెలియని ఉత్సాహం మొదలైంది.",
+      "image_prompt": "The boy is crouched behind a large water pot, his eyes widening in surprise and excitement. A spark of unknown excitement flickers in his suddenly wide-open eyes. Soft warm morning light, hopeful gentle atmosphere.",
+      "scene_visual": "The boy is crouched behind a large water pot, his eyes widening in surprise and excitement. A spark of unknown excitement flickers in his suddenly wide-open eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pagalantaa Aadukuni, Raamudu Inti Pakkana Unna Pedda Nilla Kunda Venuka Daakkunnaadu. Appude Iddaru Pandu Musali Vaallu Gusagusalaadukuntu Atugaa Vachchaaru — Vaari Gontullo Bhayam Nindi Undi. Pakshula Kilakilaraavaalu Kudaa Vaari Maatalanu Purtigaa Kappalekapoyaayi. Okaru Inkokari Chevilo, \"Aa Adaviloki Evvaru Vellakudadu... Akkada Oka Raakshasudu Unnaadata!\" Ani Mellagaa Cheppaaru. Raamudi Kallu Okkasaarigaa Peddavayyaayi — Raakshasudu...! Atani Chinna Manasulo Edo Teliyani Utsaaham Modalaindi.",
+      "text_en": "After playing all day, Ramu hid behind a big water pot next to his house. Just then, two old people came by, whispering – their voices filled with fear. Even the chirping of birds couldn't completely cover their words. One whispered into the other's ear, \"No one should go into that forest... they say there's a monster there!\" Ramu's eyes widened suddenly – a monster...! An unknown excitement began in his little heart."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మరుసటి రోజు, సూర్యుడు ఇంకా పూర్తిగా పైకి రాకముందే, రాముడు అడవి అంచు వైపు మెల్లగా అడుగులు వేశాడు. అతని గుండె దడదడ కొట్టుకుంటుంది, కానీ వెనక్కి తగ్గలేదు. పొడి ఆకులపై అతని బట్టలేని పాదాలు పడగానే — చిన్న చప్పుడు అడవి నిశ్శబ్దాన్ని చీల్చింది. \"అది నిజంగానే ఉందా?\" అని తనలో తనే అనుకున్నాడు. ఇంతలో లోపలి నుండి ఏదో బాధతో కూడిన మూలుగు లాంటి శబ్దం వినిపించింది. అడవి లోపల ఏదో పెద్ద నీడ కదులుతున్నట్లు రాముడు చూశాడు.",
+      "image_prompt": "The boy cautiously steps towards the edge of the forest, his bare feet making a soft rustling sound on the dry leaves. His gaze is fixed on a large, moving shadow deep within the trees, from which a pained moan emanates. Late morning sun, a bit hazy, filtering through the dense leaves of the central banyan tree, creating a sense of secrecy and hushed conversation.",
+      "scene_visual": "The boy cautiously steps towards the edge of the forest, his bare feet making a soft rustling sound on the dry leaves. His gaze is fixed on a large, moving shadow deep within the trees, from which a pained moan emanates.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Marusati Roju, Suryudu Inkaa Purtigaa Paiki Raakamunde, Raamudu Adavi Anchu Vaipu Mellagaa Adugulu Veshaadu. Atani Gunde Dadadada Kottukuntundi, Kaani Venakki Taggaledu. Podi Aakulapai Atani Battaleni Paadaalu Padagaane — Chinna Chappudu Adavi Nishshabdaanni Chilchindi. \"Adi Nijangaane Undaa?\" Ani Tanalo Tane Anukunnaadu. Intalo Lopali Nundi Edo Baadhato Kudina Mulugu Laanti Shabdam Vinipinchindi. Adavi Lopala Edo Pedda Nida Kadulutunnatlu Raamudu Chushaadu.",
+      "text_en": "The very next day, even before the sun was fully up, Ramu slowly walked towards the edge of the forest. His heart was thumping, but he didn't turn back. As his bare feet stepped on the dry leaves – a small sound broke the forest's silence. \"Is it really there?\" he wondered to himself. Just then, a pained groan-like sound came from inside. Ramu saw a large shadow moving deep within the forest."
+    },
+    {
+      "id": 3,
+      "text": "రాముడు ఒక పొడవైన చెట్టు వెనుక జాగ్రత్తగా దాక్కున్నాడు, అతని గుండె వేగంగా కొట్టుకుంది. అతను చూసిన దృశ్యం అతనిని ఆశ్చర్యపరిచింది — రాక్షసుడు గర్జించట్లేదు, ఒంటరిగా కూర్చుని, తన పెద్ద పంజాతో వాడిపోయిన పువ్వుని మెల్లగా నిమురుతున్నాడు. అడవి నుండి వస్తున్న తడి మట్టి వాసన, తెలియని పువ్వుల తీపి సువాసన అతని ముక్కుకు తాకాయి. \"అది... అది ఏడుస్తుందా?\" అని రాముడు తనలో తనే అనుకున్నాడు. ఇంతలో, ఆ రాక్షసుడు ఒక్కసారిగా లోతుగా నిట్టూర్చి, ఆ పువ్వును జారవిడిచాడు.",
+      "image_prompt": "The boy peeks from behind a tall tree, observing a large creature sitting alone and gently stroking a withered flower with its massive paw. The creature's large paw delicately brushes against the petals of the wilted flower, contrasting with its immense size. Dappled afternoon light, green and gold, becoming darker and more mysterious deeper into the trees, hinting at hidden things.",
+      "scene_visual": "The boy peeks from behind a tall tree, observing a large creature sitting alone and gently stroking a withered flower with its massive paw. The creature's large paw delicately brushes against the petals of the wilted flower, contrasting with its immense size.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamudu Oka Podavaina Chettu Venuka Jaagrattagaa Daakkunnaadu, Atani Gunde Vegangaa Kottukundi. Atanu Chusina Drrishyam Atanini Aashcharyaparichindi — Raakshasudu Garjinchatledu, Ontarigaa Kurchuni, Tana Pedda Panjaato Vaadipoyina Puvvuni Mellagaa Nimurutunnaadu. Adavi Nundi Vastunna Tadi Matti Vaasana, Teliyani Puvvula Tipi Suvaasana Atani Mukkuku Taakaayi. \"Adi... Adi Edustundaa?\" Ani Raamudu Tanalo Tane Anukunnaadu. Intalo, Aa Raakshasudu Okkasaarigaa Lotugaa Nitturchi, Aa Puvvunu Jaaravidichaadu.",
+      "text_en": "Ramu carefully hid behind a tall tree, his heart beating fast. The sight he saw surprised him – the monster wasn't roaring; it was sitting alone, gently stroking a withered flower with its large paw. The smell of damp earth from the forest and the sweet scent of unknown flowers reached his nose. \"Is it... is it crying?\" Ramu wondered to himself. Just then, the monster let out a deep sigh and dropped the flower."
+    },
+    {
+      "id": 4,
+      "text": "రాక్షసుడి బాధ చూసి రాముడి మనసు కదిలింది, కానీ అప్పుడు అనుకోకుండా ఒక చిన్న కొమ్మ మీద కాలు పెట్టాడు. కటక్ అని విరిగిన ఆ కొమ్మ శబ్దం — అడవి అంతా ఒక్కసారిగా నిశ్శబ్దమైపోయింది. రాక్షసుడు తల ఒక్కసారిగా తిప్పి, తన భయంకరమైన కళ్ళతో రాముడు దాక్కున్న చోటు వైపు చూశాడు. \"అయ్యో!\" అని రాముడి గుండె గొంతులోకి వచ్చింది. రాక్షసుడు గంభీరంగా గర్జిస్తూ రాముడి వైపు అడుగులు వేశాడు. భయంతో రాముడు వెనక్కి తిరిగి గ్రామం వైపు పరుగు తీశాడు.",
+      "image_prompt": "The boy freezes as a branch snaps under his foot, causing the large creature to abruptly turn its head towards his hiding spot. Its terrifying eyes, now fixed on the boy's location, pierce through the sudden silence of the forest. Also in this scene: A large, shaggy creature with rough, dark brown fur and long, curved horns. Its face looks fearsome with prominent fangs, but its eyes are often downcast and appear lonely. It wears no clothes. Always the same character across every scene. Late afternoon, golden light beginning to slant through the trees, highlighting dust motes in the air, creating a soft, melancholic glow around the monster.",
+      "scene_visual": "The boy freezes as a branch snaps under his foot, causing the large creature to abruptly turn its head towards his hiding spot. Its terrifying eyes, now fixed on the boy's location, pierce through the sudden silence of the forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raakshasudi Baadha Chusi Raamudi Manasu Kadilindi, Kaani Appudu Anukokundaa Oka Chinna Komma Mida Kaalu Pettaadu. Katak Ani Virigina Aa Komma Shabdam — Adavi Antaa Okkasaarigaa Nishshabdamaipoyindi. Raakshasudu Tala Okkasaarigaa Tippi, Tana Bhayankaramaina Kallato Raamudu Daakkunna Chotu Vaipu Chushaadu. \"Ayyo!\" Ani Raamudi Gunde Gontuloki Vachchindi. Raakshasudu Gambhirangaa Garjistu Raamudi Vaipu Adugulu Veshaadu. Bhayanto Raamudu Venakki Tirigi Graamam Vaipu Parugu Tishaadu.",
+      "text_en": "Ramu's heart was touched by the monster's sadness, but then he accidentally stepped on a small twig. The twig snapped with a \"Katak\" sound – and the entire forest suddenly fell silent. The monster turned its head sharply and looked with its fearsome eyes towards where Ramu was hiding. \"Oh no!\" Ramu's heart jumped into his throat. The monster let out a deep roar and took steps towards Ramu. Frightened, Ramu turned back and ran towards the village."
+    },
+    {
+      "id": 5,
+      "text": "ఇంటికి తిరిగి వచ్చాక కూడా, రాముడి మనసులో ఆ రాక్షసుడి బాధే మెదిలింది. అతని ముఖంపై చిన్నగా ఆలోచనలు మెరిశాయి. \"భయపెట్టడం దాని ఉద్దేశ్యం కాదేమో... బహుశా అది ఒంటరిగా ఉందేమో?\" అని తనలో తనే ప్రశ్నించుకున్నాడు. తన తోటలోని తీయని మామిడి పండ్ల రసం అతని చేతులకు అంటుకుంది. ఈసారి, రాముడు ఒక ప్రణాళికతో తల పంకించాడు — రాక్షసుడి కళ్ళలో బాధ కనిపించింది. అతను వెంటనే కొన్ని మంచి పండ్లను ఎంపిక చేసి, వాటిని ఒక చిన్న బుట్టలో సర్దడం మొదలుపెట్టాడు.",
+      "image_prompt": "The boy, with fruit juice on his hands, thoughtfully shakes his head, then begins carefully selecting and arranging fresh fruits into a small basket. A determined expression settles on his face as he meticulously places each piece of fruit into the woven container. Also in this scene: A large, shaggy creature with rough, dark brown fur and long, curved horns. Its face looks fearsome with prominent fangs, but its eyes are often downcast and appear lonely. It wears no clothes. Always the same character across every scene. The light is fading fast, shadows lengthening and deepening, making the forest appear more menacing and claustrophobic as the monster growls.",
+      "scene_visual": "The boy, with fruit juice on his hands, thoughtfully shakes his head, then begins carefully selecting and arranging fresh fruits into a small basket. A determined expression settles on his face as he meticulously places each piece of fruit into the woven container.",
+      "supporting_char_keys": [],
+      "text_te_en": "Intiki Tirigi Vachchaaka Kudaa, Raamudi Manasulo Aa Raakshasudi Baadhe Medilindi. Atani Mukhampai Chinnagaa Aalochanalu Merishaayi. \"Bhayapettadam Daani Uddeshyam Kaademo... Bahushaa Adi Ontarigaa Undemo?\" Ani Tanalo Tane Prashninchukunnaadu. Tana Totaloni Tiyani Maamidi Pandla Rasam Atani Chetulaku Antukundi. Isaari, Raamudu Oka Pranaalikato Tala Pankinchaadu — Raakshasudi Kallalo Baadha Kanipinchindi. Atanu Ventane Konni Manchi Pandlanu Empika Chesi, Vaatini Oka Chinna Buttalo Sardadam Modalupettaadu.",
+      "text_en": "Even after returning home, the monster's sadness stayed in Ramu's mind. Small thoughts flickered across his face. \"Maybe it didn't mean to scare me... Maybe it's just lonely?\" he asked himself. The sweet juice from the mangoes in his garden was sticky on his hands. This time, Ramu nodded his head with a plan – he had seen the sadness in the monster's eyes. He immediately picked some good fruits and began arranging them in a small basket."
+    },
+    {
+      "id": 6,
+      "text": "మళ్ళీ అడవిలోకి వెళ్ళిన రాముడు, రాక్షసుడు కూర్చున్న చోటుకు దగ్గరగా వెళ్ళాడు. అతని చేతులు కొద్దిగా వణికినా, అతని కళ్ళల్లో మాత్రం ధైర్యం కనిపించింది. బుట్టను జాగ్రత్తగా నేలమీద పెట్టాడు — ఆకుపచ్చని పాచి నేలమీద బుట్ట మెల్లగా పడగానే, చిన్నగా శబ్దం వచ్చింది. \"ఇవి నీ కోసమే... భయపడకు,\" అని మెల్లగా చెప్పాడు. రాముడు కొన్ని అడుగులు వెనక్కి జరిగి, రాక్షసుడు ఏం చేస్తాడో అని చూశాడు. రాక్షసుడు మెల్లగా గాలిని పీల్చుకుంటూ, బుట్ట వైపు చూశాడు.",
+      "image_prompt": "The boy, with slightly trembling hands but courageous eyes, gently places a small basket onto the mossy ground near the creature. He then takes a few steps back, his gaze fixed on the creature as it slowly turns its head to look at the offering. Warm, soft light of early evening inside Ramu's simple home, casting long, peaceful shadows as he prepares his gift.",
+      "scene_visual": "The boy, with slightly trembling hands but courageous eyes, gently places a small basket onto the mossy ground near the creature. He then takes a few steps back, his gaze fixed on the creature as it slowly turns its head to look at the offering.",
+      "supporting_char_keys": [],
+      "text_te_en": "Malli Adaviloki Vellina Raamudu, Raakshasudu Kurchunna Chotuku Daggaragaa Vellaadu. Atani Chetulu Koddigaa Vanikinaa, Atani Kallallo Maatram Dhairyam Kanipinchindi. Buttanu Jaagrattagaa Nelamida Pettaadu — Aakupachchani Paachi Nelamida Butta Mellagaa Padagaane, Chinnagaa Shabdam Vachchindi. \"Ivi Ni Kosame... Bhayapadaku,\" Ani Mellagaa Cheppaadu. Raamudu Konni Adugulu Venakki Jarigi, Raakshasudu Em Chestaado Ani Chushaadu. Raakshasudu Mellagaa Gaalini Pilchukuntu, Butta Vaipu Chushaadu.",
+      "text_en": "Ramu went into the forest again, approaching the spot where the monster had been sitting. Though his hands trembled a little, courage shone in his eyes. He carefully placed the basket on the ground – as the basket gently landed on the mossy ground, there was a soft sound. \"These are for you... don't be afraid,\" he said softly. Ramu stepped back a few paces and watched to see what the monster would do. The monster slowly sniffed the air and looked towards the basket."
+    },
+    {
+      "id": 7,
+      "text": "రాక్షసుడు మెల్లగా బుట్ట దగ్గరకు వచ్చి, ఒక పండును తీసుకున్నాడు — దాన్ని తింటున్నప్పుడు చిన్నగా, సంతృప్తికరమైన శబ్దం వచ్చింది. అతని ఒంటరి కళ్ళు రాముడి వైపు చూశాయి, వాటిలో కృతజ్ఞత మెరిసింది. రాముడు పెదవులపై చిరునవ్వుతో నిలబడ్డాడు, అతని గుండె శాంతితో నిండిపోయింది. \"నువ్వు ఇక ఒంటరివి కావు,\" అని రాముడు మెల్లగా గుసగుసలాడాడు. ఆ పండు తింటున్న రాక్షసుడి ముఖంలో కొత్త స్నేహం మొదలైంది.",
+      "image_prompt": "The large creature slowly picks a fruit from the basket and eats it, a soft, satisfied sound emanating from it. Its solitary eyes, now reflecting a glimmer of gratitude, meet the boy's peaceful, smiling face. Also in this scene: A large, shaggy creature with rough, dark brown fur and long, curved horns. Its face looks fearsome with prominent fangs, but its eyes are often downcast and appear lonely. It wears no clothes. Always the same character across every scene. Golden hour light, soft and ethereal, filtering through the trees, creating a magical, hopeful atmosphere around the offering.",
+      "scene_visual": "The large creature slowly picks a fruit from the basket and eats it, a soft, satisfied sound emanating from it. Its solitary eyes, now reflecting a glimmer of gratitude, meet the boy's peaceful, smiling face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raakshasudu Mellagaa Butta Daggaraku Vachchi, Oka Pandunu Tisukunnaadu — Daanni Tintunnappudu Chinnagaa, Santrriptikaramaina Shabdam Vachchindi. Atani Ontari Kallu Raamudi Vaipu Chushaayi, Vaatilo Krritajnyata Merisindi. Raamudu Pedavulapai Chirunavvuto Nilabaddaadu, Atani Gunde Shaantito Nindipoyindi. \"Nuvvu Ika Ontarivi Kaavu,\" Ani Raamudu Mellagaa Gusagusalaadaadu. Aa Pandu Tintunna Raakshasudi Mukhanlo Kotta Sneham Modalaindi.",
+      "text_en": "The monster slowly came to the basket and picked up a fruit – as it ate, a small, contented sound came out. Its lonely eyes looked at Ramu, and gratitude shone in them. Ramu stood with a smile on his lips, his heart filled with peace. \"You're not alone anymore,\" Ramu whispered softly. On the monster's face, as it ate the fruit, a new friendship began."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "emotional_depth",
+    "notes": "The story presents a compelling narrative arc with excellent grammar, forming a strong foundation. However, it frequently states emotions and internal states rather than showing them through action or vivid description, which diminishes the reader's connection to the characters. The dialogue, while present, is often internal or generic, lacking distinct character voices and opportunities to advance the plot more dynamically. To elevate this story to an award-worthy level, focus on embodying emotions through sensory details and actions, and enriching character interactions with more specific and engaging dialogue."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamu, Raakshasudi Sneham",
+  "moral_te_en": "Evarini Vaari Rupam Chusi Tirpu Cheppakudadu, Manasunu Chudaali.",
+  "title_en": "Ramu and the Monster's Friendship",
+  "moral_en": "Don't judge anyone by their appearance; look at their heart.",
+  "id": "20260531_201107",
+  "date": "2026-05-31",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "భయపెట్టే రాక్షసుడు మరియు స్నేహపూర్వక బాలుడు",
+  "thumbnail": "stories/20260531_201107/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
