@@ -1,0 +1,108 @@
+{
+  "title": "శబరి ప్రేమ, రాముడి కరుణ",
+  "moral": "నిజమైన భక్తికి, ఓర్పుకు దైవ కృప ఎప్పుడూ లభిస్తుంది.",
+  "main_character": "An elderly tribal woman, with a kind, wrinkled face and eyes that sparkle with anticipation. Her hair is white, often tied in a simple bun, and she wears simple, faded saffron-colored garments. She moves with a gentle grace despite her age, reflecting a life of devotion. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A serene forest ashram nestled deep within the Dandakaranya forest, on the banks of the Pampa River. Simple huts made of wood and leaves are scattered amongst ancient trees, surrounded by vibrant wildflowers and a clear stream. The air is always filled with the scent of forest herbs and blooming lotuses. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకప్పుడు దండకారణ్యంలో, పంపా నది ఒడ్డున ఒక చిన్న ఆశ్రమం ఉండేది, అక్కడ శబరి అనే ముసలమ్మ నివసించేది. ఆమె గురువులు చెప్పిన మాటను నమ్మి, రోజూ తన ఆశ్రమానికి దారి తీసే మార్గాన్ని శుభ్రం చేస్తూ ఉండేది. మెల్లగా, జాగ్రత్తగా, ఎండుటాకులను చీపురుతో పక్కకు తోస్తూ, ఆమె ముఖం మీద ఒక చిన్న చిరునవ్వు మెరిసేది. \"నా గురువు మాట నిజమవుతుంది, రాముడు వస్తాడు!\" అని ఆమె మనసులో అనుకునేది. ఆ బాటలో రాముడి అడుగులు పడతాయని ఆమె మనసు నిండా నమ్మకం. రోజూ ఆ దారిని చూసి, ఒక దీర్ఘశ్వాస విడిచేది, ఇంకా వేచిచూడాలని ఆమెకు తెలుసు.",
+      "image_prompt": "The old woman carefully sweeps dry leaves from the path leading to her ashram with a broom. A small smile of anticipation lights up her face as she works. Warm morning sunlight filtering through ancient trees, dappling the forest floor in golden patches.",
+      "scene_visual": "The old woman carefully sweeps dry leaves from the path leading to her ashram with a broom. A small smile of anticipation lights up her face as she works.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okappudu Dandakaaranyanlo, Pampaa Nadi Odduna Oka Chinna Aashramam Undedi, Akkada Shabari Ane Musalamma Nivasinchedi. Aame Guruvulu Cheppina Maatanu Nammi, Roju Tana Aashramaaniki Daari Tise Maargaanni Shubhram Chestu Undedi. Mellagaa, Jaagrattagaa, Endutaakulanu Chipuruto Pakkaku Tostu, Aame Mukham Mida Oka Chinna Chirunavvu Merisedi. \"Naa Guruvu Maata Nijamavutundi, Raamudu Vastaadu!\" Ani Aame Manasulo Anukunedi. Aa Baatalo Raamudi Adugulu Padataayani Aame Manasu Nindaa Nammakan. Roju Aa Daarini Chusi, Oka Dirghashvaasa Vidichedi, Inkaa Vechichudaalani Aameku Telusu.",
+      "text_en": "Once upon a time, in the Dandakaranya forest, by the Pampa River, lived an old woman named Shabari in a small ashram. She believed her gurus' words and cleaned the path leading to her ashram every single day. Slowly and carefully, she swept the dry leaves away with her broom, a small smile shining on her face. 'My guru's words will come true, Rama will come!' she would think in her heart. Her heart was full of faith that Rama's feet would walk on that very path. Every day, she would look at the path, let out a deep sigh, and know she still had to wait."
+    },
+    {
+      "id": 2,
+      "text": "రోజులు వారాలుగా, వారాలు నెలలుగా, నెలలు సంవత్సరాలుగా మారాయి, కానీ శబరి ఎదురుచూపు మాత్రం ఆగలేదు. పంపా నది ఒడ్డున, అదే ఆశ్రమం ముందు కూర్చుని, ఆమె చూపు అదే దారిపై నిలిచి ఉండేది. దూరంగా కోయిల పిలుపు వినబడింది, అది ఆమె ఒంటరితనాన్ని గుర్తుచేసినట్లుంది. \"ఎంత కాలం వేచి ఉండాలి ప్రభూ?\" అని ఆమె పెదవులు మెల్లగా కదిలాయి. ఒక చిన్న నీడ ఆమె ముఖం మీద పడి, వెంటనే మాయమైంది, కానీ, ఆమె గుండెలో మాత్రం — ఆశ అనే దీపం ఎప్పుడూ కొండెక్కిపోలేదు. కళ్ళు మూసుకుని, పెదవులు కదిపింది, మళ్ళీ కళ్ళు తెరిచి, ఆమె చూపు దృఢంగా మారింది.",
+      "image_prompt": "The old woman sits patiently in front of her ashram, her unwavering gaze fixed on the distant path. Her lips subtly move as if in a silent prayer or question, reflecting her deep longing. Gentle afternoon light, slightly muted by the dense canopy, creating long, soft shadows.",
+      "scene_visual": "The old woman sits patiently in front of her ashram, her unwavering gaze fixed on the distant path. Her lips subtly move as if in a silent prayer or question, reflecting her deep longing.",
+      "supporting_char_keys": [],
+      "text_te_en": "Rojulu Vaaraalugaa, Vaaraalu Nelalugaa, Nelalu Sanvatsaraalugaa Maaraayi, Kaani Shabari Eduruchupu Maatram Aagaledu. Pampaa Nadi Odduna, Ade Aashramam Mundu Kurchuni, Aame Chupu Ade Daaripai Nilichi Undedi. Durangaa Koyila Pilupu Vinabadindi, Adi Aame Ontaritanaanni Gurtuchesinatlundi. \"Enta Kaalam Vechi Undaali Prabhu?\" Ani Aame Pedavulu Mellagaa Kadilaayi. Oka Chinna Nida Aame Mukham Mida Padi, Ventane Maayamaindi, Kaani, Aame Gundelo Maatram — Aasha Ane Dipam Eppudu Kondekkipoledu. Kallu Musukuni, Pedavulu Kadipindi, Malli Kallu Terichi, Aame Chupu Drridhangaa Maarindi.",
+      "text_en": "Days turned into weeks, weeks into months, and months into years, but Shabari's wait never ended. Sitting by the Pampa River, in front of her ashram, her eyes stayed fixed on that path. In the distance, a cuckoo's call was heard, as if reminding her of how alone she was. 'How long must I wait, my Lord?' her lips softly whispered. A small shadow fell on her face and quickly vanished, but in her heart, the lamp of hope never dimmed. She closed her eyes, her lips moved in prayer, then she opened her eyes again, and her gaze was strong and steady."
+    },
+    {
+      "id": 3,
+      "text": "శబరి ఆశ్రమం వెనుక అడవిలోకి వెళ్ళింది, రాముడి కోసం కమ్మని పండ్లను సేకరించాలని ఆమె కోరిక. తీయని పండును మాత్రమే ఆయనకు ఇవ్వాలని, ఆమె ప్రతి పండును జాగ్రత్తగా పరిశీలించింది. మెల్లగా ఒక పండును నోట్లో వేసుకుని, కళ్ళు మూసుకుని రుచి చూసింది — దాని తీపి, పులుపు ఆమె నాలుకపై ఒక అద్భుతమైన రుచిని పంచింది. \"నా రాముడికి కమ్మని పండు కావాలి,\" అని అనుకుంటూ, ఒక ఆకు దొప్పలో పండ్లను సేకరించింది. ప్రతి పండులోనూ — ఆమె ప్రేమ కనిపించింది. ఒక పరిపూర్ణమైన పండును చేతిలోకి తీసుకుని, ఆమె ముఖం మీద ప్రకాశవంతమైన చిరునవ్వు వెలిగింది.",
+      "image_prompt": "The old woman closes her eyes, savoring the taste of a fruit she has just put in her mouth to test its sweetness. A bright, satisfied smile spreads across her face as she holds a perfectly ripe fruit in her hand. Bright, clear midday sun illuminating the forest clearing where the berries grow, casting sharp contrasts.",
+      "scene_visual": "The old woman closes her eyes, savoring the taste of a fruit she has just put in her mouth to test its sweetness. A bright, satisfied smile spreads across her face as she holds a perfectly ripe fruit in her hand.",
+      "supporting_char_keys": [],
+      "text_te_en": "Shabari Aashramam Venuka Adaviloki Vellindi, Raamudi Kosam Kammani Pandlanu Sekarinchaalani Aame Korika. Tiyani Pandunu Maatrame Aayanaku Ivvaalani, Aame Prati Pandunu Jaagrattagaa Parishilinchindi. Mellagaa Oka Pandunu Notlo Vesukuni, Kallu Musukuni Ruchi Chusindi — Daani Tipi, Pulupu Aame Naalukapai Oka Adbhutamaina Ruchini Panchindi. \"Naa Raamudiki Kammani Pandu Kaavaali,\" Ani Anukuntu, Oka Aaku Doppalo Pandlanu Sekarinchindi. Prati Pandulonu — Aame Prema Kanipinchindi. Oka Paripurnamaina Pandunu Chetiloki Tisukuni, Aame Mukham Mida Prakaashavantamaina Chirunavvu Veligindi.",
+      "text_en": "Shabari went into the forest behind her ashram, wanting to gather the most delicious fruits for Rama. She wanted to give him only the sweetest ones, so she carefully checked each fruit. Gently, she put a fruit in her mouth, closed her eyes, and tasted it – its sweet and tangy flavor was wonderful on her tongue. 'My Rama must have only the most delicious fruit,' she thought, as she gathered the fruits in a cup made of leaves. In every single fruit, her love shone through. Holding a perfect fruit in her hand, a bright smile lit up her face."
+    },
+    {
+      "id": 4,
+      "text": "దండకారణ్యం గుండా రాముడు, లక్ష్మణుడు నడుస్తున్నారు, సీతమ్మ జాడ కోసం వారి అన్వేషణ ఆగలేదు. రాముడి కళ్ళు సీతమ్మ కోసం అన్వేషిస్తూనే ఉన్నాయి, ఆయన ముఖం మీద ఒక నిశ్శబ్దమైన బాధ కనిపించింది. లక్ష్మణుడు ధనుస్సును పటిష్టంగా పట్టుకుని, అన్నయ్య వైపు ఆందోళనగా చూశాడు. వారి అడుగుల క్రింద ఎండుటాకులు కరకరలాడాయి, అది అడవి నిశ్శబ్దాన్ని భేదించింది. \"లక్ష్మణా, ఇక్కడ ఏదో పవిత్రమైన శక్తి ఉంది,\" అని రాముడు మెల్లగా అన్నాడు. ఆ అడవిలో — అడుగులు వాటంతట అవే ఒక దిశగా సాగుతున్నాయి. ఆ దారి వారికి మరింత ప్రకాశవంతంగా కనిపించడం మొదలుపెట్టింది.",
+      "image_prompt": "Two men walk through a dense forest, their steps crunching loudly on the dry leaves scattered across the ground. The elder man's face carries a silent sorrow, while the younger man holds his bow firmly, looking at him with concern. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Late afternoon sun, long rays piercing through the trees, creating a path of light ahead of them.",
+      "scene_visual": "Two men walk through a dense forest, their steps crunching loudly on the dry leaves scattered across the ground. The elder man's face carries a silent sorrow, while the younger man holds his bow firmly, looking at him with concern.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana"
+      ],
+      "text_te_en": "Dandakaaranyam Gundaa Raamudu, Lakshmanudu Nadustunnaaru, Sitamma Jaada Kosam Vaari Anveshana Aagaledu. Raamudi Kallu Sitamma Kosam Anveshistune Unnaayi, Aayana Mukham Mida Oka Nishshabdamaina Baadha Kanipinchindi. Lakshmanudu Dhanussunu Patishtangaa Pattukuni, Annayya Vaipu Aandolanagaa Chushaadu. Vaari Adugula Krinda Endutaakulu Karakaralaadaayi, Adi Adavi Nishshabdaanni Bhedinchindi. \"Lakshmanaa, Ikkada Edo Pavitramaina Shakti Undi,\" Ani Raamudu Mellagaa Annaadu. Aa Adavilo — Adugulu Vaatantata Ave Oka Dishagaa Saagutunnaayi. Aa Daari Vaariki Marinta Prakaashavantangaa Kanipinchadam Modalupettindi.",
+      "text_en": "Rama and Lakshmana were walking through the Dandakaranya forest, their search for Sita never-ending. Rama's eyes kept searching for Sita, and a quiet sadness was on his face. Lakshmana held his bow tightly and looked at his elder brother with worry. Dry leaves crunched under their feet, breaking the forest's silence. 'Lakshmana, there is a sacred power here,' Rama said softly. In that forest, their footsteps seemed to move on their own towards one direction. The path began to look brighter to them."
+    },
+    {
+      "id": 5,
+      "text": "ఆ ప్రకాశవంతమైన దారి శబరి ఆశ్రమం వద్ద ముగిసింది, అక్కడ రాముడు, లక్ష్మణుడు నిలబడ్డారు. శబరి వారిని చూడగానే — ఆమె కళ్ళ నుండి ఆనంద భాష్పాలు జలజల రాలాయి, ఆమె చేతులు వణికాయి. ఆమె వేచిచూసిన క్షణం వచ్చేసింది! ఆకు దొప్పలోని పండ్లను రాముడికి అందించింది, వాటి నుండి కమ్మని మట్టి సువాసన, పండ్ల తీపి వాసన గుబాళించింది. రాముడు మెల్లగా పండ్లను తీసుకుని, ఆమెను ప్రేమగా చూశాడు, లక్ష్మణుడు భక్తితో తల వంచుకుని ఆ దృశ్యాన్ని చూశాడు. \"నీ భక్తి నాకు అమూల్యమైనది, శబరీ,\" అని రాముడు కరుణగా అన్నాడు. రాముడు పండును నోట్లో పెట్టుకోగానే — శబరి శరీరం నుండి దివ్యమైన కాంతి వెలువడింది.",
+      "image_prompt": "The old woman, with trembling hands and tears of joy streaming down her face, offers a leaf-cup filled with fruits to the man. As the man gently takes a fruit, a radiant, divine light begins to emanate from the old woman's entire body. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. A soft, ethereal glow begins to suffuse the ashram, radiating from Shabari and gently illuminating Rama and Lakshmana.",
+      "scene_visual": "The old woman, with trembling hands and tears of joy streaming down her face, offers a leaf-cup filled with fruits to the man. As the man gently takes a fruit, a radiant, divine light begins to emanate from the old woman's entire body.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana"
+      ],
+      "text_te_en": "Aa Prakaashavantamaina Daari Shabari Aashramam Vadda Mugisindi, Akkada Raamudu, Lakshmanudu Nilabaddaaru. Shabari Vaarini Chudagaane — Aame Kalla Nundi Aananda Bhaashpaalu Jalajala Raalaayi, Aame Chetulu Vanikaayi. Aame Vechichusina Kshanam Vachchesindi! Aaku Doppaloni Pandlanu Raamudiki Andinchindi, Vaati Nundi Kammani Matti Suvaasana, Pandla Tipi Vaasana Gubaalinchindi. Raamudu Mellagaa Pandlanu Tisukuni, Aamenu Premagaa Chushaadu, Lakshmanudu Bhaktito Tala Vanchukuni Aa Drrishyaanni Chushaadu. \"Ni Bhakti Naaku Amulyamainadi, Shabari,\" Ani Raamudu Karunagaa Annaadu. Raamudu Pandunu Notlo Pettukogaane — Shabari Shariram Nundi Divyamaina Kaanti Veluvadindi.",
+      "text_en": "That bright path led them to Shabari's ashram, where Rama and Lakshmana stood. As soon as Shabari saw them, tears of joy streamed from her eyes, and her hands trembled. The moment she had waited for had finally come! She offered the fruits from her leaf cup to Rama. A wonderful earthy scent and the sweet smell of the fruits filled the air. Rama gently took the fruits and looked at her with love. Lakshmana watched the scene, bowing his head in respect. 'Your devotion is priceless to me, Shabari,' Rama said with kindness. As soon as Rama put a fruit in his mouth, a divine light shone from Shabari's body."
+    },
+    {
+      "id": 6,
+      "text": "ఆ దివ్యమైన కాంతితో శబరి శరీరం మెరిసిపోయింది, ఆమె ముఖం మీద లోతైన శాంతి, సంతృప్తి కనిపించాయి. ఆ ఆశ్రమం చుట్టూ చల్లటి గాలి వీచింది, మల్లెపూల సువాసన అడవంతా నిండిపోయింది. రాముడు, లక్ష్మణుడు చేతులు జోడించి నిలబడ్డారు, భక్తికి మించిన గొప్ప శక్తి లేదని వారికి తెలిసింది. మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? శబరి శరీరం నుండి ఆమె ఆత్మ మెల్లగా పైకి లేచింది — ఆకాశంలోకి సాగిపోయింది. ఆ క్షణంలో, న్యాయం జరిగింది — ఒక భక్తురాలి కోరిక నెరవేరింది, దైవ కృప ఆమెను ఆవరించింది.",
+      "image_prompt": "The old woman's body glows intensely with divine light as her soul slowly ascends upwards from her form. Her face is serene and filled with deep peace, while the two men stand with folded hands, watching her rise into the sky. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. The ashram is bathed in a soft, golden-white divine light, emanating from the sky and around the ascending spirit of Shabari, creating a serene and awe-inspiring atmosphere.",
+      "scene_visual": "The old woman's body glows intensely with divine light as her soul slowly ascends upwards from her form. Her face is serene and filled with deep peace, while the two men stand with folded hands, watching her rise into the sky.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana"
+      ],
+      "text_te_en": "Aa Divyamaina Kaantito Shabari Shariram Merisipoyindi, Aame Mukham Mida Lotaina Shaanti, Santrripti Kanipinchaayi. Aa Aashramam Chuttu Challati Gaali Vichindi, Mallepula Suvaasana Adavantaa Nindipoyindi. Raamudu, Lakshmanudu Chetulu Jodinchi Nilabaddaaru, Bhaktiki Minchina Goppa Shakti Ledani Vaariki Telisindi. Miku Telusaa, Appudu Em Jarigindo? Shabari Shariram Nundi Aame Aatma Mellagaa Paiki Lechindi — Aakaashanloki Saagipoyindi. Aa Kshananlo, Nyaayam Jarigindi — Oka Bhakturaali Korika Neraverindi, Daiva Krripa Aamenu Aavarinchindi.",
+      "text_en": "With that divine light, Shabari's body glowed, and deep peace and happiness filled her face. A cool breeze blew around the ashram, and the sweet smell of jasmine flowers filled the whole forest. Rama and Lakshmana stood with folded hands, knowing that no power was greater than true devotion. Do you know what happened next? Shabari's soul slowly rose from her body – and floated up into the sky. In that moment, everything was right – a devotee's wish had come true, and divine grace had embraced her."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 6.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 9,
+    "narrative_arc": 8,
+    "child_engagement": 7,
+    "average": 6.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story presents a solid narrative arc with commendable grammar and some authentic oral warmth, particularly in the final scene's direct address. However, its primary weakness lies in the limited and often stated emotional depth, coupled with a significant lack of rich, character-specific dialogue. To reach an award-worthy level, the editor must focus on transforming reported emotions into vivid actions and significantly enhancing character interaction through dynamic, scene-advancing dialogue. This would make the characters more alive and the narrative far more engaging for a child."
+  },
+  "quality_warning": true,
+  "title_te_en": "Shabari Prema, Raamudi Karuna",
+  "moral_te_en": "Nijamaina Bhaktiki, Orpuku Daiva Krripa Eppudu Labhistundi.",
+  "title_en": "Shabari's Devotion, Rama's Grace",
+  "moral_en": "Divine grace always comes to those with true devotion and patience.",
+  "id": "20260531_231017",
+  "date": "2026-05-31",
+  "category": "ramayana",
+  "subcategory": "devotion_tales",
+  "topic": "రాముడు మరియు శబరి భక్తి",
+  "thumbnail": "stories/20260531_231017/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
