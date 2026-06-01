@@ -1,0 +1,109 @@
+{
+  "title": "చిట్టి ఎలుక, బోను గుట్టు",
+  "moral": "కొత్త వాటి పట్ల ఆసక్తి ఉన్నా, తెలివైన వారి సలహా వినడం ఎప్పుడూ మంచిది.",
+  "main_character": "A small, quick, grey field mouse named Chitti Eluka with large, curious black eyes and twitching whiskers. He is generally good-natured but sometimes naive and easily tempted by new things. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A weathered, ancient stone temple with crumbling carvings, nestled among banyan trees and thorny bushes, on the dry, dusty banks of the Krishna River in rural Andhra Pradesh. The air is often thick with the scent of dry earth and jasmine. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కృష్ణమ్మ ఒడ్డున ఉన్న పాడుబడిన గుడి దగ్గర చిట్టి ఎలుక తన పొట్ట నింపుకోవడానికి పొలంలో తిరుగుతోంది. గింజల కోసం ఆకుల గుండా వెళ్తుంటే — మెల్లని శబ్దం వినిపించింది. తన సన్నని ముక్కుతో నేలను వాసన చూస్తూ, అది జాగ్రత్తగా ముందుకు కదిలింది. \"అబ్బ! ఈరోజు మంచి ఆహారం దొరికింది!\" అని అనుకుంటూ ఒక పెద్ద గింజను పట్టుకుంది. ఇంతలో దాని కళ్ళు ఒక మెరిసే, గుండ్రని వింత విత్తనంపై పడ్డాయి — అదెప్పుడూ చూడనిది.",
+      "image_prompt": "The small mouse pauses its foraging, holding a large grain in its paws. Its eyes are wide with curiosity, fixed on a strange, shiny, round seed it has never seen before. Bright, warm morning sun filtering through the banyan leaves, casting dappled light on the dusty ground, feeling safe and serene.",
+      "scene_visual": "The small mouse pauses its foraging, holding a large grain in its paws. Its eyes are wide with curiosity, fixed on a strange, shiny, round seed it has never seen before.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnamma Odduna Unna Paadubadina Gudi Daggara Chitti Eluka Tana Potta Nimpukovadaaniki Polanlo Tirugutondi. Ginjala Kosam Aakula Gundaa Veltunte — Mellani Shabdam Vinipinchindi. Tana Sannani Mukkuto Nelanu Vaasana Chustu, Adi Jaagrattagaa Munduku Kadilindi. \"Abba! Iroju Manchi Aahaaram Dorikindi!\" Ani Anukuntu Oka Pedda Ginjanu Pattukundi. Intalo Daani Kallu Oka Merise, Gundrani Vinta Vittanampai Paddaayi — Adeppudu Chudanidi.",
+      "text_en": "Near the abandoned temple on the banks of the Krishnamma river, Chitti Eluka was scurrying through the fields to fill her tummy. As she went through the leaves looking for seeds — she heard a soft sound. Sniffing the ground with her tiny nose, she moved forward carefully. \"Oh! I found good food today!\" she thought, grabbing a big seed. Just then, her eyes fell upon a shiny, round, strange seed — one she had never seen before."
+    },
+    {
+      "id": 2,
+      "text": "ఆ వింత విత్తనాన్ని చూస్తూండగానే, మూడు కొత్త ఎలుకలు దాని దగ్గరకు వచ్చాయి. వాటి నుండి వింతగా, తియ్యగా ఉన్న వాసన వస్తోంది — అది ఎప్పుడూ పీల్చని సువాసన. చిట్టి ఎలుక చెవులు నిక్కబొడుచుకుంది, తోక కదలకుండా నిలబడింది. \"మాతో రా! అక్కడ బోలెడంత రుచికరమైన ఆహారం ఉంది!\" అని అవి ఉత్సాహంగా పిలిచాయి. ఆ కొత్త ఎలుకలు చూపిన వైపు — దాని ఇంటికి దూరంగా ఉన్న దారి వైపు — చిట్టి ఎలుక ఒకసారి చూసింది.",
+      "image_prompt": "The small mouse stands motionless, its ears perked up, as three new mice enthusiastically call to it. It casts a hesitant glance towards the distant path, away from its home, indicated by the newcomers. Mid-morning, slightly brighter and more open than the previous scene, with the sunlight feeling a little more direct and less comforting.",
+      "scene_visual": "The small mouse stands motionless, its ears perked up, as three new mice enthusiastically call to it. It casts a hesitant glance towards the distant path, away from its home, indicated by the newcomers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vinta Vittanaanni Chustundagaane, Mudu Kotta Elukalu Daani Daggaraku Vachchaayi. Vaati Nundi Vintagaa, Tiyyagaa Unna Vaasana Vastondi — Adi Eppudu Pilchani Suvaasana. Chitti Eluka Chevulu Nikkaboduchukundi, Toka Kadalakundaa Nilabadindi. \"Maato Raa! Akkada Boledanta Ruchikaramaina Aahaaram Undi!\" Ani Avi Utsaahangaa Pilichaayi. Aa Kotta Elukalu Chupina Vaipu — Daani Intiki Durangaa Unna Daari Vaipu — Chitti Eluka Okasaari Chusindi.",
+      "text_en": "As she was looking at the strange seed, three new mice came near her. A strange, sweet smell was coming from them — a scent she had never smelled before. Chitti Eluka perked up her ears and stood still, her tail unmoving. \"Come with us! There's lots of delicious food there!\" they called out excitedly. Chitti Eluka looked once in the direction the new mice pointed — towards a path far from her home."
+    },
+    {
+      "id": 3,
+      "text": "కొత్త ఎలుకల మాయమాటలకు ఆకర్షితుడై, చిట్టి ఎలుక వాటి వెంట వెళ్ళడానికి సిద్ధమైంది. ఇంతలో, పైనున్న చెట్టు నుండి జ్ఞాని గుడ్లగూబ మెల్లగా కిందకి దిగింది. గుడ్లగూబ లోతైన, మృదువైన హూట్ శబ్దం చేసింది — అది ఒక హెచ్చరిక. \"చిట్టి ఎలుకా, అపరిచితులు ఇచ్చే సులభమైన ఆహారం ప్రమాదకరం!\" అని గుడ్లగూబ గంభీరంగా పలికింది. చిట్టి ఎలుక తన మీసాలను విసుగుగా కదిలించి, గుడ్లగూబ మాటలను పట్టించుకోకుండా అక్కడి నుండి వేగంగా వెళ్ళిపోయింది.",
+      "image_prompt": "The small mouse twitches its whiskers in annoyance, ignoring the wise owl perched nearby. It then scurries away quickly, heading in the direction the new mice had shown, leaving the owl behind. The shadow of the owl briefly covers Chitti Eluka as it swoops down, creating a momentary chill in the otherwise bright, late morning light.",
+      "scene_visual": "The small mouse twitches its whiskers in annoyance, ignoring the wise owl perched nearby. It then scurries away quickly, heading in the direction the new mice had shown, leaving the owl behind.",
+      "supporting_char_keys": [
+        "owl"
+      ],
+      "text_te_en": "Kotta Elukala Maayamaatalaku Aakarshitudai, Chitti Eluka Vaati Venta Velladaaniki Siddhamaindi. Intalo, Painunna Chettu Nundi Jnyaani Gudlaguba Mellagaa Kindaki Digindi. Gudlaguba Lotaina, Mrriduvaina Hut Shabdam Chesindi — Adi Oka Hechcharika. \"Chitti Elukaa, Aparichitulu Ichche Sulabhamaina Aahaaram Pramaadakaran!\" Ani Gudlaguba Gambhirangaa Palikindi. Chitti Eluka Tana Misaalanu Visugugaa Kadilinchi, Gudlaguba Maatalanu Pattinchukokundaa Akkadi Nundi Vegangaa Vellipoyindi.",
+      "text_en": "Attracted by the new mice's sweet talk, Chitti Eluka got ready to go with them. Just then, Gnani Guddlaguba (the wise owl) slowly descended from the tree above. The owl made a deep, soft hoot — it was a warning. \"Chitti Eluka, easy food given by strangers is dangerous!\" Gnani Guddlaguba said gravely. Chitti Eluka twitched her whiskers in annoyance and quickly scurried away from there, ignoring Gnani Guddlaguba's words."
+    },
+    {
+      "id": 4,
+      "text": "గుడ్లగూబ మాటలను విస్మరించి, చిట్టి ఎలుక కొత్త స్నేహితులతో కలిసి ఆ ఆకర్షణీయమైన ఆహార ప్రదేశం వైపు పరుగు తీసింది. అక్కడ రుచికరమైన వాసనలు దాన్ని మరింత ఉత్సాహపరిచాయి. అది ముందుకు దూకుతుండగానే — ఒక్కసారిగా పెద్ద శబ్దం వచ్చింది. \"అయ్యో! ఇది బోను! నన్ను మోసం చేశాయి!\" అని చిట్టి ఎలుక భయంతో వణికింది. ఆ మెటల్ బోను తలుపు దడాల్న మూసుకుపోయింది, దాన్ని లోపల బంధించి, మోసగాళ్ళైన ఎలుకలు మాత్రం మాయమయ్యాయి.",
+      "image_prompt": "The small mouse leaps forward towards the enticing food, only to be suddenly trapped. The metal door of the cage slams shut with a loud thud, enclosing the trembling mouse inside. Harsh, direct midday sun glinting off the metal bars of the trap, making it seem cold and unforgiving, contrasting with the earlier warmth.",
+      "scene_visual": "The small mouse leaps forward towards the enticing food, only to be suddenly trapped. The metal door of the cage slams shut with a loud thud, enclosing the trembling mouse inside.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gudlaguba Maatalanu Vismarinchi, Chitti Eluka Kotta Snehitulato Kalisi Aa Aakarshaniyamaina Aahaara Pradesham Vaipu Parugu Tisindi. Akkada Ruchikaramaina Vaasanalu Daanni Marinta Utsaahaparichaayi. Adi Munduku Dukutundagaane — Okkasaarigaa Pedda Shabdam Vachchindi. \"Ayyo! Idi Bonu! Nannu Mosam Cheshaayi!\" Ani Chitti Eluka Bhayanto Vanikindi. Aa Metal Bonu Talupu Dadaalna Musukupoyindi, Daanni Lopala Bandhinchi, Mosagaallaina Elukalu Maatram Maayamayyaayi.",
+      "text_en": "Ignoring Gnani Guddlaguba's words, Chitti Eluka ran with her new friends towards the attractive food spot. The delicious smells there excited her even more. As she leaped forward — suddenly there was a loud sound. \"Oh no! It's a trap! They tricked me!\" Chitti Eluka trembled with fear. The metal trap door slammed shut, trapping her inside, while the deceitful mice disappeared."
+    },
+    {
+      "id": 5,
+      "text": "బోనులో చిక్కుకుపోయిన చిట్టి ఎలుక ఒంటరిగా వణికింది, దాని కళ్ళు భయంతో పెద్దవి అయ్యాయి. లోపల ఉన్న పులిసిన ఆహారం వాసన దాని గుండెలో భయాన్ని నింపింది. గుడ్లగూబ మాట విననందుకు అది తీవ్రంగా పశ్చాత్తాపపడింది. \"నేను గుడ్లగూబ మాట వినాల్సింది!\" అని అది నిశ్శబ్దంగా మూలిగింది. చీకట్లో దాని భయం పెరుగుతున్నప్పుడు... ఒక మృదువైన హూట్ శబ్దం వినిపించింది, ఒక తెలిసిన నీడ దానిపై పడింది.",
+      "image_prompt": "The small mouse trembles alone inside the trap, its eyes wide with fear. A familiar shadow falls over it in the dim light, accompanied by a soft hoot. The light inside the trap is dim and claustrophobic, with only slivers of sunlight piercing through the bars, creating long, unsettling shadows.",
+      "scene_visual": "The small mouse trembles alone inside the trap, its eyes wide with fear. A familiar shadow falls over it in the dim light, accompanied by a soft hoot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bonulo Chikkukupoyina Chitti Eluka Ontarigaa Vanikindi, Daani Kallu Bhayanto Peddavi Ayyaayi. Lopala Unna Pulisina Aahaaram Vaasana Daani Gundelo Bhayaanni Nimpindi. Gudlaguba Maata Vinananduku Adi Tivrangaa Pashchaattaapapadindi. \"Nenu Gudlaguba Maata Vinaalsindi!\" Ani Adi Nishshabdangaa Muligindi. Chikatlo Daani Bhayam Perugutunnappudu... Oka Mrriduvaina Hut Shabdam Vinipinchindi, Oka Telisina Nida Daanipai Padindi.",
+      "text_en": "Trapped in the cage, Chitti Eluka trembled alone, her eyes wide with fear. The smell of the stale food inside filled her heart with dread. She deeply regretted not listening to Gnani Guddlaguba. \"I should have listened to Gnani Guddlaguba!\" she whimpered silently. As her fear grew in the darkness... a soft hoot was heard, and a familiar shadow fell upon her."
+    },
+    {
+      "id": 6,
+      "text": "ఆ నీడ జ్ఞాని గుడ్లగూబదే. చిట్టి ఎలుక సిగ్గుతో తల వంచుకుంది, కానీ ఆ గుడ్లగూబ మాటలు దానిలో ఆశను నింపాయి. బోను చెక్క నేల దాని పాదాలకు గరుకుగా అనిపించింది. \"భయపడకు, చిట్టి ఎలుకా. నీ పదునైన పళ్ళతో బలహీనమైన చోటును కనుగొను\" అని గుడ్లగూబ శాంతంగా సలహా ఇచ్చింది. గుడ్లగూబ మాటలతో ధైర్యం తెచ్చుకున్న చిట్టి ఎలుక, బోను నిర్మాణాన్ని నిశితంగా పరిశీలించడం మొదలుపెట్టింది.",
+      "image_prompt": "The small mouse, head bowed in shame, looks up as the wise owl gives it calm advice. It then begins to meticulously inspect the rough wooden floor and structure of the cage with renewed determination. The setting sun casts long, warm orange and purple hues across the scene, giving a sense of calm and a chance for redemption.",
+      "scene_visual": "The small mouse, head bowed in shame, looks up as the wise owl gives it calm advice. It then begins to meticulously inspect the rough wooden floor and structure of the cage with renewed determination.",
+      "supporting_char_keys": [
+        "owl"
+      ],
+      "text_te_en": "Aa Nida Jnyaani Gudlagubade. Chitti Eluka Sigguto Tala Vanchukundi, Kaani Aa Gudlaguba Maatalu Daanilo Aashanu Nimpaayi. Bonu Chekka Nela Daani Paadaalaku Garukugaa Anipinchindi. \"Bhayapadaku, Chitti Elukaa. Ni Padunaina Pallato Balahinamaina Chotunu Kanugonu\" Ani Gudlaguba Shaantangaa Salahaa Ichchindi. Gudlaguba Maatalato Dhairyam Techchukunna Chitti Eluka, Bonu Nirmaanaanni Nishitangaa Parishilinchadam Modalupettindi.",
+      "text_en": "The shadow was Gnani Guddlaguba's. Chitti Eluka hung her head in shame, but Gnani Guddlaguba's words filled her with hope. The wooden floor of the trap felt rough under her paws. \"Don't be afraid, Chitti Eluka. Find the weak spot with your sharp teeth,\" Gnani Guddlaguba advised calmly. Encouraged by Gnani Guddlaguba's words, Chitti Eluka began to carefully examine the trap's structure."
+    },
+    {
+      "id": 7,
+      "text": "గుడ్లగూబ సలహా మేరకు, చిట్టి ఎలుక తన పదునైన పళ్ళతో బోను బలహీనమైన భాగాన్ని కనుగొంది. కష్టపడి కొరికి, అది ఒక చిన్న రంధ్రం చేసుకుంది. అది బయటపడగానే, చల్లని సాయంత్రపు గాలి దాని శరీరాన్ని తాకింది. \"ధన్యవాదాలు, జ్ఞాని గుడ్లగూబ!\" అని చిట్టి ఎలుక కృతజ్ఞతతో పలికింది. అది వెంటనే తన ఇంటి వైపు పరుగు తీసింది — దాని కదలికలలో కొత్త జాగ్రత్త, తెలివి స్పష్టంగా కనిపించాయి.",
+      "image_prompt": "The small mouse gnaws diligently with its sharp teeth, creating a small hole in the trap. It then squeezes through the opening, feeling the cool evening air on its fur as it dashes towards home with new caution. Gentle dusk light, warm amber, peaceful resolution as the last rays of sun disappear behind the horizon, leaving a soft, serene glow.",
+      "scene_visual": "The small mouse gnaws diligently with its sharp teeth, creating a small hole in the trap. It then squeezes through the opening, feeling the cool evening air on its fur as it dashes towards home with new caution.",
+      "supporting_char_keys": [
+        "owl"
+      ],
+      "text_te_en": "Gudlaguba Salahaa Meraku, Chitti Eluka Tana Padunaina Pallato Bonu Balahinamaina Bhaagaanni Kanugondi. Kashtapadi Koriki, Adi Oka Chinna Randhram Chesukundi. Adi Bayatapadagaane, Challani Saayantrapu Gaali Daani Shariraanni Taakindi. \"Dhanyavaadaalu, Jnyaani Gudlaguba!\" Ani Chitti Eluka Krritajnyatato Palikindi. Adi Ventane Tana Inti Vaipu Parugu Tisindi — Daani Kadalikalalo Kotta Jaagratta, Telivi Spashtangaa Kanipinchaayi.",
+      "text_en": "Following Gnani Guddlaguba's advice, Chitti Eluka found the weak part of the trap with her sharp teeth. Biting hard, she made a small hole. As she squeezed out, the cool evening air touched her body. \"Thank you, Gnani Guddlaguba!\" Chitti Eluka said gratefully. She immediately scurried towards her home — new caution and wisdom clearly visible in her movements."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "owl",
+      "description": "A large, ancient great horned owl named Jnani Gudlaguba with thick, mottled brown and grey feathers and piercing, intelligent yellow eyes. He often perches silently, observing the forest with great wisdom. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and vivid, character-specific dialogue that effectively advances the plot. The emotional journey of the protagonist is largely shown rather than told, and the well-placed suspense hooks ensure strong child engagement. To elevate this to an award-worthy piece, the primary focus should be on refining the narrative voice to consistently embody the warm, oral tone of a grandmother telling a bedtime story, rather than occasionally slipping into more formal, written prose."
+  },
+  "title_te_en": "Chitti Eluka, Bonu Guttu",
+  "moral_te_en": "Kotta Vaati Patla Aasakti Unnaa, Telivaina Vaari Salahaa Vinadam Eppudu Manchidi.",
+  "title_en": "Chitti Eluka and the Trap's Secret",
+  "moral_en": "Even if you are curious about new things, it's always good to listen to the advice of wise people.",
+  "id": "20260601_220946",
+  "date": "2026-06-01",
+  "category": "panchatantra",
+  "subcategory": "animal_wisdom",
+  "topic": "పంచతంత్రం - అపరిచితుల మాయలో పడిన ఎలుక మరియు తెలివైన గుడ్లగూబ",
+  "thumbnail": "stories/20260601_220946/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
