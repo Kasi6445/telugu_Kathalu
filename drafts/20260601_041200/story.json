@@ -1,0 +1,98 @@
+{
+  "title": "మనసు చూసిన రవి",
+  "moral": "మనకున్న ప్రత్యేకమైన శక్తులని నమ్మి, మన మనసు చెప్పింది వింటే, ఏ కష్టాన్నైనా దాటొచ్చు, మనల్ని మనం కాపాడుకోవచ్చు.",
+  "main_character": "A young, strong village man, blind from birth, who navigates his world with an uncanny sense of hearing and touch. He carries a smooth, well-worn wooden staff that acts as his eyes and an extension of his will. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The small, vibrant village of Mallepalli in rural Andhra Pradesh, nestled beside a gentle river and surrounded by lush paddy fields. Simple mud and thatch houses dot the landscape, and a grand old banyan tree stands central to the village life. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మల్లెపల్లె వీరుడు రవి, పుట్టుకతోనే కళ్ళు లేకపోయినా, తన చేతిలోని కర్ర సాయంతో తన దున్నపోతును ఊరి దారుల్లో నమ్మకంగా నడిపిస్తున్నాడు. ఆ దున్నపోతు మెడలోని ఇత్తడి గంటలు రింగురింగు మంటూ సాగే ప్రతీ అడుగుకి తాళం వేస్తున్నట్లున్నాయి. పొలాల గట్లపై అతని అడుగులు ఎంతో స్థిరంగా ఉండేవి — ఒక్కసారి కూడా తడబడలేదు. \"అక్కడ రవి ఉన్నాడంటే, ఆ దారిలో ప్రమాదం ఉండదు!\" అని పల్లె జనం ప్రేమగా చెప్పుకునేవారు. ఉదయం పూట పనులతో సందడిగా ఉన్న ఊరి వాతావరణాన్ని అతను తన చెవులతో స్పష్టంగా వింటున్నాడు. ఆ ప్రశాంతత మధ్య — గాలిలో ఏదో తెలియని మార్పును పసిగట్టాడు. రవి ఒక్కసారిగా ఆగిపోయాడు.",
+      "image_prompt": "The man, guided by his stick, abruptly halts his buffalo's steady walk through the village paths. His ears are keenly attuned to the bustling morning sounds, but he senses an unknown change in the air. Early morning sun, golden light filtering through dense mango trees, creating dappled patterns on the dusty path.",
+      "scene_visual": "The man, guided by his stick, abruptly halts his buffalo's steady walk through the village paths. His ears are keenly attuned to the bustling morning sounds, but he senses an unknown change in the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mallepalle Virudu Ravi, Puttukatone Kallu Lekapoyinaa, Tana Chetiloni Karra Saayanto Tana Dunnapotunu Uri Daarullo Nammakangaa Nadipistunnaadu. Aa Dunnapotu Medaloni Ittadi Gantalu Ringuringu Mantu Saage Prati Aduguki Taalam Vestunnatlunnaayi. Polaala Gatlapai Atani Adugulu Ento Sthirangaa Undevi — Okkasaari Kudaa Tadabadaledu. \"Akkada Ravi Unnaadante, Aa Daarilo Pramaadam Undadu!\" Ani Palle Janam Premagaa Cheppukunevaaru. Udayam Puta Panulato Sandadigaa Unna Uri Vaataavaranaanni Atanu Tana Chevulato Spashtangaa Vintunnaadu. Aa Prashaantata Madhya — Gaalilo Edo Teliyani Maarpunu Pasigattaadu. Ravi Okkasaarigaa Aagipoyaadu.",
+      "text_en": "Ravi, the hero of Mallepalle, was born without eyes. Yet, with the help of the stick in his hand, he reliably guided his buffalo through the village paths. The brass bells around the buffalo's neck jingled, as if keeping rhythm with every step. His steps on the field embankments were very steady — he never stumbled even once. \"If Ravi is there, there's no danger on that path!\" the villagers would lovingly say. He clearly heard the bustling morning village atmosphere with his ears. Amidst that calm — he sensed an unknown change in the air. Ravi suddenly stopped."
+    },
+    {
+      "id": 2,
+      "text": "రవి, నిశ్శబ్దంగా నది ఒడ్డున కూర్చున్నాడు, అతని చేతులు చల్లని నీటిలో హాయిగా ఆడుకుంటున్నాయి. తన వేళ్ళతో నదిలోని నునుపైన రాళ్ళను తడుముతూ, దూరంగా వస్తున్న పల్లెవాసుల మాటలను, పక్షుల కిలకిలరావాలను శ్రద్ధగా వింటున్నాడు. ఈ ప్రశాంతమైన క్షణంలో, ఒక పడవవాడు అతని దగ్గరకు వచ్చాడు. \"రవి! నదిలో కొట్టుకువస్తున్న వస్తువు ఏదో తేలిగ్గా ఉంది, అది ఏమిటో తెలుసా?\" అని ఆశ్చర్యంగా అడిగాడు. రవి ఇంకా సమాధానం చెప్పకముందే — దూరపు కొండల నుండి ఒక లోతైన, భయంకరమైన శబ్దం వినపడింది. భూమి ఒక్కసారిగా కంపించింది.",
+      "image_prompt": "The man sits silently by the riverbank, his hands comfortably playing in the cool water. Suddenly, a deep, terrifying sound echoes from the distant mountains, causing the earth to tremble. Midday sun glinting off the sparkling river, bright and clear, with long, distinct shadows from the riverbank trees.",
+      "scene_visual": "The man sits silently by the riverbank, his hands comfortably playing in the cool water. Suddenly, a deep, terrifying sound echoes from the distant mountains, causing the earth to tremble.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ravi, Nishshabdangaa Nadi Odduna Kurchunnaadu, Atani Chetulu Challani Nitilo Haayigaa Aadukuntunnaayi. Tana Vellato Nadiloni Nunupaina Raallanu Tadumutu, Durangaa Vastunna Pallevaasula Maatalanu, Pakshula Kilakilaraavaalanu Shraddhagaa Vintunnaadu. I Prashaantamaina Kshananlo, Oka Padavavaadu Atani Daggaraku Vachchaadu. \"Ravi! Nadilo Kottukuvastunna Vastuvu Edo Teliggaa Undi, Adi Emito Telusaa?\" Ani Aashcharyangaa Adigaadu. Ravi Inkaa Samaadhaanam Cheppakamunde — Durapu Kondala Nundi Oka Lotaina, Bhayankaramaina Shabdam Vinapadindi. Bhumi Okkasaarigaa Kampinchindi.",
+      "text_en": "Ravi sat quietly by the riverbank, his hands playing comfortably in the cool water. He felt the smooth stones in the river with his fingers, carefully listening to the distant chatter of villagers and the chirping of birds. In this peaceful moment, a boatman came up to him. \"Ravi! Something light is floating down the river, do you know what it is?\" he asked in surprise. Before Ravi could answer — a deep, terrifying sound was heard from the distant mountains. The ground suddenly trembled."
+    },
+    {
+      "id": 3,
+      "text": "కొండల నుండి వచ్చిన ఆ శబ్దానికి భూమి మరింత బలంగా కంపించింది, పల్లెవాసులు భయంతో హాహాకారాలు చేస్తూ రవి వైపు పరిగెత్తారు. గాలిలో తడి మట్టి వాసన ఘాటుగా అలుముకుంది — వాతావరణం బరువెక్కినట్లు అనిపించింది. \"రవి! కొండల నుండి వరద వస్తోంది! మన పొలాలన్నీ మునిగిపోతాయి!\" అని ఒక రైతు భయంతో అరిచాడు. మరికొందరు తమ పిల్లలను పట్టుకుని భయంతో వణికిపోతున్నారు. ఈ గందరగోళం మధ్య, రవి మాత్రం కదలకుండా నిలబడ్డాడు, అతని ముఖం గంభీరంగా ఉంది. అందరి కళ్ళూ రవిపైనే నిలిచాయి.",
+      "image_prompt": "Amidst the chaos of villagers screaming and running in fear, the man stands unmoving. His face remains solemn as all eyes are fixed on him, while the air is heavy with the pungent smell of wet earth. Overcast sky, dark grey storm clouds gathering rapidly, casting an ominous, dim light over the village.",
+      "scene_visual": "Amidst the chaos of villagers screaming and running in fear, the man stands unmoving. His face remains solemn as all eyes are fixed on him, while the air is heavy with the pungent smell of wet earth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kondala Nundi Vachchina Aa Shabdaaniki Bhumi Marinta Balangaa Kampinchindi, Pallevaasulu Bhayanto Haahaakaaraalu Chestu Ravi Vaipu Parigettaaru. Gaalilo Tadi Matti Vaasana Ghaatugaa Alumukundi — Vaataavaranam Baruvekkinatlu Anipinchindi. \"Ravi! Kondala Nundi Varada Vastondi! Mana Polaalanni Munigipotaayi!\" Ani Oka Raitu Bhayanto Arichaadu. Marikondaru Tama Pillalanu Pattukuni Bhayanto Vanikipotunnaaru. I Gandaragolam Madhya, Ravi Maatram Kadalakundaa Nilabaddaadu, Atani Mukham Gambhirangaa Undi. Andari Kallu Ravipaine Nilichaayi.",
+      "text_en": "The ground trembled even more strongly with the sound from the mountains, and villagers ran towards Ravi, screaming in fear. The strong smell of wet earth filled the air — the atmosphere felt heavy. \"Ravi! A flood is coming from the mountains! All our fields will be submerged!\" a farmer cried out in fear. Others held their children, trembling with fright. Amidst this chaos, Ravi stood still, his face serious. All eyes were on Ravi."
+    },
+    {
+      "id": 4,
+      "text": "రవి తన చేతి కర్రను గట్టిగా పట్టుకుని, \"అందరూ ఒకేసారి కదలండి! ఆ కొండ వైపు!\" అని పెద్దగా అరిచాడు. కానీ భయంతో చెల్లాచెదురైన గ్రామస్తులు అతని మాటలను పట్టించుకోలేదు — ఎవరికి తోచిన దారిలో వారు పారిపోతున్నారు. పిల్లల భయానక అరుపులు, జంతువుల ఆర్తనాదాలు దూరం నుండి వస్తున్న వరద నీటి ఘోషతో కలిసిపోయాయి. రవి చేతులు పిడికిలి బిగించాయి, అతని గొంతులో బాధ స్పష్టంగా వినిపించింది. అప్పుడు, అతను కళ్ళు మూసుకున్నాడు — లోపల ఏదో వెతుకుతున్నట్లు.",
+      "image_prompt": "The man, clutching his stick tightly, shouts instructions, but the terrified villagers flee in disarray. His hands clench into fists, and he then closes his eyes as if searching for something within himself. Rain starts to fall heavily, turning the grey light into a blurred, watery haze, making everything look urgent and desperate.",
+      "scene_visual": "The man, clutching his stick tightly, shouts instructions, but the terrified villagers flee in disarray. His hands clench into fists, and he then closes his eyes as if searching for something within himself.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ravi Tana Cheti Karranu Gattigaa Pattukuni, \"Andaru Okesaari Kadalandi! Aa Konda Vaipu!\" Ani Peddagaa Arichaadu. Kaani Bhayanto Chellaacheduraina Graamastulu Atani Maatalanu Pattinchukoledu — Evariki Tochina Daarilo Vaaru Paaripotunnaaru. Pillala Bhayaanaka Arupulu, Jantuvula Aartanaadaalu Duram Nundi Vastunna Varada Niti Ghoshato Kalisipoyaayi. Ravi Chetulu Pidikili Biginchaayi, Atani Gontulo Baadha Spashtangaa Vinipinchindi. Appudu, Atanu Kallu Musukunnaadu — Lopala Edo Vetukutunnatlu.",
+      "text_en": "Ravi gripped his stick tightly and shouted loudly, \"Everyone move at once! Towards that mountain!\" But the villagers, scattered by fear, didn't heed his words — they were running away in whatever direction they could. The terrifying screams of children and the cries of animals merged with the roar of the approaching floodwaters. Ravi's hands clenched into fists, and pain was clearly heard in his voice. Then, he closed his eyes — as if searching for something inside."
+    },
+    {
+      "id": 5,
+      "text": "రవి కళ్ళు మూసుకుని ఉన్నప్పుడు, అతని తాతయ్య చిన్నప్పుడు చెప్పిన ఒక పాత కథ మెరుపులా గుర్తుకొచ్చింది — నది ప్రవాహాన్ని మళ్ళించగల ఒక రహస్యమైన రాతి నిర్మాణం గురించి. అతని గుండెలో ఒక కొత్త ధైర్యం పుట్టుకొచ్చింది. \"మన ఊరిని కాపాడటానికి ఒక మార్గం ఉంది... నేను వెళ్ళాలి!\" అని తనలో తాను గట్టిగా అనుకున్నాడు. పల్లె దారిలోని తడి మట్టి వాసనను పసిగడుతూ, అతను వేగంగా జన సమూహం నుండి దూరంగా కదిలాడు. ఇంక ఆలస్యం చేయకూడదు అనుకున్నాడు. అతను ఆ వరద నీటిలోకి దూకాడు.",
+      "image_prompt": "The man quickly moves away from the crowd, guided by the smell of wet earth on the village path. With newfound courage, he then leaps into the rushing floodwaters. The sky darkens further, almost night-like, with flashes of lightning illuminating the rain-swept landscape in stark, momentary bursts.",
+      "scene_visual": "The man quickly moves away from the crowd, guided by the smell of wet earth on the village path. With newfound courage, he then leaps into the rushing floodwaters.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ravi Kallu Musukuni Unnappudu, Atani Taatayya Chinnappudu Cheppina Oka Paata Katha Merupulaa Gurtukochchindi — Nadi Pravaahaanni Mallinchagala Oka Rahasyamaina Raati Nirmaanam Gurinchi. Atani Gundelo Oka Kotta Dhairyam Puttukochchindi. \"Mana Urini Kaapaadataaniki Oka Maargam Undi... Nenu Vellaali!\" Ani Tanalo Taanu Gattigaa Anukunnaadu. Palle Daariloni Tadi Matti Vaasananu Pasigadutu, Atanu Vegangaa Jana Samuham Nundi Durangaa Kadilaadu. Inka Aalasyam Cheyakudadu Anukunnaadu. Atanu Aa Varada Nitiloki Dukaadu.",
+      "text_en": "As Ravi closed his eyes, an old story his grandfather told him as a child flashed into his mind — about a secret stone structure that could divert the river's flow. A new courage welled up in his heart. He firmly told himself, \"There's a way to save our village... I must go!\" Following the scent of wet earth on the village path, he quickly moved away from the crowd. He knew he couldn't delay any longer. He jumped into the floodwaters."
+    },
+    {
+      "id": 6,
+      "text": "వరద ఉధృతిలో కూడా, రవి తన చేతి కర్రను కళ్ళుగా మార్చుకున్నాడు — దానితో నేలను తడుముతూ, నది గమనాన్ని అర్థం చేసుకుంటూ ముందుకు సాగాడు. వరద నీటి భయంకరమైన ఘోష అతని చెవుల్లో మోగుతున్నా, అతని కర్ర ద్వారా వచ్చే ప్రతి కంపనాన్ని శ్రద్ధగా వింటున్నాడు. \"ఇదిగో... ఇక్కడే!\" అని తనకు మాత్రమే వినిపించేలా గుసగుసలాడుకున్నాడు. అతని భుజాల కండరాలు బిగుసుకుపోయాయి, శరీరం అంతా చెమటతో తడిసిపోయింది. అతను ఒక పెద్ద బండరాయిని కదిలించడానికి తన సర్వశక్తులూ ఒడ్డి ప్రయత్నించాడు. ఆ బండరాయి ఒక్కసారిగా కదిలింది.",
+      "image_prompt": "The man strains with all his might to move a large boulder, his stick acting as his guide in the raging flood. His shoulder muscles are tensed, his body drenched in sweat, as the boulder suddenly shifts. A sudden, brilliant flash of lightning illuminates Ravi, drenched and straining, against the dark, churning water, highlighting his heroic struggle.",
+      "scene_visual": "The man strains with all his might to move a large boulder, his stick acting as his guide in the raging flood. His shoulder muscles are tensed, his body drenched in sweat, as the boulder suddenly shifts.",
+      "supporting_char_keys": [],
+      "text_te_en": "Varada Udhrritilo Kudaa, Ravi Tana Cheti Karranu Kallugaa Maarchukunnaadu — Daanito Nelanu Tadumutu, Nadi Gamanaanni Artham Chesukuntu Munduku Saagaadu. Varada Niti Bhayankaramaina Ghosha Atani Chevullo Mogutunnaa, Atani Karra Dvaaraa Vachche Prati Kampanaanni Shraddhagaa Vintunnaadu. \"Idigo... Ikkade!\" Ani Tanaku Maatrame Vinipinchelaa Gusagusalaadukunnaadu. Atani Bhujaala Kandaraalu Bigusukupoyaayi, Shariram Antaa Chematato Tadisipoyindi. Atanu Oka Pedda Bandaraayini Kadilinchadaaniki Tana Sarvashaktulu Oddi Prayatninchaadu. Aa Bandaraayi Okkasaarigaa Kadilindi.",
+      "text_en": "Even in the raging flood, Ravi turned his stick into his eyes — tapping the ground with it, understanding the river's course as he moved forward. Even though the terrifying roar of the floodwaters echoed in his ears, he carefully listened to every vibration that came through his stick. \"Here it is... right here!\" he whispered to himself, just loud enough for him to hear. His shoulder muscles tensed, and his whole body was drenched in sweat. He used all his strength to try and move a large boulder. The boulder suddenly moved."
+    },
+    {
+      "id": 7,
+      "text": "బండరాయి కదలగానే, వరద నీరు ఒక్కసారిగా దారి మళ్ళింది — ఊరి వైపు వస్తున్న ప్రవాహం నెమ్మదిగా వెనక్కి తగ్గింది. పల్లె జనం ఆశ్చర్యంతో చూస్తూ ఉండిపోయారు, వారి కళ్ళ ముందు ప్రమాదం దూరమైపోతోంది. వర్షం ఆగిపోయిన తర్వాత వచ్చే తడి మట్టి, తడి ఆకుల సువాసన గాలిలో నిండింది. రవి అలసిపోయి, కర్ర సాయంతో నడుచుకుంటూ ఒడ్డుకు చేరాడు. \"రవి! నువ్వు మా ప్రాణాలను కాపాడావు! నువ్వు మా వీరుడివి!\" అని గ్రామస్తులు ఆనందంతో అతని వైపు ఉరికారు. రవి ముఖంలో ఒక చిన్న నవ్వు మెరిసింది — కష్టాన్ని గెలిచిన తృప్తి అది.",
+      "image_prompt": "Exhausted, the man walks with the aid of his stick towards the riverbank as the floodwaters recede. A small smile flickers across his face, reflecting the satisfaction of overcoming the challenge, as villagers rush towards him in joy. The storm clouds begin to break, and rays of golden sunlight pierce through, illuminating the grateful faces of the villagers and Ravi, who stands quietly among them.",
+      "scene_visual": "Exhausted, the man walks with the aid of his stick towards the riverbank as the floodwaters recede. A small smile flickers across his face, reflecting the satisfaction of overcoming the challenge, as villagers rush towards him in joy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bandaraayi Kadalagaane, Varada Niru Okkasaarigaa Daari Mallindi — Uri Vaipu Vastunna Pravaaham Nemmadigaa Venakki Taggindi. Palle Janam Aashcharyanto Chustu Undipoyaaru, Vaari Kalla Mundu Pramaadam Duramaipotondi. Varsham Aagipoyina Tarvaata Vachche Tadi Matti, Tadi Aakula Suvaasana Gaalilo Nindindi. Ravi Alasipoyi, Karra Saayanto Naduchukuntu Odduku Cheraadu. \"Ravi! Nuvvu Maa Praanaalanu Kaapaadaavu! Nuvvu Maa Virudivi!\" Ani Graamastulu Aanandanto Atani Vaipu Urikaaru. Ravi Mukhanlo Oka Chinna Navvu Merisindi — Kashtaanni Gelichina Trripti Adi.",
+      "text_en": "As soon as the boulder moved, the floodwaters suddenly changed course — the flow heading towards the village slowly receded. The villagers watched in astonishment, as the danger moved away before their eyes. The scent of wet earth and damp leaves, which comes after the rain stops, filled the air. Ravi, exhausted, walked to the bank with the help of his stick. \"Ravi! You saved our lives! You are our hero!\" the villagers rushed towards him with joy. A small smile lit up Ravi's face — it was the satisfaction of overcoming a great challenge."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 8,
+    "dialogue_richness": 4,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story presents a compelling narrative arc with a clear hero and a satisfying resolution. While grammatically sound, the prose leans towards formal written Telugu rather than natural spoken language, diminishing the oral warmth expected from a bedtime story. To achieve a 9+, the most crucial improvement would be to introduce more character-specific, natural dialogue and simplify descriptive passages, making it feel more like a grandparent's engaging narration."
+  },
+  "quality_warning": true,
+  "title_te_en": "Manasu Chusina Ravi",
+  "moral_te_en": "Manakunna Pratyekamaina Shaktulani Nammi, Mana Manasu Cheppindi Vinte, E Kashtaannainaa Daatochchu, Manalni Manam Kaapaadukovachchu.",
+  "title_en": "Ravi Who Saw with His Heart",
+  "moral_en": "If we believe in our special strengths and listen to what our heart tells us, we can overcome any difficulty and protect ourselves.",
+  "id": "20260601_041200",
+  "date": "2026-06-01",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "తెలుగు జానపద కథ - గుడ్డివాడైనా మనసుతో చూసిన పల్లె వీరుడు",
+  "thumbnail": "stories/20260601_041200/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
