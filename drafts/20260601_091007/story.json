@@ -1,0 +1,134 @@
+{
+  "title": "తెనాలి అద్దం రహస్యం",
+  "moral": "నిజం చెప్పడానికి, కొన్నిసార్లు తెలివైన నవ్వు, చిలిపి ఆటలు చాలు.",
+  "main_character": "Tenali Ramakrishna is a quick-witted and intelligent jester in the court of King Krishnadevaraya. He is known for his sharp humor, clever solutions to problems, and ability to outsmart even the most cunning adversaries. Always the same character across every scene.",
+  "antagonist": "Minister Sarvarayudu is a portly, pompous man with a perpetually furrowed brow and a neatly trimmed black beard. He wears rich, dark red silk robes adorned with heavy gold embroidery and always carries a scroll of 'important' decrees. Always the same character across every scene.",
+  "setting": "The grand court of Emperor Krishnadevaraya in Hampi, Vijayanagara, is a bustling hall with high carved stone pillars, vibrant tapestries depicting battle scenes, and a central throne made of polished dark wood. Sunlight streams through arched windows onto the polished marble floor during the day. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కృష్ణదేవరాయల ఆస్థానంలో తెనాలి రామకృష్ణుడు, ఎప్పుడూ ఒక చిలిపి ఆలోచనతో ఉంటాడు. ఆ రోజు మహారాజుకు ఇష్టమైన లడ్డూను తీసి, దాని స్థానంలో కారం కలిపిన లడ్డూను పెట్టాడు — అతని కళ్ళల్లో ఒక మెరుపు. ఆ లడ్డూ నుండి కమ్మని, కారమైన వాసన గాలిలో తేలింది, అందరి ముక్కులు పులకించిపోయాయి. \"మహారాజా, ఈ కొత్త వంటకం మీకోసమే! రుచి చూడండి!\" అంటూ రామకృష్ణుడు వినయంగా అందించాడు. మహారాజు ఆ లడ్డూను నోట్లో పెట్టుకున్నాడు. ఒక్కసారిగా — ఆయన కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, ముఖం ఎర్రబడింది. నోరు తెరచుకుపోయింది.",
+      "image_prompt": "The king places the laddoo into his mouth. His eyes widen in surprise, and his face instantly turns red. Bright midday sun streaming through the high arched windows, illuminating dust motes dancing in the air, creating a golden, lively atmosphere.",
+      "scene_visual": "The king places the laddoo into his mouth. His eyes widen in surprise, and his face instantly turns red.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Krrishnadevaraayala Aasthaananlo Tenaali Raamakrrishnudu, Eppudu Oka Chilipi Aalochanato Untaadu. Aa Roju Mahaaraajuku Ishtamaina Laddunu Tisi, Daani Sthaananlo Kaaram Kalipina Laddunu Pettaadu — Atani Kallallo Oka Merupu. Aa Laddu Nundi Kammani, Kaaramaina Vaasana Gaalilo Telindi, Andari Mukkulu Pulakinchipoyaayi. \"Mahaaraajaa, I Kotta Vantakam Mikosame! Ruchi Chudandi!\" Antu Raamakrrishnudu Vinayangaa Andinchaadu. Mahaaraaju Aa Laddunu Notlo Pettukunnaadu. Okkasaarigaa — Aayana Kallu Aashcharyanto Peddavayyaayi, Mukham Errabadindi. Noru Terachukupoyindi.",
+      "text_en": "In King Krishnadevaraya's court, Tenali Ramakrishna always had a mischievous idea. That day, he took the King's favorite laddu and replaced it with a spicy one — a sparkle in his eyes. A delicious, spicy smell wafted from the laddu, making everyone's noses tingle. \"Maharaja, this new dish is just for you! Please taste it!\" Ramakrishna offered politely. The King put the laddu in his mouth. Suddenly — his eyes widened in surprise, his face turned red. His mouth fell open."
+    },
+    {
+      "id": 2,
+      "text": "మహారాజు ఇంకా ఆ కారపు రుచి నుండి తేరుకోకముందే, ఒక వర్తకుడు అద్దాల బండితో సభలోకి వచ్చాడు. ఆ పెద్ద అద్దం మెరిసిపోతూ, సభ మొత్తాన్ని వంకరగా, అలల రూపంలో ప్రతిబింబిస్తోంది — చూసేవారికి కళ్ళు జిగేల్ మన్నాయి. తెనాలి రామకృష్ణుడు ఒక కనుబొమ్మ పైకెత్తి, పెదవులపై చిన్న నవ్వుతో ఆ దృశ్యాన్ని చూశాడు. వర్తకుడు చేతులు జోడించి, \"ఈ అద్దం, మహారాజా, మనిషి అంతరంగంలోని నిజాలను బయటపెడుతుంది!\" అని గంభీరంగా ప్రకటించాడు. వెంటనే మంత్రి సర్వరాయుడు పళ్ళు పటపట కొరుకుతూ, వర్తకుడి మాటలను బలపరిచాడు — అతని కళ్ళల్లో ఏదో పన్నాగం మెరిసింది.",
+      "image_prompt": "A merchant enters the court, pushing a cart with a large, gleaming mirror. The mirror reflects the entire court in distorted, wavy forms, making viewers' eyes dazzle. Also in this scene: Minister Sarvarayudu is a portly, pompous man with a perpetually furrowed brow and a neatly trimmed black beard. He wears rich, dark red silk robes adorned with heavy gold embroidery and always carries a scroll of 'important' decrees. Always the same character across every scene. The court is bathed in the soft, warm glow of late afternoon, with long shadows stretching across the marble floor, highlighting the mirror's polished surface.",
+      "scene_visual": "A merchant enters the court, pushing a cart with a large, gleaming mirror. The mirror reflects the entire court in distorted, wavy forms, making viewers' eyes dazzle.",
+      "supporting_char_keys": [
+        "king",
+        "merchant"
+      ],
+      "text_te_en": "Mahaaraaju Inkaa Aa Kaarapu Ruchi Nundi Terukokamunde, Oka Vartakudu Addaala Bandito Sabhaloki Vachchaadu. Aa Pedda Addam Merisipotu, Sabha Mottaanni Vankaragaa, Alala Rupanlo Pratibimbistondi — Chusevaariki Kallu Jigel Mannaayi. Tenaali Raamakrrishnudu Oka Kanubomma Paiketti, Pedavulapai Chinna Navvuto Aa Drrishyaanni Chushaadu. Vartakudu Chetulu Jodinchi, \"I Addan, Mahaaraajaa, Manishi Antaranganloni Nijaalanu Bayatapedutundi!\" Ani Gambhirangaa Prakatinchaadu. Ventane Mantri Sarvaraayudu Pallu Patapata Korukutu, Vartakudi Maatalanu Balaparichaadu — Atani Kallallo Edo Pannaagam Merisindi.",
+      "text_en": "Before the King could recover from the spicy taste, a merchant entered the court with a cart full of mirrors. The big mirror sparkled, reflecting the entire court in a distorted, wavy way — dazzling everyone's eyes. Tenali Ramakrishna raised an eyebrow and watched the scene with a small smile on his lips. The merchant joined his hands and solemnly announced, \"This mirror, Maharaja, reveals the truths within a person's heart!\" Immediately, Minister Sarvarayudu gnashed his teeth and supported the merchant's words — a cunning plan sparkled in his eyes."
+    },
+    {
+      "id": 3,
+      "text": "సర్వరాయుడు తన పట్టు వస్త్రాలు చప్పుడు చేస్తూ ముందుకు అడుగు వేశాడు — సభలో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. అతని పెదవులపై ఒక జిత్తులమారి నవ్వు మెరిసింది, కళ్ళు తెనాలి రామకృష్ణుడి వైపు తిరిగి. \"ఈ అద్దం మన ఆస్థానంలో ఉన్న ప్రతి ఒక్కరి నిజాయితీని పరీక్షించాలి, ముఖ్యంగా కొన్ని తెలివైన మాయలు చేసే వారిని!\" అని గట్టిగా అన్నాడు. రామకృష్ణుడు ఆలోచనలో పడ్డాడు, నుదుటిపై చిన్న ముడత పడింది, కానీ అతని కళ్ళల్లో మాత్రం తెలివి మెరుపు ఇంకా ఉంది. మహారాజు ఆ మాటలకు నెమ్మదిగా తల ఊపాడు — ఇప్పుడు తెనాలి రామకృష్ణుడు పరీక్షకు సిద్ధం కావాలి.",
+      "image_prompt": "The minister steps forward, his silk clothes rustling, and addresses the court loudly. A cunning smile plays on his lips, and his eyes are fixed on the clever man. Also in this scene: Minister Sarvarayudu is a portly, pompous man with a perpetually furrowed brow and a neatly trimmed black beard. He wears rich, dark red silk robes adorned with heavy gold embroidery and always carries a scroll of 'important' decrees. Always the same character across every scene. The court feels slightly dimmer, the sun having dipped lower, casting longer, more dramatic shadows, creating an atmosphere of growing tension.",
+      "scene_visual": "The minister steps forward, his silk clothes rustling, and addresses the court loudly. A cunning smile plays on his lips, and his eyes are fixed on the clever man.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Sarvaraayudu Tana Pattu Vastraalu Chappudu Chestu Munduku Adugu Veshaadu — Sabhalo Okkasaarigaa Nishshabdam Alumukundi. Atani Pedavulapai Oka Jittulamaari Navvu Merisindi, Kallu Tenaali Raamakrrishnudi Vaipu Tirigi. \"I Addam Mana Aasthaananlo Unna Prati Okkari Nijaayitini Parikshinchaali, Mukhyangaa Konni Telivaina Maayalu Chese Vaarini!\" Ani Gattigaa Annaadu. Raamakrrishnudu Aalochanalo Paddaadu, Nudutipai Chinna Mudata Padindi, Kaani Atani Kallallo Maatram Telivi Merupu Inkaa Undi. Mahaaraaju Aa Maatalaku Nemmadigaa Tala Upaadu — Ippudu Tenaali Raamakrrishnudu Parikshaku Siddham Kaavaali.",
+      "text_en": "Sarvarayudu stepped forward, his silk robes rustling — silence suddenly fell over the court. A cunning smile gleamed on his lips, and his eyes turned towards Tenali Ramakrishna. \"This mirror should test the honesty of everyone in our court, especially those who play clever tricks!\" he said loudly. Ramakrishna fell into thought, a small wrinkle appearing on his forehead, but the sparkle of cleverness was still in his eyes. The King slowly nodded at those words — now Tenali Ramakrishna had to prepare for a test."
+    },
+    {
+      "id": 4,
+      "text": "రామకృష్ణుడు రాజభవనం తోటల్లో నెమ్మదిగా నడిచాడు, చేతులు వెనక్కి కట్టుకుని, తల వంచి ఆలోచనలో మునిగిపోయాడు. మల్లెపూలు, బంతిపూల సువాసన మట్టి పరిమళంతో కలిసి గాలిలో తేలింది, దూరంగా నీటి ఊట చప్పుడు వినిపిస్తోంది. \"నిజం చెప్పే అద్దం? నిజం చెప్పేది మన మనసు, అద్దం కాదు\" అని తనలో తాను గొణుక్కున్నాడు. సర్వరాయుడు పన్నిన కుట్రను ఎలా భగ్నం చేయాలో అని మథనపడుతున్నాడు. ఒక్కసారిగా — రామకృష్ణుడు నడుస్తూ ఆగిపోయాడు, అతని పెదవులపై ఒక చిలిపి నవ్వు మెరిసింది, ఏదో ఆలోచన తట్టింది.",
+      "image_prompt": "The clever man walks slowly through the palace gardens, hands clasped behind his back, deep in thought. He suddenly stops, and a mischievous smile appears on his lips as an idea strikes him. Soft, cooling twilight over the palace gardens, with the first stars beginning to twinkle, giving a sense of quiet contemplation and emerging inspiration.",
+      "scene_visual": "The clever man walks slowly through the palace gardens, hands clasped behind his back, deep in thought. He suddenly stops, and a mischievous smile appears on his lips as an idea strikes him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamakrrishnudu Raajabhavanam Totallo Nemmadigaa Nadichaadu, Chetulu Venakki Kattukuni, Tala Vanchi Aalochanalo Munigipoyaadu. Mallepulu, Bantipula Suvaasana Matti Parimalanto Kalisi Gaalilo Telindi, Durangaa Niti Uta Chappudu Vinipistondi. \"Nijam Cheppe Addan? Nijam Cheppedi Mana Manasu, Addam Kaadu\" Ani Tanalo Taanu Gonukkunnaadu. Sarvaraayudu Pannina Kutranu Elaa Bhagnam Cheyaalo Ani Mathanapadutunnaadu. Okkasaarigaa — Raamakrrishnudu Nadustu Aagipoyaadu, Atani Pedavulapai Oka Chilipi Navvu Merisindi, Edo Aalochana Tattindi.",
+      "text_en": "Ramakrishna walked slowly through the palace gardens, his hands clasped behind his back, his head bowed in deep thought. The scent of jasmine and marigolds mixed with the earthy smell wafted in the air, and the sound of a distant fountain could be heard. \"A truth-telling mirror? Our mind tells the truth, not a mirror,\" he mumbled to himself. He was pondering how to foil Sarvarayudu's plot. Suddenly — Ramakrishna stopped walking, a mischievous smile gleamed on his lips, an idea had struck him."
+    },
+    {
+      "id": 5,
+      "text": "మరుసటి రోజు, సర్వరాయుడు ఒక చిన్న ఉద్యోగిని అద్దం ముందు నిలబెట్టాడు. ఆ ఉద్యోగి భయంతో అద్దంలోకి చూస్తూ, నెర్వస్‌గా మింగిన గుటక సభ అంతా వినిపించింది. సర్వరాయుడు కపటంగా నవ్వి, \"చూడండి మహారాజా! ఇతని ప్రతిబింబం ఎంత దురాశగా కనిపిస్తుందో! అద్దం నిజం చెప్పింది!\" అని అరిచాడు. తెనాలి రామకృష్ణుడు కళ్ళు సన్నగా చేసి, సర్వరాయుడి నాటకాన్ని గమనించాడు — అతని ముఖంలో ఎటువంటి మార్పూ లేదు. ఆ అద్దంలో దురాశ ఎక్కడా కనిపించలేదు. రామకృష్ణుడు మెల్లగా తల అడ్డంగా ఊపాడు — అది కేవలం అతని దగ్గరున్న కొద్దిమందికే కనిపించింది.",
+      "image_prompt": "The minister points mockingly at a nervous employee standing before the mirror. The clever man observes the minister's theatrics with narrowed eyes, his face showing no change. Also in this scene: Minister Sarvarayudu is a portly, pompous man with a perpetually furrowed brow and a neatly trimmed black beard. He wears rich, dark red silk robes adorned with heavy gold embroidery and always carries a scroll of 'important' decrees. Always the same character across every scene. The court is lit by flickering oil lamps and strategically placed torches, creating dramatic contrasts of light and shadow that make Sarvarayudu's accusations seem more ominous.",
+      "scene_visual": "The minister points mockingly at a nervous employee standing before the mirror. The clever man observes the minister's theatrics with narrowed eyes, his face showing no change.",
+      "supporting_char_keys": [
+        "king",
+        "courtier_minor"
+      ],
+      "text_te_en": "Marusati Roju, Sarvaraayudu Oka Chinna Udyogini Addam Mundu Nilabettaadu. Aa Udyogi Bhayanto Addanloki Chustu, Nervas‌Gaa Mingina Gutaka Sabha Antaa Vinipinchindi. Sarvaraayudu Kapatangaa Navvi, \"Chudandi Mahaaraajaa! Itani Pratibimbam Enta Duraashagaa Kanipistundo! Addam Nijam Cheppindi!\" Ani Arichaadu. Tenaali Raamakrrishnudu Kallu Sannagaa Chesi, Sarvaraayudi Naatakaanni Gamaninchaadu — Atani Mukhanlo Etuvanti Maarpu Ledu. Aa Addanlo Duraasha Ekkadaa Kanipinchaledu. Raamakrrishnudu Mellagaa Tala Addangaa Upaadu — Adi Kevalam Atani Daggarunna Koddimandike Kanipinchindi.",
+      "text_en": "The next day, Sarvarayudu made a small employee stand in front of the mirror. The employee looked into the mirror with fear, and his nervous gulp was heard throughout the court. Sarvarayudu laughed cunningly, \"Look, Maharaja! How greedy his reflection looks! The mirror told the truth!\" he shouted. Tenali Ramakrishna narrowed his eyes and observed Sarvarayudu's drama — there was no change in his expression. No greed was visible in that mirror. Ramakrishna slowly shook his head — only a few people near him saw it."
+    },
+    {
+      "id": 6,
+      "text": "తన గదిలో, తెనాలి రామకృష్ణుడు ఒక చిన్న పాట పాడుకుంటూ, చాలా జాగ్రత్తగా ఒక పట్టు వస్త్రాన్ని సర్దుతున్నాడు. కొన్ని చిన్న వస్తువులు మెల్లగా గలగలమన్నాయి, వాటిని వస్త్రంలో దాచిపెడుతూ. అతని చేతులు నమ్మకంగా, పకడ్బందీగా కదులుతున్నాయి — అతని ముఖంపై ఒక స్థిరమైన భావం. \"ఈ అద్దాన్ని మించిన నిజం చెప్పేది నా తెలివి!\" అని తనలో తాను నవ్వుకున్నాడు. అతను తన సిద్ధం చేసుకున్న వస్తువును జాగ్రత్తగా తన వస్త్రాల మడతల్లో దాచుకున్నాడు — అతని కళ్ళల్లో ఒక చిలిపి మెరుపు.",
+      "image_prompt": "The clever man carefully arranges small objects into a silk cloth in his room, humming a tune. His hands move confidently and precisely, and a steady expression is on his face. A single oil lamp casts a warm, concentrated glow on Tenali's work table in his humble room, leaving the rest of the room in soft shadow, emphasizing his focused effort.",
+      "scene_visual": "The clever man carefully arranges small objects into a silk cloth in his room, humming a tune. His hands move confidently and precisely, and a steady expression is on his face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Gadilo, Tenaali Raamakrrishnudu Oka Chinna Paata Paadukuntu, Chaalaa Jaagrattagaa Oka Pattu Vastraanni Sardutunnaadu. Konni Chinna Vastuvulu Mellagaa Galagalamannaayi, Vaatini Vastranlo Daachipedutu. Atani Chetulu Nammakangaa, Pakadbandigaa Kadulutunnaayi — Atani Mukhampai Oka Sthiramaina Bhaavan. \"I Addaanni Minchina Nijam Cheppedi Naa Telivi!\" Ani Tanalo Taanu Navvukunnaadu. Atanu Tana Siddham Chesukunna Vastuvunu Jaagrattagaa Tana Vastraala Madatallo Daachukunnaadu — Atani Kallallo Oka Chilipi Merupu.",
+      "text_en": "In his room, Tenali Ramakrishna hummed a little song, carefully arranging a silk cloth. Some small objects gently rattled as he hid them in the cloth. His hands moved confidently and precisely — a steady expression on his face. \"My cleverness tells more truth than that mirror!\" he chuckled to himself. He carefully hid the object he had prepared within the folds of his clothes — a mischievous sparkle in his eyes."
+    },
+    {
+      "id": 7,
+      "text": "చివరికి తెనాలి వంతు వచ్చింది. అతను అద్దం దగ్గరికి వెళ్ళాడు, కానీ అందులోకి చూడలేదు. బదులుగా, తన వస్త్రాల నుండి ఒక వింత వస్తువును బయటికి తీశాడు. అది ఒక చిన్న అద్దం, దాని వెనుక కొన్ని విచిత్రమైన ఆకారాలు అతికించి ఉన్నాయి — తెనాలి దాన్ని పట్టుకుని, సభ వైపు తిప్పాడు. ఆ చిన్న అద్దంలో సర్వరాయుడి ముఖం వంకరగా, హాస్యాస్పదంగా కనిపించింది — అతని గర్వం, అహంకారం స్పష్టంగా కనబడ్డాయి. సభలో అందరూ ఒక్కసారిగా గట్టిగా నవ్వారు, ఆశ్చర్యపోయారు. \"మహారాజా, ఈ అద్దం నిజం చెప్పేది కాదు, కానీ నా అద్దం నిజంగానే కొన్ని నిజాలు బయటపెడుతుంది!\" అని రామకృష్ణుడు నవ్వుతూ అన్నాడు. మహారాజు గుండెలు పగిలేలా నవ్వాడు — ఆ నవ్వు సభ అంతా ప్రతిధ్వనించింది.",
+      "image_prompt": "The clever man pulls a strange object from his clothes, a small mirror with odd shapes attached to its back. He turns it towards the court, revealing the minister's face distorted comically, clearly showing his pride and arrogance. Also in this scene: Minister Sarvarayudu is a portly, pompous man with a perpetually furrowed brow and a neatly trimmed black beard. He wears rich, dark red silk robes adorned with heavy gold embroidery and always carries a scroll of 'important' decrees. Always the same character across every scene. The court is brightly lit, with all eyes on Tenali and the mirror. The light catches the glint of Tenali's prop, making it sparkle as he reveals it, creating a moment of sudden clarity and humor.",
+      "scene_visual": "The clever man pulls a strange object from his clothes, a small mirror with odd shapes attached to its back. He turns it towards the court, revealing the minister's face distorted comically, clearly showing his pride and arrogance.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Chivariki Tenaali Vantu Vachchindi. Atanu Addam Daggariki Vellaadu, Kaani Anduloki Chudaledu. Badulugaa, Tana Vastraala Nundi Oka Vinta Vastuvunu Bayatiki Tishaadu. Adi Oka Chinna Addan, Daani Venuka Konni Vichitramaina Aakaaraalu Atikinchi Unnaayi — Tenaali Daanni Pattukuni, Sabha Vaipu Tippaadu. Aa Chinna Addanlo Sarvaraayudi Mukham Vankaragaa, Haasyaaspadangaa Kanipinchindi — Atani Garvan, Ahankaaram Spashtangaa Kanabaddaayi. Sabhalo Andaru Okkasaarigaa Gattigaa Navvaaru, Aashcharyapoyaaru. \"Mahaaraajaa, I Addam Nijam Cheppedi Kaadu, Kaani Naa Addam Nijangaane Konni Nijaalu Bayatapedutundi!\" Ani Raamakrrishnudu Navvutu Annaadu. Mahaaraaju Gundelu Pagilelaa Navvaadu — Aa Navvu Sabha Antaa Pratidhvaninchindi.",
+      "text_en": "Finally, it was Tenali's turn. He went near the mirror but did not look into it. Instead, he took out a strange object from his clothes. It was a small mirror with some peculiar shapes glued behind it — Tenali held it and turned it towards the court. In that small mirror, Sarvarayudu's face appeared distorted and comical — his pride and arrogance were clearly visible. Everyone in the court burst into laughter at once, surprised. \"Maharaja, that mirror doesn't tell the truth, but my mirror truly reveals some truths!\" Ramakrishna said, laughing. The King laughed heartily — his laughter echoed throughout the court."
+    },
+    {
+      "id": 8,
+      "text": "సర్వరాయుడు కోపంతో ఎర్రబడిన ముఖంతో ఏదో చెప్పబోయాడు, కానీ మహారాజు ఆపలేని నవ్వుతో అతన్ని ఆపేశాడు. సభలో తేలికపాటి నవ్వు ఇంకా వినిపిస్తోంది, సభికులు నెమ్మదిగా తమ స్థానాల్లో కూర్చున్నారు. రామకృష్ణుడు వినయంగా తల వంచి, అందరి మెప్పును అందుకున్నాడు — అతని పెదవులపై ఒక సంతృప్తికరమైన నవ్వు. మహారాజు తన సింహాసనం నుండి \"రామకృష్ణా, నీ తెలివికి సాటి లేదు!\" అని గట్టిగా అన్నాడు. ఆ రోజు నుండి, నిజం చెప్పే అద్దం కేవలం ఒక అందమైన వస్తువు మాత్రమే అయ్యింది, తెనాలి తెలివి మరోసారి సభలో వెలిగింది.",
+      "image_prompt": "The king laughs heartily from his throne, preventing the minister from speaking. The clever man bows respectfully, a satisfied smile on his lips, as he receives everyone's praise. Also in this scene: Minister Sarvarayudu is a portly, pompous man with a perpetually furrowed brow and a neatly trimmed black beard. He wears rich, dark red silk robes adorned with heavy gold embroidery and always carries a scroll of 'important' decrees. Always the same character across every scene. Gentle dusk light filters into the court, casting a warm, amber glow on the scene, signifying the peaceful and humorous end to the day's events.",
+      "scene_visual": "The king laughs heartily from his throne, preventing the minister from speaking. The clever man bows respectfully, a satisfied smile on his lips, as he receives everyone's praise.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Sarvaraayudu Kopanto Errabadina Mukhanto Edo Cheppaboyaadu, Kaani Mahaaraaju Aapaleni Navvuto Atanni Aapeshaadu. Sabhalo Telikapaati Navvu Inkaa Vinipistondi, Sabhikulu Nemmadigaa Tama Sthaanaallo Kurchunnaaru. Raamakrrishnudu Vinayangaa Tala Vanchi, Andari Meppunu Andukunnaadu — Atani Pedavulapai Oka Santrriptikaramaina Navvu. Mahaaraaju Tana Sinhaasanam Nundi \"Raamakrrishnaa, Ni Teliviki Saati Ledu!\" Ani Gattigaa Annaadu. Aa Roju Nundi, Nijam Cheppe Addam Kevalam Oka Andamaina Vastuvu Maatrame Ayyindi, Tenaali Telivi Marosaari Sabhalo Veligindi.",
+      "text_en": "Sarvarayudu, with a face red with anger, was about to say something, but the King stopped him with his uncontrollable laughter. A light laughter still lingered in the court, and the courtiers slowly sat back in their places. Ramakrishna bowed respectfully and received everyone's praise — a satisfied smile on his lips. From his throne, the King loudly declared, \"Ramakrishna, your cleverness is unmatched!\" From that day on, the truth-telling mirror became just a beautiful object, and Tenali's wit shone brightly in the court once again."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king",
+      "description": "King Krishnadevaraya is the wise and benevolent Emperor of the Vijayanagara Empire, known for his patronage of arts and literature, and his appreciation for wit and justice. Always the same character across every scene."
+    },
+    {
+      "key": "merchant",
+      "description": "A shrewd, well-dressed man with a neatly oiled mustache and an overly enthusiastic smile, wearing bright yellow silk. Always the same character across every scene."
+    },
+    {
+      "key": "courtier_minor",
+      "description": "A timid, slender man with a constantly worried expression, dressed in simple, off-white cotton robes. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.33,
+    "weakest_dimension": "child_engagement",
+    "notes": "This story is exceptionally well-structured with a strong narrative arc and excellent emotional portrayal through showing, not telling. The dialogue is natural and character-specific, and the Telugu grammar is flawless, making it a joy to read aloud. To elevate it to a perfect 10 for child engagement, consider weaving in a few subtle direct addresses to the child listener, such as 'మీరు ఊహించుకోండి!' (Imagine!) or 'ఏమై ఉంటుందో తెలుసా?' (Do you know what happened?). This would further enhance the oral storytelling feel and draw the child even deeper into the narrative."
+  },
+  "title_te_en": "Tenaali Addam Rahasyam",
+  "moral_te_en": "Nijam Cheppadaaniki, Konnisaarlu Telivaina Navvu, Chilipi Aatalu Chaalu.",
+  "title_en": "The Secret of Tenali's Mirror",
+  "moral_en": "Sometimes, a clever smile and playful tricks are enough to reveal the truth.",
+  "id": "20260601_091007",
+  "date": "2026-06-01",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు నిజం చెప్పే అద్దం రహస్యం",
+  "thumbnail": "stories/20260601_091007/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
