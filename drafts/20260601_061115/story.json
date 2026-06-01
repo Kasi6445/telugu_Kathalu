@@ -1,0 +1,98 @@
+{
+  "title": "మామూలు రాయిలోని జ్ఞానం",
+  "moral": "నిజమైన విలువ, అందం, జ్ఞానం ఎప్పుడూ పైపైన కనిపించవు — వాటిని మనం ప్రేమగా, ఓర్పుగా వెతకాలి.",
+  "main_character": "A young, imaginative boy named Raju, about 8 years old, with bright, curious eyes and perpetually dusty knees from exploring. He often carries a small, worn satchel to collect interesting things he finds. Raju is a dreamer who sees potential in everything. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story takes place in the small, sun-drenched village of మంగలగిరి (Mangalagiri) in Andhra Pradesh. The village is surrounded by green paddy fields, and a small, ancient temple carved from dark stone stands at its edge. The story unfolds over a bright, clear morning. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మంగలగిరి గ్రామంలో రాజూ, తన చిన్న సంచి భుజాన వేసుకుని, దేవాలయం పక్కన రాళ్ళ కుప్పను తవ్వుతున్నాడు. అతని చిన్న చేతులు ఇసుకలో, చిన్న గులకరాళ్ళ మధ్య వేగంగా కదులుతున్నాయి — ఏదైనా మెరిసే రాయి దొరుకుతుందేమోనని ఆశగా. ఒక సాదాసీదా బూడిద రాయి అతని చేతికి తగిలింది. దానిని తేలికగా విసిరేస్తూ, \"ఇది మామూలు రాయి, దీనిలో ఏముంది?\" అని రాజు అనుకున్నాడు. అది నేల మీద దొర్లిపోయింది — కళ్ళ ముందు నుండి మాయమైంది.",
+      "image_prompt": "The boy quickly digs through a pile of stones next to a temple, then casually tosses away a plain grey stone that he finds. His small hands move rapidly through the sand and pebbles, hoping for a shiny rock, but he dismisses this one with a thought of \"What's in this?\" Bright, clear morning sunlight casting sharp shadows from the temple's carved pillars, highlighting dust motes in the air.",
+      "scene_visual": "The boy quickly digs through a pile of stones next to a temple, then casually tosses away a plain grey stone that he finds. His small hands move rapidly through the sand and pebbles, hoping for a shiny rock, but he dismisses this one with a thought of \"What's in this?\"",
+      "supporting_char_keys": [],
+      "text_te_en": "Mangalagiri Graamanlo Raaju, Tana Chinna Sanchi Bhujaana Vesukuni, Devaalayam Pakkana Raalla Kuppanu Tavvutunnaadu. Atani Chinna Chetulu Isukalo, Chinna Gulakaraalla Madhya Vegangaa Kadulutunnaayi — Edainaa Merise Raayi Dorukutundemonani Aashagaa. Oka Saadaasidaa Budida Raayi Atani Chetiki Tagilindi. Daanini Telikagaa Visirestu, \"Idi Maamulu Raayi, Dinilo Emundi?\" Ani Raaju Anukunnaadu. Adi Nela Mida Dorlipoyindi — Kalla Mundu Nundi Maayamaindi.",
+      "text_en": "In Mangalagiri village, Raju, with his small bag slung over his shoulder, was digging through a pile of rocks next to the temple. His small hands moved quickly through the sand and tiny pebbles, hoping to find a shiny stone. A plain, gray stone touched his hand. He tossed it away lightly, thinking, \"This is just an ordinary stone, what's special about it?\" It rolled away on the ground, disappearing from his sight."
+    },
+    {
+      "id": 2,
+      "text": "అప్పుడే, దేవాలయం మెట్ల మీద కూర్చున్న ఇద్దరు పెద్దవాళ్ళ మాటలు రాజు చెవులకు వినబడ్డాయి. వారి గంభీరమైన గొంతులు, దూరపు ఉరుముల్లా, ఒక రహస్యాన్ని గుసగుసలాడుతున్నాయి. రాజు తల పక్కకు వంచి, వారి మాటలను శ్రద్ధగా విన్నాడు — అతని కనుబొమ్మలు కొద్దిగా ముడిపడ్డాయి. ఒక వృద్ధుడు, \"ఆ జ్ఞాన రాయి అదృశ్యంగా ఉంటుందంటారు, దానిని గుర్తించడం చాలా కష్టం,\" అన్నాడు. పక్కనే ఉన్న మరొకరు, \"అవును, దానిని ఎవరూ చూడలేరు, కానీ అది ఎంతో జ్ఞానాన్ని కలిగి ఉంటుంది,\" అని నెమ్మదిగా చెప్పాడు. రాజు చెవులు రిక్కించాడు — ఆ జ్ఞాన రాయి ఎలా ఉంటుందోనని ఆశ్చర్యపోయాడు.",
+      "image_prompt": "The boy tilts his head, listening intently to the hushed conversation of two old men sitting on the temple steps. His eyebrows are slightly furrowed in concentration as their deep voices, like distant thunder, speak of a mysterious stone. The same bright morning light, now softened slightly as Raju stands in the shade of a large banyan tree, listening intently.",
+      "scene_visual": "The boy tilts his head, listening intently to the hushed conversation of two old men sitting on the temple steps. His eyebrows are slightly furrowed in concentration as their deep voices, like distant thunder, speak of a mysterious stone.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appude, Devaalayam Metla Mida Kurchunna Iddaru Peddavaalla Maatalu Raaju Chevulaku Vinabaddaayi. Vaari Gambhiramaina Gontulu, Durapu Urumullaa, Oka Rahasyaanni Gusagusalaadutunnaayi. Raaju Tala Pakkaku Vanchi, Vaari Maatalanu Shraddhagaa Vinnaadu — Atani Kanubommalu Koddigaa Mudipaddaayi. Oka Vrriddhudu, \"Aa Jnyaana Raayi Adrrishyangaa Untundantaaru, Daanini Gurtinchadam Chaalaa Kashtan,\" Annaadu. Pakkane Unna Marokaru, \"Avunu, Daanini Evaru Chudaleru, Kaani Adi Ento Jnyaanaanni Kaligi Untundi,\" Ani Nemmadigaa Cheppaadu. Raaju Chevulu Rikkinchaadu — Aa Jnyaana Raayi Elaa Untundonani Aashcharyapoyaadu.",
+      "text_en": "Just then, Raju heard the voices of two old men sitting on the temple steps. Their deep voices, like distant thunder, were whispering a secret. Raju tilted his head and listened carefully to their words, his eyebrows furrowed slightly. One old man said, \"They say the Stone of Wisdom is invisible, it's very hard to find.\" The other man next to him softly added, \"Yes, no one can see it, but it holds so much wisdom.\" Raju pricked up his ears, wondering what the Stone of Wisdom could be like."
+    },
+    {
+      "id": 3,
+      "text": "పెద్దవాళ్ళ మాటలు విన్నాక, రాజు మనసులో ఒక ఆలోచన మెరిసింది: జ్ఞాన రాయి తప్పకుండా అద్భుతంగా, మెరిసిపోతూ ఉండాలి. అతను మళ్ళీ వెతకడం మొదలుపెట్టాడు, ఈసారి మరింత నిశ్చయంగా. ప్రతి మెరిసే గులక రాయిని, ప్రతి క్వార్ట్జ్ ముక్కను జాగ్రత్తగా పరిశీలించాడు — అతని కళ్ళు ఆశగా మిలమిలమంటున్నాయి. ఒక క్షణం కోసం, మైకా మెరుపు అతని కళ్ళు జిగేల్మనిపించింది, కానీ అది కూడా అనుకున్నంత గొప్పది కాదనిపించింది. \"ఇది కూడా కాదు... ఎక్కడ ఉంది ఆ గొప్ప రాయి?\" అని నిట్టూర్చాడు. అది అతని చేతిలో మెరిసి, మాయమైంది — ఏ రాయి కూడా జ్ఞానాన్ని కలిగి ఉన్నట్లు అనిపించలేదు.",
+      "image_prompt": "The boy meticulously examines every shiny pebble and piece of quartz, searching with renewed determination. His eyes sparkle with hope as he holds up a shimmering piece of mica, only to sigh in disappointment when it doesn't meet his expectations. Harsh midday sun beating down on the dusty temple grounds, making everything look brighter but also emphasizing Raju's growing weariness.",
+      "scene_visual": "The boy meticulously examines every shiny pebble and piece of quartz, searching with renewed determination. His eyes sparkle with hope as he holds up a shimmering piece of mica, only to sigh in disappointment when it doesn't meet his expectations.",
+      "supporting_char_keys": [],
+      "text_te_en": "Peddavaalla Maatalu Vinnaaka, Raaju Manasulo Oka Aalochana Merisindi: Jnyaana Raayi Tappakundaa Adbhutangaa, Merisipotu Undaali. Atanu Malli Vetakadam Modalupettaadu, Isaari Marinta Nishchayangaa. Prati Merise Gulaka Raayini, Prati Kvaartj Mukkanu Jaagrattagaa Parishilinchaadu — Atani Kallu Aashagaa Milamilamantunnaayi. Oka Kshanam Kosan, Maikaa Merupu Atani Kallu Jigelmanipinchindi, Kaani Adi Kudaa Anukunnanta Goppadi Kaadanipinchindi. \"Idi Kudaa Kaadu... Ekkada Undi Aa Goppa Raayi?\" Ani Nitturchaadu. Adi Atani Chetilo Merisi, Maayamaindi — E Raayi Kudaa Jnyaanaanni Kaligi Unnatlu Anipinchaledu.",
+      "text_en": "After hearing the old men, an idea sparked in Raju's mind: the Stone of Wisdom must be amazing and shiny. He started searching again, this time with more determination. He carefully examined every shiny pebble and every piece of quartz, his eyes sparkling with hope. For a moment, a glimmer of mica caught his eye, but it didn't seem as grand as he imagined. \"Not this one either... Where is that great stone?\" he sighed. It sparkled in his hand, but then he realized it wasn't the one – no stone seemed to hold wisdom."
+    },
+    {
+      "id": 4,
+      "text": "నిరాశగా ఉన్న రాజు, దేవాలయం లోపలికి వెళ్లి పూజారి వద్దకు వెళ్ళాడు. ఆలయం చల్లటి, నునుపైన రాతి నేల అతని పాదాలకు హాయిగా అనిపించింది. అతని భుజాలు వాలిపోయాయి, \"జ్ఞాన రాయి కోసం ఎంత వెతికినా దొరకడం లేదు, అది ఎలా ఉంటుందో నాకు అర్థం కావడం లేదు,\" అని చిన్నగా చెప్పాడు. పూజారి రాజు వంక ప్రేమగా చూసి, \"జ్ఞానం బయట కనిపించదు, అది లోపల ఉంటుంది, చిన్నవాడా,\" అన్నాడు శాంతంగా. పూజారి చిరునవ్వు నవ్వాడు — ఆ మాటల లోతు రాజుకు అంతుపట్టలేదు.",
+      "image_prompt": "The boy stands before the priest inside the temple, his shoulders slumped in dejection. He softly expresses his confusion about the \"knowledge stone\" on the cool, smooth stone floor, while the priest looks at him with a loving smile. Dim, cool light inside the temple's antechamber, illuminated by the flickering flame of an oil lamp, creating long, dancing shadows.",
+      "scene_visual": "The boy stands before the priest inside the temple, his shoulders slumped in dejection. He softly expresses his confusion about the \"knowledge stone\" on the cool, smooth stone floor, while the priest looks at him with a loving smile.",
+      "supporting_char_keys": [],
+      "text_te_en": "Niraashagaa Unna Raaju, Devaalayam Lopaliki Velli Pujaari Vaddaku Vellaadu. Aalayam Challati, Nunupaina Raati Nela Atani Paadaalaku Haayigaa Anipinchindi. Atani Bhujaalu Vaalipoyaayi, \"Jnyaana Raayi Kosam Enta Vetikinaa Dorakadam Ledu, Adi Elaa Untundo Naaku Artham Kaavadam Ledu,\" Ani Chinnagaa Cheppaadu. Pujaari Raaju Vanka Premagaa Chusi, \"Jnyaanam Bayata Kanipinchadu, Adi Lopala Untundi, Chinnavaadaa,\" Annaadu Shaantangaa. Pujaari Chirunavvu Navvaadu — Aa Maatala Lotu Raajuku Antupattaledu.",
+      "text_en": "Disappointed, Raju went inside the temple to the priest. The cool, smooth stone floor of the temple felt comforting to his feet. His shoulders slumped, and he quietly said, \"I've searched everywhere for the Stone of Wisdom, but I can't find it, and I don't understand what it looks like.\" The priest looked at Raju kindly and said calmly, \"Wisdom isn't found on the outside, my child, it's found within.\" The priest smiled, but Raju didn't understand the deep meaning of his words."
+    },
+    {
+      "id": 5,
+      "text": "పూజారి మాటలు అర్థం కాక, రాజు నిరాశగా దేవాలయం వెనుక ఉన్న చిన్న సెలయేరు వద్దకు వెళ్ళి కూర్చున్నాడు. అతని చూపులు దూరంగా ఎటో చూస్తున్నాయి, మనసులో ఏదో ఆలోచిస్తున్నాడు. సెలయేరు నీళ్ళు గులకరాళ్ళపై గలగలా పారే శబ్దం అతని చెవులకు హాయిగా వినిపించింది. అతని చేతులు, అప్రయత్నంగా, మళ్ళీ రాళ్ళను తడుముతున్నాయి. ఇంతలో, అతను అంతకుముందు విసిరేసిన అదే సాదాసీదా బూడిద రాయిని పట్టుకున్నాడు. అది మళ్ళీ అతని చేతిలోకి వచ్చింది — ఎంత వింత!",
+      "image_prompt": "The boy sits by a small stream behind the temple, his gaze distant as his hands unconsciously sift through the pebbles. He picks up the same plain grey stone he had previously discarded, the gurgling sound of the stream water over the rocks filling the air. Soft, dappled sunlight filtering through thick tree leaves onto the stream bank, creating a peaceful, contemplative atmosphere.",
+      "scene_visual": "The boy sits by a small stream behind the temple, his gaze distant as his hands unconsciously sift through the pebbles. He picks up the same plain grey stone he had previously discarded, the gurgling sound of the stream water over the rocks filling the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pujaari Maatalu Artham Kaaka, Raaju Niraashagaa Devaalayam Venuka Unna Chinna Selayeru Vaddaku Velli Kurchunnaadu. Atani Chupulu Durangaa Eto Chustunnaayi, Manasulo Edo Aalochistunnaadu. Selayeru Nillu Gulakaraallapai Galagalaa Paare Shabdam Atani Chevulaku Haayigaa Vinipinchindi. Atani Chetulu, Aprayatnangaa, Malli Raallanu Tadumutunnaayi. Intalo, Atanu Antakumundu Visiresina Ade Saadaasidaa Budida Raayini Pattukunnaadu. Adi Malli Atani Chetiloki Vachchindi — Enta Vinta!",
+      "text_en": "Not understanding the priest's words, Raju sadly went and sat by the small stream behind the temple. His gaze was fixed far away, lost in thought. The gentle gurgle of the stream's water over the pebbles was soothing to his ears. His hands, without him even thinking, started feeling for stones again. Just then, he picked up the very same plain, gray stone he had tossed away earlier. It was back in his hand again – how strange!"
+    },
+    {
+      "id": 6,
+      "text": "రాజు ఆ రాయిని చేతిలో పట్టుకుని, దాని గరుకు ఉపరితలాన్ని నిదానంగా తడిమాడు. దేవాలయం నుండి వచ్చిన మట్టి, పురాతన రాయి వాసన అతని ముక్కుకు తగిలింది. పూజారి మాటలు అతని మనసులో మెరిశాయి: \"జ్ఞానం లోపల ఉంటుంది.\" ఆ రాయి యొక్క నిశ్శబ్ద బలం, దాని సహనం, ఎన్నో ఏళ్లుగా అదే చోట ఉండటం — ఇవన్నీ జ్ఞానం కాదా? మీకు తెలుసా, అప్పుడు రాజుకు ఏం అర్థమైందో? అతని కళ్ళు ఒక్కసారిగా పెద్దవయ్యాయి, పెదవులపై చిరునవ్వు విరిసింది. \"అవును! జ్ఞానం అంటే ఇదే! ఇది ఎప్పుడూ ఇక్కడే ఉంది!\" అని రాజుకు అంతా అర్థమైంది — ఎంతో ఆశ్చర్యంగా.",
+      "image_prompt": "The boy slowly traces the rough surface of the grey stone in his hand, a sudden understanding dawning on him. His eyes widen dramatically, and a smile spreads across his lips as the ancient, earthy smell of the temple stone fills his senses. A single shaft of golden sunlight breaks through the canopy, illuminating Raju and the stone in his hand, like a spotlight on a profound revelation.",
+      "scene_visual": "The boy slowly traces the rough surface of the grey stone in his hand, a sudden understanding dawning on him. His eyes widen dramatically, and a smile spreads across his lips as the ancient, earthy smell of the temple stone fills his senses.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Aa Raayini Chetilo Pattukuni, Daani Garuku Uparitalaanni Nidaanangaa Tadimaadu. Devaalayam Nundi Vachchina Matti, Puraatana Raayi Vaasana Atani Mukkuku Tagilindi. Pujaari Maatalu Atani Manasulo Merishaayi: \"Jnyaanam Lopala Untundi.\" Aa Raayi Yokka Nishshabda Balan, Daani Sahanan, Enno Ellugaa Ade Chota Undatam — Ivanni Jnyaanam Kaadaa? Miku Telusaa, Appudu Raajuku Em Arthamaindo? Atani Kallu Okkasaarigaa Peddavayyaayi, Pedavulapai Chirunavvu Virisindi. \"Avunu! Jnyaanam Ante Ide! Idi Eppudu Ikkade Undi!\" Ani Raajuku Antaa Arthamaindi — Ento Aashcharyangaa.",
+      "text_en": "Raju held the stone in his hand and slowly felt its rough surface. The smell of temple earth and ancient stone reached his nose. The priest's words flashed in his mind: \"Wisdom is found within.\" The stone's quiet strength, its patience, staying in the same place for so many years – wasn't all of this wisdom? Do you know what Raju understood then? His eyes suddenly widened, and a smile spread across his lips. \"Yes! This is wisdom! It was here all along!\" Raju understood everything, filled with wonder."
+    },
+    {
+      "id": 7,
+      "text": "రాజు ఆ బూడిద రాయిని గుండెకు హత్తుకుని, దేవాలయం నుండి ఇంటికి బయలుదేరాడు. అతని వేలితో ఆ రాయిని నిరంతరం నిమురుతూ ఉండటంతో, అది మెల్లగా మెరవడం మొదలుపెట్టింది — దాని నునుపైన, చల్లటి స్పర్శ అతనికి అదో రకమైన శాంతినిచ్చింది. అతని ముఖంలో ప్రశాంతమైన ఆనందం వెల్లివిరిసింది. ఇప్పుడు రాజుకు మెరిసే రాళ్ళ కోసం వెతకాల్సిన అవసరం లేదు. రాయి ఇప్పుడు మెరుస్తోంది — నిజమైన విలువ సాధారణమైన వాటిలోనే దాగి ఉంటుందని రాజు నేర్చుకున్నాడు.",
+      "image_prompt": "The boy walks away from the temple, clutching the grey stone to his chest, his finger continuously stroking its surface. A peaceful joy radiates from his face as the stone, now seeming to glow, offers a smooth, cool touch of serenity. Gentle late afternoon light, warm amber hues bathing the village path as Raju walks, peaceful and full of new understanding.",
+      "scene_visual": "The boy walks away from the temple, clutching the grey stone to his chest, his finger continuously stroking its surface. A peaceful joy radiates from his face as the stone, now seeming to glow, offers a smooth, cool touch of serenity.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Aa Budida Raayini Gundeku Hattukuni, Devaalayam Nundi Intiki Bayaluderaadu. Atani Velito Aa Raayini Nirantaram Nimurutu Undatanto, Adi Mellagaa Meravadam Modalupettindi — Daani Nunupaina, Challati Sparsha Ataniki Ado Rakamaina Shaantinichchindi. Atani Mukhanlo Prashaantamaina Aanandam Vellivirisindi. Ippudu Raajuku Merise Raalla Kosam Vetakaalsina Avasaram Ledu. Raayi Ippudu Merustondi — Nijamaina Viluva Saadhaaranamaina Vaatilone Daagi Untundani Raaju Nerchukunnaadu.",
+      "text_en": "Raju hugged the gray stone to his chest and started walking home from the temple. As his finger continuously stroked the stone, it slowly began to shine – its smooth, cool touch gave him a special kind of peace. A peaceful joy spread across his face. Now Raju didn't need to search for shiny stones anymore. The stone was shining now – Raju had learned that true value is hidden in ordinary things."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.0,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.0,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a compelling narrative arc and excellent child engagement, making it a strong contender for publication. The grammar is nearly flawless, and the attempts at oral warmth are commendable. To reach an award-winning standard, the primary focus should be on enhancing emotional depth by showing feelings through action and body language rather than stating them. Additionally, enriching the dialogue by ensuring every scene features character-specific direct speech would significantly elevate the story's dynamism and character vividness."
+  },
+  "quality_warning": true,
+  "title_te_en": "Maamulu Raayiloni Jnyaanam",
+  "moral_te_en": "Nijamaina Viluva, Andan, Jnyaanam Eppudu Paipaina Kanipinchavu — Vaatini Manam Premagaa, Orpugaa Vetakaali.",
+  "title_en": "The Wisdom in an Ordinary Stone",
+  "moral_en": "True value, beauty, and wisdom are never found on the surface – we must search for them with love and patience.",
+  "id": "20260601_061115",
+  "date": "2026-06-01",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "మామూలు రాయిలోని జ్ఞానం",
+  "thumbnail": "stories/20260601_061115/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
