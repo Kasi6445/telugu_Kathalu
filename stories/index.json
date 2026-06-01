@@ -1,6 +1,40 @@
 {
   "stories": [
     {
+      "id": "20260601_161221",
+      "slug": "kaartiik-adavi-guttu",
+      "title": "కార్తీక్ అడవి గుట్టు",
+      "moral": "మనం ప్రకృతిని ప్రేమిస్తే, ప్రకృతి మనల్ని ప్రేమగా చూసుకుంటుంది కదూ?",
+      "thumbnail": "stories/20260601_161221/images/scene1.jpg",
+      "date": "2026-06-01",
+      "category": "samethalu",
+      "subcategory": "hard_lessons",
+      "topic": "వృక్షో రక్షతి రక్షితః అనే కథ",
+      "voice": "te-IN-Chirp3-HD-Callirrhoe",
+      "schema_version": 2,
+      "title_en": "Karthik's Secret of the Forest",
+      "moral_en": "When we love nature, nature loves us back, doesn't it?",
+      "title_te_en": "Kaartik Adavi Guttu",
+      "moral_te_en": "Manam Prakrritini Premiste, Prakrriti Manalni Premagaa Chusukuntundi Kadu?"
+    },
+    {
+      "id": "20260601_131229",
+      "slug": "tulasi-vrumdamma-katha",
+      "title": "తులసి వృందమ్మ కథ",
+      "moral": "నిజమైన భక్తికి, త్యాగానికి ఎప్పుడూ గొప్ప గుర్తింపు ఉంటుంది.",
+      "thumbnail": "stories/20260601_131229/images/scene1.jpg",
+      "date": "2026-06-01",
+      "category": "bhagavatam",
+      "subcategory": "bhakta_stories",
+      "topic": "తులసి దేవి భక్తి - అమర పవిత్రతను పొందిన వృక్షం",
+      "voice": "te-IN-Chirp3-HD-Autonoe",
+      "schema_version": 2,
+      "title_en": "The Story of Tulasi Vrinda",
+      "moral_en": "True devotion and sacrifice always receive great recognition.",
+      "title_te_en": "Tulasi Vrrindamma Katha",
+      "moral_te_en": "Nijamaina Bhaktiki, Tyaagaaniki Eppudu Goppa Gurtimpu Untundi."
+    },
+    {
       "id": "20260601_111058",
       "slug": "vajraala-podupu-katha",
       "title": "వజ్రాల పొడుపు కథ",
