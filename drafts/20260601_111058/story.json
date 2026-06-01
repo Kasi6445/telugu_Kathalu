@@ -1,0 +1,97 @@
+{
+  "title": "వజ్రాల పొడుపు కథ",
+  "moral": "అందమైన అద్భుతాలు తరచుగా కళ్ళముందే దాగి ఉంటాయి, వాటిని గుర్తించడానికి ఆసక్తిగల మనసు కావాలి.",
+  "main_character": "Chinni (చిన్ని) is a 7-year-old girl with bright, curious eyes and two long braids tied with red ribbons. She loves exploring and asking questions about the world around her. Always the same character across every scene.",
+  "antagonist": "Nānamma (నానమ్మ) is an elderly woman with kind, crinkled eyes and silver hair neatly tied in a bun. She wears a simple, light blue cotton saree and carries a small wooden prayer beads in her hand. Always the same character across every scene.",
+  "setting": "A small, vibrant village in rural Andhra Pradesh, nestled beside green paddy fields. The air is always filled with the scent of jasmine and damp earth. Early morning light filters through mango trees. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మొదటి సూర్యకిరణం కిటికీలోంచి లోపలికి దూసుకొచ్చింది, మంచం మీద వెచ్చని దూది మృదుత్వాన్ని చిన్ని చెక్కిలికి తాకింది. నిద్రమత్తు వదిలించుకుంటూ, చిన్ని మంచం మీంచి గంతులేసి దిగింది — ఆ కొత్త రోజు కోసం ఆమె గుండె గంతులు వేసింది. తల దువ్వుకుంటూనే, తన నానమ్మ వైపు చూసి, చిన్ని అడిగింది, \"అమ్మా, ఇంకా నిద్రపోతున్నావా? రోజు మొదలైంది!\" ఉత్సాహంతో ఆమె అడుగులు కిటికీ వైపు సాగాయి, ఈరోజు ఏ కొత్త సాహసం ఎదురుచూస్తుందో అని. ",
+      "image_prompt": "The girl jumps out of bed, shaking off sleepiness. A warm sunbeam touches her cheek through the window. Soft, golden-orange pre-dawn light streaming through a small window, filling the room with a gentle, hopeful glow.",
+      "scene_visual": "The girl jumps out of bed, shaking off sleepiness. A warm sunbeam touches her cheek through the window.",
+      "supporting_char_keys": [],
+      "text_te_en": "Modati Suryakiranam Kitikilonchi Lopaliki Dusukochchindi, Mancham Mida Vechchani Dudi Mrridutvaanni Chinni Chekkiliki Taakindi. Nidramattu Vadilinchukuntu, Chinni Mancham Minchi Gantulesi Digindi — Aa Kotta Roju Kosam Aame Gunde Gantulu Vesindi. Tala Duvvukuntune, Tana Naanamma Vaipu Chusi, Chinni Adigindi, \"Ammaa, Inkaa Nidrapotunnaavaa? Roju Modalaindi!\" Utsaahanto Aame Adugulu Kitiki Vaipu Saagaayi, Iroju E Kotta Saahasam Eduruchustundo Ani. ",
+      "text_en": "The first ray of sunlight burst through the window, gently touching Chinni's cheek with its warm, soft light on her bed. Shaking off her sleepiness, Chinni jumped out of bed — her heart thumping for the new day. While combing her hair, Chinni looked at her Grandma and asked, \"Grandma, are you still sleeping? The day has begun!\" With excitement, her steps led her towards the window, wondering what new adventure awaited her today."
+    },
+    {
+      "id": 2,
+      "text": "కిటికీలోంచి బయట చూస్తూ ఉండగా, తన నానమ్మ అరుగు మీద కూర్చుని కనిపించింది. చిన్ని తన బేర్ పాదాలతో అరుగు మీద చల్లని, నునుపైన రాతి స్పర్శను అనుభవిస్తూ నానమ్మ దగ్గరికి పరిగెత్తింది. నానమ్మ చిన్నిని చూసి చిరునవ్వు నవ్వి, ఒక పొడుపు కథ వేసింది: \"ఉదయం పూట కనిపించే వజ్రాలు, సూర్యుడు వస్తే మాయం అవుతాయి. ఏంటది చిన్ని?\" చిన్ని నుదురు ముడిపడింది, తల పక్కకు వాల్చి ఆలోచనలో పడింది... నానమ్మ మాటలు చిన్ని మనసులో ఒక చిక్కుముడి వేసాయి. ",
+      "image_prompt": "The girl furrows her brow and tilts her head to the side, deep in thought. She stands barefoot on the cool, smooth stone of the porch. Also in this scene: Nānamma (నానమ్మ) is an elderly woman with kind, crinkled eyes and silver hair neatly tied in a bun. She wears a simple, light blue cotton saree and carries a small wooden prayer beads in her hand. Always the same character across every scene. Early morning light, still soft and slightly diffused, casting long shadows from the mango tree onto the porch, creating a serene and thoughtful atmosphere.",
+      "scene_visual": "The girl furrows her brow and tilts her head to the side, deep in thought. She stands barefoot on the cool, smooth stone of the porch.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kitikilonchi Bayata Chustu Undagaa, Tana Naanamma Arugu Mida Kurchuni Kanipinchindi. Chinni Tana Ber Paadaalato Arugu Mida Challani, Nunupaina Raati Sparshanu Anubhavistu Naanamma Daggariki Parigettindi. Naanamma Chinnini Chusi Chirunavvu Navvi, Oka Podupu Katha Vesindi: \"Udayam Puta Kanipinche Vajraalu, Suryudu Vaste Maayam Avutaayi. Entadi Chinni?\" Chinni Nuduru Mudipadindi, Tala Pakkaku Vaalchi Aalochanalo Padindi... Naanamma Maatalu Chinni Manasulo Oka Chikkumudi Vesaayi. ",
+      "text_en": "As she looked out the window, she saw her Grandma sitting on the porch. Chinni ran to her Grandma, feeling the cool, smooth stone of the porch under her bare feet. Grandma smiled at Chinni and gave her a riddle: \"Diamonds that appear in the morning, disappear when the sun comes. What is it, Chinni?\" Chinni's brow furrowed, and she tilted her head, lost in thought... Grandma's words had created a puzzle in Chinni's mind."
+    },
+    {
+      "id": 3,
+      "text": "నానమ్మ అడిగిన పొడుపు కథకు సమాధానం కోసం చిన్ని ఇల్లంతా, తోటంతా గాలించింది. ప్రతి మెరిసే వస్తువును చూసింది, కానీ ఏదీ పొడుపు కథకు సరిపోలేదు. దగ్గర్లో పూసిన మల్లెపూల లేత సువాసన ఆమెకు వినిపించినా, ఆమె మనసు మాత్రం వజ్రాల మీదే ఉంది. నిరాశగా ఒక చిన్న గులకరాయిని కాలితో తన్ని, \"ఇక్కడ ఏ వజ్రాలు లేవు, నానమ్మా!\" అంది. ఎక్కడ చూసినా — సాధారణ వస్తువులే కనిపించాయి. ఆమె ఒక పాత గోడ పక్కన కూలబడి, పరిసరాలను కొత్త దృష్టితో పరిశీలించింది.",
+      "image_prompt": "The girl sits down against an old wall, observing her surroundings with a new perspective. She had just kicked a small pebble with her foot in frustration. Bright, clear morning sunlight, starting to warm the air, illuminating the vibrant green of the garden with sharp contrasts.",
+      "scene_visual": "The girl sits down against an old wall, observing her surroundings with a new perspective. She had just kicked a small pebble with her foot in frustration.",
+      "supporting_char_keys": [],
+      "text_te_en": "Naanamma Adigina Podupu Kathaku Samaadhaanam Kosam Chinni Illantaa, Totantaa Gaalinchindi. Prati Merise Vastuvunu Chusindi, Kaani Edi Podupu Kathaku Saripoledu. Daggarlo Pusina Mallepula Leta Suvaasana Aameku Vinipinchinaa, Aame Manasu Maatram Vajraala Mide Undi. Niraashagaa Oka Chinna Gulakaraayini Kaalito Tanni, \"Ikkada E Vajraalu Levu, Naanammaa!\" Andi. Ekkada Chusinaa — Saadhaarana Vastuvule Kanipinchaayi. Aame Oka Paata Goda Pakkana Kulabadi, Parisaraalanu Kotta Drrishtito Parishilinchindi.",
+      "text_en": "Chinni searched all over the house and garden for the answer to Grandma's riddle. She looked at every shiny object, but none fit the riddle. Even though she could smell the faint scent of jasmine flowers blooming nearby, her mind was only on diamonds. Disappointed, she kicked a small pebble and said, \"There are no diamonds here, Grandma!\" Everywhere she looked, only ordinary things appeared. She slumped down next to an old wall and observed her surroundings with a new perspective."
+    },
+    {
+      "id": 4,
+      "text": "అక్కడే ఆడుకుంటున్న తన స్నేహితుడు రాజు కనిపించాడు. చిన్ని ఆశగా రాజు దగ్గరికి వెళ్ళి, పొడుపు కథ గురించి చెప్పి సహాయం అడిగింది. రాజు కొద్దిసేపు ఆలోచించి, నవ్వుతూ, \"అవి బహుశా మీ నానమ్మ పాత గాజులు అయి ఉంటాయి!\" అని సరదాగా అన్నాడు. దూరంగా పొలం దున్నుతున్న రైతు శబ్దం స్పష్టంగా వినిపించింది. చిన్ని చిన్నగా నవ్వి, తల ఊపింది, తన పెదవుల నుండి చిన్నగా గాలి వదిలింది... ఈ రహస్యాన్ని — తనే ఛేదించాలి. ఆమె రాజు దగ్గర నుండి దూరంగా నడిచింది.",
+      "image_prompt": "The girl walks away from her friend, exhaling softly. She has a small smile and shakes her head. Mid-morning sun, slightly higher in the sky, casting a warm, even light over the village path where children are playing.",
+      "scene_visual": "The girl walks away from her friend, exhaling softly. She has a small smile and shakes her head.",
+      "supporting_char_keys": [],
+      "text_te_en": "Akkade Aadukuntunna Tana Snehitudu Raaju Kanipinchaadu. Chinni Aashagaa Raaju Daggariki Velli, Podupu Katha Gurinchi Cheppi Sahaayam Adigindi. Raaju Koddisepu Aalochinchi, Navvutu, \"Avi Bahushaa Mi Naanamma Paata Gaajulu Ayi Untaayi!\" Ani Saradaagaa Annaadu. Durangaa Polam Dunnutunna Raitu Shabdam Spashtangaa Vinipinchindi. Chinni Chinnagaa Navvi, Tala Upindi, Tana Pedavula Nundi Chinnagaa Gaali Vadilindi... I Rahasyaanni — Tane Chedinchaali. Aame Raaju Daggara Nundi Durangaa Nadichindi.",
+      "text_en": "Her friend Raju was playing nearby. Chinni eagerly went to Raju, told him about the riddle, and asked for help. Raju thought for a moment, then laughed and playfully said, \"They're probably your Grandma's old bangles!\" The sound of a farmer plowing a distant field was clearly audible. Chinni smiled faintly, nodded her head, and let out a small sigh from her lips... This secret — she had to solve it herself. She walked away from Raju."
+    },
+    {
+      "id": 5,
+      "text": "సమాధానం కోసం చిన్ని వరి పొలాల వైపు నడిచింది. ఆమె కళ్ళు ప్రతి ఆకును, గడ్డి పోచను క్షుణ్ణంగా పరిశీలిస్తున్నాయి. శరీరం ముందుకు వంగి, తల కొద్దిగా పక్కకు వాల్చి, ఉత్సుకతతో చూస్తోంది. తడి మట్టి వాసన ఆమెకు ఆహ్లాదంగా అనిపించింది. \"వజ్రాలు, వజ్రాలు... ఎక్కడ దాక్కున్నావు?\" అని తనలో తనే గొణుక్కుంది. ప్రతి ఆకు — ఒక కొత్త ప్రశ్నను అడిగింది. ఇంతలో, ఒక ఆకుపై ఒక చిన్న నత్త మెల్లగా కదులుతూ, వెనుక మెరిసే బాటను వదిలి వెళ్ళడం ఆమె కంటపడింది.",
+      "image_prompt": "The girl bends her body forward, head slightly tilted, intently examining every leaf. She notices a small snail moving on a leaf, leaving a shining trail. Bright, open daylight over the green paddy fields, with occasional patches of shade from distant trees, creating a sense of vastness and peaceful observation.",
+      "scene_visual": "The girl bends her body forward, head slightly tilted, intently examining every leaf. She notices a small snail moving on a leaf, leaving a shining trail.",
+      "supporting_char_keys": [],
+      "text_te_en": "Samaadhaanam Kosam Chinni Vari Polaala Vaipu Nadichindi. Aame Kallu Prati Aakunu, Gaddi Pochanu Kshunnangaa Parishilistunnaayi. Shariram Munduku Vangi, Tala Koddigaa Pakkaku Vaalchi, Utsukatato Chustondi. Tadi Matti Vaasana Aameku Aahlaadangaa Anipinchindi. \"Vajraalu, Vajraalu... Ekkada Daakkunnaavu?\" Ani Tanalo Tane Gonukkundi. Prati Aaku — Oka Kotta Prashnanu Adigindi. Intalo, Oka Aakupai Oka Chinna Natta Mellagaa Kadulutu, Venuka Merise Baatanu Vadili Velladam Aame Kantapadindi.",
+      "text_en": "Chinni walked towards the paddy fields, looking for the answer. Her eyes meticulously examined every leaf and blade of grass. Her body bent forward, head tilted slightly, watching with curiosity. The smell of wet earth felt pleasant to her. \"Diamonds, diamonds... where are you hiding?\" she mumbled to herself. Every leaf seemed to hold a new question. Just then, she noticed a small snail slowly moving on a leaf, leaving a glistening trail behind it."
+    },
+    {
+      "id": 6,
+      "text": "సూర్యుడు మరింత పైకి లేస్తున్న సమయం అది. చిన్ని కళ్ళు ఆకస్మికంగా ఒక చోట ఆగిపోయాయి. ఒక సాలీడు గూడు — కనిపించనంత సన్నని దారాలతో అల్లిన ఆ గూడు మీద, చిన్న చిన్న నీటి బిందువులు వజ్రాల్లా మెరుస్తున్నాయి! ఆమె కళ్ళు పెద్దవయ్యాయి, ఆశ్చర్యంతో నోరు తెరిచింది, ఊపిరి బిగబట్టింది. ఆ వల మీద — వందలాది వజ్రాలు మెరిసాయి! \"అవిగో! అవిగో వజ్రాలు! పొడుపు కథకు సమాధానం దొరికింది!\" అని ఆనందంతో కేక వేసింది. ఆ నీటి బిందువులు క్షణకాలం మెరిసి, సూర్యరశ్మి తాకగానే మెల్లగా కనుమరుగు కావడం మొదలుపెట్టాయి.",
+      "image_prompt": "The girl's eyes widen, and her mouth drops open in astonishment as she holds her breath. Hundreds of tiny water droplets, sparkling like diamonds, adorn a delicate spiderweb. The golden-white light of the rising sun, hitting the dew-covered spiderweb directly, causing it to sparkle intensely against the slightly shadowed green background, creating a magical, fleeting moment.",
+      "scene_visual": "The girl's eyes widen, and her mouth drops open in astonishment as she holds her breath. Hundreds of tiny water droplets, sparkling like diamonds, adorn a delicate spiderweb.",
+      "supporting_char_keys": [],
+      "text_te_en": "Suryudu Marinta Paiki Lestunna Samayam Adi. Chinni Kallu Aakasmikangaa Oka Chota Aagipoyaayi. Oka Saalidu Gudu — Kanipinchananta Sannani Daaraalato Allina Aa Gudu Mida, Chinna Chinna Niti Binduvulu Vajraallaa Merustunnaayi! Aame Kallu Peddavayyaayi, Aashcharyanto Noru Terichindi, Upiri Bigabattindi. Aa Vala Mida — Vandalaadi Vajraalu Merisaayi! \"Avigo! Avigo Vajraalu! Podupu Kathaku Samaadhaanam Dorikindi!\" Ani Aanandanto Keka Vesindi. Aa Niti Binduvulu Kshanakaalam Merisi, Suryarashmi Taakagaane Mellagaa Kanumarugu Kaavadam Modalupettaayi.",
+      "text_en": "The sun was rising higher. Chinni's eyes suddenly stopped at one spot. A spider's web — woven with threads so fine they were almost invisible, and on it, tiny drops of water sparkled like diamonds! Her eyes widened, she opened her mouth in surprise, and held her breath. On that web — hundreds of diamonds sparkled! \"There they are! There are the diamonds! I found the answer to the riddle!\" she shouted with joy. Those water droplets sparkled for a moment, and as the sunlight touched them, they slowly began to disappear."
+    },
+    {
+      "id": 7,
+      "text": "సమాధానం దొరికిన ఆనందంతో చిన్ని నానమ్మ దగ్గరికి పరిగెత్తింది. ఆమె అడుగులు నేల మీద తేలికగా, సంతోషంగా పడ్డాయి. ఆమె గుండెలో గెలుపు సంబరం నిండిపోయింది, ఛాతీ కొద్దిగా ఉబ్బింది. నానమ్మ దగ్గరికి చేరుకోగానే, చిన్ని ముఖంలో విజయం వెలిగిపోతుండగా, గట్టిగా అరిచింది, \"నానమ్మా! వజ్రాలు మంచు బిందువులు!\" చిన్ని గొంతులో — ప్రపంచం గెలిచినంత ఆనందం. ఆమె నానమ్మను చూస్తూ చిరునవ్వులు చిందించింది, తన తెలివిని నిరూపించుకున్నందుకు గర్వపడింది.",
+      "image_prompt": "The girl runs towards her grandmother, her chest slightly puffed out with triumph. Her face is beaming with victory as she smiles at her grandmother. Also in this scene: Nānamma (నానమ్మ) is an elderly woman with kind, crinkled eyes and silver hair neatly tied in a bun. She wears a simple, light blue cotton saree and carries a small wooden prayer beads in her hand. Always the same character across every scene. Warm, bright morning light, now fully present, illuminating the porch and garden in a clear, happy glow, reflecting Nānamma's gentle smile.",
+      "scene_visual": "The girl runs towards her grandmother, her chest slightly puffed out with triumph. Her face is beaming with victory as she smiles at her grandmother.",
+      "supporting_char_keys": [],
+      "text_te_en": "Samaadhaanam Dorikina Aanandanto Chinni Naanamma Daggariki Parigettindi. Aame Adugulu Nela Mida Telikagaa, Santoshangaa Paddaayi. Aame Gundelo Gelupu Sambaram Nindipoyindi, Chaati Koddigaa Ubbindi. Naanamma Daggariki Cherukogaane, Chinni Mukhanlo Vijayam Veligipotundagaa, Gattigaa Arichindi, \"Naanammaa! Vajraalu Manchu Binduvulu!\" Chinni Gontulo — Prapancham Gelichinanta Aanandan. Aame Naanammanu Chustu Chirunavvulu Chindinchindi, Tana Telivini Nirupinchukunnanduku Garvapadindi.",
+      "text_en": "With the joy of finding the answer, Chinni ran to her Grandma. Her steps were light and happy on the ground. Her heart was filled with the celebration of victory, and her chest swelled slightly. As she reached Grandma, with victory shining on her face, Chinni loudly exclaimed, \"Grandma! The diamonds are dewdrops!\" In Chinni's voice — there was as much joy as if she had conquered the world. She smiled at her Grandma, proud of proving her cleverness."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is a gem, showcasing excellent Telugu grammar, a compelling narrative arc, and vivid emotional portrayal through action. The dialogue is natural and effectively advances the plot, keeping a child engaged. The primary area for refinement lies in the narrative voice; to truly embody a grandparent's oral warmth, the storytelling could benefit from a more conversational, intimate tone, perhaps with occasional direct addresses to the listener, 'చిట్టి తల్లీ' (little one) listener."
+  },
+  "title_te_en": "Vajraala Podupu Katha",
+  "moral_te_en": "Andamaina Adbhutaalu Tarachugaa Kallamunde Daagi Untaayi, Vaatini Gurtinchadaaniki Aasaktigala Manasu Kaavaali.",
+  "title_en": "The Diamond Riddle",
+  "moral_en": "Beautiful wonders are often hidden right before our eyes; it takes a curious mind to find them.",
+  "id": "20260601_111058",
+  "date": "2026-06-01",
+  "category": "podupu",
+  "subcategory": "nature_riddles",
+  "topic": "ఉదయం పూట కనిపించే వజ్రాల పొడుపు కథ",
+  "thumbnail": "stories/20260601_111058/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
