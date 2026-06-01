@@ -1,0 +1,133 @@
+{
+  "title": "వశిష్ఠుడి జ్ఞానం, రాజ్యానికి ప్రాణం",
+  "moral": "తెలివైన మాటలు వింటే, కష్టాలు తీరి, శాశ్వతమైన శాంతి దొరుకుతుంది కదా!",
+  "main_character": "A revered sage, ancient and wise, with a long white beard and hair, typically wearing simple white or saffron robes. His eyes hold deep knowledge and compassion. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The ancient city of Ayodhya, bustling with life, yet serene within the royal palace grounds. The royal court is adorned with intricate carvings and vibrant tapestries, bathed in the soft glow of oil lamps. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అయోధ్యలోని ఆశ్రమంలో, వశిష్ఠ మహర్షి తన ప్రియ శిష్యులైన రామ లక్ష్మణులకు ధర్మ మార్గాలను బోధిస్తున్నారు. మహర్షి పెదవులపై చిరునవ్వు అలుముకుంది — ఆయన కళ్ళు జ్ఞానంతో వెలిగిపోతున్నాయి. ఆశ్రమ కిటికీ బయటనుండి తాటి ఆకుల సన్నని గాలి తాకుతూ, ఓ మధురమైన రాగంలా వినిపించింది. రాముడు, లక్ష్మణుడు గురువు మాటలను ఎంతో శ్రద్ధగా వింటున్నారు, వారి చూపులు మహర్షిపైనే నిలిచి ఉన్నాయి. వశిష్ఠుడు వారితో, \"రాజనీతి అంటే కేవలం అధికారం కాదు, ధర్మాన్ని నిలబెట్టడమే,\" అని నెమ్మదిగా పలికాడు. నిజమైన రాజధర్మం గురించి ఆయన వివరించినప్పుడు, యువరాజులిద్దరూ లోతుగా ఆలోచిస్తూ తలలు పక్కకు తిప్పుకున్నారు.",
+      "image_prompt": "The two young men listen intently to their guru, then turn their heads slightly as they ponder his words. Their gazes are fixed on the old man, whose eyes glow with wisdom. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Soft, warm morning sunlight filtering through the ashram's open archways, illuminating dust motes in the still air.",
+      "scene_visual": "The two young men listen intently to their guru, then turn their heads slightly as they ponder his words. Their gazes are fixed on the old man, whose eyes glow with wisdom.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Ayodhyaloni Aashramanlo, Vashishtha Maharshi Tana Priya Shishyulaina Raama Lakshmanulaku Dharma Maargaalanu Bodhistunnaaru. Maharshi Pedavulapai Chirunavvu Alumukundi — Aayana Kallu Jnyaananto Veligipotunnaayi. Aashrama Kitiki Bayatanundi Taati Aakula Sannani Gaali Taakutu, O Madhuramaina Raaganlaa Vinipinchindi. Raamudu, Lakshmanudu Guruvu Maatalanu Ento Shraddhagaa Vintunnaaru, Vaari Chupulu Maharshipaine Nilichi Unnaayi. Vashishthudu Vaarito, \"Raajaniti Ante Kevalam Adhikaaram Kaadu, Dharmaanni Nilabettadame,\" Ani Nemmadigaa Palikaadu. Nijamaina Raajadharmam Gurinchi Aayana Vivarinchinappudu, Yuvaraajuliddaru Lotugaa Aalochistu Talalu Pakkaku Tippukunnaaru.",
+      "text_en": "In the ashram in Ayodhya, Sage Vashishtha was teaching the paths of righteousness to his beloved disciples, Rama and Lakshmana. A gentle smile graced the sage's lips — his eyes glowed with wisdom. Outside the ashram window, the soft breeze rustling through palm leaves sounded like a sweet melody. Rama and Lakshmana were listening to their guru's words with great attention, their gaze fixed on the sage. Vashishtha slowly said to them, \"Statesmanship is not just about power, but about upholding righteousness.\" As he explained the true duty of a king, the two young princes turned their heads, thinking deeply."
+    },
+    {
+      "id": 2,
+      "text": "రామ లక్ష్మణులు ఇంకా ఆ మాటల గురించే ఆలోచిస్తున్నప్పుడు, ఒక రాజభటుడు హడావిడిగా ఆశ్రమంలోకి వచ్చాడు. అతని చేతిలో ఉన్న రాజముద్రిక గల తాళపత్రం చూసి వశిష్ఠుడి ముఖంలో చిన్న ఆందోళన కనిపించింది. మహర్షి ఆ తాళపత్రాన్ని తీసుకుని, రాజముద్రికను విరిచారు — ఆ శబ్దం గంభీరంగా వినిపించింది. దాన్ని చదువుతున్న కొద్దీ, ఆయన చూపులు మరింత లోతుగా మారాయి. లక్ష్మణుడు రాముడి వైపు చూసి, ఆందోళనగా తల ఊపాడు. వశిష్ఠుడు నిట్టూర్చి, \"మహారాజుకు తీవ్రమైన సమస్య ఎదురైనట్లుంది,\" అని గొణుగుతూ, ఆ పత్రాన్ని నెమ్మదిగా చుట్టేశారు.",
+      "image_prompt": "The old man takes the palm leaf scroll from the messenger and slowly unrolls it, his eyes scanning the text. As he reads, a small expression of anxiety appears on his face, and his gaze deepens. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Bright midday sun casting sharp shadows outside, but inside the ashram, a cool, shadowed tranquility, disturbed only by the sage's grave expression.",
+      "scene_visual": "The old man takes the palm leaf scroll from the messenger and slowly unrolls it, his eyes scanning the text. As he reads, a small expression of anxiety appears on his face, and his gaze deepens.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Raama Lakshmanulu Inkaa Aa Maatala Gurinche Aalochistunnappudu, Oka Raajabhatudu Hadaavidigaa Aashramanloki Vachchaadu. Atani Chetilo Unna Raajamudrika Gala Taalapatram Chusi Vashishthudi Mukhanlo Chinna Aandolana Kanipinchindi. Maharshi Aa Taalapatraanni Tisukuni, Raajamudrikanu Virichaaru — Aa Shabdam Gambhirangaa Vinipinchindi. Daanni Chaduvutunna Koddi, Aayana Chupulu Marinta Lotugaa Maaraayi. Lakshmanudu Raamudi Vaipu Chusi, Aandolanagaa Tala Upaadu. Vashishthudu Nitturchi, \"Mahaaraajuku Tivramaina Samasya Edurainatlundi,\" Ani Gonugutu, Aa Patraanni Nemmadigaa Chutteshaaru.",
+      "text_en": "While Rama and Lakshmana were still thinking about those words, a royal soldier rushed into the ashram. Seeing the palm-leaf scroll with the royal seal in his hand, a slight worry appeared on Vashishtha's face. The sage took the scroll and broke the royal seal — the sound was solemn. As he read it, his gaze became more intense. Lakshmana looked at Rama and nodded his head anxiously. Vashishtha sighed, muttering, \"It seems the King is facing a serious problem,\" and slowly rolled up the scroll."
+    },
+    {
+      "id": 3,
+      "text": "అదే సమయంలో, అయోధ్య రాజప్రాసాదంలో మహారాజు దశరథుడు తన గదిలో ఒంటరిగా కూర్చుని ఉన్నారు. పొరుగు రాజ్యపు దురాశతో కూడిన డిమాండ్లు ఆయన మనసును బాగా కలచివేశాయి. ఆయన తన కణతలను రుద్దుకుంటూ — సమస్యకు పరిష్కారం దొరకనట్లు బాధ పడుతున్నారు. దట్టమైన రాజప్రాసాద గోడల వెలుపల, నగర సందడి సన్నగా వినిపిస్తోంది. \"ఈ సంక్షోభాన్ని ఎలా పరిష్కరించాలి?\" అని ఆయన తనలో తాను ప్రశ్నించుకున్నారు. దశరథుడు తన ముందున్న మెరిసే కవచంలో తన ప్రతిబింబాన్ని చూస్తూ — అందులో సమాధానం దొరుకుతుందేమో అన్నట్లుగా చూశాడు.",
+      "image_prompt": "The king sits alone in his chamber, rubbing his temples in distress. He then gazes intently at his own reflection in a piece of shining armor, as if searching for an answer there. SUPPORTING CHARACTER also in this scene: Dasharatha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The regal chamber is illuminated by the soft, flickering light of several oil lamps, casting long, dancing shadows, creating a pensive, heavy atmosphere.",
+      "scene_visual": "The king sits alone in his chamber, rubbing his temples in distress. He then gazes intently at his own reflection in a piece of shining armor, as if searching for an answer there.",
+      "supporting_char_keys": [
+        "dasharatha"
+      ],
+      "text_te_en": "Ade Samayanlo, Ayodhya Raajapraasaadanlo Mahaaraaju Dasharathudu Tana Gadilo Ontarigaa Kurchuni Unnaaru. Porugu Raajyapu Duraashato Kudina Dimaandlu Aayana Manasunu Baagaa Kalachiveshaayi. Aayana Tana Kanatalanu Ruddukuntu — Samasyaku Parishkaaram Dorakanatlu Baadha Padutunnaaru. Dattamaina Raajapraasaada Godala Velupala, Nagara Sandadi Sannagaa Vinipistondi. \"I Sankshobhaanni Elaa Parishkarinchaali?\" Ani Aayana Tanalo Taanu Prashninchukunnaaru. Dasharathudu Tana Mundunna Merise Kavachanlo Tana Pratibimbaanni Chustu — Andulo Samaadhaanam Dorukutundemo Annatlugaa Chushaadu.",
+      "text_en": "At the same time, in the royal palace of Ayodhya, King Dasharatha sat alone in his chambers. The greedy demands of a neighboring kingdom had greatly troubled his mind. He rubbed his temples, distressed as if he couldn't find a solution to the problem. Outside the thick palace walls, the city's hustle and bustle could be faintly heard. \"How can I solve this crisis?\" he asked himself. Dasharatha looked at his reflection in the shining armor before him, as if searching for an answer there."
+    },
+    {
+      "id": 4,
+      "text": "కొద్దిసేపటికే, వశిష్ఠ మహర్షి రాజసభలోకి అడుగు పెట్టారు — ఆయన ముఖంలో ప్రశాంతత నిండి ఉంది. దశరథుడు మహర్షిని చూడగానే, ఆయన భుజాలు కొద్దిగా వదులయ్యాయి. సభామందిరంలో మల్లెలు, చందనం సువాసన సన్నగా వ్యాపించి ఉంది. వశిష్ఠుడు తన స్థిరమైన స్వరంతో, \"ధర్మబద్ధమైన మార్గం ఎల్లప్పుడూ శాశ్వత శాంతికి దారి తీస్తుంది, మహారాజా,\" అని రాజుతో అన్నారు. రాముడు, లక్ష్మణుడు గురువు మాటలను ఎంతో ఆసక్తిగా వింటూ, వాటిని మనసులోకి తీసుకుంటున్నారు. వశిష్ఠుడు శాంతియుత పరిష్కారం కోసం — ఒక స్పష్టమైన వ్యూహాన్ని వివరించారు.",
+      "image_prompt": "The king's shoulders visibly relax as the calm old man enters the royal court. The old man then speaks to the king in a steady voice, while the two young men listen with keen interest. SUPPORTING CHARACTER also in this scene: Dasharatha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The royal court is bathed in the golden light of late afternoon, streaming through ornate windows, highlighting the rich fabrics and jewels, creating an aura of solemn importance.",
+      "scene_visual": "The king's shoulders visibly relax as the calm old man enters the royal court. The old man then speaks to the king in a steady voice, while the two young men listen with keen interest.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana",
+        "dasharatha"
+      ],
+      "text_te_en": "Koddisepatike, Vashishtha Maharshi Raajasabhaloki Adugu Pettaaru — Aayana Mukhanlo Prashaantata Nindi Undi. Dasharathudu Maharshini Chudagaane, Aayana Bhujaalu Koddigaa Vadulayyaayi. Sabhaamandiranlo Mallelu, Chandanam Suvaasana Sannagaa Vyaapinchi Undi. Vashishthudu Tana Sthiramaina Svaranto, \"Dharmabaddhamaina Maargam Ellappudu Shaashvata Shaantiki Daari Tistundi, Mahaaraajaa,\" Ani Raajuto Annaaru. Raamudu, Lakshmanudu Guruvu Maatalanu Ento Aasaktigaa Vintu, Vaatini Manasuloki Tisukuntunnaaru. Vashishthudu Shaantiyuta Parishkaaram Kosam — Oka Spashtamaina Vyuhaanni Vivarinchaaru.",
+      "text_en": "A little while later, Sage Vashishtha entered the royal court — his face filled with serenity. As soon as Dasharatha saw the sage, his shoulders relaxed a little. The faint scent of jasmine and sandalwood filled the assembly hall. Vashishtha, in his steady voice, said to the king, \"The path of righteousness always leads to lasting peace, O King.\" Rama and Lakshmana listened to their guru's words with great interest, taking them to heart. Vashishtha explained a clear strategy for a peaceful resolution."
+    },
+    {
+      "id": 5,
+      "text": "మహర్షి చెప్పిన వ్యూహం ప్రకారం దూతలను పంపించారు, కానీ రోజులు గడుస్తున్నా పొరుగు రాజ్యం నుండి ఎటువంటి సమాధానం రాలేదు. దశరథుడు తన సింహాసన గదిలో అటూ ఇటూ పచార్లు చేస్తున్నాడు — ఆయన నుదుటిపై చింత ముడుచుకుంది. దూరంగా, రాజభటుల గస్తీ సన్నని లయబద్ధమైన శబ్దంతో వినిపిస్తోంది. \"సమయం మించిపోతోంది... ఈ నిశ్శబ్దం అశుభం,\" అని రాజు నిరాశగా పలికారు. సభలోని వారంతా యుద్ధ ప్రస్తావనలతో గుసగుసలాడుకుంటున్నారు. రాజప్రాసాదం పైన, ఆకాశంలో ఒక నల్లటి కాకి — వలయాకారంగా ఎగురుతోంది.",
+      "image_prompt": "The king paces back and forth in his throne room, his brow deeply furrowed with worry. Above the palace, a black crow circles ominously in the sky. SUPPORTING CHARACTER also in this scene: Dasharatha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The evening light is fading, casting long, uncertain shadows across the throne room, reflecting the king's growing unease.",
+      "scene_visual": "The king paces back and forth in his throne room, his brow deeply furrowed with worry. Above the palace, a black crow circles ominously in the sky.",
+      "supporting_char_keys": [
+        "dasharatha"
+      ],
+      "text_te_en": "Maharshi Cheppina Vyuham Prakaaram Dutalanu Pampinchaaru, Kaani Rojulu Gadustunnaa Porugu Raajyam Nundi Etuvanti Samaadhaanam Raaledu. Dasharathudu Tana Sinhaasana Gadilo Atu Itu Pachaarlu Chestunnaadu — Aayana Nudutipai Chinta Muduchukundi. Durangaa, Raajabhatula Gasti Sannani Layabaddhamaina Shabdanto Vinipistondi. \"Samayam Minchipotondi... I Nishshabdam Ashubhan,\" Ani Raaju Niraashagaa Palikaaru. Sabhaloni Vaarantaa Yuddha Prastaavanalato Gusagusalaadukuntunnaaru. Raajapraasaadam Paina, Aakaashanlo Oka Nallati Kaaki — Valayaakaarangaa Egurutondi.",
+      "text_en": "Envoys were sent according to the strategy the sage had suggested, but days passed with no reply from the neighboring kingdom. Dasharatha paced back and forth in his throne room — worry etched on his forehead. In the distance, the rhythmic sound of royal guards patrolling could be faintly heard. \"Time is running out... this silence is ominous,\" the king said despairingly. Everyone in the court was whispering about the possibility of war. Above the royal palace, a black crow circled in the sky."
+    },
+    {
+      "id": 6,
+      "text": "అంతలో, ఒక గుర్రపు సైనికుడు వేగంగా రాజప్రాసాదంలోకి దూసుకొచ్చాడు. అతని రాకతో, అంతా ఒక్కసారిగా నిశ్శబ్దమైంది. వెంటనే, ఒక పెద్ద శంఖారావం వినిపించింది — నగరమంతా శుభవార్తను చాటి చెప్పింది. సైనికుడు సభలోకి వచ్చి, \"మహారాజా! శుభవార్త! పొరుగు రాజు శాంతికి అంగీకరించారు!\" అని ఉత్సాహంగా పలికాడు. దశరథుడి కళ్ళలో ఆనంద బాష్పాలు నిండాయి — ఆయన ఊపిరి పీల్చుకున్నాడు. సభామందిరం అంతా జయజయధ్వానాలతో మార్మోగింది, అందరి ముఖాల్లో చిరునవ్వులు వికసించాయి. దశరథుడు వశిష్ఠుడి వైపు చూశాడు — వారి మధ్య కృతజ్ఞతతో కూడిన నిశ్శబ్ద భావం ప్రవహించింది.",
+      "image_prompt": "The king's eyes fill with tears of joy as the soldier announces the good news. He then lets out a deep breath of relief, and a look of silent gratitude passes between him and the old man. SUPPORTING CHARACTER also in this scene: Dasharatha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The court is suddenly filled with bright, joyful torchlight, illuminating the celebratory faces and creating an atmosphere of warmth and success.",
+      "scene_visual": "The king's eyes fill with tears of joy as the soldier announces the good news. He then lets out a deep breath of relief, and a look of silent gratitude passes between him and the old man.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana",
+        "dasharatha"
+      ],
+      "text_te_en": "Antalo, Oka Gurrapu Sainikudu Vegangaa Raajapraasaadanloki Dusukochchaadu. Atani Raakato, Antaa Okkasaarigaa Nishshabdamaindi. Ventane, Oka Pedda Shankhaaraavam Vinipinchindi — Nagaramantaa Shubhavaartanu Chaati Cheppindi. Sainikudu Sabhaloki Vachchi, \"Mahaaraajaa! Shubhavaarta! Porugu Raaju Shaantiki Angikarinchaaru!\" Ani Utsaahangaa Palikaadu. Dasharathudi Kallalo Aananda Baashpaalu Nindaayi — Aayana Upiri Pilchukunnaadu. Sabhaamandiram Antaa Jayajayadhvaanaalato Maarmogindi, Andari Mukhaallo Chirunavvulu Vikasinchaayi. Dasharathudu Vashishthudi Vaipu Chushaadu — Vaari Madhya Krritajnyatato Kudina Nishshabda Bhaavam Pravahinchindi.",
+      "text_en": "Just then, a horse-mounted soldier galloped swiftly into the royal palace. With his arrival, everything suddenly fell silent. Immediately, a loud conch shell blew — announcing good news throughout the city. The soldier came into the court and excitedly declared, \"O King! Good news! The neighboring king has agreed to peace!\" Tears of joy filled Dasharatha's eyes — he breathed a sigh of relief. The entire assembly hall echoed with cheers, and smiles bloomed on everyone's faces. Dasharatha looked at Vashishtha — a silent feeling of gratitude passed between them."
+    },
+    {
+      "id": 7,
+      "text": "ఆ తరువాత, వశిష్ఠ మహర్షి తన ఆశ్రమంలో రాముడు, లక్ష్మణులతో కూర్చున్నారు. వారి మధ్యలో ఉన్న నూనె దీపం నుండి వచ్చే వెచ్చని కాంతి వారి ముఖాలపై ప్రసరించింది. మహర్షి ముఖంపై ప్రశాంతమైన, తెలిసిన చిరునవ్వు ఉంది. రాముడు, లక్ష్మణుడు గురువు మాటలను విని, జ్ఞానోదయం పొందినట్లుగా ఆలోచిస్తున్నారు. వశిష్ఠుడు వారితో, \"నిజమైన శక్తి ఖడ్గంలో కాదు, ధర్మబద్ధమైన హృదయంలో ఉంటుంది,\" అని ప్రేమగా చెప్పారు. వారి గురువు చెప్పిన మాటలు శాంతిని, ధైర్యాన్ని నింపాయి — యుద్ధం జరగకుండానే విజయం సాధించవచ్చని వారికి అర్థమైంది.",
+      "image_prompt": "The old man sits with the two young men, speaking gently to them. The warm light from an oil lamp between them illuminates their faces, showing their thoughtful and enlightened expressions. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. A peaceful, serene twilight descends, casting soft blue and purple hues outside, while inside the ashram, the warm glow of the lamp creates an intimate, reflective mood.",
+      "scene_visual": "The old man sits with the two young men, speaking gently to them. The warm light from an oil lamp between them illuminates their faces, showing their thoughtful and enlightened expressions.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Aa Taruvaata, Vashishtha Maharshi Tana Aashramanlo Raamudu, Lakshmanulato Kurchunnaaru. Vaari Madhyalo Unna Nune Dipam Nundi Vachche Vechchani Kaanti Vaari Mukhaalapai Prasarinchindi. Maharshi Mukhampai Prashaantamaina, Telisina Chirunavvu Undi. Raamudu, Lakshmanudu Guruvu Maatalanu Vini, Jnyaanodayam Pondinatlugaa Aalochistunnaaru. Vashishthudu Vaarito, \"Nijamaina Shakti Khadganlo Kaadu, Dharmabaddhamaina Hrridayanlo Untundi,\" Ani Premagaa Cheppaaru. Vaari Guruvu Cheppina Maatalu Shaantini, Dhairyaanni Nimpaayi — Yuddham Jaragakundaane Vijayam Saadhinchavachchani Vaariki Arthamaindi.",
+      "text_en": "Afterwards, Sage Vashishtha sat with Rama and Lakshmana in his ashram. The warm glow from the oil lamp between them fell upon their faces. A serene, knowing smile was on the sage's face. Rama and Lakshmana listened to their guru's words, thinking as if they had gained enlightenment. Vashishtha lovingly told them, \"True power lies not in the sword, but in a righteous heart.\" Their guru's words filled them with peace and courage — they understood that victory could be achieved without war."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). Wearing royal garments of fine silk and minimal gold ornaments. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. Wearing royal garments of fine silk and minimal gold ornaments. Carrying his bow and full quiver. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "dasharatha",
+      "description": "A king of noble bearing, with a dignified grey beard and regal attire. His face shows the weight of responsibility. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 7.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 7,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 7,
+    "child_engagement": 7,
+    "average": 7.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story presents a clear narrative and demonstrates strong grammatical correctness. While it effectively builds tension and shows emotions through actions in many parts, it often reads more like a written report than an oral bedtime story. To truly shine, the author should focus on infusing more natural, interactive dialogue and allowing the moral to emerge organically from the characters' experiences, rather than stating it directly."
+  },
+  "quality_warning": true,
+  "title_te_en": "Vashishthudi Jnyaanan, Raajyaaniki Praanam",
+  "moral_te_en": "Telivaina Maatalu Vinte, Kashtaalu Tiri, Shaashvatamaina Shaanti Dorukutundi Kadaa!",
+  "title_en": "Vashishtha's Wisdom, the Kingdom's Life",
+  "moral_en": "Listening to wise words brings an end to troubles and leads to lasting peace!",
+  "id": "20260601_001059",
+  "date": "2026-06-01",
+  "category": "ramayana",
+  "subcategory": "courage_tales",
+  "topic": "వసిష్ఠ మహర్షి రాజనీతి",
+  "thumbnail": "stories/20260601_001059/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
