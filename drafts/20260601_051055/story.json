@@ -1,0 +1,135 @@
+{
+  "title": "సముద్రుడి మార్గం, రాముడి ధైర్యం",
+  "moral": "ఎంత పెద్ద కష్టం ఎదురైనా, ఓర్పుతో, గౌరవంతో ప్రయత్నిస్తే పరిష్కారం తప్పక దొరుకుతుంది.",
+  "main_character": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The southern coast of India, a wide sandy beach meeting the endless, deep blue sea. Palm trees sway gently at the edge of the forest, and the air is filled with the scent of salt and distant blossoms. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "దూరంగా, ఆకాశం కలిసే చోట, అంతులేని సముద్రం అలలు అలలుగా ఉరుముతోంది. రాముడు నిశ్చలంగా నిలబడి, ఆ అనంత జలరాశిని చూస్తూ, తన భుజాలపై ఉన్న కోదండాన్ని గట్టిగా పట్టుకున్నాడు. ఆయన కళ్ళల్లో లోతైన ఆలోచనలు మెరిశాయి — సముద్రపు అలల నిరంతర గర్జన చెవుల్లో మారుమోగుతోంది. \"ఈ అంతులేని సముద్రాన్ని ఎలా దాటాలి?\" అని ఆయన మృదువుగా ప్రశ్నించుకున్నాడు. ఆ క్షణంలో, ఆయన చూపులు లక్ష్మణుడి వైపు తిరిగాయి, వారి మధ్య మాటలు లేకుండానే ఒక ధైర్యం పంచుకుంది.",
+      "image_prompt": "The man stands still, gazing intently at the endless ocean, holding his bow firmly on his shoulder. Deep thoughts are reflected in his eyes as the constant roar of the sea echoes around him. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Bright, clear midday sun reflecting off the shimmering ocean, casting sharp shadows on the golden sand, feeling vast and open.",
+      "scene_visual": "The man stands still, gazing intently at the endless ocean, holding his bow firmly on his shoulder. Deep thoughts are reflected in his eyes as the constant roar of the sea echoes around him.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Hanuman"
+      ],
+      "text_te_en": "Durangaa, Aakaasham Kalise Chota, Antuleni Samudram Alalu Alalugaa Urumutondi. Raamudu Nishchalangaa Nilabadi, Aa Ananta Jalaraashini Chustu, Tana Bhujaalapai Unna Kodandaanni Gattigaa Pattukunnaadu. Aayana Kallallo Lotaina Aalochanalu Merishaayi — Samudrapu Alala Nirantara Garjana Chevullo Maarumogutondi. \"I Antuleni Samudraanni Elaa Daataali?\" Ani Aayana Mrriduvugaa Prashninchukunnaadu. Aa Kshananlo, Aayana Chupulu Lakshmanudi Vaipu Tirigaayi, Vaari Madhya Maatalu Lekundaane Oka Dhairyam Panchukundi.",
+      "text_en": "Far away, where the sky met the horizon, the endless ocean roared with wave after wave. Ramudu stood still, gazing at the vast waters, holding his Kodanda bow tightly on his shoulder. Deep thoughts sparkled in his eyes — the constant roar of the ocean waves echoed in his ears. \"How can we cross this endless ocean?\" he softly asked himself. At that moment, his gaze turned to Lakshmanudu, and a silent courage was shared between them."
+    },
+    {
+      "id": 2,
+      "text": "రాముడు లక్ష్మణుడి వైపు చూసిన తర్వాత, తన మనసులో ఒక నిర్ణయానికి వచ్చాడు. ఆయన నెమ్మదిగా ఇసుకపై కూర్చుని, తన కళ్ళు మూసుకున్నాడు, ముఖంపై సముద్రపు ఉప్పుగాలి మెల్లగా తాకుతోంది. \"సముద్ర దేవా, నీ దయ కోసం నేను ప్రార్థిస్తాను\" అని ఆయన లోలోపల నిశ్చయించుకున్నాడు. ఆయన ధ్యానంలో లీనమైపోయాడు, తన చుట్టూ ఉన్న ప్రపంచాన్ని మరిచిపోయి, కేవలం దైవిక శక్తిని ఆరాధిస్తున్నాడు. గంటలు గడిచాయి, ఒక రోజు, రెండు రోజులు గడిచాయి — సముద్రం మాత్రం తన ఉగ్ర గర్జనను ఆపలేదు.",
+      "image_prompt": "The man slowly sits down on the sand and closes his eyes, entering a deep state of meditation. The gentle sea breeze touches his face as he focuses solely on divine power, oblivious to his surroundings. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Soft, golden light of dawn spreading across the beach, a sense of quiet reverence as Rama begins his meditation.",
+      "scene_visual": "The man slowly sits down on the sand and closes his eyes, entering a deep state of meditation. The gentle sea breeze touches his face as he focuses solely on divine power, oblivious to his surroundings.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Hanuman"
+      ],
+      "text_te_en": "Raamudu Lakshmanudi Vaipu Chusina Tarvaata, Tana Manasulo Oka Nirnayaaniki Vachchaadu. Aayana Nemmadigaa Isukapai Kurchuni, Tana Kallu Musukunnaadu, Mukhampai Samudrapu Uppugaali Mellagaa Taakutondi. \"Samudra Devaa, Ni Daya Kosam Nenu Praarthistaanu\" Ani Aayana Lolopala Nishchayinchukunnaadu. Aayana Dhyaananlo Linamaipoyaadu, Tana Chuttu Unna Prapanchaanni Marichipoyi, Kevalam Daivika Shaktini Aaraadhistunnaadu. Gantalu Gadichaayi, Oka Roju, Rendu Rojulu Gadichaayi — Samudram Maatram Tana Ugra Garjananu Aapaledu.",
+      "text_en": "After looking at Lakshmanudu, Ramudu made a decision in his mind. He slowly sat on the sand and closed his eyes, the salty sea breeze gently touching his face. \"Oh Sea God, I will pray for your kindness,\" he decided within himself. He became deeply absorbed in meditation, forgetting the world around him, simply worshipping the divine power. Hours passed, then one day, then two days — but the ocean did not stop its fierce roar."
+    },
+    {
+      "id": 3,
+      "text": "మూడు పగళ్ళు, మూడు రాత్రులు గడిచిపోయాయి, రాముడు కనురెప్ప కూడా కదపకుండా ధ్యానంలో ఉన్నాడు. వానర సైన్యం కంగారుగా ఒకరి ముఖాలు ఒకరు చూసుకున్నారు — సముద్రపు అలల నిరంతర తాకిడి మారలేదు. లక్ష్మణుడు మెల్లగా రాముడి దగ్గరికి వచ్చి, \"స్వామీ, మూడు రోజులు గడిచాయి, ఇంకా సముద్రుడు ప్రత్యక్షం కాలేదు\" అన్నాడు. రాముడు మాత్రం కదలకుండా ఉన్నాడు, అతని ముఖంపై ఒక లోతైన నిశ్శబ్దం అలుముకుంది. అప్పుడు, మెల్లగా ఆయన కమలం లాంటి కళ్ళు తెరుచుకున్నాయి — వాటిలో ఒక నూతన సంకల్పం మెరిసింది.",
+      "image_prompt": "After three days and nights of motionless meditation, the man slowly opens his lotus-like eyes. A deep silence covers his face, and a new resolve shines brightly within his gaze. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Moonlight shimmering on the restless ocean, casting long, deep blue shadows, conveying a sense of prolonged waiting and growing tension.",
+      "scene_visual": "After three days and nights of motionless meditation, the man slowly opens his lotus-like eyes. A deep silence covers his face, and a new resolve shines brightly within his gaze.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Hanuman"
+      ],
+      "text_te_en": "Mudu Pagallu, Mudu Raatrulu Gadichipoyaayi, Raamudu Kanureppa Kudaa Kadapakundaa Dhyaananlo Unnaadu. Vaanara Sainyam Kangaarugaa Okari Mukhaalu Okaru Chusukunnaaru — Samudrapu Alala Nirantara Taakidi Maaraledu. Lakshmanudu Mellagaa Raamudi Daggariki Vachchi, \"Svaami, Mudu Rojulu Gadichaayi, Inkaa Samudrudu Pratyaksham Kaaledu\" Annaadu. Raamudu Maatram Kadalakundaa Unnaadu, Atani Mukhampai Oka Lotaina Nishshabdam Alumukundi. Appudu, Mellagaa Aayana Kamalam Laanti Kallu Teruchukunnaayi — Vaatilo Oka Nutana Sankalpam Merisindi.",
+      "text_en": "Three days and three nights passed, and Ramudu remained in meditation without even blinking. The monkey army looked at each other worriedly — the constant crashing of the ocean waves had not changed. Lakshmanudu slowly approached Ramudu and said, \"Lord, three days have passed, and the Sea God has not yet appeared.\" Ramudu remained still, a deep silence settling on his face. Then, slowly, his lotus-like eyes opened — a new determination sparkled within them."
+    },
+    {
+      "id": 4,
+      "text": "తన కళ్ళు తెరిచిన రాముడు, సముద్రపు అలలను ఒకసారి చూసి, తన మనసులో ఒక కొత్త మార్గాన్ని నిశ్చయించుకున్నాడు. ఆయన మెల్లగా తన కోదండ ధనుస్సును అందుకున్నాడు, దాని చల్లటి పట్టు ఆయన చేతికి ధైర్యాన్నిచ్చింది. \"ప్రార్థన వినకపోతే, నా ధనుస్సు మాట్లాడుతుంది!\" అని ఆయన గంభీరంగా పలికాడు. ఆయన ముఖంపై ఉన్న ప్రశాంతత స్థానంలో, ఒక శక్తివంతమైన సంకల్పం వెలుగులీనింది. ఆయన ధనుస్సు పైకి ఎత్తగానే, ఒక్కసారిగా — ఆయన చుట్టూ ఉన్న గాలి ఒక తెలియని శక్తితో నిండిపోయింది.",
+      "image_prompt": "The man slowly picks up his powerful bow, feeling its cool grip in his hand, and lifts it into the air. A powerful resolve now illuminates his face, replacing his previous calmness, as the air around him fills with an unknown energy. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. The sky darkens slightly as if in anticipation, with dramatic, deep orange and purple hues of a stormy sunset, highlighting Rama's formidable posture.",
+      "scene_visual": "The man slowly picks up his powerful bow, feeling its cool grip in his hand, and lifts it into the air. A powerful resolve now illuminates his face, replacing his previous calmness, as the air around him fills with an unknown energy.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Hanuman"
+      ],
+      "text_te_en": "Tana Kallu Terichina Raamudu, Samudrapu Alalanu Okasaari Chusi, Tana Manasulo Oka Kotta Maargaanni Nishchayinchukunnaadu. Aayana Mellagaa Tana Kodanda Dhanussunu Andukunnaadu, Daani Challati Pattu Aayana Chetiki Dhairyaannichchindi. \"Praarthana Vinakapote, Naa Dhanussu Maatlaadutundi!\" Ani Aayana Gambhirangaa Palikaadu. Aayana Mukhampai Unna Prashaantata Sthaananlo, Oka Shaktivantamaina Sankalpam Velugulinindi. Aayana Dhanussu Paiki Ettagaane, Okkasaarigaa — Aayana Chuttu Unna Gaali Oka Teliyani Shaktito Nindipoyindi.",
+      "text_en": "Ramudu, opening his eyes, looked at the ocean waves once and decided on a new path in his mind. He slowly picked up his Kodanda bow; its cool grip gave courage to his hand. \"If prayer is not heard, then my bow will speak!\" he declared gravely. In place of the calmness on his face, a powerful resolve shone brightly. As soon as he raised his bow, suddenly — the air around him filled with an unknown power."
+    },
+    {
+      "id": 5,
+      "text": "రాముడు తన అమ్ములపొది నుండి ఒక శక్తివంతమైన బాణాన్ని తీసి, కోదండంపై సంధించాడు. ఆయన కళ్ళల్లో అచంచలమైన సంకల్పం మెరిసింది, బాణం కొన నుండి వచ్చే లోహపు వాసన గాలిలో కలిసింది. ఆయన దవడలు బిగుసుకున్నాయి, దృష్టి మొత్తం అంతులేని సముద్రంపై కేంద్రీకరించాడు. \"సముద్రమా, నా బాణం నీ శక్తిని మేల్కొల్పుతుంది!\" అని ఆయన గంభీర స్వరంతో ప్రకటించాడు. ఆయన వేళ్ళు బాణం నారిని గట్టిగా పట్టుకుంటున్న ఆ క్షణంలోనే... సముద్ర గర్భం నుండి ఒక దివ్య రూపం పైకి లేచింది.",
+      "image_prompt": "The man draws a powerful arrow from his quiver and strings it onto his bow, aiming it intently at the vast ocean. His jaw is clenched, and unwavering determination shines in his eyes as the metallic scent of the arrow fills the air. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. A dramatic, intense light, as if a storm is gathering, with flashes of brilliant white light radiating from Rama's bow, contrasting with the dark, churning grey-blue of the ocean.",
+      "scene_visual": "The man draws a powerful arrow from his quiver and strings it onto his bow, aiming it intently at the vast ocean. His jaw is clenched, and unwavering determination shines in his eyes as the metallic scent of the arrow fills the air.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Hanuman"
+      ],
+      "text_te_en": "Raamudu Tana Ammulapodi Nundi Oka Shaktivantamaina Baanaanni Tisi, Kodandampai Sandhinchaadu. Aayana Kallallo Achanchalamaina Sankalpam Merisindi, Baanam Kona Nundi Vachche Lohapu Vaasana Gaalilo Kalisindi. Aayana Davadalu Bigusukunnaayi, Drrishti Mottam Antuleni Samudrampai Kendrikarinchaadu. \"Samudramaa, Naa Baanam Ni Shaktini Melkolputundi!\" Ani Aayana Gambhira Svaranto Prakatinchaadu. Aayana Vellu Baanam Naarini Gattigaa Pattukuntunna Aa Kshananlone... Samudra Garbham Nundi Oka Divya Rupam Paiki Lechindi.",
+      "text_en": "Ramudu took a powerful arrow from his quiver and placed it on his Kodanda bow. Unwavering determination sparkled in his eyes, and the metallic scent from the arrow's tip mingled with the air. His jaw tightened, and his gaze focused entirely on the endless ocean. \"Oh Ocean, my arrow will awaken your power!\" he declared with a solemn voice. Just as his fingers gripped the bowstring tightly... a divine form rose from the depths of the ocean."
+    },
+    {
+      "id": 6,
+      "text": "సముద్ర గర్భం నుండి, ఒక దివ్యమైన రూపం వెలుగులీనుతూ పైకి వచ్చింది — సముద్ర దేవుడు స్వయంగా ప్రత్యక్షమయ్యాడు. ఆయన శరీరం ముత్యాలతో, పగడాలతో మెరిసిపోతూ, వాటి చిరు సవ్వడులు మధురమైన సంగీతంలా వినిపించాయి. రాముడు తన ధనుస్సును దించి, ఆ దివ్య దర్శనానికి తల వంచి, ఆయనలోని శక్తిని గౌరవించాడు. \"రామా, నీ శక్తికి నేను నమస్కరిస్తున్నాను\" అని సముద్ర దేవుడు మృదువుగా పలికాడు. సముద్రుడు తన నీలి ముఖంపై చిరునవ్వుతో, దూరంగా ఉన్న горизонтаం వైపు చేయి చూపాడు — ఒక దారిని సూచిస్తున్నట్లు.",
+      "image_prompt": "A divine form, glowing with light and adorned with pearls and corals, emerges from the depths of the sea, as the man lowers his bow and bows his head. The sea deity, with a gentle smile on his blue face, points a hand towards the distant horizon, indicating a path. SUPPORTING CHARACTER also in this scene: Samudra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A brilliant, ethereal light radiating from the rising Samudra, illuminating the dark ocean with shimmering blues and greens, creating an awe-inspiring, divine glow.",
+      "scene_visual": "A divine form, glowing with light and adorned with pearls and corals, emerges from the depths of the sea, as the man lowers his bow and bows his head. The sea deity, with a gentle smile on his blue face, points a hand towards the distant horizon, indicating a path.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Hanuman",
+        "Samudra"
+      ],
+      "text_te_en": "Samudra Garbham Nundi, Oka Divyamaina Rupam Velugulinutu Paiki Vachchindi — Samudra Devudu Svayangaa Pratyakshamayyaadu. Aayana Shariram Mutyaalato, Pagadaalato Merisipotu, Vaati Chiru Savvadulu Madhuramaina Sangitanlaa Vinipinchaayi. Raamudu Tana Dhanussunu Dinchi, Aa Divya Darshanaaniki Tala Vanchi, Aayanaloni Shaktini Gauravinchaadu. \"Raamaa, Ni Shaktiki Nenu Namaskaristunnaanu\" Ani Samudra Devudu Mrriduvugaa Palikaadu. Samudrudu Tana Nili Mukhampai Chirunavvuto, Durangaa Unna Горизонтаm Vaipu Cheyi Chupaadu — Oka Daarini Suchistunnatlu.",
+      "text_en": "From the depths of the ocean, a divine form rose, glowing brightly — the Sea God himself appeared. His body sparkled with pearls and corals, their soft tinkling sounding like sweet music. Ramudu lowered his bow, bowed his head to the divine vision, and respected the power within him. \"Rama, I bow to your power,\" the Sea God said softly. With a smile on his blue face, the Sea God pointed towards the distant horizon — as if showing a path."
+    },
+    {
+      "id": 7,
+      "text": "సముద్ర దేవుడు రాముడి వైపు చూసి, తన స్వరంలో అలల గంభీర్యంతో ఇలా అన్నాడు. \"రామా, నీ వానర సైన్యంలో నలుడు, నీలుడు వంటి గొప్ప శిల్పకారులు ఉన్నారు, వారు నాపై ఒక వంతెనను నిర్మించగలరు.\" రాముడు శ్రద్ధగా విన్నాడు, ఆయన ముఖంపై కృతజ్ఞత, స్ఫూర్తి మెరిసాయి. \"నీ సైన్యం నాపై వంతెనను నిర్మించగలదు, నేను వారికి మార్గం సుగమం చేస్తాను\" అని సముద్రుడు హామీ ఇచ్చాడు. ఆ క్షణంలో, రాముడి మనసులో లంకకు చేరే స్పష్టమైన మార్గం — ఒక అద్భుతమైన వంతెన రూపంలో — కళ్ళ ముందు మెరిసింది.",
+      "image_prompt": "The man listens attentively as the sea deity speaks, his face reflecting gratitude and inspiration. A clear vision of a magnificent bridge, the path to his destination, forms vividly in his mind. SUPPORTING CHARACTER also in this scene: Samudra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle, warm light of a peaceful dawn breaking over the ocean, casting soft amber hues, symbolizing hope and the start of a new, constructive endeavor.",
+      "scene_visual": "The man listens attentively as the sea deity speaks, his face reflecting gratitude and inspiration. A clear vision of a magnificent bridge, the path to his destination, forms vividly in his mind.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Hanuman",
+        "Samudra"
+      ],
+      "text_te_en": "Samudra Devudu Raamudi Vaipu Chusi, Tana Svaranlo Alala Gambhiryanto Ilaa Annaadu. \"Raamaa, Ni Vaanara Sainyanlo Naludu, Niludu Vanti Goppa Shilpakaarulu Unnaaru, Vaaru Naapai Oka Vantenanu Nirminchagalaru.\" Raamudu Shraddhagaa Vinnaadu, Aayana Mukhampai Krritajnyata, Sphurti Merisaayi. \"Ni Sainyam Naapai Vantenanu Nirminchagaladu, Nenu Vaariki Maargam Sugamam Chestaanu\" Ani Samudrudu Haami Ichchaadu. Aa Kshananlo, Raamudi Manasulo Lankaku Chere Spashtamaina Maargam — Oka Adbhutamaina Vantena Rupanlo — Kalla Mundu Merisindi.",
+      "text_en": "The Sea God looked at Ramudu and, with the majesty of the waves in his voice, said: \"Rama, in your monkey army are great builders like Nala and Neela; they can build a bridge over me.\" Ramudu listened carefully, gratitude and inspiration sparkling on his face. \"Your army can build a bridge over me, and I will make the path easy for them,\" the Sea God promised. At that moment, a clear path to Lanka — in the form of a magnificent bridge — shone brightly in Ramudu's mind."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "Hanuman",
+      "description": "Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Always the same character across every scene."
+    },
+    {
+      "key": "Samudra",
+      "description": "Samudra: a majestic deity emerging from the ocean, with skin the color of deep blue waters and eyes like tranquil pools. Adorned with pearls and corals, his form is vast and shimmering, crowned with seafoam. He holds a conch shell and radiates calm power. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 6,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and impeccable grammar, forming a strong structural base. However, its formal and descriptive prose significantly detracts from the warmth and intimacy expected of a grandmother's bedtime story, making it less engaging for a young child. To elevate this piece, the language needs to be simplified, emotions should be consistently shown through action rather than stated, and a more conversational, oral tone must be adopted throughout."
+  },
+  "quality_warning": true,
+  "title_te_en": "Samudrudi Maargan, Raamudi Dhairyam",
+  "moral_te_en": "Enta Pedda Kashtam Edurainaa, Orputo, Gauravanto Prayatniste Parishkaaram Tappaka Dorukutundi.",
+  "title_en": "Ramudu's Courage and the Ocean's Path",
+  "moral_en": "No matter how big a problem you face, if you try with patience and respect, a solution will surely be found.",
+  "id": "20260601_051055",
+  "date": "2026-06-01",
+  "category": "ramayana",
+  "subcategory": "courage_tales",
+  "topic": "సముద్రుడు రాముడికి లంకకు దారి చూపిన కథ",
+  "thumbnail": "stories/20260601_051055/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
