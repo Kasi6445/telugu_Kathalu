@@ -1,0 +1,97 @@
+{
+  "title": "చిట్టి ఉడుత, పట్టుదల విజయం",
+  "moral": "చిన్న అడుగులతో మొదలుపెట్టి, పట్టుదలతో సాగితే, ఎంత పెద్ద కష్టాన్నైనా దాటగలమని చిట్టి నిరూపించింది.",
+  "main_character": "A tiny, energetic squirrel named Chitti. She has bright, curious eyes and a bushy tail that twitches when she's excited or thinking. She's naturally quick but sometimes underestimates big challenges. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A lush green forest on the outskirts of a small village near Rajahmundry, Andhra Pradesh. Tall mango trees, flowering hibiscus bushes, and a winding stream define the landscape, under the bright morning sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాజమండ్రి దగ్గర పచ్చని అడవిలో, చిట్టి అనే బుజ్జి ఉడుత చాలా చురుగ్గా తిరుగుతోంది. దాని తోక సంతోషంగా అటు ఇటు కదులుతూ ఉంది — అది కింద పడిన గింజలను తీసి, కొన్ని దాచి, మరికొన్ని తన గూటికి మోసుకెళ్తోంది. ఎండుటాకుల మీద చిట్టి చిన్న పాదాలు కదులుతుంటే, మెత్తటి చప్పుడు వినిపిస్తోంది. \"ఈరోజు చాలా మంచి గింజలు దొరికాయి!\" అని అది చిన్నగా మురిసిపోయింది. ఇంతలో, చిట్టి ఒక్కసారిగా ఆగిపోయింది — దాని ముక్కు గాలిని పీల్చుకుంది, చెవులు నిక్కబొడుచుకున్నాయి.",
+      "image_prompt": "The squirrel suddenly stops its foraging, its body frozen in place. Its nose twitches as it sniffs the air, and its ears stand erect, listening intently. Bright, warm morning sun filtering through dense green leaves, casting dappled light on the forest floor, feeling cheerful and inviting.",
+      "scene_visual": "The squirrel suddenly stops its foraging, its body frozen in place. Its nose twitches as it sniffs the air, and its ears stand erect, listening intently.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajamandri Daggara Pachchani Adavilo, Chitti Ane Bujji Uduta Chaalaa Churuggaa Tirugutondi. Daani Toka Santoshangaa Atu Itu Kadulutu Undi — Adi Kinda Padina Ginjalanu Tisi, Konni Daachi, Marikonni Tana Gutiki Mosukeltondi. Endutaakula Mida Chitti Chinna Paadaalu Kadulutunte, Mettati Chappudu Vinipistondi. \"Iroju Chaalaa Manchi Ginjalu Dorikaayi!\" Ani Adi Chinnagaa Murisipoyindi. Intalo, Chitti Okkasaarigaa Aagipoyindi — Daani Mukku Gaalini Pilchukundi, Chevulu Nikkaboduchukunnaayi.",
+      "text_en": "In a green forest near Rajahmundry, a tiny squirrel named Chitti was scurrying around very busily. Her tail was happily swishing from side to side — she was picking up fallen nuts, hiding some, and carrying others to her nest. As Chitti's tiny paws moved over the dry leaves, a soft rustling sound could be heard. \"I found so many good nuts today!\" she chirped happily to herself. Suddenly, Chitti stopped — her nose sniffed the air, and her ears perked up."
+    },
+    {
+      "id": 2,
+      "text": "ఆ తెలియని సువాసన వెంట వెళ్ళిన చిట్టికి, కళ్ళు చెదిరేంత పెద్ద మర్రి చెట్టు కనిపించింది. ఆ చెట్టు కాండం ఆకాశాన్ని అంటుతున్నట్లు ఉంది, దాని నిండా ఎర్రటి పండ్లు నిండి ఉన్నాయి. చిట్టి కళ్ళు పెద్దవిగా అయ్యాయి, దాని ముక్కు ఆ పండ్ల వైపు కదులుతోంది — ఎంత ఆశగా ఉందో దాని మనసు! గాలిలో ఆ పండిన పండ్ల తియ్యటి, మట్టి వాసన కొట్టుకొస్తోంది. \"అమ్మో! ఇంత పెద్ద చెట్టా? ఆ పండ్లు ఎంత రుచిగా ఉంటాయో!\" అని అది ఆశ్చర్యపోయింది. చిట్టి ఆ నునుపైన, ఎత్తైన కాండం వైపు ఒక చిన్న అడుగు వేసింది.",
+      "image_prompt": "The squirrel stands before an enormous banyan tree, its gaze fixed on the red fruits. Its eyes are wide with wonder, and its nose twitches eagerly towards the sweet, earthy scent of the ripe fruits. Mid-morning sun, bright and clear, highlighting the deep green of the Banyan leaves and the vibrant red of the berries against the ancient, grey-brown trunk, creating a sense of grandeur.",
+      "scene_visual": "The squirrel stands before an enormous banyan tree, its gaze fixed on the red fruits. Its eyes are wide with wonder, and its nose twitches eagerly towards the sweet, earthy scent of the ripe fruits.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Teliyani Suvaasana Venta Vellina Chittiki, Kallu Chedirenta Pedda Marri Chettu Kanipinchindi. Aa Chettu Kaandam Aakaashaanni Antutunnatlu Undi, Daani Nindaa Errati Pandlu Nindi Unnaayi. Chitti Kallu Peddavigaa Ayyaayi, Daani Mukku Aa Pandla Vaipu Kadulutondi — Enta Aashagaa Undo Daani Manasu! Gaalilo Aa Pandina Pandla Tiyyati, Matti Vaasana Kottukostondi. \"Ammo! Inta Pedda Chettaa? Aa Pandlu Enta Ruchigaa Untaayo!\" Ani Adi Aashcharyapoyindi. Chitti Aa Nunupaina, Ettaina Kaandam Vaipu Oka Chinna Adugu Vesindi.",
+      "text_en": "Following that unknown scent, Chitti found a huge banyan tree that dazzled her eyes. Its trunk seemed to touch the sky, and it was full of red fruits. Chitti's eyes grew wide, and her nose twitched towards the fruits — how much her heart longed for them! The sweet, earthy smell of the ripe fruits wafted through the air. \"Oh my! Such a big tree? How delicious those fruits must be!\" she wondered. Chitti took a small step towards the smooth, tall trunk."
+    },
+    {
+      "id": 3,
+      "text": "ఆ మర్రి చెట్టు కాండం వైపు ఒక అడుగు వేసిన చిట్టి, దాన్ని ఎక్కడానికి ప్రయత్నించింది. కానీ ఆ నునుపైన కాండం మీద పట్టు దొరకక, అది కిందకు జారిపోయింది — దాని తోక నిరాశగా కిందికి వాలిపోయింది. దాని పదునైన గోళ్ళు చెట్టు బెరడు మీద పట్టు దొరకక, గీసుకున్నట్లు శబ్దం చేశాయి. \"ఛీ! ఇది చాలా కష్టంగా ఉంది!\" అని అది చిన్నగా గొణుగుకుంది, చెవులు కూడా వెనక్కి వాలాయి. చిట్టి మళ్ళీ ఆ పండ్ల వైపు చూసింది, ఆ తర్వాత తన చిన్న పాదాలను చూసుకుంది — దాని ముఖంలో ఒక క్షణం సందేహం మెరిసింది.",
+      "image_prompt": "The squirrel slides down the smooth tree trunk, unable to find a grip. Its sharp claws scrape uselessly against the bark, and its tail droops in visible frustration. Bright, clear daylight, slightly harsher now as the sun climbs, emphasizing the smooth, unyielding surface of the tree trunk.",
+      "scene_visual": "The squirrel slides down the smooth tree trunk, unable to find a grip. Its sharp claws scrape uselessly against the bark, and its tail droops in visible frustration.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Marri Chettu Kaandam Vaipu Oka Adugu Vesina Chitti, Daanni Ekkadaaniki Prayatninchindi. Kaani Aa Nunupaina Kaandam Mida Pattu Dorakaka, Adi Kindaku Jaaripoyindi — Daani Toka Niraashagaa Kindiki Vaalipoyindi. Daani Padunaina Gollu Chettu Beradu Mida Pattu Dorakaka, Gisukunnatlu Shabdam Cheshaayi. \"Chi! Idi Chaalaa Kashtangaa Undi!\" Ani Adi Chinnagaa Gonugukundi, Chevulu Kudaa Venakki Vaalaayi. Chitti Malli Aa Pandla Vaipu Chusindi, Aa Tarvaata Tana Chinna Paadaalanu Chusukundi — Daani Mukhanlo Oka Kshanam Sandeham Merisindi.",
+      "text_en": "Chitti took a step towards the banyan tree's trunk and tried to climb it. But she couldn't get a grip on the smooth trunk and slipped down — her tail drooped in disappointment. Her sharp claws scraped against the bark, unable to find a hold. \"Ugh! This is too hard!\" she grumbled softly, her ears also flattened back. Chitti looked at the fruits again, then at her tiny paws — a moment of doubt flickered across her face."
+    },
+    {
+      "id": 4,
+      "text": "సందేహంగా చూస్తుండగానే, చిట్టి ఒక చిన్న పక్షిని చూసింది. అది సులభంగా ఎగిరి, చెట్టు కింద కొమ్మ మీద వాలింది — ఆ పక్షి చిరుచిరు శబ్దం చేస్తూ ఉంది. \"అది ఎంత సులభంగా వెళ్ళిపోయింది... నేను కూడా వెళ్ళాలి!\" అని అనుకుంటూ, చిట్టి మళ్ళీ పైకి దూకడానికి ప్రయత్నించింది. కానీ అది చాలా దూరంగా ఉంది, దాని ప్రయత్నం వృథా అయింది — దాని భుజాలు కుంగిపోయాయి. చివరికి, చిట్టి చెట్టు మొదట్లో కుప్పకూలిపోయింది, దాని చూపు ఆ అందనంత ఎత్తులో ఉన్న పండ్ల మీదే ఉంది.",
+      "image_prompt": "The squirrel collapses in a heap at the base of the tree, its shoulders slumped in defeat. Its gaze remains fixed on the unreachable fruits high above, a look of despair on its face. Bright afternoon sun, slightly diffused by the canopy above, but still highlighting Chitti's weariness at the tree's base, a sense of quiet defeat.",
+      "scene_visual": "The squirrel collapses in a heap at the base of the tree, its shoulders slumped in defeat. Its gaze remains fixed on the unreachable fruits high above, a look of despair on its face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sandehangaa Chustundagaane, Chitti Oka Chinna Pakshini Chusindi. Adi Sulabhangaa Egiri, Chettu Kinda Komma Mida Vaalindi — Aa Pakshi Chiruchiru Shabdam Chestu Undi. \"Adi Enta Sulabhangaa Vellipoyindi... Nenu Kudaa Vellaali!\" Ani Anukuntu, Chitti Malli Paiki Dukadaaniki Prayatninchindi. Kaani Adi Chaalaa Durangaa Undi, Daani Prayatnam Vrrithaa Ayindi — Daani Bhujaalu Kungipoyaayi. Chivariki, Chitti Chettu Modatlo Kuppakulipoyindi, Daani Chupu Aa Andananta Ettulo Unna Pandla Mide Undi.",
+      "text_en": "As she watched doubtfully, Chitti saw a small bird. It easily flew and landed on a lower branch of the tree — the bird was chirping happily. \"It went up so easily... I want to go too!\" she thought, and Chitti tried to jump up again. But it was too far, and her attempt was in vain — her shoulders slumped. Finally, Chitti collapsed at the base of the tree, her gaze fixed on the fruits that were out of reach."
+    },
+    {
+      "id": 5,
+      "text": "చెట్టు మొదట్లో అలసిపోయి కూర్చున్న చిట్టి, ఒక్కసారిగా కాండం వైపు నిశితంగా చూసింది. అక్కడ — చిన్న చిన్న గీతలు, పగుళ్ళు, బెరడులో దాగి ఉన్నట్లు కనిపించాయి. దాని కళ్ళు చిన్నగా అయ్యాయి, తల పక్కకు వాల్చింది — అలసట ఆశగా మారింది. ఆ బెరడు సందులలో పెరుగుతున్న పచ్చటి నాచు నుండి మట్టి వాసన వస్తోంది. \"అదిగో! అక్కడ చిన్న చిన్న గీతలు ఉన్నాయి!\" అని చిట్టి చిన్నగా అంది. కొత్తగా వచ్చిన ఆశతో, చిట్టి తన చిన్న పాదాన్ని ఒక గీత మీద జాగ్రత్తగా పెట్టి, పట్టును పరీక్షించింది.",
+      "image_prompt": "The squirrel leans its head to the side, intently examining the tree trunk. Its eyes narrow as it spots small cracks and crevices in the bark, and it cautiously places a tiny paw on one to test its grip. Late afternoon light, soft and golden, illuminating the base of the Banyan tree and bringing out the texture of the bark, a gentle warmth of dawning possibility.",
+      "scene_visual": "The squirrel leans its head to the side, intently examining the tree trunk. Its eyes narrow as it spots small cracks and crevices in the bark, and it cautiously places a tiny paw on one to test its grip.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chettu Modatlo Alasipoyi Kurchunna Chitti, Okkasaarigaa Kaandam Vaipu Nishitangaa Chusindi. Akkada — Chinna Chinna Gitalu, Pagullu, Beradulo Daagi Unnatlu Kanipinchaayi. Daani Kallu Chinnagaa Ayyaayi, Tala Pakkaku Vaalchindi — Alasata Aashagaa Maarindi. Aa Beradu Sandulalo Perugutunna Pachchati Naachu Nundi Matti Vaasana Vastondi. \"Adigo! Akkada Chinna Chinna Gitalu Unnaayi!\" Ani Chitti Chinnagaa Andi. Kottagaa Vachchina Aashato, Chitti Tana Chinna Paadaanni Oka Gita Mida Jaagrattagaa Petti, Pattunu Parikshinchindi.",
+      "text_en": "Sitting tired at the base of the tree, Chitti suddenly looked closely at the trunk. There — tiny scratches, cracks, and hidden crevices in the bark appeared. Her eyes narrowed, and she tilted her head — her weariness turned into hope. The earthy smell came from the green moss growing in the bark's crevices. \"Look! There are tiny grooves!\" Chitti whispered. With newfound hope, Chitti carefully placed her tiny paw on a groove and tested her grip."
+    },
+    {
+      "id": 6,
+      "text": "ఆ చిన్న గీత మీద పట్టు దొరకగానే, చిట్టికి కొత్త ధైర్యం వచ్చింది. అది చాలా ఓపికగా, జాగ్రత్తగా చెట్టు కాండాన్ని ఎక్కడం మొదలుపెట్టింది — దాని కండరాలు వణుకుతున్నాయి. దాని తోక స్థిరంగా బ్యాలెన్స్ చేస్తూ ఉంది. అది పైకి ఎక్కుతుంటే, చెట్టు కాండం నుండి చిన్న కంపనం దాని శరీరానికి తగిలింది. \"ఒక అడుగు... ఇంకో అడుగు...\" అని అది మనసులో అనుకుంటూ, మెల్లగా పైకి సాగింది. చిట్టి చివరికి మొదటి పెద్ద కొమ్మను చేరుకుంది — ఊపిరి పీల్చుకుంటూ, దాని కళ్ళు ఇప్పుడు ఎర్రటి పండ్ల గుత్తుల వైపు ఉన్నాయి.",
+      "image_prompt": "The squirrel carefully climbs the tree trunk, its muscles trembling with effort. Its tail acts as a steadying balance as it finally reaches the first large branch, its eyes now fixed on the clusters of red fruits. The warm, fading light of the late afternoon sun, casting long shadows and highlighting Chitti's determined ascent, a feeling of effort and progress.",
+      "scene_visual": "The squirrel carefully climbs the tree trunk, its muscles trembling with effort. Its tail acts as a steadying balance as it finally reaches the first large branch, its eyes now fixed on the clusters of red fruits.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chinna Gita Mida Pattu Dorakagaane, Chittiki Kotta Dhairyam Vachchindi. Adi Chaalaa Opikagaa, Jaagrattagaa Chettu Kaandaanni Ekkadam Modalupettindi — Daani Kandaraalu Vanukutunnaayi. Daani Toka Sthirangaa Byaalens Chestu Undi. Adi Paiki Ekkutunte, Chettu Kaandam Nundi Chinna Kampanam Daani Shariraaniki Tagilindi. \"Oka Adugu... Inko Adugu...\" Ani Adi Manasulo Anukuntu, Mellagaa Paiki Saagindi. Chitti Chivariki Modati Pedda Kommanu Cherukundi — Upiri Pilchukuntu, Daani Kallu Ippudu Errati Pandla Guttula Vaipu Unnaayi.",
+      "text_en": "As soon as she found a grip on that small groove, Chitti felt new courage. Very patiently and carefully, she began to climb the tree trunk — her muscles trembled. Her tail steadily balanced her. As she climbed higher, a small vibration from the tree trunk touched her body. \"One step... another step...\" she thought to herself, slowly moving upwards. Chitti finally reached the first big branch — catching her breath, her eyes were now on the clusters of red fruits."
+    },
+    {
+      "id": 7,
+      "text": "మొదటి కొమ్మను దాటి, చిట్టి చివరికి చెట్టు పైభాగానికి చేరుకుంది. అక్కడ నుండి అడవి అంతా ఎంత అందంగా కనిపిస్తోందో! అది అక్కడ ఉన్న పండ్లలోకెల్లా, ఒక రసవంతమైన పండును ఎంచుకుని, ఆనందంగా కొరికింది — దాని నాలుక మీద తియ్యటి రసం చిమ్మింది. అది సంతోషంగా చిన్నగా కిచకిచలాడింది, ఒక సంతృప్తి నిట్టూర్పు వదిలింది. \"అద్భుతం! ఇది నా పట్టుదల ఫలితం!\" అని అది మురిసిపోయింది. చిట్టి తన విజయాన్ని ఆస్వాదిస్తూ, చుట్టూ ఉన్న అందమైన దృశ్యాన్ని చూస్తూ ఉంది.",
+      "image_prompt": "The squirrel sits at the top of the tree, happily biting into a juicy fruit. Sweet juice squirts onto its tongue, and it lets out a contented sigh, chirping softly in delight. Golden hour light, soft and radiant, bathing Chitti and the top of the Banyan tree in a warm glow, creating a serene and triumphant atmosphere.",
+      "scene_visual": "The squirrel sits at the top of the tree, happily biting into a juicy fruit. Sweet juice squirts onto its tongue, and it lets out a contented sigh, chirping softly in delight.",
+      "supporting_char_keys": [],
+      "text_te_en": "Modati Kommanu Daati, Chitti Chivariki Chettu Paibhaagaaniki Cherukundi. Akkada Nundi Adavi Antaa Enta Andangaa Kanipistondo! Adi Akkada Unna Pandlalokellaa, Oka Rasavantamaina Pandunu Enchukuni, Aanandangaa Korikindi — Daani Naaluka Mida Tiyyati Rasam Chimmindi. Adi Santoshangaa Chinnagaa Kichakichalaadindi, Oka Santrripti Nitturpu Vadilindi. \"Adbhutan! Idi Naa Pattudala Phalitan!\" Ani Adi Murisipoyindi. Chitti Tana Vijayaanni Aasvaadistu, Chuttu Unna Andamaina Drrishyaanni Chustu Undi.",
+      "text_en": "Past the first branch, Chitti finally reached the top of the tree. From there, the entire forest looked so beautiful! She chose the juiciest fruit among them and happily took a bite — sweet juice burst onto her tongue. She chirped happily and let out a sigh of satisfaction. \"Wonderful! This is the result of my perseverance!\" she rejoiced. Chitti savored her victory, looking at the beautiful scenery around her."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.5,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This is an exceptionally well-crafted children's story. The narrative flows beautifully, engaging the listener with vivid sensory details and a strong emotional arc. The language is perfectly suited for oral storytelling, making it feel warm and authentic. To elevate it further to a perfect 10 in all dimensions, the author could subtly rephrase the few instances where emotions are stated directly, allowing the actions and internal thoughts to convey them entirely. This would make the emotional portrayal fully embodied throughout."
+  },
+  "title_te_en": "Chitti Uduta, Pattudala Vijayam",
+  "moral_te_en": "Chinna Adugulato Modalupetti, Pattudalato Saagite, Enta Pedda Kashtaannainaa Daatagalamani Chitti Nirupinchindi.",
+  "title_en": "Chitti the Squirrel, and the Victory of Perseverance",
+  "moral_en": "Chitti proved that by starting with small steps and continuing with perseverance, even the biggest difficulty can be overcome.",
+  "id": "20260601_201014",
+  "date": "2026-06-01",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "పట్టుదల గల చిన్న ఉడుత",
+  "thumbnail": "stories/20260601_201014/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
