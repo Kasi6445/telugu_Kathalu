@@ -1,0 +1,110 @@
+{
+  "title": "తులసి వృందమ్మ కథ",
+  "moral": "నిజమైన భక్తికి, త్యాగానికి ఎప్పుడూ గొప్ప గుర్తింపు ఉంటుంది.",
+  "main_character": "A young woman of exceptional beauty and deep, unwavering devotion, with eyes always reflecting inner peace and kindness. She spends her days tending to her garden and meditating on Lord Vishnu. Always the same character across every scene.",
+  "antagonist": "A powerful king-demon (rakshasa) with dark complexion and a commanding presence. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. He carries a formidable mace. Commanding, imperious expression — fearsome but regal. Always the same character across every scene.",
+  "setting": "A vibrant garden in a serene village near the Godavari river in Andhra Pradesh, filled with blooming jasmine, marigolds, and a special, small green plant. The air is always fragrant and peaceful. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అందమైన వృందమ్మ, గోదావరి ఒడ్డున తన పూల తోటలో ఎప్పుడూ కనిపించేది. రోజూ ఉదయాన్నే, ఆ చిన్న పచ్చని మొక్కకి నీళ్ళు పోస్తూ, ఆమె పెదవులపై చిరునవ్వు చెదిరేది కాదు. ఆమె కళ్ళు మూసుకుని, లోకం మరచిపోయి, తన మనసుని విష్ణుమూర్తి పాదాల చెంత ఉంచేది. చల్లని మట్టి సువాసన, జాజిపూల పరిమళం ఆమె చుట్టూ అల్లుకునేవి. \"ఓ ప్రభూ, నా మనసు ఎల్లప్పుడూ నీ పాదాల వద్దనే ఉండును గాక!\" అని ఆమె మనసులో అనుకునేది. ఇంతలో — ఒక పెద్ద నీడ ఆమె తోటపై పడింది.",
+      "image_prompt": "An old woman is standing in her flower garden, lost in devotion with her eyes closed. A large, dark shadow suddenly falls over her garden, covering the plants. Soft morning light filtering through dense green leaves, dappling the ground in warm yellows and greens, creating a serene, almost sacred atmosphere.",
+      "scene_visual": "An old woman is standing in her flower garden, lost in devotion with her eyes closed. A large, dark shadow suddenly falls over her garden, covering the plants.",
+      "supporting_char_keys": [],
+      "text_te_en": "Andamaina Vrrindamma, Godaavari Odduna Tana Pula Totalo Eppudu Kanipinchedi. Roju Udayaanne, Aa Chinna Pachchani Mokkaki Nillu Postu, Aame Pedavulapai Chirunavvu Chediredi Kaadu. Aame Kallu Musukuni, Lokam Marachipoyi, Tana Manasuni Vishnumurti Paadaala Chenta Unchedi. Challani Matti Suvaasana, Jaajipula Parimalam Aame Chuttu Allukunevi. \"O Prabhu, Naa Manasu Ellappudu Ni Paadaala Vaddane Undunu Gaaka!\" Ani Aame Manasulo Anukunedi. Intalo — Oka Pedda Nida Aame Totapai Padindi.",
+      "text_en": "Beautiful Vrinda was always seen in her flower garden on the banks of the Godavari river. Every morning, as she watered the small green plant, a smile never left her lips. She would close her eyes, forget the world, and place her heart at the feet of Lord Vishnu. The cool scent of earth and the fragrance of jasmine flowers would surround her. \"Oh Lord, may my heart always remain at your feet!\" she would think to herself. Just then, a large shadow fell over her garden."
+    },
+    {
+      "id": 2,
+      "text": "ఆ పెద్ద నీడ, బలవంతుడైన జలంధరుడిదే — అతని కవచం నేలపై దిగగానే, ఒక గంభీరమైన చప్పుడు వినిపించింది. వృందమ్మ అతని వైపు ప్రశాంతంగా చూసింది, ఆమె చూపులో భయం లేదు. \"నీ అందం, నీ పవిత్రత నన్ను ఆకర్షించాయి, వృందా! నా రాణివి కావాలి\" అని జలంధరుడు అన్నాడు. ఆమె కళ్ళల్లోని ప్రశాంతత చూసి, \"నీ భక్తియే నాకు బలం, ఓ వృందా!\" అని అతను గర్వంగా పలికాడు. ఆమె అంగీకరించిన వెంటనే, జలంధరుడికి అంతులేని శక్తి వచ్చిందనిపించింది.",
+      "image_prompt": "A powerful man in armor descends, his large shadow preceding him as he lands in the garden. A solemn, heavy sound resonates as his armor makes contact with the ground. Also in this scene: A powerful king-demon (rakshasa) with dark complexion and a commanding presence. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. He carries a formidable mace. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. Harsh midday sun beating down on a grand palace courtyard, emphasizing Jalandhara's imposing figure and the contrast with Vrinda's delicate presence.",
+      "scene_visual": "A powerful man in armor descends, his large shadow preceding him as he lands in the garden. A solemn, heavy sound resonates as his armor makes contact with the ground.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Pedda Nida, Balavantudaina Jalandharudide — Atani Kavacham Nelapai Digagaane, Oka Gambhiramaina Chappudu Vinipinchindi. Vrrindamma Atani Vaipu Prashaantangaa Chusindi, Aame Chupulo Bhayam Ledu. \"Ni Andan, Ni Pavitrata Nannu Aakarshinchaayi, Vrrindaa! Naa Raanivi Kaavaali\" Ani Jalandharudu Annaadu. Aame Kallalloni Prashaantata Chusi, \"Ni Bhaktiye Naaku Balan, O Vrrindaa!\" Ani Atanu Garvangaa Palikaadu. Aame Angikarinchina Ventane, Jalandharudiki Antuleni Shakti Vachchindanipinchindi.",
+      "text_en": "That large shadow belonged to the mighty Jaladhara. As his armor touched the ground, a deep sound was heard. Vrinda looked at him calmly, with no fear in her eyes. \"Your beauty and your purity have attracted me, Vrinda! You must be my queen,\" said Jaladhara. Seeing the peace in her eyes, he proudly declared, \"Your devotion is my strength, O Vrinda!\" As soon as she agreed, Jaladhara felt as if he had gained endless power."
+    },
+    {
+      "id": 3,
+      "text": "వృందమ్మ భక్తితో అంతులేని బలం పొందిన జలంధరుడు, దేవలోకాలపై దండెత్తాడు. ఆకాశంలో దూరంగా, పెద్ద ఉరుముల చప్పుళ్ళు వినిపిస్తున్నాయి — లోకం కంపించినట్టు అనిపించింది. వృందమ్మ తన తోటలో మౌనంగా కూర్చుంది, ఆమె మనసులో ఏదో తెలియని అశాంతి. \"వృందా భక్తి ఉన్నంతవరకు నన్ను ఎవరూ ఓడించలేరు!\" అని జలంధరుడు దేవతలకు సవాల్ విసిరాడు. ఆమె భక్తి కవచంలా నిలబడటంతో, అతని శక్తికి అడ్డు లేకుండా పోయింది. దేవతలు ఓడిపోయి — ఆశ కోల్పోయి, విష్ణుమూర్తిని వేడుకోవడానికి బయల్దేరారు.",
+      "image_prompt": "The powerful man stands triumphantly, while far away in the sky, loud thunderous rumblings are heard. The world appears to tremble as the sound of the rumblings fills the air. Also in this scene: A powerful king-demon (rakshasa) with dark complexion and a commanding presence. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. He carries a formidable mace. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. Stormy, oppressive skies over a distant mountain, dark grey clouds gathering, hinting at the turmoil above and the coming conflict.",
+      "scene_visual": "The powerful man stands triumphantly, while far away in the sky, loud thunderous rumblings are heard. The world appears to tremble as the sound of the rumblings fills the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vrrindamma Bhaktito Antuleni Balam Pondina Jalandharudu, Devalokaalapai Dandettaadu. Aakaashanlo Durangaa, Pedda Urumula Chappullu Vinipistunnaayi — Lokam Kampinchinattu Anipinchindi. Vrrindamma Tana Totalo Maunangaa Kurchundi, Aame Manasulo Edo Teliyani Ashaanti. \"Vrrindaa Bhakti Unnantavaraku Nannu Evaru Odinchaleru!\" Ani Jalandharudu Devatalaku Savaal Visiraadu. Aame Bhakti Kavachanlaa Nilabadatanto, Atani Shaktiki Addu Lekundaa Poyindi. Devatalu Odipoyi — Aasha Kolpoyi, Vishnumurtini Vedukovadaaniki Bayalderaaru.",
+      "text_en": "Jaladhara, having gained endless strength from Vrinda's devotion, attacked the heavens. Far in the sky, loud thunderclaps were heard; it felt as if the world was trembling. Vrinda sat silently in her garden, an unknown unease in her heart. \"As long as Vrinda's devotion is with me, no one can defeat me!\" Jaladhara challenged the gods. With her devotion standing as a shield, his power became unstoppable. The gods were defeated, lost hope, and set out to plead with Lord Vishnu."
+    },
+    {
+      "id": 4,
+      "text": "ఓడిన దేవతలు, ఇంద్రుడి నాయకత్వంలో, వైకుంఠంలో విష్ణుమూర్తిని శరణు వేడారు. విష్ణువు ప్రశాంతమైన నవ్వుతో వారి మాటలు విన్నాడు, అతని కళ్ళల్లో లోతైన సంకల్పం మెరిసింది. శంఖం నుండి ఒక మెత్తని, పవిత్రమైన శబ్దం వినిపించింది — ఆ చప్పుడు మనసుని శాంతపరిచింది. \"ధర్మాన్ని నిలబెట్టడానికి నేను మార్గం కనుగొంటాను,\" అని ఆయన ధైర్యంగా పలికాడు. అప్పుడు విష్ణుమూర్తి, ఒక సామాన్యమైన సన్యాసి వేషంలో, వృందమ్మ తోట వైపు బయల్దేరాడు.",
+      "image_prompt": "Defeated gods are kneeling before a divine being, who listens with a calm smile. A soft, sacred sound emanates from a conch held by the divine being, bringing peace to the mind. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. A celestial realm bathed in soft, ethereal blue and gold light, radiating peace and divine wisdom, contrasting with the previous scene's gloom.",
+      "scene_visual": "Defeated gods are kneeling before a divine being, who listens with a calm smile. A soft, sacred sound emanates from a conch held by the divine being, bringing peace to the mind.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Odina Devatalu, Indrudi Naayakatvanlo, Vaikunthanlo Vishnumurtini Sharanu Vedaaru. Vishnuvu Prashaantamaina Navvuto Vaari Maatalu Vinnaadu, Atani Kallallo Lotaina Sankalpam Merisindi. Shankham Nundi Oka Mettani, Pavitramaina Shabdam Vinipinchindi — Aa Chappudu Manasuni Shaantaparichindi. \"Dharmaanni Nilabettadaaniki Nenu Maargam Kanugontaanu,\" Ani Aayana Dhairyangaa Palikaadu. Appudu Vishnumurti, Oka Saamaanyamaina Sanyaasi Veshanlo, Vrrindamma Tota Vaipu Bayalderaadu.",
+      "text_en": "The defeated gods, led by Indra, sought refuge with Lord Vishnu in Vaikuntha. Vishnu listened to their words with a calm smile, a deep resolve shining in his eyes. A soft, sacred sound emanated from his conch shell; that sound calmed the mind. \"I will find a way to uphold righteousness,\" he bravely declared. Then Lord Vishnu, disguised as a simple sage, set out towards Vrinda's garden."
+    },
+    {
+      "id": 5,
+      "text": "సన్యాసి వేషంలో వచ్చిన విష్ణువు, వృందమ్మ తోటలో ఆమెను కలిశాడు. ఆమె మనసులో భర్తపై ప్రేమ, లోక ధర్మం మధ్య సంఘర్షణతో భారంగా అనిపించింది. తోటలోని ఆకులు కూడా — మెల్లగా కదిలినట్టు, ప్రకృతి కూడా నిశ్శబ్దంగా వింటున్నట్టు ఉంది. \"ధర్మం నిలబడాలంటే కొన్నిసార్లు గొప్ప త్యాగాలు అవసరం, తల్లీ,\" అని సన్యాసి స్వరంలో విష్ణువు ఆమెకు వివరించాడు. ఆమె కళ్ళు మూసుకుని, ఒక కఠినమైన నిర్ణయం తీసుకున్న క్షణంలో... జలంధరుడు ఉన్న యుద్ధభూమిని ఒక దివ్యమైన కాంతి కమ్మేసింది.",
+      "image_prompt": "The woman stands with her eyes closed, making a difficult decision in her garden. At that very moment, a divine light suddenly envelops the distant battlefield where her husband is. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. A quiet, shaded part of Vrinda's garden, soft dappled sunlight filtering through, creating an intimate and thoughtful atmosphere for their profound conversation.",
+      "scene_visual": "The woman stands with her eyes closed, making a difficult decision in her garden. At that very moment, a divine light suddenly envelops the distant battlefield where her husband is.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Sanyaasi Veshanlo Vachchina Vishnuvu, Vrrindamma Totalo Aamenu Kalishaadu. Aame Manasulo Bhartapai Prema, Loka Dharmam Madhya Sangharshanato Bhaarangaa Anipinchindi. Totaloni Aakulu Kudaa — Mellagaa Kadilinattu, Prakrriti Kudaa Nishshabdangaa Vintunnattu Undi. \"Dharmam Nilabadaalante Konnisaarlu Goppa Tyaagaalu Avasaran, Talli,\" Ani Sanyaasi Svaranlo Vishnuvu Aameku Vivarinchaadu. Aame Kallu Musukuni, Oka Kathinamaina Nirnayam Tisukunna Kshananlo... Jalandharudu Unna Yuddhabhumini Oka Divyamaina Kaanti Kammesindi.",
+      "text_en": "Vishnu, who came disguised as a sage, met her in Vrinda's garden. Her heart felt heavy with the conflict between her love for her husband and the righteousness of the world. Even the leaves in the garden seemed to stir gently, as if nature itself was listening in silence. \"To uphold righteousness, sometimes great sacrifices are needed, my child,\" Vishnu explained to her in the sage's voice. The moment she closed her eyes and made a difficult decision... a divine light enveloped the battlefield where Jaladhara was."
+    },
+    {
+      "id": 6,
+      "text": "ఆ దివ్యమైన కాంతిలో, వృందమ్మ మనసులో భక్తి దిశ మారింది — ఆమె ప్రేమ లోక ధర్మంతో కలిసింది. భూమి కొద్దిగా కంపించింది, ఆ తర్వాత — ఒక లోతైన నిశ్శబ్దం అలుముకుంది. \"నా భక్తి ఇప్పుడు సత్యానికే అంకితం,\" అని ఆమె కన్నీళ్ళతో పలికింది. న్యాయం జరిగింది, దైవశక్తి ముందు చెడు నిలబడలేకపోయింది. ఆమె దుఃఖం, త్యాగం కలిసిన కన్నీళ్లు నేల రాలగానే, అక్కడే ఒక చిన్న పచ్చని మొక్క మొలకెత్తింది.",
+      "image_prompt": "The woman stands, tears of sorrow and sacrifice streaming down her face. As her tears fall to the earth, a small, green plant immediately sprouts from the ground beneath her. A moment of intense, blinding golden-white light, followed by a soft, calming blue twilight, signifying a major cosmic shift and the restoration of peace.",
+      "scene_visual": "The woman stands, tears of sorrow and sacrifice streaming down her face. As her tears fall to the earth, a small, green plant immediately sprouts from the ground beneath her.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Divyamaina Kaantilo, Vrrindamma Manasulo Bhakti Disha Maarindi — Aame Prema Loka Dharmanto Kalisindi. Bhumi Koddigaa Kampinchindi, Aa Tarvaata — Oka Lotaina Nishshabdam Alumukundi. \"Naa Bhakti Ippudu Satyaanike Ankitan,\" Ani Aame Kannillato Palikindi. Nyaayam Jarigindi, Daivashakti Mundu Chedu Nilabadalekapoyindi. Aame Duhkhan, Tyaagam Kalisina Kannillu Nela Raalagaane, Akkade Oka Chinna Pachchani Mokka Molakettindi.",
+      "text_en": "In that divine light, the direction of Vrinda's devotion changed; her love merged with the righteousness of the world. The earth trembled slightly, and then a deep silence fell. \"My devotion is now dedicated to truth,\" she said with tears. Justice was served; evil could not stand before divine power. As her tears, mixed with sorrow and sacrifice, fell to the ground, a small green plant sprouted right there."
+    },
+    {
+      "id": 7,
+      "text": "మొలకెత్తిన ఆ చిన్న మొక్క, క్షణాల్లో పెరిగి, దివ్యమైన తులసి వృక్షంగా మారింది. దాని ఆకుల నుండి ఒక స్వచ్ఛమైన, తీయని సువాసన చుట్టూ ఉన్న వాతావరణాన్ని నింపేసింది. విష్ణువు మళ్ళీ ప్రత్యక్షమై, ఆ తులసి మొక్కని ప్రేమగా స్పృశించాడు. \"నువ్వు నాకు అత్యంత ప్రీతిపాత్రమైన దానివి అవుతావు, తులసి!\" అని ఆయన ఆశీర్వదించాడు. వృందమ్మ భక్తి తులసి రూపంలో శాశ్వతమైంది — ఈ లోకంలో పవిత్రతకు, ధర్మానికి అది ప్రతీకగా నిలిచింది.",
+      "image_prompt": "A small plant quickly grows into a divine basil tree, its fragrant leaves filling the air. The divine being reappears and lovingly touches the leaves of the sacred tree. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Gentle dawn light, soft pink and gold hues illuminating the vibrant green Tulasi plant, surrounded by a subtle, glowing aura, signifying its divine status.",
+      "scene_visual": "A small plant quickly grows into a divine basil tree, its fragrant leaves filling the air. The divine being reappears and lovingly touches the leaves of the sacred tree.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Molakettina Aa Chinna Mokka, Kshanaallo Perigi, Divyamaina Tulasi Vrrikshangaa Maarindi. Daani Aakula Nundi Oka Svachchamaina, Tiyani Suvaasana Chuttu Unna Vaataavaranaanni Nimpesindi. Vishnuvu Malli Pratyakshamai, Aa Tulasi Mokkani Premagaa Sprrishinchaadu. \"Nuvvu Naaku Atyanta Pritipaatramaina Daanivi Avutaavu, Tulasi!\" Ani Aayana Aashirvadinchaadu. Vrrindamma Bhakti Tulasi Rupanlo Shaashvatamaindi — I Lokanlo Pavitrataku, Dharmaaniki Adi Pratikagaa Nilichindi.",
+      "text_en": "That small sprouted plant grew in moments and became a divine Tulasi tree. From its leaves, a pure, sweet fragrance filled the surrounding air. Vishnu appeared again and lovingly touched the Tulasi plant. \"You will become most dear to me, Tulasi!\" he blessed. Vrinda's devotion became eternal in the form of Tulasi; it stood as a symbol of purity and righteousness in this world."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Krishna",
+      "description": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 5.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 4,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 7,
+    "child_engagement": 6,
+    "average": 5.83,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story presents a clear narrative arc from a classic myth. Its main challenge is the formal, descriptive prose which diminishes the oral warmth and emotional impact. To significantly improve, the narrative voice needs to be made more conversational and emotions must be shown through character actions and vivid sensory details, rather than being stated directly. This would allow a child to truly connect with Vrundamma's internal struggle and the story's profound message."
+  },
+  "quality_warning": true,
+  "title_te_en": "Tulasi Vrrindamma Katha",
+  "moral_te_en": "Nijamaina Bhaktiki, Tyaagaaniki Eppudu Goppa Gurtimpu Untundi.",
+  "title_en": "The Story of Tulasi Vrinda",
+  "moral_en": "True devotion and sacrifice always receive great recognition.",
+  "id": "20260601_131229",
+  "date": "2026-06-01",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "తులసి దేవి భక్తి - అమర పవిత్రతను పొందిన వృక్షం",
+  "thumbnail": "stories/20260601_131229/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
