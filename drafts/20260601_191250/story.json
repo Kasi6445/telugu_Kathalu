@@ -1,0 +1,108 @@
+{
+  "title": "మనసులో శాంతి",
+  "moral": "నిజమైన ఆనందం, ప్రశాంతత ఎక్కడో బయట కాదు, మన లోపలే దాగి ఉంటాయని చూశావా?",
+  "main_character": "A young prince with a serene, fair complexion, adorned with simple golden ornaments and a single strand of pearls. He has a gentle smile and eyes that reflect deep wisdom beyond his years. He wears a pure white dhoti and an upper cloth. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The grand palace of King Nabhi in ancient Bharata Varsha, with its intricately carved pillars of sandstone and lush, fragrant gardens filled with jasmine and mango trees. The sun always shines warmly on the polished marble courtyards. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాజభవన ఉద్యానవనంలో, యువరాజు రిషభుడు ఒక సీతాకోకచిలుకను లోతుగా గమనిస్తున్నాడు — అతని పెదవులపై చిరునవ్వు మెరిసింది. తోటి పిల్లలు ఆనందంగా ఆడుకుంటున్నా, అతని దృష్టి మాత్రం ఆ చిలుక రెక్కల అందంపైనే నిలిచిపోయింది. చల్లని గాలికి జాస్మిన్ పువ్వుల తీయని సువాసన అతని చుట్టూ అలుముకుంది. \"ఈ పూవు ఎంత అందంగా ఉంది!\" అని అతను మెల్లగా అనుకున్నాడు, ప్రతి కదలికలో అద్భుతం కనిపించింది. ఇంతలో ఒక రాజ సేవకుడు, రిషభుడి వైపు వినయంగా వస్తూ, తల వంచి నమస్కరించాడు.",
+      "image_prompt": "The boy is deeply observing a butterfly in the palace garden. A gentle smile plays on his lips as the sweet scent of jasmine flowers surrounds him. Soft, warm morning sunlight filtering through dense green leaves, dappling the stone path with light and shadow, peaceful and serene.",
+      "scene_visual": "The boy is deeply observing a butterfly in the palace garden. A gentle smile plays on his lips as the sweet scent of jasmine flowers surrounds him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajabhavana Udyaanavananlo, Yuvaraaju Rishabhudu Oka Sitaakokachilukanu Lotugaa Gamanistunnaadu — Atani Pedavulapai Chirunavvu Merisindi. Toti Pillalu Aanandangaa Aadukuntunnaa, Atani Drrishti Maatram Aa Chiluka Rekkala Andampaine Nilichipoyindi. Challani Gaaliki Jaasmin Puvvula Tiyani Suvaasana Atani Chuttu Alumukundi. \"I Puvu Enta Andangaa Undi!\" Ani Atanu Mellagaa Anukunnaadu, Prati Kadalikalo Adbhutam Kanipinchindi. Intalo Oka Raaja Sevakudu, Rishabhudi Vaipu Vinayangaa Vastu, Tala Vanchi Namaskarinchaadu.",
+      "text_en": "In the royal garden, Prince Rishabhudu was watching a butterfly very closely — a soft smile played on his lips. Even though other children were playing happily, his eyes were glued to the beautiful wings of the butterfly. The sweet smell of jasmine flowers floated around him in the cool breeze. \"How pretty this flower is!\" he whispered to himself, finding wonder in every little movement. Just then, a royal servant came up to Rishabhudu politely, bowing his head."
+    },
+    {
+      "id": 2,
+      "text": "సేవకుడు వెళ్ళగానే, రిషభుడు సింహాసన మందిరంలో తన తండ్రి నభి మహారాజు వద్దకు వెళ్ళాడు. మెరిసే పాలరాతి నేల అతని పాదాలకు చల్లగా స్పర్శించింది, ఆ చల్లదనం అతని మనసును తేలికపరిచింది. రాజు అతని భవిష్యత్తు గురించి ఆశగా చెబుతున్నాడు — \"కుమారా, ఈ రాజ్య భారం నీదే. నీ ప్రజలను సంతోషంగా చూడు.\" రిషభుడు తండ్రి మాటలను శ్రద్ధగా విన్నాడు, కానీ అతని చూపులు మాత్రం కిటికీలోంచి దూరంగా ఉన్న ఆకాశం వైపు మళ్ళాయి. కళ్ళల్లో అంతుచిక్కని ప్రశ్న మెరిసింది.",
+      "image_prompt": "The boy stands before his father, listening intently to his words about the kingdom's future. His gaze is fixed on the distant sky through the window, with an unanswerable question sparkling in his eyes. SUPPORTING CHARACTER also in this scene: king_nabhi — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Bright, golden afternoon light streaming through large arched windows into the grand throne room, illuminating dust motes dancing in the air, majestic and formal.",
+      "scene_visual": "The boy stands before his father, listening intently to his words about the kingdom's future. His gaze is fixed on the distant sky through the window, with an unanswerable question sparkling in his eyes.",
+      "supporting_char_keys": [
+        "king_nabhi"
+      ],
+      "text_te_en": "Sevakudu Vellagaane, Rishabhudu Sinhaasana Mandiranlo Tana Tandri Nabhi Mahaaraaju Vaddaku Vellaadu. Merise Paalaraati Nela Atani Paadaalaku Challagaa Sparshinchindi, Aa Challadanam Atani Manasunu Telikaparichindi. Raaju Atani Bhavishyattu Gurinchi Aashagaa Chebutunnaadu — \"Kumaaraa, I Raajya Bhaaram Nide. Ni Prajalanu Santoshangaa Chudu.\" Rishabhudu Tandri Maatalanu Shraddhagaa Vinnaadu, Kaani Atani Chupulu Maatram Kitikilonchi Durangaa Unna Aakaasham Vaipu Mallaayi. Kallallo Antuchikkani Prashna Merisindi.",
+      "text_en": "As soon as the servant left, Rishabhudu went to his father, King Nabha Maharaja, in the big throne room. The shiny marble floor felt cool under his feet, and that coolness made his mind feel light. The king was talking excitedly about Rishabhudu's future — \"My son, this kingdom will be yours. You must keep your people happy.\" Rishabhudu listened carefully to his father, but his eyes kept looking out the window at the sky far away. A puzzling question sparkled in his eyes."
+    },
+    {
+      "id": 3,
+      "text": "రాజు మాటలు విన్నాక, రిషభుడు సభను నిర్వహించడానికి ప్రయత్నించాడు, ప్రజల విన్నపాలను విన్నాడు, వివాదాలను పరిష్కరించాడు. న్యాయస్థానంలో అనేక గొంతుల సవ్వడి, ప్రజల అవసరాలు, కోరికలు ఒక నిరంతర గుసగుసలాగా వినిపించాయి. అతను తన కర్తవ్యాన్ని నిబద్ధతతో నిర్వర్తించాడు, కానీ అతని మనసులో తెలియని శూన్యత పెరిగిపోతోంది. అతని నుదుట చిన్న చిట్లమొదలు పడింది, శూన్యత అతన్ని వెంటాడింది. \"ఈ సమస్యలకు మూలం ఎక్కడ?\" అని అతను తనలో తాను ప్రశ్నించుకున్నాడు. సభను రద్దు చేసి, సింహాసనం నుండి దూరంగా నడిచాడు.",
+      "image_prompt": "The boy sits on the throne, presiding over an assembly and attempting to resolve disputes. A small frown appears on his forehead, reflecting the growing emptiness within him. Clear, bright midday sun reflecting off the white marble of the court, sharp and somewhat harsh, emphasizing the weight of responsibility.",
+      "scene_visual": "The boy sits on the throne, presiding over an assembly and attempting to resolve disputes. A small frown appears on his forehead, reflecting the growing emptiness within him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Maatalu Vinnaaka, Rishabhudu Sabhanu Nirvahinchadaaniki Prayatninchaadu, Prajala Vinnapaalanu Vinnaadu, Vivaadaalanu Parishkarinchaadu. Nyaayasthaananlo Aneka Gontula Savvadi, Prajala Avasaraalu, Korikalu Oka Nirantara Gusagusalaagaa Vinipinchaayi. Atanu Tana Kartavyaanni Nibaddhatato Nirvartinchaadu, Kaani Atani Manasulo Teliyani Shunyata Perigipotondi. Atani Nuduta Chinna Chitlamodalu Padindi, Shunyata Atanni Ventaadindi. \"I Samasyalaku Mulam Ekkada?\" Ani Atanu Tanalo Taanu Prashninchukunnaadu. Sabhanu Raddu Chesi, Sinhaasanam Nundi Durangaa Nadichaadu.",
+      "text_en": "After listening to his father, Rishabhudu tried to hold court. He listened to people's requests and solved their problems. In the court, the many voices, the people's needs and wishes, sounded like a constant buzzing. He did his duty very carefully, but a strange empty feeling grew inside his mind. A small frown appeared on his forehead, and that emptiness followed him. \"Where do all these problems come from?\" he wondered to himself. He ended the court meeting and walked away from the throne."
+    },
+    {
+      "id": 4,
+      "text": "సింహాసనం నుండి దూరంగా నడిచిన రిషభుడు, రోజులు తరబడి రాజభవన గ్రంథాలయంలో పురాతన గ్రంథాలను అధ్యయనం చేశాడు. అతను తాళపత్ర గ్రంథాలను తిప్పుతున్నప్పుడు, వాటి ఆకులు మెల్లగా 'గర్ర్ర్' మని శబ్దం చేశాయి. అప్పుడు అతను తోటలోని ఏకాంత ప్రదేశాలలో ధ్యానం చేస్తూ, ప్రపంచ బాధ్యతలకు మించిన సమాధానాల కోసం వెతికాడు. అతని భంగిమ చాలావరకు స్థిరంగా ఉంది, కానీ అతని అంతరంగం మాత్రం అశాంతితో వెతుకుతోంది. \"శాంతి ఎక్కడ దాగి ఉంది?\" అని అతను తనలో తాను అనుకున్నాడు. ఒక సాయంత్రం, నక్షత్రాలను చూస్తున్నప్పుడు — లోతైన జ్ఞానం అతనిలో మెరిసింది.",
+      "image_prompt": "The boy meditates in a secluded garden spot, his posture largely stable. He looks at the stars, and a deep knowledge begins to shine within him. Soft, cool moonlight filtering into a quiet library through a high window, casting long, peaceful shadows, meditative and insightful.",
+      "scene_visual": "The boy meditates in a secluded garden spot, his posture largely stable. He looks at the stars, and a deep knowledge begins to shine within him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sinhaasanam Nundi Durangaa Nadichina Rishabhudu, Rojulu Tarabadi Raajabhavana Granthaalayanlo Puraatana Granthaalanu Adhyayanam Cheshaadu. Atanu Taalapatra Granthaalanu Tipputunnappudu, Vaati Aakulu Mellagaa 'Garrr' Mani Shabdam Cheshaayi. Appudu Atanu Totaloni Ekaanta Pradeshaalalo Dhyaanam Chestu, Prapancha Baadhyatalaku Minchina Samaadhaanaala Kosam Vetikaadu. Atani Bhangima Chaalaavaraku Sthirangaa Undi, Kaani Atani Antarangam Maatram Ashaantito Vetukutondi. \"Shaanti Ekkada Daagi Undi?\" Ani Atanu Tanalo Taanu Anukunnaadu. Oka Saayantran, Nakshatraalanu Chustunnappudu — Lotaina Jnyaanam Atanilo Merisindi.",
+      "text_en": "After walking away from the throne, Rishabhudu spent many days studying old books in the royal library. As he turned the pages of the palm-leaf books, they made a soft 'rustling' sound. Then he meditated in quiet places in the garden, looking for answers that were bigger than his royal duties. His body was mostly still, but inside, his mind was searching without rest. \"Where is peace truly hidden?\" he asked himself. One evening, as he watched the stars — a deep and wise understanding came to him."
+    },
+    {
+      "id": 5,
+      "text": "ఆ లోతైన జ్ఞానం మెరిసిన తర్వాత, రిషభుడు తన తండ్రి నభి మహారాజు వద్దకు వెళ్ళి తన నిర్ణయాన్ని మెల్లగా వివరించాడు. అతని స్వరం ప్రశాంతంగా, స్థిరంగా ఉంది, తండ్రి మనసు గాయపడకూడదని జాగ్రత్త పడ్డాడు. \"నా నిజమైన రాజ్యం నా హృదయంలో ఉంది, తండ్రీ,\" అని అతను పలికాడు, తన కళ్ళల్లో లోతైన ప్రేమ కనిపించింది. రిషభుడు మాట్లాడటం ముగించగానే — ఒక నిశ్శబ్ద వాతావరణం అలుముకుంది, దూరంగా ఒక రాత్రి పక్షి అరుపు మాత్రమే వినబడింది. తండ్రి మనసులో దుఃఖం నిండిపోయింది, అయినా మహారాజు తన కొడుకు నిర్ణయాన్ని అర్థం చేసుకుంటూ మెల్లగా తల ఊపాడు.",
+      "image_prompt": "The boy gently explains his decision to his father, speaking with a calm and steady voice. Deep love is visible in his eyes as his father slowly nods in understanding. SUPPORTING CHARACTER also in this scene: king_nabhi — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Warm, flickering oil lamps casting soft, intimate light in a private chamber, creating deep shadows, reflective and emotional.",
+      "scene_visual": "The boy gently explains his decision to his father, speaking with a calm and steady voice. Deep love is visible in his eyes as his father slowly nods in understanding.",
+      "supporting_char_keys": [
+        "king_nabhi"
+      ],
+      "text_te_en": "Aa Lotaina Jnyaanam Merisina Tarvaata, Rishabhudu Tana Tandri Nabhi Mahaaraaju Vaddaku Velli Tana Nirnayaanni Mellagaa Vivarinchaadu. Atani Svaram Prashaantangaa, Sthirangaa Undi, Tandri Manasu Gaayapadakudadani Jaagratta Paddaadu. \"Naa Nijamaina Raajyam Naa Hrridayanlo Undi, Tandri,\" Ani Atanu Palikaadu, Tana Kallallo Lotaina Prema Kanipinchindi. Rishabhudu Maatlaadatam Muginchagaane — Oka Nishshabda Vaataavaranam Alumukundi, Durangaa Oka Raatri Pakshi Arupu Maatrame Vinabadindi. Tandri Manasulo Duhkham Nindipoyindi, Ayinaa Mahaaraaju Tana Koduku Nirnayaanni Artham Chesukuntu Mellagaa Tala Upaadu.",
+      "text_en": "After that wise understanding came to him, Rishabhudu went to his father, King Nabha Maharaja, and gently told him his decision. His voice was calm and steady, as he was careful not to make his father sad. \"My real kingdom is in my heart, Father,\" he said, with deep love shining in his eyes. As Rishabhudu finished speaking — a quiet silence filled the air, and only the call of a night bird could be heard far away. The father's heart was filled with sadness, but still, the King slowly nodded his head, understanding his son's choice."
+    },
+    {
+      "id": 6,
+      "text": "తండ్రి అంగీకారం తర్వాత, రిషభుడు తన రాజ దుస్తులను విడిచిపెట్టి, సాధారణ తెల్లని వస్త్రాలను ధరించాడు. అతని శరీరానికి మృదువైన పట్టుకు బదులు, గరుకైన వస్త్రం తగిలింది — అయినా అతని ముఖంలో ప్రశాంతత తొణికిసలాడింది. అతని అడుగులు తేలికగా ఉన్నాయి, ప్రతి అడుగులో ఒక గొప్ప సంకల్పం తొంగి చూసింది. \"నిజమైన స్వేచ్ఛ లోపల ఉంది,\" అని అతను మెల్లగా అనుకుంటూ, రాజభవనం ద్వారాల గుండా బయటికి నడిచాడు. ద్వారం వద్ద ఉన్న సైనికులు, అతని చుట్టూ ఉన్న దివ్యమైన తేజస్సును గుర్తించి — లోతుగా తల వంచి నమస్కరించారు.",
+      "image_prompt": "The boy walks out through the palace gates, dressed in simple white clothes. A serene expression is on his face, and a divine radiance surrounds him, causing the soldiers to bow deeply. The first golden rays of dawn breaking over the palace walls, illuminating Rishabha's path with a soft, hopeful glow, symbolic of a new beginning.",
+      "scene_visual": "The boy walks out through the palace gates, dressed in simple white clothes. A serene expression is on his face, and a divine radiance surrounds him, causing the soldiers to bow deeply.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tandri Angikaaram Tarvaata, Rishabhudu Tana Raaja Dustulanu Vidichipetti, Saadhaarana Tellani Vastraalanu Dharinchaadu. Atani Shariraaniki Mrriduvaina Pattuku Badulu, Garukaina Vastram Tagilindi — Ayinaa Atani Mukhanlo Prashaantata Tonikisalaadindi. Atani Adugulu Telikagaa Unnaayi, Prati Adugulo Oka Goppa Sankalpam Tongi Chusindi. \"Nijamaina Svechcha Lopala Undi,\" Ani Atanu Mellagaa Anukuntu, Raajabhavanam Dvaaraala Gundaa Bayatiki Nadichaadu. Dvaaram Vadda Unna Sainikulu, Atani Chuttu Unna Divyamaina Tejassunu Gurtinchi — Lotugaa Tala Vanchi Namaskarinchaaru.",
+      "text_en": "After his father agreed, Rishabhudu took off his royal clothes and put on simple white robes. Instead of soft silk, rough cloth touched his skin — but peace still shone on his face. His steps were light, and with each step, you could see a strong purpose. \"True freedom is found inside,\" he softly thought, as he walked out through the palace gates. The soldiers at the gate saw a special, peaceful glow around him — and bowed deeply."
+    },
+    {
+      "id": 7,
+      "text": "రాజభవనం నుండి బయటపడిన రిషభుడు, రాజ్యమంతా ప్రశాంతంగా ప్రయాణించాడు, ఎక్కువ మాట్లాడకుండా. అతని కాళ్ళ కింద ఇసుక, చిన్న గులకరాళ్లు మెత్తగా 'కర్ర్ర్' మని శబ్దం చేశాయి — ఆ శబ్దం ప్రకృతి సంగీతంలా అనిపించింది. అతని ప్రశాంతమైన ప్రవర్తన, దివ్యమైన చూపులు ప్రజలను తమ అంతర్గత శాంతి కోసం వెతుక్కోమని ప్రేరేపించాయి. అతని కళ్ళల్లో అపారమైన జ్ఞానం మెరిసింది, ప్రతి జీవి పట్ల కరుణ తొణికిసలాడింది. ఒక దారిలో వెళుతున్న వ్యక్తి, అతని దివ్యమైన ఆరాను గుర్తించి — \"ఓం శాంతి\" అని పలికాడు. రిషభుడు చిరునవ్వుతో ముందుకు సాగాడు, అతని హృదయంలో నిజమైన ప్రశాంతత నిండిపోయింది.",
+      "image_prompt": "The boy travels peacefully through the kingdom, walking on sand and small pebbles. His eyes shine with immense knowledge and compassion for every living being, as a passerby utters \"Om Shanti\". Warm, diffused afternoon light over a dusty path in a rural landscape, gentle and expansive, conveying a sense of quiet wisdom and journey.",
+      "scene_visual": "The boy travels peacefully through the kingdom, walking on sand and small pebbles. His eyes shine with immense knowledge and compassion for every living being, as a passerby utters \"Om Shanti\".",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajabhavanam Nundi Bayatapadina Rishabhudu, Raajyamantaa Prashaantangaa Prayaaninchaadu, Ekkuva Maatlaadakundaa. Atani Kaalla Kinda Isuka, Chinna Gulakaraallu Mettagaa 'Karrr' Mani Shabdam Cheshaayi — Aa Shabdam Prakrriti Sangitanlaa Anipinchindi. Atani Prashaantamaina Pravartana, Divyamaina Chupulu Prajalanu Tama Antargata Shaanti Kosam Vetukkomani Prerepinchaayi. Atani Kallallo Apaaramaina Jnyaanam Merisindi, Prati Jivi Patla Karuna Tonikisalaadindi. Oka Daarilo Velutunna Vyakti, Atani Divyamaina Aaraanu Gurtinchi — \"Om Shaanti\" Ani Palikaadu. Rishabhudu Chirunavvuto Munduku Saagaadu, Atani Hrridayanlo Nijamaina Prashaantata Nindipoyindi.",
+      "text_en": "After leaving the palace, Rishabhudu traveled peacefully all over the kingdom, not talking much. The sand and tiny pebbles under his feet made a soft 'crunching' sound — it sounded like nature's music. His calm way of being and his kind eyes made people want to find their own inner peace. Great wisdom shone in his eyes, and he felt deep kindness for every living thing. A person walking by, seeing his special peaceful glow — said, \"Om Shanti.\" Rishabhudu smiled and kept walking, his heart full of true peace."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king_nabhi",
+      "description": "A wise and benevolent king with a dignified bearing and a kind face, his hair streaked with silver. He wears royal garments in deep blue and gold, with a jeweled crown. He carries a golden scepter. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 6.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 4,
+    "average": 6.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and flawless grammar, showcasing a strong foundation. However, its formal, descriptive prose and philosophical themes make it unsuitable for a young audience, lacking the warmth and direct engagement of a bedtime story. To achieve a 9+, the most critical change is to completely re-imagine the voice, incorporating direct child address, more vivid and relatable actions, and a conversational tone that feels like a grandparent speaking, rather than a written report."
+  },
+  "quality_warning": true,
+  "title_te_en": "Manasulo Shaanti",
+  "moral_te_en": "Nijamaina Aanandan, Prashaantata Ekkado Bayata Kaadu, Mana Lopale Daagi Untaayani Chushaavaa?",
+  "title_en": "Peace in the Heart",
+  "moral_en": "Did you see that true happiness and peace aren't found somewhere outside, but are hidden deep within us?",
+  "id": "20260601_191250",
+  "date": "2026-06-01",
+  "category": "bhagavatam",
+  "subcategory": "avatara_kathas",
+  "topic": "ఋషభ అవతారం - అంతర్గత శాంతి మార్గం",
+  "thumbnail": "stories/20260601_191250/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
