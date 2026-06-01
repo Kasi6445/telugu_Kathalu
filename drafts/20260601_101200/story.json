@@ -1,0 +1,89 @@
+{
+  "title": "మండోదరి మాట, రావణుడి మౌనం",
+  "moral": "నిజమైన బలం తెలివిలో, వినయంలో ఉంటుంది కానీ అహంకారంలో, అధికారం చూపడంలో కాదు.",
+  "main_character": "Mandodari: A graceful queen with a fair complexion and long dark hair, adorned with royal jewels and fine silk garments. Her expression is often serene but carries a deep wisdom and concern for righteousness. Always the same character across every scene.",
+  "antagonist": "Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene.",
+  "setting": "The opulent city of Lanka, with its golden palaces and lush gardens, situated on a mountain surrounded by the sea. The scenes will move between the royal chambers, the throne room, and a quiet garden. Time of day varies as per scene. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లంక స్వర్ణ సౌధాలలో, మండోదరి తన విశాలమైన గదిలో నిలబడి, దూరం నుంచి వినిపిస్తున్న రావణుడి విజయోత్సవ నవ్వులను వింటోంది. ఆయన విజయాల గురించి గర్వంగా మాట్లాడుతుంటే, ఆమె నుదిటిపై ఒక మెల్లని చింత ముడిపడింది — ఆయన అహంకారం ఎంతగా పెరిగిపోతుందో అని. ఆమె గుండెలో ఒక బాధ, ఒక భయం మెల్లగా చొచ్చుకుపోతూ ఉన్నాయి. ఆమె మెల్లగా పెదవులు కదిపింది: \"ఈ అహంకారం మన లంకకు మంచిది కాదు, నాథా.\" రావణుడు తన రాజ్యసభలో గంభీరంగా నవ్వుతూ, ఆమెకు తెలియకుండానే, ఆమె మాటలను పట్టించుకోలేదు.",
+      "image_prompt": "The woman stands in her spacious room, listening to the triumphant laughter of the man echoing from a distance. A gentle furrow of worry creases her brow as she softly moves her lips to speak. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. Soft, warm afternoon light filtering through intricate lattice work into Mandodari's private chambers, casting long, peaceful shadows.",
+      "scene_visual": "The woman stands in her spacious room, listening to the triumphant laughter of the man echoing from a distance. A gentle furrow of worry creases her brow as she softly moves her lips to speak.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lanka Svarna Saudhaalalo, Mandodari Tana Vishaalamaina Gadilo Nilabadi, Duram Nunchi Vinipistunna Raavanudi Vijayotsava Navvulanu Vintondi. Aayana Vijayaala Gurinchi Garvangaa Maatlaadutunte, Aame Nuditipai Oka Mellani Chinta Mudipadindi — Aayana Ahankaaram Entagaa Perigipotundo Ani. Aame Gundelo Oka Baadha, Oka Bhayam Mellagaa Chochchukupotu Unnaayi. Aame Mellagaa Pedavulu Kadipindi: \"I Ahankaaram Mana Lankaku Manchidi Kaadu, Naathaa.\" Raavanudu Tana Raajyasabhalo Gambhirangaa Navvutu, Aameku Teliyakundaane, Aame Maatalanu Pattinchukoledu.",
+      "text_en": "In the golden palaces of Lanka, Mandodari stood in her spacious room, listening to Ravana's triumphant laughter echoing from afar. As he spoke proudly of his victories, a soft worry creased her brow — about how much his arrogance was growing. A pain, a fear, slowly crept into her heart. She softly moved her lips: \"This arrogance is not good for our Lanka, my Lord.\" Ravana, laughing grandly in his royal court, unknowingly ignored her words."
+    },
+    {
+      "id": 2,
+      "text": "సీతాదేవిని అపహరించిన తర్వాత, రావణుడు తన శక్తిని గురించి గొప్పలు చెప్పుకుంటూ సభలో కూర్చున్నాడు. \"నా బలానికి సాటి లేదు, మండోదరి!\" అని గర్వంగా పలికాడు. లంక ప్యాలెస్ తోటల నుండి వీస్తున్న మల్లెలు, సంపంగి పూల ఘాటైన సువాసన ఆ ఉద్రిక్తతను మరింత పెంచింది. మండోదరి చేతులు జోడించి, కళ్ళు స్థిరంగా పెట్టి, ఆయనను దీనంగా చూసింది. \"ధర్మాన్ని విడిచిన అధికారం నిలబడదు, నాథా,\" అని ఆమె గొంతులో ఆర్తి వినిపించింది. కానీ రావణుడు తన పది తలలు కొద్దిగా కదిపి, ఆమె మాటలను అస్సలు పట్టించుకోకుండా అక్కడి నుండి వెళ్ళిపోయాడు.",
+      "image_prompt": "The woman stands with her hands pressed together in supplication, gazing fixedly and piteously at the man. The man slightly shakes his ten heads, completely disregarding her words as he turns away. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. Bright, clear morning light flooding the open-air royal courtyard where Ravana addresses his court, highlighting the vibrant colors of his attire.",
+      "scene_visual": "The woman stands with her hands pressed together in supplication, gazing fixedly and piteously at the man. The man slightly shakes his ten heads, completely disregarding her words as he turns away.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sitaadevini Apaharinchina Tarvaata, Raavanudu Tana Shaktini Gurinchi Goppalu Cheppukuntu Sabhalo Kurchunnaadu. \"Naa Balaaniki Saati Ledu, Mandodari!\" Ani Garvangaa Palikaadu. Lanka Pyaales Totala Nundi Vistunna Mallelu, Sampangi Pula Ghaataina Suvaasana Aa Udriktatanu Marinta Penchindi. Mandodari Chetulu Jodinchi, Kallu Sthirangaa Petti, Aayananu Dinangaa Chusindi. \"Dharmaanni Vidichina Adhikaaram Nilabadadu, Naathaa,\" Ani Aame Gontulo Aarti Vinipinchindi. Kaani Raavanudu Tana Padi Talalu Koddigaa Kadipi, Aame Maatalanu Assalu Pattinchukokundaa Akkadi Nundi Vellipoyaadu.",
+      "text_en": "After abducting Sita, Ravana sat in his court, boasting about his power. \"There is no equal to my strength, Mandodari!\" he declared proudly. The strong scent of jasmine and champak flowers wafting from Lanka's palace gardens only heightened the tension. Mandodari joined her hands, her eyes fixed, looking at him pleadingly. \"Power that abandons righteousness will not last, my Lord,\" her voice pleaded. But Ravana moved his ten heads slightly and walked away, completely ignoring her words."
+    },
+    {
+      "id": 3,
+      "text": "లంక నగరంలో హనుమంతుడు సృష్టించిన విధ్వంసం వార్తలు రావణుడి చెవుల్లో పడ్డాయి. నగరం నుండి వినిపిస్తున్న రాళ్ళ కూలిపోవడం, చెక్కలు విరిగిపోవడం వంటి అశుభ శబ్దాలు గాలిలో వినిపిస్తున్నాయి. \"ఒక్క కోతి నా లంకను ఏమి చేయగలదు?\" అని రావణుడు ఆగ్రహంగా అన్నాడు. మండోదరి గొంతులో ఒక వణుకు మొదలైంది, అయినా ఆమె ధైర్యం కోల్పోలేదు. \"ఈ అశుభాలు రాబోయే వినాశనానికి సంకేతాలు, నాథా!\" అని ఆమె హెచ్చరించింది. రావణుడు తన సింహాసనంపై పిడికిలి బిగించి కొట్టాడు — ఆయన కళ్ళు కోపంతో మెరిసిపోయాయి, ఆమె చెప్పిన నిజాలను అంగీకరించడానికి ఆయన మనసు నిరాకరించింది.",
+      "image_prompt": "The man slams his clenched fist onto his throne in a fit of rage. His eyes gleam with fury, refusing to acknowledge the truth in the woman's trembling voice. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. The throne room, now darker and more ominous, with heavy shadows cast by the large pillars, reflecting the gravity of the situation.",
+      "scene_visual": "The man slams his clenched fist onto his throne in a fit of rage. His eyes gleam with fury, refusing to acknowledge the truth in the woman's trembling voice.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lanka Nagaranlo Hanumantudu Srrishtinchina Vidhvansam Vaartalu Raavanudi Chevullo Paddaayi. Nagaram Nundi Vinipistunna Raalla Kulipovadan, Chekkalu Virigipovadam Vanti Ashubha Shabdaalu Gaalilo Vinipistunnaayi. \"Okka Koti Naa Lankanu Emi Cheyagaladu?\" Ani Raavanudu Aagrahangaa Annaadu. Mandodari Gontulo Oka Vanuku Modalaindi, Ayinaa Aame Dhairyam Kolpoledu. \"I Ashubhaalu Raaboye Vinaashanaaniki Sanketaalu, Naathaa!\" Ani Aame Hechcharinchindi. Raavanudu Tana Sinhaasanampai Pidikili Biginchi Kottaadu — Aayana Kallu Kopanto Merisipoyaayi, Aame Cheppina Nijaalanu Angikarinchadaaniki Aayana Manasu Niraakarinchindi.",
+      "text_en": "News of the destruction caused by Hanuman in the city of Lanka reached Ravana's ears. Ominous sounds of crumbling stones and breaking wood echoed from the city. \"What can one monkey do to my Lanka?\" Ravana said angrily. A tremor began in Mandodari's voice, yet she did not lose courage. \"These bad omens are signs of coming destruction, my Lord!\" she warned. Ravana slammed his fist on his throne — his eyes gleamed with anger, his mind refused to accept the truths she spoke."
+    },
+    {
+      "id": 4,
+      "text": "లంక వీరులు, రావణుడి ప్రియమైన కుమారులు యుద్ధంలో నేలకొరిగారన్న వార్తలు మండోదరి హృదయాన్ని చీల్చివేశాయి. ప్యాలెస్ అంతఃపురాల నుండి ఆడవారి రోదనలు వినిపిస్తూ, ఆ విషాదాన్ని మరింత పెంచాయి. ఆమె కళ్ళ నుండి కన్నీరు ధారగా కారింది, గొంతు పూడుకుపోయింది. అయినా ఆమె ధైర్యం కూడదీసుకుని, \"మన వంశం నాశనం అవుతుంది, నాథా! దయచేసి ధర్మాన్ని అనుసరించండి!\" అని వేడుకుంది. రావణుడు ఆమె వైపు చూడకుండా, ముఖం బాధతో నిండినా, తన దవడలను బిగబట్టాడు — ఆయన అహంకారం ఆమె మాట విననివ్వలేదు.",
+      "image_prompt": "Tears stream from the woman's eyes as she chokes out a desperate plea. The man clenches his jaw tightly, his face filled with sorrow, yet he avoids looking at her. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. Dim, somber light in a private chamber, perhaps lit by a single oil lamp, casting long, flickering shadows that deepen the sense of despair.",
+      "scene_visual": "Tears stream from the woman's eyes as she chokes out a desperate plea. The man clenches his jaw tightly, his face filled with sorrow, yet he avoids looking at her.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lanka Virulu, Raavanudi Priyamaina Kumaarulu Yuddhanlo Nelakorigaaranna Vaartalu Mandodari Hrridayaanni Chilchiveshaayi. Pyaales Antahpuraala Nundi Aadavaari Rodanalu Vinipistu, Aa Vishaadaanni Marinta Penchaayi. Aame Kalla Nundi Kanniru Dhaaragaa Kaarindi, Gontu Pudukupoyindi. Ayinaa Aame Dhairyam Kudadisukuni, \"Mana Vansham Naashanam Avutundi, Naathaa! Dayachesi Dharmaanni Anusarinchandi!\" Ani Vedukundi. Raavanudu Aame Vaipu Chudakundaa, Mukham Baadhato Nindinaa, Tana Davadalanu Bigabattaadu — Aayana Ahankaaram Aame Maata Vinanivvaledu.",
+      "text_en": "News that Lanka's warriors and Ravana's beloved sons had fallen in battle tore Mandodari's heart. The cries of women from the palace chambers echoed, adding to the sorrow. Tears streamed from her eyes, her throat choked. Yet, she gathered her courage and pleaded, \"Our lineage will be destroyed, my Lord! Please follow righteousness!\" Ravana, without looking at her, his face filled with pain, clenched his jaw — his arrogance would not let him listen to her words."
+    },
+    {
+      "id": 5,
+      "text": "ఆ గదిలోని గాలి ఒక్కసారిగా బరువెక్కింది, ఏదో అదృశ్య శక్తితో నిండినట్టు అనిపించింది. మండోదరి శరీరంలో ఒక వణుకు మొదలైనా, ఆమె లోపల నుండి ఒక ప్రశాంతమైన శక్తి వెలువడింది. దివ్యమైన జ్ఞానం ఆమె మనసులోకి ప్రవేశించింది. \"రాముని బాణం నీ అహంకారాన్ని అంతం చేస్తుంది, నాథా! అది దైవ నిర్ణయం!\" అని ఆమె ధైర్యంగా పలికింది. రావణుడు ఆ మాటలు విని, తీవ్రమైన నిరాశతో పెద్దగా గర్జించాడు — ఆయన పది తలలు హింసాత్మకంగా కదిలాయి, ఆమె చెప్పిన జ్ఞానాన్ని ఆయన పూర్తిగా తోసిపుచ్చాడు.",
+      "image_prompt": "The woman bravely declares a divine prophecy, despite a tremor running through her body. The man lets out a mighty roar of despair, his ten heads violently shaking as he rejects her wisdom. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. A sudden, fleeting flash of golden light seems to emanate from Mandodari as she speaks, briefly illuminating the dark chamber before fading, leaving Ravana in stark shadow.",
+      "scene_visual": "The woman bravely declares a divine prophecy, despite a tremor running through her body. The man lets out a mighty roar of despair, his ten heads violently shaking as he rejects her wisdom.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Gadiloni Gaali Okkasaarigaa Baruvekkindi, Edo Adrrishya Shaktito Nindinattu Anipinchindi. Mandodari Shariranlo Oka Vanuku Modalainaa, Aame Lopala Nundi Oka Prashaantamaina Shakti Veluvadindi. Divyamaina Jnyaanam Aame Manasuloki Praveshinchindi. \"Raamuni Baanam Ni Ahankaaraanni Antam Chestundi, Naathaa! Adi Daiva Nirnayan!\" Ani Aame Dhairyangaa Palikindi. Raavanudu Aa Maatalu Vini, Tivramaina Niraashato Peddagaa Garjinchaadu — Aayana Padi Talalu Hinsaatmakangaa Kadilaayi, Aame Cheppina Jnyaanaanni Aayana Purtigaa Tosipuchchaadu.",
+      "text_en": "The air in the room suddenly grew heavy, as if filled with an unseen power. Though a tremor began in Mandodari's body, a calm strength emerged from within her. Divine wisdom entered her mind. \"Rama's arrow will end your arrogance, my Lord! It is divine will!\" she declared bravely. Hearing those words, Ravana roared loudly in deep despair — his ten heads shook violently, he completely rejected the wisdom she spoke."
+    },
+    {
+      "id": 6,
+      "text": "యుద్ధం ముగిసింది. రావణుడు అదృశ్యమయ్యాడు. మండోదరి ప్యాలెస్ బాల్కనీలో నిలబడి, దూరంగా నిశ్శబ్దంగా ఉన్న యుద్ధభూమిని చూస్తోంది. సముద్రపు చల్లని గాలిలో, ఒక ఒంటరి పక్షి చేసే విషాదకరమైన అరుపు వినిపించింది. ఆమె కళ్ళ నుండి ఒకే ఒక కన్నీటి చుక్క మెల్లగా కిందికి జారింది, కానీ ఆమె చూపు స్థిరంగా ఉంది. ఆమె మనసులో ఒక శాంతమైన అంగీకారం నిండింది. \"ధర్మమే ఎల్లప్పుడూ గెలుస్తుంది, నాథా,\" అని ఆమె గుసగుసలాడింది. ఆ క్షణంలో, న్యాయం జరిగింది.",
+      "image_prompt": "The woman stands on the palace balcony, gazing steadily at the distant, silent battlefield. A single tear slowly rolls down her cheek, reflecting a calm acceptance in her eyes. Gentle dusk light, warm amber, painting the palace balcony and the distant horizon with hues of orange and purple, signifying the end of an era and a quiet, dignified peace.",
+      "scene_visual": "The woman stands on the palace balcony, gazing steadily at the distant, silent battlefield. A single tear slowly rolls down her cheek, reflecting a calm acceptance in her eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Yuddham Mugisindi. Raavanudu Adrrishyamayyaadu. Mandodari Pyaales Baalkanilo Nilabadi, Durangaa Nishshabdangaa Unna Yuddhabhumini Chustondi. Samudrapu Challani Gaalilo, Oka Ontari Pakshi Chese Vishaadakaramaina Arupu Vinipinchindi. Aame Kalla Nundi Oke Oka Kanniti Chukka Mellagaa Kindiki Jaarindi, Kaani Aame Chupu Sthirangaa Undi. Aame Manasulo Oka Shaantamaina Angikaaram Nindindi. \"Dharmame Ellappudu Gelustundi, Naathaa,\" Ani Aame Gusagusalaadindi. Aa Kshananlo, Nyaayam Jarigindi.",
+      "text_en": "The war ended. Ravana was gone. Mandodari stood on the palace balcony, looking at the silent battlefield in the distance. In the cool sea breeze, the sad cry of a lonely bird was heard. A single tear slowly rolled down from her eyes, but her gaze was steady. A peaceful acceptance filled her mind. \"Righteousness always wins, my Lord,\" she whispered. In that moment, justice was done."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 6.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 4,
+    "average": 6.67,
+    "weakest_dimension": "child_engagement",
+    "notes": "The story demonstrates excellent grammar and a clear, well-structured narrative arc. However, its formal, descriptive prose and lack of direct engagement techniques make it unsuitable for a young child's attention span. To significantly improve, the story needs to adopt a more conversational tone, incorporate direct child address, and simplify its language to create a more immediate and captivating experience for a 6-year-old."
+  },
+  "quality_warning": true,
+  "title_te_en": "Mandodari Maata, Raavanudi Maunam",
+  "moral_te_en": "Nijamaina Balam Telivilo, Vinayanlo Untundi Kaani Ahankaaranlo, Adhikaaram Chupadanlo Kaadu.",
+  "title_en": "Mandodari's Words, Ravana's Silence",
+  "moral_en": "True strength lies in wisdom and humility, not in arrogance and showing off power.",
+  "id": "20260601_101200",
+  "date": "2026-06-01",
+  "category": "ramayana",
+  "subcategory": "devotion_tales",
+  "topic": "మండోదరి జ్ఞానోపదేశం - రావణుని అహంకారం",
+  "thumbnail": "stories/20260601_101200/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
