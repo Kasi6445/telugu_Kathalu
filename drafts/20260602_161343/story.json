@@ -1,0 +1,114 @@
+{
+  "title": "గుడ్లగూబ జ్ఞానం, మిణుగురు వెలుగు",
+  "moral": "తెలివైనవారైనా, చిన్నవారి నుండి కూడా మనం ఎన్నో కొత్త విషయాలు నేర్చుకోవచ్చు.",
+  "main_character": "An old, large owl with bright, perceptive yellow eyes and fluffy grey-brown feathers, always perched upright on the highest branch. He is known throughout the forest for his supposed boundless wisdom, making him quite pompous and dismissive of others' knowledge. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A dense, ancient forest near the Godavari River in Andhra Pradesh, filled with towering banyan trees, thick green undergrowth, and the gentle gurgle of a hidden stream. The air is always thick with the scent of damp earth and blooming night-jasmine. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పెద్ద గుడ్లగూబ, తన మెరిసే పసుపు కళ్ళతో, అడవిలోని ఎత్తైన మర్రి కొమ్మపై గంభీరంగా కూర్చుని ఉంది. తన రొమ్మును గర్వంగా ఉబ్బించి, చిన్న జంతువుల వైపు చూస్తూ, తన గొప్పదనాన్ని ప్రదర్శించింది. తన గొంతును సవరించుకుని, \"జ్ఞానం అంటే కేవలం పుస్తకాల్లోనే ఉండదు, కానీ నా మాట వింటే సరైన మార్గం దొరుకుతుంది,\" అని గంభీరంగా చెప్పింది. ఒక చిన్న ఎలుక, సలహా విన్న తర్వాత, ఎండుటాకులు కదులుతూ పరుగున వెళ్ళిపోయింది. చీకటి మూలల్లో దాగి ఉన్న ఒక మిణుగురు పురుగు, గుడ్లగూబ మాటలను శ్రద్ధగా వింటూ — తన వెలుగును మరింత అదుముకుంది.",
+      "image_prompt": "A large owl sits majestically on a high banyan branch, puffing out its chest and looking towards small animals. Its shining yellow eyes gaze proudly as it clears its throat to speak. Soft, fading twilight filtering through dense leaves, casting long, purple shadows, making the owl's eyes glow faintly.",
+      "scene_visual": "A large owl sits majestically on a high banyan branch, puffing out its chest and looking towards small animals. Its shining yellow eyes gaze proudly as it clears its throat to speak.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pedda Gudlaguba, Tana Merise Pasupu Kallato, Adaviloni Ettaina Marri Kommapai Gambhirangaa Kurchuni Undi. Tana Rommunu Garvangaa Ubbinchi, Chinna Jantuvula Vaipu Chustu, Tana Goppadanaanni Pradarshinchindi. Tana Gontunu Savarinchukuni, \"Jnyaanam Ante Kevalam Pustakaallone Undadu, Kaani Naa Maata Vinte Saraina Maargam Dorukutundi,\" Ani Gambhirangaa Cheppindi. Oka Chinna Eluka, Salahaa Vinna Tarvaata, Endutaakulu Kadulutu Paruguna Vellipoyindi. Chikati Mulallo Daagi Unna Oka Minuguru Purugu, Gudlaguba Maatalanu Shraddhagaa Vintu — Tana Velugunu Marinta Adumukundi.",
+      "text_en": "A large owl, with its gleaming yellow eyes, sat majestically on a high banyan branch in the forest. It puffed out its chest proudly, looking at the smaller animals, showcasing its greatness. Clearing its throat, it solemnly declared, \"Wisdom isn't just found in books, but if you listen to my words, you will find the right path.\" A small mouse, after hearing the advice, scurried away, rustling the dry leaves. Hidden in the dark corners, a firefly listened carefully to the owl's words — dimming its own light even more."
+    },
+    {
+      "id": 2,
+      "text": "గుడ్లగూబ మాటలు విన్న మిణుగురు పురుగు, తన చీకటి మూలలో నుండి బయటకు రావాలని నిశ్చయించుకుంది. దాని చిన్న వెలుగు భయం, ఉత్సాహం కలగలిసి మరింత వేగంగా కొట్టుకుంది. \"అంత జ్ఞానం ఉన్న గుడ్లగూబకి నా చిన్న సందేహానికి సమాధానం తెలిసే ఉంటుంది,\" అని తనలో తాను గట్టిగా అనుకుంది. సాయంత్రపు గాలిలో, మిణుగురు పురుగు చుట్టూ క్రికెట్ల సన్నటి సవ్వడి నిండిపోయింది. ఆ చిన్నారి మిణుగురు పురుగు — తన ధైర్యాన్ని కూడదీసుకుని, మెల్లగా, మెరుస్తూ గుడ్లగూబ వైపు ప్రయాణం మొదలుపెట్టింది.",
+      "image_prompt": "A small firefly, gathering its courage, slowly begins to travel towards the owl. Its tiny light pulses faster, a mix of fear and excitement, as it moves through the evening air filled with cricket sounds. Deep blue dusk, with the first stars appearing, the firefly's faint glow a tiny beacon against the darkening forest.",
+      "scene_visual": "A small firefly, gathering its courage, slowly begins to travel towards the owl. Its tiny light pulses faster, a mix of fear and excitement, as it moves through the evening air filled with cricket sounds.",
+      "supporting_char_keys": [
+        "firefly"
+      ],
+      "text_te_en": "Gudlaguba Maatalu Vinna Minuguru Purugu, Tana Chikati Mulalo Nundi Bayataku Raavaalani Nishchayinchukundi. Daani Chinna Velugu Bhayan, Utsaaham Kalagalisi Marinta Vegangaa Kottukundi. \"Anta Jnyaanam Unna Gudlagubaki Naa Chinna Sandehaaniki Samaadhaanam Telise Untundi,\" Ani Tanalo Taanu Gattigaa Anukundi. Saayantrapu Gaalilo, Minuguru Purugu Chuttu Kriketla Sannati Savvadi Nindipoyindi. Aa Chinnaari Minuguru Purugu — Tana Dhairyaanni Kudadisukuni, Mellagaa, Merustu Gudlaguba Vaipu Prayaanam Modalupettindi.",
+      "text_en": "Hearing the owl's words, the firefly decided to come out from its dark corner. Its tiny light pulsed faster, a mix of fear and excitement. \"Surely, an owl with so much wisdom will know the answer to my small question,\" it thought to itself, quite loudly. In the evening breeze, the soft chirping of crickets filled the air around the firefly. The little firefly — gathering its courage, slowly and brightly, began its journey towards the owl."
+    },
+    {
+      "id": 3,
+      "text": "ఆ చిన్న మిణుగురు పురుగు, గుడ్లగూబ కొమ్మ దగ్గరకు చేరి, దాని రెక్కలు మెల్లగా రెపరెపలాడాయి. గుడ్లగూబ మొదట ఆశ్చర్యంతో కళ్ళు పెద్దవి చేసి, దాని వైపు చూసింది — దాని ఈకలు కొద్దిగా కదిలాయి. \"గుడ్లగూబ మామా, నా వెలుగు ఎక్కడ నుండి వస్తుంది?\" అని మిణుగురు పురుగు ధైర్యంగా అడిగింది, దాని వెలుగు స్థిరంగా ప్రకాశిస్తూ. ఆ క్షణంలో అడవి అంతా — ఒక్కసారిగా నిశ్శబ్దమైపోయింది. గుడ్లగూబ తన గొంతును సవరించుకుంది, ఒక అసాధారణమైన అపనమ్మకం దాని కళ్ళలో మెరిసింది.",
+      "image_prompt": "The small firefly reaches the owl's branch, its wings gently fluttering as it asks a question. The owl's eyes widen in surprise, its feathers slightly moving, as a flicker of disbelief appears in its gaze. Early night, moon peeking through branches, casting dappled silver light, highlighting the owl's perturbed expression.",
+      "scene_visual": "The small firefly reaches the owl's branch, its wings gently fluttering as it asks a question. The owl's eyes widen in surprise, its feathers slightly moving, as a flicker of disbelief appears in its gaze.",
+      "supporting_char_keys": [
+        "firefly"
+      ],
+      "text_te_en": "Aa Chinna Minuguru Purugu, Gudlaguba Komma Daggaraku Cheri, Daani Rekkalu Mellagaa Reparepalaadaayi. Gudlaguba Modata Aashcharyanto Kallu Peddavi Chesi, Daani Vaipu Chusindi — Daani Ikalu Koddigaa Kadilaayi. \"Gudlaguba Maamaa, Naa Velugu Ekkada Nundi Vastundi?\" Ani Minuguru Purugu Dhairyangaa Adigindi, Daani Velugu Sthirangaa Prakaashistu. Aa Kshananlo Adavi Antaa — Okkasaarigaa Nishshabdamaipoyindi. Gudlaguba Tana Gontunu Savarinchukundi, Oka Asaadhaaranamaina Apanammakam Daani Kallalo Merisindi.",
+      "text_en": "The small firefly reached the owl's branch, its wings gently fluttering. The owl first widened its eyes in surprise, looking at it — its feathers ruffled slightly. \"Uncle Owl, where does my light come from?\" the firefly bravely asked, its light shining steadily. In that moment, the entire forest — suddenly fell silent. The owl cleared its throat, an unusual disbelief glinting in its eyes."
+    },
+    {
+      "id": 4,
+      "text": "మిణుగురు పురుగు అడిగిన ప్రశ్నకు జవాబు దొరకని గుడ్లగూబ, రాత్రంతా అడవిని గాలించింది. \"ఇంత చిన్న విషయమా? నాకు తెలియకుండా ఎలా ఉంటుంది?\" అని తనలో తాను గొణుక్కుంటూ, దాని ప్రశాంతమైన ఎగిరే విధానం మారిపోయింది — రెక్కలు గట్టిగా కొట్టుకున్నాయి. మర్రి చెట్ల గుండా అది ఎగిరినప్పుడు, దాని రెక్కల మెత్తని 'హూష్' శబ్దం మాత్రమే వినిపించింది. పాత గూళ్ళను వెతికింది, ఇతర మిణుగురు పురుగులను పరిశీలించింది, కానీ ఎక్కడా — ఆ ప్రశ్నకు జవాబు దొరకలేదు. చివరికి, చిందరవందరైన ఈకలతో, ఆ గుడ్లగూబ తిరిగి తన కొమ్మపైకి చేరింది.",
+      "image_prompt": "The owl frantically searches the forest all night, its wings beating hard as it flies through the banyan trees. Its soft 'whoosh' sound is the only thing heard as it mutters to itself, unable to find an answer. Deep, inky black night, with only the distant, tiny pinpricks of firefly lights and the occasional glint off the owl's frustrated eyes.",
+      "scene_visual": "The owl frantically searches the forest all night, its wings beating hard as it flies through the banyan trees. Its soft 'whoosh' sound is the only thing heard as it mutters to itself, unable to find an answer.",
+      "supporting_char_keys": [],
+      "text_te_en": "Minuguru Purugu Adigina Prashnaku Javaabu Dorakani Gudlaguba, Raatrantaa Adavini Gaalinchindi. \"Inta Chinna Vishayamaa? Naaku Teliyakundaa Elaa Untundi?\" Ani Tanalo Taanu Gonukkuntu, Daani Prashaantamaina Egire Vidhaanam Maaripoyindi — Rekkalu Gattigaa Kottukunnaayi. Marri Chetla Gundaa Adi Egirinappudu, Daani Rekkala Mettani 'Hush' Shabdam Maatrame Vinipinchindi. Paata Gullanu Vetikindi, Itara Minuguru Purugulanu Parishilinchindi, Kaani Ekkadaa — Aa Prashnaku Javaabu Dorakaledu. Chivariki, Chindaravandaraina Ikalato, Aa Gudlaguba Tirigi Tana Kommapaiki Cherindi.",
+      "text_en": "Unable to find an answer to the firefly's question, the owl searched the forest all night. \"Such a small thing? How could I not know?\" it grumbled to itself, its calm flying style changing — its wings beat harder. As it flew through the banyan trees, only the soft 'whoosh' sound of its wings could be heard. It searched old nests, observed other fireflies, but nowhere — could it find the answer to that question. Finally, with ruffled feathers, the owl returned to its branch."
+    },
+    {
+      "id": 5,
+      "text": "గుడ్లగూబ నిరాశను గమనించిన మిణుగురు పురుగు, తిరిగి దాని దగ్గరకు వచ్చింది. దాని వెలుగు స్థిరంగా, ఓదార్పునిచ్చేలా వెలిగింది. \"గుడ్లగూబ మామా, మీకు తెలియకపోతే నేను చూపించగలను,\" అని అది మెల్లగా అంది. గుడ్లగూబ తన చూపును పక్కకు తిప్పుకుంది, దాని గర్వం ఇంకా పూర్తిగా తగ్గలేదు. పొద్దున పూట, మంచు బిందువులున్న ఆకుల నుండి లేత వాసన వస్తుంది. ఆ క్షణం — గుడ్లగూబ గర్వం కొద్దిగా వంగింది. ఒక క్షణం మౌనం తర్వాత, గుడ్లగూబ నెమ్మదిగా తల ఊపింది.",
+      "image_prompt": "The firefly approaches the owl again, its light shining steadily and reassuringly. After a moment of silence, the owl slowly nods its head, its pride slightly bent. Pre-dawn grey, light mist hanging low, softening the edges of the trees, a quiet, expectant atmosphere.",
+      "scene_visual": "The firefly approaches the owl again, its light shining steadily and reassuringly. After a moment of silence, the owl slowly nods its head, its pride slightly bent.",
+      "supporting_char_keys": [
+        "firefly"
+      ],
+      "text_te_en": "Gudlaguba Niraashanu Gamaninchina Minuguru Purugu, Tirigi Daani Daggaraku Vachchindi. Daani Velugu Sthirangaa, Odaarpunichchelaa Veligindi. \"Gudlaguba Maamaa, Miku Teliyakapote Nenu Chupinchagalanu,\" Ani Adi Mellagaa Andi. Gudlaguba Tana Chupunu Pakkaku Tippukundi, Daani Garvam Inkaa Purtigaa Taggaledu. Podduna Puta, Manchu Binduvulunna Aakula Nundi Leta Vaasana Vastundi. Aa Kshanam — Gudlaguba Garvam Koddigaa Vangindi. Oka Kshanam Maunam Tarvaata, Gudlaguba Nemmadigaa Tala Upindi.",
+      "text_en": "Noticing the owl's disappointment, the firefly came back to it. Its light shone steadily, comfortingly. \"Uncle Owl, if you don't know, I can show you,\" it said softly. The owl turned its gaze away, its pride not yet fully diminished. In the morning, a gentle scent rose from the dew-kissed leaves. In that moment — the owl's pride bent a little. After a moment of silence, the owl slowly nodded its head."
+    },
+    {
+      "id": 6,
+      "text": "మిణుగురు పురుగు, గుడ్లగూబను ఒక రహస్యమైన మైదానంలోకి నడిపించింది, అక్కడ వందలాది మిణుగురు పురుగులు కలిసి మెరుస్తున్నాయి. ఆ దృశ్యాన్ని చూసిన గుడ్లగూబ కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి — దాని గంభీరమైన భంగిమ సడలిపోయింది. వందలాది చిన్న రెక్కల మెత్తని, కలసికట్టుగా వచ్చే 'హుమ్' శబ్దం, దూరం నుండి వచ్చే సంగీతంలా వినిపించింది. \"ఇది మా సహజమైన వెలుగు, మా గుండెల్లో నుంచే వస్తుంది!\" అని మిణుగురు పురుగు ఆనందంగా చెప్పింది. ఆ వెలుగు — గుడ్లగూబ కళ్ళలో ప్రతిబింబించింది.",
+      "image_prompt": "The firefly leads the owl to a mysterious field where hundreds of fireflies are glowing together. The owl's eyes widen in astonishment, its majestic posture relaxing as the collective hum of tiny wings sounds like distant music. A magical, dark clearing, illuminated solely by the pulsating, soft green and yellow lights of hundreds of fireflies, creating a living, glowing tapestry.",
+      "scene_visual": "The firefly leads the owl to a mysterious field where hundreds of fireflies are glowing together. The owl's eyes widen in astonishment, its majestic posture relaxing as the collective hum of tiny wings sounds like distant music.",
+      "supporting_char_keys": [
+        "firefly"
+      ],
+      "text_te_en": "Minuguru Purugu, Gudlagubanu Oka Rahasyamaina Maidaananloki Nadipinchindi, Akkada Vandalaadi Minuguru Purugulu Kalisi Merustunnaayi. Aa Drrishyaanni Chusina Gudlaguba Kallu Aashcharyanto Peddavayyaayi — Daani Gambhiramaina Bhangima Sadalipoyindi. Vandalaadi Chinna Rekkala Mettani, Kalasikattugaa Vachche 'Hum' Shabdan, Duram Nundi Vachche Sangitanlaa Vinipinchindi. \"Idi Maa Sahajamaina Velugu, Maa Gundello Nunche Vastundi!\" Ani Minuguru Purugu Aanandangaa Cheppindi. Aa Velugu — Gudlaguba Kallalo Pratibimbinchindi.",
+      "text_en": "The firefly led the owl to a secret meadow, where hundreds of fireflies were glowing together. Seeing that sight, the owl's eyes widened in wonder — its majestic posture softened. The soft, collective 'hum' of hundreds of tiny wings sounded like music from afar. \"This is our natural light, it comes from our hearts!\" the firefly happily explained. That light — reflected in the owl's eyes."
+    },
+    {
+      "id": 7,
+      "text": "తెల్లవారుజామున, చెట్ల పైభాగాన్ని తాకుతున్న సూర్యకిరణాలతో పాటు, రాత్రి పూసే జాస్మిన్ తీపి వాసన గాలిలో తేలింది. గుడ్లగూబ చూపు ఇప్పుడు మృదువైనది, గర్వం లేదు — కేవలం లోతైన కృతజ్ఞత మాత్రమే ఉంది. \"నీ చిన్న వెలుగు నాకు పెద్ద జ్ఞానాన్ని ఇచ్చింది, మిత్రమా,\" అని అది మెల్లగా అంది. మిణుగురు పురుగు సంతోషంగా, దాని వెలుగును మరింత ప్రకాశింపజేసింది. ఆ రోజు నుండి, ఒక చిన్న మిణుగురు పురుగు — గుడ్లగూబకు జ్ఞానాన్ని బోధించింది.",
+      "image_prompt": "The owl looks at the firefly, its gaze now soft and filled with deep gratitude. It gently tells the firefly, 'Your small light gave me great wisdom,' as the firefly shines its light even brighter. Gentle dawn light, soft pinks and oranges touching the forest canopy, a peaceful, clear atmosphere as the firefly's light begins to dim naturally with the rising sun.",
+      "scene_visual": "The owl looks at the firefly, its gaze now soft and filled with deep gratitude. It gently tells the firefly, 'Your small light gave me great wisdom,' as the firefly shines its light even brighter.",
+      "supporting_char_keys": [
+        "firefly"
+      ],
+      "text_te_en": "Tellavaarujaamuna, Chetla Paibhaagaanni Taakutunna Suryakiranaalato Paatu, Raatri Puse Jaasmin Tipi Vaasana Gaalilo Telindi. Gudlaguba Chupu Ippudu Mrriduvainadi, Garvam Ledu — Kevalam Lotaina Krritajnyata Maatrame Undi. \"Ni Chinna Velugu Naaku Pedda Jnyaanaanni Ichchindi, Mitramaa,\" Ani Adi Mellagaa Andi. Minuguru Purugu Santoshangaa, Daani Velugunu Marinta Prakaashimpajesindi. Aa Roju Nundi, Oka Chinna Minuguru Purugu — Gudlagubaku Jnyaanaanni Bodhinchindi.",
+      "text_en": "At dawn, along with the sun's rays touching the treetops, the sweet scent of night-blooming jasmine floated in the air. The owl's gaze was now soft, without pride — only deep gratitude. \"Your small light has given me great wisdom, my friend,\" it said softly. The firefly, happy, made its light shine even brighter. From that day on, a small firefly — taught wisdom to the owl."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "firefly",
+      "description": "A tiny, delicate firefly with a shimmering green-gold body, translucent wings, and a bright, pulsating light at its tail. It is filled with endless curiosity and an eagerness to learn and share. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 6.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 6,
+    "narrative_arc": 10,
+    "child_engagement": 6,
+    "average": 6.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story possesses a compelling narrative arc with a well-integrated moral, which is its strongest asset. However, the language is overly formal and descriptive, resembling written prose more than a warm, oral bedtime story. To reach a 9+, the primary focus should be on transforming the narrative style to a more colloquial, conversational Telugu, actively showing emotions through character actions rather than stating them directly. This shift would significantly enhance authenticity, emotional depth, and child engagement."
+  },
+  "quality_warning": true,
+  "title_te_en": "Gudlaguba Jnyaanan, Minuguru Velugu",
+  "moral_te_en": "Telivainavaarainaa, Chinnavaari Nundi Kudaa Manam Enno Kotta Vishayaalu Nerchukovachchu.",
+  "title_en": "The Owl's Wisdom, The Firefly's Light",
+  "moral_en": "Even the wisest among us can learn many new things from the smallest or youngest.",
+  "id": "20260602_161343",
+  "date": "2026-06-02",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "అన్నీ తెలిసిన అనుకున్న గుడ్లగూబ మరియు జిజ్ఞాస గల మిణుగురు పురుగు",
+  "thumbnail": "stories/20260602_161343/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
