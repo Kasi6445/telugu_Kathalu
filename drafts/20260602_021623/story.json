@@ -1,0 +1,133 @@
+{
+  "title": "పెద్దల మాట, హనుమాన్ శక్తి",
+  "moral": "పెద్దల మాట వినడం, మనలో దాగి ఉన్న శక్తిని బయటకు తీస్తుంది.",
+  "main_character": "Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The southern tip of Bharatavarsha, by the vast, roaring ocean. Palm trees sway gently, and the air is filled with the scent of salt and blooming tropical flowers. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "దక్షిణ భారత తీరాన, అంతులేని సముద్రపు అలలు పదేపదే ఒడ్డును తాకుతూ, ఒక లోతైన ఘోషను వినిపిస్తున్నాయి. శ్రీరాముడు, లక్ష్మణుడు, వానర సైన్యంతో కలిసి లంక వైపు చూస్తూ నిలబడ్డారు. హనుమాన్ ప్రశాంతంగా ఉన్నా, అతని కళ్ళు ఆ మహా సముద్రం అంచున నిలిచాయి — లోపల ఒక లోతైన సంకల్పం ఉద్భవిస్తున్నట్టు. \"ఈ మహానగరాన్ని దాటడం ఎలా?\" అని సుగ్రీవుడు గొంతులో ఆందోళనతో అడిగాడు. రామలక్ష్మణులు ఒకరి కళ్ళలోకి ఒకరు చూసుకున్నారు — ఆ క్షణం, సవాల్ ఎంత పెద్దదో వారికి తెలిసిపోయింది.",
+      "image_prompt": "The two main figures stand with their army on the shore, looking out at the endless ocean. They exchange a glance, their eyes reflecting the immense challenge before them. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Bright morning sun sparkling on the blue ocean, casting long shadows from the palm trees onto the sandy beach, a hopeful yet challenging atmosphere.",
+      "scene_visual": "The two main figures stand with their army on the shore, looking out at the endless ocean. They exchange a glance, their eyes reflecting the immense challenge before them.",
+      "supporting_char_keys": [
+        "jambavan",
+        "sugriva",
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Dakshina Bhaarata Tiraana, Antuleni Samudrapu Alalu Padepade Oddunu Taakutu, Oka Lotaina Ghoshanu Vinipistunnaayi. Shriraamudu, Lakshmanudu, Vaanara Sainyanto Kalisi Lanka Vaipu Chustu Nilabaddaaru. Hanumaan Prashaantangaa Unnaa, Atani Kallu Aa Mahaa Samudram Anchuna Nilichaayi — Lopala Oka Lotaina Sankalpam Udbhavistunnattu. \"I Mahaanagaraanni Daatadam Elaa?\" Ani Sugrivudu Gontulo Aandolanato Adigaadu. Raamalakshmanulu Okari Kallaloki Okaru Chusukunnaaru — Aa Kshanan, Savaal Enta Peddado Vaariki Telisipoyindi.",
+      "text_en": "On the coast of South India, endless ocean waves crashed against the shore, making a deep, rumbling sound. Sri Ramudu, Lakshmanudu, and the monkey army stood looking towards Lanka. Hanuman was calm, but his eyes were fixed on the edge of the vast ocean — as if a deep determination was growing inside him. \"How will we cross this huge ocean?\" Sugreevudu asked, his voice full of worry. Sri Ramudu and Lakshmanudu looked at each other — in that moment, they knew just how big the challenge was."
+    },
+    {
+      "id": 2,
+      "text": "ఎంతోమంది వానరులు దూరం కొలిచేందుకు ప్రయత్నించారు, కానీ అలలు చుట్టూ నిండి ఉన్న సముద్రం వారిని మళ్ళీ వెనక్కి నెట్టింది. కొందరు చిన్న చిన్న గంతులు వేసి చూశారు, కానీ ఒడ్డున ఉన్న లేత బంగారు రంగు ఇసుక వారి కాళ్ళ కింద కదిలింది — దూరం అందనిదిగా అనిపించింది. \"ఇది అసాధ్యం, ఇంత దూరం ఎవరూ ఎగరలేరు!\" అని ఒక వానరుడు నిట్టూర్చాడు. హనుమాన్ అదంతా గమనిస్తున్నాడు; అతని నుదురు కొద్దిగా ముడుచుకుంది — ఈ పని సాధారణ బలంతో అసాధ్యం. ఆ దూరపు తీరం వైపు అతని చూపులు స్థిరంగా నిలిచాయి, లోపల ఒక నిశ్శబ్ద సంకల్పం పెరుగుతోంది.",
+      "image_prompt": "Several monkey-like figures attempt small jumps towards the ocean, but the golden sand shifts under their feet. The main monkey-like figure watches them, his brow slightly furrowed as his gaze remains fixed on the distant shore. SUPPORTING CHARACTER also in this scene: Sugriva: a vanara with reddish-gold complexion, slightly smaller and leaner than Vali. Wearing simple golden ornaments. Alert, determined expression. Harsh midday sun beating down on the open beach, creating a sense of heat and exhaustion, reflecting off the water.",
+      "scene_visual": "Several monkey-like figures attempt small jumps towards the ocean, but the golden sand shifts under their feet. The main monkey-like figure watches them, his brow slightly furrowed as his gaze remains fixed on the distant shore.",
+      "supporting_char_keys": [
+        "jambavan",
+        "sugriva"
+      ],
+      "text_te_en": "Entomandi Vaanarulu Duram Kolichenduku Prayatninchaaru, Kaani Alalu Chuttu Nindi Unna Samudram Vaarini Malli Venakki Nettindi. Kondaru Chinna Chinna Gantulu Vesi Chushaaru, Kaani Odduna Unna Leta Bangaaru Rangu Isuka Vaari Kaalla Kinda Kadilindi — Duram Andanidigaa Anipinchindi. \"Idi Asaadhyan, Inta Duram Evaru Egaraleru!\" Ani Oka Vaanarudu Nitturchaadu. Hanumaan Adantaa Gamanistunnaadu; Atani Nuduru Koddigaa Muduchukundi — I Pani Saadhaarana Balanto Asaadhyan. Aa Durapu Tiram Vaipu Atani Chupulu Sthirangaa Nilichaayi, Lopala Oka Nishshabda Sankalpam Perugutondi.",
+      "text_en": "Many monkeys tried to measure the distance, but the ocean, filled with waves, pushed them back again. Some tried small jumps, but the soft golden sand on the shore shifted under their feet — the distance seemed impossible to reach. \"This is impossible, no one can fly this far!\" one monkey sighed. Hanuman watched it all; his forehead creased a little — this task was impossible with ordinary strength. His eyes stayed fixed on the far-off shore, a quiet determination growing inside him."
+    },
+    {
+      "id": 3,
+      "text": "అప్పుడు జాంబవంతుడు, వృద్ధ వానర రాజు, మెల్లగా హనుమాన్ దగ్గరకు వచ్చాడు — అతని మాటలు పొడి తాటి ఆకుల సన్నని గలగల శబ్దంలో కలిసిపోయాయి. జాంబవంతుడు హనుమాన్ భుజంపై ప్రేమగా చేయి వేశాడు, అతని కళ్ళలోకి చూస్తూ, అతని అద్భుతమైన జననాన్ని గురించిన కథలు చెప్పడం మొదలుపెట్టాడు. హనుమాన్ మెల్లగా తల వంచాడు, ఆ మాటలు వింటున్న కొద్దీ అతని కళ్ళలో ఒక మెరుపు మెరిసింది — దూరపు జ్ఞాపకం ఏదో కదులుతున్నట్టు. \"బలవంతుడైన వాయుదేవుని కుమారుడవు నీవు, నీకు తెలియదా నీ శక్తి?\" అని జాంబవంతుడు శాంతంగా అడిగాడు. హనుమాన్ చుట్టూ ఒక సూక్ష్మమైన వెచ్చదనం వ్యాపించడం మొదలైంది.",
+      "image_prompt": "An old monkey-like figure gently places a hand on the main monkey-like figure's shoulder and looks into his eyes. The main monkey-like figure slowly bows his head, and a spark appears in his eyes as he listens. Late afternoon light, soft and golden, casting long shadows and creating a peaceful, contemplative atmosphere on the beach.",
+      "scene_visual": "An old monkey-like figure gently places a hand on the main monkey-like figure's shoulder and looks into his eyes. The main monkey-like figure slowly bows his head, and a spark appears in his eyes as he listens.",
+      "supporting_char_keys": [
+        "jambavan",
+        "sugriva"
+      ],
+      "text_te_en": "Appudu Jaambavantudu, Vrriddha Vaanara Raaju, Mellagaa Hanumaan Daggaraku Vachchaadu — Atani Maatalu Podi Taati Aakula Sannani Galagala Shabdanlo Kalisipoyaayi. Jaambavantudu Hanumaan Bhujampai Premagaa Cheyi Veshaadu, Atani Kallaloki Chustu, Atani Adbhutamaina Jananaanni Gurinchina Kathalu Cheppadam Modalupettaadu. Hanumaan Mellagaa Tala Vanchaadu, Aa Maatalu Vintunna Koddi Atani Kallalo Oka Merupu Merisindi — Durapu Jnyaapakam Edo Kadulutunnattu. \"Balavantudaina Vaayudevuni Kumaarudavu Nivu, Niku Teliyadaa Ni Shakti?\" Ani Jaambavantudu Shaantangaa Adigaadu. Hanumaan Chuttu Oka Sukshmamaina Vechchadanam Vyaapinchadam Modalaindi.",
+      "text_en": "Then Jambavanthudu, the wise old monkey king, slowly came close to Hanuman — his words were soft, like the rustling of dry palm leaves. Jambavanthudu gently placed a hand on Hanuman's shoulder, looked into his eyes, and began to tell stories of Hanuman's amazing birth. Hanuman slowly bowed his head, and as he listened, a spark lit up in his eyes — as if a long-forgotten memory was stirring. \"You are the son of the mighty Vayudevudu, don't you know your own strength?\" Jambavanthudu asked calmly. A gentle warmth began to spread around Hanuman."
+    },
+    {
+      "id": 4,
+      "text": "జాంబవంతుడు మాటలు కొనసాగిస్తున్న కొద్దీ, హనుమాన్ కళ్ళు ఒక్కసారిగా పెద్దవయ్యాయి — మర్చిపోయిన జ్ఞాపకాలు అతని మనసులో అలలుగా పొంగాయి. తన దివ్యశక్తిని తానెంతకాలం మర్చిపోయాడో అతనికి అర్థమైంది; అతని శరీరం మెల్లగా పెరుగుతూ, మరింత విశాలంగా మారింది. ఒక సున్నితమైన, వెచ్చని గాలి అతని చుట్టూ తిరిగింది, అది అతని లోపలి శక్తికి నిదర్శనం. \"అవును! నాకు ఇప్పుడు గుర్తుకు వచ్చింది! నా శక్తిని నేను మరచిపోయాను!\" అని హనుమాన్ గొంతులో అద్భుతమైన స్పష్టతతో పలికాడు. లంక వైపు అతని చూపు స్థిరంగా నిలిచింది, ముఖంలో ఒక ప్రకాశవంతమైన సంకల్పం ప్రస్ఫుటమైంది.",
+      "image_prompt": "The main monkey-like figure's eyes suddenly widen as forgotten memories flood his mind, and his body begins to slowly grow larger. A gentle, warm breeze swirls around him, and a bright determination shines on his face as his gaze fixes on the distant land. The setting sun paints the sky in vibrant orange and purple hues, reflecting off the ocean, symbolizing the awakening of power and hope.",
+      "scene_visual": "The main monkey-like figure's eyes suddenly widen as forgotten memories flood his mind, and his body begins to slowly grow larger. A gentle, warm breeze swirls around him, and a bright determination shines on his face as his gaze fixes on the distant land.",
+      "supporting_char_keys": [
+        "jambavan",
+        "sugriva",
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Jaambavantudu Maatalu Konasaagistunna Koddi, Hanumaan Kallu Okkasaarigaa Peddavayyaayi — Marchipoyina Jnyaapakaalu Atani Manasulo Alalugaa Pongaayi. Tana Divyashaktini Taanentakaalam Marchipoyaado Ataniki Arthamaindi; Atani Shariram Mellagaa Perugutu, Marinta Vishaalangaa Maarindi. Oka Sunnitamaina, Vechchani Gaali Atani Chuttu Tirigindi, Adi Atani Lopali Shaktiki Nidarshanan. \"Avunu! Naaku Ippudu Gurtuku Vachchindi! Naa Shaktini Nenu Marachipoyaanu!\" Ani Hanumaan Gontulo Adbhutamaina Spashtatato Palikaadu. Lanka Vaipu Atani Chupu Sthirangaa Nilichindi, Mukhanlo Oka Prakaashavantamaina Sankalpam Prasphutamaindi.",
+      "text_en": "As Jambavanthudu kept talking, Hanuman's eyes suddenly grew wide — forgotten memories rushed into his mind like waves. He understood how long he had forgotten his divine power; his body slowly grew, becoming bigger and stronger. A soft, warm breeze swirled around him, showing the power growing inside him. \"Yes! I remember now! I had forgotten my own strength!\" Hanuman said with amazing clarity in his voice. His gaze was fixed on Lanka, a bright determination shining on his face."
+    },
+    {
+      "id": 5,
+      "text": "ఒక శక్తివంతమైన గర్జన — భూమిని సైతం కంపింపజేసింది. హనుమాన్ తన శరీరాన్ని పెంచుకుంటూ, ఒక కొండంత రూపంలో నిలిచాడు — అతని గుండె సీతమ్మ, శ్రీరామునిపై స్థిరంగా నిలిచింది. వానరుల కాళ్ళ కింద భూమి కొద్దిగా కంపించింది, వారి కళ్ళు ఆ అద్భుత రూపాన్ని చూసి ఆశ్చర్యంతో మెరిశాయి. ఆకాశం వైపు చూస్తూ, చేతులు జోడించి \"రామచంద్ర ప్రభువుకు జై!\" అని పలికాడు. ఒక మెరుపులా ఆకాశంలోకి దూసుకుపోయాడు, లంక వైపు వేగంగా సాగిపోయాడు.",
+      "image_prompt": "The main monkey-like figure grows to a mountain-like form, letting out a powerful roar that shakes the ground. He then leaps into the sky like a flash of lightning, his hands joined in reverence as he looks towards the heavens. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. A dramatic twilight, with the last rays of sun illuminating Hanuman as he ascends, leaving the rest of the scene in deepening silhouettes, emphasizing his divine journey.",
+      "scene_visual": "The main monkey-like figure grows to a mountain-like form, letting out a powerful roar that shakes the ground. He then leaps into the sky like a flash of lightning, his hands joined in reverence as he looks towards the heavens.",
+      "supporting_char_keys": [
+        "jambavan",
+        "sugriva",
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Oka Shaktivantamaina Garjana — Bhumini Saitam Kampimpajesindi. Hanumaan Tana Shariraanni Penchukuntu, Oka Kondanta Rupanlo Nilichaadu — Atani Gunde Sitamma, Shriraamunipai Sthirangaa Nilichindi. Vaanarula Kaalla Kinda Bhumi Koddigaa Kampinchindi, Vaari Kallu Aa Adbhuta Rupaanni Chusi Aashcharyanto Merishaayi. Aakaasham Vaipu Chustu, Chetulu Jodinchi \"Raamachandra Prabhuvuku Jai!\" Ani Palikaadu. Oka Merupulaa Aakaashanloki Dusukupoyaadu, Lanka Vaipu Vegangaa Saagipoyaadu.",
+      "text_en": "A powerful roar shook the very ground. Hanuman grew bigger and bigger, until he stood as tall as a mountain — his heart filled with devotion for Seethamma and Sri Ramudu. The ground trembled a little under the monkeys' feet, and their eyes sparkling with wonder at seeing his amazing form. Looking up at the sky, he joined his hands and shouted, \"Jai Ramachandra Prabhuvu!\" Like a flash of lightning, he shot into the sky, speeding towards Lanka."
+    },
+    {
+      "id": 6,
+      "text": "ఆకాశంలో ఒక చిన్న చుక్కలా మారి, హనుమాన్ అదృశ్యమయ్యాడు — సముద్రం అవతల లంక వైపు సాగిపోయాడు. వానరులు నిశ్శబ్దంగా అతని ప్రయాణాన్ని చూశారు, వారి గుండెల్లో ఇప్పుడు కొత్త ఆశ చిగురించింది. దూరపు అలల సవ్వడి ఇప్పుడు శాంతంగా అనిపించింది, భయం స్థానంలో ఒక ప్రశాంతత నిండింది. \"మనం గెలిచాము! హనుమాన్ గెలిచాడు!\" అని వానరులు ఆనందంతో ఉత్సాహంగా అరిచారు. వారి ఆనందనాదాలు సముద్రపు గాలిలో కలిసిపోయాయి, ఆ క్షణంలో న్యాయం జరిగింది.",
+      "image_prompt": "The main monkey-like figure becomes a tiny speck in the sky and disappears, heading towards the distant land across the ocean. The other monkey-like figures watch silently, their hearts now filled with new hope, as their joyful shouts merge with the sea breeze. SUPPORTING CHARACTER also in this scene: Sugriva: a vanara with reddish-gold complexion, slightly smaller and leaner than Vali. Wearing simple golden ornaments. Alert, determined expression. The first stars beginning to twinkle in the deep blue night sky, a peaceful and hopeful end to a momentous day, casting a soft glow over the relieved faces.",
+      "scene_visual": "The main monkey-like figure becomes a tiny speck in the sky and disappears, heading towards the distant land across the ocean. The other monkey-like figures watch silently, their hearts now filled with new hope, as their joyful shouts merge with the sea breeze.",
+      "supporting_char_keys": [
+        "jambavan",
+        "sugriva",
+        "rama",
+        "lakshmana"
+      ],
+      "text_te_en": "Aakaashanlo Oka Chinna Chukkalaa Maari, Hanumaan Adrrishyamayyaadu — Samudram Avatala Lanka Vaipu Saagipoyaadu. Vaanarulu Nishshabdangaa Atani Prayaanaanni Chushaaru, Vaari Gundello Ippudu Kotta Aasha Chigurinchindi. Durapu Alala Savvadi Ippudu Shaantangaa Anipinchindi, Bhayam Sthaananlo Oka Prashaantata Nindindi. \"Manam Gelichaamu! Hanumaan Gelichaadu!\" Ani Vaanarulu Aanandanto Utsaahangaa Arichaaru. Vaari Aanandanaadaalu Samudrapu Gaalilo Kalisipoyaayi, Aa Kshananlo Nyaayam Jarigindi.",
+      "text_en": "Becoming a tiny dot in the sky, Hanuman disappeared — flying towards Lanka across the ocean. The monkeys watched his journey in silence, a new hope blooming in their hearts. The sound of the distant waves now seemed calm, and peace filled the air where fear had been. \"We won! Hanuman won!\" the monkeys cheered with joy and excitement. Their joyful shouts blended with the sea breeze, and in that moment, justice felt close."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "jambavan",
+      "description": "Jambavan: a wise and ancient bear-king, with deep brown fur and a calm, knowing expression. He walks with a staff and his eyes hold the wisdom of ages, often adorned with simple forest garlands. Always the same character across every scene."
+    },
+    {
+      "key": "sugriva",
+      "description": "Sugriva: a vanara with reddish-gold complexion, slightly smaller and leaner than Vali. Wearing simple golden ornaments. Alert, determined expression. Always the same character across every scene."
+    },
+    {
+      "key": "rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 7,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 7,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a classic tale with a clear narrative arc and excellent grammar. However, its primary weakness lies in its formal, written tone, which prevents it from feeling like an authentic oral bedtime story. To reach a 9+, the language needs to be significantly simplified and infused with the warmth and directness of a grandparent's voice, perhaps by incorporating more conversational phrases and direct address to the child. Additionally, enriching the dialogue with more distinct character voices would enhance engagement."
+  },
+  "quality_warning": true,
+  "title_te_en": "Peddala Maata, Hanumaan Shakti",
+  "moral_te_en": "Peddala Maata Vinadan, Manalo Daagi Unna Shaktini Bayataku Tistundi.",
+  "title_en": "The Words of Elders, Hanuman's Power",
+  "moral_en": "Listening to elders brings out the hidden strength within us.",
+  "id": "20260602_021623",
+  "date": "2026-06-02",
+  "category": "ramayana",
+  "subcategory": "dharma_tales",
+  "topic": "జాంబవంతుని సూచన - పెద్దల మాట మరియు అనుభవం విలువ",
+  "thumbnail": "stories/20260602_021623/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
