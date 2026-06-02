@@ -1,0 +1,98 @@
+{
+  "title": "నక్క పన్నాగం, చిట్టి చాతుర్యం",
+  "moral": "తెలివైన ఆలోచనతో, మనల్ని మోసం చేయాలనుకున్న వారి పన్నాగాలను కూడా మార్చవచ్చని చిట్టి నిరూపించాడు కదూ?",
+  "main_character": "చిట్టి (Chitti) - A small, agile monkey with bright, curious eyes and a long, prehensile tail. He is always seeking new adventures and loves sweet fruits. Always the same character across every scene.",
+  "antagonist": "నక్క బావ (Nakka Bava) - A lean, reddish-brown jackal with cunning, narrow eyes and a perpetually sly grin. He wears a tattered, faded blue scarf around his neck. Always the same character across every scene.",
+  "setting": "A vibrant forest in the foothills of the Nallamala Hills, Andhra Pradesh, near a small village. Towering tamarind and mango trees provide ample shade, and a clear stream babbles over smooth river stones. The air is often filled with the scent of wild jasmine. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవిలో చిట్టి కోతి ఉత్సాహంగా కొమ్మల మధ్య గంతులు వేస్తూ ఉంది. అతని పదునైన కళ్ళు చుట్టూ ఉన్న ఆకుపచ్చని ఆకులను గమనిస్తూ, కదిలే ప్రతి ఆకులోనూ ఏదో కొత్త ఆటను వెతికాయి. ఒక మామిడి పండును పట్టుకుని, దాని తీపి రసం అతని గడ్డం మీదుగా కారిపోతుంటే, అతను ఆనందంగా నమిలాడు. అతని పెదాలపై ఒక చిరునవ్వు మెరిసింది. \"ఆహా! ఈ పండు ఎంత రుచిగా ఉంది!\" అంటూ ఆ పండును మరింత దగ్గరకు తీసుకున్నాడు. ఒక్కసారిగా — గాలిలో ఆగిపోయాడు. అతని చూపులు కిందకు జారాయి — ఎక్కడో ఏదో కదలిక.",
+      "image_prompt": "The monkey pauses mid-leap between branches, his body suspended in the air. His sharp eyes are fixed downwards, searching for a movement on the ground below. Dappled sunlight filters through dense green leaves, creating warm, shifting patterns on the forest floor, bright and cheerful.",
+      "scene_visual": "The monkey pauses mid-leap between branches, his body suspended in the air. His sharp eyes are fixed downwards, searching for a movement on the ground below.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Adavilo Chitti Koti Utsaahangaa Kommala Madhya Gantulu Vestu Undi. Atani Padunaina Kallu Chuttu Unna Aakupachchani Aakulanu Gamanistu, Kadile Prati Aakulonu Edo Kotta Aatanu Vetikaayi. Oka Maamidi Pandunu Pattukuni, Daani Tipi Rasam Atani Gaddam Midugaa Kaaripotunte, Atanu Aanandangaa Namilaadu. Atani Pedaalapai Oka Chirunavvu Merisindi. \"Aahaa! I Pandu Enta Ruchigaa Undi!\" Antu Aa Pandunu Marinta Daggaraku Tisukunnaadu. Okkasaarigaa — Gaalilo Aagipoyaadu. Atani Chupulu Kindaku Jaaraayi — Ekkado Edo Kadalika.",
+      "text_en": "In the Nallamala forest, Chitti the monkey was happily leaping among the branches. His sharp eyes watched the green leaves around him, searching for a new game in every moving leaf. Holding a mango, its sweet juice dripped down his chin as he chewed it joyfully. A smile sparkled on his lips. \"Oh! How delicious this fruit is!\" he exclaimed, bringing the fruit closer. Suddenly — he stopped in mid-air. His gaze dropped downwards — a movement somewhere."
+    },
+    {
+      "id": 2,
+      "text": "చిట్టి గాలిలో ఆగి ఉండగానే, పొదల చాటు నుండి నక్క బావ మెల్లిగా బయటికి వచ్చాడు. అతని కళ్ళలో ఏదో మెరుపు కనిపించింది, అతని తోక ఆత్రుతగా అటు ఇటు కదిలింది. నక్క బావ అడుగులు వేస్తుంటే, ఎండిన ఆకులు కింద మెత్తగా కదలిన శబ్దం వినిపించింది. అతను చిట్టి వైపు చూసి, ఒక చిరునవ్వు నవ్వాడు — కానీ అది నమ్మదగినది కాదు. \"చిట్టి మిత్రమా, ఊరిలో పండుగ ఉంది తెలుసా? అదిరిపోయే భోజనం దొరుకుతుంది!\" అంటూ అతని గొంతులో తేనె పూసిన మాటలు. చిట్టి తల పక్కకు వంచి, అతని మాటల లోపల అర్థాన్ని వెదికాడు.",
+      "image_prompt": "The fox slowly emerges from behind the bushes, his tail wagging eagerly. He offers a disingenuous smile to the monkey, a glint visible in his eyes. Also in this scene: నక్క బావ (Nakka Bava) - A lean, reddish-brown jackal with cunning, narrow eyes and a perpetually sly grin. He wears a tattered, faded blue scarf around his neck. Always the same character across every scene. Soft, late afternoon light, golden and slightly hazy, casting long shadows that make the jackal's smile seem more sinister.",
+      "scene_visual": "The fox slowly emerges from behind the bushes, his tail wagging eagerly. He offers a disingenuous smile to the monkey, a glint visible in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitti Gaalilo Aagi Undagaane, Podala Chaatu Nundi Nakka Baava Melligaa Bayatiki Vachchaadu. Atani Kallalo Edo Merupu Kanipinchindi, Atani Toka Aatrutagaa Atu Itu Kadilindi. Nakka Baava Adugulu Vestunte, Endina Aakulu Kinda Mettagaa Kadalina Shabdam Vinipinchindi. Atanu Chitti Vaipu Chusi, Oka Chirunavvu Navvaadu — Kaani Adi Nammadaginadi Kaadu. \"Chitti Mitramaa, Urilo Panduga Undi Telusaa? Adiripoye Bhojanam Dorukutundi!\" Antu Atani Gontulo Tene Pusina Maatalu. Chitti Tala Pakkaku Vanchi, Atani Maatala Lopala Arthaanni Vedikaadu.",
+      "text_en": "As Chitti hung in the air, Nakka Baava slowly emerged from behind the bushes. A glint appeared in his eyes, and his tail wagged eagerly. As Nakka Baava took steps, the dried leaves rustled softly under his feet. He looked at Chitti and smiled — but it was not a trustworthy smile. \"Chitti, my friend, do you know there's a festival in the village? There will be amazing food!\" he said, his voice dripping with honeyed words. Chitti tilted his head, searching for the hidden meaning in his words."
+    },
+    {
+      "id": 3,
+      "text": "నక్క బావ చిట్టి వైపు దగ్గరగా వచ్చి, తన పథకాన్ని వివరించాడు. అతని కళ్ళు ఆశతో మెరుస్తున్నాయి, అతను గర్వంగా ఛాతీ విరుచుకున్నాడు. \"నువ్వు పైనుండి పండుగ వంటకాలు కింద పడేస్తే, నేను వాటిని పట్టుకుంటాను!\" అంటూ అతని గొంతులో ఆశ స్పష్టంగా వినిపించింది. దూరం నుండి, పండుగ డప్పుల శబ్దం, ఉత్సాహభరితమైన పాటల సన్నటి సవ్వడి వినిపించింది. చిట్టి నవ్వి, తన తోకను మెల్లిగా అటు ఇటు ఊపాడు — అతని మనసులో మరో ఆలోచన మొదలైంది. నక్క బావకు తెలియదు — చిట్టి మనసులో ఏం ఉందో!",
+      "image_prompt": "The fox stands proudly, puffing out his chest as he explains his scheme to the monkey. His eyes gleam with desire as he speaks of catching food dropped from above. Also in this scene: నక్క బావ (Nakka Bava) - A lean, reddish-brown jackal with cunning, narrow eyes and a perpetually sly grin. He wears a tattered, faded blue scarf around his neck. Always the same character across every scene. The golden light deepens to amber, hinting at the approaching evening, a sense of anticipation in the air.",
+      "scene_visual": "The fox stands proudly, puffing out his chest as he explains his scheme to the monkey. His eyes gleam with desire as he speaks of catching food dropped from above.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Baava Chitti Vaipu Daggaragaa Vachchi, Tana Pathakaanni Vivarinchaadu. Atani Kallu Aashato Merustunnaayi, Atanu Garvangaa Chaati Viruchukunnaadu. \"Nuvvu Painundi Panduga Vantakaalu Kinda Padeste, Nenu Vaatini Pattukuntaanu!\" Antu Atani Gontulo Aasha Spashtangaa Vinipinchindi. Duram Nundi, Panduga Dappula Shabdan, Utsaahabharitamaina Paatala Sannati Savvadi Vinipinchindi. Chitti Navvi, Tana Tokanu Melligaa Atu Itu Upaadu — Atani Manasulo Maro Aalochana Modalaindi. Nakka Baavaku Teliyadu — Chitti Manasulo Em Undo!",
+      "text_en": "Nakka Baava came closer to Chitti and explained his plan. His eyes gleamed with greed, and he puffed out his chest proudly. \"If you drop the festival dishes from above, I will catch them!\" he said, his voice clearly full of hope. From a distance, the sound of festival drums and faint, joyful songs could be heard. Chitti smiled and gently wagged his tail — another idea had begun in his mind. Nakka Baava didn't know — what was in Chitti's mind!"
+    },
+    {
+      "id": 4,
+      "text": "చిట్టి మెల్లగా ఊరిలోకి ప్రవేశించాడు, అతని గుండె వేగంగా కొట్టుకుంది. అతను ఇళ్ళ మధ్య దూకుతూ, పండుగ వంటకాల మధురమైన సువాసనను పీల్చుకున్నాడు. జలేబీలు, లడ్డూల తీయని వాసన అతని ముక్కును తాకింది, అతని చేతులు చాకచక్యంగా పని చేశాయి. నక్క బావ అదృశ్యంగా వేచి ఉన్నాడు, అతని చెవులు నిక్కబొడుచుకున్నాయి. \"త్వరగా చిట్టి! నాకు ఆ లడ్డూలు కావాలి!\" అంటూ అతని గొంతులో ఆత్రుత వినిపించింది. చిట్టి చాతుర్యంగా అరటిపళ్ళ గుత్తిని అందుకుని, చాటుగా — కొన్ని అరటిపళ్ళను దాచాడు.",
+      "image_prompt": "The monkey skillfully grabs a bunch of bananas while leaping between houses. He discreetly tucks some of the fruit away, out of sight. Also in this scene: నక్క బావ (Nakka Bava) - A lean, reddish-brown jackal with cunning, narrow eyes and a perpetually sly grin. He wears a tattered, faded blue scarf around his neck. Always the same character across every scene. Bright, festive lights and flickering oil lamps illuminate the village square, contrasting with the deep, cool shadows where Nakka Bava lurks, creating a sense of hidden danger.",
+      "scene_visual": "The monkey skillfully grabs a bunch of bananas while leaping between houses. He discreetly tucks some of the fruit away, out of sight.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitti Mellagaa Uriloki Praveshinchaadu, Atani Gunde Vegangaa Kottukundi. Atanu Illa Madhya Dukutu, Panduga Vantakaala Madhuramaina Suvaasananu Pilchukunnaadu. Jalebilu, Laddula Tiyani Vaasana Atani Mukkunu Taakindi, Atani Chetulu Chaakachakyangaa Pani Cheshaayi. Nakka Baava Adrrishyangaa Vechi Unnaadu, Atani Chevulu Nikkaboduchukunnaayi. \"Tvaragaa Chitti! Naaku Aa Laddulu Kaavaali!\" Antu Atani Gontulo Aatruta Vinipinchindi. Chitti Chaaturyangaa Aratipalla Guttini Andukuni, Chaatugaa — Konni Aratipallanu Daachaadu.",
+      "text_en": "Chitti slowly entered the village, his heart beating fast. He jumped between houses, inhaling the sweet aroma of festival dishes. The sweet smell of jalebis and laddus reached his nose, and his hands worked skillfully. Nakka Baava was waiting secretly, his ears perked up. \"Hurry, Chitti! I want those laddus!\" his voice showed eagerness. Chitti cleverly grabbed a bunch of bananas and secretly — hid some of them."
+    },
+    {
+      "id": 5,
+      "text": "చిట్టి కొన్ని పళ్ళను, చిన్న చిన్న వంటకాలను మాత్రమే నక్క బావకు కింద పడేశాడు. నక్క బావ వాటిని అందుకుని, ముఖం చిట్లించుకున్నాడు, అతని గొంతులో ఆశ నిండి ఉంది. \"ఇంతేనా? ఇది నా కడుపు నింపదు!\" అంటూ అతను కోపంగా నేలమీద కాలు తట్టాడు. దూరం నుండి కుక్కల అరుపులు వినిపించగానే, నక్క బావ భయంతో ఉలిక్కిపడ్డాడు. చిట్టి నవ్వి, తన తోకను అల్లరిగా ఊపాడు — అతని కళ్ళలో మెరుపు. నక్క బావకు కోపం వచ్చింది — కానీ చిట్టికి అది ఆట.",
+      "image_prompt": "The fox angrily stomps his foot on the ground, his face contorted in disappointment. He then flinches in fear, startled by the distant sound of barking dogs. Also in this scene: నక్క బావ (Nakka Bava) - A lean, reddish-brown jackal with cunning, narrow eyes and a perpetually sly grin. He wears a tattered, faded blue scarf around his neck. Always the same character across every scene. Twilight descends, casting a deep indigo hue over the forest edge, making the few scattered festival lights from the village seem like distant stars.",
+      "scene_visual": "The fox angrily stomps his foot on the ground, his face contorted in disappointment. He then flinches in fear, startled by the distant sound of barking dogs.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitti Konni Pallanu, Chinna Chinna Vantakaalanu Maatrame Nakka Baavaku Kinda Padeshaadu. Nakka Baava Vaatini Andukuni, Mukham Chitlinchukunnaadu, Atani Gontulo Aasha Nindi Undi. \"Intenaa? Idi Naa Kadupu Nimpadu!\" Antu Atanu Kopangaa Nelamida Kaalu Tattaadu. Duram Nundi Kukkala Arupulu Vinipinchagaane, Nakka Baava Bhayanto Ulikkipaddaadu. Chitti Navvi, Tana Tokanu Allarigaa Upaadu — Atani Kallalo Merupu. Nakka Baavaku Kopam Vachchindi — Kaani Chittiki Adi Aata.",
+      "text_en": "Chitti dropped only a few fruits and small dishes to Nakka Baava below. Nakka Baava caught them, frowned, his voice full of greed. \"Is this all? This won't fill my stomach!\" he said, stomping his foot angrily on the ground. As dog barks were heard from a distance, Nakka Baava flinched in fear. Chitti laughed and wagged his tail playfully — a sparkle in his eyes. Nakka Baava was angry — but for Chitti, it was a game."
+    },
+    {
+      "id": 6,
+      "text": "చిట్టి పెద్దగా నవ్వి, తన దగ్గర ఉన్న ఒక చిన్న, ఖాళీ బుట్టను నక్క బావ వైపు విసిరాడు. \"నక్క బావా, నీకు పండుగ బహుమతి!\" అంటూ అతని గొంతులో అల్లరి. నక్క బావ ఆశగా దాన్ని పట్టుకున్నాడు, అతని కళ్ళు మెరుస్తున్నాయి. బుట్ట భూమిపై పడగానే — ఒక బోలు శబ్దం వచ్చింది. అతను చూశాడు — అది ఖాళీ. నక్క బావ ముఖం ఒక్కసారిగా పాలిపోయింది, అతని కళ్ళు ఎర్రబడ్డాయి. చిట్టి పైనుండి తీయని లడ్డూలను ఆనందంగా తింటూ, అతన్ని చూసి నవ్వాడు.",
+      "image_prompt": "The fox stares at the empty basket on the ground, his face suddenly pale. Above him, the monkey happily eats sweet laddus, a mischievous smile on his face. Also in this scene: నక్క బావ (Nakka Bava) - A lean, reddish-brown jackal with cunning, narrow eyes and a perpetually sly grin. He wears a tattered, faded blue scarf around his neck. Always the same character across every scene. The moon begins to rise, casting a silvery glow through the branches, highlighting Chitti's smug expression and Nakka Bava's deflated posture.",
+      "scene_visual": "The fox stares at the empty basket on the ground, his face suddenly pale. Above him, the monkey happily eats sweet laddus, a mischievous smile on his face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitti Peddagaa Navvi, Tana Daggara Unna Oka Chinna, Khaali Buttanu Nakka Baava Vaipu Visiraadu. \"Nakka Baavaa, Niku Panduga Bahumati!\" Antu Atani Gontulo Allari. Nakka Baava Aashagaa Daanni Pattukunnaadu, Atani Kallu Merustunnaayi. Butta Bhumipai Padagaane — Oka Bolu Shabdam Vachchindi. Atanu Chushaadu — Adi Khaali. Nakka Baava Mukham Okkasaarigaa Paalipoyindi, Atani Kallu Errabaddaayi. Chitti Painundi Tiyani Laddulanu Aanandangaa Tintu, Atanni Chusi Navvaadu.",
+      "text_en": "Chitti laughed loudly and threw a small, empty basket he had towards Nakka Baava. \"Nakka Baava, a festival gift for you!\" his voice was mischievous. Nakka Baava eagerly caught it, his eyes gleaming. As the basket fell to the ground — there was a hollow sound. He looked — it was empty. Nakka Baava's face instantly turned pale, his eyes reddened. Chitti, happily eating sweet laddus from above, smiled at him."
+    },
+    {
+      "id": 7,
+      "text": "నక్క బావ ఖాళీ బుట్టను చూసి, అతని తల దించుకున్నాడు. అతని అడుగులు బరువయ్యాయి, అతని పెదాలు బిగుసుకున్నాయి. అతను చిట్టి వైపు ఒకసారి కూడా చూడకుండా, నెమ్మదిగా అడవి చీకట్లోకి కదిలాడు. చీకట్లోకి — అతను మాయమయ్యాడు. చిట్టి కోతి, తన చేతుల్లో ఉన్న చివరి లడ్డూను ఆనందంగా తింటూ, నెమ్మదిగా కళ్ళు మూసుకున్నాడు. అతని చుట్టూ ఆకుల సన్నటి సవ్వడి వినిపించింది, అతని మనసులో విజయం, సంతృప్తి నిండి ఉన్నాయి.",
+      "image_prompt": "The fox slowly walks away into the darkening forest, his head bowed low. His lips are pressed tightly together, and he does not look back at the monkey. Also in this scene: నక్క బావ (Nakka Bava) - A lean, reddish-brown jackal with cunning, narrow eyes and a perpetually sly grin. He wears a tattered, faded blue scarf around his neck. Always the same character across every scene. Deep night, with a bright full moon illuminating the forest, casting stark black shadows. Chitti is bathed in moonlight, while Nakka Bava disappears into the deep, unforgiving darkness of the undergrowth.",
+      "scene_visual": "The fox slowly walks away into the darkening forest, his head bowed low. His lips are pressed tightly together, and he does not look back at the monkey.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Baava Khaali Buttanu Chusi, Atani Tala Dinchukunnaadu. Atani Adugulu Baruvayyaayi, Atani Pedaalu Bigusukunnaayi. Atanu Chitti Vaipu Okasaari Kudaa Chudakundaa, Nemmadigaa Adavi Chikatloki Kadilaadu. Chikatloki — Atanu Maayamayyaadu. Chitti Koti, Tana Chetullo Unna Chivari Laddunu Aanandangaa Tintu, Nemmadigaa Kallu Musukunnaadu. Atani Chuttu Aakula Sannati Savvadi Vinipinchindi, Atani Manasulo Vijayan, Santrripti Nindi Unnaayi.",
+      "text_en": "Nakka Baava looked at the empty basket and hung his head. His steps became heavy, his lips tightened. Without even looking at Chitti once, he slowly moved into the darkness of the forest. Into the darkness — he disappeared. Chitti the monkey, happily eating the last laddu in his hands, slowly closed his eyes. The soft rustle of leaves was heard around him, and his mind was filled with victory and satisfaction."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 5,
+    "emotional_depth": 7,
+    "dialogue_richness": 7,
+    "grammar_correctness": 6,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 7.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a compelling narrative arc and strong child engagement, featuring a clever plot and a satisfying resolution. While emotional depth is largely conveyed through action, there are a few instances of directly stating feelings. The primary area for improvement lies in 'grandmother_authenticity,' as the language frequently leans towards formal written prose rather than natural, colloquial spoken Telugu. To achieve a higher score, focus on simplifying vocabulary and sentence structures to create a more conversational and warm oral storytelling voice. Additionally, ensuring dialogue in every scene would enhance richness."
+  },
+  "quality_warning": true,
+  "title_te_en": "Nakka Pannaagan, Chitti Chaaturyam",
+  "moral_te_en": "Telivaina Aalochanato, Manalni Mosam Cheyaalanukunna Vaari Pannaagaalanu Kudaa Maarchavachchani Chitti Nirupinchaadu Kadu?",
+  "title_en": "Nakka's Trick, Chitti's Cleverness",
+  "moral_en": "Chitti proved that with clever thinking, you can even outsmart those who try to trick you.",
+  "id": "20260602_151424",
+  "date": "2026-06-02",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - గుంట నక్క మరియు కోతి యొక్క పండుగ పన్నాగం",
+  "thumbnail": "stories/20260602_151424/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
