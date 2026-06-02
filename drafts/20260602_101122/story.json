@@ -1,0 +1,98 @@
+{
+  "title": "నక్క అత్యాశ, నీడ మాయ",
+  "moral": "చేతిలో ఉన్నదాన్ని వదిలి, లేనిదాని కోసం ఆశపడితే, ఉన్నది కూడా పోతుంది.",
+  "main_character": "A sleek, reddish-brown fox with sharp, intelligent eyes and a bushy tail. He moves with a quiet, confident stride, always looking for an easy meal. He has a perpetually hungry look about him. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, bustling village in the Godavari delta region of Andhra Pradesh, surrounded by lush green paddy fields. The scene features a dusty village path, a modest butcher's stall with a wooden counter, and a large earthenware pot filled with water. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని పొలాల మధ్య ఉన్న ఆ చిన్న ఊరి బయట, ఓ ఎర్రని నక్క మెల్లగా నడుస్తోంది. దాని కడుపులో ఆకలి కనకన మండుతోంది, అది ఏ క్షణంలోనైనా ఆహారం దొరుకుతుందేమో అని గాలిని పీల్చి వదులుతోంది. ఎండుటాకులపై దాని అడుగులు కరకరమంటూ శబ్దం చేస్తుంటే, అది తల ఎత్తి చుట్టూ చూసింది. “ఈ రోజు ఆహారం ఎక్కడ దొరుకుతుందో?” అని తనలో తాను గొణుక్కుంది. ఒక్కసారిగా — గాలిలో ఓ కమ్మని వాసన పట్టుకున్నాడు.",
+      "image_prompt": "The fox suddenly lifts its head, sniffing the air intently. Its ears twitch as it picks up a sweet scent, its eyes scanning the surroundings. Bright morning sun filtering through sparse trees, casting long, playful shadows on the dusty path.",
+      "scene_visual": "The fox suddenly lifts its head, sniffing the air intently. Its ears twitch as it picks up a sweet scent, its eyes scanning the surroundings.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchani Polaala Madhya Unna Aa Chinna Uri Bayata, O Errani Nakka Mellagaa Nadustondi. Daani Kadupulo Aakali Kanakana Mandutondi, Adi E Kshananlonainaa Aahaaram Dorukutundemo Ani Gaalini Pilchi Vadulutondi. Endutaakulapai Daani Adugulu Karakaramantu Shabdam Chestunte, Adi Tala Etti Chuttu Chusindi. “I Roju Aahaaram Ekkada Dorukutundo?” Ani Tanalo Taanu Gonukkundi. Okkasaarigaa — Gaalilo O Kammani Vaasana Pattukunnaadu.",
+      "text_en": "Outside a small village nestled among green fields, a red fox was walking slowly. Its stomach was burning with hunger, and it was sniffing the air, hoping to find food any moment. As its paws crunched on dry leaves, it lifted its head and looked around. \"Where will I find food today?\" it mumbled to itself. Suddenly — it caught a delicious scent in the air."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మత్తుగొలిపే వాసన వెంటే నక్క అడుగులు వేగంగా కదిలాయి, చివరికి అది ఒక చిన్న మాంసం కొట్టు దగ్గరకు చేరింది. కొట్టు లోపల, చెక్క బల్ల మీద, ఎవరూ చూడకుండా ఓ లావుపాటి మాంసం ముక్క అలా ఉండిపోయింది. ఆ మాంసం నుండి వస్తున్న కమ్మని వాసన నక్క ముక్కుపుటాలను లాగేసింది — దాని కళ్ళు మెరిసిపోయాయి. “ఆహా! ఎంత మంచి మాంసం!” అని అది గుటకలు వేసింది. ఆ క్షణంలో, పక్కనే ఉన్న పెద్ద మట్టి కుండలో నీళ్ళు నిండి ఉండటం చూసింది.",
+      "image_prompt": "The fox stands before a butcher shop, its gaze fixed on a thick piece of meat on a wooden table. Its eyes sparkle with hunger as it gulps, drawn in by the enticing aroma. Harsh midday sun beating down on the open-air butcher's stall, creating sharp contrasts between light and shadow.",
+      "scene_visual": "The fox stands before a butcher shop, its gaze fixed on a thick piece of meat on a wooden table. Its eyes sparkle with hunger as it gulps, drawn in by the enticing aroma.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Mattugolipe Vaasana Vente Nakka Adugulu Vegangaa Kadilaayi, Chivariki Adi Oka Chinna Maansam Kottu Daggaraku Cherindi. Kottu Lopala, Chekka Balla Mida, Evaru Chudakundaa O Laavupaati Maansam Mukka Alaa Undipoyindi. Aa Maansam Nundi Vastunna Kammani Vaasana Nakka Mukkuputaalanu Laagesindi — Daani Kallu Merisipoyaayi. “Aahaa! Enta Manchi Maansan!” Ani Adi Gutakalu Vesindi. Aa Kshananlo, Pakkane Unna Pedda Matti Kundalo Nillu Nindi Undatam Chusindi.",
+      "text_en": "The fox's steps quickened, following that tempting smell, until it reached a small butcher shop. Inside the shop, on a wooden table, a thick piece of meat lay unnoticed. The delicious smell coming from the meat pulled at the fox's nostrils — its eyes sparkled. \"Aha! What a good piece of meat!\" it gulped. At that moment, it saw a large clay pot full of water nearby."
+    },
+    {
+      "id": 3,
+      "text": "మాంసాన్ని పట్టుకోవడానికి సిద్ధమవుతున్న నక్క, కుండలోని నీళ్ళ వైపు చూసింది. నీటిలో — మాంసం ముక్క ప్రతిబింబం స్పష్టంగా కనిపించింది. ప్రతిబింబం కదిలే నీటిలో మరింత పెద్దదిగా, లావుగా మెరుస్తోంది. నక్క కళ్ళల్లో ఒక్కసారిగా అత్యాశ మెరిసింది, దాని బుర్రలో ఓ పన్నాగం మొదలైంది. “ఒకటి కాదు, రెండు ముక్కలు! అదైతే ఇంకా పెద్దది!” అని దాని మనసులో ఆలోచించింది. తన కళ్ళ ముందు — ఇంకొక విందు!",
+      "image_prompt": "The fox looks down into a large clay pot, seeing the reflection of the meat piece in the water. Its eyes gleam with sudden greed as the reflection appears larger and more enticing in the rippling water. Bright, almost glaring light reflecting off the water in the bucket, making the reflection seem more prominent than the real meat.",
+      "scene_visual": "The fox looks down into a large clay pot, seeing the reflection of the meat piece in the water. Its eyes gleam with sudden greed as the reflection appears larger and more enticing in the rippling water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Maansaanni Pattukovadaaniki Siddhamavutunna Nakka, Kundaloni Nilla Vaipu Chusindi. Nitilo — Maansam Mukka Pratibimbam Spashtangaa Kanipinchindi. Pratibimbam Kadile Nitilo Marinta Peddadigaa, Laavugaa Merustondi. Nakka Kallallo Okkasaarigaa Atyaasha Merisindi, Daani Burralo O Pannaagam Modalaindi. “Okati Kaadu, Rendu Mukkalu! Adaite Inkaa Peddadi!” Ani Daani Manasulo Aalochinchindi. Tana Kalla Mundu — Inkoka Vindu!",
+      "text_en": "As the fox got ready to grab the meat, it looked towards the water in the pot. In the water — a clear reflection of the meat appeared. The reflection looked even bigger and fatter in the moving water. Suddenly, greed sparkled in the fox's eyes, and a plan began in its mind. \"Not one, but two pieces! And that one is even bigger!\" it thought to itself. Right before its eyes — another feast!"
+    },
+    {
+      "id": 4,
+      "text": "ఒక్క క్షణం కూడా ఆలోచించకుండా, నక్క బల్ల మీద ఉన్న మాంసాన్ని నోట కరుచుకుంది. కానీ దాని కళ్ళు మాత్రం నీటిలోని ప్రతిబింబంపైనే ఉన్నాయి, అది ఆ పెద్ద ముక్కను కూడా వదులుకోవడానికి సిద్ధంగా లేదు. ఆతృతగా, అది నోటిలోని మాంసాన్ని వదిలేసి, నీటిలోని ప్రతిబింబంపై లంఘించింది — పెద్ద చప్పుడుతో నీళ్ళు చిందాయి. “ఛీ! ఎక్కడికి పోయింది?” అని అది నిరాశగా అరిచింది. ఒక్క క్షణంలో — అంతా చేజారిపోయింది.",
+      "image_prompt": "The fox drops the meat it holds in its mouth and eagerly pounces into the large pot of water. Water splashes loudly as it plunges in, its eyes still fixed on the disappearing reflection. Bright, overhead sun, but with a slight shadow cast by the fox's body over the bucket, emphasizing the dark, opaque water.",
+      "scene_visual": "The fox drops the meat it holds in its mouth and eagerly pounces into the large pot of water. Water splashes loudly as it plunges in, its eyes still fixed on the disappearing reflection.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okka Kshanam Kudaa Aalochinchakundaa, Nakka Balla Mida Unna Maansaanni Nota Karuchukundi. Kaani Daani Kallu Maatram Nitiloni Pratibimbampaine Unnaayi, Adi Aa Pedda Mukkanu Kudaa Vadulukovadaaniki Siddhangaa Ledu. Aatrritagaa, Adi Notiloni Maansaanni Vadilesi, Nitiloni Pratibimbampai Langhinchindi — Pedda Chappuduto Nillu Chindaayi. “Chi! Ekkadiki Poyindi?” Ani Adi Niraashagaa Arichindi. Okka Kshananlo — Antaa Chejaaripoyindi.",
+      "text_en": "Without thinking for even a moment, the fox bit into the meat on the table. But its eyes were still fixed on the reflection in the water; it wasn't ready to give up that big piece either. Eagerly, it dropped the meat from its mouth and pounced on the reflection in the water — water splashed with a loud noise. \"Oh no! Where did it go?\" it cried out in disappointment. In an instant — everything was lost."
+    },
+    {
+      "id": 5,
+      "text": "నీటిలోని అలలు నెమ్మదిగా సద్దుమణిగాయి, అప్పుడు నక్కకు స్పష్టంగా కనిపించింది — కుండలో ఏ మాంసం ముక్కా లేదు. నీళ్ళు నిశ్శబ్దంగా, చల్లగా ఉన్నాయి, దాని కళ్ళ ముందు కేవలం బురద అడుగు భాగం మాత్రమే కనిపించింది. దాని చెవులు ఒక్కసారిగా వాలిపోయాయి, దాని తప్పు నెమ్మదిగా అర్థం కాసాగింది. “నా అత్యాశ వల్ల అంతా పోయింది!” అని నిట్టూర్చింది. కింద — బురద తప్ప ఏమీ లేదు.",
+      "image_prompt": "The fox stands in the now still water, looking down at the muddy bottom of the pot. Its ears droop in sudden realization as it sees no meat, only cold, silent water. The sun is still bright, but the scene feels dimmer around the fox, reflecting his internal disappointment.",
+      "scene_visual": "The fox stands in the now still water, looking down at the muddy bottom of the pot. Its ears droop in sudden realization as it sees no meat, only cold, silent water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nitiloni Alalu Nemmadigaa Saddumanigaayi, Appudu Nakkaku Spashtangaa Kanipinchindi — Kundalo E Maansam Mukkaa Ledu. Nillu Nishshabdangaa, Challagaa Unnaayi, Daani Kalla Mundu Kevalam Burada Adugu Bhaagam Maatrame Kanipinchindi. Daani Chevulu Okkasaarigaa Vaalipoyaayi, Daani Tappu Nemmadigaa Artham Kaasaagindi. “Naa Atyaasha Valla Antaa Poyindi!” Ani Nitturchindi. Kinda — Burada Tappa Emi Ledu.",
+      "text_en": "The ripples in the water slowly settled, and then the fox clearly saw — there was no piece of meat in the pot. The water was still and cold, and only the muddy bottom was visible before its eyes. Its ears drooped suddenly, and it slowly began to understand its mistake. \"Because of my greed, everything is lost!\" it sighed. Below — there was nothing but mud."
+    },
+    {
+      "id": 6,
+      "text": "తన తప్పు తెలుసుకున్న నక్క, నిరాశగా అక్కడే కూలబడిపోయింది, దాని కడుపులో ఆకలి మళ్ళీ గట్టిగా అరవడం మొదలుపెట్టింది. అది తన ఖాళీ పాదాలను చూసుకుంటూ, జరిగిన సంఘటనను తలుచుకుంటూ కూర్చుంది. ఆకలితో దాని కడుపులోంచి వచ్చిన ఖాళీ శబ్దం, ఆ నిశ్శబ్ద వాతావరణంలో ఇంకా గట్టిగా వినిపించింది. “ఒకటి దొరికినప్పుడు, రెండోది కోరకూడదు,” అని అది తనలో తాను గొణుక్కుంది. దాని గుండెలో — ఓ బరువైన నిట్టూర్పు.",
+      "image_prompt": "The fox sits dejectedly on the ground, its body slumped in despair. It stares at its empty paws, a heavy sigh escaping its chest in the quiet surroundings. The sun begins to soften, casting longer, melancholy shadows, emphasizing the fox's loneliness and defeat.",
+      "scene_visual": "The fox sits dejectedly on the ground, its body slumped in despair. It stares at its empty paws, a heavy sigh escaping its chest in the quiet surroundings.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Tappu Telusukunna Nakka, Niraashagaa Akkade Kulabadipoyindi, Daani Kadupulo Aakali Malli Gattigaa Aravadam Modalupettindi. Adi Tana Khaali Paadaalanu Chusukuntu, Jarigina Sanghatananu Taluchukuntu Kurchundi. Aakalito Daani Kadupulonchi Vachchina Khaali Shabdan, Aa Nishshabda Vaataavarananlo Inkaa Gattigaa Vinipinchindi. “Okati Dorikinappudu, Rendodi Korakudadu,” Ani Adi Tanalo Taanu Gonukkundi. Daani Gundelo — O Baruvaina Nitturpu.",
+      "text_en": "Realizing its mistake, the fox slumped down in disappointment, its stomach rumbling loudly with hunger again. It sat there, looking at its empty paws, thinking about what had happened. The empty sound from its hungry stomach echoed even louder in the quiet atmosphere. \"When you get one thing, you shouldn't wish for a second,\" it mumbled to itself. In its heart — a heavy sigh."
+    },
+    {
+      "id": 7,
+      "text": "నక్క నెమ్మదిగా తల వంచుకుని, తన తోకను నేల మీద ఈడుస్తూ, ఆ మాంసం కొట్టు దగ్గర నుండి దూరంగా నడిచిపోయింది. దాని కడుపులో ఆకలి నొప్పితో పాటు, మనసులో ఒక చేదు పాఠం కూడా గట్టిగా నాటుకుపోయింది. “నేను పొరబడ్డాను,” అని అది తనలో తాను చెప్పుకుంటూ, ఊరి బయటి దారి వెంట అడుగులు వేసింది. ఆకలి — అతనికి గుణపాఠం నేర్పింది.",
+      "image_prompt": "The fox slowly walks away from the shop, its head bowed low. Its tail drags heavily on the ground behind it, reflecting its deep disappointment. Gentle dusk light, warm amber, painting the landscape in a peaceful yet slightly somber hue as the fox disappears into the distance.",
+      "scene_visual": "The fox slowly walks away from the shop, its head bowed low. Its tail drags heavily on the ground behind it, reflecting its deep disappointment.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Nemmadigaa Tala Vanchukuni, Tana Tokanu Nela Mida Idustu, Aa Maansam Kottu Daggara Nundi Durangaa Nadichipoyindi. Daani Kadupulo Aakali Noppito Paatu, Manasulo Oka Chedu Paatham Kudaa Gattigaa Naatukupoyindi. “Nenu Porabaddaanu,” Ani Adi Tanalo Taanu Cheppukuntu, Uri Bayati Daari Venta Adugulu Vesindi. Aakali — Ataniki Gunapaatham Nerpindi.",
+      "text_en": "The fox slowly lowered its head, dragging its tail on the ground, and walked away from the butcher shop. Along with the pain of hunger in its stomach, a bitter lesson was firmly planted in its mind. \"I made a mistake,\" it told itself, as it walked along the path out of the village. Hunger — had taught it a lesson."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 6.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 4,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 6.83,
+    "weakest_dimension": "grammar_correctness",
+    "notes": "The story presents a classic fable with a compelling narrative arc and good potential for child engagement through sensory details and internal monologues. However, the most significant flaw is the repeated grammatical errors in gender agreement for the fox, which severely undermine the authenticity and correctness. Refining these basic grammatical issues and rephrasing some of the more formal descriptions into colloquial Telugu would transform this into an award-worthy piece."
+  },
+  "quality_warning": true,
+  "title_te_en": "Nakka Atyaasha, Nida Maaya",
+  "moral_te_en": "Chetilo Unnadaanni Vadili, Lenidaani Kosam Aashapadite, Unnadi Kudaa Potundi.",
+  "title_en": "The Fox's Greed and the Water's Illusion",
+  "moral_en": "If you leave what you have for something you don't, you might lose even what you had.",
+  "id": "20260602_101122",
+  "date": "2026-06-02",
+  "category": "panchatantra",
+  "subcategory": "animal_wisdom",
+  "topic": "పంచతంత్రం - అత్యాశపరుడైన నక్క మరియు నీడలో కనిపించిన ఆహారం",
+  "thumbnail": "stories/20260602_101122/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
