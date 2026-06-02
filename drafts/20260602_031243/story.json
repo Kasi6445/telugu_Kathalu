@@ -1,0 +1,107 @@
+{
+  "title": "చిరునవ్వుల వెన్న వేట",
+  "moral": "పక్కవారి చిరునవ్వులో మన సంతోషం వెతుకుంటే, ఆ ఆనందం ఎప్పుడూ తరగదు కన్నా.",
+  "main_character": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The lush, green forests and banks of the sacred Yamuna River in Vrindavan, filled with grazing cows and ancient trees. The sun is always bright and warm, casting dappled light. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "వృందావనంలో, యమునా నది ఒడ్డున, కన్నయ్య తన స్నేహితులతో దాగుడుమూతలు ఆడుకుంటున్నాడు కన్నా. పచ్చని చెట్ల చాటున దాక్కుంటూ, వారి నవ్వులు అడవి అంతా మారుమోగాయి — అడుగుల కింద నలిగిన పూల సువాసన గాలిలో తేలింది. కన్నయ్య కళ్ళల్లో చిలిపితనం మెరుస్తూ, ఒక పెద్ద మామిడి చెట్టు వెనుక నుండి తొంగి చూశాడు. అంతలో బలరాముడు ఒక్కసారిగా దూకుతూ, \"దొంగ! దొంగ! కృష్ణా, నిన్ను పట్టుకున్నాను!\" అని సంతోషంగా అరిచాడు. ఆటలో మునిగి ఉన్న బలరాముడు, నది ఒడ్డున ఒంటరిగా కూర్చున్న ఒక చిన్న పిల్లాడిని చూసి ఒక్క క్షణం ఆగిపోయాడు.",
+      "image_prompt": "The boy jumps out from behind a large mango tree, excitedly shouting 'Thief! Thief!' His face is beaming with joy as he catches the other boy in their game. SUPPORTING CHARACTER also in this scene: Balarama — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Bright, warm morning sunlight dappling through the dense green leaves of the trees, creating playful patterns on the forest floor.",
+      "scene_visual": "The boy jumps out from behind a large mango tree, excitedly shouting 'Thief! Thief!' His face is beaming with joy as he catches the other boy in their game.",
+      "supporting_char_keys": [
+        "balarama"
+      ],
+      "text_te_en": "Vrrindaavananlo, Yamunaa Nadi Odduna, Kannayya Tana Snehitulato Daagudumutalu Aadukuntunnaadu Kannaa. Pachchani Chetla Chaatuna Daakkuntu, Vaari Navvulu Adavi Antaa Maarumogaayi — Adugula Kinda Naligina Pula Suvaasana Gaalilo Telindi. Kannayya Kallallo Chilipitanam Merustu, Oka Pedda Maamidi Chettu Venuka Nundi Tongi Chushaadu. Antalo Balaraamudu Okkasaarigaa Dukutu, \"Donga! Donga! Krrishnaa, Ninnu Pattukunnaanu!\" Ani Santoshangaa Arichaadu. Aatalo Munigi Unna Balaraamudu, Nadi Odduna Ontarigaa Kurchunna Oka Chinna Pillaadini Chusi Okka Kshanam Aagipoyaadu.",
+      "text_en": "In Vrindavan, on the banks of the Yamuna river, Kannaiah was playing hide-and-seek with his friends. Hiding behind green trees, their laughter echoed throughout the forest — the fragrance of crushed flowers underfoot floated in the air. Mischief sparkled in Kannaiah's eyes as he peeked from behind a big mango tree. Just then, Balarama suddenly jumped out, happily shouting, \"Thief! Thief! Krishna, I caught you!\" Balarama, engrossed in the game, paused for a moment when he saw a small boy sitting alone on the river bank."
+    },
+    {
+      "id": 2,
+      "text": "అప్పుడు కదూ, బలరాముడి చూపులు నది ఒడ్డున, మిగతా పిల్లల అల్లరి నుండి దూరంగా కూర్చున్న ఆ చిన్న గోపాలుడి మీద పడ్డాయి. ఆ చిన్నవాడు తల దించుకుని, తన కళ్ళతోనే ఆ ఆటను ఆస్వాదిస్తున్నాడు — అతని ముఖం ఏదో తెలియని బాధతో నిండి ఉంది. యమునా నది అలలు మెల్లగా ఇసుకను తాకుతూ, ఒక మధురమైన పాట పాడుతున్నట్లు వినిపించింది. బలరాముడు కృష్ణుడి భుజం తట్టి, గొంతు తగ్గించి, \"కృష్ణా, ఆ చిన్నవాడు ఒంటరిగా ఉన్నాడు,\" అన్నాడు. కన్నయ్య నవ్వు ఆపి, ఆ చిన్నవాడి వైపు చూశాడు — అతని చిలిపి చూపులు ఒక్కసారిగా ఆలోచనల్లో పడిపోయాయి.",
+      "image_prompt": "A small boy sits alone by the riverbank, his head bowed low. His face is filled with an unknown sadness as he watches the other children play. SUPPORTING CHARACTER also in this scene: Balarama — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Soft, slightly diffused daylight near the riverbank, with a gentle haze over the water, highlighting the boy's isolation.",
+      "scene_visual": "A small boy sits alone by the riverbank, his head bowed low. His face is filled with an unknown sadness as he watches the other children play.",
+      "supporting_char_keys": [
+        "balarama"
+      ],
+      "text_te_en": "Appudu Kadu, Balaraamudi Chupulu Nadi Odduna, Migataa Pillala Allari Nundi Durangaa Kurchunna Aa Chinna Gopaaludi Mida Paddaayi. Aa Chinnavaadu Tala Dinchukuni, Tana Kallatone Aa Aatanu Aasvaadistunnaadu — Atani Mukham Edo Teliyani Baadhato Nindi Undi. Yamunaa Nadi Alalu Mellagaa Isukanu Taakutu, Oka Madhuramaina Paata Paadutunnatlu Vinipinchindi. Balaraamudu Krrishnudi Bhujam Tatti, Gontu Tagginchi, \"Krrishnaa, Aa Chinnavaadu Ontarigaa Unnaadu,\" Annaadu. Kannayya Navvu Aapi, Aa Chinnavaadi Vaipu Chushaadu — Atani Chilipi Chupulu Okkasaarigaa Aalochanallo Padipoyaayi.",
+      "text_en": "That's when Balarama's gaze fell upon the small cowherd boy sitting alone on the river bank, away from the other children's playful noise. The little boy had his head down, enjoying the game with his eyes — his face was filled with an unknown sadness. The waves of the Yamuna river gently touched the sand, sounding like a sweet song. Balarama tapped Kannaiah's shoulder and, lowering his voice, said, \"Krishna, that little boy is all alone.\" Kannaiah stopped laughing and looked at the little boy — his mischievous eyes suddenly became thoughtful."
+    },
+    {
+      "id": 3,
+      "text": "కన్నయ్య, బలరాముడు మెల్లగా అడుగులు వేసుకుంటూ, ఆ చిన్న గోపాలుడి దగ్గరికి వెళ్లారు. కన్నయ్య తన చేతిలో ఉన్న ఇప్పుడే చిలికిన తెల్లటి వెన్న ముద్దను ఆ చిన్నవాడికి అందించాడు — ఆ వెన్న చల్లగా, మెత్తగా కృష్ణుడి అరచేతిలో మెరుస్తోంది. \"చిన్నవాడా, ఈ వెన్న చాలా రుచికరమైనది. కొంచెం తిను!\" అని కన్నయ్య ప్రేమగా పలకరించాడు. కానీ ఆ చిన్నవాడు తల వంచుకుని, మెల్లగా 'వద్దు' అన్నట్లు తల అడ్డంగా ఊపాడు. అతని కళ్ళల్లోని బాధ ఇంకా తొలగలేదు — ఒక క్షణం కృష్ణుడి కళ్ళలోకి చూసి, మళ్ళీ చూపులు దించుకున్నాడు.",
+      "image_prompt": "The boy offers a fresh, white lump of butter to the small boy. The small boy shakes his head 'no', his eyes still downcast with sadness. SUPPORTING CHARACTER also in this scene: Balarama — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Direct, warm sunlight on their faces, contrasting with the shy boy's downcast eyes, casting soft shadows.",
+      "scene_visual": "The boy offers a fresh, white lump of butter to the small boy. The small boy shakes his head 'no', his eyes still downcast with sadness.",
+      "supporting_char_keys": [
+        "balarama"
+      ],
+      "text_te_en": "Kannayya, Balaraamudu Mellagaa Adugulu Vesukuntu, Aa Chinna Gopaaludi Daggariki Vellaaru. Kannayya Tana Chetilo Unna Ippude Chilikina Tellati Venna Muddanu Aa Chinnavaadiki Andinchaadu — Aa Venna Challagaa, Mettagaa Krrishnudi Arachetilo Merustondi. \"Chinnavaadaa, I Venna Chaalaa Ruchikaramainadi. Konchem Tinu!\" Ani Kannayya Premagaa Palakarinchaadu. Kaani Aa Chinnavaadu Tala Vanchukuni, Mellagaa 'Vaddu' Annatlu Tala Addangaa Upaadu. Atani Kallalloni Baadha Inkaa Tolagaledu — Oka Kshanam Krrishnudi Kallaloki Chusi, Malli Chupulu Dinchukunnaadu.",
+      "text_en": "Kannaiah and Balarama slowly walked towards the little cowherd boy. Kannaiah offered the fresh, white lump of butter in his hand to the little boy — the butter was cool and soft, glistening in Kannaiah's palm. \"Little one, this butter is very delicious. Have some!\" Kannaiah said kindly. But the little boy bowed his head and gently shook it sideways, as if to say 'no'. The sadness in his eyes had not yet disappeared — he looked into Kannaiah's eyes for a moment, then lowered his gaze again."
+    },
+    {
+      "id": 4,
+      "text": "ఆ చిన్నవాడిని సంతోషపెట్టడానికి కన్నయ్య మనసులో ఏదో మెరిసింది. బలరాముడి చెవి దగ్గరగా వంగి, కన్నయ్య రహస్యంగా గుసగుసలాడడం మొదలుపెట్టాడు — అతని కళ్ళల్లో ఒక కొత్త చిలిపితనం తొణికిసలాడింది. ఆ గుసగుసలు వినడానికి బలరాముడు తన చెవిని కన్నయ్యకు మరింత దగ్గరగా పెట్టాడు. \"బలరామా, మనమందరం వెన్నని దాచి, ఆ చిన్నవాడిని వెతకమని చెబుదాం! ఏమంటావ్?\" అని కన్నయ్య మెల్లగా అడిగాడు. బలరాముడు కన్నయ్య మాటలు వినగానే — అతని ముఖంలో ఒక్కసారిగా పెద్ద చిరునవ్వు వికసించింది.",
+      "image_prompt": "The boy leans in close to the other boy's ear, whispering a secret plan. A wide smile instantly spreads across the other boy's face as he listens intently. SUPPORTING CHARACTER also in this scene: Balarama — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A moment of bright inspiration, with a subtle golden glow around Krishna as he devises his plan, Balarama's face illuminated by understanding.",
+      "scene_visual": "The boy leans in close to the other boy's ear, whispering a secret plan. A wide smile instantly spreads across the other boy's face as he listens intently.",
+      "supporting_char_keys": [
+        "balarama"
+      ],
+      "text_te_en": "Aa Chinnavaadini Santoshapettadaaniki Kannayya Manasulo Edo Merisindi. Balaraamudi Chevi Daggaragaa Vangi, Kannayya Rahasyangaa Gusagusalaadadam Modalupettaadu — Atani Kallallo Oka Kotta Chilipitanam Tonikisalaadindi. Aa Gusagusalu Vinadaaniki Balaraamudu Tana Chevini Kannayyaku Marinta Daggaragaa Pettaadu. \"Balaraamaa, Manamandaram Vennani Daachi, Aa Chinnavaadini Vetakamani Chebudaan! Emantaav?\" Ani Kannayya Mellagaa Adigaadu. Balaraamudu Kannayya Maatalu Vinagaane — Atani Mukhanlo Okkasaarigaa Pedda Chirunavvu Vikasinchindi.",
+      "text_en": "Something sparked in Kannaiah's mind to make the little boy happy. Leaning close to Balarama's ear, Kannaiah began to whisper secretly — a new mischief sparkled in his eyes. To hear the whispers, Balarama brought his ear even closer to Kannaiah. \"Balarama, let's all hide the butter and tell the little boy to find it! What do you say?\" Kannaiah asked softly. As soon as Balarama heard Kannaiah's words — a big smile suddenly bloomed on his face."
+    },
+    {
+      "id": 5,
+      "text": "అప్పుడు మొదలైంది కదూ, కన్నయ్య ఏర్పాటు చేసిన వెన్న వేట! మిగతా పిల్లలందరూ ఆ చిన్నవాడి చుట్టూ చేరి, ఉత్సాహంగా అరుస్తున్నారు — వారి ఆనందపు అరుపులు, కిలకిలరావాలు అడవిలో మారుమోగాయి. \"అక్కడ! అక్కడ వెతుకు, చిన్నవాడా! నీకు దొరుకుతుంది!\" అని కన్నయ్య మెల్లగా అడుగుతూ, ఆ చిన్నవాడిని దాచిన వెన్న కుండ వైపు నడిపించాడు. ఆ చిన్నవాడు ఆశ్చర్యంగా చుట్టూ చూస్తూ, కన్నయ్య చూపించిన చోట వెతకడం మొదలుపెట్టాడు. వెన్న కుండ దొరకగానే — అతను ఒక్కసారిగా ఆనందంతో కేక పెట్టాడు!",
+      "image_prompt": "The small boy searches with surprise where the main boy points, surrounded by other children. He lets out a joyful shout as he discovers the hidden pot of butter. SUPPORTING CHARACTER also in this scene: Balarama — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Mid-morning sun, bright and clear, emphasizing the energetic play, with a warm, inviting light on the shy gopala's face as he participates.",
+      "scene_visual": "The small boy searches with surprise where the main boy points, surrounded by other children. He lets out a joyful shout as he discovers the hidden pot of butter.",
+      "supporting_char_keys": [
+        "balarama"
+      ],
+      "text_te_en": "Appudu Modalaindi Kadu, Kannayya Erpaatu Chesina Venna Veta! Migataa Pillalandaru Aa Chinnavaadi Chuttu Cheri, Utsaahangaa Arustunnaaru — Vaari Aanandapu Arupulu, Kilakilaraavaalu Adavilo Maarumogaayi. \"Akkada! Akkada Vetuku, Chinnavaadaa! Niku Dorukutundi!\" Ani Kannayya Mellagaa Adugutu, Aa Chinnavaadini Daachina Venna Kunda Vaipu Nadipinchaadu. Aa Chinnavaadu Aashcharyangaa Chuttu Chustu, Kannayya Chupinchina Chota Vetakadam Modalupettaadu. Venna Kunda Dorakagaane — Atanu Okkasaarigaa Aanandanto Keka Pettaadu!",
+      "text_en": "And so began the butter hunt arranged by Kannaiah! All the other children gathered around the little boy, excitedly shouting — their joyful cries and chirps echoed in the forest. \"There! Look there, little one! You'll find it!\" Kannaiah gently guided the little boy towards the hidden butter pot. The little boy looked around in surprise and began searching where Kannaiah pointed. As soon as he found the butter pot — he suddenly let out a shout of joy!"
+    },
+    {
+      "id": 6,
+      "text": "ఆ క్షణంలో, ఆ చిన్న గోపాలుడి ముఖంలో సిగ్గు, బాధ మాయమై, ఒక గొప్ప చిరునవ్వు వికసించింది. అందరూ కలిసి ఆ వెన్నను పంచుకుంటూ తిన్నారు — వారి ముఖాల నిండా వెన్న అంటుకుని, తీయని కమ్మని రుచిని ఆస్వాదించారు. వారి నవ్వులు యమునా నది ఒడ్డున సందడి చేశాయి. కన్నయ్య ఆ దృశ్యం చూసి, అతని మనసు ప్రశాంతతతో నిండిపోయింది — తన హృదయం లోతుల్లో ఒక గొప్ప ఆనందాన్ని అనుభవించాడు. \"చూడు, బలరామా! మన స్నేహితుడు ఎంత సంతోషంగా ఉన్నాడో!\" అని కన్నయ్య చిరునవ్వుతో అన్నాడు.",
+      "image_prompt": "The small boy's face lights up with a big smile, his shyness and sadness gone. He and the other children eat the butter, their faces smeared with the sweet treat. SUPPORTING CHARACTER also in this scene: Balarama — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle golden light of late morning, soft and warm, illuminating the happy, butter-smeared faces of the children, creating a scene of pure, innocent contentment.",
+      "scene_visual": "The small boy's face lights up with a big smile, his shyness and sadness gone. He and the other children eat the butter, their faces smeared with the sweet treat.",
+      "supporting_char_keys": [
+        "balarama"
+      ],
+      "text_te_en": "Aa Kshananlo, Aa Chinna Gopaaludi Mukhanlo Siggu, Baadha Maayamai, Oka Goppa Chirunavvu Vikasinchindi. Andaru Kalisi Aa Vennanu Panchukuntu Tinnaaru — Vaari Mukhaala Nindaa Venna Antukuni, Tiyani Kammani Ruchini Aasvaadinchaaru. Vaari Navvulu Yamunaa Nadi Odduna Sandadi Cheshaayi. Kannayya Aa Drrishyam Chusi, Atani Manasu Prashaantatato Nindipoyindi — Tana Hrridayam Lotullo Oka Goppa Aanandaanni Anubhavinchaadu. \"Chudu, Balaraamaa! Mana Snehitudu Enta Santoshangaa Unnaado!\" Ani Kannayya Chirunavvuto Annaadu.",
+      "text_en": "In that moment, the shyness and sadness on the little cowherd boy's face disappeared, and a big smile bloomed. Everyone shared and ate the butter together — their faces covered in butter, enjoying the sweet and delicious taste. Their laughter filled the banks of the Yamuna river with cheer. Kannaiah watched the scene, and his heart was filled with peace — he experienced a great joy deep within his heart. \"Look, Balarama! How happy our friend is!\" Kannaiah said with a smile."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "balarama",
+      "description": "Balarama: a young prince (slightly older than Krishna) with a fair, almost white complexion, strong and muscular. Wearing blue garments and carrying a plough (hala) and a mace (musala). Calm, protective expression; the devoted elder brother. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 7,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.1,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This is a beautifully crafted story, demonstrating exceptional grammar, a compelling narrative arc, and high child engagement. The oral storytelling warmth is evident throughout, making it feel like a genuine bedtime tale. The primary area for refinement lies in consistently showing emotions through actions and body language rather than stating them directly. Eliminating the few instances of 'telling' would elevate the emotional depth to match the story's otherwise award-worthy quality."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chirunavvula Venna Veta",
+  "moral_te_en": "Pakkavaari Chirunavvulo Mana Santosham Vetukunte, Aa Aanandam Eppudu Taragadu Kannaa.",
+  "title_en": "The Smile Butter Hunt",
+  "moral_en": "Dear child, if we find our happiness in the smiles of others, that joy will never end.",
+  "id": "20260602_031243",
+  "date": "2026-06-02",
+  "category": "bhagavatam",
+  "subcategory": "krishna_leela",
+  "topic": "బలరామ కృష్ణుల బాల్యక్రీడలు - నిస్వార్థ ఆనందం",
+  "thumbnail": "stories/20260602_031243/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
