@@ -1,0 +1,98 @@
+{
+  "title": "క్షమించిన చిలుక, మారిన స్నేహం",
+  "moral": "ఎవరైనా మనకు కష్టం కలిగించినా, దయతో క్షమించడం అందరికీ ఆనందాన్ని, శాంతిని తెస్తుంది.",
+  "main_character": "చింటు (Chintu) is a small, vibrant green parrot with bright blue tail feathers. It has a gentle demeanor and always looks for ways to help others. Always the same character across every scene.",
+  "antagonist": "పింటు (Pintu) is a slightly larger, duller green parrot with ruffled feathers and a perpetually slightly downturned beak. It often looks sideways, as if suspicious. Always the same character across every scene.",
+  "setting": "A lush, verdant forest bordering a small Telugu village named 'మామిడిపల్లి' (Mamidi Palli). Tall mango trees, a winding river, and colourful hibiscus flowers are prominent. The sun is usually bright and warm. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మామిడిపల్లి అడవిలో చింటు అనే చిలుక, తన చెట్టు పండ్లు అందరితో పంచుకుంటూ పాటలు పాడుతోంది. దాని తీయని కిలకిలరావాలు అడవి అంతా వినిపించాయి. నోరూరించే మామిడి పండ్లను అందరి ముందు ఉంచుతూ, చింటు తల వంచి ఆహ్వానించింది. \"ఈ మామిడి పండ్లు చాలా తీయగా ఉన్నాయి, అందరూ రుచి చూడండి!\" అని సంతోషంగా అంది. ఆ తీయని రసం — ఆకులపై కిందికి జారింది. అడవి జీవులు ఆ మామిడి పండ్లను ఆనందంగా తింటూ ఉండగా, పక్క కొమ్మ మీద నుండి పింటు కళ్ళు సన్నగా చేసి చూసింది.",
+      "image_prompt": "The parrot offers ripe mangoes to other forest creatures, bowing its head in invitation. A drop of sweet mango juice drips down a leaf as another parrot watches from a nearby branch with narrowed eyes. Also in this scene: పింటు (Pintu) is a slightly larger, duller green parrot with ruffled feathers and a perpetually slightly downturned beak. It often looks sideways, as if suspicious. Always the same character across every scene. Bright morning sun filters through dense green mango leaves, creating dappled golden light on the forest floor, feeling warm and inviting.",
+      "scene_visual": "The parrot offers ripe mangoes to other forest creatures, bowing its head in invitation. A drop of sweet mango juice drips down a leaf as another parrot watches from a nearby branch with narrowed eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Maamidipalli Adavilo Chintu Ane Chiluka, Tana Chettu Pandlu Andarito Panchukuntu Paatalu Paadutondi. Daani Tiyani Kilakilaraavaalu Adavi Antaa Vinipinchaayi. Norurinche Maamidi Pandlanu Andari Mundu Unchutu, Chintu Tala Vanchi Aahvaaninchindi. \"I Maamidi Pandlu Chaalaa Tiyagaa Unnaayi, Andaru Ruchi Chudandi!\" Ani Santoshangaa Andi. Aa Tiyani Rasam — Aakulapai Kindiki Jaarindi. Adavi Jivulu Aa Maamidi Pandlanu Aanandangaa Tintu Undagaa, Pakka Komma Mida Nundi Pintu Kallu Sannagaa Chesi Chusindi.",
+      "text_en": "In the Mamidipalli forest, a parrot named Chintu was singing songs and sharing the fruits from her tree with everyone. Her sweet chirps echoed throughout the forest. Placing the mouth-watering mangoes before everyone, Chintu bowed her head and invited them. \"These mangoes are very sweet, everyone taste them!\" she said happily. The sweet juice — dripped down onto the leaves. While the forest creatures happily ate the mangoes, Pintu watched from a nearby branch, narrowing her eyes."
+    },
+    {
+      "id": 2,
+      "text": "ఆ రోజు మధ్యాహ్నం, చింటు తన ఇష్టమైన కొమ్మపై ఒక అద్భుతమైన మామిడి పండును చూసింది. బంగారు రంగులో, మిగతావాటికంటే రెండింతలు పెద్దగా ఉంది అది. దాని కళ్ళు — ఆశ్చర్యంతో పెద్దవయ్యాయి! తన ముక్కుతో ఆ పండు నునుపైన, కొద్దిగా వెచ్చని చర్మాన్ని మెల్లగా తాకింది. \"అబ్బా! ఇంత పెద్ద, అందమైన మామిడి పండు ఎప్పుడూ చూడలేదు!\" అని మెల్లగా ముణుముణులాడింది. ఇంతలో, పింటు చెట్టుపై నుండి వేగంగా రెక్కలు కొట్టుకుంటూ ఎగిరిపోయింది, దాని నీడ చింటు పండుపై ఒక క్షణం పడింది.",
+      "image_prompt": "The parrot gently touches a large, golden mango with its beak, its eyes wide with surprise. As it admires the fruit, the shadow of another parrot briefly falls upon the mango as it flies away rapidly. Also in this scene: పింటు (Pintu) is a slightly larger, duller green parrot with ruffled feathers and a perpetually slightly downturned beak. It often looks sideways, as if suspicious. Always the same character across every scene. Soft, warm afternoon light bathes the mango tree in a gentle yellow glow, highlighting the golden fruit, peaceful and serene.",
+      "scene_visual": "The parrot gently touches a large, golden mango with its beak, its eyes wide with surprise. As it admires the fruit, the shadow of another parrot briefly falls upon the mango as it flies away rapidly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Roju Madhyaahnan, Chintu Tana Ishtamaina Kommapai Oka Adbhutamaina Maamidi Pandunu Chusindi. Bangaaru Rangulo, Migataavaatikante Rendintalu Peddagaa Undi Adi. Daani Kallu — Aashcharyanto Peddavayyaayi! Tana Mukkuto Aa Pandu Nunupaina, Koddigaa Vechchani Charmaanni Mellagaa Taakindi. \"Abbaa! Inta Pedda, Andamaina Maamidi Pandu Eppudu Chudaledu!\" Ani Mellagaa Munumunulaadindi. Intalo, Pintu Chettupai Nundi Vegangaa Rekkalu Kottukuntu Egiripoyindi, Daani Nida Chintu Pandupai Oka Kshanam Padindi.",
+      "text_en": "That afternoon, Chintu saw a wonderful mango on her favorite branch. It was golden in color, twice as big as the others. Her eyes — widened with surprise! With her beak, she gently touched the fruit's smooth, slightly warm skin. \"Wow! I've never seen such a big, beautiful mango!\" she murmured softly. Just then, Pintu flew quickly from the tree, flapping her wings, and her shadow fell on Chintu's mango for a moment."
+    },
+    {
+      "id": 3,
+      "text": "ఆ రాత్రి, అడవి నిశ్శబ్దంగా ఉన్నప్పుడు, పింటు చింటు చెట్టు దగ్గరకు తిరిగి వచ్చింది. దాని ముక్కు కొద్దిగా పైకి లేచి, చెడు ఆలోచనను బయటపెట్టింది. మామిడి చెట్టు బెరడును, వేళ్ళను బలంగా పొడుస్తూనే ఉంది. \"ఇప్పుడు ఆ చింటు గర్వం ఏమవుతుందో చూద్దాం!\" అని తనలో తనే గొణుక్కుంది. ఆ నిశ్శబ్ద రాత్రిలో — చెట్టు బెరడు చీలికలయ్యాయి. తన పని పూర్తయ్యాక, పింటు చీకట్లోకి కలిసిపోయింది, దాని వెనక చెట్టు ఆకులు కొద్దిగా వణికాయి.",
+      "image_prompt": "Under the cover of night, the parrot aggressively pecks at the tree's bark and roots with its beak. In the silent darkness, pieces of bark splinter and fall as the tree's leaves subtly tremble after the parrot disappears. Also in this scene: పింటు (Pintu) is a slightly larger, duller green parrot with ruffled feathers and a perpetually slightly downturned beak. It often looks sideways, as if suspicious. Always the same character across every scene. Deep indigo twilight, almost dark, with only faint moonlight piercing through the dense canopy, casting long, unsettling shadows on the tree trunk.",
+      "scene_visual": "Under the cover of night, the parrot aggressively pecks at the tree's bark and roots with its beak. In the silent darkness, pieces of bark splinter and fall as the tree's leaves subtly tremble after the parrot disappears.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raatri, Adavi Nishshabdangaa Unnappudu, Pintu Chintu Chettu Daggaraku Tirigi Vachchindi. Daani Mukku Koddigaa Paiki Lechi, Chedu Aalochananu Bayatapettindi. Maamidi Chettu Beradunu, Vellanu Balangaa Podustune Undi. \"Ippudu Aa Chintu Garvam Emavutundo Chuddaan!\" Ani Tanalo Tane Gonukkundi. Aa Nishshabda Raatrilo — Chettu Beradu Chilikalayyaayi. Tana Pani Purtayyaaka, Pintu Chikatloki Kalisipoyindi, Daani Venaka Chettu Aakulu Koddigaa Vanikaayi.",
+      "text_en": "That night, when the forest was silent, Pintu returned to Chintu's tree. Her beak was slightly raised, revealing a mischievous thought. She kept pecking strongly at the mango tree's bark and roots. \"Now let's see what happens to Chintu's pride!\" she muttered to herself. In that silent night — the tree bark split. After her work was done, Pintu disappeared into the darkness, and the tree's leaves trembled slightly behind her."
+    },
+    {
+      "id": 4,
+      "text": "మరుసటి ఉదయం, చింటు తన చెట్టును చూసి నిశ్చేష్టురాలైంది. నిన్నటి ఉత్సాహం మాయమై, దాని తల వాలిపోయింది. చెట్టు ఆకులు కొద్దిగా వాడిపోయాయి, కొన్ని పండ్లు అకాలంగా కుళ్ళిపోయాయి. \"నా చెట్టుకు ఏమైంది? ఇలా ఎప్పుడూ జరగలేదు కదా!\" అని అది నిశ్శబ్దంగా ఊపిరి వదిలింది. కుళ్ళిన పండ్ల నుండి వచ్చే తీపి వాసన గాలిలో తేలింది. దాని గుండె — బరువుగా మారింది. చింటు చెట్టు మొదలు వైపు చూసింది, అక్కడ కొత్తగా ఏర్పడిన గుర్తులు కనిపించాయి.",
+      "image_prompt": "The parrot stands stunned before its wilting tree, its head drooping in dismay. Some leaves are withered, and the sweet scent of prematurely rotting fruits hangs in the air around the tree's base, where new marks are visible. Overcast morning light, diffused and grey, casting a somber mood over the wilting tree, feeling heavy and melancholic.",
+      "scene_visual": "The parrot stands stunned before its wilting tree, its head drooping in dismay. Some leaves are withered, and the sweet scent of prematurely rotting fruits hangs in the air around the tree's base, where new marks are visible.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Udayan, Chintu Tana Chettunu Chusi Nishcheshturaalaindi. Ninnati Utsaaham Maayamai, Daani Tala Vaalipoyindi. Chettu Aakulu Koddigaa Vaadipoyaayi, Konni Pandlu Akaalangaa Kullipoyaayi. \"Naa Chettuku Emaindi? Ilaa Eppudu Jaragaledu Kadaa!\" Ani Adi Nishshabdangaa Upiri Vadilindi. Kullina Pandla Nundi Vachche Tipi Vaasana Gaalilo Telindi. Daani Gunde — Baruvugaa Maarindi. Chintu Chettu Modalu Vaipu Chusindi, Akkada Kottagaa Erpadina Gurtulu Kanipinchaayi.",
+      "text_en": "The next morning, Chintu was stunned when she saw her tree. Yesterday's excitement was gone, and her head drooped. The tree's leaves had withered slightly, and some fruits had rotted prematurely. \"What happened to my tree? This has never happened before!\" she sighed quietly. The sweet smell from the rotten fruits wafted in the air. Her heart — became heavy. Chintu looked towards the base of the tree, where newly formed marks were visible."
+    },
+    {
+      "id": 5,
+      "text": "చింటు మెల్లగా చెట్టు మొదలు దగ్గరకు వెళ్ళి, ఆ గుర్తులను జాగ్రత్తగా పరిశీలించింది. దాని పాదం కింద బెరడు గరుకుగా, చీలికలుగా అనిపించింది. అవి కేవలం జబ్బు వల్ల వచ్చినవి కావు — స్పష్టంగా ముక్కుతో పొడిచిన గుర్తులు. \"ఇది కేవలం జబ్బు కాదు... ఎవరో కావాలనే చేశారు...\" అని అది ఆశ్చర్యంగా ముణుముణులాడింది. ఒక్కసారిగా — నిజం దాని ముందు నిలిచింది. చింటు చూపు మెల్లగా పింటు ఎప్పుడూ కూర్చునే కొమ్మ వైపు మళ్ళింది, దాని కళ్ళల్లో బాధ కనిపించింది.",
+      "image_prompt": "The parrot carefully examines the rough, splintered bark at the base of the tree, recognizing distinct peck marks. Its gaze slowly shifts towards a specific branch where another parrot often sits, and a look of pain appears in its eyes. A single shaft of sunlight breaks through the clouds, illuminating the damaged tree trunk, creating a moment of stark clarity amidst the gloom.",
+      "scene_visual": "The parrot carefully examines the rough, splintered bark at the base of the tree, recognizing distinct peck marks. Its gaze slowly shifts towards a specific branch where another parrot often sits, and a look of pain appears in its eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chintu Mellagaa Chettu Modalu Daggaraku Velli, Aa Gurtulanu Jaagrattagaa Parishilinchindi. Daani Paadam Kinda Beradu Garukugaa, Chilikalugaa Anipinchindi. Avi Kevalam Jabbu Valla Vachchinavi Kaavu — Spashtangaa Mukkuto Podichina Gurtulu. \"Idi Kevalam Jabbu Kaadu... Evaro Kaavaalane Cheshaaru...\" Ani Adi Aashcharyangaa Munumunulaadindi. Okkasaarigaa — Nijam Daani Mundu Nilichindi. Chintu Chupu Mellagaa Pintu Eppudu Kurchune Komma Vaipu Mallindi, Daani Kallallo Baadha Kanipinchindi.",
+      "text_en": "Chintu slowly went to the base of the tree and carefully examined the marks. The bark under her foot felt rough and split. They weren't just from a disease — they were clearly peck marks. \"This isn't just a disease... someone did this on purpose...\" she murmured in surprise. All at once — the truth stood before her. Chintu's gaze slowly turned towards the branch where Pintu always sat, and sadness was visible in her eyes."
+    },
+    {
+      "id": 6,
+      "text": "చింటు నేరుగా పింటు కూర్చున్న కొమ్మ దగ్గరకు వెళ్ళింది, దాని చూపులో ఎటువంటి కోపం లేదు. పింటు చింటును చూడగానే రెక్కలు ముడుచుకుంది, తల వంచుకుంది. ఇద్దరి మధ్య దూరం చిలుకల కిలకిలరావాలతో నిండిన అడవిలో ఒక నిశ్శబ్దాన్ని సృష్టించింది. \"నువ్వు నా చెట్టుకు చేసినా, నేను నిన్ను క్షమిస్తాను; నీకు పండ్లు కావాలంటే నేను నీతో పంచుకుంటాను.\" అని చింటు మెల్లగా చెప్పింది. పింటు తల వంచుకుంది — మాట రాలేదు. దాని ఈకలు చిందరవందరగా ఉన్నాయి, చింటు కళ్ళలోకి చూడలేకపోయింది.",
+      "image_prompt": "The first parrot approaches the second parrot, who immediately folds its wings and bows its head, unable to meet its gaze. The second parrot's feathers are disheveled, and a heavy silence hangs between them amidst the usual forest sounds. Also in this scene: పింటు (Pintu) is a slightly larger, duller green parrot with ruffled feathers and a perpetually slightly downturned beak. It often looks sideways, as if suspicious. Always the same character across every scene. Bright, clear daylight, but with a slight haze, giving the scene a soft, almost ethereal quality, emphasizing the emotional weight of the confrontation.",
+      "scene_visual": "The first parrot approaches the second parrot, who immediately folds its wings and bows its head, unable to meet its gaze. The second parrot's feathers are disheveled, and a heavy silence hangs between them amidst the usual forest sounds.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chintu Nerugaa Pintu Kurchunna Komma Daggaraku Vellindi, Daani Chupulo Etuvanti Kopam Ledu. Pintu Chintunu Chudagaane Rekkalu Muduchukundi, Tala Vanchukundi. Iddari Madhya Duram Chilukala Kilakilaraavaalato Nindina Adavilo Oka Nishshabdaanni Srrishtinchindi. \"Nuvvu Naa Chettuku Chesinaa, Nenu Ninnu Kshamistaanu; Niku Pandlu Kaavaalante Nenu Nito Panchukuntaanu.\" Ani Chintu Mellagaa Cheppindi. Pintu Tala Vanchukundi — Maata Raaledu. Daani Ikalu Chindaravandaragaa Unnaayi, Chintu Kallaloki Chudalekapoyindi.",
+      "text_en": "Chintu went straight to the branch where Pintu was sitting, with no anger in her gaze. As soon as Pintu saw Chintu, she folded her wings and bowed her head. The distance between them created a silence in the forest usually filled with parrot chirps. \"Even though you did this to my tree, I forgive you; if you want fruits, I will share them with you,\" Chintu said softly. Pintu bowed her head — no words came out. Her feathers were ruffled, and she couldn't look into Chintu's eyes."
+    },
+    {
+      "id": 7,
+      "text": "చింటు దయ పింటు మనసును కదిలించింది. అది మెల్లగా తల పైకెత్తి, చింటు వైపు చూసింది. పింటు తన తప్పును ఒప్పుకుంటూ, చింటుతో కలిసి చెట్టుకు సేవ చేయాలని నిర్ణయించుకుంది. రెండు చిలుకలు కలిసి, నేలపడిన పండ్లను తీసి, చెట్టు చుట్టూ మట్టిని సరిచేశాయి. ఆ పచ్చని ఆకులు — మళ్ళీ ప్రాణం పోసుకున్నాయి. కొద్ది రోజుల్లోనే, చెట్టు మెల్లగా కోలుకుంది, వాటి మధ్య స్నేహం మరింత బలపడింది. ఇప్పుడు అవి రెండు కలిసి పండ్లను పంచుకుంటూ, అడవి అంతా ఆనందంగా తిరుగుతున్నాయి.",
+      "image_prompt": "The two parrots work side-by-side, picking up fallen fruits and tidying the soil around the tree. The tree's green leaves appear to regain their vibrancy as the parrots move about, strengthening their bond. Also in this scene: పింటు (Pintu) is a slightly larger, duller green parrot with ruffled feathers and a perpetually slightly downturned beak. It often looks sideways, as if suspicious. Always the same character across every scene. Warm, golden late afternoon sun bathes the now-recovering tree and the two parrots, casting long, soft shadows, peaceful and hopeful.",
+      "scene_visual": "The two parrots work side-by-side, picking up fallen fruits and tidying the soil around the tree. The tree's green leaves appear to regain their vibrancy as the parrots move about, strengthening their bond.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chintu Daya Pintu Manasunu Kadilinchindi. Adi Mellagaa Tala Paiketti, Chintu Vaipu Chusindi. Pintu Tana Tappunu Oppukuntu, Chintuto Kalisi Chettuku Seva Cheyaalani Nirnayinchukundi. Rendu Chilukalu Kalisi, Nelapadina Pandlanu Tisi, Chettu Chuttu Mattini Saricheshaayi. Aa Pachchani Aakulu — Malli Praanam Posukunnaayi. Koddi Rojullone, Chettu Mellagaa Kolukundi, Vaati Madhya Sneham Marinta Balapadindi. Ippudu Avi Rendu Kalisi Pandlanu Panchukuntu, Adavi Antaa Aanandangaa Tirugutunnaayi.",
+      "text_en": "Chintu's kindness touched Pintu's heart. She slowly lifted her head and looked at Chintu. Pintu admitted her mistake and decided to help the tree with Chintu. The two parrots together removed the fallen fruits and tidied the soil around the tree. The green leaves — came back to life. In a few days, the tree slowly recovered, and their friendship grew stronger. Now, they both share fruits and happily roam throughout the forest."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 8.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, excellent grammar, and effectively conveys emotional depth through action. The dialogue is natural and advances the plot well. To reach an award-winning level, the primary focus should be on enhancing the 'grandmother authenticity' by simplifying some vocabulary and adopting a more conversational, oral storytelling tone. Additionally, allowing the moral to emerge solely from the story's events, rather than stating it upfront, would strengthen its impact."
+  },
+  "quality_warning": true,
+  "title_te_en": "Kshaminchina Chiluka, Maarina Sneham",
+  "moral_te_en": "Evarainaa Manaku Kashtam Kaliginchinaa, Dayato Kshaminchadam Andariki Aanandaanni, Shaantini Testundi.",
+  "title_en": "The Forgiven Parrot, A Changed Friendship",
+  "moral_en": "Even if someone causes us trouble, forgiving them with kindness brings happiness and peace to everyone.",
+  "id": "20260602_051502",
+  "date": "2026-06-02",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - అసూయపడే చిలుక మరియు క్షమించే చిలుక",
+  "thumbnail": "stories/20260602_051502/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
