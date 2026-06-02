@@ -1,0 +1,118 @@
+{
+  "title": "లక్ష్మి మనసు - నది కరుణ",
+  "moral": "నిస్వార్థంగా ఇతరులకు సహాయం చేస్తే, ఆ ఆనందమే గొప్ప సంపద.",
+  "main_character": "Lakshmi. A small, slender girl, perhaps 8-10 years old, with bright, curious eyes and hair often tied in a simple braid. She wears a faded but clean half-saree. She is gentle and observant, always noticing the small details of nature. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant village in rural Andhra Pradesh, nestled beside a wide, meandering river. Mud-brick houses with thatched roofs dot the landscape, surrounded by green paddy fields and ancient banyan trees. The sun is usually bright and warm. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లక్ష్మి నది ఒడ్డున మెరిసే చిన్న రాళ్లను ఏరుకుంటూ, తనలో తనే ఒక తీయని పాటను నెమ్మదిగా పాడుకుంది. ఆమె వేళ్ళు నీటిలో ఆడుతుంటే, ఆ చల్లదనం ఒక కొత్త ఉత్సాహాన్ని ఇచ్చింది. \"ఈ నది ఎంత అందంగా ఉందో!\" అని ఆమె మనసులో అనుకుంటూ, నది వైపు ప్రేమగా చూసింది. నీటి అలలు రాళ్లను తాకుతుంటే — ఒక లయబద్ధమైన సంగీతంలా చెవుల్లో వినిపించింది. అట్లా నది అందాన్ని చూస్తూ ఉండగా, నీటి మట్టం కొద్దిగా తగ్గిందని ఆమెకు అనిపించింది.",
+      "image_prompt": "The girl sits by the riverbank, gently picking up small, shining pebbles. Her fingers playfully dip into the cool water as she gazes lovingly at the flowing river. Bright, clear morning sun, casting dappled light through the overhead banyan leaves onto the riverbank, warm and inviting.",
+      "scene_visual": "The girl sits by the riverbank, gently picking up small, shining pebbles. Her fingers playfully dip into the cool water as she gazes lovingly at the flowing river.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lakshmi Nadi Odduna Merise Chinna Raallanu Erukuntu, Tanalo Tane Oka Tiyani Paatanu Nemmadigaa Paadukundi. Aame Vellu Nitilo Aadutunte, Aa Challadanam Oka Kotta Utsaahaanni Ichchindi. \"I Nadi Enta Andangaa Undo!\" Ani Aame Manasulo Anukuntu, Nadi Vaipu Premagaa Chusindi. Niti Alalu Raallanu Taakutunte — Oka Layabaddhamaina Sangitanlaa Chevullo Vinipinchindi. Atlaa Nadi Andaanni Chustu Undagaa, Niti Mattam Koddigaa Taggindani Aameku Anipinchindi.",
+      "text_en": "Lakshmi was picking up shiny little stones by the river, softly singing a sweet song. Her fingers played in the cool water, which made her feel happy and fresh. \"How beautiful this river is!\" she thought, looking at it with love. The little waves gently touched the stones, making a soft, musical sound. As she watched the beautiful river, she noticed that the water level seemed a little lower."
+    },
+    {
+      "id": 2,
+      "text": "ముందు రోజు కనిపించిన నీటి మట్టం ఇప్పుడు చాలా తగ్గిపోయింది, నది ఒడ్డున పొడిగా మారిన నేలంతా స్పష్టంగా కనిపించింది. ఆమె చిన్న పాదాలు ఆ పొడి నేలపై నడుస్తుంటే — మట్టి పెళ్ళలు విరిగిపోతున్నట్లు అనిపించింది. లక్ష్మి కళ్ళు ఆందోళనతో ముడుచుకుపోయాయి, పెదవులు చిన్నగా మారాయి. \"అయ్యో, నీరు ఎక్కడికి పోయింది?\" అని నిట్టూరుస్తూ, చుట్టూ చూసింది. అంతలో, ఆమె కళ్ళు ఒక చిన్న మొక్క మీద పడ్డాయి — అది నీరు లేక పూర్తిగా వాడిపోతోంది.",
+      "image_prompt": "The girl walks with small steps across the dry riverbed, where the earth crumbles under her feet. Her eyes are furrowed with anxiety, and her lips are pursed as she spots a completely withered plant. Mid-morning sun, slightly harsher than before, highlighting the dry patches on the riverbed, a hint of unease.",
+      "scene_visual": "The girl walks with small steps across the dry riverbed, where the earth crumbles under her feet. Her eyes are furrowed with anxiety, and her lips are pursed as she spots a completely withered plant.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mundu Roju Kanipinchina Niti Mattam Ippudu Chaalaa Taggipoyindi, Nadi Odduna Podigaa Maarina Nelantaa Spashtangaa Kanipinchindi. Aame Chinna Paadaalu Aa Podi Nelapai Nadustunte — Matti Pellalu Virigipotunnatlu Anipinchindi. Lakshmi Kallu Aandolanato Muduchukupoyaayi, Pedavulu Chinnagaa Maaraayi. \"Ayyo, Niru Ekkadiki Poyindi?\" Ani Nitturustu, Chuttu Chusindi. Antalo, Aame Kallu Oka Chinna Mokka Mida Paddaayi — Adi Niru Leka Purtigaa Vaadipotondi.",
+      "text_en": "The water level was much lower than it had been the day before. The dry riverbank was easy to see. As her small feet walked on the dry ground, she could feel the clumps of earth crumbling. Lakshmi's eyes crinkled with worry, and her lips turned down. \"Oh dear, where has all the water gone?\" she sighed, looking around. Just then, she saw a tiny plant that was completely wilted and dry because it had no water."
+    },
+    {
+      "id": 3,
+      "text": "కొద్దిసేపటికే, లక్ష్మి దగ్గర్లో ఉన్న మర్రి చెట్టు కింద నుండి పెద్దవాళ్ళ గొంతులు వినిపించాయి. పొడి గాలిలో వారి దిగులు నిండిన గుసగుసలు ఆమె చెవుల్లో స్పష్టంగా పడ్డాయి. ఆమె భుజాలు దిగాలుగా వాలిపోయాయి, విచారంగా నిలబడి వాళ్ళ మాటలు వింది. \"మన నది ఎండిపోతే మన జీవితాలు ఎలా?\" అని ఒక వృద్ధురాలు ఆవేదనగా అంది. ఆ మాటలు వినగానే — లక్ష్మికి నదీ దేవత గురించి చిన్నప్పుడు విన్న కథలు ఒక్కసారిగా గుర్తుకు వచ్చాయి.",
+      "image_prompt": "The girl stands sadly, her shoulders slumped, listening intently to the worried whispers of adults from under a banyan tree. Their sorrowful murmurs carry clearly on the dry air, reflecting the gravity of their concerns. Hazy afternoon light filtering through dust, casting long, somber shadows as villagers gather in worried groups.",
+      "scene_visual": "The girl stands sadly, her shoulders slumped, listening intently to the worried whispers of adults from under a banyan tree. Their sorrowful murmurs carry clearly on the dry air, reflecting the gravity of their concerns.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koddisepatike, Lakshmi Daggarlo Unna Marri Chettu Kinda Nundi Peddavaalla Gontulu Vinipinchaayi. Podi Gaalilo Vaari Digulu Nindina Gusagusalu Aame Chevullo Spashtangaa Paddaayi. Aame Bhujaalu Digaalugaa Vaalipoyaayi, Vichaarangaa Nilabadi Vaalla Maatalu Vindi. \"Mana Nadi Endipote Mana Jivitaalu Elaa?\" Ani Oka Vrriddhuraalu Aavedanagaa Andi. Aa Maatalu Vinagaane — Lakshmiki Nadi Devata Gurinchi Chinnappudu Vinna Kathalu Okkasaarigaa Gurtuku Vachchaayi.",
+      "text_en": "Soon, Lakshmi heard grown-up voices from under a big banyan tree nearby. Their sad whispers floated clearly to her ears in the dry air. Her shoulders drooped, and she stood sadly, listening to what they said. \"If our river dries up, what will happen to us?\" an old woman cried sadly. Hearing those words, Lakshmi suddenly remembered the stories she had heard as a child about the River Goddess."
+    },
+    {
+      "id": 4,
+      "text": "లక్ష్మికి ఆ కథలు గుర్తుకు రాగానే, ఆమె గుండెలో ఒక ధైర్యం పుట్టుకొచ్చింది. తన చిన్న చేతితో కట్టుకున్న సగం చీరను గట్టిగా పట్టుకుని, నది పై భాగానికి నడవడం మొదలుపెట్టింది. ఆమె అడుగులు పొడి ఆకుల మీద పడుతుంటే — అడవిలో ఒక ప్రత్యేకమైన చప్పుడు వినిపించింది. \"నేను నదీ దేవతను కనుగొనాలి!\" అని ఆమె మనసులో బలంగా అనుకుంది. అట్లా నడుస్తూ నడుస్తూ ఉండగా, ఒక చిన్న, మెరిసే నీటి కొలను కనిపించింది — దాని చుట్టూ ఉన్న ప్రదేశం అంతా పచ్చగా ఉంది.",
+      "image_prompt": "The girl resolutely walks upstream, clutching her half-saree tightly in her small hand. Her footsteps create a distinct rustling sound on the dry leaves as she discovers a small, shimmering pool surrounded by lush greenery. Deep afternoon, sunbeams piercing through thick forest canopy, creating pockets of bright light and dark, mysterious shadows, a sense of adventure.",
+      "scene_visual": "The girl resolutely walks upstream, clutching her half-saree tightly in her small hand. Her footsteps create a distinct rustling sound on the dry leaves as she discovers a small, shimmering pool surrounded by lush greenery.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lakshmiki Aa Kathalu Gurtuku Raagaane, Aame Gundelo Oka Dhairyam Puttukochchindi. Tana Chinna Chetito Kattukunna Sagam Chiranu Gattigaa Pattukuni, Nadi Pai Bhaagaaniki Nadavadam Modalupettindi. Aame Adugulu Podi Aakula Mida Padutunte — Adavilo Oka Pratyekamaina Chappudu Vinipinchindi. \"Nenu Nadi Devatanu Kanugonaali!\" Ani Aame Manasulo Balangaa Anukundi. Atlaa Nadustu Nadustu Undagaa, Oka Chinna, Merise Niti Kolanu Kanipinchindi — Daani Chuttu Unna Pradesham Antaa Pachchagaa Undi.",
+      "text_en": "As soon as Lakshmi remembered the stories, a brave feeling grew in her heart. She held her little half-saree tightly and started walking upstream along the river. Her footsteps crunched on the dry leaves, making a special sound in the forest. \"I must find the River Goddess!\" she thought firmly to herself. As she walked and walked, she saw a small, sparkling pool of water. All the land around it was green and fresh."
+    },
+    {
+      "id": 5,
+      "text": "ఆ మెరిసే కొలను దగ్గరికి లక్ష్మి వెళ్ళగానే, ఒక చల్లటి పొగ ఆమెను చుట్టేసింది. అప్పుడు, ఆ నీటిలో నుండి — ఒక తేజస్సుతో నదీ దేవత ప్రత్యక్షమైంది. లక్ష్మి కళ్ళు ఆశ్చర్యంతో పెద్దవి అయ్యాయి, కానీ ఆమె చూపు మాత్రం స్థిరంగా నిలిచింది. \"చిన్నారి, నీ నిస్వార్థ మనసుకు ఒక కోరిక తీర్చెదను,\" అని దేవత కమ్మని గొంతుతో పలికింది. \"మరి, నేను మీకేం సహాయం చేయగలను?\" అని లక్ష్మి ధైర్యంగా అడిగింది.",
+      "image_prompt": "A radiant river goddess emerges from the shimmering pool, enveloped in a cool mist. The girl's eyes widen in astonishment, yet her gaze remains steady as she bravely addresses the deity. Ethereal, soft blue-green glow emanating from the pool and the Goddess, contrasting with the dim forest light, magical and serene.",
+      "scene_visual": "A radiant river goddess emerges from the shimmering pool, enveloped in a cool mist. The girl's eyes widen in astonishment, yet her gaze remains steady as she bravely addresses the deity.",
+      "supporting_char_keys": [
+        "river_goddess"
+      ],
+      "text_te_en": "Aa Merise Kolanu Daggariki Lakshmi Vellagaane, Oka Challati Poga Aamenu Chuttesindi. Appudu, Aa Nitilo Nundi — Oka Tejassuto Nadi Devata Pratyakshamaindi. Lakshmi Kallu Aashcharyanto Peddavi Ayyaayi, Kaani Aame Chupu Maatram Sthirangaa Nilichindi. \"Chinnaari, Ni Nisvaartha Manasuku Oka Korika Tirchedanu,\" Ani Devata Kammani Gontuto Palikindi. \"Mari, Nenu Mikem Sahaayam Cheyagalanu?\" Ani Lakshmi Dhairyangaa Adigindi.",
+      "text_en": "As Lakshmi got close to the sparkling pool, a cool mist wrapped around her. Then, from the water, the River Goddess appeared, shining brightly. Lakshmi's eyes grew wide with surprise, but she kept looking steadily. \"Little one, I will grant one wish for your kind and selfless heart,\" the Goddess said in a sweet voice. \"Then, how can I help you?\" Lakshmi asked bravely."
+    },
+    {
+      "id": 6,
+      "text": "లక్ష్మి ప్రశ్న విని, నదీ దేవత నెమ్మదిగా నవ్వింది — ఆ నవ్వు ఒక మృదువైన నీటి ప్రవాహంలా అనిపించింది. \"నా శక్తి ప్రజల నిస్వార్థ కర్మల నుండి వస్తుంది,\" అని దేవత లక్ష్మికి వివరించింది. ప్రజల స్వార్థం పెరిగి, నిస్వార్థం తగ్గిపోవడంతో తన శక్తి సన్నగిల్లిందని ఆమె చెప్పింది. లక్ష్మి తల ఒక పక్కకు వంచి, ఆలోచనలో పడింది, ఆపై నెమ్మదిగా తల ఊపింది. అట్లా ఒక నిజమైన నిస్వార్థ బలిదానం ఏమిటో ఆలోచిస్తూ లక్ష్మి కొలను దగ్గర నుండి వెనుతిరిగింది.",
+      "image_prompt": "The girl tilts her head to one side, lost in thought, as the goddess explains her diminishing power. She then slowly nods, her expression contemplative, before turning away from the pool. The blue-green glow of the Goddess remains, but the surrounding forest is darker, emphasizing the weight of the task given to Lakshmi.",
+      "scene_visual": "The girl tilts her head to one side, lost in thought, as the goddess explains her diminishing power. She then slowly nods, her expression contemplative, before turning away from the pool.",
+      "supporting_char_keys": [
+        "river_goddess"
+      ],
+      "text_te_en": "Lakshmi Prashna Vini, Nadi Devata Nemmadigaa Navvindi — Aa Navvu Oka Mrriduvaina Niti Pravaahanlaa Anipinchindi. \"Naa Shakti Prajala Nisvaartha Karmala Nundi Vastundi,\" Ani Devata Lakshmiki Vivarinchindi. Prajala Svaartham Perigi, Nisvaartham Taggipovadanto Tana Shakti Sannagillindani Aame Cheppindi. Lakshmi Tala Oka Pakkaku Vanchi, Aalochanalo Padindi, Aapai Nemmadigaa Tala Upindi. Atlaa Oka Nijamaina Nisvaartha Balidaanam Emito Aalochistu Lakshmi Kolanu Daggara Nundi Venutirigindi.",
+      "text_en": "When Lakshmi asked her question, the River Goddess smiled gently. Her smile felt like a soft stream of water. \"My power comes from people being kind and selfless,\" the Goddess explained to Lakshmi. She said that as people became more selfish and less selfless, her power grew weaker. Lakshmi tilted her head, thinking hard, then slowly nodded. Thinking about what a truly selfless act could be, Lakshmi turned away from the pool."
+    },
+    {
+      "id": 7,
+      "text": "కొలను నుండి తిరిగి వస్తుండగా, లక్ష్మి తన దగ్గర ఉన్న కొద్దిపాటి నీటిని జాగ్రత్తగా పట్టుకుంది. ఇంతలో, ఒక చిన్న పక్షి దాహంతో వాడిపోయి, ఆమె కాళ్ళ దగ్గర పడింది. దాని రెక్కలు ఆమె చేతుల్లో నెమ్మదిగా వణుకుతుంటే — ఆ చిన్నారి పక్షి బాధ లక్ష్మి మనసును మెలిపెట్టింది. \"చిన్నారి పక్షి, నా నీరు తీసుకో,\" అంటూ ఆమె తన దగ్గరున్న నీరంతా దాని నోటిలో పోసింది. చివరి చుక్క కింద పడగానే — భూమి ఒక్కసారిగా కంపించింది, నదీ దేవత చిరునవ్వుతో ప్రత్యక్షమైంది.",
+      "image_prompt": "The girl carefully pours the last drops of water she carries into the open beak of a small, withered bird that has fallen at her feet. The bird's wings tremble weakly in her hands as the earth suddenly quakes, and the river goddess reappears with a gentle smile. Late afternoon, golden light, highlighting the tender moment between Lakshmi and the bird, a sense of quiet grace.",
+      "scene_visual": "The girl carefully pours the last drops of water she carries into the open beak of a small, withered bird that has fallen at her feet. The bird's wings tremble weakly in her hands as the earth suddenly quakes, and the river goddess reappears with a gentle smile.",
+      "supporting_char_keys": [
+        "river_goddess"
+      ],
+      "text_te_en": "Kolanu Nundi Tirigi Vastundagaa, Lakshmi Tana Daggara Unna Koddipaati Nitini Jaagrattagaa Pattukundi. Intalo, Oka Chinna Pakshi Daahanto Vaadipoyi, Aame Kaalla Daggara Padindi. Daani Rekkalu Aame Chetullo Nemmadigaa Vanukutunte — Aa Chinnaari Pakshi Baadha Lakshmi Manasunu Melipettindi. \"Chinnaari Pakshi, Naa Niru Tisuko,\" Antu Aame Tana Daggarunna Nirantaa Daani Notilo Posindi. Chivari Chukka Kinda Padagaane — Bhumi Okkasaarigaa Kampinchindi, Nadi Devata Chirunavvuto Pratyakshamaindi.",
+      "text_en": "As she walked back from the pool, Lakshmi carefully held the small amount of water she had. Just then, a tiny bird, weak with thirst, fell near her feet. Its little wings trembled softly in her hands, and Lakshmi's heart ached for the poor bird. \"Little bird, please take my water,\" she said, pouring all the water she had into its beak. As the very last drop fell, the ground suddenly shook, and the River Goddess appeared with a gentle smile."
+    },
+    {
+      "id": 8,
+      "text": "నదీ దేవత ప్రత్యక్షమవగానే, ఎండిపోయిన నది ఒక్కసారిగా నిండిపోయింది. నది నిండి గలగల పారుతుంటే — ఆ గంభీరమైన చప్పుడు అడవంతా వినిపించింది, స్వచ్ఛమైన నీటి వాసన గాలిలో నిండింది. లక్ష్మి కళ్ళలో ఒక ప్రశాంతమైన చిరునవ్వు విరిసింది, ఆమె ఆనందంగా నది వైపు చూసింది. \"నది తిరిగి వచ్చింది!\" అని గ్రామస్తులు సంతోషంగా కేకలు వేశారు. ఆ రోజంతా లక్ష్మి ముఖం మీద ఒక గొప్ప తృప్తి, శాంతి కనిపించాయి.",
+      "image_prompt": "The previously dry riverbed instantly fills with gushing water, creating a powerful sound that echoes through the forest. The girl watches the flowing river with a peaceful smile gracing her eyes, as the scent of fresh water fills the air. Brilliant, golden sunset light reflecting off the now full, sparkling river, painting the village in hues of orange and pink, a scene of abundant peace and prosperity.",
+      "scene_visual": "The previously dry riverbed instantly fills with gushing water, creating a powerful sound that echoes through the forest. The girl watches the flowing river with a peaceful smile gracing her eyes, as the scent of fresh water fills the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nadi Devata Pratyakshamavagaane, Endipoyina Nadi Okkasaarigaa Nindipoyindi. Nadi Nindi Galagala Paarutunte — Aa Gambhiramaina Chappudu Adavantaa Vinipinchindi, Svachchamaina Niti Vaasana Gaalilo Nindindi. Lakshmi Kallalo Oka Prashaantamaina Chirunavvu Virisindi, Aame Aanandangaa Nadi Vaipu Chusindi. \"Nadi Tirigi Vachchindi!\" Ani Graamastulu Santoshangaa Kekalu Veshaaru. Aa Rojantaa Lakshmi Mukham Mida Oka Goppa Trripti, Shaanti Kanipinchaayi.",
+      "text_en": "As soon as the River Goddess appeared, the dry river instantly filled up! The river flowed full and bubbly, its grand sound echoing through the whole forest, and the fresh smell of water filled the air. A peaceful smile spread across Lakshmi's face, and she looked at the river with joy. \"The river is back!\" the villagers cheered happily. All that day, Lakshmi felt a wonderful sense of happiness and peace."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "river_goddess",
+      "description": "A tall, ethereal woman with flowing blue-green robes that shimmer like water. Her eyes are deep and ancient, and her voice echoes softly like a flowing stream. She carries a lotus staff. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This is a beautifully crafted story with a strong narrative arc and excellent emotional depth. The language is warm, authentic, and grammatically sound, making it highly engaging for a child. To elevate it to an award-worthy piece (9+), the primary area for improvement is dialogue richness. Incorporating more direct, character-specific dialogue, especially in the opening scenes, would further immerse the listener and advance the plot more dynamically."
+  },
+  "title_te_en": "Lakshmi Manasu - Nadi Karuna",
+  "moral_te_en": "Nisvaarthangaa Itarulaku Sahaayam Cheste, Aa Aanandame Goppa Sampada.",
+  "title_en": "Lakshmi's Heart and the River's Kindness",
+  "moral_en": "If you help others selflessly, that happiness itself is the greatest treasure.",
+  "id": "20260602_001118",
+  "date": "2026-06-02",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "నిస్వార్థ కోరికలు తీర్చే నదీ దేవత",
+  "thumbnail": "stories/20260602_001118/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
