@@ -1,0 +1,111 @@
+{
+  "title": "కన్నయ్య మట్టి లీల",
+  "moral": "చిన్న చిన్న విషయాల్లో కూడా గొప్ప ప్రేమ, అద్భుతాలు దాగి ఉంటాయని చూశావా.",
+  "main_character": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The serene village of Gokul, nestled by the Yamuna river, with lush green fields and traditional mud-and-thatch huts. The scene unfolds during a bright, sunny afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "యమునా నది ఒడ్డున, ముద్దుల కన్నయ్య తన స్నేహితులతో కలిసి ఆడుకుంటున్నాడు. గోపబాలురంతా కేరింతలు కొడుతూ, పరుగుపందాలు పెడుతూ ఎంతో సరదాగా ఉన్నారు. ఇంతలో, కృష్ణుడు మెల్లగా నది ఒడ్డుకు వెళ్ళి, తన చిన్న చేతులతో చల్లటి మట్టిని గుప్పెట పట్టాడు. “చూడండి! కృష్ణుడు మట్టి తింటున్నాడు!” అని ఒక స్నేహితుడు పెద్దగా అరిచాడు — అతని కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి. ఆ క్షణంలో — కృష్ణుడు నవ్వుతూ మట్టిని నోట్లో పెట్టుకున్నాడు.",
+      "image_prompt": "The boy is smiling as he brings a handful of cool mud to his mouth. His friend's eyes are wide with surprise as he watches the action. Bright, golden afternoon sunlight filtering through the leaves of a large Banyan tree, casting playful shadows on the riverbank.",
+      "scene_visual": "The boy is smiling as he brings a handful of cool mud to his mouth. His friend's eyes are wide with surprise as he watches the action.",
+      "supporting_char_keys": [
+        "cowherd_friends"
+      ],
+      "text_te_en": "Yamunaa Nadi Odduna, Muddula Kannayya Tana Snehitulato Kalisi Aadukuntunnaadu. Gopabaalurantaa Kerintalu Kodutu, Parugupandaalu Pedutu Ento Saradaagaa Unnaaru. Intalo, Krrishnudu Mellagaa Nadi Odduku Velli, Tana Chinna Chetulato Challati Mattini Guppeta Pattaadu. “Chudandi! Krrishnudu Matti Tintunnaadu!” Ani Oka Snehitudu Peddagaa Arichaadu — Atani Kallu Aashcharyanto Peddavayyaayi. Aa Kshananlo — Krrishnudu Navvutu Mattini Notlo Pettukunnaadu.",
+      "text_en": "On the banks of the Yamuna River, sweet Kannaiah was playing with his friends. All the cowherd boys were cheering, racing, and having so much fun. Just then, Krishna slowly went to the riverbank and scooped up some cool mud with his small hands. “Look! Krishna is eating mud!” one friend shouted loudly, his eyes wide with surprise. At that very moment, Krishna smiled and put the mud into his mouth."
+    },
+    {
+      "id": 2,
+      "text": "కృష్ణుడు మట్టి తినడం చూసిన గోపబాలురు, ఊపిరి సల్పకుండా పరుగున యశోదమ్మ దగ్గరకు వెళ్లారు. వారి చిన్న పాదాలు ధూళితో నిండిన బాటపై హడావిడిగా శబ్దం చేస్తూ కనిపించాయి. “అమ్మా యశోదా! కృష్ణుడు మట్టి తిన్నాడు!” అని వారు ఒకేసారి అరిచారు — వారి కళ్ళల్లో ఆత్రుత స్పష్టంగా పలికింది. ఆ మాటలు విని — యశోదమ్మ చేతిలోని కవ్వం జారిపడినంత పనైంది. ఆమె దీర్ఘంగా నిట్టూర్చి, కృష్ణుడు ఆడుకుంటున్న వైపు ప్రేమగా చూసింది.",
+      "image_prompt": "A group of young boys runs frantically along a dusty path, their small feet kicking up dirt. Their eyes are wide with urgency as they shout to the woman. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Warm, diffused daylight inside the entrance of a village hut, with the bright, dusty path visible outside.",
+      "scene_visual": "A group of young boys runs frantically along a dusty path, their small feet kicking up dirt. Their eyes are wide with urgency as they shout to the woman.",
+      "supporting_char_keys": [
+        "yashoda",
+        "cowherd_friends"
+      ],
+      "text_te_en": "Krrishnudu Matti Tinadam Chusina Gopabaaluru, Upiri Salpakundaa Paruguna Yashodamma Daggaraku Vellaaru. Vaari Chinna Paadaalu Dhulito Nindina Baatapai Hadaavidigaa Shabdam Chestu Kanipinchaayi. “Ammaa Yashodaa! Krrishnudu Matti Tinnaadu!” Ani Vaaru Okesaari Arichaaru — Vaari Kallallo Aatruta Spashtangaa Palikindi. Aa Maatalu Vini — Yashodamma Chetiloni Kavvam Jaaripadinanta Panaindi. Aame Dirghangaa Nitturchi, Krrishnudu Aadukuntunna Vaipu Premagaa Chusindi.",
+      "text_en": "When the cowherd boys saw Krishna eating mud, they ran to Yashodaamma without stopping to breathe. Their small feet made hurried sounds on the dusty path. “Mother Yashoda! Krishna ate mud!” they all shouted at once, their eyes full of worry. Hearing those words, Yashodaamma almost dropped the churning stick she was holding. She sighed deeply and looked lovingly towards Krishna, who was still playing."
+    },
+    {
+      "id": 3,
+      "text": "యశోదమ్మ మెల్లగా కృష్ణుడి దగ్గరకు వెళ్లి, అతని బుగ్గను ప్రేమగా నిమిరింది — ఆమె చేతి స్పర్శ ఎంతో వెచ్చగా ఉంది. “కన్నా, నువ్వు మట్టి తిన్నావా?” అని ఎంతో మృదువుగా, కానీ నిశ్చయంగా అడిగింది. కృష్ణుడు మాత్రం — ఏమీ తెలియనట్లు అమాయకంగా చూశాడు. “నేను తినలేదు అమ్మా,” అని అతని పెదవులు గుసగుసలాడాయి, కళ్ళల్లో చిలిపితనం మెరిసింది. కానీ యశోదమ్మ నమ్మలేదు, “నాకు చూపించు, నీ నోరు తెరచి చూపించు,” అని పట్టుబట్టింది.",
+      "image_prompt": "The boy looks innocently at the woman, his lips whispering a denial. A mischievous glint sparkles in his eyes, contradicting his innocent expression. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Bright, direct sunlight in the village courtyard, highlighting Krishna's playful expression and Yashoda's concerned gaze.",
+      "scene_visual": "The boy looks innocently at the woman, his lips whispering a denial. A mischievous glint sparkles in his eyes, contradicting his innocent expression.",
+      "supporting_char_keys": [
+        "yashoda"
+      ],
+      "text_te_en": "Yashodamma Mellagaa Krrishnudi Daggaraku Velli, Atani Bugganu Premagaa Nimirindi — Aame Cheti Sparsha Ento Vechchagaa Undi. “Kannaa, Nuvvu Matti Tinnaavaa?” Ani Ento Mrriduvugaa, Kaani Nishchayangaa Adigindi. Krrishnudu Maatram — Emi Teliyanatlu Amaayakangaa Chushaadu. “Nenu Tinaledu Ammaa,” Ani Atani Pedavulu Gusagusalaadaayi, Kallallo Chilipitanam Merisindi. Kaani Yashodamma Nammaledu, “Naaku Chupinchu, Ni Noru Terachi Chupinchu,” Ani Pattubattindi.",
+      "text_en": "Yashodaamma slowly went to Krishna and lovingly stroked his cheek; her touch was so warm. “Kanna, did you eat mud?” she asked very softly, but firmly. Krishna, however, looked innocent, as if he knew nothing. “I didn’t eat it, Amma,” his lips whispered, mischief sparkling in his eyes. But Yashodaamma didn't believe him. “Show me, open your mouth and show me,” she insisted."
+    },
+    {
+      "id": 4,
+      "text": "కొద్ది క్షణాలు చిలిపిగా తటపటాయించిన కృష్ణుడు, మెల్లగా తన నోరు తెరిచాడు — అతని పెదవులపై ఒక చిరునవ్వు మెరిసింది. “చూడమ్మా, నా నోట్లో ఏమీ లేదు!” అని పలికాడు, అతని మాటలు ఒక చల్లటి గాలిలా తాకాయి, మల్లెపూల సువాసన అప్పుడే అక్కడికి చేరినట్లు. యశోదమ్మ అతని ముఖానికి దగ్గరగా వెళ్లి, అతని నోటిలోకి తొంగి చూసింది. ఆమె చూస్తూ ఉండగానే — నోటిలోని చీకటి ఒక లోకమై విస్తరించింది. ఆమె కళ్ళల్లో ఆశ్చర్యం, ఏదో తెలియని అద్భుతం మెరిసింది.",
+      "image_prompt": "The woman leans in close to the boy's face, peering into his open mouth. As she looks, the darkness inside his mouth begins to expand into a vast world. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A soft, ethereal glow beginning to emanate from Krishna's face, making the surrounding daylight seem to dim slightly in contrast.",
+      "scene_visual": "The woman leans in close to the boy's face, peering into his open mouth. As she looks, the darkness inside his mouth begins to expand into a vast world.",
+      "supporting_char_keys": [
+        "yashoda"
+      ],
+      "text_te_en": "Koddi Kshanaalu Chilipigaa Tatapataayinchina Krrishnudu, Mellagaa Tana Noru Terichaadu — Atani Pedavulapai Oka Chirunavvu Merisindi. “Chudammaa, Naa Notlo Emi Ledu!” Ani Palikaadu, Atani Maatalu Oka Challati Gaalilaa Taakaayi, Mallepula Suvaasana Appude Akkadiki Cherinatlu. Yashodamma Atani Mukhaaniki Daggaragaa Velli, Atani Notiloki Tongi Chusindi. Aame Chustu Undagaane — Notiloni Chikati Oka Lokamai Vistarinchindi. Aame Kallallo Aashcharyan, Edo Teliyani Adbhutam Merisindi.",
+      "text_en": "After a few mischievous moments of hesitation, Krishna slowly opened his mouth, a little smile on his lips. “Look, Amma, there’s nothing in my mouth!” he said, his words soft and sweet. Yashodaamma leaned close to his face and peered into his mouth. As she watched, the darkness inside his mouth expanded into a whole world. Surprise and an unknown wonder sparkled in her eyes."
+    },
+    {
+      "id": 5,
+      "text": "కృష్ణుడి నోటిలో, యశోదమ్మ ఆకాశంలోని నక్షత్రాలను, విశాలమైన సముద్రాలను, ఎత్తైన పర్వతాలను చూసింది. సృష్టిలోని ప్రతి ప్రాణి, అద్భుతమైన లోకాలు అన్నీ ఆమె కళ్ళ ముందు కదలాడాయి — ఒక నిశ్శబ్ద దివ్యమైన కాంతి ఆమె చుట్టూ ప్రవహించింది. ఆ దివ్య కాంతిలో — విశ్వమంతా ఆమె కళ్ళ ముందు నిలిచింది. ఆమె చేతులు వాటంతట అవే జోడించుకున్నాయి, కళ్ళల్లో ఆశ్చర్యం, భక్తి ఒకేసారి మెరిశాయి. “ఇది కలా నిజమా!” అని ఆమె పెదవులు మెల్లగా పలికాయి — ఆమె శరీరం పులకించిపోయింది.",
+      "image_prompt": "The woman stands with her hands clasped together, gazing in awe at the entire universe unfolding before her eyes. A silent, divine light flows around her as stars, oceans, and mountains appear within the boy's mouth. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Divine radiance breaking through the ordinary daylight, a swirling vortex of golden-white and deep cosmic blues, awe-inspiring and overwhelming.",
+      "scene_visual": "The woman stands with her hands clasped together, gazing in awe at the entire universe unfolding before her eyes. A silent, divine light flows around her as stars, oceans, and mountains appear within the boy's mouth.",
+      "supporting_char_keys": [
+        "yashoda"
+      ],
+      "text_te_en": "Krrishnudi Notilo, Yashodamma Aakaashanloni Nakshatraalanu, Vishaalamaina Samudraalanu, Ettaina Parvataalanu Chusindi. Srrishtiloni Prati Praani, Adbhutamaina Lokaalu Anni Aame Kalla Mundu Kadalaadaayi — Oka Nishshabda Divyamaina Kaanti Aame Chuttu Pravahinchindi. Aa Divya Kaantilo — Vishvamantaa Aame Kalla Mundu Nilichindi. Aame Chetulu Vaatantata Ave Jodinchukunnaayi, Kallallo Aashcharyan, Bhakti Okesaari Merishaayi. “Idi Kalaa Nijamaa!” Ani Aame Pedavulu Mellagaa Palikaayi — Aame Shariram Pulakinchipoyindi.",
+      "text_en": "Inside Krishna’s mouth, Yashodaamma saw the stars in the sky, vast oceans, and tall mountains. Every creature in creation, and amazing worlds, all moved before her eyes. A silent, divine light flowed all around her. In that divine light, the entire universe stood before her. Her hands joined together on their own, and her eyes sparkled with both surprise and devotion. “Is this a dream or real!” her lips softly whispered, and her body was filled with goosebumps."
+    },
+    {
+      "id": 6,
+      "text": "ఆ అద్భుత దృశ్యం ఒక్కసారిగా కనుమరుగైంది, యశోదమ్మ కళ్ళ ముందు మళ్ళీ తన చిలిపి కృష్ణుడు మాత్రమే కనిపించాడు. దివ్యమైన అనుభవం ఆమె మనసు నుండి నెమ్మదిగా జారిపోయింది, కేవలం అంతులేని మాతృ ప్రేమ మాత్రమే మిగిలింది. “నా ప్రాణమా, నా కన్నా!” అని ఆమె కృష్ణుడుని గుండెలకు హత్తుకుంది — అతని చిన్న శరీరం వెచ్చగా, వెన్న, పూల సువాసనతో నిండి ఉంది. అమ్మ ప్రేమ ముందు — అన్ని అద్భుతాలు మరుగున పడిపోయాయి. కృష్ణుడు కూడా తన చిన్న చేతులతో ఆమెను గట్టిగా పట్టుకున్నాడు, ఆమె కళ్ళల్లో ఆనంద భాష్పాలు నిలిచాయి.",
+      "image_prompt": "The woman tightly embraces the boy, holding him close to her chest. Tears of joy well up in her eyes as the boy's small body feels warm and smells of butter and flowers. SUPPORTING CHARACTER also in this scene: yashoda — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle dusk light, warm amber, casting long, soft shadows as Yashoda holds Krishna, peaceful and intimate.",
+      "scene_visual": "The woman tightly embraces the boy, holding him close to her chest. Tears of joy well up in her eyes as the boy's small body feels warm and smells of butter and flowers.",
+      "supporting_char_keys": [
+        "yashoda"
+      ],
+      "text_te_en": "Aa Adbhuta Drrishyam Okkasaarigaa Kanumarugaindi, Yashodamma Kalla Mundu Malli Tana Chilipi Krrishnudu Maatrame Kanipinchaadu. Divyamaina Anubhavam Aame Manasu Nundi Nemmadigaa Jaaripoyindi, Kevalam Antuleni Maatrri Prema Maatrame Migilindi. “Naa Praanamaa, Naa Kannaa!” Ani Aame Krrishnuduni Gundelaku Hattukundi — Atani Chinna Shariram Vechchagaa, Venna, Pula Suvaasanato Nindi Undi. Amma Prema Mundu — Anni Adbhutaalu Maruguna Padipoyaayi. Krrishnudu Kudaa Tana Chinna Chetulato Aamenu Gattigaa Pattukunnaadu, Aame Kallallo Aananda Bhaashpaalu Nilichaayi.",
+      "text_en": "That wonderful sight suddenly disappeared, and only her mischievous Krishna appeared before Yashodaamma’s eyes again. The divine experience slowly slipped away from her mind, leaving only endless motherly love. “My life, my Kanna!” she hugged Krishna tightly to her heart. His small body was warm, smelling of butter and flowers. Before a mother’s love, all miracles faded away. Krishna also held her tightly with his small hands, and tears of joy filled her eyes."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "yashoda",
+      "description": "A loving mother in her thirties, with a warm, gentle face and kind eyes. She wears a simple, clean cotton saree in earthy tones, often adorned with traditional gold jewelry. Always the same character across every scene."
+    },
+    {
+      "key": "cowherd_friends",
+      "description": "A group of young cowherd boys, similar in age to Krishna, with tanned complexions and simple cotton dhotis. They are boisterous and playful, always eager for adventure. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is a beautifully told rendition of a classic tale, rich in evocative language and emotional depth. The narrative arc is compelling, building suspense effectively towards the wondrous climax. To elevate it further to an award-winning piece, consider refining the opening moral statement to integrate more organically with the story's oral warmth, and perhaps adding a brief, natural dialogue line in the final scene to fully embody the grandmother's voice throughout."
+  },
+  "title_te_en": "Kannayya Matti Lila",
+  "moral_te_en": "Chinna Chinna Vishayaallo Kudaa Goppa Prema, Adbhutaalu Daagi Untaayani Chushaavaa.",
+  "title_en": "Kannaiah's Mud Miracle",
+  "moral_en": "See? Even in small things, great love and amazing miracles can be found.",
+  "id": "20260602_171046",
+  "date": "2026-06-02",
+  "category": "bhagavatam",
+  "subcategory": "krishna_leela",
+  "topic": "మట్టి తిన్న కృష్ణుడు - విశ్వరూప సందర్శనం",
+  "thumbnail": "stories/20260602_171046/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
