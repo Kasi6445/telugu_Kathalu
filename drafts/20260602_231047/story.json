@@ -1,0 +1,113 @@
+{
+  "title": "చిన్ని కప్ప గెలుపు - భయం దాటిన దూకు",
+  "moral": "భయం వదిలి ధైర్యంగా ప్రయత్నిస్తే, ఎన్నో గొప్ప పనులు సాధించవచ్చు.",
+  "main_character": "Chinni (చిన్ని) is a small, young frog with bright green skin and large, timid eyes. His legs are slightly wobbly, and he jumps at every sudden sound. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds around a small, tranquil pond in a rural Telugu village. It is surrounded by tall, whispering reeds, dotted with broad lily pads, and has a muddy bank, with a large, ancient banyan tree providing shade nearby. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "చిన్ని కప్ప తన చిట్టి చిట్టి కళ్ళు పెద్దవి చేసుకుని, పొడవైన రెల్లు గడ్డి చాటున దాక్కుంది. ఉదయపు గాలికి రెల్లు గడ్డి మెల్లగా ఊగుతూ, సన్నటి గుసగుసల శబ్దం చేసింది. ఆ శబ్దానికి కూడా చిన్ని ఉలిక్కిపడింది — దాని గుండె వేగంగా కొట్టుకుంది. \"అమ్మో! ఆ గాలికి ఎంత పెద్ద శబ్దం!\" అని అది అనుకుంటూ, కళ్ళు రెప్పవేయకుండా చూసింది. అప్పుడే, దూరంగా ఒక పెద్ద కప్ప — వీరుడు, గర్వంగా గంభీరంగా నీటిపైకి దూకడం చూసింది.",
+      "image_prompt": "The small frog is hiding behind tall reeds, its tiny eyes wide open and unblinking. Its heart beats rapidly as it watches a large, brave frog majestically jump onto the water in the distance. Soft morning sunlight filtering through tall green reeds, dappling the water with gentle gold and creating long, peaceful shadows.",
+      "scene_visual": "The small frog is hiding behind tall reeds, its tiny eyes wide open and unblinking. Its heart beats rapidly as it watches a large, brave frog majestically jump onto the water in the distance.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinni Kappa Tana Chitti Chitti Kallu Peddavi Chesukuni, Podavaina Rellu Gaddi Chaatuna Daakkundi. Udayapu Gaaliki Rellu Gaddi Mellagaa Ugutu, Sannati Gusagusala Shabdam Chesindi. Aa Shabdaaniki Kudaa Chinni Ulikkipadindi — Daani Gunde Vegangaa Kottukundi. \"Ammo! Aa Gaaliki Enta Pedda Shabdan!\" Ani Adi Anukuntu, Kallu Reppaveyakundaa Chusindi. Appude, Durangaa Oka Pedda Kappa — Virudu, Garvangaa Gambhirangaa Nitipaiki Dukadam Chusindi.",
+      "text_en": "Chinni the frog made her tiny eyes wide and hid behind the tall reeds. The morning breeze made the reeds sway gently, creating a soft whispering sound. Even that sound made Chinni jump — her heart beat fast. \"Oh my! What a loud sound from the wind!\" she thought, watching without blinking. Just then, she saw a big frog in the distance — Veerudu, proudly and grandly jumping onto the water."
+    },
+    {
+      "id": 2,
+      "text": "వీరుడు అలవోకగా ఒక తామర ఆకు నుండి మరో దూరపు ఆకుపైకి దూకాడు, మధ్యలో ఒక పురుగును పట్టుకున్నాడు. వీరుడు దూకగానే \"స్ప్లిష్-స్ప్లాష్\" అంటూ నీటిపై శబ్దం వచ్చింది — చుట్టూ అలలు వ్యాపించాయి. చిన్ని రెల్లు గడ్డిలోకి ఇంకా లోపలికి నక్కింది, కళ్ళు ఆశ్చర్యంతో పెద్దవి చేసుకుంది. \"అబ్బో, ఈ పట్టు చాలు!\" అని అది తనలో తాను అనుకుంది, దాని శరీరం కాస్త బిగుసుకుపోయింది. ఇంతలో, చెరువులో నీటి మట్టం నిన్నటి కన్నా బాగా తగ్గిపోయి, బురద నేల బయటపడడం దాని కంటికి కనిపించింది.",
+      "image_prompt": "The small frog snuggles deeper into the reeds, its eyes wide with astonishment. It watches as the brave frog effortlessly leaps from one lily pad to a distant one, catching an insect mid-air. Bright midday sun reflecting off the water, making the green lily pads vibrant, with a sense of lazy comfort slowly fading into an underlying tension.",
+      "scene_visual": "The small frog snuggles deeper into the reeds, its eyes wide with astonishment. It watches as the brave frog effortlessly leaps from one lily pad to a distant one, catching an insect mid-air.",
+      "supporting_char_keys": [
+        "veerudu"
+      ],
+      "text_te_en": "Virudu Alavokagaa Oka Taamara Aaku Nundi Maro Durapu Aakupaiki Dukaadu, Madhyalo Oka Purugunu Pattukunnaadu. Virudu Dukagaane \"Splish-Splaash\" Antu Nitipai Shabdam Vachchindi — Chuttu Alalu Vyaapinchaayi. Chinni Rellu Gaddiloki Inkaa Lopaliki Nakkindi, Kallu Aashcharyanto Peddavi Chesukundi. \"Abbo, I Pattu Chaalu!\" Ani Adi Tanalo Taanu Anukundi, Daani Shariram Kaasta Bigusukupoyindi. Intalo, Cheruvulo Niti Mattam Ninnati Kannaa Baagaa Taggipoyi, Burada Nela Bayatapadadam Daani Kantiki Kanipinchindi.",
+      "text_en": "Veerudu easily jumped from one lily pad to another far-off one, catching a bug in between. As Veerudu jumped, there was a \"splish-splash\" sound on the water — waves spread all around. Chinni snuggled even deeper into the reeds, her eyes wide with wonder. \"Wow, what a powerful jump!\" she thought to herself, her body tensing up a little. Just then, she noticed that the water level in the pond had dropped much lower than yesterday, revealing muddy ground."
+    },
+    {
+      "id": 3,
+      "text": "నీటి మట్టం మరింత తగ్గిపోయి, చెరువు అంచుల వెంబడి పొడిబారిన నేల పగిలి కనిపించింది. పగిలిన నేల నుండి మట్టి వాసన వస్తుండగా, చిన్ని కళ్ళు ఆందోళనతో చుట్టూ తిప్పింది. మిగిలిన కప్పలన్నీ అప్పటికే దగ్గరలో ఉన్న పెద్ద చెరువు వైపు దూకుతూ వెళ్తున్నాయి. చిన్ని శరీరం వణికింది — అడుగు కూడా కదపలేకపోయింది. \"అయ్యో, ఇంత దూరం దూకడం నా వల్ల అవుతుందా?\" అని అది నిట్టూర్చింది. చిన్ని భయపడిన భంగిమను చూసిన వీరుడు, దాని దగ్గరకు వచ్చాడు.",
+      "image_prompt": "The small frog's body trembles, frozen in place, as it watches other frogs jump towards a distant pond. Its eyes nervously dart around, observing the cracked, dry earth exposed by the receding water. Harsher afternoon sun, casting long, stark shadows of reeds and the banyan tree, the water looks murky and low, highlighting the growing urgency.",
+      "scene_visual": "The small frog's body trembles, frozen in place, as it watches other frogs jump towards a distant pond. Its eyes nervously dart around, observing the cracked, dry earth exposed by the receding water.",
+      "supporting_char_keys": [
+        "veerudu"
+      ],
+      "text_te_en": "Niti Mattam Marinta Taggipoyi, Cheruvu Anchula Vembadi Podibaarina Nela Pagili Kanipinchindi. Pagilina Nela Nundi Matti Vaasana Vastundagaa, Chinni Kallu Aandolanato Chuttu Tippindi. Migilina Kappalanni Appatike Daggaralo Unna Pedda Cheruvu Vaipu Dukutu Veltunnaayi. Chinni Shariram Vanikindi — Adugu Kudaa Kadapalekapoyindi. \"Ayyo, Inta Duram Dukadam Naa Valla Avutundaa?\" Ani Adi Nitturchindi. Chinni Bhayapadina Bhangimanu Chusina Virudu, Daani Daggaraku Vachchaadu.",
+      "text_en": "The water level dropped even more, and cracked, dry ground appeared along the edges of the pond. As the smell of dry earth came from the cracked ground, Chinni looked around anxiously. All the other frogs were already jumping towards a bigger pond nearby. Chinni's body trembled — she couldn't even move a step. \"Oh no, can I jump that far?\" she sighed. Seeing Chinni's frightened posture, Veerudu came closer to her."
+    },
+    {
+      "id": 4,
+      "text": "\"భయం వద్దు చిన్ని, చిన్నగా ప్రయత్నించు!\" అని వీరుడు ధైర్యం చెప్పాడు, దాని వైపు చూస్తూ. చిన్ని కాస్త ధైర్యం తెచ్చుకుని, చిన్నగా దూకడానికి ప్రయత్నించింది. కానీ దాని కాళ్ళు వణికి, బలం చాలక, గమ్యానికి చాలా దూరంలో బురదలో పడింది. బురదలో \"స్క్విష్\" మని శబ్దం చేస్తూ, చిన్ని తల వంచుకుంది — దాని భుజాలు కుంచించుకుపోయాయి. ఒక లోతైన నిట్టూర్పు దాని నోటి నుండి వెలువడింది. అప్పుడు వీరుడు, అలవోకగా కొంచెం దూరంలోని తామర ఆకుపైకి దూకి, అది ఎంత సులువో చూపించాడు.",
+      "image_prompt": "The small frog attempts a small jump but its trembling legs give out, causing it to fall with a \"squish\" into the mud. It bows its head, its shoulders slumped in defeat, far from its intended landing spot. Late afternoon light, warm and golden, but with an underlying sense of fading hope as the shadows lengthen over the receding water.",
+      "scene_visual": "The small frog attempts a small jump but its trembling legs give out, causing it to fall with a \"squish\" into the mud. It bows its head, its shoulders slumped in defeat, far from its intended landing spot.",
+      "supporting_char_keys": [
+        "veerudu"
+      ],
+      "text_te_en": "\"Bhayam Vaddu Chinni, Chinnagaa Prayatninchu!\" Ani Virudu Dhairyam Cheppaadu, Daani Vaipu Chustu. Chinni Kaasta Dhairyam Techchukuni, Chinnagaa Dukadaaniki Prayatninchindi. Kaani Daani Kaallu Vaniki, Balam Chaalaka, Gamyaaniki Chaalaa Duranlo Buradalo Padindi. Buradalo \"Skvish\" Mani Shabdam Chestu, Chinni Tala Vanchukundi — Daani Bhujaalu Kunchinchukupoyaayi. Oka Lotaina Nitturpu Daani Noti Nundi Veluvadindi. Appudu Virudu, Alavokagaa Konchem Duranloni Taamara Aakupaiki Duki, Adi Enta Suluvo Chupinchaadu.",
+      "text_en": "\"Don't be afraid, Chinni, just try a little!\" Veerudu encouraged her, looking at her. Chinni gathered a little courage and tried to jump a short distance. But her legs trembled, and she didn't have enough strength, so she fell into the mud far from her target. Making a \"squish\" sound in the mud, Chinni hung her head — her shoulders slumped. A deep sigh escaped her mouth. Then Veerudu easily jumped onto a lily pad a little distance away, showing her how simple it could be."
+    },
+    {
+      "id": 5,
+      "text": "వీరుడు చూపిన విధానం చిన్ని మనసులో నిలిచిపోయింది. అది ఒక ఏకాంతమైన ప్రదేశంలోకి వెళ్లి, చిన్న చిన్న గంతులు వేయడం మొదలుపెట్టింది. ప్రతిసారీ ఇంకా కొంచెం దూరం వెళ్లడానికి ప్రయత్నిస్తూ, దాని కళ్ళలో ఆశ మెరిసింది. ఒక తడి ఆకుపై దాని చిట్టి పాదాలు \"థ్వాక్\" మని పడినప్పుడు — అది గతంలో కన్నా కొంచెం ఎక్కువ దూరం దూకింది. \"ఇంకొక అడుగు... అంతే!\" అని చిన్ని తనలో తాను అనుకుంది, ఊపిరి బిగబట్టి. ఇంతలో, పాత చెరువులో మిగిలి ఉన్న నీరు ఇప్పుడు ఒక చిన్న గుంటలా మారడం చిన్ని గమనించింది.",
+      "image_prompt": "The small frog practices jumping in a secluded spot, its tiny feet landing \"thwack\" on a wet leaf. Hope sparkles in its eyes as it manages to jump a little further than before, pushing itself with each attempt. Soft, early evening light, a peaceful blue-grey with hints of purple, suggesting quiet effort and growing inner strength in the secluded practice area.",
+      "scene_visual": "The small frog practices jumping in a secluded spot, its tiny feet landing \"thwack\" on a wet leaf. Hope sparkles in its eyes as it manages to jump a little further than before, pushing itself with each attempt.",
+      "supporting_char_keys": [],
+      "text_te_en": "Virudu Chupina Vidhaanam Chinni Manasulo Nilichipoyindi. Adi Oka Ekaantamaina Pradeshanloki Velli, Chinna Chinna Gantulu Veyadam Modalupettindi. Pratisaari Inkaa Konchem Duram Velladaaniki Prayatnistu, Daani Kallalo Aasha Merisindi. Oka Tadi Aakupai Daani Chitti Paadaalu \"Thvaak\" Mani Padinappudu — Adi Gatanlo Kannaa Konchem Ekkuva Duram Dukindi. \"Inkoka Adugu... Ante!\" Ani Chinni Tanalo Taanu Anukundi, Upiri Bigabatti. Intalo, Paata Cheruvulo Migili Unna Niru Ippudu Oka Chinna Guntalaa Maaradam Chinni Gamaninchindi.",
+      "text_en": "The way Veerudu showed her stayed in Chinni's mind. She went to a secluded spot and started taking small hops. Each time she tried to go a little further, hope sparkled in her eyes. When her tiny feet landed \"thwack\" on a wet leaf — she had jumped a little further than before. \"Just one more step... that's it!\" Chinni thought to herself, holding her breath. Meanwhile, Chinni noticed that the remaining water in the old pond had now become a small puddle."
+    },
+    {
+      "id": 6,
+      "text": "పాత చెరువు పూర్తిగా ఎండిపోవడంతో, చిన్నికి వేరే మార్గం కనిపించలేదు. అది భయంతో కళ్ళు గట్టిగా మూసుకుంది, వీరుడి మాటలు గుర్తుచేసుకుంది. దాని కండరాలు బిగుసుకుపోయాయి — ఒక అద్భుతమైన ధైర్యం దానిలో పొంగుకొచ్చింది. బురద నేలపై దాని కాళ్ళు ఒక్కసారిగా బలంగా తొక్కాయి — అది గాలిలోకి ఎగిరింది. \"నేను చేయగలను!\" అని అది గట్టిగా మనసులో అనుకుంది. ఆ క్షణంలో, అది రెండు చెరువుల మధ్య దూకుతూ, గాలిలో తేలిపోతున్న ఒక చిన్న ఆకులా కనిపించింది.",
+      "image_prompt": "The small frog closes its eyes tightly in fear, then its legs powerfully push off the muddy ground, launching it into the air. Its muscles are tensed, and it appears like a small leaf floating in the air between the two ponds. Dramatic, orange-red sunset light, emphasizing the height and danger of the jump, with a glimmer of hopeful gold on the horizon as Chinni flies.",
+      "scene_visual": "The small frog closes its eyes tightly in fear, then its legs powerfully push off the muddy ground, launching it into the air. Its muscles are tensed, and it appears like a small leaf floating in the air between the two ponds.",
+      "supporting_char_keys": [
+        "veerudu"
+      ],
+      "text_te_en": "Paata Cheruvu Purtigaa Endipovadanto, Chinniki Vere Maargam Kanipinchaledu. Adi Bhayanto Kallu Gattigaa Musukundi, Virudi Maatalu Gurtuchesukundi. Daani Kandaraalu Bigusukupoyaayi — Oka Adbhutamaina Dhairyam Daanilo Pongukochchindi. Burada Nelapai Daani Kaallu Okkasaarigaa Balangaa Tokkaayi — Adi Gaaliloki Egirindi. \"Nenu Cheyagalanu!\" Ani Adi Gattigaa Manasulo Anukundi. Aa Kshananlo, Adi Rendu Cheruvula Madhya Dukutu, Gaalilo Telipotunna Oka Chinna Aakulaa Kanipinchindi.",
+      "text_en": "With the old pond completely dried up, Chinni saw no other way. She closed her eyes tightly in fear, remembering Veerudu's words. Her muscles tensed — a wonderful courage surged within her. Her legs pushed strongly off the muddy ground all at once — she soared into the air. \"I can do it!\" she firmly thought to herself. In that moment, as she jumped between the two ponds, she looked like a small leaf floating in the air."
+    },
+    {
+      "id": 7,
+      "text": "చిన్ని కప్ప కొత్త చెరువులోని చల్లటి, స్వచ్ఛమైన నీటిలో మెల్లగా పడింది — శరీరమంతా హాయిగా తడిసింది. దాని భుజాలు వెనక్కి వెళ్ళాయి, పెదాలపై ఒక చిన్న చిరునవ్వు కనిపించింది. కళ్ళు ప్రకాశవంతంగా మెరిశాయి — దానిలో కొత్త ఆత్మవిశ్వాసం తొణికిసలాడింది. \"చూశావా చిన్ని? నువ్వు చేయగలవని నాకు తెలుసు!\" అని వీరుడు దానిని చూసి ఆప్యాయంగా నవ్వాడు. చిన్ని కప్ప ఇప్పుడు భయపడే చిన్ని కప్ప కాదు — ధైర్యంగా దూకే వీరుడి స్నేహితురాలు.",
+      "image_prompt": "The small frog gently lands in the cool, clear water of the new pond, its body pleasantly wet. Its shoulders relax, and a small smile appears on its lips as its eyes shine brightly with newfound confidence. Gentle dusk light, warm amber and soft blues, peaceful and triumphant, reflecting on the calm, clear water of the new pond.",
+      "scene_visual": "The small frog gently lands in the cool, clear water of the new pond, its body pleasantly wet. Its shoulders relax, and a small smile appears on its lips as its eyes shine brightly with newfound confidence.",
+      "supporting_char_keys": [
+        "veerudu"
+      ],
+      "text_te_en": "Chinni Kappa Kotta Cheruvuloni Challati, Svachchamaina Nitilo Mellagaa Padindi — Shariramantaa Haayigaa Tadisindi. Daani Bhujaalu Venakki Vellaayi, Pedaalapai Oka Chinna Chirunavvu Kanipinchindi. Kallu Prakaashavantangaa Merishaayi — Daanilo Kotta Aatmavishvaasam Tonikisalaadindi. \"Chushaavaa Chinni? Nuvvu Cheyagalavani Naaku Telusu!\" Ani Virudu Daanini Chusi Aapyaayangaa Navvaadu. Chinni Kappa Ippudu Bhayapade Chinni Kappa Kaadu — Dhairyangaa Duke Virudi Snehituraalu.",
+      "text_en": "Chinni the frog gently landed in the cool, clear water of the new pond — her whole body felt comfortably wet. Her shoulders went back, and a small smile appeared on her lips. Her eyes sparkled brightly — new self-confidence bubbled within her. \"See, Chinni? I knew you could do it!\" Veerudu said, smiling warmly at her. Chinni the frog was no longer the scared Chinni frog — she was now Veerudu's brave jumping friend."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "veerudu",
+      "description": "Veerudu (వీరుడు) is a larger, muscular frog with vibrant green skin and strong hind legs. He has wise, knowing eyes and a confident posture. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc and flawless colloquial Telugu, making it highly engaging for children. The emotional depth is mostly shown through action, and the oral warmth is palpable. To reach an award-worthy 9+, the most critical improvement would be to enhance the dialogue richness. While internal monologues are present, increasing direct, character-specific conversations between Chinni and Veerudu would further develop their relationship and make the story even more dynamic and interactive for young listeners."
+  },
+  "title_te_en": "Chinni Kappa Gelupu - Bhayam Daatina Duku",
+  "moral_te_en": "Bhayam Vadili Dhairyangaa Prayatniste, Enno Goppa Panulu Saadhinchavachchu.",
+  "title_en": "Chinni the Frog's Victory - The Leap Beyond Fear",
+  "moral_en": "If you let go of fear and try bravely, you can achieve many great things.",
+  "id": "20260602_231047",
+  "date": "2026-06-02",
+  "category": "neeti",
+  "subcategory": "animal_morals",
+  "topic": "భయపడే చిన్న కప్ప మరియు గొప్ప దూకుడు",
+  "thumbnail": "stories/20260602_231047/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
