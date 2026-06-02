@@ -1,0 +1,114 @@
+{
+  "title": "జ్ఞానాన్ని అందించిన వ్యాస గణపతులు",
+  "moral": "మనసు పెట్టి పనిచేస్తే, దైవ సాయం తప్పక లభిస్తుంది.",
+  "main_character": "Vyasa: an ancient sage with a wise, calm face, long white beard and hair tied in a topknot. He wears simple saffron robes and carries a palm-leaf manuscript and a quill. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A serene hermitage nestled in the Himalayas, beside the flowing Ganga river. Surrounded by tall deodar trees and snow-capped peaks, with a small hut made of wood and leaves. It is always daytime, with clear mountain air.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "హిమాలయాల ఒడిలో, గంగా నది పక్కన, వ్యాస మహర్షి కళ్ళు మూసుకుని ధ్యానంలో ఉన్నాడు. చల్లటి గాలి ఆయన జుట్టును మెల్లగా సవరుతోంది, నది ప్రవాహం ఆయనకు తోడుగా సన్నని సంగీతం పాడుతోంది. విశ్వంలోని జ్ఞానమంతా ఆయన మనసులో మెరిసిపోతోంది. \"ఈ జ్ఞానం తరతరాలకు అందాలి కదా!\" అని మనసులో అనుకున్నాడు. అది ఎంతో పెద్ద బాధ్యత అని ఆయనకు తెలుసు, అందుకే ఆయన ముఖంలో లోతైన ఆలోచనలు కనిపించాయి. తన కళ్ళు తెరిచాడు — లోతైన ఆలోచనలో మునిగిపోయి.",
+      "image_prompt": "The old man slowly opens his eyes, emerging from deep meditation. His face shows deep contemplation, reflecting the immense responsibility he feels. Soft morning light filtering through deodar trees, creating dappled shadows on the forest floor, with a cool, fresh quality.",
+      "scene_visual": "The old man slowly opens his eyes, emerging from deep meditation. His face shows deep contemplation, reflecting the immense responsibility he feels.",
+      "supporting_char_keys": [],
+      "text_te_en": "Himaalayaala Odilo, Gangaa Nadi Pakkana, Vyaasa Maharshi Kallu Musukuni Dhyaananlo Unnaadu. Challati Gaali Aayana Juttunu Mellagaa Savarutondi, Nadi Pravaaham Aayanaku Todugaa Sannani Sangitam Paadutondi. Vishvanloni Jnyaanamantaa Aayana Manasulo Merisipotondi. \"I Jnyaanam Tarataraalaku Andaali Kadaa!\" Ani Manasulo Anukunnaadu. Adi Ento Pedda Baadhyata Ani Aayanaku Telusu, Anduke Aayana Mukhanlo Lotaina Aalochanalu Kanipinchaayi. Tana Kallu Terichaadu — Lotaina Aalochanalo Munigipoyi.",
+      "text_en": "In the lap of the Himalayas, by the side of the Ganga River, Vyasa Maharshi sat with his eyes closed, deep in meditation. A cool breeze gently ruffled his hair, and the river's flow sang a soft song beside him. All the knowledge of the universe sparkled in his mind. \"This knowledge must reach generations to come, mustn't it!\" he thought to himself. He knew it was a huge responsibility, which is why deep thoughts showed on his face. He opened his eyes — lost in deep thought."
+    },
+    {
+      "id": 2,
+      "text": "వ్యాస మహర్షి కళ్ళు తెరిచి చూడగానే, తన ముందున్న పని ఎంత పెద్దదో అర్థమైంది. వెంటనే తాళపత్రాలు పట్టుకుని రాయడం మొదలుపెట్టాడు. ఖిచిర్... ఖిచిర్... అంటూ ఆయన చేతులు వేగంగా కదులుతున్నాయి, కానీ ఆ పని ఎంత చేసినా తరగడం లేదు. అప్పుడు ఆయన చేతులు అలసిపోయాయి, అక్షరాలు రాయడం కూడా కష్టమైపోయింది. \"ఇది ఒక్కడితో అయ్యే పని కాదు\" అని ఆయన పెదవులు కదిలాయి. పెద్ద నిట్టూర్పు విడిచాడు — ఈ పని ఒక్కడితో అయ్యేది కాదు. ఆయన కళ్ళు మూసుకుని, మౌనంగా ప్రార్థించాడు.",
+      "image_prompt": "The old man's hands, weary from writing, drop the palm leaves as he lets out a deep sigh. He then closes his eyes, his lips moving in silent prayer. Bright, clear midday sun illuminating Vyasa's small writing space, highlighting the daunting mountain of blank palm leaves.",
+      "scene_visual": "The old man's hands, weary from writing, drop the palm leaves as he lets out a deep sigh. He then closes his eyes, his lips moving in silent prayer.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vyaasa Maharshi Kallu Terichi Chudagaane, Tana Mundunna Pani Enta Peddado Arthamaindi. Ventane Taalapatraalu Pattukuni Raayadam Modalupettaadu. Khichir... Khichir... Antu Aayana Chetulu Vegangaa Kadulutunnaayi, Kaani Aa Pani Enta Chesinaa Taragadam Ledu. Appudu Aayana Chetulu Alasipoyaayi, Aksharaalu Raayadam Kudaa Kashtamaipoyindi. \"Idi Okkadito Ayye Pani Kaadu\" Ani Aayana Pedavulu Kadilaayi. Pedda Nitturpu Vidichaadu — I Pani Okkadito Ayyedi Kaadu. Aayana Kallu Musukuni, Maunangaa Praarthinchaadu.",
+      "text_en": "As soon as Vyasa Maharshi opened his eyes, he understood how big the task before him was. Immediately, he picked up palm leaves and began to write. Scratch... scratch... his hands moved quickly, but no matter how much he wrote, the work never seemed to end. Then his hands grew tired, and even writing letters became difficult. His lips moved, saying, \"This is not a task for one person.\" He let out a big sigh — this work could not be done by one person alone. He closed his eyes and prayed silently."
+    },
+    {
+      "id": 3,
+      "text": "ఆయన ప్రార్థన పూర్తవగానే, ఒక్కసారిగా — మోదకాల సువాసన అడవంతా నిండిపోయింది! అప్పుడు వ్యాసుల వారికి ఎదురుగా గణపతి కనిపించాడు, చిరునవ్వుతో నిలబడి ఉన్నాడు. వ్యాసుల వారి ముఖం వెలుగుతో నిండిపోయింది — తన ప్రార్థన ఫలించిందని అర్థమైంది. \"మహర్షీ, మీ మనసులోని కోరిక నాకు తెలుసు,\" అని గణపతి అన్నాడు. \"నేను రాస్తాను, కానీ మీ మాట ఆగకూడదు.\" ఆ మాట వినగానే వ్యాసుల వారు కొద్దిగా ఆలోచించాడు — ఇది గొప్ప అవకాశం, కానీ ఒక పెద్ద సవాలు కూడా.",
+      "image_prompt": "An elephant-headed deity suddenly appears before the old man, standing with a gentle smile. The old man's face lights up with joy and understanding, his prayer answered. SUPPORTING CHARACTER also in this scene: ganesha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A soft, divine golden glow emanates from Ganesha, illuminating the hermitage with warmth and a sense of auspiciousness.",
+      "scene_visual": "An elephant-headed deity suddenly appears before the old man, standing with a gentle smile. The old man's face lights up with joy and understanding, his prayer answered.",
+      "supporting_char_keys": [
+        "ganesha"
+      ],
+      "text_te_en": "Aayana Praarthana Purtavagaane, Okkasaarigaa — Modakaala Suvaasana Adavantaa Nindipoyindi! Appudu Vyaasula Vaariki Edurugaa Ganapati Kanipinchaadu, Chirunavvuto Nilabadi Unnaadu. Vyaasula Vaari Mukham Veluguto Nindipoyindi — Tana Praarthana Phalinchindani Arthamaindi. \"Maharshi, Mi Manasuloni Korika Naaku Telusu,\" Ani Ganapati Annaadu. \"Nenu Raastaanu, Kaani Mi Maata Aagakudadu.\" Aa Maata Vinagaane Vyaasula Vaaru Koddigaa Aalochinchaadu — Idi Goppa Avakaashan, Kaani Oka Pedda Savaalu Kudaa.",
+      "text_en": "As soon as his prayer was finished, suddenly — the sweet smell of modakas filled the entire forest! Then, right in front of Vyasa, Ganapati appeared, standing with a smile. Vyasa's face filled with light — he understood that his prayer had been answered. \"Maharshi, I know the wish in your heart,\" Ganapati said. \"I will write, but your words must not stop.\" Hearing this, Vyasa thought for a moment — it was a great opportunity, but also a big challenge."
+    },
+    {
+      "id": 4,
+      "text": "గణపతి షరతుకు వ్యాసుల వారు ఒప్పుకున్నాడు, అప్పుడు కథ మొదలైంది. ఆయన శ్లోకాలు చెబుతుంటే, గణపతి విరిగిన దంతంతో — ఖిచిర్... ఖిచిర్... అంటూ తాళపత్రాలపై వేగంగా రాసేస్తున్నాడు. గణపతి వేగం చూసి వ్యాసుల వారికి ఒక ఆలోచన వచ్చింది. ఆయన కొన్ని సంక్లిష్టమైన, లోతైన శ్లోకాలను చెప్పడం మొదలుపెట్టాడు. \"ఈ శ్లోకానికి అర్థం ఏమిటో ముందు గ్రహించు, గణపతీ!\" అని వ్యాసుల వారు చమత్కారంగా అన్నాడు. గణపతి తన తొండం మెల్లగా కదిలించాడు, ఆ లోతైన అర్థాన్ని గ్రహించడానికి కొన్ని క్షణాలు పట్టింది — అది వ్యాసుల వారికి కొద్దిగా విశ్రాంతిని ఇచ్చింది.",
+      "image_prompt": "The elephant-headed deity pauses his rapid writing, his trunk gently swaying as he ponders a complex verse. The old man watches him, a subtle, knowing smile playing on his lips. SUPPORTING CHARACTER also in this scene: ganesha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Bright, focused light on the area where Vyasa is dictating and Ganesha is writing, creating a sense of intense concentration and intellectual effort.",
+      "scene_visual": "The elephant-headed deity pauses his rapid writing, his trunk gently swaying as he ponders a complex verse. The old man watches him, a subtle, knowing smile playing on his lips.",
+      "supporting_char_keys": [
+        "ganesha"
+      ],
+      "text_te_en": "Ganapati Sharatuku Vyaasula Vaaru Oppukunnaadu, Appudu Katha Modalaindi. Aayana Shlokaalu Chebutunte, Ganapati Virigina Dantanto — Khichir... Khichir... Antu Taalapatraalapai Vegangaa Raasestunnaadu. Ganapati Vegam Chusi Vyaasula Vaariki Oka Aalochana Vachchindi. Aayana Konni Sanklishtamaina, Lotaina Shlokaalanu Cheppadam Modalupettaadu. \"I Shlokaaniki Artham Emito Mundu Grahinchu, Ganapati!\" Ani Vyaasula Vaaru Chamatkaarangaa Annaadu. Ganapati Tana Tondam Mellagaa Kadilinchaadu, Aa Lotaina Arthaanni Grahinchadaaniki Konni Kshanaalu Pattindi — Adi Vyaasula Vaariki Koddigaa Vishraantini Ichchindi.",
+      "text_en": "Vyasa agreed to Ganapati's condition, and then the story began. As Vyasa recited the verses, Ganapati, with his broken tusk — scratch... scratch... quickly wrote them down on the palm leaves. Seeing Ganapati's speed, an idea came to Vyasa. He began to recite some complex, deep verses. \"First, understand the meaning of this verse, Ganapati!\" Vyasa said playfully. Ganapati gently moved his trunk; it took a few moments to grasp the deep meaning — which gave Vyasa a little rest."
+    },
+    {
+      "id": 5,
+      "text": "రోజులు వారాలుగా, వారాలు నెలలుగా మారాయి, కానీ ఆ మహాకార్యం ఆగలేదు. వ్యాసుల వారు అలసిపోయినా, ఆయన కళ్ళు మాత్రం ఎప్పుడూ మెరుస్తూ ఉండేవి, ఆయన సంకల్పం చెక్కుచెదరలేదు. గణపతి కూడా నిరంతరం రాస్తూనే ఉన్నాడు, ఒక తాళపత్రం తర్వాత ఇంకొకటి. వేలకొలది తాళపత్రాలు — గుట్టలు గుట్టలుగా పేరుకుపోయాయి. ప్రతి పూర్తి అయిన తాళపత్రం మెల్లగా తిరుగుతున్నప్పుడు, ఒక సన్నని శబ్దం వచ్చేది. \"తదుపరి శ్లోకం, మహర్షీ!\" అని గణపతి ఉత్సాహంగా అడుగుతుంటే, వ్యాసుల వారు చిరునవ్వు నవ్వాడు.",
+      "image_prompt": "The elephant-headed deity eagerly turns a completed palm leaf, adding it to the growing piles around them. The old man, though tired, smiles faintly, his eyes still bright with determination. SUPPORTING CHARACTER also in this scene: ganesha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Late afternoon sun, casting long, warm shadows over the growing stacks of manuscripts, suggesting the passage of much time and diligent effort.",
+      "scene_visual": "The elephant-headed deity eagerly turns a completed palm leaf, adding it to the growing piles around them. The old man, though tired, smiles faintly, his eyes still bright with determination.",
+      "supporting_char_keys": [
+        "ganesha"
+      ],
+      "text_te_en": "Rojulu Vaaraalugaa, Vaaraalu Nelalugaa Maaraayi, Kaani Aa Mahaakaaryam Aagaledu. Vyaasula Vaaru Alasipoyinaa, Aayana Kallu Maatram Eppudu Merustu Undevi, Aayana Sankalpam Chekkuchedaraledu. Ganapati Kudaa Nirantaram Raastune Unnaadu, Oka Taalapatram Tarvaata Inkokati. Velakoladi Taalapatraalu — Guttalu Guttalugaa Perukupoyaayi. Prati Purti Ayina Taalapatram Mellagaa Tirugutunnappudu, Oka Sannani Shabdam Vachchedi. \"Tadupari Shlokan, Maharshi!\" Ani Ganapati Utsaahangaa Adugutunte, Vyaasula Vaaru Chirunavvu Navvaadu.",
+      "text_en": "Days turned into weeks, and weeks into months, but the great work did not stop. Even though Vyasa was tired, his eyes always sparkled, and his determination remained unshaken. Ganapati also kept writing continuously, one palm leaf after another. Thousands of palm leaves — piled up in stacks. As each completed palm leaf was gently turned, a soft sound would come. \"Next verse, Maharshi!\" Ganapati would ask eagerly, and Vyasa would smile."
+    },
+    {
+      "id": 6,
+      "text": "అలా ఎన్నో ఏళ్ళు గడిచాక, ఆ గొప్ప గ్రంథం చివరి శ్లోకానికి చేరుకుంది. వ్యాసుల వారు దీర్ఘ శ్వాస తీసుకుని, తన గొంతు సవరించుకుని, చివరి వాక్యాన్ని స్పష్టంగా ఉచ్చరించాడు. ఆ వాక్యాలు కొండల్లో, నదిలో మారుమోగిపోయాయి. \"ఇది సంపూర్ణం!\" అని వ్యాసుల వారు గంభీరంగా ప్రకటించాడు. అది — ఆయన జీవిత కల నెరవేరిన అద్భుత క్షణం! గణపతి తన విరిగిన దంతాన్ని పక్కన పెట్టాడు, వారిద్దరి మధ్య ఒక మౌనమైన అవగాహన, శాంతి నిండిపోయాయి.",
+      "image_prompt": "The old man takes a deep breath and clearly pronounces the final verse, his voice echoing across the mountains. The elephant-headed deity gently places his broken tusk aside, a sense of peaceful understanding between them. SUPPORTING CHARACTER also in this scene: ganesha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A moment of ethereal, soft golden light filling the hermitage, as if blessed by the divine, highlighting the completed work.",
+      "scene_visual": "The old man takes a deep breath and clearly pronounces the final verse, his voice echoing across the mountains. The elephant-headed deity gently places his broken tusk aside, a sense of peaceful understanding between them.",
+      "supporting_char_keys": [
+        "ganesha"
+      ],
+      "text_te_en": "Alaa Enno Ellu Gadichaaka, Aa Goppa Grantham Chivari Shlokaaniki Cherukundi. Vyaasula Vaaru Dirgha Shvaasa Tisukuni, Tana Gontu Savarinchukuni, Chivari Vaakyaanni Spashtangaa Uchcharinchaadu. Aa Vaakyaalu Kondallo, Nadilo Maarumogipoyaayi. \"Idi Sampurnan!\" Ani Vyaasula Vaaru Gambhirangaa Prakatinchaadu. Adi — Aayana Jivita Kala Neraverina Adbhuta Kshanan! Ganapati Tana Virigina Dantaanni Pakkana Pettaadu, Vaariddari Madhya Oka Maunamaina Avagaahana, Shaanti Nindipoyaayi.",
+      "text_en": "After many years passed like this, the great scripture reached its final verse. Vyasa took a deep breath, cleared his throat, and clearly pronounced the last sentence. Those words echoed through the mountains and across the river. \"It is complete!\" Vyasa declared solemnly. It was — a wonderful moment when his life's dream came true! Ganapati put aside his broken tusk; a silent understanding and peace filled the space between them."
+    },
+    {
+      "id": 7,
+      "text": "అప్పుడు వ్యాస మహర్షి, గణపతి ఆ గొప్ప గ్రంథాల గుట్టల వైపు చూశారు. వేల సంవత్సరాల జ్ఞానం, కథలు, ధర్మాలు అక్కడ భద్రంగా ఉన్నాయి. పాత తాళపత్రాల మట్టి వాసన, హిమాలయాల చల్లటి గాలి కలిసి ఒక దివ్యమైన అనుభూతినిచ్చాయి. వ్యాసుల వారు ఆనందంతో కళ్ళు మూసుకున్నాడు — తన లక్ష్యం నెరవేరిందని ఆయనకు తెలుసు. గణపతి కూడా తన చేతులు జోడించి నమస్కరించాడు, ఈ అద్భుత కార్యంలో భాగమైనందుకు. ఆ జ్ఞాన సంపద — తరతరాలకు వారసత్వంగా మిగిలిపోయింది.",
+      "image_prompt": "The old man closes his eyes in profound contentment, looking at the immense piles of scriptures. Beside him, the elephant-headed deity bows respectfully, his hands joined in gratitude. SUPPORTING CHARACTER also in this scene: ganesha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle dusk light, warm amber, painting the hermitage and the towering stacks of sacred books in a peaceful, reverent glow.",
+      "scene_visual": "The old man closes his eyes in profound contentment, looking at the immense piles of scriptures. Beside him, the elephant-headed deity bows respectfully, his hands joined in gratitude.",
+      "supporting_char_keys": [
+        "ganesha"
+      ],
+      "text_te_en": "Appudu Vyaasa Maharshi, Ganapati Aa Goppa Granthaala Guttala Vaipu Chushaaru. Vela Sanvatsaraala Jnyaanan, Kathalu, Dharmaalu Akkada Bhadrangaa Unnaayi. Paata Taalapatraala Matti Vaasana, Himaalayaala Challati Gaali Kalisi Oka Divyamaina Anubhutinichchaayi. Vyaasula Vaaru Aanandanto Kallu Musukunnaadu — Tana Lakshyam Neraverindani Aayanaku Telusu. Ganapati Kudaa Tana Chetulu Jodinchi Namaskarinchaadu, I Adbhuta Kaaryanlo Bhaagamainanduku. Aa Jnyaana Sampada — Tarataraalaku Vaarasatvangaa Migilipoyindi.",
+      "text_en": "Then Vyasa Maharshi and Ganapati looked at the stacks of great scriptures. Thousands of years of knowledge, stories, and wisdom were safely preserved there. The earthy smell of old palm leaves and the cool Himalayan air together created a divine feeling. Vyasa closed his eyes with joy — he knew his goal had been achieved. Ganapati also joined his hands in respect, for being a part of this amazing work. That treasure of knowledge — remained as a legacy for generations to come."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "ganesha",
+      "description": "Ganesha: a pot-bellied deity with an elephant head, four arms, and a gentle smile. He wears a golden crown and holds a modak in one hand and a broken tusk (used as a pen) in another. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and impeccable grammar, forming a strong foundation. However, it often reads more like a formal written account than a warm, oral bedtime story, with emotions frequently stated rather than shown through character actions. To elevate it to an award-worthy piece, the most crucial step is to infuse consistent oral warmth and ensure every scene features natural, character-specific dialogue, making it truly come alive for a child listener."
+  },
+  "quality_warning": true,
+  "title_te_en": "Jnyaanaanni Andinchina Vyaasa Ganapatulu",
+  "moral_te_en": "Manasu Petti Panicheste, Daiva Saayam Tappaka Labhistundi.",
+  "title_en": "Vyasa and Ganapati: The Givers of Wisdom",
+  "moral_en": "If you work with all your heart, God's help will surely come.",
+  "id": "20260602_211239",
+  "date": "2026-06-02",
+  "category": "bhagavatam",
+  "subcategory": "avatara_kathas",
+  "topic": "వ్యాస అవతారం - జ్ఞానాన్ని గ్రంథస్థం చేసిన మహర్షి",
+  "thumbnail": "stories/20260602_211239/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
