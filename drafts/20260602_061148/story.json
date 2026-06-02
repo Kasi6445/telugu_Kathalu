@@ -1,0 +1,140 @@
+{
+  "title": "చింటూ, కలిసి గెలిచిన బెర్రీలు",
+  "moral": "మనమంతా కలిసి పనిచేస్తే, ఎంత కష్టమైన పనైనా సులువుగా పూర్తవుతుంది, అందరికీ ఆనందం కలుగుతుంది.",
+  "main_character": "Chintu is a young, energetic squirrel with bright, curious eyes and a bushy tail that twitches constantly. He is quick and agile, but often prefers to work alone, confident in his own abilities. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story takes place in a vibrant forest near the village of Palakollu, rich with ancient banyan trees, a gurgling stream, and sun-dappled clearings. The air is always filled with the rustling of leaves and the scent of damp earth. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పలకల్లు అడవిలో చింటూ, లీల, గోలు ముగ్గురూ పొద్దున్నే గింజలు వెతుకుతున్నారు. చింటూ తన బుల్లి పంజాలో దొరికిన గింజలను చూసి, తన ఛాతీని ఉబ్బించుకున్నాడు. లీల, గోలు కూడా అక్కడే తిరుగుతూ ఉంటే, చింటూ రెక్కలు విదిలించి — \"ఇవి నా గింజలు! నువ్వు ఇంకొక చోట వెతుక్కో!\" అని అరిచాడు. వాళ్ళ బుల్లి పాదాల కింద ఆకులు క్రిస్ప్‌గా, పొడిగా కటకటలాడాయి. అప్పుడప్పుడు ఒకరికొకరు గుద్దుకుంటూ, ఎవరు ఎక్కువ గింజలు పోగేసుకున్నారో అని పోట్లాడుకున్నారు. చింటూ ఓ పెద్ద గింజను గర్వంగా చూపించాడు, కానీ ఇంతలో దూరాన ఇంకొకరు చేరుకుంటున్న పెద్ద మెరిసే గింజను చూశాడు.",
+      "image_prompt": "The boy proudly puffs out his chest while holding a seed in his tiny paw. His eyes then fixate on a large, shiny seed appearing in the distance. Bright morning sunlight filters through the dense canopy, creating shifting patterns of light and shadow on the forest floor, feeling energetic and fresh.",
+      "scene_visual": "The boy proudly puffs out his chest while holding a seed in his tiny paw. His eyes then fixate on a large, shiny seed appearing in the distance.",
+      "supporting_char_keys": [
+        "leela",
+        "golu"
+      ],
+      "text_te_en": "Palakallu Adavilo Chintu, Lila, Golu Mugguru Poddunne Ginjalu Vetukutunnaaru. Chintu Tana Bulli Panjaalo Dorikina Ginjalanu Chusi, Tana Chaatini Ubbinchukunnaadu. Lila, Golu Kudaa Akkade Tirugutu Unte, Chintu Rekkalu Vidilinchi — \"Ivi Naa Ginjalu! Nuvvu Inkoka Chota Vetukko!\" Ani Arichaadu. Vaalla Bulli Paadaala Kinda Aakulu Krisp‌Gaa, Podigaa Katakatalaadaayi. Appudappudu Okarikokaru Guddukuntu, Evaru Ekkuva Ginjalu Pogesukunnaaro Ani Potlaadukunnaaru. Chintu O Pedda Ginjanu Garvangaa Chupinchaadu, Kaani Intalo Duraana Inkokaru Cherukuntunna Pedda Merise Ginjanu Chushaadu.",
+      "text_en": "In Palakallu forest, Chintu, Leela, and Golu were all looking for seeds early in the morning. Chintu puffed out his chest, looking at the seeds he found in his tiny paw. As Leela and Golu wandered nearby, Chintu flapped his wings and shouted—\"These are my seeds! You go look somewhere else!\" The dry, crisp leaves crunched under their tiny feet. Sometimes they bumped into each other, arguing over who had collected more seeds. Chintu proudly showed off a big seed, but then he saw another large, shiny seed in the distance that someone else was approaching."
+    },
+    {
+      "id": 2,
+      "text": "చింటూ ఆ పెద్ద గింజ వైపు దూసుకుపోతుండగా, ముగ్గురూ కలిసి ఒక భారీ పండును చూశారు — దాని పెంకు చాలా గట్టిగా ఉంది. గోలు దాన్ని నెట్టడానికి ప్రయత్నించాడు, అది నేల మీద బరువుగా 'ధప్‌'మని పడింది. లీల ఆ పండును తన చిన్న పళ్ళతో కొరుకుతూ, పెదవి విరిచింది — \"అయ్యో! ఇది చాలా పెద్దది, నా వల్ల కాదు!\" అని గొణుగుకుంది. ఎంత ప్రయత్నించినా, ఏ ఒక్కరికీ దాన్ని కదిలించడం గానీ, పగలగొట్టడం గానీ సాధ్యం కాలేదు. వాళ్ళందరి ముఖాల్లో నిరాశ కనిపించింది, అంతలో చింటూ చూపులు ఆ పండును వదిలి, దూరంగా ఉన్న ఒక పొడవైన చెట్టుపైకి వెళ్ళాయి.",
+      "image_prompt": "The three small creatures look at a large, hard-shelled fruit with expressions of disappointment. The boy's gaze then shifts from the fruit to a tall tree in the distance. The sun is now higher, casting a warm, even light across the clearing where the fruit lies, creating a sense of a shared, stubborn problem.",
+      "scene_visual": "The three small creatures look at a large, hard-shelled fruit with expressions of disappointment. The boy's gaze then shifts from the fruit to a tall tree in the distance.",
+      "supporting_char_keys": [
+        "leela",
+        "golu"
+      ],
+      "text_te_en": "Chintu Aa Pedda Ginja Vaipu Dusukupotundagaa, Mugguru Kalisi Oka Bhaari Pandunu Chushaaru — Daani Penku Chaalaa Gattigaa Undi. Golu Daanni Nettadaaniki Prayatninchaadu, Adi Nela Mida Baruvugaa 'Dhap‌'Mani Padindi. Lila Aa Pandunu Tana Chinna Pallato Korukutu, Pedavi Virichindi — \"Ayyo! Idi Chaalaa Peddadi, Naa Valla Kaadu!\" Ani Gonugukundi. Enta Prayatninchinaa, E Okkariki Daanni Kadilinchadam Gaani, Pagalagottadam Gaani Saadhyam Kaaledu. Vaallandari Mukhaallo Niraasha Kanipinchindi, Antalo Chintu Chupulu Aa Pandunu Vadili, Durangaa Unna Oka Podavaina Chettupaiki Vellaayi.",
+      "text_en": "As Chintu rushed towards that big seed, all three of them together saw a huge fruit—its shell was very hard. Golu tried to push it, and it fell heavily to the ground with a 'thud'. Leela bit the fruit with her small teeth and pouted—\"Oh no! This is too big, I can't do it!\" she grumbled. No matter how hard they tried, none of them could move it or break it open. Disappointment showed on all their faces, and then Chintu's gaze left the fruit and went to a tall tree in the distance."
+    },
+    {
+      "id": 3,
+      "text": "ఆ పొడవైన చెట్టు చిటారు కొమ్మన, ఎర్రగా పండిన బెర్రీలు గుంపులు గుంపులుగా వేలాడుతున్నాయి. వాటి తియ్యటి వాసన గాలిలో తేలుతూ చింటూ ముక్కుపుటాలకు తాకింది — అవి తనకే కావాలని అతని కళ్ళు మెరిశాయి. \"ఆ బెర్రీలు నాకు కావాలి!\" అని చింటూ ఒక్కసారిగా అరిచాడు, వాటిని అందుకోవాలని అతని కాళ్ళు దురద పెట్టాయి. అది చాలా ఎత్తులో ఉన్నా, చింటూ దాని గురించి పట్టించుకోలేదు, అతని మనసులో బెర్రీల రుచే నిండిపోయింది. అతను గాలిలోకి ఎగిరాడు, తన చేతులు చాచాడు, కానీ ఆ కొమ్మ అతని పట్టుకు అందకుండా అలా ఊగుతూనే ఉంది.",
+      "image_prompt": "The boy leaps into the air, stretching his tiny hands towards a cluster of red berries. The branch sways just out of his grasp, despite his efforts. A bright, clear sky, with the sun highlighting the vibrant red berries against the green leaves, making them appear irresistible and tantalizing.",
+      "scene_visual": "The boy leaps into the air, stretching his tiny hands towards a cluster of red berries. The branch sways just out of his grasp, despite his efforts.",
+      "supporting_char_keys": [
+        "leela",
+        "golu"
+      ],
+      "text_te_en": "Aa Podavaina Chettu Chitaaru Kommana, Erragaa Pandina Berrilu Gumpulu Gumpulugaa Velaadutunnaayi. Vaati Tiyyati Vaasana Gaalilo Telutu Chintu Mukkuputaalaku Taakindi — Avi Tanake Kaavaalani Atani Kallu Merishaayi. \"Aa Berrilu Naaku Kaavaali!\" Ani Chintu Okkasaarigaa Arichaadu, Vaatini Andukovaalani Atani Kaallu Durada Pettaayi. Adi Chaalaa Ettulo Unnaa, Chintu Daani Gurinchi Pattinchukoledu, Atani Manasulo Berrila Ruche Nindipoyindi. Atanu Gaaliloki Egiraadu, Tana Chetulu Chaachaadu, Kaani Aa Komma Atani Pattuku Andakundaa Alaa Ugutune Undi.",
+      "text_en": "At the very top branch of that tall tree, ripe red berries hung in clusters. Their sweet scent floated in the air and reached Chintu's nostrils—his eyes sparkled, wanting them all for himself. \"I want those berries!\" Chintu suddenly shouted, his feet itching to reach them. Even though it was very high, Chintu didn't care; his mind was filled only with the taste of the berries. He jumped into the air, stretched out his hands, but the branch kept swaying just out of his reach."
+    },
+    {
+      "id": 4,
+      "text": "చింటూ పదేపదే గాలిలోకి ఎగిరాడు, కింద పడ్డాడు — అతని చిన్న ఛాతీ వేగంగా ఊపిరి తీసుకుంటూ, వదిలింది. ప్రతిసారి నేలపై 'ధప్‌'మని పడుతున్నప్పుడు, అతని శరీరం అలసిపోయింది. \"హుహ్! ఇది చాలా కష్టం!\" అని చింటూ విసుగుగా గొణుగుకున్నాడు. లీల చుట్టూ చూసి, బెర్రీలను అందుకోవడానికి సరిపోయే పొడవైన కర్రను వెతికింది, కానీ దొరకలేదు. గోలు పక్కనే ఉన్న గట్టి చెట్టు ఎక్కి, అక్కడి నుండి బెర్రీల కొమ్మకు దూకాలని చూశాడు, కానీ అది చాలా దూరంగా ఉంది. వాళ్ళందరి ప్రయత్నాలు నిష్ఫలమయ్యాయి, లీల ఒక ఆలోచనతో చింటూ వైపు చూసింది.",
+      "image_prompt": "The boy repeatedly jumps into the air and falls to the ground, his small chest heaving. Each time he lands with a 'thud', his body shows clear signs of exhaustion. The afternoon sun casts longer shadows, and the air feels a little heavier, reflecting their mounting exhaustion and lack of progress.",
+      "scene_visual": "The boy repeatedly jumps into the air and falls to the ground, his small chest heaving. Each time he lands with a 'thud', his body shows clear signs of exhaustion.",
+      "supporting_char_keys": [
+        "leela",
+        "golu"
+      ],
+      "text_te_en": "Chintu Padepade Gaaliloki Egiraadu, Kinda Paddaadu — Atani Chinna Chaati Vegangaa Upiri Tisukuntu, Vadilindi. Pratisaari Nelapai 'Dhap‌'Mani Padutunnappudu, Atani Shariram Alasipoyindi. \"Huh! Idi Chaalaa Kashtan!\" Ani Chintu Visugugaa Gonugukunnaadu. Lila Chuttu Chusi, Berrilanu Andukovadaaniki Saripoye Podavaina Karranu Vetikindi, Kaani Dorakaledu. Golu Pakkane Unna Gatti Chettu Ekki, Akkadi Nundi Berrila Kommaku Dukaalani Chushaadu, Kaani Adi Chaalaa Durangaa Undi. Vaallandari Prayatnaalu Nishphalamayyaayi, Lila Oka Aalochanato Chintu Vaipu Chusindi.",
+      "text_en": "Chintu jumped into the air again and again, falling back down—his small chest heaving quickly. Each time he landed on the ground with a 'thud', his body grew tired. \"Ugh! This is too hard!\" Chintu grumbled in frustration. Leela looked around for a long stick that could reach the berries, but she couldn't find one. Golu climbed a sturdy tree nearby, trying to jump from there to the berry branch, but it was too far. All their attempts were useless, and Leela looked at Chintu with an idea."
+    },
+    {
+      "id": 5,
+      "text": "లీల మెల్లగా చింటూ దగ్గరకు వచ్చి, \"ఒకరిపై ఒకరు ఎక్కితే సరిపోతుందేమో?\" అని అడిగింది. చింటూ వెంటనే తన బుల్లి కాలు నేలకేసి కొట్టాడు — అప్పటికే అలసిపోయిన అతని మొండితనం స్పష్టంగా కనిపించింది. \"నాకు ఎవరి సహాయం అవసరం లేదు!\" అని అతను ముఖం చిట్లించాడు. అడవి నేల నుండి వచ్చే పొడి మట్టి వాసన అతని కోపాన్ని మరింత పెంచింది. ఇంకోసారి, తన శక్తిని పూర్తిగా కూడదీసుకుని, చింటూ బెర్రీల వైపు దూకాడు, కానీ ఈసారి అతని పట్టు తప్పిపోయింది. అతను కొమ్మను పట్టుకుని, కింద పడకుండా త్రుటిలో ఆగిపోయాడు.",
+      "image_prompt": "The boy, refusing help, leaps towards the berries again but slips, clinging precariously to the branch. His tiny claws are barely holding onto the rough bark, preventing a fall. A moment of stillness under the dappled light, with the forest sounds momentarily hushed, emphasizing the quiet tension of Leela's suggestion and Chintu's refusal.",
+      "scene_visual": "The boy, refusing help, leaps towards the berries again but slips, clinging precariously to the branch. His tiny claws are barely holding onto the rough bark, preventing a fall.",
+      "supporting_char_keys": [
+        "leela",
+        "golu"
+      ],
+      "text_te_en": "Lila Mellagaa Chintu Daggaraku Vachchi, \"Okaripai Okaru Ekkite Saripotundemo?\" Ani Adigindi. Chintu Ventane Tana Bulli Kaalu Nelakesi Kottaadu — Appatike Alasipoyina Atani Monditanam Spashtangaa Kanipinchindi. \"Naaku Evari Sahaayam Avasaram Ledu!\" Ani Atanu Mukham Chitlinchaadu. Adavi Nela Nundi Vachche Podi Matti Vaasana Atani Kopaanni Marinta Penchindi. Inkosaari, Tana Shaktini Purtigaa Kudadisukuni, Chintu Berrila Vaipu Dukaadu, Kaani Isaari Atani Pattu Tappipoyindi. Atanu Kommanu Pattukuni, Kinda Padakundaa Trutilo Aagipoyaadu.",
+      "text_en": "Leela slowly came up to Chintu and asked, \"Maybe if we climb on top of each other?\" Chintu immediately stomped his tiny foot on the ground—his stubbornness, already tired, was clear. \"I don't need anyone's help!\" he scowled. The smell of dry earth from the forest floor seemed to fuel his anger even more. One more time, gathering all his strength, Chintu leaped towards the berries, but this time his grip slipped. He caught the branch, stopping himself from falling just in time."
+    },
+    {
+      "id": 6,
+      "text": "చింటూ బలంగా ఊగిపోయాడు, అతని బుల్లి గోర్లు కొమ్మను పట్టుకుని జారిపోయాయి — చెట్టు బెరడు గరుకుదనం అతని పంజాకు తగిలింది. అతను గాలిలో వేలాడుతూ, కళ్ళలో భయంతో కిందకి చూశాడు. \"సహాయం చేయండి... దయచేసి!\" అని బలహీనంగా అరిచాడు. లీల, గోలు వెంటనే తమ పంజాను చాచారు, చింటూ సిగ్గుపడుతూనే వాటిని పట్టుకున్నాడు. వాళ్ళు అతన్ని జాగ్రత్తగా పైకి లాగారు, చింటూ ముఖం ఎర్రబడింది. సురక్షితంగా నేలకు చేరిన తర్వాత, చింటూ ఒక్కసారి తన తోబుట్టువులను చూశాడు, మళ్ళీ బెర్రీల వైపు చూశాడు — అతని కళ్ళలో కొత్త ఆలోచన మెరిసింది.",
+      "image_prompt": "The boy hangs suspended in the air, his tiny claws slipping from the branch, looking down with fear in his eyes. The other two extend their paws, and he grasps them, his face flushing with embarrassment. The sun is starting to dip, casting longer, softer golden light, highlighting Chintu's vulnerable position and the helping hands of his siblings, creating a moment of quiet reflection.",
+      "scene_visual": "The boy hangs suspended in the air, his tiny claws slipping from the branch, looking down with fear in his eyes. The other two extend their paws, and he grasps them, his face flushing with embarrassment.",
+      "supporting_char_keys": [
+        "leela",
+        "golu"
+      ],
+      "text_te_en": "Chintu Balangaa Ugipoyaadu, Atani Bulli Gorlu Kommanu Pattukuni Jaaripoyaayi — Chettu Beradu Garukudanam Atani Panjaaku Tagilindi. Atanu Gaalilo Velaadutu, Kallalo Bhayanto Kindaki Chushaadu. \"Sahaayam Cheyandi... Dayachesi!\" Ani Balahinangaa Arichaadu. Lila, Golu Ventane Tama Panjaanu Chaachaaru, Chintu Siggupadutune Vaatini Pattukunnaadu. Vaallu Atanni Jaagrattagaa Paiki Laagaaru, Chintu Mukham Errabadindi. Surakshitangaa Nelaku Cherina Tarvaata, Chintu Okkasaari Tana Tobuttuvulanu Chushaadu, Malli Berrila Vaipu Chushaadu — Atani Kallalo Kotta Aalochana Merisindi.",
+      "text_en": "Chintu swung wildly, his tiny claws slipping from the branch—the rough tree bark scraped his paw. He hung in the air, looking down with fear in his eyes. \"Help me... please!\" he cried weakly. Leela and Golu immediately stretched out their paws, and Chintu, feeling shy, grabbed them. They carefully pulled him up, and Chintu's face turned red. After safely reaching the ground, Chintu looked at his siblings once, then looked back at the berries—a new idea sparkled in his eyes."
+    },
+    {
+      "id": 7,
+      "text": "ఒకరికొకరు సాయం చేసుకున్న క్షణం, చింటూ మనసులో ఒక కొత్త ప్రణాళిక రూపుదిద్దుకుంది. \"గోలూ, నువ్వు లీల వెనక ఎక్కు, నేను నీ మీద ఎక్కుతాను!\" అని చింటూ ఆదేశించాడు, అతని స్వరం దృఢంగా ఉంది. లీల జాగ్రత్తగా కూర్చుంది, గోలు ఆమె వీపుపై ఎక్కాడు. అప్పుడు చింటూ మెల్లగా గోలు వెచ్చని బొచ్చుపై పాదాలు ఆనించి, పైకి ఎక్కాడు. \"సరే, మెల్లగా! నువ్వు పట్టుకో, నేను పైకి ఎక్కుతాను!\" అని చింటూ గోలుతో చెప్పాడు. ఆ చిన్న పిరమిడ్ కొద్దిగా వణుకుతున్నా, వాళ్ళు ఒకరినొకరు గట్టిగా పట్టుకున్నారు. చివరికి, చింటూ తన పంజాను చాచాడు — తీయని బెర్రీల గుత్తి అతని చేతిలోకి వచ్చింది!",
+      "image_prompt": "The three small creatures form a wobbly pyramid, with the boy carefully climbing onto the back of another. He stretches his paw, and a cluster of sweet berries comes into his grasp. A vibrant, golden hour light bathes the scene, creating a sense of achievement and warmth as they work in unison, filled with a hopeful glow.",
+      "scene_visual": "The three small creatures form a wobbly pyramid, with the boy carefully climbing onto the back of another. He stretches his paw, and a cluster of sweet berries comes into his grasp.",
+      "supporting_char_keys": [
+        "leela",
+        "golu"
+      ],
+      "text_te_en": "Okarikokaru Saayam Chesukunna Kshanan, Chintu Manasulo Oka Kotta Pranaalika Rupudiddukundi. \"Golu, Nuvvu Lila Venaka Ekku, Nenu Ni Mida Ekkutaanu!\" Ani Chintu Aadeshinchaadu, Atani Svaram Drridhangaa Undi. Lila Jaagrattagaa Kurchundi, Golu Aame Vipupai Ekkaadu. Appudu Chintu Mellagaa Golu Vechchani Bochchupai Paadaalu Aaninchi, Paiki Ekkaadu. \"Sare, Mellagaa! Nuvvu Pattuko, Nenu Paiki Ekkutaanu!\" Ani Chintu Goluto Cheppaadu. Aa Chinna Piramid Koddigaa Vanukutunnaa, Vaallu Okarinokaru Gattigaa Pattukunnaaru. Chivariki, Chintu Tana Panjaanu Chaachaadu — Tiyani Berrila Gutti Atani Chetiloki Vachchindi!",
+      "text_en": "The moment they helped each other, a new plan formed in Chintu's mind. \"Golu, you climb on Leela's back, and I'll climb on you!\" Chintu commanded, his voice firm. Leela carefully sat down, and Golu climbed onto her back. Then Chintu gently placed his feet on Golu's warm fur and climbed up. \"Okay, slowly! You hold on, I'll climb up!\" Chintu told Golu. Even though the small pyramid wobbled a little, they held onto each other tightly. Finally, Chintu stretched out his paw—a cluster of sweet berries came into his hand!"
+    },
+    {
+      "id": 8,
+      "text": "బెర్రీలను అందుకున్న వెంటనే, చింటూ కిందకి దిగి, వాటిని సమానంగా పంచాడు. ప్రతి ఒక్కరూ ఒక తియ్యటి బెర్రీని నోటిలో వేసుకోగానే — ఆ పుల్లని, తీయని రుచి నాలుకకు అంటుకుంది. వాళ్ళ ముఖాలు సంతోషంతో వెలిగిపోయాయి, ముగ్గురూ కలిసి నవ్వుకున్నారు. \"ఈ బెర్రీలు కలిసి పంచుకుంటే చాలా బాగున్నాయి!\" అని చింటూ ఆనందంగా చెప్పాడు. ఒకరినొకరు చూసుకుంటూ, వాళ్ళ మధ్య కొత్త బంధం ఏర్పడినట్లు అర్థమైంది — కలిసి ఉంటే ఎంత సుఖమో వాళ్ళకు ఇప్పుడు తెలిసింది.",
+      "image_prompt": "The three small creatures sit together, each putting a sweet berry into their mouth. Their faces light up with joy as they share the tart and sweet taste, looking at each other with smiles. Gentle dusk light, warm amber and soft, casting long, peaceful shadows as the squirrels sit together, conveying a sense of quiet contentment and harmony.",
+      "scene_visual": "The three small creatures sit together, each putting a sweet berry into their mouth. Their faces light up with joy as they share the tart and sweet taste, looking at each other with smiles.",
+      "supporting_char_keys": [
+        "leela",
+        "golu"
+      ],
+      "text_te_en": "Berrilanu Andukunna Ventane, Chintu Kindaki Digi, Vaatini Samaanangaa Panchaadu. Prati Okkaru Oka Tiyyati Berrini Notilo Vesukogaane — Aa Pullani, Tiyani Ruchi Naalukaku Antukundi. Vaalla Mukhaalu Santoshanto Veligipoyaayi, Mugguru Kalisi Navvukunnaaru. \"I Berrilu Kalisi Panchukunte Chaalaa Baagunnaayi!\" Ani Chintu Aanandangaa Cheppaadu. Okarinokaru Chusukuntu, Vaalla Madhya Kotta Bandham Erpadinatlu Arthamaindi — Kalisi Unte Enta Sukhamo Vaallaku Ippudu Telisindi.",
+      "text_en": "As soon as he got the berries, Chintu climbed down and shared them equally. As each of them put a sweet berry in their mouth—the tangy, sweet taste lingered on their tongues. Their faces lit up with happiness, and all three laughed together. \"These berries taste so much better when we share them!\" Chintu said happily. Looking at each other, they understood that a new bond had formed between them—they now knew how wonderful it was to be together."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "leela",
+      "description": "Leela is Chintu's sister, a slightly smaller squirrel with a more cautious demeanor and a keen sense of observation. She often thinks before acting and tries to avoid unnecessary risks. Always the same character across every scene."
+    },
+    {
+      "key": "golu",
+      "description": "Golu is Chintu's younger brother, a plump and playful squirrel who is easily distracted but has a knack for simple, practical solutions. He loves to explore and often stumbles upon new ideas. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 8,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is a well-crafted story with a compelling narrative arc, excellent grammar, and high child engagement. The emotional depth is mostly shown through actions, making the characters feel real. The most important fix to reach a 9+ across the board would be to enhance the \"grandmother_authenticity\" by softening some of the narrative descriptions into more conversational, oral language, and perhaps adding a touch more direct address or rhetorical questions to the child listener. Additionally, giving Golu a line of dialogue would enrich the character voices further."
+  },
+  "title_te_en": "Chintu, Kalisi Gelichina Berrilu",
+  "moral_te_en": "Manamantaa Kalisi Panicheste, Enta Kashtamaina Panainaa Suluvugaa Purtavutundi, Andariki Aanandam Kalugutundi.",
+  "title_en": "Chintu, The Berries They Won Together",
+  "moral_en": "If we all work together, even the hardest task becomes easy, and everyone feels happy.",
+  "id": "20260602_061148",
+  "date": "2026-06-02",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "కలిసి ఉంటే కలదు సుఖం అనే కథ",
+  "thumbnail": "stories/20260602_061148/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
