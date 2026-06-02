@@ -1,0 +1,112 @@
+{
+  "title": "తెనాలి తెలివి, చీమల లెక్క",
+  "moral": "ఎంత కష్టమైన పనైనా, కొంచెం తెలివిగా ఆలోచిస్తే సులువుగా మారిపోతుంది.",
+  "main_character": "Tenali Ramakrishna: A lean, sharp-eyed man in his late 30s with a quick smile and an even quicker mind. He often wears simple, yet well-maintained, traditional court attire, always ready with a witty remark or a clever solution. Always the same character across every scene.",
+  "antagonist": "Mahamantri Tatacharya: A portly, stern-faced royal minister in his 50s, with a neatly trimmed grey beard and an elaborate turban. He wears rich, dark blue and gold robes, and often carries a scroll. Always the same character across every scene.",
+  "setting": "The grand Vijayanagara court in Hampi, Karnataka, featuring intricately carved stone pillars, vibrant silk tapestries, and a central courtyard with a small fountain. The scene transitions between the royal garden and the main durbar hall. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అందమైన రాజభవనం తోటలో తెనాలి రామకృష్ణుడు నడుస్తూ ఉన్నాడు. అప్పుడే కురిసిన చిరుజల్లుకు మట్టి వాసన గుబాళిస్తోంది, అక్కడ ఒక చీమల బారు క్రమశిక్షణతో ఆహారం మోసుకుపోవడం చూశాడు. అతని పెదవులపై ఒక చిరునవ్వు మెరిసింది, ఆ చిన్న ప్రాణుల పనితనాన్ని చూసి ఆశ్చర్యపోయాడు. \"ఆహా! ఈ చిన్న ప్రాణులు ఎంత క్రమశిక్షణతో పనిచేస్తున్నాయో!\" అని గొణుక్కున్నాడు. లోలోపల ఏదో ఆలోచన మెరుస్తోంది.",
+      "image_prompt": "The man walks through a beautiful palace garden, observing a disciplined line of ants carrying food. A small smile plays on his lips as he marvels at their industry, and he mutters to himself. Soft morning light filtering through lush green leaves in the palace garden, dappling the ground with warm, golden patches.",
+      "scene_visual": "The man walks through a beautiful palace garden, observing a disciplined line of ants carrying food. A small smile plays on his lips as he marvels at their industry, and he mutters to himself.",
+      "supporting_char_keys": [],
+      "text_te_en": "Andamaina Raajabhavanam Totalo Tenaali Raamakrrishnudu Nadustu Unnaadu. Appude Kurisina Chirujalluku Matti Vaasana Gubaalistondi, Akkada Oka Chimala Baaru Kramashikshanato Aahaaram Mosukupovadam Chushaadu. Atani Pedavulapai Oka Chirunavvu Merisindi, Aa Chinna Praanula Panitanaanni Chusi Aashcharyapoyaadu. \"Aahaa! I Chinna Praanulu Enta Kramashikshanato Panichestunnaayo!\" Ani Gonukkunnaadu. Lolopala Edo Aalochana Merustondi.",
+      "text_en": "Tenali Ramakrishna was walking in the beautiful palace garden. The smell of wet earth filled the air from a recent light shower, and he saw a line of ants carrying food with great discipline. A small smile appeared on his lips, and he was amazed by the hard work of those tiny creatures. \"Oh! How disciplined these tiny creatures are!\" he murmured to himself. An idea sparked inside him."
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి రామకృష్ణుడి ఆలోచనలు అలా ఉండగానే, మహామంత్రి తాతాచార్యుడు రాజు కృష్ణదేవరాయల వద్దకు హడావుడిగా వచ్చాడు. తాతాచార్యుడి ముఖం కోపంతో ఎర్రబడింది, చేతిలోని పట్టు వస్త్రాలు గలగలమన్నాయి. \"మహారాజా, తెనాలి రాముడు పనిలేకుండా కాలక్షేపం చేస్తున్నాడు!\" అని కోపంగా అన్నాడు. రాజు కృష్ణదేవరాయలు నవ్వుతూ, \"ఏం చేయమంటావ్ తాతాచార్యా?\" అని అడిగాడు — ఆయన కళ్ళలో ఒక తెలిసిన మెరుపు కనిపించింది. రాజా, ఆయనకు బుద్ధి చెప్పాలి!",
+      "image_prompt": "The chief minister rushes towards the king, his face red with anger, with rustling silk clothes in his hand. He angrily accuses the other man, while the king smiles, a knowing glint visible in his eyes. Also in this scene: Mahamantri Tatacharya: A portly, stern-faced royal minister in his 50s, with a neatly trimmed grey beard and an elaborate turban. He wears rich, dark blue and gold robes, and often carries a scroll. Always the same character across every scene. Bright, clear daylight in the King's private chambers, with sunlight streaming through an open archway, creating a warm and inviting atmosphere.",
+      "scene_visual": "The chief minister rushes towards the king, his face red with anger, with rustling silk clothes in his hand. He angrily accuses the other man, while the king smiles, a knowing glint visible in his eyes.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Tenaali Raamakrrishnudi Aalochanalu Alaa Undagaane, Mahaamantri Taataachaaryudu Raaju Krrishnadevaraayala Vaddaku Hadaavudigaa Vachchaadu. Taataachaaryudi Mukham Kopanto Errabadindi, Chetiloni Pattu Vastraalu Galagalamannaayi. \"Mahaaraajaa, Tenaali Raamudu Panilekundaa Kaalakshepam Chestunnaadu!\" Ani Kopangaa Annaadu. Raaju Krrishnadevaraayalu Navvutu, \"Em Cheyamantaav Taataachaaryaa?\" Ani Adigaadu — Aayana Kallalo Oka Telisina Merupu Kanipinchindi. Raajaa, Aayanaku Buddhi Cheppaali!",
+      "text_en": "While Tenali Ramakrishna was lost in thought, the Prime Minister Tatacharya rushed to King Krishnadevaraya. Tatacharya's face was red with anger, and the silk clothes in his hand rustled. \"Your Majesty, Tenali Rama is wasting his time doing nothing! He needs to be taught a lesson!\" Tatacharya said angrily. King Krishnadevaraya smiled and asked, \"What do you want me to do, Tatacharya?\" A knowing twinkle was in his eyes."
+    },
+    {
+      "id": 3,
+      "text": "మహారాజు కృష్ణదేవరాయలు వెంటనే తెనాలి రామకృష్ణుడిని దర్బారుకు పిలిపించాడు. రాజ దర్బారులో రాజుగారి గంభీరమైన గొంతు ప్రతిధ్వనించింది, \"తెనాలి, ఈ రాజ్యంలోని చీమలన్నింటినీ లెక్కపెట్టి తెలపాలి!\" అని ఆదేశించాడు. తెనాలి ముఖంపై కొద్దిగా ఆలోచన రేఖలు కనిపించాయి, కానీ అతను వినయంగా తల వంచాడు. రాజు కళ్ళలో ఒక సవాలు కనిపించింది, ఆయన తెనాలి ప్రతిస్పందన కోసం ఎదురుచూస్తున్నాడు. తెనాలి తల వంచాడు — కానీ కళ్ళలో ఆలోచన.",
+      "image_prompt": "The king, in his royal court, commands the man to count all the ants in the kingdom. The man bows his head respectfully, lines of thought appearing on his face, as the king watches for his response. Also in this scene: Mahamantri Tatacharya: A portly, stern-faced royal minister in his 50s, with a neatly trimmed grey beard and an elaborate turban. He wears rich, dark blue and gold robes, and often carries a scroll. Always the same character across every scene. Strong midday sun streaming through large archways into the durbar hall, highlighting dust motes in the air, creating a formal and imposing atmosphere.",
+      "scene_visual": "The king, in his royal court, commands the man to count all the ants in the kingdom. The man bows his head respectfully, lines of thought appearing on his face, as the king watches for his response.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Mahaaraaju Krrishnadevaraayalu Ventane Tenaali Raamakrrishnudini Darbaaruku Pilipinchaadu. Raaja Darbaarulo Raajugaari Gambhiramaina Gontu Pratidhvaninchindi, \"Tenaali, I Raajyanloni Chimalannintini Lekkapetti Telapaali!\" Ani Aadeshinchaadu. Tenaali Mukhampai Koddigaa Aalochana Rekhalu Kanipinchaayi, Kaani Atanu Vinayangaa Tala Vanchaadu. Raaju Kallalo Oka Savaalu Kanipinchindi, Aayana Tenaali Pratispandana Kosam Eduruchustunnaadu. Tenaali Tala Vanchaadu — Kaani Kallalo Aalochana.",
+      "text_en": "King Krishnadevaraya immediately summoned Tenali Ramakrishna to the royal court. In the royal court, the King's solemn voice echoed, \"Tenali, you must count all the ants in this kingdom and tell me the number!\" he commanded. A few lines of thought appeared on Tenali's face, but he bowed his head respectfully. A challenge was visible in the King's eyes, and he was waiting for Tenali's response. Tenali bowed his head—but there was thought in his eyes."
+    },
+    {
+      "id": 4,
+      "text": "రాజు సవాలుతో తెనాలి రామకృష్ణుడు మళ్ళీ తోటలోకి వచ్చాడు. చీమలను లెక్కించడం మొదలుపెట్టాడు, కానీ అవి వేల సంఖ్యలో ఉన్నాయని అతనికి అర్థమైంది. చిన్నారి చీమలు ఆకుల మీద కిసకిసలాడుతూ ముందుకు సాగుతున్నాయి — వాటిని లెక్కించడం దాదాపు అసాధ్యం. \"ఒక చీమను లెక్కపెట్టేసరికి పది చీమలు పుట్టుకొస్తున్నాయి!\" అని నిట్టూర్చాడు, తన చేతితో జుట్టు సవరించుకున్నాడు. ఇది అసాధ్యం — మామూలుగా అయితే!",
+      "image_prompt": "The man returns to the garden and attempts to count the ants, which are moving in thousands on the leaves. He sighs in frustration, realizing the task is impossible, and adjusts his hair with his hand. Late afternoon sun casting long, soft shadows across the garden path, creating a contemplative and slightly weary mood.",
+      "scene_visual": "The man returns to the garden and attempts to count the ants, which are moving in thousands on the leaves. He sighs in frustration, realizing the task is impossible, and adjusts his hair with his hand.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Savaaluto Tenaali Raamakrrishnudu Malli Totaloki Vachchaadu. Chimalanu Lekkinchadam Modalupettaadu, Kaani Avi Vela Sankhyalo Unnaayani Ataniki Arthamaindi. Chinnaari Chimalu Aakula Mida Kisakisalaadutu Munduku Saagutunnaayi — Vaatini Lekkinchadam Daadaapu Asaadhyan. \"Oka Chimanu Lekkapettesariki Padi Chimalu Puttukostunnaayi!\" Ani Nitturchaadu, Tana Chetito Juttu Savarinchukunnaadu. Idi Asaadhyam — Maamulugaa Ayite!",
+      "text_en": "With the King's challenge, Tenali Ramakrishna returned to the garden. He started counting the ants, but he realized they were in the thousands. The tiny ants scurried along the leaves—counting them was almost impossible. \"By the time I count one ant, ten more appear!\" he sighed, running a hand through his hair. This is impossible—at least, in the usual way!"
+    },
+    {
+      "id": 5,
+      "text": "అసాధ్యమైన పనిని చూసి నిట్టూర్చిన తెనాలి, తన ఇంటికి వెళ్ళి ప్రశాంతంగా కూర్చున్నాడు. అతని కళ్ళ ముందు మళ్ళీ చీమల బారు కనిపించింది, అప్పుడు అతని ముఖంపై ఒక తెలివైన చిరునవ్వు వికసించింది. అతను ఒక పెద్ద బెల్లం ముక్కను తీసి, దానిని జాగ్రత్తగా ఒక చీమల పుట్ట దగ్గర పెట్టాడు — అతని కళ్ళలో ఒక మెరుపు, అద్భుతమైన ప్రణాళిక! \"అవును! ఈ తీపి పన్నాగం వారికి లెక్క నేర్పుతుంది!\" అని సంతోషంగా అన్నాడు. ఆ బెల్లం తీయదనం గాలిలో చిన్నగా కరిగింది.",
+      "image_prompt": "The man sits calmly at home, a clever smile spreading across his face as he envisions the ants again. He carefully places a large piece of jaggery near an anthill, a sparkle of brilliant planning in his eyes. Warm, inviting glow of a single oil lamp illuminating Tenali's study at dusk, casting dancing shadows on the walls, suggesting quiet contemplation.",
+      "scene_visual": "The man sits calmly at home, a clever smile spreading across his face as he envisions the ants again. He carefully places a large piece of jaggery near an anthill, a sparkle of brilliant planning in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Asaadhyamaina Panini Chusi Nitturchina Tenaali, Tana Intiki Velli Prashaantangaa Kurchunnaadu. Atani Kalla Mundu Malli Chimala Baaru Kanipinchindi, Appudu Atani Mukhampai Oka Telivaina Chirunavvu Vikasinchindi. Atanu Oka Pedda Bellam Mukkanu Tisi, Daanini Jaagrattagaa Oka Chimala Putta Daggara Pettaadu — Atani Kallalo Oka Merupu, Adbhutamaina Pranaalika! \"Avunu! I Tipi Pannaagam Vaariki Lekka Nerputundi!\" Ani Santoshangaa Annaadu. Aa Bellam Tiyadanam Gaalilo Chinnagaa Karigindi.",
+      "text_en": "Tenali, who had sighed at the impossible task, went home and sat down peacefully. The line of ants appeared before his eyes again, and then a clever smile bloomed on his face. He took a large piece of jaggery and carefully placed it near an anthill—a sparkle in his eyes, a brilliant plan! \"Yes! This sweet trick will teach them to be counted!\" he said happily. The sweet scent of the jaggery gently spread in the air."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి రామకృష్ణుడు మరుసటి రోజు దర్బారులో ఒక పెద్ద చక్కెర కుప్పతో అడుగుపెట్టాడు. హాలు అంతా తీయని చక్కెర సువాసనతో నిండిపోయింది, మహామంత్రి తాతాచార్యుడు ఆశ్చర్యంతో నోరు తెరిచాడు. తెనాలి కళ్ళలో ఒక ఆటపట్టించే మెరుపుతో, మహారాజు వైపు చూసి నవ్వాడు. \"మహారాజా, ఈ చక్కెర గింజలు ఎన్ని ఉన్నాయో, రాజ్యంలో చీమలు అన్ని ఉన్నాయి!\" అని ధైర్యంగా ప్రకటించాడు. తాతాచార్యుడు నిశ్చేష్టుడయ్యాడు!",
+      "image_prompt": "The man enters the court carrying a large pile of sugar, filling the hall with a sweet aroma. He smiles mischievously at the king, while the chief minister stands with his mouth agape in astonishment. Also in this scene: Mahamantri Tatacharya: A portly, stern-faced royal minister in his 50s, with a neatly trimmed grey beard and an elaborate turban. He wears rich, dark blue and gold robes, and often carries a scroll. Always the same character across every scene. Bright, formal lighting of the morning durbar, with sunlight streaming through high windows, creating a sense of grand occasion and clear visibility for Tenali's demonstration.",
+      "scene_visual": "The man enters the court carrying a large pile of sugar, filling the hall with a sweet aroma. He smiles mischievously at the king, while the chief minister stands with his mouth agape in astonishment.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Tenaali Raamakrrishnudu Marusati Roju Darbaarulo Oka Pedda Chakkera Kuppato Adugupettaadu. Haalu Antaa Tiyani Chakkera Suvaasanato Nindipoyindi, Mahaamantri Taataachaaryudu Aashcharyanto Noru Terichaadu. Tenaali Kallalo Oka Aatapattinche Meruputo, Mahaaraaju Vaipu Chusi Navvaadu. \"Mahaaraajaa, I Chakkera Ginjalu Enni Unnaayo, Raajyanlo Chimalu Anni Unnaayi!\" Ani Dhairyangaa Prakatinchaadu. Taataachaaryudu Nishcheshtudayyaadu!",
+      "text_en": "The next day, Tenali Ramakrishna entered the court with a large pile of sugar. The entire hall was filled with the sweet scent of sugar, and Prime Minister Tatacharya's mouth hung open in surprise. With a mischievous twinkle in his eyes, Tenali looked at the King and smiled. \"Your Majesty, however many grains of sugar there are here, that is how many ants there are in the kingdom!\" he boldly declared. Tatacharya was speechless!"
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి మాటలు వినగానే, మహారాజు కృష్ణదేవరాయలు పగలబడి నవ్వాడు — ఆ నవ్వు దర్బారు అంతా ప్రతిధ్వనించింది. ఆయన సంతోషంతో చప్పట్లు కొట్టాడు. \"తెనాలి, నీ తెలివికి సాటి లేదు! నీకు బహుమతి ఇస్తున్నాను!\" అని ప్రశంసించాడు. తాతాచార్యుడు అవమానంతో ముడుచుకుపోయాడు, అతని ముఖం ఎర్రబడింది. తెనాలి చిరునవ్వుతో తల వంచాడు. అతని తెలివికి రాజుగారి అభిమానం ఇంకా పెరిగింది.",
+      "image_prompt": "The king bursts into laughter, his joyous sound echoing through the court, and claps his hands in delight. The chief minister shrinks back in humiliation, his face turning red, as the clever man bows with a small smile. Also in this scene: Mahamantri Tatacharya: A portly, stern-faced royal minister in his 50s, with a neatly trimmed grey beard and an elaborate turban. He wears rich, dark blue and gold robes, and often carries a scroll. Always the same character across every scene. Warm, celebratory glow of the durbar hall, with sunlight softened by the midday, reflecting off the polished floors, creating a triumphant and joyful atmosphere.",
+      "scene_visual": "The king bursts into laughter, his joyous sound echoing through the court, and claps his hands in delight. The chief minister shrinks back in humiliation, his face turning red, as the clever man bows with a small smile.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Tenaali Maatalu Vinagaane, Mahaaraaju Krrishnadevaraayalu Pagalabadi Navvaadu — Aa Navvu Darbaaru Antaa Pratidhvaninchindi. Aayana Santoshanto Chappatlu Kottaadu. \"Tenaali, Ni Teliviki Saati Ledu! Niku Bahumati Istunnaanu!\" Ani Prashansinchaadu. Taataachaaryudu Avamaananto Muduchukupoyaadu, Atani Mukham Errabadindi. Tenaali Chirunavvuto Tala Vanchaadu. Atani Teliviki Raajugaari Abhimaanam Inkaa Perigindi.",
+      "text_en": "As soon as he heard Tenali's words, King Krishnadevaraya burst out laughing—his laughter echoed throughout the court. He clapped his hands with joy. \"Tenali, your wit is unmatched! I am giving you a reward!\" he praised. Tatacharya shrunk back in shame, his face turning red. Tenali bowed his head with a smile. The King's admiration for his cleverness grew even more."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king",
+      "description": "King Krishnadevaraya: A regal and wise ruler in his 40s, with a majestic bearing and a benevolent smile. He wears a magnificent gold crown adorned with jewels and rich, saffron-colored royal garments. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 5,
+    "emotional_depth": 7,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story presents a classic Tenali tale with a strong narrative arc and excellent grammar, making it a solid read. The dialogue is natural and helps advance the plot, and emotions are mostly conveyed through character actions. To elevate this to an award-worthy piece (9+), the most critical improvement needed is in 'grandmother_authenticity.' The narration currently leans towards a formal, descriptive written style; infusing it with more oral warmth, simpler conversational phrases, and perhaps direct addresses to the child listener would significantly enhance its bedtime story appeal."
+  },
+  "quality_warning": true,
+  "title_te_en": "Tenaali Telivi, Chimala Lekka",
+  "moral_te_en": "Enta Kashtamaina Panainaa, Konchem Telivigaa Aalochiste Suluvugaa Maaripotundi.",
+  "title_en": "Tenali's Wit and the Ant Count",
+  "moral_en": "No matter how difficult a task is, if you think a little cleverly, it becomes easy.",
+  "id": "20260602_011229",
+  "date": "2026-06-02",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు చీమలను లెక్కపెట్టే పన్నాగం",
+  "thumbnail": "stories/20260602_011229/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
