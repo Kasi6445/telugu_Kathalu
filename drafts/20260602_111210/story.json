@@ -1,0 +1,107 @@
+{
+  "title": "తీపిని పంచిన లక్ష్మి",
+  "moral": "నిజమైన సంతోషం మనం ప్రేమతో పంచినప్పుడు మాత్రమే దక్కుతుంది.",
+  "main_character": "Lakshmi (లక్ష్మి) is an 8-year-old girl, small and quick, with bright, curious eyes and two braided pigtails. She has a habit of humming folk tunes while doing chores, always eager to help her village. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A bustling village called 'పాలూరు' (Paluru - Milk Village) in rural Andhra Pradesh, nestled by the banks of a small, winding river. The village features mud-brick houses with thatched roofs, a large banyan tree in the center, and a communal well with a stone platform. It's usually a bright, sunny afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పాలూరు పల్లెలో లక్ష్మి తన చిన్న కుండ పట్టుకుని, బావి దగ్గరికి గంతులేసింది. బావిలో నుంచి నీళ్లు తోడుతుంటే — ఆ తాడు క్రీచ్... క్రీచ్ అని శబ్దం చేసింది. అలవాటుగా నీళ్లు నోట్లో పోసుకుంది, కానీ వెంటనే ఆమె కనుబొమ్మలు ముడిపడ్డాయి. ఆమె పెదవులు కొంచెం విప్పారి, మళ్ళీ ఒక గుటక వేసింది, నీళ్లు రుచి చూస్తూ. — \"ఈ నీళ్లు కొంచెం తేడాగా ఉన్నాయే?\" అని తనలో తనే అనుకుంది, ఆశ్చర్యంగా చూస్తూ. బావి నీళ్ళ రుచిలో వచ్చిన మార్పు ఆమెను ఆలోచనలో పడేసింది.",
+      "image_prompt": "The girl sips water from her cupped hands, her eyebrows furrowing in surprise. Her lips part slightly as she takes another gulp, her eyes wide with a questioning look. Bright morning sun filtering through the leaves of the banyan tree, casting dappled light on the stone well, warm and inviting.",
+      "scene_visual": "The girl sips water from her cupped hands, her eyebrows furrowing in surprise. Her lips part slightly as she takes another gulp, her eyes wide with a questioning look.",
+      "supporting_char_keys": [],
+      "text_te_en": "Paaluru Pallelo Lakshmi Tana Chinna Kunda Pattukuni, Baavi Daggariki Gantulesindi. Baavilo Nunchi Nillu Todutunte — Aa Taadu Krich... Krich Ani Shabdam Chesindi. Alavaatugaa Nillu Notlo Posukundi, Kaani Ventane Aame Kanubommalu Mudipaddaayi. Aame Pedavulu Konchem Vippaari, Malli Oka Gutaka Vesindi, Nillu Ruchi Chustu. — \"I Nillu Konchem Tedaagaa Unnaaye?\" Ani Tanalo Tane Anukundi, Aashcharyangaa Chustu. Baavi Nilla Ruchilo Vachchina Maarpu Aamenu Aalochanalo Padesindi.",
+      "text_en": "In Paluru village, Lakshmi held her small pot and skipped to the well. As she drew water, the rope made a 'creak... creak' sound. She usually drank the water right away, but this time, her eyebrows furrowed. Her lips parted a little, and she took another sip, tasting the water carefully. \"These waters taste a bit different, don't they?\" she wondered to herself, looking surprised. The strange taste of the well water made her think deeply."
+    },
+    {
+      "id": 2,
+      "text": "ఆ రోజు సాయంత్రానికల్లా, పాలూరు బావి దగ్గర అరుపులు, గుసగుసలు మొదలయ్యాయి. లక్ష్మి తన చెవులారా వింటోంది – \"ఈ నీళ్లు తాగలేకపోతున్నాము!\" అని ఒకరు, \"ఇవి చేదుగా మారాయి!\" అని మరొకరు. \"మనకు ఇక తీపి లేదు\" అని ఒక ముసలాయన నిట్టూర్చాడు, అతని భుజాలు వాలిపోయాయి. ఆ పల్లె జనం ముఖాల్లో అలసిన భావం, ఆనందం లేని చూపులు లక్ష్మి గుండెను పిండాయి. ఆమె భుజాలు మెల్లగా వాలిపోయాయి, ఆ చేదు నీళ్ళను చూస్తూ. — ఈ సమస్యకు ఏదో ఒక పరిష్కారం కనుగొనాలి అని ఆమె మనసులో బలంగా అనుకుంది.",
+      "image_prompt": "Villagers gather around the well, their faces etched with weariness and unhappiness. An old man sighs deeply, his shoulders visibly slumping as he looks at the bitter water. Harsh midday sun beating down on the dusty village square, highlighting the villagers' strained expressions, making the scene feel heavy and hot.",
+      "scene_visual": "Villagers gather around the well, their faces etched with weariness and unhappiness. An old man sighs deeply, his shoulders visibly slumping as he looks at the bitter water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Roju Saayantraanikallaa, Paaluru Baavi Daggara Arupulu, Gusagusalu Modalayyaayi. Lakshmi Tana Chevulaaraa Vintondi – \"I Nillu Taagalekapotunnaamu!\" Ani Okaru, \"Ivi Chedugaa Maaraayi!\" Ani Marokaru. \"Manaku Ika Tipi Ledu\" Ani Oka Musalaayana Nitturchaadu, Atani Bhujaalu Vaalipoyaayi. Aa Palle Janam Mukhaallo Alasina Bhaavan, Aanandam Leni Chupulu Lakshmi Gundenu Pindaayi. Aame Bhujaalu Mellagaa Vaalipoyaayi, Aa Chedu Nillanu Chustu. — I Samasyaku Edo Oka Parishkaaram Kanugonaali Ani Aame Manasulo Balangaa Anukundi.",
+      "text_en": "By that evening, shouts and whispers filled the air near the Paluru well. Lakshmi heard everything with her own ears. \"We can't drink this water!\" cried one person. \"It has turned bitter!\" said another. \"We have no sweetness left,\" an old man sighed, his shoulders drooping sadly. The tired faces and joyless looks of the villagers made Lakshmi's heart ache. Her own shoulders drooped as she stared at the bitter water. She strongly decided in her mind that she must find a solution to this big problem."
+    },
+    {
+      "id": 3,
+      "text": "చేదు బావి గురించి ఆలోచిస్తూ, లక్ష్మి మరుసటి రోజు అడవి లోపలికి నడిచింది. ఆమె అడుగులు ముందుకు పడుతుండగా, ఆమె ముక్కుకు తీయని పూల సువాసన తగిలింది — అది పల్లెలో ఎప్పుడూ లేని వాసన. ఆమె ఒక దట్టమైన పొదల వెనక చూసింది... అక్కడ ఒక చిన్న, మెరిసే బావి కనిపించింది, దాని నీళ్లు స్పటికంలా మెరుస్తున్నాయి. లక్ష్మి ఆత్రంగా నీళ్లు దోసిలిలోకి తీసుకుని తాగింది. \"అమ్మో! ఇది ఎంత తీయగా ఉంది!\" అని ఆమె నోటి వెంట ఆశ్చర్యంగా వచ్చింది. ఆమె కళ్ళు ఆనందంతో మెరిశాయి, ఆ తీయని నీటిని చూస్తూ. — ఆ క్షణం ఆమెకు ఒక గొప్ప ఆలోచన తట్టింది.",
+      "image_prompt": "The girl eagerly scoops water from a small, sparkling well hidden behind dense bushes. Her eyes shine with pure joy as she drinks the crystal-clear, sweet water. Soft, ethereal light filtering through dense jungle canopy, creating pockets of glowing green around the hidden well, making it appear magical and secluded.",
+      "scene_visual": "The girl eagerly scoops water from a small, sparkling well hidden behind dense bushes. Her eyes shine with pure joy as she drinks the crystal-clear, sweet water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chedu Baavi Gurinchi Aalochistu, Lakshmi Marusati Roju Adavi Lopaliki Nadichindi. Aame Adugulu Munduku Padutundagaa, Aame Mukkuku Tiyani Pula Suvaasana Tagilindi — Adi Pallelo Eppudu Leni Vaasana. Aame Oka Dattamaina Podala Venaka Chusindi... Akkada Oka Chinna, Merise Baavi Kanipinchindi, Daani Nillu Spatikanlaa Merustunnaayi. Lakshmi Aatrangaa Nillu Dosililoki Tisukuni Taagindi. \"Ammo! Idi Enta Tiyagaa Undi!\" Ani Aame Noti Venta Aashcharyangaa Vachchindi. Aame Kallu Aanandanto Merishaayi, Aa Tiyani Nitini Chustu. — Aa Kshanam Aameku Oka Goppa Aalochana Tattindi.",
+      "text_en": "Thinking about the bitter well, Lakshmi walked deep into the forest the next day. As she walked, a sweet scent of flowers reached her nose – a smell she had never found in her village. She looked behind some thick bushes and saw a small, sparkling well. Its water shone like crystal! Lakshmi eagerly scooped up water in her cupped hands and drank it. \"Oh my! How sweet this is!\" she exclaimed in surprise. Her eyes sparkled with joy as she looked at the sweet water. At that very moment, a wonderful idea popped into her head."
+    },
+    {
+      "id": 4,
+      "text": "లక్ష్మి ఆ చిన్న కుండ నిండా తీయని నీళ్లతో తన అమ్మమ్మ దగ్గరికి పరిగెత్తుకుంటూ వచ్చింది. ఆమె ఉత్సాహంగా అడుగులు వేస్తూ, ఆ మట్టి కుండను అమ్మమ్మ ముందు పెట్టింది. అమ్మమ్మ జాగ్రత్తగా ఆ నీటిని రుచి చూసింది, ఆమె పెదవుల మీద చిరునవ్వు మెరిసింది. తర్వాత అమ్మమ్మ లక్ష్మి వైపు చూస్తూ, ఆమె కళ్ళల్లోకి సూటిగా చూసింది. \"లక్ష్మి, తీపిని పంచడం మంచిదే, కానీ అది ఎలా పంచుతావన్నది ముఖ్యం\" అని మెల్లగా చెప్పింది. — ఆ మాటలు లక్ష్మి మనసులో నిలిచిపోయాయి, వాటి లోతైన అర్థాన్ని ఆమె ఆలోచించసాగింది.",
+      "image_prompt": "The girl places a small clay pot before the old woman, who carefully tastes the water. A gentle smile plays on the old woman's lips as she looks directly into the girl's eyes. Warm, golden afternoon light streaming into the small, cozy kitchen, illuminating dust motes dancing in the air, creating an intimate and reflective mood.",
+      "scene_visual": "The girl places a small clay pot before the old woman, who carefully tastes the water. A gentle smile plays on the old woman's lips as she looks directly into the girl's eyes.",
+      "supporting_char_keys": [
+        "grandmother"
+      ],
+      "text_te_en": "Lakshmi Aa Chinna Kunda Nindaa Tiyani Nillato Tana Ammamma Daggariki Parigettukuntu Vachchindi. Aame Utsaahangaa Adugulu Vestu, Aa Matti Kundanu Ammamma Mundu Pettindi. Ammamma Jaagrattagaa Aa Nitini Ruchi Chusindi, Aame Pedavula Mida Chirunavvu Merisindi. Tarvaata Ammamma Lakshmi Vaipu Chustu, Aame Kallalloki Sutigaa Chusindi. \"Lakshmi, Tipini Panchadam Manchide, Kaani Adi Elaa Panchutaavannadi Mukhyan\" Ani Mellagaa Cheppindi. — Aa Maatalu Lakshmi Manasulo Nilichipoyaayi, Vaati Lotaina Arthaanni Aame Aalochinchasaagindi.",
+      "text_en": "Lakshmi ran back to her grandmother, her small pot full of sweet water. She took excited steps and placed the clay pot in front of her grandmother. Grandma carefully tasted the water, and a gentle smile appeared on her lips. Then, Grandma looked at Lakshmi, gazing directly into her eyes. \"Lakshmi,\" she said softly, \"it's good to share sweetness, but how you share it is very important.\" Those words stayed in Lakshmi's mind, and she began to think about their deep meaning."
+    },
+    {
+      "id": 5,
+      "text": "అమ్మమ్మ మాటలు పక్కన పెట్టి, లక్ష్మి ఆ తీయని నీళ్ళను పల్లె ప్రజలకు పంచింది. మొదట అందరూ ఆనందంగా తాగారు, వారి ముఖాల్లో నవ్వులు విరిశాయి. కానీ కొద్దిసేపట్లోనే, \"నాకు ఎక్కువ కావాలి!\" అని ఒకరు, \"నువ్వు తక్కువ తీసుకున్నావు!\" అని మరొకరు — అరుపులు మొదలయ్యాయి. జనం ఒకరినొకరు నెట్టుకుంటూ, ఆ నీటి కోసం కలబడ్డారు. లక్ష్మి నవ్వు ముఖం మాసిపోయింది, ఆమె భుజాలు కుంగిపోయాయి. — తీయని నీళ్లు నేలపాలయ్యాయి, ఆనందం మాయమైంది.",
+      "image_prompt": "Villagers push and shove each other, their faces contorted in greed as sweet water spills onto the ground. The girl's smile vanishes, and her shoulders slump in dismay as she watches the chaos. Bright, almost harsh late afternoon sun beating down on the village square, casting long, stark shadows that mirror the villagers' discord, making the scene feel tense.",
+      "scene_visual": "Villagers push and shove each other, their faces contorted in greed as sweet water spills onto the ground. The girl's smile vanishes, and her shoulders slump in dismay as she watches the chaos.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ammamma Maatalu Pakkana Petti, Lakshmi Aa Tiyani Nillanu Palle Prajalaku Panchindi. Modata Andaru Aanandangaa Taagaaru, Vaari Mukhaallo Navvulu Virishaayi. Kaani Koddisepatlone, \"Naaku Ekkuva Kaavaali!\" Ani Okaru, \"Nuvvu Takkuva Tisukunnaavu!\" Ani Marokaru — Arupulu Modalayyaayi. Janam Okarinokaru Nettukuntu, Aa Niti Kosam Kalabaddaaru. Lakshmi Navvu Mukham Maasipoyindi, Aame Bhujaalu Kungipoyaayi. — Tiyani Nillu Nelapaalayyaayi, Aanandam Maayamaindi.",
+      "text_en": "Putting her grandmother's words aside for a moment, Lakshmi shared the sweet water with the villagers. At first, everyone drank happily, and smiles bloomed on their faces. But soon, \"I want more!\" cried one person. \"You took less!\" shouted another. Soon, arguments and shouts began. People pushed each other, fighting for the water. Lakshmi's smiling face faded, and her shoulders drooped. The sweet water spilled onto the ground, and all the happiness disappeared."
+    },
+    {
+      "id": 6,
+      "text": "ఆ గొడవ చూసి, లక్ష్మికి అమ్మమ్మ మాటలు గుర్తుకొచ్చాయి — కేవలం తీపిని పంచడం కాదు, ప్రేమతో పంచడం ముఖ్యం. ఆమె కళ్ళల్లో ఒక కొత్త మెరుపు కనిపించింది, \"నేను కేవలం నీళ్లు పంచడం కాదు, సంతోషాన్ని పంచాలి!\" అని తనలో తనే అనుకుంది. ఆమె వెంటనే ఇంటికి తిరిగి వచ్చి, ఆ తీయని బావి నీళ్లను ఒక మట్టి కుండలో పోసింది. చిన్న మంట మీద ఆ నీళ్లు గుడగుడ మరుగుతుండగా, లక్ష్మి కొన్ని ప్రత్యేక పదార్థాలు కలిపింది. — ఆమె ముఖంలో ఒక దృఢమైన సంకల్పం కనిపించింది.",
+      "image_prompt": "The girl stirs special ingredients into the sweet well water, which bubbles gently over a small fire in a clay pot. A look of firm resolve settles on her face as she focuses on her task. Soft, dwindling evening light through the kitchen window, casting a warm, slightly orange glow on Lakshmi's thoughtful face, symbolizing her newfound clarity.",
+      "scene_visual": "The girl stirs special ingredients into the sweet well water, which bubbles gently over a small fire in a clay pot. A look of firm resolve settles on her face as she focuses on her task.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Godava Chusi, Lakshmiki Ammamma Maatalu Gurtukochchaayi — Kevalam Tipini Panchadam Kaadu, Premato Panchadam Mukhyan. Aame Kallallo Oka Kotta Merupu Kanipinchindi, \"Nenu Kevalam Nillu Panchadam Kaadu, Santoshaanni Panchaali!\" Ani Tanalo Tane Anukundi. Aame Ventane Intiki Tirigi Vachchi, Aa Tiyani Baavi Nillanu Oka Matti Kundalo Posindi. Chinna Manta Mida Aa Nillu Gudaguda Marugutundagaa, Lakshmi Konni Pratyeka Padaarthaalu Kalipindi. — Aame Mukhanlo Oka Drridhamaina Sankalpam Kanipinchindi.",
+      "text_en": "Seeing the quarrel, Lakshmi remembered her grandmother's words: it's not just about sharing sweetness, but sharing with love that is important. A new spark appeared in her eyes. \"I shouldn't just share water,\" she thought to herself, \"I should share happiness!\" She immediately returned home and poured the sweet well water into a clay pot. As the water bubbled gently over a small fire, Lakshmi added some special ingredients. A determined look appeared on her face."
+    },
+    {
+      "id": 7,
+      "text": "మరుసటి రోజు ఉదయం, లక్ష్మి తను తయారుచేసిన ప్రత్యేకమైన తీయని పానీయాన్ని అందరికీ పంచింది. ప్రతి ఒక్కరూ ఒక చిన్న మట్టి గ్లాసులో ఆ పానీయాన్ని తాగుతుండగా, వారి పెదవుల మీద మధురమైన చిరునవ్వులు విరిశాయి. \"ఈ తీపి మనందరి ప్రేమతో తయారైంది!\" అని లక్ష్మి సంతోషంగా చెప్పింది. పల్లె జనం కళ్ళల్లో ఆనందం, కృతజ్ఞత మెరిశాయి, వారు ఒకరినొకరు చూసుకుని నవ్వుకున్నారు. — పాలూరు పల్లెలో మళ్ళీ సంతోషం, ఐకమత్యం నిండిపోయాయి.",
+      "image_prompt": "Villagers sip the special sweet drink from small clay cups, sweet smiles spreading across their lips. Their eyes sparkle with joy and gratitude as they look at each other and laugh. Gentle dusk light, warm amber and fading purple, bathing the village square in a peaceful glow, reflecting the renewed harmony and warmth among the villagers.",
+      "scene_visual": "Villagers sip the special sweet drink from small clay cups, sweet smiles spreading across their lips. Their eyes sparkle with joy and gratitude as they look at each other and laugh.",
+      "supporting_char_keys": [
+        "grandmother"
+      ],
+      "text_te_en": "Marusati Roju Udayan, Lakshmi Tanu Tayaaruchesina Pratyekamaina Tiyani Paaniyaanni Andariki Panchindi. Prati Okkaru Oka Chinna Matti Glaasulo Aa Paaniyaanni Taagutundagaa, Vaari Pedavula Mida Madhuramaina Chirunavvulu Virishaayi. \"I Tipi Manandari Premato Tayaaraindi!\" Ani Lakshmi Santoshangaa Cheppindi. Palle Janam Kallallo Aanandan, Krritajnyata Merishaayi, Vaaru Okarinokaru Chusukuni Navvukunnaaru. — Paaluru Pallelo Malli Santoshan, Aikamatyam Nindipoyaayi.",
+      "text_en": "The next morning, Lakshmi shared the special sweet drink she had made with everyone. As each person drank the beverage from a small clay cup, sweet smiles bloomed on their lips. \"This sweetness is made with all our love!\" Lakshmi said happily. Joy and gratitude sparkled in the villagers' eyes. They looked at each other and smiled. Happiness and unity filled Paluru village once again."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "grandmother",
+      "description": "Lakshmi's wise and loving grandmother. She is old, with silver hair tied in a neat bun, wearing a traditional cotton saree, and often seen grinding spices with a gentle smile. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 8.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts excellent grammar, a compelling narrative arc, and rich, character-specific dialogue. The emotional journey of Lakshmi is mostly shown, not told, which is commendable. To reach award-worthy status, the narrative voice needs to be consistently oral and warm, eliminating occasional formal phrases. Incorporating direct questions or observations to the child listener would also significantly enhance engagement and the feeling of a true bedtime story."
+  },
+  "title_te_en": "Tipini Panchina Lakshmi",
+  "moral_te_en": "Nijamaina Santosham Manam Premato Panchinappudu Maatrame Dakkutundi.",
+  "title_en": "Lakshmi, Who Shared Sweetness",
+  "moral_en": "True happiness is found only when we share with love.",
+  "id": "20260602_111210",
+  "date": "2026-06-02",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "తీపిని పంచే మాయా బావి నీళ్లు",
+  "thumbnail": "stories/20260602_111210/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
