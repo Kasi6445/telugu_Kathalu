@@ -1,0 +1,121 @@
+{
+  "title": "నిజం తెలుసుకోవాలి చింటూ!",
+  "moral": "మనిషిని చూసి, మాటలు విని తొందరపడి ఒక నిర్ణయానికి రాకూడదు, నిజం తెలుసుకోవడానికి ప్రయత్నించాలి.",
+  "main_character": "Karthik is a curious and kind-hearted boy, about ten years old, known for his bright, inquisitive eyes and a habit of always carrying a small, unused wooden slingshot. He is a bit of a daydreamer but fiercely loyal to his friends and community. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds in a vibrant, sun-drenched village nestled along the banks of the Godavari River in rural Andhra Pradesh, with houses of red clay and thatched roofs, bustling morning markets, and ancient banyan trees offering cool shade. The air is often thick with the scent of spices and jasmine, and the distant sound of temple bells. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి నది ఒడ్డున ఉన్న మా పల్లెటూరిలో, కార్తీక్ రోజూలాగే ఉత్సాహంగా అడుగులు వేసుకుంటూ, రాళ్ళను గంతులు వేయిస్తూ ఆడుకుంటున్నాడు. పొరుగున ఉన్న బుట్ట నుండి మల్లెపూల సువాసన మెల్లగా వీస్తోంది — అతని మనసు ప్రశాంతంగా ఉంది. ఇంతలో, ఇద్దరు ఆడవాళ్లు గుసగుసలాడుకుంటూ, పెదమ్మ గురించి ఏదో మాట్లాడుకోవడం కార్తీక్ చెవిన పడింది. “అది కేవలం పాతకాలపు కబుర్లు, అంతకు మించి ఏమీ లేదు!” అని తనకు తాను అనుకున్నాడు. అతను వారి పక్కగా వెళుతుండగా, వారు ఒక్కసారిగా మౌనంగా ఉండిపోయారు — వారి కళ్ళల్లో ఏదో దోషం ఉన్నట్లు కనిపించింది.",
+      "image_prompt": "The boy walks past two whispering women who suddenly fall silent as he approaches. Their eyes betray a sense of guilt as they stare at him. Bright, warm morning sunlight filtering through the leaves of a large banyan tree, dappling the dusty ground with shifting patterns of light and shadow, creating a peaceful, idyllic village scene.",
+      "scene_visual": "The boy walks past two whispering women who suddenly fall silent as he approaches. Their eyes betray a sense of guilt as they stare at him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Godaavari Nadi Odduna Unna Maa Palleturilo, Kaartik Rojulaage Utsaahangaa Adugulu Vesukuntu, Raallanu Gantulu Veyistu Aadukuntunnaadu. Poruguna Unna Butta Nundi Mallepula Suvaasana Mellagaa Vistondi — Atani Manasu Prashaantangaa Undi. Intalo, Iddaru Aadavaallu Gusagusalaadukuntu, Pedamma Gurinchi Edo Maatlaadukovadam Kaartik Chevina Padindi. “Adi Kevalam Paatakaalapu Kaburlu, Antaku Minchi Emi Ledu!” Ani Tanaku Taanu Anukunnaadu. Atanu Vaari Pakkagaa Velutundagaa, Vaaru Okkasaarigaa Maunangaa Undipoyaaru — Vaari Kallallo Edo Dosham Unnatlu Kanipinchindi.",
+      "text_en": "In our village by the Godavari River, Karthik was playing happily as usual, skipping and making stones bounce. The sweet smell of jasmine flowers drifted gently from a nearby basket – his mind was peaceful. Just then, Karthik overheard two women whispering about Peddamma. 'Oh, those are just old stories, nothing more!' he thought to himself. As he walked past them, they suddenly fell silent – their eyes seemed to hold a secret."
+    },
+    {
+      "id": 2,
+      "text": "ఆ ఆడవాళ్ల చూపులు కార్తీక్ మనసును తొలిచాయి. సాయంత్రం, కార్తీక్ ఇంట్లో ఆడుకుంటుండగా, అమ్మ రోకలిబండతో మసాలాలు నూరుతోంది — ఆ లయబద్ధమైన శబ్దం ఇంట్లో నిశ్శబ్దాన్ని నింపింది. అప్పుడు, పెదమ్మ గురించి అమ్మ కూడా అదే పుకారు చెప్పడం కార్తీక్‌కు వినిపించింది. అతని నుదురు ముడిపడింది, ఆడుకోవడం ఆపేసి, “నిజంగానేనా అమ్మా? పెదమ్మ అలా చేస్తారా?” అని ఆశ్చర్యంగా అడిగాడు. అమ్మ దీర్ఘంగా నిట్టూర్చింది — ఆమె తల అడ్డంగా ఊపింది, కానీ ఏమీ మాట్లాడలేదు, అది కార్తీక్‌కు మరింత కలవరం కలిగించింది.",
+      "image_prompt": "The boy stops playing and looks up at his mother, who is grinding spices with a pestle. His mother sighs deeply and shakes her head, but remains silent. The interior of a simple village home, lit by the gentle, diffused light from an open doorway, casting soft, inviting shadows and highlighting the earthy tones of the clay walls.",
+      "scene_visual": "The boy stops playing and looks up at his mother, who is grinding spices with a pestle. His mother sighs deeply and shakes her head, but remains silent.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Aadavaalla Chupulu Kaartik Manasunu Tolichaayi. Saayantran, Kaartik Intlo Aadukuntundagaa, Amma Rokalibandato Masaalaalu Nurutondi — Aa Layabaddhamaina Shabdam Intlo Nishshabdaanni Nimpindi. Appudu, Pedamma Gurinchi Amma Kudaa Ade Pukaaru Cheppadam Kaartik‌Ku Vinipinchindi. Atani Nuduru Mudipadindi, Aadukovadam Aapesi, “Nijangaanenaa Ammaa? Pedamma Alaa Chestaaraa?” Ani Aashcharyangaa Adigaadu. Amma Dirghangaa Nitturchindi — Aame Tala Addangaa Upindi, Kaani Emi Maatlaadaledu, Adi Kaartik‌Ku Marinta Kalavaram Kaliginchindi.",
+      "text_en": "The women's stares bothered Karthik. That evening, as Karthik played at home, his mother was grinding spices with a pestle – the rhythmic sound filled the quiet house. Then, Karthik heard his mother also talking about the same rumor about Peddamma. His brow furrowed, and he stopped playing. 'Is it true, Amma? Would Peddamma really do that?' he asked, surprised. His mother sighed deeply – she shook her head no, but didn't say anything, which worried Karthik even more."
+    },
+    {
+      "id": 3,
+      "text": "ఆ పుకార్లు ఊరంతా దావానలంలా వ్యాపించాయి. కార్తీక్ పెదమ్మను చూశాడు — ఆమె మగ్గం పక్కన ఒంటరిగా కూర్చుని ఉంది. ఆమె మగ్గం నుండి అప్పుడప్పుడు విచారంగా ఒక చిన్న శబ్దం వినిపించింది, అది ఆమెకు ఎప్పుడూ తోడుగా ఉండేది, ఇప్పుడు అది కూడా మౌనంగా ఉంది. ఆమె ముఖంలో అలసట, బాధ స్పష్టంగా కనిపించాయి, దారిలో వెళ్లే వారి కళ్ళల్లోకి ఆమె చూడలేకపోయింది. కార్తీక్ మనసులో బాధ కలిగింది, “ఆమె నిజంగానే నిరాశగా ఉన్నారు...” అని అనుకున్నాడు. ఒక్కసారిగా — పెదమ్మ తల ఎత్తి, కార్తీక్ కళ్ళలోకి చూసి, వెంటనే కళ్ళు తిప్పేసుకుంది, ఆమె చూపులో ఏదో తెలియని వేదన ఉంది.",
+      "image_prompt": "The boy's aunt sits alone by her loom, her face showing clear signs of weariness and sorrow. She lifts her head to meet the boy's gaze for a moment, then quickly looks away, her eyes filled with an unknown anguish. Late afternoon light, a soft golden hue, bathes Peddamma's small porch, but her corner remains in a gentle, melancholic shade, emphasizing her isolation.",
+      "scene_visual": "The boy's aunt sits alone by her loom, her face showing clear signs of weariness and sorrow. She lifts her head to meet the boy's gaze for a moment, then quickly looks away, her eyes filled with an unknown anguish.",
+      "supporting_char_keys": [
+        "peddamma"
+      ],
+      "text_te_en": "Aa Pukaarlu Urantaa Daavaanalanlaa Vyaapinchaayi. Kaartik Pedammanu Chushaadu — Aame Maggam Pakkana Ontarigaa Kurchuni Undi. Aame Maggam Nundi Appudappudu Vichaarangaa Oka Chinna Shabdam Vinipinchindi, Adi Aameku Eppudu Todugaa Undedi, Ippudu Adi Kudaa Maunangaa Undi. Aame Mukhanlo Alasata, Baadha Spashtangaa Kanipinchaayi, Daarilo Velle Vaari Kallalloki Aame Chudalekapoyindi. Kaartik Manasulo Baadha Kaligindi, “Aame Nijangaane Niraashagaa Unnaaru...” Ani Anukunnaadu. Okkasaarigaa — Pedamma Tala Etti, Kaartik Kallaloki Chusi, Ventane Kallu Tippesukundi, Aame Chupulo Edo Teliyani Vedana Undi.",
+      "text_en": "The rumors spread through the village like wildfire. Karthik saw Peddamma – she was sitting alone by her loom. From her loom, a small, sad sound sometimes came, which was always her companion, but now even it was silent. Tiredness and sadness were clear on her face; she couldn't look into the eyes of people passing by. Karthik felt sad in his heart, 'She really is very unhappy...' he thought. Suddenly – Peddamma lifted her head, looked into Karthik's eyes, and then quickly looked away, her gaze holding an unknown sorrow."
+    },
+    {
+      "id": 4,
+      "text": "పెదమ్మ కళ్ళలోని ఆ వేదన కార్తీక్‌కు నిద్ర పట్టనివ్వలేదు. ఆమె గురించి నిజం తెలుసుకోవాలని కార్తీక్ నిర్ణయించుకున్నాడు. సాయంత్రం వేళ, కార్తీక్ ఊరి బజారులో ఒక దుకాణం వెనుక జాగ్రత్తగా అడుగులు వేసుకుంటూ, పొడి తాటాకుల గుండా తొంగి చూశాడు. “నేను నిజం తెలుసుకోవాలి,” అని తనలో తాను గొణుక్కున్నాడు. చీకటి పడుతున్న వేళ, పెదమ్మ ఒక పెద్ద బట్టల మూటను తన భుజాన పెట్టుకుంది — అది చాలా బరువుగా ఉంది. ఆమె ఊరి పొలిమేరల వైపు నడువడం మొదలుపెట్టింది.",
+      "image_prompt": "The boy watches as his aunt places a large, heavy bundle of clothes on her shoulder. She begins to walk towards the village outskirts as darkness starts to fall. The fading light of dusk, painting the sky in soft oranges and purples, casting long, indistinct shadows that make the village paths feel mysterious and a little foreboding.",
+      "scene_visual": "The boy watches as his aunt places a large, heavy bundle of clothes on her shoulder. She begins to walk towards the village outskirts as darkness starts to fall.",
+      "supporting_char_keys": [
+        "peddamma"
+      ],
+      "text_te_en": "Pedamma Kallaloni Aa Vedana Kaartik‌Ku Nidra Pattanivvaledu. Aame Gurinchi Nijam Telusukovaalani Kaartik Nirnayinchukunnaadu. Saayantram Vela, Kaartik Uri Bajaarulo Oka Dukaanam Venuka Jaagrattagaa Adugulu Vesukuntu, Podi Taataakula Gundaa Tongi Chushaadu. “Nenu Nijam Telusukovaali,” Ani Tanalo Taanu Gonukkunnaadu. Chikati Padutunna Vela, Pedamma Oka Pedda Battala Mutanu Tana Bhujaana Pettukundi — Adi Chaalaa Baruvugaa Undi. Aame Uri Polimerala Vaipu Naduvadam Modalupettindi.",
+      "text_en": "The sorrow in Peddamma's eyes kept Karthik awake. Karthik decided he had to find out the truth about her. In the evening, Karthik carefully tiptoed behind a shop in the village market, peeking through dry palm leaves. 'I must find out the truth,' he whispered to himself. As darkness fell, Peddamma placed a large bundle of clothes on her shoulder – it looked very heavy. She started walking towards the edge of the village."
+    },
+    {
+      "id": 5,
+      "text": "కార్తీక్ పెదమ్మను వెంబడించి, ఊరి బయట ఉన్న ఒక చిన్న గుడిసె దగ్గరకు చేరుకున్నాడు. గుడిసె లోపల నుండి, దూరంగా తేనెటీగల గుసగుసల్లాంటి మంద్రమైన గొంతులు వినిపించాయి — కార్తీక్ చెవులు రిక్కించి విన్నాడు. పెదమ్మ ఆ మూటను ఒక యువతికి అందిస్తూ కనిపించింది. “వారు ఏమి మాట్లాడుకుంటున్నారు?” అని కార్తీక్ ఆశ్చర్యంగా అనుకున్నాడు. ఆ యువతి పెదమ్మను కన్నీళ్లతో అక్కున చేర్చుకుంది. ఇంతలో — ఆ మూట నుండి రంగురంగుల, విలువైన రంగుల ద్రవం కొద్దిగా బయటకి చిమ్మింది, అది కార్తీక్ మనసులో పుకార్లను నిజం చేసింది.",
+      "image_prompt": "The boy observes his aunt handing the heavy bundle to a young woman inside a small hut. A small amount of colorful, valuable liquid spills from the bundle, confirming the rumors in the boy's mind. Moonlight, pale and silvery, dimly illuminates the secluded hut, making the figures inside appear as silhouettes and adding to the secretive atmosphere of the scene.",
+      "scene_visual": "The boy observes his aunt handing the heavy bundle to a young woman inside a small hut. A small amount of colorful, valuable liquid spills from the bundle, confirming the rumors in the boy's mind.",
+      "supporting_char_keys": [
+        "peddamma"
+      ],
+      "text_te_en": "Kaartik Pedammanu Vembadinchi, Uri Bayata Unna Oka Chinna Gudise Daggaraku Cherukunnaadu. Gudise Lopala Nundi, Durangaa Tenetigala Gusagusallaanti Mandramaina Gontulu Vinipinchaayi — Kaartik Chevulu Rikkinchi Vinnaadu. Pedamma Aa Mutanu Oka Yuvatiki Andistu Kanipinchindi. “Vaaru Emi Maatlaadukuntunnaaru?” Ani Kaartik Aashcharyangaa Anukunnaadu. Aa Yuvati Pedammanu Kannillato Akkuna Cherchukundi. Intalo — Aa Muta Nundi Rangurangula, Viluvaina Rangula Dravam Koddigaa Bayataki Chimmindi, Adi Kaartik Manasulo Pukaarlanu Nijam Chesindi.",
+      "text_en": "Karthik followed Peddamma and reached a small hut outside the village. From inside the hut, soft voices like the buzzing of distant bees could be heard – Karthik strained his ears to listen. Peddamma was seen handing the bundle to a young woman. 'What are they talking about?' Karthik wondered, surprised. The young woman hugged Peddamma with tears in her eyes. Just then – a little bit of colorful, precious dye liquid spilled out from the bundle, making the rumors seem true in Karthik's mind."
+    },
+    {
+      "id": 6,
+      "text": "ఆ దృశ్యం చూసిన కార్తీక్ మరింత గందరగోళానికి గురయ్యాడు. ఇంటికి తిరిగి వచ్చి, తన చిన్న గదిలో అటూ ఇటూ నడుస్తున్నాడు, నిద్ర పట్టడం లేదు. రాత్రి నిశ్శబ్దంలో మిడతల కిచకిచలు మాత్రమే వినిపించాయి. “అది నిజమైతే, ఆమె ఎందుకు అంత బాధగా ఉన్నారు?” అని తనలో తాను ప్రశ్నించుకున్నాడు. పెదమ్మ కళ్ళల్లో కనిపించిన ఆ విచారం కార్తీక్‌కు మళ్ళీ గుర్తొచ్చింది. ఆ దృశ్యం, పుకార్లకు సరిపోవడం లేదని — అతని మనసులో కొత్త ఆలోచన మొదలైంది.",
+      "image_prompt": "The boy paces back and forth in his small room, unable to sleep. Only the chirping of crickets breaks the night's silence as he questions the sadness in his aunt's eyes. A single oil lamp casts a flickering, warm glow inside Karthik's room, creating deep shadows that dance on the walls, reflecting his troubled thoughts.",
+      "scene_visual": "The boy paces back and forth in his small room, unable to sleep. Only the chirping of crickets breaks the night's silence as he questions the sadness in his aunt's eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Drrishyam Chusina Kaartik Marinta Gandaragolaaniki Gurayyaadu. Intiki Tirigi Vachchi, Tana Chinna Gadilo Atu Itu Nadustunnaadu, Nidra Pattadam Ledu. Raatri Nishshabdanlo Midatala Kichakichalu Maatrame Vinipinchaayi. “Adi Nijamaite, Aame Enduku Anta Baadhagaa Unnaaru?” Ani Tanalo Taanu Prashninchukunnaadu. Pedamma Kallallo Kanipinchina Aa Vichaaram Kaartik‌Ku Malli Gurtochchindi. Aa Drrishyan, Pukaarlaku Saripovadam Ledani — Atani Manasulo Kotta Aalochana Modalaindi.",
+      "text_en": "Seeing that, Karthik became even more confused. He returned home and paced back and forth in his small room, unable to sleep. In the quiet night, only the chirping of crickets could be heard. 'If it's true, why is she so sad?' he asked himself. The sadness Karthik had seen in Peddamma's eyes came back to him. The scene didn't quite fit the rumors – a new thought began in his mind."
+    },
+    {
+      "id": 7,
+      "text": "మరుసటి రోజు ఉదయం, కార్తీక్ ధైర్యం చేసి, పెదమ్మ దగ్గరకు వెళ్ళి, ఆమెను నేరుగా అడిగాడు. పెదమ్మ కళ్ళల్లో నీళ్ళు నిండి, “నేను నా మేనకోడలికి సహాయం చేస్తున్నాను, ఆమెకు ఎవరూ లేరు,” అని చెప్పింది. ఆమె మేనకోడలు తన జీవనోపాధిని కోల్పోయిందని, అందుకే తన విలువైన రంగులు, నైపుణ్యాలను రహస్యంగా పంచుకుంటోందని వివరించింది. కార్తీక్ భుజంపై పెదమ్మ చేయి ఆప్యాయంగా పడింది — ఆమె చేతి చల్లదనం అతనికి ఓదార్పునిచ్చింది. కార్తీక్ పెదమ్మ కళ్ళల్లోకి చూశాడు — ఇప్పుడు అతనికి కనిపించింది ఒక రహస్య వ్యాపారి కాదు, ఒక నిస్వార్థ, ప్రేమగల పిన్ని.",
+      "image_prompt": "The boy stands before his aunt, who has tears in her eyes as she explains her actions. Her cool hand rests affectionately on his shoulder, offering him comfort as he looks into her eyes. Soft, early morning light, cool and clear, filters into Peddamma's small courtyard, illuminating the scene with a sense of quiet truth and vulnerability.",
+      "scene_visual": "The boy stands before his aunt, who has tears in her eyes as she explains her actions. Her cool hand rests affectionately on his shoulder, offering him comfort as he looks into her eyes.",
+      "supporting_char_keys": [
+        "peddamma"
+      ],
+      "text_te_en": "Marusati Roju Udayan, Kaartik Dhairyam Chesi, Pedamma Daggaraku Velli, Aamenu Nerugaa Adigaadu. Pedamma Kallallo Nillu Nindi, “Nenu Naa Menakodaliki Sahaayam Chestunnaanu, Aameku Evaru Leru,” Ani Cheppindi. Aame Menakodalu Tana Jivanopaadhini Kolpoyindani, Anduke Tana Viluvaina Rangulu, Naipunyaalanu Rahasyangaa Panchukuntondani Vivarinchindi. Kaartik Bhujampai Pedamma Cheyi Aapyaayangaa Padindi — Aame Cheti Challadanam Ataniki Odaarpunichchindi. Kaartik Pedamma Kallalloki Chushaadu — Ippudu Ataniki Kanipinchindi Oka Rahasya Vyaapaari Kaadu, Oka Nisvaartha, Premagala Pinni.",
+      "text_en": "The next morning, Karthik bravely went to Peddamma and asked her directly. Peddamma's eyes filled with tears, and she said, 'I am helping my niece, she has no one else.' She explained that her niece had lost her way of earning a living, which is why she was secretly sharing her valuable dyes and skills. Peddamma's hand gently rested on Karthik's shoulder – the coolness of her hand comforted him. Karthik looked into Peddamma's eyes – now he didn't see a secret dealer, but a selfless, loving aunt."
+    },
+    {
+      "id": 8,
+      "text": "పెదమ్మ నిజం చెప్పగానే, కార్తీక్‌కు అంతా స్పష్టంగా అర్థమైంది. ఒక కొత్త అవగాహనతో, కార్తీక్ ఆ నిజం కథను మిగతా పిల్లలతో పంచుకోవడం మొదలుపెట్టాడు. “ఆమె దొంగ కాదు, ఆమె మంచిది!” అని అందరికీ చెప్పాడు. నిదానంగా, గుసగుసలాడిన పుకార్ల స్థానంలో, పెదమ్మ దయ గురించి ప్రజల నోటి నుండి ప్రశంసలు వినిపించాయి. ఊరి పెద్దలు తల ఊపారు — వారి కళ్ళల్లో ఆమోదం కనిపించింది. ఇప్పుడు ఊరంతా పెదమ్మ గొప్ప మనసును అర్థం చేసుకుంది, ఆమెకు గౌరవం పెరిగింది.",
+      "image_prompt": "The boy shares the true story with other children, proclaiming his aunt's goodness. Village elders nod their heads in approval, their eyes reflecting newfound respect for her. Mid-morning sunlight, bright and cheerful, washes over the village square, casting clear, strong shadows and highlighting the vibrant colors of the market, symbolizing clarity and renewed harmony.",
+      "scene_visual": "The boy shares the true story with other children, proclaiming his aunt's goodness. Village elders nod their heads in approval, their eyes reflecting newfound respect for her.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pedamma Nijam Cheppagaane, Kaartik‌Ku Antaa Spashtangaa Arthamaindi. Oka Kotta Avagaahanato, Kaartik Aa Nijam Kathanu Migataa Pillalato Panchukovadam Modalupettaadu. “Aame Donga Kaadu, Aame Manchidi!” Ani Andariki Cheppaadu. Nidaanangaa, Gusagusalaadina Pukaarla Sthaananlo, Pedamma Daya Gurinchi Prajala Noti Nundi Prashansalu Vinipinchaayi. Uri Peddalu Tala Upaaru — Vaari Kallallo Aamodam Kanipinchindi. Ippudu Urantaa Pedamma Goppa Manasunu Artham Chesukundi, Aameku Gauravam Perigindi.",
+      "text_en": "As soon as Peddamma told the truth, everything became clear to Karthik. With a new understanding, Karthik began to share the true story with the other children. 'She's not a thief, she's kind!' he told everyone. Slowly, instead of whispered rumors, praises for Peddamma's kindness were heard from people's mouths. The village elders nodded – approval was seen in their eyes. Now the whole village understood Peddamma's great heart, and her respect grew."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "peddamma",
+      "description": "Peddamma is a respected village elder, known for her skilled hands that weave the most intricate patterns, with silver-streaked hair always tied in a neat bun and gentle, knowing eyes. She wears simple, hand-spun cotton sarees, often stained with natural dyes, and moves with a quiet grace. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 5.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 1,
+    "emotional_depth": 5,
+    "dialogue_richness": 3,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 7,
+    "average": 5.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story has a solid narrative arc and generally correct grammar, providing a good structural foundation. However, it suffers significantly from a lack of oral warmth and minimal dialogue, making it read more like a factual report than an engaging children's tale. To elevate it to an award-worthy piece, the most crucial step is to rewrite it with a conversational, grandparent-like voice, integrating rich, character-specific dialogue throughout. This would naturally enhance emotional depth and child engagement, transforming it from a mere sequence of events into a truly immersive experience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Nijam Telusukovaali Chintu!",
+  "moral_te_en": "Manishini Chusi, Maatalu Vini Tondarapadi Oka Nirnayaaniki Raakudadu, Nijam Telusukovadaaniki Prayatninchaali.",
+  "title_en": "Find Out the Truth, Chintu!",
+  "moral_en": "Don't judge people by how they look or by what others say. Always try to find out the real truth.",
+  "id": "20260603_061247",
+  "date": "2026-06-03",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "నిప్పు లేకుండా పొగ రాదు అనే కథ",
+  "thumbnail": "stories/20260603_061247/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
