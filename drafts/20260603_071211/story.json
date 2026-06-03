@@ -1,0 +1,123 @@
+{
+  "title": "తెనాలి వదంతి పన్నాగం",
+  "moral": "ఎక్కువగా వింటూ, తెలివిగా ఆలోచిస్తే అబద్ధాల వెనుక దాగి ఉన్న నిజం బయటపడుతుంది కదూ పిల్లలూ!",
+  "main_character": "Tenali Ramakrishna is a lean, sharp-eyed poet-jester with a quick wit and an even quicker mind. He often wears simple but clean court attire, a white dhoti and a matching angavastram. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The grand royal court of Vijayanagara, an opulent hall adorned with intricate carvings, large pillars, and vibrant tapestries. The scenes unfold from late morning to early evening. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర రాజదర్బారులో తెనాలి రామకృష్ణుడు తన చమత్కార కవిత్వంతో మహారాజు కృష్ణదేవరాయలను ఎంతగానో అలరిస్తున్నాడు. ఆ దర్బారులో మల్లెపూల, అగరుబత్తీల సువాసనలు మెల్లగా అలుముకుంటున్నాయి. తెనాలి మాటల్లోని తెలివికి, ఆయన కళ్ళల్లోని మెరుపుకు రాజుగారు పులకించిపోయారు. “మహారాజా, మీ రాజ్యంలో ప్రతి మాట ఒక మణి, ప్రతి ఆలోచన ఒక ఆణిముత్యం!” అంటూ తెనాలి ఎంతో వినయంగా చెప్పాడు. రాజుగారు ఆనందంగా నవ్వారు — ఆ నవ్వు దర్బారు గోడలన్నీ ప్రతిధ్వనించింది. కానీ, ఓ మూల ఉన్న ఓ అసూయాపరుడైన ఆస్థాన కవి కళ్ళు మాత్రం సన్నగా మారాయి.",
+      "image_prompt": "The king throws his head back, laughing joyfully as the court echoes with his mirth. In a corner, a jealous court poet's eyes narrow to thin slits, observing the scene. Bright, warm morning sunlight streaming through tall archways into the ornate court hall, illuminating the vibrant silk robes of the courtiers.",
+      "scene_visual": "The king throws his head back, laughing joyfully as the court echoes with his mirth. In a corner, a jealous court poet's eyes narrow to thin slits, observing the scene.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Vijayanagara Raajadarbaarulo Tenaali Raamakrrishnudu Tana Chamatkaara Kavitvanto Mahaaraaju Krrishnadevaraayalanu Entagaano Alaristunnaadu. Aa Darbaarulo Mallepula, Agarubattila Suvaasanalu Mellagaa Alumukuntunnaayi. Tenaali Maatalloni Teliviki, Aayana Kallalloni Merupuku Raajugaaru Pulakinchipoyaaru. “Mahaaraajaa, Mi Raajyanlo Prati Maata Oka Mani, Prati Aalochana Oka Aanimutyan!” Antu Tenaali Ento Vinayangaa Cheppaadu. Raajugaaru Aanandangaa Navvaaru — Aa Navvu Darbaaru Godalanni Pratidhvaninchindi. Kaani, O Mula Unna O Asuyaaparudaina Aasthaana Kavi Kallu Maatram Sannagaa Maaraayi.",
+      "text_en": "In the royal court of Vijayanagara, Tenali Ramakrishna was greatly entertaining King Krishnadevaraya with his witty poetry. The sweet scents of jasmine flowers and incense sticks slowly filled the court. The King was thrilled by Tenali's clever words and the sparkle in his eyes. “Your Majesty, in your kingdom, every word is a gem, and every thought is a pearl!” Tenali said very humbly. The King laughed happily — that laughter echoed through all the court walls. But, in a corner, the eyes of an envious court poet narrowed."
+    },
+    {
+      "id": 2,
+      "text": "రాజుగారి ప్రశంసలో ఇంకా మునిగితేలుతున్న తెనాలికి తెలియకుండానే, ఆ అసూయాపరుడైన కవి తన పక్కనున్నవారి చెవిలో ఏదో గుసగుసలాడడం మొదలుపెట్టాడు. విలాసవంతమైన పట్టు వస్త్రాలు కదులుతుండగా, ఆ గుసగుసలు దర్బారులో వేగంగా పాకాయి. “విన్నారా? తెనాలి ఇంట్లో బంగారు పండ్లు కాసే చెట్టు ఉందట!” అంటూ ఆ కవి చిన్నగా నవ్వాడు — ఆ నవ్వులో ఏదో పన్నాగం దాగి ఉంది. క్షణాల్లో ఆ వదంతి ఆస్థానమంతా వ్యాపించి, చివరకు రాజుగారి చెవిన పడింది. రాజుగారు ఆశ్చర్యంగా తెనాలి వైపు చూశారు — ఆయన కనుబొమ్మ ఒక్కసారిగా పైకి లేచింది.",
+      "image_prompt": "An envious court poet leans in conspiratorially, whispering into the ear of a nearby courtier. The king's eyebrows shoot up in surprise as he looks towards the clever man, having just heard the rumor. The morning light slightly dimmed, shadows lengthening subtly as the mood shifts from joyful to conspiratorial; hushed tones.",
+      "scene_visual": "An envious court poet leans in conspiratorially, whispering into the ear of a nearby courtier. The king's eyebrows shoot up in surprise as he looks towards the clever man, having just heard the rumor.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Raajugaari Prashansalo Inkaa Munigitelutunna Tenaaliki Teliyakundaane, Aa Asuyaaparudaina Kavi Tana Pakkanunnavaari Chevilo Edo Gusagusalaadadam Modalupettaadu. Vilaasavantamaina Pattu Vastraalu Kadulutundagaa, Aa Gusagusalu Darbaarulo Vegangaa Paakaayi. “Vinnaaraa? Tenaali Intlo Bangaaru Pandlu Kaase Chettu Undata!” Antu Aa Kavi Chinnagaa Navvaadu — Aa Navvulo Edo Pannaagam Daagi Undi. Kshanaallo Aa Vadanti Aasthaanamantaa Vyaapinchi, Chivaraku Raajugaari Chevina Padindi. Raajugaaru Aashcharyangaa Tenaali Vaipu Chushaaru — Aayana Kanubomma Okkasaarigaa Paiki Lechindi.",
+      "text_en": "Without Tenali knowing, while he was still basking in the King's praise, that envious poet began to whisper something into the ear of the person next to him. As luxurious silk clothes rustled, those whispers quickly spread through the court. “Did you hear? They say Tenali has a tree in his house that grows golden fruits!” the poet chuckled softly — a scheme was hidden in that laugh. In moments, that rumor spread throughout the entire court and finally reached the King's ears. The King looked at Tenali in surprise — his eyebrow shot up."
+    },
+    {
+      "id": 3,
+      "text": "ఆ మరుసటి రోజు, తెనాలి దర్బారులో నడుచుకుంటూ వెళ్తుండగా, అందరి చూపులు తనపైనే ఉన్నాయని గమనించాడు. కొంతమంది గుంపుగా నిలబడి ఏదో మాట్లాడుకుంటున్నారు, తెనాలి అటుగా రాగానే — ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. ఏదో పెద్ద వదంతి తన గురించి ప్రచారంలో ఉందని ఆయనకు అర్థమైంది. ఆయన ముఖంపై చిన్న చిరాకుతో కూడిన చిరునవ్వు మెరిసింది. “మహారాజా, ఈ రోజు సభలో ఏదో కొత్త గాలి వీస్తున్నట్టుంది,” అంటూ రాజుగారితో అన్నాడు. రాజుగారు చిరునవ్వుతో తెనాలిని చూశారు, కానీ ఆ వదంతి గురించి మాత్రం ఒక్క మాట కూడా మాట్లాడలేదు.",
+      "image_prompt": "The clever man walks into the royal court, observing all eyes fixed upon him as a sudden silence falls. A subtle, annoyed smirk plays on his lips as he comprehends the situation. The court hall now feels heavy, the light appearing less vibrant, casting longer, more dramatic shadows on Tenali's thoughtful face.",
+      "scene_visual": "The clever man walks into the royal court, observing all eyes fixed upon him as a sudden silence falls. A subtle, annoyed smirk plays on his lips as he comprehends the situation.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Aa Marusati Roju, Tenaali Darbaarulo Naduchukuntu Veltundagaa, Andari Chupulu Tanapaine Unnaayani Gamaninchaadu. Kontamandi Gumpugaa Nilabadi Edo Maatlaadukuntunnaaru, Tenaali Atugaa Raagaane — Okkasaarigaa Nishshabdam Alumukundi. Edo Pedda Vadanti Tana Gurinchi Prachaaranlo Undani Aayanaku Arthamaindi. Aayana Mukhampai Chinna Chiraakuto Kudina Chirunavvu Merisindi. “Mahaaraajaa, I Roju Sabhalo Edo Kotta Gaali Vistunnattundi,” Antu Raajugaarito Annaadu. Raajugaaru Chirunavvuto Tenaalini Chushaaru, Kaani Aa Vadanti Gurinchi Maatram Okka Maata Kudaa Maatlaadaledu.",
+      "text_en": "The next day, as Tenali walked through the court, he noticed everyone's eyes were on him. Some people were standing in groups, talking about something, and as Tenali approached — silence suddenly fell. He understood that some big rumor was being spread about him. A small, slightly annoyed smile flickered on his face. “Your Majesty, it seems a new wind is blowing in the court today,” he said to the King. The King looked at Tenali with a smile, but didn't say a single word about the rumor."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలికి ఏదో తేడాగా అనిపించి, ఒక ఆస్థాన కవి దగ్గరకు వెళ్లి నెమ్మదిగా పలకరించాడు. “అయ్యా, ప్రజలు చెప్పే మాటలన్నీ నిజం కావు కదా?” అంటూ పరోక్షంగా ఆ వదంతి గురించి అడిగాడు. ఆ కవి తెనాలి కళ్ళలోకి చూడకుండా, కాళ్ళను అసౌకర్యంగా కదిపి, ఏదో సాధారణంగా మాట్లాడి తప్పించుకోవాలని చూశాడు. తెనాలి దవడలు బిగుసుకున్నాయి — ఈ వదంతిని ఎదుర్కోవడానికి వేరే మార్గం ఆలోచించాలని ఆయనకు అర్థమైంది. ఆస్థాన కవి పక్కనుండి వెళ్ళిపోతూనే, తెనాలి కళ్ళల్లో ఒక కొంటె మెరుపు కనిపించింది.",
+      "image_prompt": "The clever man approaches a court poet, asking a question indirectly about the rumor. The court poet shuffles his feet uncomfortably, avoiding eye contact, while the clever man's jaw tightens with determination. A corner of the palace corridor, less grand, with muted light from a high window, emphasizing the private, slightly tense interaction.",
+      "scene_visual": "The clever man approaches a court poet, asking a question indirectly about the rumor. The court poet shuffles his feet uncomfortably, avoiding eye contact, while the clever man's jaw tightens with determination.",
+      "supporting_char_keys": [
+        "courtier"
+      ],
+      "text_te_en": "Tenaaliki Edo Tedaagaa Anipinchi, Oka Aasthaana Kavi Daggaraku Velli Nemmadigaa Palakarinchaadu. “Ayyaa, Prajalu Cheppe Maatalanni Nijam Kaavu Kadaa?” Antu Parokshangaa Aa Vadanti Gurinchi Adigaadu. Aa Kavi Tenaali Kallaloki Chudakundaa, Kaallanu Asaukaryangaa Kadipi, Edo Saadhaaranangaa Maatlaadi Tappinchukovaalani Chushaadu. Tenaali Davadalu Bigusukunnaayi — I Vadantini Edurkovadaaniki Vere Maargam Aalochinchaalani Aayanaku Arthamaindi. Aasthaana Kavi Pakkanundi Vellipotune, Tenaali Kallallo Oka Konte Merupu Kanipinchindi.",
+      "text_en": "Tenali felt something was off, so he went to a court poet and greeted him softly. “Sir, not everything people say is true, is it?” he asked, indirectly referring to the rumor. The poet avoided Tenali's eyes, shifted his feet uncomfortably, and tried to escape by saying something general. Tenali's jaw tightened — he understood that he needed to think of another way to deal with this rumor. As he walked away from the court poet, a mischievous sparkle appeared in Tenali's eyes."
+    },
+    {
+      "id": 5,
+      "text": "తన గదిలోకి వెళ్ళిన తెనాలి, ఆ వదంతిని ఎలా ఎదుర్కోవాలో ఆలోచించసాగాడు. బయట గాలికి తాటి ఆకులు మెల్లగా కదులుతున్న శబ్దం తప్ప అక్కడ వేరే శబ్దం లేదు. అబద్ధాలను నిజంగా మార్చే తెలివైన ఉపాయం కోసం ఆయన మనసులో అనేక ఆలోచనలు సుడులు తిరుగుతున్నాయి. “వదంతికి నిజం కన్నా బలమైన సమాధానం కావాలి!” అని తనలో తాను గట్టిగా అనుకున్నాడు. ఒక్కసారిగా — ఆయన ముఖంపై ఒక మెల్లని, తెలివైన చిరునవ్వు వ్యాపించింది. ఆ క్షణంలో తెనాలి రాజుగారికి ఒక సందేశం పంపాడు, త్వరలో ఒక ఆశ్చర్యకరమైన విషయం వెల్లడిస్తానని సూచిస్తూ.",
+      "image_prompt": "The clever man sits alone in his room, deep in thought, pondering how to counter the false rumor. A slow, intelligent smile spreads across his face as he devises a plan. Tenali's study, lit by a single oil lamp in the evening, casting warm, dancing shadows on the walls as he ponders, creating an atmosphere of quiet genius.",
+      "scene_visual": "The clever man sits alone in his room, deep in thought, pondering how to counter the false rumor. A slow, intelligent smile spreads across his face as he devises a plan.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Gadiloki Vellina Tenaali, Aa Vadantini Elaa Edurkovaalo Aalochinchasaagaadu. Bayata Gaaliki Taati Aakulu Mellagaa Kadulutunna Shabdam Tappa Akkada Vere Shabdam Ledu. Abaddhaalanu Nijangaa Maarche Telivaina Upaayam Kosam Aayana Manasulo Aneka Aalochanalu Sudulu Tirugutunnaayi. “Vadantiki Nijam Kannaa Balamaina Samaadhaanam Kaavaali!” Ani Tanalo Taanu Gattigaa Anukunnaadu. Okkasaarigaa — Aayana Mukhampai Oka Mellani, Telivaina Chirunavvu Vyaapinchindi. Aa Kshananlo Tenaali Raajugaariki Oka Sandesham Pampaadu, Tvaralo Oka Aashcharyakaramaina Vishayam Velladistaanani Suchistu.",
+      "text_en": "Going into his room, Tenali began to think about how to deal with the rumor. There was no sound there except for the gentle rustling of palm leaves in the breeze outside. Many thoughts swirled in his mind, searching for a clever trick to turn lies into truth. “A rumor needs a stronger answer than just the truth!” he told himself firmly. Suddenly — a soft, clever smile spread across his face. At that moment, Tenali sent a message to the King, hinting that he would soon reveal something surprising."
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి రోజు దర్బారులో, తెనాలి చేతిలో ఒక చిన్న కుండతో నిలబడ్డాడు, దానిలో ఒక వాడిపోయిన మొక్క ఉంది. దాన్ని చూసి అందరూ ఆశ్చర్యంగా చూస్తున్నారు. “మహారాజా, ఇదిగో నా 'బంగారు పండ్ల' చెట్టు మరియు దాని ఫలాలు!” అంటూ ఆయన ఒక పళ్ళెంలో బంగారు రంగు వేసిన సాధారణ పండ్లను ప్రదర్శించాడు. కోర్టు సభ్యులందరూ ఒక్కసారిగా నిట్టూర్చారు — ఆ పండ్లు కేవలం రంగు వేసినవి అని తెలుసుకుని ఆశ్చర్యపోయారు. రాజుగారు బిగ్గరగా నవ్వారు — ఆ నవ్వు దర్బారును మార్మోగించింది. ఆ అసూయాపరుడైన కవి సిగ్గుతో తల దించుకున్నాడు.",
+      "image_prompt": "The clever man stands before the court, holding a small pot with a withered plant and presenting a plate of ordinary, gold-painted fruits. The king bursts into loud laughter, his mirth echoing through the court, while the envious poet hangs his head in shame. The court hall, now brightly lit by numerous lamps and torches, creating a dramatic stage for Tenali's reveal, with the golden fruits glinting under the light.",
+      "scene_visual": "The clever man stands before the court, holding a small pot with a withered plant and presenting a plate of ordinary, gold-painted fruits. The king bursts into loud laughter, his mirth echoing through the court, while the envious poet hangs his head in shame.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Marusati Roju Darbaarulo, Tenaali Chetilo Oka Chinna Kundato Nilabaddaadu, Daanilo Oka Vaadipoyina Mokka Undi. Daanni Chusi Andaru Aashcharyangaa Chustunnaaru. “Mahaaraajaa, Idigo Naa 'Bangaaru Pandla' Chettu Mariyu Daani Phalaalu!” Antu Aayana Oka Pallenlo Bangaaru Rangu Vesina Saadhaarana Pandlanu Pradarshinchaadu. Kortu Sabhyulandaru Okkasaarigaa Nitturchaaru — Aa Pandlu Kevalam Rangu Vesinavi Ani Telusukuni Aashcharyapoyaaru. Raajugaaru Biggaragaa Navvaaru — Aa Navvu Darbaarunu Maarmoginchindi. Aa Asuyaaparudaina Kavi Sigguto Tala Dinchukunnaadu.",
+      "text_en": "The next day in court, Tenali stood with a small pot in his hand, in which there was a withered plant. Everyone looked at it in surprise. “Your Majesty, here is my 'golden fruit' tree and its fruits!” he said, displaying ordinary fruits painted gold on a platter. All the court members gasped at once — they were surprised to learn that the fruits were just painted. The King laughed loudly — that laughter echoed through the court. The envious poet hung his head in shame."
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి తెలివికి రాజుగారు ఎంతో ముగ్ధులయ్యారు, “తెనాలి, నీ తెలివికి సరిపోలైనవారు ఈ లోకంలో లేరు!” అంటూ ఆయనను ఆశీర్వదించారు. ఆస్థాన సభ్యులందరూ ఇప్పుడు వదంతుల ప్రమాదాన్ని స్పష్టంగా అర్థం చేసుకున్నారు. వారి ముఖాలపై ఒక సామూహిక అవగాహన నిట్టూర్పు వెలువడింది, ఆపై ఏకాభిప్రాయంతో కూడిన గుసగుసలు వినిపించాయి. తెనాలి ముఖంపై ఒక ప్రశాంతమైన చిరునవ్వు మెరిసింది — తన పని పూర్తయిందని ఆయనకు తెలుసు.",
+      "image_prompt": "The clever man stands calmly before the king and the court, observing the understanding dawning on everyone's faces. A peaceful, knowing smile graces his lips, signaling his satisfaction with the outcome. The court hall bathed in a soft, warm glow as evening descends, a feeling of calm and restored order, with a golden hue reflecting the wisdom shared.",
+      "scene_visual": "The clever man stands calmly before the king and the court, observing the understanding dawning on everyone's faces. A peaceful, knowing smile graces his lips, signaling his satisfaction with the outcome.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Tenaali Teliviki Raajugaaru Ento Mugdhulayyaaru, “Tenaali, Ni Teliviki Saripolainavaaru I Lokanlo Leru!” Antu Aayananu Aashirvadinchaaru. Aasthaana Sabhyulandaru Ippudu Vadantula Pramaadaanni Spashtangaa Artham Chesukunnaaru. Vaari Mukhaalapai Oka Saamuhika Avagaahana Nitturpu Veluvadindi, Aapai Ekaabhipraayanto Kudina Gusagusalu Vinipinchaayi. Tenaali Mukhampai Oka Prashaantamaina Chirunavvu Merisindi — Tana Pani Purtayindani Aayanaku Telusu.",
+      "text_en": "The King was greatly charmed by Tenali's cleverness, and blessed him, saying, “Tenali, there is no one in this world to match your wit!” All the court members now clearly understood the danger of rumors. A collective sigh of understanding appeared on their faces, followed by whispers of agreement. A peaceful smile flickered on Tenali's face — he knew his work was done."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king",
+      "description": "King Krishnadevaraya is a majestic and wise ruler, known for his love of arts and justice. He wears opulent silk robes, adorned with intricate gold jewelry and a large, jeweled crown. Always the same character across every scene."
+    },
+    {
+      "key": "courtier",
+      "description": "A jealous, plump courtier, often seen with a sneering expression. He wears rich, dark-colored silks and frequently schemes against Tenali Ramakrishna. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 6,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts impeccable grammar and a solid narrative arc with well-depicted emotional depth. However, its formal narrative voice significantly detracts from the warmth expected of a children's bedtime story, making it feel more like a written report than an oral tale. To reach a 9+, the most crucial fix is to completely re-imagine the narration with a consistent, conversational, and simpler tone, actively engaging the child listener throughout the story rather than just in the moral."
+  },
+  "quality_warning": true,
+  "title_te_en": "Tenaali Vadanti Pannaagam",
+  "moral_te_en": "Ekkuvagaa Vintu, Telivigaa Aalochiste Abaddhaala Venuka Daagi Unna Nijam Bayatapadutundi Kadu Pillalu!",
+  "title_en": "Tenali's Clever Rumor Plan",
+  "moral_en": "Children, if you listen carefully and think wisely, the truth hidden behind lies will always come out, won't it?",
+  "id": "20260603_071211",
+  "date": "2026-06-03",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు వదంతి పన్నాగం",
+  "thumbnail": "stories/20260603_071211/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
