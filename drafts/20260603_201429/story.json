@@ -1,0 +1,106 @@
+{
+  "title": "కోశాధికారి పొడుపు కథ",
+  "moral": "మన హృదయాల్లోని మంచి గుణాలు, మనసులోని తెలివితేటలే నిజమైన సంపద.",
+  "main_character": "యువ కోశాధికారి (Yuva Kosadhikari) is a young, diligent royal treasurer, known for his meticulous record-keeping and honest nature. He often thinks in very literal terms, which sometimes makes abstract problems challenging for him. Always the same character across every scene.",
+  "antagonist": "The King is an elderly monarch with a wise and often playful demeanor. He wears robes of deep crimson and gold, a jeweled turban, and carries a staff topped with a carved lion's head. Always the same character across every scene.",
+  "setting": "The story takes place in a grand royal court in the ancient Telugu kingdom of Kalinga. Ornate stone pillars, vibrant silk tapestries depicting historical scenes, and polished marble floors adorn the palace. The events unfold from morning to late evening on a single day. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "యువ కోశాధికారి, తన పనిలో మునిగిపోయి, రాజ్యంలోని బంగారు నాణేలను జాగ్రత్తగా లెక్కపెడుతున్నాడు. అతని చేతిలో నాణేలు కదులుతుంటే — \"క్లింగ్... క్లింగ్...\" అనే మెత్తటి సవ్వడి వినిపించసాగింది. \"ప్రతీ పైసా జాగ్రత్తగా లెక్కించాలి, ఇది రాజ్యానికి సంపద!\" అని తను తల ఊపుతూ అనుకున్నాడు. అతని పెదవుల మీద చిన్న నవ్వు మెరిసింది — ఇంతటి బాధ్యతను మోస్తున్నందుకు గర్వంగా. ఒక్క పైసా కూడా తప్పుకాకుండా — లెక్కించాడు. ఇంతలో, రాజ్య సందేశకుడు కంగారుగా లోపలికి వచ్చి, చేతిలో తాళపత్రంతో నిలబడ్డాడు.",
+      "image_prompt": "The messenger nervously enters the room. He stands holding a palm-leaf manuscript in his hand. Bright, orderly light filtering through high arched windows into the treasury, reflecting off polished marble floors and the glint of gold, creating an atmosphere of meticulous work.",
+      "scene_visual": "The messenger nervously enters the room. He stands holding a palm-leaf manuscript in his hand.",
+      "supporting_char_keys": [],
+      "text_te_en": "Yuva Koshaadhikaari, Tana Panilo Munigipoyi, Raajyanloni Bangaaru Naanelanu Jaagrattagaa Lekkapedutunnaadu. Atani Chetilo Naanelu Kadulutunte — \"Kling... Kling...\" Ane Mettati Savvadi Vinipinchasaagindi. \"Prati Paisaa Jaagrattagaa Lekkinchaali, Idi Raajyaaniki Sampada!\" Ani Tanu Tala Uputu Anukunnaadu. Atani Pedavula Mida Chinna Navvu Merisindi — Intati Baadhyatanu Mostunnanduku Garvangaa. Okka Paisaa Kudaa Tappukaakundaa — Lekkinchaadu. Intalo, Raajya Sandeshakudu Kangaarugaa Lopaliki Vachchi, Chetilo Taalapatranto Nilabaddaadu.",
+      "text_en": "The young treasurer, deep in his work, was carefully counting the kingdom's gold coins. As the coins moved in his hands, a soft \"cling... cling...\" sound could be heard. \"Every coin must be counted carefully, this is the kingdom's wealth!\" he thought, nodding his head. A small smile appeared on his lips – proud to be carrying such a big responsibility. He counted without a single mistake. Just then, a royal messenger rushed in, holding a palm-leaf scroll."
+    },
+    {
+      "id": 2,
+      "text": "సందేశకుడు చెప్పిన మాట వినగానే, కోశాధికారి రాజుగారి సభకు వెళ్ళాడు. మహారాజు, సింహాసనం మీద కూర్చుని, ఒక చిరునవ్వుతో అతని వైపు చూశాడు. కోశాధికారి ఛాతీ విరుచుకుని నిలబడ్డాడు — తను ఏ ప్రశ్నకైనా సమాధానం చెప్పగలనని. అప్పుడు రాజుగారి గంభీరమైన గొంతు సభామందిరంలో మారుమోగింది: \"నా కోశాధికారి, కనిపించని సంపద ఏమిటో చెప్పగలవా?\" అతని నుదుటి మీద ముడుతలు పడ్డాయి — అప్పుడు అర్థమైంది. ఈ ప్రశ్న బంగారు నాణేల గురించి కాదు అని, రాజు వైపు అయోమయంగా చూశాడు.",
+      "image_prompt": "The treasurer stands before the King, his chest puffed out with confidence. His forehead then wrinkles as he looks confusedly at the King, realizing the question's true nature. Also in this scene: The King is an elderly monarch with a wise and often playful demeanor. He wears robes of deep crimson and gold, a jeweled turban, and carries a staff topped with a carved lion's head. Always the same character across every scene. Warm, regal light in the throne room, with late morning sun streaming through stained glass windows, highlighting the King's imposing figure on his throne.",
+      "scene_visual": "The treasurer stands before the King, his chest puffed out with confidence. His forehead then wrinkles as he looks confusedly at the King, realizing the question's true nature.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sandeshakudu Cheppina Maata Vinagaane, Koshaadhikaari Raajugaari Sabhaku Vellaadu. Mahaaraaju, Sinhaasanam Mida Kurchuni, Oka Chirunavvuto Atani Vaipu Chushaadu. Koshaadhikaari Chaati Viruchukuni Nilabaddaadu — Tanu E Prashnakainaa Samaadhaanam Cheppagalanani. Appudu Raajugaari Gambhiramaina Gontu Sabhaamandiranlo Maarumogindi: \"Naa Koshaadhikaari, Kanipinchani Sampada Emito Cheppagalavaa?\" Atani Nuduti Mida Mudutalu Paddaayi — Appudu Arthamaindi. I Prashna Bangaaru Naanela Gurinchi Kaadu Ani, Raaju Vaipu Ayomayangaa Chushaadu.",
+      "text_en": "As soon as he heard the messenger's words, the treasurer went to the King's court. The King, sitting on his throne, looked at him with a smile. The treasurer stood tall, his chest puffed out – confident he could answer any question. Then the King's deep voice echoed through the hall: \"My treasurer, can you tell me what the invisible wealth is?\" Wrinkles appeared on his forehead – then he understood. This question was not about gold coins, he looked at the King with confusion."
+    },
+    {
+      "id": 3,
+      "text": "రాజుగారి సభ నుండి తన గదికి రాగానే, కోశాధికారికి చాలా కంగారు పట్టుకుంది. అతను గదిలో అటూ ఇటూ తిరుగుతూ, కనిపించని సంపద గురించి ఆలోచించాడు. \"బంగారం కాదు, రత్నాలు కాదు... మరి ఏమిటి ఆ కనిపించని సంపద?\" అని తనలో తనే గొణుక్కున్నాడు. కొన్ని విషయాలు తాళపత్రాలపై రాసి, నచ్చక మళ్ళీ చింపి విసిరేశాడు — కాగితాలు గలగల శబ్దంతో చెల్లాచెదురుగా పడ్డాయి. అతని ముఖం ఆందోళనతో నిండిపోయింది. సమయం అయిపోతోంది — సూర్యుడు మునిగిపోతున్నాడు.",
+      "image_prompt": "The treasurer paces anxiously in his room, deep in thought. He tears up and discards several palm-leaf manuscripts, his face filled with anxiety. Dimming afternoon light in the treasurer's study, casting long shadows across his desk and reflecting his growing anxiety.",
+      "scene_visual": "The treasurer paces anxiously in his room, deep in thought. He tears up and discards several palm-leaf manuscripts, his face filled with anxiety.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajugaari Sabha Nundi Tana Gadiki Raagaane, Koshaadhikaariki Chaalaa Kangaaru Pattukundi. Atanu Gadilo Atu Itu Tirugutu, Kanipinchani Sampada Gurinchi Aalochinchaadu. \"Bangaaram Kaadu, Ratnaalu Kaadu... Mari Emiti Aa Kanipinchani Sampada?\" Ani Tanalo Tane Gonukkunnaadu. Konni Vishayaalu Taalapatraalapai Raasi, Nachchaka Malli Chimpi Visireshaadu — Kaagitaalu Galagala Shabdanto Chellaachedurugaa Paddaayi. Atani Mukham Aandolanato Nindipoyindi. Samayam Ayipotondi — Suryudu Munigipotunnaadu.",
+      "text_en": "As soon as he returned to his room from the King's court, the treasurer became very worried. He paced back and forth in his room, thinking about the invisible wealth. \"Not gold, not jewels... then what is this invisible wealth?\" he mumbled to himself. He wrote some things on palm leaves, didn't like them, and tore them up again – the papers scattered with a rustling sound. His face was filled with worry. Time was running out – the sun was setting."
+    },
+    {
+      "id": 4,
+      "text": "సమయం తక్కువ ఉన్నందున, కోశాధికారి వణుకుతున్న చేతులతో వృద్ధ పండితుడి గది తలుపు తట్టాడు. లోపల పాత పుస్తకాలు, దుమ్ము వాసన గుబాళిస్తుంటే — అతను కొద్దిగా ఊపిరి పీల్చుకున్నాడు. పండితుడి ముందు కూర్చుని, ముఖంలో చిరునవ్వు తెచ్చుకోవడానికి ప్రయత్నిస్తూ అడిగాడు: \"సంపద అంటే కనిపించనిది కూడా ఉంటుందా, గురువర్యా?\" పండితుడు శాంతంగా, మనశ్శాంతి గురించి, జ్ఞానం గురించి చెప్పాడు — కానీ కోశాధికారి తల పట్టుకుని కూర్చున్నాడు. అది అతనికి మరింత గందరగోళాన్ని పెంచింది.",
+      "image_prompt": "The treasurer sits before the old scholar, holding his head in his hands. His attempt to put on a smile has failed, replaced by a look of increased confusion. Soft, dusty light filtering through a small window in a secluded corner of the palace library, creating an atmosphere of quiet contemplation and veiled desperation.",
+      "scene_visual": "The treasurer sits before the old scholar, holding his head in his hands. His attempt to put on a smile has failed, replaced by a look of increased confusion.",
+      "supporting_char_keys": [
+        "old_scholar"
+      ],
+      "text_te_en": "Samayam Takkuva Unnanduna, Koshaadhikaari Vanukutunna Chetulato Vrriddha Panditudi Gadi Talupu Tattaadu. Lopala Paata Pustakaalu, Dummu Vaasana Gubaalistunte — Atanu Koddigaa Upiri Pilchukunnaadu. Panditudi Mundu Kurchuni, Mukhanlo Chirunavvu Techchukovadaaniki Prayatnistu Adigaadu: \"Sampada Ante Kanipinchanidi Kudaa Untundaa, Guruvaryaa?\" Panditudu Shaantangaa, Manashshaanti Gurinchi, Jnyaanam Gurinchi Cheppaadu — Kaani Koshaadhikaari Tala Pattukuni Kurchunnaadu. Adi Ataniki Marinta Gandaragolaanni Penchindi.",
+      "text_en": "Since time was short, the treasurer, with trembling hands, knocked on the old scholar's door. Inside, old books and the smell of dust filled the air – he took a small breath. Sitting before the scholar, trying to force a smile, he asked: \"Can wealth also be invisible, revered teacher?\" The scholar calmly spoke about peace of mind and knowledge – but the treasurer sat holding his head. This only confused him more."
+    },
+    {
+      "id": 5,
+      "text": "పండితుడి మాటలతో మరింత గందరగోళానికి గురైన కోశాధికారి, తన గదికి తిరిగి వచ్చాడు. అతను కిటికీ పక్కన నిరాశగా కూర్చున్నాడు, బయట పిల్లల కేరింతలు, నవ్వులు వినిపిస్తున్నాయి. \"సమయం అయిపోతోంది, నాకు సమాధానం దొరకదేమో!\" అని నిట్టూర్పు విడిచాడు. అప్పుడే అతని చూపులు ఒక చోట ఆగిపోయాయి — అతను చూశాడు, ఒక చిన్నారి! ఆ చిన్నారి ఒక ఆకలితో ఉన్న కుక్కకి తన రొట్టె ముక్కను ఎంతో ఆనందంగా పంచుకుంది. ఆ దృశ్యం అతని మనసులో ఏదో కొత్త ఆలోచనను మెరిపించింది.",
+      "image_prompt": "The treasurer sits despairingly by the window, looking out. His gaze fixes on a small child happily sharing a piece of bread with a hungry dog. Golden hour light, casting long, warm shadows across the courtyard and the treasurer's face, imbued with a hint of melancholy as the sun dips lower.",
+      "scene_visual": "The treasurer sits despairingly by the window, looking out. His gaze fixes on a small child happily sharing a piece of bread with a hungry dog.",
+      "supporting_char_keys": [],
+      "text_te_en": "Panditudi Maatalato Marinta Gandaragolaaniki Guraina Koshaadhikaari, Tana Gadiki Tirigi Vachchaadu. Atanu Kitiki Pakkana Niraashagaa Kurchunnaadu, Bayata Pillala Kerintalu, Navvulu Vinipistunnaayi. \"Samayam Ayipotondi, Naaku Samaadhaanam Dorakademo!\" Ani Nitturpu Vidichaadu. Appude Atani Chupulu Oka Chota Aagipoyaayi — Atanu Chushaadu, Oka Chinnaari! Aa Chinnaari Oka Aakalito Unna Kukkaki Tana Rotte Mukkanu Ento Aanandangaa Panchukundi. Aa Drrishyam Atani Manasulo Edo Kotta Aalochananu Meripinchindi.",
+      "text_en": "Even more confused by the scholar's words, the treasurer returned to his room. He sat dejectedly by the window, hearing children's shouts and laughter outside. \"Time is running out, I might not find the answer!\" he sighed. Just then, his eyes stopped at one spot – he saw a little child! That child happily shared a piece of their bread with a hungry dog. That sight sparked a new idea in his mind."
+    },
+    {
+      "id": 6,
+      "text": "ఆ చిన్నారి దాతృత్వం చూసిన క్షణంలో, కోశాధికారి కళ్ళు పెద్దవి అయ్యాయి. రాజుగారి జ్ఞానపు మాటలు కూడా అతని చెవుల్లో మళ్ళీ వినిపించాయి. అతను ఒక పెద్ద ఊపిరి పీల్చుకున్నాడు — అన్నీ ఒక్కసారిగా అర్థమయ్యాయి! \"అది నిజమైన సంపద! కనిపిస్తుంది కానీ లెక్కించబడదు!\" అని అతను గట్టిగా అనుకున్నాడు. అతని ముఖం వెలిగిపోయింది. అతను తన గది నుండి బయటికి పరిగెత్తాడు — మహారాజు సభ వైపు.",
+      "image_prompt": "The treasurer's eyes widen in a moment of sudden realization, and his face lights up. He takes a deep breath, then turns and runs out of his room towards the King's court. A sudden burst of inner light seems to illuminate his face, visually represented by the last, brilliant rays of the setting sun momentarily bathing him in a warm, triumphant glow.",
+      "scene_visual": "The treasurer's eyes widen in a moment of sudden realization, and his face lights up. He takes a deep breath, then turns and runs out of his room towards the King's court.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chinnaari Daatrritvam Chusina Kshananlo, Koshaadhikaari Kallu Peddavi Ayyaayi. Raajugaari Jnyaanapu Maatalu Kudaa Atani Chevullo Malli Vinipinchaayi. Atanu Oka Pedda Upiri Pilchukunnaadu — Anni Okkasaarigaa Arthamayyaayi! \"Adi Nijamaina Sampada! Kanipistundi Kaani Lekkinchabadadu!\" Ani Atanu Gattigaa Anukunnaadu. Atani Mukham Veligipoyindi. Atanu Tana Gadi Nundi Bayatiki Parigettaadu — Mahaaraaju Sabha Vaipu.",
+      "text_en": "The moment he saw the child's generosity, the treasurer's eyes widened. The King's wise words echoed in his ears again. He took a deep breath – everything suddenly made sense! \"That is true wealth! It can be seen but not counted!\" he thought aloud. His face lit up. He ran out of his room – towards the King's court."
+    },
+    {
+      "id": 7,
+      "text": "మహారాజు సభలో, కోశాధికారి ధైర్యంగా నిలబడ్డాడు — అతని ముఖంలో ఆత్మవిశ్వాసం స్పష్టంగా కనిపించింది. అతను దీర్ఘంగా ఊపిరి పీల్చుకున్నాడు, తను కనుగొన్న సత్యాన్ని చెప్పడానికి సిద్ధంగా. \"మహారాజా, కనిపించని సంపద అంటే ప్రజల జ్ఞానం, దాతృత్వం, మరియు నిజాయితీ!\" అని గంభీరంగా ప్రకటించాడు. రాజుగారి పెదవుల మీద చిరునవ్వు విరిసింది — ఆయన నెమ్మదిగా తల ఊపాడు. కోశాధికారి తన సమాధానంతో రాజును మెప్పించినందుకు గర్వంగా నిలబడ్డాడు.",
+      "image_prompt": "The treasurer stands bravely and confidently before the King in the court. The King smiles and slowly nods his head, acknowledging the treasurer's profound answer. Also in this scene: The King is an elderly monarch with a wise and often playful demeanor. He wears robes of deep crimson and gold, a jeweled turban, and carries a staff topped with a carved lion's head. Always the same character across every scene. The throne room now illuminated by flickering oil lamps and torches, casting warm, dancing light that creates an intimate glow, signifying the end of the day and the successful conclusion.",
+      "scene_visual": "The treasurer stands bravely and confidently before the King in the court. The King smiles and slowly nods his head, acknowledging the treasurer's profound answer.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mahaaraaju Sabhalo, Koshaadhikaari Dhairyangaa Nilabaddaadu — Atani Mukhanlo Aatmavishvaasam Spashtangaa Kanipinchindi. Atanu Dirghangaa Upiri Pilchukunnaadu, Tanu Kanugonna Satyaanni Cheppadaaniki Siddhangaa. \"Mahaaraajaa, Kanipinchani Sampada Ante Prajala Jnyaanan, Daatrritvan, Mariyu Nijaayiti!\" Ani Gambhirangaa Prakatinchaadu. Raajugaari Pedavula Mida Chirunavvu Virisindi — Aayana Nemmadigaa Tala Upaadu. Koshaadhikaari Tana Samaadhaananto Raajunu Meppinchinanduku Garvangaa Nilabaddaadu.",
+      "text_en": "In the King's court, the treasurer stood bravely – confidence clearly visible on his face. He took a deep breath, ready to tell the truth he had discovered. \"Your Majesty, the invisible wealth is the people's wisdom, generosity, and honesty!\" he declared solemnly. A smile bloomed on the King's lips – he slowly nodded his head. The treasurer stood proudly, having pleased the King with his answer."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "old_scholar",
+      "description": "An ancient palace scholar, with a long white beard and spectacles perched on his nose. He wears simple, faded blue robes and always carries a worn, leather-bound book. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 5,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 7,
+    "average": 7.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story boasts a strong narrative arc and impeccable grammar, providing a solid foundation. The central riddle is engaging, and the resolution is satisfying. However, the story significantly lacks direct, character-specific dialogue, making many scenes feel like a report rather than an unfolding drama. Additionally, emotions are frequently stated directly instead of being shown through action or body language, which diminishes the emotional impact. To elevate this story to an award-worthy piece, the most crucial fix is to enrich character interactions with natural, scene-specific dialogue and consistently demonstrate emotions rather than merely telling them."
+  },
+  "quality_warning": true,
+  "title_te_en": "Koshaadhikaari Podupu Katha",
+  "moral_te_en": "Mana Hrridayaalloni Manchi Gunaalu, Manasuloni Telivitetale Nijamaina Sampada.",
+  "title_en": "The Treasurer's Riddle",
+  "moral_en": "True wealth is the kindness in our hearts and the wisdom in our minds.",
+  "id": "20260603_201429",
+  "date": "2026-06-03",
+  "category": "podupu",
+  "subcategory": "royal_riddles",
+  "topic": "రాజ కోశాధికారిని ఇబ్బంది పెట్టిన కనిపించని సంపద పొడుపు కథ",
+  "thumbnail": "stories/20260603_201429/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
