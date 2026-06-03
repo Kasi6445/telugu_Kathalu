@@ -1,0 +1,110 @@
+{
+  "title": "ఉద్ధవుని జ్ఞాన యాత్ర",
+  "moral": "నిజమైన జ్ఞానం కేవలం పుస్తకాలలో దొరకదు, అది ప్రేమ నిండిన హృదయం నుండి, దైవ అనుభవం ద్వారా మాత్రమే లభిస్తుంది.",
+  "main_character": "Uddhava: A wise and devoted minister and friend of Lord Krishna, known for his deep intellect and spiritual inclination. He has a calm demeanor and a constant thirst for ultimate truth. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The grand city of Dwarka, with its golden palaces and bustling markets, alongside the serene coastline of the Arabian Sea. The air carries the scent of salt and blooming jasmine, and the distant sound of conch shells. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఉద్ధవుడు, ద్వారకలోని జ్ఞాని, శ్రీకృష్ణుడి మంత్రిగా తన రోజులను శాస్త్రాలను అధ్యయనం చేస్తూ, సలహాలు ఇస్తూ గడిపేవాడు. అతని వేళ్ళు తాళపత్ర గ్రంథాలను మెల్లగా తిప్పుతుంటే, ఆ పాత కాగితాల సన్నని శబ్దం గదిలో నిశ్శబ్దంగా వినిపించేది. అతని కళ్ళల్లో జ్ఞాన కాంతి వెలిగినా, ఏదో అంతుచిక్కని ప్రశ్న అతని మనసును తొలిచేస్తూ ఉండేది. \"జ్ఞానము అంతులేనిది, కాని దాని లోతును నేను ఇంకా పూర్తిగా చేరలేదా?\" అని తనలో తాను అనుకునేవాడు. అతని మనసులో — ఏదో లోతైన శోధన. కంటి ముందున్న అక్షరాలు చెదరగా, అతని చూపులు రాజప్రాసాదపు గోడలను దాటి... ఎటో దూరాన ఏదో వెతుకుతున్నట్లుండేవి.",
+      "image_prompt": "The man sits, gently turning the pages of ancient palm-leaf manuscripts. His eyes, though illuminated with knowledge, gaze past the words on the page and out towards the distant palace walls. Soft morning light streaming through an open archway of a palace library, illuminating dust motes dancing in the golden beams.",
+      "scene_visual": "The man sits, gently turning the pages of ancient palm-leaf manuscripts. His eyes, though illuminated with knowledge, gaze past the words on the page and out towards the distant palace walls.",
+      "supporting_char_keys": [],
+      "text_te_en": "Uddhavudu, Dvaarakaloni Jnyaani, Shrikrrishnudi Mantrigaa Tana Rojulanu Shaastraalanu Adhyayanam Chestu, Salahaalu Istu Gadipevaadu. Atani Vellu Taalapatra Granthaalanu Mellagaa Tipputunte, Aa Paata Kaagitaala Sannani Shabdam Gadilo Nishshabdangaa Vinipinchedi. Atani Kallallo Jnyaana Kaanti Veliginaa, Edo Antuchikkani Prashna Atani Manasunu Tolichestu Undedi. \"Jnyaanamu Antulenidi, Kaani Daani Lotunu Nenu Inkaa Purtigaa Cheraledaa?\" Ani Tanalo Taanu Anukunevaadu. Atani Manasulo — Edo Lotaina Shodhana. Kanti Mundunna Aksharaalu Chedaragaa, Atani Chupulu Raajapraasaadapu Godalanu Daati... Eto Duraana Edo Vetukutunnatlundevi.",
+      "text_en": "Uddhava, a wise man in Dwarka, spent his days as Lord Krishna's minister, studying scriptures and giving advice. As his fingers gently turned the palm-leaf manuscripts, the soft rustle of the old papers quietly filled the room. Even though the light of knowledge shone in his eyes, some unanswered question kept bothering his mind. 'Knowledge is endless, but have I not yet fully reached its depths?' he would wonder to himself. In his heart, there was a deep search. As the letters before his eyes blurred, his gaze went beyond the palace walls... as if searching for something far away."
+    },
+    {
+      "id": 2,
+      "text": "ఆ రాజప్రాసాదం నుండి బయటకు వచ్చిన ఉద్ధవుడు, ద్వారక సందడి వీధుల్లో నడిచాడు. అక్కడ ప్రజలు నవ్వుతూ, ఏడుస్తూ, వ్యాపారాలు చేసుకుంటూ... జీవితాన్ని గడుపుతున్నారు. ఒక వీధి వ్యాపారి తీయని పిలుపు సముద్రపు గాలిలో కలిసిపోయి, దూరంగా వినిపించింది — అశాశ్వతమైన జీవితంలా. అతని హృదయంలో ఒక శూన్యత పెరిగింది, \"ఈ ప్రపంచములోని సుఖదుఃఖాలు ఎంత అశాశ్వతమైనవి!\" అని అనుకున్నాడు. శాశ్వతమైనది — ఏదీ కనిపించలేదు. అతని అడుగులు ముందుకు సాగుతున్నా, అతని మనసు మాత్రం శాశ్వతమైన సత్యాన్ని వెతుకుతూ... ఎక్కడో దూరాన ఉంది.",
+      "image_prompt": "The man walks through a crowded, bustling street filled with people engaged in daily life. His steps carry him forward, but his gaze is distant, seemingly searching beyond the immediate chaos of the market. Bright midday sun casting sharp shadows on the cobbled streets of Dwarka, reflecting off the white buildings, a sense of active life but an internal quiet for Uddhava.",
+      "scene_visual": "The man walks through a crowded, bustling street filled with people engaged in daily life. His steps carry him forward, but his gaze is distant, seemingly searching beyond the immediate chaos of the market.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raajapraasaadam Nundi Bayataku Vachchina Uddhavudu, Dvaaraka Sandadi Vidhullo Nadichaadu. Akkada Prajalu Navvutu, Edustu, Vyaapaaraalu Chesukuntu... Jivitaanni Gaduputunnaaru. Oka Vidhi Vyaapaari Tiyani Pilupu Samudrapu Gaalilo Kalisipoyi, Durangaa Vinipinchindi — Ashaashvatamaina Jivitanlaa. Atani Hrridayanlo Oka Shunyata Perigindi, \"I Prapanchamuloni Sukhaduhkhaalu Enta Ashaashvatamainavi!\" Ani Anukunnaadu. Shaashvatamainadi — Edi Kanipinchaledu. Atani Adugulu Munduku Saagutunnaa, Atani Manasu Maatram Shaashvatamaina Satyaanni Vetukutu... Ekkado Duraana Undi.",
+      "text_en": "Leaving the royal palace, Uddhava walked through the bustling streets of Dwarka. People there were laughing, crying, doing business... living their lives. A sweet call from a street vendor blended with the sea breeze and was heard far away — like the fleeting nature of life. A void grew in his heart, and he thought, 'How temporary are the joys and sorrows of this world!' Nothing eternal seemed to be found. Even as his feet moved forward, his mind was still searching for an eternal truth... somewhere far away."
+    },
+    {
+      "id": 3,
+      "text": "అంతటి అలజడితో, ఉద్ధవుడు చివరకు తన ప్రియ మిత్రుడు, దైవం అయిన శ్రీకృష్ణుడి దగ్గరికి వెళ్ళాడు. కృష్ణుడి వేణువు నుండి వచ్చే మధురమైన నాదం గదిని నింపింది, అతని మనసులోని అలజడిని శాంతింపజేసింది. ఉద్ధవుడు కృష్ణుడి పాదాల దగ్గర మోకరిల్లి, కళ్ళు మూసుకున్నాడు — అతని హృదయం ఆవేదనతో నిండిపోయింది. అదొక మౌన ప్రార్థన. \"ప్రభూ, ఈ అజ్ఞానపు తెరను తొలగించి నాకు నిజమైన జ్ఞానాన్ని ప్రసాదించండి,\" అని దీనంగా వేడుకున్నాడు. కృష్ణుడు ఉద్ధవుడి వైపు చూశాడు, అతని పెదవులపై చిరునవ్వు... ఆ కళ్ళల్లో అనంతమైన రహస్యాలు మెరిశాయి.",
+      "image_prompt": "The man kneels humbly at the feet of the divine figure, his eyes closed in silent prayer. The divine figure looks down at him with a gentle smile, infinite secrets sparkling in his eyes. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Golden hour light, warm and soft, illuminating a serene palace garden where Krishna sits under a blossoming tree, Uddhava kneeling respectfully before him.",
+      "scene_visual": "The man kneels humbly at the feet of the divine figure, his eyes closed in silent prayer. The divine figure looks down at him with a gentle smile, infinite secrets sparkling in his eyes.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Antati Alajadito, Uddhavudu Chivaraku Tana Priya Mitrudu, Daivam Ayina Shrikrrishnudi Daggariki Vellaadu. Krrishnudi Venuvu Nundi Vachche Madhuramaina Naadam Gadini Nimpindi, Atani Manasuloni Alajadini Shaantimpajesindi. Uddhavudu Krrishnudi Paadaala Daggara Mokarilli, Kallu Musukunnaadu — Atani Hrridayam Aavedanato Nindipoyindi. Adoka Mauna Praarthana. \"Prabhu, I Ajnyaanapu Teranu Tolaginchi Naaku Nijamaina Jnyaanaanni Prasaadinchandi,\" Ani Dinangaa Vedukunnaadu. Krrishnudu Uddhavudi Vaipu Chushaadu, Atani Pedavulapai Chirunavvu... Aa Kallallo Anantamaina Rahasyaalu Merishaayi.",
+      "text_en": "With all that turmoil, Uddhava finally went to his dear friend and God, Lord Krishna. The sweet melody from Krishna's flute filled the room, calming the unrest in Uddhava's mind. Uddhava knelt at Krishna's feet and closed his eyes — his heart filled with anguish. It was a silent prayer. 'Lord, please remove this veil of ignorance and grant me true knowledge,' he pleaded humbly. Krishna looked at Uddhava, a gentle smile on his lips... infinite secrets sparkled in his eyes."
+    },
+    {
+      "id": 4,
+      "text": "శ్రీకృష్ణుడు మెల్లగా మాట్లాడటం మొదలుపెట్టాడు, అతని మాటలు గంభీరంగా, తేలికగా ఉన్నాయి. కృష్ణుడి మెడలో ఉన్న తులసి మాల నుండి వచ్చే సువాసన గది అంతా నిండిపోయింది, ఉద్ధవుడి మనసును మరింత ప్రశాంతంగా మార్చింది. \"జ్ఞానము అంటే కేవలం పుస్తకాలలో ఉన్నది కాదు, అది నీ అంతరంగంలోనే ఉంది,\" అని కృష్ణుడు శాంతంగా బోధించాడు. అదొక దివ్యమైన అనుభూతి. ఆ దివ్యమైన మాటలు, ఆత్మ స్వరూపం, విశ్వ రహస్యాలు, భక్తి మార్గం గురించి ఉద్ధవుడికి కొత్త అర్థాన్ని చెప్పాయి. ఉద్ధవుడు కళ్ళు మూసుకుని విన్నాడు — అతని ముందు కొత్త ప్రపంచం తెరుచుకుంటున్నట్లుంది.",
+      "image_prompt": "The man sits with his eyes closed, listening intently as the divine figure speaks. The sweet fragrance of a tulasi garland around the divine figure's neck fills the air, enhancing the man's serene focus. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Deep twilight, with the first stars appearing, casting a soft, ethereal glow over the garden. The scene is quiet and contemplative, emphasizing the profound teaching.",
+      "scene_visual": "The man sits with his eyes closed, listening intently as the divine figure speaks. The sweet fragrance of a tulasi garland around the divine figure's neck fills the air, enhancing the man's serene focus.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Shrikrrishnudu Mellagaa Maatlaadatam Modalupettaadu, Atani Maatalu Gambhirangaa, Telikagaa Unnaayi. Krrishnudi Medalo Unna Tulasi Maala Nundi Vachche Suvaasana Gadi Antaa Nindipoyindi, Uddhavudi Manasunu Marinta Prashaantangaa Maarchindi. \"Jnyaanamu Ante Kevalam Pustakaalalo Unnadi Kaadu, Adi Ni Antaranganlone Undi,\" Ani Krrishnudu Shaantangaa Bodhinchaadu. Adoka Divyamaina Anubhuti. Aa Divyamaina Maatalu, Aatma Svarupan, Vishva Rahasyaalu, Bhakti Maargam Gurinchi Uddhavudiki Kotta Arthaanni Cheppaayi. Uddhavudu Kallu Musukuni Vinnaadu — Atani Mundu Kotta Prapancham Teruchukuntunnatlundi.",
+      "text_en": "Lord Krishna slowly began to speak; his words were profound yet gentle. The sweet scent from the Tulasi garland around Krishna's neck filled the entire room, making Uddhava's mind even more peaceful. 'Knowledge is not just what is in books; it is within you,' Krishna taught calmly. It was a divine experience. Those divine words gave Uddhava new meaning about the nature of the soul, the secrets of the universe, and the path of devotion. Uddhava listened with his eyes closed — it was as if a new world was opening before him."
+    },
+    {
+      "id": 5,
+      "text": "కృష్ణుడి మాటలను హృదయంలో నింపుకున్న ఉద్ధవుడు, తన గదికి తిరిగి వచ్చి ధ్యానంలో కూర్చున్నాడు. అతను కూర్చున్న రాతి నేల చల్లదనం అతని శరీరానికి హాయినిచ్చింది, మనసులోని ఆలోచనలను ఒకచోట కేంద్రీకరించింది. \"అది కేవలం వినడం కాదు, దానిని అనుభవించాలి,\" అని కృష్ణుడి మాటలు అతని మనసులో ప్రతిధ్వనించాయి. అతని లోపల — ఒక కొత్త వెలుగు. జ్ఞానం అంటే కేవలం బుద్ధికి సంబంధించినది కాదని, అది హృదయం నుండి అనుభవించాల్సిన సత్యమని గ్రహించాడు. ఒక మెల్లని గాలి వీచింది, చెట్ల ఆకులు సన్నగా కదిలాయి — అతని అంతరంగంలో ఒక గొప్ప మార్పు మొదలైంది.",
+      "image_prompt": "The man sits in meditation on a cool stone floor in his room, concentrating his thoughts. A gentle breeze rustles the leaves of nearby trees, mirroring the subtle shift beginning within him. Pre-dawn light, a soft blue-grey, filtering into a quiet chamber where Uddhava sits in meditation. A single oil lamp flickers gently, casting long, dancing shadows.",
+      "scene_visual": "The man sits in meditation on a cool stone floor in his room, concentrating his thoughts. A gentle breeze rustles the leaves of nearby trees, mirroring the subtle shift beginning within him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnudi Maatalanu Hrridayanlo Nimpukunna Uddhavudu, Tana Gadiki Tirigi Vachchi Dhyaananlo Kurchunnaadu. Atanu Kurchunna Raati Nela Challadanam Atani Shariraaniki Haayinichchindi, Manasuloni Aalochanalanu Okachota Kendrikarinchindi. \"Adi Kevalam Vinadam Kaadu, Daanini Anubhavinchaali,\" Ani Krrishnudi Maatalu Atani Manasulo Pratidhvaninchaayi. Atani Lopala — Oka Kotta Velugu. Jnyaanam Ante Kevalam Buddhiki Sambandhinchinadi Kaadani, Adi Hrridayam Nundi Anubhavinchaalsina Satyamani Grahinchaadu. Oka Mellani Gaali Vichindi, Chetla Aakulu Sannagaa Kadilaayi — Atani Antaranganlo Oka Goppa Maarpu Modalaindi.",
+      "text_en": "Uddhava, taking Krishna's words to heart, returned to his room and sat in meditation. The coolness of the stone floor he sat on brought comfort to his body and helped focus the thoughts in his mind. 'It's not just about hearing it; you must experience it,' Krishna's words echoed in his mind. Inside him — a new light. He realized that knowledge was not just intellectual; it was a truth to be experienced from the heart. A gentle breeze blew, and the tree leaves rustled softly — a great change began within him."
+    },
+    {
+      "id": 6,
+      "text": "ఉద్ధవుడి భక్తి, జ్ఞాన సముపార్జన చూసిన కృష్ణుడు, అతని అంతరంగంలోకి ప్రవేశించాడు. ఒక్కసారిగా — దివ్య కాంతి వెలిగింది. కృష్ణుడి రూపం నుండి ఒక దివ్యమైన, వెచ్చని కాంతి వెలువడింది, గది అంతా నిండిపోయింది. \"నీ హృదయంలోనే నీవు వెతుకుతున్న సత్యం ఉంది,\" అని కృష్ణుడి గంభీరమైన స్వరం వినిపించింది. ఉద్ధవుడి కళ్ళు పెద్దవయ్యాయి, అతను కృష్ణుడిలో యావత్ విశ్వాన్ని చూశాడు — తాను కూడా ఆ విశ్వంలో ఒక భాగమని గ్రహించాడు. అదొక అద్భుతమైన దివ్య దర్శనం, అతని హృదయాన్ని అనంతమైన శాంతితో నింపింది.",
+      "image_prompt": "The man's eyes widen as a divine, warm light emanates from the figure, filling the entire room. Within that radiant glow, he perceives the entire universe contained within the divine figure. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Divine radiance, a brilliant golden-white light emanating from Krishna, illuminating Uddhava's face with a sublime glow. The background softens into a luminous haze, focusing entirely on the divine interaction.",
+      "scene_visual": "The man's eyes widen as a divine, warm light emanates from the figure, filling the entire room. Within that radiant glow, he perceives the entire universe contained within the divine figure.",
+      "supporting_char_keys": [
+        "Krishna"
+      ],
+      "text_te_en": "Uddhavudi Bhakti, Jnyaana Samupaarjana Chusina Krrishnudu, Atani Antaranganloki Praveshinchaadu. Okkasaarigaa — Divya Kaanti Veligindi. Krrishnudi Rupam Nundi Oka Divyamaina, Vechchani Kaanti Veluvadindi, Gadi Antaa Nindipoyindi. \"Ni Hrridayanlone Nivu Vetukutunna Satyam Undi,\" Ani Krrishnudi Gambhiramaina Svaram Vinipinchindi. Uddhavudi Kallu Peddavayyaayi, Atanu Krrishnudilo Yaavat Vishvaanni Chushaadu — Taanu Kudaa Aa Vishvanlo Oka Bhaagamani Grahinchaadu. Adoka Adbhutamaina Divya Darshanan, Atani Hrridayaanni Anantamaina Shaantito Nimpindi.",
+      "text_en": "Seeing Uddhava's devotion and quest for knowledge, Krishna entered his inner being. All at once — a divine light shone. A divine, warm light emanated from Krishna's form, filling the entire room. 'The truth you are searching for is within your own heart,' Krishna's profound voice was heard. Uddhava's eyes widened; he saw the entire universe within Krishna — and realized that he too was a part of that universe. It was a wonderful divine vision that filled his heart with infinite peace."
+    },
+    {
+      "id": 7,
+      "text": "కృష్ణుడి దివ్య బోధనల వల్ల పూర్తిగా మారిపోయిన ఉద్ధవుడు, ప్రపంచమంతా ప్రయాణించాడు. అతను నడిచే మార్గంలో సూర్యుని వెచ్చని కిరణాలు అతని ముఖాన్ని తాకాయి, అతని పెదవులపై శాంతమైన చిరునవ్వు మెరిసింది. అతని జీవితం — ఒక దీపమై వెలిగింది. \"జ్ఞానము ప్రేమతో కూడినది అయినప్పుడు, అది నిజమైన ముక్తిని ప్రసాదిస్తుంది,\" అని అతను కలిసిన ప్రతి ఒక్కరికీ బోధించాడు. అతని మాటలు ఎందరికో మార్గాన్ని చూపించాయి, హృదయాలను ప్రశాంతంగా మార్చాయి. అతను కేవలం జ్ఞానాన్ని పంచడమే కాదు, ప్రేమను, భక్తిని, ఆత్మ సాక్షాత్కారాన్ని కూడా పంచాడు — అదొక దివ్యమైన ప్రయాణం.",
+      "image_prompt": "The man travels across the world, walking along a path. Warm sunbeams touch his face, illuminating a peaceful smile on his lips as he shares his wisdom. Warm, gentle dusk light, amber and purple hues painting the sky as Uddhava walks along a path, his figure silhouetted against the horizon, conveying peace and purpose.",
+      "scene_visual": "The man travels across the world, walking along a path. Warm sunbeams touch his face, illuminating a peaceful smile on his lips as he shares his wisdom.",
+      "supporting_char_keys": [],
+      "text_te_en": "Krrishnudi Divya Bodhanala Valla Purtigaa Maaripoyina Uddhavudu, Prapanchamantaa Prayaaninchaadu. Atanu Nadiche Maarganlo Suryuni Vechchani Kiranaalu Atani Mukhaanni Taakaayi, Atani Pedavulapai Shaantamaina Chirunavvu Merisindi. Atani Jivitam — Oka Dipamai Veligindi. \"Jnyaanamu Premato Kudinadi Ayinappudu, Adi Nijamaina Muktini Prasaadistundi,\" Ani Atanu Kalisina Prati Okkariki Bodhinchaadu. Atani Maatalu Endariko Maargaanni Chupinchaayi, Hrridayaalanu Prashaantangaa Maarchaayi. Atanu Kevalam Jnyaanaanni Panchadame Kaadu, Premanu, Bhaktini, Aatma Saakshaatkaaraanni Kudaa Panchaadu — Adoka Divyamaina Prayaanan.",
+      "text_en": "Completely transformed by Krishna's divine teachings, Uddhava traveled all over the world. As he walked, the warm rays of the sun touched his face, and a peaceful smile shone on his lips. His life — became a shining lamp. 'When knowledge is filled with love, it grants true liberation,' he taught everyone he met. His words showed the way to many and brought peace to their hearts. He not only shared knowledge but also love, devotion, and self-realization — it was a divine journey."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Krishna",
+      "description": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 5.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 4,
+    "dialogue_richness": 1,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 1,
+    "average": 5.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc and impeccable grammar, making it a well-structured piece of writing. However, its formal, abstract language and complete lack of direct dialogue severely hinder its suitability for a young audience. To transform this into an award-worthy children's story, the most crucial step is to rewrite it with simple, direct language, incorporate vivid character-specific dialogue, and introduce elements that actively engage a child's imagination and curiosity."
+  },
+  "quality_warning": true,
+  "title_te_en": "Uddhavuni Jnyaana Yaatra",
+  "moral_te_en": "Nijamaina Jnyaanam Kevalam Pustakaalalo Dorakadu, Adi Prema Nindina Hrridayam Nundi, Daiva Anubhavam Dvaaraa Maatrame Labhistundi.",
+  "title_en": "Uddhava's Journey of Wisdom",
+  "moral_en": "True knowledge is not found only in books; it comes from a heart full of love and is attained only through divine experience.",
+  "id": "20260603_131312",
+  "date": "2026-06-03",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "ఉద్ధవుని జ్ఞాన సముపార్జన - కృష్ణుని నుండి పొందిన దివ్య బోధ",
+  "thumbnail": "stories/20260603_131312/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
