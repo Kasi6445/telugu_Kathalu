@@ -1,0 +1,123 @@
+{
+  "title": "రాముడి పాదస్పర్శ, అహల్యకి శాంతి",
+  "moral": "చిన్న కరుణ కూడా, ఎన్నో సంవత్సరాల చీకటిని దూరం చేస్తుంది.",
+  "main_character": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A quiet, ancient forest in the region of Mithila, along a winding path leading to a secluded ashram. Tall, gnarled trees with thick foliage cast deep shadows, and the air is filled with the scent of wild jasmine. The ashram itself is overgrown with vines, hinting at long disuse. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విశ్వామిత్ర మహర్షి ముందు నడుస్తుంటే, రాముడు, లక్ష్మణుడు ఆయన అడుగుజాడల్లో నడిచారు. వారి అడుగుల కింద ఎండిన ఆకులు మెల్లగా కిచకిచలాడాయి — ఆ అడవి నిశ్శబ్దానికి అదే జీవం. రాముడు గురుదేవుడి వైపు చూశాడు, ఆయన ముఖంలో ఏదో తెలియని గంభీరత కనిపించింది. \"గురుదేవా, ఈ మార్గం ఎక్కడికి దారితీస్తుంది?\" అని రాముడు వినయంగా అడిగాడు. అప్పుడు విశ్వామిత్రుడు దూరాన ఉన్న ఒక పాడుబడిన ఆశ్రమం వైపు వేలు చూపించాడు. ఆ ఆశ్రమం దట్టమైన తీగలతో కప్పబడి, కాలం మర్చిపోయినట్లు నిశ్శబ్దంగా నిలిచి ఉంది. రాముడి చూపులు ఆ ఆశ్రమం మీద నిలిచాయి, ఏదో రహస్యం అక్కడ దాగి ఉన్నట్లు.",
+      "image_prompt": "The old man extends his arm, pointing his finger towards a distant, ruined ashram. The ashram is heavily covered in dense vines, appearing forgotten and silent. SUPPORTING CHARACTER also in this scene: Vishwamitra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Dappled sunlight filtering through thick forest canopy, creating moving patterns of light and shadow on the path, warm and inviting.",
+      "scene_visual": "The old man extends his arm, pointing his finger towards a distant, ruined ashram. The ashram is heavily covered in dense vines, appearing forgotten and silent.",
+      "supporting_char_keys": [
+        "lakshmana",
+        "vishwamitra"
+      ],
+      "text_te_en": "Vishvaamitra Maharshi Mundu Nadustunte, Raamudu, Lakshmanudu Aayana Adugujaadallo Nadichaaru. Vaari Adugula Kinda Endina Aakulu Mellagaa Kichakichalaadaayi — Aa Adavi Nishshabdaaniki Ade Jivan. Raamudu Gurudevudi Vaipu Chushaadu, Aayana Mukhanlo Edo Teliyani Gambhirata Kanipinchindi. \"Gurudevaa, I Maargam Ekkadiki Daaritistundi?\" Ani Raamudu Vinayangaa Adigaadu. Appudu Vishvaamitrudu Duraana Unna Oka Paadubadina Aashramam Vaipu Velu Chupinchaadu. Aa Aashramam Dattamaina Tigalato Kappabadi, Kaalam Marchipoyinatlu Nishshabdangaa Nilichi Undi. Raamudi Chupulu Aa Aashramam Mida Nilichaayi, Edo Rahasyam Akkada Daagi Unnatlu.",
+      "text_en": "As Vishwamitra Maharshi walked ahead, Ramu and Lakshmana followed in his footsteps. The dry leaves under their feet gently rustled — that was the only sound in the silent forest. Ramu looked at his Guru, and saw an unknown seriousness on his face. \"Gurudeva, where does this path lead?\" Ramu asked respectfully. Then Vishwamitra pointed his finger towards a ruined ashram in the distance. The ashram was covered in thick vines, standing silently as if forgotten by time. Ramu's gaze fixed on the ashram, as if a secret was hidden there."
+    },
+    {
+      "id": 2,
+      "text": "విశ్వామిత్రుడు చూపించిన ఆశ్రమం దగ్గరికి రాగానే, వాతావరణం ఒక్కసారిగా మారిపోయింది. గాలిలో ఏదో దిగులు ఆవరించినట్లు, పక్షుల కిచకిచలు కూడా మెల్లగా వినిపించాయి. ఆ పాడుబడిన ఆశ్రమం నిశ్శబ్దం, రాముడి మనసులో ఏదో కదిలించింది. విశ్వామిత్రుడు నెమ్మదిగా మొదలుపెట్టాడు: \"రామా, ఈ ఆశ్రమం ఒక గొప్ప అన్యాయానికి సాక్షి.\" ఆ మాటలకు రాముడి కళ్ళు జాలిగా మారాయి, ఆయన గుండెలో ఏదో తెలియని బాధ మొదలైంది. ఆశ్రమం ప్రవేశం దగ్గర, నాచు పట్టిన ఒక రాయి మీద రాముడి చూపులు పడ్డాయి — అదో మామూలు రాయి కాదు. ఆ రాయి ఏదో కథ చెప్పాలని చూస్తున్నట్లు, రాముడిని తనవైపు లాగుతున్నట్లు అనిపించింది.",
+      "image_prompt": "The boy's eyes are drawn to a moss-covered stone near the entrance of the dilapidated ashram. The stone appears to be silently beckoning him, holding an unspoken story. SUPPORTING CHARACTER also in this scene: Vishwamitra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Late afternoon light, soft and melancholic, casting long shadows from the ancient trees onto the neglected ashram, creating a somber mood.",
+      "scene_visual": "The boy's eyes are drawn to a moss-covered stone near the entrance of the dilapidated ashram. The stone appears to be silently beckoning him, holding an unspoken story.",
+      "supporting_char_keys": [
+        "lakshmana",
+        "vishwamitra"
+      ],
+      "text_te_en": "Vishvaamitrudu Chupinchina Aashramam Daggariki Raagaane, Vaataavaranam Okkasaarigaa Maaripoyindi. Gaalilo Edo Digulu Aavarinchinatlu, Pakshula Kichakichalu Kudaa Mellagaa Vinipinchaayi. Aa Paadubadina Aashramam Nishshabdan, Raamudi Manasulo Edo Kadilinchindi. Vishvaamitrudu Nemmadigaa Modalupettaadu: \"Raamaa, I Aashramam Oka Goppa Anyaayaaniki Saakshi.\" Aa Maatalaku Raamudi Kallu Jaaligaa Maaraayi, Aayana Gundelo Edo Teliyani Baadha Modalaindi. Aashramam Pravesham Daggara, Naachu Pattina Oka Raayi Mida Raamudi Chupulu Paddaayi — Ado Maamulu Raayi Kaadu. Aa Raayi Edo Katha Cheppaalani Chustunnatlu, Raamudini Tanavaipu Laagutunnatlu Anipinchindi.",
+      "text_en": "As they neared the ashram Vishwamitra had pointed to, the atmosphere suddenly changed. A sadness seemed to hang in the air, and even the chirping of birds was soft. The silence of the ruined ashram stirred something in Ramu's heart. Vishwamitra slowly began: \"Ramu, this ashram is a witness to a great injustice.\" At these words, Ramu's eyes filled with pity, and an unknown sorrow began in his heart. Near the entrance of the ashram, Ramu's gaze fell upon a moss-covered stone — it was no ordinary stone. The stone seemed to want to tell a story, pulling Ramu towards it."
+    },
+    {
+      "id": 3,
+      "text": "ఆ రాయి తనను పిలుస్తున్నట్లు అనిపించగా, రాముడు మెల్లగా దాని దగ్గరికి నడిచాడు. నాచు పట్టిన ఆ రాతిని చూస్తుంటే, రాముడి మనసులో ఎన్నో ప్రశ్నలు మొదలయ్యాయి. ఆ రాయి నుండి ఏదో చెప్పలేని దుఃఖం, ఒక నిశ్శబ్దమైన ఆవేదన వెలువడుతున్నట్లు అనిపించింది. రాముడు చేయి చాచి, ఆ చల్లని, గరుకు రాయిని తాకబోయి — ఒక్క క్షణం ఆగిపోయాడు. \"గురుదేవా, నా స్పర్శతో ఈ కష్టాన్ని ఎలా తీర్చగలను?\" అని రాముడు కొంచెం సందేహంగా అడిగాడు. విశ్వామిత్రుడు రాముడి వైపు చూసి, పెదవులపై చిరునవ్వుతో తల ఊపాడు. ఆయన కళ్ళలో ఒక రహస్యం, ఒక నమ్మకం కనిపించాయి, రాముడికి ధైర్యం చెప్పినట్లు.",
+      "image_prompt": "The old man looks at the boy and nods his head with a gentle smile. A secret and confidence are visible in the old man's eyes, reassuring the boy. SUPPORTING CHARACTER also in this scene: Vishwamitra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A soft, ethereal glow seems to emanate faintly from the stone itself, contrasting with the fading daylight, creating a moment of quiet magic.",
+      "scene_visual": "The old man looks at the boy and nods his head with a gentle smile. A secret and confidence are visible in the old man's eyes, reassuring the boy.",
+      "supporting_char_keys": [
+        "lakshmana",
+        "vishwamitra"
+      ],
+      "text_te_en": "Aa Raayi Tananu Pilustunnatlu Anipinchagaa, Raamudu Mellagaa Daani Daggariki Nadichaadu. Naachu Pattina Aa Raatini Chustunte, Raamudi Manasulo Enno Prashnalu Modalayyaayi. Aa Raayi Nundi Edo Cheppaleni Duhkhan, Oka Nishshabdamaina Aavedana Veluvadutunnatlu Anipinchindi. Raamudu Cheyi Chaachi, Aa Challani, Garuku Raayini Taakaboyi — Okka Kshanam Aagipoyaadu. \"Gurudevaa, Naa Sparshato I Kashtaanni Elaa Tirchagalanu?\" Ani Raamudu Konchem Sandehangaa Adigaadu. Vishvaamitrudu Raamudi Vaipu Chusi, Pedavulapai Chirunavvuto Tala Upaadu. Aayana Kallalo Oka Rahasyan, Oka Nammakam Kanipinchaayi, Raamudiki Dhairyam Cheppinatlu.",
+      "text_en": "Feeling as if the stone was calling him, Ramu slowly walked towards it. Looking at the moss-covered stone, many questions began in Ramu's mind. An unspeakable sorrow, a silent anguish, seemed to emanate from the stone. Ramu reached out his hand to touch the cold, rough stone — and paused for a moment. \"Gurudeva, how can I remove this suffering with my touch?\" Ramu asked with a little doubt. Vishwamitra looked at Ramu and nodded with a gentle smile on his lips. In his eyes, a secret and a belief were visible, as if reassuring Ramu."
+    },
+    {
+      "id": 4,
+      "text": "విశ్వామిత్రుడి కళ్ళలోని ఆ నమ్మకం చూసి, రాముడి మనసు నిశ్చలమైంది. ఒక క్షణం కూడా ఆలస్యం చేయకుండా, రాముడు దృఢంగా ముందడుగు వేశాడు. ఆయన ముఖంలో కరుణ, సంకల్పం రెండూ స్పష్టంగా కనిపించాయి. \"తమరి ఆదేశం శిరసావహిస్తాను, గురుదేవా,\" అంటూ రాముడు ఆ నాచు రాయిపై తన పాదాన్ని మెల్లగా ఉంచాడు. అదే క్షణంలో — భూమి మెల్లగా కంపించినట్లు అనిపించింది, ఒక దివ్యమైన శబ్దం మొదలైంది. ఆ రాయి నుండి ఒక అద్భుతమైన, బంగారు కాంతి ఒక్కసారిగా వెలిగిపోయింది. ఆ కాంతి ఆశ్రమం అంతటినీ కమ్మేసింది, చుట్టూ ఉన్న చీకటిని తరిమేస్తూ.",
+      "image_prompt": "The boy gently places his foot upon the moss-covered stone. Immediately, a magnificent golden light bursts forth from the stone, illuminating the entire ashram. SUPPORTING CHARACTER also in this scene: Vishwamitra — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The scene brightens dramatically with a sudden burst of golden light radiating from Rama's foot on the stone, illuminating the dark corners of the ashram.",
+      "scene_visual": "The boy gently places his foot upon the moss-covered stone. Immediately, a magnificent golden light bursts forth from the stone, illuminating the entire ashram.",
+      "supporting_char_keys": [
+        "lakshmana",
+        "vishwamitra"
+      ],
+      "text_te_en": "Vishvaamitrudi Kallaloni Aa Nammakam Chusi, Raamudi Manasu Nishchalamaindi. Oka Kshanam Kudaa Aalasyam Cheyakundaa, Raamudu Drridhangaa Mundadugu Veshaadu. Aayana Mukhanlo Karuna, Sankalpam Rendu Spashtangaa Kanipinchaayi. \"Tamari Aadesham Shirasaavahistaanu, Gurudevaa,\" Antu Raamudu Aa Naachu Raayipai Tana Paadaanni Mellagaa Unchaadu. Ade Kshananlo — Bhumi Mellagaa Kampinchinatlu Anipinchindi, Oka Divyamaina Shabdam Modalaindi. Aa Raayi Nundi Oka Adbhutamaina, Bangaaru Kaanti Okkasaarigaa Veligipoyindi. Aa Kaanti Aashramam Antatini Kammesindi, Chuttu Unna Chikatini Tarimestu.",
+      "text_en": "Seeing the belief in Vishwamitra's eyes, Ramu's mind became calm and steady. Without a moment's delay, Ramu stepped forward firmly. Both compassion and determination were clearly visible on his face. \"I will obey your command, Gurudeva,\" Ramu said, and gently placed his foot on the moss-covered stone. At that very moment — the earth seemed to tremble gently, and a divine sound began. From the stone, a wonderful, golden light suddenly shone forth. That light enveloped the entire ashram, chasing away the surrounding darkness."
+    },
+    {
+      "id": 5,
+      "text": "ఆ బంగారు కాంతి మధ్య నుండి, ఒక దివ్యమైన రూపం మెల్లగా బయటపడింది. అది అహల్యా దేవి — ఆమె కళ్ళలో కృతజ్ఞత, ఆనందం కలిసిన కన్నీళ్ళు ధారగా కారాయి. ఆ చుట్టూ ఉన్న వాతావరణంలో మల్లెల, కలువ పూల సువాసన ఒక్కసారిగా నిండిపోయింది. ఆమెను చూస్తుండగానే, రాముడి పాదం కింద ఉన్న రాయి — మెల్లగా కాంతిలోకి మారి, గాలిలో కలిసిపోయింది. \"నా శాపవిమోచనం జరిగింది! ధన్యవాదాలు, ప్రభు!\" అని ఆమె గద్గద స్వరంతో పలికింది. ఆమె చేతులు వాటంతట అవే రాముడికి నమస్కరించడానికి జోడించబడ్డాయి. — నీకు తెలుసా, అప్పుడు ఆ ఆశ్రమంలో అద్భుతం జరిగింది!",
+      "image_prompt": "A divine female figure slowly emerges from the golden light, her hands joining together in a gesture of reverence. Tears of gratitude and joy stream down her face. SUPPORTING CHARACTER also in this scene: Ahalya — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A soft, radiant white light surrounds Ahalya, making her glow, while the rest of the ashram is bathed in a warm, gentle golden hour light, signifying peace.",
+      "scene_visual": "A divine female figure slowly emerges from the golden light, her hands joining together in a gesture of reverence. Tears of gratitude and joy stream down her face.",
+      "supporting_char_keys": [
+        "lakshmana",
+        "vishwamitra",
+        "ahalya"
+      ],
+      "text_te_en": "Aa Bangaaru Kaanti Madhya Nundi, Oka Divyamaina Rupam Mellagaa Bayatapadindi. Adi Ahalyaa Devi — Aame Kallalo Krritajnyata, Aanandam Kalisina Kannillu Dhaaragaa Kaaraayi. Aa Chuttu Unna Vaataavarananlo Mallela, Kaluva Pula Suvaasana Okkasaarigaa Nindipoyindi. Aamenu Chustundagaane, Raamudi Paadam Kinda Unna Raayi — Mellagaa Kaantiloki Maari, Gaalilo Kalisipoyindi. \"Naa Shaapavimochanam Jarigindi! Dhanyavaadaalu, Prabhu!\" Ani Aame Gadgada Svaranto Palikindi. Aame Chetulu Vaatantata Ave Raamudiki Namaskarinchadaaniki Jodinchabaddaayi. — Niku Telusaa, Appudu Aa Aashramanlo Adbhutam Jarigindi!",
+      "text_en": "From the midst of that golden light, a divine form slowly emerged. It was Ahalya Devi — tears of gratitude and joy streamed from her eyes. The air around them was suddenly filled with the fragrance of jasmine and lotus flowers. As she watched, the stone under Ramu's foot — slowly turned into light and merged with the air. \"My curse has been lifted! Thank you, Lord!\" she said in a choked voice. Her hands automatically joined together to greet Ramu. — Do you know, a miracle happened in that ashram then!"
+    },
+    {
+      "id": 6,
+      "text": "అహల్య రాముడికి, లక్ష్మణుడికి, విశ్వామిత్రుడికి భక్తితో నమస్కరించింది. రాముడు ప్రశాంతమైన చిరునవ్వుతో ఆమె ఆశీర్వాదాలను స్వీకరించాడు. \"మీ దివ్య స్పర్శతో ఈ లోకం ధర్మబద్ధమైంది,\" అని అహల్య దీవించింది, ఆమె ముఖంలో శాంతి వెల్లివిరిసింది. ఆ ఆశ్రమం చుట్టూ ఉన్న చెట్ల ఆకులు — అప్పుడే కొత్తగా ప్రాణం పోసుకున్నట్లు, సన్నటి గాలికి మెల్లగా కదిలాయి. విశ్వామిత్రుడు రాముడి వైపు గర్వంగా చూశాడు, తన శిష్యుడి గొప్పతనాన్ని తలచుకుంటూ. అప్పుడు రాముడు, లక్ష్మణుడు, విశ్వామిత్రుడు ఆ ఆశ్రమం నుండి తమ ప్రయాణాన్ని తిరిగి కొనసాగించారు. వారి అడుగులు ధర్మ మార్గంలో ముందుకు సాగుతూ, మరొక అద్భుతం వైపు పయనించాయి.",
+      "image_prompt": "The old man gazes proudly at the boy, a look of admiration on his face. The leaves on the surrounding trees gently sway in a light breeze, appearing newly alive. SUPPORTING CHARACTER also in this scene: Ahalya — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle dusk light, warm amber, painting the ashram in peaceful hues as the sun sets, symbolizing a new beginning and serenity.",
+      "scene_visual": "The old man gazes proudly at the boy, a look of admiration on his face. The leaves on the surrounding trees gently sway in a light breeze, appearing newly alive.",
+      "supporting_char_keys": [
+        "lakshmana",
+        "vishwamitra",
+        "ahalya"
+      ],
+      "text_te_en": "Ahalya Raamudiki, Lakshmanudiki, Vishvaamitrudiki Bhaktito Namaskarinchindi. Raamudu Prashaantamaina Chirunavvuto Aame Aashirvaadaalanu Svikarinchaadu. \"Mi Divya Sparshato I Lokam Dharmabaddhamaindi,\" Ani Ahalya Divinchindi, Aame Mukhanlo Shaanti Vellivirisindi. Aa Aashramam Chuttu Unna Chetla Aakulu — Appude Kottagaa Praanam Posukunnatlu, Sannati Gaaliki Mellagaa Kadilaayi. Vishvaamitrudu Raamudi Vaipu Garvangaa Chushaadu, Tana Shishyudi Goppatanaanni Talachukuntu. Appudu Raamudu, Lakshmanudu, Vishvaamitrudu Aa Aashramam Nundi Tama Prayaanaanni Tirigi Konasaaginchaaru. Vaari Adugulu Dharma Maarganlo Munduku Saagutu, Maroka Adbhutam Vaipu Payaninchaayi.",
+      "text_en": "Ahalya bowed respectfully to Ramu, Lakshmana, and Vishwamitra. Ramu accepted her blessings with a peaceful smile. \"With your divine touch, this world has become righteous,\" Ahalya blessed, and peace bloomed on her face. The leaves of the trees around the ashram — as if newly brought to life, gently swayed in the soft breeze. Vishwamitra looked proudly at Ramu, remembering his disciple's greatness. Then Ramu, Lakshmana, and Vishwamitra continued their journey from the ashram. Their footsteps moved forward on the path of righteousness, heading towards another miracle."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "vishwamitra",
+      "description": "An ancient, revered sage with a long white beard and matted hair, wearing simple saffron robes. His eyes hold immense wisdom and a gentle sternness. Always the same character across every scene."
+    },
+    {
+      "key": "ahalya",
+      "description": "A serene woman with a radiant complexion, wearing simple white garments. Her eyes reflect deep sorrow initially, then profound peace and devotion. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 5.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 6,
+    "child_engagement": 4,
+    "average": 5.67,
+    "weakest_dimension": "child_engagement",
+    "notes": "The story is grammatically flawless and presents a classic tale with a clear narrative. However, its formal, descriptive prose and minimal dialogue significantly hinder its appeal to a young audience. To achieve a higher score, the author must transform the narrative voice into a warm, conversational tone, enrich character interactions with more distinct and natural dialogue, and actively weave in elements that directly engage a child's imagination and curiosity from the beginning."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamudi Paadasparsha, Ahalyaki Shaanti",
+  "moral_te_en": "Chinna Karuna Kudaa, Enno Sanvatsaraala Chikatini Duram Chestundi.",
+  "title_en": "Ramu's Foot-Touch, Ahalya's Peace",
+  "moral_en": "Even a small act of kindness can drive away many years of darkness.",
+  "id": "20260603_121237",
+  "date": "2026-06-03",
+  "category": "ramayana",
+  "subcategory": "courage_tales",
+  "topic": "అహల్య శాపవిమోచనం - రాముని దివ్య స్పర్శ",
+  "thumbnail": "stories/20260603_121237/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
