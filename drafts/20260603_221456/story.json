@@ -1,0 +1,97 @@
+{
+  "title": "దయకు మోగే గ్రామ గంట",
+  "moral": "చిన్న చిన్న మంచి పనులు కూడా, అవి ఎవరూ చూడకపోయినా, అద్భుతమైన మార్పులు తీసుకువస్తాయి.",
+  "main_character": "Rama is a slender, quiet boy of eight with kind, observant eyes and perpetually dusty bare feet. He often wears a simple, patched white dhoti and a faded blue shirt. He has a habit of humming softly to himself when he's thinking. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The village of 'Grama Ghanta' in rural Andhra Pradesh. It features mud-plastered houses with thatched roofs, a large ancient banyan tree in the village square, and a small, weathered stone temple with the legendary bell tower beside it. The scene is typically set in the late morning or early afternoon, bathed in warm sunlight. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గ్రామ గంట అనే పల్లెటూరిలో, ఎనిమిదేళ్ల రాము పొలాల గట్ల వెంట నడుస్తున్నాడు. తల్లి నుండి తప్పిపోయి, భయంతో అటూ ఇటూ పరుగులు పెడుతున్న ఒక చిన్న మేకపిల్లను చూశాడు. రాము దాని దగ్గరకు మెల్లగా వెళ్లి, తన చేతికి తగిలిన ఆ వెచ్చని, గరుకు బొచ్చును నిమిరాడు. \"భయపడకు చిన్నారి, నీ అమ్మ ఇక్కడే ఉంది,\" అని మెల్లగా ఊరడించాడు. అది తన తల్లి దగ్గరకు చేరగానే, రాము పెదవులపై ఒక మృదువైన చిరునవ్వు విరిసింది. — ఎవరూ చూడలేదు. అప్పుడు రాము దృష్టి, దూరంగా నిశ్శబ్దంగా నిలబడిన ఆ గ్రామ గంట గోపురం మీద పడింది.",
+      "image_prompt": "The boy gently kneels beside a small lamb, stroking its fur with his hand. A soft smile spreads across his lips as the lamb reunites with its mother. Bright, clear morning sun filtering through the banyan tree leaves, casting dappled light on the dusty village path, feeling serene and ordinary.",
+      "scene_visual": "The boy gently kneels beside a small lamb, stroking its fur with his hand. A soft smile spreads across his lips as the lamb reunites with its mother.",
+      "supporting_char_keys": [],
+      "text_te_en": "Graama Ganta Ane Palleturilo, Enimidella Raamu Polaala Gatla Venta Nadustunnaadu. Talli Nundi Tappipoyi, Bhayanto Atu Itu Parugulu Pedutunna Oka Chinna Mekapillanu Chushaadu. Raamu Daani Daggaraku Mellagaa Velli, Tana Chetiki Tagilina Aa Vechchani, Garuku Bochchunu Nimiraadu. \"Bhayapadaku Chinnaari, Ni Amma Ikkade Undi,\" Ani Mellagaa Uradinchaadu. Adi Tana Talli Daggaraku Cheragaane, Raamu Pedavulapai Oka Mrriduvaina Chirunavvu Virisindi. — Evaru Chudaledu. Appudu Raamu Drrishti, Durangaa Nishshabdangaa Nilabadina Aa Graama Ganta Gopuram Mida Padindi.",
+      "text_en": "In a village called Grama Ganta, eight-year-old Ram was walking along the edges of the fields. He saw a little goat kid, lost from its mother, running here and there in fear. Ram gently went near it and stroked its warm, rough fur. \"Don't be scared, little one, your mother is right here,\" he gently comforted it. As it reached its mother, a soft smile bloomed on Ram's lips. — No one saw him. Then Ram's gaze fell upon the silent village bell tower standing far away."
+    },
+    {
+      "id": 2,
+      "text": "ఆ గ్రామ గంట గోపురం వైపు చూసిన తర్వాత, రాము బావి దగ్గరకు వెళ్ళాడు. అక్కడ గ్రామస్తులు గుమిగూడి, ఆందోళనగా మాట్లాడుకుంటున్నారు. బావిలో ఒక గులకరాయి వేయగా, అది చిన్న గుంతలోని నీటిలో పడిన శబ్దం బోలుగా వినిపించింది. రాము తన చేతిలోని ఖాళీ కుండను గట్టిగా పట్టుకున్నాడు. — అతని చేతులు వణికాయి. \"ఈసారి వర్షాలు లేవు, బావి ఇంకిపోతోంది! మన గ్రామ గంట ఎందుకు మోగదు?\" అని ఒక వృద్ధుడు నిట్టూర్చాడు. ఆ మాటలు రాము చెవుల్లో గట్టిగా మోగాయి.",
+      "image_prompt": "The boy stands among anxious villagers, tightly clutching an empty pot. His hands tremble slightly as he hears the hollow sound of a pebble hitting the shallow water in the well. Harsh midday sun beating down on the parched earth around the well, creating long, stark shadows, reflecting the villagers' despair.",
+      "scene_visual": "The boy stands among anxious villagers, tightly clutching an empty pot. His hands tremble slightly as he hears the hollow sound of a pebble hitting the shallow water in the well.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Graama Ganta Gopuram Vaipu Chusina Tarvaata, Raamu Baavi Daggaraku Vellaadu. Akkada Graamastulu Gumigudi, Aandolanagaa Maatlaadukuntunnaaru. Baavilo Oka Gulakaraayi Veyagaa, Adi Chinna Guntaloni Nitilo Padina Shabdam Bolugaa Vinipinchindi. Raamu Tana Chetiloni Khaali Kundanu Gattigaa Pattukunnaadu. — Atani Chetulu Vanikaayi. \"Isaari Varshaalu Levu, Baavi Inkipotondi! Mana Graama Ganta Enduku Mogadu?\" Ani Oka Vrriddhudu Nitturchaadu. Aa Maatalu Raamu Chevullo Gattigaa Mogaayi.",
+      "text_en": "After looking at the village bell tower, Ram went to the well. Villagers were gathered there, talking anxiously. Someone dropped a pebble into the well, and the sound of it hitting the water in the small pit echoed hollowly. Ram gripped the empty pot in his hand tightly. — His hands trembled. \"There are no rains this time, the well is drying up! Why doesn't our village bell ring?\" sighed an old man. Those words rang loudly in Ram's ears."
+    },
+    {
+      "id": 3,
+      "text": "ఆ మాటలు రాము చెవుల్లో మోగగా, అతను గ్రామ కూడలిలోని మర్రిచెట్టు కింద ఒంటరిగా కూర్చున్నాడు. అతని నుదురు ముడుచుకుపోయింది, ఆలోచనల్లో మునిగిపోయాడు. దూరంగా ఒక చిన్నారి దాహం అని ఏడుస్తున్న అస్పష్టమైన శబ్దం వినిపించింది. రాము దృష్టి, నిశ్శబ్దంగా నిలబడిన ఆ గ్రామ గంట గోపురం మీద స్థిరంగా నిలిచి ఉంది. \"నేనేం చేయగలను...?\" అని పెదవులు కదిలించాడు. ఒక్కసారిగా — అతని కళ్ళల్లో ఒక మెరుపు. అప్పుడు రాము మెల్లగా లేచి, బావి వైపు వెళ్లే దారి వైపు చూశాడు.",
+      "image_prompt": "The boy sits alone under a banyan tree, his forehead furrowed in deep thought. A sudden spark ignites in his eyes as he gazes intently at the distant bell tower. Late afternoon light, warm and golden, but with long, melancholic shadows stretching across the village square, highlighting Rama's solitude.",
+      "scene_visual": "The boy sits alone under a banyan tree, his forehead furrowed in deep thought. A sudden spark ignites in his eyes as he gazes intently at the distant bell tower.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Maatalu Raamu Chevullo Mogagaa, Atanu Graama Kudaliloni Marrichettu Kinda Ontarigaa Kurchunnaadu. Atani Nuduru Muduchukupoyindi, Aalochanallo Munigipoyaadu. Durangaa Oka Chinnaari Daaham Ani Edustunna Aspashtamaina Shabdam Vinipinchindi. Raamu Drrishti, Nishshabdangaa Nilabadina Aa Graama Ganta Gopuram Mida Sthirangaa Nilichi Undi. \"Nenem Cheyagalanu...?\" Ani Pedavulu Kadilinchaadu. Okkasaarigaa — Atani Kallallo Oka Merupu. Appudu Raamu Mellagaa Lechi, Baavi Vaipu Velle Daari Vaipu Chushaadu.",
+      "text_en": "With those words ringing in his ears, Ram sat alone under the banyan tree in the village square. His brow was furrowed, and he was deep in thought. In the distance, he heard the faint sound of a child crying for water. Ram's gaze remained fixed on the silent village bell tower. \"What can I do...?\" he whispered. Suddenly — a spark lit up in his eyes. Then Ram slowly stood up and looked towards the path leading to the well."
+    },
+    {
+      "id": 4,
+      "text": "బావి వైపు వెళ్లే దారిలో, రాముకు కొందరు చిన్న పిల్లలు కనిపించారు. వారు భారీ కుండలను మోస్తూ, నీటి బరువుకు తూలిపోతున్నారు. రాము ఒక్క క్షణం కూడా ఆలోచించకుండా, వారి దగ్గరకు వెళ్ళాడు. \"నేను మీకు సహాయం చేస్తాను, ఇది చాలా బరువుగా ఉంది కదూ?\" అని అడిగాడు. ఆ కుండలలోని చల్లని, కాస్త బురద నీరు కదలగా, రాము రెండు కుండలను సులువుగా మోశాడు. వారి ముఖాల్లో ఆనందం చూసి, రాము పెదవులపై ఒక చిన్న చిరునవ్వు విరిసింది. — అలసట కనిపించలేదు. తన కుండ ఇంకా ఖాళీగానే ఉండగా, రాము మళ్ళీ బావి వైపు నడిచాడు.",
+      "image_prompt": "The boy effortlessly carries two heavy water pots, helping smaller children. A small smile plays on his lips as he sees the relief and joy on their faces. The sun is beginning to dip lower, casting long, soft orange-pink hues across the village, making the dusty path glow, a sense of quiet effort.",
+      "scene_visual": "The boy effortlessly carries two heavy water pots, helping smaller children. A small smile plays on his lips as he sees the relief and joy on their faces.",
+      "supporting_char_keys": [],
+      "text_te_en": "Baavi Vaipu Velle Daarilo, Raamuku Kondaru Chinna Pillalu Kanipinchaaru. Vaaru Bhaari Kundalanu Mostu, Niti Baruvuku Tulipotunnaaru. Raamu Okka Kshanam Kudaa Aalochinchakundaa, Vaari Daggaraku Vellaadu. \"Nenu Miku Sahaayam Chestaanu, Idi Chaalaa Baruvugaa Undi Kadu?\" Ani Adigaadu. Aa Kundalaloni Challani, Kaasta Burada Niru Kadalagaa, Raamu Rendu Kundalanu Suluvugaa Moshaadu. Vaari Mukhaallo Aanandam Chusi, Raamu Pedavulapai Oka Chinna Chirunavvu Virisindi. — Alasata Kanipinchaledu. Tana Kunda Inkaa Khaaligaane Undagaa, Raamu Malli Baavi Vaipu Nadichaadu.",
+      "text_en": "On the path to the well, Ram saw some small children. They were carrying heavy pots, swaying under the weight of the water. Without a moment's thought, Ram went to them. \"I'll help you, isn't this very heavy?\" he asked. As the cool, slightly muddy water in the pots sloshed, Ram easily carried two pots. Seeing the happiness on their faces, a small smile bloomed on Ram's lips. — He showed no tiredness. With his own pot still empty, Ram walked back towards the well."
+    },
+    {
+      "id": 5,
+      "text": "తన వంతు కోసం ఎదురుచూస్తూ, రాము బావి అంచున కూర్చున్నాడు. అప్పుడే, దాహంతో అలిసిపోయిన ఒక చిన్న పక్షి రెక్కలు కొట్టుకుంటూ అతని దగ్గరకు వచ్చింది. రాము దానిని చూసి, తన అరచేతిలో కొద్దిగా నీరు పట్టుకున్నాడు. \"కొద్దిగా తాగు, నీకు దాహంగా ఉంది కదూ?\" అని మెల్లగా అన్నాడు. పక్షి తన చిన్న ముక్కుతో రాము అరచేతిలోంచి నీరు తాగింది — ఆ స్పర్శ ఎంతో సున్నితంగా ఉంది. అది నీరు తాగి ఎగిరిపోగానే, ఒక్కసారిగా — గాలిలో ఒక అద్భుతమైన ప్రకంపన.",
+      "image_prompt": "The boy kneels by the well, holding a small amount of water in his cupped palm. A thirsty bird delicately sips the water from his hand with its tiny beak. The last rays of the setting sun paint the sky in fiery oranges and purples, casting long, dramatic shadows, a peaceful moment before a big event.",
+      "scene_visual": "The boy kneels by the well, holding a small amount of water in his cupped palm. A thirsty bird delicately sips the water from his hand with its tiny beak.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Vantu Kosam Eduruchustu, Raamu Baavi Anchuna Kurchunnaadu. Appude, Daahanto Alisipoyina Oka Chinna Pakshi Rekkalu Kottukuntu Atani Daggaraku Vachchindi. Raamu Daanini Chusi, Tana Arachetilo Koddigaa Niru Pattukunnaadu. \"Koddigaa Taagu, Niku Daahangaa Undi Kadu?\" Ani Mellagaa Annaadu. Pakshi Tana Chinna Mukkuto Raamu Arachetilonchi Niru Taagindi — Aa Sparsha Ento Sunnitangaa Undi. Adi Niru Taagi Egiripogaane, Okkasaarigaa — Gaalilo Oka Adbhutamaina Prakampana.",
+      "text_en": "Waiting for his turn, Ram sat on the edge of the well. Just then, a small, thirsty bird fluttered its wings and came near him. Ram saw it and held a little water in his palm. \"Drink a little, you must be thirsty, right?\" he said softly. The bird drank water from Ram's palm with its tiny beak — the touch was so gentle. As it drank and flew away, suddenly — a wonderful vibration filled the air."
+    },
+    {
+      "id": 6,
+      "text": "ఆ ప్రకంపన ఇంకా గాలిలో ఉండగానే, శతాబ్దాలుగా నిశ్శబ్దంగా ఉన్న గ్రామ గంట ఒక్కసారిగా మోగింది. ఆ లోతైన, ప్రతిధ్వనించే శబ్దం ప్రశాంతమైన సాయంత్రపు గాలిలో మారుమోగింది. రాము కళ్ళు పెద్దవయ్యాయి, అతని చేతిలోని కుండ జారి కిందపడింది. \"అది... అది మోగుతోంది!\" అని ఎవరో అరిచారు. ప్రతి ఇంటి నుండి గ్రామస్తులు పరుగులు తీశారు, వారి ముఖాల్లో ఆశ్చర్యం, అయోమయం కలగలిసి ఉన్నాయి. — అన్నీ ఆ గంట వైపే చూశారు.",
+      "image_prompt": "The boy stands frozen, his eyes wide with shock as the village bell suddenly rings loudly. The empty pot he was holding slips from his grasp and shatters on the ground. Twilight descends, a mystical blue-purple glow over the village, with the bell tower illuminated by an ethereal, soft light, hinting at magic.",
+      "scene_visual": "The boy stands frozen, his eyes wide with shock as the village bell suddenly rings loudly. The empty pot he was holding slips from his grasp and shatters on the ground.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Prakampana Inkaa Gaalilo Undagaane, Shataabdaalugaa Nishshabdangaa Unna Graama Ganta Okkasaarigaa Mogindi. Aa Lotaina, Pratidhvaninche Shabdam Prashaantamaina Saayantrapu Gaalilo Maarumogindi. Raamu Kallu Peddavayyaayi, Atani Chetiloni Kunda Jaari Kindapadindi. \"Adi... Adi Mogutondi!\" Ani Evaro Arichaaru. Prati Inti Nundi Graamastulu Parugulu Tishaaru, Vaari Mukhaallo Aashcharyan, Ayomayam Kalagalisi Unnaayi. — Anni Aa Ganta Vaipe Chushaaru.",
+      "text_en": "While that vibration was still in the air, the village bell, silent for centuries, suddenly rang. Its deep, echoing sound reverberated through the peaceful evening air. Ram's eyes widened, and the pot in his hand slipped and fell. \"It's... it's ringing!\" someone shouted. Villagers rushed out from every house, their faces filled with a mix of surprise and confusion. — Everyone looked towards the bell."
+    },
+    {
+      "id": 7,
+      "text": "గ్రామ గంట మోగుతూ ఉండగానే, గ్రామస్తులందరూ బావి వైపు చూశారు. బావి అడుగు నుండి నీరు బుడగలు వస్తూ పైకి ఉబికింది. — క్షణాల్లో బావి నిండిపోయింది. గలగల శబ్దంతో, అది మరింత బిగ్గరగా, నిరంతరం ప్రవహిస్తోంది. రాము ఆ నీటిని చూస్తూ నిలబడ్డాడు, అతని పెదవులపై ఒక మృదువైన నవ్వు. \"అదృశ్యమైన దయకు మోగే గంట ఇది... నిజంగానే!\" అని ఒక పెద్దాయన గొణుగుతూ అన్నాడు. మీకు తెలుసా, ఆ రోజు నుండి ఆ గంట నిస్వార్థ సేవకు గుర్తుగా నిలిచింది.",
+      "image_prompt": "The boy stands by the well, watching as water rapidly bubbles up from its depths. A soft, contented smile spreads across his lips as the well quickly fills to the brim. The last vestiges of twilight, with a soft, silvery moonlight beginning to emerge, casting a gentle, hopeful glow on the now-full well and the relieved villagers.",
+      "scene_visual": "The boy stands by the well, watching as water rapidly bubbles up from its depths. A soft, contented smile spreads across his lips as the well quickly fills to the brim.",
+      "supporting_char_keys": [],
+      "text_te_en": "Graama Ganta Mogutu Undagaane, Graamastulandaru Baavi Vaipu Chushaaru. Baavi Adugu Nundi Niru Budagalu Vastu Paiki Ubikindi. — Kshanaallo Baavi Nindipoyindi. Galagala Shabdanto, Adi Marinta Biggaragaa, Nirantaram Pravahistondi. Raamu Aa Nitini Chustu Nilabaddaadu, Atani Pedavulapai Oka Mrriduvaina Navvu. \"Adrrishyamaina Dayaku Moge Ganta Idi... Nijangaane!\" Ani Oka Peddaayana Gonugutu Annaadu. Miku Telusaa, Aa Roju Nundi Aa Ganta Nisvaartha Sevaku Gurtugaa Nilichindi.",
+      "text_en": "As the village bell continued to ring, all the villagers looked towards the well. Water bubbled up from the bottom of the well and gushed upwards. — In moments, the well was full. With a gurgling sound, it flowed even louder and continuously. Ram stood watching the water, a soft smile on his lips. \"This is the bell that rings for unseen kindness... truly!\" an old man murmured. You know, from that day on, that bell became a symbol of selfless service."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story presents a beautiful and heartwarming narrative with a clear, inspiring moral. The grammar is flawless, and the emotional depth is largely conveyed through actions rather than direct statements, which is excellent. The narrative arc is compelling, building tension effectively towards a magical resolution. The most significant area for improvement is dialogue richness. While present, the dialogue often lacks distinct character voices and doesn't always advance the plot or reveal character as much as it could. Adding more varied and specific dialogue would elevate the story from good to truly exceptional, making the characters feel more alive and the interactions more dynamic."
+  },
+  "title_te_en": "Dayaku Moge Graama Ganta",
+  "moral_te_en": "Chinna Chinna Manchi Panulu Kudaa, Avi Evaru Chudakapoyinaa, Adbhutamaina Maarpulu Tisukuvastaayi.",
+  "title_en": "The Village Bell That Rings for Kindness",
+  "moral_en": "Even small acts of kindness, even if no one sees them, can bring about wonderful changes.",
+  "id": "20260603_221456",
+  "date": "2026-06-03",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "మంచి పనులకు మోగే గ్రామ గంట - అదృశ్య దయ రహస్యం",
+  "thumbnail": "stories/20260603_221456/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
