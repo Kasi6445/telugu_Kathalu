@@ -1,0 +1,110 @@
+{
+  "title": "సీతమ్మ స్థైర్యం, రామ నామం",
+  "moral": "ఎంతటి కష్టకాలంలోనైనా, మనసులో నమ్మకం ఉంటే, దానికి తోడు తప్పకుండా వస్తుంది.",
+  "main_character": "Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Always the same character across every scene.",
+  "antagonist": "Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene.",
+  "setting": "Ashokavanam, a beautiful garden in Lanka, but with an underlying sense of captivity. Lush green trees, vibrant exotic flowers, and sparkling fountains, but guarded by grotesque rakshasis. The air is thick with the scent of night-blooming jasmine and the distant roar of the ocean. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అశోకవనంలో, జాజిపూల సువాసన నిండిన రాత్రి వేళ, సీతమ్మ ఒక చెట్టు కింద నిశ్చలంగా కూర్చుంది. ఆమె పెదవులపై ఒక చిన్న చిరునవ్వు మెరిసింది, దూరంగా ఆకాశం వైపు చూస్తూ ఉండిపోయింది. ఆమె గుండెలో రాముని రూపం నిండి ఉండగా, బయటి ప్రపంచం ఆమెను ఏమీ చేయలేకపోయింది. \"రామా, నీ రాకకై నా ప్రాణం నిరీక్షిస్తోంది,\" అని ఆమె పెదాలు మెల్లగా పలికాయి. ఆమె కళ్ళు మూసుకుంది — ఆ క్షణంలో ఒక కాకి కర్కశంగా అరిచింది. ఆ వెంటనే, నేల మీద భారీ అడుగుల చప్పుడు వినిపించింది.",
+      "image_prompt": "The woman sits silently under a tree, her eyes gently closing. A small, serene smile plays on her lips, visible in the soft glow of the night. Moonlit garden, silvery light filtering through dense leaves, casting long, soft shadows. The overall mood is peaceful but with a hint of melancholy.",
+      "scene_visual": "The woman sits silently under a tree, her eyes gently closing. A small, serene smile plays on her lips, visible in the soft glow of the night.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ashokavananlo, Jaajipula Suvaasana Nindina Raatri Vela, Sitamma Oka Chettu Kinda Nishchalangaa Kurchundi. Aame Pedavulapai Oka Chinna Chirunavvu Merisindi, Durangaa Aakaasham Vaipu Chustu Undipoyindi. Aame Gundelo Raamuni Rupam Nindi Undagaa, Bayati Prapancham Aamenu Emi Cheyalekapoyindi. \"Raamaa, Ni Raakakai Naa Praanam Nirikshistondi,\" Ani Aame Pedaalu Mellagaa Palikaayi. Aame Kallu Musukundi — Aa Kshananlo Oka Kaaki Karkashangaa Arichindi. Aa Ventane, Nela Mida Bhaari Adugula Chappudu Vinipinchindi.",
+      "text_en": "In the Ashoka Garden, on a night filled with the sweet scent of jasmine flowers, Sita sat quietly under a tree. A small smile flickered on her lips as she gazed far away at the sky. With Rama's image filling her heart, the outside world could not harm her. \"Rama, my life awaits your arrival,\" her lips softly whispered. She closed her eyes — at that moment, a crow cawed harshly. Immediately after, the sound of heavy footsteps was heard on the ground."
+    },
+    {
+      "id": 2,
+      "text": "ఆ భారీ అడుగుల చప్పుడితో, భయంకరమైన రాక్షసులు సీతమ్మ చుట్టూ చేరారు. వారి కర్కశమైన నవ్వులు తోట అంతా ప్రతిధ్వనిస్తూ, భయం పుట్టించాయి. ఆమె వైపు చూస్తూ, ఒక రాక్షసి, \"మా రాజును అంగీకరించు, లేదంటే నీకు శాంతి ఉండదు!\" అని గర్జించింది. సీతమ్మ మాత్రం కళ్ళు మూసుకుని, తల వంచుకుంది — ఆమె శరీరం కదలకుండా ఉండిపోయింది. ఆమె ముఖంపై ఏ భావమూ కనిపించలేదు. ఒక్కసారిగా — నేల కంపించింది. ఆ వెంటనే, ఒక లోతైన, గంభీరమైన స్వరం తోట అంతా వ్యాపించింది.",
+      "image_prompt": "Fearsome monsters gather menacingly around the woman, their forms casting dark shadows. The woman closes her eyes and bows her head, her body remaining completely motionless with no emotion visible on her face. Dim, oppressive, with the rakshasis' torchlight casting grotesque, flickering shadows, making the garden feel menacing.",
+      "scene_visual": "Fearsome monsters gather menacingly around the woman, their forms casting dark shadows. The woman closes her eyes and bows her head, her body remaining completely motionless with no emotion visible on her face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Bhaari Adugula Chappudito, Bhayankaramaina Raakshasulu Sitamma Chuttu Cheraaru. Vaari Karkashamaina Navvulu Tota Antaa Pratidhvanistu, Bhayam Puttinchaayi. Aame Vaipu Chustu, Oka Raakshasi, \"Maa Raajunu Angikarinchu, Ledante Niku Shaanti Undadu!\" Ani Garjinchindi. Sitamma Maatram Kallu Musukuni, Tala Vanchukundi — Aame Shariram Kadalakundaa Undipoyindi. Aame Mukhampai E Bhaavamu Kanipinchaledu. Okkasaarigaa — Nela Kampinchindi. Aa Ventane, Oka Lotaina, Gambhiramaina Svaram Tota Antaa Vyaapinchindi.",
+      "text_en": "With those heavy footsteps, terrifying demons gathered around Sita. Their harsh laughter echoed throughout the garden, creating fear. Looking at her, a demoness roared, \"Accept our king, or you will have no peace!\" But Sita kept her eyes closed and bowed her head — her body remained still. No emotion showed on her face. Suddenly — the ground trembled. Immediately after, a deep, solemn voice spread throughout the garden."
+    },
+    {
+      "id": 3,
+      "text": "ఆ గంభీరమైన స్వరం రావణుడిది, అతని ఆభరణాల నుండి లోహపు చప్పుడు వినిపిస్తూండగా, అతను సీతమ్మ వైపు వచ్చాడు. అతని పది తలలు గర్వంగా పైకి లేచి ఉన్నాయి, వైభవం అంతా అతనిలో నిండి ఉంది. \"సీతా, నా సామ్రాజ్యాన్ని పంచుకో, నీవు లంకకు రాణివి!\" అని గంభీరంగా పలికాడు. సీతమ్మ చూపు మాత్రం నేల మీదికి వాలిపోయింది, అతని వైపు చూడటానికి ఆమె నిరాకరించింది. ఆమె పెదాలు కదలలేదు, ఒక్క మాట కూడా రాలేదు. రావణుడు కోపంతో భవనం వైపు వేగంగా నడిచిపోయాడు. మళ్ళీ ఆ తోటలో సీతమ్మ ఒక్కతే మిగిలిపోయింది.",
+      "image_prompt": "A man with ten heads approaches the woman, his heads proudly raised. The woman's gaze is fixed on the ground, her lips unmoving as she pointedly refuses to look at him. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. Harsh, theatrical lighting from unseen sources, making Ravana appear larger than life, while Sita is bathed in a softer, defiant glow.",
+      "scene_visual": "A man with ten heads approaches the woman, his heads proudly raised. The woman's gaze is fixed on the ground, her lips unmoving as she pointedly refuses to look at him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Gambhiramaina Svaram Raavanudidi, Atani Aabharanaala Nundi Lohapu Chappudu Vinipistundagaa, Atanu Sitamma Vaipu Vachchaadu. Atani Padi Talalu Garvangaa Paiki Lechi Unnaayi, Vaibhavam Antaa Atanilo Nindi Undi. \"Sitaa, Naa Saamraajyaanni Panchuko, Nivu Lankaku Raanivi!\" Ani Gambhirangaa Palikaadu. Sitamma Chupu Maatram Nela Midiki Vaalipoyindi, Atani Vaipu Chudataaniki Aame Niraakarinchindi. Aame Pedaalu Kadalaledu, Okka Maata Kudaa Raaledu. Raavanudu Kopanto Bhavanam Vaipu Vegangaa Nadichipoyaadu. Malli Aa Totalo Sitamma Okkate Migilipoyindi.",
+      "text_en": "That solemn voice belonged to Ravana, and as the metallic clinking of his ornaments was heard, he approached Sita. His ten heads were proudly held high, filled with grandeur. \"Sita, share my empire, you shall be the queen of Lanka!\" he declared solemnly. Sita's gaze, however, remained fixed on the ground; she refused to look at him. Her lips did not move, not a single word came out. Ravana, in anger, quickly walked away towards the palace. Once again, Sita was left alone in the garden."
+    },
+    {
+      "id": 4,
+      "text": "రావణుడు వెళ్ళిపోగానే, తోటలో మళ్ళీ ప్రశాంతత నెలకొంది. చల్లటి గాలి వీచింది, ఆకులు మెల్లగా గుసగుసలాడాయి, ఆమెకు ఓదార్పునిచ్చినట్లు. ఆమె కళ్ళు తెరిచి, తనలో తాను, \"రామా, నా మనసు నీకు అంకితం, ఏ శక్తీ దీన్ని మార్చలేదు,\" అని అనుకుంది. ఆమె గుండెలో ఒక ప్రశాంతమైన శక్తి నిండినట్లు అనిపించింది, ఆమె ముఖం మీద శాంతమైన చిరునవ్వు తిరిగి వచ్చింది. అప్పుడు — ఒక చిన్న, మెరిసే వస్తువు ఆకుల మధ్య నుండి జారి పడింది. అది ఆమె దగ్గరలోనే మెల్లగా నేల మీద పడింది.",
+      "image_prompt": "The woman opens her eyes, a peaceful smile returning to her face. A small, shining object gently slips from among the leaves and falls to the ground near her. A soft, warm, ethereal glow surrounds Sita, as if her inner light is manifesting, contrasting with the previous scene's harshness.",
+      "scene_visual": "The woman opens her eyes, a peaceful smile returning to her face. A small, shining object gently slips from among the leaves and falls to the ground near her.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raavanudu Vellipogaane, Totalo Malli Prashaantata Nelakondi. Challati Gaali Vichindi, Aakulu Mellagaa Gusagusalaadaayi, Aameku Odaarpunichchinatlu. Aame Kallu Terichi, Tanalo Taanu, \"Raamaa, Naa Manasu Niku Ankitan, E Shakti Dinni Maarchaledu,\" Ani Anukundi. Aame Gundelo Oka Prashaantamaina Shakti Nindinatlu Anipinchindi, Aame Mukham Mida Shaantamaina Chirunavvu Tirigi Vachchindi. Appudu — Oka Chinna, Merise Vastuvu Aakula Madhya Nundi Jaari Padindi. Adi Aame Daggaralone Mellagaa Nela Mida Padindi.",
+      "text_en": "As soon as Ravana left, peace returned to the garden. A cool breeze blew, and the leaves gently whispered, as if comforting her. She opened her eyes and thought to herself, \"Rama, my heart is devoted to you, no power can change that.\" She felt a peaceful strength fill her heart, and a calm smile returned to her face. Then — a small, shining object slipped from among the leaves. It gently fell to the ground near her."
+    },
+    {
+      "id": 5,
+      "text": "నేల మీద పడిన ఆ మెరిసే వస్తువును సీతమ్మ మెల్లగా తీసింది. అది ఒక ఉంగరం — దానిపై రాముని పేరు చెక్కబడి ఉంది. ఆమె చేతులు వణికాయి, కళ్ళలో నీళ్ళు నిండాయి. ఆమె పెదవులు ఆనందంతో వణికిపోయాయి, \"ఈ ఉంగరం… ఇది నా రామునిది!\" అని కేక పెట్టింది. ఆమె చేతిలో ఉంగరం — అది చల్లగా ఉంది, రాముని స్పర్శను గుర్తుచేస్తున్నట్లు. ఇంతలో, పైనున్న కొమ్మలు కదిలాయి, ఒక గొప్ప ఆకారం ఆమె ముందు వంగి నమస్కరించింది.",
+      "image_prompt": "The woman gently picks up a shining ring from the ground, her hands trembling. As tears fill her eyes, a great form from above bows respectfully before her. SUPPORTING CHARACTER also in this scene: Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. A sudden burst of golden light from above, illuminating the ring and Sita's face, making the moment feel miraculous and filled with divine grace.",
+      "scene_visual": "The woman gently picks up a shining ring from the ground, her hands trembling. As tears fill her eyes, a great form from above bows respectfully before her.",
+      "supporting_char_keys": [
+        "Hanuman"
+      ],
+      "text_te_en": "Nela Mida Padina Aa Merise Vastuvunu Sitamma Mellagaa Tisindi. Adi Oka Ungaram — Daanipai Raamuni Peru Chekkabadi Undi. Aame Chetulu Vanikaayi, Kallalo Nillu Nindaayi. Aame Pedavulu Aanandanto Vanikipoyaayi, \"I Ungaran… Idi Naa Raamunidi!\" Ani Keka Pettindi. Aame Chetilo Ungaram — Adi Challagaa Undi, Raamuni Sparshanu Gurtuchestunnatlu. Intalo, Painunna Kommalu Kadilaayi, Oka Goppa Aakaaram Aame Mundu Vangi Namaskarinchindi.",
+      "text_en": "Sita gently picked up the shining object that had fallen on the ground. It was a ring — with Rama's name carved on it. Her hands trembled, and tears filled her eyes. Her lips quivered with joy, and she cried out, \"This ring... it is my Rama's!\" The ring in her hand — it was cool, as if reminding her of Rama's touch. Just then, the branches above moved, and a great figure bowed before her."
+    },
+    {
+      "id": 6,
+      "text": "ఆ వచ్చిన వాడు రాముని భక్తుడు హనుమంతుడు అని సీతమ్మకు అర్థమైంది. హనుమంతుడి గంభీరమైన, గౌరవపూర్వకమైన స్వరం ఆమెకు గొప్ప ధైర్యాన్ని ఇచ్చింది. ఆమె కళ్ళలో కొత్త మెరుపు కనిపించింది, ముఖంపై నిశ్చయం తొణికిసలాడింది. \"నా రామునికి నా ప్రేమను, నా స్థైర్యాన్ని తెలియజేయి,\" అని ఆమె దృఢంగా పలికింది. ఆమె తల నిటారుగా ఉంచింది, తన మనసులోని మాటలను హనుమంతుడికి చెప్పింది. ఆమె చేయి మెల్లగా తన జుట్టులోకి వెళ్లి, ఒక విలువైన ఆభరణం కోసం వెతికింది.",
+      "image_prompt": "The woman holds her head high, a new sparkle in her eyes and determination shining on her face. Her hand slowly reaches into her hair, searching for a valuable ornament hidden within. SUPPORTING CHARACTER also in this scene: Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. The golden light softens into a warm, supportive glow, emphasizing the bond between Sita and Hanuman, casting a hopeful aura.",
+      "scene_visual": "The woman holds her head high, a new sparkle in her eyes and determination shining on her face. Her hand slowly reaches into her hair, searching for a valuable ornament hidden within.",
+      "supporting_char_keys": [
+        "Hanuman"
+      ],
+      "text_te_en": "Aa Vachchina Vaadu Raamuni Bhaktudu Hanumantudu Ani Sitammaku Arthamaindi. Hanumantudi Gambhiramaina, Gauravapurvakamaina Svaram Aameku Goppa Dhairyaanni Ichchindi. Aame Kallalo Kotta Merupu Kanipinchindi, Mukhampai Nishchayam Tonikisalaadindi. \"Naa Raamuniki Naa Premanu, Naa Sthairyaanni Teliyajeyi,\" Ani Aame Drridhangaa Palikindi. Aame Tala Nitaarugaa Unchindi, Tana Manasuloni Maatalanu Hanumantudiki Cheppindi. Aame Cheyi Mellagaa Tana Juttuloki Velli, Oka Viluvaina Aabharanam Kosam Vetikindi.",
+      "text_en": "Sita understood that the one who came was Hanuman, Rama's devotee. Hanuman's deep, respectful voice gave her great courage. A new sparkle appeared in her eyes, and determination shone on her face. \"Tell my Rama of my love and my steadfastness,\" she said firmly. She held her head high and told Hanuman the words in her heart. Her hand gently went into her hair, searching for a precious ornament."
+    },
+    {
+      "id": 7,
+      "text": "సీతమ్మ తన జుట్టు నుండి చూడామణిని తీసి, హనుమంతుడి చేతిలో పెట్టింది. చూడామణి హనుమంతుడి అరచేతిలో మెరిసింది, దాని నుండి ఒక తేజస్సు వెలువడింది. \"ఇది నా రామునికి నా ప్రేమకు గుర్తు,\" అని ఆమె మాటల్లో చెప్పింది. ఆమె ముఖంపై ప్రశాంతమైన చిరునవ్వు వెలిగింది, ఆమె చూపులో అచంచలమైన నమ్మకం కనిపించింది. అప్పుడు ఆమె మనసులో ఒక దివ్యమైన శాంతి నిండింది. రాముని రాక ఖాయం అని ఆమెకు అర్థమైంది.",
+      "image_prompt": "The woman takes an ornament from her hair and places it carefully into the devotee's outstretched hand. The ornament shines brightly in the devotee's palm as a peaceful smile lights up her face. SUPPORTING CHARACTER also in this scene: Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Gentle dusk light, warm amber, peaceful resolution, with a faint, hopeful shimmer around Sita.",
+      "scene_visual": "The woman takes an ornament from her hair and places it carefully into the devotee's outstretched hand. The ornament shines brightly in the devotee's palm as a peaceful smile lights up her face.",
+      "supporting_char_keys": [
+        "Hanuman"
+      ],
+      "text_te_en": "Sitamma Tana Juttu Nundi Chudaamanini Tisi, Hanumantudi Chetilo Pettindi. Chudaamani Hanumantudi Arachetilo Merisindi, Daani Nundi Oka Tejassu Veluvadindi. \"Idi Naa Raamuniki Naa Premaku Gurtu,\" Ani Aame Maatallo Cheppindi. Aame Mukhampai Prashaantamaina Chirunavvu Veligindi, Aame Chupulo Achanchalamaina Nammakam Kanipinchindi. Appudu Aame Manasulo Oka Divyamaina Shaanti Nindindi. Raamuni Raaka Khaayam Ani Aameku Arthamaindi.",
+      "text_en": "Sita took the Chudamani from her hair and placed it in Hanuman's hand. The Chudamani sparkled in Hanuman's palm, and a radiance emanated from it. \"This is a symbol of my love for my Rama,\" she said with her words. A peaceful smile lit up her face, and unwavering faith was visible in her gaze. Then, a divine peace filled her heart. She understood that Rama's arrival was certain."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Hanuman",
+      "description": "Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 6.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 6,
+    "average": 6.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a solid narrative arc and is grammatically sound. However, its formal and descriptive language significantly detracts from its warmth and oral authenticity, making it less like a bedtime story and more like a written report. To achieve a higher score, the most crucial improvement would be to rewrite the narration in a simpler, more conversational style, focusing on showing emotions through action and dialogue rather than explicitly stating them."
+  },
+  "quality_warning": true,
+  "title_te_en": "Sitamma Sthairyan, Raama Naamam",
+  "moral_te_en": "Entati Kashtakaalanlonainaa, Manasulo Nammakam Unte, Daaniki Todu Tappakundaa Vastundi.",
+  "title_en": "Sita's Courage and Rama's Name",
+  "moral_en": "Even in the hardest of times, if you keep faith in your heart, help will surely come.",
+  "id": "20260603_041158",
+  "date": "2026-06-03",
+  "category": "ramayana",
+  "subcategory": "devotion_tales",
+  "topic": "సీతాదేవి స్థైర్యం - అశోకవనంలో ఆమె అచంచల విశ్వాసం",
+  "thumbnail": "stories/20260603_041158/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
