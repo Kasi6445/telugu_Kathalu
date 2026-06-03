@@ -1,0 +1,97 @@
+{
+  "title": "ప్రేమ నేర్పిన స్వేచ్ఛ",
+  "moral": "నిజమైన ప్రేమ అంటే పిల్లలు ఎదగడానికి స్వేచ్ఛనివ్వడమే, నమ్మకంతో వాళ్ళను వదిలిపెట్టడమే.",
+  "main_character": "A small, vibrant green parrot named చిలకమ్మ (Chilakamma). She is known for her beautiful singing and her overly protective nature towards her only chick. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A lush banyan tree in a small village named పాలమూరు (Palamooru) in Telangana, near a flowing stream. The tree has sprawling roots, thick green leaves, and ripe red berries. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పాలమూరులోని విశాలమైన మర్రిచెట్టు మీద చిలకమ్మ, తన ముద్దుల చిట్టెలుకకు ప్రేమగా ఆహారం తినిపిస్తోంది. చిట్టెలుక బొద్దుగా తయారైంది కానీ, ఇంకా గూటిలోనే ఉంది. \"చిట్టెలుకా, ఇంకా కొంచెం తిను, నువ్వు ఇంకా చిన్న పక్షివి కదా!\" అంటూ ముక్కుతో మెల్లగా ఆహారం అందిస్తోంది. చిలకమ్మ ఈకలు చిట్టెలుక తలకు తగిలి సున్నితంగా గిలిగింతలు పెట్టాయి. ఆకాశంలో ఇతర చిన్న పక్షులు రెక్కలు విప్పుతూ ఎగరడం చూసింది — కానీ ఆ ఆలోచనను వెంటనే పక్కకు నెట్టింది.",
+      "image_prompt": "The mother bird lovingly feeds the young bird, gently offering food with her beak. Her feathers brush the young bird's head, tickling it softly. Gentle morning light filtering through dense green leaves, casting dappled gold on the nest.",
+      "scene_visual": "The mother bird lovingly feeds the young bird, gently offering food with her beak. Her feathers brush the young bird's head, tickling it softly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Paalamuruloni Vishaalamaina Marrichettu Mida Chilakamma, Tana Muddula Chittelukaku Premagaa Aahaaram Tinipistondi. Chitteluka Boddugaa Tayaaraindi Kaani, Inkaa Gutilone Undi. \"Chittelukaa, Inkaa Konchem Tinu, Nuvvu Inkaa Chinna Pakshivi Kadaa!\" Antu Mukkuto Mellagaa Aahaaram Andistondi. Chilakamma Ikalu Chitteluka Talaku Tagili Sunnitangaa Giligintalu Pettaayi. Aakaashanlo Itara Chinna Pakshulu Rekkalu Vipputu Egaradam Chusindi — Kaani Aa Aalochananu Ventane Pakkaku Nettindi.",
+      "text_en": "On a big banyan tree in Palamooru, Chilakamma was lovingly feeding her sweet Chittelluka. Chittelluka had grown quite plump but was still in the nest. \"Chittelluka, eat a little more, you're still a tiny bird, aren't you!\" she cooed, gently offering food with her beak. Chilakamma's soft feathers brushed against Chittelluka's head, giving gentle tickles. She saw other little birds spreading their wings and flying in the sky — but she quickly pushed that thought away."
+    },
+    {
+      "id": 2,
+      "text": "ఒకరోజు, చిట్టెలుక గూటి అంచుకు వచ్చి, రెక్కలు విదల్చి మొదటిసారి ఎగరడానికి ప్రయత్నించింది. అప్పుడు చిలకమ్మ గుండె ఒక్కసారిగా వేగంగా కొట్టుకుంది — రెక్కలు వేగంగా కొట్టుకుంటూ చిట్టెలుకను గట్టిగా పట్టుకుంది. \"వద్దు! ఇంకా కాదు! ఆకాశం ప్రమాదకరమైనది, నా చిన్ని ప్రాణం!\" అంటూ పదునైన అరుపుతో దాన్ని తిరిగి గూటిలోకి లాగింది. ఆ భయపడిన అరుపుకు ఆకులు గలగలమని కదిలాయి. చిట్టెలుక ఆకాశం వైపు దీనంగా చూసింది... దాని కళ్ళల్లో ఒక మౌన ప్రశ్న.",
+      "image_prompt": "The young bird spreads its wings at the nest's edge, attempting to fly for the first time, but the mother bird quickly grabs it and pulls it back. The mother bird's heart beats rapidly, and her sharp cry makes the leaves rustle. Bright midday sun, but the nest is still shaded by thick foliage, creating pockets of deep green and sharp light.",
+      "scene_visual": "The young bird spreads its wings at the nest's edge, attempting to fly for the first time, but the mother bird quickly grabs it and pulls it back. The mother bird's heart beats rapidly, and her sharp cry makes the leaves rustle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okaroju, Chitteluka Guti Anchuku Vachchi, Rekkalu Vidalchi Modatisaari Egaradaaniki Prayatninchindi. Appudu Chilakamma Gunde Okkasaarigaa Vegangaa Kottukundi — Rekkalu Vegangaa Kottukuntu Chittelukanu Gattigaa Pattukundi. \"Vaddu! Inkaa Kaadu! Aakaasham Pramaadakaramainadi, Naa Chinni Praanan!\" Antu Padunaina Aruputo Daanni Tirigi Gutiloki Laagindi. Aa Bhayapadina Arupuku Aakulu Galagalamani Kadilaayi. Chitteluka Aakaasham Vaipu Dinangaa Chusindi... Daani Kallallo Oka Mauna Prashna.",
+      "text_en": "One day, Chittelluka came to the edge of the nest, spread its wings, and tried to fly for the very first time. Chilakamma's heart suddenly thumped fast — she flapped her wings quickly and held Chittelluka tightly. \"No! Not yet! The sky is dangerous, my precious little one!\" she shrieked sharply, pulling it back into the nest. The leaves rustled with her frightened cry. Chittelluka looked sadly at the sky... with a silent question in its eyes."
+    },
+    {
+      "id": 3,
+      "text": "రోజులు వారాలుగా మారాయి, చిట్టెలుక పెద్దగా బరువుగా మారింది, గూటిలో అటూ ఇటూ కదులుతూ ఆందోళనగా ఉంది. అది పక్క కొమ్మలపైకి దూకడానికి ప్రయత్నించిన ప్రతిసారి, చిలకమ్మ నిట్టూర్చింది. \"మామ్మా, నేను ఎగరాలి!\" అని చిట్టెలుక అరుస్తూనే ఉంది. చిట్టెలుక రెక్కలు సరిగా వాడకపోవడం వల్ల కొమ్మ మీద భారీగా పడింది — ఆకులు వణికిపోయాయి. చిలకమ్మ దాన్ని మళ్ళీ గూటిలోకి సున్నితంగా తోస్తూ, ఆకాశంలో స్వేచ్ఛగా ఎగిరే ఇతర పక్షులను చూసినప్పుడు గుండె చివుక్కుమంది.",
+      "image_prompt": "The heavy young bird attempts to jump to a nearby branch, landing heavily on it. The leaves on the branch tremble from its impact. Late afternoon, the sun's rays are longer and warmer, painting the bark of the banyan tree in shades of orange and brown.",
+      "scene_visual": "The heavy young bird attempts to jump to a nearby branch, landing heavily on it. The leaves on the branch tremble from its impact.",
+      "supporting_char_keys": [],
+      "text_te_en": "Rojulu Vaaraalugaa Maaraayi, Chitteluka Peddagaa Baruvugaa Maarindi, Gutilo Atu Itu Kadulutu Aandolanagaa Undi. Adi Pakka Kommalapaiki Dukadaaniki Prayatninchina Pratisaari, Chilakamma Nitturchindi. \"Maammaa, Nenu Egaraali!\" Ani Chitteluka Arustune Undi. Chitteluka Rekkalu Sarigaa Vaadakapovadam Valla Komma Mida Bhaarigaa Padindi — Aakulu Vanikipoyaayi. Chilakamma Daanni Malli Gutiloki Sunnitangaa Tostu, Aakaashanlo Svechchagaa Egire Itara Pakshulanu Chusinappudu Gunde Chivukkumandi.",
+      "text_en": "Days turned into weeks, and Chittelluka grew big and heavy, moving restlessly inside the nest. Every time it tried to hop onto a nearby branch, Chilakamma sighed. \"Mama, I want to fly!\" Chittelluka kept chirping. Because Chittelluka didn't use its wings properly, it landed heavily on the branch — the leaves trembled. Chilakamma gently pushed it back into the nest, and her heart ached when she saw other birds flying freely in the sky."
+    },
+    {
+      "id": 4,
+      "text": "అలా ఉండగా, ఒకరోజు సన్నని ఈల వేస్తూ గాలి వీచింది — పాలమూరు మర్రిచెట్టును ఒక్కసారిగా ఊపేసింది. చెట్టు కొమ్మలు కిచకిచలాడుతూ గట్టిగా వణికిపోయాయి. గూటిలోంచి చిట్టెలుకను బయటకు తోసేసేంత బలంగా గాలి వీచింది. చిలకమ్మ భయంతో రెక్కలు వేగంగా కొట్టినా, తన బిడ్డను పట్టుకోలేకపోయింది. \"అయ్యో! నా బిడ్డ!\" అంటూ అది గట్టిగా అరిచింది. చిట్టెలుక ప్రాణ భయంతో గూటిని గట్టిగా పట్టుకుంది, దాని కళ్ళల్లో ఒక కొత్త మెరుపు.",
+      "image_prompt": "A strong wind violently shakes the banyan tree, nearly blowing the young bird out of its nest as it desperately clings on. The tree branches creak and shake vigorously, and a new sparkle appears in the young bird's eyes. Overcast sky, dark grey clouds gathering, casting a dim, anxious light over the scene.",
+      "scene_visual": "A strong wind violently shakes the banyan tree, nearly blowing the young bird out of its nest as it desperately clings on. The tree branches creak and shake vigorously, and a new sparkle appears in the young bird's eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alaa Undagaa, Okaroju Sannani Ila Vestu Gaali Vichindi — Paalamuru Marrichettunu Okkasaarigaa Upesindi. Chettu Kommalu Kichakichalaadutu Gattigaa Vanikipoyaayi. Gutilonchi Chittelukanu Bayataku Tosesenta Balangaa Gaali Vichindi. Chilakamma Bhayanto Rekkalu Vegangaa Kottinaa, Tana Biddanu Pattukolekapoyindi. \"Ayyo! Naa Bidda!\" Antu Adi Gattigaa Arichindi. Chitteluka Praana Bhayanto Gutini Gattigaa Pattukundi, Daani Kallallo Oka Kotta Merupu.",
+      "text_en": "As this went on, one day a whistling wind blew — shaking the Palamooru banyan tree with a sudden gust. The tree branches creaked and trembled violently. The wind blew so strongly that it pushed Chittelluka right out of the nest. Chilakamma flapped her wings quickly in fear, but she couldn't catch her baby. \"Oh no! My baby!\" she cried loudly. Chittelluka, scared for its life, clung tightly to the nest, and a new spark shone in its eyes."
+    },
+    {
+      "id": 5,
+      "text": "గాలి సద్దుమణిగిన తర్వాత, మర్రిచెట్టు మీద ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది — దూరం నుంచి చిన్న పక్షుల కిలకిలరావాలు వినిపించాయి. చిలకమ్మ తన వణుకుతున్న, నేల మీద పడబోయిన చిట్టెలుకను చూసింది. తన అతి ప్రేమ దానిని బలహీనపరుస్తుందని ఆ క్షణంలో దానికి అర్థమైంది. ఒక భారీ నిట్టూర్పు వెలువడింది. \"నా ప్రేమతో నేను దాని రెక్కలు కట్టేశానా?\" అని చిలకమ్మ తనలో తనే అనుకుంది. చిలకమ్మ చిట్టెలుకను కొమ్మ అంచు వైపు నెట్టింది, కానీ గుండె దడదడలాడింది.",
+      "image_prompt": "The mother bird pushes the young bird towards the edge of the branch. Her heart pounds as she performs this action. The clouds begin to part slightly, allowing a soft, diffused light to illuminate the nest, hinting at a change.",
+      "scene_visual": "The mother bird pushes the young bird towards the edge of the branch. Her heart pounds as she performs this action.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gaali Saddumanigina Tarvaata, Marrichettu Mida Okkasaarigaa Nishshabdam Alumukundi — Duram Nunchi Chinna Pakshula Kilakilaraavaalu Vinipinchaayi. Chilakamma Tana Vanukutunna, Nela Mida Padaboyina Chittelukanu Chusindi. Tana Ati Prema Daanini Balahinaparustundani Aa Kshananlo Daaniki Arthamaindi. Oka Bhaari Nitturpu Veluvadindi. \"Naa Premato Nenu Daani Rekkalu Katteshaanaa?\" Ani Chilakamma Tanalo Tane Anukundi. Chilakamma Chittelukanu Komma Anchu Vaipu Nettindi, Kaani Gunde Dadadadalaadindi.",
+      "text_en": "After the wind calmed down, silence suddenly fell over the banyan tree — the chirping of little birds could be heard from far away. Chilakamma saw her trembling Chittelluka, almost falling to the ground. At that moment, she understood that her too much love was making it weak. A heavy sigh escaped her. \"Have I tied its wings with my love?\" Chilakamma thought to herself. Chilakamma pushed Chittelluka towards the edge of the branch, but her heart pounded."
+    },
+    {
+      "id": 6,
+      "text": "చిలకమ్మ లోతైన నిర్ణయం తీసుకుంది. అది నెమ్మదిగా చిట్టెలుకను కొమ్మ అంచు నుండి క్రిందకు తోసింది. చిట్టెలుక గాలిలో కిందకు పడిపోతున్నప్పుడు దాని చిన్న రెక్కలు వేగంగా కొట్టుకున్నాయి — అది నిస్సహాయంగా ఎగరడానికి ప్రయత్నించింది. చిలకమ్మ కళ్ళు చెమర్చాయి, ఊపిరి బిగబట్టి చూసింది. \"ఎగురు, నా చిట్టెలుకా! ఎగురు!\" అని గట్టిగా అరిచింది. కొన్ని తడబాటు రెక్కల విదల్చడం తర్వాత, చిట్టెలుక గాలిలో నిలదొక్కుకుని మర్రిచెట్టు చుట్టూ చిన్న వలయంలా ఎగిరింది.",
+      "image_prompt": "The mother bird gently pushes the young bird off the edge of the branch, and it falls, flapping its small wings desperately. The mother bird watches with tear-filled eyes, holding her breath. The sun breaks through the clouds fully, casting bright, hopeful light on the banyan tree and the flying chick.",
+      "scene_visual": "The mother bird gently pushes the young bird off the edge of the branch, and it falls, flapping its small wings desperately. The mother bird watches with tear-filled eyes, holding her breath.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chilakamma Lotaina Nirnayam Tisukundi. Adi Nemmadigaa Chittelukanu Komma Anchu Nundi Krindaku Tosindi. Chitteluka Gaalilo Kindaku Padipotunnappudu Daani Chinna Rekkalu Vegangaa Kottukunnaayi — Adi Nissahaayangaa Egaradaaniki Prayatninchindi. Chilakamma Kallu Chemarchaayi, Upiri Bigabatti Chusindi. \"Eguru, Naa Chittelukaa! Eguru!\" Ani Gattigaa Arichindi. Konni Tadabaatu Rekkala Vidalchadam Tarvaata, Chitteluka Gaalilo Niladokkukuni Marrichettu Chuttu Chinna Valayanlaa Egirindi.",
+      "text_en": "Chilakamma made a very important decision. She slowly pushed Chittelluka off the edge of the branch. As Chittelluka fell downwards in the air, its small wings flapped rapidly — it tried helplessly to fly. Chilakamma's eyes filled with tears, and she watched, holding her breath. \"Fly, my Chittelluka! Fly!\" she cried loudly. After a few wobbly flaps, Chittelluka steadied itself in the air and flew in a small circle around the banyan tree."
+    },
+    {
+      "id": 7,
+      "text": "చిట్టెలుక ఆకాశంలో చక్కగా ఎగురుతూ, దూరంగా ఉన్న కొమ్మ మీద దిగింది. అప్పుడు అది మళ్ళీ వెనక్కి వచ్చి, చిలకమ్మ పక్కన ఒదిగింది. చిలకమ్మ రెక్కలను సున్నితంగా అల్లుకున్న వెచ్చని గాలి ఆమెకు ఎంతో శాంతినిచ్చింది. \"నీకు స్వేచ్ఛ ఇచ్చినందుకు నాకు చాలా ఆనందంగా ఉంది\" అని చిలకమ్మ తన బిడ్డను ఆప్యాయంగా నిమిరింది. చిట్టెలుక గొంతులోంచి ఒక మధురమైన పాట వినిపించింది.",
+      "image_prompt": "The young bird flies gracefully in the sky, then returns to snuggle beside the mother bird. A warm breeze gently ruffles the mother bird's feathers, bringing her peace. Golden hour, the sun setting, casting long, warm shadows and a peaceful, soft glow over the banyan tree.",
+      "scene_visual": "The young bird flies gracefully in the sky, then returns to snuggle beside the mother bird. A warm breeze gently ruffles the mother bird's feathers, bringing her peace.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitteluka Aakaashanlo Chakkagaa Egurutu, Durangaa Unna Komma Mida Digindi. Appudu Adi Malli Venakki Vachchi, Chilakamma Pakkana Odigindi. Chilakamma Rekkalanu Sunnitangaa Allukunna Vechchani Gaali Aameku Ento Shaantinichchindi. \"Niku Svechcha Ichchinanduku Naaku Chaalaa Aanandangaa Undi\" Ani Chilakamma Tana Biddanu Aapyaayangaa Nimirindi. Chitteluka Gontulonchi Oka Madhuramaina Paata Vinipinchindi.",
+      "text_en": "Chittelluka flew gracefully in the sky and landed on a branch far away. Then it came back again and snuggled next to Chilakamma. The warm air gently wrapped around Chilakamma's wings, giving her immense peace. \"I am so happy to have given you freedom,\" Chilakamma said, lovingly stroking her child. A sweet song was heard from Chittelluka's throat."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is beautifully crafted with a strong, relatable theme of parental love and letting go. The colloquial Telugu is flawless, making it highly authentic for an oral narration. To reach an award-worthy 9+, the primary focus should be on enhancing dialogue in every scene, ensuring even internal monologues are presented through more active, character-specific speech or action. Additionally, a minor revision to 'show' rather than 'tell' emotions in a couple of instances would perfect its emotional depth."
+  },
+  "title_te_en": "Prema Nerpina Svechcha",
+  "moral_te_en": "Nijamaina Prema Ante Pillalu Edagadaaniki Svechchanivvadame, Nammakanto Vaallanu Vadilipettadame.",
+  "title_en": "Love Taught Freedom",
+  "moral_en": "True love means giving children the freedom to grow and letting them go with trust.",
+  "id": "20260603_021005",
+  "date": "2026-06-03",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "అతి ప్రేమ అనర్థదాయకం అనే కథ",
+  "thumbnail": "stories/20260603_021005/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
