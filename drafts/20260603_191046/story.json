@@ -1,0 +1,139 @@
+{
+  "title": "గిరా పొడవాటి మెడ, ప్రాణం పోసిన నీరు",
+  "moral": "మనలో ఉన్న ప్రత్యేకమైన శక్తులను గుర్తించి, వాటిని ఇతరుల మేలు కోసం ఉపయోగించడం చాలా గొప్ప విషయం.",
+  "main_character": "Gira is a young, gentle giraffe with a strikingly long neck and soft, brown eyes. She often feels a bit self-conscious about her towering height. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant forest clearing nestled near a small, traditional village in the Rayalaseema region of Andhra Pradesh. The clearing features ancient banyan trees, a dry riverbed, and a deep, old stone well. The time is late morning, transitioning to afternoon, with the sun getting progressively warmer. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాయలసీమ అడవిలో, పొడవాటి గిరా జిరాఫీ ఎత్తైన చెట్ల కొమ్మల మధ్య నిలబడి ఉంది. ఆమె మెల్లగా ఆకుపచ్చని ఆకులను పెదవులతో తెంపుతూ — \"ఈ చెట్ల ఆకులు ఎంత రుచిగా ఉన్నాయో!\" అని మనసులో అనుకుంది. కింద ఇతర చిన్న జంతువులు ఆడుకుంటుండగా, ఆమె వాటిని చూస్తూ ఒక చిరునవ్వు నవ్వింది, కానీ కొంచెం దూరంగా ఉన్నట్లు అనిపించింది. అప్పుడప్పుడు తన పొడవాటి మెడను కొద్దిగా దించుకుంది. ఇంతలో, ఆ జంతువుల ఆటపాటలు ఆగిపోయి, దాహం తీర్చుకునే నీటి గుంత దగ్గర ఆందోళనగా గుసగుసలాడటం గిరాకు వినిపించింది.",
+      "image_prompt": "The tall giraffe stands among high tree branches, gently plucking green leaves with her lips. She then slightly lowers her long neck, her ears twitching as she hears anxious whispers from the waterhole. Soft morning sun filters through the dense canopy, dappling the forest floor in warm greens and golds, creating a peaceful, contemplative mood around Gira.",
+      "scene_visual": "The tall giraffe stands among high tree branches, gently plucking green leaves with her lips. She then slightly lowers her long neck, her ears twitching as she hears anxious whispers from the waterhole.",
+      "supporting_char_keys": [
+        "deer",
+        "monkey",
+        "rabbit"
+      ],
+      "text_te_en": "Raayalasima Adavilo, Podavaati Giraa Jiraaphi Ettaina Chetla Kommala Madhya Nilabadi Undi. Aame Mellagaa Aakupachchani Aakulanu Pedavulato Temputu — \"I Chetla Aakulu Enta Ruchigaa Unnaayo!\" Ani Manasulo Anukundi. Kinda Itara Chinna Jantuvulu Aadukuntundagaa, Aame Vaatini Chustu Oka Chirunavvu Navvindi, Kaani Konchem Durangaa Unnatlu Anipinchindi. Appudappudu Tana Podavaati Medanu Koddigaa Dinchukundi. Intalo, Aa Jantuvula Aatapaatalu Aagipoyi, Daaham Tirchukune Niti Gunta Daggara Aandolanagaa Gusagusalaadatam Giraaku Vinipinchindi.",
+      "text_en": "In the Rayalaseema forest, Gira the tall giraffe stood among the high tree branches. She gently plucked green leaves with her lips, thinking to herself—\"Oh, how delicious these tree leaves are!\" Down below, other small animals were playing. She watched them with a small smile, but felt a little distant. Sometimes, she would lower her long neck a little. Just then, Gira heard the animals' play stop, and anxious whispers came from near the waterhole where they usually drank."
+    },
+    {
+      "id": 2,
+      "text": "గిరా దూరంగా చూస్తుండగానే, మిగతా జంతువులు ఇంకిపోతున్న నీటిగుంత చుట్టూ చేరాయి. ఎండవేడికి పొడిబారిన నేల పగుళ్ళతో మెరుస్తూ ఉంది. ఒక కుందేలు భయంతో వణికింది, \"నీరు ఇంకిపోతోంది... ఇక ఎలా బ్రతకాలి?\" అని ఏడుస్తూ అడిగింది. గిరా చెవులు కదుపుతూ, ఏదో చేయాలనిపించినా, ఎలాగో తెలియక అక్కడే నిలబడింది. అప్పుడు పెద్ద జింక ఒకటి, \"దూరంగా ఒక లోతైన బావి ఉందని విన్నాను, కానీ అది చాలా లోతు,\" అని నిట్టూర్చింది.",
+      "image_prompt": "Other animals huddle anxiously around a rapidly drying waterhole. The parched ground around them is visibly cracked under the intense sun, and a small rabbit trembles with fear. Harsh midday sun beats down on the parched clearing, casting long, sharp shadows from the distressed animals, highlighting their desperation.",
+      "scene_visual": "Other animals huddle anxiously around a rapidly drying waterhole. The parched ground around them is visibly cracked under the intense sun, and a small rabbit trembles with fear.",
+      "supporting_char_keys": [
+        "deer",
+        "monkey",
+        "rabbit"
+      ],
+      "text_te_en": "Giraa Durangaa Chustundagaane, Migataa Jantuvulu Inkipotunna Nitigunta Chuttu Cheraayi. Endavediki Podibaarina Nela Pagullato Merustu Undi. Oka Kundelu Bhayanto Vanikindi, \"Niru Inkipotondi... Ika Elaa Bratakaali?\" Ani Edustu Adigindi. Giraa Chevulu Kaduputu, Edo Cheyaalanipinchinaa, Elaago Teliyaka Akkade Nilabadindi. Appudu Pedda Jinka Okati, \"Durangaa Oka Lotaina Baavi Undani Vinnaanu, Kaani Adi Chaalaa Lotu,\" Ani Nitturchindi.",
+      "text_en": "As Gira watched from afar, the other animals gathered around the drying waterhole. The ground, parched by the sun, gleamed with cracks. A rabbit trembled with fear, crying, \"The water is drying up... how will we live now?\" Gira twitched her ears, wanting to do something, but she didn't know how, so she just stood there. Then a big deer sighed, \"I heard there's a deep well far away, but it's very deep.\""
+    },
+    {
+      "id": 3,
+      "text": "జింక మాట వినగానే, చురుకైన కోతి ఒకటి ఆ లోతైన బావిలోకి దిగడానికి ప్రయత్నించింది. అది నునుపైన, నాచు పట్టిన రాళ్ళపై పాదాలు జారి, బావి అంచులకు పట్టుకోలేకపోయింది. కోతి విసుగుతో నిట్టూర్చింది, \"నేను పైకి ఎక్కలేకపోతున్నాను! అది చాలా లోతుగా ఉంది,\" అని గట్టిగా చెప్పింది. గిరా అక్కడి నుండే కోతి పడుతున్న కష్టాన్ని చూస్తూ, తనలో తాను నిస్సహాయంగా భావించింది. అన్ని జంతువులు బావి చుట్టూ నిరాశగా కూర్చుండిపోయాయి — వాటి దాహం మరింత పెరుగుతోంది.",
+      "image_prompt": "A nimble monkey attempts to climb down into a deep well, its feet slipping on the smooth rocks. It struggles to grip the moss-covered edges, eventually sighing in visible frustration. Late afternoon sun, a weary orange, casts long, heavy shadows as the animals rest, exhausted and defeated by their failed attempts.",
+      "scene_visual": "A nimble monkey attempts to climb down into a deep well, its feet slipping on the smooth rocks. It struggles to grip the moss-covered edges, eventually sighing in visible frustration.",
+      "supporting_char_keys": [
+        "deer",
+        "monkey",
+        "rabbit"
+      ],
+      "text_te_en": "Jinka Maata Vinagaane, Churukaina Koti Okati Aa Lotaina Baaviloki Digadaaniki Prayatninchindi. Adi Nunupaina, Naachu Pattina Raallapai Paadaalu Jaari, Baavi Anchulaku Pattukolekapoyindi. Koti Visuguto Nitturchindi, \"Nenu Paiki Ekkalekapotunnaanu! Adi Chaalaa Lotugaa Undi,\" Ani Gattigaa Cheppindi. Giraa Akkadi Nunde Koti Padutunna Kashtaanni Chustu, Tanalo Taanu Nissahaayangaa Bhaavinchindi. Anni Jantuvulu Baavi Chuttu Niraashagaa Kurchundipoyaayi — Vaati Daaham Marinta Perugutondi.",
+      "text_en": "As soon as the deer spoke, a nimble monkey tried to climb down into the deep well. Its feet slipped on the smooth, mossy rocks, and it couldn't hold onto the well's edges. The monkey sighed in frustration, \"I can't climb up! It's too deep!\" Gira watched the monkey's struggle from where she stood, feeling helpless herself. All the animals sat around the well in despair—their thirst growing stronger."
+    },
+    {
+      "id": 4,
+      "text": "నిరాశతో తలవంచిన జంతువులను చూసి, గిరా ఒక్కసారిగా ఆ లోతైన బావి వైపు చూసింది. ఆ తర్వాత — తన పొడవాటి మెడను చూసుకుంది. దూరంగా కాకి అరుపు వినిపించినా, ఆమె ఆలోచనలో మునిగిపోయింది. ఆమె కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, \"నా పొడవాటి మెడ... అది నీటిని చేరుకోగలదా?\" అని తనలో తాను అనుకుంది. ఒక లోతైన శ్వాస తీసుకుని, గిరా మెల్లగా బావి వైపు నడవడం మొదలుపెట్టింది — ఆమె అడుగులు మిగతా జంతువులను ఆశ్చర్యపరిచాయి.",
+      "image_prompt": "The giraffe looks from the dejected animals to the deep well, then turns her gaze to her own long neck. Her eyes widen in a sudden realization, and she takes a deep, determined breath before slowly moving towards the well. A soft, diffused light of early evening, creating a thoughtful, slightly mysterious atmosphere around Gira as she considers her unique ability.",
+      "scene_visual": "The giraffe looks from the dejected animals to the deep well, then turns her gaze to her own long neck. Her eyes widen in a sudden realization, and she takes a deep, determined breath before slowly moving towards the well.",
+      "supporting_char_keys": [
+        "deer",
+        "monkey",
+        "rabbit"
+      ],
+      "text_te_en": "Niraashato Talavanchina Jantuvulanu Chusi, Giraa Okkasaarigaa Aa Lotaina Baavi Vaipu Chusindi. Aa Tarvaata — Tana Podavaati Medanu Chusukundi. Durangaa Kaaki Arupu Vinipinchinaa, Aame Aalochanalo Munigipoyindi. Aame Kallu Aashcharyanto Peddavayyaayi, \"Naa Podavaati Meda... Adi Nitini Cherukogaladaa?\" Ani Tanalo Taanu Anukundi. Oka Lotaina Shvaasa Tisukuni, Giraa Mellagaa Baavi Vaipu Nadavadam Modalupettindi — Aame Adugulu Migataa Jantuvulanu Aashcharyaparichaayi.",
+      "text_en": "Seeing the animals with their heads bowed in despair, Gira suddenly looked towards the deep well. Then—she looked at her own long neck. Even though she heard a crow caw in the distance, she was deep in thought. Her eyes widened with surprise, \"My long neck... can it reach the water?\" she wondered to herself. Taking a deep breath, Gira slowly began to walk towards the well—her steps surprised the other animals."
+    },
+    {
+      "id": 5,
+      "text": "గిరా బావి అంచుకు చేరి, తన పొడవాటి మెడను చాలా జాగ్రత్తగా లోపలికి చాచింది. ఆమె మెడ కండరాలు బిగుసుకున్నాయి, నుదుటిపై చెమట బిందువు పొడచూపింది. ఆమె తల బావి లోపల కనిపించకుండా పోయింది — అంతలో \"చూడు! ఆమె ప్రయత్నిస్తోంది!\" అని ఒక చిన్న పక్షి అరిచింది. బావి అంచున గిరా డెక్కలు పొడి నేలపై మెల్లగా కదిలాయి, అడుగుకు చేరడానికి ఆమె శాయశక్తులా ప్రయత్నించింది. కొద్దిసేపటికి, గిరా మెల్లగా తన తలను పైకి తీసింది — ఆశగా ఎదురుచూస్తున్న జంతువులు ఆమె వైపు వంగి చూశాయి.",
+      "image_prompt": "The giraffe carefully stretches her long neck deep into the well, her head disappearing from view. Her neck muscles are visibly tensed, and a bead of sweat appears on her forehead as her hooves shift slightly on the dry ground. The last rays of the setting sun, a deep orange, cast long, dramatic shadows around the well, highlighting Gira's struggle and the tension of the moment.",
+      "scene_visual": "The giraffe carefully stretches her long neck deep into the well, her head disappearing from view. Her neck muscles are visibly tensed, and a bead of sweat appears on her forehead as her hooves shift slightly on the dry ground.",
+      "supporting_char_keys": [
+        "deer",
+        "monkey",
+        "rabbit"
+      ],
+      "text_te_en": "Giraa Baavi Anchuku Cheri, Tana Podavaati Medanu Chaalaa Jaagrattagaa Lopaliki Chaachindi. Aame Meda Kandaraalu Bigusukunnaayi, Nudutipai Chemata Binduvu Podachupindi. Aame Tala Baavi Lopala Kanipinchakundaa Poyindi — Antalo \"Chudu! Aame Prayatnistondi!\" Ani Oka Chinna Pakshi Arichindi. Baavi Anchuna Giraa Dekkalu Podi Nelapai Mellagaa Kadilaayi, Aduguku Cheradaaniki Aame Shaayashaktulaa Prayatninchindi. Koddisepatiki, Giraa Mellagaa Tana Talanu Paiki Tisindi — Aashagaa Eduruchustunna Jantuvulu Aame Vaipu Vangi Chushaayi.",
+      "text_en": "Gira reached the edge of the well and very carefully stretched her long neck inside. Her neck muscles tensed, and a bead of sweat appeared on her forehead. Her head disappeared inside the well—just then, a small bird chirped, \"Look! She's trying!\" Gira's hooves at the edge of the well gently shifted on the dry ground as she tried her best to reach the bottom. After a little while, Gira slowly lifted her head—the eagerly waiting animals leaned in to watch her."
+    },
+    {
+      "id": 6,
+      "text": "గిరా తల పైకి రాగానే, ఆమె నోటిలో ఒక పెద్ద తడి ఆకు కనిపించింది — దాని నిండా విలువైన నీరు ఉంది! ఆ ఆకు నుండి నీరు మెల్లగా కిందకు కారుతుండగా, గిరా కళ్ళలో ఆనందం మెరిసింది, ఒక చిరునవ్వు ఆమె పెదవులపై విరిసింది. ఆమె గర్వంగా \"ఇక్కడ నీరు ఉంది! చిన్నది అయినా ఉంది!\" అని చెప్పింది. జంతువులు నమ్మలేనట్లుగా కళ్ళు పెద్దవి చేసుకుని, కృతజ్ఞతతో ఆమె వైపు చూశాయి. అవి ప్రాణం పోసే ఆ నీటి కోసం ఉరుకులు పరుగులుగా వచ్చాయి.",
+      "image_prompt": "The giraffe slowly lifts her head from the well, revealing a large wet leaf filled with water held in her mouth. Water drips from the leaf, and a joyful sparkle lights up her eyes as a proud smile spreads across her lips. Golden hour light, warm and radiant, illuminates Gira as if she is glowing, highlighting the sparkling, life-giving water in the leaf.",
+      "scene_visual": "The giraffe slowly lifts her head from the well, revealing a large wet leaf filled with water held in her mouth. Water drips from the leaf, and a joyful sparkle lights up her eyes as a proud smile spreads across her lips.",
+      "supporting_char_keys": [
+        "deer",
+        "monkey",
+        "rabbit"
+      ],
+      "text_te_en": "Giraa Tala Paiki Raagaane, Aame Notilo Oka Pedda Tadi Aaku Kanipinchindi — Daani Nindaa Viluvaina Niru Undi! Aa Aaku Nundi Niru Mellagaa Kindaku Kaarutundagaa, Giraa Kallalo Aanandam Merisindi, Oka Chirunavvu Aame Pedavulapai Virisindi. Aame Garvangaa \"Ikkada Niru Undi! Chinnadi Ayinaa Undi!\" Ani Cheppindi. Jantuvulu Nammalenatlugaa Kallu Peddavi Chesukuni, Krritajnyatato Aame Vaipu Chushaayi. Avi Praanam Pose Aa Niti Kosam Urukulu Parugulugaa Vachchaayi.",
+      "text_en": "As Gira's head came up, a large wet leaf appeared in her mouth—full of precious water! As the water slowly dripped from the leaf, joy sparkled in Gira's eyes, and a smile bloomed on her lips. She proudly said, \"There's water here! Even if it's a little!\" The animals' eyes widened in disbelief, and they looked at her with gratitude. They rushed forward for that life-giving water."
+    },
+    {
+      "id": 7,
+      "text": "ఆ తర్వాత గిరా చాలా ఓపికగా మరికొన్ని ఆకులతో నీటిని పైకి తెచ్చి, దాహంతో ఉన్న అన్ని జంతువులకు పంచింది. జంతువులు చల్లటి నీటిని ఆత్రంగా తాగుతుండగా, వాటి గొంతులు తడిసి, ఆత్రుత తగ్గింది. \"గిరా! నీ పొడవాటి మెడ మాకు ప్రాణం పోసింది!\" అని కృతజ్ఞతతో గట్టిగా చెప్పాయి. గిరా తల పైకెత్తి, తనలో ఉన్న సంకోచం పూర్తిగా మాయమై, ఆత్మవిశ్వాసంతో నిలబడింది. ఆమె ముఖం సంతోషంతో వెలిగిపోయింది — అడవిలో అందరూ కలిసి నిలబడ్డారు.",
+      "image_prompt": "The giraffe patiently brings up more water-filled leaves, distributing them to all the thirsty animals. She stands tall with her head held high, her face glowing with happiness and newfound confidence among the eagerly drinking animals. Peaceful twilight, soft blues and purples, as the animals drink and rest, a sense of community, relief, and gratitude filling the air.",
+      "scene_visual": "The giraffe patiently brings up more water-filled leaves, distributing them to all the thirsty animals. She stands tall with her head held high, her face glowing with happiness and newfound confidence among the eagerly drinking animals.",
+      "supporting_char_keys": [
+        "deer",
+        "monkey",
+        "rabbit"
+      ],
+      "text_te_en": "Aa Tarvaata Giraa Chaalaa Opikagaa Marikonni Aakulato Nitini Paiki Techchi, Daahanto Unna Anni Jantuvulaku Panchindi. Jantuvulu Challati Nitini Aatrangaa Taagutundagaa, Vaati Gontulu Tadisi, Aatruta Taggindi. \"Giraa! Ni Podavaati Meda Maaku Praanam Posindi!\" Ani Krritajnyatato Gattigaa Cheppaayi. Giraa Tala Paiketti, Tanalo Unna Sankocham Purtigaa Maayamai, Aatmavishvaasanto Nilabadindi. Aame Mukham Santoshanto Veligipoyindi — Adavilo Andaru Kalisi Nilabaddaaru.",
+      "text_en": "After that, Gira very patiently brought up more water with leaves and shared it with all the thirsty animals. As the animals eagerly drank the cool water, their throats were moistened, and their anxiety lessened. \"Gira! Your long neck saved our lives!\" they said loudly with gratitude. Gira lifted her head, all her hesitation completely gone, and stood with confidence. Her face glowed with happiness—everyone in the forest stood together."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "deer",
+      "description": "A graceful, light-brown deer with slender legs and large, watchful eyes. She is often the voice of caution and wisdom among the group. Always the same character across every scene."
+    },
+    {
+      "key": "monkey",
+      "description": "A small, agile monkey with expressive features and a long, prehensile tail. He is full of energy and often tries to solve problems with quick, impulsive actions. Always the same character across every scene."
+    },
+    {
+      "key": "rabbit",
+      "description": "A small, fluffy white rabbit with twitching nose and long ears. He is timid and easily startled, often looking to others for reassurance and solutions. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and exceptional child engagement with well-crafted suspense. The emotional depth is largely achieved through showing, which is commendable. To elevate this to an award-worthy piece, the primary focus should be on enhancing the oral warmth of the narration, making it sound more like a grandparent's voice. Additionally, ensuring every scene features natural, character-specific dialogue would significantly enrich the story's texture and flow."
+  },
+  "title_te_en": "Giraa Podavaati Meda, Praanam Posina Niru",
+  "moral_te_en": "Manalo Unna Pratyekamaina Shaktulanu Gurtinchi, Vaatini Itarula Melu Kosam Upayoginchadam Chaalaa Goppa Vishayan.",
+  "title_en": "Gira's Long Neck and the Life-Giving Water",
+  "moral_en": "It is a wonderful thing to recognize the special strengths within us and use them for the good of others.",
+  "id": "20260603_191046",
+  "date": "2026-06-03",
+  "category": "neeti",
+  "subcategory": "animal_morals",
+  "topic": "పొడవాటి మెడ జిరాఫీ మరియు నీటి కోసం కష్టపడిన ఇతర జంతువులు | Moral: మనలో ఉన్న ప్రత్యేకమైన శక్తులను గుర్తించి, వాటిని ఇతరుల మేలు కోసం ఉపయోగించడం చాలా గొప్ప విషయం.",
+  "thumbnail": "stories/20260603_191046/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
