@@ -1,0 +1,117 @@
+{
+  "title": "చిట్టి పువ్వు కృతజ్ఞత",
+  "moral": "చిన్న మంచితనం కూడా పెద్ద మార్పును తీసుకురాగలదు, ఎవరికి సహాయం చేయాలో ఎప్పుడూ తెలియదు కదా.",
+  "main_character": "A tiny, vibrant yellow flower named Tejassu, with soft, delicate petals and a bright green stem. It's often overlooked by others due to its small size but possesses a strong will to live and a kind heart. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant but slightly overgrown garden in a small, traditional Telugu village near Rajahmundry. There are large rose bushes, smaller flowering plants, and patches of dry earth under a clear sky. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాజమండ్రి దగ్గర ఒక అందమైన తోటలో, పసుపు రంగులో మెరిసే చిట్టి పువ్వు తేజస్సు ఉండేది. ఉదయాన్నే సూర్యకిరణాలు దాని లేత రేకులపై పడగానే — అది తన లేత రేకులను సూర్యుడి వైపు విప్పుకుంది — మెల్లిగా, ఆనందంగా. తేజస్సు రేకులపై ఉన్న మంచు బిందువులు మెరుస్తూ, చల్లగా అనిపించాయి. అవి తాగి, తేజస్సు తన కొమ్మను కొద్దిగా పైకి లేపింది. \"ఆహ్, ఈ ఉదయం ఎంత బాగుంది! ప్రపంచం ఎంత అద్భుతంగా ఉంది!\" అని అది తనలో తాను అనుకుంది. ఆ చిట్టి పువ్వు తన రోజును ప్రారంభించడానికి సిద్ధంగా ఉంది.",
+      "image_prompt": "The small, yellow flower slowly unfurls its delicate petals towards the rising sun. Tiny dew drops shimmer on its petals, reflecting the morning light. ప్రకాశవంతమైన, బంగారు ఉదయపు సూర్యరశ్మి, మంచు బిందువులు మెరుస్తూ, శాంతితో కూడిన కాంతి.",
+      "scene_visual": "The small, yellow flower slowly unfurls its delicate petals towards the rising sun. Tiny dew drops shimmer on its petals, reflecting the morning light.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajamandri Daggara Oka Andamaina Totalo, Pasupu Rangulo Merise Chitti Puvvu Tejassu Undedi. Udayaanne Suryakiranaalu Daani Leta Rekulapai Padagaane — Adi Tana Leta Rekulanu Suryudi Vaipu Vippukundi — Melligaa, Aanandangaa. Tejassu Rekulapai Unna Manchu Binduvulu Merustu, Challagaa Anipinchaayi. Avi Taagi, Tejassu Tana Kommanu Koddigaa Paiki Lepindi. \"Aah, I Udayam Enta Baagundi! Prapancham Enta Adbhutangaa Undi!\" Ani Adi Tanalo Taanu Anukundi. Aa Chitti Puvvu Tana Rojunu Praarambhinchadaaniki Siddhangaa Undi.",
+      "text_en": "In a beautiful garden near Rajahmundry, there lived a little yellow flower named Tejassu, shining brightly. As soon as the morning sun rays fell on its soft petals, it slowly and happily opened its delicate petals towards the sun. The dewdrops on Tejassu's petals sparkled and felt cool. After drinking them, Tejassu lifted its stem a little. \"Ah, what a beautiful morning! How wonderful the world is!\" it thought to itself. The little flower was ready to start its day."
+    },
+    {
+      "id": 2,
+      "text": "మొన్నటిలాగే, తోటమాలి వచ్చి తోటలోని పెద్ద గులాబీ మొక్కలకు నీరు పోయడం ప్రారంభించాడు. గులాబీల నుండి తీపి, బలమైన సువాసన తేజస్సు వైపునకు వీచింది. తేజస్సు తన చిన్న ఆకులను కొద్దిగా ముడుచుకుంది, తోటమాలి తనవైపు చూస్తాడేమోనని ఆశగా నిరీక్షించింది. \"అవి ఎంత అదృష్టవంతులు! ఎప్పుడూ ఇంత అందంగా ఉంటాయి, ఎప్పుడూ నీటిని పొందుతాయి,\" అని తేజస్సు అనుకుంది. కానీ తోటమాలి కళ్ళు — దానివైపు అస్సలు పడలేదు. అతను వెళ్ళిపోగానే, తేజస్సు చుట్టూ ఉన్న నేల ఇంకా పొడిగానే మిగిలిపోయింది.",
+      "image_prompt": "The small flower slightly folds its tiny leaves, hopefully watching the gardener. The gardener's gaze remains fixed on the large rose bushes, completely overlooking the small flower. మధ్యాహ్నపు సూర్యుడు, గులాబీలపై కొంచెం ప్రకాశవంతంగా, తేజస్సు స్థలంపై ఒక నీడ నెమ్మదిగా కదులుతుంది.",
+      "scene_visual": "The small flower slightly folds its tiny leaves, hopefully watching the gardener. The gardener's gaze remains fixed on the large rose bushes, completely overlooking the small flower.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Monnatilaage, Totamaali Vachchi Totaloni Pedda Gulaabi Mokkalaku Niru Poyadam Praarambhinchaadu. Gulaabila Nundi Tipi, Balamaina Suvaasana Tejassu Vaipunaku Vichindi. Tejassu Tana Chinna Aakulanu Koddigaa Muduchukundi, Totamaali Tanavaipu Chustaademonani Aashagaa Nirikshinchindi. \"Avi Enta Adrrishtavantulu! Eppudu Inta Andangaa Untaayi, Eppudu Nitini Pondutaayi,\" Ani Tejassu Anukundi. Kaani Totamaali Kallu — Daanivaipu Assalu Padaledu. Atanu Vellipogaane, Tejassu Chuttu Unna Nela Inkaa Podigaane Migilipoyindi.",
+      "text_en": "Just like yesterday, the gardener came and started watering the big rose bushes in the garden. A sweet, strong scent from the roses drifted towards Tejassu. Tejassu curled its small leaves a little, hoping the gardener would notice it. \"How lucky they are! Always so beautiful, always getting water,\" Tejassu thought. But the gardener's eyes didn't fall on it at all. After he left, the soil around Tejassu remained dry."
+    },
+    {
+      "id": 3,
+      "text": "కొన్ని రోజులు వర్షం లేక, తోటమాలి కూడా తేజస్సును మర్చిపోవడంతో, దాని లేత ఆకులు కిందకు వాలిపోయాయి. దాని వేర్లు — పొడి నేల పగుళ్ళలో బిగుసుకుపోయాయి. దాని చిన్న కొమ్మ వంగిపోయింది, రేకులు వాడిపోవడం మొదలుపెట్టాయి. \"నాకు చాలా దాహంగా ఉంది, నా రేకులు వాడిపోతున్నాయి! నేను ఇంకా ఎంతకాలం ఇలా ఉండగలను?\" అని తేజస్సు బలహీనంగా గుసగుసలాడింది. ఇంతలో, ఒక చిన్న, మెరిసే పురుగు తేమ కోసం వెతుకుతూ దాని పక్కన నెమ్మదిగా పాకింది.",
+      "image_prompt": "The small flower's delicate leaves hang limply downwards, and its stem is bent. Its roots are tightly gripped in the cracks of the dry soil, while a small, shiny insect crawls slowly beside it. కఠినమైన మధ్యాహ్న సూర్యుడు, ప్రతిదీ మసకబారి, పొడిగా కనిపిస్తుంది, వేడి మరియు అలసట భావం.",
+      "scene_visual": "The small flower's delicate leaves hang limply downwards, and its stem is bent. Its roots are tightly gripped in the cracks of the dry soil, while a small, shiny insect crawls slowly beside it.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojulu Varsham Leka, Totamaali Kudaa Tejassunu Marchipovadanto, Daani Leta Aakulu Kindaku Vaalipoyaayi. Daani Verlu — Podi Nela Pagullalo Bigusukupoyaayi. Daani Chinna Komma Vangipoyindi, Rekulu Vaadipovadam Modalupettaayi. \"Naaku Chaalaa Daahangaa Undi, Naa Rekulu Vaadipotunnaayi! Nenu Inkaa Entakaalam Ilaa Undagalanu?\" Ani Tejassu Balahinangaa Gusagusalaadindi. Intalo, Oka Chinna, Merise Purugu Tema Kosam Vetukutu Daani Pakkana Nemmadigaa Paakindi.",
+      "text_en": "For several days, there was no rain, and the gardener also forgot about Tejassu. Its delicate leaves drooped downwards. Its roots were stuck in the cracks of the dry soil. Its small stem bent, and its petals began to wilt. \"I'm so thirsty, my petals are wilting! How much longer can I last like this?\" Tejassu whispered weakly. Just then, a small, shiny insect slowly crawled past it, searching for moisture."
+    },
+    {
+      "id": 4,
+      "text": "అప్పుడు ఆశ్చర్యంగా ఒక అద్భుతం జరిగింది — మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? ఆ చిన్న మెరిసే పురుగు, నిజానికి ఒక తేనెటీగ, తేజస్సు వాడిపోయిన రేకులను చూసింది. ఆ క్షణంలో, ఒక చల్లని బిందువు — దాని లేత రేకపై పడింది. తేనెటీగ దానిపై కొన్ని నీటి బిందువులను జార్చింది. తేజస్సు రేకులపై నీటి చల్లని, రిఫ్రెష్ అనుభూతి కలిగింది, దాని లేత ఆకులు కొద్దిగా పైకి లేచాయి. \"ఓహ్, ఇది ఎంత అద్భుతం! ధన్యవాదాలు, చిన్న తేనెటీగ, నువ్వు నాకు ప్రాణం పోసావు!\" అని తేజస్సు కృతజ్ఞతగా గుసగుసలాడింది. తేనెటీగ ఎగిరిపోయినప్పటికీ, తేజస్సు కొద్దిగా మెరుగైన అనుభూతి చెందింది, కానీ ఇంకా బలహీనంగానే ఉంది.",
+      "image_prompt": "A small, shiny bee drops several cool water droplets onto the wilting petals of the flower. The flower's delicate leaves slightly lift as it feels the refreshing coolness of the water. తేనెటీగ వెళ్ళేటప్పుడు కొద్దిసేపు దట్టమైన నీడ, నీటి బిందువులపై చిన్నగా మెరుస్తున్న కాంతి.",
+      "scene_visual": "A small, shiny bee drops several cool water droplets onto the wilting petals of the flower. The flower's delicate leaves slightly lift as it feels the refreshing coolness of the water.",
+      "supporting_char_keys": [
+        "bee"
+      ],
+      "text_te_en": "Appudu Aashcharyangaa Oka Adbhutam Jarigindi — Miku Telusaa, Appudu Em Jarigindo? Aa Chinna Merise Purugu, Nijaaniki Oka Tenetiga, Tejassu Vaadipoyina Rekulanu Chusindi. Aa Kshananlo, Oka Challani Binduvu — Daani Leta Rekapai Padindi. Tenetiga Daanipai Konni Niti Binduvulanu Jaarchindi. Tejassu Rekulapai Niti Challani, Riphresh Anubhuti Kaligindi, Daani Leta Aakulu Koddigaa Paiki Lechaayi. \"Oh, Idi Enta Adbhutan! Dhanyavaadaalu, Chinna Tenetiga, Nuvvu Naaku Praanam Posaavu!\" Ani Tejassu Krritajnyatagaa Gusagusalaadindi. Tenetiga Egiripoyinappatiki, Tejassu Koddigaa Merugaina Anubhuti Chendindi, Kaani Inkaa Balahinangaane Undi.",
+      "text_en": "Then, surprisingly, a miracle happened — do you know what happened then? That small, shiny insect, which was actually a bee, saw Tejassu's wilted petals. At that moment, a cool drop fell onto its delicate petal. The bee dropped a few water droplets onto it. Tejassu felt the cool, refreshing sensation of water on its petals, and its delicate leaves lifted slightly. \"Oh, how wonderful! Thank you, little bee, you saved my life!\" Tejassu whispered gratefully. Even though the bee flew away, Tejassu felt a little better, but was still weak."
+    },
+    {
+      "id": 5,
+      "text": "తేనెటీగ చేసిన సహాయాన్ని గుర్తుంచుకుంటూ, తేజస్సు తనలో మిగిలి ఉన్న శక్తిని అంతా కూడదీసుకుంది. దాని లేత రేకులను కష్టంగా పైకి లేపి, తనలోని కొద్దిపాటి మధుర రసాన్ని బయటకు తీయడానికి ప్రయత్నించింది. దాని గుండెలోంచి — ఒక తీపి సువాసన వెలువడింది. \"నేను కూడా సహాయం చేయగలను... నేను బ్రతకాలి! నేను కృతజ్ఞత చూపించాలి!\" అని అది గట్టిగా అనుకుంది. ఆ మసక, తీపి సువాసనతో ఆకర్షించబడి, తేనెటీగ తిరిగి వచ్చింది, తేజస్సు చేసిన ప్రయత్నాన్ని ఆశ్చర్యంగా చూసింది.",
+      "image_prompt": "The flower strains to lift its delicate petals, attempting to release a small amount of its sweet nectar. A faint, sweet fragrance emanates from its core, drawing the bee back to observe its effort with surprise. సాయంత్రం సూర్యుడు, వెచ్చగా కానీ తక్కువ తీవ్రతతో, తేజస్సు యొక్క పోరాటాన్ని హైలైట్ చేస్తుంది.",
+      "scene_visual": "The flower strains to lift its delicate petals, attempting to release a small amount of its sweet nectar. A faint, sweet fragrance emanates from its core, drawing the bee back to observe its effort with surprise.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenetiga Chesina Sahaayaanni Gurtunchukuntu, Tejassu Tanalo Migili Unna Shaktini Antaa Kudadisukundi. Daani Leta Rekulanu Kashtangaa Paiki Lepi, Tanaloni Koddipaati Madhura Rasaanni Bayataku Tiyadaaniki Prayatninchindi. Daani Gundelonchi — Oka Tipi Suvaasana Veluvadindi. \"Nenu Kudaa Sahaayam Cheyagalanu... Nenu Bratakaali! Nenu Krritajnyata Chupinchaali!\" Ani Adi Gattigaa Anukundi. Aa Masaka, Tipi Suvaasanato Aakarshinchabadi, Tenetiga Tirigi Vachchindi, Tejassu Chesina Prayatnaanni Aashcharyangaa Chusindi.",
+      "text_en": "Remembering the bee's help, Tejassu gathered all the remaining strength within itself. It struggled to lift its delicate petals and tried to bring out its small amount of sweet nectar. From its heart, a sweet fragrance emerged. \"I can help too... I must live! I must show my gratitude!\" it thought firmly. Attracted by that faint, sweet scent, the bee returned, surprised by Tejassu's effort."
+    },
+    {
+      "id": 6,
+      "text": "తేనెటీగ తేజస్సు యొక్క మధుర రసాన్ని గ్రహించి, దాని చుట్టూ ఆనందంగా ఎగరడం మొదలుపెట్టింది. దాని సున్నితమైన, నిరంతరాయమైన రెక్కల చప్పుడు తోటమాలి దృష్టిని ఆకర్షించింది. తేజస్సు తన రేకులను తేనెటీగ వైపు కొద్దిగా వంచింది, దాని చిన్న కొమ్మ మెల్లిగా ఊగింది. \"బజ్జ్జ్జ్జ్! బజ్జ్జ్జ్జ్! (ఇక్కడ నీరు కావాలి!)\" అని తేనెటీగ తోటమాలి చుట్టూ తిరుగుతూ చెప్పినట్లు అనిపించింది. తోటమాలి తేనెటీగను చూస్తూ — ఒక క్షణం ఆగిపోయాడు, దాని పట్టుదలకు ఆశ్చర్యపోయాడు. చివరకు అతను తేనెటీగను అనుసరించి తేజస్సు వద్దకు వచ్చాడు.",
+      "image_prompt": "The bee joyfully buzzes around the flower, then flies persistently around the gardener. The gardener pauses, watching the bee's determined flight, before following it towards the small flower. బంగారు గంట, సూర్యుడు పొడవైన నీడలను వేస్తుంది, ఆవశ్యకత మరియు రాబోయే మార్పు యొక్క భావం.",
+      "scene_visual": "The bee joyfully buzzes around the flower, then flies persistently around the gardener. The gardener pauses, watching the bee's determined flight, before following it towards the small flower.",
+      "supporting_char_keys": [
+        "gardener",
+        "bee"
+      ],
+      "text_te_en": "Tenetiga Tejassu Yokka Madhura Rasaanni Grahinchi, Daani Chuttu Aanandangaa Egaradam Modalupettindi. Daani Sunnitamaina, Nirantaraayamaina Rekkala Chappudu Totamaali Drrishtini Aakarshinchindi. Tejassu Tana Rekulanu Tenetiga Vaipu Koddigaa Vanchindi, Daani Chinna Komma Melligaa Ugindi. \"Bajjjjj! Bajjjjj! (Ikkada Niru Kaavaali!)\" Ani Tenetiga Totamaali Chuttu Tirugutu Cheppinatlu Anipinchindi. Totamaali Tenetiganu Chustu — Oka Kshanam Aagipoyaadu, Daani Pattudalaku Aashcharyapoyaadu. Chivaraku Atanu Tenetiganu Anusarinchi Tejassu Vaddaku Vachchaadu.",
+      "text_en": "The bee collected Tejassu's sweet nectar and began to fly happily around it. Its gentle, continuous buzzing attracted the gardener's attention. Tejassu slightly bent its petals towards the bee, and its small stem swayed gently. \"Buzzzzz! Buzzzzz! (Water is needed here!)\" the bee seemed to say as it flew around the gardener. The gardener looked at the bee, paused for a moment, surprised by its persistence. Finally, he followed the bee to Tejassu."
+    },
+    {
+      "id": 7,
+      "text": "తోటమాలి తేజస్సు వాడిపోయిన స్థితిని చూసి, గతంలో దానిని విస్మరించినందుకు ఒక్కసారిగా అర్థం చేసుకున్నాడు. అతను వెంటనే నీరు తెచ్చి, ఆ చిన్న పువ్వు వేర్లకు పోశాడు. పొడి వాతావరణం తర్వాత తడి నేల యొక్క తాజా, మట్టి వాసనతో తేజస్సు పులకించిపోయింది. దాని రేకులు పూర్తిగా విచ్చుకున్నాయి, కొమ్మ నిటారుగా నిలబడింది. \"ఈ చిన్న పువ్వుకి కూడా శ్రద్ధ అవసరం! ఎంత అందంగా వికసించిందో!\" అని తోటమాలి చిరునవ్వుతో అన్నాడు. తేజస్సు మొత్తం తోటలోనే — అద్భుతంగా మెరిసిపోయింది, కృతజ్ఞతతో నిండిన దాని అందం తోట మొత్తాన్ని ప్రకాశవంతం చేసింది.",
+      "image_prompt": "The gardener pours water directly onto the roots of the small, wilting flower. The flower's petals fully open, and its stem stands upright, radiating a vibrant glow. మృదువైన, సున్నితమైన సంధ్యా కాంతి, వెచ్చని అంబర్ రంగు, పునరుజ్జీవింపబడిన పువ్వును హైలైట్ చేస్తుంది.",
+      "scene_visual": "The gardener pours water directly onto the roots of the small, wilting flower. The flower's petals fully open, and its stem stands upright, radiating a vibrant glow.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Totamaali Tejassu Vaadipoyina Sthitini Chusi, Gatanlo Daanini Vismarinchinanduku Okkasaarigaa Artham Chesukunnaadu. Atanu Ventane Niru Techchi, Aa Chinna Puvvu Verlaku Poshaadu. Podi Vaataavaranam Tarvaata Tadi Nela Yokka Taajaa, Matti Vaasanato Tejassu Pulakinchipoyindi. Daani Rekulu Purtigaa Vichchukunnaayi, Komma Nitaarugaa Nilabadindi. \"I Chinna Puvvuki Kudaa Shraddha Avasaran! Enta Andangaa Vikasinchindo!\" Ani Totamaali Chirunavvuto Annaadu. Tejassu Mottam Totalone — Adbhutangaa Merisipoyindi, Krritajnyatato Nindina Daani Andam Tota Mottaanni Prakaashavantam Chesindi.",
+      "text_en": "The gardener saw Tejassu's wilted state and suddenly understood how he had neglected it before. He immediately brought water and poured it onto the roots of the little flower. Tejassu thrilled with the fresh, earthy smell of wet soil after the dry spell. Its petals fully opened, and its stem stood straight. \"Even this little flower needs care! How beautifully it has bloomed!\" the gardener said with a smile. Tejassu shone wonderfully throughout the entire garden, its beauty, filled with gratitude, brightened the whole garden."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "gardener",
+      "description": "A middle-aged man with a weathered face, wearing a simple blue dhoti and a white shirt. He carries a small watering can and tends to the garden with care, though sometimes gets distracted by the larger plants. Always the same character across every scene."
+    },
+    {
+      "key": "bee",
+      "description": "A small, fuzzy honeybee with black and yellow stripes, constantly flitting between flowers. It is diligent and observant, always seeking nectar and sometimes noticing things others miss. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 7.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and exceptional child engagement, particularly with its direct address to the listener. To elevate it to award-worthy status, the primary focus should be on enhancing dialogue richness. Incorporating more direct, character-specific conversations, rather than internal monologues, would make the story more dynamic. Additionally, consistently showing emotions through actions and reactions, instead of explicitly stating them, would significantly deepen its emotional resonance."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chitti Puvvu Krritajnyata",
+  "moral_te_en": "Chinna Manchitanam Kudaa Pedda Maarpunu Tisukuraagaladu, Evariki Sahaayam Cheyaalo Eppudu Teliyadu Kadaa.",
+  "title_en": "The Little Flower's Gratitude",
+  "moral_en": "Even a small act of kindness can bring about a big change. You never know who you might help.",
+  "id": "20260603_111304",
+  "date": "2026-06-03",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "కృతజ్ఞత గల చిన్న పువ్వు",
+  "thumbnail": "stories/20260603_111304/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
