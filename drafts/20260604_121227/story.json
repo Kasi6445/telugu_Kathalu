@@ -1,0 +1,98 @@
+{
+  "title": "తెనాలి, ఆలోచనల బహుమతి",
+  "moral": "తెలివైన ఆలోచనలు, మంచి మనసుతో పంచుకుంటే, అవి ఏ బహుమతి కంటే గొప్పవి, కదా నాన్న?",
+  "main_character": "A quick-witted and intelligent court jester and advisor in the Vijayanagara Empire. He is known for his sharp intellect, humor, and ability to solve complex problems with simple, clever solutions. Always the same character across every scene.",
+  "antagonist": "The wise and powerful emperor of the Vijayanagara Empire. He is often stern but fair, and enjoys testing the intelligence of his courtiers, especially Tenali. Always the same character across every scene.",
+  "setting": "The grand royal court of Vijayanagara, a bustling city in South India. The court is adorned with rich tapestries, polished marble floors, and large open arches looking out onto lush gardens. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అది విజయ నగర రాజుల గొప్ప సభ, తెలుసా? ఒక మంత్రి, రాజుగారిని పొగుడుతూ, \"మహారాజా, మీ తేజస్సు సూర్యుడిని మించిపోయింది!\" అని గొప్పగా అన్నాడు. అందరూ తలలు వంచి, పట్టు వస్త్రాల మెల్లటి శబ్దంతో ఆయన మాటలకు మద్దతు పలికారు. తెనాలి రామకృష్ణుడు పెదవులపై చిన్న చిరునవ్వుతో, మెల్లగా అడుగులు వేశాడు. \"మహారాజా, సూర్యుడు ప్రకాశవంతంగా ఉన్నాడు, కానీ చంద్రుడు కవిత్వానికి మరింత అందమైనవాడు!\" అని వినయంగా పలికాడు. ఆ మాట వినగానే — సభలో ఒక్కసారిగా నిశ్శబ్దం. రాజుగారు తెనాలి వైపు చూశారు, ఆయన కళ్ళల్లో ఒక తెలిసిన చిరునవ్వు మెరిసింది.",
+      "image_prompt": "The boy stands before the king, speaking respectfully. A knowing smile twinkles in the king's eyes as he looks at the boy. Also in this scene: The wise and powerful emperor of the Vijayanagara Empire. He is often stern but fair, and enjoys testing the intelligence of his courtiers, especially Tenali. Always the same character across every scene. Bright morning light streaming through large arched windows, illuminating dust motes dancing in the air, creating a warm, regal atmosphere.",
+      "scene_visual": "The boy stands before the king, speaking respectfully. A knowing smile twinkles in the king's eyes as he looks at the boy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Adi Vijaya Nagara Raajula Goppa Sabha, Telusaa? Oka Mantri, Raajugaarini Pogudutu, \"Mahaaraajaa, Mi Tejassu Suryudini Minchipoyindi!\" Ani Goppagaa Annaadu. Andaru Talalu Vanchi, Pattu Vastraala Mellati Shabdanto Aayana Maatalaku Maddatu Palikaaru. Tenaali Raamakrrishnudu Pedavulapai Chinna Chirunavvuto, Mellagaa Adugulu Veshaadu. \"Mahaaraajaa, Suryudu Prakaashavantangaa Unnaadu, Kaani Chandrudu Kavitvaaniki Marinta Andamainavaadu!\" Ani Vinayangaa Palikaadu. Aa Maata Vinagaane — Sabhalo Okkasaarigaa Nishshabdan. Raajugaaru Tenaali Vaipu Chushaaru, Aayana Kallallo Oka Telisina Chirunavvu Merisindi.",
+      "text_en": "Do you know, it was a grand assembly of the Vijayanagara kings? A minister, praising the King, grandly said, \"Maharaja, your brilliance surpasses the sun!\" Everyone bowed their heads, and with the soft rustle of silk clothes, they supported his words. Tenali Ramakrishna, with a small smile on his lips, slowly stepped forward. He humbly said, \"Maharaja, the sun is bright, but the moon is more beautiful for poetry!\" As soon as they heard those words — there was sudden silence in the assembly. The King looked at Tenali, and a knowing smile sparkled in his eyes."
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి మాటలకు రాజు నవ్వగానే, ఇంతలో ఒక బటుడు వచ్చి పెద్ద రాజగంట మోగించాడు. ఆ భారీ గంట చప్పుడు సభ అంతా ప్రతిధ్వనించింది, అందరి దృష్టి రాజు వైపు మళ్ళింది. రాజుగారు గంభీరంగా ఇలా ప్రకటించారు: \"నాకు బంగారమో, రత్నాలో వద్దు. ఈ రాజ్యానికి నిజంగా ఉపయోగపడే ఒక కొత్త ఆలోచన కావాలి!\" మంత్రుల ముఖాల్లో ఒక్కసారిగా ఆందోళన కనిపించింది — వాళ్ళు గుసగుసలాడడం మొదలుపెట్టారు. తెనాలి నుదుటిపై చిన్న ముడత పడింది, అతను చాలా శ్రద్ధగా వింటున్నాడు. అందరూ కంగారు పడుతుంటే, తెనాలి మాత్రం నిశ్శబ్దంగా నిలబడ్డాడు.",
+      "image_prompt": "The king stands solemnly, addressing the assembly with a serious expression. Ministers whisper amongst themselves, their faces showing sudden anxiety, while the boy stands silently with a slight furrow in his brow. Also in this scene: The wise and powerful emperor of the Vijayanagara Empire. He is often stern but fair, and enjoys testing the intelligence of his courtiers, especially Tenali. Always the same character across every scene. Midday sun, bright and direct, casting sharp shadows from the pillars, emphasizing the seriousness of the King's decree.",
+      "scene_visual": "The king stands solemnly, addressing the assembly with a serious expression. Ministers whisper amongst themselves, their faces showing sudden anxiety, while the boy stands silently with a slight furrow in his brow.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Maatalaku Raaju Navvagaane, Intalo Oka Batudu Vachchi Pedda Raajaganta Moginchaadu. Aa Bhaari Ganta Chappudu Sabha Antaa Pratidhvaninchindi, Andari Drrishti Raaju Vaipu Mallindi. Raajugaaru Gambhirangaa Ilaa Prakatinchaaru: \"Naaku Bangaaramo, Ratnaalo Vaddu. I Raajyaaniki Nijangaa Upayogapade Oka Kotta Aalochana Kaavaali!\" Mantrula Mukhaallo Okkasaarigaa Aandolana Kanipinchindi — Vaallu Gusagusalaadadam Modalupettaaru. Tenaali Nudutipai Chinna Mudata Padindi, Atanu Chaalaa Shraddhagaa Vintunnaadu. Andaru Kangaaru Padutunte, Tenaali Maatram Nishshabdangaa Nilabaddaadu.",
+      "text_en": "As the King laughed at Tenali's words, a guard came and rang the big royal bell. The sound of the huge bell echoed throughout the assembly, and everyone's attention turned to the King. The King solemnly announced: \"I don't want gold or jewels. I want a new idea that will truly benefit this kingdom!\" Suddenly, worry appeared on the ministers' faces — they started whispering. A small wrinkle appeared on Tenali's forehead; he was listening very carefully. While everyone else was getting worried, Tenali stood silently."
+    },
+    {
+      "id": 3,
+      "text": "మంత్రులు తమ తమ బహుమతులతో రాజుగారిని మెప్పించడానికి పోటీపడ్డారు. ఒక మంత్రి పెద్ద బంగారు పెట్టెను తెచ్చి, దానిలోని ఆభరణాలు గలగల శబ్దం చేసేలా విప్పాడు. మరొకరు అరుదైన పట్టు వస్త్రాలు, ఇంకొకరు విలువైన రత్నాలు తెచ్చారు. రాజుగారు విసుగుగా తల ఊపారు — ఆయన ముఖం కఠినంగా మారింది. \"ఇవి మంచి బహుమతులే, కానీ ఆలోచనలు కావు కదా?\" అని రాజుగారు నిరాశగా అడిగారు. తెనాలి నిట్టూర్చాడు, అతని ముఖంలో చిన్న నిరాశ కనిపించింది.",
+      "image_prompt": "The king shakes his head in weariness, his face set in a stern expression. He looks at the presented gold box, rare silk garments, and precious gems with clear disappointment. Also in this scene: The wise and powerful emperor of the Vijayanagara Empire. He is often stern but fair, and enjoys testing the intelligence of his courtiers, especially Tenali. Always the same character across every scene. Late afternoon light, slightly warmer, casting long, soft shadows, as the day wears on and the King's patience wears thin.",
+      "scene_visual": "The king shakes his head in weariness, his face set in a stern expression. He looks at the presented gold box, rare silk garments, and precious gems with clear disappointment.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mantrulu Tama Tama Bahumatulato Raajugaarini Meppinchadaaniki Potipaddaaru. Oka Mantri Pedda Bangaaru Pettenu Techchi, Daaniloni Aabharanaalu Galagala Shabdam Cheselaa Vippaadu. Marokaru Arudaina Pattu Vastraalu, Inkokaru Viluvaina Ratnaalu Techchaaru. Raajugaaru Visugugaa Tala Upaaru — Aayana Mukham Kathinangaa Maarindi. \"Ivi Manchi Bahumatule, Kaani Aalochanalu Kaavu Kadaa?\" Ani Raajugaaru Niraashagaa Adigaaru. Tenaali Nitturchaadu, Atani Mukhanlo Chinna Niraasha Kanipinchindi.",
+      "text_en": "The ministers competed to impress the King with their gifts. One minister brought a large golden box and opened it, making the jewels inside jingle. Another brought rare silk clothes, and yet another brought precious gems. The King shook his head in annoyance — his face grew stern. The King asked disappointedly, \"These are good gifts, but they are not ideas, are they?\" Tenali sighed, a hint of disappointment showing on his face."
+    },
+    {
+      "id": 4,
+      "text": "సభ నుండి బయటపడి, తెనాలి రాజభవనం తోటల్లోకి నడిచాడు. మల్లెపూల మధురమైన వాసన గాలిలో తేలియాడుతోంది, కానీ అతను దానిని గమనించలేదు. అతని చూపులు దూరంగా ఎటో చూస్తున్నాయి, ఆలోచనల్లో మునిగిపోయినట్లు కనిపించాడు. \"జ్ఞానం ఎప్పుడూ కళ్ళ ముందు ఉండేదే, కానీ దాన్ని చూడగలగాలి\" అని మెల్లగా తనలో తనే అనుకున్నాడు. పిల్లలు అక్కడే ఒక చిన్న ఆట ఆడుకుంటున్నారు. తెనాలి వాళ్ళ దగ్గర ఆగాడు — అతని ముఖంలో ఒక ఆలోచన మెరిసింది.",
+      "image_prompt": "The boy walks through the palace gardens, his gaze distant and lost in thought. He stops near playing children, and a sudden idea sparks in his expression. Golden hour light, soft and diffused through the leaves of ancient trees, creating a peaceful, contemplative atmosphere in the garden.",
+      "scene_visual": "The boy walks through the palace gardens, his gaze distant and lost in thought. He stops near playing children, and a sudden idea sparks in his expression.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sabha Nundi Bayatapadi, Tenaali Raajabhavanam Totalloki Nadichaadu. Mallepula Madhuramaina Vaasana Gaalilo Teliyaadutondi, Kaani Atanu Daanini Gamaninchaledu. Atani Chupulu Durangaa Eto Chustunnaayi, Aalochanallo Munigipoyinatlu Kanipinchaadu. \"Jnyaanam Eppudu Kalla Mundu Undede, Kaani Daanni Chudagalagaali\" Ani Mellagaa Tanalo Tane Anukunnaadu. Pillalu Akkade Oka Chinna Aata Aadukuntunnaaru. Tenaali Vaalla Daggara Aagaadu — Atani Mukhanlo Oka Aalochana Merisindi.",
+      "text_en": "Leaving the assembly, Tenali walked into the palace gardens. The sweet scent of jasmine flowers floated in the air, but he didn't notice it. His gaze was fixed somewhere far away; he seemed lost in thought. He softly thought to himself, \"Wisdom is always right before our eyes, but we must be able to see it.\" Children were playing a small game nearby. Tenali stopped near them — an idea sparkled on his face."
+    },
+    {
+      "id": 5,
+      "text": "పిల్లల ఆట చూస్తూ, తెనాలి తన చేతిలోకి ఒక నున్నని రాయిని తీసుకుని, మళ్ళీ కింద పడేశాడు. రాజుగారికి కావలసింది వస్తువులు కాదు — కొత్త ఆలోచనలు అని అప్పుడే అతనికి అర్థమైంది. అతని ముఖం ఒక్కసారిగా వికసించింది, కళ్ళు మెరిశాయి. \"ఆలోచనల బహుమతి అంటే ఆలోచించడానికి ఒక అవకాశం!\" అని సంతోషంగా అన్నాడు. ఒక్కసారిగా — అన్ని ప్రశ్నలకు సమాధానం దొరికింది. తెనాలి వెనక్కి తిరిగి, సభ వైపు వేగంగా నడిచాడు — అతని అడుగుల్లో ఒక కొత్త ఉత్సాహం.",
+      "image_prompt": "The boy's face suddenly brightens, and his eyes sparkle with understanding. He turns quickly and walks with renewed enthusiasm towards the assembly hall. A sudden burst of bright, clear light as Tenali steps out from under the shade of a tree, reflecting his moment of clarity.",
+      "scene_visual": "The boy's face suddenly brightens, and his eyes sparkle with understanding. He turns quickly and walks with renewed enthusiasm towards the assembly hall.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pillala Aata Chustu, Tenaali Tana Chetiloki Oka Nunnani Raayini Tisukuni, Malli Kinda Padeshaadu. Raajugaariki Kaavalasindi Vastuvulu Kaadu — Kotta Aalochanalu Ani Appude Ataniki Arthamaindi. Atani Mukham Okkasaarigaa Vikasinchindi, Kallu Merishaayi. \"Aalochanala Bahumati Ante Aalochinchadaaniki Oka Avakaashan!\" Ani Santoshangaa Annaadu. Okkasaarigaa — Anni Prashnalaku Samaadhaanam Dorikindi. Tenaali Venakki Tirigi, Sabha Vaipu Vegangaa Nadichaadu — Atani Adugullo Oka Kotta Utsaahan.",
+      "text_en": "Watching the children play, Tenali picked up a smooth stone in his hand and then dropped it again. He suddenly understood that the King didn't want objects — he wanted new ideas. His face suddenly brightened, and his eyes sparkled. He happily exclaimed, \"A gift of ideas means an opportunity to think!\" All at once — he found the answer to all his questions. Tenali turned back and walked quickly towards the assembly — there was a new enthusiasm in his steps."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి సభలోకి తిరిగి రాగానే, అందరూ ఆశ్చర్యంగా చూశారు. అతను రాజుగారి ముందు నిలబడి, కళ్ళలో ఒక తెలిసిన మెరుపుతో నవ్వాడు. సభలో పిన్ డ్రాప్ సైలెన్స్ — తెనాలి మాట వినాలని అందరూ ఆత్రంగా ఉన్నారు. \"మహారాజా, నేను మీకు ఇచ్చేది రేపటి రాజ్యానికి పునాది వేసే ప్రశ్నలు!\" అని స్పష్టంగా పలికాడు. రాజుగారు మొదట కొంచెం గందరగోళంగా చూశారు, కానీ తెనాలి చెప్పేది వింటున్న కొద్దీ ఆయన ముఖంలో ఒక లోతైన అవగాహన మెరిసింది.",
+      "image_prompt": "The boy stands before the king, smiling with a knowing glint in his eyes, and speaks clearly. The king's initial confusion gives way to a look of deep understanding as he listens. Also in this scene: The wise and powerful emperor of the Vijayanagara Empire. He is often stern but fair, and enjoys testing the intelligence of his courtiers, especially Tenali. Always the same character across every scene. The main hall is dimly lit by evening lamps and torches, creating a dramatic, focused light on Tenali as he speaks, with the King illuminated by a golden glow.",
+      "scene_visual": "The boy stands before the king, smiling with a knowing glint in his eyes, and speaks clearly. The king's initial confusion gives way to a look of deep understanding as he listens.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Sabhaloki Tirigi Raagaane, Andaru Aashcharyangaa Chushaaru. Atanu Raajugaari Mundu Nilabadi, Kallalo Oka Telisina Meruputo Navvaadu. Sabhalo Pin Draap Sailens — Tenaali Maata Vinaalani Andaru Aatrangaa Unnaaru. \"Mahaaraajaa, Nenu Miku Ichchedi Repati Raajyaaniki Punaadi Vese Prashnalu!\" Ani Spashtangaa Palikaadu. Raajugaaru Modata Konchem Gandaragolangaa Chushaaru, Kaani Tenaali Cheppedi Vintunna Koddi Aayana Mukhanlo Oka Lotaina Avagaahana Merisindi.",
+      "text_en": "As soon as Tenali returned to the assembly, everyone looked at him in surprise. He stood before the King and smiled, with a knowing sparkle in his eyes. There was pin-drop silence in the assembly — everyone was eager to hear Tenali's words. He clearly stated, \"Maharaja, what I offer you are questions that will lay the foundation for tomorrow's kingdom!\" The King looked a little confused at first, but as he listened to Tenali, a deep understanding shone on his face."
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి తన ప్రశ్నలను, ఆలోచనలను వివరించాడు, రాజుగారు చాలా సంతోషించారు. ఆయన గంభీరంగా లేచి నిలబడ్డారు — సభలోని మంత్రులు ఆశ్చర్యంగా చూశారు. \"నిజమైన బహుమతిని ఇచ్చే కళ నీకు మాత్రమే తెలుసు, తెనాలి!\" అని రాజుగారు గట్టిగా పలికారు. సభలో అంతా ఆమోదంతో గుసగుసలాడారు, ప్రశంసలు కురిపించారు. తెనాలి వినయంగా తల వంచి నమస్కరించాడు, అతని పెదవులపై చిన్న చిరునవ్వు కనిపించింది. చూశావా, పిల్లలూ, గొప్ప ఆలోచనల విలువ ఎప్పుడూ తగ్గదు.",
+      "image_prompt": "The king rises solemnly and praises the boy loudly before the assembly. The boy bows his head humbly, a small smile gracing his lips. Also in this scene: The wise and powerful emperor of the Vijayanagara Empire. He is often stern but fair, and enjoys testing the intelligence of his courtiers, especially Tenali. Always the same character across every scene. Gentle dusk light filtering through the windows, casting a warm amber glow over the relieved and appreciative faces in the court, signifying a peaceful and wise conclusion.",
+      "scene_visual": "The king rises solemnly and praises the boy loudly before the assembly. The boy bows his head humbly, a small smile gracing his lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Tana Prashnalanu, Aalochanalanu Vivarinchaadu, Raajugaaru Chaalaa Santoshinchaaru. Aayana Gambhirangaa Lechi Nilabaddaaru — Sabhaloni Mantrulu Aashcharyangaa Chushaaru. \"Nijamaina Bahumatini Ichche Kala Niku Maatrame Telusu, Tenaali!\" Ani Raajugaaru Gattigaa Palikaaru. Sabhalo Antaa Aamodanto Gusagusalaadaaru, Prashansalu Kuripinchaaru. Tenaali Vinayangaa Tala Vanchi Namaskarinchaadu, Atani Pedavulapai Chinna Chirunavvu Kanipinchindi. Chushaavaa, Pillalu, Goppa Aalochanala Viluva Eppudu Taggadu.",
+      "text_en": "Tenali explained his questions and ideas, and the King was very pleased. He solemnly stood up — the ministers in the assembly looked on in surprise. The King loudly declared, \"Only you know the art of giving a true gift, Tenali!\" Everyone in the assembly whispered in agreement and showered him with praise. Tenali humbly bowed his head, and a small smile appeared on his lips. See, children, the value of great ideas never diminishes."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 5,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 8,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story has a strong narrative arc and excellent grammar, making it a solid foundation for children's literature. The direct addresses to the child are particularly effective for engagement. However, the emotional depth is the weakest dimension; many emotions are stated directly rather than being shown through character actions or subtle expressions. To reach a 9+, focus on embodying feelings through vivid descriptions and character reactions, allowing the child to infer emotions rather than being explicitly told them."
+  },
+  "quality_warning": true,
+  "title_te_en": "Tenaali, Aalochanala Bahumati",
+  "moral_te_en": "Telivaina Aalochanalu, Manchi Manasuto Panchukunte, Avi E Bahumati Kante Goppavi, Kadaa Naanna?",
+  "title_en": "Tenali, The Gift of Ideas",
+  "moral_en": "Clever ideas, when shared with a kind heart, are greater than any gift, aren't they, Dad?",
+  "id": "20260604_121227",
+  "date": "2026-06-04",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు రాజుకు ఆలోచనల బహుమతి",
+  "thumbnail": "stories/20260604_121227/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
