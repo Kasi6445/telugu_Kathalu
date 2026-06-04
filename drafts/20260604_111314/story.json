@@ -1,0 +1,113 @@
+{
+  "title": "తెనాలి తెలివి, ప్రతిధ్వని మంత్రి ఆట",
+  "moral": "తెలివైన ఆలోచనలు, కేవలం అనుకరణ కంటే ఎప్పుడూ గొప్పవి.",
+  "main_character": "Tenali Ramakrishna is a quick-witted and intelligent jester in the court of Emperor Krishnadevaraya. He is known for his clever solutions to complex problems and his humorous yet insightful observations. Always the same character across every scene.",
+  "antagonist": "Minister Dhwani is a portly, pompous man with a neatly trimmed black beard and a loud, booming voice. He wears an emerald green silk turban and a matching long robe, always carrying a large, ornate fan. Always the same character across every scene.",
+  "setting": "The grand court of Emperor Krishnadevaraya in Hampi, Vijayanagara, bustling with courtiers and adorned with intricate carvings. Sunlight streams through large arched windows, illuminating the polished stone floor. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకరోజు సభలో చిన్న వాదన జరుగుతుండగా, తెనాలి రామకృష్ణుడు ముందుకు వచ్చాడు. అతని కళ్ళలో చిలిపి మెరుపు కనిపించింది, పెదవులపై చిరునవ్వు ఆడింది. \"మహారాజా, సగంలో దొరికిన అబద్ధం సగం నిజం కంటే ప్రమాదకరం!\" అని చమత్కారంగా అన్నాడు. మహారాజా నవ్వుతో వెనక్కి వాలాడు — అతని మాటలకు సభ అంతా చప్పట్లతో మారుమోగింది. ఆ సంతోషంలో మంత్రుల పట్టు వస్త్రాలు మెత్తగా కదిలాయి. అంతలో, కొత్తగా వచ్చిన మంత్రి ధ్వని, తన గంభీరమైన కంఠంతో దగ్గుతూ, ముందుకు అడుగు వేశాడు.",
+      "image_prompt": "A new minister steps forward, clearing his throat with a deep cough. The silk robes of the other ministers gently sway from the previous laughter and applause. Warm midday sun filtering through ornate windows, casting long shadows on the polished marble floor, bright and regal.",
+      "scene_visual": "A new minister steps forward, clearing his throat with a deep cough. The silk robes of the other ministers gently sway from the previous laughter and applause.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Okaroju Sabhalo Chinna Vaadana Jarugutundagaa, Tenaali Raamakrrishnudu Munduku Vachchaadu. Atani Kallalo Chilipi Merupu Kanipinchindi, Pedavulapai Chirunavvu Aadindi. \"Mahaaraajaa, Saganlo Dorikina Abaddham Sagam Nijam Kante Pramaadakaran!\" Ani Chamatkaarangaa Annaadu. Mahaaraajaa Navvuto Venakki Vaalaadu — Atani Maatalaku Sabha Antaa Chappatlato Maarumogindi. Aa Santoshanlo Mantrula Pattu Vastraalu Mettagaa Kadilaayi. Antalo, Kottagaa Vachchina Mantri Dhvani, Tana Gambhiramaina Kanthanto Daggutu, Munduku Adugu Veshaadu.",
+      "text_en": "One day, during a small argument in the court, Tenali Ramakrishna stepped forward. A mischievous twinkle appeared in his eyes, and a smile played on his lips. \"Maharaja, a lie caught in the middle is more dangerous than a half-truth!\" he said wittily. The Maharaja leaned back with a laugh — the whole court echoed with applause at his words. In that joy, the ministers' silk robes gently rustled. Just then, the newly arrived Minister Dhwani, clearing his throat with a deep voice, stepped forward."
+    },
+    {
+      "id": 2,
+      "text": "మంత్రి ధ్వని తన పెద్ద ఫ్యానును నేలకేసి గట్టిగా కొట్టి, ఒక distinct 'థంప్' శబ్దంతో సభను నిశ్శబ్దం చేశాడు. అతని ఛాతీ గర్వంగా ఉబ్బింది, కళ్ళు మెరుపులతో నిండిపోయాయి. \"మహారాజా, నేను మీ మాటలకు కేవలం ప్రతిధ్వనిని!\" అంటూ, రాజు పలికిన ప్రతి పదాన్ని అచ్చం అలాగే పలికాడు. అందరూ ఆశ్చర్యంతో చూశారు. మహారాజు ముఖం మెరిసిపోయింది, అతను తెనాలి వైపు తిరిగి ఒక సవాలు చూపు విసిరాడు.",
+      "image_prompt": "The minister forcefully strikes his large fan against the floor, silencing the assembly. His chest proudly inflates, and his eyes gleam with a challenging spark. Also in this scene: Minister Dhwani is a portly, pompous man with a neatly trimmed black beard and a loud, booming voice. He wears an emerald green silk turban and a matching long robe, always carrying a large, ornate fan. Always the same character across every scene. Bright, direct sunlight illuminating the center of the court where the minister stands, creating a spotlight effect, emphasizing his performance.",
+      "scene_visual": "The minister forcefully strikes his large fan against the floor, silencing the assembly. His chest proudly inflates, and his eyes gleam with a challenging spark.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Mantri Dhvani Tana Pedda Phyaanunu Nelakesi Gattigaa Kotti, Oka Distinct 'Thamp' Shabdanto Sabhanu Nishshabdam Cheshaadu. Atani Chaati Garvangaa Ubbindi, Kallu Merupulato Nindipoyaayi. \"Mahaaraajaa, Nenu Mi Maatalaku Kevalam Pratidhvanini!\" Antu, Raaju Palikina Prati Padaanni Achcham Alaage Palikaadu. Andaru Aashcharyanto Chushaaru. Mahaaraaju Mukham Merisipoyindi, Atanu Tenaali Vaipu Tirigi Oka Savaalu Chupu Visiraadu.",
+      "text_en": "Minister Dhwani hit his large fan hard against the floor, silencing the court with a distinct 'thump' sound. His chest puffed up proudly, and his eyes were filled with a sparkle. \"Maharaja, I am merely an echo of your words!\" he said, repeating every word the King had spoken exactly. Everyone watched in surprise. The Maharaja's face lit up, and he turned towards Tenali, giving him a challenging look."
+    },
+    {
+      "id": 3,
+      "text": "మహారాజు, ధ్వని మంత్రిని మెచ్చుకుంటూ, తెనాలి వైపు తిరిగి, \"రామకృష్ణా, నీ తెలివి తేటలు ఈ ప్రతిధ్వనిని మించగలవా?\" అని సవాలు విసిరాడు. తెనాలి రామకృష్ణుడు తన గడ్డం నిమురుకుంటూ, కళ్ళు మూసుకుని దీర్ఘంగా ఆలోచించాడు. ప్యాలెస్ వెలుపల కమ్మరి కొలిమి నుండి వచ్చే లయబద్ధమైన 'క్లాంగ్' శబ్దం అతని చెవుల్లో వినిపించింది. ఇది కేవలం మాటలను అనుకరించడం కాదని, అంతకు మించి ఏదో ఉందని అతని మనసు చెప్పింది... తెనాలి ఆ సభను వదిలి వెళ్ళాడు — అతని మనసులో ఆలోచనల సుడిగుండం తిరుగుతోంది.",
+      "image_prompt": "The boy strokes his beard, closes his eyes, and then walks out of the assembly. A rhythmic 'clang' from a blacksmith's forge outside the palace echoes in his ears as he departs. Late afternoon light, beginning to soften and turn golden, but the shadows are lengthening, hinting at the approaching challenge and Tenali's dilemma.",
+      "scene_visual": "The boy strokes his beard, closes his eyes, and then walks out of the assembly. A rhythmic 'clang' from a blacksmith's forge outside the palace echoes in his ears as he departs.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Mahaaraaju, Dhvani Mantrini Mechchukuntu, Tenaali Vaipu Tirigi, \"Raamakrrishnaa, Ni Telivi Tetalu I Pratidhvanini Minchagalavaa?\" Ani Savaalu Visiraadu. Tenaali Raamakrrishnudu Tana Gaddam Nimurukuntu, Kallu Musukuni Dirghangaa Aalochinchaadu. Pyaales Velupala Kammari Kolimi Nundi Vachche Layabaddhamaina 'Klaang' Shabdam Atani Chevullo Vinipinchindi. Idi Kevalam Maatalanu Anukarinchadam Kaadani, Antaku Minchi Edo Undani Atani Manasu Cheppindi... Tenaali Aa Sabhanu Vadili Vellaadu — Atani Manasulo Aalochanala Sudigundam Tirugutondi.",
+      "text_en": "The Maharaja, praising Minister Dhwani, turned to Tenali and challenged, \"Ramakrishna, can your wit surpass this echo?\" Tenali Ramakrishna stroked his beard, closed his eyes, and thought deeply. The rhythmic 'clang' sound from the blacksmith's forge outside the palace reached his ears. His mind told him that this was not just about imitating words, but something more... Tenali left the court — a whirlwind of thoughts spinning in his mind."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి ఆ రోజు రాత్రి ధ్వని మంత్రిని రహస్యంగా గమనించాడు — అతను తన గదిలో మాటలను ఖచ్చితంగా పునరావృతం చేస్తూ సాధన చేస్తున్నాడు. మంత్రి ధ్వని పలికే ఆ ప్రతిధ్వని మాటలు దూరం నుండి వినబడుతుంటే, తెనాలి తన నుదురు ముడిచి, పిడికిలి బిగించాడు. \"అంత సులువు కాదు, కానీ అసాధ్యం కాదు!\" అని తనలో తాను గొణుగుకున్నాడు. అతను కూడా అనుకరించడానికి ప్రయత్నించాడు, కానీ అతని మాటలు తడబడ్డాయి, నిరాశ అతని కళ్ళలో కనిపించింది. అప్పుడే ఒక్కసారిగా అతని ముఖం మెరిసింది — ఒక చిలిపి ఆలోచన మెరుపులా తట్టింది.",
+      "image_prompt": "The boy observes the minister practicing mimicry, then tries himself, his words faltering. Suddenly, his face brightens with a mischievous flash as a new idea strikes him. Also in this scene: Minister Dhwani is a portly, pompous man with a neatly trimmed black beard and a loud, booming voice. He wears an emerald green silk turban and a matching long robe, always carrying a large, ornate fan. Always the same character across every scene. Dim evening light, shadows deepening, giving a sense of secrecy and Tenali's solitary struggle, a single oil lamp casting flickering light on his face.",
+      "scene_visual": "The boy observes the minister practicing mimicry, then tries himself, his words faltering. Suddenly, his face brightens with a mischievous flash as a new idea strikes him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Aa Roju Raatri Dhvani Mantrini Rahasyangaa Gamaninchaadu — Atanu Tana Gadilo Maatalanu Khachchitangaa Punaraavrritam Chestu Saadhana Chestunnaadu. Mantri Dhvani Palike Aa Pratidhvani Maatalu Duram Nundi Vinabadutunte, Tenaali Tana Nuduru Mudichi, Pidikili Biginchaadu. \"Anta Suluvu Kaadu, Kaani Asaadhyam Kaadu!\" Ani Tanalo Taanu Gonugukunnaadu. Atanu Kudaa Anukarinchadaaniki Prayatninchaadu, Kaani Atani Maatalu Tadabaddaayi, Niraasha Atani Kallalo Kanipinchindi. Appude Okkasaarigaa Atani Mukham Merisindi — Oka Chilipi Aalochana Merupulaa Tattindi.",
+      "text_en": "That night, Tenali secretly watched Minister Dhwani — he was practicing repeating words exactly in his room. As Minister Dhwani's echoing words could be heard from a distance, Tenali frowned and clenched his fist. \"It's not that easy, but not impossible!\" he muttered to himself. He also tried to imitate, but his words stumbled, and disappointment showed in his eyes. Just then, his face suddenly lit up — a mischievous idea struck him like lightning."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి వెంటనే వంటశాల వైపు వెళ్ళాడు, అతని ముఖంలో ఒక రహస్యమైన చిరునవ్వు మెరిసింది. అతను పక్కన ఉన్న పండ్ల బుట్ట నుండి మాగిన మామిడి పండ్ల తీపి వాసనను పీల్చుకున్నాడు. \"ప్రతిధ్వని అంటే కేవలం మాటలు కాదు, ఒక్కోసారి చేతలు కూడా!\" అని నెమ్మదిగా అనుకున్నాడు. అతను ఒక పెద్ద, బాగా పండిన పండును, ఒక చిన్న పదునైన కత్తిని జాగ్రత్తగా తన సంచిలో పెట్టుకున్నాడు. అతని కళ్ళు మెరిశాయి, రేపటి సభ కోసం అతను సిద్ధంగా ఉన్నాడు.",
+      "image_prompt": "The boy carefully places a large, ripe fruit and a small, sharp knife into his bag. A secret smile plays on his face as he inhales the sweet scent of overripe mangoes from a nearby basket. The soft, warm glow of a kitchen fire and a few oil lamps, creating a cozy and conspiratorial atmosphere as Tenali works.",
+      "scene_visual": "The boy carefully places a large, ripe fruit and a small, sharp knife into his bag. A secret smile plays on his face as he inhales the sweet scent of overripe mangoes from a nearby basket.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Ventane Vantashaala Vaipu Vellaadu, Atani Mukhanlo Oka Rahasyamaina Chirunavvu Merisindi. Atanu Pakkana Unna Pandla Butta Nundi Maagina Maamidi Pandla Tipi Vaasananu Pilchukunnaadu. \"Pratidhvani Ante Kevalam Maatalu Kaadu, Okkosaari Chetalu Kudaa!\" Ani Nemmadigaa Anukunnaadu. Atanu Oka Pedda, Baagaa Pandina Pandunu, Oka Chinna Padunaina Kattini Jaagrattagaa Tana Sanchilo Pettukunnaadu. Atani Kallu Merishaayi, Repati Sabha Kosam Atanu Siddhangaa Unnaadu.",
+      "text_en": "Tenali immediately went towards the kitchen, a secret smile gleaming on his face. He inhaled the sweet scent of ripe mangoes from a fruit basket nearby. \"An echo isn't just about words, sometimes it's about actions too!\" he thought softly. He carefully placed a large, very ripe fruit and a small, sharp knife into his bag. His eyes sparkled; he was ready for tomorrow's court."
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి రోజు సభలో, మహారాజు మాట్లాడగానే, మంత్రి ధ్వని ఎప్పటిలాగే ఖచ్చితంగా అతని మాటలను ప్రతిధ్వనించాడు. అప్పుడే తెనాలి తన సంచి నుండి పండును తీశాడు — \"మహారాజా, నేను మీ మాటలకు మాత్రమే కాదు, మీ ప్రతి కదలికకు కూడా ప్రతిధ్వనిని!\" అన్నాడు. తెనాలి పండును నేలకేసి కొట్టాడు — ఒక పెద్ద 'స్ప్లాట్!' శబ్దంతో పండు నేలకేసి కొట్టబడింది. మహారాజు పొట్ట పట్టుకుని నవ్వడం మొదలుపెట్టాడు, ధ్వని మంత్రి నిశ్చేష్టుడై, పండు గుజ్జుతో తడిసిపోయి నిలబడ్డాడు. తెనాలి చమత్కారానికి సభ అంతా పగలబడి నవ్వింది.",
+      "image_prompt": "The boy pulls a fruit from his bag and smashes it onto the floor with a loud 'splat'. The minister stands stunned, his clothes now splattered with the fruit's pulp. Also in this scene: Minister Dhwani is a portly, pompous man with a neatly trimmed black beard and a loud, booming voice. He wears an emerald green silk turban and a matching long robe, always carrying a large, ornate fan. Always the same character across every scene. Bright, mid-morning light streaming into the court, highlighting the sudden, chaotic scene and the splattered fruit, creating a comical atmosphere.",
+      "scene_visual": "The boy pulls a fruit from his bag and smashes it onto the floor with a loud 'splat'. The minister stands stunned, his clothes now splattered with the fruit's pulp.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Marusati Roju Sabhalo, Mahaaraaju Maatlaadagaane, Mantri Dhvani Eppatilaage Khachchitangaa Atani Maatalanu Pratidhvaninchaadu. Appude Tenaali Tana Sanchi Nundi Pandunu Tishaadu — \"Mahaaraajaa, Nenu Mi Maatalaku Maatrame Kaadu, Mi Prati Kadalikaku Kudaa Pratidhvanini!\" Annaadu. Tenaali Pandunu Nelakesi Kottaadu — Oka Pedda 'Splaat!' Shabdanto Pandu Nelakesi Kottabadindi. Mahaaraaju Potta Pattukuni Navvadam Modalupettaadu, Dhvani Mantri Nishcheshtudai, Pandu Gujjuto Tadisipoyi Nilabaddaadu. Tenaali Chamatkaaraaniki Sabha Antaa Pagalabadi Navvindi.",
+      "text_en": "The next day in court, as soon as the Maharaja spoke, Minister Dhwani, as usual, accurately echoed his words. Just then, Tenali took out the fruit from his bag — \"Maharaja, I am not just an echo of your words, but also of your every action!\" he said. Tenali threw the fruit onto the floor — with a big 'SPLAT!' sound, the fruit hit the ground. The Maharaja started laughing, holding his stomach, while Minister Dhwani stood stunned, covered in fruit pulp. The whole court burst into laughter at Tenali's wit."
+    },
+    {
+      "id": 7,
+      "text": "మహారాజు తన నవ్వును ఆపుకుని, తెనాలి వైపు ప్రేమగా చూశాడు, సభలో పండు గుజ్జు తీపి, పుల్లటి వాసన ఇంకా నిలిచి ఉంది. \"రామకృష్ణా, నీ తెలివి తేటలు ఈ సభకు ఎప్పటికీ ఆభరణం!\" అంటూ ప్రశంసించాడు. ధ్వని మంత్రి తన భుజాలు వాల్చి, తల దించుకున్నాడు. అతని గర్వం పూర్తిగా అణగారింది, అతను ఒక మాట కూడా పలుకలేకపోయాడు. సభ అంతా తెనాలి తెలివికి చేతులెత్తి నమస్కరించింది.",
+      "image_prompt": "The minister lowers his shoulders and bows his head in defeat. The sweet and sour scent of fruit pulp still lingers in the assembly hall. Also in this scene: Minister Dhwani is a portly, pompous man with a neatly trimmed black beard and a loud, booming voice. He wears an emerald green silk turban and a matching long robe, always carrying a large, ornate fan. Always the same character across every scene. Gentle dusk light, warm amber, washing over the court, signifying the end of the day's events and a peaceful, resolved atmosphere.",
+      "scene_visual": "The minister lowers his shoulders and bows his head in defeat. The sweet and sour scent of fruit pulp still lingers in the assembly hall.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Mahaaraaju Tana Navvunu Aapukuni, Tenaali Vaipu Premagaa Chushaadu, Sabhalo Pandu Gujju Tipi, Pullati Vaasana Inkaa Nilichi Undi. \"Raamakrrishnaa, Ni Telivi Tetalu I Sabhaku Eppatiki Aabharanan!\" Antu Prashansinchaadu. Dhvani Mantri Tana Bhujaalu Vaalchi, Tala Dinchukunnaadu. Atani Garvam Purtigaa Anagaarindi, Atanu Oka Maata Kudaa Palukalekapoyaadu. Sabha Antaa Tenaali Teliviki Chetuletti Namaskarinchindi.",
+      "text_en": "The Maharaja stopped his laughter and looked at Tenali with affection, the sweet and sour scent of fruit pulp still lingering in the court. \"Ramakrishna, your wit will always be an ornament to this court!\" he praised. Minister Dhwani slumped his shoulders and bowed his head. His pride was completely crushed; he couldn't utter a single word. The entire court bowed to Tenali's cleverness."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king",
+      "description": "Emperor Krishnadevaraya is a majestic and wise ruler, known for his love of arts and justice, always adorned in rich crimson and gold robes. He often wears a large, jeweled crown. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts exceptional grammar, a compelling narrative arc, and vivid emotional portrayal. The plot is engaging, and Tenali's struggle and clever resolution are clearly depicted, making it a strong piece of children's literature. To reach a 9+ and truly resonate as a bedtime story, the primary focus should be on infusing more 'oral warmth' into the narrative. This could involve adopting a more conversational tone, incorporating direct addresses to the child, and simplifying some sentence structures to mimic a grandparent's natural storytelling style, moving it further from a purely written text."
+  },
+  "title_te_en": "Tenaali Telivi, Pratidhvani Mantri Aata",
+  "moral_te_en": "Telivaina Aalochanalu, Kevalam Anukarana Kante Eppudu Goppavi.",
+  "title_en": "Tenali's Wit and the Echo Minister's Game",
+  "moral_en": "Clever ideas are always greater than mere imitation.",
+  "id": "20260604_111314",
+  "date": "2026-06-04",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు రాజు ప్రతిధ్వని మంత్రి",
+  "thumbnail": "stories/20260604_111314/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
