@@ -1,0 +1,98 @@
+{
+  "title": "రామయ్య మనసు గీసిన రంగులు",
+  "moral": "పిల్లలూ, నిజమైన సంతోషం మన మనసులో ఉంటుంది. మనం మనసుపెట్టి చేసే పనుల ద్వారానే ఆ ఆనందం దొరుకుతుంది, బయటి సంపదలో కాదు.",
+  "main_character": "Ramayya is a thin, middle-aged man with kind, crinkled eyes that always seem to be smiling. His hands and simple white dhoti are perpetually smudged with vibrant paint colors, reflecting his passion. Always the same character across every scene.",
+  "antagonist": "The merchant, Sethji, is a portly man with a neatly trimmed black mustache and shrewd, calculating eyes. He wears expensive, brightly colored silk dhotis and a heavy gold chain, always carrying a small, polished wooden staff. Always the same character across every scene.",
+  "setting": "The story unfolds in a quaint village nestled along the Godavari river in Andhra Pradesh. Ramayya's small mud-and-thatch hut, adorned with bright bougainvillea, sits beside a winding path, contrasting with the merchant's grand, stone mansion featuring an ornate wooden gate. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రామయ్య తన చిట్టి గుడిసె గోడపై రంగుల ప్రపంచాన్ని సృష్టిస్తున్నాడు. అతని పెదాలపై మధురమైన పాట, కళ్ళలో మెరిసే ఆనందం—అతను ప్రతి రంగును ప్రేమగా అద్దాడు. తడి మట్టి వాసన, మల్లె పూల సుగంధం ఆ పరిసరాలను నింపాయి. \"ఆహా! ఈ రంగులు ఎంత అందంగా ఉన్నాయి!\" అంటూ తనలో తనే మురిసిపోయాడు. ఒక చిరునవ్వుతో, చివరి మెరుగు దిద్దడానికి తన కుంచెను మరోసారి రంగులో ముంచాడు — ఆ క్షణం కోసం ఎదురుచూస్తున్నట్లు. గుడిసె గోడపై ఒక సజీవ చిత్రం రూపుదిద్దుకుంది.",
+      "image_prompt": "The man dips his brush into a pot of paint, preparing to add a final touch to the mural on his hut wall. A broad smile plays on his lips, reflecting the joy in his sparkling eyes as he looks at his artwork. Warm, golden morning sunlight filtering through the leaves of a mango tree, casting dappled shadows on the hut, bright and inviting.",
+      "scene_visual": "The man dips his brush into a pot of paint, preparing to add a final touch to the mural on his hut wall. A broad smile plays on his lips, reflecting the joy in his sparkling eyes as he looks at his artwork.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamayya Tana Chitti Gudise Godapai Rangula Prapanchaanni Srrishtistunnaadu. Atani Pedaalapai Madhuramaina Paata, Kallalo Merise Aanandan—Atanu Prati Rangunu Premagaa Addaadu. Tadi Matti Vaasana, Malle Pula Sugandham Aa Parisaraalanu Nimpaayi. \"Aahaa! I Rangulu Enta Andangaa Unnaayi!\" Antu Tanalo Tane Murisipoyaadu. Oka Chirunavvuto, Chivari Merugu Diddadaaniki Tana Kunchenu Marosaari Rangulo Munchaadu — Aa Kshanam Kosam Eduruchustunnatlu. Gudise Godapai Oka Sajiva Chitram Rupudiddukundi.",
+      "text_en": "Ramayya was creating a world of colors on the wall of his little hut. A sweet song on his lips, a sparkling joy in his eyes—he applied each color with love. The smell of wet earth and the fragrance of jasmine flowers filled the air. \"Oh! How beautiful these colors are!\" he exclaimed to himself, delighted. With a smile, he dipped his brush into the paint one last time to add the finishing touch—as if waiting for that moment. A lively picture took shape on the hut's wall."
+    },
+    {
+      "id": 2,
+      "text": "అలా అతను తన కళలో లీనమై ఉండగా, ఆ దారిలో వెళ్తున్న ధనవంతుడైన సేఠ్జీ ఆగిపోయాడు. అతని పట్టు ధోతి చప్పుడు రామయ్య చెవులకు వింతగా వినిపించింది. సేఠ్జీ రామయ్య చిత్రాన్ని చూసి, కళ్ళు పెద్దవి చేసుకుని ఆశ్చర్యపోయాడు. \"మీరు నా కోసం పని చేస్తే, మీ కళకు తగినంత ధనం లభిస్తుంది!\" అంటూ తన చేతిలోని బంగారు నాణేలను చూపించాడు. రామయ్య కళ్ళు ఆ నాణేలపై, ఆపై తన చిన్న గుడిసె వైపు పదే పదే తిరిగాయి — అతని మనసులో ఒక కొత్త ఆలోచన మెదిలింది.",
+      "image_prompt": "The artist's gaze rapidly shifts back and forth between the gold coins held by the rich man and his own small hut. The rich man stands with an open palm, displaying several gleaming gold coins. Also in this scene: The merchant, Sethji, is a portly man with a neatly trimmed black mustache and shrewd, calculating eyes. He wears expensive, brightly colored silk dhotis and a heavy gold chain, always carrying a small, polished wooden staff. Always the same character across every scene. Bright midday sun, sharp and clear, illuminates the merchant's opulent attire, making the offered coins gleam.",
+      "scene_visual": "The artist's gaze rapidly shifts back and forth between the gold coins held by the rich man and his own small hut. The rich man stands with an open palm, displaying several gleaming gold coins.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alaa Atanu Tana Kalalo Linamai Undagaa, Aa Daarilo Veltunna Dhanavantudaina Sethji Aagipoyaadu. Atani Pattu Dhoti Chappudu Raamayya Chevulaku Vintagaa Vinipinchindi. Sethji Raamayya Chitraanni Chusi, Kallu Peddavi Chesukuni Aashcharyapoyaadu. \"Miru Naa Kosam Pani Cheste, Mi Kalaku Taginanta Dhanam Labhistundi!\" Antu Tana Chetiloni Bangaaru Naanelanu Chupinchaadu. Raamayya Kallu Aa Naanelapai, Aapai Tana Chinna Gudise Vaipu Pade Pade Tirigaayi — Atani Manasulo Oka Kotta Aalochana Medilindi.",
+      "text_en": "As he was lost in his art, a rich man named Sethji, who was passing by, stopped. The rustle of Sethji's silk dhoti sounded strange to Ramayya's ears. Sethji saw Ramayya's painting, and his eyes widened in surprise. \"If you work for me, your art will earn you plenty of money!\" he said, showing the gold coins in his hand. Ramayya's eyes went back and forth from the coins to his small hut—a new thought sparked in his mind."
+    },
+    {
+      "id": 3,
+      "text": "సేఠ్జీ మాటలు నమ్మి, రామయ్య ఆ పెద్ద భవంతిలోకి మారాడు — మొదట అతని కళ్ళలో మెరుపు కనిపించింది. కానీ, చల్లని పాలరాతి నేలపై అతని పాదాలు నడుస్తుంటే, గుడిసెలోని వెచ్చదనం గుర్తుకువచ్చింది. అతని ముఖంపై బలవంతపు చిరునవ్వు, నెమ్మదిగా కనుబొమ్మల ముడితో మారిపోయింది. \"ఇంత పెద్ద గోడలు... ఎక్కడ మొదలుపెట్టాలి?\" అని తనలో తనే అనుకున్నాడు. సేఠ్జీ ఇచ్చిన పెద్ద కాన్వాస్ వైపు చూస్తూ, రామయ్యకు ఒక వింత ఒత్తిడి — గుండెను పట్టి నొక్కినట్లు అనిపించింది.",
+      "image_prompt": "The artist stands before a massive, blank canvas, his shoulders slightly slumped. A deep furrow appears between his eyebrows, replacing an earlier forced smile, as he gazes at the daunting white surface. Dim, filtered light entering through heavy, embroidered curtains in a grand hall, creating long shadows and a sense of cold formality.",
+      "scene_visual": "The artist stands before a massive, blank canvas, his shoulders slightly slumped. A deep furrow appears between his eyebrows, replacing an earlier forced smile, as he gazes at the daunting white surface.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sethji Maatalu Nammi, Raamayya Aa Pedda Bhavantiloki Maaraadu — Modata Atani Kallalo Merupu Kanipinchindi. Kaani, Challani Paalaraati Nelapai Atani Paadaalu Nadustunte, Gudiseloni Vechchadanam Gurtukuvachchindi. Atani Mukhampai Balavantapu Chirunavvu, Nemmadigaa Kanubommala Mudito Maaripoyindi. \"Inta Pedda Godalu... Ekkada Modalupettaali?\" Ani Tanalo Tane Anukunnaadu. Sethji Ichchina Pedda Kaanvaas Vaipu Chustu, Raamayyaku Oka Vinta Ottidi — Gundenu Patti Nokkinatlu Anipinchindi.",
+      "text_en": "Believing Sethji's words, Ramayya moved into the big mansion—at first, his eyes sparkled. But as his feet walked on the cold marble floor, he remembered the warmth of his hut. The forced smile on his face slowly turned into a frown. \"Such big walls... where do I even begin?\" he wondered to himself. Looking at the large canvas Sethji gave him, Ramayya felt a strange pressure—as if his heart was being squeezed."
+    },
+    {
+      "id": 4,
+      "text": "సేఠ్జీ కోరినట్లు గొప్ప గొప్ప చిత్రాలు గీయడానికి రామయ్య ప్రయత్నించాడు. అతని చేతిలోని కుంచె కాన్వాస్‌పై కదులుతుంటే, అది అంతగా జీవం లేని శబ్దం చేసింది. అది తన గుడిసెలో చేసే సజీవమైన చప్పుడికి చాలా భిన్నంగా ఉంది. \"నా చేతులు కదులుతున్నాయి, కానీ నా హృదయం కాదు\" అంటూ రామయ్య ఒక నిట్టూర్పు విడిచాడు. సగం పూర్తిచేసిన, నిర్జీవమైన చిత్రం నుండి అతను వెనక్కి అడుగు వేసి చూశాడు — అతని కళ్ళలో నిరాశ స్పష్టంగా కనిపించింది. అతని భుజాలు వాలిపోయాయి.",
+      "image_prompt": "The artist steps back from a half-finished painting on a large canvas, his shoulders visibly drooped. His eyes are filled with clear despair as he stares at the uninspired artwork. Bright, artificial light from oil lamps hanging high in the mansion's studio, casting a harsh, uninviting glow on the uninspired artwork.",
+      "scene_visual": "The artist steps back from a half-finished painting on a large canvas, his shoulders visibly drooped. His eyes are filled with clear despair as he stares at the uninspired artwork.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sethji Korinatlu Goppa Goppa Chitraalu Giyadaaniki Raamayya Prayatninchaadu. Atani Chetiloni Kunche Kaanvaas‌Pai Kadulutunte, Adi Antagaa Jivam Leni Shabdam Chesindi. Adi Tana Gudiselo Chese Sajivamaina Chappudiki Chaalaa Bhinnangaa Undi. \"Naa Chetulu Kadulutunnaayi, Kaani Naa Hrridayam Kaadu\" Antu Raamayya Oka Nitturpu Vidichaadu. Sagam Purtichesina, Nirjivamaina Chitram Nundi Atanu Venakki Adugu Vesi Chushaadu — Atani Kallalo Niraasha Spashtangaa Kanipinchindi. Atani Bhujaalu Vaalipoyaayi.",
+      "text_en": "Ramayya tried to paint grand pictures as Sethji wished. As the brush moved in his hand on the canvas, it made a lifeless sound. It was very different from the lively sound it made in his hut. \"My hands are moving, but my heart is not,\" Ramayya sighed. He stepped back from the half-finished, lifeless painting—disappointment was clear in his eyes. His shoulders slumped."
+    },
+    {
+      "id": 5,
+      "text": "రామయ్య తన బాధను సేఠ్జీకి వివరించడానికి ప్రయత్నించాడు. అతని గొంతులో బతిమలాడే స్వరం వినిపించింది. కానీ సేఠ్జీ తన చేతిలోని కర్రతో పాలరాతి నేలపై చిరాకుగా తట్టాడు — ఆ శబ్దం రామయ్య మాటలను అణచివేసింది. \"కళ అంటే కేవలం డబ్బు సంపాదించడమే కాదు, అది ఆత్మనుండి వస్తుంది\" అని రామయ్య ఇంకా చెప్పడానికి ప్రయత్నించాడు. సేఠ్జీ అతని వైపు కనీసం చూడకుండానే వెనక్కి తిరిగి వెళ్లిపోయాడు — రామయ్య మాటలు ఆ పెద్ద గదిలో ప్రతిధ్వనించి, మౌనంలో కలిసిపోయాయి. రామయ్య కళ్ళు నేల చూపులు చూశాయి.",
+      "image_prompt": "The rich man irritably taps his stick on the cold marble floor, turning his back on the artist. The artist stands silently, his eyes cast downwards at the floor. Also in this scene: The merchant, Sethji, is a portly man with a neatly trimmed black mustache and shrewd, calculating eyes. He wears expensive, brightly colored silk dhotis and a heavy gold chain, always carrying a small, polished wooden staff. Always the same character across every scene. A single, tall window lets in a sliver of late afternoon sun, highlighting the dust motes dancing in the air, creating a lonely and isolating atmosphere.",
+      "scene_visual": "The rich man irritably taps his stick on the cold marble floor, turning his back on the artist. The artist stands silently, his eyes cast downwards at the floor.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamayya Tana Baadhanu Sethjiki Vivarinchadaaniki Prayatninchaadu. Atani Gontulo Batimalaade Svaram Vinipinchindi. Kaani Sethji Tana Chetiloni Karrato Paalaraati Nelapai Chiraakugaa Tattaadu — Aa Shabdam Raamayya Maatalanu Anachivesindi. \"Kala Ante Kevalam Dabbu Sampaadinchadame Kaadu, Adi Aatmanundi Vastundi\" Ani Raamayya Inkaa Cheppadaaniki Prayatninchaadu. Sethji Atani Vaipu Kanisam Chudakundaane Venakki Tirigi Vellipoyaadu — Raamayya Maatalu Aa Pedda Gadilo Pratidhvaninchi, Maunanlo Kalisipoyaayi. Raamayya Kallu Nela Chupulu Chushaayi.",
+      "text_en": "Ramayya tried to explain his sadness to Sethji. His voice was pleading. But Sethji irritably tapped his stick on the marble floor—that sound drowned out Ramayya's words. \"Art is not just about making money, it comes from the soul,\" Ramayya tried to say further. Sethji turned and walked away without even looking at him—Ramayya's words echoed in the big room and faded into silence. Ramayya's eyes looked down at the floor."
+    },
+    {
+      "id": 6,
+      "text": "నిర్జీవమైన ఆ చిత్రాల ముందు రామయ్య ఒంటరిగా కూర్చున్నాడు — అతని లోపల ఏదో పెద్ద మార్పు మొదలైంది. దూరం నుండి పిల్లల నవ్వులు సన్నగా వినిపించాయి — ఆ అమాయక ఆనందం అతనికి ఏదో చెప్పినట్లు అనిపించింది. \"నా సంతోషం నా కళలో ఉంది, ఈ భవంతిలో కాదు\" అని అతని మనసులో ఒక స్పష్టత మెరిసింది. అతని కళ్ళలో ఒక కొత్త సంకల్పం — మెరుస్తూ కనిపించింది. నెమ్మదిగా, అతను తన చిన్న పెయింట్ బాక్స్ తీసుకున్నాడు, తన గుడిసె నుండి తెచ్చుకున్న అదే పెయింట్ బాక్స్. ఆ పెద్ద భవనం తలుపు వైపు నడిచాడు.",
+      "image_prompt": "The artist slowly picks up his small, familiar paint box from the floor. A new, shining resolve is visible in his eyes as he holds the box. Gentle twilight blues and purples filling the room, softening the harshness and bringing a sense of calm and introspection.",
+      "scene_visual": "The artist slowly picks up his small, familiar paint box from the floor. A new, shining resolve is visible in his eyes as he holds the box.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nirjivamaina Aa Chitraala Mundu Raamayya Ontarigaa Kurchunnaadu — Atani Lopala Edo Pedda Maarpu Modalaindi. Duram Nundi Pillala Navvulu Sannagaa Vinipinchaayi — Aa Amaayaka Aanandam Ataniki Edo Cheppinatlu Anipinchindi. \"Naa Santosham Naa Kalalo Undi, I Bhavantilo Kaadu\" Ani Atani Manasulo Oka Spashtata Merisindi. Atani Kallalo Oka Kotta Sankalpam — Merustu Kanipinchindi. Nemmadigaa, Atanu Tana Chinna Peyint Baaks Tisukunnaadu, Tana Gudise Nundi Techchukunna Ade Peyint Baaks. Aa Pedda Bhavanam Talupu Vaipu Nadichaadu.",
+      "text_en": "Ramayya sat alone in front of those lifeless paintings—a big change began inside him. Children's laughter was faintly heard from a distance—that innocent joy seemed to tell him something. \"My happiness is in my art, not in this mansion,\" a clarity flashed in his mind. A new determination shone brightly in his eyes. Slowly, he picked up his small paint box, the same paint box he had brought from his hut. He walked towards the door of the big mansion."
+    },
+    {
+      "id": 7,
+      "text": "ఆ పెద్ద భవంతిని వదిలి, రామయ్య తన చిట్టి గుడిసెకు తిరిగి వచ్చాడు. మట్టి వాసన, కొత్త రంగుల సుగంధం అతనికి ఎంతో నచ్చింది. అతని చేతులు మళ్ళీ సంతోషంగా కదిలాయి, ప్రతి కుంచె స్ట్రోక్‌లో ఆనందం నిండింది. \"ఇదే నా నిజమైన ఇల్లు, నా నిజమైన కళ!\" అంటూ అతను తన గుడిసె గోడపై రంగుల మురల్ గీశాడు. అతని ముఖంపై ఒక వెడల్పాటి, నిజమైన చిరునవ్వు — అది అతని హృదయం నుండి వచ్చింది. ఆ రంగులు, ఆ చిరునవ్వు — అన్నీ కలిసి రామయ్య మనసులోని ఆనందాన్ని ప్రపంచానికి చాటిచెప్పాయి.",
+      "image_prompt": "The artist joyfully paints a colorful mural directly onto the wall of his small hut. A wide, genuine smile spreads across his face, reflecting deep contentment. Bright, cheerful morning sun streaming into the open hut, illuminating the freshly painted, colorful mural with a warm, inviting glow.",
+      "scene_visual": "The artist joyfully paints a colorful mural directly onto the wall of his small hut. A wide, genuine smile spreads across his face, reflecting deep contentment.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Pedda Bhavantini Vadili, Raamayya Tana Chitti Gudiseku Tirigi Vachchaadu. Matti Vaasana, Kotta Rangula Sugandham Ataniki Ento Nachchindi. Atani Chetulu Malli Santoshangaa Kadilaayi, Prati Kunche Strok‌Lo Aanandam Nindindi. \"Ide Naa Nijamaina Illu, Naa Nijamaina Kala!\" Antu Atanu Tana Gudise Godapai Rangula Mural Gishaadu. Atani Mukhampai Oka Vedalpaati, Nijamaina Chirunavvu — Adi Atani Hrridayam Nundi Vachchindi. Aa Rangulu, Aa Chirunavvu — Anni Kalisi Raamayya Manasuloni Aanandaanni Prapanchaaniki Chaaticheppaayi.",
+      "text_en": "Leaving the big mansion, Ramayya returned to his little hut. He loved the smell of earth and the fragrance of fresh paints. His hands moved happily again, and joy filled every brush stroke. \"This is my true home, my true art!\" he said, painting a colorful mural on his hut's wall. A wide, genuine smile was on his face—it came from his heart. Those colors, that smile—all together announced the joy in Ramayya's heart to the world."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 7,
+    "average": 8.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, excellent emotional depth conveyed through action, and flawless grammar. However, the explicit moral stated at the beginning significantly detracts from the 'grandmother authenticity' and 'child engagement' by telling rather than showing. To reach a 9+ score, remove the upfront moral and weave in more direct, conversational language and subtle engagement hooks, allowing the story's wisdom to emerge naturally."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamayya Manasu Gisina Rangulu",
+  "moral_te_en": "Pillalu, Nijamaina Santosham Mana Manasulo Untundi. Manam Manasupetti Chese Panula Dvaaraane Aa Aanandam Dorukutundi, Bayati Sampadalo Kaadu.",
+  "title_en": "The Colors Ramayya's Heart Painted",
+  "moral_en": "Children, true happiness is found within our hearts. We find that joy only through the things we do with all our heart, not in outside riches.",
+  "id": "20260604_161400",
+  "date": "2026-06-04",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "చిన్న గుడిసెలో ఆనందంగా నివసించే కళాకారుడు",
+  "thumbnail": "stories/20260604_161400/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
