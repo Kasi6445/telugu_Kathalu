@@ -1,0 +1,111 @@
+{
+  "title": "చెప్పుడు మాటల చేటు",
+  "moral": "అమ్మమ్మ చెప్పిన మాట విను, చెప్పుడు మాటలు వినడం, వాటిని నమ్మడం వల్ల మంచి స్నేహాలు కూడా విడిపోతాయి, అనవసరమైన బాధలు కలుగుతాయి.",
+  "main_character": "A slender 9-year-old boy named Venu with bright, curious eyes and a perpetually messy top-knot. He often wears a faded blue kurta and shorts, and carries a small, worn wooden top. Always the same character across every scene.",
+  "antagonist": "A slightly older girl, about 10, named Latha with sharp, darting eyes and a sly smile. She usually wears a bright pink pattu pavada and likes to braid her long, dark hair with jasmine flowers. Always the same character across every scene.",
+  "setting": "A small, vibrant village in the Godavari delta region of Andhra Pradesh. Mud-plastered houses with thatched roofs line narrow, dusty paths shaded by mango trees. The air is often thick with the smell of wet earth and cooking spices. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "వేణు, రాజు ఇద్దరూ పొద్దున్నే ఆ ఊరి చెరువు దగ్గర ఆడుకుంటున్నారు — వాళ్ళిద్దరూ మంచి స్నేహితులు. వేణు చేతిలో ఒక చిన్న చేపపిల్ల, దాన్ని చూసి కేరింతలు కొట్టాడు. \"రాజూ, చూడు! నా చేప ఎంత పెద్దదో!\" అని గట్టిగా అరిచాడు, నీళ్ళు చిమ్ముతూ. ఆ చల్లటి నీళ్ళు వాళ్ళ పాదాలకు తగులుతూ, చిన్న చిన్న మట్టి గీతలు ఏర్పడ్డాయి. రాజు కూడా నవ్వుతూ ఏదో చెప్పబోయాడు, కానీ ఇంతలో — ఒక నీడ వాళ్ళ మీద పడింది.",
+      "image_prompt": "The boy holds up a small fish in his hand, shouting excitedly while splashing water. As he shouts, a sudden, dark shadow falls over him and his friend, momentarily dimming the bright morning light. Bright, clear morning sun, casting sharp shadows of mango leaves on the pond's surface, reflecting a sparkling, energetic mood.",
+      "scene_visual": "The boy holds up a small fish in his hand, shouting excitedly while splashing water. As he shouts, a sudden, dark shadow falls over him and his friend, momentarily dimming the bright morning light.",
+      "supporting_char_keys": [
+        "raju"
+      ],
+      "text_te_en": "Venu, Raaju Iddaru Poddunne Aa Uri Cheruvu Daggara Aadukuntunnaaru — Vaalliddaru Manchi Snehitulu. Venu Chetilo Oka Chinna Chepapilla, Daanni Chusi Kerintalu Kottaadu. \"Raaju, Chudu! Naa Chepa Enta Peddado!\" Ani Gattigaa Arichaadu, Nillu Chimmutu. Aa Challati Nillu Vaalla Paadaalaku Tagulutu, Chinna Chinna Matti Gitalu Erpaddaayi. Raaju Kudaa Navvutu Edo Cheppaboyaadu, Kaani Intalo — Oka Nida Vaalla Mida Padindi.",
+      "text_en": "Venu and Raju were playing near the village pond in the morning — they were good friends. Venu had a small fish in his hand and cheered looking at it. \"Raju, look! How big my fish is!\" he shouted loudly, splashing water. The cool water touched their feet, making small muddy lines. Raju also smiled and was about to say something, but then — a shadow fell upon them."
+    },
+    {
+      "id": 2,
+      "text": "ఆ నీడ లతదే, రాజు తల దించుకున్నాడు. లత మెల్లిగా వేణు దగ్గరికి వచ్చింది, ఆమె జుట్టు నుండి మల్లెపూల సువాసన అప్పుడే వేణు ముక్కుపుటాలకి తాకింది. \"నిజం చెప్పాలంటే, రాజు నిన్ను చూసి అసూయ పడుతున్నాడని విన్నాను,\" అని లత అతని చెవిలో చెప్పింది. వేణు ముఖం చిట్లించి, ఆ మాటలను అర్థం చేసుకోవడానికి ప్రయత్నించాడు. అతని మనసులో లత మాటలు పదే పదే తిరుగుతుంటే, వేణు అడుగులు నిదానంగా మారి, అలవాటైన నడక కాస్త తడబడింది.",
+      "image_prompt": "The girl leans in close to the boy, whispering something into his ear. The boy's face wrinkles in confusion as he tries to process her words, his brow furrowed. Also in this scene: A slightly older girl, about 10, named Latha with sharp, darting eyes and a sly smile. She usually wears a bright pink pattu pavada and likes to braid her long, dark hair with jasmine flowers. Always the same character across every scene. Midday sun, bright but with a slight haze, creating a deceptive calm, the light feeling a bit too harsh on the path.",
+      "scene_visual": "The girl leans in close to the boy, whispering something into his ear. The boy's face wrinkles in confusion as he tries to process her words, his brow furrowed.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Nida Latade, Raaju Tala Dinchukunnaadu. Lata Melligaa Venu Daggariki Vachchindi, Aame Juttu Nundi Mallepula Suvaasana Appude Venu Mukkuputaalaki Taakindi. \"Nijam Cheppaalante, Raaju Ninnu Chusi Asuya Padutunnaadani Vinnaanu,\" Ani Lata Atani Chevilo Cheppindi. Venu Mukham Chitlinchi, Aa Maatalanu Artham Chesukovadaaniki Prayatninchaadu. Atani Manasulo Lata Maatalu Pade Pade Tirugutunte, Venu Adugulu Nidaanangaa Maari, Alavaataina Nadaka Kaasta Tadabadindi.",
+      "text_en": "The shadow was Latha's, and Raju lowered his head. Latha slowly came near Venu, and the scent of jasmine from her hair reached Venu's nose. \"To be honest, I heard Raju is jealous of you,\" Latha whispered in his ear. Venu frowned, trying to understand her words. As Latha's words kept repeating in his mind, Venu's steps slowed down, and his usual walk became a bit unsteady."
+    },
+    {
+      "id": 3,
+      "text": "మరుసటి రోజు, వేణు అడవి బాటలో నడుస్తుండగా, దూరం నుండి పిల్లల నవ్వులు వినిపించాయి — ఆ నవ్వుల మధ్య ఏదో గుసగుసలు. అతను చెవి ఒగ్గి వింటే, లత చెప్పిన మాటలే మరింత పెంచి చెబుతున్నారు. \"రాజు నిన్ను మోసం చేయడానికి ఏదో ప్లాన్ చేస్తున్నాడట!\" అని ఒకడు అనగా, మరొకడు తలూపాడు. వేణు భుజాలు కుంచించుకుపోయాయి, అతని గుండెలో ఏదో తెలియని భయం. ఇంతలో రాజు అతని వైపు ఆందోళనగా చూస్తూ వచ్చాడు, కానీ వేణు కళ్ళు కలపకుండా అక్కడి నుండి వేగంగా వెళ్ళిపోయాడు.",
+      "image_prompt": "The boy quickly turns away and walks rapidly down the forest path, avoiding eye contact with his approaching friend. His shoulders are hunched, conveying a deep sense of fear and distress as he hurries away. Late afternoon light, long shadows stretching across the dusty path, a sense of growing gloom and separation.",
+      "scene_visual": "The boy quickly turns away and walks rapidly down the forest path, avoiding eye contact with his approaching friend. His shoulders are hunched, conveying a deep sense of fear and distress as he hurries away.",
+      "supporting_char_keys": [
+        "raju"
+      ],
+      "text_te_en": "Marusati Roju, Venu Adavi Baatalo Nadustundagaa, Duram Nundi Pillala Navvulu Vinipinchaayi — Aa Navvula Madhya Edo Gusagusalu. Atanu Chevi Oggi Vinte, Lata Cheppina Maatale Marinta Penchi Chebutunnaaru. \"Raaju Ninnu Mosam Cheyadaaniki Edo Plaan Chestunnaadata!\" Ani Okadu Anagaa, Marokadu Talupaadu. Venu Bhujaalu Kunchinchukupoyaayi, Atani Gundelo Edo Teliyani Bhayan. Intalo Raaju Atani Vaipu Aandolanagaa Chustu Vachchaadu, Kaani Venu Kallu Kalapakundaa Akkadi Nundi Vegangaa Vellipoyaadu.",
+      "text_en": "The next day, as Venu was walking on the forest path, he heard children's laughter from a distance — and whispers among the laughter. If he listened closely, they were repeating Latha's words, making them even bigger. \"Raju is planning something to trick you!\" one said, and another nodded. Venu's shoulders slumped, and an unknown fear filled his heart. Just then, Raju came looking at him anxiously, but Venu quickly walked away without meeting his eyes."
+    },
+    {
+      "id": 4,
+      "text": "రాజు వేణును మరుసటి రోజు కూడా వెంబడించాడు, అతని ముఖంలో ఆందోళన స్పష్టంగా కనిపించింది. \"నువ్వు నాతో ఎందుకు మాట్లాడటం లేదు? నేను ఏం తప్పు చేశాను?\" అని రాజు గొంతు పెంచి అడిగాడు. వేణు ముఖం ఎర్రబడింది, అతని మాటలు తడబడ్డాయి, రాజు మోసం చేస్తున్నాడని ఆరోపించాడు. ఇద్దరి మధ్య మాటలు వేడెక్కాయి — గాలిలో ఒక రకమైన నిశ్శబ్దం, ఉద్రిక్తత నిండిపోయింది. రాజు కళ్ళలో నీళ్ళు తిరుగుతుంటే, వేణు ఒక్కసారిగా వెనక్కి తిరిగి పరిగెత్తాడు. రాజు ఒంటరిగా, దిక్కుతోచని స్థితిలో నిలబడిపోయాడు.",
+      "image_prompt": "The boy suddenly turns and runs away, leaving his friend standing alone and bewildered. Tears well up in the friend's eyes as he watches the boy disappear, his face etched with confusion and hurt. Dusk, the sky turning a deep orange and purple, highlighting the raw emotion of the argument, a feeling of sadness and fading light.",
+      "scene_visual": "The boy suddenly turns and runs away, leaving his friend standing alone and bewildered. Tears well up in the friend's eyes as he watches the boy disappear, his face etched with confusion and hurt.",
+      "supporting_char_keys": [
+        "raju"
+      ],
+      "text_te_en": "Raaju Venunu Marusati Roju Kudaa Vembadinchaadu, Atani Mukhanlo Aandolana Spashtangaa Kanipinchindi. \"Nuvvu Naato Enduku Maatlaadatam Ledu? Nenu Em Tappu Cheshaanu?\" Ani Raaju Gontu Penchi Adigaadu. Venu Mukham Errabadindi, Atani Maatalu Tadabaddaayi, Raaju Mosam Chestunnaadani Aaropinchaadu. Iddari Madhya Maatalu Vedekkaayi — Gaalilo Oka Rakamaina Nishshabdan, Udriktata Nindipoyindi. Raaju Kallalo Nillu Tirugutunte, Venu Okkasaarigaa Venakki Tirigi Parigettaadu. Raaju Ontarigaa, Dikkutochani Sthitilo Nilabadipoyaadu.",
+      "text_en": "Raju followed Venu the next day too, anxiety clearly visible on his face. \"Why aren't you talking to me? What did I do wrong?\" Raju asked, raising his voice. Venu's face turned red, his words stammered, and he accused Raju of tricking him. Words heated up between them — a kind of silence and tension filled the air. As tears welled up in Raju's eyes, Venu suddenly turned back and ran away. Raju stood alone, feeling lost."
+    },
+    {
+      "id": 5,
+      "text": "వేణు ఇప్పుడు ఒంటరిగా కూర్చున్నాడు, అతని భుజాలు వాలిపోయాయి. మామిడి తోట నుండి వినిపించే కోయిల కూత, అతని ఒంటరితనాన్ని మరింత పెంచింది. ఇంతలో లత మళ్ళీ ఇంకొకరి గురించి చెప్పుడు మాటలు చెబుతోంది, ఆమె వేరే పిల్లల మధ్య కొత్తగా చిచ్చు పెడుతోంది. వేణు ఆమెను చూస్తూ — తనలో తాను \"ఈ చెప్పుడు మాటలు ఎందుకు ఆపరు?\" అని అనుకున్నాడు. లత మాటలు మరో ఇద్దరు పిల్లల మధ్య దూరాన్ని సృష్టిస్తుండగా, వేణుకు మెల్లగా విషయాలన్నీ అర్థమవడం మొదలైంది.",
+      "image_prompt": "The boy sits alone, shoulders slumped, watching the girl as she whispers to other children, creating new discord. He observes her intently, a dawning realization slowly spreading across his face as he connects her actions. Also in this scene: A slightly older girl, about 10, named Latha with sharp, darting eyes and a sly smile. She usually wears a bright pink pattu pavada and likes to braid her long, dark hair with jasmine flowers. Always the same character across every scene. Soft, fading twilight, casting long, dark shadows, creating a pensive and slightly melancholy atmosphere, cool blue-grey.",
+      "scene_visual": "The boy sits alone, shoulders slumped, watching the girl as she whispers to other children, creating new discord. He observes her intently, a dawning realization slowly spreading across his face as he connects her actions.",
+      "supporting_char_keys": [],
+      "text_te_en": "Venu Ippudu Ontarigaa Kurchunnaadu, Atani Bhujaalu Vaalipoyaayi. Maamidi Tota Nundi Vinipinche Koyila Kuta, Atani Ontaritanaanni Marinta Penchindi. Intalo Lata Malli Inkokari Gurinchi Cheppudu Maatalu Chebutondi, Aame Vere Pillala Madhya Kottagaa Chichchu Pedutondi. Venu Aamenu Chustu — Tanalo Taanu \"I Cheppudu Maatalu Enduku Aaparu?\" Ani Anukunnaadu. Lata Maatalu Maro Iddaru Pillala Madhya Duraanni Srrishtistundagaa, Venuku Mellagaa Vishayaalanni Arthamavadam Modalaindi.",
+      "text_en": "Venu was now sitting alone, his shoulders slumped. The cuckoo's call from the mango orchard made his loneliness even deeper. Meanwhile, Latha was again spreading gossip about someone else, creating new trouble among other children. Venu looked at her — thinking to himself, \"Why don't they stop this gossip?\" As Latha's words created distance between two more children, Venu slowly began to understand everything."
+    },
+    {
+      "id": 6,
+      "text": "అదే రోజు సాయంత్రం, వేణు ఒక ఇంటి పక్కనుండి వెళ్తుండగా, లత నవ్వు వినిపించింది — అది చాలా కర్కశంగా, శూన్యంగా ఉంది. \"నేను ఏదో సరదాగా అన్నాను, అది ఇంత పెద్దదవుతుందని అనుకోలేదు!\" అని లత గట్టిగా నవ్వింది. వేణు ఒక్కసారిగా ఆగిపోయాడు, అతని ముఖం పాలిపోయింది — తరువాత కోపంతో ఎర్రబడింది. తన స్నేహానికి జరిగిన నష్టం లత చెప్పుడు మాటల వల్లే అని అర్థమైంది. అప్పుడు అతని గుండె దడదడలాడింది, వేణు రాజు ఇంటి వైపు పరుగు తీశాడు.",
+      "image_prompt": "The boy stops abruptly, his face first paling then flushing red with sudden anger. His heart pounds as he turns and begins to run furiously towards his friend's house, driven by a fierce realization. Also in this scene: A slightly older girl, about 10, named Latha with sharp, darting eyes and a sly smile. She usually wears a bright pink pattu pavada and likes to braid her long, dark hair with jasmine flowers. Always the same character across every scene. A sudden burst of moonlight through sparse clouds, stark and revealing, illuminating Latha's face in a harsh, unforgiving light, while Venu is cast in shadow, his moment of realization.",
+      "scene_visual": "The boy stops abruptly, his face first paling then flushing red with sudden anger. His heart pounds as he turns and begins to run furiously towards his friend's house, driven by a fierce realization.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ade Roju Saayantran, Venu Oka Inti Pakkanundi Veltundagaa, Lata Navvu Vinipinchindi — Adi Chaalaa Karkashangaa, Shunyangaa Undi. \"Nenu Edo Saradaagaa Annaanu, Adi Inta Peddadavutundani Anukoledu!\" Ani Lata Gattigaa Navvindi. Venu Okkasaarigaa Aagipoyaadu, Atani Mukham Paalipoyindi — Taruvaata Kopanto Errabadindi. Tana Snehaaniki Jarigina Nashtam Lata Cheppudu Maatala Valle Ani Arthamaindi. Appudu Atani Gunde Dadadadalaadindi, Venu Raaju Inti Vaipu Parugu Tishaadu.",
+      "text_en": "That same evening, as Venu was walking past a house, he heard Latha's laughter — it was very harsh and empty. \"I just said it for fun, I didn't think it would become such a big deal!\" Latha laughed loudly. Venu stopped suddenly, his face turned pale — then red with anger. He understood that the damage to his friendship was because of Latha's gossip. Then his heart pounded, and Venu ran towards Raju's house."
+    },
+    {
+      "id": 7,
+      "text": "వేణు ఆయాసపడుతూ రాజు ఇంటికి చేరాడు, రాజు తలుపు తీయగానే వేణు కళ్ళు చెమ్మగిల్లాయి. \"రాజూ, నన్ను క్షమించు. నేను చెప్పుడు మాటలు విని నిన్ను అనుమానించాను,\" అని వేణు గొంతు వణుకుతూ చెప్పాడు. రాజు ఒక్క క్షణం ఆగి, తరువాత వేణు భుజం మీద చేయి వేసి, మెల్లిగా నవ్వాడు. ఆ స్పర్శతో వేణు మనసు తేలికపడింది, ఇద్దరూ ఒకరినొకరు గట్టిగా కౌగిలించుకున్నారు. వాళ్ళ పాత స్నేహం మళ్ళీ చిగురించింది, అంతకు మించి బలంగా.",
+      "image_prompt": "The two boys embrace tightly, their bodies pressed together in a heartfelt hug. The first boy's eyes are moist with tears, while the second boy offers a gentle smile, his hand resting reassuringly on the first boy's shoulder. Gentle early morning sunlight, warm and golden, filtering through the leaves of a banyan tree, symbolizing new beginnings and peaceful resolution.",
+      "scene_visual": "The two boys embrace tightly, their bodies pressed together in a heartfelt hug. The first boy's eyes are moist with tears, while the second boy offers a gentle smile, his hand resting reassuringly on the first boy's shoulder.",
+      "supporting_char_keys": [
+        "raju"
+      ],
+      "text_te_en": "Venu Aayaasapadutu Raaju Intiki Cheraadu, Raaju Talupu Tiyagaane Venu Kallu Chemmagillaayi. \"Raaju, Nannu Kshaminchu. Nenu Cheppudu Maatalu Vini Ninnu Anumaaninchaanu,\" Ani Venu Gontu Vanukutu Cheppaadu. Raaju Okka Kshanam Aagi, Taruvaata Venu Bhujam Mida Cheyi Vesi, Melligaa Navvaadu. Aa Sparshato Venu Manasu Telikapadindi, Iddaru Okarinokaru Gattigaa Kaugilinchukunnaaru. Vaalla Paata Sneham Malli Chigurinchindi, Antaku Minchi Balangaa.",
+      "text_en": "Venu reached Raju's house, panting. As Raju opened the door, Venu's eyes welled up. \"Raju, forgive me. I listened to gossip and doubted you,\" Venu said with a trembling voice. Raju paused for a moment, then put a hand on Venu's shoulder and smiled gently. With that touch, Venu's heart felt lighter, and they hugged each other tightly. Their old friendship blossomed again, stronger than before."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "raju",
+      "description": "A sturdy 9-year-old boy named Raju with a cheerful, open face and strong, calloused hands from helping his father in the fields. He wears a simple white shirt and dhoti, and always has a small, hand-carved bird whistle tucked into his pocket. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is remarkably well-written, boasting a compelling narrative arc, deep emotional resonance, and impeccable grammar. The dialogue is natural and effectively advances the plot, making it highly engaging for a young audience. To achieve a perfect score, a slight adjustment in some descriptive passages could further enhance the oral warmth, making it feel even more like a spontaneous, heartfelt bedtime story from a grandparent."
+  },
+  "title_te_en": "Cheppudu Maatala Chetu",
+  "moral_te_en": "Ammamma Cheppina Maata Vinu, Cheppudu Maatalu Vinadan, Vaatini Nammadam Valla Manchi Snehaalu Kudaa Vidipotaayi, Anavasaramaina Baadhalu Kalugutaayi.",
+  "title_en": "The Harm of Gossip",
+  "moral_en": "Listening to and believing gossip can break even good friendships and cause unnecessary pain.",
+  "id": "20260604_011254",
+  "date": "2026-06-04",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "చెప్పుడు మాటలు చేటు చేస్తాయి అనే కథ",
+  "thumbnail": "stories/20260604_011254/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
