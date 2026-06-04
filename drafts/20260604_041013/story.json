@@ -1,0 +1,107 @@
+{
+  "title": "చెట్ల గుసగుసలు, రాజు తెలివి",
+  "moral": "ప్రపంచాన్ని శ్రద్ధగా వింటే, మనకు తెలియని పరిష్కారాలు దొరుకుతాయి.",
+  "main_character": "Raju is a lean, active village boy of about ten years, with bright, curious eyes and perpetually dusty bare feet. He often has leaves or twigs tangled in his dark, wavy hair, a sign of his deep connection to the forest. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story is set in a small, vibrant Telugu village named \"కొండపల్లి\" (Kondapalli), nestled at the edge of a lush, green forest in the Nallamala Hills. The village is characterized by mud-brick houses with thatched roofs, a central Banyan tree, and fields of jowar and maize. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కొండపల్లి గ్రామంలో రాజు అడవిలో సీతాకోకచిలుకల వెంట పడుతూ ఆనందంగా గెంతులు వేశాడు. వాడి ముఖంపై చిలిపి నవ్వు — అడవిని తన ఇంటిలా భావించాడు. వెచ్చని, మట్టి సువాసన, ఎండిన ఆకుల ఘాటు వాడి ముక్కుకు తగిలింది. \"ఈ చెట్లు నాకు స్నేహితులు!\" అని గట్టిగా అనుకుంటూ, ఒక చెట్టు కొమ్మను పట్టుకున్నాడు. ఇంతలో, గాలిలో ఏదో వింత చప్పుడు — అది ఆకుల గుసగుసలా? రాజు తల పక్కకు వాల్చాడు. ఆ చప్పుడు అడవిలోంచి వస్తున్నట్లు అనిపించింది.",
+      "image_prompt": "The boy tilts his head to the side, listening intently to a strange sound. He holds onto a tree branch, a mischievous smile still lingering on his face. Dappled sunlight filtering through a dense canopy of trees, creating shifting patterns of light and shadow on the forest floor, warm and inviting.",
+      "scene_visual": "The boy tilts his head to the side, listening intently to a strange sound. He holds onto a tree branch, a mischievous smile still lingering on his face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kondapalli Graamanlo Raaju Adavilo Sitaakokachilukala Venta Padutu Aanandangaa Gentulu Veshaadu. Vaadi Mukhampai Chilipi Navvu — Adavini Tana Intilaa Bhaavinchaadu. Vechchani, Matti Suvaasana, Endina Aakula Ghaatu Vaadi Mukkuku Tagilindi. \"I Chetlu Naaku Snehitulu!\" Ani Gattigaa Anukuntu, Oka Chettu Kommanu Pattukunnaadu. Intalo, Gaalilo Edo Vinta Chappudu — Adi Aakula Gusagusalaa? Raaju Tala Pakkaku Vaalchaadu. Aa Chappudu Adavilonchi Vastunnatlu Anipinchindi.",
+      "text_en": "In Kondapalli village, Raju happily chased butterflies in the forest, jumping with joy. A mischievous smile was on his face — he felt the forest was his home. The warm, earthy smell and the sharp scent of dry leaves reached his nose. \"These trees are my friends!\" he thought aloud, grabbing a tree branch. Suddenly, a strange sound in the air — was it the rustling of leaves? Raju tilted his head. The sound seemed to be coming from deep within the forest."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మరుసటి రోజు, రాజు పరుగున ఇంటికి వచ్చి, తల్లితో మాట్లాడాలని ప్రయత్నించాడు. తల్లి రోట్లో మసాలాలు రుబ్బుతుంటే, ఆ శబ్దం లయబద్ధంగా వినిపిస్తోంది. రాజు చేతులు పిసుకుంటూ, కొంచెం కంగారుగా, \"అమ్మా, చెట్లు చెబుతున్నాయి – పెద్ద ఎండలు రాబోతున్నాయి!\" అన్నాడు. ఆమె ఒక క్షణం వాడి వైపు చూసి, ప్రేమగా నవ్వింది. ఒక చిన్న నిట్టూర్పు — తర్వాత తిరిగి వంటపనుల్లో నిమగ్నమైంది.",
+      "image_prompt": "The boy stands nervously, wringing his hands as he tries to speak to his mother. His mother looks at him briefly, a loving smile on her face, before returning to grinding spices in a mortar. The warm glow of a small cooking fire illuminating the interior of a simple hut, smoke curling upwards, creating a cozy but slightly hazy atmosphere.",
+      "scene_visual": "The boy stands nervously, wringing his hands as he tries to speak to his mother. His mother looks at him briefly, a loving smile on her face, before returning to grinding spices in a mortar.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Marusati Roju, Raaju Paruguna Intiki Vachchi, Tallito Maatlaadaalani Prayatninchaadu. Talli Rotlo Masaalaalu Rubbutunte, Aa Shabdam Layabaddhangaa Vinipistondi. Raaju Chetulu Pisukuntu, Konchem Kangaarugaa, \"Ammaa, Chetlu Chebutunnaayi – Pedda Endalu Raabotunnaayi!\" Annaadu. Aame Oka Kshanam Vaadi Vaipu Chusi, Premagaa Navvindi. Oka Chinna Nitturpu — Tarvaata Tirigi Vantapanullo Nimagnamaindi.",
+      "text_en": "The next day, Raju ran home and tried to talk to his mother. His mother was grinding spices in a mortar, making a rhythmic sound. Raju wrung his hands, a little worried, and said, \"Amma, the trees are saying – very hot days are coming!\" She looked at him for a moment, smiled lovingly. A small sigh — then she went back to her cooking."
+    },
+    {
+      "id": 3,
+      "text": "అమ్మ మాటలు వినగానే, రాజు మొండిగా తిరిగి అడవిలోకి వెళ్ళాడు. ఒక పెద్ద మర్రి చెట్టు దగ్గర ఆగి, దాని గరుకు బెరడుకు చెంప ఆనించి, తన ఆత్రుతను అణచుకున్నాడు. వాడి నుదురు ముడుచుకుంది — ఏదో వినాలని ప్రయత్నిస్తున్నట్లు. \"బాగా వినాలి... అవి ఏం చెబుతున్నాయో!\" అని తనలో తనే అనుకున్నాడు. చెట్ల గుసగుసలు స్పష్టంగా వినిపించాయి... పాత బావి, నీరు ఇంకిపోవడం. రాజు కళ్ళు పెద్దవి చేసుకున్నాడు — అవి చెప్పింది నిజమా?",
+      "image_prompt": "The boy presses his cheek against the rough bark of a large banyan tree, trying to listen intently. His forehead is furrowed in concentration, and his eyes widen as he hears the trees' whispers. Late afternoon sunlight, softer and golden, filtering through the leaves, creating a peaceful, almost magical ambiance in the forest.",
+      "scene_visual": "The boy presses his cheek against the rough bark of a large banyan tree, trying to listen intently. His forehead is furrowed in concentration, and his eyes widen as he hears the trees' whispers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Amma Maatalu Vinagaane, Raaju Mondigaa Tirigi Adaviloki Vellaadu. Oka Pedda Marri Chettu Daggara Aagi, Daani Garuku Beraduku Chempa Aaninchi, Tana Aatrutanu Anachukunnaadu. Vaadi Nuduru Muduchukundi — Edo Vinaalani Prayatnistunnatlu. \"Baagaa Vinaali... Avi Em Chebutunnaayo!\" Ani Tanalo Tane Anukunnaadu. Chetla Gusagusalu Spashtangaa Vinipinchaayi... Paata Baavi, Niru Inkipovadan. Raaju Kallu Peddavi Chesukunnaadu — Avi Cheppindi Nijamaa?",
+      "text_en": "As soon as his mother spoke, Raju stubbornly went back into the forest. He stopped near a big banyan tree, pressed his cheek against its rough bark, and calmed his eagerness. His forehead was furrowed — as if he was trying to hear something. \"I must listen carefully... what are they saying!\" he thought to himself. The whispers of the trees became clear... the old well, the water drying up. Raju's eyes widened — was what they said true?"
+    },
+    {
+      "id": 4,
+      "text": "పాత బావి రహస్యం తెలిసిన రాజు నేరుగా గ్రామ పెద్ద అమ్మమ్మ దగ్గరికి వెళ్ళాడు. ఆమె చీర నుండి పసుపు, ఎండిన మూలికల సువాసన వస్తోంది. రాజు గొంతు వణుకుతోంది — తన మాటలు వింటారా అని. \"చెట్ల మాటలు వినడం చాలా అరుదు బిడ్డా... జాగ్రత్తగా ఉండు,\" అని ఆమె మెల్లగా చెప్పింది. ఆమె తన కళ్ళు మూసుకుంది — ఆలోచనలో పడినట్లు. ఇంకేమీ మాట్లాడలేదు.",
+      "image_prompt": "The old woman closes her eyes, appearing deep in thought after hearing the boy's words. The boy stands before her, his posture tense with apprehension. The soft, fading light of early evening on the village porch, long shadows stretching, creating a contemplative and slightly somber mood.",
+      "scene_visual": "The old woman closes her eyes, appearing deep in thought after hearing the boy's words. The boy stands before her, his posture tense with apprehension.",
+      "supporting_char_keys": [
+        "grandmother"
+      ],
+      "text_te_en": "Paata Baavi Rahasyam Telisina Raaju Nerugaa Graama Pedda Ammamma Daggariki Vellaadu. Aame Chira Nundi Pasupu, Endina Mulikala Suvaasana Vastondi. Raaju Gontu Vanukutondi — Tana Maatalu Vintaaraa Ani. \"Chetla Maatalu Vinadam Chaalaa Arudu Biddaa... Jaagrattagaa Undu,\" Ani Aame Mellagaa Cheppindi. Aame Tana Kallu Musukundi — Aalochanalo Padinatlu. Inkemi Maatlaadaledu.",
+      "text_en": "Knowing the secret of the old well, Raju went straight to the village elder, Ammamma. The scent of turmeric and dried herbs came from her saree. Raju's voice trembled — wondering if she would listen to his words. \"It's very rare to hear the words of trees, child... be careful,\" she said softly. She closed her eyes — as if deep in thought. She didn't say anything else."
+    },
+    {
+      "id": 5,
+      "text": "రాజు ఎవరికీ తెలియకుండా, చెట్లు చెప్పిన దారిలో నది వైపు వెళ్ళాడు. ఒక చిన్న ప్రవాహం పక్కన కూర్చుని, తన చేతులతో మట్టిని తవ్వడం మొదలుపెట్టాడు. తడి మట్టి వాడి వేళ్ళ మధ్య నుండి జారిపోతోంది — ఒక చిన్న కాలువను నిర్మిస్తున్నాడు. \"చెట్లు చెప్పినట్లే చేయాలి!\" అని తనలో తనే ధైర్యం చెప్పుకున్నాడు. చుట్టూ చూసుకున్నాడు — ఎవరూ చూడటం లేదు. అకస్మాత్తుగా — నీటి చిన్న ధార కాలువలోకి ప్రవహించింది.",
+      "image_prompt": "The boy sits by a small stream, digging in the earth with his hands to create a channel. Wet soil slips between his fingers as he works, and suddenly a small stream of water flows into the newly dug channel. The pale, cool light of dawn, still slightly blue, with dew sparkling on the grass, a sense of quiet urgency and new beginnings.",
+      "scene_visual": "The boy sits by a small stream, digging in the earth with his hands to create a channel. Wet soil slips between his fingers as he works, and suddenly a small stream of water flows into the newly dug channel.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Evariki Teliyakundaa, Chetlu Cheppina Daarilo Nadi Vaipu Vellaadu. Oka Chinna Pravaaham Pakkana Kurchuni, Tana Chetulato Mattini Tavvadam Modalupettaadu. Tadi Matti Vaadi Vella Madhya Nundi Jaaripotondi — Oka Chinna Kaaluvanu Nirmistunnaadu. \"Chetlu Cheppinatle Cheyaali!\" Ani Tanalo Tane Dhairyam Cheppukunnaadu. Chuttu Chusukunnaadu — Evaru Chudatam Ledu. Akasmaattugaa — Niti Chinna Dhaara Kaaluvaloki Pravahinchindi.",
+      "text_en": "Without anyone knowing, Raju followed the path the trees had told him, towards the river. He sat beside a small stream and began digging the soil with his hands. Wet soil slipped through his fingers — he was building a small channel. \"I must do as the trees said!\" he encouraged himself. He looked around — no one was watching. Suddenly — a small trickle of water flowed into the channel."
+    },
+    {
+      "id": 6,
+      "text": "కొద్ది రోజుల్లోనే, చెట్లు చెప్పినట్లుగా, గ్రామంలో పెద్ద ఎండలు మొదలయ్యాయి. ఇతర బావుల చుట్టూ ఉన్న నేల పగిలిపోయి, ఎండిపోయింది — నీరు పూర్తిగా ఇంకిపోయింది. గ్రామస్థులు దిగులుగా కూర్చున్నారు. అప్పుడు రాజు, ఒక మూల నిలబడి ఉన్న పాత బావి వైపు వేలు చూపాడు. \"చూడండి! ఈ బావిలో ఇంకా నీరుంది!\" అని గట్టిగా అరిచాడు. గ్రామస్థులు మొదట ఆశ్చర్యపోయారు — తర్వాత పరుగున బావి వైపు వెళ్ళారు. వారి నిరాశ ఆశ్చర్యంగా మారింది.",
+      "image_prompt": "The boy points emphatically towards an old well, shouting to the disheartened villagers. The villagers, initially surprised, then rush towards the well, their faces transforming from despair to astonishment. Harsh midday sun beating down on the village square, casting sharp, clear shadows, emphasizing the desperation and then the sudden hope.",
+      "scene_visual": "The boy points emphatically towards an old well, shouting to the disheartened villagers. The villagers, initially surprised, then rush towards the well, their faces transforming from despair to astonishment.",
+      "supporting_char_keys": [
+        "grandmother"
+      ],
+      "text_te_en": "Koddi Rojullone, Chetlu Cheppinatlugaa, Graamanlo Pedda Endalu Modalayyaayi. Itara Baavula Chuttu Unna Nela Pagilipoyi, Endipoyindi — Niru Purtigaa Inkipoyindi. Graamasthulu Digulugaa Kurchunnaaru. Appudu Raaju, Oka Mula Nilabadi Unna Paata Baavi Vaipu Velu Chupaadu. \"Chudandi! I Baavilo Inkaa Nirundi!\" Ani Gattigaa Arichaadu. Graamasthulu Modata Aashcharyapoyaaru — Tarvaata Paruguna Baavi Vaipu Vellaaru. Vaari Niraasha Aashcharyangaa Maarindi.",
+      "text_en": "In a few days, just as the trees had said, a severe dry spell began in the village. The ground around other wells cracked and dried up — the water had completely vanished. The villagers sat sadly. Then Raju pointed a finger towards the old well standing in a corner. \"Look! This well still has water!\" he shouted loudly. The villagers were surprised at first — then they ran towards the well. Their despair turned into wonder."
+    },
+    {
+      "id": 7,
+      "text": "ఆనాటి నుండి, రాజు కొండపల్లి గ్రామానికి ఒక రక్షకుడిగా మారాడు. వాడు ఇప్పుడు ప్రశాంతంగా ఆ మర్రి చెట్టు కింద కూర్చుంటాడు — చెట్ల గుసగుసలను వింటూ. బ్రహ్మాండమైన మర్రి ఆకుల మృదువైన చప్పుడు ఒక జోలపాటలా వినిపిస్తోంది. గ్రామానికి ఒక కొత్త ఆశ దొరికింది. \"చెట్ల గుసగుసలు ఎల్లప్పుడూ మనకు దారి చూపిస్తాయి,\" అని రాజు ఒక చిరునవ్వుతో మనసులో అనుకున్నాడు. వాడు ఇప్పుడు అడవి జ్ఞానానికి ఒక వారధి.",
+      "image_prompt": "The boy sits peacefully under a magnificent banyan tree, listening to the whispers of the leaves. A gentle smile plays on his face, as the soft rustling of the banyan leaves sounds like a lullaby. Gentle dusk light, warm amber, painting the village in soft hues, creating a peaceful and harmonious atmosphere.",
+      "scene_visual": "The boy sits peacefully under a magnificent banyan tree, listening to the whispers of the leaves. A gentle smile plays on his face, as the soft rustling of the banyan leaves sounds like a lullaby.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aanaati Nundi, Raaju Kondapalli Graamaaniki Oka Rakshakudigaa Maaraadu. Vaadu Ippudu Prashaantangaa Aa Marri Chettu Kinda Kurchuntaadu — Chetla Gusagusalanu Vintu. Brahmaandamaina Marri Aakula Mrriduvaina Chappudu Oka Jolapaatalaa Vinipistondi. Graamaaniki Oka Kotta Aasha Dorikindi. \"Chetla Gusagusalu Ellappudu Manaku Daari Chupistaayi,\" Ani Raaju Oka Chirunavvuto Manasulo Anukunnaadu. Vaadu Ippudu Adavi Jnyaanaaniki Oka Vaaradhi.",
+      "text_en": "From that day on, Raju became a protector for Kondapalli village. He now sits peacefully under that banyan tree — listening to the whispers of the trees. The soft rustle of the magnificent banyan leaves sounds like a lullaby. The village had found new hope. \"The whispers of the trees will always guide us,\" Raju thought with a smile in his heart. He was now a bridge to the wisdom of the forest."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "grandmother",
+      "description": "Ammaji is an elderly village woman with a face weathered by sun and wisdom, her silver hair always neatly tied in a bun. She carries a walking stick carved from local wood and often hums ancient folk tunes. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 9.0,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 9.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This is a beautifully crafted story with a strong narrative arc and excellent emotional depth, making it highly engaging for a child. The language is warm, authentic, and grammatically flawless, truly embodying the voice of a seasoned storyteller. To elevate it further, consider adding one or two more direct dialogue exchanges, perhaps between Raju and the villagers in Scene 6, to enrich character interactions and make the climax even more dynamic."
+  },
+  "title_te_en": "Chetla Gusagusalu, Raaju Telivi",
+  "moral_te_en": "Prapanchaanni Shraddhagaa Vinte, Manaku Teliyani Parishkaaraalu Dorukutaayi.",
+  "title_en": "Tree Whispers, Raju's Wisdom",
+  "moral_en": "If you listen carefully to the world around you, you might find solutions you never knew existed.",
+  "id": "20260604_041013",
+  "date": "2026-06-04",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "తెలుగు జానపద కథ - చెట్ల గుసగుసలు విన్న పల్లె బిడ్డ",
+  "thumbnail": "stories/20260604_041013/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
