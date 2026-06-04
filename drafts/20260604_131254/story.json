@@ -1,0 +1,98 @@
+{
+  "title": "చిలుక తొందరపాటు, గూడ్లగూబ మాట",
+  "moral": "ఆవేశపడకుండా ఆలోచించి మాట్లాడితే, మనకి ఎంతో మంచి జరుగుతుంది కదా పిల్లలూ.",
+  "main_character": "A vibrant green parrot, small and agile, with bright red beak and a crest of unruly feathers. He is known for his quick temper and speaking without thinking. Always the same character across every scene.",
+  "antagonist": "A large, solemn brown owl with piercing yellow eyes and soft, silent wings. She is ancient and speaks slowly, always stating facts without embellishment. Always the same character across every scene.",
+  "setting": "A lush forest in the Godavari river delta, Andhra Pradesh. Towering banyan trees with hanging roots, vibrant flowering bushes, and the soft gurgle of a nearby stream define the landscape. The air is always humid and rich with the scent of earth and blossoms. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "తొందరపాటు చిలుక, చిలుకా... ఎప్పుడూ ఏదో ఒక విషయం మీద ఆవేశపడుతూ ఉండేవాడు. ఒక ఉదయం, తన గూడు పక్కన చిటపట శబ్దంతో ఒక చిన్న ఉడుత గింజ పడేసింది. అంతే, చిలుక రెక్కలు టపటప కొట్టుకుంటూ, గట్టిగా అరిచాడు: \"అయ్యో! నా నిద్ర పాడుచేశావు! ఎంత అజాగ్రత్త!\" ఆ శబ్దం — అడవి అంతా ప్రతిధ్వనించి, నిశ్శబ్ద వాతావరణాన్ని ఒక్కసారిగా చెదరగొట్టింది. ఆ చిన్న ఉడుత భయపడి దూరంగా పారిపోగా, చిలుక మాత్రం ఇంకా గొణుగుతూనే ఉన్నాడు. ఇతర పక్షులు, జంతువులు కూడా అతని మొరటు మాటలకు దూరంగా జరిగిపోయాయి.",
+      "image_prompt": "The parrot flaps its wings rapidly and shouts loudly, disturbing the forest's silence. A small squirrel, startled by the sudden noise, scurries away in fear. Early morning light filters through dense leaves, creating dappled shadows on the forest floor, with a soft, dewy glow.",
+      "scene_visual": "The parrot flaps its wings rapidly and shouts loudly, disturbing the forest's silence. A small squirrel, startled by the sudden noise, scurries away in fear.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tondarapaatu Chiluka, Chilukaa... Eppudu Edo Oka Vishayam Mida Aaveshapadutu Undevaadu. Oka Udayan, Tana Gudu Pakkana Chitapata Shabdanto Oka Chinna Uduta Ginja Padesindi. Ante, Chiluka Rekkalu Tapatapa Kottukuntu, Gattigaa Arichaadu: \"Ayyo! Naa Nidra Paaducheshaavu! Enta Ajaagratta!\" Aa Shabdam — Adavi Antaa Pratidhvaninchi, Nishshabda Vaataavaranaanni Okkasaarigaa Chedaragottindi. Aa Chinna Uduta Bhayapadi Durangaa Paaripogaa, Chiluka Maatram Inkaa Gonugutune Unnaadu. Itara Pakshulu, Jantuvulu Kudaa Atani Moratu Maatalaku Durangaa Jarigipoyaayi.",
+      "text_en": "Chiluka was a very impulsive parrot, always getting upset about something. One morning, a little squirrel accidentally dropped a seed with a 'tap-tap' sound right next to Chiluka's nest. Chiluka immediately flapped his wings and shouted loudly, \"Oh no! You woke me up! How careless of you!\" His loud voice echoed through the whole forest, suddenly breaking the peaceful quiet. The little squirrel got scared and quickly ran away, but Chiluka kept grumbling to himself. Soon, other birds and animals started to stay away from his harsh words."
+    },
+    {
+      "id": 2,
+      "text": "గింజల కోసం వెళుతుండగా, చిలుక రెండు పిచ్చుకలు గుసగుసలాడటం విన్నాడు. \"అడవి లోపల, చాలా అరుదైన, తీయని పండు ఒకటి ఉందట...\" అంటూ ఒక పిచ్చుక చెప్పగానే, చిలుక గుండె ఉప్పొంగిపోయింది. అంతే, రొమ్ము విరుచుకుని, సంతోషంగా కిలకిలలాడుతూ, \"ఆ పండు నాదే! నేను దానిని కనుగొంటాను!\" అని వెంటనే అరిచాడు. అక్కడే ఉన్న గూడ్లగూబ, మెల్లగా \"తొందరపడితే ప్రమాదం, చిలుకా...\" అని హెచ్చరించింది. కానీ చిలుక ఏమాత్రం వినకుండా, మల్లెపూల మధురమైన వాసనను కూడా పట్టించుకోకుండా, కొత్త సాహసానికి బయలుదేరాడు. ఆ తెలియని అడవి లోపలికి, ధైర్యంగా దూసుకెళ్ళాడు.",
+      "image_prompt": "The parrot puffs out its chest and chirps happily, shouting its intention to find a rare fruit. Ignoring the owl's soft warning, it bravely flies into the unknown depths of the forest. Also in this scene: A large, solemn brown owl with piercing yellow eyes and soft, silent wings. She is ancient and speaks slowly, always stating facts without embellishment. Always the same character across every scene. Bright mid-morning sun, piercing through the canopy in golden shafts, highlighting dust motes dancing in the air.",
+      "scene_visual": "The parrot puffs out its chest and chirps happily, shouting its intention to find a rare fruit. Ignoring the owl's soft warning, it bravely flies into the unknown depths of the forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ginjala Kosam Velutundagaa, Chiluka Rendu Pichchukalu Gusagusalaadatam Vinnaadu. \"Adavi Lopala, Chaalaa Arudaina, Tiyani Pandu Okati Undata...\" Antu Oka Pichchuka Cheppagaane, Chiluka Gunde Uppongipoyindi. Ante, Rommu Viruchukuni, Santoshangaa Kilakilalaadutu, \"Aa Pandu Naade! Nenu Daanini Kanugontaanu!\" Ani Ventane Arichaadu. Akkade Unna Gudlaguba, Mellagaa \"Tondarapadite Pramaadan, Chilukaa...\" Ani Hechcharinchindi. Kaani Chiluka Emaatram Vinakundaa, Mallepula Madhuramaina Vaasananu Kudaa Pattinchukokundaa, Kotta Saahasaaniki Bayaluderaadu. Aa Teliyani Adavi Lopaliki, Dhairyangaa Dusukellaadu.",
+      "text_en": "As Chiluka flew off to find some seeds, he overheard two sparrows whispering. \"Deep inside the forest, there's a very rare and sweet fruit...\" one sparrow chirped. Chiluka's heart pounded with excitement! He puffed out his chest, chirped happily, and immediately shouted, \"That fruit is mine! I will find it!\" Goodlaguba, who was sitting nearby, gently warned him, \"Haste can be dangerous, Chiluka...\" But Chiluka didn't listen. He didn't even notice the sweet smell of jasmine flowers as he rushed off on his new adventure. He bravely flew deep into the unknown forest."
+    },
+    {
+      "id": 3,
+      "text": "తొందరగా ఎగురుతూ, దారి తెలియక చిలుక ఒక దట్టమైన ముళ్ళ పొదలోకి దూసుకెళ్ళాడు. ఒక్కసారిగా — రెక్కకు సూదిలా గుచ్చుకున్న ముళ్ళు, అతని శరీరాన్ని తీవ్రంగా బాధించాయి. అయ్యో అని అరవబోయి, రెక్కలు విలవిల కొట్టుకుంటూ: \"అయ్యో! ఇది ఎక్కడ? నేను ఎటు వెళ్ళాలి?\" అని గోల పెట్టాడు. చిన్నగా, సున్నితమైన ఈకలకు ముళ్ళు గుచ్చుకోవడంతో, నొప్పి భరించలేక విలవిలలాడిపోయాడు. దారి తప్పిపోయానని గ్రహించి, అక్కడే ఉండిపోయాడు. తన సహాయం కోసం అరుపులు, ఆ తెలియని అడవి నిశ్శబ్దంలో కలసిపోయాయి.",
+      "image_prompt": "The parrot flies quickly and erratically into a dense thorny bush, its wing immediately pricked by sharp thorns. It flails its delicate feathers in agony, crying out in pain and confusion as it realizes it is lost. Overcast afternoon, the forest appears darker and more menacing, with deep shadows under the dense foliage.",
+      "scene_visual": "The parrot flies quickly and erratically into a dense thorny bush, its wing immediately pricked by sharp thorns. It flails its delicate feathers in agony, crying out in pain and confusion as it realizes it is lost.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tondaragaa Egurutu, Daari Teliyaka Chiluka Oka Dattamaina Mulla Podaloki Dusukellaadu. Okkasaarigaa — Rekkaku Sudilaa Guchchukunna Mullu, Atani Shariraanni Tivrangaa Baadhinchaayi. Ayyo Ani Aravaboyi, Rekkalu Vilavila Kottukuntu: \"Ayyo! Idi Ekkada? Nenu Etu Vellaali?\" Ani Gola Pettaadu. Chinnagaa, Sunnitamaina Ikalaku Mullu Guchchukovadanto, Noppi Bharinchaleka Vilavilalaadipoyaadu. Daari Tappipoyaanani Grahinchi, Akkade Undipoyaadu. Tana Sahaayam Kosam Arupulu, Aa Teliyani Adavi Nishshabdanlo Kalasipoyaayi.",
+      "text_en": "Flying very fast, Chiluka didn't know where he was going and suddenly flew straight into a thick, thorny bush. Ouch! Sharp thorns, like tiny needles, pricked his wings and hurt his body badly. He tried to cry out, flapping his wings wildly, \"Oh no! Where am I? Which way should I go?\" he wailed. The thorns were stuck in his small, soft feathers, and the pain was too much to bear. He realized he was lost and just stayed there, trembling. His cries for help were swallowed by the deep silence of the unknown forest."
+    },
+    {
+      "id": 4,
+      "text": "ముళ్ళ పొద నుండి ఎలాగోలా బయటపడి, చిలుక ఒక చెట్టు కొమ్మ మీద వణకుతూ కూర్చున్నాడు. తన పదునైన గోళ్ళు, చెట్టు బెరడును గట్టిగా పట్టుకున్నాయి — ఆ భయంతో. \"కుడివైపు! కాదు, ఎడమవైపు! నేను ఎటు వచ్చాను?\" అని తనలో తానే గందరగోళంగా అరుస్తున్నాడు. తన దిక్కుమాలిన అరుపులు, మరింత గందరగోళాన్ని సృష్టించాయి కానీ, సహాయం మాత్రం రాలేదు. అతని కళ్ళు అటూ ఇటూ చూస్తూ, భయంతో నిండిపోయాయి. సాయంత్రం చీకటి పడటం మొదలవగానే, ఒక నిశ్శబ్దమైన నీడ, అతని పై కొమ్మ మీద వాలింది.",
+      "image_prompt": "The parrot sits trembling on a tree branch, its sharp claws gripping the bark tightly in fear. Its eyes dart around, filled with terror, as a silent shadow lands on a branch above it in the fading light. Late afternoon, shadows lengthen and deepen, the colours of the forest begin to fade into muted greens and browns, a sense of growing isolation.",
+      "scene_visual": "The parrot sits trembling on a tree branch, its sharp claws gripping the bark tightly in fear. Its eyes dart around, filled with terror, as a silent shadow lands on a branch above it in the fading light.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mulla Poda Nundi Elaagolaa Bayatapadi, Chiluka Oka Chettu Komma Mida Vanakutu Kurchunnaadu. Tana Padunaina Gollu, Chettu Beradunu Gattigaa Pattukunnaayi — Aa Bhayanto. \"Kudivaipu! Kaadu, Edamavaipu! Nenu Etu Vachchaanu?\" Ani Tanalo Taane Gandaragolangaa Arustunnaadu. Tana Dikkumaalina Arupulu, Marinta Gandaragolaanni Srrishtinchaayi Kaani, Sahaayam Maatram Raaledu. Atani Kallu Atu Itu Chustu, Bhayanto Nindipoyaayi. Saayantram Chikati Padatam Modalavagaane, Oka Nishshabdamaina Nida, Atani Pai Komma Mida Vaalindi.",
+      "text_en": "Somehow, Chiluka managed to get out of the thorny bush. He sat trembling on a tree branch, his sharp claws gripping the bark tightly because he was so scared. \"Right way! No, left way! Which way did I come?\" he shouted to himself, completely confused. His panicked cries only made him more confused, and no help came. His eyes darted everywhere, full of fear. As evening began to turn dark, a quiet shadow landed on the branch just above him."
+    },
+    {
+      "id": 5,
+      "text": "ఆ నీడను చూసి చిలుక మరింత వణికిపోగా, గూడ్లగూబ రెక్కల మృదువైన శబ్దంతో పక్కన వాలింది. తన మాట వినని చిలుకను చూసి, ఆమె కళ్ళు పెద్దవి చేసుకుని మెల్లగా చూసింది. చిలుక తల దించుకుని, భయంతో గొంతు పూడుకుపోయి, \"నేను కేవలం... ఆ పండు కోసమే...\" అని మెల్లగా అన్నాడు. అతని ఆవేశం పూర్తిగా చల్లారిపోయింది, అయినా చిన్న పంతం ఇంకా మిగిలే ఉంది. గూడ్లగూబ ఏమీ మాట్లాడలేదు, తన లోతైన కళ్ళతో చిలుకను చూస్తూ, అతను తనంతట తాను నిజం తెలుసుకునేలా వేచి ఉంది.",
+      "image_prompt": "The parrot trembles even more as the owl lands softly beside it, then bows its head, its voice choked with fear. The owl watches with wide, deep eyes as the parrot softly confesses its pursuit of the fruit. Also in this scene: A large, solemn brown owl with piercing yellow eyes and soft, silent wings. She is ancient and speaks slowly, always stating facts without embellishment. Always the same character across every scene. Twilight deepens, the forest edges are blurred, and only the faint gleam of Goodlaguba's yellow eyes stands out in the growing darkness.",
+      "scene_visual": "The parrot trembles even more as the owl lands softly beside it, then bows its head, its voice choked with fear. The owl watches with wide, deep eyes as the parrot softly confesses its pursuit of the fruit.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Nidanu Chusi Chiluka Marinta Vanikipogaa, Gudlaguba Rekkala Mrriduvaina Shabdanto Pakkana Vaalindi. Tana Maata Vinani Chilukanu Chusi, Aame Kallu Peddavi Chesukuni Mellagaa Chusindi. Chiluka Tala Dinchukuni, Bhayanto Gontu Pudukupoyi, \"Nenu Kevalan... Aa Pandu Kosame...\" Ani Mellagaa Annaadu. Atani Aavesham Purtigaa Challaaripoyindi, Ayinaa Chinna Pantam Inkaa Migile Undi. Gudlaguba Emi Maatlaadaledu, Tana Lotaina Kallato Chilukanu Chustu, Atanu Tanantata Taanu Nijam Telusukunelaa Vechi Undi.",
+      "text_en": "Seeing the shadow, Chiluka trembled even more. Then, with a soft flutter of wings, Goodlaguba landed right next to him. She looked at Chiluka, who hadn't listened to her earlier, with her big, gentle eyes. Chiluka hung his head low, his voice small with fear, and whispered, \"I was just... looking for that fruit...\" All his impulsiveness had gone away, but a tiny bit of stubbornness still lingered. Goodlaguba didn't say a word. She just watched Chiluka with her deep, wise eyes, waiting for him to understand the truth all by himself."
+    },
+    {
+      "id": 6,
+      "text": "ఆ చల్లటి సాయంత్రపు గాలి, చిలుక ఈకలను మెల్లగా నిమిరింది — అతని కోపాన్ని శాంతింపజేస్తున్నట్లు. గూడ్లగూబ మెల్లగా, \"ఆవేశంతో దూకడం సులువు, చిలుకా... కానీ ఆలోచించి అడుగు వేయడమే నిజమైన తెలివి,\" అని చెప్పింది. చిలుక రెక్కలు వేలాడుతూ, కళ్ళు కిందకు దించుకున్నాడు — తన తప్పును గుర్తించినట్లు. \"ఆవేశం దారి చూపుతుందేమో, కానీ నిజం మాత్రమే దారి చూపిస్తుంది,\" అని గూడ్లగూబ మాటల్లో స్పష్టంగా చెప్పింది. చిలుక తల పైకెత్తి, గూడ్లగూబ కళ్ళలోకి చూశాడు... అప్పుడు అతనికి అంతా అర్థమైంది. ఆ క్షణంలో, తన ఆవేశమే తనను ఈ కష్టంలో పడేసిందని గ్రహించి, మెల్లగా తల ఊపాడు.",
+      "image_prompt": "The parrot's wings hang low and it lowers its eyes as the owl speaks, then lifts its head to look into the owl's eyes. It slowly nods its head, understanding that its own haste led to its predicament, as the cool evening breeze gently strokes its feathers. Also in this scene: A large, solemn brown owl with piercing yellow eyes and soft, silent wings. She is ancient and speaks slowly, always stating facts without embellishment. Always the same character across every scene. Night has fully fallen, but a large, bright moon breaks through the canopy, casting silver light on the two birds, creating a serene, reflective atmosphere.",
+      "scene_visual": "The parrot's wings hang low and it lowers its eyes as the owl speaks, then lifts its head to look into the owl's eyes. It slowly nods its head, understanding that its own haste led to its predicament, as the cool evening breeze gently strokes its feathers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Challati Saayantrapu Gaali, Chiluka Ikalanu Mellagaa Nimirindi — Atani Kopaanni Shaantimpajestunnatlu. Gudlaguba Mellagaa, \"Aaveshanto Dukadam Suluvu, Chilukaa... Kaani Aalochinchi Adugu Veyadame Nijamaina Telivi,\" Ani Cheppindi. Chiluka Rekkalu Velaadutu, Kallu Kindaku Dinchukunnaadu — Tana Tappunu Gurtinchinatlu. \"Aavesham Daari Chuputundemo, Kaani Nijam Maatrame Daari Chupistundi,\" Ani Gudlaguba Maatallo Spashtangaa Cheppindi. Chiluka Tala Paiketti, Gudlaguba Kallaloki Chushaadu... Appudu Ataniki Antaa Arthamaindi. Aa Kshananlo, Tana Aaveshame Tananu I Kashtanlo Padesindani Grahinchi, Mellagaa Tala Upaadu.",
+      "text_en": "The cool evening breeze gently ruffled Chiluka's feathers, as if trying to calm his upset feelings. Goodlaguba spoke softly, \"It's easy to rush into things, Chiluka... but thinking before you act is real wisdom.\" Chiluka's wings drooped, and he looked down, as if he finally understood his mistake. \"Impulsiveness might seem to lead the way, but only the truth shows the right path,\" Goodlaguba explained clearly. Chiluka lifted his head and looked into Goodlaguba's eyes... and then he understood everything. In that moment, he realized that his own hasty actions had caused all his trouble, and he slowly nodded his head."
+    },
+    {
+      "id": 7,
+      "text": "గూడ్లగూబ మెల్లగా దారి చూపిస్తుండగా, చిలుక నిశ్శబ్దంగా, జాగ్రత్తగా ఎగురుతూ తన గూడు వైపు సాగాడు. తన రెక్కల మృదువైన చప్పుడు, ఆ రాత్రి నిశ్శబ్దంలో ఒక లయబద్ధమైన సంగీతంలా వినిపించింది. ఇక ఆవేశపడకుండా, ఆలోచించి అడుగులు వేయాలని చిలుక మనసులో నిశ్చయించుకున్నాడు. \"నిజంగా... నిశ్శబ్దంగా ఉండటం మంచిది,\" అని తనలో తానే గొణుగుకున్నాడు. తన గూటికి చేరిన తర్వాత, చిలుక గూడ్లగూబకు కృతజ్ఞతగా తల వంచి, ప్రశాంతంగా నిద్రపోయాడు. ఆ రోజు నుండి, చిలుక కొత్తగా, తెలివిగా ప్రవర్తించడం మొదలుపెట్టాడు — తొందరపాటును వదిలిపెట్టి.",
+      "image_prompt": "The parrot flies silently and carefully towards its nest, guided by the owl, its wings making a soft, rhythmic sound in the quiet night. Upon reaching its nest, it bows its head gratefully to the owl and then settles down to sleep peacefully. Also in this scene: A large, solemn brown owl with piercing yellow eyes and soft, silent wings. She is ancient and speaks slowly, always stating facts without embellishment. Always the same character across every scene. Predawn light, a pale indigo washing over the forest, hints of pink on the horizon, conveying a fresh start and peaceful new day.",
+      "scene_visual": "The parrot flies silently and carefully towards its nest, guided by the owl, its wings making a soft, rhythmic sound in the quiet night. Upon reaching its nest, it bows its head gratefully to the owl and then settles down to sleep peacefully.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gudlaguba Mellagaa Daari Chupistundagaa, Chiluka Nishshabdangaa, Jaagrattagaa Egurutu Tana Gudu Vaipu Saagaadu. Tana Rekkala Mrriduvaina Chappudu, Aa Raatri Nishshabdanlo Oka Layabaddhamaina Sangitanlaa Vinipinchindi. Ika Aaveshapadakundaa, Aalochinchi Adugulu Veyaalani Chiluka Manasulo Nishchayinchukunnaadu. \"Nijangaa... Nishshabdangaa Undatam Manchidi,\" Ani Tanalo Taane Gonugukunnaadu. Tana Gutiki Cherina Tarvaata, Chiluka Gudlagubaku Krritajnyatagaa Tala Vanchi, Prashaantangaa Nidrapoyaadu. Aa Roju Nundi, Chiluka Kottagaa, Telivigaa Pravartinchadam Modalupettaadu — Tondarapaatunu Vadilipetti.",
+      "text_en": "As Goodlaguba gently led the way, Chiluka flew silently and carefully towards his nest. The soft flutter of his wings sounded like a gentle song in the quiet night. Chiluka decided in his heart that he would no longer be impulsive, but would always think before he acted. \"It's really... good to be quiet,\" he whispered to himself. After reaching his nest, Chiluka bowed his head to Goodlaguba to say thank you, and then he slept peacefully. From that day on, Chiluka started to act in a new, wise way, leaving all his impulsiveness behind."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.1,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and rich, character-specific dialogue, making it highly engaging for a child. To reach an award-winning level, the primary focus should be on enhancing the oral warmth of the narration, making it sound less like a written account and more like a grandparent's intimate storytelling. Additionally, consistently showing emotions through character actions and reactions, rather than stating them directly, would deepen the emotional resonance."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chiluka Tondarapaatu, Gudlaguba Maata",
+  "moral_te_en": "Aaveshapadakundaa Aalochinchi Maatlaadite, Manaki Ento Manchi Jarugutundi Kadaa Pillalu.",
+  "title_en": "Chiluka's Haste and Goodlaguba's Words",
+  "moral_en": "Children, if we think before we act and speak, instead of being impulsive, many good things will happen to us.",
+  "id": "20260604_131254",
+  "date": "2026-06-04",
+  "category": "panchatantra",
+  "subcategory": "animal_wisdom",
+  "topic": "ఆవేశపరుడైన చిలుక మరియు నిజం చెప్పే గూడ్లగూబ",
+  "thumbnail": "stories/20260604_131254/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
