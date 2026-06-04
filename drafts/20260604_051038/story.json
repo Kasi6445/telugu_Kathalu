@@ -1,0 +1,97 @@
+{
+  "title": "తెనాలి తెలివి, మాయా భవిష్యద్వేత్త",
+  "moral": "తెలివైన ఆలోచన, కొంచెం ధైర్యం ఉంటే, ఎంతటి మోసమైనా ఇట్టే బయటపడుతుంది.",
+  "main_character": "A quick-witted and intelligent jester in the court of Emperor Krishnadevaraya. He is known for his clever solutions to complex problems and his ability to use humor to expose folly. Always the same character across every scene.",
+  "antagonist": "A tall, gaunt man with piercing, dark eyes and a long, unkempt beard. He wears flowing, dark purple robes adorned with strange symbols and carries a staff topped with a glowing crystal. Always the same character across every scene.",
+  "setting": "The grand city of Vijayanagara, during the reign of Emperor Krishnadevaraya. The scene shifts between the bustling market square filled with vibrant stalls and the opulent royal court with its intricate carvings and rich tapestries, under the bright Deccan sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అమ్మమ్మా, అప్పుడు విజయనగరంలో ఒక వింత మనిషి ఉండేవాడు. అతను మార్కెట్ మధ్యలో నిలబడి, చేతులు ఊపుతూ, తన కంఠాన్ని బిగించి మాట్లాడేవాడు — అక్కడి ప్రజలంతా అతన్ని మంత్రముగ్ధులైనట్లు చూసేవారు. మల్లెపూల సువాసన, వేడి వేడి ఆహారపు పొగ కమ్మిన ఆ బజారులో, అతన్ని చూసి అందరూ ఆగిపోయేవారు. \"మీ భవిష్యత్తు నా అరచేతిలో ఉంది!\" అని అరుస్తూ, తన చూపుడు వేలిని ఒక్కసారిగా ఒక భయపడిన వర్తకుడి వైపు చూపించాడు.",
+      "image_prompt": "A strange man stands in the market, waving his hands and pointing his index finger sharply at a frightened merchant. The air around him is thick with the scent of jasmine and the steam of hot food, as people stop to watch him with mesmerized expressions. Also in this scene: A tall, gaunt man with piercing, dark eyes and a long, unkempt beard. He wears flowing, dark purple robes adorned with strange symbols and carries a staff topped with a glowing crystal. Always the same character across every scene. Harsh midday sun, glinting off brass pots, creating sharp shadows under awnings.",
+      "scene_visual": "A strange man stands in the market, waving his hands and pointing his index finger sharply at a frightened merchant. The air around him is thick with the scent of jasmine and the steam of hot food, as people stop to watch him with mesmerized expressions.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ammammaa, Appudu Vijayanagaranlo Oka Vinta Manishi Undevaadu. Atanu Maarket Madhyalo Nilabadi, Chetulu Uputu, Tana Kanthaanni Biginchi Maatlaadevaadu — Akkadi Prajalantaa Atanni Mantramugdhulainatlu Chusevaaru. Mallepula Suvaasana, Vedi Vedi Aahaarapu Poga Kammina Aa Bajaarulo, Atanni Chusi Andaru Aagipoyevaaru. \"Mi Bhavishyattu Naa Arachetilo Undi!\" Ani Arustu, Tana Chupudu Velini Okkasaarigaa Oka Bhayapadina Vartakudi Vaipu Chupinchaadu.",
+      "text_en": "Grandma, once upon a time, there was a strange man in Vijayanagara. He stood in the middle of the market, waving his hands and speaking in a loud voice – everyone there watched him as if they were mesmerized. In that bustling market, filled with the scent of jasmine and the steam of hot food, everyone stopped to look at him. \"Your future is in the palm of my hand!\" he shouted, suddenly pointing his finger at a frightened merchant."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మాయగాడి మాటలు మహారాజు చెవులకు చేరాయి. అప్పుడు మహారాజు కృష్ణదేవరాయలు ఆ మాయగాడిని తన ఆస్థానానికి ఆహ్వానించారు. పట్టు వస్త్రాల సవ్వడితో, చిన్న చిన్న గుసగుసలతో నిండిన ఆ గొప్ప సభలో, అతను మరింత నాటకీయంగా మాట్లాడాడు. తెనాలి రామకృష్ణుడు ముఖంపై చిన్న చిరునవ్వుతో వింటున్నాడు, కానీ అతని కళ్ళల్లో మాత్రం చిన్న అనుమానం మెరుస్తోంది. \"మహారాజా, మీ పాలనలో విజయనగరం అంతులేని సంపదతో విలసిల్లుతుంది!\" అని గంభీరంగా చెప్పాడు. మహారాజు ముఖం ఆనందంతో వెలిగిపోయింది — ఒక బంగారు సంచిని ఆ మాయగాడికి అందించాడు, తెనాలి కళ్ళు ఇంకా చిన్నవిగా మారాయి.",
+      "image_prompt": "The King, his face beaming with joy, extends a golden bag towards the man in the grand court. Meanwhile, the other man's eyes narrow slightly, betraying a hint of suspicion amidst the rustling silk garments and hushed whispers of the assembly. Also in this scene: A tall, gaunt man with piercing, dark eyes and a long, unkempt beard. He wears flowing, dark purple robes adorned with strange symbols and carries a staff topped with a glowing crystal. Always the same character across every scene. Golden morning light streams through high arched windows, illuminating dust motes dancing in the air of the court, creating an aura of reverence.",
+      "scene_visual": "The King, his face beaming with joy, extends a golden bag towards the man in the grand court. Meanwhile, the other man's eyes narrow slightly, betraying a hint of suspicion amidst the rustling silk garments and hushed whispers of the assembly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Maayagaadi Maatalu Mahaaraaju Chevulaku Cheraayi. Appudu Mahaaraaju Krrishnadevaraayalu Aa Maayagaadini Tana Aasthaanaaniki Aahvaaninchaaru. Pattu Vastraala Savvadito, Chinna Chinna Gusagusalato Nindina Aa Goppa Sabhalo, Atanu Marinta Naatakiyangaa Maatlaadaadu. Tenaali Raamakrrishnudu Mukhampai Chinna Chirunavvuto Vintunnaadu, Kaani Atani Kallallo Maatram Chinna Anumaanam Merustondi. \"Mahaaraajaa, Mi Paalanalo Vijayanagaram Antuleni Sampadato Vilasillutundi!\" Ani Gambhirangaa Cheppaadu. Mahaaraaju Mukham Aanandanto Veligipoyindi — Oka Bangaaru Sanchini Aa Maayagaadiki Andinchaadu, Tenaali Kallu Inkaa Chinnavigaa Maaraayi.",
+      "text_en": "The words of this magical man reached the ears of the King. So, King Krishnadevaraya invited the magical man to his court. In that grand assembly, filled with the rustle of silk clothes and soft whispers, he spoke even more dramatically. Tenali Ramakrishna listened with a small smile on his face, but a tiny doubt sparkled in his eyes. \"Your Majesty, under your rule, Vijayanagara will flourish with endless wealth!\" he declared grandly. The King's face lit up with joy – he offered a bag of gold to the magical man, and Tenali's eyes narrowed even further."
+    },
+    {
+      "id": 3,
+      "text": "ఇంతలో, తెనాలి అదృష్టవశాత్తు ఆ మాయగాడు ఒక సేవకుడితో గుసగుసలాడడం విన్నాడు. రాజభవనం వెలుపల కమ్మరి కొలిమి నుండి వచ్చే గట్టి శబ్దం తప్ప, చుట్టూ అంతా నిశ్శబ్దంగా ఉంది. \"ఈ అమాయకులు నా మాటలకి ఎలా పడిపోతారో చూడు!\" అని అతను నవ్వుతూ చెప్పాడు. తెనాలి గుండె ఒక్కసారిగా వేగంగా కొట్టుకుంది. ఆ మాయగాడు ఒక మోసగాడని తెనాలికి అర్థమైంది — అతని కళ్ళల్లో పట్టుదల మెరిసింది, ఒక చిరునవ్వు అతని పెదవులపై మెల్లగా వికసించింది.",
+      "image_prompt": "The man laughs mockingly as he whispers to a servant, while the other man listens intently, his heart pounding. A determined glint appears in the listener's eyes, and a subtle smile slowly blossoms on his lips, despite the loud clang of a blacksmith's forge outside. Also in this scene: A tall, gaunt man with piercing, dark eyes and a long, unkempt beard. He wears flowing, dark purple robes adorned with strange symbols and carries a staff topped with a glowing crystal. Always the same character across every scene. Dim twilight filtering into a palace corridor, long, merging shadows, creating a secretive atmosphere.",
+      "scene_visual": "The man laughs mockingly as he whispers to a servant, while the other man listens intently, his heart pounding. A determined glint appears in the listener's eyes, and a subtle smile slowly blossoms on his lips, despite the loud clang of a blacksmith's forge outside.",
+      "supporting_char_keys": [],
+      "text_te_en": "Intalo, Tenaali Adrrishtavashaattu Aa Maayagaadu Oka Sevakudito Gusagusalaadadam Vinnaadu. Raajabhavanam Velupala Kammari Kolimi Nundi Vachche Gatti Shabdam Tappa, Chuttu Antaa Nishshabdangaa Undi. \"I Amaayakulu Naa Maatalaki Elaa Padipotaaro Chudu!\" Ani Atanu Navvutu Cheppaadu. Tenaali Gunde Okkasaarigaa Vegangaa Kottukundi. Aa Maayagaadu Oka Mosagaadani Tenaaliki Arthamaindi — Atani Kallallo Pattudala Merisindi, Oka Chirunavvu Atani Pedavulapai Mellagaa Vikasinchindi.",
+      "text_en": "Meanwhile, Tenali luckily overheard the magical man whispering to a servant. Everything was silent around them, except for the loud clang from the blacksmith's forge outside the palace. \"Look how these innocent people fall for my words!\" he said with a laugh. Tenali's heart suddenly beat faster. Tenali understood that the magical man was a trickster – determination gleamed in his eyes, and a small smile slowly bloomed on his lips."
+    },
+    {
+      "id": 4,
+      "text": "మరుసటి రోజు, తెనాలి ఆ మాయగాడికి ఒక పరీక్ష పెట్టాలని నిర్ణయించుకున్నాడు. ఒక చిన్న మట్టికుండను తీసుకుని, దానిలో ఒక రహస్య వస్తువును జాగ్రత్తగా పెట్టాడు. ఆ కుండ నుండి వచ్చే మట్టి వాసన అతని చేతులకు అంటుకుంది. అప్పుడు తెనాలి ఒక నవ్వు నవ్వి, \"రేపు సభలో, ఈ రహస్యాన్ని విప్పి చెప్పాలి,\" అని తనకు తాను అనుకున్నాడు. ఆ కుండ మూతికి మైనంతో సీలు వేశాడు — అతని ముఖంలో ఒక ప్రత్యేకమైన చిరునవ్వు మెరిసింది.",
+      "image_prompt": "The man carefully places a secret object into a small clay pot and then seals its mouth with wax. A distinct, special smile plays on his face as the earthy smell of the pot clings to his hands. Soft lamplight in Tenali's private chambers, casting warm, intimate glow on his thoughtful face.",
+      "scene_visual": "The man carefully places a secret object into a small clay pot and then seals its mouth with wax. A distinct, special smile plays on his face as the earthy smell of the pot clings to his hands.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju, Tenaali Aa Maayagaadiki Oka Pariksha Pettaalani Nirnayinchukunnaadu. Oka Chinna Mattikundanu Tisukuni, Daanilo Oka Rahasya Vastuvunu Jaagrattagaa Pettaadu. Aa Kunda Nundi Vachche Matti Vaasana Atani Chetulaku Antukundi. Appudu Tenaali Oka Navvu Navvi, \"Repu Sabhalo, I Rahasyaanni Vippi Cheppaali,\" Ani Tanaku Taanu Anukunnaadu. Aa Kunda Mutiki Mainanto Silu Veshaadu — Atani Mukhanlo Oka Pratyekamaina Chirunavvu Merisindi.",
+      "text_en": "The next day, Tenali decided to put the magical man to a test. He took a small clay pot and carefully placed a secret object inside it. The earthy smell from the pot clung to his hands. Then Tenali chuckled and thought to himself, \"Tomorrow in court, I must reveal this secret.\" He sealed the mouth of the pot with wax – a special smile sparkled on his face."
+    },
+    {
+      "id": 5,
+      "text": "మరుసటి రోజు సభలో, తెనాలి ఆ సీలు వేసిన కుండను మహారాజు ముందు పెట్టాడు. అందరూ ఉత్కంఠగా చూస్తున్నారు — ఒక ఆస్థాన పండితుడు కంగారుగా దగ్గడం ఆ నిశ్శబ్దాన్ని భగ్నం చేసింది. తెనాలి నిటారుగా నిలబడి, తన చూపులను ఆ మాయగాడి వైపు నిలిపాడు. \"భవిష్యత్తును చెప్పగల మీకు, ఈ కుండలో ఏముందో చెప్పడం పెద్ద పనేం కాదు కదా?\" అని నవ్వుతూ అడిగాడు. ఆ మాయగాడి నమ్మకమైన చిరునవ్వు ఒక్కసారిగా కనుమరుగైంది — అతని పెదవులు కొద్దిగా వణికాయి.",
+      "image_prompt": "The man stands upright, placing a sealed pot before the King and fixing his gaze on the other man, asking a question with a smile. The other man's confident smile instantly vanishes, and his lips tremble slightly as an anxious cough breaks the silence in the tense assembly. Also in this scene: A tall, gaunt man with piercing, dark eyes and a long, unkempt beard. He wears flowing, dark purple robes adorned with strange symbols and carries a staff topped with a glowing crystal. Always the same character across every scene. Bright, focused light from windows on the central court, leaving the edges of the room in softer shadows, highlighting the tension.",
+      "scene_visual": "The man stands upright, placing a sealed pot before the King and fixing his gaze on the other man, asking a question with a smile. The other man's confident smile instantly vanishes, and his lips tremble slightly as an anxious cough breaks the silence in the tense assembly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju Sabhalo, Tenaali Aa Silu Vesina Kundanu Mahaaraaju Mundu Pettaadu. Andaru Utkanthagaa Chustunnaaru — Oka Aasthaana Panditudu Kangaarugaa Daggadam Aa Nishshabdaanni Bhagnam Chesindi. Tenaali Nitaarugaa Nilabadi, Tana Chupulanu Aa Maayagaadi Vaipu Nilipaadu. \"Bhavishyattunu Cheppagala Miku, I Kundalo Emundo Cheppadam Pedda Panem Kaadu Kadaa?\" Ani Navvutu Adigaadu. Aa Maayagaadi Nammakamaina Chirunavvu Okkasaarigaa Kanumarugaindi — Atani Pedavulu Koddigaa Vanikaayi.",
+      "text_en": "The next day in court, Tenali placed the sealed pot before the King. Everyone watched eagerly – a court scholar's nervous cough broke the silence. Tenali stood tall, fixing his gaze on the magical man. \"For someone who can tell the future, telling what's inside this pot shouldn't be a big task, right?\" he asked with a smile. The magical man's confident smile suddenly vanished – his lips trembled slightly."
+    },
+    {
+      "id": 6,
+      "text": "ఆ మాయగాడు ఏదో చెప్పడానికి ప్రయత్నించాడు, కానీ అతని గొంతులో మాట రాలేదు. \"దీనిలో ఒక అరుదైన రత్నం ఉంది!\" అని చివరికి గట్టిగా అరిచాడు. అప్పుడు తెనాలి ఒక పెద్ద చిరునవ్వు నవ్వి, మెల్లగా కుండ మూత తీశాడు. లోపల నుండి ఒక చిన్న, సజీవమైన పిల్లి బయటకు వచ్చింది — సభలో అందరూ ఒక్కసారిగా ఆశ్చర్యంతో నిట్టూర్చారు. \"చూశారా మహారాజా, భవిష్యత్తును చెప్పేవారు కారు, భ్రమలు సృష్టించేవారు!\" అని తెనాలి గట్టిగా చెప్పాడు. మహారాజు పగలబడి నవ్వాడు — ఆ నవ్వు సభ అంతా మారుమోగింది, ఆ మాయగాడి ముఖం పాలిపోయింది.",
+      "image_prompt": "The man grins broadly as he slowly opens the pot, from which a small, live cat emerges, startling everyone in the assembly. The King bursts into roaring laughter that echoes through the hall, while the other man's face turns pale. Also in this scene: A tall, gaunt man with piercing, dark eyes and a long, unkempt beard. He wears flowing, dark purple robes adorned with strange symbols and carries a staff topped with a glowing crystal. Always the same character across every scene. A sudden burst of bright sunlight through an opening, spotlighting Tenali and the pot, emphasizing the moment of revelation.",
+      "scene_visual": "The man grins broadly as he slowly opens the pot, from which a small, live cat emerges, startling everyone in the assembly. The King bursts into roaring laughter that echoes through the hall, while the other man's face turns pale.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Maayagaadu Edo Cheppadaaniki Prayatninchaadu, Kaani Atani Gontulo Maata Raaledu. \"Dinilo Oka Arudaina Ratnam Undi!\" Ani Chivariki Gattigaa Arichaadu. Appudu Tenaali Oka Pedda Chirunavvu Navvi, Mellagaa Kunda Muta Tishaadu. Lopala Nundi Oka Chinna, Sajivamaina Pilli Bayataku Vachchindi — Sabhalo Andaru Okkasaarigaa Aashcharyanto Nitturchaaru. \"Chushaaraa Mahaaraajaa, Bhavishyattunu Cheppevaaru Kaaru, Bhramalu Srrishtinchevaaru!\" Ani Tenaali Gattigaa Cheppaadu. Mahaaraaju Pagalabadi Navvaadu — Aa Navvu Sabha Antaa Maarumogindi, Aa Maayagaadi Mukham Paalipoyindi.",
+      "text_en": "The magical man tried to say something, but no words came out of his throat. \"There's a rare gem in it!\" he finally shouted loudly. Then Tenali gave a big smile and slowly opened the pot. From inside, a small, lively kitten came out – everyone in the court gasped in surprise. \"See, Your Majesty, they are not fortune-tellers, but illusionists!\" Tenali declared loudly. The King burst into laughter – his laughter echoed throughout the court, and the magical man's face turned pale."
+    },
+    {
+      "id": 7,
+      "text": "మహారాజు కృష్ణదేవరాయలు తెనాలి తెలివిని, అతని హాస్యాన్ని మెచ్చుకుంటూ నవ్వాడు. \"మీరు విజయనగరానికి ఒక ఆభరణం, రాముడా!\" అని ప్రేమగా పిలిచాడు. సాయంత్రం అవుతుండగా, రాజభవనం పైకప్పు మీద పిచ్చుకలు కిలకిలరావాలు చేస్తూ ఉన్నాయి. ఆ మోసగాడిని రాజ్య బహిష్కరణ చేశారు. తెనాలి ముఖంలో ఒక ప్రశాంతమైన సంతృప్తి కనిపించింది — న్యాయం గెలిచింది.",
+      "image_prompt": "The King laughs heartily, praising the man's wit and humor, calling him affectionately by name. A peaceful satisfaction settles on the man's face as sparrows chirp on the palace roof in the evening light. Gentle dusk light, warm amber hues painting the palace walls, a peaceful and reflective atmosphere.",
+      "scene_visual": "The King laughs heartily, praising the man's wit and humor, calling him affectionately by name. A peaceful satisfaction settles on the man's face as sparrows chirp on the palace roof in the evening light.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mahaaraaju Krrishnadevaraayalu Tenaali Telivini, Atani Haasyaanni Mechchukuntu Navvaadu. \"Miru Vijayanagaraaniki Oka Aabharanan, Raamudaa!\" Ani Premagaa Pilichaadu. Saayantram Avutundagaa, Raajabhavanam Paikappu Mida Pichchukalu Kilakilaraavaalu Chestu Unnaayi. Aa Mosagaadini Raajya Bahishkarana Cheshaaru. Tenaali Mukhanlo Oka Prashaantamaina Santrripti Kanipinchindi — Nyaayam Gelichindi.",
+      "text_en": "King Krishnadevaraya laughed, praising Tenali's cleverness and wit. \"You are a jewel to Vijayanagara, Ramu!\" he called him affectionately. As evening approached, sparrows chirped on the palace roof. The trickster was banished from the kingdom. A peaceful satisfaction appeared on Tenali's face – justice had won."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is an exceptionally well-crafted story for children, demonstrating a deep understanding of oral storytelling traditions and engaging narrative techniques. The narrative arc is compelling, and the use of suspense and direct address ensures high child engagement. To elevate it further, focus on refining a few descriptive phrases to achieve even purer oral warmth, and meticulously transform any remaining stated emotions into actions or physical sensations."
+  },
+  "title_te_en": "Tenaali Telivi, Maayaa Bhavishyadvetta",
+  "moral_te_en": "Telivaina Aalochana, Konchem Dhairyam Unte, Entati Mosamainaa Itte Bayatapadutundi.",
+  "title_en": "Tenali's Cleverness and the Magical Fortune-Teller",
+  "moral_en": "With clever thinking and a little courage, any deception can be easily exposed.",
+  "id": "20260604_051038",
+  "date": "2026-06-04",
+  "category": "tenali",
+  "subcategory": "court_wit",
+  "topic": "తెనాలి రాముడు మరియు 'భయపెట్టే' భవిష్యద్వేత్త మోసం",
+  "thumbnail": "stories/20260604_051038/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
