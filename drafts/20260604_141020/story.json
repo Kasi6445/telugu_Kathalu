@@ -1,0 +1,115 @@
+{
+  "title": "చిట్టి తేనెటీగ పట్టుదల",
+  "moral": "చిన్న చిన్న ప్రయత్నాలు కూడా కలిసికట్టుగా చేస్తే, అద్భుతమైన ఫలితాలను ఇస్తాయని ఈ కథ మనకు నేర్పుతుంది.",
+  "main_character": "Chitti is a young, eager worker bee, smaller than most, with unusually bright golden stripes and a perpetually buzzing enthusiasm. She dreams of contributing something truly special to her hive. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant wildflower meadow nestled beside a small, gurgling stream in the rural Andhra Pradesh region, specifically near the Nallamala Hills. The meadow is dotted with colourful blossoms, a few ancient banyan trees, and the prominent, bustling beehive built into a hollow tree trunk. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మనం నల్లమల అడవుల పక్కన ఉన్న ఒక అందమైన పూల తోటలోకి వెళ్దామా? అక్కడ చిట్టి అనే చిన్న తేనెటీగ తన బంగారు చారలతో ఎప్పుడూ సందడిగా ఉండేది. తేనె సేకరించాలనే తపనతో చిట్టి, ఒక గులాబీ పువ్వు మీద వాలింది — ఆ పువ్వు నుంచి వచ్చే మట్టి వాసనను పీల్చుకుంటూ. తన చిన్న సంచిని నింపడానికి ఎంత ప్రయత్నించినా, తేనె చుక్కలు సరిగా రావడం లేదు. చిట్టి రెక్కలు అలుపుతో ఆగిపోయాయి, చిన్నగా నిట్టూర్చింది: \"ఈ పూవులో తేనె చాలా తక్కువగా ఉందే!\" ఆమె కళ్ళు దూరంగా, సందడిగా ఉన్న తేనెపట్టు వైపు ఆశగా చూశాయి.",
+      "image_prompt": "The small bee lands on a rose flower, its wings coming to a stop. It lets out a small sigh, its antennae drooping slightly in disappointment. Bright morning sun filtering through green leaves, casting dappled light on colourful wildflowers, vibrant and optimistic.",
+      "scene_visual": "The small bee lands on a rose flower, its wings coming to a stop. It lets out a small sigh, its antennae drooping slightly in disappointment.",
+      "supporting_char_keys": [],
+      "text_te_en": "Manam Nallamala Adavula Pakkana Unna Oka Andamaina Pula Totaloki Veldaamaa? Akkada Chitti Ane Chinna Tenetiga Tana Bangaaru Chaaralato Eppudu Sandadigaa Undedi. Tene Sekarinchaalane Tapanato Chitti, Oka Gulaabi Puvvu Mida Vaalindi — Aa Puvvu Nunchi Vachche Matti Vaasananu Pilchukuntu. Tana Chinna Sanchini Nimpadaaniki Enta Prayatninchinaa, Tene Chukkalu Sarigaa Raavadam Ledu. Chitti Rekkalu Aluputo Aagipoyaayi, Chinnagaa Nitturchindi: \"I Puvulo Tene Chaalaa Takkuvagaa Unde!\" Aame Kallu Durangaa, Sandadigaa Unna Tenepattu Vaipu Aashagaa Chushaayi.",
+      "text_en": "Shall we go to a beautiful flower garden next to the Nallamala forests? There, a little honeybee named Chitti, with her golden stripes, was always busy. Eager to collect honey, Chitti landed on a rose flower — breathing in the earthy scent coming from it. No matter how hard she tried to fill her tiny pouch, the drops of honey weren't coming out properly. Chitti's wings stopped with tiredness, and she sighed softly: \"There's so little honey in this flower!\" Her eyes looked hopefully towards the busy beehive in the distance."
+    },
+    {
+      "id": 2,
+      "text": "తేనెపట్టులోకి తిరిగి వచ్చిన చిట్టి, అక్కడే ఉన్న కర్మీకా అక్క పక్కన వాలింది. తేనెపట్టు లోపల ఉన్న తేలికైన, లయబద్ధమైన శబ్దం ఆమెకు కాస్త ఓదార్పునిచ్చింది. చిట్టి రెక్కలు కాస్త వాలిపోయాయి, ఆమె చిన్న యాంటెనాలు బాధగా కదిలాయి. \"నా వల్ల పెద్దగా ఉపయోగం లేదేమో, కర్మీకా అక్కా!\" అని చిట్టి గొంతులో నిరాశ స్పష్టంగా వినిపించింది. కర్మీకా తేనెటీగ తన తలని చిట్టికి మెల్లగా తాకించింది — ఆ పురాతన కళ్ళలో ఏదో రహస్య జ్ఞానం మెరుస్తున్నట్లు ఉంది.",
+      "image_prompt": "The older bee gently touches its head to the small bee, which has drooping wings. A look of ancient wisdom seems to shine in the older bee's eyes as the small bee's antennae move sadly. Warm, late morning sun, a gentle glow over the meadow, creating long, soft shadows, peaceful and reassuring.",
+      "scene_visual": "The older bee gently touches its head to the small bee, which has drooping wings. A look of ancient wisdom seems to shine in the older bee's eyes as the small bee's antennae move sadly.",
+      "supporting_char_keys": [
+        "Karmika"
+      ],
+      "text_te_en": "Tenepattuloki Tirigi Vachchina Chitti, Akkade Unna Karmikaa Akka Pakkana Vaalindi. Tenepattu Lopala Unna Telikaina, Layabaddhamaina Shabdam Aameku Kaasta Odaarpunichchindi. Chitti Rekkalu Kaasta Vaalipoyaayi, Aame Chinna Yaantenaalu Baadhagaa Kadilaayi. \"Naa Valla Peddagaa Upayogam Ledemo, Karmikaa Akkaa!\" Ani Chitti Gontulo Niraasha Spashtangaa Vinipinchindi. Karmikaa Tenetiga Tana Talani Chittiki Mellagaa Taakinchindi — Aa Puraatana Kallalo Edo Rahasya Jnyaanam Merustunnatlu Undi.",
+      "text_en": "Returning to the beehive, Chitti landed next to Karmika Akka, who was already there. The soft, rhythmic hum inside the beehive gave her a little comfort. Chitti's wings drooped a little, and her tiny antennae twitched sadly. \"Maybe I'm not much use, Karmika Akka!\" Chitti's voice clearly showed her disappointment. Karmika the bee gently touched her head to Chitti's — as if ancient wisdom sparkled in her eyes."
+    },
+    {
+      "id": 3,
+      "text": "అంతలోనే, హఠాత్తుగా ఒక పెద్ద గాలి తోటలోకి దూసుకువచ్చింది. చిట్టి రెక్కలు ఒక్కసారిగా తడబడ్డాయి, ఆమె యాంటెనాలు చలికి వెనక్కి తగ్గాయి. చల్లటి గాలి భూమి వాసనను మోసుకొచ్చింది, పూల రెక్కలను వణికించింది. \"అయ్యో! పూలన్నీ వాడిపోతున్నాయే!\" అని చిట్టి భయంతో అరిచింది. ఒకప్పుడు నిండుగా ఉన్న ఎర్రటి మందారం పువ్వు — చలికి వణికి, దాని రేకులు లోపలికి ముడుచుకోవడం మొదలుపెట్టాయి.",
+      "image_prompt": "A once full red hibiscus flower trembles violently as a sudden strong wind sweeps through the garden. Its petals begin to curl inwards, shrinking from the cold air. Sky turning a muted grey, wind-tossed branches, an abrupt shift from warmth to a chilling, uncertain light.",
+      "scene_visual": "A once full red hibiscus flower trembles violently as a sudden strong wind sweeps through the garden. Its petals begin to curl inwards, shrinking from the cold air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Antalone, Hathaattugaa Oka Pedda Gaali Totaloki Dusukuvachchindi. Chitti Rekkalu Okkasaarigaa Tadabaddaayi, Aame Yaantenaalu Chaliki Venakki Taggaayi. Challati Gaali Bhumi Vaasananu Mosukochchindi, Pula Rekkalanu Vanikinchindi. \"Ayyo! Pulanni Vaadipotunnaaye!\" Ani Chitti Bhayanto Arichindi. Okappudu Nindugaa Unna Errati Mandaaram Puvvu — Chaliki Vaniki, Daani Rekulu Lopaliki Muduchukovadam Modalupettaayi.",
+      "text_en": "Just then, a strong gust of wind suddenly swept into the garden. Chitti's wings fluttered suddenly, and her antennae pulled back from the cold. The cold wind carried the scent of earth and made the flower petals shiver. \"Oh no! All the flowers are wilting!\" Chitti cried out in fear. A once full red hibiscus flower — shivered in the cold, and its petals began to curl inwards."
+    },
+    {
+      "id": 4,
+      "text": "చలిగాలులు పెరిగినా, చిట్టి పట్టు వదలలేదు. \"ఇంకా ఎక్కడైనా తేనె దొరుకుతుందేమో!\" అని తనలో తనే అనుకుంటూ, మరింత దూరంగా ఎగురుతూ వెళ్ళింది. ఆమె రెక్కలు బరువెక్కినట్లు అనిపించాయి, శరీరం చలికి వణికింది. నేల మీద కొద్దిసేపు వాలినప్పుడు — ఎండిన ఆకుల కిలకిల శబ్దం వినిపించింది. అప్పటికే ఇతర తేనెటీగలు కూడా తమ చిన్న సంచులను ఖాళీగానే మోసుకుంటూ తేనెపట్టు వైపు వెళ్తున్నాయి — చిట్టి తన పరాజయాన్ని వాటిలో చూసుకుంది.",
+      "image_prompt": "Other bees fly towards the beehive, their small honey sacs visibly empty. The small bee, its body trembling from the cold, watches them with a sense of shared defeat. Overcast sky, a flat, cool light across the meadow, emphasizing the lack of warmth and vibrancy, somber and draining.",
+      "scene_visual": "Other bees fly towards the beehive, their small honey sacs visibly empty. The small bee, its body trembling from the cold, watches them with a sense of shared defeat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chaligaalulu Periginaa, Chitti Pattu Vadalaledu. \"Inkaa Ekkadainaa Tene Dorukutundemo!\" Ani Tanalo Tane Anukuntu, Marinta Durangaa Egurutu Vellindi. Aame Rekkalu Baruvekkinatlu Anipinchaayi, Shariram Chaliki Vanikindi. Nela Mida Koddisepu Vaalinappudu — Endina Aakula Kilakila Shabdam Vinipinchindi. Appatike Itara Tenetigalu Kudaa Tama Chinna Sanchulanu Khaaligaane Mosukuntu Tenepattu Vaipu Veltunnaayi — Chitti Tana Paraajayaanni Vaatilo Chusukundi.",
+      "text_en": "Even as the cold winds grew stronger, Chitti did not give up. \"Maybe I can find honey somewhere else!\" she thought to herself, flying even further away. Her wings felt heavy, and her body shivered from the cold. When she landed on the ground for a moment — she heard the rustling sound of dry leaves. Other bees were already heading back to the hive with their tiny pouches still empty — Chitti saw her own failure reflected in them."
+    },
+    {
+      "id": 5,
+      "text": "నిరాశతో చిట్టి ఒక వాడిపోయిన పువ్వు మీద నిశ్శబ్దంగా వాలింది. ఆమె యాంటెనాలు వాలిపోయాయి, శరీరం కదలకుండా ఉండిపోయింది — లోపల ఒక బాధ ఆమెను కలిచివేసింది. \"మనందరి కష్టం వృథా అవుతుందా?\" అని ఆమె మనసులో అనుకుంది. ఆ సమయంలో, దాదాపుగా బోసిపోయిన కొమ్మల గుండా — గాలి మెల్లగా, బాధగా గుసగుసలాడింది. ఆకాశంలో మేఘాలు కాస్త తొలగగానే, బలహీనమైన సూర్యకిరణం ఒక్కసారిగా — తేనెపట్టు ద్వారం మీద పడింది, అక్కడే రాణి తేనెటీగ కనిపించింది.",
+      "image_prompt": "A weak sunbeam suddenly breaks through the clouds, illuminating the entrance of the beehive. The queen bee is revealed standing majestically at the entrance, bathed in the soft light. A dim, fading light as dusk approaches, tinged with melancholic blues and greys, a sense of despair.",
+      "scene_visual": "A weak sunbeam suddenly breaks through the clouds, illuminating the entrance of the beehive. The queen bee is revealed standing majestically at the entrance, bathed in the soft light.",
+      "supporting_char_keys": [],
+      "text_te_en": "Niraashato Chitti Oka Vaadipoyina Puvvu Mida Nishshabdangaa Vaalindi. Aame Yaantenaalu Vaalipoyaayi, Shariram Kadalakundaa Undipoyindi — Lopala Oka Baadha Aamenu Kalichivesindi. \"Manandari Kashtam Vrrithaa Avutundaa?\" Ani Aame Manasulo Anukundi. Aa Samayanlo, Daadaapugaa Bosipoyina Kommala Gundaa — Gaali Mellagaa, Baadhagaa Gusagusalaadindi. Aakaashanlo Meghaalu Kaasta Tolagagaane, Balahinamaina Suryakiranam Okkasaarigaa — Tenepattu Dvaaram Mida Padindi, Akkade Raani Tenetiga Kanipinchindi.",
+      "text_en": "With disappointment, Chitti silently landed on a withered flower. Her antennae drooped, and her body remained still — a sadness stirred within her. \"Will all our hard work be in vain?\" she wondered in her mind. At that moment, through the almost bare branches — the wind whispered softly and sadly. As the clouds in the sky parted a little, a weak ray of sunlight suddenly — fell upon the entrance of the beehive, and there, the Queen Bee appeared."
+    },
+    {
+      "id": 6,
+      "text": "రాణి తేనెటీగ గంభీరమైన గొంతుతో తేనెపట్టులో ఉన్న తేనెటీగలన్నింటినీ ఉద్దేశించి మాట్లాడింది — ఆ స్వరం తేనెపట్టు అంతా ప్రతిధ్వనించింది. ఆమె మాటలు తేనెటీగలందరిలో కొత్త ఆశను నింపాయి. చిట్టి యాంటెనాలు ఒక్కసారిగా పైకి లేచాయి — ఆమె కళ్ళలో మళ్ళీ ఒక ఆశ మెరిసింది. \"మనందరం కలిసి పనిచేస్తే, ఏ కష్టాన్నైనా గెలుస్తాం!\" అని రాణి తేనెటీగ గంభీరంగా పలికింది. చిట్టి తన చుట్టూ ఉన్న తేనెటీగల ముఖాలను చూసింది, వాటి కళ్ళలో కూడా కొత్త పట్టుదల కనిపించింది.",
+      "image_prompt": "The small bee's antennae suddenly rise upwards, responding to the queen's powerful voice. A spark of renewed hope shines brightly in its eyes as it looks around at the other bees. The interior of the hive, lit by a soft, warm amber glow from within, creating an intimate and encouraging atmosphere.",
+      "scene_visual": "The small bee's antennae suddenly rise upwards, responding to the queen's powerful voice. A spark of renewed hope shines brightly in its eyes as it looks around at the other bees.",
+      "supporting_char_keys": [
+        "Rani",
+        "Karmika"
+      ],
+      "text_te_en": "Raani Tenetiga Gambhiramaina Gontuto Tenepattulo Unna Tenetigalannintini Uddeshinchi Maatlaadindi — Aa Svaram Tenepattu Antaa Pratidhvaninchindi. Aame Maatalu Tenetigalandarilo Kotta Aashanu Nimpaayi. Chitti Yaantenaalu Okkasaarigaa Paiki Lechaayi — Aame Kallalo Malli Oka Aasha Merisindi. \"Manandaram Kalisi Panicheste, E Kashtaannainaa Gelustaan!\" Ani Raani Tenetiga Gambhirangaa Palikindi. Chitti Tana Chuttu Unna Tenetigala Mukhaalanu Chusindi, Vaati Kallalo Kudaa Kotta Pattudala Kanipinchindi.",
+      "text_en": "The Queen Bee spoke to all the bees in the hive with a majestic voice — her sound echoed throughout the beehive. Her words filled all the bees with new hope. Chitti's antennae suddenly perked up — and hope sparkled in her eyes once more. \"If we all work together, we can overcome any difficulty!\" the Queen Bee declared majestically. Chitti looked at the faces of the bees around her, and she saw new determination in their eyes too."
+    },
+    {
+      "id": 7,
+      "text": "రాణి మాటలతో స్ఫూర్తి పొందిన చిట్టి, తన తోటి తేనెటీగలతో కలిసి అలసిపోకుండా పనిచేయడం మొదలుపెట్టింది. వాళ్ళు కలిసి దాగి ఉన్న తేనె గూడులను కనుగొన్నారు, ప్రతి చిన్న చుక్కను సేకరించారు. తేనెపట్టు నెమ్మదిగా బంగారు తేనెతో నిండిపోయింది — ఆ తియ్యటి సువాసన తేనెపట్టు అంతా నిండిపోయింది. \"చూడు కర్మీకా అక్కా! మనం సాధించాం!\" అని చిట్టి ఆనందంగా అరిచింది. అప్పుడు నాకు ఒక పొడుపు కథ గుర్తొచ్చింది, \"అడవిలో అక్కా చెల్లెళ్ళు, నల్ల చీరలు కట్టుకుని, పసుపు పచ్చని తేనె తీస్తారు. ఎవరు వాళ్ళు?\" మీకు తెలుసా, పిల్లలూ?",
+      "image_prompt": "The beehive slowly fills with golden honey, collected by the diligent bees working together. A sweet fragrance of the abundant honey now permeates the entire hive, a testament to their success. Gentle dusk light, warm amber, illuminating the full, glistening honeycombs inside the hive, peaceful and triumphant.",
+      "scene_visual": "The beehive slowly fills with golden honey, collected by the diligent bees working together. A sweet fragrance of the abundant honey now permeates the entire hive, a testament to their success.",
+      "supporting_char_keys": [
+        "Rani",
+        "Karmika"
+      ],
+      "text_te_en": "Raani Maatalato Sphurti Pondina Chitti, Tana Toti Tenetigalato Kalisi Alasipokundaa Panicheyadam Modalupettindi. Vaallu Kalisi Daagi Unna Tene Gudulanu Kanugonnaaru, Prati Chinna Chukkanu Sekarinchaaru. Tenepattu Nemmadigaa Bangaaru Teneto Nindipoyindi — Aa Tiyyati Suvaasana Tenepattu Antaa Nindipoyindi. \"Chudu Karmikaa Akkaa! Manam Saadhinchaan!\" Ani Chitti Aanandangaa Arichindi. Appudu Naaku Oka Podupu Katha Gurtochchindi, \"Adavilo Akkaa Chellellu, Nalla Chiralu Kattukuni, Pasupu Pachchani Tene Tistaaru. Evaru Vaallu?\" Miku Telusaa, Pillalu?",
+      "text_en": "Inspired by the Queen's words, Chitti began to work tirelessly with her fellow bees. Together, they found hidden pockets of honey and collected every tiny drop. The beehive slowly filled with golden honey — its sweet scent filled the entire hive. \"Look, Karmika Akka! We did it!\" Chitti cried out happily. Then I remembered a riddle, \"Sisters in the forest, wearing black sarees, collect yellow honey. Who are they?\" Do you know, children?"
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Rani",
+      "description": "Rani is the majestic and wise queen of the hive. She is larger and darker than the other bees, with a calm, commanding presence. Always the same character across every scene."
+    },
+    {
+      "key": "Karmika",
+      "description": "Karmika is an old, experienced worker bee with slightly frayed wings and a gentle, patient demeanor. She has seen many seasons. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 9.17,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is a delightful read, brimming with warmth and engaging elements that would captivate any child. The direct address to the listener and the sensory details are particularly effective in creating an immersive experience. To reach award-worthy status, the author should focus on consistently showing emotions through character actions and reactions, rather than stating them directly. Eliminating the few instances of 'stated' emotions would deepen the reader's connection to Chitti's journey."
+  },
+  "title_te_en": "Chitti Tenetiga Pattudala",
+  "moral_te_en": "Chinna Chinna Prayatnaalu Kudaa Kalisikattugaa Cheste, Adbhutamaina Phalitaalanu Istaayani I Katha Manaku Nerputundi.",
+  "title_en": "Chitti the Little Bee's Determination",
+  "moral_en": "This story teaches us that even small efforts, when done together, can lead to amazing results.",
+  "id": "20260604_141020",
+  "date": "2026-06-04",
+  "category": "podupu",
+  "subcategory": "nature_riddles",
+  "topic": "చిన్న జీవులు కష్టపడి, తీయని సంపదనిచ్చే తేనె పొడుపు కథ",
+  "thumbnail": "stories/20260604_141020/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
