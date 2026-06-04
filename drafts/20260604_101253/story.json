@@ -1,0 +1,108 @@
+{
+  "title": "జయంతి కాకి కొత్త చూపు",
+  "moral": "సంతోషం బయట వస్తువులలో కాదు, మనసులో ఉన్న దానిని అభినందించడంలో ఉంటుంది.",
+  "main_character": "A sleek, jet-black crow with unusually bright, curious eyes. Its feathers often appear ruffled from its constant search and activity, and it has a slightly larger beak than other crows. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, sun-drenched village in rural Andhra Pradesh, nestled beside a gurgling stream. Mango trees and tamarind trees dot the landscape, with mud houses and terracotta roofs visible, and the air is often filled with the scent of jasmine and cow dung. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పొద్దు పొడుస్తూనే, నల్లని కాకి జయంతి పొలాల గట్ల వెంబడి రెక్కలు కదిపి ఎగురుతుండేది. దాని పదునైన చూపులు ఎప్పుడూ నేల మీద, ఇంకా ఉత్తమమైన ఆహారం కోసం వెతుకుతూ ఉండేవి — దొరికిన చిన్న గింజలను కూడా నిర్లక్ష్యంగా పక్కకు నెట్టి. ఎండుటాకుల గుండా అది గెంతుతుంటే, చిన్న శబ్దం — ఖాళీ ఆశల గొంతుకలా వినిపించేది. \"ఇంకా మంచిది దొరకదా?\" అని తనలో తనే గొణుక్కునేది, సంతృప్తిలేని చూపులతో. ఇంతలో, దూరంగా ఏదో మెరిసే దానిని చూసి — దాని రెక్కలు ఆశగా విప్పారాయి.",
+      "image_prompt": "The crow, flying low, suddenly spots something shiny in the distance. Its wings spread wide with a hopeful, eager motion as it prepares to fly towards it. Bright morning sun, casting sharp, defined shadows under the trees, creating an energetic and expectant atmosphere.",
+      "scene_visual": "The crow, flying low, suddenly spots something shiny in the distance. Its wings spread wide with a hopeful, eager motion as it prepares to fly towards it.",
+      "supporting_char_keys": [],
+      "text_te_en": "Poddu Podustune, Nallani Kaaki Jayanti Polaala Gatla Vembadi Rekkalu Kadipi Egurutundedi. Daani Padunaina Chupulu Eppudu Nela Mida, Inkaa Uttamamaina Aahaaram Kosam Vetukutu Undevi — Dorikina Chinna Ginjalanu Kudaa Nirlakshyangaa Pakkaku Netti. Endutaakula Gundaa Adi Gentutunte, Chinna Shabdam — Khaali Aashala Gontukalaa Vinipinchedi. \"Inkaa Manchidi Dorakadaa?\" Ani Tanalo Tane Gonukkunedi, Santrriptileni Chupulato. Intalo, Durangaa Edo Merise Daanini Chusi — Daani Rekkalu Aashagaa Vippaaraayi.",
+      "text_en": "As the sun rose, the black crow Jayanthi would fly along the field boundaries, flapping her wings. Her sharp eyes were always on the ground, searching for even better food — carelessly pushing aside the small seeds she found. As she hopped through dry leaves, a small sound — like the voice of empty hopes — could be heard. \"Can't I find something better?\" she would grumble to herself, with unsatisfied glances. Just then, she saw something shiny in the distance — her wings spread open with hope."
+    },
+    {
+      "id": 2,
+      "text": "జయంతి ఆ మెరుపును వెంబడిస్తూ వెళ్ళగా, అక్కడ ఒక చిన్న పిచ్చుక గూటి దగ్గర కొన్ని మామూలు గింజలను ఆనందంగా తింటూ కనిపించింది. పిచ్చుక తేలికైన, సంతోషకరమైన కిలకిలరావాలు ఆ వాతావరణాన్ని నింపేశాయి — జయంతి నిశితమైన పరిశీలనతో మౌనంగా ఉండిపోయింది. అది తల పక్కకు వంచి, తోక రెక్కలను చిన్నగా ముడుస్తూ, \"అంత చిన్న గింజలతో ఎలా సంతోషంగా ఉండగలవు?\" అని ఆశ్చర్యంగా ప్రశ్నించింది. పిచ్చుక ఆనందం దానికి అంతుపట్టలేదు — తానూ అలాంటి సంతోషాన్ని పొందాలనుకుంది. కానీ, ఆ సంతోషానికి కారణం వేరే చోట ఉందని తప్పుగా అర్థం చేసుకుంది.",
+      "image_prompt": "The crow silently watches a small sparrow happily pecking at ordinary grains near its nest. The sparrow tilts its head and slightly folds its tail feathers, chirping contentedly. Gentle afternoon light, warm and soft, illuminating the sparrow's nest with a peaceful glow, but highlighting the crow's internal conflict.",
+      "scene_visual": "The crow silently watches a small sparrow happily pecking at ordinary grains near its nest. The sparrow tilts its head and slightly folds its tail feathers, chirping contentedly.",
+      "supporting_char_keys": [
+        "sparrow"
+      ],
+      "text_te_en": "Jayanti Aa Merupunu Vembadistu Vellagaa, Akkada Oka Chinna Pichchuka Guti Daggara Konni Maamulu Ginjalanu Aanandangaa Tintu Kanipinchindi. Pichchuka Telikaina, Santoshakaramaina Kilakilaraavaalu Aa Vaataavaranaanni Nimpeshaayi — Jayanti Nishitamaina Parishilanato Maunangaa Undipoyindi. Adi Tala Pakkaku Vanchi, Toka Rekkalanu Chinnagaa Mudustu, \"Anta Chinna Ginjalato Elaa Santoshangaa Undagalavu?\" Ani Aashcharyangaa Prashninchindi. Pichchuka Aanandam Daaniki Antupattaledu — Taanu Alaanti Santoshaanni Pondaalanukundi. Kaani, Aa Santoshaaniki Kaaranam Vere Chota Undani Tappugaa Artham Chesukundi.",
+      "text_en": "Jayanthi followed the sparkle and saw a small sparrow happily eating some ordinary seeds near its nest. The sparrow's light, joyful chirps filled the air — Jayanthi remained silent, observing keenly. She tilted her head, slightly folding her tail feathers, and asked in surprise, \"How can you be happy with such tiny seeds?\" The sparrow's happiness was a mystery to her — she wanted to feel that kind of joy too. But she mistakenly thought the reason for that happiness was somewhere else."
+    },
+    {
+      "id": 3,
+      "text": "పిచ్చుక ఆనందానికి కారణం సంపద అని తప్పుగా అర్థం చేసుకున్న జయంతి, పల్లె మధ్యలో జరుగుతున్న పండుగ విందును చూసింది. అక్కడి నుండి వస్తున్న వంటకాల ఘుమఘుమలు — దాని కడుపులో ఆకలిని రాజేశాయి. రంగురంగుల వంటకాలతో నిండిన పళ్లాలను చూసి, దాని కళ్ళు పెద్దవయ్యాయి, ముక్కు కొద్దిగా తెరుచుకుంది — ఆ ఆహారంపై దాని శరీరం అమాంతం తహతహలాడింది. \"అది నాకు కావాలి! అదే నిజమైన ఆనందం!\" అని ఆశగా ముక్కుతూ, తనలో తనే చెప్పుకుంది. ఆ విందు దగ్గరికి ఎలా చేరాలో ప్రణాళిక వేసుకుంది — రాబోయే ప్రమాదాలను పూర్తిగా విస్మరించింది.",
+      "image_prompt": "The crow gazes intently at platters filled with colorful dishes at a village feast. Its eyes widen and its beak slightly opens, body trembling with eager anticipation for the food. Mid-day sun, bright and inviting over the bustling feast, but creating a sense of urgency and temptation for the crow observing from afar.",
+      "scene_visual": "The crow gazes intently at platters filled with colorful dishes at a village feast. Its eyes widen and its beak slightly opens, body trembling with eager anticipation for the food.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pichchuka Aanandaaniki Kaaranam Sampada Ani Tappugaa Artham Chesukunna Jayanti, Palle Madhyalo Jarugutunna Panduga Vindunu Chusindi. Akkadi Nundi Vastunna Vantakaala Ghumaghumalu — Daani Kadupulo Aakalini Raajeshaayi. Rangurangula Vantakaalato Nindina Pallaalanu Chusi, Daani Kallu Peddavayyaayi, Mukku Koddigaa Teruchukundi — Aa Aahaarampai Daani Shariram Amaantam Tahatahalaadindi. \"Adi Naaku Kaavaali! Ade Nijamaina Aanandan!\" Ani Aashagaa Mukkutu, Tanalo Tane Cheppukundi. Aa Vindu Daggariki Elaa Cheraalo Pranaalika Vesukundi — Raaboye Pramaadaalanu Purtigaa Vismarinchindi.",
+      "text_en": "Jayanthi, who mistakenly thought the sparrow's happiness came from riches, saw a festival feast happening in the middle of the village. The delicious smells of food wafting from there — made her stomach rumble with hunger. Seeing plates full of colorful dishes, her eyes grew wide, and her beak slightly opened — her whole body yearned for that food. \"I want that! That's real happiness!\" she eagerly cawed to herself. She made a plan to get to the feast — completely ignoring the dangers ahead."
+    },
+    {
+      "id": 4,
+      "text": "నిశ్శబ్దంగా విందు దగ్గరికి చేరిన జయంతి, ఒక పెద్ద స్వీట్‌ ముక్కను లాక్కునేందుకు ప్రయత్నించింది. కానీ, ఒక్కసారిగా — \"హేయ్! కాకి!\" అంటూ కోపంగా అరుస్తూ, కర్రతో ఒక రైతు దాని వెనక పడ్డాడు. విసిరిన రాయి రెక్కను తృటిలో తప్పించుకోగా, ఒక పదునైన నొప్పి దానిని తాకినట్లు అనిపించింది. భయంతో రెక్కలు అదురుతుండగా, \"కావ్‌! కావ్‌!\" అని పెద్దగా అరుస్తూ, అది ఆకాశంలోకి ఎగిరిపోయింది. ఒక చెట్టు కొమ్మపై నిరాశగా వాలి, రెక్కలు చిందరవందరగా ఉన్నా — అది మరో అవకాశాన్ని వెతికింది.",
+      "image_prompt": "The crow attempts to snatch a large sweet from the feast but is suddenly chased by a farmer wielding a stick. Its wings flutter wildly in fear as it squawks loudly and flies away, narrowly dodging a thrown stone. Harsh, direct sunlight beating down on the dusty ground as the crow makes its frantic escape, emphasizing the immediate danger.",
+      "scene_visual": "The crow attempts to snatch a large sweet from the feast but is suddenly chased by a farmer wielding a stick. Its wings flutter wildly in fear as it squawks loudly and flies away, narrowly dodging a thrown stone.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nishshabdangaa Vindu Daggariki Cherina Jayanti, Oka Pedda Svit‌ Mukkanu Laakkunenduku Prayatninchindi. Kaani, Okkasaarigaa — \"Hey! Kaaki!\" Antu Kopangaa Arustu, Karrato Oka Raitu Daani Venaka Paddaadu. Visirina Raayi Rekkanu Trritilo Tappinchukogaa, Oka Padunaina Noppi Daanini Taakinatlu Anipinchindi. Bhayanto Rekkalu Adurutundagaa, \"Kaav‌! Kaav‌!\" Ani Peddagaa Arustu, Adi Aakaashanloki Egiripoyindi. Oka Chettu Kommapai Niraashagaa Vaali, Rekkalu Chindaravandaragaa Unnaa — Adi Maro Avakaashaanni Vetikindi.",
+      "text_en": "Jayanthi quietly approached the feast and tried to snatch a large piece of sweet. But suddenly — \"Hey! Crow!\" a farmer angrily shouted, chasing her with a stick. A thrown stone narrowly missed her wing, but she felt a sharp pain as if it had hit her. With her wings trembling in fear, she cried out loudly, \"Caw! Caw!\" and flew up into the sky. Perched sadly on a tree branch, even with her feathers ruffled — she looked for another chance."
+    },
+    {
+      "id": 5,
+      "text": "కొంతసేపటికి, జయంతి ఒక పాడుబడ్డ ప్లేటు నుండి ఒక తీపి కేక్ ముక్కను తెలివిగా లాక్కుంది. ఆశగా దానిని నోట కరుచుకొని ఎగిరిపోగా, దాని ముక్కు నిండా జిగటగా అంటుకుంది — మింగుడుపడక అది కష్టపడింది. \"ఇదేంటి? ఇది నేను అనుకున్నంత బాగుండలేదు,\" అని విసుగ్గా గొణుక్కుంది. తన ముక్కును కొమ్మకు రుద్ది, ఆ జిగటను పోగొట్టుకునే ప్రయత్నం చేసింది — దాని భుజాలు వాలిపోయాయి. అప్పటివరకు విస్మరించిన చిన్న, మామూలు గింజల వైపు చూసి, వాటి నిరాడంబరమైన ఆకర్షణ గురించి ఆలోచించింది.",
+      "image_prompt": "The crow, having snatched a piece of sweet cake, struggles to eat it as its beak becomes sticky. Its shoulders slump in frustration as it rubs its beak against a branch, trying to dislodge the gooey mess. Dappled shade under a large banyan tree, slightly cooler and contemplative, as the crow tries to process its unexpected and unsatisfying experience.",
+      "scene_visual": "The crow, having snatched a piece of sweet cake, struggles to eat it as its beak becomes sticky. Its shoulders slump in frustration as it rubs its beak against a branch, trying to dislodge the gooey mess.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kontasepatiki, Jayanti Oka Paadubadda Pletu Nundi Oka Tipi Kek Mukkanu Telivigaa Laakkundi. Aashagaa Daanini Nota Karuchukoni Egiripogaa, Daani Mukku Nindaa Jigatagaa Antukundi — Mingudupadaka Adi Kashtapadindi. \"Identi? Idi Nenu Anukunnanta Baagundaledu,\" Ani Visuggaa Gonukkundi. Tana Mukkunu Kommaku Ruddi, Aa Jigatanu Pogottukune Prayatnam Chesindi — Daani Bhujaalu Vaalipoyaayi. Appativaraku Vismarinchina Chinna, Maamulu Ginjala Vaipu Chusi, Vaati Niraadambaramaina Aakarshana Gurinchi Aalochinchindi.",
+      "text_en": "After a while, Jayanthi cleverly snatched a piece of sweet cake from a discarded plate. As she eagerly flew away with it in her beak, her beak got all sticky — she struggled to swallow it. \"What is this? This isn't as good as I thought,\" she grumbled in annoyance. She tried to rub her beak on a branch to get rid of the stickiness — her shoulders drooped. She looked at the small, ordinary seeds she had ignored until now and thought about their simple charm."
+    },
+    {
+      "id": 6,
+      "text": "తనకు దొరికిన కేక్ ముక్కతో సంతృప్తి చెందక, జయంతి మళ్ళీ ఆ పిచ్చుకను చూసింది. అది తన పిల్లలకు కొన్ని చిన్న గింజలను పంచుతుండగా, ఆ పిల్లల మృదువైన, సంతోషకరమైన కిలకిలరావాలు వినిపించాయి — ఆ దృశ్యం జయంతి మనసును తాకింది. పిచ్చుక కళ్ళల్లో నిజమైన శాంతి, సంతృప్తి స్పష్టంగా కనిపించాయి — జయంతి తన ఖాళీ కాళ్ళను చూసుకుని, చిన్నగా నిట్టూర్చింది, దాని భుజాలు మెల్లగా వాలిపోయాయి. \"ఆనందం బయట కాదు, లోపల ఉంది,\" అని ఒక్కసారిగా దానికి అర్థమైంది. అది నిశ్శబ్దంగా ఎగిరిపోయింది — ఈసారి దాని హృదయంలో కొత్త ప్రశాంతమైన ఉద్దేశ్యం ఉంది.",
+      "image_prompt": "The crow watches the sparrow gently sharing small grains with its chirping young. The crow sighs softly, its shoulders slowly slumping as it sees the genuine peace and contentment in the sparrow's eyes. Golden hour light, warm and soft, illuminating the sparrow's nest with a gentle glow, signifying insight and warmth spreading through the scene.",
+      "scene_visual": "The crow watches the sparrow gently sharing small grains with its chirping young. The crow sighs softly, its shoulders slowly slumping as it sees the genuine peace and contentment in the sparrow's eyes.",
+      "supporting_char_keys": [
+        "sparrow"
+      ],
+      "text_te_en": "Tanaku Dorikina Kek Mukkato Santrripti Chendaka, Jayanti Malli Aa Pichchukanu Chusindi. Adi Tana Pillalaku Konni Chinna Ginjalanu Panchutundagaa, Aa Pillala Mrriduvaina, Santoshakaramaina Kilakilaraavaalu Vinipinchaayi — Aa Drrishyam Jayanti Manasunu Taakindi. Pichchuka Kallallo Nijamaina Shaanti, Santrripti Spashtangaa Kanipinchaayi — Jayanti Tana Khaali Kaallanu Chusukuni, Chinnagaa Nitturchindi, Daani Bhujaalu Mellagaa Vaalipoyaayi. \"Aanandam Bayata Kaadu, Lopala Undi,\" Ani Okkasaarigaa Daaniki Arthamaindi. Adi Nishshabdangaa Egiripoyindi — Isaari Daani Hrridayanlo Kotta Prashaantamaina Uddeshyam Undi.",
+      "text_en": "Not satisfied with the piece of cake she got, Jayanthi saw the sparrow again. It was sharing some small seeds with its chicks, and the soft, happy chirps of the chicks could be heard — the sight touched Jayanthi's heart. True peace and contentment were clearly visible in the sparrow's eyes — Jayanthi looked at her empty claws, sighed softly, and her shoulders slowly drooped. Suddenly, she understood, \"Happiness is not outside, it's inside.\" She flew away silently — this time with a new, peaceful purpose in her heart."
+    },
+    {
+      "id": 7,
+      "text": "కొంత సమయం తరువాత, జయంతి పచ్చిక బయళ్ళలో కొన్ని మామూలు గింజలను నెమ్మదిగా ఏరుకోవడం కనిపించింది. అది వాటిని నోట కరుచుకోగానే — ఆ గింజల క్రంచీ శబ్దం ఇంతకుముందు వినని విధంగా సంతృప్తిని ఇచ్చింది. దాని శరీరం ప్రశాంతంగా, రెక్కలు సున్నితంగా సర్దుకుని ఉన్నాయి — హృదయంలో ఒక నిశ్శబ్ద ఆనందం నిండిపోయింది. ఆకాశం వైపు చూసి, అది శాంతిగా కన్ను మూసి తెరిచింది. చివరగా, జయంతి తాను ఉన్నదానితోనే సంతోషంగా ఉంది.",
+      "image_prompt": "The crow calmly pecks at ordinary grains scattered on the grass. Its body is relaxed, wings gently folded, and it closes and opens its eyes peacefully as it looks towards the sky. Gentle dusk light, warm amber and soft blues painting the sky with serene colours, signifying a peaceful and resolved ending to the day.",
+      "scene_visual": "The crow calmly pecks at ordinary grains scattered on the grass. Its body is relaxed, wings gently folded, and it closes and opens its eyes peacefully as it looks towards the sky.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konta Samayam Taruvaata, Jayanti Pachchika Bayallalo Konni Maamulu Ginjalanu Nemmadigaa Erukovadam Kanipinchindi. Adi Vaatini Nota Karuchukogaane — Aa Ginjala Kranchi Shabdam Intakumundu Vinani Vidhangaa Santrriptini Ichchindi. Daani Shariram Prashaantangaa, Rekkalu Sunnitangaa Sardukuni Unnaayi — Hrridayanlo Oka Nishshabda Aanandam Nindipoyindi. Aakaasham Vaipu Chusi, Adi Shaantigaa Kannu Musi Terichindi. Chivaragaa, Jayanti Taanu Unnadaanitone Santoshangaa Undi.",
+      "text_en": "Some time later, Jayanthi was seen gently picking up some ordinary seeds in the grassy fields. As soon as she crunched them in her beak — the crunchy sound of the seeds gave her a satisfaction she had never heard before. Her body was calm, her wings gently settled — a quiet joy filled her heart. Looking up at the sky, she peacefully closed and opened her eyes. Finally, Jayanthi was happy with what she had."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "sparrow",
+      "description": "A small, plump sparrow with soft brown and grey feathers. It has gentle, observant eyes and always seems to have a few crumbs tucked away near its nest. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts a clear and compelling narrative arc with excellent grammar, and the moral is well-integrated. However, to truly resonate as a children's bedtime story, it requires a significant shift towards a more oral, conversational tone. The current prose often leans too descriptive and literary, diminishing the authentic grandparent voice and direct emotional impact. The single most important fix is to rewrite with a focus on a warm, spoken storytelling style, showing emotions through action and dialogue rather than stating them."
+  },
+  "quality_warning": true,
+  "title_te_en": "Jayanti Kaaki Kotta Chupu",
+  "moral_te_en": "Santosham Bayata Vastuvulalo Kaadu, Manasulo Unna Daanini Abhinandinchadanlo Untundi.",
+  "title_en": "Jayanthi the Crow's New View",
+  "moral_en": "Happiness isn't found in outside things, but in appreciating what you have inside.",
+  "id": "20260604_101253",
+  "date": "2026-06-04",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "ఉన్నదానితో సంతృప్తి చెందాలి అనే కథ - ఆశపడే కాకి మరియు సంతోషంగా ఉండే పిచ్చుక",
+  "thumbnail": "stories/20260604_101253/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
