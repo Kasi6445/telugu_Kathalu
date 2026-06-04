@@ -1,0 +1,119 @@
+{
+  "title": "తెనాలి తెలివి, నీడల నాటకం",
+  "moral": "చూడండి పిల్లలూ, ఎంత పెద్ద సమస్య అయినా సరే, మనం కొత్తగా ఆలోచిస్తే, పరిష్కారం దొరుకుతుంది.",
+  "main_character": "A lean, quick-witted scholar and poet in the court of Emperor Krishnadevaraya. He has a mischievous twinkle in his eyes and often wears simple, yet dignified, court attire. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The grand court of Vijayanagara, specifically the ornate 'Durbar Hall' with its towering pillars and intricate carvings, and Tenali's modest home with a small, sunlit courtyard. The time is usually mid-morning or late afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నా బంగారు తల్లులూ, అప్పట్లో విజయనగర సామ్రాజ్యంలో తెనాలి రామకృష్ణుడు ఉండేవాడు — ఆయన ఎంత తెలివైనవాడో తెలుసా? ఒకరోజు కోర్టులో ఒక చిన్న గొడవను తన చిరునవ్వుతో, చురుకైన మాటలతో సులువుగా పరిష్కరించాడు. సభలో అంతా ఆశ్చర్యపోయి, తమ పట్టు వస్త్రాలు మెల్లగా కదిలేలా కుర్చీల్లో కదిలారు. రాజుగారు తన మీసాలు మెలేస్తూ, తెనాలి వైపు చూసి, మెచ్చుకోలుగా తల ఊపారు. అప్పుడు రాజుగారు, \"రాముడా, నీ తెలివికి మేమెప్పుడూ ఆశ్చర్యపోతాము!\" అన్నారు — ఆ మాటలకే కోర్టు నిశ్శబ్దమైపోయింది! తెనాలి కళ్ళల్లో ఒక కొంటె మెరుపు, పెదవులపై చిన్న నవ్వుతో నిలబడ్డాడు.",
+      "image_prompt": "The king strokes his mustache and nods approvingly at the wise man. The wise man stands with a mischievous glint in his eyes and a small smile on his lips. Bright morning sun streaming through large arched windows of the Durbar Hall, highlighting dust motes in the air, creating a grand, active atmosphere.",
+      "scene_visual": "The king strokes his mustache and nods approvingly at the wise man. The wise man stands with a mischievous glint in his eyes and a small smile on his lips.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Naa Bangaaru Tallulu, Appatlo Vijayanagara Saamraajyanlo Tenaali Raamakrrishnudu Undevaadu — Aayana Enta Telivainavaado Telusaa? Okaroju Kortulo Oka Chinna Godavanu Tana Chirunavvuto, Churukaina Maatalato Suluvugaa Parishkarinchaadu. Sabhalo Antaa Aashcharyapoyi, Tama Pattu Vastraalu Mellagaa Kadilelaa Kurchillo Kadilaaru. Raajugaaru Tana Misaalu Melestu, Tenaali Vaipu Chusi, Mechchukolugaa Tala Upaaru. Appudu Raajugaaru, \"Raamudaa, Ni Teliviki Memeppudu Aashcharyapotaamu!\" Annaaru — Aa Maatalake Kortu Nishshabdamaipoyindi! Tenaali Kallallo Oka Konte Merupu, Pedavulapai Chinna Navvuto Nilabaddaadu.",
+      "text_en": "My dear little ones, long ago, in the Vijayanagara Empire, there lived Tenali Ramakrishna. Do you know how clever he was? One day, he easily solved a small dispute in the court with his smile and quick wit. Everyone in the assembly was surprised and shifted in their chairs, making their silk clothes rustle softly. The King twirled his mustache, looked at Tenali, and nodded his head in appreciation. Then the King said, \"Ramuda, your cleverness always amazes us!\" At those words, the court fell silent! Tenali stood there with a mischievous sparkle in his eyes and a small smile on his lips."
+    },
+    {
+      "id": 2,
+      "text": "కానీ రాజుగారి మనసులో ఇంకో ఆలోచన మెరిసింది, తెనాలి తెలివిని మళ్ళీ పరీక్షించాలనిపించింది. సభ బయట నుండి వస్తున్న డప్పుల లయబద్ధమైన శబ్దం మధ్య, రాజు కృష్ణదేవరాయలు తెనాలి వైపు తిరిగి ఒక వింతైన సవాలు విసిరారు. తెనాలి తన గడ్డం తడుముకుంటూ, నుదుటిపై చిన్న ముడతతో ఆలోచనలో పడ్డాడు. \"రాముడా, నీడలను పట్టుకొని నాకు తీసుకురాగలవా?\" అని అడిగారు — అది వినగానే తెనాలి ఒక్కక్షణం నిశ్చేష్టుడయ్యాడు! తెనాలి కళ్ళల్లో ఆ క్షణం ఆలోచనలు సుడులు తిరుగుతున్నా, వెంటనే రాజుగారికి నమస్కరించి, ఆ సవాలును స్వీకరించాడు.",
+      "image_prompt": "The wise man strokes his beard, a small wrinkle forming on his forehead as he ponders the king's strange challenge. His eyes briefly show a whirlwind of thoughts before he bows to accept the task. Mid-afternoon light, warm and golden, casting long, distinct shadows of the pillars across the Durbar Hall floor, emphasizing the theme of shadows.",
+      "scene_visual": "The wise man strokes his beard, a small wrinkle forming on his forehead as he ponders the king's strange challenge. His eyes briefly show a whirlwind of thoughts before he bows to accept the task.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Kaani Raajugaari Manasulo Inko Aalochana Merisindi, Tenaali Telivini Malli Parikshinchaalanipinchindi. Sabha Bayata Nundi Vastunna Dappula Layabaddhamaina Shabdam Madhya, Raaju Krrishnadevaraayalu Tenaali Vaipu Tirigi Oka Vintaina Savaalu Visiraaru. Tenaali Tana Gaddam Tadumukuntu, Nudutipai Chinna Mudatato Aalochanalo Paddaadu. \"Raamudaa, Nidalanu Pattukoni Naaku Tisukuraagalavaa?\" Ani Adigaaru — Adi Vinagaane Tenaali Okkakshanam Nishcheshtudayyaadu! Tenaali Kallallo Aa Kshanam Aalochanalu Sudulu Tirugutunnaa, Ventane Raajugaariki Namaskarinchi, Aa Savaalunu Svikarinchaadu.",
+      "text_en": "But another thought sparked in the King's mind; he wanted to test Tenali's cleverness again. Amidst the rhythmic sound of drums coming from outside the assembly, King Krishnadevaraya turned to Tenali and threw a strange challenge. Tenali stroked his beard, a small wrinkle forming on his forehead as he fell into thought. \"Ramuda, can you catch shadows and bring them to me?\" he asked. Hearing that, Tenali was stunned for a moment! Even though thoughts swirled in Tenali's eyes at that moment, he immediately bowed to the King and accepted the challenge."
+    },
+    {
+      "id": 3,
+      "text": "రాజుగారి సవాలు తెనాలిని అస్సలు నిద్రపోనివ్వలేదు, తన ఇంటి ఆవరణలో ఒంటరిగా కూర్చుని, ఒక సంచిలో తన నీడను పట్టుకోవడానికి ప్రయత్నించాడు. అతని చేతుల్లోని గోత సంచి పొడిపొడిగా, మురికిగా అనిపించింది. అతను నీడ మీద సంచిని వేసి, గట్టిగా మూశాడు — ఈ నీడ ఎంత మోసకారి! పట్టుకుందామంటే దొరకదు! అతను సంచి మూయగానే — నీడ మాయమైపోయింది! తెనాలి విసుగ్గా ఒక పెద్ద నిట్టూర్పు విడిచాడు, అతని భుజాలు కిందికి జారిపోయాయి. అలా ఓటమి చెందినట్టు కూర్చున్న అతనికి, ఒక్కసారిగా ఒక చిన్న కదలిక కనిపించింది.",
+      "image_prompt": "The wise man sits alone in his courtyard, attempting to capture his shadow in a sack. He sighs heavily, his shoulders slumping in defeat as the shadow vanishes when he closes the rough, dirty sack. Harsh midday sun directly overhead in Tenali's courtyard, creating sharp, dark shadows that seem to mock his efforts.",
+      "scene_visual": "The wise man sits alone in his courtyard, attempting to capture his shadow in a sack. He sighs heavily, his shoulders slumping in defeat as the shadow vanishes when he closes the rough, dirty sack.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajugaari Savaalu Tenaalini Assalu Nidraponivvaledu, Tana Inti Aavaranalo Ontarigaa Kurchuni, Oka Sanchilo Tana Nidanu Pattukovadaaniki Prayatninchaadu. Atani Chetulloni Gota Sanchi Podipodigaa, Murikigaa Anipinchindi. Atanu Nida Mida Sanchini Vesi, Gattigaa Mushaadu — I Nida Enta Mosakaari! Pattukundaamante Dorakadu! Atanu Sanchi Muyagaane — Nida Maayamaipoyindi! Tenaali Visuggaa Oka Pedda Nitturpu Vidichaadu, Atani Bhujaalu Kindiki Jaaripoyaayi. Alaa Otami Chendinattu Kurchunna Ataniki, Okkasaarigaa Oka Chinna Kadalika Kanipinchindi.",
+      "text_en": "The King's challenge didn't let Tenali sleep at all. He sat alone in his house's courtyard, trying to catch his shadow in a sack. The jute sack in his hands felt dry and dusty. He threw the sack over the shadow and closed it tightly — oh, how tricky this shadow was! You couldn't catch it even if you tried! As soon as he closed the sack — the shadow disappeared! Tenali let out a frustrated sigh, his shoulders slumping. As he sat there, feeling defeated, he suddenly noticed a small movement."
+    },
+    {
+      "id": 4,
+      "text": "అలా నిరాశగా కూర్చున్న తెనాలికి — ఒక్కసారిగా ఓ మెరుపులాంటి ఆలోచన వచ్చింది! మీకు తెలుసా, అప్పుడు తెనాలికి ఏం అర్థమైందో? పక్క మార్కెట్ లో పిల్లలు నీడలతో ఆడుకుంటూ గంతులు వేస్తున్నారు, అది చూసిన తెనాలి కళ్ళు ఒక్కసారిగా పెద్దవి చేసుకుని ఆశ్చర్యపోయాడు. అక్కడే ఒక వ్యాపారి నల్లటి గుడ్డలు అమ్ముతుంటే, పండిన మామిడి పండ్ల తీయటి వాసన అతని ముక్కుపుటాలకెక్కింది. అప్పుడు అతను ఒక చిరునవ్వుతో, \"ఆహా! నీడలను పట్టుకోవడం కాదు, వాటిని సృష్టించాలి!\" అని అనుకున్నాడు — అవును, ఇది కదా అసలైన తెలివి! వెంటనే అతను చాలా నల్లటి వస్త్రాన్ని కొనుక్కుని ఇంటికి వెళ్ళాడు.",
+      "image_prompt": "The wise man's eyes widen in surprise as he watches children playing with shadows in a nearby market. He then smiles, realizing his solution, and immediately buys a large quantity of black cloth from a merchant. Late afternoon market bustle, warm, diffused light, with pockets of deeper shadow under awnings and stalls, suggesting hidden possibilities.",
+      "scene_visual": "The wise man's eyes widen in surprise as he watches children playing with shadows in a nearby market. He then smiles, realizing his solution, and immediately buys a large quantity of black cloth from a merchant.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alaa Niraashagaa Kurchunna Tenaaliki — Okkasaarigaa O Merupulaanti Aalochana Vachchindi! Miku Telusaa, Appudu Tenaaliki Em Arthamaindo? Pakka Maarket Lo Pillalu Nidalato Aadukuntu Gantulu Vestunnaaru, Adi Chusina Tenaali Kallu Okkasaarigaa Peddavi Chesukuni Aashcharyapoyaadu. Akkade Oka Vyaapaari Nallati Guddalu Ammutunte, Pandina Maamidi Pandla Tiyati Vaasana Atani Mukkuputaalakekkindi. Appudu Atanu Oka Chirunavvuto, \"Aahaa! Nidalanu Pattukovadam Kaadu, Vaatini Srrishtinchaali!\" Ani Anukunnaadu — Avunu, Idi Kadaa Asalaina Telivi! Ventane Atanu Chaalaa Nallati Vastraanni Konukkuni Intiki Vellaadu.",
+      "text_en": "As Tenali sat there in despair — a lightning-fast idea suddenly struck him! Do you know what Tenali understood then? Children were playing and jumping with shadows in the nearby market, and seeing that, Tenali's eyes widened in surprise. Right there, a merchant was selling black cloths, and the sweet smell of ripe mangoes filled his nostrils. Then, with a smile, he thought, \"Aha! It's not about catching shadows, but creating them!\" Yes, this is true cleverness! Immediately, he bought a lot of black cloth and went home."
+    },
+    {
+      "id": 5,
+      "text": "తర్వాత రోజంతా తెనాలి ఇంట్లోనే ఉండిపోయాడు, ఇంకేం పట్టనట్టు తన పనిలో నిమగ్నమయ్యాడు. అతను ఒక పాడుతున్న పాటను నెమ్మదిగా గుణుకుంటూ, నల్లటి వస్త్రాలను జాగ్రత్తగా కత్తిరించాడు. కత్తెరల మెత్తటి, సంతృప్తికరమైన శబ్దం నిశ్శబ్దంగా వినిపిస్తోంది. ఒక్కో ముక్కను జాగ్రత్తగా కత్తిరించాడు — ఏదో గొప్ప రహస్యం దాగున్నట్టు! ఈ 'నీడల నాటకం' రాజుగారిని తప్పకుండా ఆశ్చర్యపరుస్తుంది! అని తనలో తాను అనుకుంటూ, అతను తన సృష్టిని జాగ్రత్తగా ఒక కట్టగా కట్టాడు, రాజ సభకు తీసుకెళ్ళడానికి సిద్ధంగా.",
+      "image_prompt": "The wise man carefully cuts pieces of black cloth, humming a soft tune to himself. The gentle, satisfying snip of the scissors fills the quiet room as he prepares his creation. Warm, low evening light in Tenali's home, casting long working shadows as he cuts, creating a sense of anticipation and secretive work.",
+      "scene_visual": "The wise man carefully cuts pieces of black cloth, humming a soft tune to himself. The gentle, satisfying snip of the scissors fills the quiet room as he prepares his creation.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tarvaata Rojantaa Tenaali Intlone Undipoyaadu, Inkem Pattanattu Tana Panilo Nimagnamayyaadu. Atanu Oka Paadutunna Paatanu Nemmadigaa Gunukuntu, Nallati Vastraalanu Jaagrattagaa Kattirinchaadu. Katterala Mettati, Santrriptikaramaina Shabdam Nishshabdangaa Vinipistondi. Okko Mukkanu Jaagrattagaa Kattirinchaadu — Edo Goppa Rahasyam Daagunnattu! I 'Nidala Naatakan' Raajugaarini Tappakundaa Aashcharyaparustundi! Ani Tanalo Taanu Anukuntu, Atanu Tana Srrishtini Jaagrattagaa Oka Kattagaa Kattaadu, Raaja Sabhaku Tisukelladaaniki Siddhangaa.",
+      "text_en": "The next day, Tenali stayed home all day, engrossed in his work as if nothing else mattered. He hummed a soft tune and carefully cut the black cloths. The soft, satisfying snip of the scissors was quietly heard. He carefully cut each piece — as if a great secret was hidden within! \"This 'shadow play' will surely surprise the King!\" he thought to himself, and carefully bundled his creation, ready to take it to the royal court."
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి రోజు, తెనాలి ఒక పెద్ద వస్తువును కప్పి, రాజ సభలోకి తీసుకొచ్చాడు — అందరి చూపులు అతని మీదే నిలిచాయి. అతను నిటారుగా నిలబడి, కళ్ళల్లో సవాలును నింపుకున్నాడు. ఆ పెద్ద వస్తువు మీద కప్పిన వస్త్రాన్ని తొలగించగానే — సభలో ఒక్కసారిగా నిశ్శబ్దం! కోర్టులో ఉన్నవారంతా ఒక్కసారిగా ఆశ్చర్యంతో గట్టిగా గొంతు చించుకున్నారు. \"అది కేవలం నల్లటి గుడ్డ ముక్కలు కదా, రాముడా?\" అని రాజుగారు అయోమయంగా అడిగారు. రాజుగారి ముఖంలో ప్రశ్నార్థకం స్పష్టంగా కనిపించింది, తెనాలి నుండి వివరణ కోరారు.",
+      "image_prompt": "The wise man stands tall in the royal court, revealing a pile of black cloth by removing a covering. The king looks at the wise man with a clear question mark on his face, seeking an explanation for the simple fabric. Bright, theatrical lighting in the Durbar Hall, with spotlights (implied by high windows or specific light sources) on Tenali and his 'display', creating a sense of performance and high stakes.",
+      "scene_visual": "The wise man stands tall in the royal court, revealing a pile of black cloth by removing a covering. The king looks at the wise man with a clear question mark on his face, seeking an explanation for the simple fabric.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Marusati Roju, Tenaali Oka Pedda Vastuvunu Kappi, Raaja Sabhaloki Tisukochchaadu — Andari Chupulu Atani Mide Nilichaayi. Atanu Nitaarugaa Nilabadi, Kallallo Savaalunu Nimpukunnaadu. Aa Pedda Vastuvu Mida Kappina Vastraanni Tolaginchagaane — Sabhalo Okkasaarigaa Nishshabdan! Kortulo Unnavaarantaa Okkasaarigaa Aashcharyanto Gattigaa Gontu Chinchukunnaaru. \"Adi Kevalam Nallati Gudda Mukkalu Kadaa, Raamudaa?\" Ani Raajugaaru Ayomayangaa Adigaaru. Raajugaari Mukhanlo Prashnaarthakam Spashtangaa Kanipinchindi, Tenaali Nundi Vivarana Koraaru.",
+      "text_en": "The next day, Tenali brought a large object, covered, into the royal court. Everyone's eyes were fixed on him. He stood tall, with the challenge shining in his eyes. As soon as he removed the cloth covering the large object — silence fell upon the assembly! Everyone in the court gasped in surprise. \"Aren't those just pieces of black cloth, Ramuda?\" the King asked, confused. A clear question mark was visible on the King's face; he sought an explanation from Tenali."
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి చిరునవ్వు నవ్వుతూ, తన చేతులను వెనక్కి కట్టుకుని, రాజుగారికి వివరించడం మొదలుపెట్టాడు. \"మహారాజా, నీడలు అంటే కేవలం వెలుతురు లేని ప్రదేశాలు కదా?\" అని అడిగాడు. \"నేను ఈ నల్లటి గుడ్డ ముక్కలను ఇవ్వడం ద్వారా, ఆ 'లేమి'ని, అంటే నీడలను, సృష్టించి, వాటి ఆకారాన్ని పట్టుకున్నాను!\" అని చెప్పాడు. రాజుగారు పగలబడి నవ్వారు — నిజంగానే అది అద్భుతమైన ఆలోచన! \"నిజంగానే! నీడలను పట్టుకోవడం అంటే వాటి ఆకారాన్ని పట్టుకోవడమే కదా!\" అని కేకలు వేశారు. ఆ సభ అంతా తెనాలి తెలివిని మెచ్చుకుంటూ చప్పట్లతో మార్మోగిపోయింది.",
+      "image_prompt": "The king bursts into laughter, realizing the brilliance of the wise man's solution. The entire court erupts in applause, their hands clapping loudly in admiration for the wise man's cleverness. Gentle dusk light filtering through the high windows of the Durbar Hall, casting soft, warm hues, signifying a peaceful and clever resolution.",
+      "scene_visual": "The king bursts into laughter, realizing the brilliance of the wise man's solution. The entire court erupts in applause, their hands clapping loudly in admiration for the wise man's cleverness.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Tenaali Chirunavvu Navvutu, Tana Chetulanu Venakki Kattukuni, Raajugaariki Vivarinchadam Modalupettaadu. \"Mahaaraajaa, Nidalu Ante Kevalam Veluturu Leni Pradeshaalu Kadaa?\" Ani Adigaadu. \"Nenu I Nallati Gudda Mukkalanu Ivvadam Dvaaraa, Aa 'Lemi'Ni, Ante Nidalanu, Srrishtinchi, Vaati Aakaaraanni Pattukunnaanu!\" Ani Cheppaadu. Raajugaaru Pagalabadi Navvaaru — Nijangaane Adi Adbhutamaina Aalochana! \"Nijangaane! Nidalanu Pattukovadam Ante Vaati Aakaaraanni Pattukovadame Kadaa!\" Ani Kekalu Veshaaru. Aa Sabha Antaa Tenaali Telivini Mechchukuntu Chappatlato Maarmogipoyindi.",
+      "text_en": "Tenali smiled, clasped his hands behind his back, and began to explain to the King. \"Your Majesty, aren't shadows simply places where there is no light?\" he asked. \"By giving you these pieces of black cloth, I have created that 'absence' — the shadows — and captured their form!\" he explained. The King burst out laughing — it truly was a brilliant idea! \"Indeed! Catching shadows means capturing their form, doesn't it!\" he exclaimed. The entire assembly echoed with applause, praising Tenali's cleverness."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king_krishnadevaraya",
+      "description": "The benevolent and wise Emperor of Vijayanagara, often amused by Tenali's antics. He is stately, with a regal beard, adorned in rich silks and gold jewelry. Always the same character across every scene."
+    },
+    {
+      "key": "courtier",
+      "description": "A slightly pompous and less intelligent courtier, often jealous of Tenali. He is portly, with a neatly oiled mustache, dressed in bright, contrasting silks. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is a delightful and engaging read, particularly strong in its authentic grandmotherly voice and effective emotional portrayal. The narrative arc is well-structured, building tension and resolving it satisfyingly. The most significant area for improvement is dialogue richness; incorporating more direct speech, especially in scenes 3 and 5, would further enhance character distinctiveness and make the story feel more dynamic and less like a narrated report. Adding a few more lines of character-specific dialogue would elevate this to an award-worthy piece."
+  },
+  "title_te_en": "Tenaali Telivi, Nidala Naatakam",
+  "moral_te_en": "Chudandi Pillalu, Enta Pedda Samasya Ayinaa Sare, Manam Kottagaa Aalochiste, Parishkaaram Dorukutundi.",
+  "title_en": "Tenali's Wit, The Shadow Play",
+  "moral_en": "Look, children, no matter how big a problem is, if we think creatively, we will find a solution.",
+  "id": "20260604_171327",
+  "date": "2026-06-04",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు 'నీడల నాటకం' చిక్కు",
+  "thumbnail": "stories/20260604_171327/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
