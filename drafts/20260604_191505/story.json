@@ -1,0 +1,133 @@
+{
+  "title": "పగిలిన వంతెన, తెలివైన లత",
+  "moral": "చిన్నారి లత చూపినట్లు, మనలో ఉన్న తెలివి, మంచి మనసు ఉంటే — ఎలాంటి పెద్ద సమస్యలనైనా చిన్న పరిష్కారాలతో దాటవచ్చు కదూ?",
+  "main_character": "Latha is an eight-year-old girl, small for her age with bright, curious eyes that miss nothing. She often wears a simple blue and white striped dress, always clean despite her love for exploring. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A picturesque village nestled by a gentle river in rural Andhra Pradesh, with mud-brick houses and lush green fields. A sturdy wooden bridge connects the two sides of the village, and a large banyan tree stands proudly near the riverbank. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నది ఒడ్డున లత కూర్చుని, తన చిన్న కాళ్ళను నీళ్ళలో ఆడిస్తూ, చేపలు కింద నుండి ఎలా వెళ్తున్నాయో చూసింది. ఆమె ముఖం మీద ఒక చిరునవ్వు మెరిసింది — ఆమె కళ్ళల్లో ఒక రకమైన ప్రశాంతత కనిపించింది. వంతెన చెక్కల మధ్య నుండి ప్రవహించే నీటి గలగల చప్పుడు వింటూ, ఆమె తనలో తాను అనుకుంది, \"ఈ నది ఎంత ప్రశాంతంగా ఉందో!\" అప్పుడు, పాత వంతెన పలక నుండి ఒక చిన్న పుల్ల ఊడి — నీటిలో తేలిపోయింది. అది చిన్నదే కానీ, వంతెన పాతబడిందని చెప్పినట్లు ఉంది.",
+      "image_prompt": "The girl sits by the river, dangling her small feet in the water as she watches fish below. A small stick detaches from an old bridge plank and floats away on the water. Bright morning sun, golden light filtering through the leaves of nearby trees onto the wooden bridge.",
+      "scene_visual": "The girl sits by the river, dangling her small feet in the water as she watches fish below. A small stick detaches from an old bridge plank and floats away on the water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nadi Odduna Lata Kurchuni, Tana Chinna Kaallanu Nillalo Aadistu, Chepalu Kinda Nundi Elaa Veltunnaayo Chusindi. Aame Mukham Mida Oka Chirunavvu Merisindi — Aame Kallallo Oka Rakamaina Prashaantata Kanipinchindi. Vantena Chekkala Madhya Nundi Pravahinche Niti Galagala Chappudu Vintu, Aame Tanalo Taanu Anukundi, \"I Nadi Enta Prashaantangaa Undo!\" Appudu, Paata Vantena Palaka Nundi Oka Chinna Pulla Udi — Nitilo Telipoyindi. Adi Chinnade Kaani, Vantena Paatabadindani Cheppinatlu Undi.",
+      "text_en": "Latha sat on the river bank, dangling her little feet in the water, watching the fish swim underneath. A gentle smile lit up her face, and a peaceful calm shone in her eyes. Listening to the gurgling sound of water flowing between the bridge planks, she thought to herself, \"How peaceful this river is!\" Just then, a small stick broke off from an old bridge plank and floated away in the water. It was tiny, but it seemed to whisper that the bridge was very old."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మరుసటి రోజు లత వంతెన దగ్గర ఆడుకుంటుండగా, ఒక ప్రధానమైన చెక్క పలక మీద చిన్న పగులు ఆమె కంటపడింది. ఆమె వేళ్ళు జాగ్రత్తగా ఆ పగులు మీద పెట్టింది — ఆ పాత చెక్క గరుకుదనం ఆమెకు స్పష్టంగా తెలిసింది. ఆమె నుదురు ముడిపడింది, పగులును చూస్తూ, \"అయ్యో, ఈ పగులు పెద్దదవుతుందేమో?\" అని అంది. ఇంతలో, ఇతర పిల్లలు నవ్వుకుంటూ అదే పలక మీద నుండి పరిగెత్తారు, వారికి ఆ ప్రమాదం కనిపించనే లేదు. లత వారిని చూస్తూ నిలబడిపోయింది — ఆమెకు అడుగు ముందుకు పడలేదు.",
+      "image_prompt": "The girl carefully places her fingers on a small crack in a main wooden plank of the bridge. Her brow is furrowed with concern as she feels the rough texture of the old wood. Mid-morning light, bright and clear, but a subtle shadow falls across the crack Latha is observing.",
+      "scene_visual": "The girl carefully places her fingers on a small crack in a main wooden plank of the bridge. Her brow is furrowed with concern as she feels the rough texture of the old wood.",
+      "supporting_char_keys": [
+        "village_children"
+      ],
+      "text_te_en": "Aa Marusati Roju Lata Vantena Daggara Aadukuntundagaa, Oka Pradhaanamaina Chekka Palaka Mida Chinna Pagulu Aame Kantapadindi. Aame Vellu Jaagrattagaa Aa Pagulu Mida Pettindi — Aa Paata Chekka Garukudanam Aameku Spashtangaa Telisindi. Aame Nuduru Mudipadindi, Pagulunu Chustu, \"Ayyo, I Pagulu Peddadavutundemo?\" Ani Andi. Intalo, Itara Pillalu Navvukuntu Ade Palaka Mida Nundi Parigettaaru, Vaariki Aa Pramaadam Kanipinchane Ledu. Lata Vaarini Chustu Nilabadipoyindi — Aameku Adugu Munduku Padaledu.",
+      "text_en": "The very next day, while Latha was playing near the bridge, a small crack on an important wooden plank caught her eye. She carefully placed her fingers on the crack, feeling the rough, old wood. Her brow furrowed as she looked at it, saying, \"Oh no, what if this crack gets bigger?\" Just then, other children ran laughing right over the same plank, not noticing the danger at all. Latha stood watching them, unable to move a single step."
+    },
+    {
+      "id": 3,
+      "text": "మరుసటి ఉదయం, లత పరిగెత్తుకుంటూ నది దగ్గరకు వచ్చింది. ఆమె కళ్ళ ముందు — వంతెన ఒక పెద్ద భాగం నదిలోకి కూలిపోయింది. \"అమ్మో! వంతెన పగిలిపోయింది!\" అని ఆమె నోటి నుండి ఒక కేక వచ్చింది. విరిగిన భాగం నుండి నీరు ఘోరంగా గలగలమని ప్రవహిస్తూ, నది మరింత కోపంగా కనిపించింది. గ్రామస్తులు ఒక్కొక్కరుగా గుమిగూడారు — వారి చేతులు పిసికారు, ఒకరి ముఖాలు ఒకరు చూసుకున్నారు.",
+      "image_prompt": "The girl runs to the river and watches as a large section of the bridge collapses into the water before her eyes. Water violently gushes from the broken part, making the river appear furious. Early morning, soft diffuse light, but the scene is visually stark with the gaping hole in the bridge.",
+      "scene_visual": "The girl runs to the river and watches as a large section of the bridge collapses into the water before her eyes. Water violently gushes from the broken part, making the river appear furious.",
+      "supporting_char_keys": [
+        "old_man",
+        "village_children"
+      ],
+      "text_te_en": "Marusati Udayan, Lata Parigettukuntu Nadi Daggaraku Vachchindi. Aame Kalla Mundu — Vantena Oka Pedda Bhaagam Nadiloki Kulipoyindi. \"Ammo! Vantena Pagilipoyindi!\" Ani Aame Noti Nundi Oka Keka Vachchindi. Virigina Bhaagam Nundi Niru Ghorangaa Galagalamani Pravahistu, Nadi Marinta Kopangaa Kanipinchindi. Graamastulu Okkokkarugaa Gumigudaaru — Vaari Chetulu Pisikaaru, Okari Mukhaalu Okaru Chusukunnaaru.",
+      "text_en": "The very next morning, Latha ran to the river. Right before her eyes, a large part of the bridge had collapsed into the river! \"Oh no! The bridge is broken!\" a cry escaped her lips. Water gurgled terribly from the broken part, making the river look even angrier. Villagers gathered one by one, wringing their hands and looking at each other's worried faces."
+    },
+    {
+      "id": 4,
+      "text": "గ్రామ పెద్దలు, ఇతర పెద్దలు వంతెన దగ్గర గుమిగూడి, సమస్య గురించి మాట్లాడుకోవడం మొదలుపెట్టారు. వారి గొంతులు నిరాశగా వినిపించాయి, మధ్యలో నిట్టూర్పులు తరచుగా వచ్చాయి. \"ఇంత పెద్ద పగులును ఎలా సరిచేయగలం?\" అని ఒక పెద్దాయన చేతులు పిసికి, నిస్సహాయంగా అడిగాడు. లత పక్కన నిలబడి, వారి ముఖాల్లోని కంగారును గమనిస్తోంది. అప్పుడే, ఆమె కళ్ళు నది ఒడ్డున పారేసిన దట్టమైన, బలమైన తీగల కుప్ప మీద పడ్డాయి.",
+      "image_prompt": "The girl stands beside the gathered village elders, observing the worry on their faces as they discuss the broken bridge. Her eyes then fall upon a discarded pile of thick, strong ropes lying on the riverbank. Overcast mid-morning, soft and even light, highlighting the worried expressions on the villagers' faces.",
+      "scene_visual": "The girl stands beside the gathered village elders, observing the worry on their faces as they discuss the broken bridge. Her eyes then fall upon a discarded pile of thick, strong ropes lying on the riverbank.",
+      "supporting_char_keys": [
+        "old_man"
+      ],
+      "text_te_en": "Graama Peddalu, Itara Peddalu Vantena Daggara Gumigudi, Samasya Gurinchi Maatlaadukovadam Modalupettaaru. Vaari Gontulu Niraashagaa Vinipinchaayi, Madhyalo Nitturpulu Tarachugaa Vachchaayi. \"Inta Pedda Pagulunu Elaa Saricheyagalan?\" Ani Oka Peddaayana Chetulu Pisiki, Nissahaayangaa Adigaadu. Lata Pakkana Nilabadi, Vaari Mukhaalloni Kangaarunu Gamanistondi. Appude, Aame Kallu Nadi Odduna Paaresina Dattamaina, Balamaina Tigala Kuppa Mida Paddaayi.",
+      "text_en": "The village elders and other adults gathered near the bridge, starting to talk about the big problem. Their voices sounded full of despair, and sighs came often. \"How can we fix such a huge break?\" an old man asked helplessly, wringing his hands. Latha stood nearby, watching the worry on all their faces. Just then, her eyes fell upon a pile of thick, strong vines that had been discarded on the river bank."
+    },
+    {
+      "id": 5,
+      "text": "లత ఆ తీగల దగ్గరకు వెళ్ళి, వాటిని విరిగిన వంతెన వైపు లాగడం మొదలుపెట్టింది. అవి ఆమె చేతులకు గీరుకుపోయాయి, చాలా గరుకుగా అనిపించాయి. ఆమె చిన్న కండరాలు వణికాయి, ఎంత ప్రయత్నించినా ఆ తీగలు కదలలేదు. \"ఇది చాలా బరువుగా ఉంది, నేను ఒక్కదాన్నే చేయలేను.\" అని ఆమె నిరాశగా అంది. ఇంతలో, తాతయ్య ఆమె కష్టాన్ని గమనించి — ఒక ఆలోచనగా ఆమె వైపు వచ్చాడు.",
+      "image_prompt": "The girl attempts to drag the heavy ropes towards the broken bridge, her small muscles trembling with effort. The rough ropes scratch her hands, and despite her struggle, they remain unmoving. Afternoon sun, slightly hazy, casting long shadows as Latha struggles with the vines.",
+      "scene_visual": "The girl attempts to drag the heavy ropes towards the broken bridge, her small muscles trembling with effort. The rough ropes scratch her hands, and despite her struggle, they remain unmoving.",
+      "supporting_char_keys": [
+        "old_man"
+      ],
+      "text_te_en": "Lata Aa Tigala Daggaraku Velli, Vaatini Virigina Vantena Vaipu Laagadam Modalupettindi. Avi Aame Chetulaku Girukupoyaayi, Chaalaa Garukugaa Anipinchaayi. Aame Chinna Kandaraalu Vanikaayi, Enta Prayatninchinaa Aa Tigalu Kadalaledu. \"Idi Chaalaa Baruvugaa Undi, Nenu Okkadaanne Cheyalenu.\" Ani Aame Niraashagaa Andi. Intalo, Taatayya Aame Kashtaanni Gamaninchi — Oka Aalochanagaa Aame Vaipu Vachchaadu.",
+      "text_en": "Latha went to the vines and started pulling them towards the broken bridge. They scratched her hands and felt very rough. Her small muscles trembled, and no matter how hard she tried, the vines wouldn't move. \"This is too heavy, I can't do it alone,\" she said, feeling a little sad. Just then, Thathayya noticed her struggle and came towards her with a thoughtful look."
+    },
+    {
+      "id": 6,
+      "text": "తాతయ్య లత పక్కన కూర్చుని, ఆమె భుజం తట్టాడు. \"బలం మాత్రమే కాదు, తెలివి కూడా చాలా ముఖ్యం, లతా.\" అని ఆయన మెల్లగా చెప్పాడు. ఆ మాటలు వింటూ, లత నది ఒడ్డున మట్టి వాసనను పీల్చుకుంది, దూరం నుండి పూల సువాసన ఆమె మనసును తేలికపరిచింది. ఆమె తాతయ్య వైపు చూసింది — ఆమె కళ్ళల్లో ఒక కొత్త ఆలోచన మెరిసింది. అప్పుడు, ఆమె కళ్ళు ఒక్కసారిగా నదికి ఇరువైపులా ఉన్న బలమైన చెట్ల వైపు మెరిశాయి.",
+      "image_prompt": "The girl looks at the old man sitting beside her, then her eyes suddenly light up as she gazes towards the strong trees on both sides of the river. A new idea sparkles in her eyes, reflecting the wisdom shared by the old man. Late afternoon, warm golden light, soft and inviting, highlighting the thoughtful exchange between Latha and Thathayya.",
+      "scene_visual": "The girl looks at the old man sitting beside her, then her eyes suddenly light up as she gazes towards the strong trees on both sides of the river. A new idea sparkles in her eyes, reflecting the wisdom shared by the old man.",
+      "supporting_char_keys": [
+        "old_man"
+      ],
+      "text_te_en": "Taatayya Lata Pakkana Kurchuni, Aame Bhujam Tattaadu. \"Balam Maatrame Kaadu, Telivi Kudaa Chaalaa Mukhyan, Lataa.\" Ani Aayana Mellagaa Cheppaadu. Aa Maatalu Vintu, Lata Nadi Odduna Matti Vaasananu Pilchukundi, Duram Nundi Pula Suvaasana Aame Manasunu Telikaparichindi. Aame Taatayya Vaipu Chusindi — Aame Kallallo Oka Kotta Aalochana Merisindi. Appudu, Aame Kallu Okkasaarigaa Nadiki Iruvaipulaa Unna Balamaina Chetla Vaipu Merishaayi.",
+      "text_en": "Thathayya sat next to Latha and gently patted her shoulder. \"It's not just about strength, Latha, cleverness is very important too,\" he said softly. As she listened, Latha breathed in the earthy smell of the river bank, and the sweet scent of distant flowers lightened her heart. She looked at Thathayya, and a new idea sparkled in her eyes. Then, her gaze suddenly brightened as she looked at the strong trees on both sides of the river."
+    },
+    {
+      "id": 7,
+      "text": "లత గ్రామస్తుల గుంపు దగ్గరకు వెళ్ళి, అందరి వైపు చూసింది. ఆమె చిన్నగా ఉన్నా, ఆమె గొంతు స్పష్టంగా వినిపించింది, ఆమె నిటారుగా నిలబడింది. \"మనం వంతెనను కట్టలేకపోవచ్చు, కానీ ఈ తీగలతో సురక్షితమైన దారి చేయగలం!\" అని ఆమె ధైర్యంగా చెప్పింది. ఆమె మాటలు వింటూ, గ్రామస్తులు ఒక్కసారిగా ఊపిరి పీల్చుకున్నారు — వారి కళ్ళల్లో ఆశ్చర్యం కనిపించింది. మొదట వారికి సందేహం వచ్చినా, ఆమె తెలివైన ఆలోచనను విని, మెల్లగా తల ఊపడం మొదలుపెట్టారు.",
+      "image_prompt": "The girl stands tall and addresses the group of villagers, her small figure commanding attention. The villagers' eyes show surprise as they listen to her confident voice proposing a solution. Evening light, soft and diffused, with a warm glow on Latha's face as she speaks.",
+      "scene_visual": "The girl stands tall and addresses the group of villagers, her small figure commanding attention. The villagers' eyes show surprise as they listen to her confident voice proposing a solution.",
+      "supporting_char_keys": [
+        "old_man",
+        "village_children"
+      ],
+      "text_te_en": "Lata Graamastula Gumpu Daggaraku Velli, Andari Vaipu Chusindi. Aame Chinnagaa Unnaa, Aame Gontu Spashtangaa Vinipinchindi, Aame Nitaarugaa Nilabadindi. \"Manam Vantenanu Kattalekapovachchu, Kaani I Tigalato Surakshitamaina Daari Cheyagalan!\" Ani Aame Dhairyangaa Cheppindi. Aame Maatalu Vintu, Graamastulu Okkasaarigaa Upiri Pilchukunnaaru — Vaari Kallallo Aashcharyam Kanipinchindi. Modata Vaariki Sandeham Vachchinaa, Aame Telivaina Aalochananu Vini, Mellagaa Tala Upadam Modalupettaaru.",
+      "text_en": "Latha walked over to the group of villagers and looked at everyone. Even though she was small, her voice was clear, and she stood tall. \"We might not be able to build a new bridge right now, but we can make a safe path with these vines!\" she said bravely. Listening to her words, the villagers gasped, and surprise filled their eyes. At first, they were doubtful, but after hearing her clever idea, they slowly started nodding their heads."
+    },
+    {
+      "id": 8,
+      "text": "లత ఆలోచనను, తాతయ్య అనుభవాన్ని కలిపి, గ్రామస్తులు కలిసి పని చేయడం మొదలుపెట్టారు. వారు బలంగా ఉన్న తీగలను, కొమ్మలను అల్లి, నదికి అడ్డంగా ఒక తాత్కాలిక వంతెనను నిర్మించారు. \"చూడండి! లత ఎంత తెలివైనదో!\" అని ఒక పిల్లవాడు ఆనందంగా అన్నాడు. మొదటి పిల్లవాడు జాగ్రత్తగా వంతెన మీద అడుగు పెట్టగానే — గట్టిగా అల్లిన తీగలు కిర్రుమని శబ్దం చేశాయి. పిల్లలు సురక్షితంగా నదిని దాటుతుంటే, లత ముఖం మీద ఒక పెద్ద చిరునవ్వు మెరిసింది, వూరంతా ఆమెను చూసి గర్వపడింది.",
+      "image_prompt": "The first child carefully steps onto the tightly woven rope bridge, which creaks underfoot. A wide smile spreads across the girl's face as she watches the children safely cross the river. Gentle dusk light, warm amber, peaceful and collaborative, highlighting the community working together.",
+      "scene_visual": "The first child carefully steps onto the tightly woven rope bridge, which creaks underfoot. A wide smile spreads across the girl's face as she watches the children safely cross the river.",
+      "supporting_char_keys": [
+        "old_man",
+        "village_children"
+      ],
+      "text_te_en": "Lata Aalochananu, Taatayya Anubhavaanni Kalipi, Graamastulu Kalisi Pani Cheyadam Modalupettaaru. Vaaru Balangaa Unna Tigalanu, Kommalanu Alli, Nadiki Addangaa Oka Taatkaalika Vantenanu Nirminchaaru. \"Chudandi! Lata Enta Telivainado!\" Ani Oka Pillavaadu Aanandangaa Annaadu. Modati Pillavaadu Jaagrattagaa Vantena Mida Adugu Pettagaane — Gattigaa Allina Tigalu Kirrumani Shabdam Cheshaayi. Pillalu Surakshitangaa Nadini Daatutunte, Lata Mukham Mida Oka Pedda Chirunavvu Merisindi, Vurantaa Aamenu Chusi Garvapadindi.",
+      "text_en": "Combining Latha's clever idea with Thathayya's experience, the villagers started working together. They wove strong vines and branches to build a temporary bridge across the river. \"Look! How clever Latha is!\" a child exclaimed happily. As the first child carefully stepped onto the bridge, the tightly woven vines creaked softly. As the children safely crossed the river, a big smile shone on Latha's face, and the whole village felt very proud of her."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "old_man",
+      "description": "Thathayya is an old man with a long, white beard and kind, crinkled eyes, always carrying a sturdy wooden walking stick. He wears a traditional white dhoti and a light brown kurta. Always the same character across every scene."
+    },
+    {
+      "key": "village_children",
+      "description": "A small group of village children, ranging from 6-10 years old, dressed in simple, brightly colored clothes, full of energy and playfulness. Always the same characters across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and excellent, character-specific dialogue that truly advances the plot. The grammar is flawless and natural, making it a joy to read. To elevate it further, the author should refine a few slightly formal narrative phrases to enhance the oral warmth and ensure all emotions are consistently shown through action rather than stated directly."
+  },
+  "title_te_en": "Pagilina Vantena, Telivaina Lata",
+  "moral_te_en": "Chinnaari Lata Chupinatlu, Manalo Unna Telivi, Manchi Manasu Unte — Elaanti Pedda Samasyalanainaa Chinna Parishkaaraalato Daatavachchu Kadu?",
+  "title_en": "The Broken Bridge, Clever Latha",
+  "moral_en": "Just like little Latha showed, if we use our cleverness and have a kind heart, we can solve even the biggest problems with simple solutions, can't we?",
+  "id": "20260604_191505",
+  "date": "2026-06-04",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "పగిలిన వంతెన మరియు తెలివైన బాలిక",
+  "thumbnail": "stories/20260604_191505/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
