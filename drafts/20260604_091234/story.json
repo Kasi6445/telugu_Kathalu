@@ -1,0 +1,107 @@
+{
+  "title": "రహస్య ఊట, మూగ జీవాల మాట",
+  "moral": "కొన్నిసార్లు నీ ప్రత్యేక శక్తి, అందరికంటే భిన్నంగా ఉన్నా, ఇతరులకు సహాయం చేయడానికి సరిగ్గా సరిపోతుంది.",
+  "main_character": "Raju, a lean, sprightly 8-year-old boy with bright, curious eyes and perpetually dusty knees. He is unusually quiet around people but finds solace and expressiveness in the company of animals. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, traditional Telugu village named 'పల్లెపల్లి' (Pallepalli) nestled beside a gently flowing river and surrounded by lush green fields. The village features mud-brick houses with thatched roofs, a central banyan tree, and a communal well. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లెపల్లిలో రాజు, ఎప్పుడూ తన చిట్టి స్నేహితులైన జంతువులతోనే ఆడుకునేవాడు; వాళ్ళు తనను అర్థం చేసుకుంటారని వాడి నమ్మకం. రోజూలాగే, తన సగం భోజనం పట్టుకుని, వాగు ఒడ్డున కూర్చుని వాటికి పంచసాగాడు — తన పెదవుల మీద చిరునవ్వు చెదరలేదు. వాగు ఒడ్డున తడి మట్టి వాసన, వాడికి ఎంతో ఇష్టం. \"తిను, నా స్నేహితులారా, ఈరోజు కూడా మీకు ఆకలిగా ఉందా?\" అంటూ, వాటి తల నిమిరాడు. అప్పుడు, వాడి కళ్ళు వాగు పైకి వెళ్లాయి — దూరం నుండి ఒక మెరిసే కాంతి వాడిని పిలుస్తున్నట్టు అనిపించింది.",
+      "image_prompt": "The boy sits by the stream bank, holding his half-eaten meal and sharing it with the animals. His eyes then lift towards the stream, drawn by a distant shimmering light. Late morning sun, dappled golden light filtering through dense mango leaves, creating soft shadows on the stream bank.",
+      "scene_visual": "The boy sits by the stream bank, holding his half-eaten meal and sharing it with the animals. His eyes then lift towards the stream, drawn by a distant shimmering light.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pallepallilo Raaju, Eppudu Tana Chitti Snehitulaina Jantuvulatone Aadukunevaadu; Vaallu Tananu Artham Chesukuntaarani Vaadi Nammakan. Rojulaage, Tana Sagam Bhojanam Pattukuni, Vaagu Odduna Kurchuni Vaatiki Panchasaagaadu — Tana Pedavula Mida Chirunavvu Chedaraledu. Vaagu Odduna Tadi Matti Vaasana, Vaadiki Ento Ishtan. \"Tinu, Naa Snehitulaaraa, Iroju Kudaa Miku Aakaligaa Undaa?\" Antu, Vaati Tala Nimiraadu. Appudu, Vaadi Kallu Vaagu Paiki Vellaayi — Duram Nundi Oka Merise Kaanti Vaadini Pilustunnattu Anipinchindi.",
+      "text_en": "In Pallepalli, Raju always played with his little animal friends; he believed they understood him. Just like every day, he took half of his meal, sat by the stream, and started sharing it with them — a smile never left his lips. He loved the smell of the wet earth by the stream. \"Eat, my friends, are you hungry today too?\" he said, stroking their heads. Then, his eyes went to the stream — a shimmering light from a distance seemed to be calling him."
+    },
+    {
+      "id": 2,
+      "text": "ఆ కాంతిని అనుసరిస్తూ, రాజు కొద్దిదూరం వెళ్ళాడు; అక్కడ ఒక చిన్న ఊట, అది వెలుగుతూ కనిపించింది. వాడి మనసులో ఏదో తెలియని ఆశ్చర్యం. ఆ ఊట నీళ్ళు తాగగానే — ఆ చల్లని, తీయని రుచి వాడికి కొత్త లోకాన్ని చూపించింది. అప్పుడే ఒక ఆవు దగ్గరగా వచ్చి, వాడి వైపు చూసి, \"అయ్యో, మాకు తాగడానికి నీళ్లు లేవు, బావిలో నీళ్లు ఇంకిపోతున్నాయి!\" అన్న మాటలు వాడికి స్పష్టంగా వినిపించాయి. వాడి కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి. ఇంతలో ఒక కుక్క చిన్నగా మూలుగుతూ, \"పెద్ద, గట్టి వస్తువు\" నీటిని అడ్డుకుంటుందని వాడి చెవిలో చెప్పింది.",
+      "image_prompt": "The boy drinks from a small, glowing spring, then turns his head as a cow approaches him. His eyes widen in surprise as he hears the cow speak, followed by a dog whispering in his ear. A secluded, mossy alcove, bathed in an ethereal, soft blue-white glow emanating from the spring itself, casting long shadows.",
+      "scene_visual": "The boy drinks from a small, glowing spring, then turns his head as a cow approaches him. His eyes widen in surprise as he hears the cow speak, followed by a dog whispering in his ear.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kaantini Anusaristu, Raaju Koddiduram Vellaadu; Akkada Oka Chinna Uta, Adi Velugutu Kanipinchindi. Vaadi Manasulo Edo Teliyani Aashcharyan. Aa Uta Nillu Taagagaane — Aa Challani, Tiyani Ruchi Vaadiki Kotta Lokaanni Chupinchindi. Appude Oka Aavu Daggaragaa Vachchi, Vaadi Vaipu Chusi, \"Ayyo, Maaku Taagadaaniki Nillu Levu, Baavilo Nillu Inkipotunnaayi!\" Anna Maatalu Vaadiki Spashtangaa Vinipinchaayi. Vaadi Kallu Aashcharyanto Peddavayyaayi. Intalo Oka Kukka Chinnagaa Mulugutu, \"Pedda, Gatti Vastuvu\" Nitini Addukuntundani Vaadi Chevilo Cheppindi.",
+      "text_en": "Following that light, Raju walked a short distance; there he saw a small spring, glowing. An unknown wonder filled his mind. As soon as he drank the spring water — its cool, sweet taste showed him a new world. Just then, a cow came near, looked at him, and said, \"Oh no, we have no water to drink, the well is drying up!\" Raju heard these words clearly. His eyes widened in surprise. Meanwhile, a dog whimpered softly and whispered in his ear that a \"big, hard object\" was blocking the water."
+    },
+    {
+      "id": 3,
+      "text": "ఆశ్చర్యంతో ఇంటికి పరిగెత్తుకుంటూ వెళ్ళిన రాజు, తన తల్లి దగ్గరకు చేరుకున్నాడు. \"అమ్మా, ఆవులు మాట్లాడుతున్నాయి! బావిలో నీళ్లు లేవని చెప్పాయి!\" అంటూ ఊపిరి తీసుకోకుండా చెప్పాడు. వంటింట్లో కుండల చప్పుడు చేసుకుంటూ పనిలో ఉన్న ఆమె, వాడి మాటలు విని తల అడ్డంగా ఊపింది. వాడి భుజాలు ఒక్కసారిగా కిందకి జారిపోయాయి — తనను ఎవరూ నమ్మడం లేదని వాడికి అర్థమైంది. అప్పుడు, కిటికీ దగ్గర నిలబడి ఉన్న కొన్ని పిచ్చుకలు, \"పెద్ద రాయి! పెద్ద రాయి!\" అంటూ నీటి మూలం దగ్గర ఏదో ఉందని అరుస్తున్నట్టు వాడికి వినిపించింది.",
+      "image_prompt": "The boy runs home and breathlessly tells his mother about the talking animals. His shoulders slump in disappointment as his mother, busy with pots in the kitchen, shakes her head in disbelief. The warm, golden interior of a humble village kitchen, sunlight streaming through a small window, highlighting dust motes in the air.",
+      "scene_visual": "The boy runs home and breathlessly tells his mother about the talking animals. His shoulders slump in disappointment as his mother, busy with pots in the kitchen, shakes her head in disbelief.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aashcharyanto Intiki Parigettukuntu Vellina Raaju, Tana Talli Daggaraku Cherukunnaadu. \"Ammaa, Aavulu Maatlaadutunnaayi! Baavilo Nillu Levani Cheppaayi!\" Antu Upiri Tisukokundaa Cheppaadu. Vantintlo Kundala Chappudu Chesukuntu Panilo Unna Aame, Vaadi Maatalu Vini Tala Addangaa Upindi. Vaadi Bhujaalu Okkasaarigaa Kindaki Jaaripoyaayi — Tananu Evaru Nammadam Ledani Vaadiki Arthamaindi. Appudu, Kitiki Daggara Nilabadi Unna Konni Pichchukalu, \"Pedda Raayi! Pedda Raayi!\" Antu Niti Mulam Daggara Edo Undani Arustunnattu Vaadiki Vinipinchindi.",
+      "text_en": "Raju, running home in surprise, reached his mother. \"Mom, the cows are talking! They said there's no water in the well!\" he blurted out without taking a breath. She, busy in the kitchen with the clatter of pots, shook her head when she heard his words. His shoulders slumped instantly — he understood that no one believed him. Then, some sparrows standing by the window seemed to be chirping, \"Big rock! Big rock!\" as if something was at the water source."
+    },
+    {
+      "id": 4,
+      "text": "పిచ్చుకల గుసగుసలు వింటూ, రాజు మళ్ళీ బావి దగ్గరకు చేరాడు. బావి నీటి మూలాన్ని వెతుకుతూ, చేతితో చల్లని, తడిసిన రాళ్ళను తడుముతూ, ఒక చిన్న రాయిని పక్కకు జరిపాడు. \"ఇది కాదు, ఇది కాదు... ఇంకా పెద్దది ఏదో ఉంది\" అని మనసులో అనుకున్నాడు. నీటి ప్రవాహం కొంచెం కూడా మారకపోవడంతో వాడికి నిరాశ కలిగింది. వాడి నుదురు చిట్లించింది. అప్పుడు, ఎక్కడి నుంచో, ఎన్నో జంతువుల స్వరాలు స్పష్టంగా వినిపించాయి — పెద్ద, కదపలేని బండరాయి గురించి, మనుషులకు అందనంత దూరాన ఉందని అవి చెప్పాయి.",
+      "image_prompt": "The boy returns to the well, feeling for the water source with his hands, moving small, cool, wet stones aside. His brow furrows in frustration as the water flow remains unchanged, and he hears distant animal voices. Dim, early evening light, a pale grey washing over the well area, making the shadows long and indistinct, adding to Raju's sense of frustration.",
+      "scene_visual": "The boy returns to the well, feeling for the water source with his hands, moving small, cool, wet stones aside. His brow furrows in frustration as the water flow remains unchanged, and he hears distant animal voices.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pichchukala Gusagusalu Vintu, Raaju Malli Baavi Daggaraku Cheraadu. Baavi Niti Mulaanni Vetukutu, Chetito Challani, Tadisina Raallanu Tadumutu, Oka Chinna Raayini Pakkaku Jaripaadu. \"Idi Kaadu, Idi Kaadu... Inkaa Peddadi Edo Undi\" Ani Manasulo Anukunnaadu. Niti Pravaaham Konchem Kudaa Maarakapovadanto Vaadiki Niraasha Kaligindi. Vaadi Nuduru Chitlinchindi. Appudu, Ekkadi Nuncho, Enno Jantuvula Svaraalu Spashtangaa Vinipinchaayi — Pedda, Kadapaleni Bandaraayi Gurinchi, Manushulaku Andananta Duraana Undani Avi Cheppaayi.",
+      "text_en": "Listening to the sparrows' whispers, Raju went back to the well. Searching for the well's water source, he felt the cool, wet stones with his hand and moved a small rock aside. \"Not this, not this... there's something bigger,\" he thought to himself. The water flow didn't change even a little, which made him feel disappointed. His brow furrowed. Then, from somewhere, many animal voices were clearly heard — they spoke of a big, unmovable boulder, saying it was too far for humans to reach."
+    },
+    {
+      "id": 5,
+      "text": "బావి దగ్గర నిరాశతో కూర్చున్న రాజు, మళ్ళీ ఆ రహస్య ఊట దగ్గరకు వెళ్ళాడు. అక్కడ కూర్చుని, కళ్ళు మూసుకుని, జంతువుల మాటలను వినసాగాడు — వాటి బాధలు, వివరమైన వర్ణనలు వాడి మనసులో మెదులుతున్నాయి. మీకు తెలుసా, ఆ క్షణంలో వాడికి అన్నీ అర్థమయ్యాయి. \"అది ఆ పెద్ద మర్రిచెట్టు పక్కన ఉంది, దానిని కదపడం చాలా కష్టం!\" అని ఎన్నో గొంతులు ఒకేసారి చెప్పాయి. ఆ ఊట నీళ్ళు గలగలా పారుతున్నాయి, వాటి లయలో ఒక ప్రణాళిక వాడి మనసులో రూపుదిద్దుకుంది. ఒక పెద్ద నిట్టూర్పు వదిలి, రాజు మర్రిచెట్టు వైపు అడుగులు వేశాడు.",
+      "image_prompt": "The boy sits by the gurgling spring, eyes closed, listening intently to the animals' voices. He then lets out a deep sigh and begins walking purposefully towards a large banyan tree. The soft, glowing light of the magical spring once again illuminates Raju's thoughtful face, making his determination visible in the quiet blue light.",
+      "scene_visual": "The boy sits by the gurgling spring, eyes closed, listening intently to the animals' voices. He then lets out a deep sigh and begins walking purposefully towards a large banyan tree.",
+      "supporting_char_keys": [],
+      "text_te_en": "Baavi Daggara Niraashato Kurchunna Raaju, Malli Aa Rahasya Uta Daggaraku Vellaadu. Akkada Kurchuni, Kallu Musukuni, Jantuvula Maatalanu Vinasaagaadu — Vaati Baadhalu, Vivaramaina Varnanalu Vaadi Manasulo Medulutunnaayi. Miku Telusaa, Aa Kshananlo Vaadiki Anni Arthamayyaayi. \"Adi Aa Pedda Marrichettu Pakkana Undi, Daanini Kadapadam Chaalaa Kashtan!\" Ani Enno Gontulu Okesaari Cheppaayi. Aa Uta Nillu Galagalaa Paarutunnaayi, Vaati Layalo Oka Pranaalika Vaadi Manasulo Rupudiddukundi. Oka Pedda Nitturpu Vadili, Raaju Marrichettu Vaipu Adugulu Veshaadu.",
+      "text_en": "Raju, sitting disappointed by the well, went back to the secret spring. Sitting there, he closed his eyes and began to listen to the animals' words — their troubles and detailed descriptions filled his mind. Do you know, at that moment, he understood everything. \"It's next to that big banyan tree, it's very hard to move!\" many voices said at once. The spring water gurgled, and in its rhythm, a plan formed in his mind. With a big sigh, Raju walked towards the banyan tree."
+    },
+    {
+      "id": 6,
+      "text": "మర్రిచెట్టు దగ్గరకు వెళ్ళగానే, రాజు అక్కడున్న జంతువులతో మాట్లాడసాగాడు, తన ప్రణాళికను వివరించాడు. బండరాయిని ఎలా కదపాలో చెప్పాడు. ఒక బలమైన ఎద్దు, చురుకైన కోతి, వాడి మాటలు విన్నాయి. \"నేను నెట్టగలను!\" అని ఎద్దు అన్నది, \"నేను లాగగలను!\" అని కోతి అంది. కానీ, ముందుగా వాటి మధ్య చిన్న వాదన మొదలైంది — ఎవరు ముందు చేయాలి, ఎలా చేయాలని. రాజు చేతులు ఊపుతూ, వాటిని శాంతపరిచాడు: \"మీరు ఇద్దరూ కలిసి పనిచేయాలి, అప్పుడే అది కదులుతుంది!\" వాడి మాటలు విన్న ఎద్దు, కోతి ఒకరినొకరు చూసుకున్నాయి — వాటి కళ్ళల్లో ఒక మెరుపు కనిపించింది.",
+      "image_prompt": "The boy stands before an ox and a monkey, explaining his plan to move the boulder. He waves his hands to calm their argument, and a spark of understanding appears in their eyes as they look at each other. Bright, late afternoon sun filtering through the forest canopy, creating patches of warm light and cool shade where Raju and the animals stand, emphasizing their varied forms.",
+      "scene_visual": "The boy stands before an ox and a monkey, explaining his plan to move the boulder. He waves his hands to calm their argument, and a spark of understanding appears in their eyes as they look at each other.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marrichettu Daggaraku Vellagaane, Raaju Akkadunna Jantuvulato Maatlaadasaagaadu, Tana Pranaalikanu Vivarinchaadu. Bandaraayini Elaa Kadapaalo Cheppaadu. Oka Balamaina Eddu, Churukaina Koti, Vaadi Maatalu Vinnaayi. \"Nenu Nettagalanu!\" Ani Eddu Annadi, \"Nenu Laagagalanu!\" Ani Koti Andi. Kaani, Mundugaa Vaati Madhya Chinna Vaadana Modalaindi — Evaru Mundu Cheyaali, Elaa Cheyaalani. Raaju Chetulu Uputu, Vaatini Shaantaparichaadu: \"Miru Iddaru Kalisi Panicheyaali, Appude Adi Kadulutundi!\" Vaadi Maatalu Vinna Eddu, Koti Okarinokaru Chusukunnaayi — Vaati Kallallo Oka Merupu Kanipinchindi.",
+      "text_en": "As soon as he reached the banyan tree, Raju started talking to the animals there, explaining his plan. He told them how to move the boulder. A strong ox and a clever monkey listened to his words. \"I can push!\" said the ox, and \"I can pull!\" said the monkey. But first, a small argument started between them — who should go first, and how. Raju waved his hands, calming them: \"You both must work together, only then will it move!\" The ox and the monkey, hearing his words, looked at each other — a spark appeared in their eyes."
+    },
+    {
+      "id": 7,
+      "text": "రాజు మాట విన్న జంతువులు, కలిసి పని చేయడానికి సిద్ధమయ్యాయి. వాడి ఆదేశాలను అనుసరించి, ఎద్దు తన బలాన్ని ఉపయోగించి బండరాయిని నెట్టసాగింది. అదే సమయంలో, కోతి చురుకుగా తీగలను ఉపయోగించి, రాయిని లాగింది. రాజు ఉత్సాహంతో, \"ఇంకా కొంచెం, ఇంకా కొంచెం! మీరు చేయగలరు!\" అంటూ వాటిని ప్రోత్సహించాడు. పెద్ద బండరాయి భూమిని రాసుకుంటూ, మెల్లగా కదిలింది. ఒక్కసారిగా — మురికిగా, నల్లగా ఉన్న నీరు ఉప్పెనలా బయటకు దూసుకువచ్చింది, వాగు నిండిపోయింది.",
+      "image_prompt": "An ox pushes the large boulder with its strength while a monkey pulls it using vines, as the boy enthusiastically encourages them. Suddenly, dirty, black water gushes out like a flood, filling the stream as the boulder slowly moves. The forest clearing is filled with the dramatic contrast of deep shadows and brilliant shafts of sunlight, highlighting the exertion of the animals and Raju's focused expression.",
+      "scene_visual": "An ox pushes the large boulder with its strength while a monkey pulls it using vines, as the boy enthusiastically encourages them. Suddenly, dirty, black water gushes out like a flood, filling the stream as the boulder slowly moves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Maata Vinna Jantuvulu, Kalisi Pani Cheyadaaniki Siddhamayyaayi. Vaadi Aadeshaalanu Anusarinchi, Eddu Tana Balaanni Upayoginchi Bandaraayini Nettasaagindi. Ade Samayanlo, Koti Churukugaa Tigalanu Upayoginchi, Raayini Laagindi. Raaju Utsaahanto, \"Inkaa Konchen, Inkaa Konchen! Miru Cheyagalaru!\" Antu Vaatini Protsahinchaadu. Pedda Bandaraayi Bhumini Raasukuntu, Mellagaa Kadilindi. Okkasaarigaa — Murikigaa, Nallagaa Unna Niru Uppenalaa Bayataku Dusukuvachchindi, Vaagu Nindipoyindi.",
+      "text_en": "The animals, listening to Raju, got ready to work together. Following his instructions, the ox used its strength to push the boulder. At the same time, the monkey cleverly used vines to pull the rock. Raju enthusiastically encouraged them, \"A little more, a little more! You can do it!\" The big boulder scraped against the earth and slowly moved. All at once — dirty, black water gushed out like a flood, and the stream filled up."
+    },
+    {
+      "id": 8,
+      "text": "దూరం నుండి చూస్తున్న రాజు, ఆనందంతో నిండిపోయాడు. గ్రామం బావి ఇప్పుడు నిండుగా తాజా నీటితో పొంగి పొర్లుతోంది. పిల్లలు నీళ్లలో ఆనందంగా ఆడుకుంటున్నారు — వారి అరుపులు, నవ్వులు గాలిలో తేలియాడుతున్నాయి. జంతువులు కూడా సంబరపడుతున్నాయి, వాటి దాహం తీరింది. రాజు గుండెలో ఒక వెచ్చదనం నిండిపోయింది — తను చేసిన పనికి తృప్తిగా అనిపించింది. ఆ నీటి చప్పుడు, జంతువుల సంతోషం, వాడికి గొప్ప బహుమతిగా అనిపించాయి.",
+      "image_prompt": "The boy watches from a distance as children joyfully play in the overflowing well, now full of fresh water. The sounds of their laughter and the happy animals fill the air, bringing a warm sense of satisfaction to his heart. Gentle dusk light, warm amber and soft purple hues, washes over the village, creating a peaceful and harmonious atmosphere as the day ends.",
+      "scene_visual": "The boy watches from a distance as children joyfully play in the overflowing well, now full of fresh water. The sounds of their laughter and the happy animals fill the air, bringing a warm sense of satisfaction to his heart.",
+      "supporting_char_keys": [],
+      "text_te_en": "Duram Nundi Chustunna Raaju, Aanandanto Nindipoyaadu. Graamam Baavi Ippudu Nindugaa Taajaa Nitito Pongi Porlutondi. Pillalu Nillalo Aanandangaa Aadukuntunnaaru — Vaari Arupulu, Navvulu Gaalilo Teliyaadutunnaayi. Jantuvulu Kudaa Sambarapadutunnaayi, Vaati Daaham Tirindi. Raaju Gundelo Oka Vechchadanam Nindipoyindi — Tanu Chesina Paniki Trriptigaa Anipinchindi. Aa Niti Chappudu, Jantuvula Santoshan, Vaadiki Goppa Bahumatigaa Anipinchaayi.",
+      "text_en": "Raju, watching from a distance, was filled with joy. The village well was now overflowing with fresh water. Children were happily playing in the water — their shouts and laughter floated in the air. The animals were also celebrating, their thirst quenched. A warmth filled Raju's heart — he felt satisfied with what he had done. The sound of the water and the animals' happiness felt like a great reward to him."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and excellent child engagement with well-placed suspense hooks. To reach award-winning status, the primary focus should be on enhancing the oral warmth of the narration, making it sound less like a written report and more like a grandparent's voice. Additionally, consistently showing emotions through action and body language, rather than stating them, and ensuring direct, character-specific dialogue in every scene will significantly elevate its quality."
+  },
+  "quality_warning": true,
+  "title_te_en": "Rahasya Uta, Muga Jivaala Maata",
+  "moral_te_en": "Konnisaarlu Ni Pratyeka Shakti, Andarikante Bhinnangaa Unnaa, Itarulaku Sahaayam Cheyadaaniki Sariggaa Saripotundi.",
+  "title_en": "The Secret Spring and the Animals' Voices",
+  "moral_en": "Sometimes, your special power, even if it's different from everyone else's, is just right for helping others.",
+  "id": "20260604_091234",
+  "date": "2026-06-04",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "జంతువుల భాష తెలిసిన మాయా ఊట నీళ్లు",
+  "thumbnail": "stories/20260604_091234/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
