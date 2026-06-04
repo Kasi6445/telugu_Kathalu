@@ -1,0 +1,124 @@
+{
+  "title": "చింటూ పక్షుల గుసగుసలు",
+  "moral": "లోకాన్ని శ్రద్ధగా వింటే, ఎన్నో రహస్యాలు తెలుస్తాయి, కష్టాల్లో దారి కూడా దొరుకుతుంది.",
+  "main_character": "A young, curious village boy, perhaps 10-12 years old, with bright, observant eyes and always carrying a small cloth bag. He is often found exploring the edges of his village, fascinated by nature's smallest wonders. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A picturesque village in rural Andhra Pradesh, near a small forest with mango trees lining the paths and mud houses with thatched roofs. The story unfolds over a single sunny day, transitioning from morning to late afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "తెల్లవారుజామున చింటూ, తన చిన్న సంచి భుజాన వేసుకుని, పల్లెటూరి పొలిమేరల గుండా నడుస్తున్నాడు. ఉదయపు మంచు తడిసిన మట్టి వాసన ముక్కుపుటాల నిండా నింపుకుంటూ, అతను చుట్టూ చూశాడు. అప్పుడు అతని పెదవుల మీద చిరునవ్వు మెరిసింది — చెట్ల కొమ్మలపై పక్షులు కిలకిలమంటున్నాయి. \"ఈ పక్షులు ఎంత అందంగా మాట్లాడుకుంటున్నాయో!\" అని చింటూ ముసిముసిగా నవ్వుకుంటూ అన్నాడు. ఇంతలో ఒక చిన్న పిచ్చుక అతని దగ్గరగా వాలి, గబగబా ఏదో కిచకిచలాడి, రెక్కలు టపటప కొట్టుకుంటూ ఎగిరిపోయింది.",
+      "image_prompt": "The boy walks along the village outskirts, carrying a small bag on his shoulder. A soft smile appears on his lips as he hears birds chirping on the tree branches. Soft, golden morning light filtering through mango leaves, creating dappled shadows on the path, warm and inviting.",
+      "scene_visual": "The boy walks along the village outskirts, carrying a small bag on his shoulder. A soft smile appears on his lips as he hears birds chirping on the tree branches.",
+      "supporting_char_keys": [
+        "sparrow"
+      ],
+      "text_te_en": "Tellavaarujaamuna Chintu, Tana Chinna Sanchi Bhujaana Vesukuni, Palleturi Polimerala Gundaa Nadustunnaadu. Udayapu Manchu Tadisina Matti Vaasana Mukkuputaala Nindaa Nimpukuntu, Atanu Chuttu Chushaadu. Appudu Atani Pedavula Mida Chirunavvu Merisindi — Chetla Kommalapai Pakshulu Kilakilamantunnaayi. \"I Pakshulu Enta Andangaa Maatlaadukuntunnaayo!\" Ani Chintu Musimusigaa Navvukuntu Annaadu. Intalo Oka Chinna Pichchuka Atani Daggaragaa Vaali, Gabagabaa Edo Kichakichalaadi, Rekkalu Tapatapa Kottukuntu Egiripoyindi.",
+      "text_en": "Early in the morning, Chintu was walking through the village outskirts, with his small bag on his shoulder. He breathed in the smell of the morning dew-kissed earth and looked around. A smile appeared on his lips — birds were chirping on the tree branches. \"How beautifully these birds are talking!\" Chintu said with a quiet smile. Just then, a little sparrow landed near him, chirped something quickly, flapped its wings, and flew away."
+    },
+    {
+      "id": 2,
+      "text": "ఆ పిచ్చుక అలా ఎగిరిపోగానే, చింటూ ఒక పెద్ద మర్రిచెట్టు కింద కూర్చుని, ఆ పక్షుల మాటలను వినడానికి ప్రయత్నించాడు. గాలికి ఎండుటాకులు గలగలమని చప్పుడు చేస్తుంటే, అతను తల పక్కకు వంచి, కళ్ళు సన్నగా చేసి, మరీ శ్రద్ధగా విన్నాడు. అప్పుడు చింటూకి ఏదో వింతగా అనిపించింది — పక్షుల కిలకిలరావాలు ఆత్రంగా మారాయి. \"కూ..కూ... బావి పక్కన... కూ..కూ... ప్రమాదం!\" అని స్పష్టంగా వినపడింది, అతని నుదురు ముడిపడింది. చెట్టు పై కొమ్మలో ఉన్న ముసలి కాకి చింటూ వైపు సూటిగా చూసింది — ఏదో చెప్పాలని అన్నట్లుగా.",
+      "image_prompt": "The boy sits under a large banyan tree, tilting his head and narrowing his eyes to listen intently. His forehead furrows as he hears urgent bird calls, and an old crow on a branch looks directly at him. Bright morning sun, but with patches of deep shade under the large banyan tree, creating a sense of mystery and slight unease.",
+      "scene_visual": "The boy sits under a large banyan tree, tilting his head and narrowing his eyes to listen intently. His forehead furrows as he hears urgent bird calls, and an old crow on a branch looks directly at him.",
+      "supporting_char_keys": [
+        "crow",
+        "sparrow"
+      ],
+      "text_te_en": "Aa Pichchuka Alaa Egiripogaane, Chintu Oka Pedda Marrichettu Kinda Kurchuni, Aa Pakshula Maatalanu Vinadaaniki Prayatninchaadu. Gaaliki Endutaakulu Galagalamani Chappudu Chestunte, Atanu Tala Pakkaku Vanchi, Kallu Sannagaa Chesi, Mari Shraddhagaa Vinnaadu. Appudu Chintuki Edo Vintagaa Anipinchindi — Pakshula Kilakilaraavaalu Aatrangaa Maaraayi. \"Ku..Ku... Baavi Pakkana... Ku..Ku... Pramaadan!\" Ani Spashtangaa Vinapadindi, Atani Nuduru Mudipadindi. Chettu Pai Kommalo Unna Musali Kaaki Chintu Vaipu Sutigaa Chusindi — Edo Cheppaalani Annatlugaa.",
+      "text_en": "As soon as the sparrow flew away, Chintu sat under a big banyan tree and tried to listen to the birds' talk. As dry leaves rustled in the wind, he tilted his head, narrowed his eyes, and listened very carefully. Then Chintu felt something strange — the birds' chirping turned anxious. \"Coo... coo... near the well... coo... coo... danger!\" he clearly heard, and his brow furrowed. An old crow on a high branch of the tree looked directly at Chintu — as if it wanted to tell him something."
+    },
+    {
+      "id": 3,
+      "text": "పక్షుల మాటలు విని చింటూ మనసులో ఒక క్షణం తటపటాయించాడు, \"నేను వెళ్లాలా? అది నిజమేనా?\" అని తనలో తనే అనుకున్నాడు. కానీ దూరం నుండి కమ్మరి కొట్టులో సుత్తి చప్పుడు వినిపిస్తున్నా, పక్షుల ఆందోళనతో కూడిన అరుపులు అతన్ని ముందుకు నడిపించాయి. అతను పెదవి కొరుకుతూ, ఒక లోతైన శ్వాస తీసుకున్నాడు — అతనిలో ధైర్యం పుట్టుకొచ్చింది. అప్పుడు చింటూ మెల్లగా ఆ పాత బావి వైపు అడుగులు వేగంగా వేశాడు. బావి దగ్గరకు వెళ్ళే కొద్దీ, ఒక గుంపు పిచ్చుకలు అటు ఇటు గిరికీలు కొడుతూ, బావి వైపు వేలు పెట్టి చూపినట్లుగా అరుస్తున్నాయి.",
+      "image_prompt": "The boy bites his lip and takes a deep breath, then begins walking quickly towards the old well. A flock of sparrows circles around, crying out and seemingly pointing towards the well as he approaches. Mid-morning sun, bright and clear, but the path to the well is slightly overgrown, casting longer, ominous shadows.",
+      "scene_visual": "The boy bites his lip and takes a deep breath, then begins walking quickly towards the old well. A flock of sparrows circles around, crying out and seemingly pointing towards the well as he approaches.",
+      "supporting_char_keys": [
+        "sparrow"
+      ],
+      "text_te_en": "Pakshula Maatalu Vini Chintu Manasulo Oka Kshanam Tatapataayinchaadu, \"Nenu Vellaalaa? Adi Nijamenaa?\" Ani Tanalo Tane Anukunnaadu. Kaani Duram Nundi Kammari Kottulo Sutti Chappudu Vinipistunnaa, Pakshula Aandolanato Kudina Arupulu Atanni Munduku Nadipinchaayi. Atanu Pedavi Korukutu, Oka Lotaina Shvaasa Tisukunnaadu — Atanilo Dhairyam Puttukochchindi. Appudu Chintu Mellagaa Aa Paata Baavi Vaipu Adugulu Vegangaa Veshaadu. Baavi Daggaraku Velle Koddi, Oka Gumpu Pichchukalu Atu Itu Girikilu Kodutu, Baavi Vaipu Velu Petti Chupinatlugaa Arustunnaayi.",
+      "text_en": "Hearing the birds' words, Chintu hesitated for a moment, thinking to himself, \"Should I go? Is it true?\" But even though he could hear the sound of a hammer from the blacksmith's shop in the distance, the birds' anxious cries urged him forward. He bit his lip, took a deep breath — and courage filled him. Then Chintu slowly but quickly walked towards the old well. As he got closer to the well, a flock of sparrows flew around, chirping as if pointing towards the well."
+    },
+    {
+      "id": 4,
+      "text": "బావి దగ్గరకు చేరుకోగానే, చింటూ చుట్టూ కలయచూశాడు — లోపలి నుండి చల్లటి, తడిసిన గాలి పైకి వస్తోంది. కానీ అక్కడ ప్రమాదకరంగా ఏమీ కనిపించలేదు, కేవలం ఒక పెద్ద కొమ్మ బావి అంచున పడి ఉంది. అతని భుజాలు వాలిపోయాయి, ఒక నిట్టూర్పు వదిలి, \"అయ్యో! ఇది కేవలం ఒక కొమ్మే కదా!\" అని నిరాశగా తల అడ్డంగా ఊపాడు. పక్షులను నమ్మినందుకు తనమీద తనే చిరుకోపం తెచ్చుకుంటూ, అతను వెనక్కి తిరగబోయాడు. సరిగ్గా అప్పుడే, ఆ ముసలి కాకి బావి అంచున వాలి, పదే పదే \"కావ్... కావ్...\" అని అరుస్తూ, సగం దాగి ఉన్న ఒక సందు వైపు చూసింది.",
+      "image_prompt": "The boy's shoulders slump in disappointment as he sees only a fallen branch near the well and turns to leave. Just then, the old crow lands on the well's edge, cawing repeatedly and looking intently towards a half-hidden crevice. Harsh midday sun beating down, making the area feel exposed and a little weary, reflecting the character's mood.",
+      "scene_visual": "The boy's shoulders slump in disappointment as he sees only a fallen branch near the well and turns to leave. Just then, the old crow lands on the well's edge, cawing repeatedly and looking intently towards a half-hidden crevice.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Baavi Daggaraku Cherukogaane, Chintu Chuttu Kalayachushaadu — Lopali Nundi Challati, Tadisina Gaali Paiki Vastondi. Kaani Akkada Pramaadakarangaa Emi Kanipinchaledu, Kevalam Oka Pedda Komma Baavi Anchuna Padi Undi. Atani Bhujaalu Vaalipoyaayi, Oka Nitturpu Vadili, \"Ayyo! Idi Kevalam Oka Komme Kadaa!\" Ani Niraashagaa Tala Addangaa Upaadu. Pakshulanu Namminanduku Tanamida Tane Chirukopam Techchukuntu, Atanu Venakki Tiragaboyaadu. Sariggaa Appude, Aa Musali Kaaki Baavi Anchuna Vaali, Pade Pade \"Kaav... Kaav...\" Ani Arustu, Sagam Daagi Unna Oka Sandu Vaipu Chusindi.",
+      "text_en": "As soon as he reached the well, Chintu looked around — cool, damp air was rising from inside. But he saw nothing dangerous, only a large branch lying on the edge of the well. His shoulders slumped, and with a sigh, he shook his head in disappointment, \"Oh! It's just a branch!\" Feeling a little annoyed with himself for trusting the birds, he was about to turn back. Just then, the old crow landed on the edge of the well, repeatedly cawing \"Caw... caw...\" and looking towards a half-hidden crack."
+    },
+    {
+      "id": 5,
+      "text": "కాకి చూపించిన వైపు చింటూ కళ్ళు పెద్దవి చేసి చూశాడు, దాని చూపును అనుసరించాడు. బావి గోడలో ఒక పెద్ద పగులు కనిపించింది, అది ఎప్పుడైనా కూలిపోయేలా ఉంది — రాళ్ళన్నీ జారిపోతున్నాయి. చింటూ తన వేలి కొనలతో ఆ గచ్చును తాకగానే, ఇసుకలా జారిపోతున్న మట్టి స్పర్శ అతన్ని కలవరపరిచింది. అతని గుండె వేగంగా కొట్టుకుంది, \"అయ్యో! ఇది ప్రమాదమే... ఎవరైనా రాకముందే చెప్పాలి!\" అని చిన్నగా ఊపిరి పీల్చుకుంటూ అనుకున్నాడు. దూరంగా పిల్లల నవ్వులు వినిపించాయి — ఆ బావి వైపు వస్తున్నట్లుగా.",
+      "image_prompt": "The boy widens his eyes and follows the crow's gaze to a large, crumbling crack in the well wall. He touches the loose plaster with his fingertips, feeling the sand-like earth give way, and his heart begins to beat rapidly. Bright, clear afternoon light, but the crumbling wall casts a deep, sharp shadow, highlighting the immediate threat.",
+      "scene_visual": "The boy widens his eyes and follows the crow's gaze to a large, crumbling crack in the well wall. He touches the loose plaster with his fingertips, feeling the sand-like earth give way, and his heart begins to beat rapidly.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Kaaki Chupinchina Vaipu Chintu Kallu Peddavi Chesi Chushaadu, Daani Chupunu Anusarinchaadu. Baavi Godalo Oka Pedda Pagulu Kanipinchindi, Adi Eppudainaa Kulipoyelaa Undi — Raallanni Jaaripotunnaayi. Chintu Tana Veli Konalato Aa Gachchunu Taakagaane, Isukalaa Jaaripotunna Matti Sparsha Atanni Kalavaraparichindi. Atani Gunde Vegangaa Kottukundi, \"Ayyo! Idi Pramaadame... Evarainaa Raakamunde Cheppaali!\" Ani Chinnagaa Upiri Pilchukuntu Anukunnaadu. Durangaa Pillala Navvulu Vinipinchaayi — Aa Baavi Vaipu Vastunnatlugaa.",
+      "text_en": "Chintu's eyes widened as he looked where the crow pointed, following its gaze. He saw a large crack in the well wall, looking like it could collapse at any moment — stones were slipping down. As Chintu touched the crumbling wall with his fingertips, the sandy, slipping earth worried him. His heart beat fast, \"Oh no! This is dangerous... I must tell someone before anyone comes!\" he thought, taking a small breath. In the distance, he heard children's laughter — coming towards the well."
+    },
+    {
+      "id": 6,
+      "text": "పిల్లల నవ్వులు దగ్గరవుతుండగా, చింటూ ఒక్క క్షణం కూడా ఆలస్యం చేయలేదు — వెనక్కి తిరిగి గ్రామం వైపు పరిగెత్తాడు. అతని పాదాలు ధూళితో నిండిన బాటపై టపటపమని కొట్టుకుంటున్నాయి, అతని ముఖం ఎర్రబడింది. ఊపిరి బిగబట్టి, చేతులాడిస్తూ, \"బావి కూలిపోతోంది! అటు వెళ్లొద్దు!\" అని గట్టిగా అరుస్తూ వెళ్ళాడు. గ్రామస్తులు అతని అరుపులు విని బయటకు వచ్చారు, చింటూ చూపించిన బావి వైపు చూశారు. అప్పుడు వారు నిజమైన ప్రమాదాన్ని చూశారు — బావి గోడలు బీటలు వారి ఉన్నాయి.",
+      "image_prompt": "The boy turns and runs frantically towards the village, his feet pounding on the dusty path. His face is red as he shouts and waves his hands, warning everyone about the collapsing well. Late afternoon sun, casting long, dramatic shadows as Palle Batasari runs, creating a sense of urgency and heroism.",
+      "scene_visual": "The boy turns and runs frantically towards the village, his feet pounding on the dusty path. His face is red as he shouts and waves his hands, warning everyone about the collapsing well.",
+      "supporting_char_keys": [
+        "sparrow"
+      ],
+      "text_te_en": "Pillala Navvulu Daggaravutundagaa, Chintu Okka Kshanam Kudaa Aalasyam Cheyaledu — Venakki Tirigi Graamam Vaipu Parigettaadu. Atani Paadaalu Dhulito Nindina Baatapai Tapatapamani Kottukuntunnaayi, Atani Mukham Errabadindi. Upiri Bigabatti, Chetulaadistu, \"Baavi Kulipotondi! Atu Velloddu!\" Ani Gattigaa Arustu Vellaadu. Graamastulu Atani Arupulu Vini Bayataku Vachchaaru, Chintu Chupinchina Baavi Vaipu Chushaaru. Appudu Vaaru Nijamaina Pramaadaanni Chushaaru — Baavi Godalu Bitalu Vaari Unnaayi.",
+      "text_en": "As the children's laughter grew closer, Chintu didn't waste a single moment — he turned and ran towards the village. His feet pounded on the dusty path, and his face turned red. Holding his breath and waving his arms, he ran, shouting loudly, \"The well is collapsing! Don't go that way!\" The villagers heard his shouts and came out, looking towards the well Chintu pointed to. Then they saw the real danger — the well walls were cracked and crumbling."
+    },
+    {
+      "id": 7,
+      "text": "గ్రామస్తులు వెంటనే బావి చుట్టూ గట్టిగా కంచె వేశారు, ప్రమాదం నుండి పిల్లలను కాపాడారు. అందరూ చింటూ దగ్గరకు వచ్చి, అతని చేతులు పట్టుకుని, \"నువ్వు మా అందరినీ కాపాడావు, చిన్నవాడా!\" అని కృతజ్ఞతగా చెప్పారు. చింటూ చిరునవ్వు నవ్వాడు — అతని ఛాతీలో ఒక వెచ్చదనం నిండింది. పక్క ఇంటి కప్పు మీద పావురాలు గుటకలు వేస్తుంటే, అతను ఆకాశంలో ఎగురుతున్న పక్షులను చూశాడు. ఆ క్షణంలో చింటూకు, పక్షుల మాటలకు, లోకానికీ ఒక విడదీయరాని బంధం ఏర్పడినట్లు అనిపించింది.",
+      "image_prompt": "The villagers gather around the boy, holding his hands in gratitude. He smiles softly, feeling a warmth in his chest, as he looks up at the birds flying in the sky. Gentle dusk light, warm amber and fading orange, casting a peaceful glow over the village, signifying safety and calm.",
+      "scene_visual": "The villagers gather around the boy, holding his hands in gratitude. He smiles softly, feeling a warmth in his chest, as he looks up at the birds flying in the sky.",
+      "supporting_char_keys": [
+        "crow",
+        "sparrow"
+      ],
+      "text_te_en": "Graamastulu Ventane Baavi Chuttu Gattigaa Kanche Veshaaru, Pramaadam Nundi Pillalanu Kaapaadaaru. Andaru Chintu Daggaraku Vachchi, Atani Chetulu Pattukuni, \"Nuvvu Maa Andarini Kaapaadaavu, Chinnavaadaa!\" Ani Krritajnyatagaa Cheppaaru. Chintu Chirunavvu Navvaadu — Atani Chaatilo Oka Vechchadanam Nindindi. Pakka Inti Kappu Mida Paavuraalu Gutakalu Vestunte, Atanu Aakaashanlo Egurutunna Pakshulanu Chushaadu. Aa Kshananlo Chintuku, Pakshula Maatalaku, Lokaaniki Oka Vidadiyaraani Bandham Erpadinatlu Anipinchindi.",
+      "text_en": "The villagers immediately put a strong fence around the well, protecting the children from danger. Everyone came to Chintu, held his hands, and gratefully said, \"You saved all of us, little one!\" Chintu smiled — a warmth filled his chest. As pigeons cooed on the neighboring rooftop, he looked at the birds flying in the sky. In that moment, Chintu felt an unbreakable bond had formed between him, the birds' words, and the world."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "crow",
+      "description": "A wise old crow, with shiny black feathers and a knowing glint in its eye. It often perches on the highest branches, observing everything. Always the same character across every scene."
+    },
+    {
+      "key": "sparrow",
+      "description": "A tiny, energetic sparrow, always flitting about with quick movements. Its chirps are rapid and full of urgency. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 8,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 7.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and excellent child engagement, with well-crafted suspense hooks that keep the reader invested. The central premise of a child understanding animal language is highly appealing. To reach award-winning status, the primary focus should be on refining the prose to achieve a consistently warm, oral storytelling voice, and ensuring emotions are always shown through action rather than stated directly. Additionally, a minor grammatical contradiction in Scene 3 needs correction."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chintu Pakshula Gusagusalu",
+  "moral_te_en": "Lokaanni Shraddhagaa Vinte, Enno Rahasyaalu Telustaayi, Kashtaallo Daari Kudaa Dorukutundi.",
+  "title_en": "Chintu's Whispers of Birds",
+  "moral_en": "If you listen carefully to the world, you will learn many secrets and even find a way out of difficulties.",
+  "id": "20260604_221242",
+  "date": "2026-06-04",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "తెలుగు జానపద కథ - పక్షుల గుసగుసలు విన్న పల్లె బాటసారి",
+  "thumbnail": "stories/20260604_221242/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
