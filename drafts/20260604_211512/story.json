@@ -1,0 +1,129 @@
+{
+  "title": "దురాశకు తగిన శాస్తి",
+  "moral": "ఇతరుల వస్తువులను ఆశ పడడం మంచిది కాదు, అది ఎప్పుడూ కష్టాలనే తెస్తుంది.",
+  "main_character": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene.",
+  "antagonist": "Shurpanakha: A powerful rakshasi (demoness) with a dark complexion and sharp features. Initially appearing as a beautiful woman, she later reveals her true, fearsome form with tangled black hair, long fangs, and glowing red eyes. She wears dark, flowing garments adorned with jagged bone ornaments. Always the same character across every scene.",
+  "setting": "The serene Panchavati forest on the banks of the Godavari river, near their simple hermitage with thatched roof and clay walls. Early morning to late afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాముడు, సీత, లక్ష్మణుడు... పంచవటి ఆశ్రమంలో ప్రశాంతంగా రోజును మొదలుపెట్టారు. ఉదయం మంచులో తడిసిన నేల, పువ్వుల తీయని వాసన చుట్టూ అలుముకుంది. రాముడు సీతమ్మ వైపు చూసి, ప్రేమగా నవ్వాడు. \"సీతా, ఈ పువ్వులు మన ఆశ్రమానికి ఎంత అందాన్ని ఇస్తున్నాయో కదూ?\" అని అన్నాడు. లక్ష్మణుడు మాత్రం అడవంతా గమనిస్తూ కూర్చున్నాడు. ఇంతలో, దట్టమైన పొదల్లో ఏదో కదిలిన చప్పుడు — అతని చూపులు అటు తిరిగాయి.",
+      "image_prompt": "The man sits observing the forest, then his gaze turns sharply towards thick bushes where something has moved. His eyes are focused intently on the rustling foliage. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Soft, diffused golden light of early morning filtering through the dense canopy, creating a peaceful, ethereal glow.",
+      "scene_visual": "The man sits observing the forest, then his gaze turns sharply towards thick bushes where something has moved. His eyes are focused intently on the rustling foliage.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Raamudu, Sita, Lakshmanudu... Panchavati Aashramanlo Prashaantangaa Rojunu Modalupettaaru. Udayam Manchulo Tadisina Nela, Puvvula Tiyani Vaasana Chuttu Alumukundi. Raamudu Sitamma Vaipu Chusi, Premagaa Navvaadu. \"Sitaa, I Puvvulu Mana Aashramaaniki Enta Andaanni Istunnaayo Kadu?\" Ani Annaadu. Lakshmanudu Maatram Adavantaa Gamanistu Kurchunnaadu. Intalo, Dattamaina Podallo Edo Kadilina Chappudu — Atani Chupulu Atu Tirigaayi.",
+      "text_en": "Ramudu, Seetha, and Lakshmanudu... began their day peacefully in the Panchavati ashram. The ground, wet with morning dew, and the sweet scent of flowers filled the air. Ramudu looked at Seethamma and smiled lovingly. \"Seetha, don't these flowers add so much beauty to our ashram?\" he said. Lakshmanudu, however, sat observing the entire forest. Just then, a rustling sound came from the thick bushes — his gaze turned that way."
+    },
+    {
+      "id": 2,
+      "text": "ఆ దట్టమైన అడవిలో... శూర్పణఖ రామచంద్రుడిని చూసి ఆశ్చర్యపోయింది. అతని అందం ఆమె మనసును లాగేసింది — కళ్ళు అతని మీద నుండి కదలలేదు. భూమి నుండి వేడి ఆవిరి వస్తున్నట్లు, ఆమె చుట్టూ గాలి మారిపోయింది. \"ఆహా, ఈ వనంలో ఇలాంటి దివ్యపురుషుడా?\" అని మనసులో అనుకుంది. వెంటనే, తన రూపం మార్చుకొని, అందమైన స్త్రీగా బయటికి వచ్చింది. సీత, లక్ష్మణులను పట్టించుకోకుండా — ఆమె చూపులు రాముడి మీదే నిలిచాయి.",
+      "image_prompt": "A woman, having just transformed, emerges from the dense forest, her eyes fixed intently on the man. The air around her seems to shimmer as if hot vapor is rising from the ground. Also in this scene: Shurpanakha: A powerful rakshasi (demoness) with a dark complexion and sharp features. Initially appearing as a beautiful woman, she later reveals her true, fearsome form with tangled black hair, long fangs, and glowing red eyes. She wears dark, flowing garments adorned with jagged bone ornaments. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Bright, clear midday sun, but with a subtle, almost magical glow around Shurpanakha as she completes her transformation, making her seem unnaturally radiant.",
+      "scene_visual": "A woman, having just transformed, emerges from the dense forest, her eyes fixed intently on the man. The air around her seems to shimmer as if hot vapor is rising from the ground.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Aa Dattamaina Adavilo... Shurpanakha Raamachandrudini Chusi Aashcharyapoyindi. Atani Andam Aame Manasunu Laagesindi — Kallu Atani Mida Nundi Kadalaledu. Bhumi Nundi Vedi Aaviri Vastunnatlu, Aame Chuttu Gaali Maaripoyindi. \"Aahaa, I Vananlo Ilaanti Divyapurushudaa?\" Ani Manasulo Anukundi. Ventane, Tana Rupam Maarchukoni, Andamaina Strigaa Bayatiki Vachchindi. Sita, Lakshmanulanu Pattinchukokundaa — Aame Chupulu Raamudi Mide Nilichaayi.",
+      "text_en": "In that dense forest... Shurpanakha was surprised to see Ramachandrudu. His beauty captivated her heart — her eyes couldn't move from him. The air around her seemed to change, as if hot steam was rising from the ground. \"Oh, such a divine man in this forest?\" she thought to herself. Immediately, she changed her form and came out as a beautiful woman. Ignoring Seetha and Lakshmanudu — her gaze remained fixed on Ramudu."
+    },
+    {
+      "id": 3,
+      "text": "శూర్పణఖ రాముడి దగ్గరికి వచ్చి, తన మనసులోని మాటలను ధైర్యంగా చెప్పింది. కానీ రాముడు మాత్రం శాంతంగా, కళ్ళల్లో దయతో ఆమె వైపు చూశాడు. అడవిలో మిడతల అరుపులు ఒక్కసారిగా పెద్దవయ్యాయి — వాతావరణం ఉత్కంఠగా మారింది. \"నాకు సీత తప్ప వేరెవరూ లేరు. నా ధర్మం ఆమెకే కట్టుబడి ఉంది,\" అని స్పష్టంగా చెప్పాడు. రాముడి మాటలు వినగానే, ఆమె అందమైన ముఖం కోపంతో మారిపోయింది — ఆ కళ్ళల్లో ఆశ నిరాశగా మారింది.",
+      "image_prompt": "The woman's beautiful face contorts with anger and despair as she listens to the man speak. Her eyes, previously filled with hope, now reflect a sudden, intense rage. Also in this scene: Shurpanakha: A powerful rakshasi (demoness) with a dark complexion and sharp features. Initially appearing as a beautiful woman, she later reveals her true, fearsome form with tangled black hair, long fangs, and glowing red eyes. She wears dark, flowing garments adorned with jagged bone ornaments. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Direct, strong sunlight, casting sharp shadows, reflecting the clarity of Rama's words and the starkness of the rejection.",
+      "scene_visual": "The woman's beautiful face contorts with anger and despair as she listens to the man speak. Her eyes, previously filled with hope, now reflect a sudden, intense rage.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Shurpanakha Raamudi Daggariki Vachchi, Tana Manasuloni Maatalanu Dhairyangaa Cheppindi. Kaani Raamudu Maatram Shaantangaa, Kallallo Dayato Aame Vaipu Chushaadu. Adavilo Midatala Arupulu Okkasaarigaa Peddavayyaayi — Vaataavaranam Utkanthagaa Maarindi. \"Naaku Sita Tappa Verevaru Leru. Naa Dharmam Aameke Kattubadi Undi,\" Ani Spashtangaa Cheppaadu. Raamudi Maatalu Vinagaane, Aame Andamaina Mukham Kopanto Maaripoyindi — Aa Kallallo Aasha Niraashagaa Maarindi.",
+      "text_en": "Shurpanakha came close to Ramudu and bravely spoke her heart. But Ramudu looked at her calmly, with kindness in his eyes. The chirping of crickets in the forest suddenly grew louder — the atmosphere became tense. \"I have no one but Seetha. My duty is bound to her alone,\" he clearly stated. As soon as Shurpanakha heard Ramudu's words, her beautiful face changed with anger — the hope in her eyes turned to despair."
+    },
+    {
+      "id": 4,
+      "text": "రాముడి మాటలకు శూర్పణఖకు కోపం నషాళానికి అంటింది. \"ఈమె ఉండగా నువ్వు నన్ను చూడవు కదా!\" అని అరుస్తూ, ఆమె రూపం ఒక్కసారిగా మారిపోయింది. గాలిలో ఓజోన్ ఘాటైన వాసన వ్యాపించింది — ఆమె వికృత రూపం బయటపడింది. భయంకరమైన రాక్షసిగా మారి, సీతమ్మ మీదకు దూకింది. సీతమ్మ కళ్ళు పెద్దవయ్యాయి — భయంతో వెనక్కి తగ్గింది. సరిగ్గా అదే క్షణంలో, లక్ష్మణుడు తన విల్లు పట్టుకొని అడ్డు నిలబడ్డాడు.",
+      "image_prompt": "A grotesque, transformed woman leaps menacingly towards the fearful woman, who recoils in terror. At that precise moment, the other man steps forward, holding his bow firmly, blocking the attack. Also in this scene: Shurpanakha: A powerful rakshasi (demoness) with a dark complexion and sharp features. Initially appearing as a beautiful woman, she later reveals her true, fearsome form with tangled black hair, long fangs, and glowing red eyes. She wears dark, flowing garments adorned with jagged bone ornaments. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. The scene darkens suddenly as if a cloud has passed over the sun, making Shurpanakha's true form appear even more menacing in the gloom.",
+      "scene_visual": "A grotesque, transformed woman leaps menacingly towards the fearful woman, who recoils in terror. At that precise moment, the other man steps forward, holding his bow firmly, blocking the attack.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Raamudi Maatalaku Shurpanakhaku Kopam Nashaalaaniki Antindi. \"Ime Undagaa Nuvvu Nannu Chudavu Kadaa!\" Ani Arustu, Aame Rupam Okkasaarigaa Maaripoyindi. Gaalilo Ojon Ghaataina Vaasana Vyaapinchindi — Aame Vikrrita Rupam Bayatapadindi. Bhayankaramaina Raakshasigaa Maari, Sitamma Midaku Dukindi. Sitamma Kallu Peddavayyaayi — Bhayanto Venakki Taggindi. Sariggaa Ade Kshananlo, Lakshmanudu Tana Villu Pattukoni Addu Nilabaddaadu.",
+      "text_en": "Ramudu's words made Shurpanakha's anger flare up. \"While she is here, you won't look at me, will you!\" she screamed, and her form suddenly changed. A sharp, strange smell filled the air — her monstrous form was revealed. Turning into a terrifying demoness, she pounced on Seethamma. Seethamma's eyes widened — she recoiled in fear. At that very moment, Lakshmanudu stood in the way, holding his bow."
+    },
+    {
+      "id": 5,
+      "text": "శూర్పణఖ సీతమ్మ వైపు దూకుతుండగా, లక్ష్మణుడు కవచంలా అడ్డు నిలబడ్డాడు. అతని కళ్ళల్లో స్థిరమైన ధైర్యం కనిపించింది — సీతమ్మకు రక్షణగా నిలబడ్డాడు. \"నీ దురాశ నిన్ను నాశనం చేస్తుంది! వెనక్కి వెళ్ళు!\" అని గంభీరంగా హెచ్చరించాడు. శూర్పణఖ కోపంతో పక్కనే ఉన్న చెట్టు బెరడును గోర్లతో గీరింది — ఘర్షణ శబ్దం వినిపించింది. లక్ష్మణుడి మాటలను లెక్కచేయకుండా, ఆమె మళ్ళీ భయంకరంగా అరిచి, సీతమ్మ మీదకు దూకడానికి సిద్ధపడింది.",
+      "image_prompt": "The enraged woman furiously scratches the bark of a nearby tree with her claws, then prepares to leap again at the protected woman. The man stands resolutely between them, his eyes showing unwavering courage. Also in this scene: Shurpanakha: A powerful rakshasi (demoness) with a dark complexion and sharp features. Initially appearing as a beautiful woman, she later reveals her true, fearsome form with tangled black hair, long fangs, and glowing red eyes. She wears dark, flowing garments adorned with jagged bone ornaments. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. A focused, intense light on Lakshmana and Shurpanakha, highlighting their confrontation, while Rama and Sita are slightly in the background, observing.",
+      "scene_visual": "The enraged woman furiously scratches the bark of a nearby tree with her claws, then prepares to leap again at the protected woman. The man stands resolutely between them, his eyes showing unwavering courage.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Shurpanakha Sitamma Vaipu Dukutundagaa, Lakshmanudu Kavachanlaa Addu Nilabaddaadu. Atani Kallallo Sthiramaina Dhairyam Kanipinchindi — Sitammaku Rakshanagaa Nilabaddaadu. \"Ni Duraasha Ninnu Naashanam Chestundi! Venakki Vellu!\" Ani Gambhirangaa Hechcharinchaadu. Shurpanakha Kopanto Pakkane Unna Chettu Beradunu Gorlato Girindi — Gharshana Shabdam Vinipinchindi. Lakshmanudi Maatalanu Lekkacheyakundaa, Aame Malli Bhayankarangaa Arichi, Sitamma Midaku Dukadaaniki Siddhapadindi.",
+      "text_en": "As Shurpanakha pounced towards Seethamma, Lakshmanudu stood in her way like a shield. Steady courage was visible in his eyes — he stood to protect Seethamma. \"Your greed will destroy you! Go back!\" he warned gravely. In anger, Shurpanakha scratched the bark of a nearby tree with her claws — a grating sound was heard. Ignoring Lakshmanudu's words, she screamed terribly again and prepared to pounce on Seethamma."
+    },
+    {
+      "id": 6,
+      "text": "మళ్ళీ సీతమ్మ మీదకు దూకడానికి సిద్ధమైన శూర్పణఖను చూసి, లక్ష్మణుడు ఒక్కసారిగా కదిలాడు. మెరుపులాంటి కాంతి, ఉరుములాంటి శబ్దం — ఆ అడవంతా ప్రకాశవంతమైంది. \"దురాశ ఎప్పుడూ దుఃఖాన్ని తెస్తుంది!\" అని గట్టిగా చెప్పాడు లక్ష్మణుడు. శూర్పణఖ ఒళ్ళు జలదరించింది — భయంతో కేకలు వేస్తూ వెనక్కి పరిగెత్తింది. అప్పటివరకు ఉన్న శబ్దం అంతా ఆగిపోయి, అడవిలో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. శూర్పణఖ తన కష్టాన్ని తలుచుకుంటూ, దట్టమైన అడవిలోకి పారిపోయింది.",
+      "image_prompt": "The woman screams in terror and flees, running back into the dense forest. A sudden flash of light and a thunderous sound illuminate the forest as she retreats in fright. Also in this scene: Shurpanakha: A powerful rakshasi (demoness) with a dark complexion and sharp features. Initially appearing as a beautiful woman, she later reveals her true, fearsome form with tangled black hair, long fangs, and glowing red eyes. She wears dark, flowing garments adorned with jagged bone ornaments. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. A blinding, momentary burst of golden-white divine light emanating from Lakshmana, briefly illuminating the entire forest, then fading to a clear, sharp afternoon light.",
+      "scene_visual": "The woman screams in terror and flees, running back into the dense forest. A sudden flash of light and a thunderous sound illuminate the forest as she retreats in fright.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Malli Sitamma Midaku Dukadaaniki Siddhamaina Shurpanakhanu Chusi, Lakshmanudu Okkasaarigaa Kadilaadu. Merupulaanti Kaanti, Urumulaanti Shabdam — Aa Adavantaa Prakaashavantamaindi. \"Duraasha Eppudu Duhkhaanni Testundi!\" Ani Gattigaa Cheppaadu Lakshmanudu. Shurpanakha Ollu Jaladarinchindi — Bhayanto Kekalu Vestu Venakki Parigettindi. Appativaraku Unna Shabdam Antaa Aagipoyi, Adavilo Okkasaarigaa Nishshabdam Alumukundi. Shurpanakha Tana Kashtaanni Taluchukuntu, Dattamaina Adaviloki Paaripoyindi.",
+      "text_en": "Seeing Shurpanakha ready to pounce on Seethamma again, Lakshmanudu moved swiftly. A flash of lightning, a sound like thunder — the entire forest lit up. \"Greed always brings sorrow!\" Lakshmanudu declared loudly. Shurpanakha shivered — she screamed in fear and ran back. All the noise that was there before stopped, and silence suddenly fell over the forest. Shurpanakha, thinking of her troubles, fled into the dense forest."
+    },
+    {
+      "id": 7,
+      "text": "శూర్పణఖ పారిపోగానే, ఆశ్రమంలో మళ్ళీ ప్రశాంతత నెలకొంది. రాముడు, సీత, లక్ష్మణుడు శాంతంగా కూర్చుని, జరిగినదంతా ఆలోచించారు. చల్లని గాలి మెల్లగా చెట్ల ఆకుల మధ్య నుండి వీచింది — మనసుకు హాయిగా అనిపించింది. \"మనసులో దురాశ ఉంటే, శాంతి ఎప్పుడూ ఉండదు,\" అని రాముడు నెమ్మదిగా చెప్పాడు. లక్ష్మణుడు, సీతమ్మ కూడా ఆయన మాటలను మనసులో అనుకున్నారు. ఇతరుల వస్తువులను ఆశ పడడం ఎంత కష్టాన్ని తెస్తుందో, ఆ క్షణంలో వారికి అర్థమైంది.",
+      "image_prompt": "The man, the woman, and the other man sit calmly together, reflecting on the recent events. A cool breeze gently rustles through the leaves of the surrounding trees, bringing a sense of peace to the ashram. SUPPORTING CHARACTER also in this scene: Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Warm, golden light of late afternoon, peaceful and reassuring, bathing the figures in a soft glow, emphasizing harmony restored.",
+      "scene_visual": "The man, the woman, and the other man sit calmly together, reflecting on the recent events. A cool breeze gently rustles through the leaves of the surrounding trees, bringing a sense of peace to the ashram.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Shurpanakha Paaripogaane, Aashramanlo Malli Prashaantata Nelakondi. Raamudu, Sita, Lakshmanudu Shaantangaa Kurchuni, Jariginadantaa Aalochinchaaru. Challani Gaali Mellagaa Chetla Aakula Madhya Nundi Vichindi — Manasuku Haayigaa Anipinchindi. \"Manasulo Duraasha Unte, Shaanti Eppudu Undadu,\" Ani Raamudu Nemmadigaa Cheppaadu. Lakshmanudu, Sitamma Kudaa Aayana Maatalanu Manasulo Anukunnaaru. Itarula Vastuvulanu Aasha Padadam Enta Kashtaanni Testundo, Aa Kshananlo Vaariki Arthamaindi.",
+      "text_en": "As soon as Shurpanakha fled, peace returned to the ashram. Ramudu, Seetha, and Lakshmanudu sat calmly, thinking about everything that had happened. A cool breeze gently blew through the tree leaves — it felt pleasant to the mind. \"If there is greed in the heart, there will never be peace,\" Ramudu said softly. Lakshmanudu and Seethamma also took his words to heart. At that moment, they understood how much trouble desiring other people's things can bring."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "Sita",
+      "description": "Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 6.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 8,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 6,
+    "average": 6.67,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story boasts excellent grammar and a solid narrative arc, effectively showing emotions through action. However, it reads more like a formal written account than a warm, oral bedtime story, lacking the conversational tone and direct child engagement. The dialogue is sparse and lacks distinct character voices, making the story feel like a report. To reach an award-worthy level, the story needs a significant overhaul in dialogue and a shift towards a more intimate, engaging oral style."
+  },
+  "quality_warning": true,
+  "title_te_en": "Duraashaku Tagina Shaasti",
+  "moral_te_en": "Itarula Vastuvulanu Aasha Padadam Manchidi Kaadu, Adi Eppudu Kashtaalane Testundi.",
+  "title_en": "The Consequence of Greed",
+  "moral_en": "It is not good to desire other people's things; it always brings trouble.",
+  "id": "20260604_211512",
+  "date": "2026-06-04",
+  "category": "ramayana",
+  "subcategory": "courage_tales",
+  "topic": "శూర్పణఖ అవమానం - దురాశకు గుణపాఠం",
+  "thumbnail": "stories/20260604_211512/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
