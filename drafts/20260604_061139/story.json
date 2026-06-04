@@ -1,0 +1,117 @@
+{
+  "title": "కన్నయ్య పంచిన ఆనందం",
+  "moral": "ఇతరులతో పంచుకుంటే అందరి మనసులు ఆనందంతో నిండి, ఉన్నది ఇంకా పెరుగుతుంది.",
+  "main_character": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A sun-drenched clearing in the Vrindavan forest, beside the Yamuna River, with ancient banyan trees providing shade. The air is filled with the sweet scent of wildflowers and the distant lowing of cows. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "బృందావనంలో కన్నయ్య, తన గోపబాలురతో కలిసి దాగుడుమూతలు ఆడుకుంటున్నాడు — వారి నవ్వులు అడవి అంతా నిండిపోయాయి. కృష్ణయ్య చిలిపిగా ఒక పెద్ద మర్రిచెట్టు వెనుక దాక్కుని, తన మిత్రులు వెతుకుతుంటే చూసి ముసిముసి నవ్వాడు. వారి చిన్ని పాదాల కింద ఎండిన ఆకులు కరకరలాడుతుంటే, అల్లరిగా ఒకరినొకరు తరుముకున్నారు. \"మిత్రులారా! భోజన సమయమయింది!\" అని కృష్ణయ్య గట్టిగా కేక వేశాడు, తన వేణువును చేత్తో పట్టుకుని. ఆ మాట వినగానే — పిల్లలందరూ ఆడుకోవడం ఆపి, సంతోషంగా తమ భోజనపు బుట్టల కోసం పరిగెత్తారు. తమ చిన్న బుట్టల వైపు వారి చూపులు ఆశగా నిలిచాయి.",
+      "image_prompt": "The boys stop their game and eagerly run towards their lunch baskets. Their eyes are fixed with anticipation on the small baskets. Bright midday sun filtering in dappled patches through the dense canopy, creating a warm, golden glow on the forest floor.",
+      "scene_visual": "The boys stop their game and eagerly run towards their lunch baskets. Their eyes are fixed with anticipation on the small baskets.",
+      "supporting_char_keys": [
+        "balagopalulu"
+      ],
+      "text_te_en": "Brrindaavananlo Kannayya, Tana Gopabaalurato Kalisi Daagudumutalu Aadukuntunnaadu — Vaari Navvulu Adavi Antaa Nindipoyaayi. Krrishnayya Chilipigaa Oka Pedda Marrichettu Venuka Daakkuni, Tana Mitrulu Vetukutunte Chusi Musimusi Navvaadu. Vaari Chinni Paadaala Kinda Endina Aakulu Karakaralaadutunte, Allarigaa Okarinokaru Tarumukunnaaru. \"Mitrulaaraa! Bhojana Samayamayindi!\" Ani Krrishnayya Gattigaa Keka Veshaadu, Tana Venuvunu Chetto Pattukuni. Aa Maata Vinagaane — Pillalandaru Aadukovadam Aapi, Santoshangaa Tama Bhojanapu Buttala Kosam Parigettaaru. Tama Chinna Buttala Vaipu Vaari Chupulu Aashagaa Nilichaayi.",
+      "text_en": "In Brindavan, Kannaiah was playing hide-and-seek with his Gopabalulu (cowherd friends) — their laughter filled the entire forest. Krishnaiah mischievously hid behind a big banyan tree and chuckled softly as his friends searched for him. Dried leaves crunched under their tiny feet as they playfully chased each other. \"Friends! It's lunchtime!\" Krishnaiah called out loudly, holding his flute in his hand. As soon as they heard that — all the children stopped playing and happily ran for their lunch baskets. Their eyes eagerly fixed on their small baskets."
+    },
+    {
+      "id": 2,
+      "text": "పిల్లలందరూ ఒక పెద్ద చెట్టు కింద గుమిగూడి, తమ భోజనపు బుట్టలు నెమ్మదిగా తెరుచుకున్నారు. కొందరు వెన్న, రొట్టెలతో నిండిన పెద్ద బుట్టలను చూసి నవ్వారు, కానీ మరికొందరు తమ చిన్న బుట్టలను చూసి తల వంచుకున్నారు. ఆ వేడి గాలిలో స్వచ్ఛమైన వెన్న, ఇంట్లో చేసిన రొట్టెల సువాసన కలిసిపోయి ఆకలి పెంచుతోంది. ఒక గోపబాలుడు నెమ్మదిగా \"అయ్యో! నా దగ్గర చాలా తక్కువ ఉంది,\" అని గుసగుసలాడాడు, అతని భుజాలు కొంచెం వంగిపోయాయి. కృష్ణయ్య అందరినీ గమనించాడు — ముఖ్యంగా ఖాళీగా ఉన్న బుట్టల వైపు అతని చూపులు మళ్ళాయి.",
+      "image_prompt": "A boy sits with his shoulders slightly slumped, looking down at his nearly empty basket. The main character's gaze is intently fixed on the empty baskets of some of the boys. Soft, diffuse sunlight under the banyan tree, casting gentle shadows, highlighting the varied expressions on the boys' faces.",
+      "scene_visual": "A boy sits with his shoulders slightly slumped, looking down at his nearly empty basket. The main character's gaze is intently fixed on the empty baskets of some of the boys.",
+      "supporting_char_keys": [
+        "balagopalulu"
+      ],
+      "text_te_en": "Pillalandaru Oka Pedda Chettu Kinda Gumigudi, Tama Bhojanapu Buttalu Nemmadigaa Teruchukunnaaru. Kondaru Venna, Rottelato Nindina Pedda Buttalanu Chusi Navvaaru, Kaani Marikondaru Tama Chinna Buttalanu Chusi Tala Vanchukunnaaru. Aa Vedi Gaalilo Svachchamaina Venna, Intlo Chesina Rottela Suvaasana Kalisipoyi Aakali Penchutondi. Oka Gopabaaludu Nemmadigaa \"Ayyo! Naa Daggara Chaalaa Takkuva Undi,\" Ani Gusagusalaadaadu, Atani Bhujaalu Konchem Vangipoyaayi. Krrishnayya Andarini Gamaninchaadu — Mukhyangaa Khaaligaa Unna Buttala Vaipu Atani Chupulu Mallaayi.",
+      "text_en": "All the children gathered under a big tree and slowly opened their lunch baskets. Some smiled, seeing their big baskets full of butter and rotis, but others looked down at their small baskets. The scent of fresh butter and homemade rotis mixed in the warm air, making everyone hungrier. One Gopabaludu whispered softly, \"Oh dear! I have very little,\" his shoulders slightly slumped. Krishnaiah observed everyone — his gaze especially turning towards the empty baskets."
+    },
+    {
+      "id": 3,
+      "text": "కృష్ణయ్య తన ముందున్న సాధారణ భోజనాన్ని తినడం మొదలుపెట్టాడు, కానీ అతని చూపులు మాత్రం అందరినీ కలుపుతున్నాయి. ఒక గోపబాలుడు తన దగ్గర ఉన్న కొద్దిపాటి ఆహారాన్ని దాచిపెట్టడానికి ప్రయత్నిస్తూ, కొంచెం దూరంగా జరిగి కూర్చున్నాడు. ఆ బాలుడు కదులుతుంటే, కింద ఉన్న ఆకులు మెల్లగా కదిలాయి, అతని కంగారును చూపినట్టు. కృష్ణయ్య అతని వైపు చూసి, ప్రేమగా \"మిత్రమా, నీ భోజనం ఏమిటి?\" అని అడిగాడు. ఆ మాట వినగానే — ఆ బాలుడు ఉలిక్కిపడి తల పైకెత్తాడు, కృష్ణయ్య చూపులు అతని కళ్ళలో నిలిచాయి.",
+      "image_prompt": "A boy, startled by the question, quickly lifts his head to look at the main character. The main character's gaze is fixed directly into the boy's eyes. A focused beam of sunlight briefly illuminating Krishna's face, making his expression stand out against the soft, warm light around the other boys.",
+      "scene_visual": "A boy, startled by the question, quickly lifts his head to look at the main character. The main character's gaze is fixed directly into the boy's eyes.",
+      "supporting_char_keys": [
+        "balagopalulu"
+      ],
+      "text_te_en": "Krrishnayya Tana Mundunna Saadhaarana Bhojanaanni Tinadam Modalupettaadu, Kaani Atani Chupulu Maatram Andarini Kaluputunnaayi. Oka Gopabaaludu Tana Daggara Unna Koddipaati Aahaaraanni Daachipettadaaniki Prayatnistu, Konchem Durangaa Jarigi Kurchunnaadu. Aa Baaludu Kadulutunte, Kinda Unna Aakulu Mellagaa Kadilaayi, Atani Kangaarunu Chupinattu. Krrishnayya Atani Vaipu Chusi, Premagaa \"Mitramaa, Ni Bhojanam Emiti?\" Ani Adigaadu. Aa Maata Vinagaane — Aa Baaludu Ulikkipadi Tala Paikettaadu, Krrishnayya Chupulu Atani Kallalo Nilichaayi.",
+      "text_en": "Krishnaiah began to eat his simple meal, but his eyes were still watching everyone. One Gopabaludu tried to hide the little food he had, moving a bit further away to sit. As the boy moved, the leaves on the ground rustled gently, as if showing his nervousness. Krishnaiah looked at him and lovingly asked, \"My friend, what is your meal?\" As soon as he heard that — the boy started and lifted his head, Krishnaiah's gaze fixed on his eyes."
+    },
+    {
+      "id": 4,
+      "text": "కృష్ణయ్య తన బుట్టలోంచి ఒక రొట్టె ముక్కను తీసి, ఆ బాలుడి చేతిలో పెట్టాడు — ఆ రొట్టె వెచ్చగా, మెత్తగా ఉంది. ఆ బాలుడు ఆశ్చర్యంగా కృష్ణయ్య వైపు చూశాడు, అతని కళ్ళల్లో ఒక మెరుపు మెరిసింది. కృష్ణయ్య చిరునవ్వుతో \"మన దగ్గర ఉన్నది పంచుకుంటే ఆనందం పెరుగుతుంది,\" అని చెప్పాడు, అందరి వైపు ప్రేమగా చూస్తూ. ఆ మాటలు విన్న మిగతా పిల్లలు ఒకరినొకరు చూసుకున్నారు, వారి బుట్టల వైపు చూపులు తిప్పారు. ఇంతలో, ఒక గోపబాలుడు తన బుట్టలోని ఆహారం నుండి కొద్దిగా విరిచి, పక్కనున్న మిత్రుడికి అందించాడు.",
+      "image_prompt": "The main character places a warm, soft piece of bread from his basket into the boy's hand. The boy looks up at the main character with a flash of surprise and wonder in his eyes. The light seems to brighten slightly around Krishna as he speaks, a subtle glow of warmth emanates from him.",
+      "scene_visual": "The main character places a warm, soft piece of bread from his basket into the boy's hand. The boy looks up at the main character with a flash of surprise and wonder in his eyes.",
+      "supporting_char_keys": [
+        "balagopalulu"
+      ],
+      "text_te_en": "Krrishnayya Tana Buttalonchi Oka Rotte Mukkanu Tisi, Aa Baaludi Chetilo Pettaadu — Aa Rotte Vechchagaa, Mettagaa Undi. Aa Baaludu Aashcharyangaa Krrishnayya Vaipu Chushaadu, Atani Kallallo Oka Merupu Merisindi. Krrishnayya Chirunavvuto \"Mana Daggara Unnadi Panchukunte Aanandam Perugutundi,\" Ani Cheppaadu, Andari Vaipu Premagaa Chustu. Aa Maatalu Vinna Migataa Pillalu Okarinokaru Chusukunnaaru, Vaari Buttala Vaipu Chupulu Tippaaru. Intalo, Oka Gopabaaludu Tana Buttaloni Aahaaram Nundi Koddigaa Virichi, Pakkanunna Mitrudiki Andinchaadu.",
+      "text_en": "Krishnaiah took a piece of roti from his basket and placed it in the boy's hand — the roti was warm and soft. The boy looked at Krishnaiah in surprise, a sparkle shining in his eyes. Krishnaiah smiled and said, \"When we share what we have, joy grows,\" looking lovingly at everyone. Hearing those words, the other children looked at each other, then turned their gaze to their baskets. Just then, one Gopabaludu broke off a little food from his basket and offered it to his friend next to him."
+    },
+    {
+      "id": 5,
+      "text": "కృష్ణయ్య మాటలతో ప్రేరణ పొంది, గోపబాలురందరూ తమ ఆహారాన్ని పంచుకోవడం మొదలుపెట్టారు — మొదట కొంచెం సిగ్గుగా, తర్వాత ఉత్సాహంగా. చిన్న చిన్న ముక్కలు ఒకరి బుట్టలోంచి మరొకరి బుట్టలోకి మారాయి, వారి నవ్వులు, చిన్నపాటి గుసగుసలు ఆ వాతావరణాన్ని నింపేశాయి. ఒక బాలుడు ఆహారాన్ని రుచి చూసి, \"ఆహా! పంచుకున్న ఆహారం ఎంత రుచిగా ఉందో!\" అని ఆశ్చర్యంగా అన్నాడు. కృష్ణయ్య ఆ దృశ్యాన్ని చూసి ప్రశాంతంగా చిరునవ్వు నవ్వాడు. వారందరూ పంచుకుంటున్న కొద్దీ — వారి బుట్టలు ఖాళీ అవ్వాల్సింది పోయి, ఇంకా నిండినట్లు అనిపించింది.",
+      "image_prompt": "The boys eagerly pass small pieces of food from one basket to another, filling the air with their laughter and whispers. The main character watches them, a serene smile gracing his face. A soft, inviting light bathes the entire group, making the shared food appear vibrant and appealing, reflecting the growing joy.",
+      "scene_visual": "The boys eagerly pass small pieces of food from one basket to another, filling the air with their laughter and whispers. The main character watches them, a serene smile gracing his face.",
+      "supporting_char_keys": [
+        "balagopalulu"
+      ],
+      "text_te_en": "Krrishnayya Maatalato Prerana Pondi, Gopabaalurandaru Tama Aahaaraanni Panchukovadam Modalupettaaru — Modata Konchem Siggugaa, Tarvaata Utsaahangaa. Chinna Chinna Mukkalu Okari Buttalonchi Marokari Buttaloki Maaraayi, Vaari Navvulu, Chinnapaati Gusagusalu Aa Vaataavaranaanni Nimpeshaayi. Oka Baaludu Aahaaraanni Ruchi Chusi, \"Aahaa! Panchukunna Aahaaram Enta Ruchigaa Undo!\" Ani Aashcharyangaa Annaadu. Krrishnayya Aa Drrishyaanni Chusi Prashaantangaa Chirunavvu Navvaadu. Vaarandaru Panchukuntunna Koddi — Vaari Buttalu Khaali Avvaalsindi Poyi, Inkaa Nindinatlu Anipinchindi.",
+      "text_en": "Inspired by Krishnaiah's words, all the Gopabalulu began to share their food — first a little shyly, then with enthusiasm. Small pieces moved from one basket to another, their laughter and soft whispers filling the air. One boy tasted the food and exclaimed in surprise, \"Oh! How delicious shared food is!\" Krishnaiah watched the scene and smiled peacefully. As they all kept sharing — instead of their baskets becoming empty, they seemed to fill up even more."
+    },
+    {
+      "id": 6,
+      "text": "వారు పంచుకుంటున్న ఆ క్షణంలో, కృష్ణయ్య నుండి ఒక దివ్యమైన కాంతి వెలువడింది — అది అడవి అంతా వెలుగునింపింది. గాలిలో మల్లెపూలు, చందనం కలిసిన తీయని సువాసన అకస్మాత్తుగా గుప్పుమంది, వారందరినీ ఆవరించింది. ఆ కాంతిలో, వారి చిన్న బుట్టలు ఒక్కసారిగా నిండిపోయాయి, గతంలో కంటే ఎక్కువగా ఆహారంతో పొంగిపొర్లాయి. \"పంచుకోవడంలోనే అసలైన ఆనందం, అంతులేని సమృద్ధి ఉంది!\" అని కృష్ణయ్య మృదువుగా చెప్పాడు, అతని ముఖం మీద శాంతమైన చిరునవ్వు వెలిగింది. ఆ గోపబాలురందరూ ఆశ్చర్యంతో కళ్ళు పెద్దవి చేసి ఒకరినొకరు చూసుకున్నారు, ఆ అద్భుతాన్ని అర్థం చేసుకున్నట్టు.",
+      "image_prompt": "A divine light emanates from the main character, illuminating the entire forest. In this light, the boys' small baskets suddenly overflow with more food than before. A soft, radiant golden-white light surrounds Krishna and the overflowing baskets, making the forest clearing glow with divine energy, while the edges remain in warm, natural light.",
+      "scene_visual": "A divine light emanates from the main character, illuminating the entire forest. In this light, the boys' small baskets suddenly overflow with more food than before.",
+      "supporting_char_keys": [
+        "balagopalulu"
+      ],
+      "text_te_en": "Vaaru Panchukuntunna Aa Kshananlo, Krrishnayya Nundi Oka Divyamaina Kaanti Veluvadindi — Adi Adavi Antaa Velugunimpindi. Gaalilo Mallepulu, Chandanam Kalisina Tiyani Suvaasana Akasmaattugaa Guppumandi, Vaarandarini Aavarinchindi. Aa Kaantilo, Vaari Chinna Buttalu Okkasaarigaa Nindipoyaayi, Gatanlo Kante Ekkuvagaa Aahaaranto Pongiporlaayi. \"Panchukovadanlone Asalaina Aanandan, Antuleni Samrriddhi Undi!\" Ani Krrishnayya Mrriduvugaa Cheppaadu, Atani Mukham Mida Shaantamaina Chirunavvu Veligindi. Aa Gopabaalurandaru Aashcharyanto Kallu Peddavi Chesi Okarinokaru Chusukunnaaru, Aa Adbhutaanni Artham Chesukunnattu.",
+      "text_en": "In that moment as they shared, a divine light shone from Krishnaiah — it filled the entire forest with brightness. A sweet scent of jasmine and sandalwood suddenly filled the air, surrounding them all. In that light, their small baskets suddenly filled up, overflowing with more food than before. \"True joy and endless abundance are found in sharing!\" Krishnaiah said softly, a peaceful smile lighting up his face. All the Gopabalulu looked at each other with wide, surprised eyes, as if understanding the miracle."
+    },
+    {
+      "id": 7,
+      "text": "ఇప్పుడు, అందరి బుట్టలు నిండి ఉన్నాయి, గోపబాలురందరూ సంతోషంగా కలిసి భోజనం చేశారు. వారి బుట్టల్లో అంతులేని ఆహారం, వారి కళ్ళల్లో మెరిసిన ఆనందం ఆ వనమంతా నిండిపోయింది. తింటున్నప్పుడు, వారి బుగ్గలు వెన్నతో నిండి, ముఖాల్లో సంతృప్తి కనిపించింది. తినేటప్పుడు వినిపించే ఆ చిన్న చప్పుడు, సంతోషంగా ఊపిరి పీల్చుకునే శబ్దాలు ఆ వనంలో ప్రతిధ్వనించాయి. కృష్ణయ్య వారిని చూసి, శాంతంగా చిరునవ్వు నవ్వాడు — పంచుకోవడంలోనే నిజమైన ఆనందం ఉందని వారందరూ ఆ క్షణంలో గ్రహించారు.",
+      "image_prompt": "The boys happily eat together, their cheeks full of butter and their faces showing deep satisfaction. The main character watches them, a peaceful smile on his face. Warm, gentle afternoon light, golden and peaceful, illuminating the contented faces of the boys as they sit together, surrounded by the bounty.",
+      "scene_visual": "The boys happily eat together, their cheeks full of butter and their faces showing deep satisfaction. The main character watches them, a peaceful smile on his face.",
+      "supporting_char_keys": [
+        "balagopalulu"
+      ],
+      "text_te_en": "Ippudu, Andari Buttalu Nindi Unnaayi, Gopabaalurandaru Santoshangaa Kalisi Bhojanam Cheshaaru. Vaari Buttallo Antuleni Aahaaran, Vaari Kallallo Merisina Aanandam Aa Vanamantaa Nindipoyindi. Tintunnappudu, Vaari Buggalu Vennato Nindi, Mukhaallo Santrripti Kanipinchindi. Tinetappudu Vinipinche Aa Chinna Chappudu, Santoshangaa Upiri Pilchukune Shabdaalu Aa Vananlo Pratidhvaninchaayi. Krrishnayya Vaarini Chusi, Shaantangaa Chirunavvu Navvaadu — Panchukovadanlone Nijamaina Aanandam Undani Vaarandaru Aa Kshananlo Grahinchaaru.",
+      "text_en": "Now, everyone's baskets were full, and all the Gopabalulu happily ate together. Endless food in their baskets and the joy sparkling in their eyes filled the entire forest. As they ate, their cheeks were smeared with butter, and satisfaction showed on their faces. The little sounds of eating and happy sighs echoed through the forest. Krishnaiah watched them and smiled peacefully — everyone understood in that moment that true joy lies in sharing."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "balagopalulu",
+      "description": "A group of young cowherd boys, aged 6-12, with varying complexions from light to sun-kissed brown. They wear simple cotton dhotis and sometimes small turbans, with dusty feet from playing in the fields. Energetic and curious, they are Krishna's constant companions. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 8,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "narrative_arc",
+    "notes": "This story is beautifully crafted with rich sensory details and excellent emotional depth, making it highly engaging for a young audience. The narrative arc is solid, building tension and wonder effectively. To reach an award-worthy 9+, the explicit moral statements by Krishna and the narrator in the latter scenes could be more subtly integrated, allowing the message to emerge purely from the children's experiences and reactions. Additionally, a final dialogue line from one of the children in the last scene would further enhance the dialogue richness and overall warmth."
+  },
+  "title_te_en": "Kannayya Panchina Aanandam",
+  "moral_te_en": "Itarulato Panchukunte Andari Manasulu Aanandanto Nindi, Unnadi Inkaa Perugutundi.",
+  "title_en": "Kannaiah's Shared Joy",
+  "moral_en": "When you share with others, everyone's hearts fill with joy, and what you have grows even more.",
+  "id": "20260604_061139",
+  "date": "2026-06-04",
+  "category": "bhagavatam",
+  "subcategory": "krishna_leela",
+  "topic": "బాలగోపాలురతో కృష్ణుని భోజన లీల - పంచుకోవడంలో ఆనందం",
+  "thumbnail": "stories/20260604_061139/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
