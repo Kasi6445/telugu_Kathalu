@@ -1,0 +1,97 @@
+{
+  "title": "విక్రమ్ తెలివి, పర్వత రహస్యం",
+  "moral": "నిజమైన బలం ఎప్పుడూ మన లోపల నుంచే వస్తుంది, అది మనం చూడగలిగే లేదా పట్టుకోగలిగే వస్తువులలో ఉండదు.",
+  "main_character": "Prince Vikram. A lean, agile boy of 12, with sharp, observant eyes and a quick smile. He always wears a small, intricately carved wooden bird on a string around his neck. He is known for his intelligence and his love for challenging riddles. Always the same character across every scene.",
+  "antagonist": "The Mountain Sage. An ancient man with a long white beard that reaches his waist, eyes that twinkle with ancient wisdom, and skin weathered by sun and wind. He wears simple saffron robes and carries a gnarled wooden staff. Always the same character across every scene.",
+  "setting": "The ancient kingdom of Hamsala, nestled at the foot of the majestic Nallamala Hills. The royal palace is built of red sandstone, overlooking a bustling market square. The Nallamala Hills are covered in dense, ancient forests with winding paths. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "హంసల రాజ్యపు ఆస్థానంలో, విక్రమ్ యువరాజు అందరినీ ఆశ్చర్యపరుస్తూ నిలబడ్డాడు. మంత్రులు, పండితులు వేసిన చిక్కు ప్రశ్నలన్నిటికీ చిరునవ్వుతో సమాధానం చెప్పాడు. చివరకు ముఖ్య పండితుడు వేసిన అత్యంత కఠినమైన పొడుపు కథకు, విక్రమ్ పెదవులపై ఒక చిన్న గర్వపు నవ్వు మెరిసింది — అతని చేతుల నుండి పట్టు వస్త్రాల సన్నని శబ్దం వినిపించింది. అతను తన మెడలోని చెక్క పక్షిని సున్నితంగా తాకుతూ, \"ఈ పొడుపు కథకు జవాబు, 'ప్రతిధ్వని'!\" అన్నాడు. విక్రమ్ తెలివికి అందరూ తల వంచగా, ముఖ్య పండితుడు ఒక కొత్త సవాలు కోసం ఆలోచించాడు.",
+      "image_prompt": "The boy gently touches a wooden bird hanging from his neck while smiling proudly. A faint rustle of silk garments can be heard as a small, proud smile plays on his lips. Bright morning sun streaming through large arched windows of the royal court, illuminating dust motes dancing in the air, creating a grand, formal atmosphere.",
+      "scene_visual": "The boy gently touches a wooden bird hanging from his neck while smiling proudly. A faint rustle of silk garments can be heard as a small, proud smile plays on his lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Hansala Raajyapu Aasthaananlo, Vikram Yuvaraaju Andarini Aashcharyaparustu Nilabaddaadu. Mantrulu, Panditulu Vesina Chikku Prashnalannitiki Chirunavvuto Samaadhaanam Cheppaadu. Chivaraku Mukhya Panditudu Vesina Atyanta Kathinamaina Podupu Kathaku, Vikram Pedavulapai Oka Chinna Garvapu Navvu Merisindi — Atani Chetula Nundi Pattu Vastraala Sannani Shabdam Vinipinchindi. Atanu Tana Medaloni Chekka Pakshini Sunnitangaa Taakutu, \"I Podupu Kathaku Javaabu, 'Pratidhvani'!\" Annaadu. Vikram Teliviki Andaru Tala Vanchagaa, Mukhya Panditudu Oka Kotta Savaalu Kosam Aalochinchaadu.",
+      "text_en": "In the court of the Hamsala kingdom, Prince Vikram stood, surprising everyone. He answered all the tricky questions posed by the ministers and scholars with a smile. Finally, to the most difficult riddle asked by the chief scholar, a small proud smile gleamed on Vikram's lips — a soft rustle of silk clothes was heard. Gently touching the wooden bird around his neck, he said, \"The answer to this riddle is 'Echo'!\" Everyone bowed to Vikram's cleverness, and the chief scholar thought of a new challenge."
+    },
+    {
+      "id": 2,
+      "text": "విక్రమ్ అంత సులువుగా పొడుపు కథలను ఛేదించడంతో, ముఖ్య పండితుడు ఒక చలితో కూడిన పురాతన పత్రాన్ని అతని చేతికి అందించాడు. అది నల్లమల కొండలలో నివసించే ఒక ఏకాంత సన్యాసి నుండి వచ్చినదని చెప్పాడు. విక్రమ్ వేళ్ళు ఆ గరుకు పత్రాన్ని తడుముతుండగా, అతని కళ్ళు ఆ ప్రాచీన లిపిపై ఆసక్తిగా మెరిశాయి. అతను పొడుపు కథను చదవగానే, అతని నుదుటిపై ఒక చిన్న ముడత పడింది — పర్వతాలను కదిలించే, కనిపించని శక్తి ఏమిటి? విక్రమ్ తల కొద్దిగా పక్కకు వంచి, ఆ ప్రశ్నకు సమాధానం తెలియక పూర్తిగా అయోమయంలో మునిగిపోయాడు.",
+      "image_prompt": "The boy's fingers trace the rough texture of an ancient parchment as he reads a riddle. A small crease forms on his forehead, and his eyes show a glimmer of confusion as he tilts his head slightly. Late afternoon light, soft and golden, beginning to fade, casting long shadows across the royal study, hinting at the complexity of the challenge.",
+      "scene_visual": "The boy's fingers trace the rough texture of an ancient parchment as he reads a riddle. A small crease forms on his forehead, and his eyes show a glimmer of confusion as he tilts his head slightly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vikram Anta Suluvugaa Podupu Kathalanu Chedinchadanto, Mukhya Panditudu Oka Chalito Kudina Puraatana Patraanni Atani Chetiki Andinchaadu. Adi Nallamala Kondalalo Nivasinche Oka Ekaanta Sanyaasi Nundi Vachchinadani Cheppaadu. Vikram Vellu Aa Garuku Patraanni Tadumutundagaa, Atani Kallu Aa Praachina Lipipai Aasaktigaa Merishaayi. Atanu Podupu Kathanu Chadavagaane, Atani Nudutipai Oka Chinna Mudata Padindi — Parvataalanu Kadilinche, Kanipinchani Shakti Emiti? Vikram Tala Koddigaa Pakkaku Vanchi, Aa Prashnaku Samaadhaanam Teliyaka Purtigaa Ayomayanlo Munigipoyaadu.",
+      "text_en": "Since Vikram solved riddles so easily, the chief scholar handed him a cold, ancient scroll. He said it came from a lonely sage living in the Nallamala Hills. As Vikram's fingers traced the rough paper, his eyes gleamed with interest at the ancient script. As soon as he read the riddle, a small frown appeared on his forehead — \"What is the invisible power that moves mountains?\" Vikram tilted his head slightly, completely confused, not knowing the answer to that question."
+    },
+    {
+      "id": 3,
+      "text": "రాజుగారి గ్రంథాలయంలో రోజులు గడిచిపోయాయి, కానీ విక్రమ్ మనసులో ఆ పొడుపు కథ తిరుగుతూనే ఉంది. అతను పాత పుస్తకాలను, శాస్త్ర గ్రంథాలను వెతికాడు — ఆ దుమ్ము పట్టిన గ్రంథాల వాసన గది అంతా నిండిపోయింది. నిశ్శబ్ద గ్రంథాలయంలో పుస్తకాల పేజీలు విసుగుగా గలగలలాడాయి. \"ఇది కేవలం మాటల గారడీ కాదు, దీని వెనుక ఏదో లోతైన అర్థం ఉంది!\" అని విక్రమ్ తన పెదవిని కొరుకుతూ అనుకున్నాడు. ఎంతో అలసిపోయి, నిరుత్సాహపడిన విక్రమ్, ఆ సన్యాసిని స్వయంగా కలవాలని నిర్ణయించుకున్నాడు.",
+      "image_prompt": "The boy sits amidst dusty books in a silent library, his lips pressed together in frustration. The distinct smell of old, dusty tomes fills the air as he bites his lip in thought. Dim, flickering lamplight illuminates only Vikram's focused face and the open books, leaving the rest of the library in deep shadow, emphasizing his solitary struggle.",
+      "scene_visual": "The boy sits amidst dusty books in a silent library, his lips pressed together in frustration. The distinct smell of old, dusty tomes fills the air as he bites his lip in thought.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajugaari Granthaalayanlo Rojulu Gadichipoyaayi, Kaani Vikram Manasulo Aa Podupu Katha Tirugutune Undi. Atanu Paata Pustakaalanu, Shaastra Granthaalanu Vetikaadu — Aa Dummu Pattina Granthaala Vaasana Gadi Antaa Nindipoyindi. Nishshabda Granthaalayanlo Pustakaala Pejilu Visugugaa Galagalalaadaayi. \"Idi Kevalam Maatala Gaaradi Kaadu, Dini Venuka Edo Lotaina Artham Undi!\" Ani Vikram Tana Pedavini Korukutu Anukunnaadu. Ento Alasipoyi, Nirutsaahapadina Vikram, Aa Sanyaasini Svayangaa Kalavaalani Nirnayinchukunnaadu.",
+      "text_en": "Days passed in the king's library, but that riddle kept turning in Vikram's mind. He searched through old books and scriptures — the smell of dusty volumes filled the room. In the silent library, the pages of books rustled impatiently. \"This is not just a play on words; there's a deeper meaning behind it!\" Vikram thought, biting his lip. Feeling very tired and discouraged, Vikram decided to meet the sage himself."
+    },
+    {
+      "id": 4,
+      "text": "నల్లమల కొండలలోకి సాగిన విక్రమ్ ప్రయాణం ఎంతో కష్టతరంగా ఉంది. ఇటీవల కురిసిన వర్షం వల్ల మట్టి, తడి ఆకుల ఘాటైన వాసన అడవి అంతా నిండిపోయింది. అతని నుదుటిపై చెమట ధారగా కారుతుండగా, అతని శ్వాస భారీగా కానీ స్థిరంగా సాగింది. \"నేను ఈ రహస్యాన్ని ఛేదించకుండా తిరిగి వెళ్ళను!\" అని అతను తనలో తాను గట్టిగా చెప్పుకున్నాడు. రోజుల తరబడి సాగిన కఠినమైన నడక తర్వాత, విక్రమ్ చివరకు ఒక దూరపు శిఖరంపై ఆ సన్యాసి చిన్న ఆశ్రమాన్ని చూశాడు — అది ఎంతో ప్రశాంతంగా కనిపించింది.",
+      "image_prompt": "The boy, with sweat streaming down his forehead, looks up to see a small hermitage on a distant peak. The strong scent of wet earth and damp leaves permeates the air around him after recent rains. Dappled sunlight filtering through the dense canopy of ancient trees, creating shifting patterns of light and shadow on the forest floor, evoking a sense of ancient mystery and peaceful solitude.",
+      "scene_visual": "The boy, with sweat streaming down his forehead, looks up to see a small hermitage on a distant peak. The strong scent of wet earth and damp leaves permeates the air around him after recent rains.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Kondalaloki Saagina Vikram Prayaanam Ento Kashtatarangaa Undi. Itivala Kurisina Varsham Valla Matti, Tadi Aakula Ghaataina Vaasana Adavi Antaa Nindipoyindi. Atani Nudutipai Chemata Dhaaragaa Kaarutundagaa, Atani Shvaasa Bhaarigaa Kaani Sthirangaa Saagindi. \"Nenu I Rahasyaanni Chedinchakundaa Tirigi Vellanu!\" Ani Atanu Tanalo Taanu Gattigaa Cheppukunnaadu. Rojula Tarabadi Saagina Kathinamaina Nadaka Tarvaata, Vikram Chivaraku Oka Durapu Shikharampai Aa Sanyaasi Chinna Aashramaanni Chushaadu — Adi Ento Prashaantangaa Kanipinchindi.",
+      "text_en": "Vikram's journey into the Nallamala Hills was very difficult. The recent rain filled the forest with the strong smell of earth and wet leaves. Sweat streamed down his forehead, and his breathing was heavy but steady. \"I will not return without solving this secret!\" he told himself firmly. After days of difficult walking, Vikram finally saw the sage's small hermitage on a distant peak — it looked very peaceful."
+    },
+    {
+      "id": 5,
+      "text": "విక్రమ్ ఆశ్రమానికి చేరుకున్నప్పుడు, సన్యాసి తన చిన్న అగ్నిగుండం వద్ద కూర్చుని ఉన్నాడు — అక్కడ ధూపం, కట్టెల పొగ వాసన మందంగా వస్తోంది. విక్రమ్ ఆశగా సన్యాసి వైపు చూశాడు, కానీ సన్యాసి అతనికి నేరుగా సమాధానం చెప్పలేదు. బదులుగా, సన్యాసి అతని వైపు నిదానంగా తల పంకించి, ఒక పదునైన ప్రశ్న అడిగాడు: \"నీవు పర్వతాలను కదిలించావా, లేదా పర్వతాలు నిన్ను కదిలించాయా?\" విక్రమ్ ముఖంపై ఒక అయోమయపు ముడత పడింది — ఆ సన్యాసి మాటల అంతరార్థాన్ని అర్థం చేసుకోలేకపోయాడు.",
+      "image_prompt": "The boy looks expectantly at the hermit, who is seated by a small fire, but then a confused frown crosses his face. The faint scent of incense and wood smoke hangs in the air around the hermit as he slowly nods his head. Also in this scene: The Mountain Sage. An ancient man with a long white beard that reaches his waist, eyes that twinkle with ancient wisdom, and skin weathered by sun and wind. He wears simple saffron robes and carries a gnarled wooden staff. Always the same character across every scene. Late afternoon, soft, warm light bathing the sage's hermitage, making the ancient stones glow, creating an aura of serenity and profound wisdom.",
+      "scene_visual": "The boy looks expectantly at the hermit, who is seated by a small fire, but then a confused frown crosses his face. The faint scent of incense and wood smoke hangs in the air around the hermit as he slowly nods his head.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vikram Aashramaaniki Cherukunnappudu, Sanyaasi Tana Chinna Agnigundam Vadda Kurchuni Unnaadu — Akkada Dhupan, Kattela Poga Vaasana Mandangaa Vastondi. Vikram Aashagaa Sanyaasi Vaipu Chushaadu, Kaani Sanyaasi Ataniki Nerugaa Samaadhaanam Cheppaledu. Badulugaa, Sanyaasi Atani Vaipu Nidaanangaa Tala Pankinchi, Oka Padunaina Prashna Adigaadu: \"Nivu Parvataalanu Kadilinchaavaa, Ledaa Parvataalu Ninnu Kadilinchaayaa?\" Vikram Mukhampai Oka Ayomayapu Mudata Padindi — Aa Sanyaasi Maatala Antaraarthaanni Artham Chesukolekapoyaadu.",
+      "text_en": "When Vikram reached the hermitage, the sage was sitting by his small fire pit — where the scent of incense and wood smoke gently wafted. Vikram looked at the sage eagerly, but the sage did not answer him directly. Instead, the sage slowly shook his head towards him and asked a sharp question: \"Did you move the mountains, or did the mountains move you?\" A confused frown appeared on Vikram's face — he couldn't understand the deeper meaning of the sage's words."
+    },
+    {
+      "id": 6,
+      "text": "సన్యాసి మాటల తర్వాత, విక్రమ్ ఒంటరిగా కూర్చుని తన ప్రయాణం గురించి ఆలోచించాడు. అప్పుడు, మీకు తెలుసా, ఆ క్షణంలో... సన్యాసి మాటల అసలు అర్థం ఒక్కసారిగా మెరుపులా తట్టింది. విక్రమ్ ఒక్కసారిగా ఉలిక్కిపడి, కళ్ళు పెద్దవి చేసుకున్నాడు — పర్వతాలపై వీచే చల్లటి, సున్నితమైన గాలి అతని జుట్టును నిమిరింది. అతని ముఖంపై ఒక ప్రశాంతమైన చిరునవ్వు వికసించింది. \"అదృశ్య శక్తి... అది నా సంకల్పం!\" అని అతను గట్టిగా అనుకున్నాడు. తన కొత్త అవగాహనతో ఉప్పొంగిపోయిన విక్రమ్, సన్యాసి వైపు పరుగెత్తాడు.",
+      "image_prompt": "The boy's eyes widen suddenly in realization, and a serene smile spreads across his face. A cool, gentle breeze from the mountains ruffles his hair as he sits alone. Twilight, deep indigo sky with the first stars appearing, casting a soft, ethereal glow over the mountains, mirroring Vikram's moment of profound insight.",
+      "scene_visual": "The boy's eyes widen suddenly in realization, and a serene smile spreads across his face. A cool, gentle breeze from the mountains ruffles his hair as he sits alone.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sanyaasi Maatala Tarvaata, Vikram Ontarigaa Kurchuni Tana Prayaanam Gurinchi Aalochinchaadu. Appudu, Miku Telusaa, Aa Kshananlo... Sanyaasi Maatala Asalu Artham Okkasaarigaa Merupulaa Tattindi. Vikram Okkasaarigaa Ulikkipadi, Kallu Peddavi Chesukunnaadu — Parvataalapai Viche Challati, Sunnitamaina Gaali Atani Juttunu Nimirindi. Atani Mukhampai Oka Prashaantamaina Chirunavvu Vikasinchindi. \"Adrrishya Shakti... Adi Naa Sankalpan!\" Ani Atanu Gattigaa Anukunnaadu. Tana Kotta Avagaahanato Uppongipoyina Vikram, Sanyaasi Vaipu Parugettaadu.",
+      "text_en": "After the sage's words, Vikram sat alone and thought about his journey. Then, you know, at that moment... the true meaning of the sage's words struck him like lightning. Vikram suddenly started, and his eyes widened — the cool, gentle wind blowing over the mountains caressed his hair. A peaceful smile blossomed on his face. \"The invisible power... it is my will!\" he thought aloud. Filled with his new understanding, Vikram ran towards the sage."
+    },
+    {
+      "id": 7,
+      "text": "విక్రమ్ తన మనసులోని ఆలోచనను సన్యాసికి వివరించాడు. తన ప్రయాణం, కష్టాలు, మరియు ఆఖరిగా పొందిన జ్ఞానాన్ని సన్యాసికి చెప్పాడు. సన్యాసి విక్రమ్ మాటలను వింటూ, తన కళ్ళతోనే అతనిని అభినందించాడు. రాత్రి నిశ్శబ్దాన్ని ఛేదిస్తూ, దూరంగా గుడ్లగూబ అరుపు వినిపించింది. విక్రమ్ గౌరవంగా తల వంచి, \"పర్వతాలను కదిలించే శక్తి, బయట కాదు, నీ లోపల ఉంది\" అని అన్నాడు. సన్యాసి చిరునవ్వుతో అతని మాటలను ఆమోదించాడు.",
+      "image_prompt": "The boy bows his head respectfully to the hermit after explaining his newfound understanding. The distant hoot of an owl breaks the night's silence as the hermit nods with a slight smile. Also in this scene: The Mountain Sage. An ancient man with a long white beard that reaches his waist, eyes that twinkle with ancient wisdom, and skin weathered by sun and wind. He wears simple saffron robes and carries a gnarled wooden staff. Always the same character across every scene. Night, clear starlight illuminating the mountain peak, the sage's fire a warm, steady glow, symbolizing knowledge and inner peace.",
+      "scene_visual": "The boy bows his head respectfully to the hermit after explaining his newfound understanding. The distant hoot of an owl breaks the night's silence as the hermit nods with a slight smile.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vikram Tana Manasuloni Aalochananu Sanyaasiki Vivarinchaadu. Tana Prayaanan, Kashtaalu, Mariyu Aakharigaa Pondina Jnyaanaanni Sanyaasiki Cheppaadu. Sanyaasi Vikram Maatalanu Vintu, Tana Kallatone Atanini Abhinandinchaadu. Raatri Nishshabdaanni Chedistu, Durangaa Gudlaguba Arupu Vinipinchindi. Vikram Gauravangaa Tala Vanchi, \"Parvataalanu Kadilinche Shakti, Bayata Kaadu, Ni Lopala Undi\" Ani Annaadu. Sanyaasi Chirunavvuto Atani Maatalanu Aamodinchaadu.",
+      "text_en": "Vikram explained the thought in his mind to the sage. He told the sage about his journey, his struggles, and the wisdom he had finally gained. The sage listened to Vikram's words, congratulating him with his eyes. Breaking the silence of the night, an owl's hoot was heard in the distance. Vikram bowed respectfully and said, \"The power that moves mountains is not outside, but within you.\" The sage approved his words with a smile."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, excellent emotional depth, and is grammatically flawless, making it a strong contender. The direct address to the child in Scene 6 is a brilliant touch for engagement. To elevate it to an award-worthy piece (9+), the primary focus should be on refining the 'grandmother_authenticity' by consistently adopting a more oral, conversational tone throughout, rather than occasionally slipping into formal prose. Additionally, exploring opportunities to give characters more distinct voices through their dialogue would further enhance its richness."
+  },
+  "title_te_en": "Vikram Telivi, Parvata Rahasyam",
+  "moral_te_en": "Nijamaina Balam Eppudu Mana Lopala Nunche Vastundi, Adi Manam Chudagalige Ledaa Pattukogalige Vastuvulalo Undadu.",
+  "title_en": "Vikram's Wisdom and the Mountain Secret",
+  "moral_en": "True strength always comes from within us; it is not found in things we can see or hold.",
+  "id": "20260605_051115",
+  "date": "2026-06-05",
+  "category": "podupu",
+  "subcategory": "royal_riddles",
+  "topic": "పర్వతాలను కదిలించే, కనిపించని శక్తి పొడుపు కథను వివరించిన పర్వత సన్యాసి",
+  "thumbnail": "stories/20260605_051115/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
