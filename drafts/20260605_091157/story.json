@@ -1,0 +1,115 @@
+{
+  "title": "కాకి కరుణ, చేపల ఆశ",
+  "moral": "చిన్న చిన్న ప్రయత్నాలు, ప్రేమతో చేస్తే, ఎంతటి పెద్ద కష్టాన్నైనా గెలుస్తాయి.",
+  "main_character": "Kaka is a small, sleek crow, with deep black feathers that shimmer blue in the sun and sharp, intelligent eyes. He is quick-witted and always observes his surroundings. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story is set in a parched rural area near the village of Mallapuram in Andhra Pradesh, under a relentless summer sun. The landscape features a large, ancient banyan tree, a small, almost-dry pond, and a dusty, cracked path leading to distant, withered fields. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కాక పక్షులన్నీ నిద్రలేవకముందే, ఆకాశంలో పైపైకి ఎగిరాడు. వెడల్పాటి రెక్కలను సులభంగా విప్పుతూ, గాలిలో తేలియాడుతుంటే, అతని రెక్కల మృదువైన శబ్దం గాలిని చీల్చుకుంటూ ముందుకు సాగింది. \"ఆహా, ఈ గాలి ఎంత బాగుంది!\" అన్నాడు కాక, ఆ చల్లటి గాలి అతని ఈకలను నిమిరగా. ఆ ఎత్తైన మర్రిచెట్టు పైనుండి చూస్తే, మల్లపురం గ్రామ చెరువు చిన్నగా మెరుస్తున్నట్లు కనిపించింది. అది ఎప్పుడూ ఇంత చిన్నగా కనిపించలేదు — ఏదో తేడా ఉంది.",
+      "image_prompt": "The bird soars high into the sky, effortlessly spreading its wide wings. From its elevated position, the village pond below appears as a small, shimmering speck. Bright, clear morning light, golden hues touching the distant fields, creating a sense of calm and expanse.",
+      "scene_visual": "The bird soars high into the sky, effortlessly spreading its wide wings. From its elevated position, the village pond below appears as a small, shimmering speck.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaaka Pakshulanni Nidralevakamunde, Aakaashanlo Paipaiki Egiraadu. Vedalpaati Rekkalanu Sulabhangaa Vipputu, Gaalilo Teliyaadutunte, Atani Rekkala Mrriduvaina Shabdam Gaalini Chilchukuntu Munduku Saagindi. \"Aahaa, I Gaali Enta Baagundi!\" Annaadu Kaaka, Aa Challati Gaali Atani Ikalanu Nimiragaa. Aa Ettaina Marrichettu Painundi Chuste, Mallapuram Graama Cheruvu Chinnagaa Merustunnatlu Kanipinchindi. Adi Eppudu Inta Chinnagaa Kanipinchaledu — Edo Tedaa Undi.",
+      "text_en": "Before all the other birds woke up, Kaka flew high into the sky. Spreading his wide wings easily, he glided through the air, his soft wingbeats cutting through the wind. \"Ah, how wonderful this air is!\" Kaka said, as the cool breeze ruffled his feathers. From high up on the tall banyan tree, Mallapuram village pond looked like a tiny shimmering spot. It had never looked so small before — something was different."
+    },
+    {
+      "id": 2,
+      "text": "మధ్యాహ్నమయ్యేసరికి కాకకు దాహం బాగా వేయడంతో, ఆ చెరువు వైపు ఎగిరాడు. కిందకి దిగుతుంటే, చెరువు ఒడ్డున ఉన్న మట్టి బీటలు వారినట్లు కనిపించి, అతని కళ్ళు పెద్దవిగా అయ్యాయి. పొడిబారిన భూమి నుండి జిగురు వాసన పైకి లేచింది. \"అయ్యో! నా నీరు ఎక్కడ?\" అని ఆశ్చర్యంగా అడిగాడు కాక, అతని తల పక్కకు వాల్చి. ఆ చెరువు బాగా ఎండిపోయింది — బురద గుంటలో చేపలు విలవిలలాడుతున్నాయి. నేల మీద వాలిన కాక నీడ, ఆ చివరి బురద గుంటలో ప్రాణం కోసం కొట్టుమిట్టాడుతున్న చేపల మీద పడింది.",
+      "image_prompt": "The bird lands on the parched ground, its shadow falling over the last muddy puddle. Inside the puddle, fish are visibly thrashing and struggling for life. Harsh, unforgiving midday sun, casting sharp, short shadows, highlighting the dry, cracked earth and the desperate glint of the pond.",
+      "scene_visual": "The bird lands on the parched ground, its shadow falling over the last muddy puddle. Inside the puddle, fish are visibly thrashing and struggling for life.",
+      "supporting_char_keys": [
+        "fish"
+      ],
+      "text_te_en": "Madhyaahnamayyesariki Kaakaku Daaham Baagaa Veyadanto, Aa Cheruvu Vaipu Egiraadu. Kindaki Digutunte, Cheruvu Odduna Unna Matti Bitalu Vaarinatlu Kanipinchi, Atani Kallu Peddavigaa Ayyaayi. Podibaarina Bhumi Nundi Jiguru Vaasana Paiki Lechindi. \"Ayyo! Naa Niru Ekkada?\" Ani Aashcharyangaa Adigaadu Kaaka, Atani Tala Pakkaku Vaalchi. Aa Cheruvu Baagaa Endipoyindi — Burada Guntalo Chepalu Vilavilalaadutunnaayi. Nela Mida Vaalina Kaaka Nida, Aa Chivari Burada Guntalo Praanam Kosam Kottumittaadutunna Chepala Mida Padindi.",
+      "text_en": "By midday, Kaka was very thirsty, so he flew towards the pond. As he flew down, he saw the mud on the pond's edge was cracked, and his eyes grew wide. A sticky smell rose from the dry earth. \"Oh no! Where is my water?\" Kaka asked in surprise, tilting his head. The pond had dried up a lot — fish were struggling in a muddy puddle. Kaka's shadow, as he landed on the ground, fell upon the fish struggling for life in that last muddy puddle."
+    },
+    {
+      "id": 3,
+      "text": "ఎండిన చెరువు అంచున కాక నిలబడి, తన పొడవాటి ముక్కుతో ఎంత ప్రయత్నించినా నీటిని అందుకోలేకపోయాడు. అతని రెక్కలు కొద్దిగా వాలిపోయాయి, తల కిందకి దించుకున్నాడు. బురద నీటిలో చేపల తోకలు విలవిలమంటూ కొట్టుకుంటున్న శబ్దం అతని చెవుల్లో పడింది. \"ఇది చాలా లోతుగా ఉంది, నేను ఎలా తాగగలను?\" అని నిరాశగా గొణుగుకున్నాడు. ఆ క్షణంలో — అతని కాలి దగ్గర ఒక చిన్న నునుపైన గులకరాయి మెరిసింది.",
+      "image_prompt": "The bird stands at the edge of the dried pond, its head bowed in despair as its long beak cannot reach the water. At that moment, a small, smooth pebble glints brightly near its foot. Overcast with a hazy, hot sun, creating a dull, desaturated light that emphasizes the desolation and the feeling of being trapped.",
+      "scene_visual": "The bird stands at the edge of the dried pond, its head bowed in despair as its long beak cannot reach the water. At that moment, a small, smooth pebble glints brightly near its foot.",
+      "supporting_char_keys": [
+        "fish"
+      ],
+      "text_te_en": "Endina Cheruvu Anchuna Kaaka Nilabadi, Tana Podavaati Mukkuto Enta Prayatninchinaa Nitini Andukolekapoyaadu. Atani Rekkalu Koddigaa Vaalipoyaayi, Tala Kindaki Dinchukunnaadu. Burada Nitilo Chepala Tokalu Vilavilamantu Kottukuntunna Shabdam Atani Chevullo Padindi. \"Idi Chaalaa Lotugaa Undi, Nenu Elaa Taagagalanu?\" Ani Niraashagaa Gonugukunnaadu. Aa Kshananlo — Atani Kaali Daggara Oka Chinna Nunupaina Gulakaraayi Merisindi.",
+      "text_en": "Kaka stood at the edge of the dried pond, trying his best with his long beak, but he couldn't reach the water. His wings drooped a little, and he lowered his head. The sound of fish tails flapping desperately in the muddy water reached his ears. \"It's too deep, how can I drink?\" he grumbled in despair. At that moment — a small, smooth pebble sparkled near his foot."
+    },
+    {
+      "id": 4,
+      "text": "ఆ గులకరాయిని తన ముక్కుతో జాగ్రత్తగా తీసి, బురద నీటిలో వేశాడు కాక. చిన్న \"ప్లింక్\" శబ్దం చేస్తూ రాయి లోపలికి వెళ్ళిపోయింది, కానీ నీటి మట్టం అస్సలు మారలేదు. కాక శరీరం కొద్దిగా వాలిపోయింది, అతని భుజాలు పడిపోయాయి. \"ఒకటి సరిపోదు... ఇది పని చేయదు\" అని పెదవి విరిచాడు. అతను చుట్టూ చూశాడు — ఎండిన నేల మీద లెక్కలేనన్ని గులకరాళ్ళు పడి ఉన్నాయి.",
+      "image_prompt": "The bird carefully picks up a pebble with its beak and drops it into the muddy water. Its shoulders slump in disappointment as the water level remains unchanged, and it then surveys the countless pebbles scattered on the dry ground. Bright, hot afternoon sun, casting harsh light on the crow's focused effort and the still-low water, emphasizing the scale of the problem.",
+      "scene_visual": "The bird carefully picks up a pebble with its beak and drops it into the muddy water. Its shoulders slump in disappointment as the water level remains unchanged, and it then surveys the countless pebbles scattered on the dry ground.",
+      "supporting_char_keys": [
+        "fish"
+      ],
+      "text_te_en": "Aa Gulakaraayini Tana Mukkuto Jaagrattagaa Tisi, Burada Nitilo Veshaadu Kaaka. Chinna \"Plink\" Shabdam Chestu Raayi Lopaliki Vellipoyindi, Kaani Niti Mattam Assalu Maaraledu. Kaaka Shariram Koddigaa Vaalipoyindi, Atani Bhujaalu Padipoyaayi. \"Okati Saripodu... Idi Pani Cheyadu\" Ani Pedavi Virichaadu. Atanu Chuttu Chushaadu — Endina Nela Mida Lekkalenanni Gulakaraallu Padi Unnaayi.",
+      "text_en": "Kaka carefully picked up the pebble with his beak and dropped it into the muddy water. With a tiny \"plink\" sound, the stone went in, but the water level didn't change at all. Kaka's body sagged a little, his shoulders drooped. \"One isn't enough... this won't work,\" he muttered, his beak twitching. He looked around — countless pebbles lay scattered on the dry ground."
+    },
+    {
+      "id": 5,
+      "text": "అన్ని గులకరాళ్ళను వేయాలంటే ఎంత శ్రమ పడాలి అని కాక ఒక నిమిషం ఆలోచించాడు. అతని తల కొద్దిగా ఊగింది, సందేహం అతని కళ్ళలో కనిపించింది. కానీ, బురదలో విలవిలలాడుతున్న చేపల చిత్రం అతని కళ్ళ ముందు మెదిలింది. \"ఈ చేపలు నన్ను చూస్తున్నాయి... నేను వదులుకోకూడదు\" అని దృఢంగా అన్నాడు, అతని ముక్కు దృఢంగా మూసుకుంది. అతని కాళ్ళ కింద గులకరాళ్ళ పొడిబారిన స్పర్శ తెలిసింది. కాక ఒక లోతైన శ్వాస తీసుకుని, రెక్కలను కొద్దిగా విప్పి, ఒక్కొక్క రాయిని పద్ధతిగా ఏరడం మొదలుపెట్టాడు.",
+      "image_prompt": "The bird takes a deep breath, its wings slightly spread, and begins methodically picking up pebbles one by one. A determined expression settles on its face as the dry, rough texture of the pebbles is felt under its feet. A slightly warmer afternoon light, a soft glow beginning to appear on the horizon, hinting at the passage of time and the crow's sustained effort.",
+      "scene_visual": "The bird takes a deep breath, its wings slightly spread, and begins methodically picking up pebbles one by one. A determined expression settles on its face as the dry, rough texture of the pebbles is felt under its feet.",
+      "supporting_char_keys": [
+        "fish"
+      ],
+      "text_te_en": "Anni Gulakaraallanu Veyaalante Enta Shrama Padaali Ani Kaaka Oka Nimisham Aalochinchaadu. Atani Tala Koddigaa Ugindi, Sandeham Atani Kallalo Kanipinchindi. Kaani, Buradalo Vilavilalaadutunna Chepala Chitram Atani Kalla Mundu Medilindi. \"I Chepalu Nannu Chustunnaayi... Nenu Vadulukokudadu\" Ani Drridhangaa Annaadu, Atani Mukku Drridhangaa Musukundi. Atani Kaalla Kinda Gulakaraalla Podibaarina Sparsha Telisindi. Kaaka Oka Lotaina Shvaasa Tisukuni, Rekkalanu Koddigaa Vippi, Okkokka Raayini Paddhatigaa Eradam Modalupettaadu.",
+      "text_en": "Kaka thought for a moment about how much effort it would take to drop all those pebbles. His head swayed slightly, and doubt appeared in his eyes. But then, the image of the struggling fish in the mud flashed before his eyes. \"These fish are watching me... I must not give up,\" he said firmly, his beak closing tightly. He felt the dry, rough touch of pebbles under his feet. Kaka took a deep breath, spread his wings a little, and began to pick up each stone carefully."
+    },
+    {
+      "id": 6,
+      "text": "కాక అలసట లేకుండా, ఒక్కొక్క గులకరాయిని చెరువులోకి వేశాడు. \"ప్లింక్, ప్లింక్, ప్లింక్\" అని నిరంతరం శబ్దం చేస్తూ రాళ్ళు నీటిలో పడుతుంటే, అతని రెక్కలు వణికిపోయాయి. మెల్లగా, స్పష్టంగా, నీటి మట్టం అంగుళం అంగుళం పైకి లేవడం మొదలైంది. \"నేను చేయగలను! ఇంకా కొద్దిగా!\" అని తనను తాను ప్రోత్సహించుకున్నాడు — అతని కళ్ళు విజయంతో మెరిశాయి. సూర్యుడు అస్తమిస్తున్న వేళ, కాక ముందుకు వంగాడు. అతని ముక్కు చివరికి చల్లటి నీటి ఉపరితలాన్ని చేరుకుంది.",
+      "image_prompt": "The bird leans forward, its beak finally reaching the cool surface of the water as the sun sets. Its eyes sparkle with triumph, reflecting the last rays of the setting sun. Golden hour light, warm and rich, illuminating Kaka's arduous work and casting long, soft shadows, creating a sense of hope and achievement.",
+      "scene_visual": "The bird leans forward, its beak finally reaching the cool surface of the water as the sun sets. Its eyes sparkle with triumph, reflecting the last rays of the setting sun.",
+      "supporting_char_keys": [
+        "fish"
+      ],
+      "text_te_en": "Kaaka Alasata Lekundaa, Okkokka Gulakaraayini Cheruvuloki Veshaadu. \"Plink, Plink, Plink\" Ani Nirantaram Shabdam Chestu Raallu Nitilo Padutunte, Atani Rekkalu Vanikipoyaayi. Mellagaa, Spashtangaa, Niti Mattam Angulam Angulam Paiki Levadam Modalaindi. \"Nenu Cheyagalanu! Inkaa Koddigaa!\" Ani Tananu Taanu Protsahinchukunnaadu — Atani Kallu Vijayanto Merishaayi. Suryudu Astamistunna Vela, Kaaka Munduku Vangaadu. Atani Mukku Chivariki Challati Niti Uparitalaanni Cherukundi.",
+      "text_en": "Kaka tirelessly dropped one pebble after another into the pond. As the stones continuously fell into the water with a \"plink, plink, plink\" sound, his wings trembled. Slowly, clearly, the water level began to rise inch by inch. \"I can do it! Just a little more!\" he encouraged himself — his eyes sparkled with triumph. As the sun was setting, Kaka leaned forward. His beak finally reached the cool surface of the water."
+    },
+    {
+      "id": 7,
+      "text": "కాక తన ముక్కుతో చల్లటి నీటిని అందుకొని, నెమ్మదిగా, కృతజ్ఞతగా తాగాడు. ఆ నీటి చల్లదనం అతని ఎండిన గొంతును తడిపింది. \"ఆహ్లాదకరమైనది!\" అని తృప్తిగా పలికాడు. అతను మెల్లగా తల ఊపి, ఇప్పుడు కొద్దిగా లోతైన బురద గుంటలో స్వేచ్ఛగా ఈదుతున్న చేపలను చూశాడు. ఆకాశంలో నక్షత్రాలు మెరుస్తున్నాయి — కాక విశ్రాంతిగా నిలబడ్డాడు.",
+      "image_prompt": "The bird slowly and gratefully drinks the cool water with its beak, its dried throat being quenched. It then gently nods its head, observing the fish now swimming freely in the slightly deeper muddy puddle. Gentle dusk light, warm amber and fading purple hues in the sky, reflecting peacefully on the slightly raised water, bringing a sense of calm and completion.",
+      "scene_visual": "The bird slowly and gratefully drinks the cool water with its beak, its dried throat being quenched. It then gently nods its head, observing the fish now swimming freely in the slightly deeper muddy puddle.",
+      "supporting_char_keys": [
+        "fish"
+      ],
+      "text_te_en": "Kaaka Tana Mukkuto Challati Nitini Andukoni, Nemmadigaa, Krritajnyatagaa Taagaadu. Aa Niti Challadanam Atani Endina Gontunu Tadipindi. \"Aahlaadakaramainadi!\" Ani Trriptigaa Palikaadu. Atanu Mellagaa Tala Upi, Ippudu Koddigaa Lotaina Burada Guntalo Svechchagaa Idutunna Chepalanu Chushaadu. Aakaashanlo Nakshatraalu Merustunnaayi — Kaaka Vishraantigaa Nilabaddaadu.",
+      "text_en": "Kaka scooped up the cool water with his beak and drank slowly, gratefully. The coolness of the water soothed his dry throat. \"Delightful!\" he said with satisfaction. He gently nodded his head and watched the fish now swimming freely in the slightly deeper muddy puddle. Stars twinkled in the sky — Kaka stood peacefully."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "fish",
+      "description": "A small group of silver-scaled fish, with wide, gasping mouths and frantic fin movements, struggling in the shallow, muddy water. They are innocent victims of the drought. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and excellent emotional depth, making the crow's journey truly resonant. The grammar is nearly flawless, contributing to a smooth reading experience. To elevate it to award-worthy status, focus on refining the language to be consistently more oral and less formal, especially in the crow's internal thoughts and exclamations. Additionally, while the crow's internal dialogue is good, a brief, simple interaction or observation about the fish's reaction could enhance the 'dialogue richness' and empathy."
+  },
+  "title_te_en": "Kaaki Karuna, Chepala Aasha",
+  "moral_te_en": "Chinna Chinna Prayatnaalu, Premato Cheste, Entati Pedda Kashtaannainaa Gelustaayi.",
+  "title_en": "Kaka's Kindness, The Fish's Hope",
+  "moral_en": "Small efforts, made with love, can overcome even the biggest challenges.",
+  "id": "20260605_091157",
+  "date": "2026-06-05",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - దాహంతో ఉన్న కాకి మరియు ఎండిన చెరువు చేపలు",
+  "thumbnail": "stories/20260605_091157/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
