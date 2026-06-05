@@ -1,0 +1,97 @@
+{
+  "title": "సిగ్గుపడే మల్లి మాయా మట్టి",
+  "moral": "మనలో ఉన్న ప్రత్యేకమైన బహుమతిని ధైర్యంగా పంచుకుంటే, ప్రపంచం ఎంత అద్భుతంగా మారుతుందో చూశావా?",
+  "main_character": "Malli: A young potter, perhaps in his early twenties, with calloused hands and kind, downcast eyes. He is exceptionally talented at shaping clay but struggles with severe shyness, often avoiding eye contact and speaking softly. Always the same character across every scene.",
+  "antagonist": "None",
+  "setting": "A small, bustling village named 'మట్టిపల్లె' (Matti Palle - Clay Village) nestled beside the Godavari river in rural Andhra Pradesh. His humble, mud-walled pottery shed with a thatched roof, surrounded by mango trees and the rhythmic sound of a distant temple bell, during a warm, sunny day. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మట్టిపల్లెలో, మల్లి తన చిన్న పాకలో కూర్చుని, మట్టిని తన చేతులతో ప్రేమగా నిమిరాడు. అతని కళ్ళలో ఏదో తెలియని భయం, పెదవి కొరుకుతూ మట్టిని గుండ్రంగా తిప్పాడు. తడి మట్టి మెత్తగా, స్నిగ్ధంగా అతని వేళ్ళ మధ్య కదిలింది, ఒక అందమైన కుండ రూపుదిద్దుకుంది. \"ఇది బాగుంది, కానీ ఎవరైనా కొంటారా?\" అని మెల్లగా తనలో తనే అనుకున్నాడు, అతని గొంతులో వణుకు. ఆ కుండ అద్భుతంగా తయారైంది, కానీ దాన్ని చూసి మురిసిపోవాల్సింది పోయి, మల్లి దాన్ని జాగ్రత్తగా ఒక చీకటి మూలకు నెట్టేశాడు — తన కళను దాచుకుంటున్నట్లు.",
+      "image_prompt": "The boy carefully pushes the beautifully crafted pot into a dark corner of his hut. His eyes show an unknown fear as he bites his lip, hiding his art. Warm morning light filtering into the shed through small openings, highlighting dust motes dancing in the air and casting soft shadows on Malli's concentrated face.",
+      "scene_visual": "The boy carefully pushes the beautifully crafted pot into a dark corner of his hut. His eyes show an unknown fear as he bites his lip, hiding his art.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mattipallelo, Malli Tana Chinna Paakalo Kurchuni, Mattini Tana Chetulato Premagaa Nimiraadu. Atani Kallalo Edo Teliyani Bhayan, Pedavi Korukutu Mattini Gundrangaa Tippaadu. Tadi Matti Mettagaa, Snigdhangaa Atani Vella Madhya Kadilindi, Oka Andamaina Kunda Rupudiddukundi. \"Idi Baagundi, Kaani Evarainaa Kontaaraa?\" Ani Mellagaa Tanalo Tane Anukunnaadu, Atani Gontulo Vanuku. Aa Kunda Adbhutangaa Tayaaraindi, Kaani Daanni Chusi Murisipovaalsindi Poyi, Malli Daanni Jaagrattagaa Oka Chikati Mulaku Netteshaadu — Tana Kalanu Daachukuntunnatlu.",
+      "text_en": "In Clay Village, Malli sat in his small hut, lovingly stroking the clay with his hands. There was an unknown fear in his eyes. Biting his lip, he shaped the clay into a round form. The wet clay moved softly and smoothly between his fingers, and a beautiful pot took shape. \"This is good, but will anyone buy it?\" he thought softly to himself, his voice trembling. The pot turned out wonderfully, but instead of admiring it, Malli carefully pushed it into a dark corner—as if hiding his art."
+    },
+    {
+      "id": 2,
+      "text": "ఆ చీకటి మూల కుండలను దాచిన మల్లి, మరునాడు నది ఒడ్డుకు కొత్త మట్టి కోసం వెళ్ళాడు. నీటి అడుగున ఒక మెరిసే రాయిలాంటిది కనిపించింది, దాని నుండి అద్భుతమైన వెచ్చదనం ప్రసరించింది. అతని కళ్ళు పెద్దవయ్యాయి, ఆశ్చర్యంతో మెల్లగా చేయి చాచాడు. \"ఇది మామూలు మట్టి కాదు...\" అని గొణుగుతూ దాన్ని తీశాడు. అది అతని చేతిలోకి రాగానే — ఒక మృదువైన కాంతి దాని నుండి బయటపడింది.",
+      "image_prompt": "The boy slowly reaches his hand into the water towards a shimmering, rock-like object. As he picks it up, a soft light emanates from it, making his eyes widen in surprise. Dappled sunlight breaking through riverbank trees, casting shifting patterns on the glistening, wet riverbed, making the glowing clay stand out vividly.",
+      "scene_visual": "The boy slowly reaches his hand into the water towards a shimmering, rock-like object. As he picks it up, a soft light emanates from it, making his eyes widen in surprise.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chikati Mula Kundalanu Daachina Malli, Marunaadu Nadi Odduku Kotta Matti Kosam Vellaadu. Niti Aduguna Oka Merise Raayilaantidi Kanipinchindi, Daani Nundi Adbhutamaina Vechchadanam Prasarinchindi. Atani Kallu Peddavayyaayi, Aashcharyanto Mellagaa Cheyi Chaachaadu. \"Idi Maamulu Matti Kaadu...\" Ani Gonugutu Daanni Tishaadu. Adi Atani Chetiloki Raagaane — Oka Mrriduvaina Kaanti Daani Nundi Bayatapadindi.",
+      "text_en": "Malli, who had hidden the pots in that dark corner, went to the riverbank the next day for new clay. He saw something like a shining stone at the bottom of the water, and a wonderful warmth radiated from it. His eyes grew wide. He slowly reached out his hand in surprise. \"This is not ordinary clay...\" he mumbled, as he picked it up. As soon as it was in his hand—a soft light emerged from it."
+    },
+    {
+      "id": 3,
+      "text": "తన పాకకు తిరిగి వచ్చి, మల్లి ఆ వింత మట్టిని జాగ్రత్తగా చూశాడు, అతని నుదురు ముడిపడింది. అది నిజంగా మాయా మట్టేనా అని ఆలోచిస్తూ, మెల్లగా ఒక చిన్న కుండను తయారు చేశాడు. ఆ కుండ తయారైన వెంటనే — ఒక సన్నని ఝంకారం వినిపించింది, తేనెటీగ గుసగుసలాడినట్లు. \"ఏం జరుగుతోంది?\" అని ఆశ్చర్యంగా ప్రశ్నించుకున్నాడు. ఆ చిన్న కుండ, ఇంకా కాల్చకుండానే, లోపల నుండి ఒక నిలకడైన కాంతితో మెరిసిపోయింది.",
+      "image_prompt": "The boy carefully shapes a small pot from the strange clay, his brow furrowed in thought. Immediately upon completion, the unbaked pot glows with a steady light from within. Late afternoon light, soft and golden, illuminating the inside of Malli's shed, creating long shadows and highlighting the glowing pot on his workbench.",
+      "scene_visual": "The boy carefully shapes a small pot from the strange clay, his brow furrowed in thought. Immediately upon completion, the unbaked pot glows with a steady light from within.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Paakaku Tirigi Vachchi, Malli Aa Vinta Mattini Jaagrattagaa Chushaadu, Atani Nuduru Mudipadindi. Adi Nijangaa Maayaa Mattenaa Ani Aalochistu, Mellagaa Oka Chinna Kundanu Tayaaru Cheshaadu. Aa Kunda Tayaaraina Ventane — Oka Sannani Jhankaaram Vinipinchindi, Tenetiga Gusagusalaadinatlu. \"Em Jarugutondi?\" Ani Aashcharyangaa Prashninchukunnaadu. Aa Chinna Kunda, Inkaa Kaalchakundaane, Lopala Nundi Oka Nilakadaina Kaantito Merisipoyindi.",
+      "text_en": "Returning to his hut, Malli carefully looked at the strange clay, his brow furrowed. Thinking if it was truly magical clay, he slowly made a small pot. As soon as the pot was made—a faint hum was heard, like a bee whispering. \"What's happening?\" he asked himself in surprise. That small pot, even without being fired, glowed with a steady light from within."
+    },
+    {
+      "id": 4,
+      "text": "మల్లి ధైర్యం తెచ్చుకుని, ఆ మెరిసే మట్టితో ఇంకా కొన్ని ఆకారాలను తయారు చేయాలనుకున్నాడు. అతను ఒక చిన్న పిట్టను చేతుల్లోకి తీసుకున్నాడు, దాని రెక్కలను సున్నితంగా తీర్చిదిద్దాడు. ఒక్కసారిగా ఆ పిట్ట రెక్కలు — అతని వేళ్ళను మెల్లగా తాకుతూ, గాల్లోకి లేచాయి. \"అమ్మో! ఇది ఎగిరిందా?\" అని అరిచాడు, అతని చేతులు వెనక్కి లాక్కున్నాడు. ఆ మట్టి పిట్ట ఒక్క క్షణం గాల్లో తేలి, మళ్ళీ అతని అరచేతిలో నిశ్శబ్దంగా వాలింది, దాని రూపం చెక్కుచెదరలేదు.",
+      "image_prompt": "The boy gently shapes a small bird from the glowing clay, carefully detailing its wings. Suddenly, the bird's wings gently brush his fingers as it lifts into the air, causing him to pull his hands back in surprise. Bright, clear midday sun streaming through the open shed door, making the clay bird shimmer with reflected light as it briefly moves.",
+      "scene_visual": "The boy gently shapes a small bird from the glowing clay, carefully detailing its wings. Suddenly, the bird's wings gently brush his fingers as it lifts into the air, causing him to pull his hands back in surprise.",
+      "supporting_char_keys": [],
+      "text_te_en": "Malli Dhairyam Techchukuni, Aa Merise Mattito Inkaa Konni Aakaaraalanu Tayaaru Cheyaalanukunnaadu. Atanu Oka Chinna Pittanu Chetulloki Tisukunnaadu, Daani Rekkalanu Sunnitangaa Tirchididdaadu. Okkasaarigaa Aa Pitta Rekkalu — Atani Vellanu Mellagaa Taakutu, Gaalloki Lechaayi. \"Ammo! Idi Egirindaa?\" Ani Arichaadu, Atani Chetulu Venakki Laakkunnaadu. Aa Matti Pitta Okka Kshanam Gaallo Teli, Malli Atani Arachetilo Nishshabdangaa Vaalindi, Daani Rupam Chekkuchedaraledu.",
+      "text_en": "Malli gathered his courage and wanted to make some more shapes with the glowing clay. He took a small bird into his hands and gently shaped its wings. Suddenly, the bird's wings—gently touching his fingers—lifted into the air. \"Oh no! Did it fly?\" he cried out, pulling his hands back. The clay bird floated in the air for a moment, then quietly landed back in his palm, its shape undisturbed."
+    },
+    {
+      "id": 5,
+      "text": "మల్లి మాయా మట్టితో ఆడుకుంటున్నాడు, ఇంతలో బయట నుండి గుసగుసలు వినిపించాయి, అడుగుల చప్పుడు దగ్గరయ్యింది. గ్రామస్తులు అతని పాక వైపు వస్తున్నారని అర్థమై, అతని గుండె వేగంగా కొట్టుకుంది. భయంతో మల్లి తన మాయా బొమ్మలను త్వరత్వరగా దాచాడు, ఇతరులతో పంచుకోవాలా వద్దా అని ఆందోళన పడ్డాడు. \"అక్కడ ఏం చేస్తున్నావు, మల్లి అన్న?\" అని ఒక చిన్న గొంతు వినిపించింది. అప్పుడు — తలుపు సందులోంచి ఒక చిన్నారి ముఖం తొంగి చూసింది, అమాయకత్వంతో నిండిన కళ్ళతో.",
+      "image_prompt": "The boy quickly hides his magical clay figures as he hears footsteps approaching his hut. A small child's face, filled with innocence, peeks through a gap in the door. Overcast sky, making the light outside the shed appear flat and a little grey, contrasting with the warm, dim interior where Malli is hiding his creations.",
+      "scene_visual": "The boy quickly hides his magical clay figures as he hears footsteps approaching his hut. A small child's face, filled with innocence, peeks through a gap in the door.",
+      "supporting_char_keys": [],
+      "text_te_en": "Malli Maayaa Mattito Aadukuntunnaadu, Intalo Bayata Nundi Gusagusalu Vinipinchaayi, Adugula Chappudu Daggarayyindi. Graamastulu Atani Paaka Vaipu Vastunnaarani Arthamai, Atani Gunde Vegangaa Kottukundi. Bhayanto Malli Tana Maayaa Bommalanu Tvaratvaragaa Daachaadu, Itarulato Panchukovaalaa Vaddaa Ani Aandolana Paddaadu. \"Akkada Em Chestunnaavu, Malli Anna?\" Ani Oka Chinna Gontu Vinipinchindi. Appudu — Talupu Sandulonchi Oka Chinnaari Mukham Tongi Chusindi, Amaayakatvanto Nindina Kallato.",
+      "text_en": "Malli was playing with the magical clay when suddenly whispers were heard from outside, and footsteps grew closer. Realizing that villagers were coming towards his hut, his heart beat fast. In fear, Malli quickly hid his magical figures, worrying whether to share them with others or not. \"What are you doing there, Malli anna?\" a small voice was heard. Then—a child's face peeked through the gap in the door, with eyes full of innocence."
+    },
+    {
+      "id": 6,
+      "text": "ఆ చిన్నారి వెళ్ళిన కొద్దిసేపటికే, ఒక తల్లి తన రోగగ్రస్తమైన పసిపాపను తీసుకుని మల్లి పాక దగ్గరకు వచ్చింది, కన్నీళ్ళతో సహాయం కోసం వేడుకుంది. ఆ బిడ్డ బాధను చూసిన మల్లి గుండె కరిగిపోయింది, అతని కళ్ళు ఆ చిన్నారిపైనే నిలిచాయి. అతను ఒక నిట్టూర్పు విడిచి, మాయా మట్టిని తీసుకుని, రంగుల జింకను తయారు చేశాడు. \"భయపడకండి, నేను ప్రయత్నిస్తాను\" అని ధైర్యంగా చెప్పాడు. ఆ జింక తయారైన వెంటనే — దాని నుండి ఒక వెచ్చని కాంతి వెలువడింది, అది పిల్ల చేతిలో వాలింది. ఆ జింక మెల్లగా పిల్ల బుగ్గను నిమిరింది, ఆ బిడ్డ పెదవులపై చిన్న నవ్వు మెరిసింది.",
+      "image_prompt": "The boy creates a colorful deer from the magical clay, which then settles into the sick child's hand. The deer gently strokes the child's cheek, and a small smile appears on the child's lips. Soft, evening light beginning to fall, casting a gentle, reassuring glow on the anxious faces inside the shed. A magical inner light emanates from the clay deer, brightening the child's pale face.",
+      "scene_visual": "The boy creates a colorful deer from the magical clay, which then settles into the sick child's hand. The deer gently strokes the child's cheek, and a small smile appears on the child's lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chinnaari Vellina Koddisepatike, Oka Talli Tana Rogagrastamaina Pasipaapanu Tisukuni Malli Paaka Daggaraku Vachchindi, Kannillato Sahaayam Kosam Vedukundi. Aa Bidda Baadhanu Chusina Malli Gunde Karigipoyindi, Atani Kallu Aa Chinnaaripaine Nilichaayi. Atanu Oka Nitturpu Vidichi, Maayaa Mattini Tisukuni, Rangula Jinkanu Tayaaru Cheshaadu. \"Bhayapadakandi, Nenu Prayatnistaanu\" Ani Dhairyangaa Cheppaadu. Aa Jinka Tayaaraina Ventane — Daani Nundi Oka Vechchani Kaanti Veluvadindi, Adi Pilla Chetilo Vaalindi. Aa Jinka Mellagaa Pilla Bugganu Nimirindi, Aa Bidda Pedavulapai Chinna Navvu Merisindi.",
+      "text_en": "A little while after that child left, a mother came to Malli's hut with her sick baby, pleading for help with tears. Malli's heart melted seeing the baby's suffering, and his eyes fixed on the child. He sighed, took the magical clay, and made a colorful deer. \"Don't be afraid, I will try,\" he said bravely. As soon as the deer was made—a warm light emanated from it and landed in the child's hand. The deer gently stroked the child's cheek, and a small smile appeared on the baby's lips."
+    },
+    {
+      "id": 7,
+      "text": "ఆ రోజు నుండి, మల్లిలో సిగ్గు మాయమైంది, అతని ముఖం నవ్వులతో వెలిగిపోయింది. అతని పాక పిల్లలతో సందడిగా మారింది, వారు అతని చుట్టూ చేరి అద్భుతాలను చూశారు. అతను ఒక చిన్న మట్టి కుందేలును తయారు చేశాడు — అది తన ముక్కును ఊపింది, పిల్లలు ఆనందంతో కేరింతలు కొట్టారు. \"ఈ మట్టి ఎన్నో ఆనందాలను సృష్టించగలదు!\" అని మల్లి సంతోషంగా చెప్పాడు, అందరి కళ్ళలో మెరుపు. ఆ మాయా మట్టితో మల్లి గ్రామమంతా ఆనందాన్ని నింపాడు, అతని కళకు ప్రాణం పోశాడు.",
+      "image_prompt": "The boy shapes a small clay rabbit, which then wiggles its nose. Children gathered around him clap and cheer with delight, their eyes sparkling. Bright, golden hour sunlight, painting the village square with a warm, celebratory glow, highlighting the colorful, animated clay creations and the joyful faces of the villagers.",
+      "scene_visual": "The boy shapes a small clay rabbit, which then wiggles its nose. Children gathered around him clap and cheer with delight, their eyes sparkling.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Roju Nundi, Mallilo Siggu Maayamaindi, Atani Mukham Navvulato Veligipoyindi. Atani Paaka Pillalato Sandadigaa Maarindi, Vaaru Atani Chuttu Cheri Adbhutaalanu Chushaaru. Atanu Oka Chinna Matti Kundelunu Tayaaru Cheshaadu — Adi Tana Mukkunu Upindi, Pillalu Aanandanto Kerintalu Kottaaru. \"I Matti Enno Aanandaalanu Srrishtinchagaladu!\" Ani Malli Santoshangaa Cheppaadu, Andari Kallalo Merupu. Aa Maayaa Mattito Malli Graamamantaa Aanandaanni Nimpaadu, Atani Kalaku Praanam Poshaadu.",
+      "text_en": "From that day on, Malli's shyness disappeared, and his face lit up with smiles. His hut became lively with children. They gathered around him and watched the wonders. He made a small clay rabbit—and it wiggled its nose! The children cheered with joy. \"This clay can create so much joy!\" Malli said happily, with a sparkle in everyone's eyes. With that magical clay, Malli filled the entire village with joy, bringing his art to life."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is exceptionally well-structured with a compelling narrative arc and excellent emotional depth, making it highly engaging for children. The grammar is flawless, contributing to a smooth reading experience. To reach an award-winning level, the primary area for improvement is dialogue richness. While present, the dialogue could be expanded to give more distinct voices to secondary characters and to show Mally's transformation through more direct interactions, rather than primarily internal thoughts or narrator descriptions."
+  },
+  "title_te_en": "Siggupade Malli Maayaa Matti",
+  "moral_te_en": "Manalo Unna Pratyekamaina Bahumatini Dhairyangaa Panchukunte, Prapancham Enta Adbhutangaa Maarutundo Chushaavaa?",
+  "title_en": "The Shy Malli and the Magical Clay",
+  "moral_en": "Have you seen how wonderful the world can become when you bravely share the special gift inside you?",
+  "id": "20260605_131232",
+  "date": "2026-06-05",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "ప్రాణం పోసే మాయా మట్టి మరియు సిగ్గుపడే కుమ్మరి",
+  "thumbnail": "stories/20260605_131232/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
