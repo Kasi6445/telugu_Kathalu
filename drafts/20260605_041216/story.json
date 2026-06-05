@@ -1,0 +1,110 @@
+{
+  "title": "మనసు చూసిన నిధి",
+  "moral": "కొన్నిసార్లు, నిజమైన ఆనందాన్ని, విలువైన నిధులను మన కళ్ళముందే ఉన్న సాధారణ విషయాలలోనే చూడగలం, మనసు తెరిచి చూస్తే.",
+  "main_character": "A slender, ambitious young man in his late teens, with sharp, curious eyes and a tendency to sigh dramatically when bored. He wears finely embroidered silk kurtas. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A grand palace in the ancient kingdom of Vasanthapuri, located near the Krishna River in Andhra Pradesh. The palace features ornate stone carvings, sprawling emerald gardens, and a majestic throne room. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "యువరాజు వసంత్ తన పట్టు పరుపుపై అటూ ఇటూ దొర్లాడు, అతని వేళ్ళు పక్కన ఉన్న పట్టు తెరలను నిదానంగా తాకాయి. కిటికీలో నుండి రాజభవనం పచ్చిక బయళ్ళను చూస్తూ, అతని కళ్ళు ఏదో అద్భుతమైన దాని కోసం వెతికాయి. ఒక నిట్టూర్పు అతని పెదవుల మీదుగా జారింది — రోజూ చూసే దృశ్యం అతనికి విసుగు తెప్పించింది. \"ఈ ప్రాపంచిక విషయాలలో నాకు విసుగు వచ్చింది. ఏదో అద్భుతమైనది దొరకాలి!\" అని గొణుగుకున్నాడు. అతని చూపులు దూరంగా కదిలాయి, కానీ అతని మనసు — ఎక్కడో దూరంగా ఉంది. ఏదో గొప్ప పని చేయాలని అతని ముఖం మీద ఒక దృఢమైన సంకల్పం మెరిసింది.",
+      "image_prompt": "The boy lies on his silk bed, looking out the window with his eyes searching for something extraordinary. A determined resolve shines on his face, hinting at a great deed he wishes to accomplish. Bright morning sun streaming through large arched windows, illuminating dust motes dancing in the air, a sense of golden opulence but also confinement.",
+      "scene_visual": "The boy lies on his silk bed, looking out the window with his eyes searching for something extraordinary. A determined resolve shines on his face, hinting at a great deed he wishes to accomplish.",
+      "supporting_char_keys": [],
+      "text_te_en": "Yuvaraaju Vasant Tana Pattu Parupupai Atu Itu Dorlaadu, Atani Vellu Pakkana Unna Pattu Teralanu Nidaanangaa Taakaayi. Kitikilo Nundi Raajabhavanam Pachchika Bayallanu Chustu, Atani Kallu Edo Adbhutamaina Daani Kosam Vetikaayi. Oka Nitturpu Atani Pedavula Midugaa Jaarindi — Roju Chuse Drrishyam Ataniki Visugu Teppinchindi. \"I Praapanchika Vishayaalalo Naaku Visugu Vachchindi. Edo Adbhutamainadi Dorakaali!\" Ani Gonugukunnaadu. Atani Chupulu Durangaa Kadilaayi, Kaani Atani Manasu — Ekkado Durangaa Undi. Edo Goppa Pani Cheyaalani Atani Mukham Mida Oka Drridhamaina Sankalpam Merisindi.",
+      "text_en": "Prince Vasanth tossed and turned on his silk bed, his fingers slowly touching the silk curtains beside him. Looking out the window at the palace lawns, his eyes searched for something wonderful. A sigh escaped his lips — the everyday view bored him. \"I'm tired of these ordinary things. I must find something amazing!\" he grumbled. His gaze drifted far away, but his mind — was somewhere distant. A determined look shone on his face, as if he wanted to do something great."
+    },
+    {
+      "id": 2,
+      "text": "తండ్రి పిలుపుతో, వసంత్ సింహాసన మందిరంలోకి అడుగు పెట్టాడు — అతని గుండె వేగంగా కొట్టుకుంది. మహారాజు విక్రమాదిత్యుడు గంభీరంగా కూర్చుని, కొద్దిగా నవ్వుతూ కుమారుడి వైపు చూశాడు. \"రాకుమారా, నిజమైన విలువైన వస్తువును కనుగొని నా జ్ఞానాన్ని నిరూపించు!\" అని మహారాజు గొంతు మందిరం గోడలపై ప్రతిధ్వనించింది. వసంత్ ఉత్సాహంతో ముందుకు వంగాడు, అతని కళ్ళు పెద్దవయ్యాయి. తండ్రి తన వైపు సూటిగా చూస్తూ, నిజమైన విలువైన వస్తువును కనుగొనమని — సవాల్ విసిరాడు. ఆ సవాల్ వసంత్ గుండెల్లో ఒక కొత్త ఉత్సాహాన్ని నింపింది.",
+      "image_prompt": "The boy leans forward eagerly as the king, seated regally, challenges him to find a truly valuable item. His eyes widen with excitement, reflecting the new enthusiasm stirred by his father's words. Regal and formal, with sunlight filtering through stained-glass windows, casting colorful patterns on the polished marble floor, creating an atmosphere of serious expectation.",
+      "scene_visual": "The boy leans forward eagerly as the king, seated regally, challenges him to find a truly valuable item. His eyes widen with excitement, reflecting the new enthusiasm stirred by his father's words.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tandri Piluputo, Vasant Sinhaasana Mandiranloki Adugu Pettaadu — Atani Gunde Vegangaa Kottukundi. Mahaaraaju Vikramaadityudu Gambhirangaa Kurchuni, Koddigaa Navvutu Kumaarudi Vaipu Chushaadu. \"Raakumaaraa, Nijamaina Viluvaina Vastuvunu Kanugoni Naa Jnyaanaanni Nirupinchu!\" Ani Mahaaraaju Gontu Mandiram Godalapai Pratidhvaninchindi. Vasant Utsaahanto Munduku Vangaadu, Atani Kallu Peddavayyaayi. Tandri Tana Vaipu Sutigaa Chustu, Nijamaina Viluvaina Vastuvunu Kanugonamani — Savaal Visiraadu. Aa Savaal Vasant Gundello Oka Kotta Utsaahaanni Nimpindi.",
+      "text_en": "At his father's call, Vasanth stepped into the throne room — his heart beating fast. King Vikramaditya sat grandly, looking at his son with a slight smile. \"Prince, find a truly valuable item and prove your wisdom!\" the King's voice echoed off the hall's walls. Vasanth leaned forward eagerly, his eyes wide. His father looked straight at him, challenging him to find a truly valuable item. That challenge filled Vasanth's heart with new excitement."
+    },
+    {
+      "id": 3,
+      "text": "వసంత్ దూర దేశాలకు ప్రయాణించి, రత్నాల కోసం రద్దీగా ఉండే మార్కెట్లలో వెతికాడు. అక్కడి వ్యాపారులు అరుదైన వజ్రాలు, రంగురంగుల రాళ్ళు చూపించారు, కానీ ఏదీ అతని మనసును ఆకట్టుకోలేదు. అతని చుట్టూ మార్కెట్ గందరగోళం, అరుపులు, పాటల శబ్దాలు నిండిపోయాయి. \"ఇవన్నీ అందంగానే ఉన్నాయి, కానీ 'అరుదైన' అనే పదం ఇక్కడ లేదు,\" అని వసంత్ నిట్టూర్చాడు. అతని భుజాలు వాలిపోయాయి, నుదురు ముడుచుకుంది, ఆ రత్నాలను చూస్తూనే అతని ముఖంలో — నిరాశ మాత్రమే నిండింది. నిజమైన అరుదైన వస్తువు దొరకలేదని అతను అసంతృప్తితో అక్కడి నుండి కదిలాడు.",
+      "image_prompt": "The boy stands amidst a bustling market, looking at various gems presented by merchants. His shoulders are slumped and his brow is furrowed, revealing a face filled with disappointment as he finds nothing truly rare. Harsh midday sun beating down on a dusty, colorful market, bright and chaotic, emphasizing Vasanth's weariness.",
+      "scene_visual": "The boy stands amidst a bustling market, looking at various gems presented by merchants. His shoulders are slumped and his brow is furrowed, revealing a face filled with disappointment as he finds nothing truly rare.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vasant Dura Deshaalaku Prayaaninchi, Ratnaala Kosam Raddigaa Unde Maarketlalo Vetikaadu. Akkadi Vyaapaarulu Arudaina Vajraalu, Rangurangula Raallu Chupinchaaru, Kaani Edi Atani Manasunu Aakattukoledu. Atani Chuttu Maarket Gandaragolan, Arupulu, Paatala Shabdaalu Nindipoyaayi. \"Ivanni Andangaane Unnaayi, Kaani 'Arudaina' Ane Padam Ikkada Ledu,\" Ani Vasant Nitturchaadu. Atani Bhujaalu Vaalipoyaayi, Nuduru Muduchukundi, Aa Ratnaalanu Chustune Atani Mukhanlo — Niraasha Maatrame Nindindi. Nijamaina Arudaina Vastuvu Dorakaledani Atanu Asantrriptito Akkadi Nundi Kadilaadu.",
+      "text_en": "Vasanth traveled to distant lands, searching for gems in busy markets. The merchants there showed him rare diamonds and colorful stones, but none captured his heart. The market was full of noise, shouts, and songs all around him. \"These are all beautiful, but the word 'rare' isn't here,\" Vasanth sighed. His shoulders drooped, his brow furrowed, and his face was filled only with — disappointment as he looked at the gems. He moved on, unhappy that he hadn't found a truly rare item."
+    },
+    {
+      "id": 4,
+      "text": "నిరాశతో రాజభవనం చేరుకున్న వసంత్, పచ్చని తోటలో నడిచాడు. అక్కడి నేల నుండి తడి మట్టి, వికసించిన పూల సువాసన అతని ముక్కుపుటాల నిండా నిండింది. వృద్ధ తోటమాలి కృష్ణ, సాధారణ మొక్కలను ఎంతో శ్రద్ధగా చూసుకుంటున్నాడు. వసంత్ తల వంచి, కళ్ళు సన్నగా చేసి చూశాడు — ఇంత సాధారణమైన వాటిలో అతను అంత ఆనందాన్ని ఎలా కనుగొంటాడు? ఆ తోటమాలి ముఖంలో — అంతులేని శాంతి కనిపించింది. కృష్ణ తల పైకెత్తి, వసంత్ కళ్ళలోకి చూసి, ఒక చిన్న చిరునవ్వు నవ్వాడు.",
+      "image_prompt": "The boy walks through a green garden, observing an old gardener tending to ordinary plants. The gardener looks up, meets the boy's eyes, and offers a small, peaceful smile. Soft, late afternoon light filtering through leafy trees, dappling the garden in warm greens and golds, creating a peaceful, contemplative atmosphere.",
+      "scene_visual": "The boy walks through a green garden, observing an old gardener tending to ordinary plants. The gardener looks up, meets the boy's eyes, and offers a small, peaceful smile.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Niraashato Raajabhavanam Cherukunna Vasant, Pachchani Totalo Nadichaadu. Akkadi Nela Nundi Tadi Matti, Vikasinchina Pula Suvaasana Atani Mukkuputaala Nindaa Nindindi. Vrriddha Totamaali Krrishna, Saadhaarana Mokkalanu Ento Shraddhagaa Chusukuntunnaadu. Vasant Tala Vanchi, Kallu Sannagaa Chesi Chushaadu — Inta Saadhaaranamaina Vaatilo Atanu Anta Aanandaanni Elaa Kanugontaadu? Aa Totamaali Mukhanlo — Antuleni Shaanti Kanipinchindi. Krrishna Tala Paiketti, Vasant Kallaloki Chusi, Oka Chinna Chirunavvu Navvaadu.",
+      "text_en": "Vasanth returned to the palace feeling disappointed and walked into the green garden. The scent of wet earth and blooming flowers filled his nostrils from the ground. Old gardener Krishna was carefully tending to ordinary plants. Vasanth tilted his head, narrowing his eyes — how could Krishna find so much joy in such simple things? On the gardener's face — there was endless peace. Krishna looked up, met Vasanth's eyes, and gave a small smile."
+    },
+    {
+      "id": 5,
+      "text": "వసంత్ మెల్లగా కృష్ణ దగ్గరికి వెళ్ళాడు, అతని మనసులో ప్రశ్నలు నిండిపోయాయి. కృష్ణ ఒక గులాబీ పువ్వు రేకును సున్నితంగా తాకుతూ, దాని సున్నితమైన స్పర్శను ఆస్వాదించాడు. \"ప్రతి మొక్క దాని స్వంత జీవిత కథను కలిగి ఉంటుంది, యువరాజా. అరుదైనది అనేది మీ దృష్టిలో ఉంటుంది,\" అని కృష్ణ శాంతంగా చెప్పాడు. వసంత్ శ్రద్ధగా వింటూ, తల ఊపాడు — అతని మాటలు — వసంత్ గుండెలో ఏదో కదిలించాయి. వసంత్ తన ఖాళీ చేతులను చూసుకున్నాడు, ఆపై తోటమాలి వైపు చూశాడు, అతని కళ్ళలో ఒక కొత్త ఆలోచన మెరిసింది.",
+      "image_prompt": "The old gardener gently touches a rose petal while speaking to the boy, who listens intently and nods. The boy looks at his empty hands, then back at the gardener, a new thought dawning in his eyes. Golden hour sunlight, low and warm, casting long shadows across the garden path, emphasizing the intimacy and wisdom of the conversation.",
+      "scene_visual": "The old gardener gently touches a rose petal while speaking to the boy, who listens intently and nods. The boy looks at his empty hands, then back at the gardener, a new thought dawning in his eyes.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Vasant Mellagaa Krrishna Daggariki Vellaadu, Atani Manasulo Prashnalu Nindipoyaayi. Krrishna Oka Gulaabi Puvvu Rekunu Sunnitangaa Taakutu, Daani Sunnitamaina Sparshanu Aasvaadinchaadu. \"Prati Mokka Daani Svanta Jivita Kathanu Kaligi Untundi, Yuvaraajaa. Arudainadi Anedi Mi Drrishtilo Untundi,\" Ani Krrishna Shaantangaa Cheppaadu. Vasant Shraddhagaa Vintu, Tala Upaadu — Atani Maatalu — Vasant Gundelo Edo Kadilinchaayi. Vasant Tana Khaali Chetulanu Chusukunnaadu, Aapai Totamaali Vaipu Chushaadu, Atani Kallalo Oka Kotta Aalochana Merisindi.",
+      "text_en": "Vasanth slowly walked closer to Krishna, his mind full of questions. Krishna gently touched a rose petal, enjoying its delicate feel. \"Every plant has its own life story, Prince. Rarity is in your perception,\" Krishna said calmly. Vasanth listened carefully, nodding — Krishna's words — stirred something in Vasanth's heart. Vasanth looked at his empty hands, then at the gardener, a new idea sparkling in his eyes."
+    },
+    {
+      "id": 6,
+      "text": "కృష్ణ మాటలు వసంత్ మనసులో ప్రతిధ్వనిస్తుండగా, అతను ఒక సాధారణ మల్లెపువ్వు వైపు చూశాడు. ఆ మల్లెపువ్వు పరిమళం గాలిలో తిరుగుతూ, అతని చుట్టూ మత్తుగా అలుముకుంది. వసంత్ కళ్ళు విప్పార్చి, ఆ పువ్వులోని ప్రతి రేకును, దాని సున్నితమైన ఆకృతిని పరిశీలించాడు. \"ఇది... ఇది నిజంగా అరుదైనది. నేను దానిని ఎప్పుడూ చూడలేదు!\" అని ఆశ్చర్యంతో గొణుగుకున్నాడు. ఒక్కసారిగా — అన్నీ అర్థమయ్యాయి. అతని పెదవులపై ఒక నెమ్మదిగా చిరునవ్వు విచ్చుకుంది, అతను ఆ మల్లెపువ్వును అత్యంత విలువైన నిధిలా జాగ్రత్తగా కోశాడు.",
+      "image_prompt": "The boy's eyes widen as he examines every delicate petal of a common jasmine flower, its fragrance filling the air around him. A slow smile spreads across his lips as he carefully plucks the flower, treating it like a precious treasure. A magical, almost ethereal glow around the jasmine bush, as if illuminated from within, with the rest of the garden receding into soft shadow, highlighting Vasanth's moment of insight.",
+      "scene_visual": "The boy's eyes widen as he examines every delicate petal of a common jasmine flower, its fragrance filling the air around him. A slow smile spreads across his lips as he carefully plucks the flower, treating it like a precious treasure.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Krrishna Maatalu Vasant Manasulo Pratidhvanistundagaa, Atanu Oka Saadhaarana Mallepuvvu Vaipu Chushaadu. Aa Mallepuvvu Parimalam Gaalilo Tirugutu, Atani Chuttu Mattugaa Alumukundi. Vasant Kallu Vippaarchi, Aa Puvvuloni Prati Rekunu, Daani Sunnitamaina Aakrritini Parishilinchaadu. \"Idi... Idi Nijangaa Arudainadi. Nenu Daanini Eppudu Chudaledu!\" Ani Aashcharyanto Gonugukunnaadu. Okkasaarigaa — Anni Arthamayyaayi. Atani Pedavulapai Oka Nemmadigaa Chirunavvu Vichchukundi, Atanu Aa Mallepuvvunu Atyanta Viluvaina Nidhilaa Jaagrattagaa Koshaadu.",
+      "text_en": "As Krishna's words echoed in Vasanth's mind, he looked at a simple jasmine flower. The jasmine's fragrance drifted in the air, sweetly surrounding him. Vasanth opened his eyes wide, examining each petal and its delicate shape. \"This... this is truly rare. I've never really seen it before!\" he whispered in wonder. Suddenly — everything made sense. A slow smile spread across his lips, and he carefully picked the jasmine flower as if it were the most precious treasure."
+    },
+    {
+      "id": 7,
+      "text": "మల్లెపువ్వును తన చేతిలో పట్టుకుని, వసంత్ ధైర్యంగా మహారాజు ముందు నిలబడ్డాడు. \"నాన్నా, నేను కనుగొన్న అత్యంత విలువైన నిధి ఇది,\" అని శాంతంగా చెప్పాడు. మహారాజు విక్రమాదిత్యుడు కొడుకు కళ్ళలోకి చూస్తూ, అతని మాటలలోని నిశ్చలత్వాన్ని గమనించాడు. ఆ పూవు — ఒక గొప్ప జ్ఞానాన్ని మోసుకొచ్చింది. తండ్రి ముఖంపై వెచ్చని చిరునవ్వు వికసించింది, అతను కుమారుడిని ప్రేమగా తన చేతుల్లోకి తీసుకున్నాడు. మహారాజు పట్టు వస్త్రాల స్పర్శ వసంత్ కు ఎంతో ఓదార్పునిచ్చింది.",
+      "image_prompt": "The boy stands confidently before the king, holding a jasmine flower in his hand, and calmly declares it his most valuable treasure. A warm smile blossoms on the king's face as he lovingly embraces his son, the touch of his silk robes comforting the boy. A warm, celebratory light fills the throne room, perhaps sunlight streaming in more abundantly than before, signifying happiness and a bright future.",
+      "scene_visual": "The boy stands confidently before the king, holding a jasmine flower in his hand, and calmly declares it his most valuable treasure. A warm smile blossoms on the king's face as he lovingly embraces his son, the touch of his silk robes comforting the boy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mallepuvvunu Tana Chetilo Pattukuni, Vasant Dhairyangaa Mahaaraaju Mundu Nilabaddaadu. \"Naannaa, Nenu Kanugonna Atyanta Viluvaina Nidhi Idi,\" Ani Shaantangaa Cheppaadu. Mahaaraaju Vikramaadityudu Koduku Kallaloki Chustu, Atani Maatalaloni Nishchalatvaanni Gamaninchaadu. Aa Puvu — Oka Goppa Jnyaanaanni Mosukochchindi. Tandri Mukhampai Vechchani Chirunavvu Vikasinchindi, Atanu Kumaarudini Premagaa Tana Chetulloki Tisukunnaadu. Mahaaraaju Pattu Vastraala Sparsha Vasant Ku Ento Odaarpunichchindi.",
+      "text_en": "Holding the jasmine flower in his hand, Vasanth bravely stood before the King. \"Father, this is the most valuable treasure I have found,\" he said calmly. King Vikramaditya looked into his son's eyes, noticing the peace in his words. That flower — carried great wisdom. A warm smile bloomed on the father's face, and he lovingly took his son into his arms. The touch of the King's silk robes brought Vasanth great comfort."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "gardener",
+      "description": "Gardener Krishna: An elderly man with a kind, weathered face, gentle eyes, and gnarled hands. He wears a simple, patched white dhoti and a faded green turban. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 6.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 4,
+    "average": 6.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a solid narrative arc with a good moral, and the grammar is largely correct. However, the formal and descriptive language significantly detracts from its appeal as a children's story, making it feel more like a written report than an oral tale. The most crucial fix to elevate this story to an award-worthy level would be to simplify the language, increase direct and engaging dialogue, and actively show emotions through character actions rather than stating them, thereby enhancing both oral authenticity and child engagement."
+  },
+  "quality_warning": true,
+  "title_te_en": "Manasu Chusina Nidhi",
+  "moral_te_en": "Konnisaarlu, Nijamaina Aanandaanni, Viluvaina Nidhulanu Mana Kallamunde Unna Saadhaarana Vishayaalalone Chudagalan, Manasu Terichi Chuste.",
+  "title_en": "The Treasure the Heart Saw",
+  "moral_en": "Sometimes, we can find true happiness and valuable treasures in the simple things right before our eyes, if we look with an open heart.",
+  "id": "20260605_041216",
+  "date": "2026-06-05",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "సాధారణంలో అసమానత అనే కథ - అరుదైన రత్నాల కోసం వెతికిన యువరాజు మరియు తోటమాలి",
+  "thumbnail": "stories/20260605_041216/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
