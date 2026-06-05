@@ -1,0 +1,116 @@
+{
+  "title": "వర్తకుడికి మట్టి పాఠం",
+  "moral": "నిజమైన సంతోషం మనసులో ఉంటుంది, సంపదలో కాదు, పిల్లలూ.",
+  "main_character": "A wealthy merchant, Dhanunjay, in his late 40s, with a stern face often furrowed in thought and impeccably dressed in fine silks. He believes money is the ultimate source of happiness and constantly seeks to increase his wealth. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A bustling ancient Telugu village named Pothanapalli, near a riverbank where the potter's wheel spins. The merchant's grand mansion overlooks the village, contrasting with the humble, sun-baked clay huts. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పొత్తనపల్లి గ్రామంలో ధనంజయ అనే వర్తకుడు తన భవంతిలో కూర్చుని, బంగారు నాణేలను లెక్కబెట్టుకుంటున్నాడు. అతని నుదుట చింతరేఖలు, పెదవులు గట్టిగా అదిమిపట్టి ఉన్నాయి — లెక్క తప్పుతుందేమో అన్నట్లు. నాణేలు మఖ్మల్ సంచిలో పడుతుంటే, మెత్తటి 'కిణ్‌కిణ్' శబ్దం గదిలో నిశ్శబ్దాన్ని నింపింది. లెక్కపెట్టిన వాటినే మళ్ళీ మళ్ళీ లెక్కపెడుతూ, తల అడ్డంగా ఊపాడు. \"ఇంకా పెరగాలి... ఇంకా చాలా పెరగాలి!\" అని తనతోనే గుసగుసలాడాడు. ఆ అపారమైన సంపద మధ్య కూడా, అతని పెదవుల నుండి ఒక పెద్ద నిట్టూర్పు వదిలింది. కిటికీలోంచి బయట ప్రపంచాన్ని చూస్తూ ఉండిపోయాడు.",
+      "image_prompt": "The merchant sits in his mansion, repeatedly counting golden coins and shaking his head. His forehead is furrowed with worry lines, and his lips are pressed tightly together as he sighs deeply. Warm, rich morning light filtering through an ornate window into a lavish chamber, illuminating dust motes dancing above a heavy wooden table.",
+      "scene_visual": "The merchant sits in his mansion, repeatedly counting golden coins and shaking his head. His forehead is furrowed with worry lines, and his lips are pressed tightly together as he sighs deeply.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pottanapalli Graamanlo Dhananjaya Ane Vartakudu Tana Bhavantilo Kurchuni, Bangaaru Naanelanu Lekkabettukuntunnaadu. Atani Nuduta Chintarekhalu, Pedavulu Gattigaa Adimipatti Unnaayi — Lekka Tapputundemo Annatlu. Naanelu Makhmal Sanchilo Padutunte, Mettati 'Kin‌Kin' Shabdam Gadilo Nishshabdaanni Nimpindi. Lekkapettina Vaatine Malli Malli Lekkapedutu, Tala Addangaa Upaadu. \"Inkaa Peragaali... Inkaa Chaalaa Peragaali!\" Ani Tanatone Gusagusalaadaadu. Aa Apaaramaina Sampada Madhya Kudaa, Atani Pedavula Nundi Oka Pedda Nitturpu Vadilindi. Kitikilonchi Bayata Prapanchaanni Chustu Undipoyaadu.",
+      "text_en": "In the village of Pottanapalli, a merchant named Dhananjaya sat in his mansion, counting gold coins. His forehead was furrowed with worry, and his lips were pressed tightly together – as if he was afraid of miscounting. As the coins dropped into a velvet bag, a soft 'clink-clink' sound filled the quiet room. He counted the same coins again and again, shaking his head. \"It needs to grow more... much more!\" he whispered to himself. Even amidst all that immense wealth, a deep sigh escaped his lips. He stared out the window at the world outside."
+    },
+    {
+      "id": 2,
+      "text": "కిటికీలోంచి చూస్తున్న ధనంజయ దృష్టి, నది ఒడ్డున కుండలు చేస్తున్న ఆనంద్ మీద పడింది. ఆనంద్ మట్టిని చక్రంపై పెడుతుంటే, తడి మట్టి 'బురబుర' మంటూ శబ్దం చేస్తోంది. ఆనంద్ ముఖంలో చిరునవ్వు, అతని పెదవుల నుండి ఓ పాట తేలికగా వినిపిస్తోంది. ధనంజయ తల ఒక పక్కకు వంచి, కళ్ళు సన్నగా చేసి చూశాడు — అతని నుదుట చిన్న ముడత. \"అతనికి ధనం లేదు, అయినా ఇంత సంతోషంగా ఎలా ఉండగలడు?\" అని తనలో తాను గొణుక్కున్నాడు. ఇంతలో అతని కళ్ళలో ఒక మెరుపు, పెదవులపై చిన్న చిరునవ్వు మెరిసింది — ఏదో ఆలోచన తట్టినట్లు.",
+      "image_prompt": "The merchant leans his head to one side, squinting his eyes as he watches the potter happily working by the river. A small wrinkle forms on his forehead, and then a spark appears in his eyes, followed by a subtle smile on his lips. Bright, clear midday sun on the riverbank, casting sharp shadows from the potter's shed, while Dhanunjay's balcony remains in partial, cool shade.",
+      "scene_visual": "The merchant leans his head to one side, squinting his eyes as he watches the potter happily working by the river. A small wrinkle forms on his forehead, and then a spark appears in his eyes, followed by a subtle smile on his lips.",
+      "supporting_char_keys": [
+        "potter"
+      ],
+      "text_te_en": "Kitikilonchi Chustunna Dhananjaya Drrishti, Nadi Odduna Kundalu Chestunna Aanand Mida Padindi. Aanand Mattini Chakrampai Pedutunte, Tadi Matti 'Burabura' Mantu Shabdam Chestondi. Aanand Mukhanlo Chirunavvu, Atani Pedavula Nundi O Paata Telikagaa Vinipistondi. Dhananjaya Tala Oka Pakkaku Vanchi, Kallu Sannagaa Chesi Chushaadu — Atani Nuduta Chinna Mudata. \"Ataniki Dhanam Ledu, Ayinaa Inta Santoshangaa Elaa Undagaladu?\" Ani Tanalo Taanu Gonukkunnaadu. Intalo Atani Kallalo Oka Merupu, Pedavulapai Chinna Chirunavvu Merisindi — Edo Aalochana Tattinatlu.",
+      "text_en": "As Dhananjaya looked out the window, his eyes fell upon Anand, who was making pots by the riverbank. As Anand placed the clay on the wheel, the wet mud made a soft 'squish-squish' sound. Anand had a smile on his face, and a song floated easily from his lips. Dhananjaya tilted his head, narrowing his eyes – a small wrinkle appeared on his forehead. \"He has no wealth, yet how can he be so happy?\" he mumbled to himself. Just then, a spark lit up in his eyes, and a small smile appeared on his lips – as if an idea had struck him."
+    },
+    {
+      "id": 3,
+      "text": "ఆ మరుసటి రోజు, ధనంజయ నేరుగా ఆనంద్ కుండల షెడ్డు వద్దకు వచ్చాడు. ఆనంద్ ఆశ్చర్యంతో కళ్ళు పెద్దవి చేసుకుని చూస్తుండగానే, ధనంజయ ఒక పెద్ద బంగారు నాణేల సంచిని అతని చేతికి అందించాడు. ఆనంద్ చేతిలో ఆ సంచి బరువు, ఊహించని 'గణగణ' శబ్దం అతన్ని అవాక్కయ్యేలా చేసింది. ధనంజయ తన భుజాలు వెనక్కి లాగి, పెదవులపై చిన్న నవ్వుతో, \"ఈ డబ్బుతో నీ జీవితం మరింత సంతోషంగా మారుతుంది!\" అన్నాడు. ఆనంద్ మొదట ఆనందంతో మెరిసినా, వెంటనే అతని ముఖంలో చిరునవ్వు తగ్గి — చుట్టూ భయంగా చూశాడు. ఆ సంచిని గట్టిగా పట్టుకుని, ఎవరికి కనపడకుండా దాచేయాలన్నట్లుగా అతని చూపులు పరుగులెత్తాయి.",
+      "image_prompt": "The merchant hands a heavy bag of golden coins to the potter, who initially looks surprised and then fearful. The potter's eyes dart around nervously, clutching the bag tightly as if searching for a place to hide it. The golden hour light of late afternoon, casting long shadows as Dhanunjay hands the pouch to Anand, who stands in the warm glow.",
+      "scene_visual": "The merchant hands a heavy bag of golden coins to the potter, who initially looks surprised and then fearful. The potter's eyes dart around nervously, clutching the bag tightly as if searching for a place to hide it.",
+      "supporting_char_keys": [
+        "potter"
+      ],
+      "text_te_en": "Aa Marusati Roju, Dhananjaya Nerugaa Aanand Kundala Sheddu Vaddaku Vachchaadu. Aanand Aashcharyanto Kallu Peddavi Chesukuni Chustundagaane, Dhananjaya Oka Pedda Bangaaru Naanela Sanchini Atani Chetiki Andinchaadu. Aanand Chetilo Aa Sanchi Baruvu, Uhinchani 'Ganagana' Shabdam Atanni Avaakkayyelaa Chesindi. Dhananjaya Tana Bhujaalu Venakki Laagi, Pedavulapai Chinna Navvuto, \"I Dabbuto Ni Jivitam Marinta Santoshangaa Maarutundi!\" Annaadu. Aanand Modata Aanandanto Merisinaa, Ventane Atani Mukhanlo Chirunavvu Taggi — Chuttu Bhayangaa Chushaadu. Aa Sanchini Gattigaa Pattukuni, Evariki Kanapadakundaa Daacheyaalannatlugaa Atani Chupulu Parugulettaayi.",
+      "text_en": "The very next day, Dhananjaya went straight to Anand's pottery shed. As Anand watched with wide, surprised eyes, Dhananjaya handed him a large bag of gold coins. The weight of the bag in Anand's hand and the unexpected 'clink-clank' sound left him speechless. Dhananjaya pulled his shoulders back, and with a small smile on his lips, said, \"With this money, your life will become even happier!\" Anand's face first lit up with joy, but then his smile quickly faded – and he looked around fearfully. He clutched the bag tightly, his eyes darting around as if he wanted to hide it from everyone."
+    },
+    {
+      "id": 4,
+      "text": "కొన్ని రోజులు గడిచాయి. ఆనంద్ కుండల షెడ్డు నిశ్శబ్దంగా ఉంది. అతని చక్రం తిరగడం లేదు, పాట వినిపించడం లేదు. సగం చేసిన కుండల చుట్టూ ఈగలు 'బుజ్జి'మని తిరుగుతున్నాయి. ఆనంద్ పదేపదే భయంగా వెనక్కి తిరిగి చూస్తున్నాడు, అతని చేతులు ఏదో వెతుకుతున్నట్లు కదులుతున్నాయి. అతను ఒక మూలన బంగారు సంచిని పాతిపెట్టాడు, కానీ వెంటనే మళ్ళీ తవ్వి తీశాడు — ఎక్కడ దాచాలో తెలియక. అతని పెదవుల నుండి ఆందోళనతో కూడిన నిట్టూర్పులు మాత్రమే వినిపిస్తున్నాయి. \"ఈ డబ్బు నా నిద్రను దూరం చేసింది... నా సంతోషాన్ని దూరం చేసింది,\" అని నిస్సహాయంగా గొణుక్కున్నాడు.",
+      "image_prompt": "The potter repeatedly digs up and re-buries the bag of gold coins in a corner, his hands moving frantically. He constantly glances over his shoulder with a fearful expression, sighing with deep anxiety. Dim twilight creeping into Anand's small hut, casting long, unsettling shadows from the corners, highlighting his worried face.",
+      "scene_visual": "The potter repeatedly digs up and re-buries the bag of gold coins in a corner, his hands moving frantically. He constantly glances over his shoulder with a fearful expression, sighing with deep anxiety.",
+      "supporting_char_keys": [
+        "potter"
+      ],
+      "text_te_en": "Konni Rojulu Gadichaayi. Aanand Kundala Sheddu Nishshabdangaa Undi. Atani Chakram Tiragadam Ledu, Paata Vinipinchadam Ledu. Sagam Chesina Kundala Chuttu Igalu 'Bujji'Mani Tirugutunnaayi. Aanand Padepade Bhayangaa Venakki Tirigi Chustunnaadu, Atani Chetulu Edo Vetukutunnatlu Kadulutunnaayi. Atanu Oka Mulana Bangaaru Sanchini Paatipettaadu, Kaani Ventane Malli Tavvi Tishaadu — Ekkada Daachaalo Teliyaka. Atani Pedavula Nundi Aandolanato Kudina Nitturpulu Maatrame Vinipistunnaayi. \"I Dabbu Naa Nidranu Duram Chesindi... Naa Santoshaanni Duram Chesindi,\" Ani Nissahaayangaa Gonukkunnaadu.",
+      "text_en": "A few days passed. Anand's pottery shed was silent. His wheel was not spinning, and no song could be heard. Flies buzzed around the half-finished pots. Anand kept looking back fearfully, his hands moving as if searching for something. He buried the bag of gold in one corner, but then immediately dug it up again – not knowing where to hide it. Only anxious sighs could be heard from his lips. \"This money has taken away my sleep... it has taken away my happiness,\" he mumbled helplessly."
+    },
+    {
+      "id": 5,
+      "text": "ధనంజయ తన భవంతి కిటికీలోంచి మళ్ళీ ఆనంద్‌ను చూశాడు. కుమ్మరి షెడ్డు నుండి ఎటువంటి పాట, చక్రం శబ్దం రావడం లేదు — కేవలం సాయంత్రపు చీకట్లో క్రికెట్ల 'జిర్రు'మని శబ్దం వినిపిస్తోంది. ఆనంద్ నిస్సత్తువగా కూర్చుని ఉన్నాడు, అతని ముఖం అలసిపోయినట్లు కనిపించింది. ధనంజయ కళ్ళు పెద్దవి చేసుకుని, అతని నుదుట మెల్లగా ముడతలు పడ్డాయి. అతని పెదవులపై ఉన్న చిరునవ్వు పూర్తిగా చెరిగిపోయింది. \"నా ఉద్దేశ్యం మంచిదే కదా, మరి అతనికి ఎందుకు ఇలా జరిగింది?\" అని తనలో తాను ఆలోచించుకున్నాడు. ఆనంద్ చివరకు తన భుజాలు వాల్చి, పని ఆపేసి కూలబడిపోయాడు.",
+      "image_prompt": "The merchant watches from his window as the potter sits dejectedly, his shoulders slumped and his face looking exhausted. The merchant's eyes widen, and the small smile that was on his lips completely disappears. A pale moonlight washes over the village, making the potter's hut look stark and lonely, while Dhanunjay watches from a dimly lit alcove of his mansion.",
+      "scene_visual": "The merchant watches from his window as the potter sits dejectedly, his shoulders slumped and his face looking exhausted. The merchant's eyes widen, and the small smile that was on his lips completely disappears.",
+      "supporting_char_keys": [
+        "potter"
+      ],
+      "text_te_en": "Dhananjaya Tana Bhavanti Kitikilonchi Malli Aanand‌Nu Chushaadu. Kummari Sheddu Nundi Etuvanti Paata, Chakram Shabdam Raavadam Ledu — Kevalam Saayantrapu Chikatlo Kriketla 'Jirru'Mani Shabdam Vinipistondi. Aanand Nissattuvagaa Kurchuni Unnaadu, Atani Mukham Alasipoyinatlu Kanipinchindi. Dhananjaya Kallu Peddavi Chesukuni, Atani Nuduta Mellagaa Mudatalu Paddaayi. Atani Pedavulapai Unna Chirunavvu Purtigaa Cherigipoyindi. \"Naa Uddeshyam Manchide Kadaa, Mari Ataniki Enduku Ilaa Jarigindi?\" Ani Tanalo Taanu Aalochinchukunnaadu. Aanand Chivaraku Tana Bhujaalu Vaalchi, Pani Aapesi Kulabadipoyaadu.",
+      "text_en": "Dhananjaya looked at Anand again from his mansion window. No song or sound of the wheel came from the potter's shed – only the 'chirp-chirp' of crickets in the evening darkness. Anand sat listlessly, his face looking tired. Dhananjaya's eyes widened, and wrinkles slowly appeared on his forehead. The smile on his lips had completely vanished. \"My intention was good, wasn't it? So why did this happen to him?\" he wondered to himself. Anand finally slumped his shoulders, stopped working, and looked defeated."
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి ఉదయం, ఆనంద్ ధనంజయ భవంతి మెట్లపై నిలబడ్డాడు. అతని ముఖం ప్రశాంతంగా ఉంది. అతని చేతిలో ఉన్న బంగారు సంచిని ధనంజయ పాదాల వద్ద మెల్లగా దించాడు — 'డబ్' మనే చిన్న శబ్దంతో. ధనంజయ కళ్ళు పెద్దవిగా చేసి, నోరు తెరిచి చూశాడు — ఆశ్చర్యంతో మాట రాలేదు. ఆనంద్ నిలకడగా అతని కళ్ళలోకి చూస్తూ, \"ఈ ధనం నాకు భయాన్ని, ఆందోళనను మాత్రమే ఇచ్చింది... నా సంతోషాన్ని కాదు,\" అన్నాడు. ధనంజయ ఆ బంగారు సంచిని, ఆపై ఆనంద్ ప్రశాంతమైన ముఖాన్ని చూస్తూ ఉండిపోయాడు — అతని మనసులో ఏదో కొత్త ఆలోచన ఉదయించినట్లు.",
+      "image_prompt": "The potter stands calmly on the merchant's steps and gently places the bag of gold coins at his feet. The merchant's eyes are wide, and his mouth is open in astonishment as he looks from the bag to the potter's peaceful face. Early morning light, soft and golden, illuminating the entrance of the mansion, highlighting the contrast between the humble potter and the opulent setting.",
+      "scene_visual": "The potter stands calmly on the merchant's steps and gently places the bag of gold coins at his feet. The merchant's eyes are wide, and his mouth is open in astonishment as he looks from the bag to the potter's peaceful face.",
+      "supporting_char_keys": [
+        "potter"
+      ],
+      "text_te_en": "Marusati Udayan, Aanand Dhananjaya Bhavanti Metlapai Nilabaddaadu. Atani Mukham Prashaantangaa Undi. Atani Chetilo Unna Bangaaru Sanchini Dhananjaya Paadaala Vadda Mellagaa Dinchaadu — 'Dab' Mane Chinna Shabdanto. Dhananjaya Kallu Peddavigaa Chesi, Noru Terichi Chushaadu — Aashcharyanto Maata Raaledu. Aanand Nilakadagaa Atani Kallaloki Chustu, \"I Dhanam Naaku Bhayaanni, Aandolananu Maatrame Ichchindi... Naa Santoshaanni Kaadu,\" Annaadu. Dhananjaya Aa Bangaaru Sanchini, Aapai Aanand Prashaantamaina Mukhaanni Chustu Undipoyaadu — Atani Manasulo Edo Kotta Aalochana Udayinchinatlu.",
+      "text_en": "The next morning, Anand stood on the steps of Dhananjaya's mansion. His face was calm. He gently placed the bag of gold from his hand at Dhananjaya's feet – with a soft 'thud'. Dhananjaya's eyes widened, and his mouth hung open – he was speechless with surprise. Anand looked steadily into his eyes and said, \"This wealth only gave me fear and worry... not happiness.\" Dhananjaya stared at the bag of gold, and then at Anand's calm face – as if a new idea had dawned in his mind."
+    },
+    {
+      "id": 7,
+      "text": "ఆనంద్ తన కుండల షెడ్డుకు తిరిగి వచ్చాడు. చక్రం మళ్ళీ వేగంగా తిరుగుతోంది, అతని పెదవుల నుండి మునుపటి తీయని పాట మళ్ళీ వినిపిస్తోంది — గాలిలో తేలియాడుతూ. \"ఈ మట్టి నాకు స్నేహితుడు!\" అని నవ్వుతూ తనతోనే అన్నాడు. ధనంజయ తన భవంతి కిటికీలో కూర్చుని, ఆ పాటను వింటున్నాడు. అతని ముఖంపై ఇప్పుడు ప్రశాంతత, పెదవులపై చిన్న చిరునవ్వు. గ్రామం నుండి వినిపిస్తున్న సాధారణ శబ్దాలను — పిల్లల అరుపులు, పక్షుల కిలకిలరావాలు — అతను అప్పుడే వింటున్నట్లుగా ఆస్వాదిస్తున్నాడు. ధనంజయ కళ్ళలో ఇప్పుడు డబ్బు కోసం ఆరాటం లేదు, కేవలం లోతైన ప్రశాంతత మాత్రమే.",
+      "image_prompt": "The potter is back at his wheel, which spins rapidly as he sings a sweet song, while the merchant watches from his window. The merchant's face now holds a calm expression, and a small smile rests on his lips as he listens to the sounds of the village. Bright, cheerful morning sunlight bathing the entire village, making the river sparkle and the clay huts glow, reflecting the renewed joy.",
+      "scene_visual": "The potter is back at his wheel, which spins rapidly as he sings a sweet song, while the merchant watches from his window. The merchant's face now holds a calm expression, and a small smile rests on his lips as he listens to the sounds of the village.",
+      "supporting_char_keys": [
+        "potter"
+      ],
+      "text_te_en": "Aanand Tana Kundala Shedduku Tirigi Vachchaadu. Chakram Malli Vegangaa Tirugutondi, Atani Pedavula Nundi Munupati Tiyani Paata Malli Vinipistondi — Gaalilo Teliyaadutu. \"I Matti Naaku Snehitudu!\" Ani Navvutu Tanatone Annaadu. Dhananjaya Tana Bhavanti Kitikilo Kurchuni, Aa Paatanu Vintunnaadu. Atani Mukhampai Ippudu Prashaantata, Pedavulapai Chinna Chirunavvu. Graamam Nundi Vinipistunna Saadhaarana Shabdaalanu — Pillala Arupulu, Pakshula Kilakilaraavaalu — Atanu Appude Vintunnatlugaa Aasvaadistunnaadu. Dhananjaya Kallalo Ippudu Dabbu Kosam Aaraatam Ledu, Kevalam Lotaina Prashaantata Maatrame.",
+      "text_en": "Anand returned to his pottery shed. The wheel was spinning fast again, and his sweet song from before could be heard once more – floating in the air. \"This clay is my friend!\" he said to himself with a smile. Dhananjaya sat by his mansion window, listening to the song. Now there was peace on his face, and a small smile on his lips. He was enjoying the usual sounds from the village – children's shouts, birds chirping – as if hearing them for the very first time. In Dhananjaya's eyes, there was no longer a longing for money, only a deep sense of peace."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "potter",
+      "description": "A humble potter, Anand, a lean man in his 30s, with a kind, open face and hands stained with clay, often wearing a simple dhoti. He finds joy in his craft and simple life, always humming a tune. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 6.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 6,
+    "narrative_arc": 10,
+    "child_engagement": 6,
+    "average": 6.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts a compelling narrative arc and effectively conveys emotional shifts through character actions. However, its formal prose and the explicit moral statement at the beginning detract from the warmth expected of an oral children's story. To elevate this piece, the language needs to be significantly softened to a conversational, engaging tone, and the archaic verb form ('గలడు') must be replaced. Incorporating more direct, character-specific dialogue would also enhance its appeal to young listeners."
+  },
+  "quality_warning": true,
+  "title_te_en": "Vartakudiki Matti Paatham",
+  "moral_te_en": "Nijamaina Santosham Manasulo Untundi, Sampadalo Kaadu, Pillalu.",
+  "title_en": "The Merchant's Lesson from Clay",
+  "moral_en": "True happiness is in the heart, not in wealth, children.",
+  "id": "20260605_191141",
+  "date": "2026-06-05",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "ధనమేరా అన్నిటికీ మూలం కాదు అనే కథ - ధనవంతుడైన వర్తకుడు మరియు సంతోషంగా ఉన్న కుమ్మరి",
+  "thumbnail": "stories/20260605_191141/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
