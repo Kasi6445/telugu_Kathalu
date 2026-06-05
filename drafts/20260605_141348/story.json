@@ -1,0 +1,116 @@
+{
+  "title": "చీకటి నేర్పిన వెలుగు పాఠం",
+  "moral": "కష్టాలు ఎదురైనప్పుడే కదా, మన జీవితంలో ఉన్న ఆనందాల నిజమైన విలువ అర్థమయ్యేది.",
+  "main_character": "Prince Surya is a young, handsome prince, accustomed to extreme luxury and shielded from all forms of hardship. He has a slender build and soft, uncalloused hands, reflecting his pampered life, but possesses an inherent good heart beneath his initial boredom. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story begins in the opulent, sprawling palace of the prosperous kingdom of Suryapuram, filled with polished marble, golden accents, and lush gardens. It then shifts to a humble, rustic village on the outskirts of the kingdom, characterized by mud huts, simple fields, and a close-knit community. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "సూర్య యువరాజు తన రాజభవనంలో పట్టు కుషన్ల మధ్య వాలి, చేతిలోని పట్టు దిండును విసుగుగా పైకి విసిరి మళ్ళీ పట్టుకున్నాడు. తోటల నుండి వీస్తున్న మల్లె, గులాబీ వాసనలు కూడా అతనికి ఏమాత్రం సంతోషాన్ని ఇవ్వలేదు. \"ఈ బంగారు పళ్ళెంలో ఆహారం కూడా రుచిగా లేదు,\" అని అతను పెదవి విరిచాడు. ఏ కష్టమూ తెలియని ఆ యువరాజుకు ప్రతిదీ మామూలుగానే తోచింది. అతను నిట్టూర్చాడు — ఆ సుగంధ ద్రవ్యాల వాసన కూడా అతనిలో కొత్తదనాన్ని కలిగించలేదు. అంతలో, విశాలమైన దర్బారులో ఒక బలమైన తలుపు చప్పుడు ప్రతిధ్వనించింది.",
+      "image_prompt": "The prince reclines amidst silk cushions, impatiently tossing a silk pillow from his hand and catching it again. He sighs deeply, his lips pursed in an expression of profound boredom. Bright morning sun streaming through large arched windows, reflecting off polished marble floors and golden decor, creating a dazzling but sterile opulence.",
+      "scene_visual": "The prince reclines amidst silk cushions, impatiently tossing a silk pillow from his hand and catching it again. He sighs deeply, his lips pursed in an expression of profound boredom.",
+      "supporting_char_keys": [],
+      "text_te_en": "Surya Yuvaraaju Tana Raajabhavananlo Pattu Kushanla Madhya Vaali, Chetiloni Pattu Dindunu Visugugaa Paiki Visiri Malli Pattukunnaadu. Totala Nundi Vistunna Malle, Gulaabi Vaasanalu Kudaa Ataniki Emaatram Santoshaanni Ivvaledu. \"I Bangaaru Pallenlo Aahaaram Kudaa Ruchigaa Ledu,\" Ani Atanu Pedavi Virichaadu. E Kashtamu Teliyani Aa Yuvaraajuku Pratidi Maamulugaane Tochindi. Atanu Nitturchaadu — Aa Sugandha Dravyaala Vaasana Kudaa Atanilo Kottadanaanni Kaliginchaledu. Antalo, Vishaalamaina Darbaarulo Oka Balamaina Talupu Chappudu Pratidhvaninchindi.",
+      "text_en": "Prince Surya leaned among soft silk cushions in his palace. He was bored, tossing a silk pillow in his hand up and catching it again. Even the sweet smell of jasmine and roses from the gardens didn't make him happy. \"This food on the golden plate doesn't taste good either,\" he grumbled, pouting. To the prince, who had never known any trouble, everything felt ordinary. He sighed – even the pleasant smells around him didn't feel new or exciting. Suddenly, a loud bang from a heavy door echoed through the large royal hall."
+    },
+    {
+      "id": 2,
+      "text": "ఆ తలుపు తెరుచుకోగానే, సాధారణ నూలు వస్త్రాలు ధరించిన ఒక వృద్ధుడు లోపలికి వచ్చాడు. అతని వస్త్రాల గలగల శబ్దం, యువరాజు పట్టు వస్త్రాల మృదువైన శబ్దానికి పూర్తి విరుద్ధంగా ఉంది. యువరాజు సూర్యను చూస్తూ, ఆ వృద్ధుడు తీవ్రమైన స్వరంతో ఇలా అన్నాడు: \"వెలుగు విలువ తెలియాలంటే చీకటిని కూడా చూడాలి, యువరాజా.\" యువరాజు సూర్య ఆ మాటలకు నిశ్చేష్టుడయ్యాడు. అతని నోరు తెరుచుకుంది — మాట రాలేదు. కొద్దిసేపటి తర్వాత, సాధారణ దుస్తులు ధరించిన సూర్య యువరాజును రాజభవనం నుండి బయటికి తీసుకెళ్ళారు, అతను లోకం తెలియని పసిపిల్లవాడిలా చూస్తున్నాడు.",
+      "image_prompt": "The prince stands motionless, his mouth agape, after hearing the old man's words. His wide, innocent eyes stare blankly, like a child utterly unaware of the world. Late afternoon sun, warm orange light casting long shadows across the palace courtyard, giving a sense of transition and impending change, a hint of melancholy.",
+      "scene_visual": "The prince stands motionless, his mouth agape, after hearing the old man's words. His wide, innocent eyes stare blankly, like a child utterly unaware of the world.",
+      "supporting_char_keys": [
+        "wise_elder"
+      ],
+      "text_te_en": "Aa Talupu Teruchukogaane, Saadhaarana Nulu Vastraalu Dharinchina Oka Vrriddhudu Lopaliki Vachchaadu. Atani Vastraala Galagala Shabdan, Yuvaraaju Pattu Vastraala Mrriduvaina Shabdaaniki Purti Viruddhangaa Undi. Yuvaraaju Suryanu Chustu, Aa Vrriddhudu Tivramaina Svaranto Ilaa Annaadu: \"Velugu Viluva Teliyaalante Chikatini Kudaa Chudaali, Yuvaraajaa.\" Yuvaraaju Surya Aa Maatalaku Nishcheshtudayyaadu. Atani Noru Teruchukundi — Maata Raaledu. Koddisepati Tarvaata, Saadhaarana Dustulu Dharinchina Surya Yuvaraajunu Raajabhavanam Nundi Bayatiki Tisukellaaru, Atanu Lokam Teliyani Pasipillavaadilaa Chustunnaadu.",
+      "text_en": "As the door opened, an old man walked in, wearing simple cotton clothes. The rustle of his clothes was very different from the soft swish of the prince's silk. Looking at Prince Surya, the old man spoke in a serious voice: \"To truly know the value of light, you must also see darkness, Prince.\" Prince Surya was shocked by these words. His mouth opened, but no sound came out. A little while later, Prince Surya was led out of the palace, now wearing plain clothes. He looked around like a small child who knew nothing about the world."
+    },
+    {
+      "id": 3,
+      "text": "పొగతో నిండిన ఒక చిన్న గుడిసెలో, సూర్య యువరాజు పొడికట్టెలను వెలిగించడానికి నానా తంటాలు పడుతున్నాడు. అతని సున్నితమైన చేతులు కట్టెలను సరిగా పట్టుకోలేకపోయాయి, ప్రతి ప్రయత్నమూ వృథా అయింది. తడిసిన కట్టెల నుండి వచ్చిన ఘాటైన పొగ అతని కళ్ళలో మంట పుట్టించింది, అతను తన చేతి వెనక భాగంతో కళ్ళు తుడుచుకున్నాడు. \"ఇది ఇంత కష్టం అని అనుకోలేదు!\" అని అతను కోపంగా గుణుక్కున్నాడు. కళ్ళ నుండి నీళ్ళు ధారగా కారుతున్నాయి — అయినా అతను పట్టు వదలకుండా ప్రయత్నిస్తూనే ఉన్నాడు. ఇంతలో, ఒక దయగల గ్రామస్తుడు చిరునవ్వుతో అతని దగ్గరికి వచ్చి, సహాయం చేయడానికి సిద్ధంగా ఉన్నట్లు సంజ్ఞ చేశాడు.",
+      "image_prompt": "In a small hut filled with smoke, the prince struggles to light dry sticks, his delicate hands unable to properly grasp them. Tears stream from his eyes as he rubs them with the back of his hand, irritated by the pungent smoke. Dim, smoky interior of a mud hut, with weak, flickering light from a sputtering fire pit, creating deep shadows and an atmosphere of struggle and discomfort.",
+      "scene_visual": "In a small hut filled with smoke, the prince struggles to light dry sticks, his delicate hands unable to properly grasp them. Tears stream from his eyes as he rubs them with the back of his hand, irritated by the pungent smoke.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pogato Nindina Oka Chinna Gudiselo, Surya Yuvaraaju Podikattelanu Veliginchadaaniki Naanaa Tantaalu Padutunnaadu. Atani Sunnitamaina Chetulu Kattelanu Sarigaa Pattukolekapoyaayi, Prati Prayatnamu Vrrithaa Ayindi. Tadisina Kattela Nundi Vachchina Ghaataina Poga Atani Kallalo Manta Puttinchindi, Atanu Tana Cheti Venaka Bhaaganto Kallu Tuduchukunnaadu. \"Idi Inta Kashtam Ani Anukoledu!\" Ani Atanu Kopangaa Gunukkunnaadu. Kalla Nundi Nillu Dhaaragaa Kaarutunnaayi — Ayinaa Atanu Pattu Vadalakundaa Prayatnistune Unnaadu. Intalo, Oka Dayagala Graamastudu Chirunavvuto Atani Daggariki Vachchi, Sahaayam Cheyadaaniki Siddhangaa Unnatlu Sanjnya Cheshaadu.",
+      "text_en": "Inside a small, smoky hut, Prince Surya was having a very hard time trying to light some dry firewood. His soft hands couldn't hold the wood right, and every try failed. The strong smoke from the damp wood made his eyes sting, and he rubbed them with the back of his hand. \"I didn't think this would be so difficult!\" he muttered angrily. Tears ran down his face, but he kept trying, not giving up. Just then, a kind villager came over with a smile, offering to help him."
+    },
+    {
+      "id": 4,
+      "text": "ఆ గ్రామస్తుడు సూర్య చేతిని మెల్లగా పట్టుకుని, కట్టెలను ఎలా పేర్చాలో, నిప్పు ఎలా వెలిగించాలో చూపించాడు. ఆ గ్రామస్తుడి గరుకు చేతులు సూర్య సున్నితమైన వేళ్ళకు విచిత్రంగా తగిలాయి. \"ప్రతి గొప్ప పని చిన్న అడుగులతోనే మొదలవుతుంది, యువరాజా,\" అని అతను ఓర్పుగా వివరించాడు. సూర్య తన అసమర్థతకు సిగ్గుపడి, తల దించుకున్నాడు — కానీ జాగ్రత్తగా చూశాడు. నెమ్మదిగా, సూర్య ఆ అడుగులను అనుసరించడం మొదలుపెట్టాడు, అతని కదలికలు కొద్దిగా మెరుగుపడ్డాయి. చివరకు, అతను స్వయంగా ఒక చిన్న పనిని పూర్తి చేయగలిగాడు, అతని కళ్ళలో ఒక చిన్న మెరుపు కనిపించింది.",
+      "image_prompt": "The villager gently holds the prince's hand, guiding him on how to arrange the sticks and light the fire. The rough texture of the villager's hands contrasts sharply with the prince's delicate fingers, and a small spark of understanding flickers in the prince's eyes. Soft, late morning light filtering through a thatched roof, illuminating dust motes dancing in the air, creating a quiet and patient learning environment.",
+      "scene_visual": "The villager gently holds the prince's hand, guiding him on how to arrange the sticks and light the fire. The rough texture of the villager's hands contrasts sharply with the prince's delicate fingers, and a small spark of understanding flickers in the prince's eyes.",
+      "supporting_char_keys": [
+        "villager"
+      ],
+      "text_te_en": "Aa Graamastudu Surya Chetini Mellagaa Pattukuni, Kattelanu Elaa Perchaalo, Nippu Elaa Veliginchaalo Chupinchaadu. Aa Graamastudi Garuku Chetulu Surya Sunnitamaina Vellaku Vichitrangaa Tagilaayi. \"Prati Goppa Pani Chinna Adugulatone Modalavutundi, Yuvaraajaa,\" Ani Atanu Orpugaa Vivarinchaadu. Surya Tana Asamarthataku Siggupadi, Tala Dinchukunnaadu — Kaani Jaagrattagaa Chushaadu. Nemmadigaa, Surya Aa Adugulanu Anusarinchadam Modalupettaadu, Atani Kadalikalu Koddigaa Merugupaddaayi. Chivaraku, Atanu Svayangaa Oka Chinna Panini Purti Cheyagaligaadu, Atani Kallalo Oka Chinna Merupu Kanipinchindi.",
+      "text_en": "The villager gently took Surya's hand and showed him how to stack the wood and start the fire. The villager's rough hands felt odd against Surya's soft fingers. \"Every big job starts with small steps, Prince,\" he explained kindly. Surya felt a little ashamed that he couldn't do it, and he looked down – but he watched very carefully. Slowly, Surya started to copy the steps, and his movements got a little better. At last, he was able to finish a small task all by himself, and a tiny spark of pride shone in his eyes."
+    },
+    {
+      "id": 5,
+      "text": "రోజులు గడుస్తున్న కొద్దీ, సూర్య యువరాజు గ్రామస్తుల జీవితాలను నిశితంగా గమనించాడు. కష్టపడి పనిచేస్తున్నా కూడా, వారు కలిసి పాటలు పాడుకుంటూ, ఒకరికొకరు సహాయం చేసుకుంటూ కనిపించారు. పొలాల్లో పనిచేస్తున్నప్పుడు వినిపించే వారి శ్రావ్యమైన పాటలు, వారి ఐక్యతను చాటి చెప్పాయి. \"వీరి సంతోషం నా రాజభోగాలలో ఎప్పుడూ లేదు,\" అని అతను తనలో తాను అనుకున్నాడు. అతను రాజభవనంలో ఎప్పుడూ ఇలాంటి ఆనందాన్ని చూడలేదు — ఇది నిజమైన సంతోషం. ఈ కొత్త జీవితం అతనిలో ఒక కొత్త గౌరవాన్ని, ఒక బంధాన్ని కలిగించింది. అప్పుడు, ఆ వృద్ధుడు గ్రామ సరిహద్దులో నిశ్శబ్దంగా నిలబడి, సూర్యను చూసి నవ్వుతున్నాడు.",
+      "image_prompt": "The old man stands silently at the village boundary, observing the prince who is watching the villagers work in the fields. A gentle smile plays on the old man's lips as he sees the prince's thoughtful expression. Warm, golden hour light washing over a bustling village scene, highlighting communal activity and genuine smiles, conveying peace and connection.",
+      "scene_visual": "The old man stands silently at the village boundary, observing the prince who is watching the villagers work in the fields. A gentle smile plays on the old man's lips as he sees the prince's thoughtful expression.",
+      "supporting_char_keys": [
+        "villager"
+      ],
+      "text_te_en": "Rojulu Gadustunna Koddi, Surya Yuvaraaju Graamastula Jivitaalanu Nishitangaa Gamaninchaadu. Kashtapadi Panichestunnaa Kudaa, Vaaru Kalisi Paatalu Paadukuntu, Okarikokaru Sahaayam Chesukuntu Kanipinchaaru. Polaallo Panichestunnappudu Vinipinche Vaari Shraavyamaina Paatalu, Vaari Aikyatanu Chaati Cheppaayi. \"Viri Santosham Naa Raajabhogaalalo Eppudu Ledu,\" Ani Atanu Tanalo Taanu Anukunnaadu. Atanu Raajabhavananlo Eppudu Ilaanti Aanandaanni Chudaledu — Idi Nijamaina Santoshan. I Kotta Jivitam Atanilo Oka Kotta Gauravaanni, Oka Bandhaanni Kaliginchindi. Appudu, Aa Vrriddhudu Graama Sarihaddulo Nishshabdangaa Nilabadi, Suryanu Chusi Navvutunnaadu.",
+      "text_en": "As the days went by, Prince Surya watched the villagers' lives very closely. Even though they worked hard, they sang songs together and always helped each other. Their sweet songs, heard while they worked in the fields, showed how united they were. \"I never found this kind of happiness in all my royal luxuries,\" he thought to himself. He had never seen such joy in the palace – this was real happiness. This new life gave him a new respect for others and a feeling of connection. Then, the old man stood quietly at the edge of the village, watching Surya and smiling."
+    },
+    {
+      "id": 6,
+      "text": "సంవత్సరం గడిచిపోయింది, సూర్య యువరాజు ఇప్పుడు దృఢంగా, జ్ఞానంతో నిండి ఉన్నాడు. ఆ వృద్ధుడు, సూర్య కొండపై నిలబడి, రాజ్యపు అందాన్ని చూస్తున్నప్పుడు అతని పక్కన నిలబడ్డాడు. చల్లటి గాలిలో పైన్ చెట్ల సువాసన తేలియాడుతోంది, అది అతని మనసుకు ప్రశాంతతను ఇచ్చింది. \"చీకటి లేకుండా వెలుగు విలువ తెలియదని ఇప్పుడు అర్థమైంది,\" అని సూర్య కృతజ్ఞతతో అన్నాడు. అతని ముఖంలో ప్రశాంతమైన చిరునవ్వు — అది పాత సూర్యకు పూర్తి విరుద్ధం. అతను వృద్ధుడికి నమస్కరించి, రాజభవనం వైపు వెళ్ళే దారిలో ధైర్యంగా అడుగులు వేశాడు, పూర్తిగా మారిన మనిషిలా.",
+      "image_prompt": "The prince stands on a hill, a serene smile gracing his face, as he bows respectfully to the old man beside him. The cool air carries the scent of pine trees, and his expression reflects a profound sense of peace and gratitude. A clear, bright morning on a hilltop overlooking the kingdom, with soft, diffused sunlight, symbolizing clarity, new beginnings, and a sense of calm.",
+      "scene_visual": "The prince stands on a hill, a serene smile gracing his face, as he bows respectfully to the old man beside him. The cool air carries the scent of pine trees, and his expression reflects a profound sense of peace and gratitude.",
+      "supporting_char_keys": [
+        "wise_elder"
+      ],
+      "text_te_en": "Sanvatsaram Gadichipoyindi, Surya Yuvaraaju Ippudu Drridhangaa, Jnyaananto Nindi Unnaadu. Aa Vrriddhudu, Surya Kondapai Nilabadi, Raajyapu Andaanni Chustunnappudu Atani Pakkana Nilabaddaadu. Challati Gaalilo Pain Chetla Suvaasana Teliyaadutondi, Adi Atani Manasuku Prashaantatanu Ichchindi. \"Chikati Lekundaa Velugu Viluva Teliyadani Ippudu Arthamaindi,\" Ani Surya Krritajnyatato Annaadu. Atani Mukhanlo Prashaantamaina Chirunavvu — Adi Paata Suryaku Purti Viruddhan. Atanu Vrriddhudiki Namaskarinchi, Raajabhavanam Vaipu Velle Daarilo Dhairyangaa Adugulu Veshaadu, Purtigaa Maarina Manishilaa.",
+      "text_en": "A year went by, and Prince Surya was now strong and wise. The old man stood next to Surya as he looked out at the beautiful kingdom from a hilltop. The fresh smell of pine trees floated in the cool air, making his mind feel peaceful. \"Now I understand that without darkness, you can't truly know the value of light,\" Surya said with thanks. A calm smile was on his face – very different from the old Surya. He bowed to the old man and bravely walked towards the palace, like a completely changed person."
+    },
+    {
+      "id": 7,
+      "text": "సూర్య యువరాజు రాజభవనానికి తిరిగి వచ్చాక, సింహాసనాన్ని అధిష్టించి, తన ప్రజలను ప్రేమతో, జ్ఞానంతో పాలించాడు. అతను ప్రజల సమస్యలను ఓపికగా విన్నాడు, ప్రతి ఒక్కరి కష్టాన్ని అర్థం చేసుకున్నాడు. అతను మాట్లాడినప్పుడు — దర్బారులో గౌరవపూర్వకమైన నిశ్శబ్దం ఆవరించింది, అది గతంలో ఎప్పుడూ లేదు. \"ప్రతి ఒక్కరి కష్టం నాకు తెలుసు, వారి సంతోషం నా బాధ్యత,\" అని అతను దృఢంగా పలికాడు. అతని నిర్ణయాలు న్యాయంగా, ఆలోచనాత్మకంగా ఉండేవి, ప్రజలు అతని పాలనలో సుఖంగా జీవించారు. సూర్య యువరాజు జీవితంలో ఇప్పుడు నిజమైన సంతోషం, సంతృప్తి నిండి ఉన్నాయి.",
+      "image_prompt": "The prince sits on the throne, patiently listening as his people present their problems. A respectful silence fills the court, reflecting the profound attention and wisdom in his gaze. The palace throne room, now filled with a softer, more purposeful light, perhaps from open windows allowing natural air, less gaudy, more dignified and welcoming.",
+      "scene_visual": "The prince sits on the throne, patiently listening as his people present their problems. A respectful silence fills the court, reflecting the profound attention and wisdom in his gaze.",
+      "supporting_char_keys": [],
+      "text_te_en": "Surya Yuvaraaju Raajabhavanaaniki Tirigi Vachchaaka, Sinhaasanaanni Adhishtinchi, Tana Prajalanu Premato, Jnyaananto Paalinchaadu. Atanu Prajala Samasyalanu Opikagaa Vinnaadu, Prati Okkari Kashtaanni Artham Chesukunnaadu. Atanu Maatlaadinappudu — Darbaarulo Gauravapurvakamaina Nishshabdam Aavarinchindi, Adi Gatanlo Eppudu Ledu. \"Prati Okkari Kashtam Naaku Telusu, Vaari Santosham Naa Baadhyata,\" Ani Atanu Drridhangaa Palikaadu. Atani Nirnayaalu Nyaayangaa, Aalochanaatmakangaa Undevi, Prajalu Atani Paalanalo Sukhangaa Jivinchaaru. Surya Yuvaraaju Jivitanlo Ippudu Nijamaina Santoshan, Santrripti Nindi Unnaayi.",
+      "text_en": "When Prince Surya returned to the palace, he became king and ruled his people with love and wisdom. He listened patiently to everyone's problems and understood their struggles. When he spoke, a respectful quiet filled the royal court, which had never happened before. \"I know everyone's troubles, and their happiness is my duty,\" he said firmly. His decisions were fair and well-thought-out, and the people lived happily under his rule. Prince Surya's life was now full of true happiness and satisfaction."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "wise_elder",
+      "description": "An ancient, revered sage with a long, flowing white beard and kind, knowing eyes. He wears simple, hand-spun saffron robes, carrying a wooden staff. Always the same character across every scene."
+    },
+    {
+      "key": "villager",
+      "description": "A kind-faced, middle-aged woman from the village, with weathered hands and a gentle smile. She wears a simple, faded cotton saree and has a practical, resilient demeanor. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story presents a compelling narrative arc with excellent grammar and effectively portrays the protagonist's emotional journey through actions. However, the dialogue is sparse and lacks distinct character voices, making several scenes feel more like a report than an interactive story. To elevate this to an award-worthy piece (9+), the most crucial improvement would be to infuse more natural, character-specific dialogue that actively advances the plot and deepens character relationships, especially between Surya and the old man or the villagers."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chikati Nerpina Velugu Paatham",
+  "moral_te_en": "Kashtaalu Edurainappude Kadaa, Mana Jivitanlo Unna Aanandaala Nijamaina Viluva Arthamayyedi.",
+  "title_en": "The Lesson of Light from Darkness",
+  "moral_en": "Only when we face difficulties do we truly understand the real value of happiness in our lives.",
+  "id": "20260605_141348",
+  "date": "2026-06-05",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "చీకటి లేకుండా వెలుగు లేదు అనే కథ - సుఖాలను కోల్పోయిన యువరాజు మరియు జ్ఞానోదయం",
+  "thumbnail": "stories/20260605_141348/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
