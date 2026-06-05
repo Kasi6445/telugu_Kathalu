@@ -1,0 +1,111 @@
+{
+  "title": "చింటూ కొండ గుట్టు",
+  "moral": "సాధారణ విషయాలను కూడా శ్రద్ధగా గమనించి ఆలోచిస్తే, వాటిలో దాగి ఉన్న జ్ఞానం మనకు కనిపిస్తుంది.",
+  "main_character": "Chintu is a lean, energetic 8-year-old boy with bright, inquisitive eyes and messy black hair. He wears a faded blue dhoti and is always eager to explore the world around him. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, picturesque village in rural Telangana, nestled at the foot of a large, ancient hill. The scene often features mud houses with thatched roofs, a large banyan tree in the village square, and the distant, imposing presence of the hill under the afternoon sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "చింటూ చేతుల్లోని వెచ్చని, నునుపైన నది గులకరాళ్లను అలా జారవిడిచాడు. అతని కళ్ళు మాత్రం దూరంగా నిలిచిన ఆ పెద్ద కొండ పైనే నిలిచిపోయాయి. ఒక గులకరాయిని కాళ్ళతో తన్నాడు — అతని చూపులు కొండపై నుంచి కదల్లేదు. అప్పుడు తాతయ్య అతని దగ్గరకు వచ్చాడు, వెనకాల ఏదో దాచి పట్టుకున్నాడు. \"చింటూ, ఆ కొండ వైపు అంతగా ఎందుకు చూస్తున్నావు?\" అని తాతయ్య నవ్వుతూ అడిగాడు. చింటూ తాతయ్య వైపు తలతిప్పి చూశాడు, కానీ అతని చూపు కొండపైనుండి తొలగలేదు. — అతని కళ్ళు కొండపైనే ఆగిపోయాయి.",
+      "image_prompt": "The boy turns his head towards the old man while his eyes remain fixed on the distant mountain. He has just let go of warm, smooth river pebbles, and his gaze is unwavering. Bright, golden afternoon sun casting long shadows from the banyan tree, highlighting the dusty path.",
+      "scene_visual": "The boy turns his head towards the old man while his eyes remain fixed on the distant mountain. He has just let go of warm, smooth river pebbles, and his gaze is unwavering.",
+      "supporting_char_keys": [
+        "తాతయ్య"
+      ],
+      "text_te_en": "Chintu Chetulloni Vechchani, Nunupaina Nadi Gulakaraallanu Alaa Jaaravidichaadu. Atani Kallu Maatram Durangaa Nilichina Aa Pedda Konda Paine Nilichipoyaayi. Oka Gulakaraayini Kaallato Tannaadu — Atani Chupulu Kondapai Nunchi Kadalledu. Appudu Taatayya Atani Daggaraku Vachchaadu, Venakaala Edo Daachi Pattukunnaadu. \"Chintu, Aa Konda Vaipu Antagaa Enduku Chustunnaavu?\" Ani Taatayya Navvutu Adigaadu. Chintu Taatayya Vaipu Talatippi Chushaadu, Kaani Atani Chupu Kondapainundi Tolagaledu. — Atani Kallu Kondapaine Aagipoyaayi.",
+      "text_en": "Chintu let the warm, smooth river pebbles slip from his hands. But his eyes were fixed on the big mountain standing far away. He kicked a pebble with his foot — his gaze didn't move from the mountain. Just then, Thatayya came up to him, holding something hidden behind his back. “Chintu, why are you looking at that mountain so much?” Thatayya asked with a smile. Chintu turned his head to look at Thatayya, but his eyes never left the mountain. — His eyes stayed stuck on the mountain."
+    },
+    {
+      "id": 2,
+      "text": "తాతయ్య తన చేతిని ముందుకు చాచి, చింటూ భుజం తట్టాడు. అప్పుడు గాలిలో మల్లెపూల సువాసన మెల్లగా వీచింది. \"నువ్వు ఆ కొండను అంతగా చూస్తున్నావు కదా, నీకో పొడుపు కథ చెప్తాను\" అని తాతయ్య కన్నుగీటాడు. \"నిశ్శబ్దంగా నిలిచే, జ్ఞానాన్ని దాచిన కొండ – అదేమిటో చెప్పు చూద్దాం?\" అని అడిగాడు. చింటూ తన నుదురు చిట్లించుకున్నాడు, తల గోక్కున్నాడు. అతని కళ్ళ ముందు కొండ రూపం, తాతయ్య మాటలు... ఏమీ అంతుపట్టలేదు. — చింటూ తాతయ్య వైపు తెల్లబోయి చూశాడు.",
+      "image_prompt": "The boy furrows his brow and scratches his head, looking blankly at the old man. The old man has just winked at him, having posed a riddle about the mountain. Soft, diffused sunlight filtering through the banyan leaves, creating a dappled, thoughtful atmosphere.",
+      "scene_visual": "The boy furrows his brow and scratches his head, looking blankly at the old man. The old man has just winked at him, having posed a riddle about the mountain.",
+      "supporting_char_keys": [
+        "తాతయ్య"
+      ],
+      "text_te_en": "Taatayya Tana Chetini Munduku Chaachi, Chintu Bhujam Tattaadu. Appudu Gaalilo Mallepula Suvaasana Mellagaa Vichindi. \"Nuvvu Aa Kondanu Antagaa Chustunnaavu Kadaa, Niko Podupu Katha Cheptaanu\" Ani Taatayya Kannugitaadu. \"Nishshabdangaa Niliche, Jnyaanaanni Daachina Konda – Ademito Cheppu Chuddaan?\" Ani Adigaadu. Chintu Tana Nuduru Chitlinchukunnaadu, Tala Gokkunnaadu. Atani Kalla Mundu Konda Rupan, Taatayya Maatalu... Emi Antupattaledu. — Chintu Taatayya Vaipu Tellaboyi Chushaadu.",
+      "text_en": "Thatayya reached out and patted Chintu's shoulder. A gentle scent of jasmine flowers drifted in the air. “Since you're staring at that mountain so much, I'll tell you a riddle,” Thatayya said with a wink. “It stands silently, a mountain that hides wisdom – what is it, tell me?” he asked. Chintu frowned, then scratched his head. The mountain in front of him, Thatayya's words... nothing made sense. — Chintu just stared blankly at Thatayya."
+    },
+    {
+      "id": 3,
+      "text": "పొడుపు కథకు జవాబు దొరుకుతుందేమోనని చింటూ కొండ వైపు పరిగెత్తాడు. అతని బక్క కాళ్ళ కింద ఎండిన నేల గట్టిగా కరకరమంటోంది. కొండ కింద అంతా వెతికాడు — పాత పుస్తకాలు ఎక్కడా లేవు, రహస్య దారులు కనిపించలేదు. \"ఎక్కడా పుస్తకాలు లేవు, గుహలూ లేవు! జ్ఞానం ఎక్కడ దాగుంది?\" అని చింటూ చిన్నగా గొణుగుకున్నాడు, అడుగున పడి ఉన్న రాళ్లను కాలితో తన్నాడు. కొండపైకి చూడగా, ఒక చిన్న, వింత గుహ ద్వారం కనిపించింది. — ఆ గుహ చీకటిగా, ఇరుకుగా ఉంది.",
+      "image_prompt": "The boy kicks stones on the dry ground as he mutters to himself, searching for an answer. His gaze then falls upon a small, dark, and narrow cave entrance high on the mountain. Harsh midday sun beating down on the rocky path leading to the hill, making shadows sharp and colors vibrant.",
+      "scene_visual": "The boy kicks stones on the dry ground as he mutters to himself, searching for an answer. His gaze then falls upon a small, dark, and narrow cave entrance high on the mountain.",
+      "supporting_char_keys": [],
+      "text_te_en": "Podupu Kathaku Javaabu Dorukutundemonani Chintu Konda Vaipu Parigettaadu. Atani Bakka Kaalla Kinda Endina Nela Gattigaa Karakaramantondi. Konda Kinda Antaa Vetikaadu — Paata Pustakaalu Ekkadaa Levu, Rahasya Daarulu Kanipinchaledu. \"Ekkadaa Pustakaalu Levu, Guhalu Levu! Jnyaanam Ekkada Daagundi?\" Ani Chintu Chinnagaa Gonugukunnaadu, Aduguna Padi Unna Raallanu Kaalito Tannaadu. Kondapaiki Chudagaa, Oka Chinna, Vinta Guha Dvaaram Kanipinchindi. — Aa Guha Chikatigaa, Irukugaa Undi.",
+      "text_en": "Chintu ran towards the mountain, hoping to find the answer to the riddle. The dry ground crunched loudly under his skinny legs. He searched all around the bottom of the mountain — there were no old books, and no secret paths. “No books, no caves! Where is the wisdom hidden?” Chintu mumbled, kicking at the stones on the ground. Looking up the mountain, he spotted a small, strange cave entrance. — The cave looked dark and narrow."
+    },
+    {
+      "id": 4,
+      "text": "కొండకు కాస్త దూరంగా, ఒక పెద్ద రాతిపై చింటూ కూర్చున్నాడు. ఆ చల్లని, నునుపైన గ్రానైట్ రాయి అతని శరీరాన్ని సేద తీర్చింది. తన గడ్డం మోకాళ్ళపై ఆన్చుకుని, కొండ ఆకృతులను చూస్తూ ఉండిపోయాడు. అతని కళ్ళ ముందు కొండ మౌనంగా నిలిచింది — \"కొండ ఎప్పుడూ నిశ్శబ్దంగానే ఉంటుంది కదా... మరి జ్ఞానం?\" అని చింటూ తనలో తనే అనుకున్నాడు. సూర్యుడు మెల్లగా కిందకు జారుతుండగా, కొండ పొడవాటి నీడలు మారిపోవడం గమనించాడు. — ఆ నీడలు కొండకు ప్రాణం పోసినట్లు అనిపించాయి.",
+      "image_prompt": "The boy sits on a cool, smooth granite rock, resting his chin on his knees and gazing at the mountain. He watches as the setting sun casts long, changing shadows that seem to bring the mountain to life. Gentle late afternoon light, warm orange and purple hues beginning to paint the sky behind the silhouette of the hill, creating a pensive mood.",
+      "scene_visual": "The boy sits on a cool, smooth granite rock, resting his chin on his knees and gazing at the mountain. He watches as the setting sun casts long, changing shadows that seem to bring the mountain to life.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kondaku Kaasta Durangaa, Oka Pedda Raatipai Chintu Kurchunnaadu. Aa Challani, Nunupaina Graanait Raayi Atani Shariraanni Seda Tirchindi. Tana Gaddam Mokaallapai Aanchukuni, Konda Aakrritulanu Chustu Undipoyaadu. Atani Kalla Mundu Konda Maunangaa Nilichindi — \"Konda Eppudu Nishshabdangaane Untundi Kadaa... Mari Jnyaanan?\" Ani Chintu Tanalo Tane Anukunnaadu. Suryudu Mellagaa Kindaku Jaarutundagaa, Konda Podavaati Nidalu Maaripovadam Gamaninchaadu. — Aa Nidalu Kondaku Praanam Posinatlu Anipinchaayi.",
+      "text_en": "A little way from the mountain, Chintu sat on a big rock. The cool, smooth granite rock made him feel calm. He rested his chin on his knees and kept looking at the mountain's shapes. The mountain stood silently before his eyes — “The mountain is always quiet, isn't it... but where is the wisdom?” Chintu wondered to himself. As the sun slowly went down, he noticed the mountain's long shadows changing. — The shadows made the mountain seem alive."
+    },
+    {
+      "id": 5,
+      "text": "చింటూ తాతయ్య దగ్గరకు తిరిగి వచ్చాడు, అతని కళ్ళల్లో ఏదో వెతుకుతున్నట్లు. దూరంగా వాన పడిన నేల వాసన, ఇళ్ళ నుంచి వస్తున్న వంట వాసనలు కలిశాయి. \"తాతయ్యా, ఈ కొండ కథేంటి? ఇది ఏమేమి చూసింది?\" అని చింటూ తాతయ్యకు దగ్గరగా జరిగి, చెవులు రిక్కించి అడిగాడు. తాతయ్య చింటూ తల నిమిరాడు, కళ్ళల్లో లోతైన చూపు. \"కొండ ఎన్నో చూసింది, ఎందరో మనుషులను చూసింది, చింటూ. దాని మౌనమే దాని గొప్ప జ్ఞానం.\" అని తాతయ్య శాంతంగా చెప్పాడు. చింటూ తాతయ్య కళ్ళల్లోకి చూస్తూ ఉండిపోయాడు. — ఆ మాటలు చింటూ మనసులో నిలిచిపోయాయి.",
+      "image_prompt": "The old man gently strokes the boy's head while looking at him with a deep gaze. The boy, with a searching look in his eyes, leans in close to listen intently to the old man. Twilight descends, with the last vestiges of blue light fading, and a single oil lamp casting a warm, flickering glow from a nearby hut.",
+      "scene_visual": "The old man gently strokes the boy's head while looking at him with a deep gaze. The boy, with a searching look in his eyes, leans in close to listen intently to the old man.",
+      "supporting_char_keys": [
+        "తాతయ్య"
+      ],
+      "text_te_en": "Chintu Taatayya Daggaraku Tirigi Vachchaadu, Atani Kallallo Edo Vetukutunnatlu. Durangaa Vaana Padina Nela Vaasana, Illa Nunchi Vastunna Vanta Vaasanalu Kalishaayi. \"Taatayyaa, I Konda Kathenti? Idi Ememi Chusindi?\" Ani Chintu Taatayyaku Daggaragaa Jarigi, Chevulu Rikkinchi Adigaadu. Taatayya Chintu Tala Nimiraadu, Kallallo Lotaina Chupu. \"Konda Enno Chusindi, Endaro Manushulanu Chusindi, Chintu. Daani Mauname Daani Goppa Jnyaanan.\" Ani Taatayya Shaantangaa Cheppaadu. Chintu Taatayya Kallalloki Chustu Undipoyaadu. — Aa Maatalu Chintu Manasulo Nilichipoyaayi.",
+      "text_en": "Chintu came back to Thatayya, with a searching look in his eyes. From far away, the smell of rain on the earth mixed with the smell of cooking from the houses. “Thatayya, what is the story of this mountain? What has it seen?” Chintu asked, moving closer to Thatayya and listening carefully. Thatayya stroked Chintu's head, with a deep look in his eyes. “The mountain has seen many things, and many people, Chintu. Its silence is its great wisdom,” Thatayya said calmly. Chintu kept looking into Thatayya's eyes. — Those words stayed in Chintu's mind."
+    },
+    {
+      "id": 6,
+      "text": "రాత్రి చల్లని గాలి చింటూ చర్మాన్ని తాకింది, దూరంగా గుడ్లగూబ అరిచింది. తాతయ్య మాటలు, కొండ నీడలు, పొడుపు కథ — అన్నీ అతని మనసులో కలిశాయి. ఒక్కసారిగా అతని కళ్ళు పెద్దవయ్యాయి, పెదవులపై పెద్ద నవ్వు వికసించింది. అతను చిటికెలు వేశాడు. \"కొండ! అది కొండ! అది ఎప్పుడూ మౌనంగా ఉంటుంది, కానీ దాని చుట్టూ ఉన్న చరిత్రే దాని జ్ఞానం!\" అని చింటూ గట్టిగా అరిచాడు. — చింటూ ఒక్క ఉదుటున పైకి లేచాడు.",
+      "image_prompt": "The boy's eyes suddenly widen, a big smile blooms on his lips, and he snaps his fingers. He then shouts loudly and springs to his feet, having had a sudden realization. Deep blue night sky with a few bright stars beginning to appear, casting a cool, ethereal glow over the quiet village.",
+      "scene_visual": "The boy's eyes suddenly widen, a big smile blooms on his lips, and he snaps his fingers. He then shouts loudly and springs to his feet, having had a sudden realization.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raatri Challani Gaali Chintu Charmaanni Taakindi, Durangaa Gudlaguba Arichindi. Taatayya Maatalu, Konda Nidalu, Podupu Katha — Anni Atani Manasulo Kalishaayi. Okkasaarigaa Atani Kallu Peddavayyaayi, Pedavulapai Pedda Navvu Vikasinchindi. Atanu Chitikelu Veshaadu. \"Konda! Adi Konda! Adi Eppudu Maunangaa Untundi, Kaani Daani Chuttu Unna Charitre Daani Jnyaanan!\" Ani Chintu Gattigaa Arichaadu. — Chintu Okka Udutuna Paiki Lechaadu.",
+      "text_en": "The cool night air touched Chintu's skin, and an owl hooted far away. Thatayya's words, the mountain's shadows, the riddle — everything came together in his mind. Suddenly, his eyes grew wide, and a big smile appeared on his lips. He snapped his fingers. “The mountain! It's the mountain! It's always quiet, but the history all around it is its wisdom!” Chintu shouted loudly. — Chintu jumped up quickly."
+    },
+    {
+      "id": 7,
+      "text": "చింటూ పరిగెత్తుకుంటూ తాతయ్య దగ్గరకు వెళ్ళాడు, అతని అడుగుల కింద ఆకులు గలగలమన్నాయి. తాతయ్య ముందు నిలబడి, ఛాతీ ఎగరేసుకున్నాడు. \"తాతయ్యా, నాకు సమాధానం దొరికింది! అది కొండ!\" అని చింటూ ధైర్యంగా చెప్పాడు. \"కొండ ఎన్నో చరిత్రలను తనలో దాచుకుంటుంది, మౌనంగా ఉంటూనే ఎంతో జ్ఞానాన్ని పంచుతుంది కదా!\" అని వివరించాడు. తాతయ్య చింటూ వైపు చూసి, తల ఊపాడు — అతని కళ్ళల్లో గర్వం మెరిసింది. \"చాలా బాగా చెప్పావు, చింటూ! నువ్వు నిజంగా తెలివైనవాడివి.\" అని తాతయ్య మెచ్చుకున్నాడు. చింటూ ముఖం ఆనందంతో వెలిగిపోయింది.",
+      "image_prompt": "The boy stands before the old man, puffing out his chest and explaining his answer with confidence. The old man nods, his eyes shining with pride, as the boy's face lights up with joy. Warm, inviting glow from the village's evening fires and lanterns, creating a cozy, celebratory atmosphere as తాతయ్య pats Chintu's head.",
+      "scene_visual": "The boy stands before the old man, puffing out his chest and explaining his answer with confidence. The old man nods, his eyes shining with pride, as the boy's face lights up with joy.",
+      "supporting_char_keys": [
+        "తాతయ్య"
+      ],
+      "text_te_en": "Chintu Parigettukuntu Taatayya Daggaraku Vellaadu, Atani Adugula Kinda Aakulu Galagalamannaayi. Taatayya Mundu Nilabadi, Chaati Egaresukunnaadu. \"Taatayyaa, Naaku Samaadhaanam Dorikindi! Adi Konda!\" Ani Chintu Dhairyangaa Cheppaadu. \"Konda Enno Charitralanu Tanalo Daachukuntundi, Maunangaa Untune Ento Jnyaanaanni Panchutundi Kadaa!\" Ani Vivarinchaadu. Taatayya Chintu Vaipu Chusi, Tala Upaadu — Atani Kallallo Garvam Merisindi. \"Chaalaa Baagaa Cheppaavu, Chintu! Nuvvu Nijangaa Telivainavaadivi.\" Ani Taatayya Mechchukunnaadu. Chintu Mukham Aanandanto Veligipoyindi.",
+      "text_en": "Chintu ran to Thatayya, leaves rustling under his feet. He stood in front of Thatayya, puffing out his chest. “Thatayya, I found the answer! It's the mountain!” Chintu said bravely. “The mountain hides so many stories inside itself, and shares so much wisdom even while being quiet, doesn't it!” he explained. Thatayya looked at Chintu and nodded — pride shone in his eyes. “You explained it very well, Chintu! You are truly clever,” Thatayya praised him. Chintu's face glowed with happiness."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "తాతయ్య",
+      "description": "An old man with a kind, wrinkled face and a long white beard, wearing a simple white dhoti and an equally white upper cloth. He carries a smooth, gnarled walking stick and often has a twinkle in his eye. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is remarkably well-written, showcasing a compelling narrative arc and rich emotional depth through actions and dialogue. The Telugu is flawless, natural, and colloquial, making it a joy to read. To reach the highest tier, a slight adjustment to a few narrative descriptions could further enhance the 'oral warmth' of a grandparent's voice, making it even more intimate and less like a written text. This would solidify its status as an award-worthy piece."
+  },
+  "title_te_en": "Chintu Konda Guttu",
+  "moral_te_en": "Saadhaarana Vishayaalanu Kudaa Shraddhagaa Gamaninchi Aalochiste, Vaatilo Daagi Unna Jnyaanam Manaku Kanipistundi.",
+  "title_en": "Chintu's Mountain Secret",
+  "moral_en": "If you look closely and think about even simple things, you'll find the wisdom hidden inside them.",
+  "id": "20260605_151340",
+  "date": "2026-06-05",
+  "category": "podupu",
+  "subcategory": "nature_riddles",
+  "topic": "నిశ్శబ్దంగా నిలిచే, జ్ఞానాన్ని దాచిన కొండ పొడుపు కథ",
+  "thumbnail": "stories/20260605_151340/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
