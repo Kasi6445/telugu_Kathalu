@@ -1,0 +1,109 @@
+{
+  "title": "నవ్వుల పూల రహస్యం",
+  "moral": "నీ సంతోషాన్ని ఇతరులతో పంచుకుంటే, లోకం, నీ మనసు కూడా ఆనందంతో వికసిస్తాయి.",
+  "main_character": "Chinni is a small, bright-eyed girl of about seven, with two neat braids and always a smudge of earth on her cheek from playing outdoors. She has a quiet, observant nature but a deep well of kindness. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, picturesque village in rural Andhra Pradesh, nestled by a gentle river and surrounded by green fields. There are mud-brick houses with thatched roofs, a central banyan tree, and a hidden grove where special flowers grow. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "చిన్ని, మన ఊరి పక్కన ఉన్న గుట్టల వెనక, ఎవరూ చూడని ఒక చిట్టి అడవి ఉంది తెలుసా? ఒకరోజు చిన్ని ఆ అడవిలో ఆడుకుంటూ వెళ్తుంటే, ఒక చోట అడుగు ఆగిపోయింది. అక్కడ బోలెడన్ని పూల మొగ్గలు ఉన్నాయి — అన్నీ ఒకేలా, గుండ్రంగా, ముద్దగా. చిన్ని వాటిని చూసి— \"ఎంత అందమైన మొగ్గలు!\" అని మెల్లగా అంది, వాటి రేకులని మెల్లగా తాకి చూసింది, అవి చేతికి మంచులా చల్లగా అనిపించాయి. కానీ ఆమె ముఖం ఒక్కసారిగా మారిపోయింది — ఆ మొగ్గలకు రంగులే లేవు!",
+      "image_prompt": "The girl gently touches the petals of the numerous round flower buds. Her face suddenly changes as she realizes the buds have no color. Dappled sunlight filtering through dense tree leaves, creating pockets of light and shadow on the forest floor, peaceful and inviting.",
+      "scene_visual": "The girl gently touches the petals of the numerous round flower buds. Her face suddenly changes as she realizes the buds have no color.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinni, Mana Uri Pakkana Unna Guttala Venaka, Evaru Chudani Oka Chitti Adavi Undi Telusaa? Okaroju Chinni Aa Adavilo Aadukuntu Veltunte, Oka Chota Adugu Aagipoyindi. Akkada Boledanni Pula Moggalu Unnaayi — Anni Okelaa, Gundrangaa, Muddagaa. Chinni Vaatini Chusi— \"Enta Andamaina Moggalu!\" Ani Mellagaa Andi, Vaati Rekulani Mellagaa Taaki Chusindi, Avi Chetiki Manchulaa Challagaa Anipinchaayi. Kaani Aame Mukham Okkasaarigaa Maaripoyindi — Aa Moggalaku Rangule Levu!",
+      "text_en": "Chinni, do you know there's a tiny forest behind the hills next to our village, which no one has ever seen? One day, as Chinni was playing in that forest, her steps stopped at one spot. There were lots of flower buds there — all alike, round, and plump. Chinni looked at them and softly said, \"How beautiful these buds are!\" She gently touched their petals, and they felt cool like dew in her hand. But her face suddenly changed — those buds had no color!"
+    },
+    {
+      "id": 2,
+      "text": "ఆ రంగులేని మొగ్గలను చూసి చిన్నికి చాలా వింతగా అనిపించింది, మరుసటి రోజు ఒక చిన్న మట్టి కుండలో నీళ్లు తెచ్చి వాటికి పోసింది. ఆ నీళ్లు గలగలమంటూ మొక్కల మొదళ్ళలో ఇంకిపోతున్నాయి, చిన్ని వాటి పక్కన కూర్చుని తీయగా పాటలు కూడా పాడింది. కానీ ఎన్ని పాటలు పాడినా, ఎంత నీరు పోసినా అవి కదలలేదు, వికసించలేదు. చిన్నికి ఏం చేయాలో తెలియలేదు — ఆమె తల పట్టుకుంది. \"ఎందుకూ వికసించవు?\" అని నిట్టూర్చింది.",
+      "image_prompt": "The girl sits beside the flower buds, holding her head in her hands. Her face shows deep frustration as the buds remain closed despite her efforts. Late afternoon sun, warm and golden, casting long shadows across the grove, highlighting Chinni's frustrated posture.",
+      "scene_visual": "The girl sits beside the flower buds, holding her head in her hands. Her face shows deep frustration as the buds remain closed despite her efforts.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Ranguleni Moggalanu Chusi Chinniki Chaalaa Vintagaa Anipinchindi, Marusati Roju Oka Chinna Matti Kundalo Nillu Techchi Vaatiki Posindi. Aa Nillu Galagalamantu Mokkala Modallalo Inkipotunnaayi, Chinni Vaati Pakkana Kurchuni Tiyagaa Paatalu Kudaa Paadindi. Kaani Enni Paatalu Paadinaa, Enta Niru Posinaa Avi Kadalaledu, Vikasinchaledu. Chinniki Em Cheyaalo Teliyaledu — Aame Tala Pattukundi. \"Enduku Vikasinchavu?\" Ani Nitturchindi.",
+      "text_en": "Seeing those colorless buds, Chinni felt very strange. The next day, she brought water in a small clay pot and poured it on them. The water gurgled as it soaked into the roots of the plants, and Chinni sat beside them, singing sweet songs. But no matter how many songs she sang or how much water she poured, they didn't stir, they didn't blossom. Chinni didn't know what to do — she held her head. She sighed, \"Why won't you blossom?\""
+    },
+    {
+      "id": 3,
+      "text": "నిరాశగా ఉన్న చిన్ని, అడుగులు వేసుకుంటూ నేరుగా తన నాని దగ్గరికి వెళ్లి, జరిగినదంతా చెప్పింది. నాని పసుపు, ఎండిన ఆకుకూరల వాసన గుమ్మం అంతా అలుముకుంది, చిన్ని ఆ వాసన పీలుస్తూ నాని పక్కన కూర్చుని, తన చేతులు కలిపి ఆమె వైపు చూసింది. \"ఆ మొగ్గలు రంగు లేకుండా ఉన్నాయి, నేను ఎంత చేసినా వికసించట్లేదు నానీ\" అని చిన్నగా అడిగింది. నాని చిరునవ్వు నవ్వి, ప్రేమగా చిన్ని జుట్టు నిమిరింది — \"ఆ పూలు మన ఆనందాన్ని పంచుకుంటేనే వికసిస్తాయి చిన్ని\" అని మెల్లగా చెప్పింది. ఆ మాట చిన్ని మనసులో ఒక కొత్త ఆలోచన రేపింది.",
+      "image_prompt": "The old woman gently strokes the girl's hair while smiling. The girl looks up at the old woman with her hands clasped together, listening intently. The soft, warm glow of a small oil lamp inside Nani's simple home, casting a comforting, intimate light.",
+      "scene_visual": "The old woman gently strokes the girl's hair while smiling. The girl looks up at the old woman with her hands clasped together, listening intently.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Niraashagaa Unna Chinni, Adugulu Vesukuntu Nerugaa Tana Naani Daggariki Velli, Jariginadantaa Cheppindi. Naani Pasupu, Endina Aakukurala Vaasana Gummam Antaa Alumukundi, Chinni Aa Vaasana Pilustu Naani Pakkana Kurchuni, Tana Chetulu Kalipi Aame Vaipu Chusindi. \"Aa Moggalu Rangu Lekundaa Unnaayi, Nenu Enta Chesinaa Vikasinchatledu Naani\" Ani Chinnagaa Adigindi. Naani Chirunavvu Navvi, Premagaa Chinni Juttu Nimirindi — \"Aa Pulu Mana Aanandaanni Panchukuntene Vikasistaayi Chinni\" Ani Mellagaa Cheppindi. Aa Maata Chinni Manasulo Oka Kotta Aalochana Repindi.",
+      "text_en": "A disheartened Chinni walked straight to her Nani and told her everything that had happened. The scent of turmeric and dried greens filled Nani's doorway. Chinni, breathing in that scent, sat beside Nani, clasped her hands, and looked at her. \"Those buds have no color, and no matter what I do, they won't blossom, Nani,\" she asked softly. Nani smiled gently and lovingly stroked Chinni's hair — \"Those flowers will only blossom when we share our happiness, Chinni,\" she said softly. Those words sparked a new thought in Chinni's mind."
+    },
+    {
+      "id": 4,
+      "text": "నాని మాటలు విన్న చిన్ని, ఆ ఆనందాన్ని పంచుకోవడం అంటే తను సంతోషంగా ఉండటమే అనుకుంది. మళ్ళీ ఆ పూల తోట దగ్గరికి వెళ్లి, గంతులేస్తూ, గట్టిగా నవ్వింది, ఆమె బేర్ కాళ్ళ కింద ఎండుటాకులు గలగలా శబ్దం చేశాయి. \"నేను ఎంత నవ్వినా, మీరు నవ్వరా?\" అంటూ పూల వైపు చూసి అడిగింది, కానీ మొగ్గలు అలాగే మూసుకుని ఉన్నాయి. చిన్ని ముఖం కందిపోయింది, చేతులు కట్టుకుని నిలబడింది. ఆ క్షణంలో ఆమె వెనకగా ఒక వృద్ధుడు మెల్లగా, నిస్సత్తువగా నడుచుకుంటూ వెళ్ళిపోయాడు, చిన్ని అతన్ని గమనించనే లేదు.",
+      "image_prompt": "The girl stands with her arms crossed, her face flushed with disappointment. The flower buds remain tightly closed, ignoring her attempts to make them bloom. Bright, full midday sun shining down on the grove, making the colorless buds seem even more stark against the green.",
+      "scene_visual": "The girl stands with her arms crossed, her face flushed with disappointment. The flower buds remain tightly closed, ignoring her attempts to make them bloom.",
+      "supporting_char_keys": [],
+      "text_te_en": "Naani Maatalu Vinna Chinni, Aa Aanandaanni Panchukovadam Ante Tanu Santoshangaa Undatame Anukundi. Malli Aa Pula Tota Daggariki Velli, Gantulestu, Gattigaa Navvindi, Aame Ber Kaalla Kinda Endutaakulu Galagalaa Shabdam Cheshaayi. \"Nenu Enta Navvinaa, Miru Navvaraa?\" Antu Pula Vaipu Chusi Adigindi, Kaani Moggalu Alaage Musukuni Unnaayi. Chinni Mukham Kandipoyindi, Chetulu Kattukuni Nilabadindi. Aa Kshananlo Aame Venakagaa Oka Vrriddhudu Mellagaa, Nissattuvagaa Naduchukuntu Vellipoyaadu, Chinni Atanni Gamaninchane Ledu.",
+      "text_en": "Hearing Nani's words, Chinni thought that sharing happiness meant being happy herself. She went back to the flower garden, jumping and laughing loudly, the dry leaves rustling under her bare feet. \"No matter how much I laugh, won't you laugh?\" she asked, looking at the flowers, but the buds remained closed. Chinni's face fell, and she stood with her arms crossed. At that moment, an old man slowly and wearily walked past behind her, but Chinni didn't even notice him."
+    },
+    {
+      "id": 5,
+      "text": "పూలు వికసించకపోయేసరికి చిన్ని ఆలోచనలో పడింది — నాని మాటల అర్థం ఏమిటని? ఇంటికి తిరిగి వచ్చి చూస్తే, నాని నడుము పట్టుకుని గుమ్మం ఊడుతోంది. చిన్ని వెంటనే చీపురు తీసుకుని, నాని పక్కన నిలబడి, గబగబా వాకిలి ఊడ్చడం మొదలుపెట్టింది, చీపురు నేలకి తగులుతూ స్వచ్ఛమైన శబ్దం చేసింది. నాని ముఖంలో చిరునవ్వు వికసించింది, \"నీ చిన్ని సహాయం నా మనసును తేలిక చేసింది!\" అని ప్రేమగా అంది. నాని నవ్వడం చూసి, చిన్ని గుండెల్లో ఒక వెచ్చదనం — ఆమెకు పూల తోట గుర్తుకువచ్చింది.",
+      "image_prompt": "The girl quickly sweeps the courtyard beside the old woman, holding a broom. The old woman's face lights up with a warm smile as she watches the girl help. The gentle, golden light of late afternoon filtering into the courtyard, peaceful and comforting.",
+      "scene_visual": "The girl quickly sweeps the courtyard beside the old woman, holding a broom. The old woman's face lights up with a warm smile as she watches the girl help.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Pulu Vikasinchakapoyesariki Chinni Aalochanalo Padindi — Naani Maatala Artham Emitani? Intiki Tirigi Vachchi Chuste, Naani Nadumu Pattukuni Gummam Udutondi. Chinni Ventane Chipuru Tisukuni, Naani Pakkana Nilabadi, Gabagabaa Vaakili Udchadam Modalupettindi, Chipuru Nelaki Tagulutu Svachchamaina Shabdam Chesindi. Naani Mukhanlo Chirunavvu Vikasinchindi, \"Ni Chinni Sahaayam Naa Manasunu Telika Chesindi!\" Ani Premagaa Andi. Naani Navvadam Chusi, Chinni Gundello Oka Vechchadanam — Aameku Pula Tota Gurtukuvachchindi.",
+      "text_en": "When the flowers didn't blossom, Chinni fell into thought — what did Nani's words truly mean? Returning home, she saw Nani sweeping the doorway, holding her back. Chinni immediately took a broom, stood beside Nani, and quickly began sweeping the entrance, the broom making a clean sound against the ground. A smile blossomed on Nani's face, and she said lovingly, \"Your little help has lightened my heart!\" Seeing Nani smile, a warmth spread in Chinni's heart — she remembered the flower garden."
+    },
+    {
+      "id": 6,
+      "text": "ఆ వెచ్చదనంతో చిన్ని పరుగెత్తుకుంటూ మళ్ళీ ఆ పూల తోట దగ్గరికి చేరుకుంది, గుండెల నిండా ఆశ. ఆశ్చర్యంగా చూసింది — ఒక మొగ్గ మెల్లగా వికసిస్తోంది! దాని రేకులు నెమ్మదిగా విచ్చుకుంటున్నాయి, ఇంతవరకు ఎరుగని ఒక తీయని పరిమళం గాలిలో అలుముకుంది. చిన్ని కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, నోరు తెరుచుకుంది — \"అద్భుతం! అవి వికసించాయి!\" అని చిన్నగా అంది. అప్పుడే ఆమెకు అర్థమైంది: నానిని నవ్వించినప్పుడు తనలో కలిగిన ఆనందం, ఈ పూల వికాసానికి నిజమైన కారణం.",
+      "image_prompt": "The girl watches in astonishment as a flower bud slowly unfurls its petals. Her eyes widen and her mouth opens slightly in awe as a sweet fragrance fills the air. A shaft of brilliant, almost magical golden light illuminates the first blooming flower, making its colors glow.",
+      "scene_visual": "The girl watches in astonishment as a flower bud slowly unfurls its petals. Her eyes widen and her mouth opens slightly in awe as a sweet fragrance fills the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vechchadananto Chinni Parugettukuntu Malli Aa Pula Tota Daggariki Cherukundi, Gundela Nindaa Aasha. Aashcharyangaa Chusindi — Oka Mogga Mellagaa Vikasistondi! Daani Rekulu Nemmadigaa Vichchukuntunnaayi, Intavaraku Erugani Oka Tiyani Parimalam Gaalilo Alumukundi. Chinni Kallu Aashcharyanto Peddavayyaayi, Noru Teruchukundi — \"Adbhutan! Avi Vikasinchaayi!\" Ani Chinnagaa Andi. Appude Aameku Arthamaindi: Naanini Navvinchinappudu Tanalo Kaligina Aanandan, I Pula Vikaasaaniki Nijamaina Kaaranan.",
+      "text_en": "With that warmth, Chinni ran back to the flower garden, her heart full of hope. She watched in surprise — a bud was slowly blossoming! Its petals were slowly unfurling, and a sweet fragrance, unknown until now, filled the air. Chinni's eyes widened in wonder, and her mouth opened — \"Amazing! They blossomed!\" she whispered. It was then that she understood: the happiness she felt when she made Nani smile was the true reason for these flowers blossoming."
+    },
+    {
+      "id": 7,
+      "text": "అప్పటి నుంచి చిన్ని ప్రతి రోజూ ఎవరికో ఒకరికి చిన్న సహాయం చేస్తూ, వారి మొహంలో చిరునవ్వు చూస్తూ ఉండేది. క్రమంగా ఆ పూల తోట మొత్తం రంగురంగుల పూలతో నిండిపోయింది, ఆ తేనెటీగలు గిరికీలు కొడుతూ సంతోషంగా సందడి చేశాయి. ఆ పూల పరిమళం, వాటి రంగులు చూసి గ్రామస్తులందరూ ఆశ్చర్యపోయారు — వారి మనసుల్లో కూడా సంతోషం చిగురించింది. నాని చిన్ని భుజం తట్టి, ప్రేమగా నవ్వింది — \"చూసావా చిన్ని, ఆనందం పంచుకుంటే ఎంత అందంగా ఉంటుందో!\" అని అంది. చిన్ని ముఖం మీద ఒక శాశ్వతమైన చిరునవ్వు, ఆ పూల వలె వికసించింది, ప్రపంచం మొత్తం రంగులమయమైంది.",
+      "image_prompt": "The girl stands in a vibrant garden, now completely filled with colorful, blooming flowers. A lasting smile blossoms on her face, mirroring the beauty of the surrounding blossoms and the buzzing bees. Bright, cheerful morning sunlight bathing the entire village and the grove, making everything sparkle with life and color, filled with warmth and happiness.",
+      "scene_visual": "The girl stands in a vibrant garden, now completely filled with colorful, blooming flowers. A lasting smile blossoms on her face, mirroring the beauty of the surrounding blossoms and the buzzing bees.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Appati Nunchi Chinni Prati Roju Evariko Okariki Chinna Sahaayam Chestu, Vaari Mohanlo Chirunavvu Chustu Undedi. Kramangaa Aa Pula Tota Mottam Rangurangula Pulato Nindipoyindi, Aa Tenetigalu Girikilu Kodutu Santoshangaa Sandadi Cheshaayi. Aa Pula Parimalan, Vaati Rangulu Chusi Graamastulandaru Aashcharyapoyaaru — Vaari Manasullo Kudaa Santosham Chigurinchindi. Naani Chinni Bhujam Tatti, Premagaa Navvindi — \"Chusaavaa Chinni, Aanandam Panchukunte Enta Andangaa Untundo!\" Ani Andi. Chinni Mukham Mida Oka Shaashvatamaina Chirunavvu, Aa Pula Vale Vikasinchindi, Prapancham Mottam Rangulamayamaindi.",
+      "text_en": "From then on, every day Chinni would offer a small help to someone and watch the smile on their face. Gradually, the entire flower garden filled with colorful flowers, and happy bees buzzed around them. Seeing the fragrance and colors of those flowers, all the villagers were amazed — happiness also sprouted in their hearts. Nani patted Chinni's shoulder and smiled lovingly — \"See, Chinni, how beautiful it is when you share happiness!\" she said. A permanent smile blossomed on Chinni's face, just like those flowers, and the whole world became colorful."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "nani",
+      "description": "Nani is an old woman with a gentle smile and eyes that sparkle with years of wisdom, her white hair neatly tied in a bun. She wears a simple, hand-spun cotton saree and always smells faintly of turmeric and dried herbs. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 10,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.67,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is a gem, perfectly capturing the essence of a grandmother's tale with its warm, colloquial Telugu and engaging narrative. The moral emerges organically, making it both entertaining and insightful for a child. To reach absolute perfection, the author could refine the few instances where emotions are stated directly, instead opting to show them through action or subtle physical cues, thereby deepening the emotional immersion even more."
+  },
+  "title_te_en": "Navvula Pula Rahasyam",
+  "moral_te_en": "Ni Santoshaanni Itarulato Panchukunte, Lokan, Ni Manasu Kudaa Aanandanto Vikasistaayi.",
+  "title_en": "The Secret of the Smiling Flowers",
+  "moral_en": "If you share your happiness with others, the world and your heart will also blossom with joy.",
+  "id": "20260605_031126",
+  "date": "2026-06-05",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "నవ్వుల పూల రహస్యం - ఆనందాన్ని పంచుకుంటే వికసించే అద్భుతాలు",
+  "thumbnail": "stories/20260605_031126/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
