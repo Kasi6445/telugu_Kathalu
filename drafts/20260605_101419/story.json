@@ -1,0 +1,109 @@
+{
+  "title": "చిన్న తెలివైన పొడుపు కథ",
+  "moral": "చిన్న తెలివైన మాటలు, మంచి మనసు ఆ రోజు ఎంత పని చేశాయో చూశావా?",
+  "main_character": "Chinna is a nimble 10-year-old boy with bright, curious eyes and flour often smudged on his cheek. He has a quick mind and a deep love for creating delicious food. Always the same character across every scene.",
+  "antagonist": "The Royal Cook is a portly man in his late 40s, with a stern face and a neatly tied grey mustache. He wears a spotless white chef's coat with golden embroidery and carries a large, ornate ladle. Always the same character across every scene.",
+  "setting": "The royal kitchen of Vijayanagara kingdom is a cavernous hall filled with the clatter of pots and pans, the aroma of spices, and the glow of wood-fired ovens. Copper vessels gleam on shelves, and fresh produce is piled high on wooden tables. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర సామ్రాజ్యం వంటశాలలో చిన్న, తన చిట్టి చేతులతో ఒక కొత్త వంటకాన్ని తయారు చేస్తున్నాడు. సుగంధ ద్రవ్యాల సువాసన వంటశాల అంతా నిండిపోయింది, అప్పుడప్పుడు చిన్న చిన్నగా ఒక పాట పాడుకుంటున్నాడు. పొయ్యిలోని నిప్పుల వెలుగులో అతని ముఖం మెరుస్తూ ఉంది, ఒక పెద్ద గరిటెతో పప్పుల పులుసును కలుపుతున్నాడు. అతను చిన్నగా నవ్వుతూ, ఆ వంటకాన్ని రుచి చూశాడు — అద్భుతంగా ఉంది! చివరగా, అతను ఒక మెరుస్తున్న రాగి పాత్రలో ఆ రుచికరమైన పప్పు పులుసును పోస్తూ, “ఈ రోజు వంటకం చాలా రుచికరంగా ఉండాలి!” అన్నాడు. తన అద్భుతమైన సృష్టిని చూసుకుంటూ చిన్న మురిసిపోతూ, దానిని ఒక పళ్లెంలో జాగ్రత్తగా పెట్టాడు.",
+      "image_prompt": "The boy carefully pours the delicious lentil stew into a gleaming copper pot. His face glows in the light of the stove's embers as he smiles proudly at his creation. Warm, golden morning light streaming through high arched windows, illuminating dust motes dancing in the air.",
+      "scene_visual": "The boy carefully pours the delicious lentil stew into a gleaming copper pot. His face glows in the light of the stove's embers as he smiles proudly at his creation.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vijayanagara Saamraajyam Vantashaalalo Chinna, Tana Chitti Chetulato Oka Kotta Vantakaanni Tayaaru Chestunnaadu. Sugandha Dravyaala Suvaasana Vantashaala Antaa Nindipoyindi, Appudappudu Chinna Chinnagaa Oka Paata Paadukuntunnaadu. Poyyiloni Nippula Velugulo Atani Mukham Merustu Undi, Oka Pedda Gariteto Pappula Pulusunu Kaluputunnaadu. Atanu Chinnagaa Navvutu, Aa Vantakaanni Ruchi Chushaadu — Adbhutangaa Undi! Chivaragaa, Atanu Oka Merustunna Raagi Paatralo Aa Ruchikaramaina Pappu Pulusunu Postu, “I Roju Vantakam Chaalaa Ruchikarangaa Undaali!” Annaadu. Tana Adbhutamaina Srrishtini Chusukuntu Chinna Murisipotu, Daanini Oka Pallenlo Jaagrattagaa Pettaadu.",
+      "text_en": "In the kitchen of the Vijayanagara Empire, Chinna was making a new dish with his tiny hands. The aroma of spices filled the entire kitchen, and every now and then, he sang a little song. His face glowed in the light of the embers in the stove, as he stirred a lentil stew with a large ladle. He smiled softly and tasted the dish — it was wonderful! Finally, he poured the delicious lentil stew into a shining copper pot, saying, “Today’s dish must be very tasty!” Chinna admired his amazing creation and carefully placed it on a platter."
+    },
+    {
+      "id": 2,
+      "text": "చిన్న అలా ఆ వంటకాన్ని పక్కన పెడుతుండగానే, రాజ వంటగాడు కంగారుగా వంటశాలలోకి వచ్చాడు. అతని చేతిలో ఉన్న ఒక మసాలా డబ్బా, ఒక్కసారిగా కింద పడి — 'టంగ్' అని పెద్ద శబ్దం చేసింది. వంటగాడు చుట్టూ చూశాడు, అతని ముఖం కోపంతో ఎర్రబడింది. “నా అరుదైన మసాలా పోయింది! చిన్న, నువ్వు తప్ప ఇంకెవరూ ఇక్కడ లేరు!” అని పెద్దగా అరిచాడు. ఒక్కసారిగా — చిన్న గుండె వేగంగా కొట్టుకుంది! అతని దవడ కిందికి జారింది, కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, వంటగాడు కోపంతో తన వేలుని చిన్న వైపు చూపించాడు.",
+      "image_prompt": "The cook angrily points his finger directly at the boy, his face red with rage. The boy's jaw drops and his eyes widen in shock and disbelief. Also in this scene: The Royal Cook is a portly man in his late 40s, with a stern face and a neatly tied grey mustache. He wears a spotless white chef's coat with golden embroidery and carries a large, ornate ladle. Always the same character across every scene. Harsh, direct midday sun through a small window, casting long, stark shadows, creating a tense atmosphere.",
+      "scene_visual": "The cook angrily points his finger directly at the boy, his face red with rage. The boy's jaw drops and his eyes widen in shock and disbelief.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinna Alaa Aa Vantakaanni Pakkana Pedutundagaane, Raaja Vantagaadu Kangaarugaa Vantashaalaloki Vachchaadu. Atani Chetilo Unna Oka Masaalaa Dabbaa, Okkasaarigaa Kinda Padi — 'Tang' Ani Pedda Shabdam Chesindi. Vantagaadu Chuttu Chushaadu, Atani Mukham Kopanto Errabadindi. “Naa Arudaina Masaalaa Poyindi! Chinna, Nuvvu Tappa Inkevaru Ikkada Leru!” Ani Peddagaa Arichaadu. Okkasaarigaa — Chinna Gunde Vegangaa Kottukundi! Atani Davada Kindiki Jaarindi, Kallu Aashcharyanto Peddavayyaayi, Vantagaadu Kopanto Tana Veluni Chinna Vaipu Chupinchaadu.",
+      "text_en": "Just as Chinna was setting the dish aside, the royal cook rushed into the kitchen in a hurry. A spice box in his hand suddenly fell to the ground — making a loud 'clang!' The cook looked around, his face red with anger. “My rare spice is gone! Chinna, there’s no one else here but you!” he shouted loudly. Suddenly — Chinna’s heart beat fast! His jaw dropped, his eyes widened in surprise, as the cook angrily pointed his finger at Chinna."
+    },
+    {
+      "id": 3,
+      "text": "వంటగాడి ఆరోపణతో చిన్నకు ఏమి చేయాలో తోచలేదు, అతని గొంతు వణుకుతోంది. “నేను తీసుకోలేదు, మహారాజ్! దయచేసి నన్ను నమ్మండి!” అంటూ రెండు చేతులు జోడించి ప్రాధేయపడ్డాడు. కానీ వంటగాడు చిన్న మాటలు వినకుండా, తన చెవులకు చిరాగ్గా చేయి అడ్డుపెట్టాడు. చిన్న పదే పదే తన నిజాయితీని చెప్పడానికి ప్రయత్నిస్తున్నా, అతని మాటలు గాలిలో కలిసిపోయాయి. వంటగాడు వెనక్కి తిరిగి — రాజుగారి గదుల వైపు వేగంగా అడుగులు వేశాడు, చిన్న ప్రాధేయపడటం వంటగాడికి పట్టలేదు.",
+      "image_prompt": "The boy desperately pleads, holding his hands together in supplication as the cook turns his back. The cook irritably covers his ears with his hands, refusing to listen to the boy's words. Also in this scene: The Royal Cook is a portly man in his late 40s, with a stern face and a neatly tied grey mustache. He wears a spotless white chef's coat with golden embroidery and carries a large, ornate ladle. Always the same character across every scene. Dim, oppressive light in a corner of the kitchen, shadows deepening around Chinna as he feels isolated.",
+      "scene_visual": "The boy desperately pleads, holding his hands together in supplication as the cook turns his back. The cook irritably covers his ears with his hands, refusing to listen to the boy's words.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vantagaadi Aaropanato Chinnaku Emi Cheyaalo Tochaledu, Atani Gontu Vanukutondi. “Nenu Tisukoledu, Mahaaraaj! Dayachesi Nannu Nammandi!” Antu Rendu Chetulu Jodinchi Praadheyapaddaadu. Kaani Vantagaadu Chinna Maatalu Vinakundaa, Tana Chevulaku Chiraaggaa Cheyi Addupettaadu. Chinna Pade Pade Tana Nijaayitini Cheppadaaniki Prayatnistunnaa, Atani Maatalu Gaalilo Kalisipoyaayi. Vantagaadu Venakki Tirigi — Raajugaari Gadula Vaipu Vegangaa Adugulu Veshaadu, Chinna Praadheyapadatam Vantagaadiki Pattaledu.",
+      "text_en": "Chinna didn't know what to do with the cook's accusation, his voice trembling. “I didn't take it, Maharaj! Please believe me!” he pleaded, joining his hands. But the cook didn't listen to Chinna's words, annoyingly covering his ears. Even though Chinna tried again and again to explain his innocence, his words were lost in the air. The cook turned back — and quickly walked towards the King’s chambers, not caring about Chinna’s pleas."
+    },
+    {
+      "id": 4,
+      "text": "వంటగాడు వెళ్ళిపోగానే, చిన్న నిస్సహాయంగా ఒక రాతి గోడకు ఆనుకుని కూర్చుండిపోయాడు. అతని తల వంగిపోయింది, కళ్ళ నిండా నీళ్ళు నిండిపోయాయి, లోపల ఏదో తెలియని భయం. ఆ చల్లటి రాతి గోడను ఆనుకుని, చిన్న మనసులో ఒక మెరుపు మెరిసింది! అతని అమ్మమ్మ చెప్పిన పొడుపు కథలు ఒక్కసారిగా గుర్తుకొచ్చాయి. “పొడుపు కథ... అవును, పొడుపు కథ!” అంటూ చిన్న పెదవులపై చిన్న నవ్వు మెరిసింది. నిరాశ స్థానంలో ఒక కొత్త ధైర్యం వచ్చింది, అతను వెంటనే లేచి నిలబడ్డాడు — ఒక ప్రణాళిక అతని మనసులో రూపుదిద్దుకుంది.",
+      "image_prompt": "The boy, who was slumped against a cold stone wall with tears in his eyes, suddenly stands up with renewed determination. A small smile appears on his lips as a plan forms in his mind. A single shaft of light breaking through a high crack in the wall, illuminating Chinna's face as hope dawns.",
+      "scene_visual": "The boy, who was slumped against a cold stone wall with tears in his eyes, suddenly stands up with renewed determination. A small smile appears on his lips as a plan forms in his mind.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vantagaadu Vellipogaane, Chinna Nissahaayangaa Oka Raati Godaku Aanukuni Kurchundipoyaadu. Atani Tala Vangipoyindi, Kalla Nindaa Nillu Nindipoyaayi, Lopala Edo Teliyani Bhayan. Aa Challati Raati Godanu Aanukuni, Chinna Manasulo Oka Merupu Merisindi! Atani Ammamma Cheppina Podupu Kathalu Okkasaarigaa Gurtukochchaayi. “Podupu Katha... Avunu, Podupu Katha!” Antu Chinna Pedavulapai Chinna Navvu Merisindi. Niraasha Sthaananlo Oka Kotta Dhairyam Vachchindi, Atanu Ventane Lechi Nilabaddaadu — Oka Pranaalika Atani Manasulo Rupudiddukundi.",
+      "text_en": "As soon as the cook left, Chinna sat down helplessly, leaning against a stone wall. His head was bowed, his eyes filled with tears, and an unknown fear was inside him. Leaning against that cold stone wall, a spark flashed in Chinna’s mind! He suddenly remembered the riddles his grandmother used to tell him. “A riddle... yes, a riddle!” A small smile appeared on Chinna’s lips. New courage replaced his despair, and he immediately stood up — a plan had formed in his mind."
+    },
+    {
+      "id": 5,
+      "text": "ధైర్యం తెచ్చుకుని, చిన్న రాజుగారి దర్బారులోకి అడుగు పెట్టాడు. అక్కడ రాజు, వంటగాడి ఫిర్యాదు వింటూ ఉన్నారు, దర్బారులో ఒక నిశ్శబ్దం రాజ్యమేలుతోంది. చిన్న గుండె వేగంగా కొట్టుకుంటున్నా, అతను నిటారుగా నిలబడి, ధైర్యంగా ముందుకు నడిచాడు. “మహారాజా, నా నిజాయితీని నిరూపించడానికి నాకు ఒక పొడుపు కథ చెప్పడానికి అనుమతి ఇవ్వండి,” అని గంభీరంగా అడిగాడు. రాజుగారి కళ్ళల్లో — ఆశ్చర్యం మెరిసింది. అతని అభ్యర్థన రాజుగారికి ఆసక్తి కలిగించింది, రాజు చిన్నకు మాట్లాడమని సంజ్ఞ చేశాడు.",
+      "image_prompt": "The boy stands tall and walks bravely forward into the silent royal court, addressing the king. The king's eyes show surprise as he gestures for the boy to speak. Also in this scene: The Royal Cook is a portly man in his late 40s, with a stern face and a neatly tied grey mustache. He wears a spotless white chef's coat with golden embroidery and carries a large, ornate ladle. Always the same character across every scene. Grand, formal lighting in the King's court, with elaborate oil lamps casting a warm, majestic glow on the ornate pillars and tapestries.",
+      "scene_visual": "The boy stands tall and walks bravely forward into the silent royal court, addressing the king. The king's eyes show surprise as he gestures for the boy to speak.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Dhairyam Techchukuni, Chinna Raajugaari Darbaaruloki Adugu Pettaadu. Akkada Raaju, Vantagaadi Phiryaadu Vintu Unnaaru, Darbaarulo Oka Nishshabdam Raajyamelutondi. Chinna Gunde Vegangaa Kottukuntunnaa, Atanu Nitaarugaa Nilabadi, Dhairyangaa Munduku Nadichaadu. “Mahaaraajaa, Naa Nijaayitini Nirupinchadaaniki Naaku Oka Podupu Katha Cheppadaaniki Anumati Ivvandi,” Ani Gambhirangaa Adigaadu. Raajugaari Kallallo — Aashcharyam Merisindi. Atani Abhyarthana Raajugaariki Aasakti Kaliginchindi, Raaju Chinnaku Maatlaadamani Sanjnya Cheshaadu.",
+      "text_en": "Gathering courage, Chinna stepped into the King's court. The King was listening to the cook's complaint, and silence reigned in the court. Even though Chinna's heart was beating fast, he stood tall and walked forward bravely. “Maharaja, please allow me to tell a riddle to prove my innocence,” he asked solemnly. Surprise flashed in the King's eyes. His request intrigued the King, and the King gestured for Chinna to speak."
+    },
+    {
+      "id": 6,
+      "text": "రాజు అనుమతితో, చిన్న ధైర్యంగా వంటగాడి వైపు చూశాడు, అతని చూపుల్లో ఒక స్థిరత్వం ఉంది. “రుచిని పెంచుతుంది, రంగు లేదు, రూపం లేదు. కానీ ఈ రోజు మన వంటశాలలో కనిపించనిది. అది ఏమిటి?” అని చిన్న, వంటగాడి కళ్ళల్లోకి చూస్తూ పొడుపు కథ చెప్పాడు. ఆ పొడుపు కథ వినగానే, వంటగాడి ముఖం పాలిపోయింది, అతని గొంతులో ఏదో అడ్డుపడినట్లుగా ఒక దగ్గు వచ్చింది. అంతలోనే — వంటగాడు కంగారుగా 'ఉప్పు!' అని అరిచాడు. తన తప్పు తెలుసుకుని, వెంటనే తన చేతిని నోటికి అడ్డుపెట్టుకున్నాడు, కానీ అప్పటికే జరగాల్సిన నష్టం జరిగిపోయింది.",
+      "image_prompt": "The cook's face turns pale as he blurts out \"Salt!\" and immediately covers his mouth with his hand. His eyes show panic and realization of his mistake. Also in this scene: The Royal Cook is a portly man in his late 40s, with a stern face and a neatly tied grey mustache. He wears a spotless white chef's coat with golden embroidery and carries a large, ornate ladle. Always the same character across every scene. A spotlight effect on the Royal Cook as his mistake is revealed, while Chinna stands slightly in shadow, a knowing look on his face.",
+      "scene_visual": "The cook's face turns pale as he blurts out \"Salt!\" and immediately covers his mouth with his hand. His eyes show panic and realization of his mistake.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Raaju Anumatito, Chinna Dhairyangaa Vantagaadi Vaipu Chushaadu, Atani Chupullo Oka Sthiratvam Undi. “Ruchini Penchutundi, Rangu Ledu, Rupam Ledu. Kaani I Roju Mana Vantashaalalo Kanipinchanidi. Adi Emiti?” Ani Chinna, Vantagaadi Kallalloki Chustu Podupu Katha Cheppaadu. Aa Podupu Katha Vinagaane, Vantagaadi Mukham Paalipoyindi, Atani Gontulo Edo Addupadinatlugaa Oka Daggu Vachchindi. Antalone — Vantagaadu Kangaarugaa 'Uppu!' Ani Arichaadu. Tana Tappu Telusukuni, Ventane Tana Chetini Notiki Addupettukunnaadu, Kaani Appatike Jaragaalsina Nashtam Jarigipoyindi.",
+      "text_en": "With the King's permission, Chinna bravely looked at the cook, with a steady gaze. “It enhances taste, has no color, no form. But today, it is missing from our kitchen. What is it?” Chinna said, looking into the cook's eyes as he told the riddle. As soon as he heard the riddle, the cook's face turned pale, and a cough caught in his throat as if something was stuck. Immediately — the cook nervously shouted, 'Salt!' Realizing his mistake, he quickly put his hand over his mouth, but the damage was already done."
+    },
+    {
+      "id": 7,
+      "text": "వంటగాడి తొందరపాటును గమనించిన రాజు, ఒక చిరునవ్వు నవ్వాడు. “నువ్వు అడిగిన పొడుపు కథ, దానికి వంటగాడు ఇచ్చిన జవాబు... నీ నిజాయితీని, అతని మనసులోని కపటాన్ని స్పష్టం చేశాయి, చిన్న!” అని రాజు ప్రశంసించాడు. దర్బారులో ఉన్నవారంతా చిన్న తెలివికి ఆశ్చర్యపోయి, చిన్నగా గుసగుసలాడారు. చిన్న నవ్వుతూ, తల వంచి — రాజుగారికి కృతజ్ఞతలు చెప్పాడు. ఆ రోజు నుండి చిన్న తెలివి, నిజాయితీ రాజభవనంలో అందరికీ తెలిసాయి, వంటగాడు కూడా తన తప్పు తెలుసుకుని సిగ్గుపడ్డాడు.",
+      "image_prompt": "The boy smiles and bows his head in gratitude towards the king. The king smiles faintly, observing the boy's humble reaction. Also in this scene: The Royal Cook is a portly man in his late 40s, with a stern face and a neatly tied grey mustache. He wears a spotless white chef's coat with golden embroidery and carries a large, ornate ladle. Always the same character across every scene. Gentle dusk light filtering into the court, warm amber, signifying peace and resolution, highlighting Chinna's relieved face.",
+      "scene_visual": "The boy smiles and bows his head in gratitude towards the king. The king smiles faintly, observing the boy's humble reaction.",
+      "supporting_char_keys": [
+        "king"
+      ],
+      "text_te_en": "Vantagaadi Tondarapaatunu Gamaninchina Raaju, Oka Chirunavvu Navvaadu. “Nuvvu Adigina Podupu Katha, Daaniki Vantagaadu Ichchina Javaabu... Ni Nijaayitini, Atani Manasuloni Kapataanni Spashtam Cheshaayi, Chinna!” Ani Raaju Prashansinchaadu. Darbaarulo Unnavaarantaa Chinna Teliviki Aashcharyapoyi, Chinnagaa Gusagusalaadaaru. Chinna Navvutu, Tala Vanchi — Raajugaariki Krritajnyatalu Cheppaadu. Aa Roju Nundi Chinna Telivi, Nijaayiti Raajabhavananlo Andariki Telisaayi, Vantagaadu Kudaa Tana Tappu Telusukuni Siggupaddaadu.",
+      "text_en": "Noticing the cook's haste, the King smiled. “The riddle you asked, and the answer the cook gave... they have clearly shown your innocence and the deceit in his heart, Chinna!” the King praised. Everyone in the court was surprised by Chinna's cleverness and whispered softly. Chinna smiled, bowed his head — and thanked the King. From that day on, Chinna's cleverness and honesty became known to everyone in the palace, and the cook also realized his mistake and felt ashamed."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king",
+      "description": "The King is a wise and just ruler in his 50s, with a regal beard streaked with grey and kind eyes. He wears rich silk robes and a jeweled turban, always listening attentively. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and strong child engagement, making it highly enjoyable. The emotional depth is largely well-executed through showing rather than telling. To reach a 9+ score, the primary focus should be on enhancing the 'grandmother_authenticity' by weaving in more direct address to the child listener and infusing the prose with even greater oral warmth and conversational flow."
+  },
+  "title_te_en": "Chinna Telivaina Podupu Katha",
+  "moral_te_en": "Chinna Telivaina Maatalu, Manchi Manasu Aa Roju Enta Pani Cheshaayo Chushaavaa?",
+  "title_en": "Chinna's Clever Riddle",
+  "moral_en": "Did you see how much Chinna's clever words and good heart accomplished that day?",
+  "id": "20260605_101419",
+  "date": "2026-06-05",
+  "category": "podupu",
+  "subcategory": "clever_escapes",
+  "topic": "వంటకాల పొడుపు కథతో తన నిజాయితీని నిరూపించుకున్న బాల వంటగాడు",
+  "thumbnail": "stories/20260605_101419/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
