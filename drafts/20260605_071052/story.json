@@ -1,0 +1,115 @@
+{
+  "title": "చిరుగాలి, మర్రిచెట్టు జ్ఞానం",
+  "moral": "నిజమైన బలం వేగంలో కాదు, నిలకడలో ఉంటుందని చిరుగాలి అప్పుడు తెలుసుకుంది.",
+  "main_character": "The young wind (చిరుగాలి - Chirugali). It is an invisible, energetic force, personified with a personality. It is swift, constantly moving, and initially a bit arrogant about its speed and freedom. It appears as swirling currents in the air. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A peaceful village in rural Andhra Pradesh, near a small, flowing river. The dominant feature is a colossal, ancient Banyan tree, surrounded by open fields and a few small, traditional mud huts in the distance. The scenes will transition from bright morning to a stormy afternoon, then to a calm evening. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకప్పుడు ఒక చిరుగాలి ఉండేదట, అది ఎప్పుడూ ఆకాశంలో స్వేచ్ఛగా ఎగురుతూ ఉండేది. అది పొలాల గుండా వేగంగా దూసుకుపోతూ, ఆకులను కదిలిస్తూ, పూల వాసనలు మోస్తూ ఉండేది. ఆ చల్లని గాలి తాకిడికి — భూమి కొత్తగా చిగురించినట్లు అనిపించేది. \"ఆహా! ఈ లోకంలో నాకంటే స్వేచ్ఛగా ఎవరున్నారు?\" అని నవ్వుతూ పరుగులు తీసేది. అప్పుడే దాని కళ్ళు దూరంగా, భూమిలో గట్టిగా పాతుకుపోయిన ఒక పెద్ద మర్రిచెట్టు మీద పడ్డాయి.",
+      "image_prompt": "The breeze, laughing and running freely, suddenly directs its gaze towards a distant, large banyan tree. The tree appears firmly rooted in the ground, standing out against the open sky. Bright, cheerful morning sunlight, casting long, soft shadows across the green fields.",
+      "scene_visual": "The breeze, laughing and running freely, suddenly directs its gaze towards a distant, large banyan tree. The tree appears firmly rooted in the ground, standing out against the open sky.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okappudu Oka Chirugaali Undedata, Adi Eppudu Aakaashanlo Svechchagaa Egurutu Undedi. Adi Polaala Gundaa Vegangaa Dusukupotu, Aakulanu Kadilistu, Pula Vaasanalu Mostu Undedi. Aa Challani Gaali Taakidiki — Bhumi Kottagaa Chigurinchinatlu Anipinchedi. \"Aahaa! I Lokanlo Naakante Svechchagaa Evarunnaaru?\" Ani Navvutu Parugulu Tisedi. Appude Daani Kallu Durangaa, Bhumilo Gattigaa Paatukupoyina Oka Pedda Marrichettu Mida Paddaayi.",
+      "text_en": "Once upon a time, there was a little breeze. It always flew freely in the sky. It rushed quickly through the fields, rustling the leaves, and carrying the scent of flowers. With the touch of that cool breeze, the earth felt as if it had just sprouted anew. \"Aha! Who in this world is freer than me?\" it would say, laughing and running around. Just then, its eyes fell upon a big banyan tree far away, firmly rooted in the ground."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మర్రిచెట్టు దగ్గరకు చిరుగాలి ఉరుకులు పరుగులతో వెళ్ళింది. దాని చుట్టూ తిరుగుతూ, తన వేగాన్ని, స్వేచ్ఛను గురించి గొప్పగా చెప్పుకుంది. \"వృక్షమా, నీవు ఎప్పుడూ ఒకే చోట ఎందుకు ఉంటావు? నా వలె ఎగరలేవా?\" అని ప్రశ్నించింది. చిరుగాలి మాటలకు, వేలాది ఆకులున్న మర్రిచెట్టు — మెల్లగా, లయబద్ధంగా కదిలాయి. కానీ ఒక్క మాట కూడా పలకలేదు.",
+      "image_prompt": "The breeze rushes towards the banyan tree, circling it and boasting about its speed and freedom. In response to the breeze's questions, the banyan tree, with its thousands of leaves, sways slowly and rhythmically. Warm midday sun, bright and clear, highlighting the deep green of the Banyan leaves against a clear blue sky.",
+      "scene_visual": "The breeze rushes towards the banyan tree, circling it and boasting about its speed and freedom. In response to the breeze's questions, the banyan tree, with its thousands of leaves, sways slowly and rhythmically.",
+      "supporting_char_keys": [
+        "banyan_tree"
+      ],
+      "text_te_en": "Aa Marrichettu Daggaraku Chirugaali Urukulu Parugulato Vellindi. Daani Chuttu Tirugutu, Tana Vegaanni, Svechchanu Gurinchi Goppagaa Cheppukundi. \"Vrrikshamaa, Nivu Eppudu Oke Chota Enduku Untaavu? Naa Vale Egaralevaa?\" Ani Prashninchindi. Chirugaali Maatalaku, Velaadi Aakulunna Marrichettu — Mellagaa, Layabaddhangaa Kadilaayi. Kaani Okka Maata Kudaa Palakaledu.",
+      "text_en": "The little breeze rushed to the banyan tree. It whirled around it, boasting about its speed and freedom. \"Oh tree, why do you always stay in one place? Can't you fly like me?\" it asked. At the breeze's words, the banyan tree, with its thousands of leaves, swayed slowly and rhythmically. But it didn't say a single word."
+    },
+    {
+      "id": 3,
+      "text": "మర్రిచెట్టు మౌనంగా ఉండటం చిరుగాలికి ఒక సవాలుగా అనిపించింది. అది కాసేపు అక్కడే ఆగి, చెట్టు విశాలమైన కాండాన్ని, నేలలోకి దిగిన వేళ్ళను చూసింది. చెట్టు కింద చల్లని, తేమతో కూడిన నీడలో — మట్టి వాసన చిరుగాలిని ఆకర్షించింది. \"చూద్దాం, నీ స్థిరత్వం ఎంతకాలం ఉంటుందో!\" అని గట్టిగా అనుకుంది. ఒక్కసారిగా గాలి తన శక్తిని కూడగట్టుకుంది — ఒక చిన్న శబ్దం మొదలైంది.",
+      "image_prompt": "The breeze pauses, observing the tree's wide trunk and roots deeply embedded in the earth. A small sound begins as the breeze gathers all its power, determined to challenge the tree's stillness. Overcast sky, a subtle shift in light as if clouds are gathering, making the scene a bit muted and serious.",
+      "scene_visual": "The breeze pauses, observing the tree's wide trunk and roots deeply embedded in the earth. A small sound begins as the breeze gathers all its power, determined to challenge the tree's stillness.",
+      "supporting_char_keys": [
+        "banyan_tree"
+      ],
+      "text_te_en": "Marrichettu Maunangaa Undatam Chirugaaliki Oka Savaalugaa Anipinchindi. Adi Kaasepu Akkade Aagi, Chettu Vishaalamaina Kaandaanni, Nelaloki Digina Vellanu Chusindi. Chettu Kinda Challani, Temato Kudina Nidalo — Matti Vaasana Chirugaalini Aakarshinchindi. \"Chuddaan, Ni Sthiratvam Entakaalam Untundo!\" Ani Gattigaa Anukundi. Okkasaarigaa Gaali Tana Shaktini Kudagattukundi — Oka Chinna Shabdam Modalaindi.",
+      "text_en": "The banyan tree's silence felt like a challenge to the little breeze. It stopped there for a while and looked at the tree's wide trunk and the roots that went deep into the ground. In the cool, moist shade under the tree, the smell of the earth attracted the breeze. \"Let's see how long your steadfastness lasts!\" it thought loudly. Suddenly, the breeze gathered all its strength—a small sound began."
+    },
+    {
+      "id": 4,
+      "text": "చిరుగాలి ఉగ్రరూపం దాల్చి, పెనుగాలిగా మారింది. అది తన శక్తి మొత్తాన్ని ఉపయోగించి మర్రిచెట్టును లాగింది, తోసింది, చుట్టూ సుడిగుండాలు తిరిగింది. చెట్టు కొమ్మలు విలవిలలాడాయి, ఆకులు గిరగిరా తిరిగాయి — చెట్టు నుండి ఒక దీర్ఘమైన శబ్దం వచ్చింది. \"నేను నిన్ను కదిలిస్తాను! తప్పక కదిలిస్తాను!\" అని గర్జించింది. కానీ మర్రిచెట్టు — కదలకుండా నిలబడింది.",
+      "image_prompt": "The strong wind, in a furious form, pulls, pushes, and swirls around the banyan tree with all its might. The tree's branches thrash violently and its leaves spin rapidly, yet it remains unmoving. Stormy, dark grey clouds filling the sky, flashes of distant lightning, the air thick with dust and agitated leaves.",
+      "scene_visual": "The strong wind, in a furious form, pulls, pushes, and swirls around the banyan tree with all its might. The tree's branches thrash violently and its leaves spin rapidly, yet it remains unmoving.",
+      "supporting_char_keys": [
+        "banyan_tree"
+      ],
+      "text_te_en": "Chirugaali Ugrarupam Daalchi, Penugaaligaa Maarindi. Adi Tana Shakti Mottaanni Upayoginchi Marrichettunu Laagindi, Tosindi, Chuttu Sudigundaalu Tirigindi. Chettu Kommalu Vilavilalaadaayi, Aakulu Giragiraa Tirigaayi — Chettu Nundi Oka Dirghamaina Shabdam Vachchindi. \"Nenu Ninnu Kadilistaanu! Tappaka Kadilistaanu!\" Ani Garjinchindi. Kaani Marrichettu — Kadalakundaa Nilabadindi.",
+      "text_en": "The little breeze turned furious, becoming a strong wind. It used all its power to pull, push, and swirl around the banyan tree. The tree's branches shook violently, and its leaves spun around—a long sound came from the tree. \"I will move you! I will surely move you!\" it roared. But the banyan tree—stood unmoving."
+    },
+    {
+      "id": 5,
+      "text": "చివరకు అలసిపోయిన చిరుగాలి శాంతించింది. దుమ్ము, ధూళి అణిగిపోయాక — అది మర్రిచెట్టు వైపు చూసింది. అప్పుడు దానికి చెట్టు కాండం చుట్టూ, నేలలోకి లోతుగా పాతుకుపోయిన వేళ్ళు కనిపించాయి. వర్షం పడిన నేల నుండి వచ్చే చల్లని వాసన — దాని మనసును ప్రశాంతం చేసింది. \"ఆహా! నీ బలం నీ వేళ్ళలో ఉంది కదూ!\" అని ఆశ్చర్యపోయింది. ఆ క్షణంలో చిరుగాలి మనసులో ఒక పెద్ద మార్పు మొదలైంది.",
+      "image_prompt": "The exhausted breeze calms down and looks towards the banyan tree after the dust settles. It clearly sees the tree's deep roots, firmly embedded in the soil around its trunk. The storm is breaking, golden rays of late afternoon sun piercing through gaps in the retreating dark clouds, illuminating the tree's roots.",
+      "scene_visual": "The exhausted breeze calms down and looks towards the banyan tree after the dust settles. It clearly sees the tree's deep roots, firmly embedded in the soil around its trunk.",
+      "supporting_char_keys": [
+        "banyan_tree"
+      ],
+      "text_te_en": "Chivaraku Alasipoyina Chirugaali Shaantinchindi. Dummu, Dhuli Anigipoyaaka — Adi Marrichettu Vaipu Chusindi. Appudu Daaniki Chettu Kaandam Chuttu, Nelaloki Lotugaa Paatukupoyina Vellu Kanipinchaayi. Varsham Padina Nela Nundi Vachche Challani Vaasana — Daani Manasunu Prashaantam Chesindi. \"Aahaa! Ni Balam Ni Vellalo Undi Kadu!\" Ani Aashcharyapoyindi. Aa Kshananlo Chirugaali Manasulo Oka Pedda Maarpu Modalaindi.",
+      "text_en": "Finally, the tired little breeze calmed down. After the dust and dirt settled—it looked towards the banyan tree. Then it saw the roots deeply embedded in the ground around the tree's trunk. The cool scent coming from the rain-soaked earth—calmed its mind. \"Aha! Your strength is in your roots, isn't it!\" it wondered. At that moment, a big change began in the little breeze's mind."
+    },
+    {
+      "id": 6,
+      "text": "ఇప్పుడు చిరుగాలి చాలా ప్రశాంతంగా, ఆలోచనలో మునిగిపోయింది. నిజమైన బలం వేగంలో కాదని, లోతైన వేళ్ళలాంటి స్థిరత్వంలోనే ఉందని గ్రహించింది. దాని చిలిపి అల్లరి మాయమై — ఒక కొత్త ప్రశాంతత ఆవరించింది. \"నేను నేర్చుకున్నాను, స్థిరత్వమే నిజమైన బలం\" అని నెమ్మదిగా గుసగుసలాడింది. నిలకడగా ఉన్న మర్రిచెట్టు ఆకులను — అది ఇప్పుడు సున్నితంగా తాకింది.",
+      "image_prompt": "The breeze, now thoughtful and calm, gently touches the leaves of the steadfast banyan tree. Its previous playful mischief has vanished, replaced by a new sense of tranquility. Golden hour, soft, warm light bathing the entire scene, creating a sense of tranquility and wisdom.",
+      "scene_visual": "The breeze, now thoughtful and calm, gently touches the leaves of the steadfast banyan tree. Its previous playful mischief has vanished, replaced by a new sense of tranquility.",
+      "supporting_char_keys": [
+        "banyan_tree"
+      ],
+      "text_te_en": "Ippudu Chirugaali Chaalaa Prashaantangaa, Aalochanalo Munigipoyindi. Nijamaina Balam Veganlo Kaadani, Lotaina Vellalaanti Sthiratvanlone Undani Grahinchindi. Daani Chilipi Allari Maayamai — Oka Kotta Prashaantata Aavarinchindi. \"Nenu Nerchukunnaanu, Sthiratvame Nijamaina Balan\" Ani Nemmadigaa Gusagusalaadindi. Nilakadagaa Unna Marrichettu Aakulanu — Adi Ippudu Sunnitangaa Taakindi.",
+      "text_en": "Now the little breeze was very calm and deep in thought. It realized that true strength is not in speed, but in stability, like deep roots. Its mischievous playfulness disappeared—a new calmness enveloped it. \"I have learned that stability is true strength,\" it whispered softly. It now gently touched the leaves of the steadfast banyan tree."
+    },
+    {
+      "id": 7,
+      "text": "మారిపోయిన చిరుగాలి ఇప్పుడు మెల్లగా వీచింది, గర్వంగా కాదు — ప్రేమతో. అది పుప్పొడిని మోస్తూ, భూమిని చల్లబరుస్తూ, కొత్త మొక్కలకు జీవం పోస్తూ సాగింది. దాని అల్లరిలో ఇప్పుడు ఒక జ్ఞానం, ఒక ఉద్దేశం కనిపించాయి. \"నీ నీడలో నేను ప్రశాంతంగా ఉన్నాను\" అని మర్రిచెట్టుతో అన్నది. ఆ మర్రిచెట్టు నీడలో — చిరుగాలి ఇప్పుడు ఒక కొత్త అర్థాన్ని కనుగొంది.",
+      "image_prompt": "The transformed breeze now blows gently, carrying pollen and cooling the earth. It finds new meaning while resting peacefully in the shade cast by the banyan tree. Gentle dusk light, warm amber and soft blues, peaceful and serene, with the Banyan tree silhouetted majestically.",
+      "scene_visual": "The transformed breeze now blows gently, carrying pollen and cooling the earth. It finds new meaning while resting peacefully in the shade cast by the banyan tree.",
+      "supporting_char_keys": [
+        "banyan_tree"
+      ],
+      "text_te_en": "Maaripoyina Chirugaali Ippudu Mellagaa Vichindi, Garvangaa Kaadu — Premato. Adi Puppodini Mostu, Bhumini Challabarustu, Kotta Mokkalaku Jivam Postu Saagindi. Daani Allarilo Ippudu Oka Jnyaanan, Oka Uddesham Kanipinchaayi. \"Ni Nidalo Nenu Prashaantangaa Unnaanu\" Ani Marrichettuto Annadi. Aa Marrichettu Nidalo — Chirugaali Ippudu Oka Kotta Arthaanni Kanugondi.",
+      "text_en": "The changed little breeze now blew gently, not with pride—but with love. It carried pollen, cooled the earth, and gave life to new plants as it moved. In its playfulness, there was now wisdom and purpose. \"I am peaceful in your shade,\" it said to the banyan tree. In the shade of that banyan tree—the little breeze now found a new meaning."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "banyan_tree",
+      "description": "The Banyan Tree (మర్రి చెట్టు - Marri Chettu). An ancient, majestic Banyan tree with widespread, deep roots and a massive, gnarled trunk. Its leaves are a deep, rich green, and it stands tall and serene, providing shade and shelter. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 10,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is exceptionally well-written, showcasing deep emotional resonance, a compelling narrative arc, and impeccable grammar. The oral storytelling quality is almost perfect, making it feel like a genuine grandmother's tale. To reach a perfect score, ensure every scene, including the very first, contains at least one line of direct speech, even if it's an internal thought presented as dialogue."
+  },
+  "title_te_en": "Chirugaali, Marrichettu Jnyaanam",
+  "moral_te_en": "Nijamaina Balam Veganlo Kaadu, Nilakadalo Untundani Chirugaali Appudu Telusukundi.",
+  "title_en": "The Little Breeze and the Wisdom of the Banyan Tree",
+  "moral_en": "The little breeze then understood that true strength is not in speed, but in steadfastness.",
+  "id": "20260605_071052",
+  "date": "2026-06-05",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "దిశలు మార్చే గాలి మరియు స్థిరంగా ఉండే మర్రి చెట్టు",
+  "thumbnail": "stories/20260605_071052/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
