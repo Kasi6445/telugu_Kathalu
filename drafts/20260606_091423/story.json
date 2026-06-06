@@ -1,0 +1,118 @@
+{
+  "title": "అమృత మోహిని మాయ",
+  "moral": "కష్టం వచ్చినప్పుడు, తెలివిగా ఆలోచిస్తే మంచి జరుగుతుంది — దేవుడు ఎప్పుడూ మంచివాళ్ళ పక్షమే ఉంటాడు.",
+  "main_character": "Mohini: A celestial beauty with luminous, fair skin, adorned in shimmering silk garments of sapphire blue and emerald green, with delicate gold jewelry. Her eyes sparkle with divine wisdom and a gentle, enchanting smile. Always the same character across every scene.",
+  "antagonist": "Asuras: A fearsome group of powerful beings with dark, rough skin, sharp teeth, and wild, untamed hair. They wear heavy, dark armor and carry crude weapons, their expressions often greedy and aggressive. Always the same character across every scene.",
+  "setting": "A vast, shimmering ocean churning violently, with the great Mandara Mountain as the churning rod and Vasuki as the rope. The scene is set at twilight, with a mix of dramatic orange and deep blue hues reflecting on the water. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పసిపిల్లలూ, పూర్వం దేవతలు, రాక్షసులు కలిసి క్షీరసాగరాన్ని చిలికారు, తెలుసా? మందర పర్వతం కవ్వంగా, వాసుకి నాగరాజు తాడుగా మారితే — సముద్రం హోరుమని చిందరవందరగా చిలికింది. అప్పుడు అలల హోరు, పర్వతం రాపిడి శబ్దాలు ఆకాశాన్ని తాకుతున్నాయి — రెండూ అలసిపోయి, కళ్ళు రెప్పవేయకుండా చూస్తున్నాయి. సముద్ర గర్భంలోంచి మెరుస్తున్న ఒక బంగారు కుండ బయటకు వచ్చింది — అమృతం! అమృతం వచ్చేసింది! అమృత భాండం అలా నీటిపై తేలుతూ, అందరినీ ఊరిస్తూ నిలబడింది.",
+      "image_prompt": "A golden pot emerges from the churning ocean, slowly rising and floating on the water's surface. Its polished surface gleams brightly, reflecting the light as it hovers enticingly before the onlookers. Also in this scene: Asuras: A fearsome group of powerful beings with dark, rough skin, sharp teeth, and wild, untamed hair. They wear heavy, dark armor and carry crude weapons, their expressions often greedy and aggressive. Always the same character across every scene. Dramatic twilight, with a sliver of golden light from the setting sun breaking through dark clouds, casting long shadows over the churning ocean.",
+      "scene_visual": "A golden pot emerges from the churning ocean, slowly rising and floating on the water's surface. Its polished surface gleams brightly, reflecting the light as it hovers enticingly before the onlookers.",
+      "supporting_char_keys": [
+        "devas"
+      ],
+      "text_te_en": "Pasipillalu, Purvam Devatalu, Raakshasulu Kalisi Kshirasaagaraanni Chilikaaru, Telusaa? Mandara Parvatam Kavvangaa, Vaasuki Naagaraaju Taadugaa Maarite — Samudram Horumani Chindaravandaragaa Chilikindi. Appudu Alala Horu, Parvatam Raapidi Shabdaalu Aakaashaanni Taakutunnaayi — Rendu Alasipoyi, Kallu Reppaveyakundaa Chustunnaayi. Samudra Garbhanlonchi Merustunna Oka Bangaaru Kunda Bayataku Vachchindi — Amrritan! Amrritam Vachchesindi! Amrrita Bhaandam Alaa Nitipai Telutu, Andarini Uristu Nilabadindi.",
+      "text_en": "Little children, do you know that long ago, the Devas (gods) and Asuras (demons) churned the great Ocean of Milk together? Mount Mandara became the churning rod, and Vasuki, the king of snakes, became the rope. The ocean churned wildly with a loud roar. The sound of the waves and the grinding of the mountain touched the sky – both sides were tired, watching without blinking. From deep within the ocean, a shining golden pot emerged – Amrita! The nectar of immortality had arrived! The pot of Amrita floated on the water, tempting everyone."
+    },
+    {
+      "id": 2,
+      "text": "అమృత భాండం కనిపించగానే, రాక్షసులు ఒక్కసారిగా ఆనందంతో ఉగిసలాడారు, దేవతలు చూస్తుండగానే దాన్ని లాక్కున్నారు. వారి కఠినమైన విజయ గర్వ ధ్వనులు సముద్రపు అలల సవ్వడిని కూడా ముంచెత్తాయి — ఆకాశం దద్దరిల్లింది. “ఇది మాది! అమృతం మా సొంతం!” అంటూ రాక్షసులు గొప్పగా అరుస్తూ, కుండను తమ చేతుల్లోకి తీసుకొని గంతులు వేశారు. దేవతల కళ్ళు నిస్సహాయంగా ఒకరినొకరు చూసుకున్నాయి — వారి భుజాలు వాలిపోయాయి.",
+      "image_prompt": "A group of demons forcefully snatches the golden pot from the water, pulling it into their grasp. They jump excitedly, their faces contorted in triumphant shouts, while the gods watch with slumped shoulders and helpless expressions. Also in this scene: Asuras: A fearsome group of powerful beings with dark, rough skin, sharp teeth, and wild, untamed hair. They wear heavy, dark armor and carry crude weapons, their expressions often greedy and aggressive. Always the same character across every scene. The sky darkens further, casting a somber, deep blue over the scene, contrasting with the crude, triumphant torches held by the Asuras.",
+      "scene_visual": "A group of demons forcefully snatches the golden pot from the water, pulling it into their grasp. They jump excitedly, their faces contorted in triumphant shouts, while the gods watch with slumped shoulders and helpless expressions.",
+      "supporting_char_keys": [
+        "devas"
+      ],
+      "text_te_en": "Amrrita Bhaandam Kanipinchagaane, Raakshasulu Okkasaarigaa Aanandanto Ugisalaadaaru, Devatalu Chustundagaane Daanni Laakkunnaaru. Vaari Kathinamaina Vijaya Garva Dhvanulu Samudrapu Alala Savvadini Kudaa Munchettaayi — Aakaasham Daddarillindi. “Idi Maadi! Amrritam Maa Sontan!” Antu Raakshasulu Goppagaa Arustu, Kundanu Tama Chetulloki Tisukoni Gantulu Veshaaru. Devatala Kallu Nissahaayangaa Okarinokaru Chusukunnaayi — Vaari Bhujaalu Vaalipoyaayi.",
+      "text_en": "As soon as the pot of Amrita appeared, the Asuras swayed with joy and snatched it away right in front of the Devas. Their harsh shouts of victory drowned out even the sound of the ocean waves – the sky trembled. “This is ours! The Amrita belongs to us!” the Asuras shouted proudly, taking the pot into their hands and jumping with glee. The Devas looked at each other helplessly – their shoulders drooped."
+    },
+    {
+      "id": 3,
+      "text": "అమృతాన్ని రాక్షసులు లాక్కోవడం చూసి దేవతలు చాలా బాధపడ్డారు, నిస్సహాయంగా తలలు వంచుకున్నారు. ఇక తమకు దిక్కెవరు అని ఆలోచిస్తూ, అందరూ కళ్ళు మూసుకొని మహావిష్ణువును ప్రార్థించారు — వారి పెదవులు నిశ్శబ్దంగా కదిలాయి. “ఓ మహావిష్ణువు, ధర్మాన్ని రక్షించు!” అని మనసులో వేడుకుంటూ ఉండగా, ఒక చల్లటి గాలి వారి వస్త్రాలను సున్నితంగా కదిపింది. దూరం నుండి ఒక వెలుగు రేఖ మెరుస్తూ, క్షణ క్షణం ప్రకాశవంతం అవుతూ వచ్చింది.",
+      "image_prompt": "The gods stand with bowed heads and closed eyes, their lips silently moving in prayer. A distant streak of light appears on the horizon, growing brighter and more intense with each passing moment. A serene, deep blue night sky with a single, brilliant star (representing Vishnu's presence) slowly growing brighter, illuminating the praying Devas with a soft, ethereal glow.",
+      "scene_visual": "The gods stand with bowed heads and closed eyes, their lips silently moving in prayer. A distant streak of light appears on the horizon, growing brighter and more intense with each passing moment.",
+      "supporting_char_keys": [
+        "devas"
+      ],
+      "text_te_en": "Amrritaanni Raakshasulu Laakkovadam Chusi Devatalu Chaalaa Baadhapaddaaru, Nissahaayangaa Talalu Vanchukunnaaru. Ika Tamaku Dikkevaru Ani Aalochistu, Andaru Kallu Musukoni Mahaavishnuvunu Praarthinchaaru — Vaari Pedavulu Nishshabdangaa Kadilaayi. “O Mahaavishnuvu, Dharmaanni Rakshinchu!” Ani Manasulo Vedukuntu Undagaa, Oka Challati Gaali Vaari Vastraalanu Sunnitangaa Kadipindi. Duram Nundi Oka Velugu Rekha Merustu, Kshana Kshanam Prakaashavantam Avutu Vachchindi.",
+      "text_en": "Seeing the Asuras snatch the Amrita, the Devas were very sad and bowed their heads helplessly. Wondering who would help them now, they all closed their eyes and prayed to Lord Mahavishnu – their lips moved silently. As they pleaded in their hearts, “Oh Mahavishnu, protect righteousness!”, a cool breeze gently stirred their clothes. From a distance, a ray of light shimmered, growing brighter with each passing moment."
+    },
+    {
+      "id": 4,
+      "text": "ఆ మెరుస్తున్న కాంతి పుంజం నుండి — ఒక దివ్యమైన రూపం బయటపడింది. ఆమె అందం చూసి దేవతలు, రాక్షసులు ఇద్దరూ మంత్రముగ్ధులైపోయారు — వారి వాదనలు, కోపాలు ఎగిరిపోయాయి. గాలిలో దివ్యమైన మల్లె, సంపంగి పూల సువాసన నిండిపోయింది, అందరూ శ్వాస తీసుకోకుండా చూస్తున్నారు. మోహిని చిరునవ్వు చిందిస్తూ, అమృత భాండాన్ని తన చేతుల్లోకి తీసుకుంటూ, “నేను మీకు న్యాయంగా అమృతాన్ని పంచుతాను” అని మృదువుగా పలికింది. ఆ క్షణంలో — రాక్షసులు కూడా ఆమె అందానికి లొంగిపోయారు.",
+      "image_prompt": "A beautiful divine figure emerges from the bright light, gracefully taking the golden pot into her hands. She offers a gentle smile, captivating both the gods and demons who gaze at her in silent awe. Also in this scene: Asuras: A fearsome group of powerful beings with dark, rough skin, sharp teeth, and wild, untamed hair. They wear heavy, dark armor and carry crude weapons, their expressions often greedy and aggressive. Always the same character across every scene. A radiant, soft golden light emanates from Mohini, illuminating the entire scene, making the ocean sparkle and pushing back the darkness.",
+      "scene_visual": "A beautiful divine figure emerges from the bright light, gracefully taking the golden pot into her hands. She offers a gentle smile, captivating both the gods and demons who gaze at her in silent awe.",
+      "supporting_char_keys": [
+        "devas"
+      ],
+      "text_te_en": "Aa Merustunna Kaanti Punjam Nundi — Oka Divyamaina Rupam Bayatapadindi. Aame Andam Chusi Devatalu, Raakshasulu Iddaru Mantramugdhulaipoyaaru — Vaari Vaadanalu, Kopaalu Egiripoyaayi. Gaalilo Divyamaina Malle, Sampangi Pula Suvaasana Nindipoyindi, Andaru Shvaasa Tisukokundaa Chustunnaaru. Mohini Chirunavvu Chindistu, Amrrita Bhaandaanni Tana Chetulloki Tisukuntu, “Nenu Miku Nyaayangaa Amrritaanni Panchutaanu” Ani Mrriduvugaa Palikindi. Aa Kshananlo — Raakshasulu Kudaa Aame Andaaniki Longipoyaaru.",
+      "text_en": "From that shining beam of light, a divine form appeared. Both Devas and Asuras were enchanted by her beauty – their arguments and anger vanished. The air filled with the divine fragrance of jasmine and champaka flowers, and everyone watched, holding their breath. Mohini smiled gently, took the pot of Amrita into her hands, and softly said, “I will fairly distribute the Amrita to you all.” At that moment – even the Asuras were captivated by her beauty."
+    },
+    {
+      "id": 5,
+      "text": "మోహిని, తన మధురమైన నవ్వుతో రాక్షసులను నమ్మించి, దేవతలకు దూరంగా కూర్చోబెట్టింది. ఆమె అడుగుల సవ్వడి, కాలి గజ్జెల సన్నని ఘల్లుఘల్లుమని శబ్దం చేస్తూ — ఆ సముద్రపు ఒడ్డున ప్రతిధ్వనించింది. “అందరూ ఓపికగా కూర్చోండి, నేను అందరికీ పంచుతాను” అని చెబుతూ, ఆమె చూపు దేవతల వైపు స్థిరంగా ఉంది. రాక్షసులు ఆమె మాటలు విని, ఆ అందానికి మోసపోయి, అమృతం కోసం ఆశగా ఎదురుచూస్తూ ప్రశాంతంగా కూర్చున్నారు.",
+      "image_prompt": "The divine figure, with a sweet smile, directs the demons to sit separately from the gods. Her gaze is fixed steadily on the gods, while the demons sit patiently, mesmerized by her beauty and anticipating the elixir. Also in this scene: Asuras: A fearsome group of powerful beings with dark, rough skin, sharp teeth, and wild, untamed hair. They wear heavy, dark armor and carry crude weapons, their expressions often greedy and aggressive. Always the same character across every scene. Bright, clear moonlight bathes the scene, creating distinct shadows as the Devas and Asuras arrange themselves, with Mohini's divine glow still subtly present.",
+      "scene_visual": "The divine figure, with a sweet smile, directs the demons to sit separately from the gods. Her gaze is fixed steadily on the gods, while the demons sit patiently, mesmerized by her beauty and anticipating the elixir.",
+      "supporting_char_keys": [
+        "devas"
+      ],
+      "text_te_en": "Mohini, Tana Madhuramaina Navvuto Raakshasulanu Namminchi, Devatalaku Durangaa Kurchobettindi. Aame Adugula Savvadi, Kaali Gajjela Sannani Ghallughallumani Shabdam Chestu — Aa Samudrapu Odduna Pratidhvaninchindi. “Andaru Opikagaa Kurchondi, Nenu Andariki Panchutaanu” Ani Chebutu, Aame Chupu Devatala Vaipu Sthirangaa Undi. Raakshasulu Aame Maatalu Vini, Aa Andaaniki Mosapoyi, Amrritam Kosam Aashagaa Eduruchustu Prashaantangaa Kurchunnaaru.",
+      "text_en": "Mohini, with her sweet smile, convinced the Asuras and made them sit far away from the Devas. The soft sound of her footsteps and the gentle jingle of her anklets echoed along the seashore. “Everyone sit patiently, I will distribute it to all,” she said, her gaze fixed on the Devas. The Asuras, fooled by her words and beauty, sat calmly, eagerly waiting for the Amrita."
+    },
+    {
+      "id": 6,
+      "text": "మోహిని ఒక పద్ధతి ప్రకారం అమృతాన్ని దేవతలకు మాత్రమే పంచుతోంది, రాక్షసులకు ఇవ్వడం లేదు. ఇంతలో రాహువు అనే రాక్షసుడు ఒక దేవత వేషం వేసుకొని, అమృతం తాగడానికి దేవతల పంక్తిలో దూరాడు — ఆ క్షణంలో మోహినికి అంతా తెలిసిపోయింది. మోహిని ఒక దివ్యమైన శక్తితో అతని మోసాన్ని బయటపెట్టింది — సముద్రమంతా ఒక దివ్యమైన గర్జనతో నిండిపోయింది. “నువ్వు రాహువు! నీ మోసం పనికిరాదు!” అని ఆమె పలికింది. అప్పటికే అమృత భాండం ఖాళీ అయిపోయింది, దేవతలు దివ్య కాంతితో ప్రకాశిస్తున్నారు.",
+      "image_prompt": "The divine figure points decisively at a demon disguised as a god, exposing his deception. A powerful divine roar fills the air as the ocean churns, while the gods around them glow with an ethereal light. Also in this scene: Asuras: A fearsome group of powerful beings with dark, rough skin, sharp teeth, and wild, untamed hair. They wear heavy, dark armor and carry crude weapons, their expressions often greedy and aggressive. Always the same character across every scene. A blinding flash of pure, golden-white divine light erupts from Mohini, momentarily illuminating everything with intense brilliance, then fading to reveal the changed scene.",
+      "scene_visual": "The divine figure points decisively at a demon disguised as a god, exposing his deception. A powerful divine roar fills the air as the ocean churns, while the gods around them glow with an ethereal light.",
+      "supporting_char_keys": [
+        "devas"
+      ],
+      "text_te_en": "Mohini Oka Paddhati Prakaaram Amrritaanni Devatalaku Maatrame Panchutondi, Raakshasulaku Ivvadam Ledu. Intalo Raahuvu Ane Raakshasudu Oka Devata Vesham Vesukoni, Amrritam Taagadaaniki Devatala Panktilo Duraadu — Aa Kshananlo Mohiniki Antaa Telisipoyindi. Mohini Oka Divyamaina Shaktito Atani Mosaanni Bayatapettindi — Samudramantaa Oka Divyamaina Garjanato Nindipoyindi. “Nuvvu Raahuvu! Ni Mosam Panikiraadu!” Ani Aame Palikindi. Appatike Amrrita Bhaandam Khaali Ayipoyindi, Devatalu Divya Kaantito Prakaashistunnaaru.",
+      "text_en": "Mohini systematically distributed the Amrita only to the Devas, not giving any to the Asuras. Meanwhile, an Asura named Rahu disguised himself as a Deva and sneaked into the line to drink the Amrita – at that moment, Mohini knew everything. Mohini, with a divine power, exposed his trickery – the entire ocean filled with a divine roar. “You are Rahu! Your trick will not work!” she declared. By then, the pot of Amrita was empty, and the Devas were shining with divine light."
+    },
+    {
+      "id": 7,
+      "text": "ఆ క్షణంలో, న్యాయం జరిగింది — దేవతలు అమరత్వం పొందారు, ధర్మం నిలబడింది. ఆకాశంలో విజయ శంఖారావం మారుమోగింది, దేవతలు ఆనందంతో ఉప్పొంగిపోయారు. వారి శరీరాలు దివ్య కాంతితో మెరిసిపోయాయి, అడుగులు తేలికయ్యాయి. రాక్షసులు నిరాశతో, కోపంతో చేతులు పిసికారు — వారి మోసపు ఆలోచనలు ఎప్పుడూ నెరవేరలేదని అర్థమైంది. చెడు ఎప్పుడూ గెలవదు, మంచి ఎప్పుడూ విజయం సాధిస్తుంది, కదా?",
+      "image_prompt": "The gods stand radiating with a brilliant divine light, their bodies appearing weightless. Nearby, the demons clench their fists and wring their hands in frustration, their faces contorted with anger and despair. Also in this scene: Asuras: A fearsome group of powerful beings with dark, rough skin, sharp teeth, and wild, untamed hair. They wear heavy, dark armor and carry crude weapons, their expressions often greedy and aggressive. Always the same character across every scene. A serene, bright dawn light breaks over the horizon, painting the sky in soft pinks and oranges, symbolizing a new era of peace and divine order.",
+      "scene_visual": "The gods stand radiating with a brilliant divine light, their bodies appearing weightless. Nearby, the demons clench their fists and wring their hands in frustration, their faces contorted with anger and despair.",
+      "supporting_char_keys": [
+        "devas"
+      ],
+      "text_te_en": "Aa Kshananlo, Nyaayam Jarigindi — Devatalu Amaratvam Pondaaru, Dharmam Nilabadindi. Aakaashanlo Vijaya Shankhaaraavam Maarumogindi, Devatalu Aanandanto Uppongipoyaaru. Vaari Shariraalu Divya Kaantito Merisipoyaayi, Adugulu Telikayyaayi. Raakshasulu Niraashato, Kopanto Chetulu Pisikaaru — Vaari Mosapu Aalochanalu Eppudu Neraveraledani Arthamaindi. Chedu Eppudu Gelavadu, Manchi Eppudu Vijayam Saadhistundi, Kadaa?",
+      "text_en": "At that moment, justice was served – the Devas gained immortality, and righteousness prevailed. The conch of victory echoed in the sky, and the Devas overflowed with joy. Their bodies glowed with divine light, and their steps became light. The Asuras wrung their hands in despair and anger – they understood that their deceitful plans would never succeed. Evil never wins, and good always triumphs, right?"
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "devas",
+      "description": "Devas: A radiant assembly of divine beings with bright, serene countenances and graceful forms. They wear elegant, light-colored garments and sparkling jewels, their expressions calm and hopeful. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 7,
+    "child_engagement": 8,
+    "average": 7.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story has a solid narrative arc and excellent grammar, making it a strong base for children's literature. The oral storytelling elements and child engagement are also quite good, with direct address and moments of wonder. However, the emotional depth could be improved by consistently showing emotions through actions rather than stating them directly. The most critical area for enhancement is dialogue richness; adding more character-specific and natural dialogue in every scene would significantly elevate the story's dynamism and make it truly award-worthy."
+  },
+  "quality_warning": true,
+  "title_te_en": "Amrrita Mohini Maaya",
+  "moral_te_en": "Kashtam Vachchinappudu, Telivigaa Aalochiste Manchi Jarugutundi — Devudu Eppudu Manchivaalla Pakshame Untaadu.",
+  "title_en": "Mohini's Amrita Magic",
+  "moral_en": "When trouble comes, thinking wisely helps good things happen. God is always on the side of good people.",
+  "id": "20260606_091423",
+  "date": "2026-06-06",
+  "category": "bhagavatam",
+  "subcategory": "avatara_kathas",
+  "topic": "మోహిని అవతారం - ధర్మాన్ని కాపాడటానికి వచ్చిన దివ్య సుందరి",
+  "thumbnail": "stories/20260606_091423/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
