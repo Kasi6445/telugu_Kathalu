@@ -1,0 +1,110 @@
+{
+  "title": "మెరిసే ముత్యం, గుసగుసలాడే శంఖం",
+  "moral": "మనలో ఉన్న చిన్న చిన్న ప్రత్యేకతలే మనల్ని నిజంగా అందంగా, గొప్పగా చేస్తాయి, తెలుసా?",
+  "main_character": "A small, luminous pearl, perfectly round and shimmering with a soft, inner glow. It believes its worth is solely in its flawless appearance and smooth surface. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A calm, ancient seabed near the coast of Andhra Pradesh, adorned with vibrant coral reefs and gentle swaying sea plants. Sunlight filters down through the clear blue water, creating dancing patterns on the sandy floor. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నీటి అడుగున, ఆంధ్రా తీరం దగ్గర, ఒక చిన్న ముత్యం మెల్లగా దొర్లుతూ ఉంది. అది ఎంత గుండ్రంగా ఉందంటే, దాని ఉపరితలం పైన సూర్యరశ్మి పడినప్పుడు, ఇంద్రధనస్సు రంగులు నాట్యం చేసేవి. అలల 'షష్ష్ష్' అనే శబ్దం దాని చెవులకు ఇంపైన పాటలా వినిపించేది. నీటిలో తన ప్రతిబింబాన్ని చూసుకుంటూ, అది నెమ్మదిగా ఊగిసలాడింది — తన అందాన్ని తనే ఆస్వాదిస్తూ. \"నా అంత పరిపూర్ణంగా ఏదీ లేదు!\" అని అది సంతోషంగా అనుకుంది. ఆ మెరుపు — అదొక అద్భుతం.",
+      "image_prompt": "The pearl gently rolls and sways in the water, observing its own reflection. Sunlight refracts into rainbow colors on its perfectly round surface as it moves. Soft, diffused morning light filtering through the water, illuminating the pearl with a pure, white glow against the blue seabed.",
+      "scene_visual": "The pearl gently rolls and sways in the water, observing its own reflection. Sunlight refracts into rainbow colors on its perfectly round surface as it moves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Niti Aduguna, Aandhraa Tiram Daggara, Oka Chinna Mutyam Mellagaa Dorlutu Undi. Adi Enta Gundrangaa Undante, Daani Uparitalam Paina Suryarashmi Padinappudu, Indradhanassu Rangulu Naatyam Chesevi. Alala 'Shashshsh' Ane Shabdam Daani Chevulaku Impaina Paatalaa Vinipinchedi. Nitilo Tana Pratibimbaanni Chusukuntu, Adi Nemmadigaa Ugisalaadindi — Tana Andaanni Tane Aasvaadistu. \"Naa Anta Paripurnangaa Edi Ledu!\" Ani Adi Santoshangaa Anukundi. Aa Merupu — Adoka Adbhutan.",
+      "text_en": "Deep under the water, near the Andhra coast, a tiny pearl was gently rolling. It was so perfectly round that when the sun's rays touched its surface, rainbow colors danced! The 'shush' sound of the waves was like a sweet song in its ears. Looking at its reflection in the water, it swayed slowly, enjoying its own beauty. \"Nothing is as perfect as me!\" it thought happily. Oh, that sparkle — it was truly amazing."
+    },
+    {
+      "id": 2,
+      "text": "అలా తన అందాన్ని తనే మెచ్చుకుంటూ ఉండగా, ఆ ముత్యం కొద్దిగా పక్కకు దొర్లగానే, ఒక పాత శంఖం దాని కంటికి కనిపించింది. ఆ శంఖం చాలా పెద్దది, దాని ఉపరితలం అంతా చిన్న చిన్న పాచి, ఇసుకతో గరుకుగా ఉంది. ముత్యం దాని వైపు చూస్తూ, ఆశ్చర్యంగా తల ఊపింది — ఇంత అసంపూర్ణంగా ఉండి కూడా అది ఎందుకు అంత ప్రశాంతంగా ఉందో దానికి అర్థం కాలేదు. ఆ శంఖం, ముత్యం వైపు చూసి, మెల్లగా, \"ప్రతి అల ఒక కథ చెబుతుంది, నువ్వు వింటున్నావా?\" అని అడిగింది. ఆ శంఖం మాటలకు, ముత్యం కళ్ళు పెద్దవి చేసుకుంది — ఇలాంటి మాటలు ఎప్పుడూ వినలేదు.",
+      "image_prompt": "The pearl rolls slightly to the side and gazes at an old, large conch shell. Its 'eyes' widen in surprise as it observes the conch's rough, algae-covered surface. Brighter, mid-morning light, casting distinct shadows of the pearl and conch on the sandy bottom, highlighting their differing textures.",
+      "scene_visual": "The pearl rolls slightly to the side and gazes at an old, large conch shell. Its 'eyes' widen in surprise as it observes the conch's rough, algae-covered surface.",
+      "supporting_char_keys": [
+        "conch"
+      ],
+      "text_te_en": "Alaa Tana Andaanni Tane Mechchukuntu Undagaa, Aa Mutyam Koddigaa Pakkaku Dorlagaane, Oka Paata Shankham Daani Kantiki Kanipinchindi. Aa Shankham Chaalaa Peddadi, Daani Uparitalam Antaa Chinna Chinna Paachi, Isukato Garukugaa Undi. Mutyam Daani Vaipu Chustu, Aashcharyangaa Tala Upindi — Inta Asampurnangaa Undi Kudaa Adi Enduku Anta Prashaantangaa Undo Daaniki Artham Kaaledu. Aa Shankhan, Mutyam Vaipu Chusi, Mellagaa, \"Prati Ala Oka Katha Chebutundi, Nuvvu Vintunnaavaa?\" Ani Adigindi. Aa Shankham Maatalaku, Mutyam Kallu Peddavi Chesukundi — Ilaanti Maatalu Eppudu Vinaledu.",
+      "text_en": "While it was admiring its own beauty, the pearl rolled a little to the side. There, it saw an old conch shell. The conch was very big, and its surface was rough with tiny bits of moss and sand. The pearl looked at it, shaking its head in surprise. It couldn't understand why something so imperfect could be so peaceful. The conch looked at the pearl and softly asked, \"Every wave tells a story, are you listening?\" The pearl's eyes grew wide at the conch's words — it had never heard anything like that before!"
+    },
+    {
+      "id": 3,
+      "text": "శంఖం మాటలు ముత్యం మనసులో మెదులుతూనే ఉండగా, అది శంఖంలాగే ప్రశాంతంగా ఉండాలని ప్రయత్నించింది. సూర్యరశ్మిలో తన మెరుపును ఇంకా ఎక్కువగా ప్రదర్శిస్తూ, అది నీటిలో గిరగిరా తిరిగింది. మెరుస్తున్న కాంతి దాని ఉపరితలంపై పడి, తన ప్రతిబింబాన్ని కొద్దిగా వక్రీకరించింది. కానీ దాని లోపల — ఒక రకమైన ఖాళీతనం. \"నా మెరుపు సరిపోదా? ఇంకేం కావాలి?\" అని అది తనలో తనే గొణుక్కుంది. దాని శ్వాస ఆగిపోయింది — ఎందుకంటే ఆ మెరుపు దానికి ఏమీ ఇవ్వలేదు.",
+      "image_prompt": "The pearl spins rapidly in the water, trying to display its shine even more intensely. Its reflection is slightly distorted on its surface as the bright light hits it. A single, strong beam of sunlight piercing the water, creating a spotlight effect on the pearl, emphasizing its isolation and internal conflict.",
+      "scene_visual": "The pearl spins rapidly in the water, trying to display its shine even more intensely. Its reflection is slightly distorted on its surface as the bright light hits it.",
+      "supporting_char_keys": [],
+      "text_te_en": "Shankham Maatalu Mutyam Manasulo Medulutune Undagaa, Adi Shankhanlaage Prashaantangaa Undaalani Prayatninchindi. Suryarashmilo Tana Merupunu Inkaa Ekkuvagaa Pradarshistu, Adi Nitilo Giragiraa Tirigindi. Merustunna Kaanti Daani Uparitalampai Padi, Tana Pratibimbaanni Koddigaa Vakrikarinchindi. Kaani Daani Lopala — Oka Rakamaina Khaalitanan. \"Naa Merupu Saripodaa? Inkem Kaavaali?\" Ani Adi Tanalo Tane Gonukkundi. Daani Shvaasa Aagipoyindi — Endukante Aa Merupu Daaniki Emi Ivvaledu.",
+      "text_en": "The conch's words kept swirling in the pearl's mind. It tried to be as peaceful as the conch. It showed off its sparkle even more in the sunlight, spinning around in the water. The glittering light hit its surface, making its reflection look a little wavy. But deep inside — there was a strange emptiness. \"Isn't my sparkle enough? What else could I need?\" it grumbled to itself. It felt a pang in its heart — because all that sparkle wasn't giving it anything real."
+    },
+    {
+      "id": 4,
+      "text": "తన మెరుపుతో అందరినీ ఆకట్టుకోవాలని ఆశపడి, ఆ ముత్యం దగ్గరగా వెళ్తున్న చిన్న చేపల వైపు మెరిసింది. ఆ చేపలు దాని వైపు చూశాయి, కానీ వెంటనే పక్కనే ఉన్న శంఖం వైపు మళ్ళాయి. ఆ శంఖం నుండి వస్తున్న మృదువైన, లోతైన 'హమ్మ్' శబ్దం నీటిలో తేలియాడుతూ ఉంది. ఒక చిన్న చేప ఆ శంఖం దగ్గరకు వెళ్లి, \"ఆ శంఖం పాట ఎంత అద్భుతంగా ఉంది!\" అని ఆనందంగా అంది. ముత్యం అక్కడ ఒంటరిగా నిలబడిపోయింది — దాని మెరుపు ఎవరికీ అవసరం లేదని గ్రహించింది.",
+      "image_prompt": "The pearl shines brightly towards small fish swimming nearby, hoping to attract them. The fish turn away from the pearl and gather around the conch, listening to its soft humming sound. Gentle, dappled light as fish swim by, creating moving shadows and highlighting the interaction, with the conch slightly in shadow, emitting its sound.",
+      "scene_visual": "The pearl shines brightly towards small fish swimming nearby, hoping to attract them. The fish turn away from the pearl and gather around the conch, listening to its soft humming sound.",
+      "supporting_char_keys": [
+        "conch"
+      ],
+      "text_te_en": "Tana Meruputo Andarini Aakattukovaalani Aashapadi, Aa Mutyam Daggaragaa Veltunna Chinna Chepala Vaipu Merisindi. Aa Chepalu Daani Vaipu Chushaayi, Kaani Ventane Pakkane Unna Shankham Vaipu Mallaayi. Aa Shankham Nundi Vastunna Mrriduvaina, Lotaina 'Hamm' Shabdam Nitilo Teliyaadutu Undi. Oka Chinna Chepa Aa Shankham Daggaraku Velli, \"Aa Shankham Paata Enta Adbhutangaa Undi!\" Ani Aanandangaa Andi. Mutyam Akkada Ontarigaa Nilabadipoyindi — Daani Merupu Evariki Avasaram Ledani Grahinchindi.",
+      "text_en": "Hoping to catch everyone's eye with its sparkle, the pearl glittered towards the small fish swimming nearby. The fish looked at it, but then quickly turned towards the conch shell right beside it. A soft, deep 'hum' sound was floating through the water from the conch. A little fish swam close to the conch and happily said, \"The conch's song is so amazing!\" The pearl was left all alone there — it realized its sparkle wasn't what anyone wanted."
+    },
+    {
+      "id": 5,
+      "text": "ఎవరూ తనను పట్టించుకోకపోవడంతో, ఆ ముత్యం తన మెరుపును దాచుకోవాలని, నేల మీదకు జారింది. తన పరిపూర్ణమైన గుండ్రటి ఆకారం దానికి ఇప్పుడు భారంగా అనిపించింది. అది నెమ్మదిగా ఇసుకలోకి జారుకుంది — దాని నునుపైన ఉపరితలంపై చల్లని ఇసుక రేణువులు మెల్లగా కప్పబడ్డాయి. \"నేను కేవలం ఒక గుండ్రటి రాయిని, అంతకు మించి ఏమీ కాదు.\" అని అది మూలిగింది. తనకంటూ ఒక ప్రత్యేకమైన పాట లేదా ఆకారం ఉంటే ఎంత బాగుండేదని అది మనసులో బాధపడింది.",
+      "image_prompt": "The pearl slowly sinks and buries itself into the sand at the bottom. Cool sand grains gently cover its smooth, perfectly round surface. Dim, muted light as the pearl sinks into the sand, casting a melancholy, shadowy effect around it.",
+      "scene_visual": "The pearl slowly sinks and buries itself into the sand at the bottom. Cool sand grains gently cover its smooth, perfectly round surface.",
+      "supporting_char_keys": [],
+      "text_te_en": "Evaru Tananu Pattinchukokapovadanto, Aa Mutyam Tana Merupunu Daachukovaalani, Nela Midaku Jaarindi. Tana Paripurnamaina Gundrati Aakaaram Daaniki Ippudu Bhaarangaa Anipinchindi. Adi Nemmadigaa Isukaloki Jaarukundi — Daani Nunupaina Uparitalampai Challani Isuka Renuvulu Mellagaa Kappabaddaayi. \"Nenu Kevalam Oka Gundrati Raayini, Antaku Minchi Emi Kaadu.\" Ani Adi Muligindi. Tanakantu Oka Pratyekamaina Paata Ledaa Aakaaram Unte Enta Baagundedani Adi Manasulo Baadhapadindi.",
+      "text_en": "Since no one paid any attention to it, the pearl wanted to hide its sparkle. It rolled down onto the seabed. Its perfectly round shape now felt like a heavy burden. It slowly sank into the sand — cool grains of sand gently covered its smooth surface. \"I'm just a round stone, nothing more,\" it whispered sadly. It felt a deep sadness, wishing it had a special song or a unique shape of its own."
+    },
+    {
+      "id": 6,
+      "text": "ముత్యం అలా ఇసుకలో దాగి ఉన్నప్పుడు, ఒక మృదువైన నీటి ప్రవాహం దాని మీదగా వెళ్ళింది. ఆ ప్రవాహం దాని చుట్టూ ఉన్న ఇసుకను కొద్దిగా తొలగించగా, ముత్యం ఉపరితలంపై ఒక చిన్న, దాదాపు కనిపించని సుడిగుండం ఆకారం కనిపించింది. చల్లని నీటి స్పర్శతో అది ఆశ్చర్యంగా కదిలింది — ఎప్పుడూ గమనించని ఒక చిన్న గుర్తు. \"ఇది... ఇది నేను! నా సొంత ప్రత్యేకత!\" అని అది ఆనందంగా గుసగుసలాడింది. దాని లోపల — ఒక వెలుగు వెలిగింది.",
+      "image_prompt": "A soft water current washes over the pearl, partially uncovering it from the sand. A small, almost invisible swirl pattern becomes visible on its surface under the cool water's touch. A sudden, clearer beam of sunlight catches the pearl at the exact moment of discovery, making the tiny swirl shimmer, symbolizing enlightenment.",
+      "scene_visual": "A soft water current washes over the pearl, partially uncovering it from the sand. A small, almost invisible swirl pattern becomes visible on its surface under the cool water's touch.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mutyam Alaa Isukalo Daagi Unnappudu, Oka Mrriduvaina Niti Pravaaham Daani Midagaa Vellindi. Aa Pravaaham Daani Chuttu Unna Isukanu Koddigaa Tolaginchagaa, Mutyam Uparitalampai Oka Chinna, Daadaapu Kanipinchani Sudigundam Aakaaram Kanipinchindi. Challani Niti Sparshato Adi Aashcharyangaa Kadilindi — Eppudu Gamaninchani Oka Chinna Gurtu. \"Idi... Idi Nenu! Naa Sonta Pratyekata!\" Ani Adi Aanandangaa Gusagusalaadindi. Daani Lopala — Oka Velugu Veligindi.",
+      "text_en": "As the pearl lay hidden in the sand, a gentle water current flowed over it. The current moved some of the sand away, and a tiny, almost invisible swirl shape appeared on the pearl's surface. With the cool water touching it, the pearl moved in surprise — it was a small mark it had never noticed before! \"This... this is me! My very own special mark!\" it happily whispered. Inside it — a bright light began to glow."
+    },
+    {
+      "id": 7,
+      "text": "తనలోని ప్రత్యేకతను గుర్తించిన ఆ ముత్యం, ఇప్పుడు తల ఎత్తుకుంది. అది నెమ్మదిగా ఇసుక నుండి పైకి లేచి, మృదువైన, వెచ్చని నీటి ప్రవాహంలో తేలియాడుతూ శంఖం వైపు కదిలింది. దాని లోపలి మెరుపు మరింత ప్రకాశవంతంగా వెలిగింది — బయటి మెరుపు కంటే చాలా అందంగా. శంఖం ముత్యం వైపు చూసి, చిరునవ్వుతో, \"నీ నిజమైన కాంతి ఇప్పుడు వెలిగింది, నా మిత్రమా.\" అని అంది. ఆ ముత్యం హృదయం ఆనందంతో నిండిపోయింది.",
+      "image_prompt": "The pearl slowly lifts itself from the sand and floats towards the conch in a warm, gentle current. An inner glow radiates from within the pearl, shining more beautifully than its external luster. Warm, golden light of late afternoon, illuminating both the pearl and the conch, creating a harmonious and peaceful atmosphere.",
+      "scene_visual": "The pearl slowly lifts itself from the sand and floats towards the conch in a warm, gentle current. An inner glow radiates from within the pearl, shining more beautifully than its external luster.",
+      "supporting_char_keys": [
+        "conch"
+      ],
+      "text_te_en": "Tanaloni Pratyekatanu Gurtinchina Aa Mutyan, Ippudu Tala Ettukundi. Adi Nemmadigaa Isuka Nundi Paiki Lechi, Mrriduvaina, Vechchani Niti Pravaahanlo Teliyaadutu Shankham Vaipu Kadilindi. Daani Lopali Merupu Marinta Prakaashavantangaa Veligindi — Bayati Merupu Kante Chaalaa Andangaa. Shankham Mutyam Vaipu Chusi, Chirunavvuto, \"Ni Nijamaina Kaanti Ippudu Veligindi, Naa Mitramaa.\" Ani Andi. Aa Mutyam Hrridayam Aanandanto Nindipoyindi.",
+      "text_en": "Now that it had found its own special quality, the pearl lifted its head. It slowly rose from the sand, floating in the soft, warm water current, and moved towards the conch. Its inner sparkle shone even brighter — much more beautiful than its outer shine. The conch looked at the pearl and, with a smile, said, \"Your true light is shining now, my friend.\" The pearl's heart was filled with so much joy."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "conch",
+      "description": "A large, ancient conch shell, spiral-shaped with a rough, weathered surface and a distinctive, slightly chipped opening. It holds a deep, resonant sound and carries the wisdom of the ocean. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story boasts a compelling narrative arc and flawless grammar, delivering a beautiful moral about inner uniqueness. However, it struggles with inconsistent oral warmth, often stating emotions rather than showing them through action or dialogue. The most crucial improvement would be to enrich the dialogue, ensuring every scene features character-specific speech, which would significantly boost child engagement and transform it into a truly immersive oral storytelling experience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Merise Mutyan, Gusagusalaade Shankham",
+  "moral_te_en": "Manalo Unna Chinna Chinna Pratyekatale Manalni Nijangaa Andangaa, Goppagaa Chestaayi, Telusaa?",
+  "title_en": "The Glittering Pearl, The Whispering Conch",
+  "moral_en": "Did you know? The small, unique qualities within us are what truly make us beautiful and great!",
+  "id": "20260606_081114",
+  "date": "2026-06-06",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "నిర్దోషమైన ముత్యం మరియు ప్రత్యేకమైన శంఖం | Moral: పరిపూర్ణతలో కాకుండా, మన ప్రత్యేకతలో, చిన్న చిన్న లోపాల్లోనే నిజమైన అందం, గొప్పదనం దాగి ఉంటాయి.",
+  "thumbnail": "stories/20260606_081114/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
