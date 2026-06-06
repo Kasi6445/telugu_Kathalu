@@ -42,6 +42,26 @@ jobs:
           GCP_PROJECT_ID: telugu-kathalu-493805
           GCP_LOCATION: us-central1
           ALLOW_AI_STUDIO: 'false'
+          R2_BASE_URL: https://pub-558b12062e854257a35815cd84959ad0.r2.dev
+
+      - name: Upload draft media to R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: |
+          pip install awscli --quiet
+          aws s3 sync drafts/ s3://${{ secrets.R2_BUCKET_NAME }}/drafts/ \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --exclude "*.json" \
+            --include "*.jpg" \
+            --include "*.png" \
+            --include "*.mp3" \
+            --include "*.wav" \
+            --no-progress
+          find drafts/ -name "*.jpg" -delete
+          find drafts/ -name "*.png" -delete
+          find drafts/ -name "*.mp3" -delete
+          find drafts/ -name "*.wav" -delete
 
       - name: Commit and push draft
         run: |
