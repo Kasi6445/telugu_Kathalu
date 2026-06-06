@@ -7,3 +7,8 @@ test_output/
 *.json.key
 gcp-key.json
 gha-creds-*.json
+# Media files — served from Cloudflare R2, not stored in repo
+stories/*/images/
+stories/*/audio/
+drafts/*/images/
+drafts/*/audio/
