@@ -1,0 +1,112 @@
+{
+  "title": "కళ్ళ ముందున్న ఆనందం",
+  "moral": "మన దగ్గర ఉన్న వాటిలో మంచిని చూసినప్పుడు, మనసు సంతోషంతో నిండిపోతుంది.",
+  "main_character": "Yuvaraju Vikram is a slender, curious boy of ten, with bright, questioning eyes and a perpetually slightly downturned mouth. He often wears silken tunics but finds fault in their colour or fabric. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The grand palace of Suryapuram, nestled beside the Krishna River, boasts sprawling emerald gardens and ancient stone walls. Ornate archways lead to courtyards filled with fragrant jasmine and mango trees. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "సూర్యపురం రాజభవనంలోని పచ్చని తోటలో, విక్రమ్ యువరాజు నెమ్మదిగా నడిచాడు, అతని పెదవులు చిన్నగా విరిచాడు. మల్లెపూల మత్తు సువాసన గాలిలో నిండి ఉన్నా, అతను ముక్కు చిట్లించాడు. \"ఈ పూల రంగు మరీ మామూలుగా ఉంది. ఇంకేదైనా బాగుండేది కదా?\" అని విక్రమ్ గునుగునులాడాడు, ఒక చిన్న గులకరాయిని కాలితో తోసాడు. కళ్ళముందున్న అందాన్ని అసలు చూడనే లేదు. ఇంతలో, అతను ఒక్కసారిగా ఆగిపోయాడు — దూరంగా, ప్యాలెస్ చివర ఒక మామూలు మూల వైపు దీర్ఘంగా చూశాడు.",
+      "image_prompt": "The prince suddenly stops walking and looks intently towards a plain corner at the far end of the palace. He has just kicked a small pebble with his foot. Bright, clear morning sunlight dappling through dense green leaves, casting sharp shadows on the stone path, creating a vibrant but restless atmosphere.",
+      "scene_visual": "The prince suddenly stops walking and looks intently towards a plain corner at the far end of the palace. He has just kicked a small pebble with his foot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Suryapuram Raajabhavananloni Pachchani Totalo, Vikram Yuvaraaju Nemmadigaa Nadichaadu, Atani Pedavulu Chinnagaa Virichaadu. Mallepula Mattu Suvaasana Gaalilo Nindi Unnaa, Atanu Mukku Chitlinchaadu. \"I Pula Rangu Mari Maamulugaa Undi. Inkedainaa Baagundedi Kadaa?\" Ani Vikram Gunugunulaadaadu, Oka Chinna Gulakaraayini Kaalito Tosaadu. Kallamundunna Andaanni Asalu Chudane Ledu. Intalo, Atanu Okkasaarigaa Aagipoyaadu — Durangaa, Pyaales Chivara Oka Maamulu Mula Vaipu Dirghangaa Chushaadu.",
+      "text_en": "In the green garden of Suryapuram Palace, Prince Vikram walked slowly, his lips in a small frown. Even though the sweet smell of jasmine flowers filled the air, he wrinkled his nose. \"The color of these flowers is just too plain. Wouldn't something else be nicer?\" Vikram grumbled, kicking a small pebble with his foot. He didn't see the beauty right in front of him at all. Then, he suddenly stopped — looking far away, towards an ordinary corner at the very end of the palace."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మరుక్షణం విక్రమ్, తోటమాలి వీరయ్య దగ్గరికి వెళ్ళాడు, అతని పెదవులు ఏదో అడగాలని వణికినట్లు ఉన్నాయి. వీరయ్య చేతులు తడిమిన మట్టిని మెల్లగా నిమిరాడు — ఆ చల్లదనం అతని వేళ్ళకి అంటింది. \"వీరయ్యా, ఈ ప్యాలెస్‌లో ఏదీ నాకు నచ్చట్లేదు,\" అని విక్రమ్ తన చేతులు విసిరాడు. వీరయ్య ప్రశాంతంగా విన్నాడు, చిన్నగా నవ్వాడు. \"యువరాజా, మీ చేతిలో ఉన్న విత్తనంలోనే అద్భుతమైన వృక్షం ఉంటుంది.\" అతని వేలు ఒక చిన్న మొలక వైపు చూపింది — అది భూమిలోంచి బయటికి చూసింది.",
+      "image_prompt": "The gardener gently strokes the moist soil with his hands while the prince throws his hands up in frustration. The gardener's finger points towards a small sprout peeking out from the earth. Soft, late morning sun, warm and golden, filtering through the broad leaves of a banyan tree, creating a peaceful, contemplative glow around Veerayya.",
+      "scene_visual": "The gardener gently strokes the moist soil with his hands while the prince throws his hands up in frustration. The gardener's finger points towards a small sprout peeking out from the earth.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Aa Marukshanam Vikram, Totamaali Virayya Daggariki Vellaadu, Atani Pedavulu Edo Adagaalani Vanikinatlu Unnaayi. Virayya Chetulu Tadimina Mattini Mellagaa Nimiraadu — Aa Challadanam Atani Vellaki Antindi. \"Virayyaa, I Pyaales‌Lo Edi Naaku Nachchatledu,\" Ani Vikram Tana Chetulu Visiraadu. Virayya Prashaantangaa Vinnaadu, Chinnagaa Navvaadu. \"Yuvaraajaa, Mi Chetilo Unna Vittananlone Adbhutamaina Vrriksham Untundi.\" Atani Velu Oka Chinna Molaka Vaipu Chupindi — Adi Bhumilonchi Bayatiki Chusindi.",
+      "text_en": "The very next moment, Vikram went to the gardener, Veerayya, his lips wobbly as if he wanted to ask something. Veerayya gently touched the damp soil with his hands — the cool earth stuck to his fingers. \"Veerayya, I don't like anything in this palace at all,\" Vikram said, throwing his hands up in the air. Veerayya listened quietly and smiled a little. \"Prince, a wonderful tree can grow from the tiny seed in your hand.\" His finger pointed to a small sprout — it was just peeking out of the ground."
+    },
+    {
+      "id": 3,
+      "text": "వీరయ్య మాటలను విననట్టే నటించి, విక్రమ్ తన భద్రతాదళాన్ని పిలిచాడు, కాలి బొటనవేలును నేలకు కొట్టాడు. అతని కళ్ళు మెరుస్తూ, ఆజ్ఞాపించాడు. \"రాజ్యమంతటా వెతకండి! ఎక్కడా లేని అద్భుతమైన వస్తువును తీసుకురండి!\" అని అతని గొంతు గంభీరంగా వినిపించింది. సైనికుల కవచాలు గలగలమంటూ శబ్దం చేశాయి — వారు బయలుదేరారు. కొన్ని రోజుల తర్వాత, వారు తిరిగి వచ్చారు, అరుదైన వస్తువుల సమూహాన్ని విక్రమ్ ముందు ఉంచారు.",
+      "image_prompt": "The prince taps his big toe on the ground and commands his security forces to search the kingdom for a unique item. The soldiers' armor clanks loudly as they set off immediately. Harsh midday sun beating down on the palace courtyard, casting sharp, defined shadows, reflecting off the polished marble, highlighting Vikram's demanding posture.",
+      "scene_visual": "The prince taps his big toe on the ground and commands his security forces to search the kingdom for a unique item. The soldiers' armor clanks loudly as they set off immediately.",
+      "supporting_char_keys": [],
+      "text_te_en": "Virayya Maatalanu Vinanatte Natinchi, Vikram Tana Bhadrataadalaanni Pilichaadu, Kaali Botanavelunu Nelaku Kottaadu. Atani Kallu Merustu, Aajnyaapinchaadu. \"Raajyamantataa Vetakandi! Ekkadaa Leni Adbhutamaina Vastuvunu Tisukurandi!\" Ani Atani Gontu Gambhirangaa Vinipinchindi. Sainikula Kavachaalu Galagalamantu Shabdam Cheshaayi — Vaaru Bayaluderaaru. Konni Rojula Tarvaata, Vaaru Tirigi Vachchaaru, Arudaina Vastuvula Samuhaanni Vikram Mundu Unchaaru.",
+      "text_en": "Pretending not to hear Veerayya, Vikram called his guards, tapping his foot on the ground. His eyes sparkled as he ordered, \"Search the whole kingdom! Bring me something amazing that no one else has!\" His voice was loud and clear. The soldiers' armor clanked as they marched off. A few days later, they came back, placing many rare and special things in front of Vikram."
+    },
+    {
+      "id": 4,
+      "text": "ఆ అరుదైన వస్తువుల మధ్య కూర్చుని, విక్రమ్ ఒక వెల్వెట్ కుషన్ మీద భుజాలు వాల్చి కూర్చున్నాడు. అతని చేతిలో ఉన్న నీలం రత్నం చల్లగా, నున్నగా అనిపించినా, అది ఏమాత్రం వెచ్చదనాన్ని ఇవ్వలేదు. \"ఇవన్నీ బాగున్నాయి... కానీ నాకేం సంతోషం ఇవ్వడం లేదు,\" అని విక్రమ్ పెదవులు విరిచాడు. మనసులో మాత్రం — ఒక పెద్ద శూన్యం. అతను కిటికీ వైపు చూశాడు, తన పక్కనున్న విలాసవంతమైన గదిని దాటి, దూరంగా ఉన్న తోట వైపు అతని చూపు పడింది.",
+      "image_prompt": "The prince sits slumped on a velvet cushion amidst a collection of rare items, looking out of the window. He holds a cold, smooth blue gem in his hand, but his lips are curled in dissatisfaction. Late afternoon light, muted and diffused through heavy silk curtains, casting a soft, melancholic grey-blue glow on the room, making the treasures seem dull.",
+      "scene_visual": "The prince sits slumped on a velvet cushion amidst a collection of rare items, looking out of the window. He holds a cold, smooth blue gem in his hand, but his lips are curled in dissatisfaction.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Arudaina Vastuvula Madhya Kurchuni, Vikram Oka Velvet Kushan Mida Bhujaalu Vaalchi Kurchunnaadu. Atani Chetilo Unna Nilam Ratnam Challagaa, Nunnagaa Anipinchinaa, Adi Emaatram Vechchadanaanni Ivvaledu. \"Ivanni Baagunnaayi... Kaani Naakem Santosham Ivvadam Ledu,\" Ani Vikram Pedavulu Virichaadu. Manasulo Maatram — Oka Pedda Shunyan. Atanu Kitiki Vaipu Chushaadu, Tana Pakkanunna Vilaasavantamaina Gadini Daati, Durangaa Unna Tota Vaipu Atani Chupu Padindi.",
+      "text_en": "Sitting among all those rare things, Vikram leaned back on a soft velvet cushion. The blue gem in his hand felt cool and smooth, but it didn't make him feel warm or happy at all. \"These are all pretty... but they don't make me happy,\" Vikram said, his lips in a frown. Inside his heart, he felt a big, empty space. He looked out the window, past his fancy room, and his eyes landed on the garden far away."
+    },
+    {
+      "id": 5,
+      "text": "ఆ సాయంత్రం, విక్రమ్ మళ్ళీ తోటలోకి వెళ్ళాడు, నెమ్మదిగా అడుగులు వేసుకుంటూ. వీరయ్య ఒక చిన్న బంతిపూల మొక్కల వరుసకు నీళ్ళు పోస్తున్నాడు — అతని చేతిలోని నీళ్ళ డబ్బా నుండి ప్రశాంతంగా నీరు చిమ్మే శబ్దం వినిపించింది. వీరయ్య పెదవులపై చిన్న పాట వినిపించింది, అతని నుదుట ముడతలు పడ్డాయి. \"ఈ చిన్న మొక్కల పట్ల అంత ప్రేమ ఎలా?\" అని విక్రమ్ మనసులో అనుకున్నాడు. వీరయ్య తల పైకెత్తాడు — వారి కళ్ళు కలిశాయి, వీరయ్య పెదవులపై చిన్న చిరునవ్వు మెరిసింది.",
+      "image_prompt": "The gardener waters a row of small marigold plants, humming softly, as the prince slowly walks into the garden. The gardener lifts his head, and a small smile appears on his lips as their eyes meet. Golden hour light, warm and rich, painting the garden in soft amber and long shadows, highlighting the peaceful, focused movements of Veerayya.",
+      "scene_visual": "The gardener waters a row of small marigold plants, humming softly, as the prince slowly walks into the garden. The gardener lifts his head, and a small smile appears on his lips as their eyes meet.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Aa Saayantran, Vikram Malli Totaloki Vellaadu, Nemmadigaa Adugulu Vesukuntu. Virayya Oka Chinna Bantipula Mokkala Varusaku Nillu Postunnaadu — Atani Chetiloni Nilla Dabbaa Nundi Prashaantangaa Niru Chimme Shabdam Vinipinchindi. Virayya Pedavulapai Chinna Paata Vinipinchindi, Atani Nuduta Mudatalu Paddaayi. \"I Chinna Mokkala Patla Anta Prema Elaa?\" Ani Vikram Manasulo Anukunnaadu. Virayya Tala Paikettaadu — Vaari Kallu Kalishaayi, Virayya Pedavulapai Chinna Chirunavvu Merisindi.",
+      "text_en": "That evening, Vikram went back into the garden, walking slowly and quietly. Veerayya was watering a row of small marigold plants — the gentle sound of water splashing from his watering can could be heard. A little song was on Veerayya's lips, and his forehead had small wrinkles. \"How can he love these tiny plants so much?\" Vikram wondered to himself. Veerayya looked up — their eyes met, and a small smile appeared on Veerayya's lips."
+    },
+    {
+      "id": 6,
+      "text": "వీరయ్య పక్కన కూర్చుని, విక్రమ్ ఒక చిన్న ఆకును చూశాడు, దానిపై ఒక మంచు బిందువు మెరుస్తోంది. అతను వేలితో దానిని సున్నితంగా తాకాడు — ఆ చల్లదనం అతని వేళ్ళకు తగిలింది. విక్రమ్ కళ్ళు పెద్దవిగా అయ్యాయి, అతని పెదవులపై నిజమైన చిరునవ్వు విచ్చుకుంది. \"వీరయ్యా, ఇది ఎంత అందంగా ఉంది! నేను ఇంతకుముందు ఎందుకు చూడలేదు?\" అని విక్రమ్ ఆశ్చర్యంగా అడిగాడు. ఒక్కసారిగా — అన్నీ అర్థమయ్యాయి, అతని గుండెలో ఏదో వెచ్చదనం నిండినట్లు అనిపించింది.",
+      "image_prompt": "Sitting next to the gardener, the prince gently touches a small leaf with his finger. His eyes widen, and a genuine smile blossoms on his lips as he feels the cold dewdrop on his fingertip. Soft, dappled morning light, fresh and clear, highlighting the vibrant green of the leaf and the sincere expression on Vikram's face, creating a moment of pure clarity.",
+      "scene_visual": "Sitting next to the gardener, the prince gently touches a small leaf with his finger. His eyes widen, and a genuine smile blossoms on his lips as he feels the cold dewdrop on his fingertip.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Virayya Pakkana Kurchuni, Vikram Oka Chinna Aakunu Chushaadu, Daanipai Oka Manchu Binduvu Merustondi. Atanu Velito Daanini Sunnitangaa Taakaadu — Aa Challadanam Atani Vellaku Tagilindi. Vikram Kallu Peddavigaa Ayyaayi, Atani Pedavulapai Nijamaina Chirunavvu Vichchukundi. \"Virayyaa, Idi Enta Andangaa Undi! Nenu Intakumundu Enduku Chudaledu?\" Ani Vikram Aashcharyangaa Adigaadu. Okkasaarigaa — Anni Arthamayyaayi, Atani Gundelo Edo Vechchadanam Nindinatlu Anipinchindi.",
+      "text_en": "Sitting next to Veerayya, Vikram saw a tiny leaf with a sparkling dewdrop on it. He gently touched it with his finger — the cool drop felt nice on his skin. Vikram's eyes grew wide, and a real smile spread across his face. \"Veerayya, how beautiful this is! Why didn't I see it before?\" Vikram asked, full of wonder. All at once — everything made sense, and he felt a warm, happy feeling fill his heart."
+    },
+    {
+      "id": 7,
+      "text": "అప్పటి నుండి, విక్రమ్ యువరాజు మిగిలిన రోజు వీరయ్యతో కలిసి తోటలో పని చేశాడు. మట్టి వాసన, పూల సువాసన కలిసి గాలిలో తేలుతున్నాయి — విక్రమ్ పెదవుల మధ్య చిన్న పాట వినిపించింది. మట్టితో నిండిన చేతులతో మొక్కలు నాటాడు, అతని ముఖం ప్రశాంతంగా, కాంతితో వెలిగిపోయింది. \"ఈ రోజు నాకు చాలా సంతోషంగా ఉంది, వీరయ్యా,\" అని విక్రమ్ మనస్ఫూర్తిగా చెప్పాడు. అతని గుండె సంతోషంతో నిండిపోయింది — ప్రతి చిన్న పుష్పంలోనూ ఆనందాన్ని కనుగొన్నాడు.",
+      "image_prompt": "The prince plants small plants with soil-filled hands, working alongside the gardener in the garden. His face is peaceful and radiant, and a small song can be heard between his lips. Gentle dusk light, painting the garden in soft purples and oranges, casting long, peaceful shadows, creating a serene and harmonious final image.",
+      "scene_visual": "The prince plants small plants with soil-filled hands, working alongside the gardener in the garden. His face is peaceful and radiant, and a small song can be heard between his lips.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Appati Nundi, Vikram Yuvaraaju Migilina Roju Virayyato Kalisi Totalo Pani Cheshaadu. Matti Vaasana, Pula Suvaasana Kalisi Gaalilo Telutunnaayi — Vikram Pedavula Madhya Chinna Paata Vinipinchindi. Mattito Nindina Chetulato Mokkalu Naataadu, Atani Mukham Prashaantangaa, Kaantito Veligipoyindi. \"I Roju Naaku Chaalaa Santoshangaa Undi, Virayyaa,\" Ani Vikram Manasphurtigaa Cheppaadu. Atani Gunde Santoshanto Nindipoyindi — Prati Chinna Pushpanlonu Aanandaanni Kanugonnaadu.",
+      "text_en": "From that moment on, Prince Vikram spent the rest of the day working with Veerayya in the garden. The smell of fresh soil and sweet flowers floated together in the air — and a little song could be heard from Vikram's lips. He planted small plants with his hands, now covered in dirt, and his face looked peaceful and bright. \"I am so happy today, Veerayya,\" Vikram said from his heart. His heart was full of joy — he found happiness in every tiny flower."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "gardener",
+      "description": "Veerayya is an old, gentle gardener with a kind, wrinkled face and hands stained with soil. He wears a simple, faded cotton dhoti and always carries a small watering can. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 6,
+    "average": 7.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and flawless grammar, which are commendable strengths. However, its formal narrative voice and occasional direct statements of emotion prevent it from fully embodying the warmth of a bedtime story. To reach an award-worthy level, the most crucial step is to infuse the prose with a more oral, evocative style, ensuring every scene has direct dialogue and that emotions are consistently shown rather than told, thereby significantly boosting child engagement."
+  },
+  "quality_warning": true,
+  "title_te_en": "Kalla Mundunna Aanandam",
+  "moral_te_en": "Mana Daggara Unna Vaatilo Manchini Chusinappudu, Manasu Santoshanto Nindipotundi.",
+  "title_en": "The Happiness Right Before Your Eyes",
+  "moral_en": "Our hearts fill with joy when we appreciate the good things we already have.",
+  "id": "20260606_061147",
+  "date": "2026-06-06",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "ఉన్నవాటిని మెచ్చుకోని యువరాజు",
+  "thumbnail": "stories/20260606_061147/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
