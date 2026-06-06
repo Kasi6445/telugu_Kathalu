@@ -50,7 +50,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
         run: |
           pip install awscli --quiet
-          aws s3 sync drafts/ s3://${{ secrets.R2_BUCKET_NAME }}/drafts/ \
+          aws s3 sync drafts/ s3://${{ secrets.R2_BUCKET_NAME }}/stories/ \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --exclude "*.json" \
             --include "*.jpg" \
