@@ -1,0 +1,106 @@
+{
+  "title": "తోక వంకర, రాజు పాఠం",
+  "moral": "కొన్ని విషయాలు వాటి స్వభావం ప్రకారం మాత్రమే ఉంటాయి, వాటిని మార్చడానికి ప్రయత్నించడం వ్యర్థం, వాటిని అంగీకరించడమే జ్ఞానం.",
+  "main_character": "Raju is a curious and determined 8-year-old boy, with bright, eager eyes that miss nothing. He always carries a small wooden tool in his pocket, believing every problem has a solution if one tries hard enough. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant village in rural Andhra Pradesh, characterized by its mud-brick houses, a grand central banyan tree, and winding dusty paths. The story unfolds across various times of day, from bright mornings to gentle dusks. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పొద్దు పొద్దున్నే రాజు తన అమ్మమ్మకు బావి దగ్గర నీళ్ళు తోడటానికి సాయం చేశాడు, తన చిన్న చేతులతో చల్లని, మృదువైన మట్టి కుండను జాగ్రత్తగా పట్టుకున్నాడు. ఇంతలో, బావి పక్కన ఉన్న ఒక కుక్క తోకను చూసి రాజు అక్కడే ఆగిపోయాడు, తన నుదుట చిట్లించి ఆ తోక వంకరను చూశాడు. ఆ కుక్క తోక ఎంత వింతగా, వంకరగా ఉందో చూసి తల పక్కకు వంచి ఆశ్చర్యంగా అడిగాడు — \"అమ్మా, ఈ కుక్క తోక ఎంత వంకరగా ఉంది!\" రాజు చూపులు ఆ కుక్క తోకపైనే నిలిచిపోయాయి, ఏదో ఆలోచన అతని మనసులో మెదులుతూ ఉంది.",
+      "image_prompt": "The boy stops, looking intently at a dog's tail near a well. He furrows his brow, tilting his head in surprise at its peculiar crookedness. Bright morning sun filtering through the dense leaves of a mango tree, creating dappled light and shadow on the dusty path near the well.",
+      "scene_visual": "The boy stops, looking intently at a dog's tail near a well. He furrows his brow, tilting his head in surprise at its peculiar crookedness.",
+      "supporting_char_keys": [],
+      "text_te_en": "Poddu Poddunne Raaju Tana Ammammaku Baavi Daggara Nillu Todataaniki Saayam Cheshaadu, Tana Chinna Chetulato Challani, Mrriduvaina Matti Kundanu Jaagrattagaa Pattukunnaadu. Intalo, Baavi Pakkana Unna Oka Kukka Tokanu Chusi Raaju Akkade Aagipoyaadu, Tana Nuduta Chitlinchi Aa Toka Vankaranu Chushaadu. Aa Kukka Toka Enta Vintagaa, Vankaragaa Undo Chusi Tala Pakkaku Vanchi Aashcharyangaa Adigaadu — \"Ammaa, I Kukka Toka Enta Vankaragaa Undi!\" Raaju Chupulu Aa Kukka Tokapaine Nilichipoyaayi, Edo Aalochana Atani Manasulo Medulutu Undi.",
+      "text_en": "Early in the morning, Raju helped his Grandma draw water from the well. He carefully held the cool, smooth clay pot with his small hands. Just then, Raju stopped. He saw a dog's tail next to the well and frowned, looking at how crooked it was. He tilted his head in surprise and asked, \"Grandma, look how crooked this dog's tail is!\" Raju's eyes stayed fixed on the dog's tail, and an idea started to grow in his mind."
+    },
+    {
+      "id": 2,
+      "text": "కుక్క తన వంకర తోకను లయబద్ధంగా ఊపుతూ సీతాకోకచిలుకను వెంటాడడాన్ని రాజు కొద్దిసేపు నిశ్శబ్దంగా చూశాడు, దాని ఆనందానికి ఆ తోక అడ్డు రాలేదు. అయినా రాజు మనసులో మాత్రం 'ఇది సరిచేయాలి' అనే ఆలోచన బలపడింది, అతని కళ్ళలో ఒక పట్టుదల మెరిసింది. తను ప్రయత్నిస్తే ఏదైనా సాధించగలనని నమ్మే రాజు, గట్టిగా తల ఊపి, \"నేను దీన్ని సరిచేయగలను! కొంచెం ప్రయత్నం చేస్తే సరిపోతుంది\" అని తనతో తనే చెప్పుకున్నాడు. రాజు గబగబా కింద నుండి ఒక చిన్న, గట్టి కర్రను తీసుకున్నాడు, అతని మనసులో అప్పటికే ఒక పక్కా ప్రణాళిక సిద్ధమైంది.",
+      "image_prompt": "The boy nods firmly to himself, then quickly picks up a small, sturdy stick from the ground. A determined glint shines in his eyes as he holds the stick, a plan forming in his mind. Clear mid-morning light, a pale yellow glow over the village square, highlighting Raju's focused expression.",
+      "scene_visual": "The boy nods firmly to himself, then quickly picks up a small, sturdy stick from the ground. A determined glint shines in his eyes as he holds the stick, a plan forming in his mind.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kukka Tana Vankara Tokanu Layabaddhangaa Uputu Sitaakokachilukanu Ventaadadaanni Raaju Koddisepu Nishshabdangaa Chushaadu, Daani Aanandaaniki Aa Toka Addu Raaledu. Ayinaa Raaju Manasulo Maatram 'Idi Saricheyaali' Ane Aalochana Balapadindi, Atani Kallalo Oka Pattudala Merisindi. Tanu Prayatniste Edainaa Saadhinchagalanani Namme Raaju, Gattigaa Tala Upi, \"Nenu Dinni Saricheyagalanu! Konchem Prayatnam Cheste Saripotundi\" Ani Tanato Tane Cheppukunnaadu. Raaju Gabagabaa Kinda Nundi Oka Chinna, Gatti Karranu Tisukunnaadu, Atani Manasulo Appatike Oka Pakkaa Pranaalika Siddhamaindi.",
+      "text_en": "Raju watched silently for a while as the dog chased a butterfly, wagging its crooked tail in a happy rhythm. The crooked tail didn't stop the dog from having fun. But in Raju's mind, the thought 'This must be fixed!' grew stronger, and his eyes sparkled with determination. Raju believed he could do anything if he tried. He nodded firmly and told himself, \"I can fix this! Just a little effort will do.\" Raju quickly picked up a small, strong stick from the ground. A perfect plan was already forming in his mind."
+    },
+    {
+      "id": 3,
+      "text": "రాజు కుక్క దగ్గరకు మెల్లగా వెళ్లి, తన జేబులోంచి పాత గుడ్డ ముక్క తీసి, దాన్ని ఆ వంకర తోకకు, గట్టి కర్రకు కలిపి కట్టడం మొదలుపెట్టాడు. ఆ గుడ్డ గరుకుదనం అతని వేళ్ళకు తగిలినా, రాజు ముఖంపై ఏకాగ్రత, ఆశ స్పష్టంగా కనిపించాయి. కుక్క అయోమయంగా చూస్తూ నిలబడింది, రాజు దాని సౌకర్యాన్ని గమనిస్తూ జాగ్రత్తగా ముడి వేశాడు. \"రేపటికల్లా నీ తోక చక్కగా ఉంటుంది, చూడు!\" అని కుక్క చెవి దగ్గర గుసగుసలాడాడు. కుక్క రాజు వైపు అయోమయంగా కానీ నమ్మకంగా చూసింది, దాని తోక ఆ కర్రకు గట్టిగా కట్టబడి ఉంది.",
+      "image_prompt": "The boy carefully ties a piece of old cloth, connecting the dog's crooked tail to the sturdy stick. Concentration and hope are evident on his face as he whispers to the dog, whose tail is now firmly bound. Late afternoon, golden hour light, long shadows stretching across the ground near Raju's hut, giving a sense of quiet anticipation.",
+      "scene_visual": "The boy carefully ties a piece of old cloth, connecting the dog's crooked tail to the sturdy stick. Concentration and hope are evident on his face as he whispers to the dog, whose tail is now firmly bound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Kukka Daggaraku Mellagaa Velli, Tana Jebulonchi Paata Gudda Mukka Tisi, Daanni Aa Vankara Tokaku, Gatti Karraku Kalipi Kattadam Modalupettaadu. Aa Gudda Garukudanam Atani Vellaku Tagilinaa, Raaju Mukhampai Ekaagrata, Aasha Spashtangaa Kanipinchaayi. Kukka Ayomayangaa Chustu Nilabadindi, Raaju Daani Saukaryaanni Gamanistu Jaagrattagaa Mudi Veshaadu. \"Repatikallaa Ni Toka Chakkagaa Untundi, Chudu!\" Ani Kukka Chevi Daggara Gusagusalaadaadu. Kukka Raaju Vaipu Ayomayangaa Kaani Nammakangaa Chusindi, Daani Toka Aa Karraku Gattigaa Kattabadi Undi.",
+      "text_en": "Raju slowly went near the dog. He took an old piece of cloth from his pocket and began to tie it around the crooked tail and the strong stick. Even though the rough cloth felt scratchy on his fingers, Raju's face showed clear focus and hope. The dog stood there looking a little confused, but Raju carefully tied the knot, making sure the dog was comfortable. He whispered near the dog's ear, \"By tomorrow, your tail will be straight, just you wait!\" The dog looked at Raju, confused but trusting, its tail now tightly tied to the stick."
+    },
+    {
+      "id": 4,
+      "text": "మరుసటి ఉదయం, రాజు ఉత్సాహంగా ఆ కట్టు విప్పాడు, అతని గుండె వేగంగా కొట్టుకుంది. కుక్క తోకను కట్టిన చోట మట్టి వాసన faint గా వస్తుంది. కట్టు విప్పగానే — ఆ తోక ఒక్కసారిగా మళ్ళీ తన పాత వంకర ఆకారంలోకి వచ్చేసింది! రాజు భుజాలు వాలిపోయాయి, అతని నుదుట లోతైన ముడతలు పడ్డాయి. \"అయ్యో! మళ్ళీ వంకరగానే ఉందే!\" అంటూ నిరాశగా అరిచాడు. రాజు నిరాశగా అక్కడే కూర్చుండిపోయాడు, తల చేతుల్లో పెట్టుకున్నాడు, ఆ కుక్క మాత్రం తన వంకర తోకను హాయిగా ఊపుకుంది, రాజు బాధ దానికేమీ పట్టలేదు.",
+      "image_prompt": "The boy's shoulders slump as he watches the dog's tail instantly spring back to its original crooked shape after he unties it. Deep wrinkles form on his forehead, and he sits down dejectedly, burying his head in his hands. Early morning, soft, diffused light, a cool blue-grey tone, reflecting Raju's quiet disappointment and confusion.",
+      "scene_visual": "The boy's shoulders slump as he watches the dog's tail instantly spring back to its original crooked shape after he unties it. Deep wrinkles form on his forehead, and he sits down dejectedly, burying his head in his hands.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Udayan, Raaju Utsaahangaa Aa Kattu Vippaadu, Atani Gunde Vegangaa Kottukundi. Kukka Tokanu Kattina Chota Matti Vaasana Faint Gaa Vastundi. Kattu Vippagaane — Aa Toka Okkasaarigaa Malli Tana Paata Vankara Aakaaranloki Vachchesindi! Raaju Bhujaalu Vaalipoyaayi, Atani Nuduta Lotaina Mudatalu Paddaayi. \"Ayyo! Malli Vankaragaane Unde!\" Antu Niraashagaa Arichaadu. Raaju Niraashagaa Akkade Kurchundipoyaadu, Tala Chetullo Pettukunnaadu, Aa Kukka Maatram Tana Vankara Tokanu Haayigaa Upukundi, Raaju Baadha Daanikemi Pattaledu.",
+      "text_en": "The next morning, Raju excitedly untied the bandage, his heart beating fast. There was a faint smell of mud where the dog's tail had been tied. As soon as he untied it—the tail immediately went back to its old crooked shape! Raju's shoulders drooped, and deep wrinkles appeared on his forehead. \"Oh no! It's still crooked!\" he cried out in disappointment. Raju sat down right there, sadly, with his head in his hands. But the dog happily wagged its crooked tail, not caring about Raju's sadness at all."
+    },
+    {
+      "id": 5,
+      "text": "రాజు ఆ తర్వాత చాలా రోజులు ఎన్నో కొత్త పద్ధతులు ప్రయత్నించాడు — తోకకు బరువైన పలక కట్టాడు, సున్నితంగా మసాజ్ చేశాడు, చివరకు ఒక సంక్లిష్టమైన చెక్క పట్టీని కూడా తయారుచేశాడు. అతని వేళ్ళలో నిరంతరం ఒక నొప్పి, అలసట ఉండేది. \"నేను ఎంత చేసినా ఇది మారదా?\" అని విసుగుగా అడిగాడు, తనలో తాను. కానీ ఆ తోక మాత్రం మొండిగా తన వంకర ఆకారాన్ని వదలడానికి నిరాకరించింది, రాజును శారీరకంగా, మానసికంగా అలసిపోయేలా చేసింది. రాజు అలసిపోయి మర్రిచెట్టుకు ఆనుకుని కూర్చున్నాడు, ఆ కుక్క మాత్రం తన వంకర తోకతో హాయిగా సీతాకోకచిలుకను వెంటాడుతూ, తన ప్రయత్నాలను వెక్కిరిస్తున్నట్లు అనిపించింది.",
+      "image_prompt": "The boy, looking weary, leans against a banyan tree, his fingers aching from repeated attempts. The dog playfully chases a butterfly with its stubbornly crooked tail, seemingly mocking his efforts. Harsh midday sun, bright and glaring, casting sharp, defined shadows, reflecting Raju's internal struggle and fatigue.",
+      "scene_visual": "The boy, looking weary, leans against a banyan tree, his fingers aching from repeated attempts. The dog playfully chases a butterfly with its stubbornly crooked tail, seemingly mocking his efforts.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Aa Tarvaata Chaalaa Rojulu Enno Kotta Paddhatulu Prayatninchaadu — Tokaku Baruvaina Palaka Kattaadu, Sunnitangaa Masaaj Cheshaadu, Chivaraku Oka Sanklishtamaina Chekka Pattini Kudaa Tayaarucheshaadu. Atani Vellalo Nirantaram Oka Noppi, Alasata Undedi. \"Nenu Enta Chesinaa Idi Maaradaa?\" Ani Visugugaa Adigaadu, Tanalo Taanu. Kaani Aa Toka Maatram Mondigaa Tana Vankara Aakaaraanni Vadaladaaniki Niraakarinchindi, Raajunu Shaarirakangaa, Maanasikangaa Alasipoyelaa Chesindi. Raaju Alasipoyi Marrichettuku Aanukuni Kurchunnaadu, Aa Kukka Maatram Tana Vankara Tokato Haayigaa Sitaakokachilukanu Ventaadutu, Tana Prayatnaalanu Vekkiristunnatlu Anipinchindi.",
+      "text_en": "For many days after that, Raju tried many new ways. He tied a heavy slate to the tail, gently massaged it, and even made a fancy wooden splint. His fingers constantly felt sore and tired. \"No matter how much I do, will it never change?\" he asked himself, feeling annoyed. But the tail stubbornly refused to leave its crooked shape, making Raju tired in his body and his mind. Raju sat leaning against a banyan tree, completely worn out. The dog, however, happily chased butterflies with its crooked tail, almost as if it was laughing at all his hard work."
+    },
+    {
+      "id": 6,
+      "text": "రాజు పడిన కష్టాన్ని, కుక్క మారిన తోకను చూసిన తాత, నెమ్మదిగా రాజు దగ్గరకు వచ్చాడు. మర్రిచెట్టు ఆకుల గుసగుసలు మధ్యాహ్నం గాలికి మృదువుగా వినిపిస్తున్నాయి. తాత కళ్ళలో ఒక లోతైన జ్ఞానం తొణికిసలాడింది, అతను రాజు భుజం తట్టి, \"కుక్క తోక వంకర, రాజు. దాన్ని మార్చలేం\" అని శాంతంగా చెప్పాడు. రాజు తాత మాటలు విని తల పైకెత్తాడు, మొదట అయోమయంగా, ఆపై అతని ముఖంలో ఒక కొత్త అవగాహన మెరిసింది. రాజు తాత తెలిసిన కళ్ళ నుండి కుక్క సహజంగా వంకరైన తోక వైపు చూశాడు — ఒక కొత్త సత్యం అతని మనసులో స్థిరపడింది.",
+      "image_prompt": "An old man gently places a hand on the boy's shoulder, speaking softly as the boy looks up, initially confused. A new understanding dawns on the boy's face as he shifts his gaze from the old man's knowing eyes to the dog's naturally crooked tail. Late afternoon, warm, soft light filtering through the banyan tree's dense canopy, creating a peaceful, contemplative atmosphere.",
+      "scene_visual": "An old man gently places a hand on the boy's shoulder, speaking softly as the boy looks up, initially confused. A new understanding dawns on the boy's face as he shifts his gaze from the old man's knowing eyes to the dog's naturally crooked tail.",
+      "supporting_char_keys": [
+        "thatha"
+      ],
+      "text_te_en": "Raaju Padina Kashtaanni, Kukka Maarina Tokanu Chusina Taata, Nemmadigaa Raaju Daggaraku Vachchaadu. Marrichettu Aakula Gusagusalu Madhyaahnam Gaaliki Mrriduvugaa Vinipistunnaayi. Taata Kallalo Oka Lotaina Jnyaanam Tonikisalaadindi, Atanu Raaju Bhujam Tatti, \"Kukka Toka Vankara, Raaju. Daanni Maarchalen\" Ani Shaantangaa Cheppaadu. Raaju Taata Maatalu Vini Tala Paikettaadu, Modata Ayomayangaa, Aapai Atani Mukhanlo Oka Kotta Avagaahana Merisindi. Raaju Taata Telisina Kalla Nundi Kukka Sahajangaa Vankaraina Toka Vaipu Chushaadu — Oka Kotta Satyam Atani Manasulo Sthirapadindi.",
+      "text_en": "Grandpa, who had seen all of Raju's hard work and the dog's tail that never changed, slowly walked over to Raju. The banyan tree leaves whispered softly in the afternoon breeze. Deep wisdom shone in Grandpa's eyes. He patted Raju's shoulder and calmly said, \"A dog's tail is crooked, Raju. You can't change it.\" Raju heard Grandpa's words and looked up. First, he looked confused, but then a new understanding shone on his face. Raju looked from Grandpa's wise eyes to the dog's naturally crooked tail—a new truth settled in his mind."
+    },
+    {
+      "id": 7,
+      "text": "తాత మాటల్లోని జ్ఞానాన్ని అర్థం చేసుకున్న రాజు ముఖంలో ఒక చిరునవ్వు విరిసింది, అతని మనసులో ఒక ప్రశాంతత నెలకొంది. \"నువ్వు ఇలానే బాగున్నావు!\" అంటూ కుక్క తలపై సున్నితంగా నిమిరాడు, ఆ కుక్క మృదువైన బొచ్చు అతని చేతికి హాయిగా అనిపించింది. కుక్క తన తోకను ఆనందంగా ఊపింది, ఇక దాని తోకను మార్చాల్సిన అవసరం లేదని రాజుకు అర్థమైంది. మీకు తెలుసా, అప్పుడు రాజు మనసులో ఒక పెద్ద పాఠం నేర్చుకున్నాడు — కొన్ని విషయాలు ఎలా ఉన్నాయో అలాగే అంగీకరించడమే నిజమైన సంతోషం అని.",
+      "image_prompt": "A gentle smile spreads across the boy's face as he softly strokes the dog's head. The dog wags its tail happily, its soft fur feeling pleasant under his hand. Gentle dusk light, warm amber and soft purple hues painting the sky, peaceful and reflective, symbolizing the end of his struggle and new understanding.",
+      "scene_visual": "A gentle smile spreads across the boy's face as he softly strokes the dog's head. The dog wags its tail happily, its soft fur feeling pleasant under his hand.",
+      "supporting_char_keys": [],
+      "text_te_en": "Taata Maatalloni Jnyaanaanni Artham Chesukunna Raaju Mukhanlo Oka Chirunavvu Virisindi, Atani Manasulo Oka Prashaantata Nelakondi. \"Nuvvu Ilaane Baagunnaavu!\" Antu Kukka Talapai Sunnitangaa Nimiraadu, Aa Kukka Mrriduvaina Bochchu Atani Chetiki Haayigaa Anipinchindi. Kukka Tana Tokanu Aanandangaa Upindi, Ika Daani Tokanu Maarchaalsina Avasaram Ledani Raajuku Arthamaindi. Miku Telusaa, Appudu Raaju Manasulo Oka Pedda Paatham Nerchukunnaadu — Konni Vishayaalu Elaa Unnaayo Alaage Angikarinchadame Nijamaina Santosham Ani.",
+      "text_en": "A smile bloomed on Raju's face as he understood the wisdom in Grandpa's words, and a peaceful feeling settled in his mind. \"You are good just the way you are!\" he said, gently stroking the dog's head. The dog's soft fur felt nice on his hand. The dog wagged its tail happily. Raju finally understood that there was no need to change its tail anymore. Do you know, right then Raju learned a big lesson in his heart—that true happiness comes from accepting some things just as they are."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "thatha",
+      "description": "Raju's wise old grandfather, with a kind, wrinkled face and a long white mustache. He often wears a simple white dhoti and a traditional shawl over his shoulders, and always carries a sturdy walking stick. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc with a clear, well-integrated moral, making it highly impactful. Raja's journey of struggle and realization is effectively portrayed. However, the storytelling lacks the warm, conversational tone of an oral narrative, reading more like a written report. To reach a 9+ score, the primary focus should be on infusing the language with more oral warmth and direct address, making it feel like a grandparent is truly speaking to the child."
+  },
+  "quality_warning": true,
+  "title_te_en": "Toka Vankara, Raaju Paatham",
+  "moral_te_en": "Konni Vishayaalu Vaati Svabhaavam Prakaaram Maatrame Untaayi, Vaatini Maarchadaaniki Prayatninchadam Vyarthan, Vaatini Angikarinchadame Jnyaanan.",
+  "title_en": "The Crooked Tail, Raju's Lesson",
+  "moral_en": "Some things are just the way they are, and trying to change them is pointless. It's wise to accept them.",
+  "id": "20260606_111020",
+  "date": "2026-06-06",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "కుక్క తోక వంకర అనే కథ",
+  "thumbnail": "stories/20260606_111020/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
