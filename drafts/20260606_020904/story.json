@@ -1,0 +1,115 @@
+{
+  "title": "మట్టికుండల్లో మూగబోయిన కథలు",
+  "moral": "మన పెద్దల కథలు, సంప్రదాయాలు కేవలం మాటలు కావు, అవి మన గతాన్ని, మన గుర్తింపును పదిలంగా ఉంచే నిధులు. వాటితో మన జీవితాలు మరింత అందంగా మారతాయి.",
+  "main_character": "Leela is a small, nimble girl of eight with bright, curious eyes and hands often smudged with clay. She has a vivid imagination and a deep love for stories, especially those told by her grandmother. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds in a quaint, sun-drenched potter's village named 'మట్టిపల్లె' (Mattipalle) in rural Andhra Pradesh, centered around a small, open-air workshop filled with clay pots drying under a thatched roof. The air is often thick with the earthy scent of wet clay and the distant sounds of village life. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మట్టిపల్లెలో లీల, తన బామ్మ పక్కనే కూర్చుని జాగ్రత్తగా మట్టి కుండలను ఆరబెడుతోంది. ఆ పొడి మట్టి వాసన, పాత కర్రల వాసనతో కలిసి గాలిలో ఎప్పుడూ ఉంటుంది. బామ్మ బలహీనంగా, మాట్లాడకుండా ఉండడం చూసి లీల గుండె బరువెక్కింది — ఒకప్పుడు నిత్యం కథలు చెప్పే నోరు ఇప్పుడు మూగబోయింది. ఆమె బామ్మ వైపు చూస్తూ, చిన్నగా పెదవి విరిచింది. లీల నెమ్మదిగా ఒక కుండను పట్టుకుని, ప్రేమగా నిమిరింది. \"బామ్మా, ఈ కుండలు నీ కథలు లేకుండా ఎంత ఖాళీగా ఉన్నాయో కదా?\" అని మెల్లిగా అడిగింది. బామ్మ ఆమె వైపు చూసి — ఒక పాత, సాదా కుండను చూసినట్లు, దూరంగా, బలహీనంగా నవ్వింది.",
+      "image_prompt": "The girl sits beside the old woman, gently holding and caressing a clay pot. She looks towards the old woman, her lips slightly parted in a small, sad smile. Warm, golden afternoon sunlight streams into the open-sided workshop, illuminating dust motes dancing in the air, creating a peaceful but slightly melancholic atmosphere.",
+      "scene_visual": "The girl sits beside the old woman, gently holding and caressing a clay pot. She looks towards the old woman, her lips slightly parted in a small, sad smile.",
+      "supporting_char_keys": [
+        "baamma"
+      ],
+      "text_te_en": "Mattipallelo Lila, Tana Baamma Pakkane Kurchuni Jaagrattagaa Matti Kundalanu Aarabedutondi. Aa Podi Matti Vaasana, Paata Karrala Vaasanato Kalisi Gaalilo Eppudu Untundi. Baamma Balahinangaa, Maatlaadakundaa Undadam Chusi Lila Gunde Baruvekkindi — Okappudu Nityam Kathalu Cheppe Noru Ippudu Mugaboyindi. Aame Baamma Vaipu Chustu, Chinnagaa Pedavi Virichindi. Lila Nemmadigaa Oka Kundanu Pattukuni, Premagaa Nimirindi. \"Baammaa, I Kundalu Ni Kathalu Lekundaa Enta Khaaligaa Unnaayo Kadaa?\" Ani Melligaa Adigindi. Baamma Aame Vaipu Chusi — Oka Paata, Saadaa Kundanu Chusinatlu, Durangaa, Balahinangaa Navvindi.",
+      "text_en": "In Mattipalle, Leela sat beside her Grandma, carefully drying clay pots. The smell of dry clay, mixed with the scent of old wood, always filled the air. Seeing Grandma weak and silent, Leela's heart felt heavy — the mouth that once told stories every day was now silent. She looked at Grandma, her lips trembling slightly. Leela gently picked up a pot and lovingly stroked it. \"Grandma,\" she softly asked, \"how empty these pots feel without your stories, don't they?\" Grandma looked at her — as if looking at an old, plain pot — and smiled faintly, distantly."
+    },
+    {
+      "id": 2,
+      "text": "బామ్మ కళ్ళల్లో ఆ దూరం, లీలకు గుబులు రేపింది. ఇంతలో, బయట నుండి పండుగ గురించి, అందమైన కుండల గురించి గ్రామస్తుల ఉత్సాహభరితమైన గుసగుసలు వినిపించాయి. ఆ మాటలు బామ్మ చెవిలో పడగానే, ఆమె భుజాలు ఒక్కసారిగా కుంగిపోయాయి — ఏదో పోగొట్టుకున్నట్లు నిట్టూర్చింది. లీల తన చిన్న పిడికిలి బిగించి, బామ్మ వైపు చూసింది. \"ఈ పండుగకు అందమైన కుండలు ఎవరు చేస్తారు?\" అని ఒకాయన ఆందోళనగా అడగడం లీల చెవుల్లో పడింది. బామ్మ కళ్ళల్లో నిండిన ఆ బాధను చూసి, లీల గుండె తరుక్కుపోయింది — ఏదో ఒకటి చేయాలని మనసులో గట్టిగా అనుకుంది.",
+      "image_prompt": "The girl clenches her small fist tightly as she looks intently at the old woman. The old woman's shoulders slump, and her eyes are filled with visible pain. Bright midday sun bathes the village outside, casting sharp shadows, but the workshop remains in a soft, diffused light, highlighting Baamma's weary expression.",
+      "scene_visual": "The girl clenches her small fist tightly as she looks intently at the old woman. The old woman's shoulders slump, and her eyes are filled with visible pain.",
+      "supporting_char_keys": [
+        "baamma"
+      ],
+      "text_te_en": "Baamma Kallallo Aa Duran, Lilaku Gubulu Repindi. Intalo, Bayata Nundi Panduga Gurinchi, Andamaina Kundala Gurinchi Graamastula Utsaahabharitamaina Gusagusalu Vinipinchaayi. Aa Maatalu Baamma Chevilo Padagaane, Aame Bhujaalu Okkasaarigaa Kungipoyaayi — Edo Pogottukunnatlu Nitturchindi. Lila Tana Chinna Pidikili Biginchi, Baamma Vaipu Chusindi. \"I Pandugaku Andamaina Kundalu Evaru Chestaaru?\" Ani Okaayana Aandolanagaa Adagadam Lila Chevullo Padindi. Baamma Kallallo Nindina Aa Baadhanu Chusi, Lila Gunde Tarukkupoyindi — Edo Okati Cheyaalani Manasulo Gattigaa Anukundi.",
+      "text_en": "The distance in Grandma's eyes worried Leela. Just then, excited whispers about the festival and beautiful pots drifted in from outside. As those words reached Grandma's ears, her shoulders slumped — she sighed as if she had lost something. Leela clenched her small fist and looked at Grandma. Leela overheard someone anxiously ask, \"Who will make beautiful pots for this festival?\" Seeing the pain in Grandma's eyes, Leela's heart ached — she firmly decided in her mind that she had to do something."
+    },
+    {
+      "id": 3,
+      "text": "బామ్మ కళ్ళల్లోని ఆ బాధ, లీలను కలవరపెట్టింది. ఆమె వెంటనే కుమ్మరి చక్రం దగ్గరకు వెళ్లి, మట్టిని పెట్టి తిప్పడం మొదలుపెట్టింది. పాత కుమ్మరి చక్రం శబ్దం, లీల నైపుణ్యం లేని చేతుల్లో ఒక క్రమరహితమైన కిర్రుమని శబ్దంతో మోగింది. ఆమె చేసిన కుండలు సాదాగా, ఎటువంటి అందం లేకుండా ఉన్నాయి — వాటిని చూసి లీల భుజాలు వాలిపోయాయి. \"ఎంత ప్రయత్నించినా, ఈ కుండలు బామ్మ కథలంత అందంగా లేవు,\" అని లీల నిరాశగా అంది. అంతలో లీల దృష్టి, ధూళితో నిండిన ఒక అర వైపు మళ్లింది — అక్కడ బామ్మ చూపు, పాత మట్టి కుండలపై నిలిచి ఉంది, ప్రతి కుండపైనా మర్మమైన గుర్తులు ఉన్నాయి.",
+      "image_prompt": "The girl's shoulders slump as she looks at the plain, unadorned pots she has made on the potter's wheel. The old, dusty shelf in the background holds ancient clay pots, each marked with mysterious symbols. A quiet, late afternoon light fills the workshop, casting long, soft shadows, creating a pensive and slightly melancholic mood around Leela and her plain pots.",
+      "scene_visual": "The girl's shoulders slump as she looks at the plain, unadorned pots she has made on the potter's wheel. The old, dusty shelf in the background holds ancient clay pots, each marked with mysterious symbols.",
+      "supporting_char_keys": [
+        "baamma"
+      ],
+      "text_te_en": "Baamma Kallalloni Aa Baadha, Lilanu Kalavarapettindi. Aame Ventane Kummari Chakram Daggaraku Velli, Mattini Petti Tippadam Modalupettindi. Paata Kummari Chakram Shabdan, Lila Naipunyam Leni Chetullo Oka Kramarahitamaina Kirrumani Shabdanto Mogindi. Aame Chesina Kundalu Saadaagaa, Etuvanti Andam Lekundaa Unnaayi — Vaatini Chusi Lila Bhujaalu Vaalipoyaayi. \"Enta Prayatninchinaa, I Kundalu Baamma Kathalanta Andangaa Levu,\" Ani Lila Niraashagaa Andi. Antalo Lila Drrishti, Dhulito Nindina Oka Ara Vaipu Mallindi — Akkada Baamma Chupu, Paata Matti Kundalapai Nilichi Undi, Prati Kundapainaa Marmamaina Gurtulu Unnaayi.",
+      "text_en": "The pain in Grandma's eyes troubled Leela. She immediately went to the potter's wheel, placed the clay, and started spinning it. The old potter's wheel groaned with an uneven creak under Leela's unskilled hands. The pots she made were plain and lacked any beauty — seeing them, Leela's shoulders drooped. \"No matter how hard I try,\" Leela said sadly, \"these pots are not as beautiful as Grandma's stories.\" Just then, Leela's gaze turned towards a dusty shelf — there, Grandma's eyes were fixed on old clay pots, each with mysterious symbols on them."
+    },
+    {
+      "id": 4,
+      "text": "బామ్మ చూపు ఆ పాత కుండలపై నిలిచి ఉండడం చూసి, లీల ఆశ్చర్యపోయింది. ఆమె ఆ అర దగ్గరకు వెళ్లి, ఒక పాత కుండను జాగ్రత్తగా చేతుల్లోకి తీసుకుంది. ఆ పురాతన మట్టి కుండ తాకగానే — చల్లని, నునుపైన అనుభూతి లీల చేతులకు తగిలింది. లీల తల పక్కకు వంచి, తన వేలితో దానిపై ఉన్న ఒక మెలిక తిరిగిన గుర్తును గీస్తూ, కళ్ళల్లో కుతూహలం నింపుకుంది. \"ఈ గుర్తులు దేని గురించి? బామ్మకు మాత్రమే తెలుసు,\" అని లీల తనలో తాను అనుకుంది. ఆమె ఆ గుర్తును ఎంత పరిశీలించినా, దాని అర్థం అంతుచిక్కలేదు — లీల తన బామ్మ వైపు చూసింది, ఆమె పెదవులపై ఒక ప్రశ్న రూపుదిద్దుకుంది.",
+      "image_prompt": "The girl holds an ancient clay pot, tilting her head and tracing a twisted symbol on its surface with her finger. Her eyes are wide with curiosity as she gazes at the mysterious mark. Soft, diffused light filters through the thatched roof, gently illuminating the dusty old pots, creating a sense of ancient mystery and quiet contemplation.",
+      "scene_visual": "The girl holds an ancient clay pot, tilting her head and tracing a twisted symbol on its surface with her finger. Her eyes are wide with curiosity as she gazes at the mysterious mark.",
+      "supporting_char_keys": [
+        "baamma"
+      ],
+      "text_te_en": "Baamma Chupu Aa Paata Kundalapai Nilichi Undadam Chusi, Lila Aashcharyapoyindi. Aame Aa Ara Daggaraku Velli, Oka Paata Kundanu Jaagrattagaa Chetulloki Tisukundi. Aa Puraatana Matti Kunda Taakagaane — Challani, Nunupaina Anubhuti Lila Chetulaku Tagilindi. Lila Tala Pakkaku Vanchi, Tana Velito Daanipai Unna Oka Melika Tirigina Gurtunu Gistu, Kallallo Kutuhalam Nimpukundi. \"I Gurtulu Deni Gurinchi? Baammaku Maatrame Telusu,\" Ani Lila Tanalo Taanu Anukundi. Aame Aa Gurtunu Enta Parishilinchinaa, Daani Artham Antuchikkaledu — Lila Tana Baamma Vaipu Chusindi, Aame Pedavulapai Oka Prashna Rupudiddukundi.",
+      "text_en": "Seeing Grandma's gaze fixed on those old pots, Leela was surprised. She went to the shelf and carefully took an old pot into her hands. As she touched the ancient clay pot — a cool, smooth feeling touched Leela's hands. Leela tilted her head, tracing a swirling symbol on it with her finger, her eyes filled with curiosity. \"What are these symbols about? Only Grandma knows,\" Leela thought to herself. No matter how much she examined the symbol, its meaning remained a mystery — Leela looked at her Grandma, a question forming on her lips."
+    },
+    {
+      "id": 5,
+      "text": "లీల కళ్ళల్లోని ఆ ప్రశ్న, బామ్మను కదిలించింది. బామ్మ లీల చేతిలో ఉన్న కుండపై ఉన్న ఒక గుర్తును చూసి, ఆమె పెదవులపై ఒక చిన్న, దూరపు చిరునవ్వు మెరిసింది. అప్పుడు — బామ్మ బలహీనమైన గొంతులో, కాలానికి దాదాపుగా అదృశ్యమైన ఒక పాత లాలిపాట గుసగుసలాడింది. ఆ లాలిపాటలోంచి ఒక మాట లీల చెవిలో పడింది. లీల కళ్ళు పెద్దవి చేసుకుని, ఆత్రంగా ముందుకు వంగింది. \"ఆ... అది గోదావరి నది కథ,\" అని బామ్మ మెల్లిగా అంది. ఆ మాట వినగానే లీల కళ్ళల్లో ఒక మెరుపు మెరిసింది — చిన్నప్పుడు బామ్మ చెప్పిన ఆ కథ, ఇప్పుడు ఆ గుర్తుతో కలిసిపోయింది.",
+      "image_prompt": "The girl leans forward eagerly, her eyes wide, as the old woman whispers softly. A faint, distant smile plays on the old woman's lips as she looks at the symbol on the pot. A gentle, warm glow surrounds Baamma and Leela, as if a flicker of memory has brought a small light into the scene, emphasizing their intimate connection.",
+      "scene_visual": "The girl leans forward eagerly, her eyes wide, as the old woman whispers softly. A faint, distant smile plays on the old woman's lips as she looks at the symbol on the pot.",
+      "supporting_char_keys": [
+        "baamma"
+      ],
+      "text_te_en": "Lila Kallalloni Aa Prashna, Baammanu Kadilinchindi. Baamma Lila Chetilo Unna Kundapai Unna Oka Gurtunu Chusi, Aame Pedavulapai Oka Chinna, Durapu Chirunavvu Merisindi. Appudu — Baamma Balahinamaina Gontulo, Kaalaaniki Daadaapugaa Adrrishyamaina Oka Paata Laalipaata Gusagusalaadindi. Aa Laalipaatalonchi Oka Maata Lila Chevilo Padindi. Lila Kallu Peddavi Chesukuni, Aatrangaa Munduku Vangindi. \"Aa... Adi Godaavari Nadi Katha,\" Ani Baamma Melligaa Andi. Aa Maata Vinagaane Lila Kallallo Oka Merupu Merisindi — Chinnappudu Baamma Cheppina Aa Katha, Ippudu Aa Gurtuto Kalisipoyindi.",
+      "text_en": "The question in Leela's eyes stirred Grandma. Grandma looked at a symbol on the pot in Leela's hand, and a small, distant smile appeared on her lips. Then — in a weak voice, Grandma whispered an old lullaby, almost lost to time. A word from that lullaby reached Leela's ear. Leela's eyes widened, and she eagerly leaned forward. \"Ah... that's the story of the Godavari River,\" Grandma said softly. As she heard those words, a spark lit up in Leela's eyes — the story Grandma had told her as a child now connected with that symbol."
+    },
+    {
+      "id": 6,
+      "text": "బామ్మ గుసగుసలాడిన ఆ మాట లీలకు ఒక కొత్త ప్రపంచాన్ని చూపింది. ఆమె వెంటనే మట్టి చక్రం దగ్గరకు వెళ్లి, ఆ పాత కథలను గుర్తు చేసుకుంటూ, కుండలపై గీయడం మొదలుపెట్టింది. స్టైలస్‌తో పచ్చి మట్టిపై గీతలు చెక్కుతుంటే — ఆ మెత్తని, సంతృప్తికరమైన శబ్దం ఒక పాటలా వినిపించింది. లీల ముఖంపై ఆనందంతో కూడిన చిరునవ్వు వికసించింది, ఆమె చేతులు వేగంగా, నమ్మకంగా కదిలాయి. \"ఇప్పుడు కుండలు కథలు చెబుతాయి!\" అని లీల సంతోషంగా పలికింది. ఆ క్షణం నుండి — ఒకప్పుడు నిశ్శబ్దంగా, విచారంగా ఉన్న ఆ వర్క్‌షాప్, లీల సృజనాత్మక శక్తితో కళకళలాడింది, ఆమె కళ్ళముందే సాదా కుండలు మారిపోయాయి.",
+      "image_prompt": "The girl confidently carves lines onto the wet clay of a pot with a stylus, her hands moving swiftly. A joyful smile blossoms on her face as she works, transforming the plain pot. Bright, energetic morning light streams into the workshop, illuminating Leela's focused face and hands, creating a sense of purpose and new beginnings.",
+      "scene_visual": "The girl confidently carves lines onto the wet clay of a pot with a stylus, her hands moving swiftly. A joyful smile blossoms on her face as she works, transforming the plain pot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Baamma Gusagusalaadina Aa Maata Lilaku Oka Kotta Prapanchaanni Chupindi. Aame Ventane Matti Chakram Daggaraku Velli, Aa Paata Kathalanu Gurtu Chesukuntu, Kundalapai Giyadam Modalupettindi. Stailas‌To Pachchi Mattipai Gitalu Chekkutunte — Aa Mettani, Santrriptikaramaina Shabdam Oka Paatalaa Vinipinchindi. Lila Mukhampai Aanandanto Kudina Chirunavvu Vikasinchindi, Aame Chetulu Vegangaa, Nammakangaa Kadilaayi. \"Ippudu Kundalu Kathalu Chebutaayi!\" Ani Lila Santoshangaa Palikindi. Aa Kshanam Nundi — Okappudu Nishshabdangaa, Vichaarangaa Unna Aa Vark‌Shaap, Lila Srrijanaatmaka Shaktito Kalakalalaadindi, Aame Kallamunde Saadaa Kundalu Maaripoyaayi.",
+      "text_en": "The words Grandma whispered showed Leela a new world. She immediately went to the potter's wheel, remembering those old stories, and began to draw on the pots. As she carved lines onto the wet clay with a stylus — the soft, satisfying sound was like a song. A joyful smile blossomed on Leela's face, and her hands moved quickly and confidently. \"Now the pots will tell stories!\" Leela exclaimed happily. From that moment — the workshop, once silent and sad, buzzed with Leela's creative energy, and plain pots transformed before her eyes."
+    },
+    {
+      "id": 7,
+      "text": "పండుగ రోజు వచ్చింది, మట్టిపల్లె అంతా కోలాహలంగా ఉంది. వెలుగుతున్న దీపపు కాంతుల్లో, లీల తయారుచేసిన కథల కుండలు మరింత అందంగా మెరిశాయి — వాటిపై ఉన్న గుర్తులు నాట్యం చేస్తున్నట్లు కనిపించాయి. గ్రామస్తులు లీల చిన్న స్టాల్ దగ్గర గుమిగూడి, ఆ కుండలను ఆశ్చర్యంగా చూస్తున్నారు. \"ఇది బామ్మ చెప్పిన ఆ కోతి కథ కదా!\" అని ఒక బామ్మ ఆశ్చర్యంగా అంది. లీల గర్వంగా నవ్వింది, అందరి అభినందనలు స్వీకరించింది. దూరంగా కూర్చున్న బామ్మ, ఆ దృశ్యాన్ని చూస్తూ — కళ్ళ నిండా ఆనందంతో, ప్రశాంతమైన చిరునవ్వుతో మెరిసింది.",
+      "image_prompt": "The old woman sits at a distance, watching the bustling scene around the girl's stall. Her eyes are filled with joy, and a peaceful smile graces her face as she observes the glowing pots. Gentle dusk light, warm amber, bathes the festival grounds, creating a peaceful and celebratory atmosphere, with the decorated pots glowing softly.",
+      "scene_visual": "The old woman sits at a distance, watching the bustling scene around the girl's stall. Her eyes are filled with joy, and a peaceful smile graces her face as she observes the glowing pots.",
+      "supporting_char_keys": [
+        "baamma"
+      ],
+      "text_te_en": "Panduga Roju Vachchindi, Mattipalle Antaa Kolaahalangaa Undi. Velugutunna Dipapu Kaantullo, Lila Tayaaruchesina Kathala Kundalu Marinta Andangaa Merishaayi — Vaatipai Unna Gurtulu Naatyam Chestunnatlu Kanipinchaayi. Graamastulu Lila Chinna Staal Daggara Gumigudi, Aa Kundalanu Aashcharyangaa Chustunnaaru. \"Idi Baamma Cheppina Aa Koti Katha Kadaa!\" Ani Oka Baamma Aashcharyangaa Andi. Lila Garvangaa Navvindi, Andari Abhinandanalu Svikarinchindi. Durangaa Kurchunna Baamma, Aa Drrishyaanni Chustu — Kalla Nindaa Aanandanto, Prashaantamaina Chirunavvuto Merisindi.",
+      "text_en": "The festival day arrived, and Mattipalle was bustling with excitement. In the glow of the flickering lamps, Leela's story-pots shone even more beautifully — the symbols on them seemed to dance. Villagers gathered around Leela's small stall, looking at the pots with wonder. \"Isn't this the monkey story Grandma used to tell?\" an old woman exclaimed in surprise. Leela smiled proudly, accepting everyone's compliments. Sitting a little distance away, Grandma watched the scene — her eyes filled with joy, glowing with a peaceful smile."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "baamma",
+      "description": "Baamma is an elderly woman with kind, wrinkled eyes and a gentle smile, her silver hair often tied in a neat bun. She moves slowly but purposefully, her hands bearing the marks of a lifetime of work and storytelling. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story beautifully captures the essence of cultural preservation through a child's eyes, with a compelling narrative arc and excellent emotional depth. The Telugu prose is flawless and natural, making it a joy to read aloud. To truly reach an award-winning level, the dialogue needs significant enrichment; giving characters more distinct voices and increasing direct, scene-specific interactions would make the story even more dynamic and immersive for a young audience."
+  },
+  "title_te_en": "Mattikundallo Mugaboyina Kathalu",
+  "moral_te_en": "Mana Peddala Kathalu, Sampradaayaalu Kevalam Maatalu Kaavu, Avi Mana Gataanni, Mana Gurtimpunu Padilangaa Unche Nidhulu. Vaatito Mana Jivitaalu Marinta Andangaa Maarataayi.",
+  "title_en": "Lost Stories in Clay Pots",
+  "moral_en": "The stories and traditions from our elders are more than just words. They are like precious treasures that keep our past and who we are safe. With these stories, our lives become even more wonderful.",
+  "id": "20260606_020904",
+  "date": "2026-06-06",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "మట్టికుండల్లో మూగబోయిన బామ్మ కథలు - వారసత్వపు విలువను తెలిపిన చిట్టి కుమ్మరి.",
+  "thumbnail": "stories/20260606_020904/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
