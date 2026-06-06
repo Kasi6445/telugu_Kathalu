@@ -1,0 +1,97 @@
+{
+  "title": "రాముడి ఆశల చెట్టు",
+  "moral": "నువ్వు ఏదైనా ఒక దానిని ప్రేమగా, నమ్మకంతో చూసుకుంటే, అది అద్భుతంగా మారి, ఎంతో మందికి ఆనందాన్ని, సంపదను తెస్తుంది.",
+  "main_character": "Ramudu is a young, lean farmer with sun-kissed skin and bright, hopeful eyes, often seen with a simple hoe slung over his shoulder. He is known for his persistent optimism, even when faced with hardship, and his belief in the good of nature. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds in a small, traditional Telugu village nestled beside a lush forest and a winding river, where mud houses with thatched roofs dot the landscape. The air is often filled with the scent of wet earth and distant cooking fires, and the fields are a patchwork of green and brown. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాముడు తన చిన్న పొలంలో, ఎండిన మట్టిని గునపంతో తవ్వుతూ, పాట పాడుకుంటున్నాడు. అతని ప్రతి గునపం దెబ్బకు — పొడి నేల నుండి చిన్న దుమ్ము మేఘాలు పైకి లేచాయి. నుదుటిపై చెమట చుక్కలు నిలిచినా, అతని కళ్ళల్లో ఆశ నిండి ఉంది. \"ఈసారి మంచి పంట పండుతుంది, ఖచ్చితంగా పండుతుంది!\" అని గట్టిగా అనుకున్నాడు. ఆకాశం వైపు చూశాడు — ఒక్క మబ్బు కూడా లేదు.",
+      "image_prompt": "The boy is vigorously digging the dry soil in his small field with a pickaxe, singing a song. Small clouds of dust rise from the dry ground with each strike of his pickaxe, and sweat beads glisten on his forehead as he looks up at the cloudless sky. harsh midday sun over a dusty field, bright and unforgiving, casting sharp, short shadows",
+      "scene_visual": "The boy is vigorously digging the dry soil in his small field with a pickaxe, singing a song. Small clouds of dust rise from the dry ground with each strike of his pickaxe, and sweat beads glisten on his forehead as he looks up at the cloudless sky.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raamudu Tana Chinna Polanlo, Endina Mattini Gunapanto Tavvutu, Paata Paadukuntunnaadu. Atani Prati Gunapam Debbaku — Podi Nela Nundi Chinna Dummu Meghaalu Paiki Lechaayi. Nudutipai Chemata Chukkalu Nilichinaa, Atani Kallallo Aasha Nindi Undi. \"Isaari Manchi Panta Pandutundi, Khachchitangaa Pandutundi!\" Ani Gattigaa Anukunnaadu. Aakaasham Vaipu Chushaadu — Okka Mabbu Kudaa Ledu.",
+      "text_en": "Ramudu was singing a song as he dug the dry soil in his small field with his pickaxe. With each swing, little clouds of dust rose from the dry ground. Even with sweat on his forehead, his eyes were full of hope. \"This time, there will be a good harvest, definitely a good harvest!\" he thought loudly. He looked up at the sky — there wasn't a single cloud."
+    },
+    {
+      "id": 2,
+      "text": "ఆకాశం వైపు చూసిన ఆ మరుసటి రోజులు, వర్షం జాడే లేకుండా పోయింది. గ్రామం మొత్తం కరువు కోరల్లో చిక్కింది — రాముడు గోడకు జారబడి, భుజాలు వాలిపోయి కూర్చున్నాడు. దూరంగా, ఎండిపోతున్న నదిలో నుండి కప్పల మూలుగులు వినిపిస్తున్నాయి. ఆ సమయంలో, పెద్దలు గుసగుసలాడుకుంటూ, మెరిసే రాతి చెట్టు గురించి మాట్లాడుకుంటున్నారు. \"ఆ మెరిసే రాతి చెట్టు నిజంగా ఉందంటారా?\" అని ఒక వృద్ధురాలు అడిగింది. ఆమె ఆ చెట్టు మహిమల గురించి చెప్పేటప్పుడు, రాముడి కళ్ళు పెద్దవయ్యాయి.",
+      "image_prompt": "The boy sits dejectedly, slumped against a wall with his shoulders drooping, listening to the hushed conversations. His eyes widen, their dullness momentarily replaced by an intense focus, as an old woman speaks about the magical shining stone tree. soft, fading dusk light, warm amber, highlighting the tired faces of the villagers gathered around a small fire",
+      "scene_visual": "The boy sits dejectedly, slumped against a wall with his shoulders drooping, listening to the hushed conversations. His eyes widen, their dullness momentarily replaced by an intense focus, as an old woman speaks about the magical shining stone tree.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aakaasham Vaipu Chusina Aa Marusati Rojulu, Varsham Jaade Lekundaa Poyindi. Graamam Mottam Karuvu Korallo Chikkindi — Raamudu Godaku Jaarabadi, Bhujaalu Vaalipoyi Kurchunnaadu. Durangaa, Endipotunna Nadilo Nundi Kappala Mulugulu Vinipistunnaayi. Aa Samayanlo, Peddalu Gusagusalaadukuntu, Merise Raati Chettu Gurinchi Maatlaadukuntunnaaru. \"Aa Merise Raati Chettu Nijangaa Undantaaraa?\" Ani Oka Vrriddhuraalu Adigindi. Aame Aa Chettu Mahimala Gurinchi Cheppetappudu, Raamudi Kallu Peddavayyaayi.",
+      "text_en": "In the days after he looked at the sky, there was no sign of rain. The whole village was caught in a terrible drought. Ramudu slumped against a wall, his shoulders drooping. In the distance, he could hear frogs croaking from the drying river. At that moment, the elders were whispering about a shining stone tree. \"Do you really think that shining stone tree is real?\" an old woman asked. As she told stories about the tree's magic, Ramudu's eyes grew wide."
+    },
+    {
+      "id": 3,
+      "text": "ఆశతో నిండిన రాముడు, ఆ మరుసటి రోజు ఉదయమే, దట్టమైన అడవిలోకి నడిచాడు. లోపల, తడి మట్టి వాసన, అడవి మల్లెల పరిమళం అతని ముక్కుపుటాల నిండా నిండింది. నడుచుకుంటూ, చివరికి ఒక చెట్టు దగ్గర ఆగాడు — దాని బెరడు సాధారణంగా ఉంది. \"ఇదేనా ఆ చెట్టు? ఎక్కడా రాయి మెరవడం లేదు!\" అని తల గోక్కుంటూ, ఆకులు పరిశీలించాడు. నిరాశతో వెనక్కి తిరుగుదాం అనుకున్నాడు... కానీ, ఒకే ఒక ఆకు అతని కంటికి తగిలింది — అది మిగిలిన వాటిలా లేదు.",
+      "image_prompt": "The boy walks into a dense forest and stops at a tree, scratching his head in confusion. He inspects its ordinary bark and leaves, then his gaze fixes on a single, unusual leaf that stands out from the rest. dappled sunlight filtering through thick canopy, creating shifting patterns of light and shadow on the forest floor, mysterious and slightly eerie",
+      "scene_visual": "The boy walks into a dense forest and stops at a tree, scratching his head in confusion. He inspects its ordinary bark and leaves, then his gaze fixes on a single, unusual leaf that stands out from the rest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aashato Nindina Raamudu, Aa Marusati Roju Udayame, Dattamaina Adaviloki Nadichaadu. Lopala, Tadi Matti Vaasana, Adavi Mallela Parimalam Atani Mukkuputaala Nindaa Nindindi. Naduchukuntu, Chivariki Oka Chettu Daggara Aagaadu — Daani Beradu Saadhaaranangaa Undi. \"Idenaa Aa Chettu? Ekkadaa Raayi Meravadam Ledu!\" Ani Tala Gokkuntu, Aakulu Parishilinchaadu. Niraashato Venakki Tirugudaam Anukunnaadu... Kaani, Oke Oka Aaku Atani Kantiki Tagilindi — Adi Migilina Vaatilaa Ledu.",
+      "text_en": "Full of hope, Ramudu walked into the thick forest the very next morning. Inside, the smell of wet earth and wild jasmine filled his nose. He walked and walked, finally stopping near a tree. Its bark looked very ordinary. \"Is this the tree? There's no shining stone anywhere!\" he mumbled, scratching his head and looking closely at the leaves. He thought about turning back, feeling sad... but then, one single leaf caught his eye — it was not like the others."
+    },
+    {
+      "id": 4,
+      "text": "ఆ ఆకు చూసినప్పుడు, రాముడికి ఆ చెట్టుతో వింత బంధం ఏర్పడింది. తన చిన్న కుండలో మిగిలి ఉన్న చివరి నీటిని, ఆ చెట్టు వేళ్ళ దగ్గర జాగ్రత్తగా పోశాడు. నీరు నేలలో ఇంకిపోతూ, మెల్లగా గలగలమన్న శబ్దం చేసింది — అతని పెదవులపై చిరునవ్వు మెరిసింది. \"మెరిసే రాయి లేకపోయినా, నువ్వు దాహంగా ఉన్నావు కదా?\" అని మెల్లగా అన్నాడు. అతను వెనక్కి తిరుగుతుండగా, ఒక్కసారిగా ఒక ఆకుపై మెరుపు కనిపించిందా అనిపించింది.",
+      "image_prompt": "The boy carefully pours the last of his water from a small pot onto the tree's roots. A gentle smile spreads across his lips as the water gurgles into the soil, and just as he turns, a fleeting shimmer appears on one of the leaves. late afternoon glow, warm and golden, casting long shadows and highlighting the texture of the tree bark",
+      "scene_visual": "The boy carefully pours the last of his water from a small pot onto the tree's roots. A gentle smile spreads across his lips as the water gurgles into the soil, and just as he turns, a fleeting shimmer appears on one of the leaves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Aaku Chusinappudu, Raamudiki Aa Chettuto Vinta Bandham Erpadindi. Tana Chinna Kundalo Migili Unna Chivari Nitini, Aa Chettu Vella Daggara Jaagrattagaa Poshaadu. Niru Nelalo Inkipotu, Mellagaa Galagalamanna Shabdam Chesindi — Atani Pedavulapai Chirunavvu Merisindi. \"Merise Raayi Lekapoyinaa, Nuvvu Daahangaa Unnaavu Kadaa?\" Ani Mellagaa Annaadu. Atanu Venakki Tirugutundagaa, Okkasaarigaa Oka Aakupai Merupu Kanipinchindaa Anipinchindi.",
+      "text_en": "When Ramudu saw that leaf, he felt a strange connection to the tree. He carefully poured the last bit of water from his small pot near the tree's roots. The water soaked into the ground with a soft gurgling sound, and a small smile appeared on his lips. \"Even if you don't have shining stones, you must be thirsty, right?\" he said softly. As he turned to leave, it seemed like a flash of light appeared on one of the leaves."
+    },
+    {
+      "id": 5,
+      "text": "ఆ మెరుపును చూసిన తర్వాత, రాముడు ప్రతిరోజూ అడవికి వెళ్ళడం మొదలుపెట్టాడు. గ్రామంలోని వాళ్ళు నవ్వినా, అతని దృష్టి అంతా ఆ చెట్టుపైనే ఉంది. అతని కుండలోని నీరు నేలపై పడుతూ, స్థిరమైన, లయబద్ధమైన శబ్దం చేస్తోంది — అది అతనికి ఎంతో ఓదార్పునిచ్చింది. \"వాళ్ళు నవ్వినా సరే, నేను ఈ చెట్టుని చూసుకుంటాను,\" అని తనలో తాను గొణుగుకున్నాడు. ఒకరోజు, బాగా నీరు పోసిన తర్వాత, ఆకులన్నీ అసాధారణమైన కాంతితో మెరిశాయి.",
+      "image_prompt": "The boy pours water from his pot onto the tree, ignoring the villagers' laughter. After he finishes, all the leaves on the tree begin to glow with an extraordinary light. early morning mist still clinging to the forest, cool and silvery, with the first rays of sun just beginning to pierce through",
+      "scene_visual": "The boy pours water from his pot onto the tree, ignoring the villagers' laughter. After he finishes, all the leaves on the tree begin to glow with an extraordinary light.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merupunu Chusina Tarvaata, Raamudu Pratiroju Adaviki Velladam Modalupettaadu. Graamanloni Vaallu Navvinaa, Atani Drrishti Antaa Aa Chettupaine Undi. Atani Kundaloni Niru Nelapai Padutu, Sthiramaina, Layabaddhamaina Shabdam Chestondi — Adi Ataniki Ento Odaarpunichchindi. \"Vaallu Navvinaa Sare, Nenu I Chettuni Chusukuntaanu,\" Ani Tanalo Taanu Gonugukunnaadu. Okaroju, Baagaa Niru Posina Tarvaata, Aakulanni Asaadhaaranamaina Kaantito Merishaayi.",
+      "text_en": "After seeing that flash, Ramudu started going to the forest every single day. Even though the villagers laughed at him, his focus was completely on that tree. The water from his pot made a steady, rhythmic sound as it fell onto the ground, which brought him great comfort. \"Even if they laugh, I will take care of this tree,\" he whispered to himself. One day, after he had watered it very well, all the leaves began to shine with an amazing light."
+    },
+    {
+      "id": 6,
+      "text": "ఆ మరుసటి రోజు, రాముడు చెట్టు దగ్గరకు వెళ్ళగానే — అతని కళ్ళు ఆశ్చర్యంతో విప్పారాయి. చెట్టు అద్భుతంగా మారిపోయింది, ఆకులన్నీ మెత్తగా, రత్నాల్లా మెరుస్తున్నాయి. పిల్లగాలి వీచినప్పుడు, మెరిసే ఆకుల నుండి చిన్న గంటల సవ్వడి వినిపించింది. అతని నోరు తెరుచుకుంది — మాట రాలేదు. \"ఇది కేవలం రాతి చెట్టు కాదు... ఇది నా ఆశల చెట్టు!\" అని కళ్ళల్లో నీళ్ళు తిరుగుతుండగా అనుకున్నాడు. మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? ఒక మెరిసే పండును కోశాడు — అది రాయి కాదు, రుచికరమైన, లోపలి నుండి ప్రకాశించే పండు.",
+      "image_prompt": "The boy stands before the tree, his mouth agape in astonishment, as he reaches out to pick a fruit. The tree's leaves shimmer like soft jewels, and the fruit he picks glows from within, revealing its delicious nature. divine radiance breaking through the canopy, creating a spotlight on the tree, a golden-white glow around its shimmering form",
+      "scene_visual": "The boy stands before the tree, his mouth agape in astonishment, as he reaches out to pick a fruit. The tree's leaves shimmer like soft jewels, and the fruit he picks glows from within, revealing its delicious nature.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Marusati Roju, Raamudu Chettu Daggaraku Vellagaane — Atani Kallu Aashcharyanto Vippaaraayi. Chettu Adbhutangaa Maaripoyindi, Aakulanni Mettagaa, Ratnaallaa Merustunnaayi. Pillagaali Vichinappudu, Merise Aakula Nundi Chinna Gantala Savvadi Vinipinchindi. Atani Noru Teruchukundi — Maata Raaledu. \"Idi Kevalam Raati Chettu Kaadu... Idi Naa Aashala Chettu!\" Ani Kallallo Nillu Tirugutundagaa Anukunnaadu. Miku Telusaa, Appudu Em Jarigindo? Oka Merise Pandunu Koshaadu — Adi Raayi Kaadu, Ruchikaramaina, Lopali Nundi Prakaashinche Pandu.",
+      "text_en": "The very next day, as Ramudu went near the tree, his eyes opened wide in wonder! The tree had changed wonderfully. All its leaves were soft and shone like sparkling jewels. When a gentle breeze blew, a sound like tiny bells could be heard from the shining leaves. His mouth opened, but no words came out. \"This is not just a stone tree... this is my tree of hope!\" he thought, with tears in his eyes. Do you know what happened then? He picked a shining fruit — it wasn't a stone at all, but a delicious fruit that glowed from the inside!"
+    },
+    {
+      "id": 7,
+      "text": "ఆ మెరిసే పండ్లను పట్టుకుని రాముడు తన గ్రామానికి తిరిగి వచ్చాడు. అతని ముఖం ఆనందంతో వెలిగిపోతోంది — గ్రామస్తులు ఆశ్చర్యంగా అతని చుట్టూ చేరారు. ఆ పండ్ల తీపి సువాసన గ్రామం అంతటా నిండిపోయింది, అందరూ వాటిని రుచి చూశారు. \"ఈ పళ్ళు మనందరి కోసం. ఆశని, శ్రమని నమ్మండి!\" అని రాముడు గర్వంగా చెప్పాడు. అతని నిరంతర శ్రమ, నమ్మకం — మాయను సృష్టించాయి.",
+      "image_prompt": "The boy returns to his village, holding the glowing fruits, as villagers gather around him in astonishment. His face radiates joy, mirroring the soft luminescence of the fruits, as the sweet aroma fills the air. gentle dusk light, warm amber, bathing the bustling village square in a peaceful, communal glow",
+      "scene_visual": "The boy returns to his village, holding the glowing fruits, as villagers gather around him in astonishment. His face radiates joy, mirroring the soft luminescence of the fruits, as the sweet aroma fills the air.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merise Pandlanu Pattukuni Raamudu Tana Graamaaniki Tirigi Vachchaadu. Atani Mukham Aanandanto Veligipotondi — Graamastulu Aashcharyangaa Atani Chuttu Cheraaru. Aa Pandla Tipi Suvaasana Graamam Antataa Nindipoyindi, Andaru Vaatini Ruchi Chushaaru. \"I Pallu Manandari Kosan. Aashani, Shramani Nammandi!\" Ani Raamudu Garvangaa Cheppaadu. Atani Nirantara Shrama, Nammakam — Maayanu Srrishtinchaayi.",
+      "text_en": "Holding the shining fruits, Ramudu returned to his village. His face was glowing with joy, and the villagers gathered around him in surprise. The sweet smell of the fruits filled the whole village, and everyone tasted them. \"These fruits are for all of us. Believe in hope and hard work!\" Ramudu said proudly. His constant hard work and belief had created real magic."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is a strong contender for publication, boasting flawless grammar, a compelling narrative arc, and exceptional child engagement through its direct address and moments of wonder. The emotional depth is mostly well-executed, showing rather than telling. To reach a perfect score, the primary area for improvement is dialogue richness; incorporating more direct interactions between Ramudu and other characters would further develop their distinct voices and add another layer of engagement to the story."
+  },
+  "title_te_en": "Raamudi Aashala Chettu",
+  "moral_te_en": "Nuvvu Edainaa Oka Daanini Premagaa, Nammakanto Chusukunte, Adi Adbhutangaa Maari, Ento Mandiki Aanandaanni, Sampadanu Testundi.",
+  "title_en": "Ramudu's Tree of Hope",
+  "moral_en": "If you take care of something with love and belief, it will turn into something amazing and bring joy and good things to many people.",
+  "id": "20260606_154132",
+  "date": "2026-06-06",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "మెరిసే రాతి చెట్టు మరియు ఆశావహ రైతు",
+  "thumbnail": "stories/20260606_154132/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
