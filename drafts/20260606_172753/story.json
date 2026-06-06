@@ -1,0 +1,98 @@
+{
+  "title": "మనసు మార్చుకున్న ధనప్రియుడు",
+  "moral": "నిజమైన సంపద వస్తువులలో కాదు, స్వచ్ఛమైన హృదయంలో, భక్తిలో లభిస్తుంది.",
+  "main_character": "A middle-aged merchant with a slight paunch and sharp, calculating eyes, always dressed in fine, yet slightly ostentatious, silk garments. He carries a small abacus and a ledger, his mind constantly on profits. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A bustling market town in ancient Andhra Pradesh, with vibrant stalls, temples visible in the distance, and the scent of spices and flowers in the air. The sun shines brightly on the terracotta roofs and busy streets. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పాతకాలపు ఆ బజార్లో, ధనప్రియుడు తన దుకాణం ముందు దర్జాగా కూర్చున్నాడు. అతని లావుపాటి వేళ్ళు బంగారు నాణేలను లెక్కబెడుతూ, ఒక గట్టి చెక్క పెట్టెలోకి జారవిడిచాయి — కిలకిలమంటూ ఆ నాణేలు కమ్మటి సంగీతం వినిపించాయి. అతను తన పొట్టను నిమురుకుంటూ, తనను తాను మెచ్చుకున్నట్లు తల ఊపాడు. \"ఇంకా ఎక్కువ లాభం రావాలి!\" అంటూ తనలో తాను గొణుగుకున్నాడు. అతని కళ్ళు లాభాల పద్దు పుస్తకంపై మెరిసిపోయాయి. ఆ క్షణంలో — ఒక కస్టమర్ అతని కౌంటర్ దగ్గరికి వచ్చాడు. ఆ కస్టమర్ ముఖంలో ఏదో ఆందోళన స్పష్టంగా కనిపించింది.",
+      "image_prompt": "The man sits proudly in front of his shop, dropping gold coins into a sturdy wooden box while counting them with his thick fingers. He pats his stomach and nods his head as his eyes gleam over the profit ledger. Bright midday sun streaming into a richly decorated shop, casting sharp shadows on the piled goods and polished floors.",
+      "scene_visual": "The man sits proudly in front of his shop, dropping gold coins into a sturdy wooden box while counting them with his thick fingers. He pats his stomach and nods his head as his eyes gleam over the profit ledger.",
+      "supporting_char_keys": [],
+      "text_te_en": "Paatakaalapu Aa Bajaarlo, Dhanapriyudu Tana Dukaanam Mundu Darjaagaa Kurchunnaadu. Atani Laavupaati Vellu Bangaaru Naanelanu Lekkabedutu, Oka Gatti Chekka Petteloki Jaaravidichaayi — Kilakilamantu Aa Naanelu Kammati Sangitam Vinipinchaayi. Atanu Tana Pottanu Nimurukuntu, Tananu Taanu Mechchukunnatlu Tala Upaadu. \"Inkaa Ekkuva Laabham Raavaali!\" Antu Tanalo Taanu Gonugukunnaadu. Atani Kallu Laabhaala Paddu Pustakampai Merisipoyaayi. Aa Kshananlo — Oka Kastamar Atani Kauntar Daggariki Vachchaadu. Aa Kastamar Mukhanlo Edo Aandolana Spashtangaa Kanipinchindi.",
+      "text_en": "In the old marketplace, Dhanapriyudu sat proudly in front of his shop. His thick fingers counted gold coins, dropping them into a sturdy wooden box — the coins clinked, making a sweet sound. He patted his stomach, nodding his head as if praising himself. \"More profit must come!\" he muttered to himself. His eyes sparkled at the profit ledger. At that moment — a customer came to his counter. Some worry was clearly visible on the customer's face."
+    },
+    {
+      "id": 2,
+      "text": "ఆ కస్టమర్ మాటలు పూర్తవకముందే, ఒక పేదవాడైన వృద్ధ భక్తుడు ధనప్రియుడి ముందు చేతులు జోడించాడు. అతని సాధారణ నూలు వస్త్రాలు చిరిగిపోయి, స్పర్శకు గరుకుగా అనిపించాయి. దేవాలయ నిర్మాణానికి పెద్ద మొత్తంలో విరాళం కావాలని, ప్రతిఫలంగా దీవెనలు మాత్రమే ఇవ్వగలనని వినయంగా అడిగాడు. ధనప్రియుడు విసుగ్గా చేతిని విసిరి, ముఖం పక్కకు తిప్పుకున్నాడు. \"నాకు డబ్బు కావాలి, దీవెనలు కాదు!\" అని గట్టిగా చెప్పాడు. ఆ వృద్ధ భక్తుడు ధనప్రియుడిని బాధగా చూశాడు — అతని కళ్ళలో కన్నీళ్ళు మెరిసాయి. నెమ్మదిగా వెనుతిరిగి వెళ్ళిపోయాడు.",
+      "image_prompt": "A poor old devotee, with torn cotton clothes, stands before the man with folded hands, humbly asking for a large donation for temple construction. The man dismissively waves his hand and turns his face away, while tears glisten in the old devotee's eyes. Harsh afternoon sun illuminates the dusty street outside Dhanapriya's shop, highlighting the devotee's humble attire and the merchant's indifferent posture.",
+      "scene_visual": "A poor old devotee, with torn cotton clothes, stands before the man with folded hands, humbly asking for a large donation for temple construction. The man dismissively waves his hand and turns his face away, while tears glisten in the old devotee's eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kastamar Maatalu Purtavakamunde, Oka Pedavaadaina Vrriddha Bhaktudu Dhanapriyudi Mundu Chetulu Jodinchaadu. Atani Saadhaarana Nulu Vastraalu Chirigipoyi, Sparshaku Garukugaa Anipinchaayi. Devaalaya Nirmaanaaniki Pedda Mottanlo Viraalam Kaavaalani, Pratiphalangaa Divenalu Maatrame Ivvagalanani Vinayangaa Adigaadu. Dhanapriyudu Visuggaa Chetini Visiri, Mukham Pakkaku Tippukunnaadu. \"Naaku Dabbu Kaavaali, Divenalu Kaadu!\" Ani Gattigaa Cheppaadu. Aa Vrriddha Bhaktudu Dhanapriyudini Baadhagaa Chushaadu — Atani Kallalo Kannillu Merisaayi. Nemmadigaa Venutirigi Vellipoyaadu.",
+      "text_en": "Before that customer could finish speaking, a poor old devotee joined his hands in front of Dhanapriyudu. His simple cotton clothes were torn and felt rough to the touch. He humbly asked for a large donation for the temple construction, saying he could only offer blessings in return. Dhanapriyudu waved his hand in annoyance and turned his face away. \"I want money, not blessings!\" he said loudly. The old devotee looked at Dhanapriyudu sadly — tears sparkled in his eyes. He slowly turned and walked away."
+    },
+    {
+      "id": 3,
+      "text": "ఆ రాత్రి ధనప్రియుడికి నిద్ర పట్టలేదు, వృద్ధ భక్తుడి మాటలు చెవుల్లో మారుమోగుతున్నాయి. పట్టు పరుపుపై అటూ ఇటూ దొర్లుతుంటే, పట్టు దుప్పటి మెత్తగా సవ్వడి చేసింది. అతని కళ్ళు తెరిచే ఉన్నాయి, తన సంపదంతా ఒక్కసారిగా దుమ్ముగా మారిపోయినట్లు కల కన్నాడు. \"ఈ కల ఎందుకు వచ్చింది? కేవలం డబ్బు కదా!\" అని తనలో తాను కలవరపడ్డాడు. ఆ కల అతని మనసును బాగా కలచివేసింది. మరుసటి రోజు ఉదయమే — పక్కనే ఉన్న పోటీదారుడి దుకాణం రాత్రికి రాత్రే ఖాళీ అయిపోయిందని వార్త గుప్పుమంది.",
+      "image_prompt": "The man tosses and turns restlessly on his silk bed, unable to sleep, as the silk blanket rustles softly. His eyes are wide open, disturbed by a dream where all his wealth turned to dust. Dim, cool moonlight filtering through a window into a luxurious bedroom, creating long, unsettling shadows on the walls.",
+      "scene_visual": "The man tosses and turns restlessly on his silk bed, unable to sleep, as the silk blanket rustles softly. His eyes are wide open, disturbed by a dream where all his wealth turned to dust.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raatri Dhanapriyudiki Nidra Pattaledu, Vrriddha Bhaktudi Maatalu Chevullo Maarumogutunnaayi. Pattu Parupupai Atu Itu Dorlutunte, Pattu Duppati Mettagaa Savvadi Chesindi. Atani Kallu Teriche Unnaayi, Tana Sampadantaa Okkasaarigaa Dummugaa Maaripoyinatlu Kala Kannaadu. \"I Kala Enduku Vachchindi? Kevalam Dabbu Kadaa!\" Ani Tanalo Taanu Kalavarapaddaadu. Aa Kala Atani Manasunu Baagaa Kalachivesindi. Marusati Roju Udayame — Pakkane Unna Potidaarudi Dukaanam Raatriki Raatre Khaali Ayipoyindani Vaarta Guppumandi.",
+      "text_en": "That night, Dhanapriyudu couldn't sleep; the old devotee's words echoed in his ears. As he tossed and turned on his silk mattress, the silk blanket rustled softly. His eyes were open, and he dreamt that all his wealth had suddenly turned to dust. \"Why did I have this dream? It's just money!\" he worried to himself. That dream deeply disturbed his mind. The very next morning — news spread that his competitor's shop next door had been emptied overnight."
+    },
+    {
+      "id": 4,
+      "text": "ఆ వార్త ధనప్రియుడిని మరింత కలవరపెట్టింది; తన దుకాణం బయట ఆకలితో ఉన్న ఒక యాచకుడిని చూశాడు. చిన్న కుండలో వండిన అన్నం, పప్పు వాసన, వెచ్చగా, మట్టి సువాసనతో అతని నాసికను తాకింది. అతను తన చూపును పక్కకు తిప్పుకుంటూ, ఆ ఆహారాన్ని యాచకుడికి అందించాడు. \"ఇది తీసుకో... కానీ ఎవరికీ చెప్పకు.\" అని గుసగుసలాడాడు. యాచకుడు కృతజ్ఞతతో తల ఎత్తి చూశాడు. ఆ చూపులో కనిపించిన స్వచ్ఛమైన ఆనందం ధనప్రియుడిని — అంతకుముందెన్నడూ ఎరుగని ఒక వింత అనుభూతికి లోనుచేసింది.",
+      "image_prompt": "The man turns his gaze away as he offers a small pot of cooked rice and lentils to a hungry beggar outside his shop. The warm, earthy scent of the food wafts from the pot as the beggar looks up with pure joy in his eyes. Early morning light, soft and golden, illuminates the street, making the dust motes dance in the air around the figures.",
+      "scene_visual": "The man turns his gaze away as he offers a small pot of cooked rice and lentils to a hungry beggar outside his shop. The warm, earthy scent of the food wafts from the pot as the beggar looks up with pure joy in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vaarta Dhanapriyudini Marinta Kalavarapettindi; Tana Dukaanam Bayata Aakalito Unna Oka Yaachakudini Chushaadu. Chinna Kundalo Vandina Annan, Pappu Vaasana, Vechchagaa, Matti Suvaasanato Atani Naasikanu Taakindi. Atanu Tana Chupunu Pakkaku Tippukuntu, Aa Aahaaraanni Yaachakudiki Andinchaadu. \"Idi Tisuko... Kaani Evariki Cheppaku.\" Ani Gusagusalaadaadu. Yaachakudu Krritajnyatato Tala Etti Chushaadu. Aa Chupulo Kanipinchina Svachchamaina Aanandam Dhanapriyudini — Antakumundennadu Erugani Oka Vinta Anubhutiki Lonuchesindi.",
+      "text_en": "That news disturbed Dhanapriyudu even more; he saw a hungry beggar outside his shop. The warm, earthy smell of rice and dal cooked in a small pot reached his nose. He turned his gaze away and offered the food to the beggar. \"Take this... but don't tell anyone,\" he whispered. The beggar looked up with gratitude. The pure joy in that look filled Dhanapriyudu with a strange feeling he had never known before."
+    },
+    {
+      "id": 5,
+      "text": "లోపల ఏదో వెలితి, సంపద ఉన్నా మనసు ప్రశాంతంగా లేదని ధనప్రియుడికి అర్థమైంది. ఒక రోజు అతను దేవాలయానికి వెళ్ళి, అక్కడి జ్ఞానవంతుడైన వృద్ధ సన్యాసిని కలిశాడు. అతని చెప్పులు విడిచి, చల్లని రాతి నేలపై అడుగులు వేస్తూ, సన్యాసి ముందు తల వంచి కూర్చున్నాడు. \"స్వామీ, నా మనసు ప్రశాంతంగా లేదు. సంపద ఉన్నా ఏదో వెలితి.\" అని తన బాధను వెల్లడించాడు. సన్యాసి చిరునవ్వుతో అతని వైపు చూశాడు. \"నిజమైన సంపద నీ హృదయంలో ఉంది.\" అని శాంతంగా చెప్పాడు.",
+      "image_prompt": "The man removes his sandals and sits with his head bowed before a wise old monk on the cool stone floor of the temple. The monk looks at him with a gentle smile as the man expresses his inner turmoil. The interior of a temple, lit by flickering oil lamps and soft natural light from a high window, creating a serene, peaceful glow.",
+      "scene_visual": "The man removes his sandals and sits with his head bowed before a wise old monk on the cool stone floor of the temple. The monk looks at him with a gentle smile as the man expresses his inner turmoil.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lopala Edo Veliti, Sampada Unnaa Manasu Prashaantangaa Ledani Dhanapriyudiki Arthamaindi. Oka Roju Atanu Devaalayaaniki Velli, Akkadi Jnyaanavantudaina Vrriddha Sanyaasini Kalishaadu. Atani Cheppulu Vidichi, Challani Raati Nelapai Adugulu Vestu, Sanyaasi Mundu Tala Vanchi Kurchunnaadu. \"Svaami, Naa Manasu Prashaantangaa Ledu. Sampada Unnaa Edo Veliti.\" Ani Tana Baadhanu Velladinchaadu. Sanyaasi Chirunavvuto Atani Vaipu Chushaadu. \"Nijamaina Sampada Ni Hrridayanlo Undi.\" Ani Shaantangaa Cheppaadu.",
+      "text_en": "Dhanapriyudu understood that there was an emptiness inside, and despite his wealth, his mind was not peaceful. One day, he went to the temple and met the wise old monk there. He took off his sandals, walked on the cool stone floor, and sat down bowing his head before the monk. \"Swami, my mind is not peaceful. Despite my wealth, there is an emptiness,\" he revealed his sorrow. The monk looked at him with a smile. \"True wealth is in your heart,\" he said calmly."
+    },
+    {
+      "id": 6,
+      "text": "సన్యాసి మాటలు ధనప్రియుడి హృదయంలో ఒక కొత్త వెలుగును నింపాయి; అతను తిరిగి దేవాలయానికి వెళ్ళాడు. తన సంపదలో పెద్ద భాగాన్ని దేవాలయ నిర్మాణానికి సమర్పించాడు. అప్పుడు అక్కడ గుడిలో సువాసన వెదజల్లుతున్న అగరుబత్తీ ధూపం, అతని మనసును మరింత శాంతపరిచింది. అతను చేతులు జోడించి, కళ్ళలో ఆనంద బాష్పాలతో నిలబడ్డాడు. \"ఇది నా సంపద కాదు, భగవంతుని దయ.\" అని భక్తితో పలికాడు. అదే క్షణంలో — సూర్య కిరణాలు దేవాలయ ప్రవేశ ద్వారం గుండా ప్రసరించి, అతని ముఖాన్ని దివ్యమైన బంగారు కాంతితో నింపాయి.",
+      "image_prompt": "The man stands with folded hands, tears of joy in his eyes, after donating a large portion of his wealth for temple construction. Incense smoke fills the air with fragrance as sun rays stream through the temple entrance, bathing his face in a divine golden light. Golden hour light, warm and radiant, streaming into the temple, highlighting the offerings and the serene faces of the devotees.",
+      "scene_visual": "The man stands with folded hands, tears of joy in his eyes, after donating a large portion of his wealth for temple construction. Incense smoke fills the air with fragrance as sun rays stream through the temple entrance, bathing his face in a divine golden light.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sanyaasi Maatalu Dhanapriyudi Hrridayanlo Oka Kotta Velugunu Nimpaayi; Atanu Tirigi Devaalayaaniki Vellaadu. Tana Sampadalo Pedda Bhaagaanni Devaalaya Nirmaanaaniki Samarpinchaadu. Appudu Akkada Gudilo Suvaasana Vedajallutunna Agarubatti Dhupan, Atani Manasunu Marinta Shaantaparichindi. Atanu Chetulu Jodinchi, Kallalo Aananda Baashpaalato Nilabaddaadu. \"Idi Naa Sampada Kaadu, Bhagavantuni Daya.\" Ani Bhaktito Palikaadu. Ade Kshananlo — Surya Kiranaalu Devaalaya Pravesha Dvaaram Gundaa Prasarinchi, Atani Mukhaanni Divyamaina Bangaaru Kaantito Nimpaayi.",
+      "text_en": "The monk's words filled Dhanapriyudu's heart with a new light; he returned to the temple. He donated a large part of his wealth for the temple's construction. Then, the fragrant incense smoke from the agarbatti in the temple further calmed his mind. He stood with folded hands, tears of joy in his eyes. \"This is not my wealth, but God's grace,\" he said devoutly. At that very moment — sun rays streamed through the temple's entrance, filling his face with a divine golden glow."
+    },
+    {
+      "id": 7,
+      "text": "అప్పటి నుండి ధనప్రియుడు తన వ్యాపారాన్ని కొనసాగించాడు, కానీ ఇప్పుడు అతని హృదయం దయతో నిండి ఉంది. అతని దుకాణం పక్కన ఉన్న చెట్టు నుండి ఆకులు మెల్లగా సవ్వడి చేశాయి — ఒక చల్లని గాలి అతని మనసును తాకినట్లు. అతను తన లాభాలను ఇతరులతో పంచుకుంటూ, పేదవారికి సహాయం చేయడంలో నిజమైన ఆనందాన్ని కనుగొన్నాడు. కస్టమర్ల వైపు చూసి చిరునవ్వు నవ్వుతూ, \"సంతోషమే నిజమైన సంపద.\" అని మనస్ఫూర్తిగా చెప్పాడు. అతని ముఖం లోపలి ప్రశాంతతతో, ఆనందంతో ప్రకాశించింది.",
+      "image_prompt": "The man smiles at his customers, his face radiating inner peace and joy, as he continues his business. Leaves rustle gently from a nearby tree, and a cool breeze touches him as he shares his profits with others. Soft, warm morning light, gentle and inviting, filling his shop, contrasting with the previous scenes of harsh sunlight.",
+      "scene_visual": "The man smiles at his customers, his face radiating inner peace and joy, as he continues his business. Leaves rustle gently from a nearby tree, and a cool breeze touches him as he shares his profits with others.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appati Nundi Dhanapriyudu Tana Vyaapaaraanni Konasaaginchaadu, Kaani Ippudu Atani Hrridayam Dayato Nindi Undi. Atani Dukaanam Pakkana Unna Chettu Nundi Aakulu Mellagaa Savvadi Cheshaayi — Oka Challani Gaali Atani Manasunu Taakinatlu. Atanu Tana Laabhaalanu Itarulato Panchukuntu, Pedavaariki Sahaayam Cheyadanlo Nijamaina Aanandaanni Kanugonnaadu. Kastamarla Vaipu Chusi Chirunavvu Navvutu, \"Santoshame Nijamaina Sampada.\" Ani Manasphurtigaa Cheppaadu. Atani Mukham Lopali Prashaantatato, Aanandanto Prakaashinchindi.",
+      "text_en": "From then on, Dhanapriyudu continued his business, but now his heart was filled with kindness. Leaves rustled softly from the tree next to his shop — as if a cool breeze touched his soul. He shared his profits with others and found true joy in helping the poor. Smiling at his customers, he sincerely said, \"Happiness is true wealth.\" His face glowed with inner peace and joy."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 8,
+    "child_engagement": 7,
+    "average": 7.0,
+    "weakest_dimension": "emotional_depth",
+    "notes": "The story presents a clear narrative arc with excellent grammar, making it easy to follow. However, it frequently states emotions directly rather than showing them through character actions, body language, or vivid internal experiences, which lessens the impact of the protagonist's transformation. To achieve a 9+, the primary focus should be on consistently 'showing' emotions and enriching character dialogue to give each voice a distinct personality, thereby enhancing both emotional depth and the overall oral warmth of the narration."
+  },
+  "quality_warning": true,
+  "title_te_en": "Manasu Maarchukunna Dhanapriyudu",
+  "moral_te_en": "Nijamaina Sampada Vastuvulalo Kaadu, Svachchamaina Hrridayanlo, Bhaktilo Labhistundi.",
+  "title_en": "The Wealth-Lover's Change of Heart",
+  "moral_en": "True wealth is not found in material things, but in a pure heart and devotion.",
+  "id": "20260606_172753",
+  "date": "2026-06-06",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "ధనప్రియ - భక్తి మార్గంలో ఆంతరిక శుద్ధిని పొందిన వ్యాపారి",
+  "thumbnail": "stories/20260606_172753/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
