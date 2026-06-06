@@ -1,0 +1,117 @@
+{
+  "title": "మాయా వస్త్రం, రాజు ధైర్యం",
+  "moral": "మనసులో మంచితనం ఉంటే, దేన్నైనా కాపాడుకోవచ్చు.",
+  "main_character": "Raju, a slender young man with kind eyes and nimble fingers, always wears a simple, hand-spun cotton dhoti. He carries a small, intricately carved wooden shuttle wherever he goes. Always the same character across every scene.",
+  "antagonist": "A towering Rakshasa, with deep green, scaly skin, glowing red eyes, and sharp, jagged teeth. He wears a tattered, dark red loincloth and carries a gnarled, thorny club. Always the same character across every scene.",
+  "setting": "A vibrant, bustling village named 'Kondaveedu' nestled at the foot of rolling green hills in Andhra Pradesh. Clay-tiled roofs, a central banyan tree with a stone platform, and a winding dirt path leading to the village well. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కొండవీడు గ్రామంలోని రాజు, తన మగ్గం దగ్గర కూర్చుని, దారాలను అల్లుకుంటూ ఉన్నాడు. అతని కళ్ళల్లో ఒక ఆనందం మెరుస్తూ ఉంది, పెదవులపై చిరునవ్వు నర్తిస్తోంది. మగ్గం నుండి వచ్చే 'ఖట్-ఖట్' శబ్దం, అతని మనసులో ఓ కొత్త పాట పాడుతున్నట్టుంది. అతను నేస్తున్న బట్ట, సూర్యరశ్మిలో మెరుస్తూ, సాధారణం కంటే కాస్త ఎక్కువగానే మెరిసిపోతోంది. \"ఈ దారం ఎంత మృదువుగా ఉందో!\" అని రాజు గొణుక్కున్నాడు, తన చేతుల్లోని వస్త్రం మృదుత్వాన్ని ఆస్వాదిస్తూ.",
+      "image_prompt": "The man sits at his loom, meticulously weaving threads. A gentle smile plays on his lips as the cloth he weaves shimmers brightly in the sunlight. Soft morning light streaming through the hut's open doorway, illuminating dust motes and the colorful threads.",
+      "scene_visual": "The man sits at his loom, meticulously weaving threads. A gentle smile plays on his lips as the cloth he weaves shimmers brightly in the sunlight.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kondavidu Graamanloni Raaju, Tana Maggam Daggara Kurchuni, Daaraalanu Allukuntu Unnaadu. Atani Kallallo Oka Aanandam Merustu Undi, Pedavulapai Chirunavvu Nartistondi. Maggam Nundi Vachche 'Khat-Khat' Shabdan, Atani Manasulo O Kotta Paata Paadutunnattundi. Atanu Nestunna Batta, Suryarashmilo Merustu, Saadhaaranam Kante Kaasta Ekkuvagaane Merisipotondi. \"I Daaram Enta Mrriduvugaa Undo!\" Ani Raaju Gonukkunnaadu, Tana Chetulloni Vastram Mrridutvaanni Aasvaadistu.",
+      "text_en": "Raju, the King of Kondaveedu village, sat by his loom, weaving threads. Happiness sparkled in his eyes, and a gentle smile danced on his lips. The 'khat-khat' sound from the loom seemed to sing a new song in his heart. The cloth he was weaving shimmered in the sunlight, shining a little brighter than usual. \"How soft this thread is!\" Raju murmured, enjoying the softness of the fabric in his hands."
+    },
+    {
+      "id": 2,
+      "text": "రాజు నేసిన అందమైన వస్త్రాన్ని చూసి, గ్రామస్తులు మెచ్చుకుంటూ ఉండగా, ఇంతలో ఒక దూత ఊపిరి పీల్చుకుంటూ వచ్చాడు. అతని ముఖం భయంతో తెల్లగా పారిపోయింది, కళ్ళు పెద్దవిగా అయ్యాయి. \"రాక్షసుడు వస్తున్నాడు! మన పంటల్ని నాశనం చేస్తున్నాడు!\" అని ఆ దూత గొంతు వణుకుతూ అరిచాడు. రాజు చేతులు, ఇంతకుముందు మృదువుగా ఉన్న వస్త్రాన్ని, ఒక్కసారిగా గట్టిగా పట్టుకున్నాయి. గ్రామస్తుల గుంపులో భయంతో కూడిన అరుపులు వినిపించాయి — అతని గుండె వేగంగా కొట్టుకుంది.",
+      "image_prompt": "A messenger bursts into the scene, his face pale and eyes wide with terror. The man's hands, previously caressing the soft cloth, now clench it tightly in a sudden grip. Bright, harsh midday sun beating down on the village square, casting long, worried shadows.",
+      "scene_visual": "A messenger bursts into the scene, his face pale and eyes wide with terror. The man's hands, previously caressing the soft cloth, now clench it tightly in a sudden grip.",
+      "supporting_char_keys": [
+        "villager_elder",
+        "messenger"
+      ],
+      "text_te_en": "Raaju Nesina Andamaina Vastraanni Chusi, Graamastulu Mechchukuntu Undagaa, Intalo Oka Duta Upiri Pilchukuntu Vachchaadu. Atani Mukham Bhayanto Tellagaa Paaripoyindi, Kallu Peddavigaa Ayyaayi. \"Raakshasudu Vastunnaadu! Mana Pantalni Naashanam Chestunnaadu!\" Ani Aa Duta Gontu Vanukutu Arichaadu. Raaju Chetulu, Intakumundu Mrriduvugaa Unna Vastraanni, Okkasaarigaa Gattigaa Pattukunnaayi. Graamastula Gumpulo Bhayanto Kudina Arupulu Vinipinchaayi — Atani Gunde Vegangaa Kottukundi.",
+      "text_en": "While the villagers admired the beautiful cloth Raju had woven, suddenly, a messenger arrived, panting. His face was pale with fear, and his eyes were wide. \"A monster is coming! He's destroying our crops!\" the messenger cried out, his voice trembling. Raju's hands, which had just been holding the soft cloth, suddenly gripped it tightly. Frightened shouts rose from the crowd of villagers — his heart pounded."
+    },
+    {
+      "id": 3,
+      "text": "అందరూ వెళ్ళిపోయాక, రాజు ఒంటరిగా కూర్చుండిపోయాడు, అతని భుజాలు కుంగిపోయాయి. చేతిలో ఉన్న ఆ మామూలు వస్త్రం వైపు చూస్తూ, నిస్సహాయంగా నిట్టూర్చాడు. దూరంగా, గాలిలో తేలివస్తున్న రాక్షసుడి గుర్రుమనే శబ్దం, అతని చర్మాన్ని జలదరించింది. \"నా చేతిలో ఈ వస్త్రం తప్ప ఇంకేమీ లేదా?\" అని అతని మనసులో ఒక ప్రశ్న మెదిలింది. ఆ క్షణంలో, అతని చూపులు అకస్మాత్తుగా — మగ్గం వైపు వెళ్ళాయి.",
+      "image_prompt": "The man sits alone, his shoulders slumped in despair, holding the ordinary cloth. His gaze, filled with helplessness, suddenly shifts towards the loom in the distance. Dusky light filling Raju's hut, the last rays of sun painting the walls in soft orange, tinged with a growing sense of dread.",
+      "scene_visual": "The man sits alone, his shoulders slumped in despair, holding the ordinary cloth. His gaze, filled with helplessness, suddenly shifts towards the loom in the distance.",
+      "supporting_char_keys": [],
+      "text_te_en": "Andaru Vellipoyaaka, Raaju Ontarigaa Kurchundipoyaadu, Atani Bhujaalu Kungipoyaayi. Chetilo Unna Aa Maamulu Vastram Vaipu Chustu, Nissahaayangaa Nitturchaadu. Durangaa, Gaalilo Telivastunna Raakshasudi Gurrumane Shabdan, Atani Charmaanni Jaladarinchindi. \"Naa Chetilo I Vastram Tappa Inkemi Ledaa?\" Ani Atani Manasulo Oka Prashna Medilindi. Aa Kshananlo, Atani Chupulu Akasmaattugaa — Maggam Vaipu Vellaayi.",
+      "text_en": "After everyone left, Raju sat alone, his shoulders slumped. Looking at the ordinary cloth in his hand, he sighed helplessly. In the distance, the monstrous roar of the approaching demon, carried by the wind, sent shivers down his spine. \"Is there nothing but this cloth in my hands?\" a question formed in his mind. In that moment, his gaze suddenly — went to the loom."
+    },
+    {
+      "id": 4,
+      "text": "ఆ క్షణం నుంచీ, రాజు మళ్ళీ మగ్గం దగ్గర కూర్చున్నాడు, అతని కళ్ళల్లో ఒక కొత్త నిప్పు కనిపించింది. గ్రామం పట్ల ఉన్న ప్రేమ, ప్రతి దారంలోకి ప్రవహించేలా, అతను మరింత వేగంగా నేయడం మొదలుపెట్టాడు. అతని నుదుట చెమట పట్టింది, కానీ అతని చేతులు అలసట లేకుండా కదిలాయి. \"ఈ వస్త్రం నా మనసులోని స్వచ్ఛతతో నేయబడుతుంది,\" అని అతను తనలో తాను అనుకున్నాడు. నేస్తున్న కొద్దీ, ఆ వస్త్రం మరింత మెరుస్తూ, తనలో ఒక అంతర్గత కాంతితో నిండిపోయింది. ఆ వస్త్రం... గాలిలో తేలడం మొదలుపెట్టింది.",
+      "image_prompt": "The man sits intently at his loom, weaving threads with rapid, tireless movements. Sweat beads on his forehead as the cloth he creates begins to shimmer with an inner light and gently float upwards. The hut is now bathed in the ethereal, soft glow emanating from the magical cloth, a mix of silver and pale gold.",
+      "scene_visual": "The man sits intently at his loom, weaving threads with rapid, tireless movements. Sweat beads on his forehead as the cloth he creates begins to shimmer with an inner light and gently float upwards.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kshanam Nunchi, Raaju Malli Maggam Daggara Kurchunnaadu, Atani Kallallo Oka Kotta Nippu Kanipinchindi. Graamam Patla Unna Prema, Prati Daaranloki Pravahinchelaa, Atanu Marinta Vegangaa Neyadam Modalupettaadu. Atani Nuduta Chemata Pattindi, Kaani Atani Chetulu Alasata Lekundaa Kadilaayi. \"I Vastram Naa Manasuloni Svachchatato Neyabadutundi,\" Ani Atanu Tanalo Taanu Anukunnaadu. Nestunna Koddi, Aa Vastram Marinta Merustu, Tanalo Oka Antargata Kaantito Nindipoyindi. Aa Vastran... Gaalilo Teladam Modalupettindi.",
+      "text_en": "From that moment on, Raju sat at his loom again, a new fire in his eyes. As if his love for the village flowed into every thread, he began to weave even faster. Sweat beaded on his forehead, but his hands moved tirelessly. \"This cloth is woven with the purity of my heart,\" he thought to himself. As he wove, the cloth shimmered even more, filled with an inner light. The cloth... began to float in the air."
+    },
+    {
+      "id": 5,
+      "text": "కొద్దిసేపటికే, రాక్షసుడు గ్రామంలోకి దూసుకువచ్చాడు, అతని అడుగులకు భూమి కంపించింది. అతని భయంకరమైన అరుపు, కొండవీడు మొత్తం మార్మోగింది. రాజు, తన చేతిలోని మాయా వస్త్రాన్ని గట్టిగా పట్టుకుని, వణుకుతున్న కాళ్ళతో ముందుకు అడుగు వేశాడు. అతని శరీరం భయంతో వణికింది, కానీ అతని పట్టు మాత్రం దృఢంగా ఉంది. \"నీవు మా గ్రామాన్ని నాశనం చేయలేవు!\" అని రాజు బిగ్గరగా అరిచాడు, అతని గొంతు వణుకుతున్నా, ధైర్యం తగ్గలేదు. రాక్షసుడి కళ్ళు — రాజు వైపు తిరిగాయి.",
+      "image_prompt": "The man steps forward with trembling legs, clutching the shimmering cloth tightly in his hands. His body visibly shakes with fear, yet his gaze remains fixed on the monstrous creature whose eyes have turned towards him. Also in this scene: A towering Rakshasa, with deep green, scaly skin, glowing red eyes, and sharp, jagged teeth. He wears a tattered, dark red loincloth and carries a gnarled, thorny club. Always the same character across every scene. Harsh, chaotic lighting as the Rakshasa casts huge, menacing shadows, with pockets of torchlight flickering from terrified villagers' hands.",
+      "scene_visual": "The man steps forward with trembling legs, clutching the shimmering cloth tightly in his hands. His body visibly shakes with fear, yet his gaze remains fixed on the monstrous creature whose eyes have turned towards him.",
+      "supporting_char_keys": [
+        "villager_elder"
+      ],
+      "text_te_en": "Koddisepatike, Raakshasudu Graamanloki Dusukuvachchaadu, Atani Adugulaku Bhumi Kampinchindi. Atani Bhayankaramaina Arupu, Kondavidu Mottam Maarmogindi. Raaju, Tana Chetiloni Maayaa Vastraanni Gattigaa Pattukuni, Vanukutunna Kaallato Munduku Adugu Veshaadu. Atani Shariram Bhayanto Vanikindi, Kaani Atani Pattu Maatram Drridhangaa Undi. \"Nivu Maa Graamaanni Naashanam Cheyalevu!\" Ani Raaju Biggaragaa Arichaadu, Atani Gontu Vanukutunnaa, Dhairyam Taggaledu. Raakshasudi Kallu — Raaju Vaipu Tirigaayi.",
+      "text_en": "Soon after, the monster stormed into the village, the ground trembled with his steps. His terrifying roar echoed throughout Kondaveedu. Raju, clutching the magic cloth tightly in his hand, stepped forward with trembling legs. His body shook with fear, but his grip was firm. \"You cannot destroy our village!\" Raju shouted loudly, even though his voice trembled, his courage did not falter. The monster's eyes — turned towards Raju."
+    },
+    {
+      "id": 6,
+      "text": "రాక్షసుడి ఎర్రటి కళ్ళను చూసిన రాజు, తన వస్త్రంలో నేసిన ప్రేమను, స్వచ్ఛతను గుర్తుచేసుకున్నాడు. అతనిలోని భయం ఒక్కసారిగా మాయమైంది, అతని మనసులో ఒక ధైర్యం నిండిపోయింది. మెరుపు వేగంతో, రాజు తన చేతిలోని మెరిసే వస్త్రాన్ని, ఆ రాక్షసుడి మీదకు విసిరాడు. ఆ వస్త్రం, ఒక మృదువైన మేఘంలా, రాక్షసుడిని పూర్తిగా కప్పేసింది. \"నా స్వచ్ఛమైన మనసు నిన్ను శాంతింపజేస్తుంది!\" అని రాజు నిశ్చలంగా పలికాడు. ఒక్కసారిగా — రాక్షసుడి అరుపు ఆగిపోయింది.",
+      "image_prompt": "The man, with a surge of courage, swiftly hurls the glowing cloth towards the monster. The luminous fabric unfurls like a soft cloud, completely enveloping the monstrous creature. Also in this scene: A towering Rakshasa, with deep green, scaly skin, glowing red eyes, and sharp, jagged teeth. He wears a tattered, dark red loincloth and carries a gnarled, thorny club. Always the same character across every scene. A brilliant, soft white light emanates from the magical cloth covering the Rakshasa, pushing back the dark shadows.",
+      "scene_visual": "The man, with a surge of courage, swiftly hurls the glowing cloth towards the monster. The luminous fabric unfurls like a soft cloud, completely enveloping the monstrous creature.",
+      "supporting_char_keys": [
+        "villager_elder"
+      ],
+      "text_te_en": "Raakshasudi Errati Kallanu Chusina Raaju, Tana Vastranlo Nesina Premanu, Svachchatanu Gurtuchesukunnaadu. Ataniloni Bhayam Okkasaarigaa Maayamaindi, Atani Manasulo Oka Dhairyam Nindipoyindi. Merupu Veganto, Raaju Tana Chetiloni Merise Vastraanni, Aa Raakshasudi Midaku Visiraadu. Aa Vastran, Oka Mrriduvaina Meghanlaa, Raakshasudini Purtigaa Kappesindi. \"Naa Svachchamaina Manasu Ninnu Shaantimpajestundi!\" Ani Raaju Nishchalangaa Palikaadu. Okkasaarigaa — Raakshasudi Arupu Aagipoyindi.",
+      "text_en": "Raju, seeing the monster's red eyes, remembered the love and purity woven into his cloth. His fear vanished instantly, and his heart filled with courage. With lightning speed, Raju threw the shimmering cloth from his hand onto the monster. The cloth, like a soft cloud, completely covered the monster. \"My pure heart will bring you peace!\" Raju declared calmly. All at once — the monster's roar stopped."
+    },
+    {
+      "id": 7,
+      "text": "ఆ మాయా వస్త్రం కప్పగానే, ఆ భయంకరమైన రాక్షసుడు మెల్లగా వెలుగుతూ, చిన్నగా మారిపోయాడు. అతని స్థానంలో, ఒక చిన్న, మృదువైన జీవి నిలబడింది, దాని కళ్ళల్లో శాంతి. గ్రామస్తులు, తమ కళ్ళను తామే నమ్మలేక, ఆశ్చర్యంతో చూస్తూ నిలబడిపోయారు. \"మా గ్రామాన్ని రక్షించినందుకు ధన్యవాదాలు, రాజు!\" అని వారందరూ సంతోషంతో అరిచారు, వారి కళ్ళల్లో ఆనంద భాష్పాలు. రాజు నవ్వాడు — అతని కళ్ళల్లో లోతైన శాంతి, తన స్వచ్ఛమైన మనసుకున్న శక్తిని అర్థం చేసుకున్న తృప్తి.",
+      "image_prompt": "The monstrous creature, now covered by the glowing cloth, shrinks and transforms into a small, soft being. The villagers stand in astonished silence, their eyes wide with disbelief as they witness the transformation. Also in this scene: A towering Rakshasa, with deep green, scaly skin, glowing red eyes, and sharp, jagged teeth. He wears a tattered, dark red loincloth and carries a gnarled, thorny club. Always the same character across every scene. Gentle dusk light, warm amber, bathing the celebrating villagers and the peaceful, transformed creature in a glow of relief and happiness.",
+      "scene_visual": "The monstrous creature, now covered by the glowing cloth, shrinks and transforms into a small, soft being. The villagers stand in astonished silence, their eyes wide with disbelief as they witness the transformation.",
+      "supporting_char_keys": [
+        "villager_elder"
+      ],
+      "text_te_en": "Aa Maayaa Vastram Kappagaane, Aa Bhayankaramaina Raakshasudu Mellagaa Velugutu, Chinnagaa Maaripoyaadu. Atani Sthaananlo, Oka Chinna, Mrriduvaina Jivi Nilabadindi, Daani Kallallo Shaanti. Graamastulu, Tama Kallanu Taame Nammaleka, Aashcharyanto Chustu Nilabadipoyaaru. \"Maa Graamaanni Rakshinchinanduku Dhanyavaadaalu, Raaju!\" Ani Vaarandaru Santoshanto Arichaaru, Vaari Kallallo Aananda Bhaashpaalu. Raaju Navvaadu — Atani Kallallo Lotaina Shaanti, Tana Svachchamaina Manasukunna Shaktini Artham Chesukunna Trripti.",
+      "text_en": "As soon as the magic cloth covered it, the terrifying monster slowly glowed and shrank. In its place, a small, gentle creature stood, with peace in its eyes. The villagers, unable to believe their own eyes, stood watching in astonishment. \"Thank you for saving our village, Raju!\" they all shouted with joy, with tears of happiness in their eyes. Raju smiled — deep peace in his eyes, and the satisfaction of understanding the power of his pure heart."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "villager_elder",
+      "description": "A wise, grey-haired old man with deep wrinkles around his eyes and a calm demeanor, always wearing a white dhoti and a simple cotton shawl. He carries a sturdy wooden staff. Always the same character across every scene."
+    },
+    {
+      "key": "messenger",
+      "description": "A young, agile man with a lean build and perpetually worried eyes, dressed in practical, earth-toned clothes. He often has dust on his feet from running. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and flawless grammar, providing a very strong foundation. The emotional portrayal is largely effective, and the plot is engaging for children. However, its primary weakness lies in its oral authenticity; the language is often too formal and descriptive, lacking the warmth and conversational tone expected from a grandparent. To elevate this to a 9+, the editor must infuse more direct address to the child, simplify some narrative descriptions, and enrich character dialogue to feel more natural and distinct, transforming it from a written piece into a truly spoken tale."
+  },
+  "quality_warning": true,
+  "title_te_en": "Maayaa Vastran, Raaju Dhairyam",
+  "moral_te_en": "Manasulo Manchitanam Unte, Dennainaa Kaapaadukovachchu.",
+  "title_en": "The Magic Cloth and Raju's Courage",
+  "moral_en": "If there is goodness in your heart, you can protect anything.",
+  "id": "20260606_130941",
+  "date": "2026-06-06",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "స్వచ్ఛమైన మనసుతో నేసిన మాయా వస్త్రం మరియు గ్రామ రక్షకుడు",
+  "thumbnail": "stories/20260606_130941/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
