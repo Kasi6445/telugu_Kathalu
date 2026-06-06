@@ -12,6 +12,7 @@ Usage:
 import argparse
 import json
 import logging
+import os
 import sys
 
 from datetime import datetime
@@ -136,7 +137,7 @@ def main():
         "subcategory":    sub_key,
         "topic":          topic,
         "voice":          story.get("voice", ""),
-        "thumbnail":      f"stories/{timestamp}/images/scene1.png",
+        "thumbnail":      f"{os.environ.get('R2_BASE_URL', 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev')}/stories/{timestamp}/images/scene1.jpg",
         "schema_version": 2,
         "defaultSpeed":   1.1,
     })
