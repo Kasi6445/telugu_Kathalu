@@ -1,0 +1,98 @@
+{
+  "title": "కాలం చిక్కుముడి",
+  "moral": "ఎంతటి గందరగోళంలోనైనా, నిశితంగా చూస్తే దారి దొరుకుతుంది.",
+  "main_character": "Veerababu is a bright and observant boy, around twelve years old, with small, nimble fingers always stained with a bit of brass polish. He has a mop of dark, curly hair and eyes that sparkle with curiosity. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds in a cluttered, cozy workshop in the heart of a small Telugu village. Dusty wooden shelves are filled with intricate clock parts, brass tools gleam under the sunlight filtering through a single, grimy window, and the air always carries a faint scent of oil and old wood. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "వీరబాబు చిన్న వేళ్ళు గడియారం లోపల తేలికగా కదులుతున్నాయి, ప్రతి భాగాన్ని ఎంతో జాగ్రత్తగా అమరుస్తున్నాడు. పెదవుల మీద మెల్లగా ఒక పాట పాడుకుంటూ ఉన్నాడు, అతని ముఖంలో సంతోషం స్పష్టంగా కనిపిస్తోంది. పెద్ద గడియారం మళ్ళీ లయబద్ధంగా 'టిక్-టాక్' అని శబ్దం చేయగానే, వీరబాబు నవ్వుతూ తల ఊపాడు. ఆ చప్పుడు — అతని మనసుకి ఎంతో నచ్చింది. “అద్భుతం! మళ్ళీ పని చేస్తుంది!” అని మెల్లగా అనుకున్నాడు. అప్పుడు, పక్కనున్న దుమ్ము పట్టిన పాత చెక్క పెట్టె వైపు అతని కళ్ళు వెళ్ళాయి.",
+      "image_prompt": "The boy smiles and nods his head as the large clock rhythmically ticks 'tick-tock' again. A clear expression of happiness is visible on his face as he then looks towards a dusty old wooden box nearby. Bright morning sunlight streams through the workshop window, illuminating dust motes dancing in the air and casting warm golden light on Veerababu's workbench.",
+      "scene_visual": "The boy smiles and nods his head as the large clock rhythmically ticks 'tick-tock' again. A clear expression of happiness is visible on his face as he then looks towards a dusty old wooden box nearby.",
+      "supporting_char_keys": [],
+      "text_te_en": "Virabaabu Chinna Vellu Gadiyaaram Lopala Telikagaa Kadulutunnaayi, Prati Bhaagaanni Ento Jaagrattagaa Amarustunnaadu. Pedavula Mida Mellagaa Oka Paata Paadukuntu Unnaadu, Atani Mukhanlo Santosham Spashtangaa Kanipistondi. Pedda Gadiyaaram Malli Layabaddhangaa 'Tik-Taak' Ani Shabdam Cheyagaane, Virabaabu Navvutu Tala Upaadu. Aa Chappudu — Atani Manasuki Ento Nachchindi. “Adbhutan! Malli Pani Chestundi!” Ani Mellagaa Anukunnaadu. Appudu, Pakkanunna Dummu Pattina Paata Chekka Pette Vaipu Atani Kallu Vellaayi.",
+      "text_en": "Veerababu's small fingers moved gently inside the clock, carefully putting each part in place. He hummed a soft tune, a clear smile of happiness on his face. As the big clock began its rhythmic 'tick-tock' once more, Veerababu nodded with a smile. That sound — he loved it so much. \"Wonderful! It works again!\" he whispered to himself. Then, his eyes drifted to a dusty old wooden box nearby."
+    },
+    {
+      "id": 2,
+      "text": "ఆ పెట్టెను చూస్తూనే వీరబాబు ఆసక్తిగా దాన్ని తెరిచాడు, లోపల నుండి పాత చెక్క వాసన, దుమ్ము ఘాటుగా వచ్చాయి. అతని కళ్ళు పెద్దవయ్యాయి, ఆశ్చర్యంతో నోరు తెరుచుకుంది, ఎందుకంటే ఆ లోపల — ఒక గడియారం కనిపించింది. అది మామూలు గడియారం కాదు, ఎప్పుడూ చూడనంత వింతగా, చిత్రమైన గుర్తులతో ఉంది. “ఈ గడియారం ఎక్కడిది? ఇంత వింతగా ఉందే!” అని తనలో తనే అనుకున్నాడు. అతని వేళ్ళు మెల్లిగా దానిపై ఉన్న వింత గుర్తులను తడిమాయి, అప్పుడే దానికి పక్కన చిన్న తాళం కన్నం కనిపించింది.",
+      "image_prompt": "The boy's eyes widen and his mouth opens in surprise as he discovers a strange, never-before-seen clock with peculiar symbols inside the dusty box. His fingers gently trace the unusual symbols on its surface, revealing a small keyhole beside it. The workshop is still bright, but a shaft of light from the window now falls directly onto the mysterious clock, making its carvings seem to glow faintly, adding to its allure.",
+      "scene_visual": "The boy's eyes widen and his mouth opens in surprise as he discovers a strange, never-before-seen clock with peculiar symbols inside the dusty box. His fingers gently trace the unusual symbols on its surface, revealing a small keyhole beside it.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Pettenu Chustune Virabaabu Aasaktigaa Daanni Terichaadu, Lopala Nundi Paata Chekka Vaasana, Dummu Ghaatugaa Vachchaayi. Atani Kallu Peddavayyaayi, Aashcharyanto Noru Teruchukundi, Endukante Aa Lopala — Oka Gadiyaaram Kanipinchindi. Adi Maamulu Gadiyaaram Kaadu, Eppudu Chudananta Vintagaa, Chitramaina Gurtulato Undi. “I Gadiyaaram Ekkadidi? Inta Vintagaa Unde!” Ani Tanalo Tane Anukunnaadu. Atani Vellu Melligaa Daanipai Unna Vinta Gurtulanu Tadimaayi, Appude Daaniki Pakkana Chinna Taalam Kannam Kanipinchindi.",
+      "text_en": "Seeing the box, Veerababu eagerly opened it. A strong smell of old wood and dust came from inside. His eyes widened, and his mouth fell open in surprise, because inside — he saw a clock. It wasn't an ordinary clock; it was stranger than any he had ever seen, with peculiar symbols. \"Where did this clock come from? It's so strange!\" he wondered aloud. His fingers gently traced the strange symbols on it, and then he noticed a tiny keyhole next to it."
+    },
+    {
+      "id": 3,
+      "text": "ఆ తాళం కన్నం చూస్తూనే వీరబాబుకు ఎక్కడ లేని ఉత్సాహం వచ్చింది, ఆ గడియారం నుంచి మెల్లగా వస్తున్న ఒక సన్నని శబ్దం అతన్ని ఒక గోడ వైపు లాగింది. ఆ గోడలో ఒక చిన్న తలుపు కనిపించింది, అది ఆ పాత గడియారంతో ఏదో సంబంధం ఉన్నట్లుంది. గుండె దడదడలాడింది — లోపల ఏముందో చూడాలనే కుతూహలంతో అతను అడుగు పెట్టాడు. ఒక్కసారిగా — తలుపు గట్టిగా మూసుకుపోయింది! “అయ్యో! తలుపు మూసుకుపోయింది!” అని వీరబాబు అరిచాడు, అతని భుజాలు ఒక్కసారిగా కిందకి జారిపోయాయి. లోపల మాత్రం, చాలా గడియారాలు పిచ్చిగా తమ ముళ్ళను తిప్పుకుంటూ ఉన్నాయి.",
+      "image_prompt": "The boy steps through a small door in the wall, and it suddenly slams shut behind him. His shoulders slump in dismay as he cries out, trapped inside a room filled with wildly spinning clock hands. The hidden room is dimly lit by a single, flickering oil lamp in the center, casting dancing shadows that make the countless clocks on the walls appear menacing and alive.",
+      "scene_visual": "The boy steps through a small door in the wall, and it suddenly slams shut behind him. His shoulders slump in dismay as he cries out, trapped inside a room filled with wildly spinning clock hands.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Taalam Kannam Chustune Virabaabuku Ekkada Leni Utsaaham Vachchindi, Aa Gadiyaaram Nunchi Mellagaa Vastunna Oka Sannani Shabdam Atanni Oka Goda Vaipu Laagindi. Aa Godalo Oka Chinna Talupu Kanipinchindi, Adi Aa Paata Gadiyaaranto Edo Sambandham Unnatlundi. Gunde Dadadadalaadindi — Lopala Emundo Chudaalane Kutuhalanto Atanu Adugu Pettaadu. Okkasaarigaa — Talupu Gattigaa Musukupoyindi! “Ayyo! Talupu Musukupoyindi!” Ani Virabaabu Arichaadu, Atani Bhujaalu Okkasaarigaa Kindaki Jaaripoyaayi. Lopala Maatran, Chaalaa Gadiyaaraalu Pichchigaa Tama Mullanu Tippukuntu Unnaayi.",
+      "text_en": "As soon as he saw the keyhole, Veerababu felt a surge of excitement. A faint sound coming from the clock drew him towards a wall. On that wall, a small door appeared, seeming to be connected to the old clock. His heart thumped — filled with curiosity to see what was inside, he stepped through. Suddenly — the door slammed shut! \"Oh no! The door closed!\" Veerababu cried, his shoulders slumping. Inside, however, many clocks were wildly spinning their hands."
+    },
+    {
+      "id": 4,
+      "text": "తలుపు మూసుకుపోగానే ఆ గది వింతగా ప్రవర్తించడం మొదలుపెట్టింది, వీరబాబు కదలికలు ఒక్కోసారి చాలా నెమ్మదిగా, ఇంకోసారి మెరుపులా వేగంగా మారాయి. అతను తడబడుతూ గోడ పట్టుకున్నాడు, నిలబడలేకపోయాడు, అతని కాళ్ళ కింద నేల సూక్ష్మంగా వణుకుతున్న అనుభూతి కలిగింది. నుదుటి మీద చెమట పట్టింది, కళ్ళు మూసుకున్నాడు. “నాకు తల తిరుగుతోంది! సమయం ఎందుకు ఇలా మారుతోంది?” అని గట్టిగా అరిచాడు. ఆ గదిలో — కాలం అతన్ని ఆటపట్టించింది, కానీ ప్రతి పెద్ద మార్పు ముందు ఒక చిన్న విరామం ఉందని వీరబాబు గమనించాడు.",
+      "image_prompt": "The boy stumbles, gripping the wall as his movements fluctuate between extremely slow and lightning-fast. Sweat beads on his forehead, and he closes his eyes, feeling the ground subtly shaking beneath his feet. The flickering lamp seems to speed up and slow down with the room's temporal shifts, casting long, distorted shadows that stretch and shrink, adding to Veerababu's disorientation.",
+      "scene_visual": "The boy stumbles, gripping the wall as his movements fluctuate between extremely slow and lightning-fast. Sweat beads on his forehead, and he closes his eyes, feeling the ground subtly shaking beneath his feet.",
+      "supporting_char_keys": [],
+      "text_te_en": "Talupu Musukupogaane Aa Gadi Vintagaa Pravartinchadam Modalupettindi, Virabaabu Kadalikalu Okkosaari Chaalaa Nemmadigaa, Inkosaari Merupulaa Vegangaa Maaraayi. Atanu Tadabadutu Goda Pattukunnaadu, Nilabadalekapoyaadu, Atani Kaalla Kinda Nela Sukshmangaa Vanukutunna Anubhuti Kaligindi. Nuduti Mida Chemata Pattindi, Kallu Musukunnaadu. “Naaku Tala Tirugutondi! Samayam Enduku Ilaa Maarutondi?” Ani Gattigaa Arichaadu. Aa Gadilo — Kaalam Atanni Aatapattinchindi, Kaani Prati Pedda Maarpu Mundu Oka Chinna Viraamam Undani Virabaabu Gamaninchaadu.",
+      "text_en": "As soon as the door closed, the room began to act strangely. Veerababu's movements sometimes became very slow, and other times as fast as lightning. He stumbled and grabbed the wall, unable to stand properly. He felt the floor subtly shaking beneath his feet. Sweat beaded on his forehead, and he closed his eyes. \"I'm dizzy! Why is time changing like this?\" he shouted. In that room — time was playing tricks on him, but Veerababu noticed that before every big change, there was a small pause."
+    },
+    {
+      "id": 5,
+      "text": "ఆ గదిలో కాలం మారుతుంటే, వీరబాబు నేల మీద కూర్చున్నాడు, వందలాది గడియారాల శబ్దాల మధ్య ఒక లయం కోసం వెతుకుతున్నాడు. అతని పిడికిలి బిగుసుకుంది, నుదుటి మీద చెమట కారుతుంటే, దాన్ని తుడిచి చూశాడు. ఆ గడియారాల 'టిక్-టాక్' శబ్దాలు ఒక్కోసారి వేగంగా, ఒక్కోసారి నెమ్మదిగా మారుతూ అతన్ని మరింత గందరగోళానికి గురిచేశాయి. “ఏదో ఒక క్రమం ఉండాలి... నేను కనుగొనాలి!” అని తనలో తనే అనుకున్నాడు. ఆ శబ్దాల మధ్య — ఒక చిన్న స్వరం వినిపించింది, అది కాలం మారడానికి ముందు వచ్చే ఒక 'క్లిక్' శబ్దం. వీరబాబు కళ్ళు మూసుకుని, ఆ శబ్దం మీదే దృష్టి పెట్టాడు.",
+      "image_prompt": "The boy sits on the floor, his fists clenched, trying to find a rhythm amidst the sounds of hundreds of clocks. He wipes sweat from his forehead and closes his eyes, concentrating on a small 'click' sound that precedes a change in time. The oil lamp's light is now mostly stable, a warm, soft glow in the center, highlighting Veerababu's contemplative posture amidst the confusing shadows cast by the silent, erratic clocks.",
+      "scene_visual": "The boy sits on the floor, his fists clenched, trying to find a rhythm amidst the sounds of hundreds of clocks. He wipes sweat from his forehead and closes his eyes, concentrating on a small 'click' sound that precedes a change in time.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Gadilo Kaalam Maarutunte, Virabaabu Nela Mida Kurchunnaadu, Vandalaadi Gadiyaaraala Shabdaala Madhya Oka Layam Kosam Vetukutunnaadu. Atani Pidikili Bigusukundi, Nuduti Mida Chemata Kaarutunte, Daanni Tudichi Chushaadu. Aa Gadiyaaraala 'Tik-Taak' Shabdaalu Okkosaari Vegangaa, Okkosaari Nemmadigaa Maarutu Atanni Marinta Gandaragolaaniki Guricheshaayi. “Edo Oka Kramam Undaali... Nenu Kanugonaali!” Ani Tanalo Tane Anukunnaadu. Aa Shabdaala Madhya — Oka Chinna Svaram Vinipinchindi, Adi Kaalam Maaradaaniki Mundu Vachche Oka 'Klik' Shabdan. Virabaabu Kallu Musukuni, Aa Shabdam Mide Drrishti Pettaadu.",
+      "text_en": "As time shifted in the room, Veerababu sat on the floor, searching for a rhythm amidst the sounds of hundreds of clocks. His fists clenched. Sweat ran down his forehead, and he wiped it away. The 'tick-tock' sounds of the clocks sometimes sped up, sometimes slowed down, confusing him even more. \"There must be a pattern... I need to find it!\" he thought to himself. Amidst those sounds — a tiny noise was heard, a 'click' that came just before time changed. Veerababu closed his eyes and focused only on that sound."
+    },
+    {
+      "id": 6,
+      "text": "ఆ చిన్న 'క్లిక్' శబ్దం వినగానే వీరబాబుకు ఒక్కసారిగా మెరుపులా ఒక ఆలోచన వచ్చింది, అతని కళ్ళు ఒక్కసారిగా మెరిశాయి, నోటి నుండి గట్టిగా ఊపిరి వదిలాడు. అప్పుడు — మీకు తెలుసా, వాడికి అంతా అర్థమైంది! ఈ గదిలో కాలం యాదృచ్ఛికంగా మారడం లేదు, అది ఒక సంక్లిష్టమైన చక్రంలా తిరుగుతోంది, ఆ పాత గడియారం దీనికి కీలకం. “అర్థమైంది! ఇది ఒక పొడుపు కథ! ఆ గడియారం కీలకం!” అని ఆనందంతో అరిచాడు. ఆ పాత గడియారాన్ని పట్టుకుని, గోడ వైపు దూసుకుపోయాడు, గది మళ్ళీ మారడానికి ముందే దాన్ని ఒక ప్రత్యేకమైన చోట పెట్టాడు.",
+      "image_prompt": "The boy's eyes light up with a sudden flash of understanding, and he exhales sharply. He joyfully shouts, 'I understand! This is a riddle! That clock is the key!' before rushing towards the wall with the old clock. A sudden, brief flash of golden light emanates from the ancient clock as Veerababu places it, momentarily illuminating the entire room with a warm, hopeful glow before returning to the dim lamplight.",
+      "scene_visual": "The boy's eyes light up with a sudden flash of understanding, and he exhales sharply. He joyfully shouts, 'I understand! This is a riddle! That clock is the key!' before rushing towards the wall with the old clock.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chinna 'Klik' Shabdam Vinagaane Virabaabuku Okkasaarigaa Merupulaa Oka Aalochana Vachchindi, Atani Kallu Okkasaarigaa Merishaayi, Noti Nundi Gattigaa Upiri Vadilaadu. Appudu — Miku Telusaa, Vaadiki Antaa Arthamaindi! I Gadilo Kaalam Yaadrrichchikangaa Maaradam Ledu, Adi Oka Sanklishtamaina Chakranlaa Tirugutondi, Aa Paata Gadiyaaram Diniki Kilakan. “Arthamaindi! Idi Oka Podupu Katha! Aa Gadiyaaram Kilakan!” Ani Aanandanto Arichaadu. Aa Paata Gadiyaaraanni Pattukuni, Goda Vaipu Dusukupoyaadu, Gadi Malli Maaradaaniki Munde Daanni Oka Pratyekamaina Chota Pettaadu.",
+      "text_en": "As soon as he heard that little 'click' sound, an idea flashed like lightning in Veerababu's mind. His eyes sparkled, and he let out a big breath. Then — you know what, he understood everything! Time in this room wasn't changing randomly; it was moving in a complex cycle, and that old clock was the key. \"I get it! It's a riddle! That clock is the key!\" he shouted with joy. He grabbed the old clock and rushed towards the wall, placing it in a special spot before the room could change again."
+    },
+    {
+      "id": 7,
+      "text": "ఆ పాత గడియారాన్ని గోడకు పెట్టగానే, వీరబాబు దాని ముళ్ళను చాలా జాగ్రత్తగా తిప్పాడు, గదిలో కాలం స్థిరంగా ఉండే సరైన క్షణాన్ని పట్టుకున్నాడు. అతని పెదవులపై ఒక పెద్ద చిరునవ్వు విచ్చుకుంది, భుజాలు తేలికపడ్డాయి, గుండెలో బరువు దిగినట్లు అనిపించింది. ఆ తలుపు — మెల్లగా తెరుచుకుంది, పాత చెక్క దీర్ఘంగా మూలుగుతున్న శబ్దం స్పష్టంగా వినిపించింది. “నేను బయటపడ్డాను!” అని గట్టిగా కేక వేశాడు, బయట సాధారణ ప్రపంచం అతని కోసం వేచి ఉంది.",
+      "image_prompt": "The boy carefully turns the hands of the old clock placed on the wall, capturing the precise moment when time stabilizes in the room. A wide smile spreads across his lips, and his shoulders visibly relax as the door slowly groans open. A sliver of bright, normal daylight spills into the dark room through the newly opened door, creating a stark contrast and bathing Veerababu in a hopeful, warm glow as he steps out.",
+      "scene_visual": "The boy carefully turns the hands of the old clock placed on the wall, capturing the precise moment when time stabilizes in the room. A wide smile spreads across his lips, and his shoulders visibly relax as the door slowly groans open.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Paata Gadiyaaraanni Godaku Pettagaane, Virabaabu Daani Mullanu Chaalaa Jaagrattagaa Tippaadu, Gadilo Kaalam Sthirangaa Unde Saraina Kshanaanni Pattukunnaadu. Atani Pedavulapai Oka Pedda Chirunavvu Vichchukundi, Bhujaalu Telikapaddaayi, Gundelo Baruvu Diginatlu Anipinchindi. Aa Talupu — Mellagaa Teruchukundi, Paata Chekka Dirghangaa Mulugutunna Shabdam Spashtangaa Vinipinchindi. “Nenu Bayatapaddaanu!” Ani Gattigaa Keka Veshaadu, Bayata Saadhaarana Prapancham Atani Kosam Vechi Undi.",
+      "text_en": "As soon as he placed the old clock on the wall, Veerababu carefully turned its hands, catching the exact moment when time in the room became stable. A big smile spread across his lips, his shoulders relaxed, and a weight lifted from his heart. The door — slowly opened, and the long groan of old wood was clearly heard. \"I'm out!\" he shouted loudly, the normal world outside waiting for him."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts a compelling narrative arc, flawless grammar, and strong child engagement, making it highly readable. Its main challenge lies in the inconsistent narrative voice, which occasionally veers from warm, oral storytelling to more analytical or stated descriptions. To elevate this piece to an award-worthy level, the author should consistently *show* emotions through character actions and dialogue, and meticulously refine the prose to maintain a purely oral, warm, and intimate tone throughout."
+  },
+  "quality_warning": true,
+  "title_te_en": "Kaalam Chikkumudi",
+  "moral_te_en": "Entati Gandaragolanlonainaa, Nishitangaa Chuste Daari Dorukutundi.",
+  "title_en": "The Time Puzzle",
+  "moral_en": "Even in the biggest mess, if you look closely, you will find a way.",
+  "id": "20260606_171015",
+  "date": "2026-06-06",
+  "category": "podupu",
+  "subcategory": "clever_escapes",
+  "topic": "సమయం తారుమారు అయ్యే గదిలో చిక్కుకున్న బాల గడియారాల తయారీదారు పొడుపు కథ",
+  "thumbnail": "stories/20260606_171015/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
