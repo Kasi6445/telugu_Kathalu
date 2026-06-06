@@ -1,0 +1,117 @@
+{
+  "title": "మనసులోని మాయా బావి",
+  "moral": "మనసు విప్పి పంచుకుంటేనే కదా, మనం ఇంకా గొప్పవాళ్ళం అయ్యేది.",
+  "main_character": "Satyavanthudu is a slender, middle-aged man with kind eyes and a neatly trimmed beard, always dressed in simple, clean white robes. He is known throughout the kingdom for his unwavering honesty and sharp intellect. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The ancient kingdom of Dharmapuri in rural Andhra Pradesh, bustling with life around a grand palace made of pale yellow stone. The palace gardens feature intricate carvings and a central, deep stone well. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "సత్యవంతుడు రాజభవనం తోటల్లో మెల్లగా నడుస్తూ, తన అడుగుల కింద మట్టి చల్లదనాన్ని ఆస్వాదిస్తున్నాడు. ఒక పెద్ద గ్రామ తగాదాను పరిష్కరించిన తర్వాత, అతని మనసు ఎంతో ప్రశాంతంగా, తేలికగా ఉంది. పచ్చని మామిడి ఆకుల మధ్య నుండి వడపోసి వస్తున్న సూర్యకాంతి, రాతి దారిపై బంగారు రంగులో మెరుస్తూ, చల్లని నీడలను పరుస్తోంది. \"శాంతిని పంచడంలోనే నిజమైన ఆనందం ఉంది,\" అని తనలో తనే చిరునవ్వుతో అనుకున్నాడు. ఒక మల్లెపొద దగ్గర ఆగి, దాని తీయని సువాసనను లోతుగా పీల్చుకున్నాడు — ఆ క్షణంలోనే ఏదో కొత్త మలుపు అతని కోసం ఎదురుచూస్తోంది.",
+      "image_prompt": "The man stops by a jasmine bush and deeply inhales its sweet fragrance. A faint smile plays on his lips as he savors the moment. Bright morning sunlight filtering through dense green mango leaves, dappling the stone path with warm gold and cool shadow.",
+      "scene_visual": "The man stops by a jasmine bush and deeply inhales its sweet fragrance. A faint smile plays on his lips as he savors the moment.",
+      "supporting_char_keys": [],
+      "text_te_en": "Satyavantudu Raajabhavanam Totallo Mellagaa Nadustu, Tana Adugula Kinda Matti Challadanaanni Aasvaadistunnaadu. Oka Pedda Graama Tagaadaanu Parishkarinchina Tarvaata, Atani Manasu Ento Prashaantangaa, Telikagaa Undi. Pachchani Maamidi Aakula Madhya Nundi Vadaposi Vastunna Suryakaanti, Raati Daaripai Bangaaru Rangulo Merustu, Challani Nidalanu Parustondi. \"Shaantini Panchadanlone Nijamaina Aanandam Undi,\" Ani Tanalo Tane Chirunavvuto Anukunnaadu. Oka Mallepoda Daggara Aagi, Daani Tiyani Suvaasananu Lotugaa Pilchukunnaadu — Aa Kshananlone Edo Kotta Malupu Atani Kosam Eduruchustondi.",
+      "text_en": "Satyavanthudu walked slowly through the palace gardens, enjoying the cool earth beneath his feet. After solving a big village dispute, his mind felt very peaceful and light. Sunlight filtered through the green mango leaves, shining golden on the stone path and casting cool shadows. \"True happiness lies in spreading peace,\" he thought to himself with a gentle smile. He stopped near a jasmine bush and deeply inhaled its sweet fragrance — at that very moment, something new was waiting for him."
+    },
+    {
+      "id": 2,
+      "text": "తోట నుండి రాగానే, రాజు ధర్మపాలుడు సత్యవంతుడిని తన వద్దకు పిలిపించాడు. రాజుగారి ముఖంలో ఏదో తెలియని ఆందోళన, చేతిలో పాతబడి, పసుపు రంగులోకి మారిన తాటాకు పుస్తకం ఉంది. \"సత్యవంతుడా, మన రాజ్య గౌరవం నీ చేతుల్లో ఉంది,\" అని రాజుగారు నిట్టూర్చారు. సత్యవంతుడు గౌరవంగా తల వంచి నిలబడ్డాడు, ఆ పాత తాటాకు పుస్తకం గలగల మని శబ్దం చేస్తూ రాజుగారి చేతిలో విచ్చుకుంది. రాజుగారు లోతుగా శ్వాస తీసుకుని, గంభీరంగా అడిగారు: \"తనలోని జలాన్ని పంచుకుంటూ, మరింత స్వచ్ఛంగా మారే మాయా బావి అది. ఆ బావి ఏమిటి, సత్యవంతుడా?\" సత్యవంతుడి కళ్ళు ఒక్కసారిగా పెద్దవయ్యాయి — అతని నుదురు మీద ఆలోచన రేఖలు ముడుచుకున్నాయి.",
+      "image_prompt": "The king holds an old, yellowed palm-leaf manuscript open in his hands, posing a riddle to the man standing before him. The man's eyes widen in surprise, and lines of thought crease his forehead. The grand throne room bathed in the soft, diffused light of early afternoon, filtering through high arched windows, casting long, gentle shadows.",
+      "scene_visual": "The king holds an old, yellowed palm-leaf manuscript open in his hands, posing a riddle to the man standing before him. The man's eyes widen in surprise, and lines of thought crease his forehead.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Tota Nundi Raagaane, Raaju Dharmapaaludu Satyavantudini Tana Vaddaku Pilipinchaadu. Raajugaari Mukhanlo Edo Teliyani Aandolana, Chetilo Paatabadi, Pasupu Ranguloki Maarina Taataaku Pustakam Undi. \"Satyavantudaa, Mana Raajya Gauravam Ni Chetullo Undi,\" Ani Raajugaaru Nitturchaaru. Satyavantudu Gauravangaa Tala Vanchi Nilabaddaadu, Aa Paata Taataaku Pustakam Galagala Mani Shabdam Chestu Raajugaari Chetilo Vichchukundi. Raajugaaru Lotugaa Shvaasa Tisukuni, Gambhirangaa Adigaaru: \"Tanaloni Jalaanni Panchukuntu, Marinta Svachchangaa Maare Maayaa Baavi Adi. Aa Baavi Emiti, Satyavantudaa?\" Satyavantudi Kallu Okkasaarigaa Peddavayyaayi — Atani Nuduru Mida Aalochana Rekhalu Muduchukunnaayi.",
+      "text_en": "As soon as he returned from the garden, King Dharmapaludu called Satyavanthudu to him. The King's face showed an unknown worry, and in his hand was an old, yellowed palm-leaf book. \"Satyavanthudu, the honor of our kingdom rests in your hands,\" the King sighed. Satyavanthudu stood respectfully with his head bowed, as the old palm-leaf book rustled open in the King's hand. The King took a deep breath and asked gravely: \"It is a magical well that becomes purer by sharing its water. What is that well, Satyavanthudu?\" Satyavanthudu's eyes widened instantly — lines of thought creased his forehead."
+    },
+    {
+      "id": 3,
+      "text": "తన అధ్యయన మందిరంలోకి వచ్చి, సత్యవంతుడు ఆ పాత తాటాకు పుస్తకాన్ని మళ్ళీ మళ్ళీ చదివాడు. చుట్టూ పాత గ్రంథాల నుండి వస్తున్న ఇంకు వాసన, ఆ తాటాకుల వాసన అతని మనసును మరింత కలవరపెడుతోంది. అతని చూపులు ఎక్కడో శూన్యంలోకి చూస్తున్నాయి, తల లోతుగా ఆలోచనలో మునిగిపోయింది. \"జలాన్ని పంచుకుంటే స్వచ్ఛంగా మారడం... వింతగా ఉందే!\" అని అతను పెదవి విరిచాడు. ఈ పొడుపు కథను ఎలా ఛేదించాలో అర్థం కాక, అతని గుండె మీద పెద్ద బరువు పడినట్టు అనిపించింది. అతని నుదుటి నుండి ఒక చెమట బిందువు జారింది — ఆ నిశ్శబ్ద పోరాటానికి అది చిన్న గుర్తు.",
+      "image_prompt": "The man sits in his study, staring blankly into space, his head deeply immersed in thought. A bead of sweat trickles down his forehead, a small sign of his silent struggle. A quiet study lit by a single oil lamp on a wooden desk, casting warm, flickering light on the minister's face and the surrounding shadows.",
+      "scene_visual": "The man sits in his study, staring blankly into space, his head deeply immersed in thought. A bead of sweat trickles down his forehead, a small sign of his silent struggle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Adhyayana Mandiranloki Vachchi, Satyavantudu Aa Paata Taataaku Pustakaanni Malli Malli Chadivaadu. Chuttu Paata Granthaala Nundi Vastunna Inku Vaasana, Aa Taataakula Vaasana Atani Manasunu Marinta Kalavarapedutondi. Atani Chupulu Ekkado Shunyanloki Chustunnaayi, Tala Lotugaa Aalochanalo Munigipoyindi. \"Jalaanni Panchukunte Svachchangaa Maaradan... Vintagaa Unde!\" Ani Atanu Pedavi Virichaadu. I Podupu Kathanu Elaa Chedinchaalo Artham Kaaka, Atani Gunde Mida Pedda Baruvu Padinattu Anipinchindi. Atani Nuduti Nundi Oka Chemata Binduvu Jaarindi — Aa Nishshabda Poraataaniki Adi Chinna Gurtu.",
+      "text_en": "Returning to his study room, Satyavanthudu read the old palm-leaf book again and again. The smell of old ink from the surrounding ancient texts and the scent of the palm leaves troubled his mind even more. His gaze was lost somewhere in the distance, his head deep in thought. \"Becoming purer by sharing water... that's strange!\" he muttered. Not understanding how to solve this riddle, a heavy weight seemed to press on his heart. A drop of sweat trickled down his forehead — a small sign of his silent struggle."
+    },
+    {
+      "id": 4,
+      "text": "ఆ రాత్రి నిద్ర పట్టక, సత్యవంతుడు మరుసటి ఉదయం గ్రామ బావి దగ్గరికి వెళ్ళాడు. ప్రజలు బావి నుండి నీళ్ళు తోడుకుంటూ, ఒకరికొకరు పంచుకుంటూ ఉండటం గమనించాడు. బావి కప్పీ యొక్క లయబద్ధమైన శబ్దం, నీళ్ళు తోడుతున్నప్పుడు వచ్చే చప్పుడు, అతని చెవుల్లో మారుమోగుతున్నాయి. \"ప్రతి ఒక్కరూ తీసుకుంటున్నా, ఇది ఎప్పుడూ నిండి ఉంటుంది...\" అని అతను ఆశ్చర్యంగా అనుకున్నాడు. ఒక చిన్న పిల్లాడు తన చిన్న బకెట్‌లోని నీటిని దాహంగా ఉన్న బాటసారికి అందించాడు — ఆ దృశ్యం సత్యవంతుడి చూపులను ఒక్కసారిగా పదునుపెట్టింది.",
+      "image_prompt": "The man observes a small boy offering water from his bucket to a thirsty traveler near the village well. The man's gaze sharpens intently as he watches the act of sharing. Bright, slightly hazy midday sun over the dusty village square, illuminating the well and the busy figures around it.",
+      "scene_visual": "The man observes a small boy offering water from his bucket to a thirsty traveler near the village well. The man's gaze sharpens intently as he watches the act of sharing.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raatri Nidra Pattaka, Satyavantudu Marusati Udayam Graama Baavi Daggariki Vellaadu. Prajalu Baavi Nundi Nillu Todukuntu, Okarikokaru Panchukuntu Undatam Gamaninchaadu. Baavi Kappi Yokka Layabaddhamaina Shabdan, Nillu Todutunnappudu Vachche Chappudu, Atani Chevullo Maarumogutunnaayi. \"Prati Okkaru Tisukuntunnaa, Idi Eppudu Nindi Untundi...\" Ani Atanu Aashcharyangaa Anukunnaadu. Oka Chinna Pillaadu Tana Chinna Baket‌Loni Nitini Daahangaa Unna Baatasaariki Andinchaadu — Aa Drrishyam Satyavantudi Chupulanu Okkasaarigaa Padunupettindi.",
+      "text_en": "Unable to sleep that night, Satyavanthudu went to the village well the next morning. He watched people drawing water from the well and sharing it with each other. The rhythmic sound of the well's pulley and the splashing of water echoed in his ears. \"Even though everyone takes from it, it always stays full...\" he thought in wonder. A small child offered water from his little bucket to a thirsty traveler — that sight instantly sharpened Satyavanthudu's focus."
+    },
+    {
+      "id": 5,
+      "text": "తన అధ్యయన మందిరానికి తిరిగి రాగానే, సత్యవంతుడు బావి దగ్గర జరిగిన సంఘటన గురించి ఆలోచించసాగాడు. పాలిష్ చేసిన రాతి బల్లపై తన చేతులు ఆనించి కూర్చున్నప్పుడు, ఆ చల్లదనం అతని ఆలోచనలకు మరింత స్పష్టతనిచ్చింది. బావిలోని నీరు పంచుకున్నా తరగనట్టు, స్వచ్ఛమైన మనసు కూడా పంచుకుంటే పెరుగుతుందని అతని మనసులో మెరుపులా తట్టింది. అతని కళ్ళలో ఒక్కసారిగా ఒక మెరుపు — పెదవుల మీద విజయగర్వంతో కూడిన చిరునవ్వు విరిసింది. \"అది కేవలం బావి కాదు, అది స్వచ్ఛమైన మనస్సు! పంచుకుంటేనే కదా స్వచ్ఛత!\" అని సత్యవంతుడు గట్టిగా అన్నాడు. అతను ఆ పొడుపు కథ తాటాకు పుస్తకాన్ని వేగంగా చుట్టేశాడు — అతని కళ్ళు కొత్త జ్ఞానంతో మెరిసిపోతున్నాయి.",
+      "image_prompt": "The man sits with his hands resting on a polished stone table, a sudden realization dawning upon him. A flash appears in his eyes, and a victorious smile spreads across his lips. The late afternoon sun casts long, golden rays through the study window, illuminating dust motes dancing in the air, highlighting Satyavanthudu's triumphant expression.",
+      "scene_visual": "The man sits with his hands resting on a polished stone table, a sudden realization dawning upon him. A flash appears in his eyes, and a victorious smile spreads across his lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Adhyayana Mandiraaniki Tirigi Raagaane, Satyavantudu Baavi Daggara Jarigina Sanghatana Gurinchi Aalochinchasaagaadu. Paalish Chesina Raati Ballapai Tana Chetulu Aaninchi Kurchunnappudu, Aa Challadanam Atani Aalochanalaku Marinta Spashtatanichchindi. Baaviloni Niru Panchukunnaa Taraganattu, Svachchamaina Manasu Kudaa Panchukunte Perugutundani Atani Manasulo Merupulaa Tattindi. Atani Kallalo Okkasaarigaa Oka Merupu — Pedavula Mida Vijayagarvanto Kudina Chirunavvu Virisindi. \"Adi Kevalam Baavi Kaadu, Adi Svachchamaina Manassu! Panchukuntene Kadaa Svachchata!\" Ani Satyavantudu Gattigaa Annaadu. Atanu Aa Podupu Katha Taataaku Pustakaanni Vegangaa Chutteshaadu — Atani Kallu Kotta Jnyaananto Merisipotunnaayi.",
+      "text_en": "As soon as he returned to his study room, Satyavanthudu began to think about what happened at the well. As he sat with his hands resting on the polished stone table, its coolness brought more clarity to his thoughts. A flash of insight struck him: just as the well's water doesn't diminish when shared, a pure heart grows when shared. A sparkle appeared in his eyes — a triumphant smile spread across his lips. \"It's not just a well, it's a pure heart! Purity comes from sharing!\" Satyavanthudu exclaimed loudly. He quickly rolled up the riddle's palm-leaf book — his eyes shining with new knowledge."
+    },
+    {
+      "id": 6,
+      "text": "సత్యవంతుడు రాజుగారి సభలో నిలబడ్డాడు, అతని ముఖంలో ప్రశాంతమైన ఆత్మవిశ్వాసం తొణికిసలాడుతోంది. సభలో అంతా నిశ్శబ్దంగా ఉంది, అతని గొంతు రాతి గోడలపై ప్రతిధ్వనిస్తోంది. రాజు ధర్మపాలుడు తీవ్రంగా చూస్తూ కూర్చున్నారు, సమాధానం కోసం ఆతృతగా ఎదురుచూస్తున్నారు. మీకు తెలుసా, సత్యవంతుడు అప్పుడు ఏం చెప్పాడో? సత్యవంతుడు రాజుగారితో కళ్ళలోకి చూస్తూ, స్పష్టంగా చెప్పాడు: \"మహారాజా, ఆ మాయా బావి 'దాన గుణం' లేదా 'స్వచ్ఛమైన మనస్సు'. ఎంత పంచుకుంటే అంత స్వచ్ఛంగా, గొప్పగా మారుతుంది!\" అతని మాటలు సభలో ఉన్న ప్రతి ఒక్కరినీ ఆలోచింపజేశాయి. రాజుగారి గంభీరమైన ముఖం ఒక్కసారిగా మారిపోయింది — ఆయన పెదవుల మీద మెల్లగా చిరునవ్వు వికసించింది.",
+      "image_prompt": "The man stands confidently in the royal court, looking directly into the king's eyes as he delivers his answer. The king's stern face softens, and a gentle smile slowly blooms on his lips. The throne room, now filled with the warm, rich glow of sunset, casting dramatic shadows and highlighting the King's pleased face.",
+      "scene_visual": "The man stands confidently in the royal court, looking directly into the king's eyes as he delivers his answer. The king's stern face softens, and a gentle smile slowly blooms on his lips.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Satyavantudu Raajugaari Sabhalo Nilabaddaadu, Atani Mukhanlo Prashaantamaina Aatmavishvaasam Tonikisalaadutondi. Sabhalo Antaa Nishshabdangaa Undi, Atani Gontu Raati Godalapai Pratidhvanistondi. Raaju Dharmapaaludu Tivrangaa Chustu Kurchunnaaru, Samaadhaanam Kosam Aatrritagaa Eduruchustunnaaru. Miku Telusaa, Satyavantudu Appudu Em Cheppaado? Satyavantudu Raajugaarito Kallaloki Chustu, Spashtangaa Cheppaadu: \"Mahaaraajaa, Aa Maayaa Baavi 'Daana Gunan' Ledaa 'Svachchamaina Manassu'. Enta Panchukunte Anta Svachchangaa, Goppagaa Maarutundi!\" Atani Maatalu Sabhalo Unna Prati Okkarini Aalochimpajeshaayi. Raajugaari Gambhiramaina Mukham Okkasaarigaa Maaripoyindi — Aayana Pedavula Mida Mellagaa Chirunavvu Vikasinchindi.",
+      "text_en": "Satyavanthudu stood in the King's court, his face radiating calm confidence. The court was silent, his voice echoing off the stone walls. King Dharmapaludu sat watching intently, eagerly awaiting the answer. Do you know what Satyavanthudu said then? Satyavanthudu looked into the King's eyes and clearly stated: \"Your Majesty, that magical well is 'generosity' or a 'pure heart'. The more you share, the purer and greater it becomes!\" His words made everyone in the court think deeply. The King's serious face changed instantly — a gentle smile bloomed on his lips."
+    },
+    {
+      "id": 7,
+      "text": "రాజు ధర్మపాలుడు సంతోషంతో సింహాసనం నుండి లేచి నిలబడ్డాడు. \"సత్యవంతుడా, నీ జ్ఞానం మన రాజ్యానికి దీవెన! ఈ పొడుపు కథ అర్థం చేసుకోవడం ద్వారా, మనం అందరం గొప్ప పాఠం నేర్చుకున్నాము,\" అని ఆయన బిగ్గరగా ప్రకటించారు. సత్యవంతుడు వినయంగా తల వంచాడు, అతని మనసులో ఎంతో తృప్తి నిండి ఉంది. సభలోని వారంతా ఒక్కసారిగా కరతాళ ధ్వనులతో దద్దరిల్లిపోయారు — ఆ ధ్వని రాజభవనం అంతా ప్రతిధ్వనించింది. ఆ రోజు నుండి, ధర్మపురి ప్రజలు దాన గుణం యొక్క గొప్పతనాన్ని మరింతగా అర్థం చేసుకున్నారు.",
+      "image_prompt": "The king rises joyfully from his throne, making a grand declaration to the court. The entire assembly erupts in thunderous applause, the sound echoing throughout the royal palace. The throne room, now illuminated by numerous glowing oil lamps and torches, creating a festive, celebratory atmosphere with warm, dancing light.",
+      "scene_visual": "The king rises joyfully from his throne, making a grand declaration to the court. The entire assembly erupts in thunderous applause, the sound echoing throughout the royal palace.",
+      "supporting_char_keys": [
+        "king",
+        "courtier"
+      ],
+      "text_te_en": "Raaju Dharmapaaludu Santoshanto Sinhaasanam Nundi Lechi Nilabaddaadu. \"Satyavantudaa, Ni Jnyaanam Mana Raajyaaniki Divena! I Podupu Katha Artham Chesukovadam Dvaaraa, Manam Andaram Goppa Paatham Nerchukunnaamu,\" Ani Aayana Biggaragaa Prakatinchaaru. Satyavantudu Vinayangaa Tala Vanchaadu, Atani Manasulo Ento Trripti Nindi Undi. Sabhaloni Vaarantaa Okkasaarigaa Karataala Dhvanulato Daddarillipoyaaru — Aa Dhvani Raajabhavanam Antaa Pratidhvaninchindi. Aa Roju Nundi, Dharmapuri Prajalu Daana Gunam Yokka Goppatanaanni Marintagaa Artham Chesukunnaaru.",
+      "text_en": "King Dharmapaludu stood up from his throne with joy. \"Satyavanthudu, your wisdom is a blessing to our kingdom! By understanding this riddle, we have all learned a great lesson,\" he announced loudly. Satyavanthudu bowed humbly, his heart filled with great satisfaction. Everyone in the court burst into applause — the sound echoed throughout the palace. From that day on, the people of Dharmapuri understood the greatness of generosity even more."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king",
+      "description": "A portly, benevolent king with a golden crown and a booming laugh, often clad in rich crimson and gold silks. He values wisdom and justice above all. Always the same character across every scene."
+    },
+    {
+      "key": "courtier",
+      "description": "A young, eager courtier, slightly nervous, dressed in the royal blue uniform of the palace staff. He often delivers messages and stands by the King. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 6.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 4,
+    "average": 6.0,
+    "weakest_dimension": "child_engagement",
+    "notes": "The story boasts a solid narrative arc and impeccable grammar, which are strong foundations. However, its formal, descriptive prose and limited character dialogue significantly hinder child engagement and oral authenticity. To reach an award-worthy level, the story needs a complete overhaul in tone, incorporating more direct address to the child, vivid and natural dialogue, and a warmer, more conversational narrative voice."
+  },
+  "quality_warning": true,
+  "title_te_en": "Manasuloni Maayaa Baavi",
+  "moral_te_en": "Manasu Vippi Panchukuntene Kadaa, Manam Inkaa Goppavaallam Ayyedi.",
+  "title_en": "The Magical Well of the Mind",
+  "moral_en": "Only by opening our hearts and sharing do we truly become greater.",
+  "id": "20260606_085231",
+  "date": "2026-06-06",
+  "category": "podupu",
+  "subcategory": "royal_riddles",
+  "topic": "తనలోని జలాన్ని పంచుకుంటూ, మరింత స్వచ్ఛంగా మారే మాయా బావి పొడుపు కథను విప్పిన సత్యవంతుడైన మంత్రి.",
+  "thumbnail": "stories/20260606_085231/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
