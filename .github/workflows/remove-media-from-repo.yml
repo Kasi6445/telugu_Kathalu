@@ -11,6 +11,8 @@ on:
 jobs:
   remove-media:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Abort if not confirmed
