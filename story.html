@@ -35,7 +35,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://www.googletagmanager.com">
 
-  <link rel="stylesheet" href="static/style.css?v=30">
+  <link rel="stylesheet" href="static/style.css?v=31">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Telugu:wght@400;700&display=swap" rel="stylesheet">
 
   <!-- Google Analytics -->
@@ -206,6 +206,11 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
+      textEl.scrollTop = 0;
     }
 
     // Proportional timing based on grapheme clusters (syllable-accurate for Telugu).
@@ -250,6 +255,7 @@
 
     function clearWordHighlight() {
       _wordSpans.forEach(s => s.classList.remove('active', 'spoken'));
+      _wordSpans        = [];   // drop stale refs so they can't pollute the next scene
       _wordOffsets      = [];   // force recompute next scene
       _currentWordIndex = -1;
     }
@@ -452,7 +458,12 @@
           : storyLang === 'te_en' && scene.text_te_en ? scene.text_te_en
           : scene.text;
         renderWordSpans(sceneText, scene.id);
-        textEl.style.opacity = '1';
+        // rAF: iOS ignores scrollTop=0 inside fixed containers until next paint;
+        // keeping opacity:0 until after the frame prevents a flash of stale scroll.
+        requestAnimationFrame(() => {
+          document.getElementById('slide-text').scrollTop = 0;
+          textEl.style.opacity = '1';
+        });
       }, 250);
 
       document.getElementById('scene-counter').textContent =

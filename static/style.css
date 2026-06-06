@@ -887,7 +887,7 @@ body.slideshow-mode {
   max-height: 4.2em;
   overflow-y: scroll;
   scrollbar-width: none;
-  scroll-behavior: smooth;
+  overflow-anchor: none;
   text-align: left;
   transition: opacity 0.3s ease;
 }
