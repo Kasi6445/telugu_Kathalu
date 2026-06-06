@@ -25,7 +25,7 @@ _ICON_512    = f"{BASE_URL}/static/icon-512.png"
 _GA_ID       = "G-39G2696KDV"
 _GSV         = "tYMx4Habst2Z266zGxzjvxtzrq8zAvVMljjU4MBXFfc"
 # Bumped by scripts/bump-css-version.js — keep in sync with index.html / story.html.
-CSS_VERSION  = 30
+CSS_VERSION  = 31
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
