@@ -1,0 +1,97 @@
+{
+  "title": "తెనాలి, హృదయ వంటకం గుట్టు",
+  "moral": "తెలివైన ఆలోచనలు, పెద్ద సమస్యలను కూడా అందమైన ఆశ్చర్యాలుగా మార్చేస్తాయి — చూశావా, పిల్లలూ!",
+  "main_character": "Tenali Ramakrishna, known for his quick wit and sharp intellect. He is a lean, expressive man with a mischievous twinkle in his eyes, often seen in a simple dhoti and angavastram. Always the same character across every scene.",
+  "antagonist": "King Krishnadevaraya. A majestic and imposing ruler, clad in rich silks and jewels, with a regal beard and a discerning gaze. He is wise but enjoys testing his courtiers' intelligence. Always the same character across every scene.",
+  "setting": "The grand court of Vijayanagara, specifically the royal kitchen and the King's dining hall. Ornate pillars, vibrant tapestries, the aroma of spices from the kitchen, and the soft glow of oil lamps. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కవిగారు రాజుగారిని పొగడుతూ పొగడుతూ... ఎంతసేపటికీ ఆపడం లేదు. సభలో అందరూ విసుగుచెంది, తమ పట్టువస్త్రాలు కదిలించుకుంటూ అటు ఇటు కదిలారు. కానీ తెనాలి రామకృష్ణుడు మాత్రం ఒక చిరునవ్వుతో, మహారాజు వైపు చూశాడు. \"మహారాజా, కవిగారి వర్ణనలో చంద్రుడు పగలు కనిపించాడట! అది ఎలా సాధ్యం?\" అని వినయంగా అడిగాడు. అతని మాట వినగానే — సభలో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. రాజుగారు తెనాలి తెలివికి మురిసిపోయి, అతని వైపు మెచ్చుకోలుగా చూశారు — ఏదో చెప్పబోతున్నట్లుగా.",
+      "image_prompt": "The boy looks towards the king with a slight smile and asks a question. The king looks back at him with an approving gaze, as if about to speak. Also in this scene: King Krishnadevaraya. A majestic and imposing ruler, clad in rich silks and jewels, with a regal beard and a discerning gaze. He is wise but enjoys testing his courtiers' intelligence. Always the same character across every scene. Bright morning sunlight streaming through the open arches of the court, illuminating dust motes dancing in the air, creating a grand but slightly sleepy atmosphere.",
+      "scene_visual": "The boy looks towards the king with a slight smile and asks a question. The king looks back at him with an approving gaze, as if about to speak.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kavigaaru Raajugaarini Pogadutu Pogadutu... Entasepatiki Aapadam Ledu. Sabhalo Andaru Visuguchendi, Tama Pattuvastraalu Kadilinchukuntu Atu Itu Kadilaaru. Kaani Tenaali Raamakrrishnudu Maatram Oka Chirunavvuto, Mahaaraaju Vaipu Chushaadu. \"Mahaaraajaa, Kavigaari Varnanalo Chandrudu Pagalu Kanipinchaadata! Adi Elaa Saadhyan?\" Ani Vinayangaa Adigaadu. Atani Maata Vinagaane — Sabhalo Okkasaarigaa Nishshabdam Alumukundi. Raajugaaru Tenaali Teliviki Murisipoyi, Atani Vaipu Mechchukolugaa Chushaaru — Edo Cheppabotunnatlugaa.",
+      "text_en": "The poet kept praising the King... and didn't stop for a long time. Everyone in the court grew tired, rustling their silk clothes and shifting around. But Tenali Ramakrishna, with a small smile, looked at the Mahārāja. \"Mahārāja, the poet's description says the moon appeared during the day! How is that possible?\" he asked politely. As soon as he spoke — silence fell over the court. The King, delighted by Tenali's cleverness, looked at him admiringly — as if about to say something."
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి మాటలకు మెచ్చిన రాజుగారు, ఒక కొత్త ఆలోచనతో సభ వైపు తిరిగారు. మల్లెపూల దండల సువాసన సభ అంతా నిండి ఉండగా, రాజుగారు గంభీరంగా ఇలా అన్నారు: \"నా హృదయాన్ని నిజంగా తాకే ఒక వంటకాన్ని ఎవరు సిద్ధం చేయగలరు?\" ఆ మాట వినగానే అందరూ ఒకరి మొహాలు ఒకరు చూసుకున్నారు. తెనాలి రామకృష్ణుడు తన తల కొద్దిగా వంచి, నుదురు చిట్లించి ఏదో ఆలోచిస్తున్నట్లు కనిపించాడు. మిగిలిన ఆస్థాన పండితులు మాత్రం భయపడి, గుసగుసలాడుకుంటూ ఒకరికొకరు చూసి, తమ చేతులు పిసికారు. ఆ క్షణంలో — తెనాలికి కూడా ఒక చిన్న చిక్కు ప్రశ్న ఎదురైనట్టే అనిపించింది.",
+      "image_prompt": "The boy slightly bows his head and furrows his brow, appearing deep in thought. Other scholars nervously glance at each other and wring their hands. Also in this scene: King Krishnadevaraya. A majestic and imposing ruler, clad in rich silks and jewels, with a regal beard and a discerning gaze. He is wise but enjoys testing his courtiers' intelligence. Always the same character across every scene. The court is now abuzz with activity, the bright sunlight reflecting off polished floors, adding to the King's authoritative presence.",
+      "scene_visual": "The boy slightly bows his head and furrows his brow, appearing deep in thought. Other scholars nervously glance at each other and wring their hands.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Maatalaku Mechchina Raajugaaru, Oka Kotta Aalochanato Sabha Vaipu Tirigaaru. Mallepula Dandala Suvaasana Sabha Antaa Nindi Undagaa, Raajugaaru Gambhirangaa Ilaa Annaaru: \"Naa Hrridayaanni Nijangaa Taake Oka Vantakaanni Evaru Siddham Cheyagalaru?\" Aa Maata Vinagaane Andaru Okari Mohaalu Okaru Chusukunnaaru. Tenaali Raamakrrishnudu Tana Tala Koddigaa Vanchi, Nuduru Chitlinchi Edo Aalochistunnatlu Kanipinchaadu. Migilina Aasthaana Panditulu Maatram Bhayapadi, Gusagusalaadukuntu Okarikokaru Chusi, Tama Chetulu Pisikaaru. Aa Kshananlo — Tenaaliki Kudaa Oka Chinna Chikku Prashna Edurainatte Anipinchindi.",
+      "text_en": "The King, pleased by Tenali's words, turned to the court with a new idea. While the fragrance of jasmine garlands filled the court, the King solemnly said: \"Who can prepare a dish that truly touches my heart?\" As soon as they heard this, everyone looked at each other's faces. Tenali Ramakrishna bowed his head slightly, furrowing his brow as if thinking deeply. The other court scholars, however, were scared, whispering and looking at each other, wringing their hands. In that moment — it seemed even Tenali faced a small puzzle."
+    },
+    {
+      "id": 3,
+      "text": "రాజుగారి సవాలుతో ఆలోచనలో పడిన తెనాలి, వెంటనే రాజభవనపు వంటశాలకు వెళ్ళాడు. వంటశాల అంతా గిన్నెల చప్పుడుతో, నూనెలో మసాలాలు చిటపటలాడే వాసనతో నిండి ఉంది. ప్రధాన వంటగాడిని చూసి, తెనాలి తన గడ్డం నిమురుతూ అడిగాడు: \"హృదయాన్ని తాకే వంటకం అంటే ఏమిటి? కేవలం రుచి కాదు కదా?\" వంటగాడు భుజాలు తడుముకున్నాడు — అతని దగ్గర సమాధానం లేదు. తెనాలి పెద్ద పెద్ద వంటపాత్రల మధ్య అటు ఇటు నడుస్తూ, ఏదో లోతుగా ఆలోచిస్తున్నాడు. ఆ సుగంధ భరిత వాతావరణంలో, తెనాలికి అసలు సమాధానం దొరకలేదు — కానీ అతను వదిలిపెట్టలేదు.",
+      "image_prompt": "The boy walks back and forth among large cooking vessels, deep in thought. The head cook shrugs his shoulders, indicating he has no answer. Warm, amber glow from the large clay ovens and oil lamps in the bustling royal kitchen, creating a busy, slightly hazy atmosphere.",
+      "scene_visual": "The boy walks back and forth among large cooking vessels, deep in thought. The head cook shrugs his shoulders, indicating he has no answer.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajugaari Savaaluto Aalochanalo Padina Tenaali, Ventane Raajabhavanapu Vantashaalaku Vellaadu. Vantashaala Antaa Ginnela Chappuduto, Nunelo Masaalaalu Chitapatalaade Vaasanato Nindi Undi. Pradhaana Vantagaadini Chusi, Tenaali Tana Gaddam Nimurutu Adigaadu: \"Hrridayaanni Taake Vantakam Ante Emiti? Kevalam Ruchi Kaadu Kadaa?\" Vantagaadu Bhujaalu Tadumukunnaadu — Atani Daggara Samaadhaanam Ledu. Tenaali Pedda Pedda Vantapaatrala Madhya Atu Itu Nadustu, Edo Lotugaa Aalochistunnaadu. Aa Sugandha Bharita Vaataavarananlo, Tenaaliki Asalu Samaadhaanam Dorakaledu — Kaani Atanu Vadilipettaledu.",
+      "text_en": "Tenali, deep in thought after the King's challenge, immediately went to the palace kitchen. The kitchen was filled with the clatter of pots and the aroma of spices sizzling in oil. Seeing the head cook, Tenali stroked his beard and asked: \"What does a dish that touches the heart mean? It's not just about taste, is it?\" The cook shrugged — he had no answer. Tenali walked back and forth among the large cooking pots, thinking deeply. In that fragrant atmosphere, Tenali couldn't find the real answer — but he didn't give up."
+    },
+    {
+      "id": 4,
+      "text": "ఆలోచనలతో రాజభవనం బయటికి వచ్చిన తెనాలి, ఒక అద్భుతమైన దృశ్యాన్ని చూశాడు. అక్కడ పిల్లలు ఆనందంగా ఆడుకుంటూ, బిగ్గరగా నవ్వుతున్నారు — వారి నవ్వులు ఆకాశాన్ని తాకుతున్నట్లు అనిపించాయి. పక్కనే ఒక వృద్ధురాలు తన తక్కువ భోజనాన్ని ఒక కుక్కతో పంచుకుంటూ ప్రేమగా చూసింది. అది చూసిన తెనాలి కళ్ళు ఒక్కసారిగా పెద్దవి అయ్యాయి — అతని పెదవులపై ఒక ప్రకాశవంతమైన చిరునవ్వు విరిసింది. \"ఆహా! హృదయం అంటే ఇది కదా! రుచి కాదు, భావం!\" అని అతను మనసులోనే అనుకున్నాడు. ఒక్క క్షణం కూడా ఆలస్యం చేయకుండా, తెనాలి ఒక కొత్త ఉత్సాహంతో అక్కడి నుండి పరుగులు తీశాడు.",
+      "image_prompt": "The boy's eyes widen significantly as a bright smile spreads across his lips. An old woman lovingly shares her meager meal with a dog nearby. Late afternoon sun, soft and golden, filtering through trees onto a dusty path, highlighting the innocence of the children and the warmth of the old woman's gesture.",
+      "scene_visual": "The boy's eyes widen significantly as a bright smile spreads across his lips. An old woman lovingly shares her meager meal with a dog nearby.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aalochanalato Raajabhavanam Bayatiki Vachchina Tenaali, Oka Adbhutamaina Drrishyaanni Chushaadu. Akkada Pillalu Aanandangaa Aadukuntu, Biggaragaa Navvutunnaaru — Vaari Navvulu Aakaashaanni Taakutunnatlu Anipinchaayi. Pakkane Oka Vrriddhuraalu Tana Takkuva Bhojanaanni Oka Kukkato Panchukuntu Premagaa Chusindi. Adi Chusina Tenaali Kallu Okkasaarigaa Peddavi Ayyaayi — Atani Pedavulapai Oka Prakaashavantamaina Chirunavvu Virisindi. \"Aahaa! Hrridayam Ante Idi Kadaa! Ruchi Kaadu, Bhaavan!\" Ani Atanu Manasulone Anukunnaadu. Okka Kshanam Kudaa Aalasyam Cheyakundaa, Tenaali Oka Kotta Utsaahanto Akkadi Nundi Parugulu Tishaadu.",
+      "text_en": "Tenali, coming out of the palace with his thoughts, saw a wonderful sight. Children were playing happily there, laughing loudly — their laughter seemed to touch the sky. Nearby, an old woman lovingly shared her meager meal with a dog. Seeing that, Tenali's eyes suddenly widened — a bright smile bloomed on his lips. \"Aha! This is what 'heart' means! Not taste, but feeling!\" he thought to himself. Without wasting a single moment, Tenali ran from there with new enthusiasm."
+    },
+    {
+      "id": 5,
+      "text": "కొత్త ఆలోచనతో తెనాలి, వెంటనే తన ఇంటికి చేరుకుని వంటగదిలోకి వెళ్ళాడు. అతను కొన్ని మామూలు కూరగాయలు, కొద్దిగా మసాలాలు, ఇంకా అందంగా చెక్కిన ఒక చిన్న చెక్క హృదయాన్ని జాగ్రత్తగా సేకరించాడు. \"ఈ వంటకానికి ప్రేమ, ఆప్యాయత అనే రుచులు అవసరం,\" అని అతను తనలో తాను గొణుగుతూ, ఒక పాట పాడాడు. తాజా కూరగాయల మట్టి వాసన, చెక్క సువాసనతో కలిసి గది అంతా నిండిపోయింది. అన్నింటినీ అందంగా అమర్చుతూ — తెనాలి ముఖంపై ఒక రహస్యమైన చిరునవ్వు మెరిసింది. చివరిగా, ఆ చెక్క హృదయాన్ని ఒక ఆకులో చుట్టిన పదార్థాల మధ్యలో ఉంచి, రాజుగారి దగ్గరికి బయలుదేరాడు.",
+      "image_prompt": "The boy carefully arranges common vegetables, spices, and a small, beautifully carved wooden heart. A mysterious smile plays on his face as he places the wooden heart among the wrapped ingredients. Dim, private corner of the royal kitchen, lit by a single flickering oil lamp, casting long, dancing shadows as Tenali works with quiet intensity.",
+      "scene_visual": "The boy carefully arranges common vegetables, spices, and a small, beautifully carved wooden heart. A mysterious smile plays on his face as he places the wooden heart among the wrapped ingredients.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kotta Aalochanato Tenaali, Ventane Tana Intiki Cherukuni Vantagadiloki Vellaadu. Atanu Konni Maamulu Kuragaayalu, Koddigaa Masaalaalu, Inkaa Andangaa Chekkina Oka Chinna Chekka Hrridayaanni Jaagrattagaa Sekarinchaadu. \"I Vantakaaniki Prema, Aapyaayata Ane Ruchulu Avasaran,\" Ani Atanu Tanalo Taanu Gonugutu, Oka Paata Paadaadu. Taajaa Kuragaayala Matti Vaasana, Chekka Suvaasanato Kalisi Gadi Antaa Nindipoyindi. Annintini Andangaa Amarchutu — Tenaali Mukhampai Oka Rahasyamaina Chirunavvu Merisindi. Chivarigaa, Aa Chekka Hrridayaanni Oka Aakulo Chuttina Padaarthaala Madhyalo Unchi, Raajugaari Daggariki Bayaluderaadu.",
+      "text_en": "With his new idea, Tenali immediately went home and entered the kitchen. He carefully gathered some ordinary vegetables, a little spice, and a beautifully carved small wooden heart. \"This dish needs the flavors of love and affection,\" he mumbled to himself, singing a song. The earthy smell of fresh vegetables, mixed with the scent of wood, filled the room. Arranging everything beautifully — a mysterious smile gleamed on Tenali's face. Finally, he placed the wooden heart among the ingredients wrapped in a leaf and set off for the King's presence."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి తిరిగి సభకు వచ్చి, రాజుగారి ముందు నిలబడ్డాడు. అతను ఒక సాధారణమైన, అందంగా అలంకరించిన కూరగాయల పళ్ళెమాన్ని, దాని పక్కన ఆ చిన్న చెక్క హృదయాన్ని ఉంచాడు. \"మహారాజా, ఇది నిజమైన 'హృదయ వంటకం',\" అని తెనాలి ప్రశాంతంగా, రాజు కళ్ళలోకి చూస్తూ అన్నాడు. సభలో ఒక నిశ్శబ్దం అలుముకుంది — రాజుగారు ఆశ్చర్యంతో ఒక దీర్ఘమైన శ్వాస తీసుకున్నారు. మహారాజు ఆ వింత నైవేద్యాన్ని చూస్తూ, అతని ముఖంలో ఎలాంటి భావం కనిపించలేదు. తరువాత, రాజుగారు తెనాలి వైపు చూశారు — వివరణ కోసం ఎదురుచూస్తున్నట్లు.",
+      "image_prompt": "The boy stands before the king, presenting a simple, decorated plate of vegetables beside a small wooden heart. The king takes a deep, surprised breath, his face showing no immediate emotion as he looks at the strange offering. Also in this scene: King Krishnadevaraya. A majestic and imposing ruler, clad in rich silks and jewels, with a regal beard and a discerning gaze. He is wise but enjoys testing his courtiers' intelligence. Always the same character across every scene. The royal dining hall, softly lit by many oil lamps and torches, creating a warm, expectant glow around the King's throne, with deeper shadows in the corners.",
+      "scene_visual": "The boy stands before the king, presenting a simple, decorated plate of vegetables beside a small wooden heart. The king takes a deep, surprised breath, his face showing no immediate emotion as he looks at the strange offering.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Tirigi Sabhaku Vachchi, Raajugaari Mundu Nilabaddaadu. Atanu Oka Saadhaaranamaina, Andangaa Alankarinchina Kuragaayala Pallemaanni, Daani Pakkana Aa Chinna Chekka Hrridayaanni Unchaadu. \"Mahaaraajaa, Idi Nijamaina 'Hrridaya Vantakan',\" Ani Tenaali Prashaantangaa, Raaju Kallaloki Chustu Annaadu. Sabhalo Oka Nishshabdam Alumukundi — Raajugaaru Aashcharyanto Oka Dirghamaina Shvaasa Tisukunnaaru. Mahaaraaju Aa Vinta Naivedyaanni Chustu, Atani Mukhanlo Elaanti Bhaavam Kanipinchaledu. Taruvaata, Raajugaaru Tenaali Vaipu Chushaaru — Vivarana Kosam Eduruchustunnatlu.",
+      "text_en": "Tenali returned to the court and stood before the King. He placed a simple, beautifully arranged plate of vegetables, and next to it, the small wooden heart. \"Mahārāja, this is the true 'heart's dish',\" Tenali said calmly, looking into the King's eyes. Silence fell over the court — the King took a deep breath in surprise. The Mahārāja looked at the strange offering, no emotion visible on his face. Then, the King looked at Tenali — as if waiting for an explanation."
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి ఆ చెక్క హృదయం గురించి, బయట తాను చూసిన దృశ్యాల గురించి వివరించాడు. నిజమైన హృదయ వంటకం అంటే కేవలం వండిన పదార్థం కాదని, అది ప్రేమ, దయ, సాయం చేసే మనసు అని చెప్పాడు. రాజుగారు తెనాలి మాటలు వింటూ, తమ పట్టువస్త్రాలు కదిలించుకుంటూ మెల్లగా ముందుకు వంగి, తల ఊపారు. మహారాజు ముఖంలో ఒక వెచ్చని చిరునవ్వు విరిసింది — అతని కళ్ళు మెరిసిపోయాయి. \"నన్ను మళ్ళీ మంత్రముగ్దుడిని చేశావు, రాముడా! నీ తెలివికి సలాం!\" అని రాజుగారు ఎంతో మెచ్చుకున్నారు.",
+      "image_prompt": "The king leans forward slightly, nodding his head while listening to the boy's explanation. A warm smile spreads across the king's face, and his eyes sparkle with appreciation. Also in this scene: King Krishnadevaraya. A majestic and imposing ruler, clad in rich silks and jewels, with a regal beard and a discerning gaze. He is wise but enjoys testing his courtiers' intelligence. Always the same character across every scene. Gentle dusk light, warm amber, filling the dining hall, peaceful and reflective as the King acknowledges Tenali's wisdom.",
+      "scene_visual": "The king leans forward slightly, nodding his head while listening to the boy's explanation. A warm smile spreads across the king's face, and his eyes sparkle with appreciation.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Aa Chekka Hrridayam Gurinchi, Bayata Taanu Chusina Drrishyaala Gurinchi Vivarinchaadu. Nijamaina Hrridaya Vantakam Ante Kevalam Vandina Padaartham Kaadani, Adi Prema, Daya, Saayam Chese Manasu Ani Cheppaadu. Raajugaaru Tenaali Maatalu Vintu, Tama Pattuvastraalu Kadilinchukuntu Mellagaa Munduku Vangi, Tala Upaaru. Mahaaraaju Mukhanlo Oka Vechchani Chirunavvu Virisindi — Atani Kallu Merisipoyaayi. \"Nannu Malli Mantramugdudini Cheshaavu, Raamudaa! Ni Teliviki Salaan!\" Ani Raajugaaru Ento Mechchukunnaaru.",
+      "text_en": "Tenali explained about the wooden heart and the scenes he had witnessed outside. He said that a true heart's dish is not just cooked food, but love, kindness, and a helping spirit. The King listened to Tenali's words, slowly leaning forward, rustling his silk clothes, and nodding his head. A warm smile spread across the Mahārāja's face — his eyes sparkled. \"You have enchanted me again, Rāmuḍā! Salutations to your wisdom!\" the King praised him greatly."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 8,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc and flawless, natural Telugu grammar, making it highly engaging. The emotional depth is commendable, often conveyed through actions rather than direct statements. To elevate it to an award-worthy piece, the story needs to ensure every scene includes direct, character-specific dialogue, and integrate more direct child address within the narrative itself. Softening some of the more formal descriptive phrases would also enhance its oral storytelling warmth."
+  },
+  "title_te_en": "Tenaali, Hrridaya Vantakam Guttu",
+  "moral_te_en": "Telivaina Aalochanalu, Pedda Samasyalanu Kudaa Andamaina Aashcharyaalugaa Maarchestaayi — Chushaavaa, Pillalu!",
+  "title_en": "Tenali, The Secret of the Heart's Dish",
+  "moral_en": "Clever ideas can turn even big problems into beautiful surprises — see, children!",
+  "id": "20260606_150913",
+  "date": "2026-06-06",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు 'హృదయ వంటకం'",
+  "thumbnail": "stories/20260606_150913/images/scene1.png",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
