@@ -1,0 +1,59 @@
+name: Remove Media from Repo
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type "yes" to confirm removal of all media files from the repo'
+        required: true
+        default: ""
+
+jobs:
+  remove-media:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Abort if not confirmed
+        if: ${{ github.event.inputs.confirm != 'yes' }}
+        run: |
+          echo "ERROR: You must type 'yes' in the confirm input to proceed."
+          exit 1
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Remove media files from git index
+        run: |
+          echo "Removing stories media from index..."
+          git rm -r --cached --ignore-unmatch stories/*/images/
+          git rm -r --cached --ignore-unmatch stories/*/audio/
+
+          echo "Removing drafts media from index..."
+          git rm -r --cached --ignore-unmatch drafts/*/images/
+          git rm -r --cached --ignore-unmatch drafts/*/audio/
+
+      - name: Add media patterns to .gitignore
+        run: |
+          cat >> .gitignore << 'EOF'
+
+          # Media files — served from Cloudflare R2, not stored in repo
+          stories/*/images/
+          stories/*/audio/
+          drafts/*/images/
+          drafts/*/audio/
+          EOF
+          git add .gitignore
+
+      - name: Commit and push
+        run: |
+          git diff --cached --quiet && echo "Nothing to commit." && exit 0
+          git commit -m "chore: remove media from repo, serve from R2"
+          git push origin master
