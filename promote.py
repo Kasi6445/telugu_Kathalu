@@ -17,9 +17,10 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-BASE_DIR   = Path(__file__).parent
-DRAFTS_DIR = BASE_DIR / "drafts"
-LOGS_DIR   = BASE_DIR / "logs"
+BASE_DIR     = Path(__file__).parent
+DRAFTS_DIR   = BASE_DIR / "drafts"
+LOGS_DIR     = BASE_DIR / "logs"
+R2_BASE_URL  = os.environ.get("R2_BASE_URL", "https://pub-558b12062e854257a35815cd84959ad0.r2.dev")
 
 LOGS_DIR.mkdir(exist_ok=True)
 
@@ -56,18 +57,24 @@ def main():
         story = json.load(f)
 
     # ── Completeness check ────────────────────────────────────────────────────
-    audio_files = sorted((draft_dir / "audio").glob("scene*.mp3")) if (draft_dir / "audio").exists() else []
-    image_dir   = draft_dir / "images"
-    image_files = sorted(image_dir.glob("scene*.jpg")) + sorted(image_dir.glob("scene*.png")) if image_dir.exists() else []
-    n_scenes    = len(story.get("scenes", []))
+    # Media is served from R2; local dirs are absent after generate-stories.yml
+    # deletes them pre-commit. Only run the local file count check when dirs
+    # actually exist (local dev workflow).
+    n_scenes  = len(story.get("scenes", []))
+    audio_dir = draft_dir / "audio"
+    image_dir = draft_dir / "images"
 
-    if len(audio_files) != n_scenes:
-        logger.error(f"Audio incomplete: {len(audio_files)}/{n_scenes} files. Aborting.")
-        sys.exit(1)
+    if audio_dir.exists():
+        audio_files = sorted(audio_dir.glob("scene*.mp3"))
+        if len(audio_files) != n_scenes:
+            logger.error(f"Audio incomplete: {len(audio_files)}/{n_scenes} files. Aborting.")
+            sys.exit(1)
 
-    if len(image_files) != n_scenes:
-        logger.error(f"Images incomplete: {len(image_files)}/{n_scenes} files. Aborting.")
-        sys.exit(1)
+    if image_dir.exists():
+        image_files = sorted(image_dir.glob("scene*.jpg")) + sorted(image_dir.glob("scene*.png"))
+        if len(image_files) != n_scenes:
+            logger.error(f"Images incomplete: {len(image_files)}/{n_scenes} files. Aborting.")
+            sys.exit(1)
 
     # ── Move draft → stories/<timestamp>/ ────────────────────────────────────
     from lib.config import STORIES_DIR
@@ -80,14 +87,9 @@ def main():
     shutil.copytree(str(draft_dir), str(dest_dir))
     logger.info(f"Copied drafts/{ts}/ → stories/{ts}/")
 
-    # Update thumbnail path — detect actual extension (jpg or png)
-    dest_image_dir = dest_dir / "images"
-    scene1 = next(
-        (f for f in sorted(dest_image_dir.glob("scene1.*")) if f.suffix in (".jpg", ".png")),
-        None,
-    )
-    thumb_ext = scene1.suffix if scene1 else ".jpg"
-    story["thumbnail"] = f"stories/{ts}/images/scene1{thumb_ext}"
+    # Thumbnail — absolute R2 URL so story.html and OG tags resolve correctly
+    # after media is removed from the repo (served from Cloudflare R2).
+    story["thumbnail"] = f"{R2_BASE_URL}/stories/{ts}/images/scene1.jpg"
     dest_story_file = dest_dir / "story.json"
     with open(dest_story_file, "w", encoding="utf-8") as f:
         json.dump(story, f, ensure_ascii=False, indent=2)

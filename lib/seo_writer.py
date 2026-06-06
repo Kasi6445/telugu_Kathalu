@@ -18,7 +18,10 @@ import re
 from datetime import date as _date
 from pathlib import Path
 
+import os as _os
+
 BASE_URL     = "https://www.telugukathalu.in"
+R2_BASE_URL  = _os.environ.get("R2_BASE_URL", "https://pub-558b12062e854257a35815cd84959ad0.r2.dev")
 _SITE_NAME   = "తెలుగు కథలు"
 _TWITTER     = "@telugukathalu"
 _ICON_512    = f"{BASE_URL}/static/icon-512.png"
@@ -66,7 +69,7 @@ def generate_story_head(story: dict, slug: str, timestamp: str) -> str:
     desc      = _trunc(moral)
     date_iso  = _date_iso(date_str) if date_str else ""
     story_url = f"{BASE_URL}/story/{slug}/"
-    image_url = f"{BASE_URL}/stories/{timestamp}/images/scene1.jpg"
+    image_url = f"{R2_BASE_URL}/stories/{timestamp}/images/scene1.jpg"
 
     jsonld_obj = {
         "@context": "https://schema.org",
