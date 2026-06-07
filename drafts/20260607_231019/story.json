@@ -1,0 +1,110 @@
+{
+  "title": "విశ్రాంతి నేర్పిన రాణి",
+  "moral": "మనం చేసే పనిని ఎంత ఇష్టపడినా, సరైన విశ్రాంతి తీసుకుంటేనే మనం మరింత ఉత్సాహంగా, సంతోషంగా పనిచేయగలం.",
+  "main_character": "A young, vibrant Queen Bee, smaller than other bees but with a distinctive golden crown-like marking on her head. She is fiercely dedicated to her hive's prosperity and believes that constant work is the only path to success. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A bustling bee hive nestled within a giant banyan tree in a lush forest near the Godavari River in Andhra Pradesh. The hive is a complex maze of hexagonal cells, filled with the sweet scent of honey and the constant buzz of wings. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "చిన్న రాణి తేనెటీగ, తన తలపై బంగారు కిరీటంలా మెరిసే గుర్తుతో, తేనెపట్టు అంతా గర్వంగా కలియతిరిగింది. వేల కొలది తేనెటీగల రెక్కల సవ్వడి తేనెపట్టు గోడలన్నీ నింపి, ఒక మధురమైన గీతంలా వినిపిస్తోంది. ప్రతి తేనెటీగ పనిలో నిమగ్నమై ఉందేమో అని ఆమె తన యాంటెన్నాలతో జాగ్రత్తగా పరిశీలిస్తోంది. \"ఈ తేనెపట్టు మనందరి శ్రమకు నిదర్శనం!\" అని ఆమె చిన్నగా గొణుగుకుంది, తన కళ్ళు మెరుస్తూ ఉన్నాయి. ఆమె శక్తివంతంగా కదులుతూ, ఇంకా తేనె నిండని చిన్న గది వైపు చూసింది — ఆ ఖాళీని నింపాలని ఆమె సంకల్పం.",
+      "image_prompt": "The queen bee proudly moves through the hive, surveying the busy worker bees. Her eyes are shining brightly as she looks towards an empty honey cell. Warm, golden light filtering through the tree's leaves into the hive entrance, illuminating the busy, sunlit interior.",
+      "scene_visual": "The queen bee proudly moves through the hive, surveying the busy worker bees. Her eyes are shining brightly as she looks towards an empty honey cell.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinna Raani Tenetiga, Tana Talapai Bangaaru Kiritanlaa Merise Gurtuto, Tenepattu Antaa Garvangaa Kaliyatirigindi. Vela Koladi Tenetigala Rekkala Savvadi Tenepattu Godalanni Nimpi, Oka Madhuramaina Gitanlaa Vinipistondi. Prati Tenetiga Panilo Nimagnamai Undemo Ani Aame Tana Yaantennaalato Jaagrattagaa Parishilistondi. \"I Tenepattu Manandari Shramaku Nidarshanan!\" Ani Aame Chinnagaa Gonugukundi, Tana Kallu Merustu Unnaayi. Aame Shaktivantangaa Kadulutu, Inkaa Tene Nindani Chinna Gadi Vaipu Chusindi — Aa Khaalini Nimpaalani Aame Sankalpan.",
+      "text_en": "Little Rani the Bee, with a shining mark on her head like a golden crown, proudly roamed all over the beehive. The sound of thousands of bees' wings filled the beehive walls, sounding like a sweet song. She carefully watched with her antennae, making sure every bee was busy at work. \"This beehive shows how hard we all work!\" she whispered softly, her eyes sparkling. She moved with great energy, looking at a small cell that was not yet full of honey — she was determined to fill that empty space."
+    },
+    {
+      "id": 2,
+      "text": "తేనెపట్టు నిండా తాజాగా సేకరించిన తేనె, పుప్పొడి సువాసన ఘుమఘుమలాడుతోంది, కానీ రాణి తేనెటీగ మాత్రం క్షణం తీరిక లేకుండా పనిచేస్తూనే ఉంది. ఆమె యాంటెన్నాలు ఇంకా చురుగ్గానే కదులుతున్నాయి, కానీ ఆమె కదలికల్లో ఒక అలసట స్పష్టంగా కనిపిస్తోంది. పక్కనున్న వృద్ధ తేనెటీగ ఆమెను గమనిస్తూ, తన తల పక్కకు వంచి, మెల్లగా అడిగింది: \"రాణీ, కొంచెం విశ్రాంతి తీసుకోవా?\" రాణి తేనెటీగ ఆ మాటను విననట్లు యాంటెన్నాతో తట్టి, ఒక చిన్న తేనెటీగను పక్కకు తోసింది — అప్పుడు ఆమె ఒక్కసారిగా తూలి పడింది.",
+      "image_prompt": "The queen bee, clearly tired, bumps a smaller bee aside with her antenna. She then suddenly stumbles, her movements showing clear exhaustion. Soft, diffused light from within the hive, casting gentle shadows as the day progresses, a slightly muted golden hue.",
+      "scene_visual": "The queen bee, clearly tired, bumps a smaller bee aside with her antenna. She then suddenly stumbles, her movements showing clear exhaustion.",
+      "supporting_char_keys": [
+        "old_bee"
+      ],
+      "text_te_en": "Tenepattu Nindaa Taajaagaa Sekarinchina Tene, Puppodi Suvaasana Ghumaghumalaadutondi, Kaani Raani Tenetiga Maatram Kshanam Tirika Lekundaa Panichestune Undi. Aame Yaantennaalu Inkaa Churuggaane Kadulutunnaayi, Kaani Aame Kadalikallo Oka Alasata Spashtangaa Kanipistondi. Pakkanunna Vrriddha Tenetiga Aamenu Gamanistu, Tana Tala Pakkaku Vanchi, Mellagaa Adigindi: \"Raani, Konchem Vishraanti Tisukovaa?\" Raani Tenetiga Aa Maatanu Vinanatlu Yaantennaato Tatti, Oka Chinna Tenetiganu Pakkaku Tosindi — Appudu Aame Okkasaarigaa Tuli Padindi.",
+      "text_en": "The beehive was filled with the sweet smell of freshly gathered honey and pollen, but Rani the Bee kept working without a moment's rest. Her antennae were still moving busily, but a clear tiredness could be seen in her movements. An old bee nearby watched her, tilted her head, and gently asked: \"Rani, won't you take some rest?\" Rani the Bee, pretending not to hear, tapped with her antennae and pushed a small bee aside — then she suddenly stumbled."
+    },
+    {
+      "id": 3,
+      "text": "రాణి తేనెటీగ అలసటతో మరింత వేగంగా కదలాలని ప్రయత్నిస్తూ, అకస్మాత్తుగా ఒక పని తేనెటీగను ఢీకొట్టింది. ఆ పని తేనెటీగ చేతిలోని తీయని తేనె చుక్కలు కిందపడి, తేనెపట్టు అంతా జిగురుగా మారింది. ఆమె తన తలను ఒక కాలుతో రుద్దుకుంటూ, తన కదలికలు ఎంత అసహ్యంగా మారాయో చూసి విసుగు చెందింది. \"అయ్యో! నా వల్ల తప్పు జరగదు!\" అని ఆమె కోపంగా అరిచింది. వృద్ధ తేనెటీగ దీర్ఘంగా నిట్టూర్చింది — రాణి తేనెటీగ అదృశ్యమయ్యే వరకు ఆమె ఆందోళనగా చూస్తూనే ఉంది.",
+      "image_prompt": "The queen bee angrily rubs her head with one leg after clumsily colliding with a worker bee. Drops of sweet honey from the worker bee's hand have fallen, making the hive floor sticky. The light inside the hive is now a bit dimmer, hinting at late afternoon, with a slightly anxious, muted orange glow.",
+      "scene_visual": "The queen bee angrily rubs her head with one leg after clumsily colliding with a worker bee. Drops of sweet honey from the worker bee's hand have fallen, making the hive floor sticky.",
+      "supporting_char_keys": [
+        "old_bee"
+      ],
+      "text_te_en": "Raani Tenetiga Alasatato Marinta Vegangaa Kadalaalani Prayatnistu, Akasmaattugaa Oka Pani Tenetiganu Dhikottindi. Aa Pani Tenetiga Chetiloni Tiyani Tene Chukkalu Kindapadi, Tenepattu Antaa Jigurugaa Maarindi. Aame Tana Talanu Oka Kaaluto Ruddukuntu, Tana Kadalikalu Enta Asahyangaa Maaraayo Chusi Visugu Chendindi. \"Ayyo! Naa Valla Tappu Jaragadu!\" Ani Aame Kopangaa Arichindi. Vrriddha Tenetiga Dirghangaa Nitturchindi — Raani Tenetiga Adrrishyamayye Varaku Aame Aandolanagaa Chustune Undi.",
+      "text_en": "Rani the Bee, trying to move faster despite her tiredness, suddenly bumped into a worker bee. The sweet drops of honey in the worker bee's hands fell, making the whole beehive sticky. She rubbed her head with a leg, annoyed to see how clumsy her movements had become. \"Oh no! I don't make mistakes!\" she angrily shouted. The old bee sighed deeply — she watched anxiously until Rani the Bee disappeared."
+    },
+    {
+      "id": 4,
+      "text": "తన బలహీనతను కప్పిపుచ్చుకోవాలని రాణి తేనెటీగ మరింత వేగంగా రెక్కలు కొట్టుకుంది, ఆమె రెక్కల అరుపు సాధారణం కంటే బిగ్గరగా, ఆందోళనగా వినిపిస్తోంది. ఆమె తన గుడ్లను తప్పు చోట పెట్టింది, మరొక తేనెటీగను ఢీకొట్టడానికి కొంచెం దూరంలో ఆగిపోయింది — ఆమె కళ్ళు భయంతో పెద్దవి అయ్యాయి. \"నేను ఇంకా చాలా పని చేయాలి, విశ్రాంతి నాకు అవసరం లేదు!\" అని ఆమె తనలో తాను మొత్తుకుంది, ఆమెకు చెమటలు పట్టాయి. ఆమె శరీరం వణుకుతుండగా, ఆమె అకస్మాత్తుగా తూలిపడి, ఖాళీ తేనెగూళ్ళ మీద కూలిపోయింది. ఆమె తలపై ఉన్న బంగారు కిరీటంలాంటి గుర్తు — ఇప్పుడు కాంతిహీనంగా కనిపిస్తోంది.",
+      "image_prompt": "The queen bee, trembling and sweating, suddenly stumbles and collapses onto empty honeycomb cells. The golden crown-like mark on her head now appears dull and lifeless. The hive is now cast in deep, shadowy twilight, with only faint, distant glimmers of light from the entrance, creating a somber, heavy atmosphere.",
+      "scene_visual": "The queen bee, trembling and sweating, suddenly stumbles and collapses onto empty honeycomb cells. The golden crown-like mark on her head now appears dull and lifeless.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Balahinatanu Kappipuchchukovaalani Raani Tenetiga Marinta Vegangaa Rekkalu Kottukundi, Aame Rekkala Arupu Saadhaaranam Kante Biggaragaa, Aandolanagaa Vinipistondi. Aame Tana Gudlanu Tappu Chota Pettindi, Maroka Tenetiganu Dhikottadaaniki Konchem Duranlo Aagipoyindi — Aame Kallu Bhayanto Peddavi Ayyaayi. \"Nenu Inkaa Chaalaa Pani Cheyaali, Vishraanti Naaku Avasaram Ledu!\" Ani Aame Tanalo Taanu Mottukundi, Aameku Chematalu Pattaayi. Aame Shariram Vanukutundagaa, Aame Akasmaattugaa Tulipadi, Khaali Tenegulla Mida Kulipoyindi. Aame Talapai Unna Bangaaru Kiritanlaanti Gurtu — Ippudu Kaantihinangaa Kanipistondi.",
+      "text_en": "To hide her weakness, Rani the Bee flapped her wings even faster. The sound of her wings was louder and more worried than usual. She laid her eggs in the wrong place, and stopped just short of bumping into another bee — her eyes widened with fear. \"I still have so much work to do, I don't need rest!\" she muttered to herself, sweating. As her body trembled, she suddenly stumbled and collapsed onto some empty honeycomb cells. The golden crown-like mark on her head — now looked dull."
+    },
+    {
+      "id": 5,
+      "text": "చివరికి పూర్తిగా అలసిపోయిన రాణి తేనెటీగ, తేనెపట్టులోని ఒక ఏకాంత మూలకు చేరి, తన శరీరం భారంగా నేల మీద వదిలేసింది. చల్లని, నునుపైన తేనెగూడు గోడల స్పర్శ ఆమె అలసిన శరీరానికి కొద్దిగా ఉపశమనాన్ని ఇచ్చింది. ఆమె యాంటెన్నాలు వాలిపోయాయి, గత కొన్ని గంటలుగా తాను చేసిన పొరపాట్లు ఆమె మనసులో మెరిశాయి — కళ్ళు నిండిపోయాయి. \"బహుశా ఆ వృద్ధ తేనెటీగ చెప్పింది నిజమేనేమో...\" అని ఆమె చిన్నగా గొణుగుకుంది. ఆమె ఓటమిని అంగీకరిస్తూ కళ్ళు మూసుకుంది... సరిగ్గా అప్పుడే, వృద్ధ తేనెటీగ అడుగుల సవ్వడి వినిపించింది.",
+      "image_prompt": "The utterly exhausted queen bee lets her body rest heavily on the ground in a secluded corner of the hive. Her antennae are drooping, and her eyes are filled with tears as she closes them in defeat. A single, soft, silvery moonbeam penetrates a crack in the banyan tree, casting a quiet, reflective glow on the Queen Bee in her hidden corner.",
+      "scene_visual": "The utterly exhausted queen bee lets her body rest heavily on the ground in a secluded corner of the hive. Her antennae are drooping, and her eyes are filled with tears as she closes them in defeat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chivariki Purtigaa Alasipoyina Raani Tenetiga, Tenepattuloni Oka Ekaanta Mulaku Cheri, Tana Shariram Bhaarangaa Nela Mida Vadilesindi. Challani, Nunupaina Tenegudu Godala Sparsha Aame Alasina Shariraaniki Koddigaa Upashamanaanni Ichchindi. Aame Yaantennaalu Vaalipoyaayi, Gata Konni Gantalugaa Taanu Chesina Porapaatlu Aame Manasulo Merishaayi — Kallu Nindipoyaayi. \"Bahushaa Aa Vrriddha Tenetiga Cheppindi Nijamenemo...\" Ani Aame Chinnagaa Gonugukundi. Aame Otamini Angikaristu Kallu Musukundi... Sariggaa Appude, Vrriddha Tenetiga Adugula Savvadi Vinipinchindi.",
+      "text_en": "Finally, completely exhausted, Rani the Bee went to a lonely corner of the beehive and let her body rest heavily on the ground. The touch of the cool, smooth honeycomb walls gave her tired body a little relief. Her antennae drooped, and the mistakes she had made in the past few hours flashed in her mind — her eyes filled with tears. \"Maybe what that old bee said was true...\" she whispered softly. She closed her eyes, accepting her defeat... Just then, she heard the sound of the old bee's footsteps."
+    },
+    {
+      "id": 6,
+      "text": "వృద్ధ తేనెటీగ రాణి పక్కన మెల్లగా వాలి, తన యాంటెన్నాతో ఆమె తలను సున్నితంగా తాకింది. ఆ స్పర్శ ఆమె గుండెకు ఓదార్పునిచ్చింది. రాణి తేనెటీగ కన్నీళ్ళతో నిండిన కళ్ళతో పైకి చూసింది, చివరకు వినడానికి సిద్ధంగా ఉంది. \"రాణీ, విశ్రాంతి నిన్ను బలహీనపరచదు, అది నిన్ను మరింత శక్తివంతం చేస్తుంది,\" అని వృద్ధ తేనెటీగ ప్రేమగా చెప్పింది. ఆమె మాటలు రాణి తేనెటీగ మనసులో ఒక కొత్త వెలుగును నింపాయి. రాణి తేనెటీగ నెమ్మదిగా తల పంకించింది — ఆమె కళ్ళల్లో ఒక కొత్త అవగాహన మెరిసింది.",
+      "image_prompt": "The old bee gently lands beside the queen bee and tenderly touches her head with an antenna. The queen bee looks up with tear-filled eyes, ready to listen, as a new understanding shines in her gaze. The moonbeam from before still illuminates them, but now it feels like a beacon of hope, a gentle, understanding light in the darkness.",
+      "scene_visual": "The old bee gently lands beside the queen bee and tenderly touches her head with an antenna. The queen bee looks up with tear-filled eyes, ready to listen, as a new understanding shines in her gaze.",
+      "supporting_char_keys": [
+        "old_bee"
+      ],
+      "text_te_en": "Vrriddha Tenetiga Raani Pakkana Mellagaa Vaali, Tana Yaantennaato Aame Talanu Sunnitangaa Taakindi. Aa Sparsha Aame Gundeku Odaarpunichchindi. Raani Tenetiga Kannillato Nindina Kallato Paiki Chusindi, Chivaraku Vinadaaniki Siddhangaa Undi. \"Raani, Vishraanti Ninnu Balahinaparachadu, Adi Ninnu Marinta Shaktivantam Chestundi,\" Ani Vrriddha Tenetiga Premagaa Cheppindi. Aame Maatalu Raani Tenetiga Manasulo Oka Kotta Velugunu Nimpaayi. Raani Tenetiga Nemmadigaa Tala Pankinchindi — Aame Kallallo Oka Kotta Avagaahana Merisindi.",
+      "text_en": "The old bee gently landed next to Rani and softly touched her head with her antennae. That touch brought comfort to her heart. Rani the Bee looked up with tear-filled eyes, finally ready to listen. \"Rani, rest doesn't make you weak; it makes you stronger,\" the old bee said kindly. Her words filled Rani the Bee's mind with a new light. Rani the Bee slowly nodded her head — a new understanding sparkled in her eyes."
+    },
+    {
+      "id": 7,
+      "text": "దీర్ఘమైన, ప్రశాంతమైన విశ్రాంతి తర్వాత, రాణి తేనెటీగ తన తేనెపట్టుకు తిరిగి వచ్చింది. ఆమె కదలికలు ఇప్పుడు వేగంగా, అందంగా ఉన్నాయి, ఆమె రెక్కల సవ్వడి ఒక స్పష్టమైన, శ్రావ్యమైన గీతంలా వినిపిస్తోంది. ఆమె యాంటెన్నాలు కొత్త ఉత్సాహంతో నృత్యం చేస్తున్నాయి, ప్రతి తేనెటీగ పనిని సంతోషంగా పర్యవేక్షిస్తోంది. \"విశ్రాంతి తర్వాత, ప్రతి పని ఎంత సులభంగా ఉందో!\" అని ఆమె చిరునవ్వుతో అనుకుంది. ఇప్పుడు తేనెపట్టు అంతా ఆనందంగా, ఉత్సాహంగా సందడిగా ఉంది — రాణి తేనెటీగ మనసులో ఒక కొత్త జ్ఞానం వెలిగింది.",
+      "image_prompt": "The queen bee gracefully moves through the hive, her antennae dancing with new enthusiasm. Her wing beats create a clear, melodious sound as she happily supervises the work of every bee. Bright, fresh morning sunlight streams into the hive, illuminating every cell with a vibrant, energetic golden glow, reflecting the Queen's renewed spirit.",
+      "scene_visual": "The queen bee gracefully moves through the hive, her antennae dancing with new enthusiasm. Her wing beats create a clear, melodious sound as she happily supervises the work of every bee.",
+      "supporting_char_keys": [],
+      "text_te_en": "Dirghamaina, Prashaantamaina Vishraanti Tarvaata, Raani Tenetiga Tana Tenepattuku Tirigi Vachchindi. Aame Kadalikalu Ippudu Vegangaa, Andangaa Unnaayi, Aame Rekkala Savvadi Oka Spashtamaina, Shraavyamaina Gitanlaa Vinipistondi. Aame Yaantennaalu Kotta Utsaahanto Nrrityam Chestunnaayi, Prati Tenetiga Panini Santoshangaa Paryavekshistondi. \"Vishraanti Tarvaata, Prati Pani Enta Sulabhangaa Undo!\" Ani Aame Chirunavvuto Anukundi. Ippudu Tenepattu Antaa Aanandangaa, Utsaahangaa Sandadigaa Undi — Raani Tenetiga Manasulo Oka Kotta Jnyaanam Veligindi.",
+      "text_en": "After a long, peaceful rest, Rani the Bee returned to her beehive. Her movements were now fast and graceful, and the sound of her wings was like a clear, melodious song. Her antennae were dancing with new enthusiasm, and she happily supervised every bee's work. \"After rest, how easy every task is!\" she thought with a smile. Now the whole beehive was buzzing with happiness and energy — a new wisdom shone in Rani the Bee's mind."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "old_bee",
+      "description": "An ancient worker bee, slightly larger and slower than the others, with faded yellow and brown stripes and wise, cloudy eyes. She carries a gentle aura of calm and experience. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts a compelling narrative arc and good potential for child engagement. However, the language is consistently formal and literary, lacking the warmth and colloquial flow essential for a grandmother's bedtime story. To elevate this piece, the primary focus must be on transforming the narration into more natural, spoken Telugu, allowing emotions to be shown through action and dialogue rather than stated directly. This crucial shift would significantly enhance authenticity and emotional depth, making the story truly captivating for a young audience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Vishraanti Nerpina Raani",
+  "moral_te_en": "Manam Chese Panini Enta Ishtapadinaa, Saraina Vishraanti Tisukuntene Manam Marinta Utsaahangaa, Santoshangaa Panicheyagalan.",
+  "title_en": "Rani Who Learned About Rest",
+  "moral_en": "No matter how much we love our work, taking proper rest helps us work with more energy and happiness.",
+  "id": "20260607_231019",
+  "date": "2026-06-07",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "నిరంతరం పనిచేసే తేనెటీగ రాణి మరియు విశ్రాంతి విలువను బోధించిన వృద్ధ తేనెటీగ | Moral: నిరంతరం పనిచేయడంతో పాటు, సరైన విశ్రాంతి కూడా మన ఆరోగ్యం, సంతోషానికి అవసరం.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_231019/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
