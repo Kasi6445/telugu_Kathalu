@@ -1,0 +1,124 @@
+{
+  "title": "సుమంత్రుని నమ్మకం, కర్తవ్యం",
+  "moral": "మనసు నిండా బాధ ఉన్నా, మన కర్తవ్యాన్ని నిస్వార్థంగా నెరవేర్చడమే నిజమైన భక్తి అంటే.",
+  "main_character": "Sumantra: King Dasharatha's chief minister and charioteer, a wise and loyal elder statesman. He has a dignified demeanor with silvering hair and a kind, thoughtful face, always wearing the traditional attire of a royal advisor. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The ancient city of Ayodhya, bustling with life and grand palaces, and the serene, dense forests beyond its walls. The air is often filled with the scent of jasmine and temple incense. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అయోధ్య వీధుల గుండా సుమంత్రుడు రథాన్ని నడుపుతున్నప్పుడు, అతని పెదవుల మీద ఒక చిరునవ్వు ఆడింది — అంతా ఎంత ప్రశాంతంగా ఉందో చూస్తూ. రథ చక్రాల లయబద్ధమైన చప్పుడు, దూరంగా వినిపించే గుడి గంటల శబ్దం కలిసి, మనసును ఆహ్లాదపరిచాయి. రామచంద్రుని పరిపాలనలో అయోధ్య ఎంత ప్రశాంతంగా ఉంది! అని మనసులో అనుకుంటూ, అతను ఆ రాజవీధిలో రథాన్ని మెల్లగా ముందుకు తీసుకెళ్లాడు. ఆ క్షణంలో — అయోధ్యంతా అతని చేతుల్లో సురక్షితంగా ఉన్నట్లు అనిపించింది. రాజప్రాసాదం దగ్గరకు రథాన్ని ఆపగానే, ఒక దూత ఆత్రంగా అతని కోసం ఎదురుచూస్తున్నాడు.",
+      "image_prompt": "The charioteer drives his chariot slowly through the royal streets. A gentle smile plays on his lips as he observes the peaceful surroundings. Bright morning sunlight illuminates the golden palace gates, casting long, sharp shadows from the archways, creating a sense of royal grandeur.",
+      "scene_visual": "The charioteer drives his chariot slowly through the royal streets. A gentle smile plays on his lips as he observes the peaceful surroundings.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ayodhya Vidhula Gundaa Sumantrudu Rathaanni Naduputunnappudu, Atani Pedavula Mida Oka Chirunavvu Aadindi — Antaa Enta Prashaantangaa Undo Chustu. Ratha Chakraala Layabaddhamaina Chappudu, Durangaa Vinipinche Gudi Gantala Shabdam Kalisi, Manasunu Aahlaadaparichaayi. Raamachandruni Paripaalanalo Ayodhya Enta Prashaantangaa Undi! Ani Manasulo Anukuntu, Atanu Aa Raajavidhilo Rathaanni Mellagaa Munduku Tisukellaadu. Aa Kshananlo — Ayodhyantaa Atani Chetullo Surakshitangaa Unnatlu Anipinchindi. Raajapraasaadam Daggaraku Rathaanni Aapagaane, Oka Duta Aatrangaa Atani Kosam Eduruchustunnaadu.",
+      "text_en": "As Sumantrudu drove the chariot through the streets of Ayodhya, a smile played on his lips — seeing how peaceful everything was. The rhythmic sound of the chariot wheels and the distant temple bells together made his heart happy. \"How peaceful Ayodhya is under Ramachandra's rule!\" he thought to himself, as he slowly guided the chariot along the royal road. In that moment — it felt as if all of Ayodhya was safe in his hands. As soon as he stopped the chariot near the royal palace, a messenger was eagerly waiting for him."
+    },
+    {
+      "id": 2,
+      "text": "దూత మాట విన్న వెంటనే, సుమంత్రుడు రాజసభలోకి వెళ్ళాడు — అక్కడ దశరథ మహారాజు కళ్ళు నీటితో నిండి ఉన్నాయి. దశరథుని గంభీరమైన, దుఃఖపూరితమైన నిట్టూర్పు ఆ నిశ్శబ్ద మందిరంలో ప్రతిధ్వనించింది, అది సుమంత్రుని గుండెను పిండేసింది. సుమంత్రా, నా కుమారులను అరణ్యానికి తీసుకువెళ్ళు… ఇది నా ఆజ్ఞ అని మహారాజు వణుకుతున్న గొంతుతో పలికాడు. రాజు మాట వినగానే — సుమంత్రుని గుండె ఒక్కసారిగా ముక్కలైంది. అతని చేతులు కొద్దిగా వణికాయి కానీ, రాజు వైపు అతని చూపు స్థిరంగా ఉంది. తన విధిని నెరవేర్చడానికి సుమంత్రుడు తలవంచి, రథాన్ని సిద్ధం చేయడానికి బయలుదేరాడు.",
+      "image_prompt": "The charioteer stands before the king, who gives an order with a trembling voice. The king's eyes are filled with tears, and the charioteer's hands tremble slightly. Dim, melancholic light filters through the ornate palace windows, casting long, mournful shadows across the King's tear-streaked face and Sumantra's bowed head.",
+      "scene_visual": "The charioteer stands before the king, who gives an order with a trembling voice. The king's eyes are filled with tears, and the charioteer's hands tremble slightly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Duta Maata Vinna Ventane, Sumantrudu Raajasabhaloki Vellaadu — Akkada Dasharatha Mahaaraaju Kallu Nitito Nindi Unnaayi. Dasharathuni Gambhiramaina, Duhkhapuritamaina Nitturpu Aa Nishshabda Mandiranlo Pratidhvaninchindi, Adi Sumantruni Gundenu Pindesindi. Sumantraa, Naa Kumaarulanu Aranyaaniki Tisukuvellu… Idi Naa Aajnya Ani Mahaaraaju Vanukutunna Gontuto Palikaadu. Raaju Maata Vinagaane — Sumantruni Gunde Okkasaarigaa Mukkalaindi. Atani Chetulu Koddigaa Vanikaayi Kaani, Raaju Vaipu Atani Chupu Sthirangaa Undi. Tana Vidhini Neraverchadaaniki Sumantrudu Talavanchi, Rathaanni Siddham Cheyadaaniki Bayaluderaadu.",
+      "text_en": "As soon as he heard the messenger, Sumantrudu went into the royal court — where King Dasharatha's eyes were filled with tears. Dasharatha's deep, sorrowful sigh echoed in the silent hall, tearing Sumantrudu's heart. \"Sumantra, take my sons to the forest… this is my command,\" the King said with a trembling voice. As soon as he heard the King's words — Sumantrudu's heart broke into pieces. His hands trembled slightly, but his gaze towards the King was steady. To fulfill his duty, Sumantrudu bowed his head and left to prepare the chariot."
+    },
+    {
+      "id": 3,
+      "text": "రథం బయలుదేరగానే, అయోధ్య ప్రజల హాహాకారాలు సుమంత్రుని చెవుల్లో మార్మోగాయి — వారి కన్నీళ్లు అతని గుండెను కలచివేశాయి. ప్రజల కన్నీళ్లు చూడలేకున్నాను, కానీ నా కర్తవ్యం నన్ను ముందుకు నడుపుతోంది అని అతను మనసులో అనుకున్నాడు. రథాన్ని ముందుకు నడుపుతున్న కొద్దీ, అతని కళ్ళల్లో నీళ్ళు నిండుకున్నాయి, అయినా పగ్గాలను గట్టిగా పట్టుకుని, అతను రథాన్ని ఆపలేదు. ప్రజల హాహాకారాలు — అతని గుండెను పిండి వేస్తున్నాయి. నగరం దాటి, తమసా నది ఒడ్డుకు చేరుకునేసరికి, రాముని వైపు చూస్తూ, సుమంత్రుని పెదవుల మీద ఒక బ్రతిమలాట మాట రూపం దాల్చింది.",
+      "image_prompt": "The charioteer drives the chariot forward, his eyes filling with tears as he hears the wails of the people. He grips the reins tightly, his gaze fixed ahead despite his emotional turmoil. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. The harsh midday sun beats down on the dusty road, highlighting the sorrowful faces of the people and the weary figures in the chariot, creating a scene of raw, unyielding sorrow.",
+      "scene_visual": "The charioteer drives the chariot forward, his eyes filling with tears as he hears the wails of the people. He grips the reins tightly, his gaze fixed ahead despite his emotional turmoil.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Ratham Bayaluderagaane, Ayodhya Prajala Haahaakaaraalu Sumantruni Chevullo Maarmogaayi — Vaari Kannillu Atani Gundenu Kalachiveshaayi. Prajala Kannillu Chudalekunnaanu, Kaani Naa Kartavyam Nannu Munduku Naduputondi Ani Atanu Manasulo Anukunnaadu. Rathaanni Munduku Naduputunna Koddi, Atani Kallallo Nillu Nindukunnaayi, Ayinaa Paggaalanu Gattigaa Pattukuni, Atanu Rathaanni Aapaledu. Prajala Haahaakaaraalu — Atani Gundenu Pindi Vestunnaayi. Nagaram Daati, Tamasaa Nadi Odduku Cherukunesariki, Raamuni Vaipu Chustu, Sumantruni Pedavula Mida Oka Bratimalaata Maata Rupam Daalchindi.",
+      "text_en": "As the chariot set off, the cries of the people of Ayodhya echoed in Sumantrudu's ears — their tears stirred his heart. He thought to himself, \"I cannot bear to see the people's tears, but my duty drives me forward.\" As he drove the chariot forward, his eyes filled with tears, yet he held the reins tightly and did not stop the chariot. The people's cries — were tearing his heart apart. As they crossed the city and reached the bank of the Tamasa River, a plea formed on Sumantrudu's lips as he looked at Rama."
+    },
+    {
+      "id": 4,
+      "text": "తమసా నది ఒడ్డున, నీటి చప్పుడు ప్రశాంతంగా ఉన్నా — సుమంత్రుని మనసు మాత్రం అల్లకల్లోలంగా ఉంది. ప్రభూ, దయచేసి తిరిగి రండి! అయోధ్య మిమ్మల్ని కోల్పోయి విలపిస్తోంది! అని అతని గొంతు వణుకుతూ వేడుకుంది. రాముని ముందు మోకరిల్లి, అతను కళ్ళల్లో ఆశతో చూశాడు, తన మాటలు రాముని మనసు మార్చగలవేమో అని. రాముని చూపులో — అచంచలమైన ధర్మ నిష్ఠ కనిపించింది. రాముడు మెల్లగా సుమంత్రుని భుజం మీద చేయి వేశాడు, అతని ముఖంలో ఎటువంటి మార్పూ లేదు, అది సుమంత్రుని ఆశలను అడియాశలు చేసింది. నది దాటడానికి సిద్ధమవుతుండగా, సుమంత్రుని గుండెలో ఒక బరువైన నిట్టూర్పు ఆగింది.",
+      "image_prompt": "The charioteer kneels before the prince, pleading with a trembling voice. He looks up at the prince with hopeful eyes, while the prince's face remains unchanged. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Soft, golden light of late afternoon bathes the riverbank, creating a serene but poignant atmosphere around the emotional conversation.",
+      "scene_visual": "The charioteer kneels before the prince, pleading with a trembling voice. He looks up at the prince with hopeful eyes, while the prince's face remains unchanged.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Tamasaa Nadi Odduna, Niti Chappudu Prashaantangaa Unnaa — Sumantruni Manasu Maatram Allakallolangaa Undi. Prabhu, Dayachesi Tirigi Randi! Ayodhya Mimmalni Kolpoyi Vilapistondi! Ani Atani Gontu Vanukutu Vedukundi. Raamuni Mundu Mokarilli, Atanu Kallallo Aashato Chushaadu, Tana Maatalu Raamuni Manasu Maarchagalavemo Ani. Raamuni Chupulo — Achanchalamaina Dharma Nishtha Kanipinchindi. Raamudu Mellagaa Sumantruni Bhujam Mida Cheyi Veshaadu, Atani Mukhanlo Etuvanti Maarpu Ledu, Adi Sumantruni Aashalanu Adiyaashalu Chesindi. Nadi Daatadaaniki Siddhamavutundagaa, Sumantruni Gundelo Oka Baruvaina Nitturpu Aagindi.",
+      "text_en": "On the bank of the Tamasa River, even though the sound of the water was peaceful — Sumantrudu's mind was turbulent. \"Lord, please return! Ayodhya is weeping, missing you!\" his voice trembled as he pleaded. Kneeling before Rama, he looked with hope in his eyes, wondering if his words could change Rama's mind. In Rama's gaze — an unwavering commitment to righteousness was visible. Rama gently placed a hand on Sumantrudu's shoulder; there was no change in his expression, which turned Sumantrudu's hopes into despair. As they prepared to cross the river, a heavy sigh caught in Sumantrudu's heart."
+    },
+    {
+      "id": 5,
+      "text": "అడవి అంచున, రాముడు, సీత, లక్ష్మణుడు అడుగులు వేస్తూ లోపలికి వెళ్ళిపోయారు — వారి పాదాల కింద ఆకులు గలగలమన్నాయి. మీరు ఊహించగలరా, ఆ క్షణంలో సుమంత్రుని మనసు ఎంత బరువెక్కిందో? నా కళ్ళు ఇంకేమీ చూడలేవు... అని అతను గుసగుసలాడాడు, అతని భుజాలు వాలిపోయాయి. అడవంతా నిశ్శబ్దం — అతని గుండె ఘోషిస్తోంది. చాలాసేపు అక్కడే కదలకుండా నిలబడిపోయాడు, వెనక ఖాళీ రథం. చివరకు, అతను నెమ్మదిగా వెనుతిరిగాడు, అయోధ్యకు ఒంటరి ప్రయాణం మొదలుపెట్టాడు.",
+      "image_prompt": "The charioteer stands motionless at the edge of the forest, his shoulders slumped. He whispers to himself, with an empty chariot visible behind him. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. The last rays of the setting sun pierce through the forest canopy, casting long, melancholic shadows and bathing the scene in a sorrowful, deep orange glow as the figures vanish.",
+      "scene_visual": "The charioteer stands motionless at the edge of the forest, his shoulders slumped. He whispers to himself, with an empty chariot visible behind him.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Adavi Anchuna, Raamudu, Sita, Lakshmanudu Adugulu Vestu Lopaliki Vellipoyaaru — Vaari Paadaala Kinda Aakulu Galagalamannaayi. Miru Uhinchagalaraa, Aa Kshananlo Sumantruni Manasu Enta Baruvekkindo? Naa Kallu Inkemi Chudalevu... Ani Atanu Gusagusalaadaadu, Atani Bhujaalu Vaalipoyaayi. Adavantaa Nishshabdam — Atani Gunde Ghoshistondi. Chaalaasepu Akkade Kadalakundaa Nilabadipoyaadu, Venaka Khaali Rathan. Chivaraku, Atanu Nemmadigaa Venutirigaadu, Ayodhyaku Ontari Prayaanam Modalupettaadu.",
+      "text_en": "At the edge of the forest, Rama, Sita, and Lakshmana walked deeper inside — the leaves rustling under their feet. Can you imagine how heavy Sumantrudu's heart was at that moment? \"My eyes cannot see anything more...\" he whispered, his shoulders slumped. The entire forest was silent — but his heart was wailing. He stood there motionless for a long time, with the empty chariot behind him. Finally, he slowly turned back and began his lonely journey to Ayodhya."
+    },
+    {
+      "id": 6,
+      "text": "దుఃఖంలో మునిగిపోయిన అయోధ్యకు సుమంత్రుడు తిరిగి రాగానే, ఆ రాజ్యమంతా ఒక మౌనమైన రోదనలో ఉంది. రాజదర్బారులో, కౌసల్యాదేవి గుసగుసలాడే ఏడుపు ఆ నిశ్శబ్దాన్ని భగ్నం చేసింది. ప్రభూ... వారు అరణ్యంలోకి ప్రవేశించారు అని సుమంత్రుడు బాధగా, కానీ ధైర్యంగా చెప్పాడు. అతని గొంతు బాధతో బరువెక్కినా, అతని మాటలో స్థిరత్వం ఉంది. ఆ మాటలు — అయోధ్యను చీకట్లో ముంచేశాయి. తన బాధను దిగమింగుకుంటూ, సుమంత్రుడు అక్కడి నుండి నిష్క్రమించాడు, రాజ్యం యొక్క దుఃఖం అతని మీద బరువుగా పడినా, తన కర్తవ్యం మాత్రం చెక్కుచెదరలేదు.",
+      "image_prompt": "The charioteer stands in the royal court, delivering a report with a heavy but steady voice. The queen's whispering cry breaks the silence of the court. The royal court is dimly lit by flickering oil lamps, casting long, somber shadows that reflect the deep mourning of the palace, creating a heavy, oppressive atmosphere.",
+      "scene_visual": "The charioteer stands in the royal court, delivering a report with a heavy but steady voice. The queen's whispering cry breaks the silence of the court.",
+      "supporting_char_keys": [],
+      "text_te_en": "Duhkhanlo Munigipoyina Ayodhyaku Sumantrudu Tirigi Raagaane, Aa Raajyamantaa Oka Maunamaina Rodanalo Undi. Raajadarbaarulo, Kausalyaadevi Gusagusalaade Edupu Aa Nishshabdaanni Bhagnam Chesindi. Prabhu... Vaaru Aranyanloki Praveshinchaaru Ani Sumantrudu Baadhagaa, Kaani Dhairyangaa Cheppaadu. Atani Gontu Baadhato Baruvekkinaa, Atani Maatalo Sthiratvam Undi. Aa Maatalu — Ayodhyanu Chikatlo Muncheshaayi. Tana Baadhanu Digamingukuntu, Sumantrudu Akkadi Nundi Nishkraminchaadu, Raajyam Yokka Duhkham Atani Mida Baruvugaa Padinaa, Tana Kartavyam Maatram Chekkuchedaraledu.",
+      "text_en": "When Sumantrudu returned to a grief-stricken Ayodhya, the entire kingdom was in silent lament. In the royal court, Queen Kausalya's whispered cries broke the silence. \"Lord... they have entered the forest,\" Sumantrudu said sadly but bravely. Though his voice was heavy with pain, there was firmness in his words. Those words — plunged Ayodhya into darkness. Swallowing his sorrow, Sumantrudu left the court; even though the kingdom's grief weighed heavily on him, his duty remained unshaken."
+    },
+    {
+      "id": 7,
+      "text": "ఆ తర్వాత కూడా, సుమంత్రుడు అయోధ్యలో తన విధులను నిర్వర్తిస్తూనే ఉన్నాడు — ఖాళీ సింహాసనాన్ని అదే అచంచలమైన భక్తితో సేవించాడు. అతని కళ్ళల్లో ఒక నిశ్శబ్దమైన శక్తి వెలిగింది, తన సేవ ఎంత అర్ధవంతమైనదో అతనికి తెలుసు. రామచంద్రుని ఆగమనం కోసం ఎదురుచూడటం నా జీవిత ధర్మం అని అతను నిశ్చయించుకున్నాడు. కొత్తగా ఉతికిన రాజవస్త్రాల స్వచ్ఛమైన సువాసన అతని మనసును ప్రశాంతపరిచింది, అతను వాటిని జాగ్రత్తగా సర్దుతూ, తన విధిని కొనసాగించాడు. అతని గుండెలో — ఒక నిశ్శబ్ద దీపం వెలుగుతోంది, అది రాముని పట్ల అతని అచంచలమైన భక్తికి నిదర్శనం.",
+      "image_prompt": "The charioteer carefully arranges newly washed royal garments. A silent strength shines in his eyes as he performs his duty. Gentle dawn light streams through the palace windows, illuminating dust motes dancing in the air, a soft glow promising hope and continuity amidst the quiet sorrow.",
+      "scene_visual": "The charioteer carefully arranges newly washed royal garments. A silent strength shines in his eyes as he performs his duty.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Tarvaata Kudaa, Sumantrudu Ayodhyalo Tana Vidhulanu Nirvartistune Unnaadu — Khaali Sinhaasanaanni Ade Achanchalamaina Bhaktito Sevinchaadu. Atani Kallallo Oka Nishshabdamaina Shakti Veligindi, Tana Seva Enta Ardhavantamainado Ataniki Telusu. Raamachandruni Aagamanam Kosam Eduruchudatam Naa Jivita Dharmam Ani Atanu Nishchayinchukunnaadu. Kottagaa Utikina Raajavastraala Svachchamaina Suvaasana Atani Manasunu Prashaantaparichindi, Atanu Vaatini Jaagrattagaa Sardutu, Tana Vidhini Konasaaginchaadu. Atani Gundelo — Oka Nishshabda Dipam Velugutondi, Adi Raamuni Patla Atani Achanchalamaina Bhaktiki Nidarshanan.",
+      "text_en": "Even after that, Sumantrudu continued to perform his duties in Ayodhya — he served the empty throne with the same unwavering devotion. A quiet strength shone in his eyes; he knew how meaningful his service was. He decided, \"Waiting for Ramachandra's return is my life's purpose.\" The fresh scent of newly washed royal clothes calmed his mind as he carefully arranged them, continuing his duty. In his heart — a silent lamp was burning, a testament to his unwavering devotion to Rama."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "Sita",
+      "description": "Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 5.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 4,
+    "average": 5.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a clear narrative arc with correct grammar, effectively conveying the moral of duty. However, its formal, descriptive style lacks the warmth and directness of an oral bedtime story. To reach a 9+, the most crucial fix is to completely transform the narrative voice into an engaging, conversational tone, incorporating more direct dialogue and showing emotions through character actions and reactions rather than stating them explicitly, thereby captivating a young audience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Sumantruni Nammakan, Kartavyam",
+  "moral_te_en": "Manasu Nindaa Baadha Unnaa, Mana Kartavyaanni Nisvaarthangaa Neraverchadame Nijamaina Bhakti Ante.",
+  "title_en": "Sumantrudu's Faith and Duty",
+  "moral_en": "Even with a heart full of sorrow, selflessly fulfilling our duty is what true devotion means.",
+  "id": "20260607_093650",
+  "date": "2026-06-07",
+  "category": "ramayana",
+  "subcategory": "dharma_tales",
+  "topic": "సుమంత్రుని భక్తి - నిస్వార్థ సేవకుని హృదయ వేదన, నిబద్ధత",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_093650/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
