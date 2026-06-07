@@ -1,0 +1,122 @@
+{
+  "title": "ప్రశ్నల నిధి, జ్ఞానపు దారి",
+  "moral": "నిజమైన జ్ఞానం అంటే సమాధానాలు తెలుసుకోవడం కాదు, ధైర్యంగా ప్రశ్నలు అడగడం, వాటిని కలిసి అన్వేషించడమేనని తాతయ్య చెప్పాడు.",
+  "main_character": "An elderly, lean Telugu man named Ragupathi Thatha, with kind, crinkled eyes and a long, neatly combed white beard. He wears a simple white dhoti and an equally simple white shirt, always carrying a small, intricately carved wooden pot. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant village in rural Andhra Pradesh, centered around a massive, ancient banyan tree with aerial roots reaching the ground like pillars. The sun is setting, casting long, golden shadows across the dusty path and small, colourful houses. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రఘుపతి తాతయ్య, తన ముసలి చేతులతో, అందంగా చెక్కబడిన చెక్క కుండను మెల్లగా కిందకి దించాడు. మర్రిచెట్టు కింద, తన అలవాటు ప్రకారం, ఆ కుండను జాగ్రత్తగా ఉంచాడు. సాయంకాలపు గాలిలో మల్లెపూల సువాసన — అతన్ని చుట్టుముట్టింది. తన ధోతీని సరిచేసుకుంటూ, అతని పెదవులపై ఒక చిరునవ్వు మెరిసింది. \"రోజు కథల సమయం వచ్చిందా?\" అని తాతయ్య తనలో తనే అనుకున్నాడు. ఆ తర్వాత, పిల్లలు కూర్చునే ఖాళీ స్థలం వైపు చూస్తూ, తన చేతిని ఆ చిన్న కుండపై ఆపాడు.",
+      "image_prompt": "The old man gently places a beautifully carved wooden pot under a banyan tree and then rests his hand on it. A subtle smile plays on his lips as he looks towards the empty space where children usually sit. Soft, golden hour light filters through the banyan leaves, dappling the ground in warm amber and soft shadows, creating a serene and inviting atmosphere.",
+      "scene_visual": "The old man gently places a beautifully carved wooden pot under a banyan tree and then rests his hand on it. A subtle smile plays on his lips as he looks towards the empty space where children usually sit.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raghupati Taatayya, Tana Musali Chetulato, Andangaa Chekkabadina Chekka Kundanu Mellagaa Kindaki Dinchaadu. Marrichettu Kinda, Tana Alavaatu Prakaaran, Aa Kundanu Jaagrattagaa Unchaadu. Saayankaalapu Gaalilo Mallepula Suvaasana — Atanni Chuttumuttindi. Tana Dhotini Sarichesukuntu, Atani Pedavulapai Oka Chirunavvu Merisindi. \"Roju Kathala Samayam Vachchindaa?\" Ani Taatayya Tanalo Tane Anukunnaadu. Aa Tarvaata, Pillalu Kurchune Khaali Sthalam Vaipu Chustu, Tana Chetini Aa Chinna Kundapai Aapaadu.",
+      "text_en": "Raghupathi Thathayya, with his old hands, gently lowered a beautifully carved wooden pot. Under the banyan tree, as was his custom, he carefully placed the pot. The scent of jasmine in the evening air surrounded him. Adjusting his dhoti, a smile twinkled on his lips. \"Is it story time already?\" Thathayya thought to himself. Then, looking towards the empty space where the children would sit, he rested his hand on the small pot."
+    },
+    {
+      "id": 2,
+      "text": "తాతయ్య చేయి ఆ కుండపై ఉండగానే, పిల్లల గుంపు — అతని చుట్టూ చేరింది. వాళ్ళ అల్లరి మాటలు క్రమంగా తగ్గిపోయాయి, ఎందుకంటే వాళ్ళ కళ్ళు ఆ కుండపై పడ్డాయి. మర్రిచెట్టు కొమ్మల్లో గాలి సవ్వడి తప్ప, అక్కడ నిశ్శబ్దం అలుముకుంది. \"తాతా, ఈరోజు కుండ ఖాళీగా ఉందేమిటి?\" అని చిన్నారి రాజు ఆశ్చర్యంగా అడిగాడు. తాతయ్య ఒక చిన్న నిట్టూర్పు విడిచాడు — అతని కళ్ళల్లో మామూలుగా ఉండే మెరుపు లేదు. ఖాళీ కుండను చూస్తూ, నెమ్మదిగా తల పైకెత్తి, పిల్లల ప్రశ్నార్థకమైన చూపులను కలిశాడు.",
+      "image_prompt": "The old man sighs softly, his hand still resting on the empty pot, as a child asks why it's empty. He slowly lifts his head, meeting the children's questioning gazes, with no usual sparkle in his eyes. The golden light has deepened to a richer orange, but a growing shadow begins to creep across the ground, hinting at the unsettling discovery.",
+      "scene_visual": "The old man sighs softly, his hand still resting on the empty pot, as a child asks why it's empty. He slowly lifts his head, meeting the children's questioning gazes, with no usual sparkle in his eyes.",
+      "supporting_char_keys": [
+        "village_children"
+      ],
+      "text_te_en": "Taatayya Cheyi Aa Kundapai Undagaane, Pillala Gumpu — Atani Chuttu Cherindi. Vaalla Allari Maatalu Kramangaa Taggipoyaayi, Endukante Vaalla Kallu Aa Kundapai Paddaayi. Marrichettu Kommallo Gaali Savvadi Tappa, Akkada Nishshabdam Alumukundi. \"Taataa, Iroju Kunda Khaaligaa Undemiti?\" Ani Chinnaari Raaju Aashcharyangaa Adigaadu. Taatayya Oka Chinna Nitturpu Vidichaadu — Atani Kallallo Maamulugaa Unde Merupu Ledu. Khaali Kundanu Chustu, Nemmadigaa Tala Paiketti, Pillala Prashnaarthakamaina Chupulanu Kalishaadu.",
+      "text_en": "As Thathayya's hand rested on the pot, a group of children gathered around him. Their playful chatter slowly faded, as their eyes fell upon the pot. A silence fell, broken only by the rustling of leaves in the banyan tree branches. \"Thatha, why is the pot empty today?\" little Raju asked, surprised. Thathayya let out a small sigh – the usual sparkle was missing from his eyes. Looking at the empty pot, he slowly raised his head and met the children's questioning gazes."
+    },
+    {
+      "id": 3,
+      "text": "తాతయ్య కళ్ళు నేల చూపులు చూశాయి, అతని గొంతులో ఒక చిన్న వణుకు కనిపించింది. \"ఈరోజు నా కుండలో ఒక్క కథ కూడా లేదు పిల్లలారా,\" అని మెల్లగా చెప్పాడు. పిల్లల ముఖాలు ఒక్కసారిగా వాడిపోయాయి, వారి భుజాలు పడిపోయాయి. దూరంగా గుడి గంటల మ్రోతలు — ఆ నిరాశను మరింత పెంచినట్లు అనిపించాయి. అంతలో, మామూలుగా సిగ్గుపడే కీర్తి, చిన్నారి ముఖంలో ఆందోళనతో, ముందుకు అడుగు వేసింది. ఆమె తాతయ్యను ధైర్యంగా ఒక సూటి ప్రశ్న అడిగింది.",
+      "image_prompt": "The children's faces fall and their shoulders slump as the old man softly tells them his pot is empty of stories. A usually shy girl, with a worried expression, bravely steps forward to ask the old man a direct question. The warm light is fading, replaced by the soft, diffused grey of early dusk, casting a slightly melancholic tone over the gathering.",
+      "scene_visual": "The children's faces fall and their shoulders slump as the old man softly tells them his pot is empty of stories. A usually shy girl, with a worried expression, bravely steps forward to ask the old man a direct question.",
+      "supporting_char_keys": [
+        "keerthi",
+        "village_children"
+      ],
+      "text_te_en": "Taatayya Kallu Nela Chupulu Chushaayi, Atani Gontulo Oka Chinna Vanuku Kanipinchindi. \"Iroju Naa Kundalo Okka Katha Kudaa Ledu Pillalaaraa,\" Ani Mellagaa Cheppaadu. Pillala Mukhaalu Okkasaarigaa Vaadipoyaayi, Vaari Bhujaalu Padipoyaayi. Durangaa Gudi Gantala Mrotalu — Aa Niraashanu Marinta Penchinatlu Anipinchaayi. Antalo, Maamulugaa Siggupade Kirti, Chinnaari Mukhanlo Aandolanato, Munduku Adugu Vesindi. Aame Taatayyanu Dhairyangaa Oka Suti Prashna Adigindi.",
+      "text_en": "Thathayya's eyes looked down, and a slight tremor was in his voice. \"Today, my pot has no stories, children,\" he said softly. The children's faces instantly drooped, their shoulders slumped. The distant ringing of temple bells seemed to deepen their disappointment. Just then, Keerthi, usually shy, stepped forward with a worried look on her small face. She bravely asked Thathayya a direct question."
+    },
+    {
+      "id": 4,
+      "text": "కీర్తి ధైర్యం చూసి తాతయ్య ఒక్క క్షణం ఆగిపోయాడు — అతని కళ్ళల్లో ఆశ్చర్యం మెరిసింది. \"తాతా, మేము మా ప్రశ్నలతో మీ కుండను నింపగలమా?\" అని కీర్తి అడిగింది. ఆమె మాటలు తాతయ్య మనసులో ఒక కొత్త ఆలోచనను రేకెత్తించాయి, అతని కళ్ళు మెల్లగా వెలిగాయి. అతను తన చేతి వేలితో ఆ చెక్క కుండను నిమిరాడు — దాని నునుపు అతనికి కొత్త స్ఫూర్తినిచ్చింది. నెమ్మదిగా ఖాళీ కుండను పైకి తీసుకున్నాడు, అతని ముఖంలో ఏదో లోతైన ఆలోచన కనిపించింది. ఆ తర్వాత, పిల్లల వైపు చూస్తూ, అతని చూపుల్లో ఒక కొత్త సవాలు మెరిసింది.",
+      "image_prompt": "The old man pauses, his eyes lighting up with surprise and a new idea after hearing the girl's question. He gently strokes the smooth wooden pot with his finger, a look of deep thought appearing on his face. The last rays of the sun have disappeared, and the scene is now illuminated by the soft, ambient glow of the twilight sky, painting everything in shades of deep blue and purple.",
+      "scene_visual": "The old man pauses, his eyes lighting up with surprise and a new idea after hearing the girl's question. He gently strokes the smooth wooden pot with his finger, a look of deep thought appearing on his face.",
+      "supporting_char_keys": [
+        "keerthi",
+        "village_children"
+      ],
+      "text_te_en": "Kirti Dhairyam Chusi Taatayya Okka Kshanam Aagipoyaadu — Atani Kallallo Aashcharyam Merisindi. \"Taataa, Memu Maa Prashnalato Mi Kundanu Nimpagalamaa?\" Ani Kirti Adigindi. Aame Maatalu Taatayya Manasulo Oka Kotta Aalochananu Rekettinchaayi, Atani Kallu Mellagaa Veligaayi. Atanu Tana Cheti Velito Aa Chekka Kundanu Nimiraadu — Daani Nunupu Ataniki Kotta Sphurtinichchindi. Nemmadigaa Khaali Kundanu Paiki Tisukunnaadu, Atani Mukhanlo Edo Lotaina Aalochana Kanipinchindi. Aa Tarvaata, Pillala Vaipu Chustu, Atani Chupullo Oka Kotta Savaalu Merisindi.",
+      "text_en": "Thathayya paused for a moment, surprised by Keerthi's courage – wonder sparkled in his eyes. \"Thatha, can we fill your pot with our questions?\" Keerthi asked. Her words sparked a new idea in Thathayya's mind, and his eyes slowly lit up. He ran his finger over the wooden pot – its smoothness gave him new inspiration. Slowly, he picked up the empty pot, a deep thought visible on his face. Then, looking at the children, a new challenge twinkled in his gaze."
+    },
+    {
+      "id": 5,
+      "text": "తాతయ్య చూపుల్లోని సవాలును అర్థం చేసుకుని, పిల్లలు ఒకరి తర్వాత ఒకరు ప్రశ్నలు అడగడం మొదలుపెట్టారు. నక్షత్రాల గురించి, చీమల గురించి, వర్షం ఎందుకు పడుతుందో — ఎన్నో ప్రశ్నలు. తాతయ్య వాళ్ళ మాటలను చాలా శ్రద్ధగా విన్నాడు, అతని మనసులో వాటిని ఒకదానికొకటి కలుపుతూ. దూరం నుండి వినిపిస్తున్న కీచురాళ్ళ శబ్దం, అతని ఆలోచనలకు మరింత లోతును పెంచింది. \"అద్భుతమైన ప్రశ్న! ఇంకేమైనా ఉన్నాయా?\" అని తాతయ్య ప్రోత్సహించాడు. ఒక్క క్షణం కళ్ళు మూసుకున్నాడు — ఒక కొత్త కథ అతని ముందు రూపుదిద్దుకుంటున్నట్లు అనిపించింది.",
+      "image_prompt": "The old man listens intently as children eagerly ask him a barrage of questions about various topics. He closes his eyes for a moment, appearing to weave their questions into a new story in his mind. The first few stars begin to twinkle in the deep indigo sky, casting a serene, almost magical light over the quiet, thoughtful gathering.",
+      "scene_visual": "The old man listens intently as children eagerly ask him a barrage of questions about various topics. He closes his eyes for a moment, appearing to weave their questions into a new story in his mind.",
+      "supporting_char_keys": [
+        "village_children"
+      ],
+      "text_te_en": "Taatayya Chupulloni Savaalunu Artham Chesukuni, Pillalu Okari Tarvaata Okaru Prashnalu Adagadam Modalupettaaru. Nakshatraala Gurinchi, Chimala Gurinchi, Varsham Enduku Padutundo — Enno Prashnalu. Taatayya Vaalla Maatalanu Chaalaa Shraddhagaa Vinnaadu, Atani Manasulo Vaatini Okadaanikokati Kaluputu. Duram Nundi Vinipistunna Kichuraalla Shabdan, Atani Aalochanalaku Marinta Lotunu Penchindi. \"Adbhutamaina Prashna! Inkemainaa Unnaayaa?\" Ani Taatayya Protsahinchaadu. Okka Kshanam Kallu Musukunnaadu — Oka Kotta Katha Atani Mundu Rupudiddukuntunnatlu Anipinchindi.",
+      "text_en": "Understanding the challenge in Thathayya's eyes, the children began to ask questions one after another. About stars, about ants, why it rains – so many questions. Thathayya listened to their words very carefully, connecting them in his mind. The distant chirping of crickets added more depth to his thoughts. \"Wonderful questions! Are there any more?\" Thathayya encouraged. He closed his eyes for a moment – it felt like a new story was forming before him."
+    },
+    {
+      "id": 6,
+      "text": "తాతయ్య కళ్ళల్లో జ్ఞానం మెరిసింది, ఆనందంతో అతని ముఖం వెలిగిపోయింది. పిల్లల ప్రశ్నలన్నింటినీ కలిపి, అతను ఒక అందమైన కథను అల్లడం ప్రారంభించాడు. అది కేవలం సమాధానాలు చెప్పడం కాదు, అన్వేషణ, కలిసి నేర్చుకోవడం గురించి. సాయంకాలపు మంచు కురిసే కొద్దీ — మట్టి వాసన మరింత స్పష్టంగా వచ్చింది. \"ప్రశ్నలే జ్ఞానానికి మొదటి మెట్టు, పిల్లలారా,\" అని తాతయ్య ప్రేమగా చెప్పాడు. కథ ముగియగానే, అతను ఆ కుండను మెల్లగా తట్టాడు, పిల్లల ముఖాల్లో ఒక కొత్త అవగాహన, వెలుగు కనిపించాయి.",
+      "image_prompt": "The old man's face glows with joy and wisdom as he finishes weaving a beautiful story from the children's questions. He gently taps the wooden pot, and a new understanding and light appear on the children's faces. The moon, a sliver of silver, has risen, casting a soft, ethereal glow through the banyan leaves, highlighting the storyteller's face and the rapt attention of the children.",
+      "scene_visual": "The old man's face glows with joy and wisdom as he finishes weaving a beautiful story from the children's questions. He gently taps the wooden pot, and a new understanding and light appear on the children's faces.",
+      "supporting_char_keys": [
+        "keerthi",
+        "village_children"
+      ],
+      "text_te_en": "Taatayya Kallallo Jnyaanam Merisindi, Aanandanto Atani Mukham Veligipoyindi. Pillala Prashnalannintini Kalipi, Atanu Oka Andamaina Kathanu Alladam Praarambhinchaadu. Adi Kevalam Samaadhaanaalu Cheppadam Kaadu, Anveshana, Kalisi Nerchukovadam Gurinchi. Saayankaalapu Manchu Kurise Koddi — Matti Vaasana Marinta Spashtangaa Vachchindi. \"Prashnale Jnyaanaaniki Modati Mettu, Pillalaaraa,\" Ani Taatayya Premagaa Cheppaadu. Katha Mugiyagaane, Atanu Aa Kundanu Mellagaa Tattaadu, Pillala Mukhaallo Oka Kotta Avagaahana, Velugu Kanipinchaayi.",
+      "text_en": "Wisdom sparkled in Thathayya's eyes, and his face glowed with joy. Combining all the children's questions, he began to weave a beautiful story. It wasn't just about giving answers, but about exploration and learning together. As the evening dew fell, the smell of earth became clearer. \"Questions are the first step to knowledge, children,\" Thathayya said lovingly. When the story ended, he gently tapped the pot, and a new understanding and light appeared on the children's faces."
+    },
+    {
+      "id": 7,
+      "text": "తాతయ్య మాటలు పిల్లల మనసుల్లో కొత్త ఆలోచనలను నింపాయి, వారి ముఖాలపై చిరునవ్వులు విరిశాయి. వాళ్ళు సంతోషంగా తాతయ్యకు ధన్యవాదాలు చెప్పారు, వారి పాదాల మెత్తటి చప్పుడుతో ఇంటికి బయలుదేరారు. జ్ఞానం అంటే కేవలం విని నేర్చుకోవడం కాదని, తమ సొంత కుతూహలంతో, కలిసి అన్వేషించడం ద్వారా వస్తుందని వాళ్ళు అర్థం చేసుకున్నారు. తాతయ్య వారిని ఆప్యాయంగా చూస్తూ నిలబడ్డాడు — అతని మనసు నిండుగా, ప్రశాంతంగా ఉంది. \"మళ్ళీ రేపు కలుద్దాం, కొత్త ప్రశ్నలతో!\" అని తాతయ్య ప్రేమగా కేకేశాడు. ఆ రాత్రి, ఖాళీ కుండ ఇప్పుడు అంతులేని జ్ఞానంతో నిండినట్లు అనిపించింది.",
+      "image_prompt": "The old man stands watching the children happily depart, their faces adorned with smiles. He calls out to them affectionately, his mind full and peaceful, as the evening air settles around him. The village is now bathed in cool moonlight, with distant lamps casting warm, inviting glows from homes, creating a peaceful and reflective closing scene.",
+      "scene_visual": "The old man stands watching the children happily depart, their faces adorned with smiles. He calls out to them affectionately, his mind full and peaceful, as the evening air settles around him.",
+      "supporting_char_keys": [
+        "village_children"
+      ],
+      "text_te_en": "Taatayya Maatalu Pillala Manasullo Kotta Aalochanalanu Nimpaayi, Vaari Mukhaalapai Chirunavvulu Virishaayi. Vaallu Santoshangaa Taatayyaku Dhanyavaadaalu Cheppaaru, Vaari Paadaala Mettati Chappuduto Intiki Bayaluderaaru. Jnyaanam Ante Kevalam Vini Nerchukovadam Kaadani, Tama Sonta Kutuhalanto, Kalisi Anveshinchadam Dvaaraa Vastundani Vaallu Artham Chesukunnaaru. Taatayya Vaarini Aapyaayangaa Chustu Nilabaddaadu — Atani Manasu Nindugaa, Prashaantangaa Undi. \"Malli Repu Kaluddaan, Kotta Prashnalato!\" Ani Taatayya Premagaa Kekeshaadu. Aa Raatri, Khaali Kunda Ippudu Antuleni Jnyaananto Nindinatlu Anipinchindi.",
+      "text_en": "Thathayya's words filled the children's minds with new thoughts, and smiles bloomed on their faces. They happily thanked Thathayya and set off for home with the soft patter of their feet. They understood that knowledge wasn't just about listening and learning, but about their own curiosity and exploring together. Thathayya stood watching them fondly – his heart full and peaceful. \"See you tomorrow, with new questions!\" Thathayya called out lovingly. That night, the empty pot now seemed filled with endless wisdom."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "keerthi",
+      "description": "A bright-eyed Telugu girl, about 8 years old, with two neat braids tied with jasmine flowers and a colourful Pattu pavadai. She is curious and often the first to speak her mind. Always the same character across every scene."
+    },
+    {
+      "key": "village_children",
+      "description": "A group of 5-12 year old Telugu children, varying in size and attire, all eager and attentive, gathered around Ragupathi Thatha for stories. They represent the collective curiosity of the village youth. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 10,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This is an exceptionally well-crafted story for children, demonstrating a deep understanding of narrative structure and emotional resonance. The strength lies in its ability to show emotions and the natural, colloquial Telugu. To reach a perfect 10, consider adding a brief, warm opening line of dialogue from the grandfather in the first scene to immediately establish the oral storytelling voice, and perhaps one more direct address to the listening child to enhance engagement further."
+  },
+  "title_te_en": "Prashnala Nidhi, Jnyaanapu Daari",
+  "moral_te_en": "Nijamaina Jnyaanam Ante Samaadhaanaalu Telusukovadam Kaadu, Dhairyangaa Prashnalu Adagadan, Vaatini Kalisi Anveshinchadamenani Taatayya Cheppaadu.",
+  "title_en": "A Treasure of Questions, A Path to Wisdom",
+  "moral_en": "Thathayya said that true wisdom isn't just about knowing the answers, but about bravely asking questions and exploring them together.",
+  "id": "20260607_190807",
+  "date": "2026-06-07",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "కథకుడి ఖాళీ కుండ మరియు పిల్లల ప్రశ్నలు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_190807/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
