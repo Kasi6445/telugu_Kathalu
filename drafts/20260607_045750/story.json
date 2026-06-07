@@ -1,0 +1,108 @@
+{
+  "title": "బంధువుల మాట, బాంధవ్యాల బాట",
+  "moral": "కష్టకాలంలో తోడు నిలిచేవారే మన నిజమైన బంధువులు, వారిని మనం ఎప్పటికీ మర్చిపోకూడదు.",
+  "main_character": "Ramaiah. A young farmer, lean and energetic, with a perpetually optimistic smile. He wears a simple white dhoti and a clean, light blue shirt. He trusts people easily. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The village of Mangalagiri in coastal Andhra Pradesh, vibrant with green paddy fields and red-tiled roofs. A central banyan tree shades the village square, and the air carries the scent of jasmine. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మంగళగిరి పల్లెటూర్లో, రామయ్య తన పొలాల వైపు చూడగానే అతని గుండె ఆనందంతో ఉప్పొంగింది. పచ్చని వరికంకులు గాలికి మెల్లగా ఊగుతూ, తల పండిన పంటను చూసి పులకించిపోయాడు. అతని ఛాతీ గర్వంతో ఉబ్బింది — అతని కృషికి ఫలితం కళ్ళముందే కనిపించింది. అటుగా వెళ్తున్న గ్రామస్తులు అతని భుజం తట్టి, \"మీ పంట చూడముచ్చటగా ఉంది, మా బంధువు!\" అంటూ పొగిడారు. రామయ్య తన ముఖంపై చిరునవ్వుతో, అందరి వైపు చూస్తూ, తన గొప్ప అదృష్టానికి కృతజ్ఞతగా తల ఊపాడు.",
+      "image_prompt": "The man stands proudly, his chest puffed out, as he looks at his lush green fields. A wide smile spreads across his face as he nods his head in gratitude towards the villagers. Bright, warm morning sun, casting long shadows across the vibrant green fields, full of hopeful energy.",
+      "scene_visual": "The man stands proudly, his chest puffed out, as he looks at his lush green fields. A wide smile spreads across his face as he nods his head in gratitude towards the villagers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mangalagiri Palleturlo, Raamayya Tana Polaala Vaipu Chudagaane Atani Gunde Aanandanto Uppongindi. Pachchani Varikankulu Gaaliki Mellagaa Ugutu, Tala Pandina Pantanu Chusi Pulakinchipoyaadu. Atani Chaati Garvanto Ubbindi — Atani Krrishiki Phalitam Kallamunde Kanipinchindi. Atugaa Veltunna Graamastulu Atani Bhujam Tatti, \"Mi Panta Chudamuchchatagaa Undi, Maa Bandhuvu!\" Antu Pogidaaru. Raamayya Tana Mukhampai Chirunavvuto, Andari Vaipu Chustu, Tana Goppa Adrrishtaaniki Krritajnyatagaa Tala Upaadu.",
+      "text_en": "In the village of Mangalagiri, Ramayya's heart filled with joy as he looked at his fields. The green rice stalks swayed gently in the breeze, and he felt so happy seeing the ripe harvest. His chest swelled with pride — the result of all his hard work was right there before his eyes. Villagers walking by patted his shoulder and praised him, saying, \"Your crop looks so lovely, our dear relative!\" Ramayya smiled, looked at everyone, and nodded his head, feeling thankful for his good luck."
+    },
+    {
+      "id": 2,
+      "text": "పంటను చూసి మురిసిపోయిన రామయ్య, ఇంటికి రాగానే అమ్మ వండిన అన్నం, పప్పు వాసన ఆకలిని పెంచింది. తన చేతులు గాలిలో ఊపుతూ, పంట కోత పండుగ ప్రణాళికలు చెప్పాడు. \"పంట కోతకు అందరూ వస్తారు, మన బంధువులందరూ నాకు తోడుంటారు!\" అని గట్టిగా చెప్పాడు. అతని మాటల్లో ఉత్సాహం ఉప్పొంగింది, ఆశల రెక్కలు కట్టుకుని ఎగిరింది. అతని అమ్మ మాత్రం, తన పెదాలు గట్టిగా అదిమి, అతని వైపు తేరిపార చూసింది — ఆమె కళ్ళలో ఏదో తెలియని ఆలోచన మెరిసింది.",
+      "image_prompt": "The man enthusiastically waves his hands in the air, describing his harvest festival plans. His mother watches him intently, her lips pressed tightly together, a thoughtful glint in her eyes. Golden hour light streaming into a cozy, simple village home, highlighting dust motes dancing in the air, creating a feeling of domestic warmth.",
+      "scene_visual": "The man enthusiastically waves his hands in the air, describing his harvest festival plans. His mother watches him intently, her lips pressed tightly together, a thoughtful glint in her eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pantanu Chusi Murisipoyina Raamayya, Intiki Raagaane Amma Vandina Annan, Pappu Vaasana Aakalini Penchindi. Tana Chetulu Gaalilo Uputu, Panta Kota Panduga Pranaalikalu Cheppaadu. \"Panta Kotaku Andaru Vastaaru, Mana Bandhuvulandaru Naaku Toduntaaru!\" Ani Gattigaa Cheppaadu. Atani Maatallo Utsaaham Uppongindi, Aashala Rekkalu Kattukuni Egirindi. Atani Amma Maatran, Tana Pedaalu Gattigaa Adimi, Atani Vaipu Teripaara Chusindi — Aame Kallalo Edo Teliyani Aalochana Merisindi.",
+      "text_en": "Ramayya, so happy about his crop, came home. The smell of rice and dal cooked by his mother made him even hungrier. Waving his hands in the air, he excitedly shared his plans for the harvest festival. \"Everyone will come for the harvest! All our relatives will be here to help me!\" he said loudly. His words were full of excitement, and his hopes flew high like a bird. But his mother, pressing her lips together, looked at him carefully — a strange thought twinkled in her eyes."
+    },
+    {
+      "id": 3,
+      "text": "కోతకు కొద్ది రోజుల ముందు, ఆకాశం ఒక్కసారిగా నల్లబడింది. భయంకరమైన ఉరుము శబ్దం — భూమిని కంపింపజేసింది. రామయ్య పొలం వైపు పరుగులు తీశాడు, అతని గుండె దడదడలాడింది. భారీ వర్షపు చినుకులు అతని ముఖాన్ని కొట్టాయి, నేల క్షణాల్లో బురదమయంగా మారింది. \"అయ్యో! నా పంట అంతా పోయేలా ఉంది! ఇప్పుడు ఏం చేయాలి?\" అని అతను అరిచాడు. వరికంకులు అల్లకల్లోలంగా గాలికి వంగిపోతుంటే, రామయ్య చేతులు తల పట్టుకుని, నిస్సహాయంగా నిలబడిపోయాడు.",
+      "image_prompt": "The man stands helplessly in his field, holding his head in his hands as heavy rain lashes down. The green paddy stalks are violently bent over by the wind and rain, sinking into the rapidly muddying ground. Dark, stormy afternoon, heavy grey clouds, flashes of lightning illuminating the rain-soaked, wind-swept fields, creating a sense of impending disaster.",
+      "scene_visual": "The man stands helplessly in his field, holding his head in his hands as heavy rain lashes down. The green paddy stalks are violently bent over by the wind and rain, sinking into the rapidly muddying ground.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kotaku Koddi Rojula Mundu, Aakaasham Okkasaarigaa Nallabadindi. Bhayankaramaina Urumu Shabdam — Bhumini Kampimpajesindi. Raamayya Polam Vaipu Parugulu Tishaadu, Atani Gunde Dadadadalaadindi. Bhaari Varshapu Chinukulu Atani Mukhaanni Kottaayi, Nela Kshanaallo Buradamayangaa Maarindi. \"Ayyo! Naa Panta Antaa Poyelaa Undi! Ippudu Em Cheyaali?\" Ani Atanu Arichaadu. Varikankulu Allakallolangaa Gaaliki Vangipotunte, Raamayya Chetulu Tala Pattukuni, Nissahaayangaa Nilabadipoyaadu.",
+      "text_en": "Just a few days before the harvest, the sky suddenly turned dark. A scary thunderclap shook the ground. Ramayya ran towards his field, his heart beating fast. Big raindrops hit his face, and the ground quickly turned to mud. \"Oh no! My whole crop is going to be ruined! What can I do now?\" he cried. As the rice stalks bent wildly in the wind, Ramayya held his head in his hands, feeling completely helpless."
+    },
+    {
+      "id": 4,
+      "text": "వర్షం కొంచెం తగ్గాక, రామయ్య తన సంపన్న మామ ఇంటికి పరుగుపెట్టాడు. బురదలో అతని కాళ్ళు జారిపోతున్నా, ఆశ అతన్ని ముందుకు నడిపింది. తలుపు కొట్టగానే, మామ బయటికొచ్చాడు — అతని ముఖంలో అలసట స్పష్టంగా కనిపించింది. \"అబ్బాయి, నాకు ఒంట్లో బాలేదు, ఇప్పుడు పొలం పనికి రాలేను,\" అని మామ నెమ్మదిగా అన్నాడు. రామయ్య ఆ మాట వినగానే, అతని భుజాలు ఒక్కసారిగా కిందకి జారిపోయాయి. తలుపు క్లిక్ మని మూసుకుపోయింది — అతని ఆశలు కూడా దానితో పాటే ఆవిరైపోయాయి.",
+      "image_prompt": "The man's shoulders slump dramatically as he stands before the closed door of his uncle's house. His feet are covered in mud from his desperate run, contrasting with the solid, unyielding door. Overcast and gloomy, the village houses appear dull and unwelcoming, reflecting Ramaiah's sinking spirits.",
+      "scene_visual": "The man's shoulders slump dramatically as he stands before the closed door of his uncle's house. His feet are covered in mud from his desperate run, contrasting with the solid, unyielding door.",
+      "supporting_char_keys": [],
+      "text_te_en": "Varsham Konchem Taggaaka, Raamayya Tana Sampanna Maama Intiki Parugupettaadu. Buradalo Atani Kaallu Jaaripotunnaa, Aasha Atanni Munduku Nadipindi. Talupu Kottagaane, Maama Bayatikochchaadu — Atani Mukhanlo Alasata Spashtangaa Kanipinchindi. \"Abbaayi, Naaku Ontlo Baaledu, Ippudu Polam Paniki Raalenu,\" Ani Maama Nemmadigaa Annaadu. Raamayya Aa Maata Vinagaane, Atani Bhujaalu Okkasaarigaa Kindaki Jaaripoyaayi. Talupu Klik Mani Musukupoyindi — Atani Aashalu Kudaa Daanito Paate Aaviraipoyaayi.",
+      "text_en": "After the rain calmed down a little, Ramayya ran to his rich uncle's house. Even though his feet slipped in the mud, hope kept him going. When he knocked on the door, his uncle came out, looking very tired. \"Son, I'm not feeling well,\" his uncle said softly. \"I can't come to help with the field work right now.\" As soon as Ramayya heard those words, his shoulders dropped. The door clicked shut — and his hopes disappeared right along with it."
+    },
+    {
+      "id": 5,
+      "text": "మామ ఇంటి నుండి తిరిగి, రామయ్య మిగతా బంధువులు, స్నేహితులందరినీ కలిశాడు. ప్రతి ఒక్కరూ ఒకే మాట చెప్పారు: \"మాకు వేరే పనులున్నాయి, రేపు చూద్దాం.\" అతని గొంతు, సాధారణంగా ధైర్యంగా ఉండేది, ఇప్పుడు కేవలం గుసగుసలాడింది. అతని కళ్ళల్లోని మెరుపు మాయమైపోయింది. సాయం దొరకలేదని తెలిసినప్పుడు — అతని మనసులోని బరువు మరింత పెరిగింది. చివరికి, అతను గ్రామ కూడలిలోని రాతి బెంచీపై కూలబడి, తన తలను చేతుల్లోకి తీసుకున్నాడు. దూరంగా గుడి గంట మోగింది, కానీ ఆ శబ్దం అతని ఒంటరితనాన్ని మరింత పెంచింది.",
+      "image_prompt": "The man sits slumped on a stone bench, his head buried in his hands in utter defeat. The distant sound of a temple bell echoes, emphasizing his profound sense of isolation. Late afternoon, the light fading to a soft, melancholy grey-blue, emphasizing the character's isolation.",
+      "scene_visual": "The man sits slumped on a stone bench, his head buried in his hands in utter defeat. The distant sound of a temple bell echoes, emphasizing his profound sense of isolation.",
+      "supporting_char_keys": [],
+      "text_te_en": "Maama Inti Nundi Tirigi, Raamayya Migataa Bandhuvulu, Snehitulandarini Kalishaadu. Prati Okkaru Oke Maata Cheppaaru: \"Maaku Vere Panulunnaayi, Repu Chuddaan.\" Atani Gontu, Saadhaaranangaa Dhairyangaa Undedi, Ippudu Kevalam Gusagusalaadindi. Atani Kallalloni Merupu Maayamaipoyindi. Saayam Dorakaledani Telisinappudu — Atani Manasuloni Baruvu Marinta Perigindi. Chivariki, Atanu Graama Kudaliloni Raati Benchipai Kulabadi, Tana Talanu Chetulloki Tisukunnaadu. Durangaa Gudi Ganta Mogindi, Kaani Aa Shabdam Atani Ontaritanaanni Marinta Penchindi.",
+      "text_en": "After leaving his uncle's house, Ramayya went to see all his other relatives and friends. But everyone said the same thing: \"We have other things to do, let's see tomorrow.\" His voice, which was usually strong, now only whispered. The sparkle in his eyes was gone. When he realized no one would help him, the sadness in his heart grew even bigger. Finally, he sank onto a stone bench in the village square, holding his head in his hands. A temple bell rang far away, but its sound only made him feel even more alone."
+    },
+    {
+      "id": 6,
+      "text": "రామయ్య అలా కూర్చుని ఉండగా, అతని కళ్ళ ముందు ఒక అద్భుతం జరిగింది. గోవిందు, ఎప్పుడూ ఎవరితో పెద్దగా మాట్లాడని పక్కింటి వృద్ధుడు — తన కుటుంబంతో కలిసి పొలంలోకి వచ్చాడు. గోవిందు వంగి, తన కఠినమైన, గరుకు చేతులతో వరికంకులను జాగ్రత్తగా నిలబెట్టడం మొదలుపెట్టాడు. రామయ్య తల పైకెత్తి, అతని వైపు ఆశ్చర్యంగా చూశాడు. \"పొలం మనందరిది కదా, ఆపదలో ఆదుకోవాలి,\" అని గోవిందు నవ్వుతూ అన్నాడు. గోవిందు నిస్వార్థ సేవ చూసి — రామయ్య కళ్ళల్లో నీళ్ళు నిండిపోయాయి.",
+      "image_prompt": "An old man, with rough, calloused hands, carefully bends down to straighten the damaged paddy stalks in the field. The man, sitting nearby, lifts his head to watch the old man with a look of profound surprise and dawning hope. The storm has passed, and a sliver of golden sunset breaks through the clouds, illuminating the figures in the field with a hopeful glow.",
+      "scene_visual": "An old man, with rough, calloused hands, carefully bends down to straighten the damaged paddy stalks in the field. The man, sitting nearby, lifts his head to watch the old man with a look of profound surprise and dawning hope.",
+      "supporting_char_keys": [
+        "Govindu"
+      ],
+      "text_te_en": "Raamayya Alaa Kurchuni Undagaa, Atani Kalla Mundu Oka Adbhutam Jarigindi. Govindu, Eppudu Evarito Peddagaa Maatlaadani Pakkinti Vrriddhudu — Tana Kutumbanto Kalisi Polanloki Vachchaadu. Govindu Vangi, Tana Kathinamaina, Garuku Chetulato Varikankulanu Jaagrattagaa Nilabettadam Modalupettaadu. Raamayya Tala Paiketti, Atani Vaipu Aashcharyangaa Chushaadu. \"Polam Manandaridi Kadaa, Aapadalo Aadukovaali,\" Ani Govindu Navvutu Annaadu. Govindu Nisvaartha Seva Chusi — Raamayya Kallallo Nillu Nindipoyaayi.",
+      "text_en": "As Ramayya sat there, something amazing happened right before his eyes. Govindu, the old man next door who never talked much to anyone, came into the field with his family. Govindu bent down and carefully began to straighten the rice stalks with his strong, rough hands. Ramayya looked up, surprised. \"This field belongs to all of us, doesn't it? We must help each other when there's trouble,\" Govindu said with a smile. Seeing Govindu's kind help, Ramayya's eyes filled with tears."
+    },
+    {
+      "id": 7,
+      "text": "గోవిందు, అతని కుటుంబం చేసిన సహాయంతో, మరికొందరు గ్రామస్తులు కూడా తోడుగా నిలిచారు. అందరూ కలిసి కష్టపడి, రామయ్య పంటలో ఎక్కువ భాగాన్ని కాపాడగలిగారు. రామయ్య భుజాలు ఇప్పుడు దృఢంగా నిలబడ్డాయి, అతని కళ్ళలో కృతజ్ఞత మెరిసింది. తడి మట్టి, కోసిన వరికంకుల తీపి వాసన అతని మనసుకు ప్రశాంతతను ఇచ్చింది. \"మీరు నా నిజమైన బంధువులు. మీ సహాయం నేను ఎప్పటికీ మర్చిపోలేను,\" అని రామయ్య గోవిందు చేతిని పట్టుకుని, మనస్ఫూర్తిగా అన్నాడు. ఆ రోజు నుండి, రామయ్యకు నిజమైన బాంధవ్యాలు అంటే ఏమిటో అర్థమైంది.",
+      "image_prompt": "The man firmly grasps the old man's hand, his shoulders now upright and strong. His eyes shine brightly with deep gratitude as he looks at the old man, surrounded by the sweet scent of saved paddy. Gentle dusk light, warm amber and soft blues, painting a peaceful scene of community and quiet triumph.",
+      "scene_visual": "The man firmly grasps the old man's hand, his shoulders now upright and strong. His eyes shine brightly with deep gratitude as he looks at the old man, surrounded by the sweet scent of saved paddy.",
+      "supporting_char_keys": [
+        "Govindu"
+      ],
+      "text_te_en": "Govindu, Atani Kutumbam Chesina Sahaayanto, Marikondaru Graamastulu Kudaa Todugaa Nilichaaru. Andaru Kalisi Kashtapadi, Raamayya Pantalo Ekkuva Bhaagaanni Kaapaadagaligaaru. Raamayya Bhujaalu Ippudu Drridhangaa Nilabaddaayi, Atani Kallalo Krritajnyata Merisindi. Tadi Matti, Kosina Varikankula Tipi Vaasana Atani Manasuku Prashaantatanu Ichchindi. \"Miru Naa Nijamaina Bandhuvulu. Mi Sahaayam Nenu Eppatiki Marchipolenu,\" Ani Raamayya Govindu Chetini Pattukuni, Manasphurtigaa Annaadu. Aa Roju Nundi, Raamayyaku Nijamaina Baandhavyaalu Ante Emito Arthamaindi.",
+      "text_en": "With the help of Govindu and his family, even more villagers came to help. Everyone worked hard together and managed to save most of Ramayya's crop. Ramayya stood tall now, and his eyes sparkled with thanks. The sweet smell of wet earth and cut rice stalks made his heart feel peaceful. Ramayya held Govindu's hand and said from his heart, \"You are my true family. I will never forget your help.\" From that day on, Ramayya truly understood what real relationships meant."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Govindu",
+      "description": "An elderly, thin man with a weathered face and kind, deep-set eyes. He wears a simple, faded brown lungi and a torn white vest, his hands rough from a lifetime of farming. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts a strong narrative arc and impeccable grammar, providing a robust foundation. To achieve an award-worthy score, the primary focus should be on enhancing the 'grandmother_authenticity' by consistently showing emotions through action rather than stating them directly. Additionally, enriching the dialogue to give each character a more distinct voice would significantly improve engagement and oral warmth. These changes would make the story feel less like a written piece and more like a captivating bedtime tale."
+  },
+  "quality_warning": true,
+  "title_te_en": "Bandhuvula Maata, Baandhavyaala Baata",
+  "moral_te_en": "Kashtakaalanlo Todu Nilichevaare Mana Nijamaina Bandhuvulu, Vaarini Manam Eppatiki Marchipokudadu.",
+  "title_en": "The Words of Kin, The Path of True Relationships",
+  "moral_en": "Those who stand by us in difficult times are our true relatives, and we should never forget them.",
+  "id": "20260607_045750",
+  "date": "2026-06-07",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "చూడబోతే అంతా బంధువులే అనే కథ",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_045750/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
