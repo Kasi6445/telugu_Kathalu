@@ -1,0 +1,115 @@
+{
+  "title": "చిన్న చిలుక, పెద్ద తెలివి",
+  "moral": "నిజమైన గొప్పతనం బయటి అందంలో కాదు, మనసులోని తెలివి, దయాగుణంలో ఉంటుంది.",
+  "main_character": "చింటూ (Chintu), a small, bright green parrot with a slightly bent beak and intelligent, observant eyes. He often feels overlooked due to his plain appearance but possesses a sharp mind. Always the same character across every scene.",
+  "antagonist": "ఒక వేటగాడు (A Hunter), a tall, wiry man with a weathered face and a cunning glint in his eyes. He wears rough, earth-toned clothing and carries a large net. Always the same character across every scene.",
+  "setting": "A serene, lotus-filled pond nestled in a dense forest near the ancient city of Warangal, Telangana. Golden sunlight filters through the banyan trees, casting dappled shadows on the water where pink lotuses bloom. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పాత వరంగల్ దగ్గర, ఒక అందమైన పద్మ సరోవరం ఉంది. చింటూ అనే చిన్న చిలుక, కొద్దిగా వంకరైన ముక్కుతో, ఆ పైన కొమ్మ మీద కూర్చుని, తన తలని కొద్దిగా వంచి చూస్తూనే ఉన్నాడు. సరస్సులో హంసలు మెల్లగా కదులుతుంటే, తామర ఆకులు సున్నితంగా కదిలాయి — వాటి తెల్లని శరీరాలు సూర్యరశ్మిలో మెరుస్తున్నాయి. \"అమ్మో, ఎంత అందంగా ఉన్నాయి!\" అని తనలో తాను అనుకున్నాడు చింటూ, తన ఆకుపచ్చ రెక్కలు ఆకుల్లో కలిసిపోతూ. ఆ హంసలు చింటూను కనీసం చూడనేలేదు — వాటికి చింటూ ఉన్నాడని కూడా తెలియదు. అప్పుడు చింటూ ఒక చిన్న నిట్టూర్పు విడిచాడు.",
+      "image_prompt": "The small parrot sits on a branch, head slightly tilted, watching the swans in the lake. Its green wings blend into the leaves as the white swans shimmer in the sunlight. Early morning, golden sunlight filtering through dense green leaves, dappling the pond's surface, creating a peaceful, slightly melancholic glow.",
+      "scene_visual": "The small parrot sits on a branch, head slightly tilted, watching the swans in the lake. Its green wings blend into the leaves as the white swans shimmer in the sunlight.",
+      "supporting_char_keys": [
+        "hamsalu"
+      ],
+      "text_te_en": "Paata Varangal Daggara, Oka Andamaina Padma Sarovaram Undi. Chintu Ane Chinna Chiluka, Koddigaa Vankaraina Mukkuto, Aa Paina Komma Mida Kurchuni, Tana Talani Koddigaa Vanchi Chustune Unnaadu. Sarassulo Hansalu Mellagaa Kadulutunte, Taamara Aakulu Sunnitangaa Kadilaayi — Vaati Tellani Shariraalu Suryarashmilo Merustunnaayi. \"Ammo, Enta Andangaa Unnaayi!\" Ani Tanalo Taanu Anukunnaadu Chintu, Tana Aakupachcha Rekkalu Aakullo Kalisipotu. Aa Hansalu Chintunu Kanisam Chudaneledu — Vaatiki Chintu Unnaadani Kudaa Teliyadu. Appudu Chintu Oka Chinna Nitturpu Vidichaadu.",
+      "text_en": "Near old Warangal, there was a beautiful lotus lake. A little parrot named Chintoo, with a slightly crooked beak, sat on a high branch, tilting his head slightly as he watched. Swans glided gently on the lake, and lotus leaves swayed softly — their white bodies gleaming in the sunlight. \"Oh my, how beautiful they are!\" Chintoo thought to himself, his green wings blending in with the leaves. The swans didn't even notice Chintoo — they didn't even know he was there. Then Chintoo let out a little sigh."
+    },
+    {
+      "id": 2,
+      "text": "అప్పుడు చింటూ, ఆశగా రెక్కలు కదుపుతూ, కింది కొమ్మకు ఎగిరి వచ్చాడు. తన ముక్కుతో ఒక తీయని ఎర్రని పండును పట్టుకున్నాడు — దాని నుండి చిన్న సువాసన వస్తోంది. ఒక హంస దగ్గరగా వస్తుంటే, చింటూ దాన్ని చూపిస్తూ, \"మిత్రమా, ఈ తీయని పండు రుచి చూడండి!\" అని పిలిచాడు. ఆ హంస కనీసం ఆగకుండా, తన పొడవాటి మెడను పక్కకు తిప్పేసింది. చింటూ పండును అందించిన కాలు మెల్లగా వెనక్కి లాక్కున్నాడు — ఆ పండు అలాగే అతని కాలిలో మిగిలిపోయింది.",
+      "image_prompt": "The parrot extends a sweet red fruit towards a swan, holding it with a claw. The swan turns its long neck away, and the parrot slowly retracts its leg, with the fruit still held in its claw. Bright morning light, clear and open near the water's edge, highlighting the swan's pristine white feathers against the parrot's vibrant green, a slight contrast in their worlds.",
+      "scene_visual": "The parrot extends a sweet red fruit towards a swan, holding it with a claw. The swan turns its long neck away, and the parrot slowly retracts its leg, with the fruit still held in its claw.",
+      "supporting_char_keys": [
+        "hamsalu"
+      ],
+      "text_te_en": "Appudu Chintu, Aashagaa Rekkalu Kaduputu, Kindi Kommaku Egiri Vachchaadu. Tana Mukkuto Oka Tiyani Errani Pandunu Pattukunnaadu — Daani Nundi Chinna Suvaasana Vastondi. Oka Hansa Daggaragaa Vastunte, Chintu Daanni Chupistu, \"Mitramaa, I Tiyani Pandu Ruchi Chudandi!\" Ani Pilichaadu. Aa Hansa Kanisam Aagakundaa, Tana Podavaati Medanu Pakkaku Tippesindi. Chintu Pandunu Andinchina Kaalu Mellagaa Venakki Laakkunnaadu — Aa Pandu Alaage Atani Kaalilo Migilipoyindi.",
+      "text_en": "Then Chintoo, flapping his wings hopefully, flew down to a lower branch. He held a sweet red fruit in his beak — a faint fragrance wafting from it. As a swan came close, Chintoo showed it the fruit and called out, \"Friend, taste this sweet fruit!\" The swan didn't even stop, turning its long neck away. Chintoo slowly pulled back the leg that held the fruit — the fruit remained untouched in his claw."
+    },
+    {
+      "id": 3,
+      "text": "కానీ ఇంతలో, పొదల్లో నుండి ఒక వేటగాడు మెల్లగా బయటికి వచ్చాడు. చింటూ ఆ దృశ్యం చూసి, తన కొమ్మ మీద కదలకుండా ఉండిపోయాడు — అతని కళ్ళు పెద్దవయ్యాయి. వేటగాడు హంసలు ఆహారం వెతుక్కునే చోట, నేల మీద ఒక పెద్ద వలని జాగ్రత్తగా పరచాడు. \"ఈ రోజు నా అదృష్టం పండింది!\" అని తనలో తాను గొణుగుకున్నాడు, వల బిగించేటప్పుడు ఒక చిన్న లోహపు 'క్లిక్' వినిపించింది. చింటూ భయంతో తన రెక్కలను గట్టిగా ముడుచుకున్నాడు — ఆ వల దాదాపు కనపడకుండా ఉంది...",
+      "image_prompt": "The hunter carefully spreads a large net on the ground where the swans feed. The parrot remains motionless on its branch, its eyes wide with fear as a small metallic 'click' sound is heard. Also in this scene: ఒక వేటగాడు (A Hunter), a tall, wiry man with a weathered face and a cunning glint in his eyes. He wears rough, earth-toned clothing and carries a large net. Always the same character across every scene. Mid-morning, shadows lengthening near the dense undergrowth where the hunter hides, a sense of creeping dread under the otherwise bright sky.",
+      "scene_visual": "The hunter carefully spreads a large net on the ground where the swans feed. The parrot remains motionless on its branch, its eyes wide with fear as a small metallic 'click' sound is heard.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaani Intalo, Podallo Nundi Oka Vetagaadu Mellagaa Bayatiki Vachchaadu. Chintu Aa Drrishyam Chusi, Tana Komma Mida Kadalakundaa Undipoyaadu — Atani Kallu Peddavayyaayi. Vetagaadu Hansalu Aahaaram Vetukkune Chota, Nela Mida Oka Pedda Valani Jaagrattagaa Parachaadu. \"I Roju Naa Adrrishtam Pandindi!\" Ani Tanalo Taanu Gonugukunnaadu, Vala Biginchetappudu Oka Chinna Lohapu 'Klik' Vinipinchindi. Chintu Bhayanto Tana Rekkalanu Gattigaa Muduchukunnaadu — Aa Vala Daadaapu Kanapadakundaa Undi...",
+      "text_en": "But just then, a hunter slowly emerged from the bushes. Chintoo saw the sight and froze on his branch — his eyes grew wide. The hunter carefully spread a large net on the ground where the swans usually looked for food. \"Today is my lucky day!\" he muttered to himself, a small metallic 'click' heard as he set the net. Chintoo folded his wings tightly in fear — the net was almost invisible..."
+    },
+    {
+      "id": 4,
+      "text": "ఆ హంసలు అటువైపు వెళ్తుండగా, చింటూ రెక్కలు టపటప కొట్టుకుంటూ వాటి మీదగా ఎగిరాడు. \"ఆపండి! అపాయం ఉంది! అక్కడికి వెళ్ళొద్దు!\" అని గట్టిగా అరిచాడు — అతని గొంతు ఎంతో పీలగా వినిపించింది. అతని అరుపులు ఆ ప్రశాంతమైన నీటి మీద ప్రతిధ్వనించాయి, హంసలు మాత్రం విసుగుగా తలలు పైకి ఎత్తాయి. చింటూ నిరాశగా గాలిలో గుండ్రంగా తిరిగాడు — వాటికి తన మాటలు అర్థం కాలేదు. హంసలు మళ్ళీ తమ ఈకలు సరిచేసుకుంటూ, ఏమీ పట్టనట్లు ముందుకు కదిలాయి.",
+      "image_prompt": "The parrot flaps its wings rapidly, flying above the swans and shouting a warning. The swans merely lift their heads irritably, then continue preening their feathers, ignoring the parrot circling in the air. Bright, clear daylight, making the swans' serene ignorance even more poignant against Chintu's frantic efforts, a stark contrast.",
+      "scene_visual": "The parrot flaps its wings rapidly, flying above the swans and shouting a warning. The swans merely lift their heads irritably, then continue preening their feathers, ignoring the parrot circling in the air.",
+      "supporting_char_keys": [
+        "hamsalu"
+      ],
+      "text_te_en": "Aa Hansalu Atuvaipu Veltundagaa, Chintu Rekkalu Tapatapa Kottukuntu Vaati Midagaa Egiraadu. \"Aapandi! Apaayam Undi! Akkadiki Velloddu!\" Ani Gattigaa Arichaadu — Atani Gontu Ento Pilagaa Vinipinchindi. Atani Arupulu Aa Prashaantamaina Niti Mida Pratidhvaninchaayi, Hansalu Maatram Visugugaa Talalu Paiki Ettaayi. Chintu Niraashagaa Gaalilo Gundrangaa Tirigaadu — Vaatiki Tana Maatalu Artham Kaaledu. Hansalu Malli Tama Ikalu Sarichesukuntu, Emi Pattanatlu Munduku Kadilaayi.",
+      "text_en": "As the swans moved towards that spot, Chintoo flapped his wings frantically and flew above them. \"Stop! Danger! Don't go there!\" he cried out loudly — his voice sounded so tiny. His cries echoed over the calm water, but the swans only lifted their heads in annoyance. Chintoo circled in the air in despair — they didn't understand his words. The swans, preening their feathers again, moved forward as if nothing had happened."
+    },
+    {
+      "id": 5,
+      "text": "హంసలు వల దగ్గరకు చేరుతుండగా, చింటూ వేగంగా రెక్కలు కొట్టుకోవడం ఆపాడు. అప్పుడు, అడవిలో ఎక్కడో ఒక మనిషి గొడ్డలితో చెట్టు నరుకుతున్న శబ్దం మెల్లగా వినిపించింది — ఆ క్షణంలో చింటూ కళ్ళు వెలిగాయి. ఆ వేటగాడి గొణుగుడు, దానితో పాటూ ఆ అరుపు... చింటూకి ఒక కొత్త ఆలోచన తట్టింది. \"ఒక ఉపాయం! నేను ప్రయత్నించాలి!\" అని తనలో తాను గట్టిగా అనుకున్నాడు. అతను ఒక పెద్ద శ్వాస తీసుకున్నాడు, అతని చిన్న ఛాతీ ఉబ్బింది — ఏదో తెలియని ధ్వనిని అనుకరించడానికి సిద్ధమయ్యాడు.",
+      "image_prompt": "The parrot stops flapping its wings, its eyes lighting up as it takes a deep breath. Its small chest swells as it prepares to imitate an unknown sound, having heard a distant axe chopping. Mid-afternoon sun, slightly softer now, casting long shadows from the trees, a moment of quiet internal resolve for Chintu before his bold action.",
+      "scene_visual": "The parrot stops flapping its wings, its eyes lighting up as it takes a deep breath. Its small chest swells as it prepares to imitate an unknown sound, having heard a distant axe chopping.",
+      "supporting_char_keys": [
+        "hamsalu"
+      ],
+      "text_te_en": "Hansalu Vala Daggaraku Cherutundagaa, Chintu Vegangaa Rekkalu Kottukovadam Aapaadu. Appudu, Adavilo Ekkado Oka Manishi Goddalito Chettu Narukutunna Shabdam Mellagaa Vinipinchindi — Aa Kshananlo Chintu Kallu Veligaayi. Aa Vetagaadi Gonugudu, Daanito Paatu Aa Arupu... Chintuki Oka Kotta Aalochana Tattindi. \"Oka Upaayan! Nenu Prayatninchaali!\" Ani Tanalo Taanu Gattigaa Anukunnaadu. Atanu Oka Pedda Shvaasa Tisukunnaadu, Atani Chinna Chaati Ubbindi — Edo Teliyani Dhvanini Anukarinchadaaniki Siddhamayyaadu.",
+      "text_en": "As the swans neared the net, Chintoo stopped flapping his wings rapidly. Then, the faint sound of a man chopping wood with an axe somewhere in the forest reached him — at that moment, Chintoo's eyes lit up. The hunter's muttering, and that cry... a new idea sparked in Chintoo's mind. \"An idea! I must try it!\" he thought to himself firmly. He took a deep breath, his small chest puffed out — ready to imitate an unknown sound."
+    },
+    {
+      "id": 6,
+      "text": "ఒక పెద్ద హంస సరిగ్గా వల మీద అడుగు పెట్టబోతుండగా, చింటూ ఒక్కసారిగా కిందకి దూకాడు. అతను వేటగాడి ముఖం మీదకు నేరుగా ఎగిరాడు — అతని రెక్కలు వేగంగా కొట్టాయి. వేటగాడు ఆశ్చర్యంతో వెనక్కి తూలి, \"ఆహ్! నా కళ్ళు!\" అని గట్టిగా అరిచాడు. అతని చేతిలో ఉన్న వల తాడు జారి, నేల మీద పడింది — ఆ శబ్దానికి వల పూర్తిగా బయటపడింది. హంసలు ఒక్కసారిగా తలలు పైకెత్తి, ఆ వలని స్పష్టంగా చూశాయి.",
+      "image_prompt": "The parrot dives straight down at the hunter's face, its wings beating rapidly. The hunter stumbles backward in surprise, dropping the net rope from his hand, which falls to the ground with a revealing sound. Also in this scene: ఒక వేటగాడు (A Hunter), a tall, wiry man with a weathered face and a cunning glint in his eyes. He wears rough, earth-toned clothing and carries a large net. Always the same character across every scene. Bright and intense, a moment of high drama, with the sun glinting off the hunter's surprised face and the swans' suddenly alarmed expressions.",
+      "scene_visual": "The parrot dives straight down at the hunter's face, its wings beating rapidly. The hunter stumbles backward in surprise, dropping the net rope from his hand, which falls to the ground with a revealing sound.",
+      "supporting_char_keys": [
+        "hamsalu"
+      ],
+      "text_te_en": "Oka Pedda Hansa Sariggaa Vala Mida Adugu Pettabotundagaa, Chintu Okkasaarigaa Kindaki Dukaadu. Atanu Vetagaadi Mukham Midaku Nerugaa Egiraadu — Atani Rekkalu Vegangaa Kottaayi. Vetagaadu Aashcharyanto Venakki Tuli, \"Aah! Naa Kallu!\" Ani Gattigaa Arichaadu. Atani Chetilo Unna Vala Taadu Jaari, Nela Mida Padindi — Aa Shabdaaniki Vala Purtigaa Bayatapadindi. Hansalu Okkasaarigaa Talalu Paiketti, Aa Valani Spashtangaa Chushaayi.",
+      "text_en": "Just as a large swan was about to step onto the net, Chintoo suddenly swooped down. He flew straight towards the hunter's face — his wings beating rapidly. The hunter stumbled back in surprise, crying out loudly, \"Ah! My eyes!\" The net rope in his hand slipped and fell to the ground — with that sound, the net was fully exposed. The swans instantly lifted their heads and clearly saw the net."
+    },
+    {
+      "id": 7,
+      "text": "వలని చూసిన హంసలు, ప్రాణ భయంతో ఒక్కసారిగా పైకి ఎగిరాయి. వాటి రెక్కల నుండి పెద్ద 'ఫెళఫెళ' శబ్దం వచ్చింది — అవి ఆకాశంలోకి దూసుకుపోయాయి. వేటగాడి పట్టు నుండి తృటిలో తప్పించుకున్న చింటూ, దగ్గర్లో ఉన్న ఎత్తైన కొమ్మ మీద వాలాడు. ఆ హంసలు సురక్షితంగా వెళ్ళిపోవడాన్ని చూసి, \"అయ్యో, ఎంత గొప్పగా తప్పించుకున్నాయి!\" అని తనలో తాను సంతోషంగా అనుకున్నాడు. అతని ముక్కు మీద ఒక చిన్న నవ్వు కనిపించింది — చింటూ కళ్ళు మెరిశాయి.",
+      "image_prompt": "The parrot perches on a nearby high branch, watching the swans fly safely into the sky. A small smile appears on its beak, and its eyes sparkle as the swans' wings make a loud 'flap-flap' sound while ascending. Also in this scene: ఒక వేటగాడు (A Hunter), a tall, wiry man with a weathered face and a cunning glint in his eyes. He wears rough, earth-toned clothing and carries a large net. Always the same character across every scene. Late afternoon, warm golden light bathing the scene, peaceful and triumphant, as the swans disappear into the soft glow and Chintu sits bathed in a gentle, reassuring light.",
+      "scene_visual": "The parrot perches on a nearby high branch, watching the swans fly safely into the sky. A small smile appears on its beak, and its eyes sparkle as the swans' wings make a loud 'flap-flap' sound while ascending.",
+      "supporting_char_keys": [
+        "hamsalu"
+      ],
+      "text_te_en": "Valani Chusina Hansalu, Praana Bhayanto Okkasaarigaa Paiki Egiraayi. Vaati Rekkala Nundi Pedda 'Phelaphela' Shabdam Vachchindi — Avi Aakaashanloki Dusukupoyaayi. Vetagaadi Pattu Nundi Trritilo Tappinchukunna Chintu, Daggarlo Unna Ettaina Komma Mida Vaalaadu. Aa Hansalu Surakshitangaa Vellipovadaanni Chusi, \"Ayyo, Enta Goppagaa Tappinchukunnaayi!\" Ani Tanalo Taanu Santoshangaa Anukunnaadu. Atani Mukku Mida Oka Chinna Navvu Kanipinchindi — Chintu Kallu Merishaayi.",
+      "text_en": "Seeing the net, the swans, terrified for their lives, instantly flew upwards. A loud 'whoosh' came from their wings — they soared into the sky. Chintoo, narrowly escaping the hunter's grasp, landed on a nearby high branch. Seeing the swans fly away safely, he happily thought to himself, \"Oh, how wonderfully they escaped!\" A small smile appeared on his beak — Chintoo's eyes sparkled."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "hamsalu",
+      "description": "A flock of majestic white swans, their long necks gracefully curved and feathers pristine. They are often absorbed in their own beauty and elegant movements. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is well-structured with a strong narrative arc and excellent emotional depth, making Chintoo a very relatable character. The grammar is flawless, contributing to a smooth reading experience. To elevate it to award-worthy status, the most crucial improvement would be to integrate more direct, character-specific dialogue into more scenes, perhaps even non-verbal communication that Chintoo interprets, to further enrich the interactions and advance the plot."
+  },
+  "title_te_en": "Chinna Chiluka, Pedda Telivi",
+  "moral_te_en": "Nijamaina Goppatanam Bayati Andanlo Kaadu, Manasuloni Telivi, Dayaagunanlo Untundi.",
+  "title_en": "The Little Parrot, Big Wisdom",
+  "moral_en": "True greatness is not in outer beauty, but in the wisdom and kindness of the heart.",
+  "id": "20260608_230926",
+  "date": "2026-06-08",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - తెలివైన ఉపాయాలు - అందమైన హంసలు మరియు సాధారణ చిలుక",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_230926/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
