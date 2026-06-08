@@ -1,0 +1,97 @@
+{
+  "title": "శ్రమ విలువ, కాలం గుణపాఠం",
+  "moral": "కాలాన్ని సద్వినియోగం చేసుకుని, రేపటి కోసం సిద్ధంగా ఉంటే, ఎలాంటి కష్టమైనా తట్టుకోవచ్చు.",
+  "main_character": "A tiny, diligent brown ant, no bigger than a fingernail, with six strong legs and constantly twitching antennae. It possesses an unwavering focus on its tasks. Always the same character across every scene.",
+  "antagonist": "A vibrant, multi-colored butterfly, with delicate, iridescent wings that shimmer in shades of blue, yellow, and orange. It moves with graceful, playful flits and often pauses to observe its surroundings. Always the same character across every scene.",
+  "setting": "A lush, verdant garden in a small village near Tirupati, Andhra Pradesh, filled with fragrant jasmine vines, ancient mango trees, and rich red soil. The sun shines brightly, illuminating dew-kissed leaves. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "చిన్ని చీమ, తన శరీరానికి రెట్టింపు బరువున్న బియ్యపు గింజను మోస్తూ, మట్టి కమ్మని వాసన వస్తున్న నేల మీద శ్రద్ధగా నడుస్తోంది. దాని ఆరు కాళ్ళు గట్టిగా కదులుతున్నాయి — ఎక్కడా తడబడలేదు. \"ఈ రోజు పని రేపటి ఆకలి తీరుస్తుంది,\" అని గొణుగుకుంటూ, తన ఇంటి వైపు దారి పట్టింది. ఎర్రటి మట్టిలో అది కష్టపడి నడుస్తూనే ఉంది. ఆ బియ్యపు గింజను చిన్న రంధ్రంలోకి నెట్టి, దాని వెనుక చీమ కూడా మాయమైపోయింది.",
+      "image_prompt": "The ant pushes a rice grain, twice its body weight, into a small hole in the ground. Its six legs move firmly on the fragrant, red soil as it disappears into the opening. Bright, warm morning sun filtering through green leaves, casting dappled, moving shadows on the red soil path.",
+      "scene_visual": "The ant pushes a rice grain, twice its body weight, into a small hole in the ground. Its six legs move firmly on the fragrant, red soil as it disappears into the opening.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinni Chima, Tana Shariraaniki Rettimpu Baruvunna Biyyapu Ginjanu Mostu, Matti Kammani Vaasana Vastunna Nela Mida Shraddhagaa Nadustondi. Daani Aaru Kaallu Gattigaa Kadulutunnaayi — Ekkadaa Tadabadaledu. \"I Roju Pani Repati Aakali Tirustundi,\" Ani Gonugukuntu, Tana Inti Vaipu Daari Pattindi. Errati Mattilo Adi Kashtapadi Nadustune Undi. Aa Biyyapu Ginjanu Chinna Randhranloki Netti, Daani Venuka Chima Kudaa Maayamaipoyindi.",
+      "text_en": "Little Ant was carefully walking on the earthy-smelling ground, carrying a grain of rice twice its body weight. Its six legs moved steadily — it didn't stumble anywhere. \"Today's work will satisfy tomorrow's hunger,\" it muttered, heading towards its home. It kept walking diligently in the red soil. Pushing the grain of rice into a small hole, Little Ant also disappeared behind it."
+    },
+    {
+      "id": 2,
+      "text": "అక్కడ, రంగురంగుల సీతాకోకచిలుక పూల మీద ఎగురుతూ, తీయని మల్లెపూల వాసనలో తేలియాడుతోంది. అది తన రెక్కలను సున్నితంగా ఆడిస్తూ, క్రింద కష్టపడుతున్న చీమను చూసి నవ్వింది. \"చిన్న చీమా! ఎందుకంత కష్టం? ఆడుకుందాం రా!\" అంటూ కేరింతలు కొట్టింది. చీమ తన రంధ్రం నుండి బయటకు వచ్చి, సీతాకోకచిలుక మాటలను పట్టించుకోలేదు. అది మరో బియ్యపు గింజ కోసం వెంటనే బయలుదేరింది.",
+      "image_prompt": "A colorful butterfly flutters its delicate wings above flowers, looking down at the toiling ant. It laughs playfully, suspended in the sweet jasmine scent, as the ant emerges from its hole. Also in this scene: A vibrant, multi-colored butterfly, with delicate, iridescent wings that shimmer in shades of blue, yellow, and orange. It moves with graceful, playful flits and often pauses to observe its surroundings. Always the same character across every scene. Golden afternoon light, warm and diffused, highlighting the vibrant colors of the butterfly's wings against the rich green foliage.",
+      "scene_visual": "A colorful butterfly flutters its delicate wings above flowers, looking down at the toiling ant. It laughs playfully, suspended in the sweet jasmine scent, as the ant emerges from its hole.",
+      "supporting_char_keys": [],
+      "text_te_en": "Akkada, Rangurangula Sitaakokachiluka Pula Mida Egurutu, Tiyani Mallepula Vaasanalo Teliyaadutondi. Adi Tana Rekkalanu Sunnitangaa Aadistu, Krinda Kashtapadutunna Chimanu Chusi Navvindi. \"Chinna Chimaa! Endukanta Kashtan? Aadukundaam Raa!\" Antu Kerintalu Kottindi. Chima Tana Randhram Nundi Bayataku Vachchi, Sitaakokachiluka Maatalanu Pattinchukoledu. Adi Maro Biyyapu Ginja Kosam Ventane Bayaluderindi.",
+      "text_en": "There, a colorful Butterfly was flying over flowers, floating in the sweet scent of jasmine. Gently flapping its wings, it laughed looking at Little Ant toiling below. \"Little Ant! Why so much hard work? Come, let's play!\" it chirped. Little Ant came out of its hole and ignored the Butterfly's words. It immediately set off for another grain of rice."
+    },
+    {
+      "id": 3,
+      "text": "కొంతసేపటికి, మామిడి చెట్ల ఆకులు రంగు మారడం సీతాకోకచిలుక గమనించింది. అప్పుడే ఒక చల్లని గాలి తుఫాను వచ్చి — పొడి ఆకులను గలగలలాడించింది. \"ఈ చలి ఏంటి? రోజులు మారిపోతున్నాయా?\" అని తనలో తాను అనుకుంది. దాని సున్నితమైన యాంటెనాలు కదిలాయి, ఏదో మార్పు వస్తుందని గ్రహించాయి. చీమ మాత్రం, మరింత పెద్ద బరువును మోస్తూ — తన కలుగు వైపు పరుగెడుతోంది.",
+      "image_prompt": "The butterfly observes mango tree leaves changing color as a cold gust of wind rustles the dry leaves. Its delicate antennae twitch, sensing the cold air that makes the dry leaves rustle. Also in this scene: A vibrant, multi-colored butterfly, with delicate, iridescent wings that shimmer in shades of blue, yellow, and orange. It moves with graceful, playful flits and often pauses to observe its surroundings. Always the same character across every scene. The sun is lower, casting longer, cooler shadows, with a hint of pale orange at the horizon, signaling the day's end and an impending seasonal change.",
+      "scene_visual": "The butterfly observes mango tree leaves changing color as a cold gust of wind rustles the dry leaves. Its delicate antennae twitch, sensing the cold air that makes the dry leaves rustle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kontasepatiki, Maamidi Chetla Aakulu Rangu Maaradam Sitaakokachiluka Gamaninchindi. Appude Oka Challani Gaali Tuphaanu Vachchi — Podi Aakulanu Galagalalaadinchindi. \"I Chali Enti? Rojulu Maaripotunnaayaa?\" Ani Tanalo Taanu Anukundi. Daani Sunnitamaina Yaantenaalu Kadilaayi, Edo Maarpu Vastundani Grahinchaayi. Chima Maatran, Marinta Pedda Baruvunu Mostu — Tana Kalugu Vaipu Parugedutondi.",
+      "text_en": "After some time, the Butterfly noticed the mango tree leaves changing color. Just then, a cold gust of wind came — rustling the dry leaves. \"What is this cold? Are the days changing?\" it wondered to itself. Its delicate antennae twitched, sensing a change was coming. Little Ant, however, was carrying an even bigger load — rushing towards its burrow."
+    },
+    {
+      "id": 4,
+      "text": "సీతాకోకచిలుక తేనె కోసం వికసించిన పూలను వెతకగా, చాలా పూలు వాడిపోయి కనిపించాయి. అది తన సున్నితమైన రెక్కలను విచిత్రంగా కొట్టుకుంటూ, రాలిన విత్తనాలనో, ఎండిన పండ్లనో పట్టుకోవడానికి ప్రయత్నించింది. పొడి ఆకులు దాని కింద చిటపటలాడాయి. \"నేను ఎంత ప్రయత్నించినా, ఈ పూలు నాకు ఆహారం ఇవ్వడం లేదు!\" అని దాని రెక్కలు వాలిపోయాయి — ఇక చేసేదేమీ లేదు. అదే సమయంలో, చీమ ఒక గట్టి విత్తనాన్ని మోసుకుంటూ దాని పక్కనుండి వెళ్ళిపోయింది, కనీసం గమనించనట్లు.",
+      "image_prompt": "The butterfly's delicate wings droop as it fails to find nectar from withered flowers. Dry leaves crackle under its feet as it attempts to grasp fallen seeds or dried fruits in vain. Also in this scene: A vibrant, multi-colored butterfly, with delicate, iridescent wings that shimmer in shades of blue, yellow, and orange. It moves with graceful, playful flits and often pauses to observe its surroundings. Always the same character across every scene. An overcast sky, casting a dull grey light that makes the garden seem less vibrant and emphasizes the scarcity of resources.",
+      "scene_visual": "The butterfly's delicate wings droop as it fails to find nectar from withered flowers. Dry leaves crackle under its feet as it attempts to grasp fallen seeds or dried fruits in vain.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sitaakokachiluka Tene Kosam Vikasinchina Pulanu Vetakagaa, Chaalaa Pulu Vaadipoyi Kanipinchaayi. Adi Tana Sunnitamaina Rekkalanu Vichitrangaa Kottukuntu, Raalina Vittanaalano, Endina Pandlano Pattukovadaaniki Prayatninchindi. Podi Aakulu Daani Kinda Chitapatalaadaayi. \"Nenu Enta Prayatninchinaa, I Pulu Naaku Aahaaram Ivvadam Ledu!\" Ani Daani Rekkalu Vaalipoyaayi — Ika Chesedemi Ledu. Ade Samayanlo, Chima Oka Gatti Vittanaanni Mosukuntu Daani Pakkanundi Vellipoyindi, Kanisam Gamaninchanatlu.",
+      "text_en": "As the Butterfly searched for blooming flowers for nectar, many flowers appeared withered. It flapped its delicate wings strangely, trying to catch fallen seeds or dried fruits. Dry leaves crackled beneath it. \"No matter how hard I try, these flowers are not giving me food!\" its wings drooped — there was nothing more to do. At the same time, Little Ant passed by it, carrying a hard seed, as if not even noticing."
+    },
+    {
+      "id": 5,
+      "text": "సీతాకోకచిలుక చీమ ఇంటి వైపు చూసింది, అది నిండా నిండి ఉంది. లోపల చీమ చిన్న అడుగుల చప్పుడు, ఆహారాన్ని సర్దుతున్నట్లు వినిపిస్తోంది. అది తన చుట్టూ ఖాళీగా ఉన్న ప్రదేశాన్ని చూసింది — దాని రంగులు వెలిసిపోయినట్లు అనిపించాయి. \"అది ఎంత తెలివైంది! నేను సమయాన్ని వృథా చేశాను,\" అని దాని తల వాలిపోయింది. అప్పుడే ఒక్కసారిగా ఉష్ణోగ్రత పడిపోయింది — చలి తీవ్రంగా పెరిగింది.",
+      "image_prompt": "The butterfly's head droops as it looks at the ant's full home, hearing the sounds of food being arranged inside. Its own colors seem faded as it surveys the empty space around itself, feeling the sudden drop in temperature. Also in this scene: A vibrant, multi-colored butterfly, with delicate, iridescent wings that shimmer in shades of blue, yellow, and orange. It moves with graceful, playful flits and often pauses to observe its surroundings. Always the same character across every scene. The last vestiges of weak, cold sunlight are rapidly fading, replaced by a deep, melancholic twilight that deepens the shadows.",
+      "scene_visual": "The butterfly's head droops as it looks at the ant's full home, hearing the sounds of food being arranged inside. Its own colors seem faded as it surveys the empty space around itself, feeling the sudden drop in temperature.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sitaakokachiluka Chima Inti Vaipu Chusindi, Adi Nindaa Nindi Undi. Lopala Chima Chinna Adugula Chappudu, Aahaaraanni Sardutunnatlu Vinipistondi. Adi Tana Chuttu Khaaligaa Unna Pradeshaanni Chusindi — Daani Rangulu Velisipoyinatlu Anipinchaayi. \"Adi Enta Telivaindi! Nenu Samayaanni Vrrithaa Cheshaanu,\" Ani Daani Tala Vaalipoyindi. Appude Okkasaarigaa Ushnograta Padipoyindi — Chali Tivrangaa Perigindi.",
+      "text_en": "The Butterfly looked towards Little Ant's home; it was full. Inside, Little Ant's tiny footsteps could be heard, as if it was arranging food. It looked at the empty space around it — its colors seemed to fade. \"How clever it is! I wasted my time,\" its head drooped. Just then, the temperature suddenly dropped — the cold intensified."
+    },
+    {
+      "id": 6,
+      "text": "ఒక చల్లని గాలి ఉద్యానవనం గుండా వీచింది, సీతాకోకచిలుక శరీరం వణకడం మొదలుపెట్టింది. దాని సున్నితమైన రెక్కలు చలికి బిగుసుకుపోయాయి — అది గట్టిగా వణుకుతోంది. చల్లని గాలి దాని శరీరాన్ని సూదితో గుచ్చినట్లు తాకింది. \"చలి! నాకు ఆశ్రయం లేదు! ఆహారం లేదు!\" అని దాని గొంతు వణికింది. చీమ కలుగు తలుపు గట్టిగా మూసుకుని ఉంది, లోపలి నుండి చిన్న వెచ్చదనం బయటకు వస్తోంది — బయట ఉన్న తీవ్రమైన చలికి అది పూర్తి విరుద్ధం.",
+      "image_prompt": "The butterfly's delicate wings stiffen and its body begins to tremble violently as a cold wind sweeps through the garden. The frigid air stings its body like needles, contrasting sharply with the faint warmth emanating from the tightly closed ant's burrow. Also in this scene: A vibrant, multi-colored butterfly, with delicate, iridescent wings that shimmer in shades of blue, yellow, and orange. It moves with graceful, playful flits and often pauses to observe its surroundings. Always the same character across every scene. A harsh, cutting blue-white light of a sudden winter evening, with bare branches silhouetted sharply against the darkening sky.",
+      "scene_visual": "The butterfly's delicate wings stiffen and its body begins to tremble violently as a cold wind sweeps through the garden. The frigid air stings its body like needles, contrasting sharply with the faint warmth emanating from the tightly closed ant's burrow.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Challani Gaali Udyaanavanam Gundaa Vichindi, Sitaakokachiluka Shariram Vanakadam Modalupettindi. Daani Sunnitamaina Rekkalu Chaliki Bigusukupoyaayi — Adi Gattigaa Vanukutondi. Challani Gaali Daani Shariraanni Sudito Guchchinatlu Taakindi. \"Chali! Naaku Aashrayam Ledu! Aahaaram Ledu!\" Ani Daani Gontu Vanikindi. Chima Kalugu Talupu Gattigaa Musukuni Undi, Lopali Nundi Chinna Vechchadanam Bayataku Vastondi — Bayata Unna Tivramaina Chaliki Adi Purti Viruddhan.",
+      "text_en": "A cold wind blew through the garden, and the Butterfly's body began to shiver. Its delicate wings stiffened with the cold — it was trembling hard. The cold wind touched its body like needles. \"Cold! I have no shelter! No food!\" its voice trembled. Little Ant's burrow door was tightly closed, a little warmth was coming out from inside — a complete contrast to the severe cold outside."
+    },
+    {
+      "id": 7,
+      "text": "చీమ తన ఇంట్లో హాయిగా ఉంది, దాని నిల్వలు నిండుగా ఉన్నాయి. సీతాకోకచిలుక మాత్రం, తన గుణపాఠం నేర్చుకుని, ఒక రాయి కింద చిన్న చీలికలో ఆశ్రయం కనుగొంది. చీమ కలుగు నుండి వస్తున్న వెచ్చదనం దానికి స్పష్టంగా తెలుస్తోంది — అది బయట గడ్డకట్టే చలికి ఎంత భిన్నంగా ఉందో. దాని శరీరమంతా వణుకుతున్నా, మనసులో మాత్రం ఒకటే మాట — \"వచ్చే వసంతంలో నేను కూడా కష్టపడతాను!\" అది తన రెక్కలను ముడుచుకుని, భవిష్యత్తు కోసం ప్రణాళికలు వేసింది.",
+      "image_prompt": "The butterfly huddles for shelter in a small crevice under a rock, its body still shivering from the freezing cold. It folds its wings tightly, clearly sensing the warmth from the ant's burrow nearby, as it plans for the future. Also in this scene: A vibrant, multi-colored butterfly, with delicate, iridescent wings that shimmer in shades of blue, yellow, and orange. It moves with graceful, playful flits and often pauses to observe its surroundings. Always the same character across every scene. A quiet, pale moonlight illuminates the frosty garden, with the ant's burrow snug and dark, and the butterfly's crevice offering a small, protective shadow.",
+      "scene_visual": "The butterfly huddles for shelter in a small crevice under a rock, its body still shivering from the freezing cold. It folds its wings tightly, clearly sensing the warmth from the ant's burrow nearby, as it plans for the future.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chima Tana Intlo Haayigaa Undi, Daani Nilvalu Nindugaa Unnaayi. Sitaakokachiluka Maatran, Tana Gunapaatham Nerchukuni, Oka Raayi Kinda Chinna Chilikalo Aashrayam Kanugondi. Chima Kalugu Nundi Vastunna Vechchadanam Daaniki Spashtangaa Telustondi — Adi Bayata Gaddakatte Chaliki Enta Bhinnangaa Undo. Daani Shariramantaa Vanukutunnaa, Manasulo Maatram Okate Maata — \"Vachche Vasantanlo Nenu Kudaa Kashtapadataanu!\" Adi Tana Rekkalanu Muduchukuni, Bhavishyattu Kosam Pranaalikalu Vesindi.",
+      "text_en": "Little Ant was comfortable in its home, its stores full. The Butterfly, however, having learned its lesson, found shelter in a small crack under a rock. The warmth coming from Little Ant's burrow was clear to it — how different it was from the freezing cold outside. Even though its whole body was trembling, there was only one thought in its mind — \"Next spring, I will also work hard!\" It folded its wings and made plans for the future."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 10,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-crafted, demonstrating strong emotional depth and a compelling narrative arc through showing rather than telling. The language is natural, grammatically flawless, and the dialogue effectively distinguishes characters. To elevate it further, consider adding a few more direct sensory details or rhetorical questions that a grandparent might use to draw a child deeper into the narrative, enhancing the oral warmth. This would make it truly award-worthy."
+  },
+  "title_te_en": "Shrama Viluva, Kaalam Gunapaatham",
+  "moral_te_en": "Kaalaanni Sadviniyogam Chesukuni, Repati Kosam Siddhangaa Unte, Elaanti Kashtamainaa Tattukovachchu.",
+  "title_en": "The Value of Hard Work, The Lesson of Time",
+  "moral_en": "If you make good use of time and are prepared for tomorrow, you can overcome any difficulty.",
+  "id": "20260608_112250",
+  "date": "2026-06-08",
+  "category": "panchatantra",
+  "subcategory": "animal_wisdom",
+  "topic": "పంచతంత్రం - తన పనిపై శ్రద్ధ పెట్టే చీమ మరియు ఇతరులను చూసి సమయం వృథా చేసే సీతాకోకచిలుక",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_112250/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
