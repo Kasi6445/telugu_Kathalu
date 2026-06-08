@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -365,7 +365,7 @@
 
           // Give the hero button a real href so Googlebot can follow it
           const heroBtn = document.getElementById('hero-btn');
-          if (heroBtn) heroBtn.href = `story.html?id=${hero.slug || hero.id}`;
+          if (heroBtn) heroBtn.href = `/story/${hero.slug || hero.id}/`;
         }
 
         Object.keys(CATEGORIES).forEach(cat => {
@@ -409,7 +409,7 @@
           : story.title;
         const card = document.createElement('a');
         card.className = 'h-card';
-        card.href = `story.html?id=${story.slug || story.id}`;
+        card.href = `/story/${story.slug || story.id}/`;
         card.setAttribute('aria-label', displayTitle);
         card.innerHTML = `
           <div class="h-card-img">
@@ -442,7 +442,7 @@
         const card = document.createElement('a');
         card.className = 'v-card';
         const fromParam = currentCat !== 'all' ? `&from=${currentCat}` : '';
-        card.href = `story.html?id=${story.slug || story.id}${fromParam}`;
+        card.href = `/story/${story.slug || story.id}/${fromParam ? '?' + fromParam.slice(1) : ''}`;
         card.setAttribute('aria-label', displayTitle);
         card.innerHTML = `
           <div class="v-card-img">
@@ -731,7 +731,7 @@
 
     // ── OTHER ─────────────────────────────────────────────────────────────────
     function openHeroStory() {
-      if (heroStoryId) window.location.href = `story.html?id=${heroStoryId}`;
+      if (heroStoryId) window.location.href = `/story/${heroStoryId}/`;
     }
 
     // ── INIT ──────────────────────────────────────────────────────────────────

@@ -168,7 +168,7 @@ def update_sitemap():
         lastmod = story.get("date", today)
         urls.append(
             f"  <url>\n"
-            f"    <loc>{BASE_URL}/story.html?id={url_id}</loc>\n"
+            f"    <loc>{BASE_URL}/story/{url_id}/</loc>\n"
             f"    <lastmod>{lastmod}</lastmod>\n"
             f"    <changefreq>weekly</changefreq>\n"
             f"    <priority>0.8</priority>\n"
