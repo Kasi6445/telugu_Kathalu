@@ -1,6 +1,40 @@
 {
   "stories": [
     {
+      "id": "20260608_171223",
+      "slug": "sharabhamga-maharshi-tyaagam",
+      "title": "శరభంగ మహర్షి త్యాగం",
+      "moral": "నిజమైన ఆనందం, మన శాంతి కేవలం మన గురించి ఆలోచించడంలో కాదు, ఇతరులకు సహాయం చేయడంలో, దయతో జీవించడంలోనే దొరుకుతుంది తెలుసా?",
+      "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_171223/images/scene1.jpg",
+      "date": "2026-06-08",
+      "category": "ramayana",
+      "subcategory": "courage_tales",
+      "topic": "శరభంగ మహర్షి త్యాగం - మోక్షమార్గం, నిస్వార్థ సేవ | Moral: నిజమైన మోక్షం అనేది స్వార్థం లేని సేవలో, ధర్మ మార్గంలో జీవించడంలోనే ఉందని శరభంగ మహర్షి జీవితం మనకు నేర్పుతుంది.",
+      "voice": "te-IN-Chirp3-HD-Enceladus",
+      "schema_version": 2,
+      "title_en": "Sarabhaga Maharshi's Sacrifice",
+      "moral_en": "Do you know that true happiness and peace are found not just by thinking about ourselves, but by helping others and living with kindness?",
+      "title_te_en": "Sharabhanga Maharshi Tyaagam",
+      "moral_te_en": "Nijamaina Aanandan, Mana Shaanti Kevalam Mana Gurinchi Aalochinchadanlo Kaadu, Itarulaku Sahaayam Cheyadanlo, Dayato Jivinchadanlone Dorukutundi Telusaa?"
+    },
+    {
+      "id": "20260608_151206",
+      "slug": "raamudi-dharmam-kumbhakarnudi-tyaagam",
+      "title": "రాముడి ధర్మం, కుంభకర్ణుడి త్యాగం",
+      "moral": "కష్టకాలంలోనూ ధర్మాన్ని పాటించడం మనసుకు గొప్ప శాంతినిస్తుంది.",
+      "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_151206/images/scene1.jpg",
+      "date": "2026-06-08",
+      "category": "ramayana",
+      "subcategory": "dharma_tales",
+      "topic": "కుంభకర్ణుని ధర్మ సందేహం - వినాశకాలంలోనూ ధర్మాన్ని బోధించడం",
+      "voice": "te-IN-Chirp3-HD-Fenrir",
+      "schema_version": 2,
+      "title_en": "Ramudu's Dharma, Kumbhakarnudu's Sacrifice",
+      "moral_en": "Even in tough times, sticking to what is right brings great peace to your heart.",
+      "title_te_en": "Raamudi Dharman, Kumbhakarnudi Tyaagam",
+      "moral_te_en": "Kashtakaalanlonu Dharmaanni Paatinchadam Manasuku Goppa Shaantinistundi."
+    },
+    {
       "id": "20260608_112250",
       "slug": "shrama-viluva-kaalam-gunapaatham",
       "title": "శ్రమ విలువ, కాలం గుణపాఠం",
