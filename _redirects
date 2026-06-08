@@ -9,3 +9,6 @@
 /story/pagilina-kumda-puula-baata-2/              /   302
 /story/pagullunna-kumda-puula-baata/              /   302
 /story/tenaali-telivi-bamgaaru-aambali-rahasyam/  /   302
+
+# Duplicate slug → canonical story page
+/story/tenaali-telivi-bamgaaru-aambali-2/  /story/tenaali-telivi-bamgaaru-aambali/  302
