@@ -1,0 +1,113 @@
+{
+  "title": "నవ్వుల శబ్దం, తెలివి బలం",
+  "moral": "నిజమైన తెలివిని ఎవరూ దొంగిలించలేరు, అది మన కష్టాల నుండి బయటపడే దారిని చూపిస్తుంది.",
+  "main_character": "Tenali Ramakrishna is a quick-witted and intelligent court jester in the court of Emperor Krishnadevaraya, known for his sharp mind and mischievous spirit. He is slender with expressive eyes, often seen wearing simple but clean traditional attire with a distinctive, slightly askew turban. Always the same character across every scene.",
+  "antagonist": "Raja Guru Sadasiva is a senior, pompous court scholar, often jealous of Tenali's popularity and wit. He is portly with a stern, often disapproving expression, wearing opulent, dark blue silk robes and a tall, intricately embroidered guru's cap. Always the same character across every scene.",
+  "setting": "The grand court of Emperor Krishnadevaraya in Hampi, Vijayanagara, is adorned with intricate carvings of deities and vibrant tapestries depicting battle scenes. Sunlight streams through large arched windows, illuminating polished marble floors and the emperor's ornate, golden throne. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మహారాజు కృష్ణదేవరాయల సభలో తెనాలి రామకృష్ణుడు తన చమత్కారాలతో అందరినీ నవ్విస్తున్నాడు. అతని కళ్ళు మెరుస్తూ, చేతులతో సైగలు చేస్తూ ఒక సరదా కథ చెప్పాడు. మహారాజు పగలబడి నవ్వారు — ఆ నవ్వు సభ అంతా మార్మోగింది. ఆ నవ్వులతో సభ అంతా ఒక్కసారిగా తేలికపడింది. కానీ, రాజ గురువు సదాశివ కళ్ళు సన్నగా చేసి, తెనాలి వైపు చూశాడు — ఆయన చూపులో ఏదో లెక్కలు వేసినట్లు కనిపించింది.",
+      "image_prompt": "The king is laughing heartily, his head thrown back, as the court erupts in mirth. Meanwhile, the guru narrows his eyes, watching the jester with a calculating expression. Also in this scene: Raja Guru Sadasiva is a senior, pompous court scholar, often jealous of Tenali's popularity and wit. He is portly with a stern, often disapproving expression, wearing opulent, dark blue silk robes and a tall, intricately embroidered guru's cap. Always the same character across every scene. Bright, warm morning sun streaming through high arched windows, casting long, golden shafts of light across the polished marble floor of the court.",
+      "scene_visual": "The king is laughing heartily, his head thrown back, as the court erupts in mirth. Meanwhile, the guru narrows his eyes, watching the jester with a calculating expression.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Mahaaraaju Krrishnadevaraayala Sabhalo Tenaali Raamakrrishnudu Tana Chamatkaaraalato Andarini Navvistunnaadu. Atani Kallu Merustu, Chetulato Saigalu Chestu Oka Saradaa Katha Cheppaadu. Mahaaraaju Pagalabadi Navvaaru — Aa Navvu Sabha Antaa Maarmogindi. Aa Navvulato Sabha Antaa Okkasaarigaa Telikapadindi. Kaani, Raaja Guruvu Sadaashiva Kallu Sannagaa Chesi, Tenaali Vaipu Chushaadu — Aayana Chupulo Edo Lekkalu Vesinatlu Kanipinchindi.",
+      "text_en": "In King Krishnadevaraya's court, Tenali Ramakrishna was making everyone laugh with his clever jokes. His eyes sparkled, and he told a funny story, gesturing with his hands. The King burst into laughter — that laughter echoed throughout the court. With that laughter, the whole court suddenly felt light. But the Royal Guru Sadashiva narrowed his eyes and looked at Tenali — his gaze seemed to be calculating something."
+    },
+    {
+      "id": 2,
+      "text": "సదాశివ రాజు గురువు మెల్లగా ముందుకు అడుగు వేశాడు — ఆయన పట్టు వస్త్రాలు గలగలమన్నాయి. తెనాలి పెదవులపై చిరునవ్వు చెదిరింది — అప్పుడు సదాశివ గొంతు సన్నగా చేసి అన్నాడు: “ఒకవేళ నువ్వు ఓడిపోతే, నీకు అత్యంత ఇష్టమైన శబ్దాన్ని నాకు ఇవ్వాలి!” ఆ మాట వినగానే — తెనాలి ముఖం రంగు మారింది. ఆ చిక్కు ప్రశ్న విన్న తెనాలి, తన తెలివికి అందక మౌనంగా ఉండిపోయాడు.",
+      "image_prompt": "The guru steps forward, his silk robes rustling, as he issues a challenge to the jester. The jester's face visibly changes color, his earlier smile vanishing as he hears the difficult question. Also in this scene: Raja Guru Sadasiva is a senior, pompous court scholar, often jealous of Tenali's popularity and wit. He is portly with a stern, often disapproving expression, wearing opulent, dark blue silk robes and a tall, intricately embroidered guru's cap. Always the same character across every scene. The court is still bright, but a cloud passes overhead, momentarily dimming the light, casting a slight shadow over Tenali's face.",
+      "scene_visual": "The guru steps forward, his silk robes rustling, as he issues a challenge to the jester. The jester's face visibly changes color, his earlier smile vanishing as he hears the difficult question.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Sadaashiva Raaju Guruvu Mellagaa Munduku Adugu Veshaadu — Aayana Pattu Vastraalu Galagalamannaayi. Tenaali Pedavulapai Chirunavvu Chedirindi — Appudu Sadaashiva Gontu Sannagaa Chesi Annaadu: “Okavela Nuvvu Odipote, Niku Atyanta Ishtamaina Shabdaanni Naaku Ivvaali!” Aa Maata Vinagaane — Tenaali Mukham Rangu Maarindi. Aa Chikku Prashna Vinna Tenaali, Tana Teliviki Andaka Maunangaa Undipoyaadu.",
+      "text_en": "Royal Guru Sadashiva slowly stepped forward — his silk robes rustled. The smile on Tenali's lips faded — then Sadashiva said in a soft voice: “If you lose, you must give me your most favorite sound!” As soon as he heard those words, Tenali's face changed color. Hearing that tricky question, Tenali, unable to find a clever answer, remained silent."
+    },
+    {
+      "id": 3,
+      "text": "తన చిన్న ఇంట్లో తెనాలి అటు ఇటూ తిరుగుతున్నాడు — అతని చెక్క చెప్పులు నేలపై కిర్రుమన్నాయి. అతను తల పట్టుకుని గోడ వైపు చూశాడు, తనలో తానే ఏదో గొణుగుతున్నాడు. అతని చేతులు తల వెంట్రుకల్లోకి దూరి, వాటిని చిందరవందర చేశాయి. ఎంత ఆలోచించినా — దారి దొరకలేదు. “అత్యంత ఇష్టమైన శబ్దం... దాన్ని ఎలా ఇవ్వగలను?” అని మళ్ళీ గొణుగుతూ, కింద పడి ఉన్న నున్నటి నది రాయిని పట్టుకుని తిప్పుతూ చూశాడు — అతని కళ్ళల్లో ఏదో దీర్ఘాలోచన మెరిసింది.",
+      "image_prompt": "The jester paces back and forth in his small home, his wooden sandals creaking on the floor. He holds a smooth river stone, turning it in his hands, his eyes reflecting deep thought as he mutters to himself. The warm, fading light of late afternoon filters through a small window, creating long shadows that stretch and shrink as Tenali moves.",
+      "scene_visual": "The jester paces back and forth in his small home, his wooden sandals creaking on the floor. He holds a smooth river stone, turning it in his hands, his eyes reflecting deep thought as he mutters to himself.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Chinna Intlo Tenaali Atu Itu Tirugutunnaadu — Atani Chekka Cheppulu Nelapai Kirrumannaayi. Atanu Tala Pattukuni Goda Vaipu Chushaadu, Tanalo Taane Edo Gonugutunnaadu. Atani Chetulu Tala Ventrukalloki Duri, Vaatini Chindaravandara Cheshaayi. Enta Aalochinchinaa — Daari Dorakaledu. “Atyanta Ishtamaina Shabdan... Daanni Elaa Ivvagalanu?” Ani Malli Gonugutu, Kinda Padi Unna Nunnati Nadi Raayini Pattukuni Tipputu Chushaadu — Atani Kallallo Edo Dirghaalochana Merisindi.",
+      "text_en": "Tenali paced back and forth in his small house — his wooden sandals creaked on the floor. He held his head, looking at the wall, muttering something to himself. His hands ran through his hair, messing it up. No matter how much he thought, he couldn't find a way. “My most favorite sound... how can I give it?” he muttered again, picking up a smooth river stone lying on the ground and turning it over in his hand — a deep thought sparkled in his eyes."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి మహారాజు దగ్గరకు వెళ్ళాడు — అతని కళ్ళలో ఏదో ఆశ తొణికిసలాడింది. మహారాజు సింహాసనంపై కదిలారు — ఆయన గొంతులో దృఢత్వం తొణికిసలాడింది. “రామకృష్ణా, ఇచ్చిన మాటను నిలబెట్టుకోవడం రాజులకే కాదు, సామాన్యులకు కూడా ధర్మం” అని మహారాజు నెమ్మదిగా అన్నారు. తెనాలి భుజాలు కాస్త వాలాయి కానీ — అతని చూపులో ఏదో స్థిరత్వం కనిపించింది. మహారాజుకు నమస్కరించి, తెనాలి అక్కడ నుండి బయలుదేరాడు, అతని ముఖంపై ఒక కొత్త ఆలోచన మెరిసింది.",
+      "image_prompt": "The jester bows to the king, his shoulders slightly slumped but his gaze steady. He then turns to leave the court, a new idea beginning to form on his face. Gentle, diffused daylight from the high court windows, creating a serene and thoughtful atmosphere, emphasizing the Emperor's calm demeanor.",
+      "scene_visual": "The jester bows to the king, his shoulders slightly slumped but his gaze steady. He then turns to leave the court, a new idea beginning to form on his face.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Mahaaraaju Daggaraku Vellaadu — Atani Kallalo Edo Aasha Tonikisalaadindi. Mahaaraaju Sinhaasanampai Kadilaaru — Aayana Gontulo Drridhatvam Tonikisalaadindi. “Raamakrrishnaa, Ichchina Maatanu Nilabettukovadam Raajulake Kaadu, Saamaanyulaku Kudaa Dharman” Ani Mahaaraaju Nemmadigaa Annaaru. Tenaali Bhujaalu Kaasta Vaalaayi Kaani — Atani Chupulo Edo Sthiratvam Kanipinchindi. Mahaaraajuku Namaskarinchi, Tenaali Akkada Nundi Bayaluderaadu, Atani Mukhampai Oka Kotta Aalochana Merisindi.",
+      "text_en": "Tenali went to the King — a glimmer of hope flickered in his eyes. The King stirred on his throne — firmness resonated in his voice. “Ramakrishna, keeping one's word is not just for kings, but also a duty for common people,” the King said slowly. Tenali's shoulders drooped a little, but there was a certain steadiness in his gaze. Bowing to the King, Tenali left, a new idea sparkling on his face."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి బజారు మధ్యలో కూర్చున్నాడు — తల వంచుకుని ఏదో ఆలోచిస్తున్నాడు. చుట్టూ మనుషుల అరుపులు, పిల్లల నవ్వులు, గంటల చప్పుళ్ళు ఒకటే కలగలిసి వినిపించాయి. ఈ శబ్దాలన్నీ అతని చెవుల్లో పడుతూనే ఉన్నాయి. ఒక్కసారిగా — తెనాలి ముఖం వెలిగిపోయింది. అతని slumped posture straightened, and a wide, triumphant smile spread across his face. “అదే! అదే సమాధానం! శబ్దాన్ని ఇవ్వడం అంటే...” అని సంతోషంగా అరుస్తూ, తెనాలి వేగంగా రాజభవనం వైపు అడుగులు వేశాడు.",
+      "image_prompt": "The jester sits slumped in the middle of the bustling market, deep in thought amidst the cacophony of sounds. Suddenly, his face lights up, his posture straightens, and a wide, triumphant smile spreads across his face as he shouts excitedly. Bright, bustling midday sun, harsh and clear, illuminating the colourful market stalls and the dust motes dancing in the air.",
+      "scene_visual": "The jester sits slumped in the middle of the bustling market, deep in thought amidst the cacophony of sounds. Suddenly, his face lights up, his posture straightens, and a wide, triumphant smile spreads across his face as he shouts excitedly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Bajaaru Madhyalo Kurchunnaadu — Tala Vanchukuni Edo Aalochistunnaadu. Chuttu Manushula Arupulu, Pillala Navvulu, Gantala Chappullu Okate Kalagalisi Vinipinchaayi. I Shabdaalanni Atani Chevullo Padutune Unnaayi. Okkasaarigaa — Tenaali Mukham Veligipoyindi. Atani Slumped Posture Straightened, And A Wide, Triumphant Smile Spread Across His Face. “Ade! Ade Samaadhaanan! Shabdaanni Ivvadam Ante...” Ani Santoshangaa Arustu, Tenaali Vegangaa Raajabhavanam Vaipu Adugulu Veshaadu.",
+      "text_en": "Tenali sat in the middle of the market — he was thinking something, with his head bowed. Around him, the shouts of people, the laughter of children, and the ringing of bells all blended together. All these sounds kept falling on his ears. Suddenly, Tenali's face lit up. His slumped posture straightened, and a wide, triumphant smile spread across his face. “That's it! That's the answer! To give a sound means...” he cried out happily, and Tenali quickly walked towards the palace."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి సభలోకి తిరిగి వచ్చాడు — అతని కళ్ళల్లో ఏదో అల్లరి మెరిసింది. రాజ గురువు దగ్గరకు వచ్చి, మెల్లగా ఏదో చెప్పాడు. సదాశివ గురువు ముఖం విప్పారింది — ఆ క్షణంలో ఆయన గొంతు నుండి పెద్ద నవ్వు బయటపడింది. ఆ నవ్వు — సభ అంతా మార్మోగింది. తెనాలి నవ్వుతూ, “రాజ గురు, మీరే విన్నారుగా! నా అత్యంత ఇష్టమైన శబ్దం – నవ్వు – ఇప్పుడు మీకు ఇచ్చాను!” అని అన్నాడు.",
+      "image_prompt": "The jester approaches the guru in the court and whispers something to him. The guru's face breaks into a wide grin, and a loud, booming laugh erupts from his throat, filling the entire court. Also in this scene: Raja Guru Sadasiva is a senior, pompous court scholar, often jealous of Tenali's popularity and wit. He is portly with a stern, often disapproving expression, wearing opulent, dark blue silk robes and a tall, intricately embroidered guru's cap. Always the same character across every scene. The court is bathed in the dramatic, low afternoon sun, casting long shadows that highlight the expressions of the courtiers, with a spotlight-like glow on Tenali and Sadasiva.",
+      "scene_visual": "The jester approaches the guru in the court and whispers something to him. The guru's face breaks into a wide grin, and a loud, booming laugh erupts from his throat, filling the entire court.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Sabhaloki Tirigi Vachchaadu — Atani Kallallo Edo Allari Merisindi. Raaja Guruvu Daggaraku Vachchi, Mellagaa Edo Cheppaadu. Sadaashiva Guruvu Mukham Vippaarindi — Aa Kshananlo Aayana Gontu Nundi Pedda Navvu Bayatapadindi. Aa Navvu — Sabha Antaa Maarmogindi. Tenaali Navvutu, “Raaja Guru, Mire Vinnaarugaa! Naa Atyanta Ishtamaina Shabdam – Navvu – Ippudu Miku Ichchaanu!” Ani Annaadu.",
+      "text_en": "Tenali returned to the court — a mischievous glint sparkled in his eyes. He went to the Royal Guru and whispered something. Guru Sadashiva's face brightened — at that moment, a loud laugh burst from his throat. That laughter — echoed throughout the court. Tenali laughed and said, “Royal Guru, you heard it yourself, didn't you! My most favorite sound – laughter – I have now given to you!”"
+    },
+    {
+      "id": 7,
+      "text": "మహారాజు తెనాలి వైపు చూసి తల పంకించాడు — కళ్ళతోనే ఆశీర్వదించాడు. సదాశివ గురువు తల దించుకుని, మెల్లగా సభ నుండి బయటికి అడుగు వేశాడు. అతని ముఖం ఎర్రబడింది, నవ్వుల మధ్య దారి తీస్తూ వెళ్ళిపోయాడు. తెనాలి నవ్వుతూ, మహారాజుకు నమస్కరించాడు. “తెనాలి, నీ తెలివిని ఎవరూ దొంగిలించలేరు!” అని మహారాజు ప్రశంసించారు — సభ అంతా చప్పట్లతో మారుమోగింది.",
+      "image_prompt": "The guru, with a red face, lowers his head and slowly walks out of the court, making his way through the applauding crowd. The king nods approvingly at the jester, who smiles and bows in return. Also in this scene: Raja Guru Sadasiva is a senior, pompous court scholar, often jealous of Tenali's popularity and wit. He is portly with a stern, often disapproving expression, wearing opulent, dark blue silk robes and a tall, intricately embroidered guru's cap. Always the same character across every scene. Gentle dusk light begins to filter into the court, casting warm amber and soft purple hues, creating a peaceful and resolved atmosphere.",
+      "scene_visual": "The guru, with a red face, lowers his head and slowly walks out of the court, making his way through the applauding crowd. The king nods approvingly at the jester, who smiles and bows in return.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Mahaaraaju Tenaali Vaipu Chusi Tala Pankinchaadu — Kallatone Aashirvadinchaadu. Sadaashiva Guruvu Tala Dinchukuni, Mellagaa Sabha Nundi Bayatiki Adugu Veshaadu. Atani Mukham Errabadindi, Navvula Madhya Daari Tistu Vellipoyaadu. Tenaali Navvutu, Mahaaraajuku Namaskarinchaadu. “Tenaali, Ni Telivini Evaru Dongilinchaleru!” Ani Mahaaraaju Prashansinchaaru — Sabha Antaa Chappatlato Maarumogindi.",
+      "text_en": "The King looked at Tenali and nodded his head — he blessed him with his eyes. Guru Sadashiva bowed his head and slowly stepped out of the court. His face turned red, and he walked away, making his way through the laughter. Tenali laughed and bowed to the King. “Tenali, no one can steal your wisdom!” the King praised — the entire court echoed with applause."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "emperor",
+      "description": "Emperor Krishnadevaraya is a benevolent and wise ruler, known for his love of arts and justice. He wears grand silk robes in rich crimson and gold, a magnificent jeweled crown, and often has a thoughtful, majestic expression. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and exceptional emotional depth, consistently showing character feelings through action. The dialogue is a standout, being vivid, natural, and advancing the plot in every scene. The primary area for improvement lies in the narrative voice; it feels more like a well-written report than a warm, oral bedtime story. To reach a 9+, infuse more direct address to the child and conversational warmth, and eliminate the single English sentence."
+  },
+  "title_te_en": "Navvula Shabdan, Telivi Balam",
+  "moral_te_en": "Nijamaina Telivini Evaru Dongilinchaleru, Adi Mana Kashtaala Nundi Bayatapade Daarini Chupistundi.",
+  "title_en": "The Sound of Laughter, The Power of Wit",
+  "moral_en": "No one can steal true wisdom; it shows us the way out of our troubles.",
+  "id": "20260608_011217",
+  "date": "2026-06-08",
+  "category": "tenali",
+  "subcategory": "court_wit",
+  "topic": "తెనాలి రాముడు మరియు విడదీయరాని వాగ్దానం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_011217/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

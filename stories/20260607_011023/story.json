@@ -1,0 +1,129 @@
+{
+  "title": "మాటలేని పోటీ, తెనాలి తెలివి",
+  "moral": "మాటలు లేకపోయినా, తెలివైన ఆలోచనలతో ఏదైనా సాధించవచ్చు అని ఈ కథ మనకు నేర్పుతుంది.",
+  "main_character": "Tenali Ramakrishna. A quick-witted and intelligent jester in King Krishnadevaraya's court, known for his ability to solve problems with humor and ingenuity. He often appears unassuming but hides a sharp mind beneath his simple attire. Always the same character across every scene.",
+  "antagonist": "A pompous scholar from a neighboring kingdom, named 'దిగంబర శాస్త్రి' (Digambara Shastri). He has a towering physique, adorned with garlands of dried rudraksha beads and a bright red tilak on his forehead, always carrying an oversized, leather-bound ancient scripture. Always the same character across every scene.",
+  "setting": "The grand court of King Krishnadevaraya in Hampi, Vijayanagara Empire. Ornate pillars carved with mythical creatures, vibrant silk tapestries, and a central golden throne dominate the spacious hall, bathed in the afternoon sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "హఠాత్తుగా రాజ మర్యాదలతో మోగిన పెద్ద గంట చప్పుడు — సభామందిరం అంతా ప్రతిధ్వనించింది. మహారాజు కృష్ణదేవరాయలు తన సింహాసనం నుండి లేచి, గంభీరమైన స్వరంతో ఒక ప్రకటన చేశారు. ఒక పండితుడు సభకు వస్తున్నాడని, అతను 'మౌన చర్చ'కు సవాలు విసురుతున్నాడని చెప్పారు. ఈ వింత పోటీ గురించి వినగానే — సభీకులందరూ తలలు తిప్పి, ఒకరినొకరు చూసుకున్నారు. రాజు కళ్ళల్లో ఒక మెరుపు — ఆ సవాలును స్వీకరించే ధీరుడు కోసం వెతుకుతున్నట్లు. \"ఈ మౌన చర్చలో మన రాజ్య గౌరవం నిలిచేదెవరు?\" అని రాజు ప్రశ్నించారు. తెనాలి రామకృష్ణుడు మాత్రం నెమ్మదిగా ముందుకు వంగాడు, అతని కళ్ళలో ఒక తెలివైన మెరుపు కనిపించింది.",
+      "image_prompt": "The minister slowly bends forward from his seated position. A clever glint is visible in his eyes as he does so. Bright afternoon sun streams through high arched windows, casting long, warm shadows across the polished marble floor, creating an atmosphere of official grandeur.",
+      "scene_visual": "The minister slowly bends forward from his seated position. A clever glint is visible in his eyes as he does so.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Hathaattugaa Raaja Maryaadalato Mogina Pedda Ganta Chappudu — Sabhaamandiram Antaa Pratidhvaninchindi. Mahaaraaju Krrishnadevaraayalu Tana Sinhaasanam Nundi Lechi, Gambhiramaina Svaranto Oka Prakatana Cheshaaru. Oka Panditudu Sabhaku Vastunnaadani, Atanu 'Mauna Charcha'Ku Savaalu Visurutunnaadani Cheppaaru. I Vinta Poti Gurinchi Vinagaane — Sabhikulandaru Talalu Tippi, Okarinokaru Chusukunnaaru. Raaju Kallallo Oka Merupu — Aa Savaalunu Svikarinche Dhirudu Kosam Vetukutunnatlu. \"I Mauna Charchalo Mana Raajya Gauravam Nilichedevaru?\" Ani Raaju Prashninchaaru. Tenaali Raamakrrishnudu Maatram Nemmadigaa Munduku Vangaadu, Atani Kallalo Oka Telivaina Merupu Kanipinchindi.",
+      "text_en": "Suddenly, a loud bell rang with royal grandeur – its sound echoed throughout the assembly hall. King Krishnadevaraya rose from his throne and made an announcement in a serious voice. He said that a scholar was coming to the court and was challenging everyone to a 'silent debate'. As soon as they heard about this strange competition, all the courtiers turned their heads and looked at each other. There was a sparkle in the King's eyes – as if he was looking for a brave person to accept the challenge. \"Who will uphold the honor of our kingdom in this silent debate?\" the King asked. But Tenali Ramakrishna slowly leaned forward, and a clever sparkle appeared in his eyes."
+    },
+    {
+      "id": 2,
+      "text": "రాజు ప్రకటించిన కొద్దిసేపటికే — దిగంబర శాస్త్రి అనే ఒక పండితుడు సభలోకి అడుగు పెట్టాడు. అతని భారీ పాదాల శబ్దం — పాలరాతి నేలపైన ప్రతి అడుగుకీ గంభీరంగా వినిపించింది. శాస్త్రి తన ఛాతీని ఉబ్బించి, గర్వంగా చుట్టూ చూశాడు, అతని ముఖం గెలిచినంత ధీమాగా ఉంది. \"నా మౌన చర్చకు ఎవరూ సాటి రారు!\" అంటూ ఒక ధీమాగా కూడిన ధ్వని వినిపించాడు. రాజు కృష్ణదేవరాయలు ఆందోళనగా చేతులు పిసికారు, అతని నుదుటిపై చిన్న చిక్కు పడింది. తెనాలి రామకృష్ణుడు మాత్రం — నెమ్మదిగా తల పక్కకు వంచి చూశాడు, అతని కళ్ళల్లో ఆ పండితుడిని పరిశీలిస్తున్న ఒక లోతైన ఆలోచన ఉంది.",
+      "image_prompt": "The scholar enters the assembly hall, his chest puffed out, and looks around proudly. The sound of his heavy footsteps echoes gravely on the marble floor with each step. Also in this scene: A pompous scholar from a neighboring kingdom, named 'దిగంబర శాస్త్రి' (Digambara Shastri). He has a towering physique, adorned with garlands of dried rudraksha beads and a bright red tilak on his forehead, always carrying an oversized, leather-bound ancient scripture. Always the same character across every scene. The court remains brightly lit by the afternoon sun, but a subtle tension in the air makes the light feel sharper, highlighting the scholar's imposing figure.",
+      "scene_visual": "The scholar enters the assembly hall, his chest puffed out, and looks around proudly. The sound of his heavy footsteps echoes gravely on the marble floor with each step.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Raaju Prakatinchina Koddisepatike — Digambara Shaastri Ane Oka Panditudu Sabhaloki Adugu Pettaadu. Atani Bhaari Paadaala Shabdam — Paalaraati Nelapaina Prati Aduguki Gambhirangaa Vinipinchindi. Shaastri Tana Chaatini Ubbinchi, Garvangaa Chuttu Chushaadu, Atani Mukham Gelichinanta Dhimaagaa Undi. \"Naa Mauna Charchaku Evaru Saati Raaru!\" Antu Oka Dhimaagaa Kudina Dhvani Vinipinchaadu. Raaju Krrishnadevaraayalu Aandolanagaa Chetulu Pisikaaru, Atani Nudutipai Chinna Chikku Padindi. Tenaali Raamakrrishnudu Maatram — Nemmadigaa Tala Pakkaku Vanchi Chushaadu, Atani Kallallo Aa Panditudini Parishilistunna Oka Lotaina Aalochana Undi.",
+      "text_en": "Soon after the King's announcement, a scholar named Digambara Shastri entered the court. The sound of his heavy footsteps echoed grandly with each step on the marble floor. Shastri puffed out his chest and looked around proudly, his face confident as if he had already won. He made a confident sound, as if to say, \"No one can beat me in a silent debate!\" King Krishnadevaraya nervously wrung his hands, and a small frown appeared on his forehead. But Tenali Ramakrishna slowly tilted his head and watched, a deep thought in his eyes as he observed the scholar."
+    },
+    {
+      "id": 3,
+      "text": "దిగంబర శాస్త్రి విసిరిన సవాలుతో రాజు కృష్ణదేవరాయలు మరింత ఆందోళన చెందారు, అతని భుజాలు కాస్త వంగిపోయాయి. సభామందిరంలో పట్టు వస్త్రాల గలగలలు — భయంతో కూడిన నిట్టూర్పుల్లా వినిపించాయి. \"ఈ మౌన చర్చ అంటే ఏమిటో ఎవరికీ అర్థం కావడం లేదు కదా!\" అని రాజు నిట్టూర్చారు. ఇంతలో తెనాలి రామకృష్ణుడు ముందుకు అడుగు వేశాడు, అతని ముఖంపై ఒక క్షణం ఆలోచన, మరో క్షణం చిలిపి నవ్వు కనిపించాయి. \"మహారాజా, నేను ప్రయత్నిస్తాను. కానీ ఈ మౌన చర్చ ఎలా ఉంటుందో తెలియదు,\" అని తెనాలి వినయంగా అన్నాడు. ఆ సవాలును స్వీకరించడానికి — తెనాలి ముందుకు అడుగు వేశాడు, అతని పెదవులపై ఒక చిన్న చిరునవ్వు మెరిసింది.",
+      "image_prompt": "The minister steps forward, his face showing a moment of thought. A mischievous smile then appears on his lips as he prepares to accept the challenge. Also in this scene: A pompous scholar from a neighboring kingdom, named 'దిగంబర శాస్త్రి' (Digambara Shastri). He has a towering physique, adorned with garlands of dried rudraksha beads and a bright red tilak on his forehead, always carrying an oversized, leather-bound ancient scripture. Always the same character across every scene. A moment of hushed anticipation, the afternoon light seeming to soften, casting a more pensive glow on Tenali as he considers the challenge.",
+      "scene_visual": "The minister steps forward, his face showing a moment of thought. A mischievous smile then appears on his lips as he prepares to accept the challenge.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Digambara Shaastri Visirina Savaaluto Raaju Krrishnadevaraayalu Marinta Aandolana Chendaaru, Atani Bhujaalu Kaasta Vangipoyaayi. Sabhaamandiranlo Pattu Vastraala Galagalalu — Bhayanto Kudina Nitturpullaa Vinipinchaayi. \"I Mauna Charcha Ante Emito Evariki Artham Kaavadam Ledu Kadaa!\" Ani Raaju Nitturchaaru. Intalo Tenaali Raamakrrishnudu Munduku Adugu Veshaadu, Atani Mukhampai Oka Kshanam Aalochana, Maro Kshanam Chilipi Navvu Kanipinchaayi. \"Mahaaraajaa, Nenu Prayatnistaanu. Kaani I Mauna Charcha Elaa Untundo Teliyadu,\" Ani Tenaali Vinayangaa Annaadu. Aa Savaalunu Svikarinchadaaniki — Tenaali Munduku Adugu Veshaadu, Atani Pedavulapai Oka Chinna Chirunavvu Merisindi.",
+      "text_en": "King Krishnadevaraya became even more worried by Digambara Shastri's challenge, and his shoulders slumped a little. The rustling of silk clothes in the assembly hall sounded like fearful sighs. \"No one understands what this silent debate is about, do they?\" the King sighed. Just then, Tenali Ramakrishna stepped forward, with a thoughtful look one moment and a mischievous smile the next on his face. \"Your Majesty, I will try. But I don't know how this silent debate will be,\" Tenali said humbly. To accept the challenge, Tenali stepped forward, a small smile sparkling on his lips."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి అంగీకరించగానే — మౌన చర్చ మొదలైంది, సభామందిరంలో నిశ్శబ్దం అలముకుంది. దిగంబర శాస్త్రి గర్వంగా తన కుడి చేతి చూపుడు వేలును పైకెత్తి, \"దేవుడు ఒక్కడే\" అని సంకేతం ఇచ్చాడు. ఆ నిశ్శబ్దంలో — సభీకులు ఒక్కసారిగా గట్టిగా ఊపిరి పీల్చారు, ఉత్కంఠతో చూశారు. తెనాలి మాత్రం ఏమాత్రం తొట్రుపడకుండా, వెంటనే తన చేతిని పైకెత్తాడు. తెనాలి మాత్రం — రెండు వేళ్ళు పైకెత్తాడు, \"దేవుడు ఒక్కడే కాదు, జీవుడు కూడా ఉన్నాడు\" అన్నట్లు. దిగంబర శాస్త్రి కళ్ళల్లో ఒక ఆశ్చర్యం — అతని నవ్వు ఒక్కసారిగా మాయమైపోయింది.",
+      "image_prompt": "The minister immediately raises two fingers upwards. The scholar's eyes show surprise as his smile suddenly vanishes. Also in this scene: A pompous scholar from a neighboring kingdom, named 'దిగంబర శాస్త్రి' (Digambara Shastri). He has a towering physique, adorned with garlands of dried rudraksha beads and a bright red tilak on his forehead, always carrying an oversized, leather-bound ancient scripture. Always the same character across every scene. The court is bathed in clear, bright daylight, sharply illuminating the gestures of the two debaters, making every movement distinct and important.",
+      "scene_visual": "The minister immediately raises two fingers upwards. The scholar's eyes show surprise as his smile suddenly vanishes.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Tenaali Angikarinchagaane — Mauna Charcha Modalaindi, Sabhaamandiranlo Nishshabdam Alamukundi. Digambara Shaastri Garvangaa Tana Kudi Cheti Chupudu Velunu Paiketti, \"Devudu Okkade\" Ani Sanketam Ichchaadu. Aa Nishshabdanlo — Sabhikulu Okkasaarigaa Gattigaa Upiri Pilchaaru, Utkanthato Chushaaru. Tenaali Maatram Emaatram Totrupadakundaa, Ventane Tana Chetini Paikettaadu. Tenaali Maatram — Rendu Vellu Paikettaadu, \"Devudu Okkade Kaadu, Jivudu Kudaa Unnaadu\" Annatlu. Digambara Shaastri Kallallo Oka Aashcharyam — Atani Navvu Okkasaarigaa Maayamaipoyindi.",
+      "text_en": "As soon as Tenali agreed, the silent debate began, and silence fell over the assembly hall. Digambara Shastri proudly raised his right index finger, signaling, \"God is one.\" In that silence, the courtiers gasped all at once, watching with suspense. But Tenali, without any hesitation, immediately raised his hand. Tenali raised two fingers, as if to say, \"Not only is God one, but there is also life.\" A look of surprise appeared in Digambara Shastri's eyes – his smile suddenly vanished."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి ఇచ్చిన జవాబుతో దిగంబర శాస్త్రికి కోపం వచ్చింది, అతని ముఖం ఎర్రబడింది. శాస్త్రి తన ఐదు వేళ్ళను పైకెత్తి, \"ప్రపంచం పంచేంద్రియాలతో నిండి ఉంది\" అని చూపించాడు. తెనాలి మాత్రం చిరునవ్వుతో తన చిన్న సంచీలో చేయి పెట్టాడు... పండు మామిడి సువాసన — సభామందిరంలో మెల్లగా వ్యాపించింది. శాస్త్రి ఆశ్చర్యపోతూ చూస్తుండగానే, తెనాలి ఒక చిన్న మామిడి పండును తీసి, దానిని శాస్త్రి వైపు చూపించాడు. దిగంబర శాస్త్రి కళ్ళల్లో — అస్పష్టత, అయోమయం. \"ఇదేంటి?\" అన్నట్లు శాస్త్రి మౌనంగా ప్రశ్నించాడు, అతని ముఖంపై పెద్ద ప్రశ్నార్థకం కనిపించింది.",
+      "image_prompt": "The minister pulls a small mango from his pouch and points it towards the scholar. The sweet fragrance of the ripe mango slowly spreads through the assembly hall. Also in this scene: A pompous scholar from a neighboring kingdom, named 'దిగంబర శాస్త్రి' (Digambara Shastri). He has a towering physique, adorned with garlands of dried rudraksha beads and a bright red tilak on his forehead, always carrying an oversized, leather-bound ancient scripture. Always the same character across every scene. The sunlight continues to illuminate the court, but now a warm, golden glow seems to emanate from the scene, reflecting the growing amusement and good spirits of the onlookers.",
+      "scene_visual": "The minister pulls a small mango from his pouch and points it towards the scholar. The sweet fragrance of the ripe mango slowly spreads through the assembly hall.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Tenaali Ichchina Javaabuto Digambara Shaastriki Kopam Vachchindi, Atani Mukham Errabadindi. Shaastri Tana Aidu Vellanu Paiketti, \"Prapancham Panchendriyaalato Nindi Undi\" Ani Chupinchaadu. Tenaali Maatram Chirunavvuto Tana Chinna Sanchilo Cheyi Pettaadu... Pandu Maamidi Suvaasana — Sabhaamandiranlo Mellagaa Vyaapinchindi. Shaastri Aashcharyapotu Chustundagaane, Tenaali Oka Chinna Maamidi Pandunu Tisi, Daanini Shaastri Vaipu Chupinchaadu. Digambara Shaastri Kallallo — Aspashtata, Ayomayan. \"Identi?\" Annatlu Shaastri Maunangaa Prashninchaadu, Atani Mukhampai Pedda Prashnaarthakam Kanipinchindi.",
+      "text_en": "Digambara Shastri became angry with Tenali's answer, and his face turned red. Shastri raised his five fingers, showing, \"The world is full of five senses.\" But Tenali, with a smile, put his hand into his small bag... The sweet smell of a ripe mango slowly spread through the assembly hall. As Shastri watched in surprise, Tenali took out a small mango and showed it to Shastri. In Digambara Shastri's eyes – there was confusion and bewilderment. Shastri silently questioned, as if saying, \"What is this?\" A big question mark appeared on his face."
+    },
+    {
+      "id": 6,
+      "text": "మామిడి పండును చూసి దిగంబర శాస్త్రి మరింత ఆగ్రహించాడు, అతని పిడికిలి బిగుసుకుంది — ఇది ఒక బెదిరింపు సంకేతం. కానీ తెనాలి మాత్రం ప్రశాంతంగా, చిలిపిగా నవ్వాడు. చిన్న గుడ్డ ముక్కను బయటికి తీసేటప్పుడు — ఒక మెత్తని ధ్వని వినిపించింది. తెనాలి ఆ గుడ్డతో తన ముక్కును తుడుచుకున్నట్లు నటించాడు, \"నీ బెదిరింపు నాకు మురికితో సమానం\" అన్నట్లు. రాజు కృష్ణదేవరాయలు తన నవ్వును ఆపుకోలేక, తన చేతితో నోటిని కప్పుకున్నారు. దిగంబర శాస్త్రి ముఖం — ఒక్కసారిగా తెల్లబారిపోయింది, అతని నోరు తెరుచుకుంది, మాట రాలేదు.",
+      "image_prompt": "The minister pretends to wipe his nose with a small piece of cloth. The king covers his mouth with his hand, trying to suppress his laughter. Also in this scene: A pompous scholar from a neighboring kingdom, named 'దిగంబర శాస్త్రి' (Digambara Shastri). He has a towering physique, adorned with garlands of dried rudraksha beads and a bright red tilak on his forehead, always carrying an oversized, leather-bound ancient scripture. Always the same character across every scene. The court is bathed in a bright, almost glaring light, emphasizing the dramatic final gestures and the sudden shift in the atmosphere from tension to impending mirth.",
+      "scene_visual": "The minister pretends to wipe his nose with a small piece of cloth. The king covers his mouth with his hand, trying to suppress his laughter.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Maamidi Pandunu Chusi Digambara Shaastri Marinta Aagrahinchaadu, Atani Pidikili Bigusukundi — Idi Oka Bedirimpu Sanketan. Kaani Tenaali Maatram Prashaantangaa, Chilipigaa Navvaadu. Chinna Gudda Mukkanu Bayatiki Tisetappudu — Oka Mettani Dhvani Vinipinchindi. Tenaali Aa Guddato Tana Mukkunu Tuduchukunnatlu Natinchaadu, \"Ni Bedirimpu Naaku Murikito Samaanan\" Annatlu. Raaju Krrishnadevaraayalu Tana Navvunu Aapukoleka, Tana Chetito Notini Kappukunnaaru. Digambara Shaastri Mukham — Okkasaarigaa Tellabaaripoyindi, Atani Noru Teruchukundi, Maata Raaledu.",
+      "text_en": "Seeing the mango, Digambara Shastri became even angrier, and his fist clenched – a sign of threat. But Tenali calmly and mischievously smiled. As he took out a small piece of cloth – a soft sound was heard. Tenali pretended to wipe his nose with the cloth, as if to say, \"Your threat is like dirt to me.\" King Krishnadevaraya couldn't hold back his laughter and covered his mouth with his hand. Digambara Shastri's face – suddenly turned pale, his mouth opened, but no words came out."
+    },
+    {
+      "id": 7,
+      "text": "దిగంబర శాస్త్రి పూర్తిగా అవమానపడి, పరాజయం పాలయ్యాడు, అతని తల వంగిపోయింది. కోపంతో, ఆగ్రహంతో అతను సభామందిరం నుండి బయటికి వెళ్ళిపోయాడు, అతని అడుగులు వేగంగా పడ్డాయి. ఆ సభామందిరం అంతా — ఆనందపు చప్పట్లతో నిండిపోయింది, సభీకులు కేకలు వేస్తూ, తెనాలిని పొగడసాగారు. రాజు కృష్ణదేవరాయలు పెద్దగా నవ్వుతూ, \"తెనాలి, నీ తెలివికి సాటిలేదు!\" అని గర్వంగా అన్నారు. తెనాలి రామకృష్ణుడు — ఒక చిన్న నవ్వు నవ్వాడు, వినయంగా రాజుకు వంగి నమస్కరించాడు. ఆరోజు తెనాలి తెలివి విజయం సాధించింది, మౌన చర్చలోనూ తన చాతుర్యాన్ని నిరూపించుకున్నాడు.",
+      "image_prompt": "The minister bows respectfully to the king with a small smile. The assembly hall is filled with joyful applause and shouts of praise. Also in this scene: A pompous scholar from a neighboring kingdom, named 'దిగంబర శాస్త్రి' (Digambara Shastri). He has a towering physique, adorned with garlands of dried rudraksha beads and a bright red tilak on his forehead, always carrying an oversized, leather-bound ancient scripture. Always the same character across every scene. Gentle dusk light begins to filter through the windows, casting a warm, amber glow on the celebrating court, creating a peaceful and triumphant atmosphere for the resolution.",
+      "scene_visual": "The minister bows respectfully to the king with a small smile. The assembly hall is filled with joyful applause and shouts of praise.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya",
+        "courtier"
+      ],
+      "text_te_en": "Digambara Shaastri Purtigaa Avamaanapadi, Paraajayam Paalayyaadu, Atani Tala Vangipoyindi. Kopanto, Aagrahanto Atanu Sabhaamandiram Nundi Bayatiki Vellipoyaadu, Atani Adugulu Vegangaa Paddaayi. Aa Sabhaamandiram Antaa — Aanandapu Chappatlato Nindipoyindi, Sabhikulu Kekalu Vestu, Tenaalini Pogadasaagaaru. Raaju Krrishnadevaraayalu Peddagaa Navvutu, \"Tenaali, Ni Teliviki Saatiledu!\" Ani Garvangaa Annaaru. Tenaali Raamakrrishnudu — Oka Chinna Navvu Navvaadu, Vinayangaa Raajuku Vangi Namaskarinchaadu. Aaroju Tenaali Telivi Vijayam Saadhinchindi, Mauna Charchalonu Tana Chaaturyaanni Nirupinchukunnaadu.",
+      "text_en": "Digambara Shastri was completely humiliated and defeated, his head bowed down. With anger and rage, he left the assembly hall, his footsteps quick. The entire assembly hall – filled with joyful applause, as the courtiers cheered and praised Tenali. King Krishnadevaraya laughed loudly and proudly said, \"Tenali, your wit is unmatched!\" Tenali Ramakrishna – gave a small smile and humbly bowed to the King. That day, Tenali's cleverness triumphed, and he proved his skill even in a silent debate."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king_krishnadevaraya",
+      "description": "The benevolent and wise King Krishnadevaraya. He is a majestic figure, draped in rich silks and adorned with precious jewels, always seated on his golden throne with a thoughtful expression. Always the same character across every scene."
+    },
+    {
+      "key": "courtier",
+      "description": "A nervous courtier. He is a thin man with a perpetually worried expression, dressed in plain white dhoti and kurta, often seen wringing his hands. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 7,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story effectively captures a classic Tenali Rama tale with a compelling narrative arc and flawless grammar. The emotional progression is largely well-depicted through actions, contributing to good child engagement. However, the narrative voice is quite formal, lacking the warm, conversational tone of a grandparent telling a story. The most critical area for improvement is the severe lack of direct dialogue, which makes several scenes feel like a descriptive report rather than an unfolding interaction. To achieve a 9+, the story needs to be re-written with a more oral narrative style and significantly more direct, character-specific speech."
+  },
+  "quality_warning": true,
+  "title_te_en": "Maataleni Poti, Tenaali Telivi",
+  "moral_te_en": "Maatalu Lekapoyinaa, Telivaina Aalochanalato Edainaa Saadhinchavachchu Ani I Katha Manaku Nerputundi.",
+  "title_en": "The Silent Challenge, Tenali's Cleverness",
+  "moral_en": "This story teaches us that even without words, you can achieve anything with clever ideas.",
+  "id": "20260607_011023",
+  "date": "2026-06-07",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు 'మౌన చర్చ' విజేత",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_011023/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

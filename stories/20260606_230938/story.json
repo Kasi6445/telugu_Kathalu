@@ -1,0 +1,112 @@
+{
+  "title": "రాజు పొడుపు కథ",
+  "moral": "ఈ రోజులో ఆనందాన్ని వెతుక్కోవడం ఎంత గొప్పదో రాజు నేర్చుకున్నాడు.",
+  "main_character": "King Vikram. A young king, slender build, with dark, worried eyes and a perpetually furrowed brow. He often wears rich but slightly crumpled silk robes, suggesting his mind is elsewhere. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A grand royal palace in the ancient city of Warangal, Telangana, surrounded by lush, vibrant gardens with fragrant jasmine vines and towering mango trees. The sun often casts long, golden shadows across the intricate stone carvings. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకానొకప్పుడు, వరంగల్ కోటలో విక్రమ్ మహారాజు ఉండేవాడు, కానీ అతని మనసు ఎప్పుడూ ప్రశాంతంగా ఉండేది కాదు. అతను తన గదిలో అటూ ఇటూ నడుస్తూ ఉంటే, అతని ఖరీదైన పట్టు వస్త్రాలు నేలపై 'ఫస్ ఫస్' మని శబ్దం చేసేవి. అతని నుదుటిపై ముడుతలు, లోతైన నిట్టూర్పులు — రేపటి గురించి అతని ఆందోళనను చూపించేవి. 'రేపు ఏమవుతుందో అని నా మనస్సు ఎప్పుడూ కలవరపడుతోంది!' అని తనలో తనే అనుకున్నాడు. అతను కిటికీ దగ్గర ఆగి, బయట పచ్చటి తోట వైపు చూశాడు, కానీ అతని చూపుల్లో మాత్రం ప్రశాంతత లేదు. అతని మనసు అలసిపోయింది — నిద్ర కూడా పట్టలేదు.",
+      "image_prompt": "The king paces back and forth in his room, then stops by the window. His expensive silk robes rustle 'fus fus' on the floor, and deep furrows mark his brow. Early morning light, pale gold, filtering through tall arched windows, creating long shadows in the king's vast, empty room, highlighting his isolation.",
+      "scene_visual": "The king paces back and forth in his room, then stops by the window. His expensive silk robes rustle 'fus fus' on the floor, and deep furrows mark his brow.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okaanokappudu, Varangal Kotalo Vikram Mahaaraaju Undevaadu, Kaani Atani Manasu Eppudu Prashaantangaa Undedi Kaadu. Atanu Tana Gadilo Atu Itu Nadustu Unte, Atani Kharidaina Pattu Vastraalu Nelapai 'Phas Phas' Mani Shabdam Chesevi. Atani Nudutipai Mudutalu, Lotaina Nitturpulu — Repati Gurinchi Atani Aandolananu Chupinchevi. 'Repu Emavutundo Ani Naa Manassu Eppudu Kalavarapadutondi!' Ani Tanalo Tane Anukunnaadu. Atanu Kitiki Daggara Aagi, Bayata Pachchati Tota Vaipu Chushaadu, Kaani Atani Chupullo Maatram Prashaantata Ledu. Atani Manasu Alasipoyindi — Nidra Kudaa Pattaledu.",
+      "text_en": "Once upon a time, in Warangal Fort, lived King Vikram, but his mind was never peaceful. As he walked back and forth in his room, his expensive silk robes made a 'swish-swish' sound on the floor. Wrinkles on his forehead and deep sighs showed his worry about tomorrow. 'My mind is always troubled about what will happen tomorrow!' he thought to himself. He stopped by the window and looked out at the green garden, but there was no peace in his gaze. His mind was tired — he couldn't even sleep."
+    },
+    {
+      "id": 2,
+      "text": "మహారాజు కిటికీ నుండి బయటకు చూస్తుండగా, తోటమాలి మాలి రామయ్య తన తోటలో పాడుకుంటూ కనిపించాడు. తడి మట్టి, మల్లెపూల తీపి వాసన కిటికీ గుండా లోపలికి వచ్చింది — రామయ్య ముఖం ప్రశాంతంగా ఉంది. అతని పెదవులపై చిన్న చిరునవ్వు, ఎప్పుడూ సంతోషంగా ఉండేవాడు, రాజు నివ్వెరపోయాడు. 'రామయ్య, నీవు ఎప్పుడూ ఇంత ప్రశాంతంగా ఎలా ఉంటావు?' అని రాజు అడిగాడు, అతని చూపులు రామయ్య పనులపై నిలిచిపోయాయి. రామయ్య తల పైకెత్తి, రాజు వైపు చూసి నవ్వాడు — చాలా వెచ్చగా నవ్వాడు. రాజు అతని మాటల కోసం ముందుకు వంగాడు.",
+      "image_prompt": "The king leans forward from his window, his gaze fixed on the gardener working below. The sweet scent of jasmine and damp earth drifts through the window, and the gardener's face holds a peaceful smile. Bright, clear morning sun streaming into the garden, illuminating the vibrant flowers and the gardener's calm face, while the king remains slightly in the shadow of his window.",
+      "scene_visual": "The king leans forward from his window, his gaze fixed on the gardener working below. The sweet scent of jasmine and damp earth drifts through the window, and the gardener's face holds a peaceful smile.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Mahaaraaju Kitiki Nundi Bayataku Chustundagaa, Totamaali Maali Raamayya Tana Totalo Paadukuntu Kanipinchaadu. Tadi Matti, Mallepula Tipi Vaasana Kitiki Gundaa Lopaliki Vachchindi — Raamayya Mukham Prashaantangaa Undi. Atani Pedavulapai Chinna Chirunavvu, Eppudu Santoshangaa Undevaadu, Raaju Nivverapoyaadu. 'Raamayya, Nivu Eppudu Inta Prashaantangaa Elaa Untaavu?' Ani Raaju Adigaadu, Atani Chupulu Raamayya Panulapai Nilichipoyaayi. Raamayya Tala Paiketti, Raaju Vaipu Chusi Navvaadu — Chaalaa Vechchagaa Navvaadu. Raaju Atani Maatala Kosam Munduku Vangaadu.",
+      "text_en": "As the King looked out the window, he saw Mali Ramayya, the gardener, singing in his garden. The smell of wet earth and sweet jasmine flowers wafted in through the window — Ramayya's face was peaceful. A small smile was on his lips, he was always happy, and the King was astonished. 'Ramayya, how are you always so peaceful?' the King asked, his eyes fixed on Ramayya's work. Ramayya looked up, smiled at the King — a very warm smile. The King leaned forward, eager for his words."
+    },
+    {
+      "id": 3,
+      "text": "రామయ్య రాజు వైపు నవ్వుతూ, 'మహారాజా, ప్రశాంతంగా ఉండటానికి పెద్ద రహస్యాలేం లేవు, కానీ మీకు ఒక పొడుపు కథ చెబుతాను' అన్నాడు. దగ్గరి మామిడి చెట్టు నుండి పిచ్చుకల కిచకిచలు వినిపించాయి — ఆ ప్రశాంత వాతావరణంలో అతని మాటలు గంభీరంగా వినిపించాయి. 'ఎప్పుడూ వచ్చేది కానీ ఎన్నటికీ చేరనిది ఏమిటి?' అని రామయ్య అడిగాడు. రాజు తల కొద్దిగా పక్కకు వంచి, తన గడ్డం నిమురుకున్నాడు — అతని నుదుటిపై కొత్త ఆలోచనల ముడతలు పడ్డాయి. అతని కళ్ళు చిన్నగా మారాయి, అప్పటివరకు ఉన్న చింతలన్నీ మాయమయ్యాయి. ఇప్పుడు అతని మనసులో ఒకే ఒక్క ప్రశ్న — ఈ పొడుపు కథే.",
+      "image_prompt": "The king tilts his head slightly and strokes his beard, deep in thought. New wrinkles of contemplation appear on his forehead, replacing his previous worries. Mid-morning light, soft and even, dappling through the leaves of the garden trees where the king and gardener stand, creating a reflective, thoughtful mood.",
+      "scene_visual": "The king tilts his head slightly and strokes his beard, deep in thought. New wrinkles of contemplation appear on his forehead, replacing his previous worries.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Raamayya Raaju Vaipu Navvutu, 'Mahaaraajaa, Prashaantangaa Undataaniki Pedda Rahasyaalem Levu, Kaani Miku Oka Podupu Katha Chebutaanu' Annaadu. Daggari Maamidi Chettu Nundi Pichchukala Kichakichalu Vinipinchaayi — Aa Prashaanta Vaataavarananlo Atani Maatalu Gambhirangaa Vinipinchaayi. 'Eppudu Vachchedi Kaani Ennatiki Cheranidi Emiti?' Ani Raamayya Adigaadu. Raaju Tala Koddigaa Pakkaku Vanchi, Tana Gaddam Nimurukunnaadu — Atani Nudutipai Kotta Aalochanala Mudatalu Paddaayi. Atani Kallu Chinnagaa Maaraayi, Appativaraku Unna Chintalanni Maayamayyaayi. Ippudu Atani Manasulo Oke Okka Prashna — I Podupu Kathe.",
+      "text_en": "Ramayya smiled at the King and said, 'Your Majesty, there are no big secrets to being peaceful, but I will tell you a riddle.' The chirping of sparrows from a nearby mango tree could be heard — his words sounded profound in that peaceful atmosphere. 'What always comes but never arrives?' Ramayya asked. The King tilted his head slightly, stroking his beard — new wrinkles of thought appeared on his forehead. His eyes narrowed, and all his worries from before disappeared. Now, there was only one question in his mind — this riddle."
+    },
+    {
+      "id": 4,
+      "text": "పొడుపు కథ రాజు మనసును పూర్తిగా ఆక్రమించుకుంది, అతను మళ్ళీ అటూ ఇటూ నడవడం మొదలుపెట్టాడు. దూరం నుండి కమ్మరి కొడుతున్న సుత్తి శబ్దం 'టంగ్ టంగ్' మని వినిపించింది — కానీ రాజు చెవులకు అది చేరలేదు. అతను తనలో తనే గొణుక్కుంటూ, చేతులు పైకెత్తి దించుతూ ఉన్నాడు — అది అతని అసహనాన్ని చూపించింది. 'ఇది ఎలా సాధ్యం? ప్రతిదీ ఏదో ఒక రోజు వస్తుంది కదా!' అని విసుగుగా అన్నాడు. ఎన్నో సమాధానాలు అనుకున్నాడు, కానీ ఏవీ సరిపోలేదు, అతని ముఖం ముడుచుకుపోయింది. చివరికి అతను సింహాసనంపై కుప్పకూలిపోయాడు, కానీ అతని కళ్ళల్లో ఒక చిన్న నిప్పు రవ్వ మెరిసింది.",
+      "image_prompt": "The king paces back and forth again, muttering to himself and raising and lowering his hands in frustration. His face is contorted in a frown, and a tiny spark of determination glints in his eyes as he collapses onto the throne. Afternoon sun casting long, heavy shadows across the throne room, emphasizing the king's solitary struggle and growing weariness.",
+      "scene_visual": "The king paces back and forth again, muttering to himself and raising and lowering his hands in frustration. His face is contorted in a frown, and a tiny spark of determination glints in his eyes as he collapses onto the throne.",
+      "supporting_char_keys": [],
+      "text_te_en": "Podupu Katha Raaju Manasunu Purtigaa Aakraminchukundi, Atanu Malli Atu Itu Nadavadam Modalupettaadu. Duram Nundi Kammari Kodutunna Sutti Shabdam 'Tang Tang' Mani Vinipinchindi — Kaani Raaju Chevulaku Adi Cheraledu. Atanu Tanalo Tane Gonukkuntu, Chetulu Paiketti Dinchutu Unnaadu — Adi Atani Asahanaanni Chupinchindi. 'Idi Elaa Saadhyan? Pratidi Edo Oka Roju Vastundi Kadaa!' Ani Visugugaa Annaadu. Enno Samaadhaanaalu Anukunnaadu, Kaani Evi Saripoledu, Atani Mukham Muduchukupoyindi. Chivariki Atanu Sinhaasanampai Kuppakulipoyaadu, Kaani Atani Kallallo Oka Chinna Nippu Ravva Merisindi.",
+      "text_en": "The riddle completely occupied the King's mind, and he started walking back and forth again. From a distance, the 'clang-clang' sound of a blacksmith's hammer could be heard — but it didn't reach the King's ears. He muttered to himself, raising and lowering his hands — it showed his impatience. 'How is this possible? Everything comes someday, doesn't it!' he said, annoyed. He thought of many answers, but none fit, and his face crumpled. Finally, he slumped onto his throne, but a tiny spark gleamed in his eyes."
+    },
+    {
+      "id": 5,
+      "text": "అలసిపోయిన రాజు ఒక చెరువు గట్టున నిశ్శబ్దంగా కూర్చున్నాడు, అతని చూపులు నీటిలోని తామర పువ్వుపై నిలిచాయి. ఒక చిన్న కప్ప 'ప్లాప్' మని నీటిలోకి దూకింది, కానీ ఆ చప్పుడు రాజును కదపలేదు. తామర పువ్వు మెల్లగా వికసిస్తోంది — అప్పుడు అతని మనసులో ఒక వెలుగు మెరిసింది. అతను తనలో తనే గొణుక్కున్నాడు: 'అది ఎప్పుడూ వస్తూనే ఉంటుంది... కానీ ఎప్పుడూ చేరదు...' అతని నుదుటిపై ఉన్న చింతల ముడుతలు ఒక్కొక్కటిగా మాయమయ్యాయి. అతని పెదవులపై చిన్న చిరునవ్వు మెరిసింది — అంతా అర్థమైంది.",
+      "image_prompt": "The tired king sits silently by a pond, his gaze fixed on a blooming lotus flower. A small smile begins to form on his lips as the furrows of worry on his forehead gradually disappear. Late afternoon, soft, diffused golden light reflecting off the pond's surface, illuminating the king's contemplative face with a warm glow, suggesting clarity.",
+      "scene_visual": "The tired king sits silently by a pond, his gaze fixed on a blooming lotus flower. A small smile begins to form on his lips as the furrows of worry on his forehead gradually disappear.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alasipoyina Raaju Oka Cheruvu Gattuna Nishshabdangaa Kurchunnaadu, Atani Chupulu Nitiloni Taamara Puvvupai Nilichaayi. Oka Chinna Kappa 'Plaap' Mani Nitiloki Dukindi, Kaani Aa Chappudu Raajunu Kadapaledu. Taamara Puvvu Mellagaa Vikasistondi — Appudu Atani Manasulo Oka Velugu Merisindi. Atanu Tanalo Tane Gonukkunnaadu: 'Adi Eppudu Vastune Untundi... Kaani Eppudu Cheradu...' Atani Nudutipai Unna Chintala Mudutalu Okkokkatigaa Maayamayyaayi. Atani Pedavulapai Chinna Chirunavvu Merisindi — Antaa Arthamaindi.",
+      "text_en": "The tired King sat silently by a pond, his gaze fixed on a lotus flower in the water. A small frog jumped into the water with a 'plop,' but the sound didn't stir the King. The lotus flower was slowly blooming — then a light flashed in his mind. He muttered to himself: 'It always comes... but never arrives...' The worry lines on his forehead disappeared one by one. A small smile appeared on his lips — he understood everything."
+    },
+    {
+      "id": 6,
+      "text": "సమాధానం దొరికిన ఆనందంతో రాజు రామయ్య దగ్గరికి పరుగెత్తాడు, అతని అడుగుల కింద కంకర 'కర్ర్ కర్ర్' మని శబ్దం చేసింది. అతని ముఖం వెలిగిపోయింది, కళ్ళు మెరిశాయి — అతని నడకలో ఒక కొత్త ఉత్సాహం కనిపించింది. 'రామయ్య! ఆ పొడుపు కథకు సమాధానం 'రేపు'!' అని పెద్దగా అరిచాడు. 'అది ఎప్పుడూ వస్తుంది కానీ ఎన్నటికీ చేరదు, ఎందుకంటే అది ఎప్పటికీ 'ఈ రోజు' కాదు!' అని సంతోషంగా చెప్పాడు. రామయ్య అతని వైపు నవ్వుతూ, తల ఊపాడు — మహారాజు ముఖంలో ఒక గొప్ప ప్రశాంతత కనిపించింది. మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? రాజుకు కేవలం పొడుపు కథ సమాధానం మాత్రమే కాదు, జీవిత రహస్యం కూడా అర్థమైంది.",
+      "image_prompt": "The king runs towards the gardener, his face beaming with excitement. Gravel crunches 'karr karr' under his feet, and his eyes sparkle with a new enthusiasm. Early evening, warm, golden hour light bathing the garden in a soft, celebratory glow, highlighting the king's radiant face and the gardener's serene expression.",
+      "scene_visual": "The king runs towards the gardener, his face beaming with excitement. Gravel crunches 'karr karr' under his feet, and his eyes sparkle with a new enthusiasm.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Samaadhaanam Dorikina Aanandanto Raaju Raamayya Daggariki Parugettaadu, Atani Adugula Kinda Kankara 'Karr Karr' Mani Shabdam Chesindi. Atani Mukham Veligipoyindi, Kallu Merishaayi — Atani Nadakalo Oka Kotta Utsaaham Kanipinchindi. 'Raamayya! Aa Podupu Kathaku Samaadhaanam 'Repu'!' Ani Peddagaa Arichaadu. 'Adi Eppudu Vastundi Kaani Ennatiki Cheradu, Endukante Adi Eppatiki 'I Roju' Kaadu!' Ani Santoshangaa Cheppaadu. Raamayya Atani Vaipu Navvutu, Tala Upaadu — Mahaaraaju Mukhanlo Oka Goppa Prashaantata Kanipinchindi. Miku Telusaa, Appudu Em Jarigindo? Raajuku Kevalam Podupu Katha Samaadhaanam Maatrame Kaadu, Jivita Rahasyam Kudaa Arthamaindi.",
+      "text_en": "With the joy of finding the answer, the King ran towards Ramayya, the gravel crunching 'crr-crr' under his feet. His face lit up, his eyes sparkled — a new energy was visible in his walk. 'Ramayya! The answer to that riddle is 'Tomorrow'!' he shouted loudly. 'It always comes but never arrives, because it is never 'Today'!' he said happily. Ramayya smiled at him and nodded — a great peace was visible on the King's face. Do you know what happened then? The King not only understood the answer to the riddle but also the secret of life."
+    },
+    {
+      "id": 7,
+      "text": "ఆ రోజు నుండి విక్రమ్ మహారాజు మారిపోయాడు, అతని గదిలోని బల్లపై తాజాగా పెట్టిన పూల రంగులు ఆనందంగా మెరిశాయి. అతను తన సింహాసనంపై హాయిగా కూర్చున్నాడు, అతని ముఖంలో ప్రశాంతమైన చిరునవ్వు కనిపించింది. అతను తన ప్రజల మాటలను శ్రద్ధగా వినేవాడు, వారి సమస్యలను ఓపిగ్గా పరిష్కరించేవాడు — అతని చూపుల్లో కొత్త వెలుగు ఉంది. తోటమాలి రామయ్యను చూసి మనస్ఫూర్తిగా నవ్వేవాడు. 'ఈ రోజు పని ఈ రోజే పూర్తి చేద్దాం, రామయ్య. రేపు దానికదే వస్తుంది' అని రాజు అన్నాడు. అతను రేపటి గురించి చింతించడం మానేశాడు — ఈ రోజును ఆస్వాదించడం మొదలుపెట్టాడు.",
+      "image_prompt": "The king sits comfortably on his throne, attentively listening to his people. A serene smile graces his face, and a new light shines in his eyes. Bright, clear mid-morning sun filling the king's court, illuminating the busy, productive atmosphere and the king's serene, engaged demeanor.",
+      "scene_visual": "The king sits comfortably on his throne, attentively listening to his people. A serene smile graces his face, and a new light shines in his eyes.",
+      "supporting_char_keys": [
+        "gardener"
+      ],
+      "text_te_en": "Aa Roju Nundi Vikram Mahaaraaju Maaripoyaadu, Atani Gadiloni Ballapai Taajaagaa Pettina Pula Rangulu Aanandangaa Merishaayi. Atanu Tana Sinhaasanampai Haayigaa Kurchunnaadu, Atani Mukhanlo Prashaantamaina Chirunavvu Kanipinchindi. Atanu Tana Prajala Maatalanu Shraddhagaa Vinevaadu, Vaari Samasyalanu Opiggaa Parishkarinchevaadu — Atani Chupullo Kotta Velugu Undi. Totamaali Raamayyanu Chusi Manasphurtigaa Navvevaadu. 'I Roju Pani I Roje Purti Cheddaan, Raamayya. Repu Daanikade Vastundi' Ani Raaju Annaadu. Atanu Repati Gurinchi Chintinchadam Maaneshaadu — I Rojunu Aasvaadinchadam Modalupettaadu.",
+      "text_en": "From that day on, King Vikram changed, the colors of the fresh flowers on the table in his room shone happily. He sat comfortably on his throne, a peaceful smile on his face. He listened carefully to his people, patiently solved their problems — there was a new light in his eyes. He would smile heartily when he saw Ramayya, the gardener. 'Let's finish today's work today, Ramayya. Tomorrow will come on its own,' the King said. He stopped worrying about tomorrow — he started enjoying today."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "gardener",
+      "description": "Mali Ramaiah. An elderly man, lean and strong, with sun-weathered skin, kind eyes, and a long white beard tied neatly. He wears simple, clean white dhoti and a faded green turban, always carrying a small watering can. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.1,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a compelling narrative arc and excellent child engagement, largely due to the clever use of a riddle and direct address. The language is natural and grammatically flawless, enhancing its oral storytelling quality. To elevate it to an award-worthy piece, the most crucial improvement would be to consistently show emotions through character actions and subtle cues, rather than explicitly stating them, allowing for a deeper, more immersive experience for the young listener."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raaju Podupu Katha",
+  "moral_te_en": "I Rojulo Aanandaanni Vetukkovadam Enta Goppado Raaju Nerchukunnaadu.",
+  "title_en": "The King's Riddle",
+  "moral_en": "The King learned how wonderful it is to find joy in today.",
+  "id": "20260606_230938",
+  "date": "2026-06-06",
+  "category": "podupu",
+  "subcategory": "royal_riddles",
+  "topic": "రేపటి గురించి ఆలోచిస్తూ గడిపే రాజుకు 'ఎప్పుడూ వచ్చేది కానీ చేరనిది' పొడుపు కథను చెప్పిన తోటమాలి.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260606_230938/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

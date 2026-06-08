@@ -1,0 +1,98 @@
+{
+  "title": "గర్వం వద్దు, శ్రమ వద్దు",
+  "moral": "చిన్నవైనా, పెద్దవైనా, అందరి కృషికి విలువ ఉంటుంది, అహంకారం ఎప్పుడూ మంచిది కాదు.",
+  "main_character": "A magnificent eagle, large and powerful, with gleaming golden-brown feathers and piercing yellow eyes. He believes himself superior to all other creatures due to his strength and ability to fly high, often displaying a puffed chest and dismissive gaze. Always the same character across every scene.",
+  "antagonist": "Thousands of tiny, reddish-brown worker ants, each no bigger than a grain of rice, moving in disciplined lines. Their collective effort and unwavering determination are their defining traits, often represented by a single 'spokes-ant' or the visible flow of their organized movement. Always the same character across every scene.",
+  "setting": "A lush forest in the Godavari river delta region, filled with ancient Banyan trees, vibrant green foliage, and a winding stream. The story unfolds primarily near a massive, fruit-laden mango tree and a hidden ant colony entrance beneath its roots, during a bright, sunny afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అడవి ఆకాశంలో పక్షిరాజు గొప్పగా ఎగురుతున్నాడు, అతని బంగారు రెక్కలు సూర్యరశ్మిలో మెరిసిపోతున్నాయి. నదిలోని తన ప్రతిబింబాన్ని చూసి, అతని ఛాతీ పొంగిపోయింది. రెక్కల గాలి వేగానికి — చుట్టూ ఉన్న చెట్ల కొమ్మలు కదిలిపోతున్నాయి. “నన్ను మించిన పక్షి ఈ అడవిలో ఏది లేదు!” అని గట్టిగా అనుకున్నాడు. ఆకాశంలో నెమ్మదిగా ఒక వలయం తిరుగుతూ, అతని చూపులు కిందకు పడ్డాయి. ఒక పెద్ద మామిడి చెట్టు కొమ్మ మీద వాలినప్పుడు, కింద ఏదో చిన్నది కదులుతూ కనిపించింది.",
+      "image_prompt": "The large bird soars majestically in the forest sky, its golden wings spread wide. Its golden wings shimmer brightly as they catch the sunlight. Bright midday sun, casting sharp shadows from the leaves, highlighting Pakshiraju's golden feathers against the deep blue sky.",
+      "scene_visual": "The large bird soars majestically in the forest sky, its golden wings spread wide. Its golden wings shimmer brightly as they catch the sunlight.",
+      "supporting_char_keys": [],
+      "text_te_en": "Adavi Aakaashanlo Pakshiraaju Goppagaa Egurutunnaadu, Atani Bangaaru Rekkalu Suryarashmilo Merisipotunnaayi. Nadiloni Tana Pratibimbaanni Chusi, Atani Chaati Pongipoyindi. Rekkala Gaali Vegaaniki — Chuttu Unna Chetla Kommalu Kadilipotunnaayi. “Nannu Minchina Pakshi I Adavilo Edi Ledu!” Ani Gattigaa Anukunnaadu. Aakaashanlo Nemmadigaa Oka Valayam Tirugutu, Atani Chupulu Kindaku Paddaayi. Oka Pedda Maamidi Chettu Komma Mida Vaalinappudu, Kinda Edo Chinnadi Kadulutu Kanipinchindi.",
+      "text_en": "In the forest sky, the Bird King was flying grandly, his golden wings shining in the sunlight. Seeing his reflection in the river, his chest swelled with pride. The speed of the wind from his wings made the surrounding tree branches sway. \"There is no bird in this forest greater than me!\" he thought loudly. Slowly circling in the sky, his gaze fell downwards. When he landed on a big mango tree branch, he saw something small moving below."
+    },
+    {
+      "id": 2,
+      "text": "పక్షిరాజు కళ్ళు మామిడి చెట్టు కింద ఉన్న చీమల పుట్ట వైపు మళ్ళాయి. వేలాది చీమలు చిన్న చిన్న ఆహారపు ముక్కలను మోసుకుంటూ, అవిశ్రాంతంగా కదులుతున్నాయి. ఆ ఎండుటాకుల సన్నటి శబ్దం — చీమల నిరంతర శ్రమకు నిదర్శనం. అతను తన ముక్కును పైకి ఎత్తి, చిన్నగా నవ్వాడు. “ఈ చిన్న ప్రాణులు ఎంత శ్రమించినా, నా ఒక్క రెక్క విసురుకు సరిపోవు!” అని అనుకుంటూ, వాటిని పట్టించుకోకుండా తల పక్కకు తిప్పేశాడు. కానీ, అంతలోనే అడవిలో ఒక మార్పు మొదలైంది; చెట్ల ఆకులు పసుపు రంగులోకి మారి, మెల్లగా ముడుచుకుపోతున్నాయి.",
+      "image_prompt": "The large bird lifts its beak and chuckles softly, then turns its head away from the ant hill. Thousands of ants below tirelessly carry tiny food pieces, making a faint rustling sound among the dry leaves. Also in this scene: Thousands of tiny, reddish-brown worker ants, each no bigger than a grain of rice, moving in disciplined lines. Their collective effort and unwavering determination are their defining traits, often represented by a single 'spokes-ant' or the visible flow of their organized movement. Always the same character across every scene. Late morning sun, beginning to feel hot and dry, casting a yellowish tint over the usually lush green leaves of the forest.",
+      "scene_visual": "The large bird lifts its beak and chuckles softly, then turns its head away from the ant hill. Thousands of ants below tirelessly carry tiny food pieces, making a faint rustling sound among the dry leaves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pakshiraaju Kallu Maamidi Chettu Kinda Unna Chimala Putta Vaipu Mallaayi. Velaadi Chimalu Chinna Chinna Aahaarapu Mukkalanu Mosukuntu, Avishraantangaa Kadulutunnaayi. Aa Endutaakula Sannati Shabdam — Chimala Nirantara Shramaku Nidarshanan. Atanu Tana Mukkunu Paiki Etti, Chinnagaa Navvaadu. “I Chinna Praanulu Enta Shraminchinaa, Naa Okka Rekka Visuruku Saripovu!” Ani Anukuntu, Vaatini Pattinchukokundaa Tala Pakkaku Tippeshaadu. Kaani, Antalone Adavilo Oka Maarpu Modalaindi; Chetla Aakulu Pasupu Ranguloki Maari, Mellagaa Muduchukupotunnaayi.",
+      "text_en": "The Bird King's eyes turned towards the anthill under the mango tree. Thousands of ants were tirelessly moving, carrying tiny pieces of food. The faint rustle of dry leaves was a testament to the ants' continuous hard work. He lifted his beak and chuckled softly. \"No matter how hard these tiny creatures work, they are no match for a single flap of my wing!\" he thought, and turned his head away, ignoring them. But soon, a change began in the forest; the tree leaves turned yellow and slowly started to curl up."
+    },
+    {
+      "id": 3,
+      "text": "కొద్ది రోజుల్లోనే అడవిని కరువు చుట్టుముట్టింది, ఎండిన నేల పగిలిపోయి, దుమ్ము వాసన అంతటా నిండిపోయింది. పక్షిరాజు తన రెక్కలు అంతకుముందులా ధైర్యంగా విప్పుకోలేకపోయాడు, అతని చూపులు వేట కోసం ఆందోళనగా వెతుకుతున్నాయి. అతని కడుపులో మొదటి ఆకలి బాధ — గుండెను పిండేస్తోంది. “ఈ అడవిలో వేట దొరకడం కష్టంగా మారింది,” అని నిట్టూర్చాడు. కానీ, ఆశ్చర్యంగా, చీమలు ఇంకా క్రమశిక్షణతో కదులుతూ, చిన్న నీటి బిందువులను, తేమ ఉన్న మొక్కల భాగాలను మోసుకుపోతున్నాయి.",
+      "image_prompt": "The large bird struggles to spread its wings boldly as before, its gaze anxiously searching for prey. The parched, cracked earth below is filled with the smell of dust, indicating a severe drought. Also in this scene: Thousands of tiny, reddish-brown worker ants, each no bigger than a grain of rice, moving in disciplined lines. Their collective effort and unwavering determination are their defining traits, often represented by a single 'spokes-ant' or the visible flow of their organized movement. Always the same character across every scene. Harsh, bright afternoon sun beating down, making everything look parched and bleached, with a hazy, yellowish sky.",
+      "scene_visual": "The large bird struggles to spread its wings boldly as before, its gaze anxiously searching for prey. The parched, cracked earth below is filled with the smell of dust, indicating a severe drought.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koddi Rojullone Adavini Karuvu Chuttumuttindi, Endina Nela Pagilipoyi, Dummu Vaasana Antataa Nindipoyindi. Pakshiraaju Tana Rekkalu Antakumundulaa Dhairyangaa Vippukolekapoyaadu, Atani Chupulu Veta Kosam Aandolanagaa Vetukutunnaayi. Atani Kadupulo Modati Aakali Baadha — Gundenu Pindestondi. “I Adavilo Veta Dorakadam Kashtangaa Maarindi,” Ani Nitturchaadu. Kaani, Aashcharyangaa, Chimalu Inkaa Kramashikshanato Kadulutu, Chinna Niti Binduvulanu, Tema Unna Mokkala Bhaagaalanu Mosukupotunnaayi.",
+      "text_en": "In a few days, drought gripped the forest, the dry ground cracked, and the smell of dust filled the air everywhere. The Bird King could no longer spread his wings bravely as before; his eyes anxiously searched for prey. The first pang of hunger in his stomach was wrenching his heart. \"It has become difficult to find prey in this forest,\" he sighed. But surprisingly, the ants were still moving with discipline, carrying tiny water droplets and moist plant parts."
+    },
+    {
+      "id": 4,
+      "text": "పక్షిరాజు తన అలవాటైన వేట స్థలాలకు వెళ్ళాడు, కానీ ఎక్కడా ఆహారం కనిపించలేదు. అతను కోపంగా అటూ ఇటూ ఎగురుతూ, తల ఆగ్రహంగా కదుపుతున్నాడు. పారిన అడవిలో ఇంకో పక్షి ఆకలి కేక — దూరంగా వినిపించింది. “ఎక్కడికి వెళ్ళినా శూన్యమే! ఈ చీమలకు మాత్రం ఎలా దొరుకుతోంది?” అని చిరాకు పడ్డాడు. ఆకలి తట్టుకోలేక, చీమల పుట్ట వైపు వేగంగా దూకి, వాటి ఆహారాన్ని లాక్కోవాలని అనుకున్నాడు... కానీ, ఆగిపోయాడు.",
+      "image_prompt": "The large bird, unable to bear its hunger, dives rapidly towards the ant hill, intending to snatch their food. It abruptly stops mid-action, its head shaking with frustration as it hovers above the ground. Also in this scene: Thousands of tiny, reddish-brown worker ants, each no bigger than a grain of rice, moving in disciplined lines. Their collective effort and unwavering determination are their defining traits, often represented by a single 'spokes-ant' or the visible flow of their organized movement. Always the same character across every scene. Late afternoon, the sun a dull orange ball through a dusty haze, casting long, weak shadows, emphasizing the emptiness.",
+      "scene_visual": "The large bird, unable to bear its hunger, dives rapidly towards the ant hill, intending to snatch their food. It abruptly stops mid-action, its head shaking with frustration as it hovers above the ground.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pakshiraaju Tana Alavaataina Veta Sthalaalaku Vellaadu, Kaani Ekkadaa Aahaaram Kanipinchaledu. Atanu Kopangaa Atu Itu Egurutu, Tala Aagrahangaa Kaduputunnaadu. Paarina Adavilo Inko Pakshi Aakali Keka — Durangaa Vinipinchindi. “Ekkadiki Vellinaa Shunyame! I Chimalaku Maatram Elaa Dorukutondi?” Ani Chiraaku Paddaadu. Aakali Tattukoleka, Chimala Putta Vaipu Vegangaa Duki, Vaati Aahaaraanni Laakkovaalani Anukunnaadu... Kaani, Aagipoyaadu.",
+      "text_en": "The Bird King went to his usual hunting grounds, but no food was to be found anywhere. He flew angrily back and forth, shaking his head in frustration. In the parched forest, another bird's hungry cry was heard in the distance. \"Everywhere I go, it's empty! How are these ants finding anything?\" he grumbled. Unable to bear the hunger, he thought of quickly swooping towards the anthill to snatch their food... but he stopped."
+    },
+    {
+      "id": 5,
+      "text": "పక్షిరాజు చీమల పుట్టలోకి దూకినప్పుడు, వేలాది చీమలు ఒక్కసారిగా అతనిపైకి ఎగబడ్డాయి. వాటి శక్తి అతనిని కంగారు పెట్టింది, గుట్ట లోపల ఉన్న సొరంగాలు అతనికి అంతుచిక్కలేదు. అతని రెక్కలు అలసిపోయి కింద పడిపోయాయి, కళ్ళు కొత్త ఆశ్చర్యంతో నేలను చూస్తున్నాయి. ఆ చీమల పుట్ట నుండి వస్తున్న మట్టి వాసన — అతని అలసటను మరింత పెంచింది. “ఈ చిన్న కీటకాలకు ఇంత శక్తి ఎలా వచ్చింది?” అని ఆశ్చర్యపోయాడు. ఇప్పుడు అతను మరింత అలసిపోయి, ఆకలితో ఉన్నాడు.",
+      "image_prompt": "The large bird's wings fall tiredly as thousands of ants swarm over it inside the ant hill. Its eyes gaze at the ground with new surprise, overwhelmed by the ants' unexpected strength. Also in this scene: Thousands of tiny, reddish-brown worker ants, each no bigger than a grain of rice, moving in disciplined lines. Their collective effort and unwavering determination are their defining traits, often represented by a single 'spokes-ant' or the visible flow of their organized movement. Always the same character across every scene. Twilight begins, the forest floor is bathed in deep purples and blues, with only faint glimmers of orange from the setting sun touching the highest branches.",
+      "scene_visual": "The large bird's wings fall tiredly as thousands of ants swarm over it inside the ant hill. Its eyes gaze at the ground with new surprise, overwhelmed by the ants' unexpected strength.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pakshiraaju Chimala Puttaloki Dukinappudu, Velaadi Chimalu Okkasaarigaa Atanipaiki Egabaddaayi. Vaati Shakti Atanini Kangaaru Pettindi, Gutta Lopala Unna Sorangaalu Ataniki Antuchikkaledu. Atani Rekkalu Alasipoyi Kinda Padipoyaayi, Kallu Kotta Aashcharyanto Nelanu Chustunnaayi. Aa Chimala Putta Nundi Vastunna Matti Vaasana — Atani Alasatanu Marinta Penchindi. “I Chinna Kitakaalaku Inta Shakti Elaa Vachchindi?” Ani Aashcharyapoyaadu. Ippudu Atanu Marinta Alasipoyi, Aakalito Unnaadu.",
+      "text_en": "When the Bird King swooped into the anthill, thousands of ants swarmed him all at once. Their strength startled him, and the tunnels inside the mound were a mystery to him. His wings, tired, drooped down, and his eyes looked at the ground with new surprise. The earthy smell coming from the anthill increased his weariness even more. \"How did these tiny insects get so much strength?\" he wondered. Now he was even more tired and hungry."
+    },
+    {
+      "id": 6,
+      "text": "అలసిపోయిన పక్షిరాజు ఒక చిన్న కొమ్మ మీద వాలి, ఆ చీమల వైపు చూశాడు. అవి ఒక లోతైన పగులులోకి క్రమపద్ధతిలో వెళ్తున్నాయి, అక్కడి నుండి తేమను సేకరిస్తున్నాయని అతనికి అర్థమైంది. అతనికి ఎప్పుడూ అందుబాటులో లేని నీటి వనరు — ఆ చీమల శ్రమ వల్ల బయటపడింది. చీమల అడుగుల సన్నని శబ్దం — ఇప్పుడు పట్టుదలతో కూడిన సైనిక నడకలా వినిపించింది. మీకు తెలుసా? ఆ క్షణంలో అతని తల వంగిపోయింది, కళ్ళలో గౌరవం నిండింది. “నా అహంకారం నన్ను గుడ్డిది చేసింది. ఈ చిన్న ప్రాణుల నుండి నేను నేర్చుకోవాలి,” అని మనసులో అనుకున్నాడు. మెల్లగా, చీమల పుట్ట వైపు నడిచాడు — కోపంతో కాదు, వినయంతో.",
+      "image_prompt": "The tired bird perches on a small branch, then bows its head low. Its eyes are filled with respect as it watches the ants methodically entering a deep crack to gather moisture. Also in this scene: Thousands of tiny, reddish-brown worker ants, each no bigger than a grain of rice, moving in disciplined lines. Their collective effort and unwavering determination are their defining traits, often represented by a single 'spokes-ant' or the visible flow of their organized movement. Always the same character across every scene. Soft, cool moonlight filters through the canopy, creating intricate silver patterns on the forest floor, illuminating Pakshiraju's humble posture.",
+      "scene_visual": "The tired bird perches on a small branch, then bows its head low. Its eyes are filled with respect as it watches the ants methodically entering a deep crack to gather moisture.",
+      "supporting_char_keys": [],
+      "text_te_en": "Alasipoyina Pakshiraaju Oka Chinna Komma Mida Vaali, Aa Chimala Vaipu Chushaadu. Avi Oka Lotaina Pagululoki Kramapaddhatilo Veltunnaayi, Akkadi Nundi Temanu Sekaristunnaayani Ataniki Arthamaindi. Ataniki Eppudu Andubaatulo Leni Niti Vanaru — Aa Chimala Shrama Valla Bayatapadindi. Chimala Adugula Sannani Shabdam — Ippudu Pattudalato Kudina Sainika Nadakalaa Vinipinchindi. Miku Telusaa? Aa Kshananlo Atani Tala Vangipoyindi, Kallalo Gauravam Nindindi. “Naa Ahankaaram Nannu Guddidi Chesindi. I Chinna Praanula Nundi Nenu Nerchukovaali,” Ani Manasulo Anukunnaadu. Mellagaa, Chimala Putta Vaipu Nadichaadu — Kopanto Kaadu, Vinayanto.",
+      "text_en": "The tired Bird King perched on a small branch and watched the ants. He understood that they were systematically going into a deep crack, collecting moisture from there. A water source, never available to him before, was revealed by the ants' hard work. The faint sound of the ants' footsteps now sounded like a determined military march. Do you know? In that moment, his head bowed, and his eyes filled with respect. \"My pride made me blind. I must learn from these tiny creatures,\" he thought to himself. Slowly, he walked towards the anthill — not with anger, but with humility."
+    },
+    {
+      "id": 7,
+      "text": "పక్షిరాజు చీమల పుట్ట దగ్గరికి వెళ్ళి, వినయంగా వాటి సహాయం కోరాడు. అతనిలో వచ్చిన మార్పును చూసి, చీమలు తమ దగ్గరున్న నీటిని, ఆహారాన్ని అతనితో పంచుకున్నాయి. ఆ చల్లటి నీరు అతని గొంతులోకి వెళ్ళగానే — ప్రాణం లేచి వచ్చినట్లయింది. “మీరు నాకు నేర్పిన పాఠం నేను ఎన్నటికీ మర్చిపోను,” అని కృతజ్ఞతగా అన్నాడు. పక్షిరాజులో అహంకారం పోయి, కొత్తగా ఒక గౌరవం, ప్రశాంతత నిండాయి. అప్పటి నుండి, అడవిలో ఏ చిన్న ప్రాణినీ తక్కువగా చూడలేదు.",
+      "image_prompt": "The large bird humbly approaches the ant hill and drinks the cool water offered by the ants. As the water goes down its throat, a sense of life returns to its body, replacing its former arrogance with peace. Also in this scene: Thousands of tiny, reddish-brown worker ants, each no bigger than a grain of rice, moving in disciplined lines. Their collective effort and unwavering determination are their defining traits, often represented by a single 'spokes-ant' or the visible flow of their organized movement. Always the same character across every scene. Gentle pre-dawn light, soft grey-blue hues spreading through the forest, hinting at a new beginning and hope.",
+      "scene_visual": "The large bird humbly approaches the ant hill and drinks the cool water offered by the ants. As the water goes down its throat, a sense of life returns to its body, replacing its former arrogance with peace.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pakshiraaju Chimala Putta Daggariki Velli, Vinayangaa Vaati Sahaayam Koraadu. Atanilo Vachchina Maarpunu Chusi, Chimalu Tama Daggarunna Nitini, Aahaaraanni Atanito Panchukunnaayi. Aa Challati Niru Atani Gontuloki Vellagaane — Praanam Lechi Vachchinatlayindi. “Miru Naaku Nerpina Paatham Nenu Ennatiki Marchiponu,” Ani Krritajnyatagaa Annaadu. Pakshiraajulo Ahankaaram Poyi, Kottagaa Oka Gauravan, Prashaantata Nindaayi. Appati Nundi, Adavilo E Chinna Praanini Takkuvagaa Chudaledu.",
+      "text_en": "The Bird King went to the anthill and humbly asked for their help. Seeing the change in him, the ants shared their water and food with him. As the cool water went down his throat, it was as if life had returned to him. \"I will never forget the lesson you taught me,\" he said gratefully. The Bird King's pride was gone, replaced by a new sense of respect and peace. From then on, he never looked down on any small creature in the forest."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc with a clear character transformation, and its flawless grammar makes it a joy to read. The use of suspense and a direct address (\"మీకు తెలుసా?\") significantly boosts child engagement. To elevate it to an award-worthy piece (9+), the most crucial step is to consistently infuse a warm, oral storytelling voice throughout, minimizing formal descriptions. Additionally, focusing on showing emotions entirely through action and dialogue, rather than stating them, would deepen its impact."
+  },
+  "quality_warning": true,
+  "title_te_en": "Garvam Vaddu, Shrama Vaddu",
+  "moral_te_en": "Chinnavainaa, Peddavainaa, Andari Krrishiki Viluva Untundi, Ahankaaram Eppudu Manchidi Kaadu.",
+  "title_en": "No Pride, Value Effort",
+  "moral_en": "Whether small or big, everyone's effort has value, and pride is never good.",
+  "id": "20260607_211054",
+  "date": "2026-06-07",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - అహంకారి పక్షిరాజు మరియు నిరంతరం శ్రమించే చీమల కాలనీ",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_211054/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

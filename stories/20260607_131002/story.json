@@ -1,0 +1,119 @@
+{
+  "title": "మిణుగురుల దారి, మంచి మనసుల వెలుగు",
+  "moral": "హృదయం నుండి చేసే చిన్న మంచి పనులు కూడా గొప్ప వెలుగును సృష్టించి, అద్భుతమైన మార్పులను తీసుకువస్తాయని ఈ కథ మనకు నేర్పుతుంది.",
+  "main_character": "Leela. An 8-year-old village girl with bright, curious eyes and a gentle smile. She often wears a simple, faded blue cotton dress. She is kind-hearted but sometimes doubts the impact of her own small actions. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small village named Anandapuram in rural Andhra Pradesh, nestled by lush green fields and a winding river. The air is always filled with the scent of jasmine and wet earth after the evening dew. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "చీకటి పడుతున్న వేళ, ఆనందపురం పొలాల గట్లపై లీలా మౌనంగా కూర్చుంది. చుట్టూ మల్లెల సువాసన నిండిన గాలిలో, ఆమె కళ్ళు ఆకాశంలో మెరుస్తున్న నక్షత్రాల వైపు చూశాయి, కానీ ఆమె ఆలోచనలన్నీ కింద మెరుస్తున్న మిణుగురు పురుగుల మీదనే ఉన్నాయి. ఒక నిట్టూర్పు ఆమె పెదవుల నుండి జారింది, ఆ చిన్న వెలుగులు ఎలా ఇంత ప్రకాశాన్ని ఇస్తాయని ఆమె తల పక్కకు వంచి ఆశ్చర్యపోయింది. \"ఈ చిన్న మిణుగురు పురుగులు ఎలా ఇంత ప్రకాశాన్ని ఇస్తాయి?\" అని తనలో తనే అనుకుంది, వాటిని అందుకోవడానికి ఆమె చిన్న చేతులు చాచింది. ఒక్కే ఒక్కటి, కళ్ళ ముందు మెరిసింది — మిగిలిన వాటికంటే ఎంతో ప్రకాశవంతంగా, ఆ క్షణంలోనే చీకట్లో కలిసిపోయింది.",
+      "image_prompt": "The girl sits silently on the field embankment, extending her small hands towards the glowing fireflies. Her head is tilted in wonder as a single, exceptionally bright firefly flashes before her eyes before disappearing into the darkness. Soft, fading twilight, with the last streaks of orange and purple on the horizon, giving way to a deep indigo sky dotted with the first faint blinks of fireflies.",
+      "scene_visual": "The girl sits silently on the field embankment, extending her small hands towards the glowing fireflies. Her head is tilted in wonder as a single, exceptionally bright firefly flashes before her eyes before disappearing into the darkness.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chikati Padutunna Vela, Aanandapuram Polaala Gatlapai Lilaa Maunangaa Kurchundi. Chuttu Mallela Suvaasana Nindina Gaalilo, Aame Kallu Aakaashanlo Merustunna Nakshatraala Vaipu Chushaayi, Kaani Aame Aalochanalanni Kinda Merustunna Minuguru Purugula Midane Unnaayi. Oka Nitturpu Aame Pedavula Nundi Jaarindi, Aa Chinna Velugulu Elaa Inta Prakaashaanni Istaayani Aame Tala Pakkaku Vanchi Aashcharyapoyindi. \"I Chinna Minuguru Purugulu Elaa Inta Prakaashaanni Istaayi?\" Ani Tanalo Tane Anukundi, Vaatini Andukovadaaniki Aame Chinna Chetulu Chaachindi. Okke Okkati, Kalla Mundu Merisindi — Migilina Vaatikante Ento Prakaashavantangaa, Aa Kshananlone Chikatlo Kalisipoyindi.",
+      "text_en": "As evening fell, Leela sat quietly on the edges of the fields in Anandapuram. The air was full of the sweet smell of jasmine. Her eyes looked up at the twinkling stars, but her thoughts were all about the fireflies glowing down below. A little sigh came from her lips. She tilted her head, wondering how such tiny lights could shine so brightly. \"How do these little fireflies make so much light?\" she whispered to herself, reaching out her small hands to catch them. Just one, twinkled right in front of her eyes — much brighter than all the others. Then, in a flash, it vanished into the dark."
+    },
+    {
+      "id": 2,
+      "text": "మిణుగురు పురుగు మాయమైన వెంటనే, లీలా ఆ ఆలోచనలతోనే అమ్మమ్మ ఇంటికి పరుగుపెట్టింది. లోపలికి అడుగుపెట్టగానే, పసుపు, ఎండిన మూలికల మట్టి వాసన ఆమెకు స్వాగతం పలికింది, అమ్మమ్మ వంట చేస్తూ కనిపించింది. లీలా అమ్మమ్మ పక్కన కూర్చుని, తన అనుభవాన్ని చెప్పింది, అమ్మమ్మ మాటల కోసం ఆమె కళ్ళు ఎదురుచూశాయి. అమ్మమ్మ ఆమె తల నిమిరి, కళ్ళల్లోకి ప్రేమగా చూస్తూ, \"ప్రతి మంచి పని ఒక చిన్న వెలుగును సృష్టిస్తుంది, లీలా,\" అని మెల్లగా చెప్పింది. ఆమె కళ్ళు మూసుకుంది, పెదవులపై ఒక చిన్న నవ్వు మెరిసింది — అవి కనిపించవు, కానీ ఎప్పుడూ ఉంటాయి.",
+      "image_prompt": "The old woman gently strokes the girl's head while looking lovingly into her eyes. The girl's eyes are closed, and a small smile plays on her lips as she listens. Warm, flickering oil lamp light inside Ammamma's small hut, casting long, dancing shadows on the mud walls, creating an intimate, storytelling atmosphere.",
+      "scene_visual": "The old woman gently strokes the girl's head while looking lovingly into her eyes. The girl's eyes are closed, and a small smile plays on her lips as she listens.",
+      "supporting_char_keys": [
+        "ammamma"
+      ],
+      "text_te_en": "Minuguru Purugu Maayamaina Ventane, Lilaa Aa Aalochanalatone Ammamma Intiki Parugupettindi. Lopaliki Adugupettagaane, Pasupu, Endina Mulikala Matti Vaasana Aameku Svaagatam Palikindi, Ammamma Vanta Chestu Kanipinchindi. Lilaa Ammamma Pakkana Kurchuni, Tana Anubhavaanni Cheppindi, Ammamma Maatala Kosam Aame Kallu Eduruchushaayi. Ammamma Aame Tala Nimiri, Kallalloki Premagaa Chustu, \"Prati Manchi Pani Oka Chinna Velugunu Srrishtistundi, Lilaa,\" Ani Mellagaa Cheppindi. Aame Kallu Musukundi, Pedavulapai Oka Chinna Navvu Merisindi — Avi Kanipinchavu, Kaani Eppudu Untaayi.",
+      "text_en": "As soon as the firefly disappeared, Leela ran to her Grandma's house, still thinking about it. When she stepped inside, the warm, earthy smell of turmeric and dried herbs greeted her. Grandma was busy cooking. Leela sat next to her and told her everything that happened, her eyes eager for Grandma's reply. Grandma gently stroked her head, looked into her eyes with love, and softly said, \"Every kind act creates a little light, Leela.\" She closed her eyes, and a small smile played on her lips — \"They might not always be seen, but they are always there.\""
+    },
+    {
+      "id": 3,
+      "text": "అమ్మమ్మ మాటలు లీలా మనసులో మెదులుతూ ఉండగానే, మరుసటి రోజు ఉదయం గ్రామంలో ఒక అలజడి ఆమెను కలవరపెట్టింది. గ్రామ బావి దగ్గర జనం గుమిగూడారు, వారి మాటలు కలవరపాటును తెలియజేశాయి. బావికి కట్టిన తాడు, బకెట్ కీచుమనే శబ్దంతో పైకి వచ్చాయి, కానీ వాటిలో నీటి జాడ లేదు. బావిలో — ఒక్క చుక్క నీరు లేదు! లీలా భుజాలు వాలిపోయాయి, ఆమె కళ్ళు బావి లోపలికి చూస్తుండగా, ఆమె క్రింది పెదవి కొద్దిగా వణికింది. ఒక పెద్దాయన నిరాశగా బావిలోకి చూస్తూ, \"నీళ్లు లేకపోతే మనం ఎలా బతుకుతాం?\" అని గొణుగుతూ, అతని ముఖం ఆందోళనతో నిండిపోయింది.",
+      "image_prompt": "The girl stands with slumped shoulders, gazing into the empty well as an old man peers in beside her. Her lower lip trembles slightly, while the old man's face is filled with anxiety. Harsh, late afternoon sunlight beating down on the dusty village square, highlighting the parched earth around the well, emphasizing the severity of the drought.",
+      "scene_visual": "The girl stands with slumped shoulders, gazing into the empty well as an old man peers in beside her. Her lower lip trembles slightly, while the old man's face is filled with anxiety.",
+      "supporting_char_keys": [
+        "ammamma"
+      ],
+      "text_te_en": "Ammamma Maatalu Lilaa Manasulo Medulutu Undagaane, Marusati Roju Udayam Graamanlo Oka Alajadi Aamenu Kalavarapettindi. Graama Baavi Daggara Janam Gumigudaaru, Vaari Maatalu Kalavarapaatunu Teliyajeshaayi. Baaviki Kattina Taadu, Baket Kichumane Shabdanto Paiki Vachchaayi, Kaani Vaatilo Niti Jaada Ledu. Baavilo — Okka Chukka Niru Ledu! Lilaa Bhujaalu Vaalipoyaayi, Aame Kallu Baavi Lopaliki Chustundagaa, Aame Krindi Pedavi Koddigaa Vanikindi. Oka Peddaayana Niraashagaa Baaviloki Chustu, \"Nillu Lekapote Manam Elaa Batukutaan?\" Ani Gonugutu, Atani Mukham Aandolanato Nindipoyindi.",
+      "text_en": "While Grandma's words stayed in Leela's mind, a big fuss in the village the next morning made her worried. People gathered around the village well, their voices full of worry. The rope and bucket from the well came up with a creaky sound, but there was no water inside. The well was — completely empty! Leela's shoulders slumped. As she looked down into the well, her bottom lip trembled a little. An old man stared sadly into the well, mumbling, \"How will we live without water?\" His face was full of worry."
+    },
+    {
+      "id": 4,
+      "text": "బావిలో నీరు లేని దృశ్యం లీలా మనసులో ఇంకా మెదులుతూనే ఉంది, కానీ అమ్మమ్మ మాటలు ఆమెకు ఆశను ఇచ్చాయి. ఇంటికి తిరిగి వస్తుండగా, ఒక చిన్న పిచ్చుక ఆకలితో అరుస్తూ కనిపించింది. ఆమె తన చేతిలో ఉన్న చిన్న పిడికెడు బియ్యాన్ని ఆ పిచ్చుకకు పెట్టింది, అది చిన్న రెక్కలు కదుపుతూ, మెల్లగా బియ్యపు గింజలను ఏరుకుంటూ తినసాగింది. క్షణంలో — ఒక చిన్న మిణుగురు పురుగు మెరిసి మాయమైంది! లీలా పెదవులపై ఒక చిన్న నవ్వు మెరిసింది, కానీ వెంటనే ఆమె కనుబొమ్మలు ముడిచి, \"ఇది నిజంగానే ఒక వెలుగును సృష్టించిందా?\" అని ఆశ్చర్యపోయింది. ఆ చిన్న మిణుగురు పురుగు పక్క పొదల్లోకి ఎగిరిపోయింది, ఆమెను ఆలోచనల్లో ముంచివేసింది.",
+      "image_prompt": "The girl offers a small handful of rice to a chirping sparrow, which pecks at the grains with its tiny wings fluttering. A small firefly flashes and disappears, causing a small smile to appear on the girl's lips before her eyebrows furrow in wonder. Early evening light, still bright but softening, with long shadows stretching from the trees, and the air feeling a little cooler as dusk approaches.",
+      "scene_visual": "The girl offers a small handful of rice to a chirping sparrow, which pecks at the grains with its tiny wings fluttering. A small firefly flashes and disappears, causing a small smile to appear on the girl's lips before her eyebrows furrow in wonder.",
+      "supporting_char_keys": [],
+      "text_te_en": "Baavilo Niru Leni Drrishyam Lilaa Manasulo Inkaa Medulutune Undi, Kaani Ammamma Maatalu Aameku Aashanu Ichchaayi. Intiki Tirigi Vastundagaa, Oka Chinna Pichchuka Aakalito Arustu Kanipinchindi. Aame Tana Chetilo Unna Chinna Pidikedu Biyyaanni Aa Pichchukaku Pettindi, Adi Chinna Rekkalu Kaduputu, Mellagaa Biyyapu Ginjalanu Erukuntu Tinasaagindi. Kshananlo — Oka Chinna Minuguru Purugu Merisi Maayamaindi! Lilaa Pedavulapai Oka Chinna Navvu Merisindi, Kaani Ventane Aame Kanubommalu Mudichi, \"Idi Nijangaane Oka Velugunu Srrishtinchindaa?\" Ani Aashcharyapoyindi. Aa Chinna Minuguru Purugu Pakka Podalloki Egiripoyindi, Aamenu Aalochanallo Munchivesindi.",
+      "text_en": "The empty well was still on Leela's mind, but Grandma's words gave her hope. As she walked home, she saw a tiny sparrow chirping, looking very hungry. She held out a small handful of rice she had, and the sparrow fluttered its little wings, slowly pecking at the grains. In that very moment — a tiny firefly sparkled and then vanished! A small smile touched Leela's lips, but then her eyebrows crinkled. \"Did that really make a light?\" she wondered. The little firefly flew into the bushes nearby, leaving her deep in thought."
+    },
+    {
+      "id": 5,
+      "text": "మిణుగురు పురుగు మాయమైనా, దాని వెలుగు లీలా మనసులో మెరిసింది, ఆమె హృదయం ఆశతో నిండింది. మధ్యాహ్నం, ఒక వృద్ధుడు కట్టెల మోపుతో నడుచుకుంటూ వెళ్తుండగా, లీలా అతని దగ్గరికి వెళ్ళింది. మోపులోని కట్టెలు ఆమె చిన్న చేతులకు రంపపు చెక్కలా తాకాయి, కానీ ఆమె వాటిని పట్టుకుని సహాయం చేసింది. తన చుట్టూ — మిణుగురు పురుగులు నాట్యం చేశాయి! అవి ఒకటి కాదు, రెండు కాదు, కొన్ని మిణుగురు పురుగులు ఆమె చుట్టూ వెలుగుతూ, ఆమె తల చుట్టూ ఒక చిన్న కిరీటంలా మారాయి. లీలా కళ్ళు ఆశ్చర్యంతో పెద్దవి అయ్యాయి, \"చిన్న పనులు కూడా పెద్ద తేడా చేస్తాయా?\" అని ఆమె మనసులో ప్రశ్నించుకుంది. ఆ వృద్ధుడు ఆమె వైపు చూసి, వెలుగుతున్న మిణుగురు పురుగులను గమనించకుండా, ఆమెకు నవ్వుతూ కృతజ్ఞతలు చెప్పాడు.",
+      "image_prompt": "The girl helps an old man carry a bundle of firewood, holding the rough sticks with her small hands. Several fireflies dance and glow around her, forming a small crown of light around her head, as her eyes widen in surprise. Deep dusk, with the sky a rich, dark blue, and the first stars beginning to twinkle, making the fireflies' glow more pronounced and magical.",
+      "scene_visual": "The girl helps an old man carry a bundle of firewood, holding the rough sticks with her small hands. Several fireflies dance and glow around her, forming a small crown of light around her head, as her eyes widen in surprise.",
+      "supporting_char_keys": [],
+      "text_te_en": "Minuguru Purugu Maayamainaa, Daani Velugu Lilaa Manasulo Merisindi, Aame Hrridayam Aashato Nindindi. Madhyaahnan, Oka Vrriddhudu Kattela Moputo Naduchukuntu Veltundagaa, Lilaa Atani Daggariki Vellindi. Mopuloni Kattelu Aame Chinna Chetulaku Rampapu Chekkalaa Taakaayi, Kaani Aame Vaatini Pattukuni Sahaayam Chesindi. Tana Chuttu — Minuguru Purugulu Naatyam Cheshaayi! Avi Okati Kaadu, Rendu Kaadu, Konni Minuguru Purugulu Aame Chuttu Velugutu, Aame Tala Chuttu Oka Chinna Kiritanlaa Maaraayi. Lilaa Kallu Aashcharyanto Peddavi Ayyaayi, \"Chinna Panulu Kudaa Pedda Tedaa Chestaayaa?\" Ani Aame Manasulo Prashninchukundi. Aa Vrriddhudu Aame Vaipu Chusi, Velugutunna Minuguru Purugulanu Gamaninchakundaa, Aameku Navvutu Krritajnyatalu Cheppaadu.",
+      "text_en": "Even though the firefly was gone, its light stayed in Leela's mind, filling her heart with hope. In the afternoon, she saw an old man walking with a big bundle of firewood. Leela went to him. The rough sticks felt scratchy against her small hands, but she helped him carry them. All around her — fireflies danced! Not just one or two, but many fireflies glowed around her, making a little crown around her head. Leela's eyes grew wide with surprise. \"Can small acts really make such a big difference?\" she wondered. The old man looked at her, and without seeing the glowing fireflies, he smiled and thanked her."
+    },
+    {
+      "id": 6,
+      "text": "తన అనుభవాలతో ఉత్సాహంగా, లీలా తన స్నేహితులను సాయంత్రం కలిసింది, వారి కళ్ళల్లోకి చూస్తూ తన మాటలను స్పష్టంగా చెప్పింది. ఆమె మాటలు విన్న పిల్లలు ఒకరినొకరు చూసుకున్నారు, వారిలో కొందరు గిలగిల నవ్వారు, మరికొందరు గుసగుసలాడారు. \"మనం అందరం మంచి పనులు చేస్తే, ఊరంతా వెలుగు నిండిపోతుంది!\" అని ఆమె ధీమాగా చెప్పింది, తన చేతులతో సంజ్ఞలు చేస్తూ. పిల్లల కళ్ళలో — కొత్త మెరుపు కనిపించింది. లీలా మాటలతో వారి మనసుల్లో ఒక కొత్త ఉద్దేశ్యం వెలిగింది, వారు తమ కుటుంబాలకు, పొరుగువారికి చిన్న మంచి పనులు చేయడానికి ఆతురతగా గ్రామంలోకి చెల్లాచెదురయ్యారు.",
+      "image_prompt": "The girl confidently addresses a group of children, gesturing with her hands as she speaks. A new sparkle appears in the children's eyes as they listen intently to her words. Early night, with the village huts lit by small lamps, and a pale moon beginning to rise, casting soft, silvery light on the ground where the children gather.",
+      "scene_visual": "The girl confidently addresses a group of children, gesturing with her hands as she speaks. A new sparkle appears in the children's eyes as they listen intently to her words.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Anubhavaalato Utsaahangaa, Lilaa Tana Snehitulanu Saayantram Kalisindi, Vaari Kallalloki Chustu Tana Maatalanu Spashtangaa Cheppindi. Aame Maatalu Vinna Pillalu Okarinokaru Chusukunnaaru, Vaarilo Kondaru Gilagila Navvaaru, Marikondaru Gusagusalaadaaru. \"Manam Andaram Manchi Panulu Cheste, Urantaa Velugu Nindipotundi!\" Ani Aame Dhimaagaa Cheppindi, Tana Chetulato Sanjnyalu Chestu. Pillala Kallalo — Kotta Merupu Kanipinchindi. Lilaa Maatalato Vaari Manasullo Oka Kotta Uddeshyam Veligindi, Vaaru Tama Kutumbaalaku, Poruguvaariki Chinna Manchi Panulu Cheyadaaniki Aaturatagaa Graamanloki Chellaachedurayyaaru.",
+      "text_en": "Excited by all her experiences, Leela met her friends that evening. She looked into their eyes and told them everything clearly. The children listened, looking at each other. Some giggled, and others whispered. \"If we all do kind things, the whole village will be filled with light!\" she said confidently, using her hands to show what she meant. In the children's eyes — a new sparkle appeared. Leela's words lit up a new idea in their hearts, and they eagerly spread out into the village, ready to do small acts of kindness for their families and neighbors."
+    },
+    {
+      "id": 7,
+      "text": "ఆ రోజు సాయంత్రం, గ్రామమంతా ఒక అద్భుతమైన దృశ్యానికి సాక్ష్యమిచ్చింది. పిల్లలు చేసిన చిన్న చిన్న మంచి పనులన్నిటికీ ప్రతిఫలంగా, ఒక్కసారిగా — వేల మిణుగురు పురుగులు ఆకాశంలో మెరిశాయి, వాటి రెక్కల నుండి ఒక మధురమైన సందడి వినిపించింది. అవి ఒక పెద్ద, వెలుగుతున్న నదిలా ఒకే దిశగా ప్రయాణించాయి, గ్రామస్థులందరూ ఆశ్చర్యంతో వాటిని అనుసరించారు. లీలా దవడ కొద్దిగా తెరుచుకుంది, ఆమె ముఖంపై ఒక పెద్ద చిరునవ్వు వికసించింది. \"చూడండి! మిణుగురు పురుగులు మనకు దారి చూపిస్తున్నాయి!\" అని ఆమె కేక వేసింది. ఆ మిణుగురు పురుగుల వెలుగు దారిలో వెళుతున్న గ్రామస్థులు, పొగమంచులో మెరుస్తున్న, కొత్తగా ఉద్భవించిన ఒక నీటి ఊటను చూసి, ఆశ్చర్యంతో నిట్టూర్చారు.",
+      "image_prompt": "The girl shouts with excitement, her jaw slightly open and a wide smile blooming on her face, as thousands of fireflies stream across the sky. The villagers follow the glowing river of fireflies, which shimmer in the mist towards a newly emerged water spring. A vibrant, almost blinding glow from thousands of fireflies illuminating a hidden grove, with the light reflecting off the newly discovered spring water, creating a magical, ethereal scene.",
+      "scene_visual": "The girl shouts with excitement, her jaw slightly open and a wide smile blooming on her face, as thousands of fireflies stream across the sky. The villagers follow the glowing river of fireflies, which shimmer in the mist towards a newly emerged water spring.",
+      "supporting_char_keys": [
+        "ammamma"
+      ],
+      "text_te_en": "Aa Roju Saayantran, Graamamantaa Oka Adbhutamaina Drrishyaaniki Saakshyamichchindi. Pillalu Chesina Chinna Chinna Manchi Panulannitiki Pratiphalangaa, Okkasaarigaa — Vela Minuguru Purugulu Aakaashanlo Merishaayi, Vaati Rekkala Nundi Oka Madhuramaina Sandadi Vinipinchindi. Avi Oka Pedda, Velugutunna Nadilaa Oke Dishagaa Prayaaninchaayi, Graamasthulandaru Aashcharyanto Vaatini Anusarinchaaru. Lilaa Davada Koddigaa Teruchukundi, Aame Mukhampai Oka Pedda Chirunavvu Vikasinchindi. \"Chudandi! Minuguru Purugulu Manaku Daari Chupistunnaayi!\" Ani Aame Keka Vesindi. Aa Minuguru Purugula Velugu Daarilo Velutunna Graamasthulu, Pogamanchulo Merustunna, Kottagaa Udbhavinchina Oka Niti Utanu Chusi, Aashcharyanto Nitturchaaru.",
+      "text_en": "That evening, the whole village saw something amazing. As a reward for all the small, kind things the children had done, all at once — thousands of fireflies twinkled in the sky! A soft, sweet buzzing sound came from their wings. They flew in one direction, like a big, glowing river. All the villagers followed them, full of wonder. Leela's mouth dropped open a little, and a huge smile spread across her face. \"Look!\" she shouted. \"The fireflies are showing us the way!\" Following the path of the fireflies' light, the villagers saw a brand new spring, shining in the mist. They gasped in surprise!"
+    },
+    {
+      "id": 8,
+      "text": "కొత్త నీటి ఊట నుండి నీరు బావిని నింపుతుండగా, లీలా ప్రశాంతంగా నిలబడింది. ఆ నీటి మృదువైన, లయబద్ధమైన సవ్వడి ఆమె చెవులకు వినపడింది, అది ఆమె హృదయాన్ని నింపింది. ఆమె పెదవులపై ఒక శాంతమైన నవ్వు మెరిసింది, ఆమె చేతులు మెల్లగా కలుపుకుంది. మిణుగురు పురుగులు ఇంకా ఊట పైన నాట్యం చేస్తూనే ఉన్నాయి, అవి ఆమె చిన్న చేతుల నుండి వచ్చిన వెలుగు అని ఆమెకు తెలుసు. ఆమెకు అర్థమైంది — ప్రతి చిన్న మంచితనానికి ఒక పెద్ద శక్తి ఉందని. ఆ రోజు నుండి ఆనందపురం గ్రామం, లీలా చూపిన దయతో, ఎప్పుడూ వెలుగుతూనే ఉంది.",
+      "image_prompt": "The girl stands peacefully as water from the new spring fills the well, its soft, rhythmic sound audible. A serene smile graces her lips, and her hands are gently clasped together, while fireflies continue to dance above the spring. Gentle dusk light, warm amber, peaceful resolution, with the fireflies still softly glowing around the now abundant spring, creating a sense of enduring magic.",
+      "scene_visual": "The girl stands peacefully as water from the new spring fills the well, its soft, rhythmic sound audible. A serene smile graces her lips, and her hands are gently clasped together, while fireflies continue to dance above the spring.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kotta Niti Uta Nundi Niru Baavini Nimputundagaa, Lilaa Prashaantangaa Nilabadindi. Aa Niti Mrriduvaina, Layabaddhamaina Savvadi Aame Chevulaku Vinapadindi, Adi Aame Hrridayaanni Nimpindi. Aame Pedavulapai Oka Shaantamaina Navvu Merisindi, Aame Chetulu Mellagaa Kalupukundi. Minuguru Purugulu Inkaa Uta Paina Naatyam Chestune Unnaayi, Avi Aame Chinna Chetula Nundi Vachchina Velugu Ani Aameku Telusu. Aameku Arthamaindi — Prati Chinna Manchitanaaniki Oka Pedda Shakti Undani. Aa Roju Nundi Aanandapuram Graaman, Lilaa Chupina Dayato, Eppudu Velugutune Undi.",
+      "text_en": "As the water from the new spring filled the well, Leela stood there, feeling peaceful. The soft, gentle sound of the water filled her ears and her heart. A calm smile touched her lips, and she gently clasped her hands together. The fireflies were still dancing above the spring, and she knew they were the light that came from her small acts of kindness. She understood then — that every little bit of goodness has a big, powerful magic. From that day on, the village of Anandapuram, lit up by Leela's kindness, always glowed brightly."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "ammamma",
+      "description": "An elderly village woman, with wise, crinkled eyes and silver hair tied in a neat bun. She always wears a traditional white saree and carries a walking stick made of bamboo. She is known for her stories and gentle wisdom. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 8,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 8,
+    "average": 7.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story presents a beautiful narrative arc with a clear, heartwarming moral that unfolds through engaging events and moments of wonder. The Telugu is grammatically flawless and natural, which is a significant strength. However, the story would greatly benefit from richer, more frequent dialogue to bring characters to life and make the narrative less report-like. Additionally, adopting a more conversational, oral narrative voice would enhance its authenticity as a bedtime story, making it truly shine."
+  },
+  "quality_warning": true,
+  "title_te_en": "Minugurula Daari, Manchi Manasula Velugu",
+  "moral_te_en": "Hrridayam Nundi Chese Chinna Manchi Panulu Kudaa Goppa Velugunu Srrishtinchi, Adbhutamaina Maarpulanu Tisukuvastaayani I Katha Manaku Nerputundi.",
+  "title_en": "The Fireflies' Path, The Light of Kind Hearts",
+  "moral_en": "This story teaches us that even small acts of kindness, done from the heart, can create a big light and bring wonderful changes.",
+  "id": "20260607_131002",
+  "date": "2026-06-07",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "మంచి పనుల మిణుగురు పురుగులు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_131002/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

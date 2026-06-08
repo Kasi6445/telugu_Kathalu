@@ -1,0 +1,105 @@
+{
+  "title": "వీరా మనసు, శిల్పం బాట",
+  "moral": "నీ పనికి నిజమైన విలువ నీ హృదయం నుంచే వస్తుంది, ఇతరుల అభిప్రాయాల నుంచి కాదు.",
+  "main_character": "Vira is a slender, thoughtful young man, around 20, with nimble fingers and kind eyes often smudged with wood dust. He has a habit of humming softly while he works. Always the same character across every scene.",
+  "antagonist": "Vimal is a portly man in his late 50s, with a severe expression, thin spectacles perched on his nose, and dressed in crisp, cream-colored traditional attire. He carries a small, ornate walking stick. Always the same character across every scene.",
+  "setting": "A vibrant village nestled along the banks of the Godavari river in Andhra Pradesh. Features include traditional mud-and-thatch houses, a bustling central market, an ancient Banyan tree, and Vira's open-air workshop filled with wood shavings. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి తీరంలో, వీరా తన చేతులతో చెక్కిన అద్భుతమైన దేవతా విగ్రహాన్ని ప్రదర్శించాడు. ప్రజలు అతని పనిని చూసి మంత్రముగ్ధులయ్యారు, వారి కళ్ళలో ఆశ్చర్యం మెరిసింది. అప్పుడక్కడంతా తాజాగా చెక్కిన గంధపు చెక్క పరిమళం నిండిపోయింది. ఒక వృద్ధుడు వీరా భుజం తట్టి — “అద్భుతం! ఈ విగ్రహం సజీవంగా ఉంది, వీరా! నీ చేతుల్లో ఎంత మాయ ఉందో!” అన్నాడు. వీరా గుండె ఆనందంతో ఉప్పొంగింది, అతని పెదవులపై సంతోషం చిగురించింది. తన దృష్టిని కొత్తగా ఉన్న చెక్క ముక్క వైపు తిప్పాడు — తదుపరి కళాఖండాన్ని చెక్కడానికి ఉత్సాహంగా ఎదురుచూస్తూ.",
+      "image_prompt": "The boy stands beside a divine idol he has carved, his chest swelling with joy. An old man gently pats his shoulder, and a happy smile blossoms on the boy's lips. Bright morning sun illuminating the village square, casting warm, inviting light on the idol and Vira's smiling face.",
+      "scene_visual": "The boy stands beside a divine idol he has carved, his chest swelling with joy. An old man gently pats his shoulder, and a happy smile blossoms on the boy's lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Godaavari Tiranlo, Viraa Tana Chetulato Chekkina Adbhutamaina Devataa Vigrahaanni Pradarshinchaadu. Prajalu Atani Panini Chusi Mantramugdhulayyaaru, Vaari Kallalo Aashcharyam Merisindi. Appudakkadantaa Taajaagaa Chekkina Gandhapu Chekka Parimalam Nindipoyindi. Oka Vrriddhudu Viraa Bhujam Tatti — “Adbhutan! I Vigraham Sajivangaa Undi, Viraa! Ni Chetullo Enta Maaya Undo!” Annaadu. Viraa Gunde Aanandanto Uppongindi, Atani Pedavulapai Santosham Chigurinchindi. Tana Drrishtini Kottagaa Unna Chekka Mukka Vaipu Tippaadu — Tadupari Kalaakhandaanni Chekkadaaniki Utsaahangaa Eduruchustu.",
+      "text_en": "By the banks of the Godavari river, Veera displayed a wonderful deity statue he had carved with his own hands. People were mesmerized by his work, and wonder sparkled in their eyes. The fresh scent of sandalwood filled the air. An old man patted Veera's shoulder and said, \"Amazing! This statue is alive, Veera! What magic your hands hold!\" Veera's heart swelled with joy, and a happy smile bloomed on his lips. He turned his gaze towards a new piece of wood, eagerly looking forward to carving his next masterpiece."
+    },
+    {
+      "id": 2,
+      "text": "గత ప్రశంసల స్ఫూర్తితో, వీరా తన వర్క్‌షాప్‌లో ఒక కొత్త, ఆశావహమైన శిల్పాన్ని చెక్కడం ప్రారంభించాడు. అతని పెదవుల నుండి ఓ మధురమైన పాట అలవోకగా వినిపిస్తోంది, అతని ప్రతి కదలికలో ఆత్మవిశ్వాసం తొణికిసలాడుతోంది. చెక్కపై ఉలి తాకిన ప్రతిసారి — ఠక్‌ఠక్‌మని శబ్దం ఆ నిశ్శబ్ద వర్క్‌షాప్‌లో మార్మోగింది. “ఈసారి ఇంకా గొప్పగా చేస్తాను! అందరూ ఆశ్చర్యపోతారు!” అని వీరా తనతో తాను అనుకున్నాడు. అతను పూర్తి నిమగ్నతతో పని చేస్తుండగా, ఒక్కసారిగా — అతని వర్క్‌షాప్ ప్రవేశద్వారం వద్ద ఓ అపరిచిత నీడ పడింది.",
+      "image_prompt": "The boy confidently carves a sculpture, a sweet song flowing from his lips. Suddenly, an unfamiliar shadow falls across the entrance of his silent workshop. Soft, diffused daylight filtering into his open-air workshop, creating a calm and focused atmosphere with gentle light on his work.",
+      "scene_visual": "The boy confidently carves a sculpture, a sweet song flowing from his lips. Suddenly, an unfamiliar shadow falls across the entrance of his silent workshop.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gata Prashansala Sphurtito, Viraa Tana Vark‌Shaap‌Lo Oka Kotta, Aashaavahamaina Shilpaanni Chekkadam Praarambhinchaadu. Atani Pedavula Nundi O Madhuramaina Paata Alavokagaa Vinipistondi, Atani Prati Kadalikalo Aatmavishvaasam Tonikisalaadutondi. Chekkapai Uli Taakina Pratisaari — Thak‌Thak‌Mani Shabdam Aa Nishshabda Vark‌Shaap‌Lo Maarmogindi. “Isaari Inkaa Goppagaa Chestaanu! Andaru Aashcharyapotaaru!” Ani Viraa Tanato Taanu Anukunnaadu. Atanu Purti Nimagnatato Pani Chestundagaa, Okkasaarigaa — Atani Vark‌Shaap Praveshadvaaram Vadda O Aparichita Nida Padindi.",
+      "text_en": "Inspired by the past praises, Veera began carving a new, promising sculpture in his workshop. A sweet song flowed effortlessly from his lips, and confidence shone in his every movement. Each time the chisel touched the wood, a 'thak-thak' sound echoed in the quiet workshop. \"This time, I will make it even greater! Everyone will be amazed!\" Veera thought to himself. As he worked with complete focus, suddenly, a strange shadow fell at the entrance of his workshop."
+    },
+    {
+      "id": 3,
+      "text": "ఆ నీడ కదలగానే, ప్రఖ్యాత కళా విమర్శకుడు విమల్, కళ్ళజోడు సరిచేసుకుంటూ లోపలికి వచ్చాడు. విమల్ శిల్పాన్ని తదేకంగా చూసి, తీవ్రంగా తల అడ్డంగా ఊపాడు. “ఇది కేవలం అందంగా ఉంది, కానీ ఇందులో ఆత్మ లేదు. లోతు లేదు,” అని అతని గంభీరమైన స్వరం వర్క్‌షాప్‌లో ప్రతిధ్వనించింది. విమల్ మాటలు ముగియగానే — ఆకస్మికమైన నిశ్శబ్దం వర్క్‌షాప్‌లో బరువెక్కింది. వీరా ముఖం దిగ్భ్రాంతితో, నిరాశతో చిన్నబోయింది. తాను ప్రేమగా చెక్కిన శిల్పంలో — విమల్ కళ్ళతో చూసిన లోపాలు మాత్రమే వీరాకు కనిపించాయి.",
+      "image_prompt": "The art critic shakes his head gravely while staring intently at the boy's sculpture. The boy's face shrinks with shock and despair, his gaze fixed on the flaws now visible in his work. Also in this scene: Vimal is a portly man in his late 50s, with a severe expression, thin spectacles perched on his nose, and dressed in crisp, cream-colored traditional attire. He carries a small, ornate walking stick. Always the same character across every scene. The workshop feels suddenly dim, despite the daylight, a grey cloud seeming to settle over Vira and his art.",
+      "scene_visual": "The art critic shakes his head gravely while staring intently at the boy's sculpture. The boy's face shrinks with shock and despair, his gaze fixed on the flaws now visible in his work.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Nida Kadalagaane, Prakhyaata Kalaa Vimarshakudu Vimal, Kallajodu Sarichesukuntu Lopaliki Vachchaadu. Vimal Shilpaanni Tadekangaa Chusi, Tivrangaa Tala Addangaa Upaadu. “Idi Kevalam Andangaa Undi, Kaani Indulo Aatma Ledu. Lotu Ledu,” Ani Atani Gambhiramaina Svaram Vark‌Shaap‌Lo Pratidhvaninchindi. Vimal Maatalu Mugiyagaane — Aakasmikamaina Nishshabdam Vark‌Shaap‌Lo Baruvekkindi. Viraa Mukham Digbhraantito, Niraashato Chinnaboyindi. Taanu Premagaa Chekkina Shilpanlo — Vimal Kallato Chusina Lopaalu Maatrame Viraaku Kanipinchaayi.",
+      "text_en": "As the shadow moved, the famous art critic Vimal entered, adjusting his spectacles. Vimal stared intently at the sculpture and shook his head gravely. \"It is merely beautiful, but it has no soul. No depth,\" his serious voice echoed in the workshop. As Vimal's words ended, a sudden silence weighed heavily in the workshop. Veera's face fell, filled with shock and disappointment. In the sculpture he had carved with love, Veera could only see the flaws that Vimal had pointed out."
+    },
+    {
+      "id": 4,
+      "text": "విమల్ మాటల ప్రభావంతో, వీరా తన తర్వాతి శిల్పాన్ని చెక్కడానికి ప్రయత్నించాడు — కానీ అతని చేతులు వణికాయి. అతని కదలికలు సంకోచంగా, అస్థిరంగా మారాయి. ఉలి చెక్కపై పడగానే — అది గరుకుగా, చీలిపోయినట్లు అనిపించి, అసహ్యమైన శబ్దం చేసింది. “నా చేతులు ఎందుకు మాట వినడం లేదు? నా ఆలోచనలు ఎందుకు పలకడం లేదు?” అని వీరా తనలోనే మథనపడ్డాడు. నిరాశతో అతను ఆ అర్ధంతర శిల్పాన్ని పక్కకు నెట్టేశాడు — గుండెలో ఏదో బరువెక్కినట్లు.",
+      "image_prompt": "The boy attempts to carve, but his hands tremble, making his movements hesitant and unsteady. The chisel hits the wood, creating a rough, splintered texture and an unpleasant sound. Late afternoon sun casts long, distorted shadows in the workshop, reflecting Vira's inner turmoil and struggle.",
+      "scene_visual": "The boy attempts to carve, but his hands tremble, making his movements hesitant and unsteady. The chisel hits the wood, creating a rough, splintered texture and an unpleasant sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vimal Maatala Prabhaavanto, Viraa Tana Tarvaati Shilpaanni Chekkadaaniki Prayatninchaadu — Kaani Atani Chetulu Vanikaayi. Atani Kadalikalu Sankochangaa, Asthirangaa Maaraayi. Uli Chekkapai Padagaane — Adi Garukugaa, Chilipoyinatlu Anipinchi, Asahyamaina Shabdam Chesindi. “Naa Chetulu Enduku Maata Vinadam Ledu? Naa Aalochanalu Enduku Palakadam Ledu?” Ani Viraa Tanalone Mathanapaddaadu. Niraashato Atanu Aa Ardhantara Shilpaanni Pakkaku Netteshaadu — Gundelo Edo Baruvekkinatlu.",
+      "text_en": "Influenced by Vimal's words, Veera tried to carve his next sculpture, but his hands trembled. His movements became hesitant and unsteady. As the chisel struck the wood, it felt rough and splintered, making an unpleasant sound. \"Why won't my hands obey me? Why won't my thoughts speak?\" Veera wondered to himself. In despair, he pushed the unfinished sculpture aside, feeling a heavy weight in his heart."
+    },
+    {
+      "id": 5,
+      "text": "కొన్ని రోజుల తర్వాత, వీరా ఓ కొత్త శిల్పాన్ని ప్రదర్శించాడు, అది విమల్ అభిప్రాయాలను కలుపుకున్న ప్రయత్నం. కానీ గ్రామస్తుల నుండి వచ్చిన స్పందన — నిశ్శబ్దంగా, గందరగోళంగా ఉంది. “ఇది... ఇది వీరా శైలి కాదు కదా? ముందులా లేదు,” అని కొందరు గుసగుసలాడారు. వారి ఉత్సాహం లేని మాటలు వీరా చెవుల్లో ముళ్ళు గుచ్చినట్లు అనిపించాయి. అతని భుజాలు వాలిపోయాయి, కళ్ళల్లో నీరు నిండింది. తన పరికరాలు అక్కడే వదిలేసి, వీరా నెమ్మదిగా నడిచిపోయాడు — శిల్పం చెక్కడం మానేయాలా అని ఆలోచిస్తూ.",
+      "image_prompt": "The boy stands before his new sculpture, his shoulders slumped in defeat. His eyes are filled with tears as he hears the villagers' unenthusiastic whispers. Overcast sky, a dull, flat light reflecting the lack of joy and inspiration, almost twilight, making everything appear grey.",
+      "scene_visual": "The boy stands before his new sculpture, his shoulders slumped in defeat. His eyes are filled with tears as he hears the villagers' unenthusiastic whispers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojula Tarvaata, Viraa O Kotta Shilpaanni Pradarshinchaadu, Adi Vimal Abhipraayaalanu Kalupukunna Prayatnan. Kaani Graamastula Nundi Vachchina Spandana — Nishshabdangaa, Gandaragolangaa Undi. “Idi... Idi Viraa Shaili Kaadu Kadaa? Mundulaa Ledu,” Ani Kondaru Gusagusalaadaaru. Vaari Utsaaham Leni Maatalu Viraa Chevullo Mullu Guchchinatlu Anipinchaayi. Atani Bhujaalu Vaalipoyaayi, Kallallo Niru Nindindi. Tana Parikaraalu Akkade Vadilesi, Viraa Nemmadigaa Nadichipoyaadu — Shilpam Chekkadam Maaneyaalaa Ani Aalochistu.",
+      "text_en": "A few days later, Veera displayed a new sculpture, an attempt to incorporate Vimal's opinions. But the villagers' response was quiet and confused. \"This... this isn't Veera's style, is it? It's not like before,\" some whispered. Their unenthusiastic words felt like thorns in Veera's ears. His shoulders slumped, and his eyes filled with tears. Leaving his tools behind, Veera slowly walked away, wondering if he should stop carving altogether."
+    },
+    {
+      "id": 6,
+      "text": "వీరా గోదావరి నది ఒడ్డున నిరాశగా కూర్చున్నాడు, అతని ఆశలన్నీ అడుగంటినట్లు. ఇంతలో, ఒక వృద్ధురాలు, అక్క, అతని పక్కన కూర్చుంది. నది ప్రశాంతమైన సవ్వడి వారి మాటలకు నేపథ్యంగా నిలిచింది. అక్క ప్రేమగా వీరా చేతిని పట్టుకొని, “పొగడ్తలకు పొంగిపోకు, విమర్శలకు కుంగిపోకు. నీ హృదయం చెప్పినట్లు చెయ్యి,” అంది. ఆ అక్క మాటలు — వీరా మనసులో కొత్త వెలుగు నింపాయి. వీరా నది వైపు చూశాడు, ఆపై తన చేతులను పరీక్షగా చూసుకున్నాడు — అతని చూపులో కొత్త సంకల్పం దృఢంగా మారింది.",
+      "image_prompt": "The old woman sits beside the despairing boy on the river bank, lovingly holding his hand. The boy looks from the river to his own hands, a new resolve firming in his gaze. Golden hour light by the river, warm and comforting, symbolizing hope and clarity, painting the scene in soft amber hues.",
+      "scene_visual": "The old woman sits beside the despairing boy on the river bank, lovingly holding his hand. The boy looks from the river to his own hands, a new resolve firming in his gaze.",
+      "supporting_char_keys": [
+        "akka"
+      ],
+      "text_te_en": "Viraa Godaavari Nadi Odduna Niraashagaa Kurchunnaadu, Atani Aashalanni Adugantinatlu. Intalo, Oka Vrriddhuraalu, Akka, Atani Pakkana Kurchundi. Nadi Prashaantamaina Savvadi Vaari Maatalaku Nepathyangaa Nilichindi. Akka Premagaa Viraa Chetini Pattukoni, “Pogadtalaku Pongipoku, Vimarshalaku Kungipoku. Ni Hrridayam Cheppinatlu Cheyyi,” Andi. Aa Akka Maatalu — Viraa Manasulo Kotta Velugu Nimpaayi. Viraa Nadi Vaipu Chushaadu, Aapai Tana Chetulanu Parikshagaa Chusukunnaadu — Atani Chupulo Kotta Sankalpam Drridhangaa Maarindi.",
+      "text_en": "Veera sat dejectedly by the bank of the Godavari river, as if all his hopes had dried up. Just then, an old woman, Akka, sat beside him. The peaceful sound of the river provided a backdrop to their words. Akka lovingly held Veera's hand and said, \"Don't swell with pride from praise, and don't shrink from criticism. Do what your heart tells you.\" Akka's words filled Veera's mind with a new light. Veera looked at the river, then examined his hands, and a new determination solidified in his gaze."
+    },
+    {
+      "id": 7,
+      "text": "కొత్త సంకల్పంతో, వీరా తన వర్క్‌షాప్‌కు తిరిగి వచ్చాడు, అతని చేతుల్లో మళ్ళీ ఆ పాత నైపుణ్యం కనిపించింది. అతను తన హృదయం చెప్పినట్లు చెక్కడం ప్రారంభించాడు, ప్రతి స్ట్రోక్‌లోనూ అతని ఆత్మ ప్రతిబింబించింది. ఉలి చెక్కను అప్రయత్నంగా చెక్కుతుండగా — స్పష్టమైన, స్వచ్ఛమైన శబ్దం వర్క్‌షాప్‌లో నిండిపోయింది. “ఇది నా ఆత్మను ప్రతిబింబిస్తుంది. ఇది నా నిజమైన పని,” అని వీరా ప్రశాంతంగా చిరునవ్వు నవ్వాడు. అతను సృష్టించిన ఆ శిల్పం — అతని మునుపటి కళాఖండాలన్నిటినీ మించి, అందరి ప్రశంసలనూ పొందింది.",
+      "image_prompt": "The boy carves wood effortlessly, his old skill evident in his hands once more. A calm smile rests on his face as the chisel makes clear, pure sounds in the workshop. Also in this scene: Vimal is a portly man in his late 50s, with a severe expression, thin spectacles perched on his nose, and dressed in crisp, cream-colored traditional attire. He carries a small, ornate walking stick. Always the same character across every scene. Bright, clear morning sun streaming into the workshop, vibrant and full of life, celebrating his authentic work with brilliant light.",
+      "scene_visual": "The boy carves wood effortlessly, his old skill evident in his hands once more. A calm smile rests on his face as the chisel makes clear, pure sounds in the workshop.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kotta Sankalpanto, Viraa Tana Vark‌Shaap‌Ku Tirigi Vachchaadu, Atani Chetullo Malli Aa Paata Naipunyam Kanipinchindi. Atanu Tana Hrridayam Cheppinatlu Chekkadam Praarambhinchaadu, Prati Strok‌Lonu Atani Aatma Pratibimbinchindi. Uli Chekkanu Aprayatnangaa Chekkutundagaa — Spashtamaina, Svachchamaina Shabdam Vark‌Shaap‌Lo Nindipoyindi. “Idi Naa Aatmanu Pratibimbistundi. Idi Naa Nijamaina Pani,” Ani Viraa Prashaantangaa Chirunavvu Navvaadu. Atanu Srrishtinchina Aa Shilpam — Atani Munupati Kalaakhandaalannitini Minchi, Andari Prashansalanu Pondindi.",
+      "text_en": "With new determination, Veera returned to his workshop, and the old skill reappeared in his hands. He began carving as his heart told him, and his soul was reflected in every stroke. As the chisel effortlessly carved the wood, a clear, pure sound filled the workshop. \"This reflects my soul. This is my true work,\" Veera smiled peacefully. The sculpture he created surpassed all his previous masterpieces and earned everyone's praise."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "akka",
+      "description": "Akka is an elderly woman, perhaps 70s, with a gentle, wrinkled face, sparkling eyes, and silver hair tied in a neat bun. She wears a simple, faded cotton saree. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 7,
+    "average": 8.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a compelling narrative arc, excellent emotional depth, and flawless colloquial Telugu, making it a strong piece. The moral emerges organically from Veera's journey, which is commendable. To reach award-worthy status, the most critical improvement needed is in dialogue richness; many scenes lack direct speech, and character voices could be more distinct. Additionally, incorporating direct address or interactive elements would significantly enhance child engagement, transforming it into a truly irresistible bedtime story."
+  },
+  "title_te_en": "Viraa Manasu, Shilpam Baata",
+  "moral_te_en": "Ni Paniki Nijamaina Viluva Ni Hrridayam Nunche Vastundi, Itarula Abhipraayaala Nunchi Kaadu.",
+  "title_en": "Veera's Heart, The Sculptor's Path",
+  "moral_en": "The true value of your work comes from your heart, not from the opinions of others.",
+  "id": "20260606_194659",
+  "date": "2026-06-06",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "పొగడ్తలకు పొంగిపోకు, విమర్శలకు కుంగిపోకు అనే కథ",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260606_194659/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

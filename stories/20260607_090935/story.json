@@ -1,0 +1,110 @@
+{
+  "title": "శాంతి ఈక, వాసంత మార్పు",
+  "moral": "మనసుని నిశ్శబ్దంగా ఉంచుకుంటే, పెద్ద కోపాలను కూడా సులభంగా జయించవచ్చని వాసంత నేర్చుకున్నాడు.",
+  "main_character": "A young, earnest village boy named Vasanth. He is known for his quick temper, easily flaring up when things don't go his way, but also possesses a kind heart. He has bright, curious eyes and often wears a simple, hand-spun cotton dhoti. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant village nestled beside the Godavari river in rural Andhra Pradesh, surrounded by lush green paddy fields and mango groves. The air is always filled with the scent of blooming jasmine and the distant sound of temple bells. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "చిన్నవాడు వాసంత, పట్టీ చేతుల ధోతిలో, ఆ పండుగ రోజు పరుగు పరుగున వచ్చాడు. పైన ఆకాశంలో రంగు రంగుల పతంగి ఎగురుతుంటే, ఆనందంగా నవ్వాడు. ఇంతలో — ఒక్కసారిగా అతని పతంగి దారం టపక్కున తెగిపోయింది. \"ఇది ఎందుకు ఇలా జరుగుతుంది?!\" అని కోపంగా అరిచాడు, నేలమీద కాలు గట్టిగా తొక్కాడు. అతని ముఖం ఎర్రగా మారిపోయింది, అదంతా చూస్తున్న గ్రామస్తులు నిట్టూర్చారు.",
+      "image_prompt": "The boy angrily stamps his foot on the ground after his kite string breaks. His face is flushed red with anger as he does so. Bright afternoon sun, festive colours, but a shadow of frustration on Vasanth's face.",
+      "scene_visual": "The boy angrily stamps his foot on the ground after his kite string breaks. His face is flushed red with anger as he does so.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinnavaadu Vaasanta, Patti Chetula Dhotilo, Aa Panduga Roju Parugu Paruguna Vachchaadu. Paina Aakaashanlo Rangu Rangula Patangi Egurutunte, Aanandangaa Navvaadu. Intalo — Okkasaarigaa Atani Patangi Daaram Tapakkuna Tegipoyindi. \"Idi Enduku Ilaa Jarugutundi?!\" Ani Kopangaa Arichaadu, Nelamida Kaalu Gattigaa Tokkaadu. Atani Mukham Erragaa Maaripoyindi, Adantaa Chustunna Graamastulu Nitturchaaru.",
+      "text_en": "Little Vasantha, in his striped dhoti, came running on that festival day. He laughed happily as a colorful kite flew high in the sky. Suddenly — his kite string snapped with a 'tapak' sound. \"Why does this always happen?!\" he yelled angrily, stomping his foot hard on the ground. His face turned red, and the villagers watching sighed."
+    },
+    {
+      "id": 2,
+      "text": "వాసంత అలా కాలు తొక్కడం చూసి, గ్రామ పెద్ద అతన్ని పక్కకు పిలిచాడు. పెద్దాయన నిట్టూర్చి, అతని భుజంపై మెల్లగా చేయి వేశాడు — ఆ స్పర్శలో ఒక అలసట ఉంది. \"వాసంత, నీ కోపం నీకే కాదు, మన ఊరి శాంతికి కూడా అడ్డంకి,\" అని మెల్లగా చెప్పాడు. వాసంత తల దించుకున్నాడు, అతని కళ్ళు నేల చూపులు చూశాయి. పెద్దాయన మాటలు అతని గుండెలపై బరువుగా పడ్డాయి, ఏం చేయాలో తెలియక అక్కడి నుండి కదిలాడు.",
+      "image_prompt": "The boy hangs his head low, his gaze fixed on the ground. The old man's hand rests gently on his shoulder, conveying a sense of weariness. Late afternoon, golden hour light filtering through trees, a calm but serious atmosphere.",
+      "scene_visual": "The boy hangs his head low, his gaze fixed on the ground. The old man's hand rests gently on his shoulder, conveying a sense of weariness.",
+      "supporting_char_keys": [
+        "village_elder"
+      ],
+      "text_te_en": "Vaasanta Alaa Kaalu Tokkadam Chusi, Graama Pedda Atanni Pakkaku Pilichaadu. Peddaayana Nitturchi, Atani Bhujampai Mellagaa Cheyi Veshaadu — Aa Sparshalo Oka Alasata Undi. \"Vaasanta, Ni Kopam Nike Kaadu, Mana Uri Shaantiki Kudaa Addanki,\" Ani Mellagaa Cheppaadu. Vaasanta Tala Dinchukunnaadu, Atani Kallu Nela Chupulu Chushaayi. Peddaayana Maatalu Atani Gundelapai Baruvugaa Paddaayi, Em Cheyaalo Teliyaka Akkadi Nundi Kadilaadu.",
+      "text_en": "Seeing Vasantha stomping his foot like that, the village elder called him aside. The old man sighed and gently placed a hand on his shoulder — there was a weariness in that touch. \"Vasantha, your anger is not just a problem for you, but also for the peace of our village,\" he said softly. Vasantha lowered his head, his eyes looking at the ground. The elder's words weighed heavily on his heart, and not knowing what to do, he moved away from there."
+    },
+    {
+      "id": 3,
+      "text": "ఆ మాటలతో మనసు బరువెక్కి, వాసంత గోదావరి నది వైపుగా నడుచుకుంటూ వెళ్ళాడు. దారిలో ఒక పాత మర్రిచెట్టు కింద కూర్చున్నాడు — ఆకులు గాలికి మెల్లగా గుసగుసలాడుతున్నాయి, ఏదో రహస్యం చెప్పినట్లు. మీకు తెలుసా, ఇంతలో అతని కంటికి ఒక మెరిసే తెల్లటి ఈక కనిపించింది. \"ఈక... ఇది ఎక్కడ నుండి వచ్చింది?\" అని ఆశ్చర్యంగా అనుకున్నాడు. దాన్ని ముట్టుకోగానే — ఒక వెచ్చదనం అతని చేతిలోకి పాకింది, ఏదో తెలియని ఆశ మొలకెత్తింది.",
+      "image_prompt": "The boy sits under an old banyan tree and reaches out to touch a shimmering white feather. A warmth spreads into his hand as he touches the feather, while leaves rustle softly above him. Dappled sunlight filtering through thick banyan leaves, creating a mystical, serene glow.",
+      "scene_visual": "The boy sits under an old banyan tree and reaches out to touch a shimmering white feather. A warmth spreads into his hand as he touches the feather, while leaves rustle softly above him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Maatalato Manasu Baruvekki, Vaasanta Godaavari Nadi Vaipugaa Naduchukuntu Vellaadu. Daarilo Oka Paata Marrichettu Kinda Kurchunnaadu — Aakulu Gaaliki Mellagaa Gusagusalaadutunnaayi, Edo Rahasyam Cheppinatlu. Miku Telusaa, Intalo Atani Kantiki Oka Merise Tellati Ika Kanipinchindi. \"Ika... Idi Ekkada Nundi Vachchindi?\" Ani Aashcharyangaa Anukunnaadu. Daanni Muttukogaane — Oka Vechchadanam Atani Chetiloki Paakindi, Edo Teliyani Aasha Molakettindi.",
+      "text_en": "With his heart heavy from those words, Vasantha walked towards the Godavari River. On the way, he sat under an old banyan tree — its leaves gently rustled in the wind, as if whispering a secret. Do you know, just then, a shiny white feather caught his eye. \"A feather... where did this come from?\" he wondered in surprise. As soon as he touched it — a warmth spread into his hand, and an unknown hope began to sprout."
+    },
+    {
+      "id": 4,
+      "text": "కొద్ది రోజులకు, వాసంత ఆ ఈకను ఎప్పుడూ తన ధోతి కొంగులో జాగ్రత్తగా పెట్టుకునేవాడు. ఒకరోజు, ఒక చిన్న పిల్లాడు ఆడుకుంటూ వచ్చి, వాసంత మట్టి కుండను అనుకోకుండా పగలగొట్టాడు — ఠంగ్ అని పెద్ద చప్పుడు చేస్తూ ముక్కలయ్యింది. \"నీకు కళ్ళు లేవా?!\" అని వాసంత నోటి వెంట మాటలు దూసుకొచ్చాయి. కానీ ఆ క్షణంలోనే, అతని చేతిలో ఉన్న ఈక స్పర్శ గుర్తొచ్చింది... \"క్షమించు,\" అని వెంటనే అన్నాడు. చిన్న పిల్లాడు ఆశ్చర్యంగా వాసంత వైపు చూశాడు, అతని కోపాన్ని చూసి కాదు, అకస్మాత్తుగా మారిన అతని మాట విని.",
+      "image_prompt": "The boy, about to scold a child who broke his pot, suddenly says \"I'm sorry\" instead. The small child looks up at him with a surprised expression, hearing his unexpected words. Bright midday sun in the village square, casting harsh shadows, reflecting Vasanth's internal conflict.",
+      "scene_visual": "The boy, about to scold a child who broke his pot, suddenly says \"I'm sorry\" instead. The small child looks up at him with a surprised expression, hearing his unexpected words.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koddi Rojulaku, Vaasanta Aa Ikanu Eppudu Tana Dhoti Kongulo Jaagrattagaa Pettukunevaadu. Okaroju, Oka Chinna Pillaadu Aadukuntu Vachchi, Vaasanta Matti Kundanu Anukokundaa Pagalagottaadu — Thang Ani Pedda Chappudu Chestu Mukkalayyindi. \"Niku Kallu Levaa?!\" Ani Vaasanta Noti Venta Maatalu Dusukochchaayi. Kaani Aa Kshananlone, Atani Chetilo Unna Ika Sparsha Gurtochchindi... \"Kshaminchu,\" Ani Ventane Annaadu. Chinna Pillaadu Aashcharyangaa Vaasanta Vaipu Chushaadu, Atani Kopaanni Chusi Kaadu, Akasmaattugaa Maarina Atani Maata Vini.",
+      "text_en": "A few days later, Vasantha always kept that feather carefully tucked in his dhoti. One day, a small child came playing and accidentally broke Vasantha's clay pot — it shattered with a loud 'thang' sound. \"Are you blind?!\" words rushed out of Vasantha's mouth. But in that very moment, he remembered the touch of the feather in his hand... \"I'm sorry,\" he said immediately. The little child looked at Vasantha in surprise, not at his anger, but at his suddenly changed words."
+    },
+    {
+      "id": 5,
+      "text": "వాసంతలో వస్తున్న మార్పును కొంతమంది పెద్ద పిల్లలు గమనించారు, వాళ్ళకు అది నచ్చలేదు. \"చూడు, మన కోపిష్టి వాసంత ఎంత మారిపోయాడో!\" అని ఎగతాళిగా నవ్వారు — ఆ నవ్వులు చెవిలో కత్తుల్లా గుచ్చుకున్నాయి. వాసంత ముఖం చిట్లించుకున్నాడు, అతని గుండెల్లో కోపం మళ్ళీ రాజుకుంది. అతను ధోతి కొంగులోంచి తన శాంతి ఈకను బయటికి తీశాడు, దాని స్పర్శ అతని చేతికి శాంతిని ఇచ్చింది. \"ఇక చాలు! నన్ను ఒంటరిగా వదిలేయండి,\" అని నెమ్మదిగా అన్నాడు. ఆ మాట వినగానే, ఎగతాళి చేసిన పిల్లలు తలలు గోక్కుంటూ వెళ్ళిపోయారు, వాసంత ప్రశాంతత వాళ్ళను అయోమయంలో పడేసింది.",
+      "image_prompt": "The boy pulls a feather from his dhoti and calmly tells the teasing children to leave him alone. His face, initially contorted in anger, now shows a quiet peacefulness that confuses the other children. Late afternoon, shadows lengthening, a tense atmosphere, but a soft, internal glow around Vasanth.",
+      "scene_visual": "The boy pulls a feather from his dhoti and calmly tells the teasing children to leave him alone. His face, initially contorted in anger, now shows a quiet peacefulness that confuses the other children.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vaasantalo Vastunna Maarpunu Kontamandi Pedda Pillalu Gamaninchaaru, Vaallaku Adi Nachchaledu. \"Chudu, Mana Kopishti Vaasanta Enta Maaripoyaado!\" Ani Egataaligaa Navvaaru — Aa Navvulu Chevilo Kattullaa Guchchukunnaayi. Vaasanta Mukham Chitlinchukunnaadu, Atani Gundello Kopam Malli Raajukundi. Atanu Dhoti Kongulonchi Tana Shaanti Ikanu Bayatiki Tishaadu, Daani Sparsha Atani Chetiki Shaantini Ichchindi. \"Ika Chaalu! Nannu Ontarigaa Vadileyandi,\" Ani Nemmadigaa Annaadu. Aa Maata Vinagaane, Egataali Chesina Pillalu Talalu Gokkuntu Vellipoyaaru, Vaasanta Prashaantata Vaallanu Ayomayanlo Padesindi.",
+      "text_en": "Some older children noticed the change happening in Vasantha, and they didn't like it. \"Look, how much our angry Vasantha has changed!\" they laughed mockingly — their laughter pierced his ears like knives. Vasantha frowned, and anger flared up in his heart again. He took out his Shanti feather from his dhoti, and its touch brought peace to his hand. \"Enough! Leave me alone,\" he said softly. Hearing those words, the mocking children scratched their heads and walked away, confused by Vasantha's calmness."
+    },
+    {
+      "id": 6,
+      "text": "ఒకరోజు, ఊరి చెరువు దగ్గర పొరపాటున నిప్పు అంటుకుంది, మంటలు వేగంగా వ్యాపించాయి. పొగ వాసన ముక్కుపుటాలు అదరగొట్టింది, గ్రామస్తులు భయంతో కేకలు వేశారు. ఒకరినొకరు నిందించుకుంటూ, ఏం చేయాలో తెలియక గందరగోళంగా ఉన్నారు. వాసంత తన శాంతి ఈకను చేతిలో గట్టిగా పట్టుకున్నాడు, అతని కళ్ళల్లో నిశ్చయం కనిపించింది. \"భయపడకండి! కోపంతో కాదు, కలిసి పని చేద్దాం!\" అని బిగ్గరగా అన్నాడు. అతని మాటల్లోని స్థిరత్వం చూసి, గ్రామస్తులు తమ వాదనలు పక్కన పెట్టి, అతని మాట విన్నారు.",
+      "image_prompt": "The boy holds his peace feather tightly in his hand and shouts to the panicked villagers to work together. His eyes show clear determination amidst the smoke and chaos of the spreading fire. Fiery orange glow from the fire against the darkening twilight sky, smoke curling, but a clear, calm light on Vasanth's face.",
+      "scene_visual": "The boy holds his peace feather tightly in his hand and shouts to the panicked villagers to work together. His eyes show clear determination amidst the smoke and chaos of the spreading fire.",
+      "supporting_char_keys": [
+        "village_elder"
+      ],
+      "text_te_en": "Okaroju, Uri Cheruvu Daggara Porapaatuna Nippu Antukundi, Mantalu Vegangaa Vyaapinchaayi. Poga Vaasana Mukkuputaalu Adaragottindi, Graamastulu Bhayanto Kekalu Veshaaru. Okarinokaru Nindinchukuntu, Em Cheyaalo Teliyaka Gandaragolangaa Unnaaru. Vaasanta Tana Shaanti Ikanu Chetilo Gattigaa Pattukunnaadu, Atani Kallallo Nishchayam Kanipinchindi. \"Bhayapadakandi! Kopanto Kaadu, Kalisi Pani Cheddaan!\" Ani Biggaragaa Annaadu. Atani Maatalloni Sthiratvam Chusi, Graamastulu Tama Vaadanalu Pakkana Petti, Atani Maata Vinnaaru.",
+      "text_en": "One day, a fire accidentally started near the village pond, and the flames spread quickly. The smell of smoke stung their nostrils, and the villagers screamed in fear. They were blaming each other, confused and not knowing what to do. Vasantha held his Shanti feather tightly in his hand, and determination shone in his eyes. \"Don't be afraid! Let's not be angry, let's work together!\" he said loudly. Seeing the steadiness in his words, the villagers put aside their arguments and listened to him."
+    },
+    {
+      "id": 7,
+      "text": "వాసంత చూపిన దారితో, గ్రామస్తులు అందరూ కలిసి మంటలను ఆర్పేశారు. అప్పటివరకు భయంతో నిండిన వాతావరణం, ఇప్పుడు శాంతంగా మారింది — చెరువులో నీళ్లు మెల్లగా అలలు వేస్తున్నాయి. \"వాసంత, నీ శాంతి ఈక మనందరికీ పాఠం నేర్పింది,\" అని గ్రామ పెద్ద ప్రేమగా అన్నాడు. వాసంత ముఖంలో ఒక చిన్న చిరునవ్వు మెరిసింది, అతని గుండె నిండుగా ఉంది. గ్రామస్తులు అతని వైపు చూశారు, వారి కళ్ళల్లో గౌరవం, అభిమానం రెండూ కనిపించాయి.",
+      "image_prompt": "The boy smiles gently as the old man speaks to him, with the villagers looking on. His heart feels full, and the villagers' eyes reflect both respect and affection for him. Gentle dusk light, warm amber, peaceful resolution washing over the village.",
+      "scene_visual": "The boy smiles gently as the old man speaks to him, with the villagers looking on. His heart feels full, and the villagers' eyes reflect both respect and affection for him.",
+      "supporting_char_keys": [
+        "village_elder"
+      ],
+      "text_te_en": "Vaasanta Chupina Daarito, Graamastulu Andaru Kalisi Mantalanu Aarpeshaaru. Appativaraku Bhayanto Nindina Vaataavaranan, Ippudu Shaantangaa Maarindi — Cheruvulo Nillu Mellagaa Alalu Vestunnaayi. \"Vaasanta, Ni Shaanti Ika Manandariki Paatham Nerpindi,\" Ani Graama Pedda Premagaa Annaadu. Vaasanta Mukhanlo Oka Chinna Chirunavvu Merisindi, Atani Gunde Nindugaa Undi. Graamastulu Atani Vaipu Chushaaru, Vaari Kallallo Gauravan, Abhimaanam Rendu Kanipinchaayi.",
+      "text_en": "Following Vasantha's lead, all the villagers worked together and put out the fire. The atmosphere, which had been filled with fear until then, now became calm — the water in the pond gently rippled. \"Vasantha, your Shanti feather has taught us all a lesson,\" the village elder said lovingly. A small smile lit up Vasantha's face, and his heart felt full. The villagers looked at him, and both respect and affection were visible in their eyes."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "village_elder",
+      "description": "An old, wise man with a long white beard and kind, knowing eyes, always wearing a simple white dhoti and an untucked shirt. He moves slowly but deliberately, carrying a sturdy walking stick. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 7,
+    "dialogue_richness": 9,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.1,
+    "weakest_dimension": "emotional_depth",
+    "notes": "The story boasts a compelling narrative arc and nearly flawless grammar, making it a strong foundation. The 'శాంతి ఈక' (peace feather) is a wonderful symbolic device for children. To reach award-winning status, the primary focus should be on consistently showing emotions through action, body language, and vivid sensory details, rather than stating them directly. This would deepen the reader's connection and further enhance the oral warmth of the narration."
+  },
+  "quality_warning": true,
+  "title_te_en": "Shaanti Ika, Vaasanta Maarpu",
+  "moral_te_en": "Manasuni Nishshabdangaa Unchukunte, Pedda Kopaalanu Kudaa Sulabhangaa Jayinchavachchani Vaasanta Nerchukunnaadu.",
+  "title_en": "Shanti's Feather, Vasantha's Change",
+  "moral_en": "Vasantha learned that if you keep your mind calm, even big angers can be easily overcome.",
+  "id": "20260607_090935",
+  "date": "2026-06-07",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "శాంతి ఈకతో కోపం జయించిన యువకుడు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_090935/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

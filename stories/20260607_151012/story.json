@@ -1,0 +1,130 @@
+{
+  "title": "లీలా, పుకార్ల పాఠం",
+  "moral": "అమ్మమ్మ మాట వినండి పిల్లలు, నిజం తెలుసుకోకుండా ఏ మాట మాట్లాడకూడదు, లేకపోతే అందరికీ కష్టం వస్తుంది.",
+  "main_character": "A young, graceful deer named Leela with soft brown fur and large, curious eyes. She is naturally gentle and kind, but also a little impressionable, often taking things at face value until proven otherwise. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story takes place in a vibrant, lush forest nestled near the village of Kothapalli in Andhra Pradesh. Tall, ancient banyan trees provide dappled shade, a clear stream babbles through rocky banks, and colorful wildflowers bloom beneath a canopy of green leaves. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక అందమైన అడవిలో లీలా అనే జింక పిల్ల హాయిగా మేస్తోంది, మెల్లగా ఆకులు కదిలే శబ్దం వినిపిస్తోంది. ఆమె తల అటు ఇటు తిప్పుతూ, చెవులు రిక్కించి, పక్షుల కిలకిలరావాలను వింటూ ఎంతో సంతోషంగా ఉంది. అప్పుడు లీలా చిన్నగా నిట్టూర్చి, తనలో తాను అనుకుంది, \"ఈ రోజు అడవి ఎంత ప్రశాంతంగా ఉంది!\". ఆమె ముక్కు మెల్లగా కదిలింది, సువాసన చూస్తూ, కొత్తగా పూసిన పూల వాసనను పీల్చుకుంది. కానీ అకస్మాత్తుగా — ఆ చప్పుడు — అడవంతా ఒక్కసారిగా నిశ్శబ్దమైపోయింది.",
+      "image_prompt": "The deer stops grazing, lifting its head and turning it sharply as a sudden, unsettling sound echoes through the forest. Its ears are perked up, twitching slightly, as the vibrant forest suddenly falls into an eerie silence. Soft morning sunlight dappling through dense green leaves, creating a peaceful, warm atmosphere with patches of bright light and gentle shadows.",
+      "scene_visual": "The deer stops grazing, lifting its head and turning it sharply as a sudden, unsettling sound echoes through the forest. Its ears are perked up, twitching slightly, as the vibrant forest suddenly falls into an eerie silence.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Andamaina Adavilo Lilaa Ane Jinka Pilla Haayigaa Mestondi, Mellagaa Aakulu Kadile Shabdam Vinipistondi. Aame Tala Atu Itu Tipputu, Chevulu Rikkinchi, Pakshula Kilakilaraavaalanu Vintu Ento Santoshangaa Undi. Appudu Lilaa Chinnagaa Nitturchi, Tanalo Taanu Anukundi, \"I Roju Adavi Enta Prashaantangaa Undi!\". Aame Mukku Mellagaa Kadilindi, Suvaasana Chustu, Kottagaa Pusina Pula Vaasananu Pilchukundi. Kaani Akasmaattugaa — Aa Chappudu — Adavantaa Okkasaarigaa Nishshabdamaipoyindi.",
+      "text_en": "In a beautiful forest, a little deer named Lila was happily eating grass. She heard the soft rustle of leaves. She turned her head, wiggled her ears, and felt so happy listening to the birds sing. Lila let out a little sigh and thought, 'How peaceful the forest is today!' Her nose twitched, sniffing the sweet smell of new flowers. But suddenly — a loud noise — and the whole forest went completely quiet."
+    },
+    {
+      "id": 2,
+      "text": "ఆ శబ్దం ఇంకా మారుమోగుతుండగానే, ఒక ఉడుత టక్కున లీలా పక్కనుండి దూసుకుపోయింది, దాని చిన్న చేతులు గబగబా కదిలాయి. దాని ఊపిరి అందక, కళ్ళు వెర్రిగా తిప్పుతూ, \"పులి వస్తోంది! పులి వస్తోంది! అందరూ పారిపోవాలి!\" అని అరిచింది. లీలా తల ఒక్కసారిగా పైకి లేచింది, ఆమె కళ్ళు పెద్దవిగా మారాయి, తోక ఆందోళనగా కదిలింది. అడవిలోని ఇతర జంతువులు కూడా ఉడుత మాటలు విని, అటూఇటూ చూశాయి, వాటి కదలికలు వేగవంతమయ్యాయి. అది చూసి లీలా గుండె — ఒక్కసారిగా వేగంగా కొట్టుకోవడం మొదలుపెట్టింది.",
+      "image_prompt": "The deer suddenly lifts its head, its eyes widening in alarm as a frantic squirrel dashes past, shouting warnings. Its tail twitches nervously, reflecting the sudden fear that grips its heart. Bright midday sun filtering through the canopy, creating sharp contrasts as the squirrel darts through pockets of light, highlighting its frantic energy.",
+      "scene_visual": "The deer suddenly lifts its head, its eyes widening in alarm as a frantic squirrel dashes past, shouting warnings. Its tail twitches nervously, reflecting the sudden fear that grips its heart.",
+      "supporting_char_keys": [
+        "squirrel"
+      ],
+      "text_te_en": "Aa Shabdam Inkaa Maarumogutundagaane, Oka Uduta Takkuna Lilaa Pakkanundi Dusukupoyindi, Daani Chinna Chetulu Gabagabaa Kadilaayi. Daani Upiri Andaka, Kallu Verrigaa Tipputu, \"Puli Vastondi! Puli Vastondi! Andaru Paaripovaali!\" Ani Arichindi. Lilaa Tala Okkasaarigaa Paiki Lechindi, Aame Kallu Peddavigaa Maaraayi, Toka Aandolanagaa Kadilindi. Adaviloni Itara Jantuvulu Kudaa Uduta Maatalu Vini, Atuitu Chushaayi, Vaati Kadalikalu Vegavantamayyaayi. Adi Chusi Lilaa Gunde — Okkasaarigaa Vegangaa Kottukovadam Modalupettindi.",
+      "text_en": "While the sound was still echoing, a squirrel suddenly zoomed past Lila, its tiny paws moving super fast. It was out of breath, its eyes wide with fear, and it screamed, 'The tiger is coming! The tiger is coming! Everyone run!' Lila's head snapped up. Her eyes got big, and her tail flicked nervously. Other animals in the forest heard the squirrel too. They looked around, and their movements got faster. Seeing all this, Lila's heart — started to beat very, very fast."
+    },
+    {
+      "id": 3,
+      "text": "ఆ ఉడుత చెప్పిన మాట అడవిలో క్షణాల్లో పాకిపోయింది, ప్రతి జంతువు దగ్గరికి వెళ్లేసరికి ఆ మాట మరింత పెద్దదైపోయింది. ఒక కుందేలు భయంగా అరిచింది, \"అది మామూలు పులి కాదు, రెండు తలల పులి అంట!\". లీలా ఒళ్ళంతా వణికిపోయింది, ఆమె కాళ్ళు బలహీనపడ్డాయి, చెట్ల పొదల నుండి వస్తున్న గలగల శబ్దాలు ఆమెకు ఇంకా భయాన్ని పెంచాయి. \"అది ఆకాశం నుండి దిగి వస్తోందంట!\" అని ఇంకొక జంతువు చెప్పింది, దాని గొంతు వణుకుతోంది. ఇంతలో — భూమి కంపించడం మొదలుపెట్టింది!",
+      "image_prompt": "The deer stands trembling, its legs weak, as the ground beneath it begins to shake violently. Rustling sounds from the bushes around it amplify its terror, making its whole body shiver. Overcast sky, casting a dull, flat light over the forest, emphasizing the growing unease and muted fear among the animals.",
+      "scene_visual": "The deer stands trembling, its legs weak, as the ground beneath it begins to shake violently. Rustling sounds from the bushes around it amplify its terror, making its whole body shiver.",
+      "supporting_char_keys": [
+        "squirrel",
+        "monkey"
+      ],
+      "text_te_en": "Aa Uduta Cheppina Maata Adavilo Kshanaallo Paakipoyindi, Prati Jantuvu Daggariki Vellesariki Aa Maata Marinta Peddadaipoyindi. Oka Kundelu Bhayangaa Arichindi, \"Adi Maamulu Puli Kaadu, Rendu Talala Puli Anta!\". Lilaa Ollantaa Vanikipoyindi, Aame Kaallu Balahinapaddaayi, Chetla Podala Nundi Vastunna Galagala Shabdaalu Aameku Inkaa Bhayaanni Penchaayi. \"Adi Aakaasham Nundi Digi Vastondanta!\" Ani Inkoka Jantuvu Cheppindi, Daani Gontu Vanukutondi. Intalo — Bhumi Kampinchadam Modalupettindi!",
+      "text_en": "The squirrel's words spread through the forest super fast. By the time the message reached each animal, it got even bigger and scarier! A rabbit cried out in fear, 'It's not just any tiger, they say it's a two-headed tiger!' Lila's whole body shook. Her legs felt wobbly, and every rustle from the bushes made her even more afraid. 'They say it's coming down from the sky!' another animal whispered, its voice trembling. Just then — the ground started to shake!"
+    },
+    {
+      "id": 4,
+      "text": "భూమి కంపించడంతో, జంతువులన్నీ ఒకేసారి ఉరుకులు పరుగులు తీశాయి, వాటి కాళ్ళ చప్పుడు అడవంతా ప్రతిధ్వనించింది. లీలా కూడా వాటితో పాటు పరుగెత్తింది, ఆమె కళ్ళలో నీళ్ళు తిరిగాయి, నోట మాట రాలేదు. ఆమె ముందున్న జంతువులు ఒకదానిపై ఒకటి పడి, దారిలో ఉన్న చిన్న మొక్కలను తొక్కేశాయి. \"ఆపండి! నాకు దారి ఇవ్వండి!\" అని లీలా మనసులోనే అరుస్తూ, దారి కోసం చూసింది. ఒక్కసారిగా — ఆమె కాలు జారి కింద పడింది! పక్కన పరుగెత్తే తన స్నేహితుల ముఖాలు చూసింది, వాళ్ళు ఆమెను గమనించకుండా దూసుకుపోయారు.",
+      "image_prompt": "The deer stumbles and falls to the ground amidst the panicked stampede of other animals, its legs tangled. Tears well up in its eyes as its friends rush past, their faces showing no recognition of its plight. Harsh, dappled sunlight breaking through the leaves, creating chaotic, moving patterns of light and shadow on the stampeding animals, increasing the sense of confusion and danger.",
+      "scene_visual": "The deer stumbles and falls to the ground amidst the panicked stampede of other animals, its legs tangled. Tears well up in its eyes as its friends rush past, their faces showing no recognition of its plight.",
+      "supporting_char_keys": [
+        "monkey"
+      ],
+      "text_te_en": "Bhumi Kampinchadanto, Jantuvulanni Okesaari Urukulu Parugulu Tishaayi, Vaati Kaalla Chappudu Adavantaa Pratidhvaninchindi. Lilaa Kudaa Vaatito Paatu Parugettindi, Aame Kallalo Nillu Tirigaayi, Nota Maata Raaledu. Aame Mundunna Jantuvulu Okadaanipai Okati Padi, Daarilo Unna Chinna Mokkalanu Tokkeshaayi. \"Aapandi! Naaku Daari Ivvandi!\" Ani Lilaa Manasulone Arustu, Daari Kosam Chusindi. Okkasaarigaa — Aame Kaalu Jaari Kinda Padindi! Pakkana Parugette Tana Snehitula Mukhaalu Chusindi, Vaallu Aamenu Gamaninchakundaa Dusukupoyaaru.",
+      "text_en": "As the ground shook, all the animals ran wildly, their feet thundering through the forest. Lila ran with them, tears in her eyes, unable to make a sound. The animals in front of her tripped over each other, squashing little plants. 'Stop! Let me through!' Lila screamed in her head, trying to find a way. Suddenly — she slipped and fell down! She saw her friends running past, but they didn't even notice her as they rushed away."
+    },
+    {
+      "id": 5,
+      "text": "లీలా ఎలాగోలా లేచి, ఒక పొద కిందకి దూరింది, ఆమె శరీరం అదురుతోంది. ఇంతలో ఆమెకు ఒక తెలిసిన గొంతు వినిపించింది — అది జ్ఞానవంతుడైన గుడ్లగూబది. గుడ్లగూబ తన గుడ్లగూబ శబ్దంతో శాంతంగా ఉడుతను అడిగింది, \"నిజం తెలుసుకోకుండానే పుకార్లు ఎందుకు వ్యాప్తి చేశావు?\". ఉడుత తల దించుకుంది, \"నేను ఒక శబ్దం విన్నాను, అది పులిలా అనిపించింది, అందుకే చెప్పేశాను,\" అని సిగ్గుగా ఒప్పుకుంది. లీలా చెవులు రిక్కించి వింది, ఆమె గుండె చప్పుడు మందగించింది, అంత పెద్ద అడవి అంతా భయపడింది కదూ — కేవలం ఒక శబ్దానికి!",
+      "image_prompt": "The deer crouches trembling under a bush, its ears perked, listening intently as a wise owl calmly questions the squirrel. Its rapid heartbeat slowly begins to calm as the squirrel hangs its head in shame, admitting its mistake. Cool, shaded light under a thick bush, with a single beam of sunlight illuminating the wise owl's face, highlighting his calm authority.",
+      "scene_visual": "The deer crouches trembling under a bush, its ears perked, listening intently as a wise owl calmly questions the squirrel. Its rapid heartbeat slowly begins to calm as the squirrel hangs its head in shame, admitting its mistake.",
+      "supporting_char_keys": [
+        "squirrel",
+        "owl"
+      ],
+      "text_te_en": "Lilaa Elaagolaa Lechi, Oka Poda Kindaki Durindi, Aame Shariram Adurutondi. Intalo Aameku Oka Telisina Gontu Vinipinchindi — Adi Jnyaanavantudaina Gudlagubadi. Gudlaguba Tana Gudlaguba Shabdanto Shaantangaa Udutanu Adigindi, \"Nijam Telusukokundaane Pukaarlu Enduku Vyaapti Cheshaavu?\". Uduta Tala Dinchukundi, \"Nenu Oka Shabdam Vinnaanu, Adi Pulilaa Anipinchindi, Anduke Cheppeshaanu,\" Ani Siggugaa Oppukundi. Lilaa Chevulu Rikkinchi Vindi, Aame Gunde Chappudu Mandaginchindi, Anta Pedda Adavi Antaa Bhayapadindi Kadu — Kevalam Oka Shabdaaniki!",
+      "text_en": "Lila somehow got up and hid under a bush, her body shaking. Just then, she heard a familiar voice — it was the wise old owl. The owl calmly hooted and asked the squirrel, 'Why did you spread rumors without knowing the truth?' The squirrel hung its head. 'I heard a sound, and it sounded like a tiger, so I just said it,' it admitted shyly. Lila listened closely. Her heart started to beat slower. The whole big forest was scared, wasn't it — all because of just one sound!"
+    },
+    {
+      "id": 6,
+      "text": "ఉడుత నిజం చెప్పగానే, లీలాకు ధైర్యం వచ్చింది. ఆమె పొదలో నుండి బయటికి వచ్చింది, ఆమె గొంతు కొద్దిగా వణికినా, నిలకడగా ఉంది. \"మిత్రులారా, పులి లేదు! అది కేవలం ఒక తప్పుడు పుకారు!\" అని పెద్దగా చెప్పింది లీలా. మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? ఒక్కసారిగా అడవిలో నిశ్శబ్దం అలుముకుంది, జంతువులన్నీ లీలా వైపు చూశాయి, వాటి కళ్ళలో ఇంకా కొద్దిగా భయం ఉన్నా, ఆశ మెరిసింది. గుడ్లగూబ కూడా లీలా పక్కన నిలబడి, తన కళ్ళతో జంతువులను చూసింది, వాటిలో నమ్మకాన్ని నింపింది.",
+      "image_prompt": "The deer emerges from the bush, its voice slightly trembling but firm, as it bravely announces to the other animals that there is no tiger. The other animals turn their gaze towards it, their eyes still holding a hint of fear but now glimmering with dawning hope. A mix of dappled sunlight and deep forest shadows, creating a dramatic stage for Leela's brave declaration, with the owl casting a long, reassuring shadow beside her.",
+      "scene_visual": "The deer emerges from the bush, its voice slightly trembling but firm, as it bravely announces to the other animals that there is no tiger. The other animals turn their gaze towards it, their eyes still holding a hint of fear but now glimmering with dawning hope.",
+      "supporting_char_keys": [
+        "squirrel",
+        "monkey",
+        "owl"
+      ],
+      "text_te_en": "Uduta Nijam Cheppagaane, Lilaaku Dhairyam Vachchindi. Aame Podalo Nundi Bayatiki Vachchindi, Aame Gontu Koddigaa Vanikinaa, Nilakadagaa Undi. \"Mitrulaaraa, Puli Ledu! Adi Kevalam Oka Tappudu Pukaaru!\" Ani Peddagaa Cheppindi Lilaa. Miku Telusaa, Appudu Em Jarigindo? Okkasaarigaa Adavilo Nishshabdam Alumukundi, Jantuvulanni Lilaa Vaipu Chushaayi, Vaati Kallalo Inkaa Koddigaa Bhayam Unnaa, Aasha Merisindi. Gudlaguba Kudaa Lilaa Pakkana Nilabadi, Tana Kallato Jantuvulanu Chusindi, Vaatilo Nammakaanni Nimpindi.",
+      "text_en": "As soon as the squirrel told the truth, Lila felt brave. She came out from under the bush. Her voice shook a little, but it was strong. 'Friends, there is no tiger! It was just a made-up story!' Lila said loudly. Do you know what happened next? Suddenly, the forest went completely silent. All the animals looked at Lila. They still looked a little scared, but now there was hope in their eyes. The wise owl stood next to Lila, looking at the animals, making them feel safe and believe her."
+    },
+    {
+      "id": 7,
+      "text": "లీలా మాటలు విన్న జంతువులు మెల్లగా వాటి దాగుడు స్థలాల నుండి బయటికి వచ్చాయి, అడవి నెమ్మదిగా తిరిగి ప్రశాంతంగా మారింది. పక్షులు తిరిగి కిలకిలరావాలు ప్రారంభించాయి, చల్లటి గాలి మెల్లగా వీచింది. లీలా నెమ్మదిగా తల వంచుకుంది, ఆమె కళ్ళలో ఒక కొత్త వెలుగు మెరిసింది, నిజం తెలుసుకోవడం ఎంత ముఖ్యమో ఆమెకు అర్థమైంది. \"నిజం తెలుసుకోకుండా మాట్లాడటం ఎంత ప్రమాదకరమో ఈ రోజు అందరికీ తెలిసింది.\" అని గుడ్లగూబ శాంతంగా చెప్పింది. అప్పటి నుండి అడవిలో ఎవరూ — నిజం తెలుసుకోకుండా ఏ మాట మాట్లాడలేదు.",
+      "image_prompt": "The deer slowly bows its head, a new light of understanding dawning in its eyes as the forest animals emerge from their hiding places. Birds resume their cheerful chirping, and a cool breeze rustles through the now peaceful trees. Gentle dusk light, warm amber, casting long, soft shadows, creating a peaceful and reflective atmosphere as the forest settles into evening.",
+      "scene_visual": "The deer slowly bows its head, a new light of understanding dawning in its eyes as the forest animals emerge from their hiding places. Birds resume their cheerful chirping, and a cool breeze rustles through the now peaceful trees.",
+      "supporting_char_keys": [
+        "squirrel",
+        "monkey",
+        "owl"
+      ],
+      "text_te_en": "Lilaa Maatalu Vinna Jantuvulu Mellagaa Vaati Daagudu Sthalaala Nundi Bayatiki Vachchaayi, Adavi Nemmadigaa Tirigi Prashaantangaa Maarindi. Pakshulu Tirigi Kilakilaraavaalu Praarambhinchaayi, Challati Gaali Mellagaa Vichindi. Lilaa Nemmadigaa Tala Vanchukundi, Aame Kallalo Oka Kotta Velugu Merisindi, Nijam Telusukovadam Enta Mukhyamo Aameku Arthamaindi. \"Nijam Telusukokundaa Maatlaadatam Enta Pramaadakaramo I Roju Andariki Telisindi.\" Ani Gudlaguba Shaantangaa Cheppindi. Appati Nundi Adavilo Evaru — Nijam Telusukokundaa E Maata Maatlaadaledu.",
+      "text_en": "When the animals heard Lila's words, they slowly came out from their hiding spots. The forest slowly became peaceful again. The birds started singing once more, and a cool breeze blew gently. Lila slowly lowered her head. A new light shone in her eyes; she understood how important it was to know the truth. 'Everyone learned today how dangerous it is to talk without knowing the truth,' the wise owl said softly. From that day on, no one in the forest — ever spoke a word without first knowing if it was true."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "squirrel",
+      "description": "A small, energetic squirrel with a bushy tail and bright, darting eyes. Easily excitable and prone to exaggeration. Always the same character across every scene."
+    },
+    {
+      "key": "monkey",
+      "description": "A mischievous monkey with a long tail and quick, agile movements. Loves to chatter and spread news, sometimes without thinking. Always the same character across every scene."
+    },
+    {
+      "key": "owl",
+      "description": "A large, majestic owl with wise, amber eyes and soft, silent wings. He is known for his calm demeanor and thoughtful advice. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 6,
+    "child_engagement": 8,
+    "average": 7.67,
+    "weakest_dimension": "narrative_arc",
+    "notes": "This story excels in its vivid emotional portrayal and flawless colloquial Telugu. The tension builds effectively, keeping the reader engaged. However, the explicit moral statements at the beginning and end, along with the owl's direct sermonizing, significantly weaken the narrative arc by making it preachy. To reach a 9+, the moral must emerge subtly from the events and Leela's journey, allowing the child to discover the lesson rather than being told it directly."
+  },
+  "quality_warning": true,
+  "title_te_en": "Lilaa, Pukaarla Paatham",
+  "moral_te_en": "Ammamma Maata Vinandi Pillalu, Nijam Telusukokundaa E Maata Maatlaadakudadu, Lekapote Andariki Kashtam Vastundi.",
+  "title_en": "Lila, The Rumor Lesson",
+  "moral_en": "Children, always find out the truth before you speak. If you don't, everyone might get into trouble.",
+  "id": "20260607_151012",
+  "date": "2026-06-07",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "అడవిలో పుకార్ల వల్ల వచ్చిన గందరగోళం - నిజం తెలియకుండా మాట్లాడటం వల్ల వచ్చే నష్టాలు.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_151012/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

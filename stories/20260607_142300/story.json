@@ -1,0 +1,98 @@
+{
+  "title": "తెలివైన కుందేలు, నిగ్రహం గెలిచింది",
+  "moral": "ఆపదలో కూడా ప్రశాంతంగా ఆలోచిస్తే, తప్పకుండా ఒక మంచి దారి దొరుకుతుంది కదా.",
+  "main_character": "A small, fluffy, light grey rabbit with long ears and a twitching nose. It has a calm demeanor and thinks before it acts. Always the same character across every scene.",
+  "antagonist": "A lean, reddish-brown fox with sharp eyes and a bushy tail, its fur often matted from recent hunts. It has a perpetually hungry look and moves with a cunning stealth. Always the same character across every scene.",
+  "setting": "A lush forest clearing near the Godavari river in Andhra Pradesh, filled with ancient banyan trees, vibrant green bushes, and scattered smooth grey rocks. The air is often humid, carrying the scent of damp earth and wild blossoms. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక బుజ్జి కుందేలు, మెత్తటి బూడిద రంగు బొచ్చుతో, అడవి మధ్యలో ప్రశాంతంగా పచ్చిక మేస్తోంది. దాని పొడవైన చెవులు అటూ ఇటూ కదులుతూ, ఆ చుట్టుపక్కల శబ్దాలను పసిగడుతున్నాయి. \"ఆహా, ఈ గడ్డి ఎంత రుచిగా ఉంది!\" అని అది మెల్లగా నములుతూ, మంచు కురిసిన పచ్చి గడ్డి తీయదనాన్ని ఆస్వాదించింది. దాని చిన్న ముక్కు కదులుతూ, ప్రశాంతంగా తల దించుకుని మేస్తోంది. ఇంతలో — దాని చెవులు ఒక్కసారిగా పైకి లేచాయి, ఏదో శబ్దం వినిపించింది.",
+      "image_prompt": "The small rabbit's long ears suddenly shoot straight up, halting its peaceful grazing. Its soft grey fur is visible as its head lifts slightly, listening intently to a sound. Soft morning light filtering through leaves, dappling the forest floor in warm greens and golds.",
+      "scene_visual": "The small rabbit's long ears suddenly shoot straight up, halting its peaceful grazing. Its soft grey fur is visible as its head lifts slightly, listening intently to a sound.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Bujji Kundelu, Mettati Budida Rangu Bochchuto, Adavi Madhyalo Prashaantangaa Pachchika Mestondi. Daani Podavaina Chevulu Atu Itu Kadulutu, Aa Chuttupakkala Shabdaalanu Pasigadutunnaayi. \"Aahaa, I Gaddi Enta Ruchigaa Undi!\" Ani Adi Mellagaa Namulutu, Manchu Kurisina Pachchi Gaddi Tiyadanaanni Aasvaadinchindi. Daani Chinna Mukku Kadulutu, Prashaantangaa Tala Dinchukuni Mestondi. Intalo — Daani Chevulu Okkasaarigaa Paiki Lechaayi, Edo Shabdam Vinipinchindi.",
+      "text_en": "A little bunny, with soft grey fur, was peacefully grazing in the middle of the forest. Its long ears moved back and forth, listening to the sounds all around. \"Oh, how delicious this grass is!\" it munched slowly, enjoying the sweetness of the dewy green grass. Its little nose twitched as it grazed peacefully with its head down. Suddenly — its ears shot up, it heard a sound."
+    },
+    {
+      "id": 2,
+      "text": "పొదల చాటున, ఒక ఆకలిగొన్న నక్క, ఎర్రటి బొచ్చుతో, మెల్లగా నడుస్తోంది. దాని కళ్ళు నిప్పులు చెరుగుతున్నట్టు, ఆహారం కోసం అడవి అంతా వెతుకుతున్నాయి. మెల్లగా అడుగులు వేస్తూ వస్తుంటే, ఎండుటాకులు 'కర్ర్ర్' మని శబ్దం చేశాయి. అప్పుడు అది కుందేలును చూసి — దాని కళ్ళు ఒక్కసారిగా మెరిసిపోయాయి! \"ఈ రోజు నా ఆకలి తీరుతుంది!\" అని అది తనలో తాను గొణుక్కుంది. మెల్లగా, దాని వెనుక కాళ్ళు వంచుకుని, పంజా విసరడానికి సిద్ధంగా ఉంది.",
+      "image_prompt": "The hungry fox, with red fur, slowly crouches down behind the bushes. Its eyes, which were searching like fire, now sparkle intensely upon spotting the rabbit. Also in this scene: A lean, reddish-brown fox with sharp eyes and a bushy tail, its fur often matted from recent hunts. It has a perpetually hungry look and moves with a cunning stealth. Always the same character across every scene. Harsh mid-morning sun breaking through the canopy, casting long, sharp shadows, highlighting the fox's predatory movement.",
+      "scene_visual": "The hungry fox, with red fur, slowly crouches down behind the bushes. Its eyes, which were searching like fire, now sparkle intensely upon spotting the rabbit.",
+      "supporting_char_keys": [],
+      "text_te_en": "Podala Chaatuna, Oka Aakaligonna Nakka, Errati Bochchuto, Mellagaa Nadustondi. Daani Kallu Nippulu Cherugutunnattu, Aahaaram Kosam Adavi Antaa Vetukutunnaayi. Mellagaa Adugulu Vestu Vastunte, Endutaakulu 'Karrr' Mani Shabdam Cheshaayi. Appudu Adi Kundelunu Chusi — Daani Kallu Okkasaarigaa Merisipoyaayi! \"I Roju Naa Aakali Tirutundi!\" Ani Adi Tanalo Taanu Gonukkundi. Mellagaa, Daani Venuka Kaallu Vanchukuni, Panjaa Visaradaaniki Siddhangaa Undi.",
+      "text_en": "Behind the bushes, a hungry fox, with red fur, was walking quietly. Its eyes gleamed fiercely as it searched the entire forest for food. As it walked quietly, dry leaves made a 'crunch' sound. Then it saw the bunny — its eyes suddenly lit up! \"Today my hunger will be satisfied!\" it muttered to itself. Slowly, it bent its hind legs, ready to pounce."
+    },
+    {
+      "id": 3,
+      "text": "నక్క ఒక్కసారిగా కుందేలు మీదకు దూకింది, కానీ కుందేలు మెరుపు వేగంతో పారిపోయింది. దాని చిన్న గుండె 'ధక్ ధక్' మని కొట్టుకుంటోంది, అది ప్రాణం కోసం పరుగెడుతోంది. నక్క కూడా వదలకుండా, దాని వెనకాలే వూపిరి బిగబట్టి పరిగెడుతోంది. \"నువ్వు ఎక్కడికి పారిపోతావో చూస్తాను!\" అని నక్క అరుస్తోంది. కుందేలు వేగంగా పొదల గుండా దూసుకెళ్తోంది, దాని కాళ్ళ చప్పుడు అడవిలో ప్రతిధ్వనిస్తోంది. అది ఒక లోతైన లోయ అంచున ఒక్కసారిగా ఆగిపోయింది — నక్క అప్పుడే దగ్గరకు వచ్చేస్తోంది.",
+      "image_prompt": "The rabbit abruptly skids to a halt at the very edge of a deep canyon. The fox, panting heavily, is rapidly closing in on the rabbit from behind. Also in this scene: A lean, reddish-brown fox with sharp eyes and a bushy tail, its fur often matted from recent hunts. It has a perpetually hungry look and moves with a cunning stealth. Always the same character across every scene. Bright, direct sunlight illuminating the frantic chase, emphasizing speed and desperation, with flashes of green foliage.",
+      "scene_visual": "The rabbit abruptly skids to a halt at the very edge of a deep canyon. The fox, panting heavily, is rapidly closing in on the rabbit from behind.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Okkasaarigaa Kundelu Midaku Dukindi, Kaani Kundelu Merupu Veganto Paaripoyindi. Daani Chinna Gunde 'Dhak Dhak' Mani Kottukuntondi, Adi Praanam Kosam Parugedutondi. Nakka Kudaa Vadalakundaa, Daani Venakaale Vupiri Bigabatti Parigedutondi. \"Nuvvu Ekkadiki Paaripotaavo Chustaanu!\" Ani Nakka Arustondi. Kundelu Vegangaa Podala Gundaa Dusukeltondi, Daani Kaalla Chappudu Adavilo Pratidhvanistondi. Adi Oka Lotaina Loya Anchuna Okkasaarigaa Aagipoyindi — Nakka Appude Daggaraku Vachchestondi.",
+      "text_en": "The fox suddenly pounced on the bunny, but the bunny ran away with lightning speed. Its little heart was beating 'thump-thump', it was running for its life. The fox also didn't give up, chasing right behind it, breathless. \"Let's see where you can run!\" the fox shouted. The bunny dashed quickly through the bushes, the sound of its feet echoing in the forest. It suddenly stopped at the edge of a deep ravine — the fox was already getting close."
+    },
+    {
+      "id": 4,
+      "text": "కుందేలు ఆ లోతైన లోయ అంచున నిలబడింది, దాని కాళ్ళు వణికిపోయాయి — అడుగు ముందుకు పడలేదు. ఈ లోయను దూకడం దానికి అసాధ్యం అని అర్థమైంది. కింద నుండి చల్లటి గాలి 'హూష్' మని దాని చెవులను తాకింది. నక్క నెమ్మదిగా దాని దగ్గరకు వస్తోంది, దాని ముఖంలో విజయం స్పష్టంగా కనిపిస్తోంది. కుందేలు ఒక్క క్షణం భయపడింది, కానీ వెంటనే దాని కళ్ళు నలువైపులా పరిగెత్తాయి. \"నేను ఆలోచించాలి. త్వరగా ఆలోచించాలి!\" అని అది తనలో తాను గొణుక్కుంది. అది నక్క వైపు తిరిగింది, దాని ముఖంలో ఒక వింతైన ప్రశాంతత.",
+      "image_prompt": "The rabbit, standing at the edge of the deep canyon with trembling legs, turns to face the approaching fox. A strange calmness settles on its face, replacing its momentary fear, as the fox's victorious expression is clearly visible. Also in this scene: A lean, reddish-brown fox with sharp eyes and a bushy tail, its fur often matted from recent hunts. It has a perpetually hungry look and moves with a cunning stealth. Always the same character across every scene. Overcast sky, a momentary shadow falling over the ravine, making it seem deeper and more ominous.",
+      "scene_visual": "The rabbit, standing at the edge of the deep canyon with trembling legs, turns to face the approaching fox. A strange calmness settles on its face, replacing its momentary fear, as the fox's victorious expression is clearly visible.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kundelu Aa Lotaina Loya Anchuna Nilabadindi, Daani Kaallu Vanikipoyaayi — Adugu Munduku Padaledu. I Loyanu Dukadam Daaniki Asaadhyam Ani Arthamaindi. Kinda Nundi Challati Gaali 'Hush' Mani Daani Chevulanu Taakindi. Nakka Nemmadigaa Daani Daggaraku Vastondi, Daani Mukhanlo Vijayam Spashtangaa Kanipistondi. Kundelu Okka Kshanam Bhayapadindi, Kaani Ventane Daani Kallu Naluvaipulaa Parigettaayi. \"Nenu Aalochinchaali. Tvaragaa Aalochinchaali!\" Ani Adi Tanalo Taanu Gonukkundi. Adi Nakka Vaipu Tirigindi, Daani Mukhanlo Oka Vintaina Prashaantata.",
+      "text_en": "The bunny stood at the edge of the deep ravine, its legs trembling — it couldn't take another step forward. It understood that jumping across this ravine was impossible for it. A cold wind 'whooshed' up from below, touching its ears. The fox was slowly approaching it, victory clearly visible on its face. The bunny was scared for a moment, but then its eyes quickly darted all around. \"I must think. I must think quickly!\" it muttered to itself. It turned towards the fox, with a strange calmness on its face."
+    },
+    {
+      "id": 5,
+      "text": "నక్క గర్వంగా నవ్వింది — ఆ పొడి నవ్వు అడవిలో వింతగా వినిపించింది. \"హా హా హా! నువ్వు నా చేతిలో చిక్కిపోయావు, చిన్న కుందేలు!\" అని అది బెదిరింపుగా అంది. కుందేలు మెల్లగా తల వంచుకుని, \"స్వామీ, మీరు నన్ను తినబోతున్నారు, కానీ నాకు ఒక చిన్న కోరిక ఉంది\" అని అంది. నక్క చెవులు రిక్కించి, \"ఏమిటి నీ కోరిక?\" అని అడిగింది, దాని ముఖంలో మోసపూరితమైన చిరునవ్వు. అప్పుడు కుందేలు ధైర్యం తెచ్చుకుని, \"మన ఇద్దరిలో ఎవరు బలవంతులో నిరూపించుకుందాం?\" అని అడిగింది. నక్క ఆశ్చర్యపోయి, ఇంకేం చెబుతుందోనని ఆసక్తిగా వింటోంది.",
+      "image_prompt": "The fox, with a deceitful smirk, cocks its ears in surprise as the rabbit proposes a test of strength. Its expression shifts from smugness to curiosity, eager to hear what the rabbit will say next. Also in this scene: A lean, reddish-brown fox with sharp eyes and a bushy tail, its fur often matted from recent hunts. It has a perpetually hungry look and moves with a cunning stealth. Always the same character across every scene. Bright, slightly harsh sunlight returning, illuminating the two animals face-to-face, highlighting their contrasting expressions.",
+      "scene_visual": "The fox, with a deceitful smirk, cocks its ears in surprise as the rabbit proposes a test of strength. Its expression shifts from smugness to curiosity, eager to hear what the rabbit will say next.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Garvangaa Navvindi — Aa Podi Navvu Adavilo Vintagaa Vinipinchindi. \"Haa Haa Haa! Nuvvu Naa Chetilo Chikkipoyaavu, Chinna Kundelu!\" Ani Adi Bedirimpugaa Andi. Kundelu Mellagaa Tala Vanchukuni, \"Svaami, Miru Nannu Tinabotunnaaru, Kaani Naaku Oka Chinna Korika Undi\" Ani Andi. Nakka Chevulu Rikkinchi, \"Emiti Ni Korika?\" Ani Adigindi, Daani Mukhanlo Mosapuritamaina Chirunavvu. Appudu Kundelu Dhairyam Techchukuni, \"Mana Iddarilo Evaru Balavantulo Nirupinchukundaan?\" Ani Adigindi. Nakka Aashcharyapoyi, Inkem Chebutundonani Aasaktigaa Vintondi.",
+      "text_en": "The fox laughed proudly — its hoarse laugh sounded strange in the forest. \"Ha ha ha! You're caught, little bunny!\" it said threateningly. The bunny slowly bowed its head and said, \"Sir, you are about to eat me, but I have one small wish.\" The fox perked up its ears and asked, \"What is your wish?\" with a cunning smile on its face. Then the bunny gathered its courage and asked, \"Shall we prove who is stronger between us?\" The fox was surprised and listened curiously to what else it would say."
+    },
+    {
+      "id": 6,
+      "text": "కుందేలు దగ్గరలో ఉన్న ఒక పెద్ద బండరాయిని చూపించి, \"ఈ రాయిని లోయలోకి నెట్టగలిగితే, మీరే బలవంతులు!\" అని చెప్పింది. నక్క తన బలాన్ని నిరూపించుకోవాలని, పొగరుగా ఆ రాయిని నెట్టడం మొదలుపెట్టింది. అది 'హుస్... హుస్' మని శబ్దాలు చేస్తూ, తన శరీరాన్ని మొత్తం ఉపయోగించి రాయిని నెడుతోంది. కుందేలు ఉత్సాహంగా, \"అవును, ఇంకా గట్టిగా నెట్టండి! దాదాపు అయిపోయింది!\" అని ప్రోత్సహించింది. నక్క కష్టపడి నెడుతుంటే, ఒక్కసారిగా రాయి లోయలోకి దొర్లింది. నక్క అలసిపోయి, అంచున తడబడింది — అది లోయలో పడిపోతుందేమో అనిపించింది.",
+      "image_prompt": "The fox strains with its entire body, grunting and pushing a large boulder towards the canyon edge. As the rock tumbles into the abyss, the exhausted fox stumbles precariously at the very brink, almost falling in itself. Also in this scene: A lean, reddish-brown fox with sharp eyes and a bushy tail, its fur often matted from recent hunts. It has a perpetually hungry look and moves with a cunning stealth. Always the same character across every scene. Bright, clear daylight, emphasizing the physical effort of the fox and the cleverness of the rabbit's maneuver.",
+      "scene_visual": "The fox strains with its entire body, grunting and pushing a large boulder towards the canyon edge. As the rock tumbles into the abyss, the exhausted fox stumbles precariously at the very brink, almost falling in itself.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kundelu Daggaralo Unna Oka Pedda Bandaraayini Chupinchi, \"I Raayini Loyaloki Nettagaligite, Mire Balavantulu!\" Ani Cheppindi. Nakka Tana Balaanni Nirupinchukovaalani, Pogarugaa Aa Raayini Nettadam Modalupettindi. Adi 'Hus... Hus' Mani Shabdaalu Chestu, Tana Shariraanni Mottam Upayoginchi Raayini Nedutondi. Kundelu Utsaahangaa, \"Avunu, Inkaa Gattigaa Nettandi! Daadaapu Ayipoyindi!\" Ani Protsahinchindi. Nakka Kashtapadi Nedutunte, Okkasaarigaa Raayi Loyaloki Dorlindi. Nakka Alasipoyi, Anchuna Tadabadindi — Adi Loyalo Padipotundemo Anipinchindi.",
+      "text_en": "The bunny pointed to a large boulder nearby and said, \"If you can push this rock into the ravine, then you are the strongest!\" The fox, wanting to prove its strength, proudly began to push the rock. It made 'huff... huff' sounds, using its entire body to push the rock. The bunny excitedly encouraged, \"Yes, push harder! Almost there!\" As the fox pushed hard, the rock suddenly rolled into the ravine. The fox, exhausted, stumbled at the edge — it seemed as if it might fall into the ravine."
+    },
+    {
+      "id": 7,
+      "text": "నక్క రాయిని నెట్టడానికి కష్టపడుతూ, అంచున తడబడిన ఆ ఒక్క క్షణం — కుందేలు తన ప్రాణాన్ని పణంగా పెట్టి, లోయ మీదుగా దూకింది. అవతలి ఒడ్డున అది 'డబ్' మని కింద పడింది, కానీ వెంటనే లేచి నిలబడింది. నక్క కళ్ళు తెరిచి చూసేసరికి, కుందేలు అవతలి వైపు నిలబడి చిరునవ్వు నవ్వుతోంది. దాని కడుపులో ఆకలి మంట ఇంకా ఎక్కువైంది — అది మోసపోయిందని అర్థమైంది. \"ఆకలితో ఉన్నా కూడా, తెలివిని మర్చిపోకూడదు!\" అని కుందేలు నెమ్మదిగా అంది, సురక్షితంగా వెళ్ళిపోయింది.",
+      "image_prompt": "The rabbit takes a desperate leap across the deep canyon, landing with a thud on the opposite bank. It quickly stands up and smiles at the fox, which is now looking across from the edge, realizing it has been tricked. Also in this scene: A lean, reddish-brown fox with sharp eyes and a bushy tail, its fur often matted from recent hunts. It has a perpetually hungry look and moves with a cunning stealth. Always the same character across every scene. Golden afternoon light, warm and peaceful, shining on the rabbit's safe side, leaving the fox in a slightly dimmer, frustrated shadow.",
+      "scene_visual": "The rabbit takes a desperate leap across the deep canyon, landing with a thud on the opposite bank. It quickly stands up and smiles at the fox, which is now looking across from the edge, realizing it has been tricked.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nakka Raayini Nettadaaniki Kashtapadutu, Anchuna Tadabadina Aa Okka Kshanam — Kundelu Tana Praanaanni Panangaa Petti, Loya Midugaa Dukindi. Avatali Odduna Adi 'Dab' Mani Kinda Padindi, Kaani Ventane Lechi Nilabadindi. Nakka Kallu Terichi Chusesariki, Kundelu Avatali Vaipu Nilabadi Chirunavvu Navvutondi. Daani Kadupulo Aakali Manta Inkaa Ekkuvaindi — Adi Mosapoyindani Arthamaindi. \"Aakalito Unnaa Kudaa, Telivini Marchipokudadu!\" Ani Kundelu Nemmadigaa Andi, Surakshitangaa Vellipoyindi.",
+      "text_en": "The moment the fox stumbled at the edge, struggling to push the rock — the bunny risked its life and jumped across the ravine. It landed 'thud' on the other side, but immediately stood up. By the time the fox opened its eyes, the bunny was standing on the other side, smiling. The fire of hunger in its belly grew even stronger — it understood that it had been tricked. \"Even when hungry, one should not forget their cleverness!\" the bunny said softly, and went away safely."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 4,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 7.67,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and strong child engagement, making it a solid read. However, its primary weakness lies in 'emotional_depth,' where feelings are frequently stated directly rather than shown through action or subtle cues. To elevate this to an award-winning piece, the author should focus on embodying emotions and refining the narrative voice to be consistently warm and oral, avoiding formal phrasing."
+  },
+  "quality_warning": true,
+  "title_te_en": "Telivaina Kundelu, Nigraham Gelichindi",
+  "moral_te_en": "Aapadalo Kudaa Prashaantangaa Aalochiste, Tappakundaa Oka Manchi Daari Dorukutundi Kadaa.",
+  "title_en": "The Clever Bunny and the Triumph of Composure",
+  "moral_en": "Even when you're in trouble, if you think calmly, you will always find a good solution.",
+  "id": "20260607_142300",
+  "date": "2026-06-07",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "ఆకలితో ఉన్న నక్క మరియు నిగ్రహం ఉన్న కుందేలు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_142300/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

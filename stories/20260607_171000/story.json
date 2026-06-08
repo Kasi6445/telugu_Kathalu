@@ -1,0 +1,97 @@
+{
+  "title": "చిరుతపులి, తోడేళ్ళ పాఠం",
+  "moral": "మనలో ఎంత బలం ఉన్నా, కలిసికట్టుగా ఆలోచించి, తెలివిగా అడుగులు వేస్తే, మనం అనుకున్నది సాధించడం సులువు అవుతుంది.",
+  "main_character": "A sleek, golden-furred cheetah, known for its incredible speed and distinctive black tear marks. It is a solitary hunter, proud of its individual prowess and agility. Always the same character across every scene.",
+  "antagonist": "A pack of grey wolves, robust and cunning, with piercing yellow eyes, led by a large, scarred alpha. They rely on their numbers and coordinated tactics to hunt larger prey. Always the same character across every scene.",
+  "setting": "A dry deciduous forest in the Nallamala Hills of Andhra Pradesh, characterized by tall teak trees, thorny bushes, and rocky outcrops. The air is often warm and dusty, with the distinct scent of dry earth. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవిలో ఒక బంగారు చిరుతపులి — దాని పేరు వేగవతి — పచ్చిక బయళ్ళలో నక్కింది. కళ్ళు మెరుస్తూ, నిశ్శబ్దంగా అడుగులు వేస్తూ, ఒక లేడిని గమనించింది. పొడి గడ్డి సర్రుమని చప్పుడు చేస్తూనే, వేగవతి ఒక్కసారిగా ఉరిమింది — దాని వేగం చూస్తే కళ్ళు మిరుమిట్లు గొలిపాయి. లేడి దాన్ని చూసి పరుగు పెట్టింది, కానీ వేగవతి దాన్ని క్షణాల్లో పట్టుకుంది. అది ఒక చిన్న చిరునవ్వు నవ్వి, గర్వంగా తనలో తాను అనుకుంది: \"ఈ రోజు నా వేగం చూడు!\" ఇంతలో, ఆకాశంలో నల్లటి మబ్బులు కమ్ముకున్నాయి, చినుకుల వాసన మెల్లగా గాలిలో తేలింది.",
+      "image_prompt": "The cheetah pounces with dazzling speed, catching the deer in a flash. Dry grass rustles loudly under its powerful launch, and its eyes momentarily gleam with pride. Bright afternoon sun filtering through sparse tree canopy, casting dappled shadows on the dry ground, warm and vibrant.",
+      "scene_visual": "The cheetah pounces with dazzling speed, catching the deer in a flash. Dry grass rustles loudly under its powerful launch, and its eyes momentarily gleam with pride.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Adavilo Oka Bangaaru Chirutapuli — Daani Peru Vegavati — Pachchika Bayallalo Nakkindi. Kallu Merustu, Nishshabdangaa Adugulu Vestu, Oka Ledini Gamaninchindi. Podi Gaddi Sarrumani Chappudu Chestune, Vegavati Okkasaarigaa Urimindi — Daani Vegam Chuste Kallu Mirumitlu Golipaayi. Ledi Daanni Chusi Parugu Pettindi, Kaani Vegavati Daanni Kshanaallo Pattukundi. Adi Oka Chinna Chirunavvu Navvi, Garvangaa Tanalo Taanu Anukundi: \"I Roju Naa Vegam Chudu!\" Intalo, Aakaashanlo Nallati Mabbulu Kammukunnaayi, Chinukula Vaasana Mellagaa Gaalilo Telindi.",
+      "text_en": "In the Nallamala forest, a golden leopard — its name was Vagavati — was hiding in the grasslands. With sparkling eyes, moving silently, it spotted a deer. As the dry grass rustled, Vagavati pounced suddenly — its speed was so amazing, it made your eyes blur! The deer saw it and ran, but Vagavati caught it in moments. It gave a small smile and proudly thought to itself: \"Look at my speed today!\" Meanwhile, dark clouds gathered in the sky, and the scent of raindrops gently floated in the air."
+    },
+    {
+      "id": 2,
+      "text": "కొంతసేపటికి, వేగవతి పొట్ట నిండుగా, ఒక పెద్ద చెట్టు నీడన విశ్రాంతి తీసుకుంటుంది. దూరంగా, తోడేళ్ళ గుంపు ఒకటి భారీ జింకను వేటాడటం చూసింది. తోడేళ్ళు గొంతులోంచి దీనంగా అరుస్తూ, మొరుగుతూ అడవి అంతా ప్రతిధ్వనించాయి, జింకను చుట్టుముట్టాయి. వేగవతి తల కొద్దిగా పక్కకు వంచి, వాటి వైపు చూసి, పెదవి విరిచింది. \"వాటి వేట వింతగా ఉంది\" అని మెల్లగా గుసగుసలాడింది. ఆ జింక ఒక్కసారిగా — కింద పడిపోయింది. మళ్ళీ ఆకలి వేసినట్టు అనిపించగానే, వేగవతి కళ్ళు అడవిలో మేస్తున్న ఒక పెద్ద పంది వైపు తిరిగాయి.",
+      "image_prompt": "The cheetah rests under a large tree, observing a pack of wolves surrounding and hunting a large deer in the distance. It slightly tilts its head and curls its lip in a subtle expression of disdain, then its eyes turn towards a large wild boar. Also in this scene: A pack of grey wolves, robust and cunning, with piercing yellow eyes, led by a large, scarred alpha. They rely on their numbers and coordinated tactics to hunt larger prey. Always the same character across every scene. Late afternoon light, golden rays piercing through the trees, illuminating dust motes in the air, creating a slightly hazy, reflective mood.",
+      "scene_visual": "The cheetah rests under a large tree, observing a pack of wolves surrounding and hunting a large deer in the distance. It slightly tilts its head and curls its lip in a subtle expression of disdain, then its eyes turn towards a large wild boar.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kontasepatiki, Vegavati Potta Nindugaa, Oka Pedda Chettu Nidana Vishraanti Tisukuntundi. Durangaa, Todella Gumpu Okati Bhaari Jinkanu Vetaadatam Chusindi. Todellu Gontulonchi Dinangaa Arustu, Morugutu Adavi Antaa Pratidhvaninchaayi, Jinkanu Chuttumuttaayi. Vegavati Tala Koddigaa Pakkaku Vanchi, Vaati Vaipu Chusi, Pedavi Virichindi. \"Vaati Veta Vintagaa Undi\" Ani Mellagaa Gusagusalaadindi. Aa Jinka Okkasaarigaa — Kinda Padipoyindi. Malli Aakali Vesinattu Anipinchagaane, Vegavati Kallu Adavilo Mestunna Oka Pedda Pandi Vaipu Tirigaayi.",
+      "text_en": "A little while later, Vagavati, with a full belly, rested under the shade of a big tree. In the distance, she saw a pack of wolves hunting a large deer. The wolves howled and barked with deep cries, their sounds echoing through the forest as they surrounded the deer. Vagavati tilted her head slightly, looked at them, and curled her lip. \"Their hunt is strange,\" she whispered softly. Suddenly, the deer — fell down. As soon as she felt hungry again, Vagavati's eyes turned towards a big wild boar grazing in the forest."
+    },
+    {
+      "id": 3,
+      "text": "వేగవతి తన వేగంపై నమ్మకంతో, ఆ బలమైన అడవి పందిని ఒంటరిగా వేటాడాలని నిర్ణయించుకుంది. అది మెల్లగా పందిని సమీపించింది, దాని అడుగులు భూమిని తాకకుండా తేలికగా ఉన్నాయి. కానీ పంది శరీరం చాలా గట్టిగా, మందంగా ఉంది. పంది ఒక్కసారిగా కొమ్ములు దించి ముందుకు దూకింది — ఒక ఎండుకొమ్మ గట్టిగా విరిగింది. వేగవతి దాన్ని పట్టుకోలేకపోయింది, దాని పదునైన కొమ్ము వేగవతికి చిన్న గీత పెట్టింది. అది బాధతో వెనక్కి తగ్గింది, చిన్నగా కుయ్యోమంది. \"అయ్యో! ఇది నేను ఊహించలేదు\" అని నిట్టూర్చింది. కొద్దిగా కుంటుతూ వెనక్కి వెళ్తున్న వేగవతికి, మళ్ళీ ఆ తోడేళ్ళ గుంపు కనబడింది — ఈసారి అవి ఒక చల్లటి వాగు పక్కన విశ్రాంతి తీసుకుంటున్నాయి.",
+      "image_prompt": "The wild boar suddenly charges with its tusks lowered, striking the cheetah and causing it to recoil in pain. A dry branch snaps loudly as the boar lunges, leaving a small scratch on the cheetah's side as it whimpers softly. Harsh, fading sunlight, casting long, stark shadows across the rocky terrain, emphasizing the cheetah's struggle.",
+      "scene_visual": "The wild boar suddenly charges with its tusks lowered, striking the cheetah and causing it to recoil in pain. A dry branch snaps loudly as the boar lunges, leaving a small scratch on the cheetah's side as it whimpers softly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vegavati Tana Vegampai Nammakanto, Aa Balamaina Adavi Pandini Ontarigaa Vetaadaalani Nirnayinchukundi. Adi Mellagaa Pandini Samipinchindi, Daani Adugulu Bhumini Taakakundaa Telikagaa Unnaayi. Kaani Pandi Shariram Chaalaa Gattigaa, Mandangaa Undi. Pandi Okkasaarigaa Kommulu Dinchi Munduku Dukindi — Oka Endukomma Gattigaa Virigindi. Vegavati Daanni Pattukolekapoyindi, Daani Padunaina Kommu Vegavatiki Chinna Gita Pettindi. Adi Baadhato Venakki Taggindi, Chinnagaa Kuyyomandi. \"Ayyo! Idi Nenu Uhinchaledu\" Ani Nitturchindi. Koddigaa Kuntutu Venakki Veltunna Vegavatiki, Malli Aa Todella Gumpu Kanabadindi — Isaari Avi Oka Challati Vaagu Pakkana Vishraanti Tisukuntunnaayi.",
+      "text_en": "Vagavati, trusting in her speed, decided to hunt that strong wild boar alone. She slowly approached the boar, her steps light, barely touching the ground. But the boar's body was very tough and thick. The boar suddenly lowered its tusks and lunged forward — a dry branch snapped loudly. Vagavati couldn't catch it, and its sharp tusk gave Vagavati a small scratch. She recoiled in pain, letting out a little whimper. \"Oh no! I didn't expect this,\" she sighed. As Vagavati limped back, she saw the pack of wolves again — this time, they were resting by a cool stream."
+    },
+    {
+      "id": 4,
+      "text": "ఒక పొద చాటున నక్కి, వేగవతి తోడేళ్ళను గమనించింది. అవి తమ వేటను పంచుకుంటూ హాయిగా ఉన్నాయి. వాటి దగ్గర నుండి తాజాగా వేటాడిన మాంసం వాసన, తడి మట్టి సువాసన గాలిలో తేలివచ్చింది. అవి ఎలా ఒకదానితో ఒకటి మాట్లాడుకుంటున్నాయో, కలిసి ఎలా విశ్రాంతి తీసుకుంటున్నాయో వేగవతి చూసింది. దాని కడుపు ఒక్కసారిగా — గుడగుడమంది. \"వాళ్ళు కలిసి పనిచేస్తున్నారు\" అని అది మెల్లగా అనుకుంది. తన ఖాళీ కడుపుని చూసుకుని, దూరంగా ఉన్న ఆ తోడేళ్ళ గుంపు వైపు చూస్తూ, వేగవతికి ఆకలి ఇంకా ఎక్కువైంది.",
+      "image_prompt": "The cheetah crouches hidden behind a bush, intently watching the wolf pack comfortably sharing their fresh kill. Its empty stomach rumbles audibly as the scent of fresh meat and damp earth drifts towards it, intensifying its hunger. Also in this scene: A pack of grey wolves, robust and cunning, with piercing yellow eyes, led by a large, scarred alpha. They rely on their numbers and coordinated tactics to hunt larger prey. Always the same character across every scene. Soft twilight, blue-grey hues settling over the forest, a peaceful yet melancholic atmosphere, dimming to near darkness.",
+      "scene_visual": "The cheetah crouches hidden behind a bush, intently watching the wolf pack comfortably sharing their fresh kill. Its empty stomach rumbles audibly as the scent of fresh meat and damp earth drifts towards it, intensifying its hunger.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Poda Chaatuna Nakki, Vegavati Todellanu Gamaninchindi. Avi Tama Vetanu Panchukuntu Haayigaa Unnaayi. Vaati Daggara Nundi Taajaagaa Vetaadina Maansam Vaasana, Tadi Matti Suvaasana Gaalilo Telivachchindi. Avi Elaa Okadaanito Okati Maatlaadukuntunnaayo, Kalisi Elaa Vishraanti Tisukuntunnaayo Vegavati Chusindi. Daani Kadupu Okkasaarigaa — Gudagudamandi. \"Vaallu Kalisi Panichestunnaaru\" Ani Adi Mellagaa Anukundi. Tana Khaali Kadupuni Chusukuni, Durangaa Unna Aa Todella Gumpu Vaipu Chustu, Vegavatiki Aakali Inkaa Ekkuvaindi.",
+      "text_en": "Hiding behind a bush, Vagavati watched the wolves. They were happily sharing their hunt. The smell of freshly hunted meat and damp earth wafted from them in the air. Vagavati saw how they talked to each other and rested together. Suddenly, her stomach — rumbled. \"They are working together,\" she thought softly. Looking at her empty stomach and watching the distant pack of wolves, Vagavati felt even hungrier."
+    },
+    {
+      "id": 5,
+      "text": "ఆ రాత్రి, వేగవతికి నిద్ర పట్టలేదు. తోడేళ్ళ సహకారం దాని మనసులో మెదులుతూనే ఉంది. అది తన పాత వేట పద్ధతుల గురించి ఆలోచించింది — కేవలం వేగంతోనే అన్నిటినీ సాధించలేమని అర్థమైంది. చల్లని రాత్రి గాలిలో గుడ్లగూబ అరుపు దూరంగా వినిపించింది, అడవి నిశ్శబ్దంగా ఉంది. వేగవతి కళ్ళల్లో ఒక్కసారిగా — మెరుపు కనిపించింది. \"ఒంటరిగా వేటాడటం వేరు, తెలివిగా వేటాడటం వేరు\" అని అది గట్టిగా అనుకుంది. కొద్దిగా భయంగా ఉన్నా, ఒక కొత్త పద్ధతిని ప్రయత్నించాలని నిశ్చయించుకుంది. దూరంగా, ఒక రాతి కొండ మీద కొన్ని అడవి మేకలు కనబడ్డాయి — అవి చాలా తెలివైనవి, వాటిని పట్టుకోవడం చాలా కష్టం.",
+      "image_prompt": "The cheetah lies awake in the cool night air, its thoughts consumed by the wolves' cooperation. A sudden spark of realization flashes in its eyes as it firmly decides to try a new, intelligent hunting method. Early morning light, a pale orange glow on the horizon, slowly illuminating the forest, suggesting a new beginning.",
+      "scene_visual": "The cheetah lies awake in the cool night air, its thoughts consumed by the wolves' cooperation. A sudden spark of realization flashes in its eyes as it firmly decides to try a new, intelligent hunting method.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raatri, Vegavatiki Nidra Pattaledu. Todella Sahakaaram Daani Manasulo Medulutune Undi. Adi Tana Paata Veta Paddhatula Gurinchi Aalochinchindi — Kevalam Vegantone Annitini Saadhinchalemani Arthamaindi. Challani Raatri Gaalilo Gudlaguba Arupu Durangaa Vinipinchindi, Adavi Nishshabdangaa Undi. Vegavati Kallallo Okkasaarigaa — Merupu Kanipinchindi. \"Ontarigaa Vetaadatam Veru, Telivigaa Vetaadatam Veru\" Ani Adi Gattigaa Anukundi. Koddigaa Bhayangaa Unnaa, Oka Kotta Paddhatini Prayatninchaalani Nishchayinchukundi. Durangaa, Oka Raati Konda Mida Konni Adavi Mekalu Kanabaddaayi — Avi Chaalaa Telivainavi, Vaatini Pattukovadam Chaalaa Kashtan.",
+      "text_en": "That night, Vagavati couldn't sleep. The wolves' cooperation kept coming to her mind. She thought about her old hunting methods — she understood that speed alone couldn't achieve everything. In the cool night air, an owl's hoot was heard in the distance, and the forest was silent. A spark suddenly appeared in Vagavati's eyes. \"Hunting alone is different from hunting cleverly,\" she thought firmly. Even though she was a little scared, she decided to try a new method. In the distance, she saw some wild goats on a rocky hill — they were very clever and hard to catch."
+    },
+    {
+      "id": 6,
+      "text": "తెల్లవారుతుండగానే, వేగవతి ఆ అడవి మేకల గుంపు వైపు కదిలింది. ఈసారి అది తన వేగాన్ని మాత్రమే నమ్ముకోలేదు, తెలివిగా అడుగులు వేసింది. అది మెల్లగా, జాగ్రత్తగా, మేకల గుంపును ఒక రాతి గోడ వైపు తరిమింది. మేకల గిట్టలు రాళ్ళపై గీరుకుంటూ — భయంతో చెల్లాచెదురయ్యాయి. వేగవతి కళ్ళు మెరుస్తూ, తన ప్రణాళికను అమలు చేసింది. అది ఒక మేకను రాతి గోడకు అంటించింది. \"ఇప్పుడు నా వంతు, తెలివిగా!\" అని అది గట్టిగా అనుకుంది. మిగిలిన మేకలు భయంతో పరుగులు తీశాయి, కానీ ఒక మేక మాత్రం వేగవతి వలలో చిక్కింది.",
+      "image_prompt": "The cheetah carefully herds the wild goats towards a rock wall, cornering one against the stone surface. Its eyes gleam with focused intensity as the goats' hooves scrape frantically against the rocks in fear. Mid-morning sun, bright and clear, highlighting the dusty rocks and the swift movements, creating a sense of urgency.",
+      "scene_visual": "The cheetah carefully herds the wild goats towards a rock wall, cornering one against the stone surface. Its eyes gleam with focused intensity as the goats' hooves scrape frantically against the rocks in fear.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tellavaarutundagaane, Vegavati Aa Adavi Mekala Gumpu Vaipu Kadilindi. Isaari Adi Tana Vegaanni Maatrame Nammukoledu, Telivigaa Adugulu Vesindi. Adi Mellagaa, Jaagrattagaa, Mekala Gumpunu Oka Raati Goda Vaipu Tarimindi. Mekala Gittalu Raallapai Girukuntu — Bhayanto Chellaachedurayyaayi. Vegavati Kallu Merustu, Tana Pranaalikanu Amalu Chesindi. Adi Oka Mekanu Raati Godaku Antinchindi. \"Ippudu Naa Vantu, Telivigaa!\" Ani Adi Gattigaa Anukundi. Migilina Mekalu Bhayanto Parugulu Tishaayi, Kaani Oka Meka Maatram Vegavati Valalo Chikkindi.",
+      "text_en": "As dawn broke, Vagavati moved towards the group of wild goats. This time, she didn't just rely on her speed; she took clever steps. She slowly and carefully herded the goats towards a rock wall. The goats' hooves scraped on the rocks — they scattered in fear. Vagavati's eyes sparkled as she put her plan into action. She pinned one goat against the rock wall. \"Now it's my turn to be clever!\" she thought firmly. The other goats ran away in fear, but one goat was caught in Vagavati's trap."
+    },
+    {
+      "id": 7,
+      "text": "వేగవతి చివరకు తన వేటను సురక్షితంగా పట్టుకుంది. అది నెమ్మదిగా ఆహారం తింటూ, దానిలో ఒక కొత్త ప్రశాంతత నిండింది. వెచ్చని గాలి వీస్తూ, కీటకాల సన్నని సవ్వడి అడవిలో వినిపించింది. ఈ రోజు దాని గెలుపు కేవలం వేగం వల్ల కాదు, తోడేళ్ళ నుండి నేర్చుకున్న తెలివి, వ్యూహం వల్లే అని దానికి అర్థమైంది. \"కలిసి ఉంటే ఎంత బలం ఉంటుందో ఇప్పుడే తెలిసింది\" అని అది తృప్తిగా అనుకుంది. దాని కళ్ళల్లో ఒక కొత్త జ్ఞానం, సంతృప్తి కనిపించాయి. అది తన పొట్ట నిమురుకుంటూ, ప్రశాంతంగా విశ్రాంతి తీసుకుంది.",
+      "image_prompt": "The cheetah calmly eats its captured prey, a new sense of peace settling over it. Its eyes reflect a newfound wisdom and deep satisfaction as it gently rubs its full belly. Gentle dusk light, warm amber and soft purple hues painting the sky, peaceful and reflective, settling into evening.",
+      "scene_visual": "The cheetah calmly eats its captured prey, a new sense of peace settling over it. Its eyes reflect a newfound wisdom and deep satisfaction as it gently rubs its full belly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vegavati Chivaraku Tana Vetanu Surakshitangaa Pattukundi. Adi Nemmadigaa Aahaaram Tintu, Daanilo Oka Kotta Prashaantata Nindindi. Vechchani Gaali Vistu, Kitakaala Sannani Savvadi Adavilo Vinipinchindi. I Roju Daani Gelupu Kevalam Vegam Valla Kaadu, Todella Nundi Nerchukunna Telivi, Vyuham Valle Ani Daaniki Arthamaindi. \"Kalisi Unte Enta Balam Untundo Ippude Telisindi\" Ani Adi Trriptigaa Anukundi. Daani Kallallo Oka Kotta Jnyaanan, Santrripti Kanipinchaayi. Adi Tana Potta Nimurukuntu, Prashaantangaa Vishraanti Tisukundi.",
+      "text_en": "Vagavati finally caught her prey safely. As she slowly ate her food, a new calmness filled her. A warm breeze blew, and the faint chirping of insects was heard in the forest. She understood that her victory today wasn't just because of speed, but because of the cleverness and strategy she learned from the wolves. \"Now I know how much strength there is in working together,\" she thought contentedly. New wisdom and happiness shone in her eyes. She stroked her belly and rested peacefully."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and excellent child engagement, making it highly suitable for young listeners. The protagonist's journey of learning from failure and adapting her strategy is well-developed and inspiring. To elevate it to award-winning status, focus on refining the narrative voice to be consistently more oral and less descriptive, ensuring every sentence feels like it's being spoken directly to a child. Additionally, strive to show all emotions through action or dialogue rather than stating them directly."
+  },
+  "title_te_en": "Chirutapuli, Todella Paatham",
+  "moral_te_en": "Manalo Enta Balam Unnaa, Kalisikattugaa Aalochinchi, Telivigaa Adugulu Veste, Manam Anukunnadi Saadhinchadam Suluvu Avutundi.",
+  "title_en": "The Leopard and the Wolves' Lesson",
+  "moral_en": "No matter how strong we are, if we think together and act cleverly, it becomes easy to achieve what we set out to do.",
+  "id": "20260607_171000",
+  "date": "2026-06-07",
+  "category": "neeti",
+  "subcategory": "animal_morals",
+  "topic": "గుంపుగా వేటాడే తోడేళ్ళు మరియు ఒంటరిగా వేటాడే చిరుతపులి",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260607_171000/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
