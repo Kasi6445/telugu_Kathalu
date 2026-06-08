@@ -255,7 +255,7 @@
           const cat = CATEGORIES[s.category] || CATEGORIES.neeti;
           const a   = document.createElement('a');
           a.className = 'sug-card';
-          a.href      = `story.html?id=${s.slug || s.id}`;
+          a.href      = `/story/${s.slug || s.id}/`;
           a.innerHTML = `
             <img class="sug-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
