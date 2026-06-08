@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -942,7 +946,7 @@
 <p>దేవతలు, అసురులు కలిసికట్టుగా పాల సముద్రం దగ్గరికి వచ్చారు, వాసుకి నాగరాజును తాడుగా, మందర పర్వతాన్ని కవ్వంగా ఉపయోగించాలని నిశ్చయించుకున్నారు. రెండు వైపులా నిలబడి, వారి చేతులు వాసుకి శరీరం చుట్టూ గట్టిగా చుట్టుకున్నాయి. మందర పర్వతం మెల్లగా పైకి లేచింది, కానీ ఆ చప్పుడు — భూమంతా వినిపించింది. దేవతలు తమ వైపుకు లాగితే, అసురులు వారి వైపుకు లాగుతున్నారు, వారి భుజాలు ఉబ్బాయి, నుదుటిపై చెమట బిందువులు మెరిశాయి, అయినా వారి కళ్ళు లక్ష్యంపై స్థిరంగా ఉన్నాయి. &quot;బలమంతా కూడదీసి లాగండి!&quot; అని ఇంద్రుడు అరిచాడు, అతని కంఠంలో కొత్త ఉత్సాహం నిండింది. కానీ ఆ పర్వతం — ఎంత బరువు! ఈ మథనం జరుగుతుండగా, మందర పర్వతం నిలకడగా ఉంటుందా?</p>
 <p>అలా ఎంతో కష్టపడి లాగుతుండగా, మందర పర్వతం నెమ్మదిగా కదలడం మొదలుపెట్టింది. చూస్తుండగానే, అది పాల సముద్రంలోకి మరింత లోతుగా జారిపోసాగింది, ఒక పెద్ద అల ఉప్పొంగింది, లోతైన చప్పుడుతో పర్వతం జారిపోసాగింది. &quot;అయ్యో, పర్వతం మునిగిపోతోంది!&quot; అని దేవతలు ఆందోళనగా అరిచారు, వారి పట్టు సడలింది. వారి ముఖాల్లో భయం స్పష్టంగా కనిపించింది, చేతులు వణికిపోయాయి. అసురులు కూడా నిస్సహాయంగా ఒకరినొకరు చూసుకున్నారు, వారి గొంతులు మూగపోయాయి. అందరి గుండెల్లో — ఆందోళన పెరిగింది. &quot;ఏం చేయాలి?&quot; అని ఇంద్రుడు నిస్సహాయంగా అడిగాడు. ఇంత పెద్ద పర్వతాన్ని పాల సముద్రంలో మునిగిపోకుండా ఆపడం ఎలా సాధ్యం?</p>
 <p>అప్పుడు, దేవతల నిస్సహాయ చూపులు పాల సముద్రం లోపలికి వెళ్లాయి... ఆ క్షణంలో — ఒక అద్భుతం జరిగింది! సముద్ర గర్భం నుండి ఒక భారీ తాబేలు ఆకారంలో శ్రీమహావిష్ణువు పైకి వచ్చారు. ఆయన శరీరం ఎంత విశాలమంటే, మునిగిపోతున్న మందర పర్వతం ఆయన వీపుపై నిలబడింది. ఆ తాబేలు మెల్లగా కదులుతుంటే, చుట్టూ శాంతమైన అలలు ఏర్పడ్డాయి. దేవతల కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, వారి పెదవుల నుండి ఆనందంతో కూడిన నిట్టూర్పు వెలువడింది. &quot;భయపడకండి, నేను ఉన్నాను!&quot; అని ఆయన గంభీరమైన స్వరంతో పలికారు. ఆ మాటలు వినగానే, వారి భుజాలు నిటారుగా అయ్యాయి, ముఖాలపై చిరునవ్వులు మెరిశాయి. పర్వతం ఇప్పుడు స్థిరంగా నిలబడింది కదా, మరి ఈ మథనం నుండి ఇంకేం బయటపడతాయో తెలుసా?</p>
-<p>కూర్మావతారంలో ఉన్న విష్ణువు సహాయంతో, దేవతలు, అసురులు మళ్లీ మందర పర్వతాన్ని ఉత్సాహంగా మథించడం మొదలుపెట్టారు. పాల సముద్రం నుండి ఎన్నో అద్భుతమైన వస్తువులు పైకి రావడం ప్రారంభించాయి — దివ్యమైన కల్పవృక్షం, కోరిన కోర్కెలు తీర్చే కామధేనువు, అందమైన అప్సరసలు! కానీ అందరూ ఎదురుచూస్తున్న క్షణం వచ్చింది. చివరగా, ధన్వంతరి అమృత కలశంతో సముద్రం నుండి బయటపడ్డాడు. అమృతం చుట్టూ ఒక తియ్యని, దివ్యమైన సువాసన నిండిపోయింది, ఆ వాసనతో దేవతల మనసులు పులకించిపోయాయి. &quot;అమృతం! అమృతం వచ్చింది!&quot; అని దేవతలు ఆనందంగా కేకలు వేశారు, వారి కళ్ళు ఆ అమృత కలశంపై స్థిరపడ్డాయి. అదే అమృతం — ప్రాణాలను నిలిపే దివ్య ఔషధం! అలా, దేవతలు తమ శక్తిని తిరిగి పొందారు, ధర్మం నిలబడింది. చూశావా పిల్లలూ, కలిసికట్టుగా, దైవ సహాయంతో ఎలాంటి కష్టాన్నైనా ఎలా గెలవవచ్చో!</p>
+<p>కూర్మావతారంలో ఉన్న విష్ణువు సహాయంతో, మళ్లీ మథనం మొదలైంది — ఎంతో అద్భుతమైన వస్తువులు పైకి వచ్చాయి. కానీ ముందుగా ఒక ఘోరమైన నీలి రంగు విషం — హాలాహలం — సముద్రం నుండి లేచింది! దాన్ని చూసి దేవతలు, అసురులు భయంతో వణికిపోయారు. అప్పుడు పరమశివుడు ముందుకు వచ్చి, ఆ ప్రాణాంతక విషాన్ని తన అరచేతిలో పట్టుకుని మింగివేశారు — కంఠంలోనే ఆపారు. అందుకే శివుడు &#x27;నీలకంఠుడు&#x27; అయ్యారు! ఆ తర్వాత — శంఖంతో, కమలంపై — లక్ష్మీదేవి సముద్రం నుండి ఉదయించింది. ఆ దివ్య తేజస్సు చూసి అందరూ ఆనందంతో తలలు వంచారు. చివరగా, ధన్వంతరి అమృత కలశంతో పైకి వచ్చాడు! అసురులు అమృతాన్ని లాక్కోవాలని పరుగెత్తారు. అప్పుడు విష్ణువు మోహినీ రూపం దాల్చి — అసురులను మభ్యపెట్టి — దేవతలకే అమృతాన్ని పంచారు. దేవతలు శక్తిని తిరిగి పొందారు, ధర్మం నిలబడింది. చూశావా పిల్లలూ, కలిసికట్టుగా, దైవ సహాయంతో ఎలాంటి కష్టాన్నైనా ఎలా గెలవవచ్చో!</p>
 <section class="seo-moral">
 <h2>నీతి</h2>
 <p>పిల్లలూ, ఎలాంటి కష్టం వచ్చినా, కలిసికట్టుగా ప్రయత్నిస్తే, దైవ సహాయంతో దాన్ని దాటగలం.</p>

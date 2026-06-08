@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -937,7 +941,7 @@
 <article id="seo-story-body" lang="te">
 <p class="seo-category">రామాయణం</p>
 <h1>రాముడి అభయం, విభీషణుడి ధైర్యం</h1>
-<p>లంకా నగరం పైన రాత్రి చీకటి అలుముకుంది, పిల్లలూ. బంగారు గోపురాల మధ్య నిలబడి ఉన్న రావణుడి సభలో విభీషణుడు దీనంగా చూశాడు. అతని చేతులు మెల్లిగా కలిసాయి — అన్నయ్య మనసు మారుస్తుందేమోనని ఆశ. దూరం నుండి సముద్రపు అలల ఘోష తప్ప, ఆ సభలో ఇంకే శబ్దమూ లేదు. విభీషణుడు గొంతు సవరించుకొని, “రామా! సీతమ్మను తిరిగి అప్పగించి, ధర్మాన్ని నిలబెట్టండి!” అని అన్నాడు. కానీ రావణుడు కళ్ళు కూడా తెరవలేదు — విసుగ్గా తల పక్కకు తిప్పాడు. ఇప్పుడు రావణుడు విభీషణుడి మాట వింటాడా, లేక తన పంతమే నెగ్గిస్తాడా?</p>
+<p>లంకా నగరం పైన రాత్రి చీకటి అలుముకుంది, పిల్లలూ. బంగారు గోపురాల మధ్య నిలబడి ఉన్న రావణుడి సభలో విభీషణుడు దీనంగా చూశాడు. అతని చేతులు మెల్లిగా కలిసాయి — అన్నయ్య మనసు మారుస్తుందేమోనని ఆశ. దూరం నుండి సముద్రపు అలల ఘోష తప్ప, ఆ సభలో ఇంకే శబ్దమూ లేదు. విభీషణుడు గొంతు సవరించుకొని, “రావణా! సీతమ్మను తిరిగి అప్పగించి, ధర్మాన్ని నిలబెట్టండి!” అని అన్నాడు. కానీ రావణుడు కళ్ళు కూడా తెరవలేదు — విసుగ్గా తల పక్కకు తిప్పాడు. ఇప్పుడు రావణుడు విభీషణుడి మాట వింటాడా, లేక తన పంతమే నెగ్గిస్తాడా?</p>
 <p>విభీషణుడి మాటలు విని రావణుడు ఆవేశంగా లేచాడు. అతని పది చేతుల్లోని బంగారు కడియాలు గలగలమన్నాయి — కోపంతో అతని కళ్ళు ఎర్రబడ్డాయి. “నీవు నా శత్రువుల పక్షం వహించి, నా రాజ్యాన్ని నాశనం చేయాలని చూస్తున్నావు!” అని గట్టిగా అరిచాడు. విభీషణుడు తల వంచుకున్నాడు — అన్నయ్య మాటలు వినడని అర్థమైంది. లంక భవిష్యత్తు గురించి అతని గుండెలో ఒక భయం మొదలైంది. ఇప్పుడు ధర్మాన్ని నిలబెట్టడానికి విభీషణుడు ఏం చేస్తాడు?</p>
 <p>అన్నయ్య మాటలు విని, విభీషణుడి మనసు బరువెక్కింది. అతను తన మెత్తని పట్టు వస్త్రాలు మెల్లగా కదులుతుండగా, నిశ్శబ్దంగా ఉన్న రాజభవనపు కారిడార్లలో ఒంటరిగా నడిచాడు. &quot;ధర్మాన్ని రక్షించడం నా కర్తవ్యం, అది ఎంత కష్టమైనా సరే,&quot; అని తనలో తాను గట్టిగా అనుకున్నాడు. అతని అడుగులు దృఢంగా పడ్డాయి, కానీ కళ్ళల్లో మాత్రం కన్నీటి పొర కదలాడింది. తన కుటుంబాన్ని, రాజ్యాన్ని వదిలి వెళ్తున్నందుకు అతని గుండెలో ఒక బాధ. మరి ఇప్పుడు విభీషణుడు ఎక్కడికి వెళ్తాడు, పిల్లలూ?</p>
 <p>విభీషణుడు ఆకాశ మార్గంలో సముద్రం దాటి, రాముడి సైన్యం ఉన్న చోట దిగాడు. తీరం వెంట అలల శబ్దం స్పష్టంగా వినిపిస్తోంది — కానీ వానరుల కళ్ళల్లో మాత్రం అనుమానం నిండింది. వారు తమ ఆయుధాలను గట్టిగా పట్టుకున్నారు — ఏ క్షణంలో ఏం జరుగుతుందోనని సిద్ధంగా ఉన్నారు. సుగ్రీవుడు ముందుకు వచ్చి, “రావణుని సోదరుడైన ఈ రాక్షసుడిని మనం ఎలా నమ్మగలం?” అని గట్టిగా అడిగాడు. విభీషణుడు చేతులు జోడించి నిలబడ్డాడు — అతని ముఖం పాలిపోయింది. మరి రాముడి సైన్యం, రావణుడి తమ్ముడిని నమ్ముతుందా?</p>

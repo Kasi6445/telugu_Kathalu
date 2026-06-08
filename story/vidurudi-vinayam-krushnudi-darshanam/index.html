@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -940,8 +944,8 @@
 <p>హస్తినాపురపు సందడికి దూరంగా, విదురుడు తన పూరింట్లో ప్రశాంతంగా కూర్చున్నాడు. అతని ముఖంపై చిరునవ్వు, చేతిలో పురాతన ధర్మ గ్రంథం. చుట్టూ అరటి తోటలోని తాటాకుల గలగలలు, మల్లెపూల సువాసనలు మనసును ఆహ్లాదపరుస్తున్నాయి. ధర్మ మార్గం గురించి లోతుగా ఆలోచిస్తూ, అతను ఇలా అనుకున్నాడు: &quot;ధర్మం మార్గం ఎల్లప్పుడూ సరళమైనది, కానీ శక్తివంతమైనది.&quot; అతని మనసు ఎప్పుడూ భగవంతుడిపైనే నిలిచి ఉంటుంది — ఎంతటి నిశ్చల భక్తి! మరి అట్లాంటి విదురుడి జీవితంలోకి రాబోయే గొప్ప మార్పు ఏమిటో తెలుసా?</p>
 <p>ఇంతలో, హస్తినాపురమంతా కృష్ణుడు రాబోతున్నాడని వార్త వ్యాపించింది. రాజప్రాసాదం నుండి బిగ్గరగా బూరల శబ్దాలు — నగరం అంతటా మారుమోగాయి. దుర్యోధనుడు తన కోటలో కృష్ణుడికి గొప్ప స్వాగతం పలకాలని నిర్ణయించుకున్నాడు. బంగారు సింహాసనాలు, రత్నాల మెరుపులు... ఆహా, ఎంతటి ఆర్భాటం! అతను గర్వంగా తొడగొట్టి, &quot;కృష్ణుడు నా ఆతిథ్యాన్ని చూసి ఆశ్చర్యపోవాలి!&quot; అన్నాడు. ఇదంతా వింటున్న విదురుడు ఆలోచనలో పడి, నుదురు చిట్లించాడు. మరి కృష్ణుడు ఈ గొప్ప ఏర్పాట్లను చూసి సంతోషిస్తాడా, లేక ఇంకేదైనా కోరుకుంటాడా?</p>
 <p>కృష్ణుడు హస్తినాపురం చేరుకున్నాడు — నగరం గుండెలు అదురుతున్నాయి. ప్రజల గుసగుసలు పెద్దగా మారి, ఆయన రథం రాజప్రాసాదం వైపు కాకుండా... నగరం వెలుపలికి వెళ్తున్నప్పుడు ఆశ్చర్యంతో నిండిన కేకలు వినపడ్డాయి. దుర్యోధనుడి ముఖం కోపంతో ఎర్రబడింది, తల పక్కకు తిప్పాడు. కృష్ణుడు తన రథసారథితో మెల్లగా, &quot;నాకు నిజమైన ప్రేమ ఉన్న చోటు కావాలి,&quot; అన్నాడు. విదురుడి గుండెలో ఆశ రెపరెపలాడింది — ఆయన ఎక్కడికి వెళ్తున్నాడు?</p>
-<p>అందరినీ ఆశ్చర్యపరుస్తూ, కృష్ణుడి రథం విదురుడి చిన్న ఇంటి ముందు ఆగింది — అది ఎంతటి అద్భుతం! ఆనందంతో ఉక్కిరిబిక్కిరైన విదురుడు, కృష్ణుడిని లోపలికి ఆహ్వానించాడు. చిన్న వంటగదిలో పండిన అరటిపళ్ళ తీయటి సువాసన, ఆ క్షణంలో అతని చేతులు వణికాయి. భగవంతుడిని చూసి మైమరిచిపోయి, పళ్ళకు బదులు అరటి తొక్కలను ఆయనకు అందించాడు. &quot;స్వామీ! నా ఇల్లు పావనమైంది!&quot; అని ఆనంద బాష్పాలతో పలికాడు. మరి ఈ పొరపాటున ఇచ్చిన కానుకను కృష్ణుడు స్వీకరిస్తాడా, లేక విదురుడి మనసు బాధపడుతుందా?</p>
-<p>పిల్లలూ, ఊహించండి... కృష్ణుడు ఆ అరటి తొక్కలను ప్రేమగా స్వీకరించాడు! ఆయన ముఖంపై దివ్యమైన చిరునవ్వు, ప్రతి తొక్కను ఆనందంగా నమిలాడు — ఆ శబ్దం గది నిండా నిశ్శబ్దంగా వ్యాపించింది. విదురుడి కళ్ళ నుండి ఆనంద బాష్పాలు ధారగా కారాయి, నోట మాట రాలేదు. &quot;ఇది నేను ఎప్పటికీ రుచి చూడని అత్యంత మధురమైన భోజనం,&quot; అని కృష్ణుడు కరుణగా పలికాడు. ఆ క్షణంలో — విదురుడి ఇల్లు దివ్య తేజస్సుతో నిండిపోయింది. మరి ఈ అద్భుతమైన సంఘటన హస్తినాపురంలో భక్తికి కొత్త అర్థాన్ని ఎలా చెబుతుంది?</p>
+<p>అందరినీ ఆశ్చర్యపరుస్తూ, కృష్ణుడి రథం విదురుడి చిన్న ఇంటి ముందు ఆగింది — అది ఎంతటి అద్భుతం! విదురుడు కృష్ణుడిని ఆనందంగా లోపలికి ఆహ్వానించాడు. విదురుడి ధర్మపత్ని విదురాణి వంటగది నుండి పరుగున వచ్చింది — పరమాత్మను చూసి ఆమె మనసు పరవశించిపోయింది. పండిన అరటిపళ్ళు అందించాలని తీసుకొచ్చింది — కానీ కృష్ణుడిలో మైమరిచిపోయిన విదురాణి, పళ్ళకు బదులు అరటి తొక్కలనే ఆయనకు అందించింది! &quot;స్వామీ! మా ఇల్లు పావనమైంది!&quot; అని ఆమె ఆనంద బాష్పాలతో పలికింది. మరి ఈ పొరపాటున ఇచ్చిన కానుకను కృష్ణుడు స్వీకరిస్తాడా?</p>
+<p>పిల్లలూ, ఊహించండి... కృష్ణుడు ఆ అరటి తొక్కలను ప్రేమగా స్వీకరించాడు! ఆయన ముఖంపై దివ్యమైన చిరునవ్వు, ప్రతి తొక్కను ఆనందంగా నమిలాడు — ఆ శబ్దం గది నిండా నిశ్శబ్దంగా వ్యాపించింది. విదురాణి కళ్ళ నుండి ఆనంద బాష్పాలు ధారగా కారాయి, నోట మాట రాలేదు. &quot;ఇది నేను ఎప్పటికీ రుచి చూడని అత్యంత మధురమైన భోజనం,&quot; అని కృష్ణుడు కరుణగా పలికాడు. ఆ క్షణంలో — విదురుడి ఇల్లు దివ్య తేజస్సుతో నిండిపోయింది. మరి ఈ అద్భుతమైన సంఘటన హస్తినాపురంలో భక్తికి కొత్త అర్థాన్ని ఎలా చెబుతుంది?</p>
 <p>ఈ అద్భుతమైన వార్త హస్తినాపురమంతా దావానలంలా వ్యాపించింది. రాజప్రాసాదంలో దుర్యోధనుడు తల దించుకున్నాడు, అతని గర్వం మంచులా కరిగిపోయింది. హస్తినాపుర ప్రజలు సూర్యాస్తమయపు మృదువైన వెలుగులో — తమ మనసుల్లో కొత్త అవగాహనతో నిండిపోయారు. నిజమైన భక్తికి ఆడంబరాలు అక్కర్లేదని, ప్రేమతో కూడిన చిన్న కానుక కూడా భగవంతుడికి ఎంతో ఇష్టమని అందరూ గ్రహించారు. విదురుడి మనసు శాంతితో, ఆనందంతో నిండిపోయింది.</p>
 <section class="seo-moral">
 <h2>నీతి</h2>

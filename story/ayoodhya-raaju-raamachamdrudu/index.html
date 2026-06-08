@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -942,7 +946,7 @@
 <p>రాజప్రాసాదంలో పట్టాభిషేక సన్నాహాలు మొదలయ్యాయి, దూరం నుండి వేద మంత్రాలు మృదువుగా వినిపిస్తున్నాయి. రాముడు ఒక మూలన నిశ్శబ్దంగా కూర్చుని, తన ముందున్న రాజరికం గురించి లోతుగా ఆలోచిస్తున్నాడు. అతని కళ్ళల్లో ఒక ఆందోళన కనిపించింది, పద్నాలుగు సంవత్సరాల వనవాసం తర్వాత, ఇప్పుడు రాజైనప్పుడు ప్రజల బాధ్యత ఎలా మోయాలి అని. అప్పుడు లక్ష్మణుడి వైపు చూసి, &quot;ఈ భారం మోయడం సులభం కాదు, లక్ష్మణా.&quot; అని నెమ్మదిగా అన్నాడు. ధర్మాన్ని నిలబెట్టే ఆ మహత్తర బాధ్యతను స్వీకరించడానికి — తన హృదయాన్ని సిద్ధం చేసుకుంటున్నాడు. మరి ఈ మహత్తర కార్యానికి అతను ఎలా సిద్ధమవుతాడో చూద్దామా?</p>
 <p>మహత్తరమైన అభిషేక కార్యక్రమం మొదలైంది, పీఠంపై కూర్చున్న రాముడిపై పూజారులు పవిత్ర జలాలను పోశారు. చల్లని, స్వచ్ఛమైన ఆ జలం అతని తల మీదుగా జారుతుంటే, దివ్యమైన పూల సువాసన అంబరాన్నంటింది. రాముడు కళ్ళు మూసుకుని, లోతైన ధ్యానంలో లీనమయ్యాడు, తన కర్తవ్యాన్ని స్మరించుకున్నాడు. చుట్టూ ఉన్న మహర్షులు, ప్రజలు &quot;రామచంద్రుడు సకల శుభములతో రాజుగా వర్ధిల్లును గాక!&quot; అని దీవించారు. ఆ దివ్య క్షణంలో, రాముడి మనస్సులో ఒక అచంచలమైన సంకల్పం దృఢమైంది. మరి ఈ పవిత్ర కార్యంలో ఇంకేం అద్భుతం జరుగుతుందో తెలుసా?</p>
 <p>అభిషేకానికి సంబంధించిన చివరి ఆచారాలు జరుగుతుండగా, ఒక్కసారిగా — ఒక దివ్యమైన కాంతి వెలుగు రాముడిని చుట్టుముట్టింది. ఆ కాంతి అతని దేహాన్ని తాకగానే, భూమి మెల్లగా కంపించింది, గాలిలో ఒక మృదువైన, ప్రతిధ్వనించే ధ్వని వినిపించింది. ఇది చెవులతో విన్నదానికంటే, హృదయంతో అనుభవించిన దివ్య అనుభూతి. ప్రజలంతా ఆశ్చర్యంతో చూస్తూ, భక్తితో &quot;జై శ్రీ రామ్!&quot; అని నినదించారు. రాముడి ముఖం ప్రశాంతంగా, తేజస్సుతో వెలిగిపోయింది, తనపై దైవశక్తి ఆశీస్సులు ఉన్నాయని గ్రహించాడు. మరి ఈ దివ్య కాంతి తర్వాత, రాముడు ఎలా మారతాడో చూడాలి కదూ?</p>
-<p>రాముడి తలమీద కిరీటం ఉంచే సమయం ఆసన్నమైంది, మహర్షులు, పెద్దలు ముందుకు వచ్చారు. జటామకుటంతో ఉన్న అతని శిరస్సుపై — ఆ రత్నఖచితమైన రాజకిరీటం చల్లగా, బరువుగా ఒదిగింది. ఆ క్షణంలో, రాముడి కళ్ళు స్థిరంగా, లోతుగా కనిపించాయి, ఒక రాజుగా తన ధర్మాన్ని స్వీకరించడానికి సిద్ధమయ్యాడు. ప్రజలంతా సంతోషంతో, &quot;న్యాయం జరిగింది! ధర్మం గెలిచింది!&quot; అని ఉద్వేగంగా అరిచారు. రాముడు ఇప్పుడు అయోధ్యకు ధర్మరాజు, శాంతికి ప్రతీకగా సింహాసనంపై కూర్చున్నాడు. మరి ఈ కొత్త రాజు పాలనలో అయోధ్య ఎలా ఉంటుందో ఊహించుకోగలవా?</p>
+<p>రాముడి తలమీద కిరీటం ఉంచే సమయం ఆసన్నమైంది, మహర్షులు, పెద్దలు ముందుకు వచ్చారు. పట్టభిషేకానికి తగినట్లు పట్టువస్త్రాలు ధరించి, రత్నాభరణాలతో అలంకరించబడిన అతని శిరస్సుపై — ఆ రత్నఖచితమైన రాజకిరీటం చల్లగా, బరువుగా ఒదిగింది. ఆ క్షణంలో, రాముడి కళ్ళు స్థిరంగా, లోతుగా కనిపించాయి, ఒక రాజుగా తన ధర్మాన్ని స్వీకరించడానికి సిద్ధమయ్యాడు. ప్రజలంతా సంతోషంతో, &quot;న్యాయం జరిగింది! ధర్మం గెలిచింది!&quot; అని ఉద్వేగంగా అరిచారు. రాముడు ఇప్పుడు అయోధ్యకు ధర్మరాజు, శాంతికి ప్రతీకగా సింహాసనంపై కూర్చున్నాడు. మరి ఈ కొత్త రాజు పాలనలో అయోధ్య ఎలా ఉంటుందో ఊహించుకోగలవా?</p>
 <p>రామచంద్రుడు సీతమ్మతో కలిసి సింహాసనంపై ఆసీనుడయ్యాడు, అయోధ్య అంతటా శాంతి, సౌభాగ్యాలు వెల్లివిరిశాయి. రాజప్రాసాదంలో మృదువైన వీణా సంగీతం వినిపిస్తుంటే, ప్రజల మనసులు ఆనందంతో నిండిపోయాయి. రాముడి పాలనలో ఎవరికీ కష్టాలు లేవు, అందరూ ధర్మబద్ధంగా జీవించారు. ఆయన జ్ఞానంతో, కరుణతో పరిపాలిస్తుంటే, అయోధ్య మరలా స్వర్గధామంలా మారిపోయింది. &quot;అయోధ్య మరలా ఆనందంతో నిండిపోయింది,&quot; అని ప్రజలు ఒకరికొకరు చెప్పుకున్నారు. అట్లా ధర్మం గెలిచి, రాముడి పాలనలో అందరూ సుఖంగా జీవించారు, చూశావా పిల్లలూ?</p>
 <section class="seo-moral">
 <h2>నీతి</h2>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -385,7 +385,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -807,7 +807,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,7 +827,7 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
         "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
@@ -847,9 +847,7 @@
       const image = s.thumbnail
         ? 'https://www.telugukathalu.in/' + s.thumbnail
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -937,13 +941,13 @@
 <article id="seo-story-body" lang="te">
 <p class="seo-category">రామాయణం</p>
 <h1>సీతమ్మ పవిత్రత పరీక్ష</h1>
-<p>అయోధ్యకు తిరిగి వచ్చిన సీతమ్మ మనసు ఆనందంతో నిండిపోయింది. తన చేతులతోనే పూలమాల కడుతోంది — మల్లెపూల పరిమళం అంతటా నిండింది. ఆమె పెదవుల మీద ఒక చిరునవ్వు మెరిసింది. &quot;ఈ రోజు నిజంగా ఒక వరం,&quot; అనుకుంది సీతమ్మ, కళ్ళలో భక్తి మెరుస్తూ. ఎన్నో కష్టాలు దాటి, ఇప్పుడు తన రాముడి చెంత ఉంది. ఇంతటి ప్రశాంతత తర్వాత — ఇంకేం జరగబోతోంది?</p>
-<p>సీతమ్మ మనసు ఆనందంలో ఉండగా, సభలో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. చూశావా పిల్లలూ, ఆ ఉత్సాహం అంతా ఒక్క క్షణంలో ఆవిరైంది — గాలి కూడా భారీగా అనిపించింది. రామచంద్రుడు తన ప్రజల వైపు చూసి, ఒక కఠినమైన మాట అన్నాడు. సీతమ్మ కళ్ళు చెమ్మగిల్లాయి, కానీ కన్నీళ్లు రాలనీయలేదు. &quot;జననీ, నీ స్వచ్ఛతను నిరూపించుకోవాలి&quot; అని రాముడు గంభీరంగా పలికాడు. అప్పటికే ఎన్నో కష్టాలు చూసిన సీతమ్మ — తన పవిత్రతను ఎలా నిరూపించుకోగలదు?</p>
+<p>లంకలో యుద్ధం ముగిసింది — రావణుడు నిహతుడయ్యాడు. సీతమ్మ అశోకవనం నుండి రాముడి దగ్గరకు వచ్చింది. ఎన్నో కష్టాలు దాటి, ఇప్పుడు తన రాముడి చెంత ఉంది. తన చేతులతో పూలమాల అల్లుతూ, &quot;ఈ రోజు నిజంగా ఒక వరం,&quot; అనుకుంది సీతమ్మ, కళ్ళలో భక్తి మెరుస్తూ. దూరంగా సముద్రపు అలల శబ్దం వినిపిస్తోంది, వానర సైన్యమంతా చుట్టూ నిలబడింది. ఇంతటి ప్రశాంతత తర్వాత — ఇంకేం జరగబోతోంది?</p>
+<p>సీతమ్మ మనసు ఆనందంలో ఉండగా, అక్కడ ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. చూశావా పిల్లలూ, ఆ ఉత్సాహం అంతా ఒక్క క్షణంలో ఆవిరైంది — గాలి కూడా భారీగా అనిపించింది. రామచంద్రుడు సమావేశమైన వానర సేన వైపు చూసి, ఒక కఠినమైన మాట అన్నాడు. సీతమ్మ కళ్ళు చెమ్మగిల్లాయి, కానీ కన్నీళ్లు రాలనీయలేదు. &quot;జానకీ, నీ స్వచ్ఛతను నిరూపించుకోవాలి&quot; అని రాముడు గంభీరంగా పలికాడు. అప్పటికే ఎన్నో కష్టాలు చూసిన సీతమ్మ — తన పవిత్రతను ఎలా నిరూపించుకోగలదు?</p>
 <p>రాముడి మాటలతో సీతమ్మ గుండె బద్దలైనట్లు అనిపించింది, కానీ ఆమె ముఖంలో ధైర్యం మెరిసింది. చేతులు కొద్దిగా వణుకుతున్నా, చూపు మాత్రం స్థిరంగా ఉంది. ఆమె లక్ష్మణుడి వైపు తిరిగి, ఒక అగ్నికుండం సిద్ధం చేయమని కోరింది. లక్ష్మణుడు భయంతో కలత పడ్డా, ఆజ్ఞను పాటించాడు — కట్టెలు పేర్చినప్పుడు చటపట శబ్దం చేసింది. &quot;నా పవిత్రత నా బలం&quot; అని సీతమ్మ గట్టిగా అంది. ఇప్పుడు, ఆ అగ్నిజ్వాలల వైపు సీతమ్మ అడుగులు వేయబోతోంది... ఏం జరుగుతుంది?</p>
 <p>అగ్నికుండం సిద్ధమైంది. సీతమ్మ ఆ జ్వాలల ముందు నిలబడింది — ఆమె ముఖంలో ప్రశాంతత, భక్తి తాండవించాయి. అప్పటికే ఆ మంటల నుండి ఒక వెచ్చని సెగ మెల్లగా వీస్తోంది, అది ఇంకా వేడిగా లేదు. తన కళ్ళు మూసుకుని, మనసులో అగ్నిదేవుడికి ప్రార్థించింది. &quot;నా మనసు రామచంద్రునిపై తప్ప మరెవరిపైనా లేదు&quot; అని తనలో తాను చెప్పుకుంది. ఆమె ప్రార్థన వినబడుతుందా... ఆ అగ్ని ఆమె స్వచ్ఛతకు ఎలా స్పందిస్తుంది?</p>
 <p>సీతమ్మ అగ్నిజ్వాలల్లోకి అడుగు పెట్టింది. ఒక్కసారిగా అందరూ నిట్టూర్చారు. కానీ ఏం ఆశ్చర్యం! అగ్ని ఆమెను తాకలేదు. బదులుగా — ఒక చల్లని గాలి మెల్లగా ఆమె చీరను కదిపింది, తామర పూల సువాసన మోసుకొచ్చింది. ఆమె ముఖం మీద ఒక ప్రశాంతమైన చిరునవ్వు విరిసింది. &quot;ఇది అగ్ని కాదు, ఒక దేవాలయం!&quot; అని సీతమ్మ ఆశ్చర్యంతో పలికింది. ఆ క్షణంలోనే దివ్యమైన కాంతి వెలిగింది. అగ్నిదేవుడు సీతమ్మ నిజం చాటడానికి ఏ రూపంలో వస్తాడు?</p>
 <p>అదే క్షణంలో — అగ్నికుండం నుండి అగ్నిదేవుడు స్వయంగా పైకి వచ్చాడు. ఆయన ప్రకాశం కళ్ళకు మిరుమిట్లు గొలిపింది, కానీ వెచ్చగా, ఓదార్పునిచ్చేలా ఉంది. సీతమ్మను తన చేతుల్లో సున్నితంగా పట్టుకుని, సభలో అందరికీ చూపించాడు. &quot;ఈమె స్వచ్ఛత సూర్యచంద్రులంత నిజం!&quot; అని అగ్నిదేవుడు గంభీరంగా ప్రకటించాడు. సీతమ్మ కళ్ళలో కృతజ్ఞత నిండింది, పెదవుల మీద ప్రశాంతమైన చిరునవ్వు. ఈ దైవ ప్రకటనకు రామచంద్రుడు ఎలా స్పందిస్తాడు... అయోధ్య ప్రజలు ఏం చేస్తారు?</p>
-<p>అగ్నిదేవుడి మాటలు విన్న రాముడు — సీతమ్మ వైపు పరుగున వచ్చాడు. ఆమెను ప్రేమగా దగ్గరకు తీసుకున్నాడు, తన కళ్ళలో ఆనంద బాష్పాలు. &quot;నీ ప్రేమ, త్యాగం నాకు తెలుసు&quot; అని రాముడు మెల్లగా అన్నాడు. ఆ క్షణంలో అయోధ్య అంతా కోలాహలంగా మారింది. వేల మంది ప్రజల చప్పట్లు, జయజయధ్వానాలు నగరం అంతటా మారుమోగాయి. ధర్మం గెలిచిందని అందరూ సంబరపడ్డారు. చూశావా పిల్లలూ, సత్యం ఎప్పుడూ గెలుస్తుంది!</p>
+<p>అగ్నిదేవుడి మాటలు విన్న రాముడు — సీతమ్మ వైపు పరుగున వచ్చాడు. ఆమెను ప్రేమగా దగ్గరకు తీసుకున్నాడు, తన కళ్ళలో ఆనంద బాష్పాలు. &quot;నీ పవిత్రత, ధైర్యం నాకు తెలుసు&quot; అని రాముడు మెల్లగా అన్నాడు. ఆ క్షణంలో సేన అంతా కోలాహలంగా మారింది. వేల వానరుల చప్పట్లు, జయజయధ్వానాలు ఆ తీరం అంతటా మారుమోగాయి. దేవతలు పూలవాన కురిపించారు — ధర్మం గెలిచిందని అందరూ సంబరపడ్డారు. చూశావా పిల్లలూ, సత్యం ఎప్పుడూ గెలుస్తుంది!</p>
 <section class="seo-moral">
 <h2>నీతి</h2>
 <p>మనసు స్వచ్ఛంగా, నిజాయితీగా ఉంటే, ఏ కష్టం వచ్చినా మన ధైర్యం, మంచితనం బయటపడతాయి.</p>

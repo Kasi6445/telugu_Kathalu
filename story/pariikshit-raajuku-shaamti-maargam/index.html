@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -943,7 +947,7 @@
 <p>ఆ క్షణంలోనే, దివ్య తేజస్సుతో శుక మహర్షి అక్కడికి విచ్చేశారు — ఆయన రాకతో గాలిలో పవిత్ర ధూపం సువాసన నిండిపోయింది. రాజు వెంటనే నేలపై వంగి, ఆయన పాదాలకు నమస్కరించాడు, అతని కళ్ళల్లో ఆశ నిండింది. శుక మహర్షి ముఖంపై ఒక ప్రశాంతమైన నవ్వు మెరిసింది. &quot;మహాత్మా, మరణానికి సిద్ధంగా ఉండటానికి మార్గం ఏమిటి?&quot; అని రాజు వినయంగా అడిగాడు. మహర్షి తల ఊపాడు, జ్ఞానాన్ని పంచడానికి సిద్ధంగా ఉన్నట్టు. శుక మహర్షి రాజుకు ఎలాంటి బోధనలు చేస్తారు?</p>
 <p>ఆరు రోజులపాటు, రాజు కళ్ళు రెప్పవేయకుండా, శుక మహర్షి భాగవతం కథలు చెప్తుంటే విన్నాడు. మహర్షి గొంతులోని లయబద్ధమైన, ఓదార్పునిచ్చే స్వరం — ఆ ప్రాంతమంతా నిండిపోయింది. రాజు మనసు భగవంతుడి కథలలో పూర్తిగా లీనమైంది, అతని ముఖం ప్రశాంతంగా మారింది. &quot;కథలన్నీ విన్న తర్వాత, నా మనస్సు ప్రశాంతంగా ఉంది,&quot; అని రాజు మెల్లగా చెప్పాడు, అతని ముఖంపై భయం జాడ కూడా లేదు. మరణ భయం పూర్తిగా మాయమై, అతని హృదయం భక్తితో నిండింది. ఏడవ రోజు దగ్గర పడుతోంది; రాజు ఈ కొత్త శాంతితో శాపాన్ని ఎదుర్కోగలడా?</p>
 <p>ఏడవ రోజు రానే వచ్చింది — రాజు పూర్తిగా శ్రీమహావిష్ణువు ధ్యానంలో లీనమై ఉన్నాడు. అతని శరీరం చలనం లేకుండా, అతని పెదాలపై ఒక చిరునవ్వు మెరిసింది. ఇంతలో — నల్లటి పొగ రూపంలో తక్షకుడు అక్కడికి చేరుకున్నాడు, అతని కళ్ళు కసిగా మెరిశాయి. తక్షకుడు దగ్గరవుతున్న కొద్దీ, రాజు నుండి కమలపువ్వుల సువాసన మెల్లగా వెలువడింది. &quot;నా మనస్సు ఇప్పుడు భగవంతుడితో ఐక్యంగా ఉంది,&quot; అని రాజు మనసులో పలికాడు, శరీరం గురించి పట్టించుకోకుండా. భక్తిలో లీనమైన రాజును తక్షకుడు ఎలా శాపవిముక్తుడిని చేస్తాడు?</p>
-<p>తక్షకుడు రాజును సమీపించగానే, ఒక్కసారిగా ఒక దివ్యమైన కాంతి రాజు చుట్టూ ప్రకాశించింది — చల్లటి గాలి వీస్తూ, పువ్వుల వర్షం కురిసింది. ఆ కాంతి ముందు తక్షకుడు నిలబడలేకపోయాడు, అతని శరీరం వెనక్కి తగ్గిపోయింది. రాజు ముఖంపై దివ్యమైన చిరునవ్వు వెలిగింది, అతని మనసు పరమాత్మలో లీనమైంది. &quot;ధర్మం ఎప్పుడూ గెలుస్తుంది,&quot; అని దేవతలు ఆకాశం నుండి పలికినట్టు వినిపించింది. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది, న్యాయం జరిగింది. రాజు శరీరాన్ని విడిచిపెట్టి, శాశ్వత శాంతిని పొందాడు.</p>
+<p>ఏడవ రోజు రానే వచ్చింది. తక్షకుడు పండులో దాక్కుని రాజు దగ్గరికి చేరాడు — మళ్ళీ నాగ రూపం దాల్చి రాజును కరిచాడు. కానీ ఆ క్షణంలో రాజు ముఖంపై ఎలాంటి భయమూ లేదు, ఒక దివ్యమైన చిరునవ్వు మాత్రమే ఉంది. ఆరు రోజులు భాగవతం విన్న రాజు మనసు పూర్తిగా భగవంతుడిలో లీనమైంది — మరణమే అతనికి భగవత్ పాదాలకు చేర్చే ద్వారమైంది. ఆకాశం నుండి పువ్వుల వర్షం కురిసింది, దేవతలు ఆనందించారు. &#x27;శ్రీమద్భాగవతం విన్నవారికి మోక్షం లభిస్తుంది&#x27; అని నిరూపించిన రాజు, దేవుని పాదాలకు చేరాడు. చూశావా పిల్లలూ — భగవంతుడి కథలు విన్న వారికి మరణం కూడా మోక్ష ద్వారమవుతుంది!</p>
 <section class="seo-moral">
 <h2>నీతి</h2>
 <p>పిల్లలూ, మనసులో భగవంతుడిని తలచుకుంటే, ఎంతటి కష్టమైనా సులువుగా దాటగలము.</p>

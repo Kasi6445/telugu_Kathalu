@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -942,7 +946,7 @@
 <p>ప్రహ్లాదుడి మాటలకు రాజుగారు మండిపడ్డారు. &quot;ఈ కొండ మీద నుండి పడేయండి!&quot; అని ఆజ్ఞాపించారు. ప్రహ్లాదుడు &quot;నారాయణా&quot; అంటూ కళ్ళు మూసుకున్నాడు. ఎంత విచిత్రమో చూడండి — అతను కింద పడలేదు. మెల్లగా, తేలికగా — పూలపాన్పు మీద వాలినట్లు అనిపించింది. గాలిలో వేలాది మల్లెల సువాసన నిండింది. కింద ఉన్న సైనికులు ఆశ్చర్యపోయారు, &quot;రాజకుమారుడికి ఏమీ కాలేదు! ఇది అద్భుతం!&quot; అని కేకలు వేశారు. రాజుగారి ప్రణాళిక విఫలమైంది. మరింకేం చేస్తారో?</p>
 <p>రాజకుమారుడు ప్రాణాలతో ఉండటం చూసి, హిరణ్యకశిపుడు ఇంకా కోపంగా మారాడు. &quot;హోళికా, ప్రహ్లాదుడిని ఒడిలో పెట్టుకుని అగ్నిలో కూర్చో!&quot; అన్నాడు. హోళిక అగ్నిగుండం మీద కూర్చుంది — ప్రహ్లాదుడు ఆమె ఒడిలో. ప్రహ్లాదుడు కళ్ళు మూసుకున్నాడు — &quot;ఓం నమో నారాయణాయ&quot; అని జపిస్తున్నాడు. చుట్టూ దివ్యమైన కాంతి — ఒక రక్షణ కవచంలా వెలిగింది. మంటలు పెరిగాయి, కానీ ప్రహ్లాదుడికి చల్లని గాలి తాకినట్లు అనిపించింది. అగ్ని దైవశక్తి ముందు నిలవలేకపోయింది. మరి రాజుగారు ఏం చేస్తారు?</p>
 <p>అగ్ని నుండి కూడా ప్రహ్లాదుడు సురక్షితంగా బయటపడ్డాడు. రాజుగారి కోపం హద్దులు దాటింది — ఆయన సింహాసనం నుండి లేచాడు. ఒక పెద్ద స్తంభం వైపు వేలు చూపాడు. &quot;ఈ స్తంభంలో ఉన్నాడా నీ నారాయణుడు?&quot; అని గద్దించాడు. ప్రహ్లాదుడు ధైర్యంగా తల ఊపాడు — &quot;అవును, తండ్రీ!&quot; అన్నాడు. హిరణ్యకశిపుడు తన గదతో ఆ స్తంభాన్ని బలంగా కొట్టాడు. ఒక పదునైన చప్పుడుతో — పాలరాతి స్తంభం బద్దలైంది. కానీ ఇప్పుడు ఆ స్తంభం లోపల నుండి ఏం బయటకు వస్తుందో...</p>
-<p>స్తంభం బద్దలైన క్షణంలో — భూమి కంపించింది. ఒక గొప్ప సింహనాదం — ప్రపంచాన్నే నిశ్శబ్దం చేసింది. అద్భుతమైన నరసింహ రూపం — ఆ స్తంభం నుండి బయటపడింది. ప్రహ్లాదుడు ఆశ్చర్యంతో మోకాళ్ళపై పడ్డాడు — చేతులు జోడించాడు. కళ్ళల్లో ఆనంద భాష్పాలు — భక్తితో నిండిపోయాడు. ఒక్కసారిగా దివ్యమైన కాంతి వెలిగింది — న్యాయం జరిగింది. చెడు శక్తి భగవంతుని ముందు నిలువలేకపోయింది. చిన్న ప్రహ్లాదుడు తన నారాయణుడిని చూశాడు — అది కదా నిజమైన విజయం!</p>
+<p>స్తంభం బద్దలైన క్షణంలో — భూమి కంపించింది. సగం సింహం, సగం మనిషి — నరసింహ రూపంలో నారాయణుడు ప్రత్యక్షమయ్యాడు. మనిషీ కాదు, జంతువూ కాదు! ఆయన హిరణ్యకశిపుడిని పట్టుకుని ద్వారం వద్దకు తీసుకువెళ్ళాడు — లోపలా కాదు, బయటా కాదు! సంధ్యాసమయంలో — పగలూ కాదు, రాత్రీ కాదు — తన ఒడిలో వేసుకున్నాడు. భూమిపై కాదు, ఆకాశంలో కాదు! తన గోళ్ళతో న్యాయం తీర్చాడు — శస్త్రమూ కాదు, అస్త్రమూ కాదు! బ్రహ్మ ఇచ్చిన ఏ వరమూ పని చేయలేదు. ప్రహ్లాదుడు మోకాళ్ళపై పడ్డాడు — &#x27;నా నారాయణుడు నన్ను రక్షించాడు!&#x27; అని ఆనంద భాష్పాలు కారాయి.</p>
 <section class="seo-moral">
 <h2>నీతి</h2>
 <p>నువ్వు మంచిని మనస్ఫూర్తిగా నమ్మితే, నీకు ఎప్పుడూ ఒంటరితనం ఉండదు.</p>

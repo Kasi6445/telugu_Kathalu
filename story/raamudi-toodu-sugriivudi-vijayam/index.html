@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -942,7 +946,7 @@
 <p>సుగ్రీవుడు తన అన్న వాలి గొప్ప బలం గురించి రాముడికి చెప్పి, తన భయాన్ని వివరించాడు. రాముడు చిరునవ్వు నవ్వి, ఏడు పెద్ద సాల వృక్షాలను చూపించాడు. సుగ్రీవుడు ఆశ్చర్యంగా చూస్తుండగానే, రాముడు తన విల్లు ఎక్కుపెట్టి, ఒక్క బాణంతో ఆ ఏడు వృక్షాలనూ ఒకేసారి చీల్చేశాడు. బాణం ప్రతి చెట్టు గుండా దూసుకుపోతుంటే, &quot;ధ్వక్&quot; అనే చప్పుడు అడవిలో ప్రతిధ్వనించింది. సుగ్రీవుడి నోరు తెరుచుకుండిపోయింది — అలాంటి శక్తిని అతను ఎప్పుడూ చూడలేదు! అతని కళ్ళలో ధైర్యం మెరిసింది. &quot;నా భయాన్ని పోగొట్టారు, రామా!&quot; అని భక్తితో అన్నాడు. ఇప్పుడు వాలిని ఎదుర్కోవడానికి సుగ్రీవుడికి ఆ ధైర్యం వస్తుందా?</p>
 <p>రాముడి మాటలతో ధైర్యం తెచ్చుకున్న సుగ్రీవుడు వాలిని యుద్ధానికి పిలిచాడు. ఇద్దరూ గుద్దులాట ప్రారంభించారు. వాలి తన అపారమైన బలంతో సుగ్రీవుడిని ఒక్కసారిగా పైకి లేపి పడేసినప్పుడు — అడవి అంతా వణికిపోయింది. వాలి గంభీరమైన గర్జన అడవిలో ప్రతిధ్వనిస్తుంటే, భూమి కూడా కదులుతున్నట్టు అనిపించింది. వాలి సుగ్రీవుడి కళ్ళలోకి తీక్షణంగా చూసి &quot;మళ్ళీ నా ముందు నిలబడే ధైర్యం నీకెక్కడిది?&quot; అన్నాడు. సుగ్రీవుడి శరీరం భయంతో వణికింది, వెంటనే వెనక్కి తగ్గి గుహలోకి పారిపోయాడు. రాముడు అక్కడే నిలబడి, ఒక్క బాణం కూడా వేయలేదు — ఎందుకు?</p>
 <p>సుగ్రీవుడు భయంతో వెనక్కి రాగానే, రాముడు అతని దగ్గరకు వచ్చాడు. &quot;పోరాటంలో మీ ఇద్దరినీ నేను సరిగ్గా గుర్తించలేకపోయాను, సుగ్రీవా&quot; అని రాముడు మెల్లగా వివరించాడు. ఆ తర్వాత సుగ్రీవుడి మెడలో వేయడానికి, అందమైన పువ్వులతో అల్లిన ఒక మాలికను అందించాడు. సుగ్రీవుడు ఆ మాలికను మెడలో వేసుకోగానే, దాని చల్లని స్పర్శ అతని మనసుకు ధైర్యాన్నిచ్చింది. &quot;ధర్మం నీ వైపు ఉంది, భయపడకు&quot; అని రాముడు భరోసా ఇచ్చాడు. సుగ్రీవుడి భుజాలు నిటారుగా అయ్యాయి, అతని పిడికిళ్ళు బిగించాడు — మళ్ళీ పోరాడటానికి సిద్ధమయ్యాడు. మరి ఈసారి రాముడు సుగ్రీవుడికి సహాయం చేయగలుగుతాడా?</p>
-<p>మాలిక ధరించి, సుగ్రీవుడు మళ్ళీ వాలిని యుద్ధానికి పిలిచాడు. ఇద్దరు అన్నదమ్ములు భయంకరంగా పోరాడుతున్నారు. ఇంతలో... ఆకాశం నుండి ఒక అద్భుతమైన బంగారు కాంతి మెరుపులా భూమిని చేరింది. ఆ దివ్యశక్తి కళ్ళు మిరుమిట్లు గొలిపేలా ప్రకాశించింది — అడవిలో ఉన్నవారందరూ ఒక్క క్షణం కళ్ళు మూసుకున్నారు. భూమి మెల్లగా కంపిస్తున్నట్లు అనిపించింది. వాలి కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, &quot;రామా... ఇది ధర్మమా?&quot; అని అడిగాడు. ఆ క్షణంలో, న్యాయం జరిగింది. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది. సుగ్రీవుడు భక్తితో ఆకాశం వైపు చూశాడు. ఇప్పుడు కిష్కింధ రాజ్యానికి, సుగ్రీవుడికి ఏం జరుగుతుంది?</p>
+<p>మాలిక ధరించి, సుగ్రీవుడు మళ్ళీ వాలిని యుద్ధానికి పిలిచాడు. ఇద్దరు అన్నదమ్ములు తీవ్రంగా పోరాడుతున్నారు. రాముడు ఒక పెద్ద సాల వృక్షం వెనక నిలబడి, తన కొదండ విల్లు ఎక్కుపెట్టాడు. ఆ బాణం దూసుకుపోయి వాలి గుండెను తాకింది — వాలి కదలలేక నేలపై వాలిపోయాడు. వాలి బాధతో అన్నాడు: &quot;రామా... చెట్టు వెనక దాక్కుని బాణం వేయడం ధర్మమా?&quot; రాముడు ప్రశాంతంగా జవాబు చెప్పాడు: &quot;నీవు సుగ్రీవుడి భార్యను అపహరించావు — రాజ్యాన్ని దొంగించావు. అది ధర్మమా? రాజుకు అధర్మాన్ని శిక్షించడం నా కర్తవ్యం.&quot; ఆ క్షణంలో న్యాయం జరిగింది. ఇప్పుడు కిష్కింధకు, సుగ్రీవుడికి ఏం జరుగుతుంది?</p>
 <p>కొన్ని రోజుల తర్వాత, కిష్కింధ నగరంలో గొప్ప పండుగ వాతావరణం నెలకొంది. రాముడి సమక్షంలో సుగ్రీవుడికి పట్టాభిషేకం జరిగింది. వానర సైన్యం ఆనందంతో కేరింతలు కొడుతూ, బిగ్గరగా అరుస్తూ, విజయోత్సాహంతో అడవి అంతా నింపేసింది. సుగ్రీవుడు తల వంచి రాముడికి నమస్కరించాడు, అతని ముఖంలో శాంతమైన చిరునవ్వు కనిపించింది. &quot;రామా! మీ సహాయం మరువలేనిది&quot; అని కృతజ్ఞతతో పలికాడు. అప్పుడు కిష్కింధ రాజ్యంలో ధర్మం మళ్ళీ నెలకొంది, అందరూ సంతోషంగా జీవించారు.</p>
 <section class="seo-moral">
 <h2>నీతి</h2>

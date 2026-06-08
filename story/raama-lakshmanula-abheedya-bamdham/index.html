@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -60,7 +60,7 @@
     "@id": "https://www.telugukathalu.in/story/raama-lakshmanula-abheedya-bamdham/"
   },
   "inLanguage": "te",
-  "articleSection": "ramayana"
+  "articleSection": "janapada"
 }
 </script>
 
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -935,7 +939,7 @@
 
 
 <article id="seo-story-body" lang="te">
-<p class="seo-category">రామాయణం</p>
+<p class="seo-category">జానపదం</p>
 <h1>రామ లక్ష్మణుల అభేద్య బంధం</h1>
 <p>దండకారణ్యం లోని వారి పర్ణశాలలో, తెల్లవారుజామున జాస్మిన్ పూల సువాసన గాలిలో తేలియాడుతోంది. రాముడు ప్రశాంతంగా, ధ్యానంలో మునిగి ఉన్నాడు. సీతమ్మ పూలమాలలు కడుతూ, అతని పక్కనే కూర్చుని ఉంది. లక్ష్మణుడు మాత్రం కళ్ళల్లో అప్రమత్తతతో, చేతిలో ధనస్సు పట్టుకుని అడవినంతా గమనిస్తున్నాడు. ఆ క్షణంలో, లక్ష్మణుడు రాముడి వైపు తిరిగి, &quot;అన్నా, ఈ అడవిలో మీకు ఏ ఆపదా రాకుండా నేను కాపలా కాస్తాను!&quot; అని గంభీరంగా అన్నాడు. అతని భుజాలు ధైర్యంతో నిలిచాయి. ఆ విశాలమైన, ప్రాచీన అడవిలో వారికి ఇంకేం జరగబోతోందో... ఊహించడం కష్టం కదా పిల్లలూ?</p>
 <p>ఆ ప్రశాంతమైన ఉదయం ఎక్కువసేపు నిలవలేదు. ఇంతలో, పర్ణశాల వైపు కొన్ని అడుగుల చప్పుడు — ఎండిన ఆకులు గలగలమంటూ శబ్దం చేశాయి. భయం, ఆశ కలగలిసిన చూపులతో కొందరు ఋషులు వేగంగా వారి వద్దకు వచ్చారు. లక్ష్మణుడు వెంటనే అప్రమత్తమై, ధనస్సును పైకి ఎత్తాడు. రాముడు వారిని కూర్చోమని సైగ చేశాడు, అతని ముఖంలో ఆలోచనలు మెరిశాయి. &quot;ప్రభూ, ఒక క్రూర రాక్షసుడు మా తపస్సును భంగం చేస్తున్నాడు!&quot; అని ఒక ఋషి వణికిన గొంతుతో పలికాడు. ఆ రాక్షసుడు ఎంత ప్రమాదకరమైనవాడో తెలుసా పిల్లలూ... రాముడు వారికి సహాయం చేస్తాడా?</p>

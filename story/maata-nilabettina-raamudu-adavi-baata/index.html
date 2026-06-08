@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="te">
 
 <head>
@@ -152,6 +152,8 @@
   </div>
 
   <script>
+    const R2_MEDIA_BASE = 'https://pub-558b12062e854257a35815cd84959ad0.r2.dev';
+
     let story         = null;
     let storyFolderId = null;
     let currentIndex  = 0;
@@ -248,6 +250,10 @@
           wi++;
         }
       });
+      // Reset again after content is in the DOM — scroll-anchoring on some
+      // mobile browsers will re-scroll the container when children are added,
+      // so we need a second reset here (overflow-anchor:none in CSS handles
+      // modern engines; this covers anything that slips through).
       textEl.scrollTop = 0;
     }
 
@@ -385,7 +391,7 @@
 
         // Rewrite timestamp ID in URL to slug (without page reload)
         if (story.slug && /^\d{8}_\d{6}$/.test(urlParam)) {
-          history.replaceState(null, '', `story.html?id=${story.slug}`);
+          history.replaceState(null, '', `/story/${story.slug}/`);
         }
 
         // Language fallback: if story has no English content, use Telugu
@@ -415,7 +421,7 @@
         story.scenes.forEach(scene => {
           const audio = document.createElement('audio');
           audio.id           = `audio-${scene.id}`;
-          audio.src          = `stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
+          audio.src          = `${R2_MEDIA_BASE}/stories/${storyFolderId}/audio/scene${scene.id}.mp3`;
           audio.muted        = isMuted;
           audio.playbackRate = currentSpeed;
           audio.onended = () => {
@@ -429,7 +435,7 @@
         // Preload images — store references to prevent mobile GC from cancelling downloads
         story.scenes.forEach(scene => {
           const img = new Image();
-          img.src = `stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
+          img.src = `${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}`;
           _preloadedImages[scene.id] = img;
         });
 
@@ -477,7 +483,7 @@
       bg.style.opacity = '0';
       _bgTimeout = setTimeout(() => {
         _bgTimeout = null;
-        const imgUrl = `url('stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
+        const imgUrl = `url('${R2_MEDIA_BASE}/stories/${storyFolderId}/images/scene${scene.id}.${imgExt}')`;
         bg.style.backgroundImage = imgUrl;
         bgBlur.style.backgroundImage = imgUrl;
         bg.style.opacity = '1';
@@ -807,7 +813,7 @@
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';
-          div.onclick = () => window.location.href = `story.html?id=${s.slug || s.id}`;
+          div.onclick = () => window.location.href = `/story/${s.slug || s.id}/`;
           div.innerHTML = `
             <img class="related-card-thumb" src="${s.thumbnail}" alt="${s.title}" loading="lazy">
             <div>
@@ -827,10 +833,10 @@
         "@type": "Article",
         "name": s.title,
         "description": s.moral,
-        "url": `https://www.telugukathalu.in/story.html?id=${storyId}`,
+        "url": `https://www.telugukathalu.in/story/${storyId}/`,
         "datePublished": s.date,
         "inLanguage": "te",
-        "image": s.thumbnail ? 'https://www.telugukathalu.in/' + s.thumbnail : undefined,
+        "image": s.thumbnail ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail) : undefined,
         "publisher": { "@type": "Organization", "name": "Telugu Katalu", "url": "https://www.telugukathalu.in" }
       };
       const script = document.createElement('script');
@@ -845,11 +851,9 @@
       const title = s.title + ' - తెలుగు కథలు';
       const desc  = s.moral || 'పిల్లలకు తెలుగు కథలు';
       const image = s.thumbnail
-        ? 'https://www.telugukathalu.in/' + s.thumbnail
+        ? (s.thumbnail.startsWith('http') ? s.thumbnail : 'https://www.telugukathalu.in/' + s.thumbnail)
         : 'https://www.telugukathalu.in/static/icon-512.png';
-      const url   = window.STORY_SLUG
-        ? `https://www.telugukathalu.in/story/${storyId}/`
-        : `https://www.telugukathalu.in/story.html?id=${storyId}`;
+      const url   = `https://www.telugukathalu.in/story/${storyId}/`;
 
       function setMeta(sel, val) {
         const el = document.querySelector(sel);
@@ -939,7 +943,7 @@
 <h1>మాట నిలబెట్టిన రాముడు — అడవి బాట</h1>
 <p>అయోధ్య నగరం పండుగ శోభతో కళకళలాడుతోంది, నలుదిక్కులా మల్లెపూల దండల సువాసనలు గుప్పుమంటున్నాయి. రాజభవనంలో దీపాలు వెలుగుతున్నాయి, మంగళ వాయిద్యాలు మ్రోగుతున్నాయి — ప్రజల ఆనందం ఉప్పొంగుతోంది. రాజు దశరథుడు తన ప్రియకుమారుడైన రాముడిని చూసి గర్వంగా నవ్వాడు. &quot;నా కుమారుడా, నీకు పట్టాభిషేకం చేయాలని ప్రజలు కోరుకుంటున్నారు,&quot; అని ఆయన మాటల్లో ప్రేమ తొణికిసలాడింది. రాముడు, తన కమలాల వంటి కళ్ళతో తండ్రిని చూస్తూ, వినయంగా తల వంచాడు, తన విధిని స్వీకరించడానికి సిద్ధంగా. అయితే, ఈ మహోత్సవం అనుకున్నట్లుగానే జరుగుతుందా...</p>
 <p>కానీ ఆ ఆనందం ఎంతో సేపు నిలవలేదు — రాజభవనంలో ఒక్కసారిగా తీవ్రమైన నిశ్శబ్దం అలుముకుంది. కైకేయి రాణి తన రెండు కోరికలను వెల్లడించింది: రాముడు అడవికి వెళ్ళాలి, భరతుడు రాజు కావాలి. రాజు దశరథుడు ఆ మాటలు విని కూలబడిపోయాడు, అతని శరీరం వణకడం మొదలుపెట్టింది. అతని కళ్ళ నుండి నీళ్ళు ధారగా కారాయి, గుండె బరువెక్కినట్లు ఊపిరి పీల్చుకున్నాడు. రాముడు మాత్రం తన కమల నేత్రాలతో తండ్రిని చూస్తూ, ప్రశాంతంగా, &quot;తండ్రీ, మీ మాట నా ఆజ్ఞ. నేను అడవికి వెళ్ళడానికి సిద్ధంగా ఉన్నాను,&quot; అని పలికాడు. ఈ ఊహించని, కఠినమైన ఆజ్ఞను రాముడు ఎలా స్వీకరించబోతున్నాడు?</p>
-<p>రాముడు తన ప్రియ సతి సీత వద్దకు వెళ్లి, అడవికి వెళ్ళవలసిన విషయాన్ని మెల్లగా వివరించాడు. అతని కంఠం కొద్దిగా వణికింది, సీత అడవి కష్టాలను ఎలా భరిస్తుందో అని అతని కనులలో ఆందోళన మెరిసింది. సీత ఆ మాటలు విని ఒక్క క్షణం నిశ్చలమై నిలబడింది, ఆమె పట్టుచీర అంచు మెల్లగా కదిలింది — కానీ ఆమెలో ఎలాంటి బెరుకు లేదు. ఆమె కళ్ళు ధృడంగా చూస్తూ, &quot;మీరు ఎక్కడికి వెళ్ళినా, నేను మీతోనే వస్తాను,&quot; అని స్పష్టంగా పలికింది. ఆమె మాటల్లో అచంచలమైన ప్రేమ, దృఢ సంకల్పం ప్రతిధ్వనించాయి. అడవి కష్టాలను తనతో పంచుకోవడానికి రాముడు సీతను అనుమతిస్తాడా?</p>
+<p>రాముడు తన ప్రియ సతి సీత వద్దకు వెళ్లి, అడవికి వెళ్ళవలసిన విషయాన్ని మెల్లగా వివరించాడు. అతని కంఠం కొద్దిగా వణికింది, సీత అడవి కష్టాలను ఎలా భరిస్తుందో అని అతని కనులలో ఆందోళన మెరిసింది. సీత ఆ మాటలు విని ఒక్క క్షణం నిశ్చలమై నిలబడింది, ఆమె నార వస్త్రం అంచు మెల్లగా కదిలింది — కానీ ఆమెలో ఎలాంటి బెరుకు లేదు. ఆమె కళ్ళు ధృడంగా చూస్తూ, &quot;మీరు ఎక్కడికి వెళ్ళినా, నేను మీతోనే వస్తాను,&quot; అని స్పష్టంగా పలికింది. ఆమె మాటల్లో అచంచలమైన ప్రేమ, దృఢ సంకల్పం ప్రతిధ్వనించాయి. అడవి కష్టాలను తనతో పంచుకోవడానికి రాముడు సీతను అనుమతిస్తాడా?</p>
 <p>ఈ వార్త విన్న లక్ష్మణుడు ఆగ్రహంతో ఊగిపోయాడు, అతని కళ్ళలో నిప్పులు చెరిగారు — వెంటనే రాముడి వద్దకు పరుగెత్తుకు వచ్చాడు. అతని భుజాలు ధృడంగా నిలబడ్డాయి, అతని మాటల్లో ఎలాంటి సందేహం లేదు. &quot;అన్నా, నేను మీ సేవకుడిగా, మీ రక్షకుడిగా మీతో వస్తాను!&quot; అని అతని గొంతులో దృఢ సంకల్పం ప్రతిధ్వనించింది. రాముడు, తన సోదరుడి నిస్వార్థ ప్రేమకు చలించిపోయాడు, అతని కళ్ళలో మెల్లగా నీరు నిలిచింది. లక్ష్మణుడు తన నిర్ణయంలో ఎలాంటి మార్పు లేదని తన ఆచరణతో స్పష్టం చేశాడు. ప్రియమైన భార్య, నమ్మకమైన సోదరుడు తన పక్కన నిలబడగా, రాముడు ఈ తెలియని అరణ్య ప్రయాణాన్ని ఎలా మొదలుపెడతాడు?</p>
 <p>రాముడు, సీత, లక్ష్మణులు నార వస్త్రాలు ధరించి, రాజభవనం నుండి బయటకు అడుగు పెట్టారు. వారిని చూసిన అయోధ్య ప్రజల గుండెలు బద్దలయ్యాయి, వీధులన్నీ ఒక మూకుమ్మడి ఏడుపుతో నిండిపోయాయి — ఆ శబ్దం ఆకాశాన్ని తాకింది. రాముడు, తన ప్రశాంతమైన కమల నేత్రాలతో వారిని చూస్తూ, &quot;నా తండ్రి ఆజ్ఞను నెరవేర్చడం నా ధర్మం,&quot; అని మెల్లగా పలికాడు. భరతుడు కూడా కన్నీళ్లతో తలవంచుకున్నాడు, తన అన్న పట్ల అపారమైన గౌరవం అతనిలో తొణికిసలాడింది. రాముడు ఒక్క మాట కూడా పలకకుండా ధర్మ మార్గాన్ని అనుసరించాడు. అయోధ్య ద్వారాలు దాటి బయట అడుగు పెడుతుండగా, ఆ విశాలమైన, తెలియని అడవి వారికి ఏం చూపించబోతోంది?</p>
 <p>రాముడు, సీత, లక్ష్మణులు అయోధ్యను వదిలి, సరయూ నది తీరానికి చేరుకున్నారు. ఒక చిన్న పడవలో కూర్చుని, ఆ పవిత్ర నదిని దాటడం ప్రారంభించారు — నీటి అలలు మెల్లగా పడవను తాకుతున్నాయి. రాముడు ప్రశాంతమైన చూపుతో అవతలి ఒడ్డును చూస్తూ, &quot;ఇది కొత్త ప్రయాణానికి నాంది,&quot; అని ధృడంగా పలికాడు. సీత, లక్ష్మణులు కూడా అతని వైపు చూస్తూ, వారి నిశ్చయమైన మనసును ప్రదర్శించారు. వారి చూపుల్లో ఒక కొత్త జీవితానికి స్వాగతం పలికే సంకల్పం స్పష్టంగా కనిపించింది. రాముడు వెళ్ళిపోయాడు, మరి ఇప్పుడు అయోధ్యలో భరతుడు ఏం చేస్తాడు...</p>
