@@ -1,0 +1,107 @@
+{
+  "title": "హృదయం గల మట్టికుండ",
+  "moral": "మనసు స్వచ్ఛంగా, సంకల్పం మంచిదైతే, దారి ఎప్పుడూ స్పష్టంగా కనిపిస్తుంది.",
+  "main_character": "Venu: A curious and slightly clumsy 10-year-old village boy, with large, expressive eyes that often reflect his inner contemplation. He has a habit of biting his lip when deep in thought. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, bustling village named 'పల్లెపాడు' (Pallepadu) in rural Andhra Pradesh, with mud houses, a central banyan tree, and a communal well. The story unfolds across a bright, sunny morning and a warm afternoon. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లెపాడు బావి దగ్గర, చిన్న వెణు చిక్కటి నీటిని బిందెలో నింపుకుంటూ చాలా కష్టపడ్డాడు. అతని బుజ్జి చేతులు తడిసి, ఒణుకుతూ ఉండగా, నీటి బిందువులు నేల మీద పడ్డాయి. \"అయ్యో, మళ్ళీ సగం నీళ్లు పోయాయి!\" అని నిట్టూర్చాడు వెణు, అతని పెదవులు బిగించబడ్డాయి. నీళ్లు వృథా అయినందుకు అతని ముఖం చిన్నబోయింది. ఇంతలో, పొద చాటున ఏదో మెరుస్తున్నట్లు కనిపించింది — అది ఒక పాత, మట్టి కుండ. కుండను చేతుల్లోకి తీసుకున్నాడు వెణు — ఆ చల్లటి, గరుకు మట్టి అతని చిన్న, తడి చేతులకు హాయిగా అంటుకుంది. ఒక్కసారిగా — ఆ కుండ నుంచి వెచ్చదనం ప్రసరించింది.",
+      "image_prompt": "The boy picks up an old, muddy pot from the bushes, holding it in his small, wet hands. A sudden warmth emanates from the cold, rough clay, making his hands feel pleasant. Harsh midday sun beating down on the dusty path near the communal well, casting sharp, short shadows.",
+      "scene_visual": "The boy picks up an old, muddy pot from the bushes, holding it in his small, wet hands. A sudden warmth emanates from the cold, rough clay, making his hands feel pleasant.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pallepaadu Baavi Daggara, Chinna Venu Chikkati Nitini Bindelo Nimpukuntu Chaalaa Kashtapaddaadu. Atani Bujji Chetulu Tadisi, Onukutu Undagaa, Niti Binduvulu Nela Mida Paddaayi. \"Ayyo, Malli Sagam Nillu Poyaayi!\" Ani Nitturchaadu Venu, Atani Pedavulu Biginchabaddaayi. Nillu Vrrithaa Ayinanduku Atani Mukham Chinnaboyindi. Intalo, Poda Chaatuna Edo Merustunnatlu Kanipinchindi — Adi Oka Paata, Matti Kunda. Kundanu Chetulloki Tisukunnaadu Venu — Aa Challati, Garuku Matti Atani Chinna, Tadi Chetulaku Haayigaa Antukundi. Okkasaarigaa — Aa Kunda Nunchi Vechchadanam Prasarinchindi.",
+      "text_en": "Near the village well, little Venu struggled a lot to fill his pot with water. His tiny hands got wet and trembled, and drops of water fell onto the ground. \"Oh no, half the water is gone again!\" Venu sighed, his lips pressed together. His face fell because the water was wasted. Just then, something shiny appeared from behind a bush — it was an old, clay pot. Venu took the pot into his hands — the cool, rough clay felt nice against his small, wet hands. Suddenly — warmth spread from the pot."
+    },
+    {
+      "id": 2,
+      "text": "ఆ వెచ్చదనం వెనుక ఉన్న రహస్యాన్ని తెలుసుకోవాలని, వెణు ఆ కుండను తన ఇంటికి తెచ్చాడు. పాత మట్టి వాసన, ఏదో తీయని సువాసనతో కలిసి అతని ముక్కుపుటాల నిండా నిండింది. వెణు తన కళ్ళను కుండ లోపలకి చొప్పించి చూశాడు — అది ఖాళీగా, మామూలుగా కనిపించింది. అతని భుజాలు కొంచెం వంగిపోయాయి, కానీ అతని మనసులో మాత్రం ఇంకా ఆశ మిగిలి ఉంది. \"నువ్వు మామూలు కుండవి కాదని నా మనసు చెబుతోంది,\" అని గుసగుసలాడాడు, తన వేళ్ళతో కుండపై ఉన్న సన్నని సుడులు తిరుగుతున్న గీతలను నిమిరాడు. అతని వేళ్ళ కింద — మెల్లిగా స్పందించిన ఒక స్పందన.",
+      "image_prompt": "The boy gently strokes the fine, swirling lines on the pot with his fingers, leaning in closely. Under his fingertips, a subtle, responsive sensation is felt from the ancient clay. Soft, warm afternoon light filtering through the small window of Venu's mud hut, creating a cozy, introspective atmosphere.",
+      "scene_visual": "The boy gently strokes the fine, swirling lines on the pot with his fingers, leaning in closely. Under his fingertips, a subtle, responsive sensation is felt from the ancient clay.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vechchadanam Venuka Unna Rahasyaanni Telusukovaalani, Venu Aa Kundanu Tana Intiki Techchaadu. Paata Matti Vaasana, Edo Tiyani Suvaasanato Kalisi Atani Mukkuputaala Nindaa Nindindi. Venu Tana Kallanu Kunda Lopalaki Choppinchi Chushaadu — Adi Khaaligaa, Maamulugaa Kanipinchindi. Atani Bhujaalu Konchem Vangipoyaayi, Kaani Atani Manasulo Maatram Inkaa Aasha Migili Undi. \"Nuvvu Maamulu Kundavi Kaadani Naa Manasu Chebutondi,\" Ani Gusagusalaadaadu, Tana Vellato Kundapai Unna Sannani Sudulu Tirugutunna Gitalanu Nimiraadu. Atani Vella Kinda — Melligaa Spandinchina Oka Spandana.",
+      "text_en": "Wanting to know the secret behind that warmth, Venu brought the pot home. The smell of old clay, mixed with a sweet fragrance, filled his nostrils. Venu peered inside the pot with his eyes — it looked empty and ordinary. His shoulders drooped a little, but hope still remained in his heart. \"My heart tells me you're not an ordinary pot,\" he whispered, tracing the thin swirling lines on the pot with his fingers. Under his fingers — a gentle response."
+    },
+    {
+      "id": 3,
+      "text": "ఆ రోజు ఉదయం వెణు ఒక అయోమయంలో పడ్డాడు — పక్కనున్న వృద్ధురాలికి సహాయం చేయాలా, లేక స్నేహితులతో ఆడుకోవడానికి వెళ్లాలా? అతని కనుబొమ్మలు ముడిపడ్డాయి, మనసులో ఆలోచనలు సుడిగుండంలా తిరిగాయి. ఆ కుండ తనకు దారి చూపుతుందని ఆశించి, అందులో నీళ్ళు నింపాడు. నీళ్ళలో తన ప్రతిబింబాన్ని చూడటానికి ప్రయత్నించాడు, కానీ అవి స్పష్టంగా లేవు — కేవలం మబ్బుగా కనిపించాయి. \"నా మనసు ఈ నీళ్లలాగే గందరగోళంగా ఉంది,\" అని నిట్టూర్చాడు, తన తల కొద్దిగా వాల్చుకున్నాడు. కానీ ఆ నీళ్ళు — అతని మనసులాగే మబ్బుగా ఉండిపోయాయి.",
+      "image_prompt": "The boy fills the pot with water and attempts to see his reflection, his head slightly bowed. The water remains cloudy and indistinct, mirroring the confusion visible in his furrowed eyebrows. Late afternoon, shadows beginning to lengthen inside the hut, a sense of growing uncertainty and dimming hope.",
+      "scene_visual": "The boy fills the pot with water and attempts to see his reflection, his head slightly bowed. The water remains cloudy and indistinct, mirroring the confusion visible in his furrowed eyebrows.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Roju Udayam Venu Oka Ayomayanlo Paddaadu — Pakkanunna Vrriddhuraaliki Sahaayam Cheyaalaa, Leka Snehitulato Aadukovadaaniki Vellaalaa? Atani Kanubommalu Mudipaddaayi, Manasulo Aalochanalu Sudigundanlaa Tirigaayi. Aa Kunda Tanaku Daari Chuputundani Aashinchi, Andulo Nillu Nimpaadu. Nillalo Tana Pratibimbaanni Chudataaniki Prayatninchaadu, Kaani Avi Spashtangaa Levu — Kevalam Mabbugaa Kanipinchaayi. \"Naa Manasu I Nillalaage Gandaragolangaa Undi,\" Ani Nitturchaadu, Tana Tala Koddigaa Vaalchukunnaadu. Kaani Aa Nillu — Atani Manasulaage Mabbugaa Undipoyaayi.",
+      "text_en": "That morning, Venu was confused — should he help the old woman next door, or go play with his friends? His eyebrows furrowed, and thoughts swirled like a whirlpool in his mind. Hoping the pot would show him the way, he filled it with water. He tried to see his reflection in the water, but it wasn't clear — it just looked cloudy. \"My mind is as confused as this water,\" he sighed, bowing his head slightly. But the water — remained cloudy, just like his mind."
+    },
+    {
+      "id": 4,
+      "text": "కుండ పని చేయలేదని వెణు నిరాశ చెందలేదు, మరింత పట్టుదలతో ప్రయత్నించాడు. అతను మెల్లిగా కుండను కడిగాడు — మృదువైన గుడ్డతో లోపల మట్టిని రుద్దుతుంటే, తడి మట్టి జారిపోతున్న అనుభూతి కలిగింది. కుండను శుభ్రం చేసి, మళ్ళీ బావి నుండి తెచ్చిన స్వచ్ఛమైన నీటితో నింపాడు. \"ఇంకేం చేయాలి? ఇది ఎందుకు పని చేయడం లేదు?\" అని గట్టిగా అడిగాడు, అతని పెదవులు బిగించబడ్డాయి. ఎన్ని ప్రయత్నాలు చేసినా, ఆ నీళ్ళలో ఏ మార్పూ రాలేదు. వెణు భుజాలు వాలిపోయాయి — ఆ నీళ్ళు — మామూలు కుండలోని నీళ్ళలాగే ఉండిపోయాయి.",
+      "image_prompt": "The boy diligently cleans the pot, rubbing the inside with a soft cloth to remove the wet mud. His lips are pressed together in determination as he refills the pot with fresh, clear well water. Dusk settling, the interior of the hut becoming dim, lit only by the fading light from the doorway, emphasizing Venu's growing despair.",
+      "scene_visual": "The boy diligently cleans the pot, rubbing the inside with a soft cloth to remove the wet mud. His lips are pressed together in determination as he refills the pot with fresh, clear well water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kunda Pani Cheyaledani Venu Niraasha Chendaledu, Marinta Pattudalato Prayatninchaadu. Atanu Melligaa Kundanu Kadigaadu — Mrriduvaina Guddato Lopala Mattini Ruddutunte, Tadi Matti Jaaripotunna Anubhuti Kaligindi. Kundanu Shubhram Chesi, Malli Baavi Nundi Techchina Svachchamaina Nitito Nimpaadu. \"Inkem Cheyaali? Idi Enduku Pani Cheyadam Ledu?\" Ani Gattigaa Adigaadu, Atani Pedavulu Biginchabaddaayi. Enni Prayatnaalu Chesinaa, Aa Nillalo E Maarpu Raaledu. Venu Bhujaalu Vaalipoyaayi — Aa Nillu — Maamulu Kundaloni Nillalaage Undipoyaayi.",
+      "text_en": "Venu wasn't disappointed that the pot didn't work; he tried with more determination. He gently washed the pot — as he rubbed the inside clay with a soft cloth, he felt the wet clay become smooth and clean. He cleaned the pot and filled it again with fresh water from the well. \"What else should I do? Why isn't it working?\" he asked loudly, his lips pressed together. No matter how many times he tried, there was no change in the water. Venu's shoulders drooped — the water — remained just like ordinary water in an ordinary pot."
+    },
+    {
+      "id": 5,
+      "text": "వెణు నిరాశగా కూర్చుని ఉండగా, అతని ప్రక్కనే కూర్చున్న అమ్మా చిరునవ్వు నవ్వింది. ఆమె పాత నూలు చీర నుండి వచ్చే చిన్న మట్టి వాసన వెణుకు ఎంతో ఓదార్పునిచ్చింది. \"కుండలో నీళ్లు కాదు నాయనా, నీ మనసులో నింపుకున్న ఆలోచనలే ముఖ్యం,\" అని మెల్లిగా చెప్పింది. వెణు ఆమె వైపు తల వంచి, ఆమె మాటల అర్థం ఏమిటో ఆలోచించాడు. ఒక్కసారిగా — వెణు కళ్ళల్లో ఒక కొత్త మెరుపు కనిపించింది. ఆమె మాటలు, ఆ కుండ — అతని మనసులో ఏదో కొత్త ఆలోచనను రేకెత్తించాయి.",
+      "image_prompt": "The boy, sitting dejectedly, turns his head towards the mother beside him, listening intently. A new sparkle appears in his eyes as he processes her words, his expression shifting from dejection. Early evening, the hut illuminated by a single, flickering oil lamp, casting warm, dancing shadows, creating an intimate and reflective atmosphere.",
+      "scene_visual": "The boy, sitting dejectedly, turns his head towards the mother beside him, listening intently. A new sparkle appears in his eyes as he processes her words, his expression shifting from dejection.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Venu Niraashagaa Kurchuni Undagaa, Atani Prakkane Kurchunna Ammaa Chirunavvu Navvindi. Aame Paata Nulu Chira Nundi Vachche Chinna Matti Vaasana Venuku Ento Odaarpunichchindi. \"Kundalo Nillu Kaadu Naayanaa, Ni Manasulo Nimpukunna Aalochanale Mukhyan,\" Ani Melligaa Cheppindi. Venu Aame Vaipu Tala Vanchi, Aame Maatala Artham Emito Aalochinchaadu. Okkasaarigaa — Venu Kallallo Oka Kotta Merupu Kanipinchindi. Aame Maatalu, Aa Kunda — Atani Manasulo Edo Kotta Aalochananu Rekettinchaayi.",
+      "text_en": "As Venu sat sadly, Amma, who was sitting beside him, smiled gently. The faint smell of earth from her old cotton saree gave Venu great comfort. \"It's not the water in the pot, my child, but the thoughts you fill your mind with that are important,\" she said softly. Venu tilted his head towards her, wondering what her words meant. Suddenly — a new sparkle appeared in Venu's eyes. Her words, and the pot — sparked a new idea in his mind."
+    },
+    {
+      "id": 6,
+      "text": "అమ్మా మాటలు విన్న తర్వాత, వెణు మనసు ప్రశాంతంగా, స్పష్టంగా మారింది. తనలో ఎటువంటి స్వార్థం లేకుండా, వృద్ధురాలికి సహాయం చేయాలనే మంచి సంకల్పంతో కుండలో నీళ్లు నింపాడు. వెణు చేతులు కొద్దిగా వణికాయి, కానీ అతని మనసు మాత్రం ప్రశాంతంగా ఉంది. నీళ్ళు నింపుతుండగా, కుండలో నీటి నుండి ఒక చిన్న, సంగీతం లాంటి శబ్దం వినిపించింది — నీళ్లు మెరిసిపోవడం మొదలుపెట్టాయి. \"అమ్మా చెప్పిన మాటలు నిజం! ఇదిగో, నా మార్గం స్పష్టంగా కనిపిస్తోంది!\" అని ఆనందంగా అరిచాడు వెణు. ఆ నీళ్ళు — మెరిసిపోతూ, అతని మనసును ప్రకాశవంతం చేశాయి. కుండలో నుండి వెలువడుతున్న కాంతి అతని ముఖాన్ని వెలిగించింది, అతని కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి.",
+      "image_prompt": "The boy fills the pot with water, and as he does, the water begins to sparkle and emit a small, musical sound. A bright light emanating from the pot illuminates his face, causing his eyes to widen in surprise and joy. The interior of the hut is bathed in a soft, ethereal golden-white glow emanating from the pot, pushing back the evening shadows, a magical and hopeful light.",
+      "scene_visual": "The boy fills the pot with water, and as he does, the water begins to sparkle and emit a small, musical sound. A bright light emanating from the pot illuminates his face, causing his eyes to widen in surprise and joy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ammaa Maatalu Vinna Tarvaata, Venu Manasu Prashaantangaa, Spashtangaa Maarindi. Tanalo Etuvanti Svaartham Lekundaa, Vrriddhuraaliki Sahaayam Cheyaalane Manchi Sankalpanto Kundalo Nillu Nimpaadu. Venu Chetulu Koddigaa Vanikaayi, Kaani Atani Manasu Maatram Prashaantangaa Undi. Nillu Nimputundagaa, Kundalo Niti Nundi Oka Chinna, Sangitam Laanti Shabdam Vinipinchindi — Nillu Merisipovadam Modalupettaayi. \"Ammaa Cheppina Maatalu Nijan! Idigo, Naa Maargam Spashtangaa Kanipistondi!\" Ani Aanandangaa Arichaadu Venu. Aa Nillu — Merisipotu, Atani Manasunu Prakaashavantam Cheshaayi. Kundalo Nundi Veluvadutunna Kaanti Atani Mukhaanni Veliginchindi, Atani Kallu Aashcharyanto Peddavayyaayi.",
+      "text_en": "After hearing Amma's words, Venu's mind became calm and clear. Without any selfishness in his heart, and with a good intention to help the old woman, he filled the pot with water. Venu's hands trembled slightly, but his mind was peaceful. As he filled the water, a small, musical sound came from the water in the pot — the water began to sparkle. \"Amma's words are true! Look, my path is clearly visible!\" Venu shouted happily. The water — sparkling, brightened his mind. The light coming from the pot illuminated his face, and his eyes widened in surprise."
+    },
+    {
+      "id": 7,
+      "text": "తన మనసులో ఎటువంటి సందేహం లేకుండా, వెణు ఆ కుండను తీసుకుని వృద్ధురాలి ఇంటి వైపు నడిచాడు. అతని అడుగులు తేలికగా, ఉత్సాహంగా పడ్డాయి. మార్గమధ్యంలో, కుండలోని స్వచ్ఛమైన నీటిని కొద్దిగా తాగాడు — ఆ చల్లదనం అతని శరీరాన్ని ఉత్తేజపరిచింది. పని పూర్తి చేసుకుని తిరిగి వస్తుండగా, అమ్మా అతనిని చూసి నవ్వింది. \"నీ మనసు స్పష్టంగా ఉంది నాయనా. నీ మార్గం ఎప్పుడూ కాంతివంతంగా ఉంటుంది,\" అని దీవించింది, అతని తలపై ప్రేమగా చేయి ఉంచింది. వెణు ముఖం — ప్రశాంతమైన చిరునవ్వుతో వెలిగిపోయింది.",
+      "image_prompt": "The boy returns, his steps light and enthusiastic, and is met by the smiling mother. His face glows with a peaceful smile as the mother gently places her hand on his head in blessing. Gentle dusk light, warm amber, as Venu walks away from his hut towards the village, a peaceful and hopeful resolution.",
+      "scene_visual": "The boy returns, his steps light and enthusiastic, and is met by the smiling mother. His face glows with a peaceful smile as the mother gently places her hand on his head in blessing.",
+      "supporting_char_keys": [
+        "amma"
+      ],
+      "text_te_en": "Tana Manasulo Etuvanti Sandeham Lekundaa, Venu Aa Kundanu Tisukuni Vrriddhuraali Inti Vaipu Nadichaadu. Atani Adugulu Telikagaa, Utsaahangaa Paddaayi. Maargamadhyanlo, Kundaloni Svachchamaina Nitini Koddigaa Taagaadu — Aa Challadanam Atani Shariraanni Uttejaparichindi. Pani Purti Chesukuni Tirigi Vastundagaa, Ammaa Atanini Chusi Navvindi. \"Ni Manasu Spashtangaa Undi Naayanaa. Ni Maargam Eppudu Kaantivantangaa Untundi,\" Ani Divinchindi, Atani Talapai Premagaa Cheyi Unchindi. Venu Mukham — Prashaantamaina Chirunavvuto Veligipoyindi.",
+      "text_en": "Without any doubt in his mind, Venu took the pot and walked towards the old woman's house. His steps were light and eager. On the way, he drank a little of the pure water from the pot — the coolness refreshed his body. As he returned after finishing his work, Amma smiled at him. \"Your mind is clear, my child. Your path will always be bright,\" she blessed him, placing her hand lovingly on his head. Venu's face — lit up with a peaceful smile."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "amma",
+      "description": "Amma: A wise, gentle elderly woman from the village, with silver hair tied in a neat bun and kind, crinkled eyes. She often wears a simple, hand-spun cotton saree. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story is beautifully written with excellent grammar, a strong narrative arc, and effective emotional depth. The dialogue is natural and character-specific, contributing well to the plot. The primary area for improvement is the narrative voice; it currently reads more like a written piece than an oral bedtime story. To achieve a higher score in 'grandmother_authenticity' and make it truly award-worthy, the narration could incorporate more direct address to the child, rhetorical questions, and a slightly more conversational, less formal tone, especially in descriptive passages."
+  },
+  "title_te_en": "Hrridayam Gala Mattikunda",
+  "moral_te_en": "Manasu Svachchangaa, Sankalpam Manchidaite, Daari Eppudu Spashtangaa Kanipistundi.",
+  "title_en": "The Clay Pot with a Heart",
+  "moral_en": "If your heart is pure and your intentions are good, your path will always be clear.",
+  "id": "20260608_210829",
+  "date": "2026-06-08",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "హృదయం గల మట్టికుండ - స్వచ్ఛమైన మనసుతో నింపిన నీటితో ఆలోచనలను స్పష్టపరిచిన కుండ రహస్యం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_210829/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
