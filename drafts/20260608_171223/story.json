@@ -1,0 +1,134 @@
+{
+  "title": "శరభంగ మహర్షి త్యాగం",
+  "moral": "నిజమైన ఆనందం, మన శాంతి కేవలం మన గురించి ఆలోచించడంలో కాదు, ఇతరులకు సహాయం చేయడంలో, దయతో జీవించడంలోనే దొరుకుతుంది తెలుసా?",
+  "main_character": "Sharabhanga Maharshi: An aged, wise sage, living in an ashram in the forest. He has a long white beard and matted hair, wears simple saffron robes. He is deeply devoted and seeks liberation. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A serene ashram nestled deep within the Dandakaranya forest, on the banks of a clear river. Surrounded by ancient trees, blooming lotuses, and a small, humble hut. It is early morning, peaceful and quiet. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "దండకారణ్యం మధ్యలో, ఓ పవిత్రమైన ఆశ్రమంలో, శరభంగ మహర్షి కళ్ళు మూసుకుని కూర్చున్నాడు. ఆయన ముఖంలో ఒక దివ్యమైన శాంతి వెల్లివిరిసింది — పెదవులపై చిన్న చిరునవ్వు మెరిసింది. ఆయన ఊపిరి నెమ్మదిగా, లయబద్ధంగా సాగింది, చుట్టూ ఉన్న ప్రశాంతతలో కలిసిపోయింది. వృక్షాల ఆకులు మెల్లగా కదిలినప్పుడు, ఆ శబ్దం ఆయన చెవుల్లో తేనెలా ఇంకింది. లోలోపల ఆయన 'ఓం నమో నారాయణాయ' అని నిరంతరం జపిస్తున్నాడు. అప్పుడది — ఒక మధురమైన ధ్వని, దూరం నుండి నెమ్మదిగా వినిపించింది.",
+      "image_prompt": "The old man sits cross-legged with his eyes gently closed. A small, divine smile plays on his lips, reflecting deep peace. Soft pre-dawn mist in a forest clearing, cool blue-grey, wonder and stillness.",
+      "scene_visual": "The old man sits cross-legged with his eyes gently closed. A small, divine smile plays on his lips, reflecting deep peace.",
+      "supporting_char_keys": [],
+      "text_te_en": "Dandakaaranyam Madhyalo, O Pavitramaina Aashramanlo, Sharabhanga Maharshi Kallu Musukuni Kurchunnaadu. Aayana Mukhanlo Oka Divyamaina Shaanti Vellivirisindi — Pedavulapai Chinna Chirunavvu Merisindi. Aayana Upiri Nemmadigaa, Layabaddhangaa Saagindi, Chuttu Unna Prashaantatalo Kalisipoyindi. Vrrikshaala Aakulu Mellagaa Kadilinappudu, Aa Shabdam Aayana Chevullo Tenelaa Inkindi. Lolopala Aayana 'Om Namo Naaraayanaaya' Ani Nirantaram Japistunnaadu. Appudadi — Oka Madhuramaina Dhvani, Duram Nundi Nemmadigaa Vinipinchindi.",
+      "text_en": "In the middle of the Dandakaranya forest, in a sacred ashram, Sarabhaga Maharshi sat with his eyes closed. A divine peace shone on his face, and a small smile sparkled on his lips. His breathing was slow and steady, blending with the calm all around him. When the tree leaves gently rustled, the sound felt like sweet honey in his ears. Inside, he was constantly chanting 'Om Namo Narayanaya'. Then — a sweet sound, slowly came from far away."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మధురమైన ధ్వని క్రమంగా దగ్గరవుతుంటే, మహర్షి కళ్ళు విప్పాడు — ఆ వెలుగు చూసి ఆయన గుండె ఆనందంతో నిండిపోయింది. పువ్వుల సువాసన ఒక మాయలా ఆశ్రమం చుట్టూ అలుముకుంది, స్వచ్ఛమైన గాలిలో తేలిపోయింది. ఆయన చేతులు వాటంతట అవే నమస్కార ముద్రలో కలిశాయి, ఒక గొప్ప శక్తిని ఆహ్వానిస్తున్నట్లు. అక్కడ — రాముడు, సీత, లక్ష్మణులు నిలబడి ఉన్నారు, వారి దివ్యమైన తేజస్సు అడవంతా ప్రకాశింపజేసింది. రాముడు చిరునవ్వుతో, \"మహర్షి, మా నమస్కారములు,\" అన్నాడు. శరభంగ మహర్షి తన ఆశ్రమంలో ఆ దివ్య అతిథులను సాదరంగా ఆహ్వానించడానికి సిద్ధమయ్యాడు.",
+      "image_prompt": "The old man opens his eyes and instinctively brings his hands together in a gesture of reverence. His heart is filled with joy as he sees the divine light emanating from the approaching figures. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Golden morning light filtering through dense forest canopy, dappling the path, warm and welcoming.",
+      "scene_visual": "The old man opens his eyes and instinctively brings his hands together in a gesture of reverence. His heart is filled with joy as he sees the divine light emanating from the approaching figures.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Aa Madhuramaina Dhvani Kramangaa Daggaravutunte, Maharshi Kallu Vippaadu — Aa Velugu Chusi Aayana Gunde Aanandanto Nindipoyindi. Puvvula Suvaasana Oka Maayalaa Aashramam Chuttu Alumukundi, Svachchamaina Gaalilo Telipoyindi. Aayana Chetulu Vaatantata Ave Namaskaara Mudralo Kalishaayi, Oka Goppa Shaktini Aahvaanistunnatlu. Akkada — Raamudu, Sita, Lakshmanulu Nilabadi Unnaaru, Vaari Divyamaina Tejassu Adavantaa Prakaashimpajesindi. Raamudu Chirunavvuto, \"Maharshi, Maa Namaskaaramulu,\" Annaadu. Sharabhanga Maharshi Tana Aashramanlo Aa Divya Atithulanu Saadarangaa Aahvaaninchadaaniki Siddhamayyaadu.",
+      "text_en": "As that sweet sound came closer, the Maharshi opened his eyes. Seeing the bright light, his heart filled with joy. The sweet smell of flowers spread like magic around the ashram, floating in the fresh air. His hands automatically joined together in a prayer gesture, as if welcoming a great power. There — Rama, Sita, and Lakshmana stood, and their divine glow lit up the whole forest. Rama smiled and said, \"Maharshi, our greetings to you.\" Sarabhaga Maharshi got ready to warmly welcome these divine guests into his ashram."
+    },
+    {
+      "id": 3,
+      "text": "అతిథులకు సేవ చేసిన తర్వాత, శరభంగ మహర్షి రాముడి ముందు కూర్చున్నాడు, ఆయన మనసులో ఎన్నో ఏళ్ల కోరిక మెరిసింది. ఆయన ఊపిరి లోతుగా పీల్చాడు, ఏదో ఒక గొప్ప నిర్ణయానికి వచ్చినట్లు నిశ్చలమయ్యాడు. రాముడి కళ్ళలోకి సూటిగా చూశాడు — ఎన్నో ఏళ్ల నిరీక్షణ ఫలించిన ఆశతో నిండిపోయింది. అగ్నిగుండం నుండి వచ్చే పొగ వాసన నెమ్మదిగా గాలిలో కలిసిపోయింది. \"ప్రభూ, తమ దర్శనముతో నా తపస్సు ఫలించినది. ఇప్పుడు నాకు మోక్షము సిద్ధించును,\" అన్నాడు. ఇది — నా జీవిత లక్ష్యం, అన్నట్లు ఆయన కళ్ళు పలికాయి. రాముడు మహర్షి మాటలను శ్రద్ధగా విన్నాడు, ఆయన ముఖంలో ఆలోచనలు మెరిశాయి.",
+      "image_prompt": "The old man sits before the guest, taking a deep breath and looking directly into his eyes. His eyes convey a deep, fulfilled hope, as if his life's purpose is now realized. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Warm afternoon sun casting long shadows through the trees, peaceful but with a sense of impending change.",
+      "scene_visual": "The old man sits before the guest, taking a deep breath and looking directly into his eyes. His eyes convey a deep, fulfilled hope, as if his life's purpose is now realized.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Atithulaku Seva Chesina Tarvaata, Sharabhanga Maharshi Raamudi Mundu Kurchunnaadu, Aayana Manasulo Enno Ella Korika Merisindi. Aayana Upiri Lotugaa Pilchaadu, Edo Oka Goppa Nirnayaaniki Vachchinatlu Nishchalamayyaadu. Raamudi Kallaloki Sutigaa Chushaadu — Enno Ella Nirikshana Phalinchina Aashato Nindipoyindi. Agnigundam Nundi Vachche Poga Vaasana Nemmadigaa Gaalilo Kalisipoyindi. \"Prabhu, Tama Darshanamuto Naa Tapassu Phalinchinadi. Ippudu Naaku Mokshamu Siddhinchunu,\" Annaadu. Idi — Naa Jivita Lakshyan, Annatlu Aayana Kallu Palikaayi. Raamudu Maharshi Maatalanu Shraddhagaa Vinnaadu, Aayana Mukhanlo Aalochanalu Merishaayi.",
+      "text_en": "After serving his guests, Sarabhaga Maharshi sat before Rama. A wish he had held for many years shone in his mind. He took a deep breath and became very still, as if he had made a big decision. He looked straight into Rama's eyes, filled with the hope that his long wait had finally come true. The smell of smoke from the fire slowly mixed with the air. \"Lord, by seeing you, my prayers have been answered. Now I will find liberation,\" he said. His eyes seemed to say, \"This is — my life's goal.\" Rama listened carefully to the Maharshi's words, and thoughts sparkled on his face."
+    },
+    {
+      "id": 4,
+      "text": "మహర్షి మాటలు విన్న రాముడు, ఒక క్షణం నిశ్శబ్దంగా ఉండిపోయాడు, ఆయన ముఖంలో కరుణ తొణికిసలాడింది. \"మహర్షి, ఈ అరణ్యవాసులకు మీ సేవ ఇంకా అవసరము,\" అని మెల్లగా అన్నాడు. మహర్షి తల దించుకున్నాడు — ఏదో లోతైన ఆలోచనలో మునిగినట్లు కనిపించింది. ఆయన నుదుటిపై చిన్న ముడత పడింది, రెండు దారులు చూస్తున్నట్లు. దూరం నుండి పక్షుల కిలకిలరావాలు వినిపిస్తూ, ఆ నిశ్శబ్దాన్ని మరింత లోతు చేశాయి. రాముడి మాటలు — కొత్త వెలుగు చూపాయి. శరభంగ మహర్షి నెమ్మదిగా తల పైకెత్తి, రాముడి కళ్ళలోకి చూశాడు, ఒక కొత్త అవగాహన ఆయన మనసులో మెరిసింది.",
+      "image_prompt": "The old man slowly lifts his head, which was previously bowed in deep thought. A small wrinkle on his forehead smooths out as he looks into the guest's eyes with a new understanding. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Soft, diffused light under the forest canopy, creating a thoughtful, reflective mood.",
+      "scene_visual": "The old man slowly lifts his head, which was previously bowed in deep thought. A small wrinkle on his forehead smooths out as he looks into the guest's eyes with a new understanding.",
+      "supporting_char_keys": [
+        "Rama"
+      ],
+      "text_te_en": "Maharshi Maatalu Vinna Raamudu, Oka Kshanam Nishshabdangaa Undipoyaadu, Aayana Mukhanlo Karuna Tonikisalaadindi. \"Maharshi, I Aranyavaasulaku Mi Seva Inkaa Avasaramu,\" Ani Mellagaa Annaadu. Maharshi Tala Dinchukunnaadu — Edo Lotaina Aalochanalo Muniginatlu Kanipinchindi. Aayana Nudutipai Chinna Mudata Padindi, Rendu Daarulu Chustunnatlu. Duram Nundi Pakshula Kilakilaraavaalu Vinipistu, Aa Nishshabdaanni Marinta Lotu Cheshaayi. Raamudi Maatalu — Kotta Velugu Chupaayi. Sharabhanga Maharshi Nemmadigaa Tala Paiketti, Raamudi Kallaloki Chushaadu, Oka Kotta Avagaahana Aayana Manasulo Merisindi.",
+      "text_en": "Rama, after hearing the Maharshi's words, stayed silent for a moment, and kindness shone on his face. \"Maharshi, the people of this forest still need your help,\" he said softly. The Maharshi bowed his head, looking deep in thought. A small wrinkle appeared on his forehead, as if he was seeing two different paths. Bird chirps from far away made the silence even deeper. Rama's words — showed a new light. Sarabhaga Maharshi slowly lifted his head and looked into Rama's eyes; a new understanding sparkled in his mind."
+    },
+    {
+      "id": 5,
+      "text": "రాముడి మాటలు మహర్షి హృదయంలో లోతుగా నాటుకుపోయాయి, ఒక కొత్త సంకల్పం ఆయనలో ఉదయించింది. మహర్షి కళ్ళల్లో ఒక కొత్త ప్రకాశం మెరిసింది — సంకల్పంతో నిండిన చూపు అది. ఆయన చేతులు జోడించి, రాముడి వైపు చూశాడు — తన అహంకారాన్ని వదిలేసినట్లు. చిన్న వర్షం పడిన తర్వాత, తడి మట్టి సువాసన అడవంతా నిండిపోయింది. \"ప్రభూ, నా జీవితమును మీ సేవకు, ధర్మ పరిరక్షణకు అంకితము చేయుదును,\" అన్నాడు, ఆయన గొంతులో దృఢత్వం వినిపించింది. అది — ఒక గొప్ప త్యాగం. ఒక కొత్త ఆశయంతో, శరభంగ మహర్షి అడవిలోకి వెళ్ళే మార్గం వైపు తిరిగి చూశాడు, తన కొత్త ప్రయాణానికి సిద్ధంగా ఉన్నట్లు.",
+      "image_prompt": "The old man joins his hands in front of the guest, his gaze filled with a new resolve. A new brightness shines in his eyes as he turns to look towards the path leading into the forest. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Bright, clear sunlight breaking through the clouds, illuminating the ashram, symbolizing clarity and new beginnings.",
+      "scene_visual": "The old man joins his hands in front of the guest, his gaze filled with a new resolve. A new brightness shines in his eyes as he turns to look towards the path leading into the forest.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Raamudi Maatalu Maharshi Hrridayanlo Lotugaa Naatukupoyaayi, Oka Kotta Sankalpam Aayanalo Udayinchindi. Maharshi Kallallo Oka Kotta Prakaasham Merisindi — Sankalpanto Nindina Chupu Adi. Aayana Chetulu Jodinchi, Raamudi Vaipu Chushaadu — Tana Ahankaaraanni Vadilesinatlu. Chinna Varsham Padina Tarvaata, Tadi Matti Suvaasana Adavantaa Nindipoyindi. \"Prabhu, Naa Jivitamunu Mi Sevaku, Dharma Parirakshanaku Ankitamu Cheyudunu,\" Annaadu, Aayana Gontulo Drridhatvam Vinipinchindi. Adi — Oka Goppa Tyaagan. Oka Kotta Aashayanto, Sharabhanga Maharshi Adaviloki Velle Maargam Vaipu Tirigi Chushaadu, Tana Kotta Prayaanaaniki Siddhangaa Unnatlu.",
+      "text_en": "Rama's words touched the Maharshi's heart deeply, and a new determination grew within him. A new light sparkled in the Maharshi's eyes — a look full of resolve. He joined his hands and looked at Rama, as if he had let go of his pride. After a small rain, the smell of wet earth filled the whole forest. \"Lord, I will give my life to serve you and protect what is right,\" he said, and his voice was strong. That was — a great sacrifice. With a new goal, Sarabhaga Maharshi looked towards the path leading into the forest, ready for his new journey."
+    },
+    {
+      "id": 6,
+      "text": "శరభంగ మహర్షి రాముడికి, అరణ్యవాసులకు ఎన్నో సంవత్సరాలు నిస్వార్థంగా సేవ చేశాడు, ఆయన జీవితం ఒక దీపంలా ప్రకాశించింది. ఆయన ముఖంలో ఒక దివ్యమైన చిరునవ్వు వికసించింది — ఎన్నో జన్మల తపస్సు ఫలించినట్లు. కళ్ళు మూసుకున్నాడు — తన ఆత్మను ఉన్నత లోకాలకు సిద్ధం చేస్తున్నట్లు. రాముడు ఆయనను చూస్తూ, \"మహర్షి యొక్క త్యాగము అనంతము,\" అని నెమ్మదిగా అనుకున్నాడు. ఆయన చుట్టూ ఉన్న గాలి కూడా చల్లగా, స్వచ్ఛంగా మారిపోయింది, ఒక అద్భుత ఘడియను సూచించింది. అప్పుడే — దివ్యమైన కాంతి ఆయన చుట్టూ అలుముకుంది, మెల్లగా ప్రకాశించింది.",
+      "image_prompt": "The old man closes his eyes, a divine smile blossoming on his face. A gentle, divine light begins to envelop him, softly illuminating his form. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Divine radiance breaking through dark clouds, awe-inspiring golden white, focused on the meditating sage.",
+      "scene_visual": "The old man closes his eyes, a divine smile blossoming on his face. A gentle, divine light begins to envelop him, softly illuminating his form.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Sharabhanga Maharshi Raamudiki, Aranyavaasulaku Enno Sanvatsaraalu Nisvaarthangaa Seva Cheshaadu, Aayana Jivitam Oka Dipanlaa Prakaashinchindi. Aayana Mukhanlo Oka Divyamaina Chirunavvu Vikasinchindi — Enno Janmala Tapassu Phalinchinatlu. Kallu Musukunnaadu — Tana Aatmanu Unnata Lokaalaku Siddham Chestunnatlu. Raamudu Aayananu Chustu, \"Maharshi Yokka Tyaagamu Anantamu,\" Ani Nemmadigaa Anukunnaadu. Aayana Chuttu Unna Gaali Kudaa Challagaa, Svachchangaa Maaripoyindi, Oka Adbhuta Ghadiyanu Suchinchindi. Appude — Divyamaina Kaanti Aayana Chuttu Alumukundi, Mellagaa Prakaashinchindi.",
+      "text_en": "Sarabhaga Maharshi selflessly served Rama and the forest people for many years, and his life shone like a bright lamp. A divine smile blossomed on his face, as if the prayers of many lifetimes had finally come true. He closed his eyes, as if getting his soul ready for higher places. Rama watched him and softly thought, \"The Maharshi's sacrifice is endless.\" The air around him also became cool and pure, showing that something wonderful was happening. Just then — a divine light surrounded him, slowly glowing."
+    },
+    {
+      "id": 7,
+      "text": "ఆ దివ్యమైన కాంతి శరభంగ మహర్షిని పూర్తిగా కమ్మేసింది, భూమి మెల్లగా కంపించినట్లు అనిపించింది — ఒక గొప్ప శక్తి ప్రవాహంలా. ఆ చల్లటి గాలి వారి మనసులను స్పృశించింది — ఒక గొప్ప శాంతిని నింపుతూ. రాముడు, సీత, లక్ష్మణులు తలలు వంచారు — ఆ మహర్షి త్యాగానికి నివాళి అర్పిస్తున్నట్లు. ఆకాశం నుండి పువ్వుల వర్షం కురిసింది — అది ఒక దివ్యమైన ఆశీర్వాదం. అదే క్షణంలో, న్యాయం జరిగింది. చెడు నిలవలేకపోయింది. అంతా — ప్రశాంతంగా మారిపోయింది, మహర్షి ఆ దివ్యశక్తిలో కలిసిపోయాడు.",
+      "image_prompt": "The three guests bow their heads in reverence as a shower of flowers falls from the sky. The divine light completely engulfs the old man, and the ground gently trembles around them. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. The golden white radiance gently fades, leaving the forest bathed in a soft, peaceful dawn light, serene and hallowed.",
+      "scene_visual": "The three guests bow their heads in reverence as a shower of flowers falls from the sky. The divine light completely engulfs the old man, and the ground gently trembles around them.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Aa Divyamaina Kaanti Sharabhanga Maharshini Purtigaa Kammesindi, Bhumi Mellagaa Kampinchinatlu Anipinchindi — Oka Goppa Shakti Pravaahanlaa. Aa Challati Gaali Vaari Manasulanu Sprrishinchindi — Oka Goppa Shaantini Nimputu. Raamudu, Sita, Lakshmanulu Talalu Vanchaaru — Aa Maharshi Tyaagaaniki Nivaali Arpistunnatlu. Aakaasham Nundi Puvvula Varsham Kurisindi — Adi Oka Divyamaina Aashirvaadan. Ade Kshananlo, Nyaayam Jarigindi. Chedu Nilavalekapoyindi. Antaa — Prashaantangaa Maaripoyindi, Maharshi Aa Divyashaktilo Kalisipoyaadu.",
+      "text_en": "That divine light completely covered Sarabhaga Maharshi, and the earth seemed to gently shake, like a rush of great power. The cool air touched their minds, filling them with a wonderful peace. Rama, Sita, and Lakshmana bowed their heads, as if honoring the Maharshi's great sacrifice. A shower of flowers fell from the sky — it was a divine blessing. At that very moment, justice was done. Evil could not stand. Everything — became peaceful, and the Maharshi merged into that divine power."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "Sita",
+      "description": "Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Enceladus",
+  "quality_score": 6.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 4,
+    "average": 6.0,
+    "weakest_dimension": "child_engagement",
+    "notes": "The story boasts a solid narrative arc and flawless grammar, providing a strong foundation. However, its formal, descriptive prose and minimal, functional dialogue significantly reduce its appeal for young children. To elevate this to an award-worthy piece, the language needs to be simplified, dialogue expanded to give characters distinct voices, and more direct engagement techniques like suspense hooks or child address incorporated. The current tone feels more like a written report than a warm, oral bedtime story."
+  },
+  "quality_warning": true,
+  "title_te_en": "Sharabhanga Maharshi Tyaagam",
+  "moral_te_en": "Nijamaina Aanandan, Mana Shaanti Kevalam Mana Gurinchi Aalochinchadanlo Kaadu, Itarulaku Sahaayam Cheyadanlo, Dayato Jivinchadanlone Dorukutundi Telusaa?",
+  "title_en": "Sarabhaga Maharshi's Sacrifice",
+  "moral_en": "Do you know that true happiness and peace are found not just by thinking about ourselves, but by helping others and living with kindness?",
+  "id": "20260608_171223",
+  "date": "2026-06-08",
+  "category": "ramayana",
+  "subcategory": "courage_tales",
+  "topic": "శరభంగ మహర్షి త్యాగం - మోక్షమార్గం, నిస్వార్థ సేవ | Moral: నిజమైన మోక్షం అనేది స్వార్థం లేని సేవలో, ధర్మ మార్గంలో జీవించడంలోనే ఉందని శరభంగ మహర్షి జీవితం మనకు నేర్పుతుంది.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_171223/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
