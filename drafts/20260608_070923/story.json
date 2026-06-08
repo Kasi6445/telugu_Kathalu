@@ -1,0 +1,97 @@
+{
+  "title": "తెనాలి తెలివి, రాజుగారి తప్పు",
+  "moral": "తప్పు ఒప్పుకోవడం గొప్ప ధైర్యం, అది మనల్ని మరింత గొప్ప వాళ్ళని చేస్తుంది.",
+  "main_character": "Tenali Ramakrishna. A slender, quick-witted court jester and poet in the Vijayanagara Empire. He has a mischievous twinkle in his eyes and often wears a simple but distinctive dhoti and angavastram. Always the same character across every scene.",
+  "antagonist": "King Krishnadevaraya. A majestic and powerful ruler, known for his wisdom and patronage of arts, but occasionally proud. He wears elaborate gold-embroidered robes and a grand crown, often with a stern yet thoughtful expression. Always the same character across every scene.",
+  "setting": "The grand royal court of Vijayanagara, Hampi, in the 16th century. Ornate pillars, vibrant tapestries depicting battle scenes, and a large, polished stone throne dominate the hall, lit by the morning sun through high arches. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "విజయనగర సామ్రాజ్యంలోని ఆ దర్బారులో, మల్లెపూల సువాసన గాలిలో తేలియాడుతూ ఉండగా, మహారాజు కృష్ణదేవరాయలు గంభీరంగా ఒక ప్రకటన చేశారు. ఆయన తన చేతిలోని బంగారు పండును చూపుతూ, గొంతు సవరించుకుని — “ఈ పండు ప్రపంచంలోనే అత్యంత రుచికరమైనది, ఎందుకంటే నేను అలా అన్నాను!” అని అన్నారు. సభలో అంతా నిశ్శబ్దంగా తల వంచారు, కానీ తెనాలి రామకృష్ణుడు మాత్రం పెదవులపై చిరునవ్వుతో రాజుగారి మాటలను గమనించాడు. ఆయన చూపులు సభలోని అందరి మీదా ఒకసారి పడ్డాయి, అప్పుడు ఆయన నవ్వు మరింత లోతుగా మారింది, ఏదో ఒక ఆలోచన ఆయన మనసులో మెరిసింది.",
+      "image_prompt": "The man stands among the bowing courtiers, observing the king. A subtle smile plays on his lips, deepening as his gaze sweeps across the silent assembly. Also in this scene: King Krishnadevaraya. A majestic and powerful ruler, known for his wisdom and patronage of arts, but occasionally proud. He wears elaborate gold-embroidered robes and a grand crown, often with a stern yet thoughtful expression. Always the same character across every scene. Bright morning sun streams through the high arches, illuminating dust motes dancing in the air, casting long shadows from the pillars, a regal and formal light.",
+      "scene_visual": "The man stands among the bowing courtiers, observing the king. A subtle smile plays on his lips, deepening as his gaze sweeps across the silent assembly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vijayanagara Saamraajyanloni Aa Darbaarulo, Mallepula Suvaasana Gaalilo Teliyaadutu Undagaa, Mahaaraaju Krrishnadevaraayalu Gambhirangaa Oka Prakatana Cheshaaru. Aayana Tana Chetiloni Bangaaru Pandunu Chuputu, Gontu Savarinchukuni — “I Pandu Prapanchanlone Atyanta Ruchikaramainadi, Endukante Nenu Alaa Annaanu!” Ani Annaaru. Sabhalo Antaa Nishshabdangaa Tala Vanchaaru, Kaani Tenaali Raamakrrishnudu Maatram Pedavulapai Chirunavvuto Raajugaari Maatalanu Gamaninchaadu. Aayana Chupulu Sabhaloni Andari Midaa Okasaari Paddaayi, Appudu Aayana Navvu Marinta Lotugaa Maarindi, Edo Oka Aalochana Aayana Manasulo Merisindi.",
+      "text_en": "In the royal court of the Vijayanagara Empire, as the sweet scent of jasmine flowers drifted through the air, Emperor Krishnadevaraya made a grand announcement. Pointing to a golden fruit in his hand, he cleared his throat and declared, “This fruit is the most delicious in the world, because I said so!” Everyone in the court silently bowed their heads, but Tenali Ramakrishna watched the King's words with a small smile on his lips. His eyes swept over everyone in the court, and his smile deepened, as an idea sparked in his mind."
+    },
+    {
+      "id": 2,
+      "text": "ఆ తర్వాత, రాజప్రాసాదంలోని తోటలో చల్లగా ఉన్న రాతి బల్లపై కూర్చుని, తెనాలి రామకృష్ణుడు రాజుగారి మొండితనం గురించి ఆలోచించాడు. ఆయన తన గడ్డం తడుముకుంటూ, ఈ అలవాటు రాజ్యానికి మంచిది కాదని గ్రహించాడు. “ఒక రాజు తన తప్పులను ఒప్పుకోకపోతే, అది రాజ్యానికి మంచిది కాదు,” అని ఆయన తనలో తాను గొణుక్కున్నాడు. ఇంతలో ఒక ఉపాయం తట్టినట్టు ఆయన కళ్ళు మెరిశాయి — ఆయన హఠాత్తుగా లేచి నిలబడ్డాడు. తన గది వైపు వేగంగా అడుగులు వేశాడు, ఏదో ఒక కొత్త ఆట ఆడబోతున్నట్టు.",
+      "image_prompt": "The man, who was sitting and stroking his beard, suddenly stands up from a cool stone bench. His eyes sparkle with a sudden realization as he quickly strides towards his room. Soft afternoon light filters through the dense foliage of the palace gardens, dappling the ground in greens and golds, creating a peaceful yet thoughtful atmosphere.",
+      "scene_visual": "The man, who was sitting and stroking his beard, suddenly stands up from a cool stone bench. His eyes sparkle with a sudden realization as he quickly strides towards his room.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Tarvaata, Raajapraasaadanloni Totalo Challagaa Unna Raati Ballapai Kurchuni, Tenaali Raamakrrishnudu Raajugaari Monditanam Gurinchi Aalochinchaadu. Aayana Tana Gaddam Tadumukuntu, I Alavaatu Raajyaaniki Manchidi Kaadani Grahinchaadu. “Oka Raaju Tana Tappulanu Oppukokapote, Adi Raajyaaniki Manchidi Kaadu,” Ani Aayana Tanalo Taanu Gonukkunnaadu. Intalo Oka Upaayam Tattinattu Aayana Kallu Merishaayi — Aayana Hathaattugaa Lechi Nilabaddaadu. Tana Gadi Vaipu Vegangaa Adugulu Veshaadu, Edo Oka Kotta Aata Aadabotunnattu.",
+      "text_en": "Later, sitting on a cool stone bench in the palace garden, Tenali Ramakrishna thought about the King's stubbornness. Stroking his beard, he realized this habit was not good for the kingdom. “If a king doesn't admit his mistakes, it's not good for the kingdom,” he muttered to himself. Just then, his eyes sparkled as if an idea had struck him—he suddenly stood up. He walked quickly towards his room, as if he was about to play a new game."
+    },
+    {
+      "id": 3,
+      "text": "తన గదిలోకి వెళ్ళగానే, తెనాలి రామకృష్ణుడు ఒక బొమ్మ గీయడం మొదలుపెట్టాడు. బొగ్గుపుల్ల గరుకు కాగితంపై గీతలు గీస్తుంటే — శబ్దం స్పష్టంగా వినిపించింది. ఒక సింహం తల, ఏనుగు తొండం, పంది శరీరం... హా హా! ఆయన ముఖంపై ఒక పెద్ద చిరునవ్వు వికసించింది, ఈ వింత జీవి కాగితంపై రూపుదిద్దుకుంది. “హా హా! ఈ చిత్రానికి రాజుగారు ఏ పేరు పెడతారో చూద్దాం!” అని నవ్వుతూ అనుకున్నాడు. ఒక వింత జంతువు — అది ప్రకృతి నియమాలను ధిక్కరించే విధంగా ఉంది.",
+      "image_prompt": "The man draws a bizarre creature with a charcoal stick on rough paper. A wide smile spreads across his face as the strange combination of animal parts takes shape on the page. A single oil lamp casts warm, flickering light across Tenali's face in a small, private chamber, highlighting his conspiratorial smile.",
+      "scene_visual": "The man draws a bizarre creature with a charcoal stick on rough paper. A wide smile spreads across his face as the strange combination of animal parts takes shape on the page.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Gadiloki Vellagaane, Tenaali Raamakrrishnudu Oka Bomma Giyadam Modalupettaadu. Boggupulla Garuku Kaagitampai Gitalu Gistunte — Shabdam Spashtangaa Vinipinchindi. Oka Sinham Tala, Enugu Tondan, Pandi Shariran... Haa Haa! Aayana Mukhampai Oka Pedda Chirunavvu Vikasinchindi, I Vinta Jivi Kaagitampai Rupudiddukundi. “Haa Haa! I Chitraaniki Raajugaaru E Peru Pedataaro Chuddaan!” Ani Navvutu Anukunnaadu. Oka Vinta Jantuvu — Adi Prakrriti Niyamaalanu Dhikkarinche Vidhangaa Undi.",
+      "text_en": "As soon as he entered his room, Tenali Ramakrishna began to draw a picture. The charcoal stick made clear sounds as it drew lines on the rough paper. A lion's head, an elephant's trunk, a pig's body... Ha ha! A big smile bloomed on his face as this strange creature took shape on the paper. “Ha ha! Let's see what name the King will give this picture!” he thought, laughing. It was a strange animal—one that seemed to defy the laws of nature."
+    },
+    {
+      "id": 4,
+      "text": "మరుసటి రోజు, తెనాలి రామకృష్ణుడు తన చేతిలోని ఆ వింత చిత్రాన్ని రాజుగారి ముందుకు తీసుకెళ్ళాడు. ఆయన కాగితాన్ని నెమ్మదిగా విప్పుతుంటే — ఒక చిన్న శబ్దం వినిపించింది. రాజుగారి స్పందన కోసం ఉత్సాహంగా ఎదురుచూస్తూ, ఆయన చేతిలో చిత్ర పత్రం కాస్త వణికింది. “మహారాజా, దయచేసి ఈ అద్భుతమైన జంతువును గుర్తించండి!” అని వినయంగా అడిగాడు. రాజు ఆ బొమ్మను చూసి — ఆయన నుదురు చిట్లించుకున్నారు, ఏం చెప్పాలో తెలియక నోట మాట రాలేదు.",
+      "image_prompt": "The king stares at the strange drawing presented by the man, his brow furrowed in confusion. The king's brow furrows deeply as he struggles to identify the creature. Also in this scene: King Krishnadevaraya. A majestic and powerful ruler, known for his wisdom and patronage of arts, but occasionally proud. He wears elaborate gold-embroidered robes and a grand crown, often with a stern yet thoughtful expression. Always the same character across every scene. The throne room is bathed in the golden glow of late morning, the light reflecting off the King's jewels, creating a sense of official grandeur.",
+      "scene_visual": "The king stares at the strange drawing presented by the man, his brow furrowed in confusion. The king's brow furrows deeply as he struggles to identify the creature.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju, Tenaali Raamakrrishnudu Tana Chetiloni Aa Vinta Chitraanni Raajugaari Munduku Tisukellaadu. Aayana Kaagitaanni Nemmadigaa Vipputunte — Oka Chinna Shabdam Vinipinchindi. Raajugaari Spandana Kosam Utsaahangaa Eduruchustu, Aayana Chetilo Chitra Patram Kaasta Vanikindi. “Mahaaraajaa, Dayachesi I Adbhutamaina Jantuvunu Gurtinchandi!” Ani Vinayangaa Adigaadu. Raaju Aa Bommanu Chusi — Aayana Nuduru Chitlinchukunnaaru, Em Cheppaalo Teliyaka Nota Maata Raaledu.",
+      "text_en": "The next day, Tenali Ramakrishna took the strange picture in his hand to the King. As he slowly unfolded the paper, a small rustle was heard. Eagerly awaiting the King's reaction, the paper in his hand trembled slightly. “Your Majesty, please identify this amazing animal!” he asked humbly. The King looked at the drawing—his brow furrowed, and he was speechless, not knowing what to say."
+    },
+    {
+      "id": 5,
+      "text": "తనకు తెలియదని ఒప్పుకోవడానికి ఇష్టపడని రాజు, ఛాతీ నిగర్చి, ఒక కొత్త పేరును సృష్టించాడు. “ఇది 'సింహగజవరాహం' – పర్వతాలలో నివసించే అరుదైన మృగం!” అని ఆయన గంభీరంగా ప్రకటించారు. తన మాటలకు ప్రామాణికత ఇవ్వడానికి, రాజు తన రాజముద్రను దబ దబ మని ఒక కాగితంపై ముద్ర వేశారు. తెనాలి వినయంగా నమస్కరించాడు, కానీ ఆయన పెదవులపై ఒక రహస్యమైన చిరునవ్వు మెరిసింది — మరో ఉపాయం ఆయన మనసులో ఉంది.",
+      "image_prompt": "The king, puffing out his chest, firmly presses his royal seal onto a piece of paper. The man bows respectfully, a secret smile playing on his lips. Also in this scene: King Krishnadevaraya. A majestic and powerful ruler, known for his wisdom and patronage of arts, but occasionally proud. He wears elaborate gold-embroidered robes and a grand crown, often with a stern yet thoughtful expression. Always the same character across every scene. A slightly dimmer, more contemplative light fills the court as clouds pass overhead, reflecting the King's slightly clouded judgment.",
+      "scene_visual": "The king, puffing out his chest, firmly presses his royal seal onto a piece of paper. The man bows respectfully, a secret smile playing on his lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tanaku Teliyadani Oppukovadaaniki Ishtapadani Raaju, Chaati Nigarchi, Oka Kotta Perunu Srrishtinchaadu. “Idi 'Sinhagajavaraahan' – Parvataalalo Nivasinche Arudaina Mrrigan!” Ani Aayana Gambhirangaa Prakatinchaaru. Tana Maatalaku Praamaanikata Ivvadaaniki, Raaju Tana Raajamudranu Daba Daba Mani Oka Kaagitampai Mudra Veshaaru. Tenaali Vinayangaa Namaskarinchaadu, Kaani Aayana Pedavulapai Oka Rahasyamaina Chirunavvu Merisindi — Maro Upaayam Aayana Manasulo Undi.",
+      "text_en": "The King, unwilling to admit he didn't know, puffed out his chest and created a new name. “This is a 'Simhagajavaraham' – a rare beast that lives in the mountains!” he grandly announced. To give authority to his words, the King stamped his royal seal loudly on a piece of paper. Tenali bowed respectfully, but a mysterious smile sparkled on his lips—another idea was forming in his mind."
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి రోజు, తెనాలి రామకృష్ణుడు అదే చిత్రాన్ని మళ్ళీ రాజుగారి ముందుకు తీసుకొచ్చాడు, కానీ ఈసారి ఒక వింతైన వాదన చేశాడు. ఆయన కళ్ళలో ఒక ధైర్యమైన మెరుపుతో చిత్రాన్ని పట్టుకుని, “మహారాజా, నేను నిన్న గీసిన ఈ చిత్రంలో పెద్ద తప్పు చేశాను, దయచేసి సరిదిద్దండి!” అని సవాలుగా అన్నాడు. ఆయన మాటలకు సభలోని మంత్రులందరూ — ఒక్కసారిగా బిగ్గరగా ఊపిరి పీల్చుకున్నారు. రాజుగారి ముఖం ఎర్రగా మారిపోయింది, తాను పన్నిన ఉచ్చులో తానే చిక్కుకున్నానని ఆయనకు అర్థమైంది.",
+      "image_prompt": "The man holds up the same strange drawing, challenging the king to correct a supposed mistake. The king's face flushes red as he realizes he has been trapped. Also in this scene: King Krishnadevaraya. A majestic and powerful ruler, known for his wisdom and patronage of arts, but occasionally proud. He wears elaborate gold-embroidered robes and a grand crown, often with a stern yet thoughtful expression. Always the same character across every scene. A spotlight-like beam of sunlight falls directly on Tenali and the King, highlighting the dramatic confrontation, while the rest of the court is in muted light.",
+      "scene_visual": "The man holds up the same strange drawing, challenging the king to correct a supposed mistake. The king's face flushes red as he realizes he has been trapped.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju, Tenaali Raamakrrishnudu Ade Chitraanni Malli Raajugaari Munduku Tisukochchaadu, Kaani Isaari Oka Vintaina Vaadana Cheshaadu. Aayana Kallalo Oka Dhairyamaina Meruputo Chitraanni Pattukuni, “Mahaaraajaa, Nenu Ninna Gisina I Chitranlo Pedda Tappu Cheshaanu, Dayachesi Sarididdandi!” Ani Savaalugaa Annaadu. Aayana Maatalaku Sabhaloni Mantrulandaru — Okkasaarigaa Biggaragaa Upiri Pilchukunnaaru. Raajugaari Mukham Erragaa Maaripoyindi, Taanu Pannina Uchchulo Taane Chikkukunnaanani Aayanaku Arthamaindi.",
+      "text_en": "The next day, Tenali Ramakrishna brought the same picture before the King again, but this time he made a strange argument. Holding the picture with a daring sparkle in his eyes, he said challengingly, “Your Majesty, I made a big mistake in this picture I drew yesterday, please correct it!” At his words, all the ministers in the court gasped loudly. The King's face turned red, and he understood that he had fallen into his own trap."
+    },
+    {
+      "id": 7,
+      "text": "మరో మార్గం లేదని తెలుసుకున్న రాజు, ఒక పెద్ద నిట్టూర్పు విడిచారు, ఆయనలో ఒక భారం దిగిపోయినట్లు అనిపించింది. “రాముడా, నువ్వు సరిగ్గానే చెప్పావు. నేను పొరబడ్డాను. ఈ జంతువు నా ఊహలోనే ఉంది,” అని ఆయన సభ ముందు అంగీకరించారు. రాజుగారి మాటలకు మంత్రులందరూ — ఒక పెద్ద ఊరట నిట్టూర్పు విడిచారు, అది ఎండిన ఆకులను కదిలించే గాలిలా వినిపించింది. రాజు పెదవులపై ఒక చిన్న, నిజమైన చిరునవ్వు మెరిసింది, ఆయన తన తప్పును ఒప్పుకున్నారు.",
+      "image_prompt": "The king lets out a deep sigh, publicly admitting his mistake to the assembly. A small, genuine smile appears on his lips as a burden seems to lift from him. Also in this scene: King Krishnadevaraya. A majestic and powerful ruler, known for his wisdom and patronage of arts, but occasionally proud. He wears elaborate gold-embroidered robes and a grand crown, often with a stern yet thoughtful expression. Always the same character across every scene. Gentle dusk light fills the court, warm amber and soft, signifying peace and a lesson learned, with the King's face illuminated by a soft, internal glow of humility.",
+      "scene_visual": "The king lets out a deep sigh, publicly admitting his mistake to the assembly. A small, genuine smile appears on his lips as a burden seems to lift from him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Maro Maargam Ledani Telusukunna Raaju, Oka Pedda Nitturpu Vidichaaru, Aayanalo Oka Bhaaram Digipoyinatlu Anipinchindi. “Raamudaa, Nuvvu Sariggaane Cheppaavu. Nenu Porabaddaanu. I Jantuvu Naa Uhalone Undi,” Ani Aayana Sabha Mundu Angikarinchaaru. Raajugaari Maatalaku Mantrulandaru — Oka Pedda Urata Nitturpu Vidichaaru, Adi Endina Aakulanu Kadilinche Gaalilaa Vinipinchindi. Raaju Pedavulapai Oka Chinna, Nijamaina Chirunavvu Merisindi, Aayana Tana Tappunu Oppukunnaaru.",
+      "text_en": "The King, realizing there was no other way, let out a big sigh; it felt as if a burden had been lifted from him. “Ramuda, you are right. I made a mistake. This animal exists only in my imagination,” he admitted before the court. At the King's words, all the ministers let out a big sigh of relief, which sounded like wind rustling dry leaves. A small, genuine smile sparkled on the King's lips, as he admitted his mistake."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, rich dialogue, and excellent emotional depth, making it highly engaging. The grammar is flawless, contributing to its professional polish. However, the narrative voice often feels formal and written, rather than the warm, conversational tone expected from a grandparent. To elevate this to an award-worthy piece, the most crucial fix is to infuse the narration with more oral warmth by simplifying vocabulary and adopting a more direct, storytelling cadence."
+  },
+  "title_te_en": "Tenaali Telivi, Raajugaari Tappu",
+  "moral_te_en": "Tappu Oppukovadam Goppa Dhairyan, Adi Manalni Marinta Goppa Vaallani Chestundi.",
+  "title_en": "Tenali's Cleverness and the King's Mistake",
+  "moral_en": "Admitting a mistake is great courage, and it makes us even greater.",
+  "id": "20260608_070923",
+  "date": "2026-06-08",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు 'తప్పులను అంగీకరించే' రాజు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_070923/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
