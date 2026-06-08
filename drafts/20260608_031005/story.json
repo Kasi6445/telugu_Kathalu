@@ -1,0 +1,98 @@
+{
+  "title": "విధి దారాలు, చిన్ని తెలివి",
+  "moral": "కష్టమొచ్చినప్పుడు, మన దగ్గరున్న పనిముట్లు, మనకున్న నైపుణ్యాలే అనుకోని పరిష్కారాలను ఇస్తాయని గుర్తుంచుకోవాలి.",
+  "main_character": "చిన్ని (Chinni) is a slender, agile 10-year-old boy with nimble fingers and keen eyes. He always wears a simple, hand-woven cotton vest and dhoti. He is thoughtful and observant. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, bustling weaving village near Mangalagiri, Andhra Pradesh. His workshop is a single, windowless room, dimly lit by an oil lamp, filled with the scent of cotton and dye, and the rhythmic clack of a handloom. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "మంగళగిరి దగ్గర చిన్న పల్లెటూరిలో చిన్ని మగ్గంపై కూర్చుని, తన చేతివేళ్ళతో రంగురంగుల దారాలను అద్భుతంగా అల్లేస్తున్నాడు. అతని వేళ్ళు గాలిలో నృత్యం చేస్తున్నట్లు, దారాలు ఒకదానితో ఒకటి పెనవేసుకుంటూ అందమైన చిత్రాన్ని సృష్టిస్తున్నాయి. మగ్గం నుండి వచ్చే 'క్లాక్-క్లాక్' శబ్దం ఒక పాటలా గది అంతా నిండిపోయింది — ఆ శబ్దం వింటూ చిన్ని ఏదో పాట పాడుకుంటున్నాడు. అతని మనసు మొత్తం ఆ దారాల మీదే ఉంది, బయటి ప్రపంచం ఏదీ అతనికి పట్టడం లేదు. చివరి దారం ముడి వేస్తూ, అతను ఆనందంగా, \"ఈ దారాలు ఎంత అద్భుతమైనవి!\" అన్నాడు. అతని కళ్ళల్లో — ఒక కొత్త కాంతి మెరిసింది.",
+      "image_prompt": "The boy ties the final knot on the colorful threads he has been weaving on a small loom. A new light shines brightly in his eyes as he admires his finished work. Warm, soft glow from a single oil lamp casting long shadows of the loom on the mud walls.",
+      "scene_visual": "The boy ties the final knot on the colorful threads he has been weaving on a small loom. A new light shines brightly in his eyes as he admires his finished work.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mangalagiri Daggara Chinna Palleturilo Chinni Maggampai Kurchuni, Tana Chetivellato Rangurangula Daaraalanu Adbhutangaa Allestunnaadu. Atani Vellu Gaalilo Nrrityam Chestunnatlu, Daaraalu Okadaanito Okati Penavesukuntu Andamaina Chitraanni Srrishtistunnaayi. Maggam Nundi Vachche 'Klaak-Klaak' Shabdam Oka Paatalaa Gadi Antaa Nindipoyindi — Aa Shabdam Vintu Chinni Edo Paata Paadukuntunnaadu. Atani Manasu Mottam Aa Daaraala Mide Undi, Bayati Prapancham Edi Ataniki Pattadam Ledu. Chivari Daaram Mudi Vestu, Atanu Aanandangaa, \"I Daaraalu Enta Adbhutamainavi!\" Annaadu. Atani Kallallo — Oka Kotta Kaanti Merisindi.",
+      "text_en": "In a small village near Mangalagiri, Chinni sat at his loom, wonderfully weaving colorful threads with his fingers. His fingers danced in the air, and the threads intertwined, creating a beautiful pattern. The 'clack-clack' sound from the loom filled the room like a song — Chinni hummed along to the sound. His mind was completely focused on the threads; he didn't notice anything else in the outside world. Tying the last knot, he happily said, \"These threads are so amazing!\" A new light sparkled in his eyes."
+    },
+    {
+      "id": 2,
+      "text": "చిన్ని తన అద్భుతమైన పనిని చూసి మురిసిపోతున్నాడు. ఇంతలో — ఒక్కసారిగా పెద్ద గాలి వీచింది. ఆ గాలికి మట్టి గోడల గది తలుపు 'ధడ్' మని భారీ శబ్దంతో మూసుకుపోయింది. చిన్ని ఉలిక్కిపడ్డాడు, తల అడ్డంగా ఊపుతూ, \"అయ్యో! తలుపు మూసుకుపోయింది! అమ్మా!\" అని పిలిచాడు. అతను వెంటనే తలుపు దగ్గరకు పరుగెత్తి, దాన్ని బలంగా నెట్టి చూశాడు, కానీ అది అంగుళం కూడా కదలలేదు. లోపలి నుండి — పట్టుకోవడానికి ఏమీ లేదు.",
+      "image_prompt": "The boy runs towards the mud-walled door and pushes it forcefully after it slammed shut. He strains against the door, but it remains unmoving, not budging an inch. The oil lamp flickers nervously, casting dancing, distorted shadows as Chinni moves, making the room feel smaller and more confining.",
+      "scene_visual": "The boy runs towards the mud-walled door and pushes it forcefully after it slammed shut. He strains against the door, but it remains unmoving, not budging an inch.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinni Tana Adbhutamaina Panini Chusi Murisipotunnaadu. Intalo — Okkasaarigaa Pedda Gaali Vichindi. Aa Gaaliki Matti Godala Gadi Talupu 'Dhad' Mani Bhaari Shabdanto Musukupoyindi. Chinni Ulikkipaddaadu, Tala Addangaa Uputu, \"Ayyo! Talupu Musukupoyindi! Ammaa!\" Ani Pilichaadu. Atanu Ventane Talupu Daggaraku Parugetti, Daanni Balangaa Netti Chushaadu, Kaani Adi Angulam Kudaa Kadalaledu. Lopali Nundi — Pattukovadaaniki Emi Ledu.",
+      "text_en": "Chinni was admiring his wonderful work. Just then, a strong gust of wind suddenly blew. The wind slammed the door of the mud-walled room shut with a loud 'thud'. Chinni was startled, shaking his head, he called out, \"Oh no! The door is shut! Amma!\" He immediately ran to the door and pushed it hard, but it didn't move an inch. From the inside, there was nothing to grab onto."
+    },
+    {
+      "id": 3,
+      "text": "తలుపు ఎంతకీ తెరుచుకోకపోయేసరికి చిన్ని గుండె వేగంగా కొట్టుకుంది. అతను తలుపును మళ్ళీ తాకి చూశాడు — అదివరకెన్నడూ లేనంతగా, దాని నిండా సన్నటి, మెరిసే దారాలు అల్లుకుని ఉన్నాయి. అవి ఎంతో బలంగా, చిక్కుముడిగా తలుపును బంధించాయి. అతని కళ్ళల్లో నీళ్ళు తిరిగాయి, \"ఈ దారాలు ఎక్కడి నుండి వచ్చాయి? ఇవి తెరుచుకోవు కదా!\" అని నిస్సహాయంగా అన్నాడు. ఆ దారాలు — గోడల్లోకే అల్లుకుపోయినట్లు కనిపించాయి.",
+      "image_prompt": "The boy touches the door and discovers it is intricately bound by thin, shiny, tangled threads. Tears well up in his eyes as he realizes the threads are strong and appear to be woven into the walls. The dim lamp light struggles to penetrate the dense web of threads, creating pockets of deep shadow and making the room feel even more suffocating.",
+      "scene_visual": "The boy touches the door and discovers it is intricately bound by thin, shiny, tangled threads. Tears well up in his eyes as he realizes the threads are strong and appear to be woven into the walls.",
+      "supporting_char_keys": [],
+      "text_te_en": "Talupu Entaki Teruchukokapoyesariki Chinni Gunde Vegangaa Kottukundi. Atanu Talupunu Malli Taaki Chushaadu — Adivarakennadu Lenantagaa, Daani Nindaa Sannati, Merise Daaraalu Allukuni Unnaayi. Avi Ento Balangaa, Chikkumudigaa Talupunu Bandhinchaayi. Atani Kallallo Nillu Tirigaayi, \"I Daaraalu Ekkadi Nundi Vachchaayi? Ivi Teruchukovu Kadaa!\" Ani Nissahaayangaa Annaadu. Aa Daaraalu — Godalloke Allukupoyinatlu Kanipinchaayi.",
+      "text_en": "As the door wouldn't open, Chinni's heart beat fast. He touched the door again — it was covered in thin, shimmering threads, more than ever before. They were strongly tangled, binding the door shut. Tears welled up in his eyes, and he said helplessly, \"Where did these threads come from? They won't open, will they?\" The threads seemed to be woven right into the walls."
+    },
+    {
+      "id": 4,
+      "text": "చిన్ని తన చేతివేళ్ళతో ఆ దారాలను తెంచడానికి ప్రయత్నించాడు — అవి తెగలేదు. తర్వాత మగ్గంలో వాడే చిన్న, మొద్దుబారిన షటిల్‌తో పొడిచాడు, కానీ అవి మరింత బిగుసుకున్నాయి. అతని చేతులు కాయలు కాశాయి, వేళ్ళ కొనలు దెబ్బతిన్నాయి. \"ఇవి తెగడం లేదు! అస్సలు తెగడం లేదు!\" అని విసుగుతో అరిచాడు. నిస్సహాయంగా చిన్ని గోడకు ఆనుకుని కుప్పకూలిపోయాడు. ఇంతలో — అతని చూపు మగ్గంపై పడింది.",
+      "image_prompt": "The boy collapses against the wall in despair after his attempts to break the strong, tangled threads with his fingers and a blunt shuttle fail. His hands are calloused and fingertips injured from the futile struggle, and his gaze falls upon the loom. The lamp casts a single, weak circle of light around Chinni, highlighting his tear-streaked face and the futility of his efforts against the shadowed, impenetrable door.",
+      "scene_visual": "The boy collapses against the wall in despair after his attempts to break the strong, tangled threads with his fingers and a blunt shuttle fail. His hands are calloused and fingertips injured from the futile struggle, and his gaze falls upon the loom.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinni Tana Chetivellato Aa Daaraalanu Tenchadaaniki Prayatninchaadu — Avi Tegaledu. Tarvaata Magganlo Vaade Chinna, Moddubaarina Shatil‌To Podichaadu, Kaani Avi Marinta Bigusukunnaayi. Atani Chetulu Kaayalu Kaashaayi, Vella Konalu Debbatinnaayi. \"Ivi Tegadam Ledu! Assalu Tegadam Ledu!\" Ani Visuguto Arichaadu. Nissahaayangaa Chinni Godaku Aanukuni Kuppakulipoyaadu. Intalo — Atani Chupu Maggampai Padindi.",
+      "text_en": "Chinni tried to break the threads with his fingers — but they wouldn't break. Then he poked them with a small, blunt shuttle used in the loom, but they only tightened more. His hands became calloused, and his fingertips were hurt. \"They won't break! They just won't break!\" he shouted in frustration. Helplessly, Chinni slumped against the wall. Just then, his gaze fell upon the loom."
+    },
+    {
+      "id": 5,
+      "text": "చిన్ని కళ్ళు మగ్గంపై పడగానే, అతని మనసులో ఒక ఆలోచన మెరిసింది. బలంతో పని కాదని, తెలివిగా ఆలోచించాలని అర్థమైంది. నుదుటిపై ముడుతలు పడ్డాయి, అతను ఊపిరి బిగబట్టి, తలుపుపై ఉన్న దారాల చిక్కుముడిని శ్రద్ధగా పరిశీలించాడు. \"శక్తి కాదు, యుక్తి కావాలి,\" అని తనలో తనే అనుకున్నాడు. దీపం నుండి వస్తున్న సన్నటి లోహపు వాసన అతని ఏకాగ్రతను పెంచింది. అతని కళ్ళు మెరిశాయి — ఒక చిన్న దారం కొన కనిపించింది.",
+      "image_prompt": "The boy intently examines the tangled threads on the door, his brow furrowed in deep concentration. His eyes sparkle with a new understanding as he spots a small, crucial thread end. A beam of moonlight, thin and silver, somehow pierces a tiny crack in the wall, illuminating the intricate thread pattern on the door like a secret map.",
+      "scene_visual": "The boy intently examines the tangled threads on the door, his brow furrowed in deep concentration. His eyes sparkle with a new understanding as he spots a small, crucial thread end.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinni Kallu Maggampai Padagaane, Atani Manasulo Oka Aalochana Merisindi. Balanto Pani Kaadani, Telivigaa Aalochinchaalani Arthamaindi. Nudutipai Mudutalu Paddaayi, Atanu Upiri Bigabatti, Talupupai Unna Daaraala Chikkumudini Shraddhagaa Parishilinchaadu. \"Shakti Kaadu, Yukti Kaavaali,\" Ani Tanalo Tane Anukunnaadu. Dipam Nundi Vastunna Sannati Lohapu Vaasana Atani Ekaagratanu Penchindi. Atani Kallu Merishaayi — Oka Chinna Daaram Kona Kanipinchindi.",
+      "text_en": "As Chinni's eyes fell on the loom, an idea sparked in his mind. He realized that strength wouldn't work; he needed to think cleverly. His brow furrowed, he held his breath and carefully examined the tangled threads on the door. \"Not strength, but cleverness is needed,\" he thought to himself. The faint metallic smell from the lamp sharpened his focus. His eyes sparkled — he spotted a tiny thread end."
+    },
+    {
+      "id": 6,
+      "text": "చిన్నికి తన చేతిలో ఉన్న సన్నటి సూది గుర్తుకు వచ్చింది. అతను మెల్లగా, జాగ్రత్తగా, ఆ చిన్న దారం కొసను పట్టుకుని, తన నేత నైపుణ్యంతో చిక్కుముడిని విప్పడం మొదలుపెట్టాడు. ఒక దారం తర్వాత ఒకటి — 'స్నిప్', 'స్లైడ్' — చిన్న చిన్న శబ్దాలు చేస్తూ దారాలు విడిపోతున్నాయి. అతని పెదవులపై చిరునవ్వు మెరిసింది, \"ఇదిగో, విధి కూడా ఒక దారం లాంటిదే!\" అని అన్నాడు. ఒక్కసారిగా — తలుపు నెమ్మదిగా కదిలింది.",
+      "image_prompt": "The boy carefully holds a small thread end with a thin needle and skillfully begins to untangle the intricate knot on the door. A subtle smile appears on his lips as the threads separate with soft 'snip' and 'slide' sounds, and the door slowly begins to move. The lamp light now seems to pulse with his effort, casting a dramatic, focused glow on his hands as he works, the shadows of the threads dancing like a puzzle being solved.",
+      "scene_visual": "The boy carefully holds a small thread end with a thin needle and skillfully begins to untangle the intricate knot on the door. A subtle smile appears on his lips as the threads separate with soft 'snip' and 'slide' sounds, and the door slowly begins to move.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinniki Tana Chetilo Unna Sannati Sudi Gurtuku Vachchindi. Atanu Mellagaa, Jaagrattagaa, Aa Chinna Daaram Kosanu Pattukuni, Tana Neta Naipunyanto Chikkumudini Vippadam Modalupettaadu. Oka Daaram Tarvaata Okati — 'Snip', 'Slaid' — Chinna Chinna Shabdaalu Chestu Daaraalu Vidipotunnaayi. Atani Pedavulapai Chirunavvu Merisindi, \"Idigo, Vidhi Kudaa Oka Daaram Laantide!\" Ani Annaadu. Okkasaarigaa — Talupu Nemmadigaa Kadilindi.",
+      "text_en": "Chinni remembered the thin needle he had in his hand. Slowly, carefully, he took hold of the tiny thread end and began to untangle the knot with his weaving skills. One thread after another — 'snip', 'slide' — the threads came apart with small sounds. A smile appeared on his lips, and he said, \"See, even destiny is like a thread!\" Suddenly, the door slowly moved."
+    },
+    {
+      "id": 7,
+      "text": "తలుపు పూర్తిగా తెరుచుకోగానే, చిన్ని మెల్లగా బయట అడుగు పెట్టాడు. సాయంకాలం సూర్యరశ్మి అతని కళ్ళపై పడగానే — అతను కళ్ళు చికిలించాడు. గుండె నిండా ఊపిరి పీల్చుకున్నాడు, పరిసరాల్లోని మల్లెపూల పరిమళం అతనిలో కొత్త ఉత్సాహాన్ని నింపింది. అతని ముఖంలో ఒక ప్రశాంతమైన చిరునవ్వు, లోతైన సంతృప్తి కనిపించాయి. \"నా దారాలు నన్ను విడిపించాయి,\" అని ఆత్మవిశ్వాసంతో అన్నాడు. ఆ పరిమళం — అతన్ని కమ్మేసింది.",
+      "image_prompt": "The boy steps slowly out of the fully opened door, squinting as the evening sunlight hits his eyes. A peaceful smile of deep satisfaction spreads across his face as he breathes in the surrounding jasmine fragrance. Gentle, warm amber light of the late afternoon sun, bathing the village square in a soft, peaceful glow, highlighting Chinni's silhouette against the bright outside world.",
+      "scene_visual": "The boy steps slowly out of the fully opened door, squinting as the evening sunlight hits his eyes. A peaceful smile of deep satisfaction spreads across his face as he breathes in the surrounding jasmine fragrance.",
+      "supporting_char_keys": [],
+      "text_te_en": "Talupu Purtigaa Teruchukogaane, Chinni Mellagaa Bayata Adugu Pettaadu. Saayankaalam Suryarashmi Atani Kallapai Padagaane — Atanu Kallu Chikilinchaadu. Gunde Nindaa Upiri Pilchukunnaadu, Parisaraalloni Mallepula Parimalam Atanilo Kotta Utsaahaanni Nimpindi. Atani Mukhanlo Oka Prashaantamaina Chirunavvu, Lotaina Santrripti Kanipinchaayi. \"Naa Daaraalu Nannu Vidipinchaayi,\" Ani Aatmavishvaasanto Annaadu. Aa Parimalam — Atanni Kammesindi.",
+      "text_en": "As the door fully opened, Chinni slowly stepped outside. The evening sunlight hit his eyes — he squinted. He took a deep breath, and the fragrance of jasmine flowers around him filled him with new energy. A peaceful smile and deep satisfaction appeared on his face. \"My threads set me free,\" he said confidently. The fragrance enveloped him."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 7,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story boasts a compelling narrative arc and impeccable grammar, making it a strong foundation. Chinni's emotional journey is largely well-portrayed through actions, which is commendable. To reach an award-winning standard, the primary focus should be on enhancing the 'grandmother authenticity' by integrating more direct address to the child listener and conversational interjections. Further refinement in consistently showing emotions rather than stating them, and potentially introducing another character to diversify dialogue, would significantly elevate the piece."
+  },
+  "quality_warning": true,
+  "title_te_en": "Vidhi Daaraalu, Chinni Telivi",
+  "moral_te_en": "Kashtamochchinappudu, Mana Daggarunna Panimutlu, Manakunna Naipunyaale Anukoni Parishkaaraalanu Istaayani Gurtunchukovaali.",
+  "title_en": "Destiny's Threads, Chinni's Cleverness",
+  "moral_en": "When trouble comes, remember that the tools you have and the skills you know can give you surprising solutions.",
+  "id": "20260608_031005",
+  "date": "2026-06-08",
+  "category": "podupu",
+  "subcategory": "clever_escapes",
+  "topic": "విధి దారాలు చిక్కుబడిన గదిలో చిక్కుకున్న బాల నేతకారుడి పొడుపు కథ",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_031005/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
