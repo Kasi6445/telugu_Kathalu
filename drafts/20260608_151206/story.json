@@ -1,0 +1,105 @@
+{
+  "title": "రాముడి ధర్మం, కుంభకర్ణుడి త్యాగం",
+  "moral": "కష్టకాలంలోనూ ధర్మాన్ని పాటించడం మనసుకు గొప్ప శాంతినిస్తుంది.",
+  "main_character": "A colossal rakshasa with a dark complexion, easily twice the height of a tall man. He has a broad, powerful build, and a face that, despite its size, holds a deep, contemplative expression when awake. He wears simple but massive garments of dark fabric, often adorned with iron armlets. Always the same character across every scene.",
+  "antagonist": "Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene.",
+  "setting": "The mythical island kingdom of Lanka, with its grand palaces and battlefields. The scenes transition from a cavernous sleeping chamber to a majestic royal court, and finally to a vast, dust-filled battlefield under a dramatic sky. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లంకలోని ఒక పెద్ద గుహలో కుంభకర్ణుడు నిద్రలో మునిగిపోయాడు. అతని శ్వాస గంభీరంగా, గుహ అంతా ప్రతిధ్వనిస్తూ, గోడలను సైతం కంపింపజేస్తోంది. బయట యుద్ధ భేరీలు మోగుతున్నా, అతని కనురెప్పలు ఏమాత్రం కదల్లేదు. అతని భారీ శరీరం అప్పుడప్పుడు చిన్నగా కదిలింది, ఒక పెద్ద కొండ గాలికి వూగినట్లు. ఇంతలో — భూమి కొద్దిగా కంపించింది. ఆ ప్రకంపన అతని మంచాన్ని మెల్లగా కదిపింది.",
+      "image_prompt": "The giant's massive body lies still on his bed as a slight tremor shakes the ground. His bed gently sways from the tremor, but his eyelids remain unmoving. Dim, cool cavern light, a single, flickering oil lamp casting long, dancing shadows over his immense form.",
+      "scene_visual": "The giant's massive body lies still on his bed as a slight tremor shakes the ground. His bed gently sways from the tremor, but his eyelids remain unmoving.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lankaloni Oka Pedda Guhalo Kumbhakarnudu Nidralo Munigipoyaadu. Atani Shvaasa Gambhirangaa, Guha Antaa Pratidhvanistu, Godalanu Saitam Kampimpajestondi. Bayata Yuddha Bherilu Mogutunnaa, Atani Kanureppalu Emaatram Kadalledu. Atani Bhaari Shariram Appudappudu Chinnagaa Kadilindi, Oka Pedda Konda Gaaliki Vuginatlu. Intalo — Bhumi Koddigaa Kampinchindi. Aa Prakampana Atani Manchaanni Mellagaa Kadipindi.",
+      "text_en": "Deep inside a huge cave in Lanka, Kumbhakarnudu was fast asleep. His breathing was so loud and deep, it echoed all through the cave, making the very walls tremble! Outside, war drums were beating, but his eyelids didn't even twitch. His giant body would sometimes stir a little, like a huge mountain swaying in the breeze. Just then — the ground gave a little shake. That tiny tremor gently rocked his bed."
+    },
+    {
+      "id": 2,
+      "text": "ఆ కంపనతో మేల్కొనని కుంభకర్ణుడిని లేపడానికి, సైనికులు పెద్ద పెద్ద గంటలు, బూరలు మోగించారు. ఆ శబ్దాలు గుహలో ప్రతిధ్వనించి, చెవులు చిల్లులు పడేలా చేశాయి. అప్పుడు రావణుడు ఆ గదిలోకి వచ్చాడు — అతని నుదుటిపై చింత రేఖలు స్పష్టంగా కనిపించాయి. \"ప్రియ సోదరా, లంక మహా విపత్తులో ఉంది!\" అంటూ రావణుడు గొంతు పెంచి పిలిచాడు. కుంభకర్ణుడు మెల్లగా కళ్ళు తెరిచాడు, అతని చూపుల్లో నిద్ర ఇంకా అలుముకుంది — కానీ ఒక మెరుపు కనిపించింది.",
+      "image_prompt": "The giant slowly opens his eyes, his gaze still heavy with sleep. A distinct spark of awareness flickers within his sleepy eyes. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. Harsh, flickering torchlight illuminates the frantic efforts of the rakshasa generals in the vast, shadowed chamber.",
+      "scene_visual": "The giant slowly opens his eyes, his gaze still heavy with sleep. A distinct spark of awareness flickers within his sleepy eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kampanato Melkonani Kumbhakarnudini Lepadaaniki, Sainikulu Pedda Pedda Gantalu, Buralu Moginchaaru. Aa Shabdaalu Guhalo Pratidhvaninchi, Chevulu Chillulu Padelaa Cheshaayi. Appudu Raavanudu Aa Gadiloki Vachchaadu — Atani Nudutipai Chinta Rekhalu Spashtangaa Kanipinchaayi. \"Priya Sodaraa, Lanka Mahaa Vipattulo Undi!\" Antu Raavanudu Gontu Penchi Pilichaadu. Kumbhakarnudu Mellagaa Kallu Terichaadu, Atani Chupullo Nidra Inkaa Alumukundi — Kaani Oka Merupu Kanipinchindi.",
+      "text_en": "To wake Kumbhakarnudu, who hadn't stirred even with the shaking, soldiers rang huge bells and blew loud trumpets. The sounds boomed through the cave, so loud they could burst your eardrums! Then Ravana walked into the room — lines of worry were clear on his forehead. \"Dear brother, Lanka is in great trouble!\" Ravana called out, his voice loud. Kumbhakarnudu slowly opened his eyes. Sleep was still heavy in his gaze — but a spark of understanding shone through."
+    },
+    {
+      "id": 3,
+      "text": "రాజసభలో కుంభకర్ణుడు గంభీరంగా నిలబడి, రావణుడి కళ్ళలోకి చూశాడు. అతని గొంతులో లోతైన విచారం వినిపించింది, కానీ మాటల్లో మాత్రం స్థిరత్వం ఉంది. \"రావణా! నీ మార్గం అధర్మం, సీతను తిరిగి ఇచ్చి శాంతిని కోరు!\" అని అన్నాడు. ఆ మాటలకు రావణుడి ముఖం ఒక్కసారిగా ఎర్రబడింది — అతని పెదవులు బిగించుకున్నాయి. సభలో అంతా నిశ్శబ్దంగా ఉండిపోయారు, పిట్టల వలస ఆగిపోయినట్లు. రావణుడు కోపంగా చేయి విసిరాడు, ఆ వేగం గాలిని చీల్చింది.",
+      "image_prompt": "The king's face flushes red as he clenches his lips tightly. He angrily swings his hand, the swift motion visibly cutting through the air in the silent assembly. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. Bright, opulent light from numerous oil lamps and jeweled chandeliers in Ravana's royal court, highlighting the tension between the brothers.",
+      "scene_visual": "The king's face flushes red as he clenches his lips tightly. He angrily swings his hand, the swift motion visibly cutting through the air in the silent assembly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajasabhalo Kumbhakarnudu Gambhirangaa Nilabadi, Raavanudi Kallaloki Chushaadu. Atani Gontulo Lotaina Vichaaram Vinipinchindi, Kaani Maatallo Maatram Sthiratvam Undi. \"Raavanaa! Ni Maargam Adharman, Sitanu Tirigi Ichchi Shaantini Koru!\" Ani Annaadu. Aa Maatalaku Raavanudi Mukham Okkasaarigaa Errabadindi — Atani Pedavulu Biginchukunnaayi. Sabhalo Antaa Nishshabdangaa Undipoyaaru, Pittala Valasa Aagipoyinatlu. Raavanudu Kopangaa Cheyi Visiraadu, Aa Vegam Gaalini Chilchindi.",
+      "text_en": "In the royal court, Kumbhakarnudu stood tall and looked straight into Ravana's eyes. A deep sadness was in his voice, but his words were firm. \"Ravana! Your path is wrong, it's not dharma! Give Sita back and ask for peace!\" he said. At those words, Ravana's face suddenly turned bright red — his lips pressed together tightly. Everyone in the court became completely silent, as if even the birds had stopped flying. Ravana angrily swung his hand, so fast it seemed to cut through the air."
+    },
+    {
+      "id": 4,
+      "text": "రావణుడి మాటలు విని, కుంభకర్ణుడు తన గుహకు తిరిగి వచ్చాడు. అతని భుజాలు వాలిపోయాయి, భారమైన అడుగులు వేశాడు. \"అధర్మాన్ని ఎంచుకున్నా, నా సోదరుడి కోసం నా కర్తవ్యాన్ని నిర్వర్తించక తప్పదు,\" అని అతని గొంతులో నిస్సత్తువ ధ్వనించింది. దూరంగా ఒక యుద్ధ భేరి శబ్దం — విషాద గీతంలా వినిపించింది. అతను నెమ్మదిగా లేచాడు, అతని భారీ రూపం గుహ ద్వారంలో నిండిపోయింది — బయట చీకటి, యుద్ధం పిలుస్తోంది.",
+      "image_prompt": "The giant slowly rises, his massive form filling the entire cave entrance. His shoulders are slumped, and the darkness outside seems to beckon him to war. Cool, early morning light filtering through high arches, casting long, somber shadows as Kumbhakarna stands alone in a deserted corridor.",
+      "scene_visual": "The giant slowly rises, his massive form filling the entire cave entrance. His shoulders are slumped, and the darkness outside seems to beckon him to war.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raavanudi Maatalu Vini, Kumbhakarnudu Tana Guhaku Tirigi Vachchaadu. Atani Bhujaalu Vaalipoyaayi, Bhaaramaina Adugulu Veshaadu. \"Adharmaanni Enchukunnaa, Naa Sodarudi Kosam Naa Kartavyaanni Nirvartinchaka Tappadu,\" Ani Atani Gontulo Nissattuva Dhvaninchindi. Durangaa Oka Yuddha Bheri Shabdam — Vishaada Gitanlaa Vinipinchindi. Atanu Nemmadigaa Lechaadu, Atani Bhaari Rupam Guha Dvaaranlo Nindipoyindi — Bayata Chikati, Yuddham Pilustondi.",
+      "text_en": "After hearing Ravana's words, Kumbhakarnudu went back to his cave. His shoulders were slumped, and his steps were heavy. \"Even though he chose the wrong path, I must do my duty for my brother,\" he said, his voice sounding tired and sad. In the distance, a war drum beat — it sounded like a very sad song. He slowly stood up, his giant body filling the cave entrance — outside was darkness, and the war was calling him."
+    },
+    {
+      "id": 5,
+      "text": "యుద్ధభూమిలో కుంభకర్ణుడు రామచంద్రుడి ముందు నిలబడ్డాడు. అతని ముఖం మీద ఒక ప్రశాంతమైన చిరునవ్వు, అంగీకారం మెరిసింది. రాముడు తన కోదండాన్ని ఎక్కుపెట్టాడు. ఒక్కసారిగా — బంగారు కాంతి మెరుపులా ప్రకాశించింది, యుద్ధభూమి అంతా వెలిగింది. అదే క్షణంలో, న్యాయం జరిగింది, ధర్మం నిలబడింది. అప్పుడు ఒక లోతైన నిశ్శబ్దం యుద్ధభూమి అంతటా అలుముకుంది.",
+      "image_prompt": "The giant stands before the warrior, a serene smile of acceptance gracing his face. As the warrior draws his bow, a brilliant flash of golden light illuminates the entire battlefield. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Dramatic, dust-filled battlefield under a stormy sky, suddenly pierced by an overwhelming, pure white-gold divine radiance emanating from Rama.",
+      "scene_visual": "The giant stands before the warrior, a serene smile of acceptance gracing his face. As the warrior draws his bow, a brilliant flash of golden light illuminates the entire battlefield.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana"
+      ],
+      "text_te_en": "Yuddhabhumilo Kumbhakarnudu Raamachandrudi Mundu Nilabaddaadu. Atani Mukham Mida Oka Prashaantamaina Chirunavvu, Angikaaram Merisindi. Raamudu Tana Kodandaanni Ekkupettaadu. Okkasaarigaa — Bangaaru Kaanti Merupulaa Prakaashinchindi, Yuddhabhumi Antaa Veligindi. Ade Kshananlo, Nyaayam Jarigindi, Dharmam Nilabadindi. Appudu Oka Lotaina Nishshabdam Yuddhabhumi Antataa Alumukundi.",
+      "text_en": "On the battlefield, Kumbhakarnudu stood before Ramachandrudu. A peaceful smile and a look of acceptance shone on his face. Ramudu drew his special bow, the Kodanda. All at once — a golden light flashed like lightning, lighting up the whole battlefield! In that very moment, what was right happened, and dharma stood strong. Then a deep silence fell over the entire battlefield."
+    },
+    {
+      "id": 6,
+      "text": "ఆ నిశ్శబ్దం తర్వాత, యుద్ధభూమి ప్రశాంతంగా మారింది. చల్లటి గాలి మెల్లగా వీచింది, గడ్డి పరకలు సన్నగా కదిలాయి. దూరంగా ఎక్కడో జాస్మిన్ పూల సువాసన గాలిలో తేలివచ్చింది — అది ఒక కొత్త ఆశకు సంకేతం. ఆ క్షణంలో, ధర్మం విజయం సాధించిందని ప్రకృతి కూడా చిరునవ్వులు చిందించింది. కుంభకర్ణుడి ఆత్మ శాంతంగా తన ప్రయాణాన్ని మొదలుపెట్టింది.",
+      "image_prompt": "A cool breeze gently sweeps across the battlefield, causing blades of grass to sway softly. The air is filled with the distant, delicate scent of jasmine flowers. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Gentle dusk light, warm amber and soft purple hues, settling over the quiet battlefield, evoking a sense of peaceful resolution.",
+      "scene_visual": "A cool breeze gently sweeps across the battlefield, causing blades of grass to sway softly. The air is filled with the distant, delicate scent of jasmine flowers.",
+      "supporting_char_keys": [
+        "Rama",
+        "Lakshmana"
+      ],
+      "text_te_en": "Aa Nishshabdam Tarvaata, Yuddhabhumi Prashaantangaa Maarindi. Challati Gaali Mellagaa Vichindi, Gaddi Parakalu Sannagaa Kadilaayi. Durangaa Ekkado Jaasmin Pula Suvaasana Gaalilo Telivachchindi — Adi Oka Kotta Aashaku Sanketan. Aa Kshananlo, Dharmam Vijayam Saadhinchindani Prakrriti Kudaa Chirunavvulu Chindinchindi. Kumbhakarnudi Aatma Shaantangaa Tana Prayaanaanni Modalupettindi.",
+      "text_en": "After that silence, the battlefield became very peaceful. A cool breeze gently blew, making the blades of grass sway softly. Far away, the sweet smell of jasmine flowers floated in the air — it was a sign of new hope. In that moment, even nature seemed to smile, knowing that dharma had won. Kumbhakarnudu's soul peacefully began its journey."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 7,
+    "average": 7.5,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story presents a compelling narrative arc with strong emotional depth, particularly in depicting Kumbhakarna's internal conflict and resignation. The grammar is flawless, making it a pleasant read. However, the story suffers significantly from a lack of direct dialogue, which makes it feel more like a report than an engaging oral narration for children. To reach an award-worthy level, the single most important fix is to infuse more character-specific, natural dialogue into every scene, bringing the characters to life and enhancing the oral authenticity."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamudi Dharman, Kumbhakarnudi Tyaagam",
+  "moral_te_en": "Kashtakaalanlonu Dharmaanni Paatinchadam Manasuku Goppa Shaantinistundi.",
+  "title_en": "Ramudu's Dharma, Kumbhakarnudu's Sacrifice",
+  "moral_en": "Even in tough times, sticking to what is right brings great peace to your heart.",
+  "id": "20260608_151206",
+  "date": "2026-06-08",
+  "category": "ramayana",
+  "subcategory": "dharma_tales",
+  "topic": "కుంభకర్ణుని ధర్మ సందేహం - వినాశకాలంలోనూ ధర్మాన్ని బోధించడం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_151206/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
