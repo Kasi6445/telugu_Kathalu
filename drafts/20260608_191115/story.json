@@ -1,0 +1,128 @@
+{
+  "title": "ధర్మం గెలిచిన దారి",
+  "moral": "సులభమైన దారి అందరూ ఎంచుకున్నా, సరైన దారిలో నిలబడితే మనసు నిండా శాంతి, దైవ రక్షణ లభిస్తాయి.",
+  "main_character": "Tarani Senudu: a young rakshasa with a dark complexion, but with gentle, intelligent eyes. He wears simple, dark garments that allow him to move freely, and a small, unadorned silver locket. He carries himself with quiet dignity and a thoughtful expression. Always the same character across every scene.",
+  "antagonist": "Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene.",
+  "setting": "The grand city of Lanka, with its towering golden palaces and lush tropical gardens, under a perpetually twilight sky, often illuminated by the glow of magical energies. The air is thick with the scent of exotic night-blooming flowers and distant ocean spray. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లంకలో, అద్భుతమైన పూల తోటలో, తరణిసేనుడు ప్రశాంతంగా కూర్చున్నాడు. అతని కళ్ళు మూసుకుని ఉన్నాయి, పెదవులపై చిరునవ్వు తేలియాడుతోంది. దివ్యమైన కాంతితో మెరిసే ఆకులు మెల్లగా కదులుతున్న శబ్దం అతనికి ధ్యానంలో తోడయ్యింది. అతని మనసంతా శ్రీరామునిపై లీనమైంది. \"రామ నామమే నా శరణం,\" అని అతని పెదవులు మెల్లగా పలికాయి. ఇంతలో, దూరంగా వినిపించిన ఒక పెద్ద శబ్దం — భూమిని కదిపినట్లు, అతని ప్రశాంతతను చెదరగొట్టింది. అతని భుజాలు ఒక్కసారిగా బిగుసుకుపోయాయి.",
+      "image_prompt": "The man's shoulders suddenly tense up, breaking his meditative posture. His eyes remain closed, but the earth-shaking sound has clearly disturbed his peaceful state. A soft, ethereal glow from bioluminescent plants and flowers, casting long, peaceful shadows in the hidden garden.",
+      "scene_visual": "The man's shoulders suddenly tense up, breaking his meditative posture. His eyes remain closed, but the earth-shaking sound has clearly disturbed his peaceful state.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lankalo, Adbhutamaina Pula Totalo, Taranisenudu Prashaantangaa Kurchunnaadu. Atani Kallu Musukuni Unnaayi, Pedavulapai Chirunavvu Teliyaadutondi. Divyamaina Kaantito Merise Aakulu Mellagaa Kadulutunna Shabdam Ataniki Dhyaananlo Todayyindi. Atani Manasantaa Shriraamunipai Linamaindi. \"Raama Naamame Naa Sharanan,\" Ani Atani Pedavulu Mellagaa Palikaayi. Intalo, Durangaa Vinipinchina Oka Pedda Shabdam — Bhumini Kadipinatlu, Atani Prashaantatanu Chedaragottindi. Atani Bhujaalu Okkasaarigaa Bigusukupoyaayi.",
+      "text_en": "In Lanka, in a wonderful flower garden, Tarani Senudu sat peacefully. His eyes were closed, and a gentle smile played on his lips. The sound of shimmering leaves, glowing with a beautiful light, gently moving, helped him in his meditation. His whole mind was absorbed in Sri Ramudu. \"The name of Rama is my refuge,\" his lips softly whispered. Just then, a loud sound from afar — as if shaking the earth — disturbed his peace. His shoulders suddenly tensed up."
+    },
+    {
+      "id": 2,
+      "text": "ఆ శబ్దం వినిపించగానే, తరణిసేనుడు కళ్ళు తెరిచి లంక నగరం వైపు చూశాడు. అక్కడ యుద్ధ సన్నాహాలు జరుగుతున్నాయి — రాక్షసుల కవచాలు గట్టిగా మోగే శబ్దం నగరాన్నంతా నింపేసింది. అతని నుదురు చిట్లింది, కళ్ళు దూరంగా ఎటో చూస్తున్నాయి. ఈ కోలాహలం మధ్య, తన కుటుంబం, తన ధర్మం మధ్య అతని మనసు చిక్కుకుపోయింది. \"ఈ యుద్ధం నా హృదయాన్ని చీల్చుతోంది,\" అని అతని పెదవులు మెల్లగా కదిలాయి. ఇంతలో, ఒక దూత గంభీర స్వరంతో ప్రకటన చేశాడు — రావణుడి సభకు వెంటనే రావాలని అందరికీ ఆదేశం. తరణిసేనుడు తల దించుకున్నాడు.",
+      "image_prompt": "The man opens his eyes and looks intently towards the distant city where battle preparations are underway. His brow is furrowed, reflecting his inner turmoil as he gazes at the commotion. Harsh, fiery torchlight illuminating the busy streets of Lanka, casting long, agitated shadows as rakshasa warriors prepare.",
+      "scene_visual": "The man opens his eyes and looks intently towards the distant city where battle preparations are underway. His brow is furrowed, reflecting his inner turmoil as he gazes at the commotion.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Shabdam Vinipinchagaane, Taranisenudu Kallu Terichi Lanka Nagaram Vaipu Chushaadu. Akkada Yuddha Sannaahaalu Jarugutunnaayi — Raakshasula Kavachaalu Gattigaa Moge Shabdam Nagaraannantaa Nimpesindi. Atani Nuduru Chitlindi, Kallu Durangaa Eto Chustunnaayi. I Kolaahalam Madhya, Tana Kutumban, Tana Dharmam Madhya Atani Manasu Chikkukupoyindi. \"I Yuddham Naa Hrridayaanni Chilchutondi,\" Ani Atani Pedavulu Mellagaa Kadilaayi. Intalo, Oka Duta Gambhira Svaranto Prakatana Cheshaadu — Raavanudi Sabhaku Ventane Raavaalani Andariki Aadeshan. Taranisenudu Tala Dinchukunnaadu.",
+      "text_en": "As soon as he heard that sound, Tarani Senudu opened his eyes and looked towards the city of Lanka. War preparations were happening there — the loud clanging of demon armor filled the entire city. His brow furrowed, his eyes looking far away. Amidst this commotion, his mind was caught between his family and his duty. \"This war is tearing my heart,\" his lips softly moved. Just then, a messenger announced in a serious voice — an order for everyone to come to Ravana's court immediately. Tarani Senudu bowed his head."
+    },
+    {
+      "id": 3,
+      "text": "ఆదేశం వినగానే, తరణిసేనుడు రావణుడి సభలోకి నడిచాడు. సభామందిరంలో నిశ్శబ్దం రాజ్యమేలుతోంది — రావణుడి వస్త్రాలు కదిలినప్పుడు తప్ప ఏ శబ్దమూ లేదు. సింహాసనంపై కూర్చున్న రావణుడు, తన పది తలలతో, ప్రతి ఒక్కరినీ సూటిగా చూశాడు. అతని చూపు తరణిసేనుడిపై స్థిరపడింది. \"నీ విధేయత ఎవరికి?\" అని రావణుడు గంభీరంగా ప్రశ్నించాడు. తరణిసేనుడి దవడ బిగుసుకుంది, అతని చేతులు పిడికిలిగా మారాయి. ఆ ఒక్క ప్రశ్నకు తన భవిష్యత్తు ఆధారపడి ఉందని అతనికి తెలుసు.",
+      "image_prompt": "The man stands before the king, his jaw clenched and hands forming fists. The king, seated on his throne with ten heads, stares directly at the man, creating an intimidating silence. Also in this scene: Ravana: a powerful king-demon (rakshasa) with dark complexion and ten heads, each wearing a crown. Richly dressed in deep red and gold royal garments with elaborate gold ornaments and armlets. Carries multiple weapons including a sword and spear across his many arms. Commanding, imperious expression — fearsome but regal. Always the same character across every scene. The grand throne room of Ravana, bathed in the deep, intimidating glow of red and gold from magical lamps, highlighting Ravana's formidable presence.",
+      "scene_visual": "The man stands before the king, his jaw clenched and hands forming fists. The king, seated on his throne with ten heads, stares directly at the man, creating an intimidating silence.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aadesham Vinagaane, Taranisenudu Raavanudi Sabhaloki Nadichaadu. Sabhaamandiranlo Nishshabdam Raajyamelutondi — Raavanudi Vastraalu Kadilinappudu Tappa E Shabdamu Ledu. Sinhaasanampai Kurchunna Raavanudu, Tana Padi Talalato, Prati Okkarini Sutigaa Chushaadu. Atani Chupu Taranisenudipai Sthirapadindi. \"Ni Vidheyata Evariki?\" Ani Raavanudu Gambhirangaa Prashninchaadu. Taranisenudi Davada Bigusukundi, Atani Chetulu Pidikiligaa Maaraayi. Aa Okka Prashnaku Tana Bhavishyattu Aadhaarapadi Undani Ataniki Telusu.",
+      "text_en": "As soon as he heard the order, Tarani Senudu walked into Ravana's court. Silence reigned in the assembly hall — there was no sound except when Ravana's clothes moved. Ravana, sitting on his throne with his ten heads, looked directly at everyone. His gaze fixed on Tarani Senudu. \"To whom is your loyalty?\" Ravana asked gravely. Tarani Senudu's jaw tightened, his hands clenched into fists. He knew that his future depended on that one question."
+    },
+    {
+      "id": 4,
+      "text": "ఆ రాత్రి, తరణిసేనుడు తన తండ్రి విభీషణుడిని కలుసుకోవడానికి వెళ్ళాడు. సముద్రపు అలలు మెల్లగా ఒడ్డుకు తాకే శబ్దం అక్కడ ప్రశాంతతను నింపింది. అతని కళ్ళలో ఎన్నో ప్రశ్నలు మెరిశాయి, గొంతులో స్వల్ప వణుకు. \"తండ్రీ, నా ధర్మం ఏది?\" అని అతను దీనంగా అడిగాడు. విభీషణుడు ప్రేమగా అతని భుజంపై చేయి వేశాడు. \"హృదయం దేనిని నిజమని నమ్ముతుందో, అదే నీ ధర్మం, కుమారా,\" అని విభీషణుడు శాంతంగా పలికాడు. ఆ మాటలు వినగానే, తరణిసేనుడి భుజాలు దిగిపోయాయి — అతని మనసులో ఏదో స్పష్టత కనిపించింది.",
+      "image_prompt": "The son asks his father a question, his voice trembling slightly, as they stand by the ocean. The father gently places a hand on the son's shoulder, offering a comforting gesture. SUPPORTING CHARACTER also in this scene: Vibhishana — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A peaceful, moonlit beach with soft silver light reflecting on calm waters, creating a tranquil and thoughtful atmosphere.",
+      "scene_visual": "The son asks his father a question, his voice trembling slightly, as they stand by the ocean. The father gently places a hand on the son's shoulder, offering a comforting gesture.",
+      "supporting_char_keys": [
+        "vibhishana"
+      ],
+      "text_te_en": "Aa Raatri, Taranisenudu Tana Tandri Vibhishanudini Kalusukovadaaniki Vellaadu. Samudrapu Alalu Mellagaa Odduku Taake Shabdam Akkada Prashaantatanu Nimpindi. Atani Kallalo Enno Prashnalu Merishaayi, Gontulo Svalpa Vanuku. \"Tandri, Naa Dharmam Edi?\" Ani Atanu Dinangaa Adigaadu. Vibhishanudu Premagaa Atani Bhujampai Cheyi Veshaadu. \"Hrridayam Denini Nijamani Nammutundo, Ade Ni Dharman, Kumaaraa,\" Ani Vibhishanudu Shaantangaa Palikaadu. Aa Maatalu Vinagaane, Taranisenudi Bhujaalu Digipoyaayi — Atani Manasulo Edo Spashtata Kanipinchindi.",
+      "text_en": "That night, Tarani Senudu went to meet his father, Vibhishana. The sound of sea waves gently touching the shore filled the place with peace. Many questions sparkled in his eyes, and there was a slight tremor in his voice. \"Father, what is my duty?\" he asked pleadingly. Vibhishana lovingly placed a hand on his shoulder. \"What your heart believes to be true, that is your duty, my son,\" Vibhishana said calmly. As soon as he heard those words, Tarani Senudu's shoulders relaxed — some clarity appeared in his mind."
+    },
+    {
+      "id": 5,
+      "text": "విభీషణుడి మాటలు తరణిసేనుడి మనసులో బలంగా నాటుకుపోయాయి. తన హృదయం ఎప్పుడూ శ్రీరామునికే అంకితమై ఉందని అతనికి అర్థమైంది. ఒక చల్లటి గాలి అతని జుట్టును నిమిరింది, అతనిలో కొత్త ధైర్యాన్ని నింపినట్లు. అతని భుజాలు వెనక్కి లాగాడు, తల పైకెత్తాడు — కళ్ళు నిశ్చయంగా మెరిశాయి. \"రామచంద్రుని మార్గమే నా మార్గం,\" అని అతను తన మనసులో దృఢంగా పలికాడు. ఇప్పుడు భయం లేదు. అతని గుండె తేలికపడింది, అడుగులు యుద్ధభూమి వైపు పడ్డాయి.",
+      "image_prompt": "The man pulls his shoulders back and lifts his head, his eyes shining with newfound determination. A cool breeze ruffles his hair, seeming to infuse him with fresh courage. The first pale light of dawn breaking over the eastern horizon, painting the sky in soft purples and oranges, symbolizing new beginnings and clarity.",
+      "scene_visual": "The man pulls his shoulders back and lifts his head, his eyes shining with newfound determination. A cool breeze ruffles his hair, seeming to infuse him with fresh courage.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vibhishanudi Maatalu Taranisenudi Manasulo Balangaa Naatukupoyaayi. Tana Hrridayam Eppudu Shriraamunike Ankitamai Undani Ataniki Arthamaindi. Oka Challati Gaali Atani Juttunu Nimirindi, Atanilo Kotta Dhairyaanni Nimpinatlu. Atani Bhujaalu Venakki Laagaadu, Tala Paikettaadu — Kallu Nishchayangaa Merishaayi. \"Raamachandruni Maargame Naa Maargan,\" Ani Atanu Tana Manasulo Drridhangaa Palikaadu. Ippudu Bhayam Ledu. Atani Gunde Telikapadindi, Adugulu Yuddhabhumi Vaipu Paddaayi.",
+      "text_en": "Vibhishana's words deeply rooted themselves in Tarani Senudu's mind. He understood that his heart had always been devoted to Sri Ramudu. A cool breeze caressed his hair, as if filling him with new courage. He pulled his shoulders back, lifted his head — his eyes shone with determination. \"The path of Ramachandra is my path,\" he firmly said in his mind. Now there was no fear. His heart felt light, and his steps led towards the battlefield."
+    },
+    {
+      "id": 6,
+      "text": "యుద్ధభూమిలో, తరణిసేనుడు శ్రీరాముని ముందు నిలబడ్డాడు. అతని కళ్ళలో ఆనంద బాష్పాలు నిండాయి, శరీరం పులకించిపోయింది. అతను మోకాళ్ళపై వంగి, తల వంచి నమస్కరించాడు. శ్రీరాముని గంభీరమైన, మధురమైన స్వరం వినిపించింది — అది మనసును శాంతపరిచే ఒక దివ్యనాదం. \"మీ సేవలో నా ప్రాణం ధన్యం,\" అని తరణిసేనుడు భక్తిగా పలికాడు. అప్పుడు — ఒక దివ్యమైన కాంతి అతన్ని చుట్టేసింది, అది ఆశీర్వాదమని అందరికీ అర్థమైంది. అతని మనసు నిండా అంతులేని ఆనందం నిండిపోయింది.",
+      "image_prompt": "The man kneels before the divine figure, bowing his head in reverence. Tears of joy fill his eyes, and his body shivers with emotion as a divine light envelops him. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Bright, radiant morning light filtering through the trees of Rama's camp, casting a golden glow on the divine assembly, highlighting Rama's serene presence.",
+      "scene_visual": "The man kneels before the divine figure, bowing his head in reverence. Tears of joy fill his eyes, and his body shivers with emotion as a divine light envelops him.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana",
+        "hanuman",
+        "vibhishana"
+      ],
+      "text_te_en": "Yuddhabhumilo, Taranisenudu Shriraamuni Mundu Nilabaddaadu. Atani Kallalo Aananda Baashpaalu Nindaayi, Shariram Pulakinchipoyindi. Atanu Mokaallapai Vangi, Tala Vanchi Namaskarinchaadu. Shriraamuni Gambhiramaina, Madhuramaina Svaram Vinipinchindi — Adi Manasunu Shaantapariche Oka Divyanaadan. \"Mi Sevalo Naa Praanam Dhanyan,\" Ani Taranisenudu Bhaktigaa Palikaadu. Appudu — Oka Divyamaina Kaanti Atanni Chuttesindi, Adi Aashirvaadamani Andariki Arthamaindi. Atani Manasu Nindaa Antuleni Aanandam Nindipoyindi.",
+      "text_en": "On the battlefield, Tarani Senudu stood before Sri Ramudu. His eyes filled with tears of joy, and his body tingled with emotion. He knelt down, bowed his head, and offered his respects. Sri Ramudu's deep, sweet voice was heard — it was a divine sound that calmed the mind. \"My life is blessed in your service,\" Tarani Senudu said devoutly. Then — a divine light surrounded him, and everyone understood it was a blessing. His mind was filled with endless joy."
+    },
+    {
+      "id": 7,
+      "text": "యుద్ధం ముగిసింది. లంకపై ఒక చల్లటి, స్వచ్ఛమైన గాలి వీచింది — విజయం, కొత్త ఆశల సువాసనను మోసుకొచ్చింది. తరణిసేనుడి హృదయం అద్భుతమైన శాంతితో నిండిపోయింది. అతను తన నిర్ణయం సరైనదని తెలుసుకున్నాడు, పెదవులపై సంతృప్తి చిరునవ్వు. చెడు నాశనమైంది, న్యాయం జరిగింది. \"ధర్మం ఎల్లప్పుడూ నిలుస్తుంది,\" అని అతను మనసులో అనుకున్నాడు. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది. అద్భుతమైన భక్తితో అతని జీవితం సార్థకమైంది.",
+      "image_prompt": "The man stands with a satisfied smile on his lips, feeling a profound peace. A cool, fresh breeze carries the scent of victory across the land, reflecting the new hope. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. A golden, warm sunset casting long, peaceful shadows over a land now free from conflict, imbued with a sense of divine grace.",
+      "scene_visual": "The man stands with a satisfied smile on his lips, feeling a profound peace. A cool, fresh breeze carries the scent of victory across the land, reflecting the new hope.",
+      "supporting_char_keys": [
+        "rama",
+        "lakshmana",
+        "hanuman",
+        "vibhishana"
+      ],
+      "text_te_en": "Yuddham Mugisindi. Lankapai Oka Challati, Svachchamaina Gaali Vichindi — Vijayan, Kotta Aashala Suvaasananu Mosukochchindi. Taranisenudi Hrridayam Adbhutamaina Shaantito Nindipoyindi. Atanu Tana Nirnayam Sarainadani Telusukunnaadu, Pedavulapai Santrripti Chirunavvu. Chedu Naashanamaindi, Nyaayam Jarigindi. \"Dharmam Ellappudu Nilustundi,\" Ani Atanu Manasulo Anukunnaadu. Devuni Shakti Mundu Chedu Nilavalekapoyindi. Adbhutamaina Bhaktito Atani Jivitam Saarthakamaindi.",
+      "text_en": "The war ended. A cool, fresh breeze blew over Lanka — carrying the scent of victory and new hopes. Tarani Senudu's heart was filled with wonderful peace. He knew his decision was right, a smile of contentment on his lips. Evil was destroyed, and justice was done. \"Righteousness always prevails,\" he thought in his mind. Evil could not stand before God's power. His life became meaningful with wonderful devotion."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "rama",
+      "description": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene."
+    },
+    {
+      "key": "lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "hanuman",
+      "description": "Hanuman: a powerful vanara (divine monkey) with reddish-gold fur and an intelligent, noble face. Wearing an orange-red dhoti with a golden belt; broad chest, strong arms, a long tail curved upward behind him. Often depicted carrying a gada (mace) or with hands folded in anjali mudra (namaste). Devoted, fearless expression — NOT a comical monkey; a divine warrior and devotee. Always the same character across every scene."
+    },
+    {
+      "key": "vibhishana",
+      "description": "Vibhishana: a rakshasa with a noble, dark complexion, similar to his brother Ravana, but with a calm and virtuous demeanor. He wears royal garments in deep blue and silver, reflecting his wisdom, and a single, elegant gold necklace. His eyes are filled with compassion and inner strength. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 4,
+    "average": 7.0,
+    "weakest_dimension": "child_engagement",
+    "notes": "The story presents a solid narrative arc with a clear moral and demonstrates excellent grammar and effective portrayal of emotions through action. However, its formal, descriptive language and reliance on internal monologues detract from the warmth expected of a bedtime story. To achieve a 9+, the story needs to significantly enhance child engagement by simplifying vocabulary, incorporating more dynamic and character-specific dialogue, and adding direct address or suspenseful hooks to captivate a young audience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Dharmam Gelichina Daari",
+  "moral_te_en": "Sulabhamaina Daari Andaru Enchukunnaa, Saraina Daarilo Nilabadite Manasu Nindaa Shaanti, Daiva Rakshana Labhistaayi.",
+  "title_en": "The Path Where Righteousness Won",
+  "moral_en": "Even if everyone chooses the easy path, if you stand firm on the right path, your heart will be filled with peace, and you will receive divine protection.",
+  "id": "20260608_191115",
+  "date": "2026-06-08",
+  "category": "ramayana",
+  "subcategory": "devotion_tales",
+  "topic": "లంకలో రాముని భక్తుడు (తరణిసేనుడు) - కష్టకాలంలోనూ ధర్మం వైపు నిలబడటం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260608_191115/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
