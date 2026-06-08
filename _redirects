@@ -4,3 +4,7 @@
 
 # Catch-all: bare story.html (no id) → home
 /story.html  /  301
+
+# Dead orphan stubs Google crawled — 302 (temporary) so no signals transfer
+/story/pagilina-kumda-puula-baata-2/   /   302
+/story/pagullunna-kumda-puula-baata/   /   302
