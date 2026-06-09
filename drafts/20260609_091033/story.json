@@ -1,0 +1,98 @@
+{
+  "title": "హరి నామంతో శాంతి",
+  "moral": "భక్తితో కూడిన పాట, ప్రేమతో నిండిన మనసు — ఇవి ఏ గ్రామానికైనా ఆనందాన్ని, శాంతిని తేగలవు కదా!",
+  "main_character": "A young man in his early twenties, with a gentle face and kind eyes. He wears simple white cotton clothes and always carries a small tanpura (string instrument). He is deeply devoted and finds joy in singing devotional songs. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, traditional Telugu village nestled beside a calm river, surrounded by green paddy fields. Mud-walled houses with thatched roofs line narrow, dusty paths where children play. The village temple bell rings softly in the distance. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకానొక అందమైన పల్లెటూరిలో, రవి అనే యువకుడు ఉండేవాడు. అతని ముఖం ఎప్పుడూ ప్రశాంతంగా, కళ్ళు దయతో నిండి ఉండేవి; తెల్లటి దూది బట్టలు ధరించి, చిన్న తంబూరా పట్టుకుని, నదీ తీరాన కూర్చున్నాడు. అతని వేళ్ళు తంబూరా తీగలపై మెల్లగా కదిలాయి — నది నిశ్శబ్దంగా పాడే గీతానికి తోడుగా మధురమైన పాట వినిపించింది. రవి కళ్ళు మూసుకుని, పెదవులపై చిరునవ్వుతో, \"హరి నామ స్మరణే నా జీవితం,\" అని పాడుతున్నాడు. ఇంతలో, పొలం పనుల నుండి తిరిగి వస్తున్న కొందరు గ్రామస్తులు ఆ దారిలో వెళ్ళారు, కానీ వారి మొహాలు చింతతో నిండి ఉన్నాయి — రవి పాటను వారు గమనించనేలేదు.",
+      "image_prompt": "The young man sits by the riverbank, eyes closed, gently plucking the strings of a small tambura while singing. His lips curve into a gentle smile, contrasting with the worried expressions of the passing villagers. Soft morning light, a golden glow reflecting off the river, peaceful and serene.",
+      "scene_visual": "The young man sits by the riverbank, eyes closed, gently plucking the strings of a small tambura while singing. His lips curve into a gentle smile, contrasting with the worried expressions of the passing villagers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okaanoka Andamaina Palleturilo, Ravi Ane Yuvakudu Undevaadu. Atani Mukham Eppudu Prashaantangaa, Kallu Dayato Nindi Undevi; Tellati Dudi Battalu Dharinchi, Chinna Tamburaa Pattukuni, Nadi Tiraana Kurchunnaadu. Atani Vellu Tamburaa Tigalapai Mellagaa Kadilaayi — Nadi Nishshabdangaa Paade Gitaaniki Todugaa Madhuramaina Paata Vinipinchindi. Ravi Kallu Musukuni, Pedavulapai Chirunavvuto, \"Hari Naama Smarane Naa Jivitan,\" Ani Paadutunnaadu. Intalo, Polam Panula Nundi Tirigi Vastunna Kondaru Graamastulu Aa Daarilo Vellaaru, Kaani Vaari Mohaalu Chintato Nindi Unnaayi — Ravi Paatanu Vaaru Gamaninchaneledu.",
+      "text_en": "In a beautiful village, there lived a young man named Ravi. His face was always calm, and his eyes were full of kindness. Dressed in white cotton clothes, holding a small tambura, he sat by the riverbank. His fingers gently moved over the tambura strings, and a sweet song was heard, like the river's silent melody. Ravi closed his eyes, with a gentle smile on his lips, singing, \"Chanting Hari's name is my life.\" Meanwhile, some villagers returning from farm work passed by that path, but their faces were filled with worry — they didn't even notice Ravi's song."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మరుసటి రోజు, రవి పచ్చని పొలాల మీదుగా గ్రామంలోకి అడుగు పెట్టాడు. ఇంతలో, బావి దగ్గర ఇద్దరు స్త్రీలు పెద్దగా కేకలు వేసుకుంటున్నారు — వారి స్వరం చాలా కఠినంగా, అరుపులతో నిండి ఉంది. \"నీరు నీది మాత్రమే కాదు! అందరిదీ!\" అని ఒకరు అరవగా, మరొకరు చేయి ఊపుతూ వాదించింది. రవి వారి వైపు చూశాడు — అతని నుదురు ముడుచుకుపోయింది, అతని గుండెలో బాధ కలిగింది. తన గ్రామంలో ఎప్పుడూ ఇలాంటి గొడవలు ఉండకూడదని ఆ క్షణంలోనే అతను నిర్ణయించుకున్నాడు.",
+      "image_prompt": "Two women stand by a well, shouting loudly at each other, one waving her hand emphatically. The young man watches them, his brow furrowed in distress. Bright midday sun, casting sharp shadows, highlighting the tension in the villagers' faces.",
+      "scene_visual": "Two women stand by a well, shouting loudly at each other, one waving her hand emphatically. The young man watches them, his brow furrowed in distress.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Marusati Roju, Ravi Pachchani Polaala Midugaa Graamanloki Adugu Pettaadu. Intalo, Baavi Daggara Iddaru Strilu Peddagaa Kekalu Vesukuntunnaaru — Vaari Svaram Chaalaa Kathinangaa, Arupulato Nindi Undi. \"Niru Nidi Maatrame Kaadu! Andaridi!\" Ani Okaru Aravagaa, Marokaru Cheyi Uputu Vaadinchindi. Ravi Vaari Vaipu Chushaadu — Atani Nuduru Muduchukupoyindi, Atani Gundelo Baadha Kaligindi. Tana Graamanlo Eppudu Ilaanti Godavalu Undakudadani Aa Kshananlone Atanu Nirnayinchukunnaadu.",
+      "text_en": "The next day, Ravi entered the village, walking through green fields. Meanwhile, near the well, two women were shouting loudly at each other — their voices were very harsh and full of yells. \"The water isn't just yours! It belongs to everyone!\" one shouted, while the other argued, waving her hand. Ravi looked at them — his brow furrowed, and his heart felt pain. At that moment, he decided that such quarrels should never happen in his village."
+    },
+    {
+      "id": 3,
+      "text": "రవి ధైర్యం చేసి, గ్రామం నడిబొడ్డున కీర్తనలు పాడటం మొదలుపెట్టాడు. అతని పాట విని కొందరు చిన్నారులు మాత్రమే చుట్టూ చేరారు; వారి గొంతులు చిన్నవి, కానీ రవి పాటను అనుకరించడానికి ప్రయత్నించాయి. \"పిల్లలూ, దైవం పేరు పలకండి, మీ మనసులు ఆనందంగా ఉంటాయి!\" అని రవి ప్రేమగా చెప్పాడు. కానీ పెద్దలు మాత్రం వారి పనులలో మునిగిపోయి, అతని వైపు కన్నెత్తి కూడా చూడలేదు. ఇంతలో, ఇద్దరు మగవాళ్ళు ఒకరినొకరు కోపంగా చూసుకుంటూ, రవి పాటను ఏ మాత్రం పట్టించుకోకుండా అక్కడి నుండి వెళ్ళిపోయారు.",
+      "image_prompt": "The young man sings in the village center, surrounded by a few children who try to imitate his song. Two men walk past, glaring at each other, completely ignoring the singing young man and the children. Warm afternoon light, starting to turn golden, but still somewhat harsh on the busy square.",
+      "scene_visual": "The young man sings in the village center, surrounded by a few children who try to imitate his song. Two men walk past, glaring at each other, completely ignoring the singing young man and the children.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ravi Dhairyam Chesi, Graamam Nadibodduna Kirtanalu Paadatam Modalupettaadu. Atani Paata Vini Kondaru Chinnaarulu Maatrame Chuttu Cheraaru; Vaari Gontulu Chinnavi, Kaani Ravi Paatanu Anukarinchadaaniki Prayatninchaayi. \"Pillalu, Daivam Peru Palakandi, Mi Manasulu Aanandangaa Untaayi!\" Ani Ravi Premagaa Cheppaadu. Kaani Peddalu Maatram Vaari Panulalo Munigipoyi, Atani Vaipu Kannetti Kudaa Chudaledu. Intalo, Iddaru Magavaallu Okarinokaru Kopangaa Chusukuntu, Ravi Paatanu E Maatram Pattinchukokundaa Akkadi Nundi Vellipoyaaru.",
+      "text_en": "Ravi gathered courage and started singing devotional songs in the middle of the village. Only a few small children gathered around to hear his song; their voices were small, but they tried to imitate Ravi's song. \"Children, chant God's name, and your hearts will be happy!\" Ravi said lovingly. But the adults were busy with their work and didn't even glance at him. Meanwhile, two men, looking angrily at each other, walked away from there without paying any attention to Ravi's song."
+    },
+    {
+      "id": 4,
+      "text": "ఆ రాత్రి, రవి తన చిన్న గుడిసెలో ఒంటరిగా కూర్చుని, తన తంబూరాతో భగవంతుడిని ప్రార్థించాడు. బయట తాటి ఆకులు గాలికి మెల్లగా కదిలాయి; ఆ నిశ్శబ్ద రాత్రిలో రవి మనసు లోతైన ఆలోచనలలో మునిగిపోయింది. అతను కళ్ళు మూసుకుని, భగవంతుడిని ధ్యానించాడు — అతని ముఖంపై ఒక దివ్యమైన వెలుగు నిండింది. \"స్వామీ, నా సంకీర్తనతో ఈ గ్రామానికి శాంతిని ప్రసాదించు,\" అని మనసులో వేడుకున్నాడు. మరుసటి ఉదయం, రవిలో ఒక కొత్త శక్తి కనిపించింది — అతని ముఖం ప్రకాశవంతంగా మెరిసింది.",
+      "image_prompt": "The young man sits alone in his small hut, eyes closed in prayer, holding his tambura. A divine light illuminates his face as palm leaves gently rustle outside in the silent night. Deep blue twilight, with a single oil lamp casting a warm, flickering glow inside Ravi's hut, creating long shadows.",
+      "scene_visual": "The young man sits alone in his small hut, eyes closed in prayer, holding his tambura. A divine light illuminates his face as palm leaves gently rustle outside in the silent night.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raatri, Ravi Tana Chinna Gudiselo Ontarigaa Kurchuni, Tana Tamburaato Bhagavantudini Praarthinchaadu. Bayata Taati Aakulu Gaaliki Mellagaa Kadilaayi; Aa Nishshabda Raatrilo Ravi Manasu Lotaina Aalochanalalo Munigipoyindi. Atanu Kallu Musukuni, Bhagavantudini Dhyaaninchaadu — Atani Mukhampai Oka Divyamaina Velugu Nindindi. \"Svaami, Naa Sankirtanato I Graamaaniki Shaantini Prasaadinchu,\" Ani Manasulo Vedukunnaadu. Marusati Udayan, Ravilo Oka Kotta Shakti Kanipinchindi — Atani Mukham Prakaashavantangaa Merisindi.",
+      "text_en": "That night, Ravi sat alone in his small hut and prayed to God with his tambura. Outside, palm leaves gently swayed in the wind; in that silent night, Ravi's mind was deep in thought. He closed his eyes and meditated on God — a divine light filled his face. \"Lord, please grant peace to this village through my devotional singing,\" he prayed in his heart. The next morning, a new energy was seen in Ravi — his face shone brightly."
+    },
+    {
+      "id": 5,
+      "text": "కొత్త ఉత్సాహంతో రవి తన తంబూరాను పట్టుకుని, మళ్ళీ వీధుల్లో పాటలు పాడటం మొదలుపెట్టాడు. ఈసారి అతని గొంతులో మరింత భక్తి, శక్తి ఉన్నాయి; ఆ పాట గ్రామంలోని మట్టి గోడలకు తగిలి, ప్రతిధ్వనిస్తూ ప్రజలను బయటకు లాగింది. \"అన్ని బేధాలు మర్చిపోదాం, హరి నామంతో ఏకమవుదాం!\" అని రవి బిగ్గరగా పాడాడు. అతని పాట విని, ఒక వృద్ధురాలు, ఆ గ్రామానికి పెద్ద, తన ఇంటి నుండి బయటకు వచ్చింది — ఆమె కళ్ళలో ఒక అద్భుతమైన అవగాహన మెరిసింది.",
+      "image_prompt": "The young man walks through the streets, singing loudly with his tambura, his voice resonating against the mud walls. An old woman, the village elder, emerges from her house, a look of profound understanding shining in her eyes. Early morning sun, soft and gentle, beginning to illuminate the dusty path, creating a sense of new beginnings.",
+      "scene_visual": "The young man walks through the streets, singing loudly with his tambura, his voice resonating against the mud walls. An old woman, the village elder, emerges from her house, a look of profound understanding shining in her eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kotta Utsaahanto Ravi Tana Tamburaanu Pattukuni, Malli Vidhullo Paatalu Paadatam Modalupettaadu. Isaari Atani Gontulo Marinta Bhakti, Shakti Unnaayi; Aa Paata Graamanloni Matti Godalaku Tagili, Pratidhvanistu Prajalanu Bayataku Laagindi. \"Anni Bedhaalu Marchipodaan, Hari Naamanto Ekamavudaan!\" Ani Ravi Biggaragaa Paadaadu. Atani Paata Vini, Oka Vrriddhuraalu, Aa Graamaaniki Pedda, Tana Inti Nundi Bayataku Vachchindi — Aame Kallalo Oka Adbhutamaina Avagaahana Merisindi.",
+      "text_en": "With new enthusiasm, Ravi took his tambura and started singing songs in the streets again. This time, his voice had more devotion and power; the song hit the mud walls of the village, echoing and drawing people out. \"Let's forget all differences, let's unite with Hari's name!\" Ravi sang loudly. Hearing his song, an old woman, the village elder, came out of her house — a wonderful understanding shone in her eyes."
+    },
+    {
+      "id": 6,
+      "text": "ఆ వృద్ధురాలు రవితో కలిసి పాట పాడటం మొదలుపెట్టగానే, ఒక్కొక్కరుగా గ్రామస్తులు బయటకు వచ్చారు. వారు తమ పాత గొడవలను మర్చిపోయి, రవి పాటలో గొంతు కలిపారు; పిల్లలు, పెద్దలు అందరి గొంతులు కలిసి ఒకే మధురమైన రాగంగా మారాయి. \"హరి హరి! ఆనందం మనందరిలో నిండిపోయింది!\" అని రవి ఆనందంతో కేక వేశాడు. ఆ క్షణంలో, గ్రామంలోని వాతావరణం తేలికైంది — అందరి మొహాలపై చిరునవ్వులు వికసించాయి.",
+      "image_prompt": "Villagers, including children and adults, gather and sing together, their voices blending into a sweet melody. Smiles blossom on everyone's faces as they forget their old quarrels and join in the joyful song. Bright, clear morning light, golden and warm, illuminating the smiling faces of the villagers, full of hope.",
+      "scene_visual": "Villagers, including children and adults, gather and sing together, their voices blending into a sweet melody. Smiles blossom on everyone's faces as they forget their old quarrels and join in the joyful song.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vrriddhuraalu Ravito Kalisi Paata Paadatam Modalupettagaane, Okkokkarugaa Graamastulu Bayataku Vachchaaru. Vaaru Tama Paata Godavalanu Marchipoyi, Ravi Paatalo Gontu Kalipaaru; Pillalu, Peddalu Andari Gontulu Kalisi Oke Madhuramaina Raagangaa Maaraayi. \"Hari Hari! Aanandam Manandarilo Nindipoyindi!\" Ani Ravi Aanandanto Keka Veshaadu. Aa Kshananlo, Graamanloni Vaataavaranam Telikaindi — Andari Mohaalapai Chirunavvulu Vikasinchaayi.",
+      "text_en": "As soon as the old woman started singing along with Ravi, villagers came out one by one. They forgot their old quarrels and joined their voices in Ravi's song. Children and adults, everyone's voices combined into one sweet melody. \"Hari Hari! Joy has filled all of us!\" Ravi shouted with happiness. At that moment, the atmosphere in the village lightened — smiles bloomed on everyone's faces."
+    },
+    {
+      "id": 7,
+      "text": "రవి భక్తితో, ప్రేమతో పాడిన పాటలతో ఆ గ్రామం పూర్తిగా మారిపోయింది. పిల్లలు ఇప్పుడు ఒకరినొకరు ఆటపట్టించుకోకుండా, ఆనందంగా కలిసి ఆడుకుంటున్నారు; పెద్దలు కూడా ఒకరికొకరు సహాయం చేసుకుంటూ, పనులను పంచుకుంటున్నారు. ఆలయం నుండి వచ్చే మల్లెపూల సువాసన — గాలిలో మిళితమై గ్రామమంతా నిండిపోయింది. రవి ప్రశాంతంగా కూర్చుని, తన చుట్టూ ఉన్న ఆనందాన్ని చూశాడు. \"ఈ శాంతి, ఈ సంతోషం ఎప్పటికీ నిలిచి ఉండాలి,\" అని అతను మనసులో ప్రార్థించాడు.",
+      "image_prompt": "The young man sits peacefully, observing children playing happily together and adults helping each other. The sweet scent of jasmine flowers from the temple fills the air throughout the village. Gentle dusk light, warm amber, casting long, soft shadows, creating a peaceful and harmonious atmosphere.",
+      "scene_visual": "The young man sits peacefully, observing children playing happily together and adults helping each other. The sweet scent of jasmine flowers from the temple fills the air throughout the village.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ravi Bhaktito, Premato Paadina Paatalato Aa Graamam Purtigaa Maaripoyindi. Pillalu Ippudu Okarinokaru Aatapattinchukokundaa, Aanandangaa Kalisi Aadukuntunnaaru; Peddalu Kudaa Okarikokaru Sahaayam Chesukuntu, Panulanu Panchukuntunnaaru. Aalayam Nundi Vachche Mallepula Suvaasana — Gaalilo Militamai Graamamantaa Nindipoyindi. Ravi Prashaantangaa Kurchuni, Tana Chuttu Unna Aanandaanni Chushaadu. \"I Shaanti, I Santosham Eppatiki Nilichi Undaali,\" Ani Atanu Manasulo Praarthinchaadu.",
+      "text_en": "With Ravi's songs, sung with devotion and love, the village completely changed. Children now played happily together, without teasing each other. Adults also helped each other and shared their work. The fragrance of jasmine flowers coming from the temple — mixed with the air and filled the entire village. Ravi sat peacefully and watched the happiness around him. \"May this peace and this joy last forever,\" he prayed in his heart."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 6.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 6,
+    "average": 6.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story presents a beautiful, positive message with impeccable grammar and a well-structured narrative arc. However, its primary weakness lies in its formal, descriptive prose which lacks the warmth and conversational flow essential for a children's bedtime story. The sparse, generic dialogue and tendency to state emotions rather than show them prevent characters from truly coming alive. To reach an award-worthy level, the author must inject more natural, character-specific dialogue and embody emotions through action, making the narrative feel less like a report and more like a vibrant, spoken tale."
+  },
+  "quality_warning": true,
+  "title_te_en": "Hari Naamanto Shaanti",
+  "moral_te_en": "Bhaktito Kudina Paata, Premato Nindina Manasu — Ivi E Graamaanikainaa Aanandaanni, Shaantini Tegalavu Kadaa!",
+  "title_en": "Peace with Hari's Name",
+  "moral_en": "A song full of devotion and a heart full of love can bring joy and peace to any village!",
+  "id": "20260609_091033",
+  "date": "2026-06-09",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "ఒక భక్తుని సంకీర్తన ప్రభావం - గ్రామ వాతావరణంలో శాంతి, ఆనందం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260609_091033/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
