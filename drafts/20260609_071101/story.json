@@ -1,0 +1,113 @@
+{
+  "title": "అక్షరం నేర్పిన రాయి",
+  "moral": "పదే పదే చేసే ప్రయత్నం, ఎంత కష్టమైనా సరే, మనసులో చెరగని ముద్ర వేస్తుంది.",
+  "main_character": "A young boy, around 10-12 years old, named Venu. He is small for his age, with wide, curious eyes and perpetually dusty clothes from exploring. He is observant and intelligent but lacks formal schooling and feels a deep sense of aimlessness. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, ancient village nestled by the foothills of the Nallamala forest in Andhra Pradesh, specifically near Srisailam. The village is characterized by its old stone houses, a meandering dirt path, and a clear stream flowing over smooth, grey rocks. The story primarily unfolds during the late afternoon and early evening. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవుల పక్కన ఉన్న చిన్న పల్లెటూరులో, వేణు అనే పిల్లాడు బడిలో పిల్లలు చదువుతుంటే, గుడి మెట్ల చాటున నిలబడి చూసేవాడు. అతని భుజాలు కాస్త వాలిపోయాయి, కళ్ళు మాత్రం బడి వైపే కదలకుండా చూస్తున్నాయి. దూరంగా, పిల్లల అక్షరాల చదువు ఒక మంద్రమైన సంగీతంలా గాలిలో తేలి వస్తోంది. అతను ఒక్కసారిగా నిట్టూర్చాడు — చదువుకోవాలనే కోరిక అతని గుండెల్లో రాయిలా పడింది. \"అక్కడ నేర్చుకునేది ఎంత బాగుంటుందో!\" అని గొణుక్కున్నాడు. ఇంతలో, ఒక వృద్ధ గురువు చేతిలో సుద్దముక్కతో నది వైపు వెళ్ళడం వేణు కంట పడింది.",
+      "image_prompt": "The boy stands behind the temple steps, watching children study in the school. His shoulders are slightly slumped, but his eyes are fixed intently on the school building. Late afternoon sun, warm and golden, filtering through the banyan leaves, casting long, gentle shadows.",
+      "scene_visual": "The boy stands behind the temple steps, watching children study in the school. His shoulders are slightly slumped, but his eyes are fixed intently on the school building.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Adavula Pakkana Unna Chinna Palleturulo, Venu Ane Pillaadu Badilo Pillalu Chaduvutunte, Gudi Metla Chaatuna Nilabadi Chusevaadu. Atani Bhujaalu Kaasta Vaalipoyaayi, Kallu Maatram Badi Vaipe Kadalakundaa Chustunnaayi. Durangaa, Pillala Aksharaala Chaduvu Oka Mandramaina Sangitanlaa Gaalilo Teli Vastondi. Atanu Okkasaarigaa Nitturchaadu — Chaduvukovaalane Korika Atani Gundello Raayilaa Padindi. \"Akkada Nerchukunedi Enta Baaguntundo!\" Ani Gonukkunnaadu. Intalo, Oka Vrriddha Guruvu Chetilo Suddamukkato Nadi Vaipu Velladam Venu Kanta Padindi.",
+      "text_en": "In a small village next to the Nallamala forests, a boy named Venu would stand behind the temple steps and watch the children studying in school. His shoulders were a little slumped, but his eyes were fixed on the school. From afar, the children's study of letters floated through the air like a soft melody. He sighed suddenly — the desire to study settled like a stone in his heart. \"How wonderful it must be to learn there!\" he mumbled. Just then, Venu saw an old Guru (teacher) walking towards the river with a piece of chalk in his hand."
+    },
+    {
+      "id": 2,
+      "text": "గురువు నది వైపు వెళ్ళగానే, వేణు మెల్లగా అతని వెనకే అడుగులు వేశాడు, అతని చూపులు గురువు కదలికలనే అనుసరిస్తున్నాయి. గురువు ఒక పెద్ద, నునుపైన రాయి దగ్గర ఆగి, సుద్దముక్కతో తెలుగు అక్షరాలను రాయడం మొదలుపెట్టాడు — పదే పదే అదే అక్షరం. వేణు తల పక్కకు వాల్చాడు, అతని నుదుట ముడుతలు పడ్డాయి, గురువు ఏం చేస్తున్నాడో అతనికి అర్థం కాలేదు. \"ఓం నమః శివాయ... అక్షర అభ్యాసం శ్రేయస్కరం,\" అంటూ గురువు మెల్లగా పలికాడు. సుద్ద రాతిపై రాసినప్పుడు వచ్చిన గీతల చప్పుడు — మృదువైన సంగీతంలా వినిపించింది. గురువు వేణు వైపు చూసి నవ్వాడు, అతని కళ్ళల్లో ఒక మౌనమైన ఆహ్వానం ఉంది.",
+      "image_prompt": "The old man repeatedly writes Telugu letters on a large, smooth rock by the river using a piece of chalk. The boy tilts his head, his forehead wrinkled in confusion as he watches the old man's actions. Bright, clear afternoon sun reflecting off the water, making the wet rocks gleam, a peaceful and open atmosphere.",
+      "scene_visual": "The old man repeatedly writes Telugu letters on a large, smooth rock by the river using a piece of chalk. The boy tilts his head, his forehead wrinkled in confusion as he watches the old man's actions.",
+      "supporting_char_keys": [
+        "guru"
+      ],
+      "text_te_en": "Guruvu Nadi Vaipu Vellagaane, Venu Mellagaa Atani Venake Adugulu Veshaadu, Atani Chupulu Guruvu Kadalikalane Anusaristunnaayi. Guruvu Oka Pedda, Nunupaina Raayi Daggara Aagi, Suddamukkato Telugu Aksharaalanu Raayadam Modalupettaadu — Pade Pade Ade Aksharan. Venu Tala Pakkaku Vaalchaadu, Atani Nuduta Mudutalu Paddaayi, Guruvu Em Chestunnaado Ataniki Artham Kaaledu. \"Om Namah Shivaaya... Akshara Abhyaasam Shreyaskaran,\" Antu Guruvu Mellagaa Palikaadu. Sudda Raatipai Raasinappudu Vachchina Gitala Chappudu — Mrriduvaina Sangitanlaa Vinipinchindi. Guruvu Venu Vaipu Chusi Navvaadu, Atani Kallallo Oka Maunamaina Aahvaanam Undi.",
+      "text_en": "As soon as the Guru went towards the river, Venu slowly followed him, his eyes tracking the Guru's movements. The Guru stopped near a large, smooth stone and began to write Telugu letters with the chalk — the same letter again and again. Venu tilted his head, wrinkles appearing on his forehead; he didn't understand what the Guru was doing. \"Om Namah Shivaya... practicing letters is auspicious,\" the Guru softly chanted. The sound of the chalk writing on the stone — sounded like soft music. The Guru looked at Venu and smiled, there was a silent invitation in his eyes."
+    },
+    {
+      "id": 3,
+      "text": "రోజులు గడుస్తున్న కొద్దీ, వేణు గురువు రాతిపై అక్షరాలు రాయడం చూస్తూనే ఉన్నాడు, కానీ రాసిన వెంటనే ప్రవాహంలో అవి కొట్టుకుపోతున్నాయి. వేణు నిట్టూర్చాడు, అతని కాళ్ళు ఒక చిన్న గులకరాయిని నీటిలోకి తన్నాయి, గురువు చేసిన పని నిరుపయోగమనిపించింది. \"అయ్యా, అలా రాసినవి ప్రవాహంలో కొట్టుకుపోతాయి కదా?\" అని వేణు ధైర్యం చేసి అడిగాడు. నది నీళ్ళు అతని కాళ్ళకు తగులుతూ, చల్లగా జారిపోతున్నాయి. గురువు ఒక్కక్షణం ఆగి, వేణు వైపు ఒక మెరుస్తున్న చూపు విసిరాడు — అతని మాటలకు సమాధానం చెప్పలేదు. బదులుగా, అతను వేరే, అంతగా అరగని రాయి వైపు వేలు చూపించాడు.",
+      "image_prompt": "The boy kicks a small pebble into the water, his frustration evident as he watches the letters wash away. The old man pauses, then casts a shining gaze at the boy before silently pointing towards a different, less eroded rock. Overcast sky, a soft, diffused light, making the stream appear grey and the rocks dull, mirroring Venu's growing despondency.",
+      "scene_visual": "The boy kicks a small pebble into the water, his frustration evident as he watches the letters wash away. The old man pauses, then casts a shining gaze at the boy before silently pointing towards a different, less eroded rock.",
+      "supporting_char_keys": [
+        "guru"
+      ],
+      "text_te_en": "Rojulu Gadustunna Koddi, Venu Guruvu Raatipai Aksharaalu Raayadam Chustune Unnaadu, Kaani Raasina Ventane Pravaahanlo Avi Kottukupotunnaayi. Venu Nitturchaadu, Atani Kaallu Oka Chinna Gulakaraayini Nitiloki Tannaayi, Guruvu Chesina Pani Nirupayogamanipinchindi. \"Ayyaa, Alaa Raasinavi Pravaahanlo Kottukupotaayi Kadaa?\" Ani Venu Dhairyam Chesi Adigaadu. Nadi Nillu Atani Kaallaku Tagulutu, Challagaa Jaaripotunnaayi. Guruvu Okkakshanam Aagi, Venu Vaipu Oka Merustunna Chupu Visiraadu — Atani Maatalaku Samaadhaanam Cheppaledu. Badulugaa, Atanu Vere, Antagaa Aragani Raayi Vaipu Velu Chupinchaadu.",
+      "text_en": "As days passed, Venu kept watching the Guru write letters on the stone, but as soon as they were written, they were washed away by the current. Venu sighed, his feet kicking a small pebble into the water; the Guru's work seemed useless. \"Sir, won't what you write just be washed away by the current?\" Venu asked, gathering courage. The river water touched his feet, flowing coolly. The Guru paused for a moment and cast a sparkling glance at Venu — he didn't answer his words. Instead, he pointed his finger towards another, less worn-out stone."
+    },
+    {
+      "id": 4,
+      "text": "గురువు చూపించిన రాయి వైపు చూసిన వేణు, అతని మాటల్లోని లోతును అర్థం చేసుకోవడానికి ప్రయత్నిస్తున్నాడు. గురువు అతని వైపు చూస్తూ, \"ప్రయత్నం ముఖ్యం, ఫలితం కాదు,\" అని అన్నాడు. వేణు నేల మీద పడి ఉన్న ఒక చిన్న రాయిని తీసుకున్నాడు, అతని చెక్కిళ్ళు కాస్త ఎర్రబడ్డాయి, తన చేతితో అక్షరాలు చెక్కడానికి ప్రయత్నించాడు. అతని వేళ్ళు రాతి ఉపరితలంపై గీతలు గీస్తుంటే — రాతి కఠినత్వం అతని చేతికి తగిలింది. ఎంత ప్రయత్నించినా, అక్షరాలు స్పష్టంగా రాలేదు, కేవలం మసక గీతలు మాత్రమే మిగిలాయి. అయినా అతని కళ్ళల్లో పట్టుదల మెరిసింది. వారాలు గడిచాయి, గురువు రాస్తున్న రాళ్ళపై ఏదో సూక్ష్మమైన మార్పును వేణు గమనించాడు.",
+      "image_prompt": "The boy picks up a small rock from the ground and attempts to carve letters onto its surface with his fingers. His cheeks are slightly reddened with effort, and his fingers feel the hard resistance of the stone. Late afternoon, dappled sunlight filtering through sparse trees, creating shifting patterns of light and shadow on the riverbed, highlighting Venu's solitary, focused work.",
+      "scene_visual": "The boy picks up a small rock from the ground and attempts to carve letters onto its surface with his fingers. His cheeks are slightly reddened with effort, and his fingers feel the hard resistance of the stone.",
+      "supporting_char_keys": [
+        "guru"
+      ],
+      "text_te_en": "Guruvu Chupinchina Raayi Vaipu Chusina Venu, Atani Maatalloni Lotunu Artham Chesukovadaaniki Prayatnistunnaadu. Guruvu Atani Vaipu Chustu, \"Prayatnam Mukhyan, Phalitam Kaadu,\" Ani Annaadu. Venu Nela Mida Padi Unna Oka Chinna Raayini Tisukunnaadu, Atani Chekkillu Kaasta Errabaddaayi, Tana Chetito Aksharaalu Chekkadaaniki Prayatninchaadu. Atani Vellu Raati Uparitalampai Gitalu Gistunte — Raati Kathinatvam Atani Chetiki Tagilindi. Enta Prayatninchinaa, Aksharaalu Spashtangaa Raaledu, Kevalam Masaka Gitalu Maatrame Migilaayi. Ayinaa Atani Kallallo Pattudala Merisindi. Vaaraalu Gadichaayi, Guruvu Raastunna Raallapai Edo Sukshmamaina Maarpunu Venu Gamaninchaadu.",
+      "text_en": "Venu looked at the stone the Guru pointed to, trying to understand the deeper meaning in his words. The Guru looked at him and said, \"Effort is important, not the result.\" Venu picked up a small stone lying on the ground, his cheeks flushed a little, and he tried to carve letters with his hand. As his fingers drew lines on the stone's surface — the hardness of the stone met his hand. No matter how much he tried, the letters didn't come out clearly, only faint lines remained. Still, determination sparkled in his eyes. Weeks passed, and Venu noticed a subtle change on the stones the Guru was writing on."
+    },
+    {
+      "id": 5,
+      "text": "గురువు రాస్తున్న రాళ్ళను వేణు ఇంకా దగ్గరగా పరిశీలించాడు, అతని కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి. ప్రతిరోజూ నీటిలో కొట్టుకుపోయిన అక్షరాలు, రాతి ఉపరితలాన్ని మెల్లగా అరిగించాయని అతను తెలుసుకున్నాడు. \"అయ్యా! రాళ్లు అరిగిపోయాయి!\" అని వేణు ఆశ్చర్యంగా అరిచాడు. అతను తన వేలితో ఆ రాతిపై ఉన్న మసక గీతలను తాకాడు — ఆ చల్లని నునుపైన గీతలు, చుట్టూ ఉన్న రాతి కంటే భిన్నంగా ఉన్నాయి. అదొక అద్భుతం — తన నిరాశ అంతా ఇప్పుడు అద్భుతమైన ఆశ్చర్యంగా మారింది. గురువు ప్రశాంతమైన చిరునవ్వుతో తల ఊపాడు. తర్వాత, వేణు తను రాస్తున్న చిన్న, అస్తవ్యస్తమైన రాతి వైపు వేలు చూపించాడు.",
+      "image_prompt": "The boy's eyes widen in surprise as he closely examines the rocks where the old man has been writing. He touches the cold, smooth, worn-down lines on the rock surface with his finger, a look of astonishment on his face. Clear, bright midday sun, direct and illuminating, revealing every detail on the rock surface, symbolizing clarity and understanding.",
+      "scene_visual": "The boy's eyes widen in surprise as he closely examines the rocks where the old man has been writing. He touches the cold, smooth, worn-down lines on the rock surface with his finger, a look of astonishment on his face.",
+      "supporting_char_keys": [
+        "guru"
+      ],
+      "text_te_en": "Guruvu Raastunna Raallanu Venu Inkaa Daggaragaa Parishilinchaadu, Atani Kallu Aashcharyanto Peddavayyaayi. Pratiroju Nitilo Kottukupoyina Aksharaalu, Raati Uparitalaanni Mellagaa Ariginchaayani Atanu Telusukunnaadu. \"Ayyaa! Raallu Arigipoyaayi!\" Ani Venu Aashcharyangaa Arichaadu. Atanu Tana Velito Aa Raatipai Unna Masaka Gitalanu Taakaadu — Aa Challani Nunupaina Gitalu, Chuttu Unna Raati Kante Bhinnangaa Unnaayi. Adoka Adbhutam — Tana Niraasha Antaa Ippudu Adbhutamaina Aashcharyangaa Maarindi. Guruvu Prashaantamaina Chirunavvuto Tala Upaadu. Tarvaata, Venu Tanu Raastunna Chinna, Astavyastamaina Raati Vaipu Velu Chupinchaadu.",
+      "text_en": "Venu examined the stones the Guru was writing on even more closely, his eyes widening in surprise. He realized that the letters, washed away by the water every day, had slowly worn down the stone's surface. \"Sir! The stones are worn down!\" Venu exclaimed in surprise. He touched the faint lines on the stone with his finger — those cool, smooth lines were different from the surrounding stone. It was a miracle — all his disappointment had now turned into wonderful astonishment. The Guru nodded with a peaceful smile. Then, Venu pointed his finger towards the small, uneven stone he was writing on."
+    },
+    {
+      "id": 6,
+      "text": "గురువు వేలు చూపించిన తన రాతి వైపు చూసిన వేణు, అతని మాటల అసలు అర్థాన్ని గ్రహించాడు. \"జ్ఞానం రాళ్లకూ ఎక్కుతుంది,\" అని గురువు శాంతంగా పలికాడు. వేణు వెన్ను నిటారుగా చేసుకున్నాడు, అతని చేతిలో రాయిని గట్టిగా పట్టుకున్నాడు, ఇప్పుడు అతని మనసులో ఒక ప్రశాంతమైన ఆనందం నిండింది. అతని చూపులు రాతిపై స్థిరంగా నిలిచాయి, అతని చేతి కదలికలు మరింత నమ్మకంగా మారాయి, గతంలో ఉన్న తడబాటు ఇప్పుడు లేదు. మృదువైన, లయబద్ధమైన గీతల చప్పుడు — అతని పట్టుదలను చాటుతోంది. సంవత్సరాలు గడిచాయి, నది ఒడ్డున వేణు నిర్విరామ కృషికి ఆ రాళ్ళు నిశ్శబ్ద సాక్ష్యంగా నిలిచాయి.",
+      "image_prompt": "The boy straightens his back, holding his rock tightly, and begins to carve letters with confident, rhythmic movements. His gaze is fixed steadily on the rock, and the soft, rhythmic scratching sound marks his persistent effort. Golden hour light, warm and radiant, bathing the riverbed in a soft glow, symbolizing achievement and enlightenment.",
+      "scene_visual": "The boy straightens his back, holding his rock tightly, and begins to carve letters with confident, rhythmic movements. His gaze is fixed steadily on the rock, and the soft, rhythmic scratching sound marks his persistent effort.",
+      "supporting_char_keys": [
+        "guru"
+      ],
+      "text_te_en": "Guruvu Velu Chupinchina Tana Raati Vaipu Chusina Venu, Atani Maatala Asalu Arthaanni Grahinchaadu. \"Jnyaanam Raallaku Ekkutundi,\" Ani Guruvu Shaantangaa Palikaadu. Venu Vennu Nitaarugaa Chesukunnaadu, Atani Chetilo Raayini Gattigaa Pattukunnaadu, Ippudu Atani Manasulo Oka Prashaantamaina Aanandam Nindindi. Atani Chupulu Raatipai Sthirangaa Nilichaayi, Atani Cheti Kadalikalu Marinta Nammakangaa Maaraayi, Gatanlo Unna Tadabaatu Ippudu Ledu. Mrriduvaina, Layabaddhamaina Gitala Chappudu — Atani Pattudalanu Chaatutondi. Sanvatsaraalu Gadichaayi, Nadi Odduna Venu Nirviraama Krrishiki Aa Raallu Nishshabda Saakshyangaa Nilichaayi.",
+      "text_en": "Venu looked at his stone, where the Guru had pointed, and understood the true meaning of his words. \"Knowledge can even be etched into stones,\" the Guru calmly said. Venu straightened his back, holding the stone tightly in his hand; now his heart was filled with a peaceful joy. His gaze remained fixed on the stone, and his hand movements became more confident; the hesitation he had before was gone. The soft, rhythmic sound of the lines — showed his perseverance. Years passed, and on the riverbank, those stones stood as silent witnesses to Venu's tireless effort."
+    },
+    {
+      "id": 7,
+      "text": "చాలా సంవత్సరాల తర్వాత, వేణు ఇప్పుడు ఒక గౌరవనీయమైన పండితుడు, అదే నది ఒడ్డున పిల్లలకు చదువు చెబుతున్నాడు. అతను నవ్వుతూ ఆ పిల్లల వైపు చూశాడు, అతని ముఖం అనుభవంతో కాంతివంతంగా ఉంది. అతను పిల్లలను తన దగ్గరకు పిలిచి, అక్షరాలతో లోతుగా అరిగిపోయిన రాళ్ళను చూపించాడు. \"చూశారా పిల్లలూ, పట్టుదలతో ప్రయత్నిస్తే రాళ్లు కూడా అక్షరాలను నేర్చుకుంటాయి,\" అని వేణు ప్రేమగా చెప్పాడు. ఆ రాళ్ళపై ఉన్న లోతైన, శాశ్వతమైన గీతలు — దశాబ్దాల నిరంతర కృషికి నిదర్శనంగా నిలిచాయి. ఆ రాళ్ళను తాకిన పిల్లల కళ్ళల్లో ఆశ్చర్యం నిండింది.",
+      "image_prompt": "The scholar smiles radiantly at the children gathered around him by the river and points to the deeply eroded rocks. The children's eyes are filled with surprise as they touch the permanent, deeply carved lines on the stone surfaces. Soft, diffused morning light, gentle and clear, illuminating the scene with a sense of peace and legacy, signifying a new beginning and continued learning.",
+      "scene_visual": "The scholar smiles radiantly at the children gathered around him by the river and points to the deeply eroded rocks. The children's eyes are filled with surprise as they touch the permanent, deeply carved lines on the stone surfaces.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chaalaa Sanvatsaraala Tarvaata, Venu Ippudu Oka Gauravaniyamaina Panditudu, Ade Nadi Odduna Pillalaku Chaduvu Chebutunnaadu. Atanu Navvutu Aa Pillala Vaipu Chushaadu, Atani Mukham Anubhavanto Kaantivantangaa Undi. Atanu Pillalanu Tana Daggaraku Pilichi, Aksharaalato Lotugaa Arigipoyina Raallanu Chupinchaadu. \"Chushaaraa Pillalu, Pattudalato Prayatniste Raallu Kudaa Aksharaalanu Nerchukuntaayi,\" Ani Venu Premagaa Cheppaadu. Aa Raallapai Unna Lotaina, Shaashvatamaina Gitalu — Dashaabdaala Nirantara Krrishiki Nidarshanangaa Nilichaayi. Aa Raallanu Taakina Pillala Kallallo Aashcharyam Nindindi.",
+      "text_en": "Many years later, Venu was now a respected scholar, teaching children on the same riverbank. He looked at the children, smiling, his face radiant with experience. He called the children closer to him and showed them the stones deeply worn down by letters. \"See, children, if you try with perseverance, even stones will learn letters,\" Venu lovingly said. The deep, permanent lines on those stones — stood as proof of decades of continuous effort. The children's eyes filled with wonder as they touched the stones."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "guru",
+      "description": "An elderly, serene man with a long white beard and gentle eyes, often wearing simple saffron robes. He carries himself with quiet dignity and wisdom. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is a beautifully crafted story with a compelling narrative arc, flawless grammar, and rich, character-specific dialogue. The emotional journey is largely shown, and the story is highly engaging for a child. To reach a 9+ score, the primary focus should be on enhancing the 'grandmother_authenticity' by infusing more oral warmth and conversational rhythm into the narration, making it feel less like a written piece and more like a spoken bedtime story."
+  },
+  "title_te_en": "Aksharam Nerpina Raayi",
+  "moral_te_en": "Pade Pade Chese Prayatnan, Enta Kashtamainaa Sare, Manasulo Cheragani Mudra Vestundi.",
+  "title_en": "The Stone That Taught the Alphabet",
+  "moral_en": "Repeated effort, no matter how difficult, leaves an unforgettable mark on your mind.",
+  "id": "20260609_071101",
+  "date": "2026-06-09",
+  "category": "samethalu",
+  "subcategory": "life_wisdom",
+  "topic": "రాళ్ల మీద రాసుకున్న ఆచార్యుడు, చిరునామా లేని శిష్యుడి కథ - పదే పదే రాసిన అక్షరాలతో రాళ్లకు కూడా జ్ఞానం ఎక్కినట్లు.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260609_071101/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
