@@ -1,0 +1,118 @@
+{
+  "title": "మాటలు దొంగిలించే మాంత్రికుడు",
+  "moral": "చూశారా పిల్లలూ, ఎంతటి చిక్కు సమస్యకైనా, తెలివైన ఆలోచన, చురుకైన బుద్ధి ఉంటే దారి దొరుకుతుంది.",
+  "main_character": "Tenali Ramakrishna is a witty and intelligent jester in the court of Emperor Krishnadevaraya. He is known for his sharp intellect, quick comebacks, and ability to solve complex problems with humor and cleverness. Always the same character across every scene.",
+  "antagonist": "A tall, gaunt magician with a long, pointed black beard and piercing red eyes, dressed in tattered, dark purple robes adorned with silver crescent moons. He carries a gnarled staff topped with a glowing, smoky orb. Always the same character across every scene.",
+  "setting": "The grand royal court of Vijayanagara, specifically the ornate durbar hall with its polished marble floors, towering pillars carved with intricate designs, and large open arches overlooking lush palace gardens, under the bright morning sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అప్పుడు తెనాలి రామకృష్ణుడు మహారాజుకు ఒక కొత్త కథ చెప్పాడు, అదెంత హాస్యంగా ఉందంటే — సభామందిరం అంతా మహారాజు బిగ్గరగా నవ్విన శబ్దంతో నిండిపోయింది. ఆ నవ్వుతో పాటు తెనాలి ముఖంపై ఒక గొప్ప చిరునవ్వు మెరిసింది, తన మాటలకు రాజుగారు ఎంత సంతోషించారో చూసి. \"మహారాజా, తెలివికి బరువుండదు, కానీ అది మోసేవారికి మాత్రం గొప్ప బహుమతి!\" అన్నాడు తెనాలి, తన చేతులు జోడిస్తూ. మహారాజు ఇంకా నవ్వుతూనే ఉండగా, ఒక్కసారిగా — సభాప్రాంగణం నిశ్శబ్దంగా మారిపోయింది! భారీ ఓక్ తలుపులు నెమ్మదిగా కిర్రుమంటూ తెరుచుకున్నాయి, అందరి చూపులు అటువైపు తిరిగాయి.",
+      "image_prompt": "The large oak doors slowly creak open, drawing everyone's gaze towards them. The entire assembly hall falls silent as all eyes turn to the opening doors. Bright morning sun streaming through large arched windows, illuminating dust motes dancing in the air, casting long, warm shadows across the polished marble floor.",
+      "scene_visual": "The large oak doors slowly creak open, drawing everyone's gaze towards them. The entire assembly hall falls silent as all eyes turn to the opening doors.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Appudu Tenaali Raamakrrishnudu Mahaaraajuku Oka Kotta Katha Cheppaadu, Adenta Haasyangaa Undante — Sabhaamandiram Antaa Mahaaraaju Biggaragaa Navvina Shabdanto Nindipoyindi. Aa Navvuto Paatu Tenaali Mukhampai Oka Goppa Chirunavvu Merisindi, Tana Maatalaku Raajugaaru Enta Santoshinchaaro Chusi. \"Mahaaraajaa, Teliviki Baruvundadu, Kaani Adi Mosevaariki Maatram Goppa Bahumati!\" Annaadu Tenaali, Tana Chetulu Jodistu. Mahaaraaju Inkaa Navvutune Undagaa, Okkasaarigaa — Sabhaapraanganam Nishshabdangaa Maaripoyindi! Bhaari Ok Talupulu Nemmadigaa Kirrumantu Teruchukunnaayi, Andari Chupulu Atuvaipu Tirigaayi.",
+      "text_en": "Then Tenali Ramakrishna told the King a new story. It was so funny that the entire court hall filled with the sound of the King's loud laughter. Along with that laughter, a big smile shone on Tenali's face, seeing how happy the King was with his words. \"Your Majesty, wisdom has no weight, but for those who carry it, it is a great gift!\" said Tenali, joining his hands. While the King was still laughing, suddenly — the court hall became silent! The huge oak doors slowly creaked open, and everyone's gaze turned towards them."
+    },
+    {
+      "id": 2,
+      "text": "తలుపులు తెరుచుకోగానే, ఒక పొడవాటి మాంత్రికుడు లోపలికి వచ్చాడు, అతని చేతిలోని పొగమంచు గోళం నుండి భయంకరమైన గుసగుస శబ్దం వెలువడింది. తెనాలి అతని వైపు తల కొద్దిగా వంచి, తన కళ్ళు చిన్నవి చేసుకుని పరిశీలించాడు, ఏదో ఆలోచిస్తున్నట్లు. మాంత్రికుడు ఒక సభాసదుడి వైపు తన కర్ర ఊపాడు, \"నీ మాటలు దొంగిలించబడితే, నీ తెలివి ఎక్కడ దాక్కుంటుందో చూద్దాం!\" అని గంభీరంగా అన్నాడు. ఆ సభాసదుడు నోరు తెరిచి ఏదో చెప్పాలని ప్రయత్నించాడు, కానీ అతని నోటి నుండి ఒక్క మాట కూడా రాలేదు — కళ్ళు భయంతో పెద్దవిగా అయ్యాయి. ఆ క్షణంలో — ఆ దర్బారులో అందరూ ఒక్కసారిగా నిశ్శబ్దంగా ఉండిపోయారు!",
+      "image_prompt": "A courtier opens his mouth to speak but no words emerge, his eyes wide with fear. The tall magician stands nearby, holding a smoky orb from which an eerie whisper emanates. Also in this scene: A tall, gaunt magician with a long, pointed black beard and piercing red eyes, dressed in tattered, dark purple robes adorned with silver crescent moons. He carries a gnarled staff topped with a glowing, smoky orb. Always the same character across every scene. The bright morning light now feels cold and stark, focusing sharply on the magician's glowing orb, while shadows deepen around the terrified courtier.",
+      "scene_visual": "A courtier opens his mouth to speak but no words emerge, his eyes wide with fear. The tall magician stands nearby, holding a smoky orb from which an eerie whisper emanates.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Talupulu Teruchukogaane, Oka Podavaati Maantrikudu Lopaliki Vachchaadu, Atani Chetiloni Pogamanchu Golam Nundi Bhayankaramaina Gusagusa Shabdam Veluvadindi. Tenaali Atani Vaipu Tala Koddigaa Vanchi, Tana Kallu Chinnavi Chesukuni Parishilinchaadu, Edo Aalochistunnatlu. Maantrikudu Oka Sabhaasadudi Vaipu Tana Karra Upaadu, \"Ni Maatalu Dongilinchabadite, Ni Telivi Ekkada Daakkuntundo Chuddaan!\" Ani Gambhirangaa Annaadu. Aa Sabhaasadudu Noru Terichi Edo Cheppaalani Prayatninchaadu, Kaani Atani Noti Nundi Okka Maata Kudaa Raaledu — Kallu Bhayanto Peddavigaa Ayyaayi. Aa Kshananlo — Aa Darbaarulo Andaru Okkasaarigaa Nishshabdangaa Undipoyaaru!",
+      "text_en": "As soon as the doors opened, a tall wizard entered, and a scary whispering sound came from the misty orb in his hand. Tenali tilted his head slightly towards him, narrowing his eyes and observing, as if deep in thought. The wizard waved his staff towards a courtier and said gravely, \"If your words are stolen, let's see where your wisdom hides!\" The courtier opened his mouth to try and say something, but not a single word came out — his eyes widened with fear. At that moment — everyone in the court fell silent all at once!"
+    },
+    {
+      "id": 3,
+      "text": "మాంత్రికుడు తెనాలి వైపు తన కర్రను తిప్పగానే, తెనాలి ఏదో బదులివ్వాలని ప్రయత్నించాడు. అతని నోటిలో ఒక్కసారిగా చేదు లోహపు రుచి తగిలింది, అతని నుదుట లోతైన ముడతలు పడ్డాయి — పెదవులు గట్టిగా మూసుకుపోయాయి. \"గడగడ... బడబడ... లబలబ...\" అని అతని నోటి నుండి అసంబద్ధమైన శబ్దాలు మాత్రమే వచ్చాయి, మాటలు కలగాపులగమైపోయాయి. ఒక్కమాట కూడా సరిగా రాలేదు — తెనాలి నిస్సహాయంగా ఉండిపోయాడు! మాంత్రికుడు భయంకరంగా నవ్వాడు, అతని ఎర్రటి కళ్ళు తెనాలి అయోమయ ముఖంపై నిలిచిపోయాయి.",
+      "image_prompt": "The boy tries to speak, but only incoherent sounds like \"gadagada... badabada...\" escape his lips. Deep wrinkles form on his forehead as his lips press tightly together, while the magician laughs with red eyes fixed on his confused face. Also in this scene: A tall, gaunt magician with a long, pointed black beard and piercing red eyes, dressed in tattered, dark purple robes adorned with silver crescent moons. He carries a gnarled staff topped with a glowing, smoky orb. Always the same character across every scene. The court feels heavy and dim, despite the sun, as if a dark cloud has passed over, casting a pallor on everyone's faces.",
+      "scene_visual": "The boy tries to speak, but only incoherent sounds like \"gadagada... badabada...\" escape his lips. Deep wrinkles form on his forehead as his lips press tightly together, while the magician laughs with red eyes fixed on his confused face.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Maantrikudu Tenaali Vaipu Tana Karranu Tippagaane, Tenaali Edo Badulivvaalani Prayatninchaadu. Atani Notilo Okkasaarigaa Chedu Lohapu Ruchi Tagilindi, Atani Nuduta Lotaina Mudatalu Paddaayi — Pedavulu Gattigaa Musukupoyaayi. \"Gadagada... Badabada... Labalaba...\" Ani Atani Noti Nundi Asambaddhamaina Shabdaalu Maatrame Vachchaayi, Maatalu Kalagaapulagamaipoyaayi. Okkamaata Kudaa Sarigaa Raaledu — Tenaali Nissahaayangaa Undipoyaadu! Maantrikudu Bhayankarangaa Navvaadu, Atani Errati Kallu Tenaali Ayomaya Mukhampai Nilichipoyaayi.",
+      "text_en": "As soon as the wizard turned his staff towards Tenali, Tenali tried to reply. Suddenly, a bitter metallic taste filled his mouth, deep wrinkles appeared on his forehead — his lips were tightly sealed. Only jumbled, nonsensical sounds like \"Gada-gada... Bada-bada... Laba-laba...\" came from his mouth; his words were all mixed up. Not a single proper word came out — Tenali was helpless! The wizard laughed terribly, his red eyes fixed on Tenali's confused face."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి కొద్దిగా వెనక్కి తగ్గి, మాంత్రికుడిని జాగ్రత్తగా గమనించాడు, తన పట్టు వస్త్రం సన్నగా శబ్దంగా ఊగుతుండగా. తన గడ్డంపై వేలు తట్టుకుంటూ, అతని చూపులు మాంత్రికుడి కర్ర, పొగమంచు గోళంపై నిలిచాయి. మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? మాంత్రికుడి శక్తి 'అర్థవంతమైన' మాటలపైనే పనిచేస్తుందని తెనాలికి అర్థమైంది. \"అతను 'మాటలు' దొంగిలిస్తున్నాడు... కానీ మాటలు కాకపోతే?\" అని తనలో తాను అనుకున్నాడు, అతని పెదవులపై ఒక చిన్న నవ్వు మెరిసింది. ఒక్కసారిగా — తెనాలి కళ్ళు పెద్దవయ్యాయి, అతను మెల్లగా చిటికె వేసాడు, ఒక మెరుపు అతని ముఖంలో కనిపించింది.",
+      "image_prompt": "The boy's eyes widen suddenly, and he slowly snaps his fingers. A flash of insight appears on his face, replacing the small smile that had just formed on his lips. Also in this scene: A tall, gaunt magician with a long, pointed black beard and piercing red eyes, dressed in tattered, dark purple robes adorned with silver crescent moons. He carries a gnarled staff topped with a glowing, smoky orb. Always the same character across every scene. A focused beam of light seems to fall only on Tenali, highlighting his contemplative expression, while the rest of the court remains in a soft blur.",
+      "scene_visual": "The boy's eyes widen suddenly, and he slowly snaps his fingers. A flash of insight appears on his face, replacing the small smile that had just formed on his lips.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Koddigaa Venakki Taggi, Maantrikudini Jaagrattagaa Gamaninchaadu, Tana Pattu Vastram Sannagaa Shabdangaa Ugutundagaa. Tana Gaddampai Velu Tattukuntu, Atani Chupulu Maantrikudi Karra, Pogamanchu Golampai Nilichaayi. Miku Telusaa, Appudu Em Jarigindo? Maantrikudi Shakti 'Arthavantamaina' Maatalapaine Panichestundani Tenaaliki Arthamaindi. \"Atanu 'Maatalu' Dongilistunnaadu... Kaani Maatalu Kaakapote?\" Ani Tanalo Taanu Anukunnaadu, Atani Pedavulapai Oka Chinna Navvu Merisindi. Okkasaarigaa — Tenaali Kallu Peddavayyaayi, Atanu Mellagaa Chitike Vesaadu, Oka Merupu Atani Mukhanlo Kanipinchindi.",
+      "text_en": "Tenali stepped back a little and carefully watched the wizard, his silk robes rustling softly. Tapping his finger on his chin, his gaze fixed on the wizard's staff and the misty orb. Do you know what happened then? Tenali understood that the wizard's power only worked on 'meaningful' words. \"He's stealing 'words'... but what if they aren't words?\" he thought to himself, a small smile appearing on his lips. Suddenly — Tenali's eyes widened, he slowly snapped his fingers, and a spark appeared on his face."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి మళ్ళీ మాంత్రికుడి వైపు నడిచాడు, అతని కళ్ళలో ఒక చిలిపి మెరుపు కనిపించింది — పెదవులపై నవ్వు దాచుకుంటూ. \"కక్-కక్-కక్, బో-బో-బో, మీ-మీ-మీవ్! బూ-బూ-బూ!\" అని బిగ్గరగా, చిత్రమైన జంతువుల శబ్దాలు చేశాడు, ఆ శబ్దాలు సభామందిరంలో ప్రతిధ్వనించాయి. మాంత్రికుడి ముఖం అయోమయంతో కందిపోయింది — అతని గోళం ఆగి ఆగి వెలగసాగింది! ఆ శబ్దాలను 'పట్టుకోలేక' అది తడబడుతున్నట్లుంది. తెనాలి తన వ్యూహం పనిచేస్తుందని గ్రహించి, మరింత నవ్వుకున్నాడు.",
+      "image_prompt": "The boy loudly makes strange animal sounds like \"kak-kak-kak\" and \"meow-meow-meow,\" which echo through the hall. The magician's face turns red with confusion as his smoky orb flickers on and off, struggling to capture the sounds. Also in this scene: A tall, gaunt magician with a long, pointed black beard and piercing red eyes, dressed in tattered, dark purple robes adorned with silver crescent moons. He carries a gnarled staff topped with a glowing, smoky orb. Always the same character across every scene. The court is now filled with a vibrant, almost comical light, reflecting the playful chaos Tenali is creating, the magician's dark robes standing out against it.",
+      "scene_visual": "The boy loudly makes strange animal sounds like \"kak-kak-kak\" and \"meow-meow-meow,\" which echo through the hall. The magician's face turns red with confusion as his smoky orb flickers on and off, struggling to capture the sounds.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Malli Maantrikudi Vaipu Nadichaadu, Atani Kallalo Oka Chilipi Merupu Kanipinchindi — Pedavulapai Navvu Daachukuntu. \"Kak-Kak-Kak, Bo-Bo-Bo, Mi-Mi-Miv! Bu-Bu-Bu!\" Ani Biggaragaa, Chitramaina Jantuvula Shabdaalu Cheshaadu, Aa Shabdaalu Sabhaamandiranlo Pratidhvaninchaayi. Maantrikudi Mukham Ayomayanto Kandipoyindi — Atani Golam Aagi Aagi Velagasaagindi! Aa Shabdaalanu 'Pattukoleka' Adi Tadabadutunnatlundi. Tenaali Tana Vyuham Panichestundani Grahinchi, Marinta Navvukunnaadu.",
+      "text_en": "Tenali walked towards the wizard again, a mischievous sparkle in his eyes — hiding a smile on his lips. He made loud, strange animal sounds like \"Caw-caw-caw, Bow-wow-wow, Meow-meow-meow! Boo-boo-boo!\" and these sounds echoed through the court hall. The wizard's face turned red with confusion — his orb started flickering on and off! It seemed to be struggling, unable to 'catch' those sounds. Realizing his plan was working, Tenali chuckled even more."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి మరింత ఉత్సాహంగా, తన చేతులు ఊపుతూ, వింత ముఖ కవళికలు చేస్తూ ముందుకు సాగాడు, అతని నవ్వు మరింత బిగ్గరగా మారింది. \"అబ్బబ్బబ్బా! హోహోహో! హుష్షుష్షుష్షు! పటాపటా-జింజింగా!\" అని అసంబద్ధమైన ధ్వనులు చేస్తూ, అడుగులు వేశాడు. మాంత్రికుడు తన శక్తిని నిలుపుకోవడానికి కష్టపడ్డాడు, అతని ముఖం భయంతో తెల్లబడింది. ఒక్కసారిగా — మాంత్రికుడి పొగమంచు గోళం పటాపటా శబ్దంతో వేల ముక్కలుగా పగిలిపోయింది! మాంత్రికుడు తల పట్టుకుని వెనక్కి పడిపోయాడు, అతని కర్ర కింద పడి గలగలమని శబ్దం చేసింది — అతని శక్తి పూర్తిగా నశించింది.",
+      "image_prompt": "The magician's smoky orb shatters into thousands of pieces with a loud cracking sound. The magician falls backward, clutching his head, as his staff clatters to the ground, its power completely gone. Also in this scene: A tall, gaunt magician with a long, pointed black beard and piercing red eyes, dressed in tattered, dark purple robes adorned with silver crescent moons. He carries a gnarled staff topped with a glowing, smoky orb. Always the same character across every scene. A brilliant, golden light erupts around Tenali as the magician's darkness dissipates, making Tenali appear almost angelic in his triumph.",
+      "scene_visual": "The magician's smoky orb shatters into thousands of pieces with a loud cracking sound. The magician falls backward, clutching his head, as his staff clatters to the ground, its power completely gone.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Marinta Utsaahangaa, Tana Chetulu Uputu, Vinta Mukha Kavalikalu Chestu Munduku Saagaadu, Atani Navvu Marinta Biggaragaa Maarindi. \"Abbabbabbaa! Hohoho! Hushshushshushshu! Pataapataa-Jinjingaa!\" Ani Asambaddhamaina Dhvanulu Chestu, Adugulu Veshaadu. Maantrikudu Tana Shaktini Nilupukovadaaniki Kashtapaddaadu, Atani Mukham Bhayanto Tellabadindi. Okkasaarigaa — Maantrikudi Pogamanchu Golam Pataapataa Shabdanto Vela Mukkalugaa Pagilipoyindi! Maantrikudu Tala Pattukuni Venakki Padipoyaadu, Atani Karra Kinda Padi Galagalamani Shabdam Chesindi — Atani Shakti Purtigaa Nashinchindi.",
+      "text_en": "Tenali moved forward with even more enthusiasm, waving his hands and making funny faces, his laughter growing louder. He took steps, making nonsensical sounds like \"Abbabbabba! Hohoho! Hush-sh-sh-sh! Patapata-Jinjinga!\" The wizard struggled to maintain his power, his face turning pale with fear. Suddenly — the wizard's misty orb shattered into a thousand pieces with a 'patapata' sound! The wizard fell backward, clutching his head, his staff clattering to the ground — his power was completely gone."
+    },
+    {
+      "id": 7,
+      "text": "మాంత్రికుడు భయంతో వెనక్కి తిరిగి, సభామందిరం నుండి పరుగున పారిపోయాడు — అతని భయం సభామందిరం అంతా నిండిపోయింది! ఆ క్షణంలో, మాటలు దొంగిలించబడిన సభాసదుడు ఒక్కసారిగా \"నా మాటలు తిరిగి వచ్చాయి!\" అని ఆనందంగా అరిచాడు, అతని గొంతు స్పష్టంగా వినిపించింది. తెనాలి ఒక దీర్ఘమైన నిట్టూర్పు విడిచాడు, అతని ముఖంలో నెమ్మదైన చిరునవ్వు వికసించింది. మహారాజు కృష్ణదేవరాయలు తెనాలి వైపు చూసి, ఆనందంగా నవ్వుతూ, \"రామకృష్ణా, నీ తెలివికి సాటి లేదు! నీవు కేవలం మాటలు దొంగిలించబడకుండా కాపాడటమే కాదు, మా అందరినీ నవ్వించావు!\" అని మెచ్చుకున్నాడు.",
+      "image_prompt": "The magician turns in fear and runs out of the assembly hall. The boy lets out a long sigh, a slow smile blooming on his face as the king looks at him, laughing joyfully. Gentle dusk light, warm amber, bathing the court in a peaceful glow as the crisis passes and harmony is restored.",
+      "scene_visual": "The magician turns in fear and runs out of the assembly hall. The boy lets out a long sigh, a slow smile blooming on his face as the king looks at him, laughing joyfully.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Maantrikudu Bhayanto Venakki Tirigi, Sabhaamandiram Nundi Paruguna Paaripoyaadu — Atani Bhayam Sabhaamandiram Antaa Nindipoyindi! Aa Kshananlo, Maatalu Dongilinchabadina Sabhaasadudu Okkasaarigaa \"Naa Maatalu Tirigi Vachchaayi!\" Ani Aanandangaa Arichaadu, Atani Gontu Spashtangaa Vinipinchindi. Tenaali Oka Dirghamaina Nitturpu Vidichaadu, Atani Mukhanlo Nemmadaina Chirunavvu Vikasinchindi. Mahaaraaju Krrishnadevaraayalu Tenaali Vaipu Chusi, Aanandangaa Navvutu, \"Raamakrrishnaa, Ni Teliviki Saati Ledu! Nivu Kevalam Maatalu Dongilinchabadakundaa Kaapaadatame Kaadu, Maa Andarini Navvinchaavu!\" Ani Mechchukunnaadu.",
+      "text_en": "The wizard turned back in fear and ran out of the court hall — his fear filled the entire hall! At that moment, the courtier whose words had been stolen suddenly cried out joyfully, \"My words are back!\" his voice clear. Tenali let out a long sigh, a gentle smile blooming on his face. King Krishnadevaraya looked at Tenali, laughing happily, and praised him, \"Ramakrishna, your wisdom is unmatched! You not only saved our words from being stolen, but you also made us all laugh!\""
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "emperor",
+      "description": "Emperor Krishnadevaraya is a regal and benevolent ruler, known for his wisdom and patronage of arts and literature. He wears rich silk robes, a golden crown, and a pearl necklace. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 4,
+    "child_engagement": 9,
+    "average": 7.17,
+    "weakest_dimension": "narrative_arc",
+    "notes": "This story shines with flawless Telugu grammar and excellent child engagement, particularly through its playful sound effects and direct address. The emotional depth is commendable, largely showing character feelings through actions. However, the explicit moral statement at the story's outset severely weakens the narrative arc, making it feel preachy rather than allowing the lesson to emerge organically. The single most important fix to elevate this story to an award-worthy level would be to remove the upfront moral and let the reader discover Tenali's wisdom through his actions alone."
+  },
+  "quality_warning": true,
+  "title_te_en": "Maatalu Dongilinche Maantrikudu",
+  "moral_te_en": "Chushaaraa Pillalu, Entati Chikku Samasyakainaa, Telivaina Aalochana, Churukaina Buddhi Unte Daari Dorukutundi.",
+  "title_en": "The Wizard Who Stole Words",
+  "moral_en": "See, children, no matter how tricky a problem is, if you have clever thinking and a quick wit, you will always find a way!",
+  "id": "20260609_031016",
+  "date": "2026-06-09",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు 'మాటలు దొంగిలించే' మాంత్రికుడు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260609_031016/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
