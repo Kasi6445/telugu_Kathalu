@@ -747,7 +747,7 @@
     // ── SHARE ─────────────────────────────────────────────────────────────────
     function shareStory() {
       const url  = window.location.href;
-      const text = story ? `"${story.title}" చదవండి - తెలుగు కథలు\n` : '';
+      const text = story ? `"${story.title}" వినండి - తెలుగు కథలు\n` : '';
       if (navigator.share) {
         navigator.share({ title: story ? story.title : 'తెలుగు కథలు', text: story ? story.moral : '', url })
           .catch(() => {});
@@ -773,7 +773,7 @@
         // Pick up to 3 random
         const picks = pool.sort(() => Math.random() - 0.5).slice(0, 3);
 
-        container.innerHTML = `<h3>మరిన్ని కథలు చదవండి</h3>`;
+        container.innerHTML = `<h3>మరిన్ని కథలు వినండి</h3>`;
         picks.forEach(s => {
           const div = document.createElement('div');
           div.className = 'related-card';

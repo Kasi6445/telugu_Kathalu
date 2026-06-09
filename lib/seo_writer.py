@@ -250,7 +250,7 @@ def generate_homepage_jsonld() -> str:
             "alternateName": "Telugu Kathalu",
             "description": (
                 "తెలుగు కథలు - నీతి కథలు, పంచతంత్రం, తెనాలి రామ, "
-                "రామాయణం మరియు మరిన్ని తెలుగు కథలు చదవండి."
+                "రామాయణం మరియు మరిన్ని తెలుగు కథలు వినండి."
             ),
             "inLanguage": "te",
         },
