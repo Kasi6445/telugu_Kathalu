@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260609_171006",
+      "slug": "mumduchuupu-neerpina-pitta",
+      "title": "ముందుచూపు నేర్పిన పిట్ట",
+      "moral": "రేపటి కష్టాల కోసం ఈరోజే మనం సిద్ధంగా ఉంటే, ఆపదలు వచ్చినప్పుడు మనకు భద్రత, ప్రశాంతత ఉంటాయి.",
+      "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260609_171006/images/scene1.jpg",
+      "date": "2026-06-09",
+      "category": "neeti",
+      "subcategory": "wisdom_tales",
+      "topic": "ముందుచూపు గల పిట్ట మరియు తుఫాను",
+      "voice": "te-IN-Chirp3-HD-Autonoe",
+      "schema_version": 2,
+      "title_en": "The Bird Who Taught Foresight",
+      "moral_en": "If we prepare today for tomorrow's challenges, we will be safe and peaceful when troubles come.",
+      "title_te_en": "Munduchupu Nerpina Pitta",
+      "moral_te_en": "Repati Kashtaala Kosam Iroje Manam Siddhangaa Unte, Aapadalu Vachchinappudu Manaku Bhadrata, Prashaantata Untaayi."
+    },
+    {
       "id": "20260609_111043",
       "slug": "annayya-toodu-raaju-paatham",
       "title": "అన్నయ్య తోడు, రాజు పాఠం",
