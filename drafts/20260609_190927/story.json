@@ -1,0 +1,106 @@
+{
+  "title": "శంఖచూడుడికి కృష్ణుడి పాఠం",
+  "moral": "నిజమైన ప్రేమ, పవిత్రత ఎప్పుడూ ఒక పెద్ద శక్తి ద్వారా కాపాడబడతాయి.",
+  "main_character": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene.",
+  "antagonist": "Shankhachooda: a powerful demon king (rakshasa) with a dark grey complexion and sharp, cruel features. He wears a heavy, ornate golden crown shaped like a conch shell and dark, richly embroidered royal garments. He carries a formidable mace and his eyes glow with arrogance. Always the same character across every scene.",
+  "setting": "The serene forest groves of Vrindavan, on the banks of the Yamuna river, illuminated by the gentle glow of a full moon. Tall, leafy trees provide a canopy over a clearing where wildflowers bloom. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "బృందావనం వెన్నెల వెలుగులో మునిగిపోయింది, కృష్ణుడు తన వేణువును మధురంగా ఊదుతుంటే, రాధ గోపికలు అందరూ ఆనందంగా నాట్యం చేస్తున్నారు. ఆయన పెదవులపై చిలిపి నవ్వు — కళ్ళల్లో మెరుపు. మల్లెపూల సువాసన చల్లని గాలితో కలిసి అడవిలో అంతటా నిండింది. కృష్ణుడు రాధా వైపు చూస్తూ, \"రాధా, ఈ రాసలీల ఆనందం ఎంత మధురం!\" అన్నాడు. గోపికలు మరింత ఉత్సాహంగా అడుగులు వేశారు. ఆ క్షణంలో — ఒక చల్లని, వింత నీడ ఆ వెన్నెల ప్రాంతాన్ని కమ్మేసింది.",
+      "image_prompt": "A strange, cold shadow suddenly spreads across the moonlit area where the dancing figures are. The soft moonlight is abruptly obscured by this unsettling, expanding darkness. SUPPORTING CHARACTER also in this scene: radha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Soft, silvery moonlight filtering through dense leaves, casting dappled shadows on the forest floor, creating a magical and serene atmosphere.",
+      "scene_visual": "A strange, cold shadow suddenly spreads across the moonlit area where the dancing figures are. The soft moonlight is abruptly obscured by this unsettling, expanding darkness.",
+      "supporting_char_keys": [
+        "radha"
+      ],
+      "text_te_en": "Brrindaavanam Vennela Velugulo Munigipoyindi, Krrishnudu Tana Venuvunu Madhurangaa Udutunte, Raadha Gopikalu Andaru Aanandangaa Naatyam Chestunnaaru. Aayana Pedavulapai Chilipi Navvu — Kallallo Merupu. Mallepula Suvaasana Challani Gaalito Kalisi Adavilo Antataa Nindindi. Krrishnudu Raadhaa Vaipu Chustu, \"Raadhaa, I Raasalila Aanandam Enta Madhuran!\" Annaadu. Gopikalu Marinta Utsaahangaa Adugulu Veshaaru. Aa Kshananlo — Oka Challani, Vinta Nida Aa Vennela Praantaanni Kammesindi.",
+      "text_en": "Brindavan was glowing under the moonlight. Krishna played his flute so sweetly, and Radha and all the Gopis danced with great joy. A playful smile was on his lips, and his eyes sparkled. The sweet smell of jasmine flowers filled the whole forest, carried by the cool breeze. Krishna looked at Radha and said, \"Radha, how wonderful is the joy of this Raas Leela!\" The Gopis danced with even more energy. Just then — a cold, strange shadow fell over the moonlit place."
+    },
+    {
+      "id": 2,
+      "text": "ఆ నీడ మాయం కాగానే, శంఖచూడుడు అనే రాక్షసుడు అకస్మాత్తుగా అక్కడ ప్రత్యక్షమయ్యాడు — అతని గొంతు రాపిడిలా వినిపించింది. రాధ భయంతో చేతులు గుండెలపై పెట్టుకుంది, గోపికలు ఒకరికొకరు దగ్గరగా చేరారు. ఆ మధురమైన సంగీతం ఒక్కసారిగా ఆగిపోయింది. శంఖచూడుడు గర్వంగా నవ్వి, \"ఈ అందమైన గోపికలు నావే! మీ కృష్ణుడు నన్ను ఆపలేడు!\" అని గర్జించాడు. అతని కళ్ళు అహంకారంతో మెరిశాయి. ఆ క్షణంలో — శంఖచూడుడు రాధను పట్టుకోవడానికి చేయి చాచాడు.",
+      "image_prompt": "The demon extends his arm menacingly towards the central female figure. His eyes gleam with arrogance as the other female figures huddle together in fear. Also in this scene: Shankhachooda: a powerful demon king (rakshasa) with a dark grey complexion and sharp, cruel features. He wears a heavy, ornate golden crown shaped like a conch shell and dark, richly embroidered royal garments. He carries a formidable mace and his eyes glow with arrogance. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: radha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The moonlight is now partially obscured by Shankhachooda's dark form, creating deep, menacing shadows and a sense of unease.",
+      "scene_visual": "The demon extends his arm menacingly towards the central female figure. His eyes gleam with arrogance as the other female figures huddle together in fear.",
+      "supporting_char_keys": [
+        "radha"
+      ],
+      "text_te_en": "Aa Nida Maayam Kaagaane, Shankhachududu Ane Raakshasudu Akasmaattugaa Akkada Pratyakshamayyaadu — Atani Gontu Raapidilaa Vinipinchindi. Raadha Bhayanto Chetulu Gundelapai Pettukundi, Gopikalu Okarikokaru Daggaragaa Cheraaru. Aa Madhuramaina Sangitam Okkasaarigaa Aagipoyindi. Shankhachududu Garvangaa Navvi, \"I Andamaina Gopikalu Naave! Mi Krrishnudu Nannu Aapaledu!\" Ani Garjinchaadu. Atani Kallu Ahankaaranto Merishaayi. Aa Kshananlo — Shankhachududu Raadhanu Pattukovadaaniki Cheyi Chaachaadu.",
+      "text_en": "As soon as the shadow vanished, a demon named Shankhachooda suddenly appeared. His voice was rough and scary. Radha put her hands on her chest, feeling scared, and the Gopis moved closer to each other. The sweet music stopped all at once. Shankhachooda laughed proudly and roared, \"These beautiful Gopis are mine! Your Krishna cannot stop me!\" His eyes shone with pride. Just then — Shankhachooda reached out his hand to grab Radha."
+    },
+    {
+      "id": 3,
+      "text": "శంఖచూడుడు రాధ వైపు చేయి చాచగానే, కృష్ణుడు మెరుపులా అడుగు ముందుకు వేశాడు, రాధకు అడ్డుగా నిలబడ్డాడు. అతని కళ్ళలో చిలిపి నవ్వు పోయి, ఒక ప్రశాంతమైన ధైర్యం కనిపించింది. కృష్ణుడి దివ్యమైన తేజస్సు ఆ వాతావరణాన్ని వెచ్చగా, రక్షణగా మార్చింది. కృష్ణుడు శంఖచూడుడి వైపు చూస్తూ, \"గోపికలను రక్షించడం నా ధర్మం. నీ అహంకారం ఇక్కడ పనికిరాదు\" అన్నాడు. శంఖచూడుడు కోపంతో పళ్ళు పటపట కొరికాడు. ఆ క్షణంలో — ఒక చీకటి శక్తి కృష్ణుడి వైపు దూసుకువచ్చింది.",
+      "image_prompt": "A dark, ominous energy streaks rapidly towards the male figure. The male figure stands with a calm, courageous expression, radiating a divine warmth. Also in this scene: Shankhachooda: a powerful demon king (rakshasa) with a dark grey complexion and sharp, cruel features. He wears a heavy, ornate golden crown shaped like a conch shell and dark, richly embroidered royal garments. He carries a formidable mace and his eyes glow with arrogance. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: radha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A soft, golden glow begins to emanate from Krishna, pushing back the shadows created by Shankhachooda, creating a visual contrast of light and dark.",
+      "scene_visual": "A dark, ominous energy streaks rapidly towards the male figure. The male figure stands with a calm, courageous expression, radiating a divine warmth.",
+      "supporting_char_keys": [
+        "radha"
+      ],
+      "text_te_en": "Shankhachududu Raadha Vaipu Cheyi Chaachagaane, Krrishnudu Merupulaa Adugu Munduku Veshaadu, Raadhaku Addugaa Nilabaddaadu. Atani Kallalo Chilipi Navvu Poyi, Oka Prashaantamaina Dhairyam Kanipinchindi. Krrishnudi Divyamaina Tejassu Aa Vaataavaranaanni Vechchagaa, Rakshanagaa Maarchindi. Krrishnudu Shankhachududi Vaipu Chustu, \"Gopikalanu Rakshinchadam Naa Dharman. Ni Ahankaaram Ikkada Panikiraadu\" Annaadu. Shankhachududu Kopanto Pallu Patapata Korikaadu. Aa Kshananlo — Oka Chikati Shakti Krrishnudi Vaipu Dusukuvachchindi.",
+      "text_en": "As Shankhachooda reached for Radha, Krishna quickly stepped forward, standing right in front of her. The playful smile in his eyes was gone, replaced by a calm bravery. Krishna's bright, special glow made the air feel warm and safe. Krishna looked at Shankhachooda and said, \"It is my job to protect the Gopis. Your pride won't work here.\" Shankhachooda ground his teeth in anger. Just then — a dark, powerful energy shot towards Krishna."
+    },
+    {
+      "id": 4,
+      "text": "శంఖచూడుడు విసిరిన చీకటి శక్తి కృష్ణుడిని తాకకుండానే గాలిలో కలిసిపోయింది, అతడు కదలకుండా నిలబడ్డాడు. కృష్ణుడి నెమలి పింఛం మెల్లిగా కదిలింది, అతని ప్రశాంతత చెక్కుచెదరలేదు. శంఖచూడుడు ఎంత ప్రయత్నించినా, అతని కోపంతో కూడిన దాడులు కృష్ణుడికి దరి చేరలేదు. కృష్ణుడు ప్రశాంతంగా, \"నీ శక్తి నా ముందు నిలబడదు, శంఖచూడా!\" అని అన్నాడు. అడవి అంతా ఉత్కంఠతో ఊపిరి బిగబట్టి చూస్తున్నట్లు అనిపించింది. అప్పుడు — కృష్ణుడి అరచేతిలో ఒక తేజస్సు మెరుస్తూ కనిపించింది.",
+      "image_prompt": "A bright, radiant light begins to glow intensely in the male figure's open palm. His peacock feather gently sways as he maintains a serene and unmoving posture. Also in this scene: Shankhachooda: a powerful demon king (rakshasa) with a dark grey complexion and sharp, cruel features. He wears a heavy, ornate golden crown shaped like a conch shell and dark, richly embroidered royal garments. He carries a formidable mace and his eyes glow with arrogance. Always the same character across every scene. SUPPORTING CHARACTER also in this scene: radha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. The golden glow around Krishna intensifies, illuminating the entire clearing in a warm, steady light, while Shankhachooda remains in the encroaching darkness.",
+      "scene_visual": "A bright, radiant light begins to glow intensely in the male figure's open palm. His peacock feather gently sways as he maintains a serene and unmoving posture.",
+      "supporting_char_keys": [
+        "radha"
+      ],
+      "text_te_en": "Shankhachududu Visirina Chikati Shakti Krrishnudini Taakakundaane Gaalilo Kalisipoyindi, Atadu Kadalakundaa Nilabaddaadu. Krrishnudi Nemali Pincham Melligaa Kadilindi, Atani Prashaantata Chekkuchedaraledu. Shankhachududu Enta Prayatninchinaa, Atani Kopanto Kudina Daadulu Krrishnudiki Dari Cheraledu. Krrishnudu Prashaantangaa, \"Ni Shakti Naa Mundu Nilabadadu, Shankhachudaa!\" Ani Annaadu. Adavi Antaa Utkanthato Upiri Bigabatti Chustunnatlu Anipinchindi. Appudu — Krrishnudi Arachetilo Oka Tejassu Merustu Kanipinchindi.",
+      "text_en": "The dark energy that Shankhachooda threw disappeared into the air without even touching Krishna. He stood perfectly still. Krishna's peacock feather moved ever so slightly, but his calm look never changed. No matter how hard Shankhachooda tried, his angry attacks couldn't get close to Krishna. Krishna calmly said, \"Your power cannot stand against me, Shankhachooda!\" It felt like the whole forest was holding its breath, watching. Then — a bright light began to shine in Krishna's hand."
+    },
+    {
+      "id": 5,
+      "text": "కృష్ణుడు తన అరచేతిలో మెరిసిన తేజస్సును శంఖచూడుడి వైపు విసిరాడు — అది అద్భుతమైన తెల్లటి వెలుగులా అడవిని నింపేసింది. గోపికలు, రాధ ఆశ్చర్యంతో కళ్ళు పెద్దవి చేసుకుని చూశారు. ఒక మృదువైన, ప్రతిధ్వనించే ధ్వని ఆ వాతావరణంలో నిండింది. కృష్ణుడు ప్రశాంతంగా, \"దుష్టత్వం ఎప్పటికీ నిలబడదు. న్యాయం జరిగింది\" అని అన్నాడు. దేవతలు పువ్వుల వర్షం కురిపించారు. ఒక్కసారిగా — ఆ దివ్యమైన వెలుగులో చెడు మాయమైపోయింది.",
+      "image_prompt": "The male figure hurls the glowing light from his palm towards the demon, filling the forest with a brilliant white radiance. The demon vanishes completely within this divine, overwhelming light as flowers rain down from above. SUPPORTING CHARACTER also in this scene: radha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A moment of intense, overwhelming golden-white radiance, followed by the return of the soft, clear moonlight, now feeling even more peaceful and pure.",
+      "scene_visual": "The male figure hurls the glowing light from his palm towards the demon, filling the forest with a brilliant white radiance. The demon vanishes completely within this divine, overwhelming light as flowers rain down from above.",
+      "supporting_char_keys": [
+        "radha"
+      ],
+      "text_te_en": "Krrishnudu Tana Arachetilo Merisina Tejassunu Shankhachududi Vaipu Visiraadu — Adi Adbhutamaina Tellati Velugulaa Adavini Nimpesindi. Gopikalu, Raadha Aashcharyanto Kallu Peddavi Chesukuni Chushaaru. Oka Mrriduvaina, Pratidhvaninche Dhvani Aa Vaataavarananlo Nindindi. Krrishnudu Prashaantangaa, \"Dushtatvam Eppatiki Nilabadadu. Nyaayam Jarigindi\" Ani Annaadu. Devatalu Puvvula Varsham Kuripinchaaru. Okkasaarigaa — Aa Divyamaina Velugulo Chedu Maayamaipoyindi.",
+      "text_en": "Krishna threw the bright light from his hand towards Shankhachooda. It filled the forest with a wonderful white glow. The Gopis and Radha watched with wide, surprised eyes. A soft, echoing sound filled the air. Krishna calmly said, \"Evil can never win. Justice has been done.\" The gods showered flowers from the sky. All at once — the evil disappeared in that special, bright light."
+    },
+    {
+      "id": 6,
+      "text": "ఆ దివ్యమైన వెలుగు మాయమైన తర్వాత, అడవిలో ఒక లోతైన ప్రశాంతత నెలకొంది, ఎక్కడ చూసినా శాంతమే. రాధ ముఖంపై ఒక ప్రశాంతమైన చిరునవ్వు విరిసింది, ఆమె కళ్ళు కృష్ణుడి వైపు భక్తితో నిలిచాయి. గోపికలు భయం లేకుండా నిట్టూర్చారు, వారి భుజాలు వదులయ్యాయి. కృష్ణుడు తన వేణువును మళ్ళీ అందుకున్నాడు — దాని మధురమైన ధ్వని గాలిలో తేలింది, మునుపటికంటే అందంగా. రాధ కృష్ణుడిని చూస్తూ, \"కృష్ణా, నీ ప్రేమ మాకు ఎల్లప్పుడూ రక్షణ\" అని అంది. ఆ రోజు నుండి, బృందావనం మరింత ఆనందంతో, ప్రేమతో నిండిపోయింది.",
+      "image_prompt": "The male figure raises his flute to his lips and begins to play a sweet melody. A peaceful smile graces the female figure's face as she gazes at him with devotion. SUPPORTING CHARACTER also in this scene: radha — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle dusk light, warm amber, peaceful resolution. The forest is bathed in a soft, reassuring glow, reflecting the restored harmony and joy.",
+      "scene_visual": "The male figure raises his flute to his lips and begins to play a sweet melody. A peaceful smile graces the female figure's face as she gazes at him with devotion.",
+      "supporting_char_keys": [
+        "radha"
+      ],
+      "text_te_en": "Aa Divyamaina Velugu Maayamaina Tarvaata, Adavilo Oka Lotaina Prashaantata Nelakondi, Ekkada Chusinaa Shaantame. Raadha Mukhampai Oka Prashaantamaina Chirunavvu Virisindi, Aame Kallu Krrishnudi Vaipu Bhaktito Nilichaayi. Gopikalu Bhayam Lekundaa Nitturchaaru, Vaari Bhujaalu Vadulayyaayi. Krrishnudu Tana Venuvunu Malli Andukunnaadu — Daani Madhuramaina Dhvani Gaalilo Telindi, Munupatikante Andangaa. Raadha Krrishnudini Chustu, \"Krrishnaa, Ni Prema Maaku Ellappudu Rakshana\" Ani Andi. Aa Roju Nundi, Brrindaavanam Marinta Aanandanto, Premato Nindipoyindi.",
+      "text_en": "After that special light disappeared, a deep peace filled the forest; everything was calm. A peaceful smile spread across Radha's face, and her eyes looked at Krishna with love. The Gopis sighed, no longer scared, and their shoulders relaxed. Krishna picked up his flute again — its sweet sound floated through the air, even more beautiful than before. Radha looked at Krishna and said, \"Krishna, your love always protects us.\" From that day on, Brindavan was filled with even more joy and love."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "radha",
+      "description": "Radha: a beautiful young woman with a fair golden complexion and long dark hair often adorned with a garland of fresh flowers. She wears a vibrant blue or pink silk saree with delicate gold jewelry. Her eyes are filled with love and devotion. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and excellent child engagement, with well-placed suspense hooks at the end of each scene. The emotional depth and dialogue are also strong, effectively moving the plot forward. The primary area for improvement lies in 'grandmother_authenticity'; the prose, while grammatically sound, reads more like a written text than an oral bedtime story. To elevate this to an award-worthy piece (9+), the language needs to be infused with more conversational warmth and a less formal, more intimate tone, making it feel like a grandparent is truly sharing a tale."
+  },
+  "title_te_en": "Shankhachududiki Krrishnudi Paatham",
+  "moral_te_en": "Nijamaina Prema, Pavitrata Eppudu Oka Pedda Shakti Dvaaraa Kaapaadabadataayi.",
+  "title_en": "Krishna's Lesson to Shankhachooda",
+  "moral_en": "True love and purity are always protected by a great power.",
+  "id": "20260609_190927",
+  "date": "2026-06-09",
+  "category": "bhagavatam",
+  "subcategory": "krishna_leela",
+  "topic": "శంఖచూడుడి సంహారం - పవిత్రతకు రక్షణ",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260609_190927/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
