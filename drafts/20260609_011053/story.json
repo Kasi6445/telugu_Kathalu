@@ -1,0 +1,116 @@
+{
+  "title": "ముళ్ళపంది, ఉడుత నేస్తం",
+  "moral": "చూశారా నా బంగారు తల్లులూ, నిజమైన స్నేహం అంటే తేడాలను పక్కన పెట్టి, కష్టకాలంలో ఒకరికొకరు తోడుగా నిలబడటమే.",
+  "main_character": "A small, brown porcupine with sharp, protective quills covering its back. It has large, expressive eyes and a timid demeanor. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant forest in the Nallamala Hills of Andhra Pradesh, filled with ancient banyan trees and winding streams, under a bright morning sun that later turns stormy. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల కొండల పచ్చని అడవిలో ఒక చిన్న ముళ్ళపంది పిల్ల ఒంటరిగా ఒక పెద్ద మర్రిచెట్టు కింద కూర్చుని ఉంది. దాని పెద్ద కళ్ళు దూరంగా, అడవి జంతువులు నవ్వుతూ ఆడుకుంటూ ఉండటం చూశాయి. ఆ ముళ్ళపంది వాటితో చేరాలని ఎంతో కోరుకుంది, కానీ కదలలేదు. పచ్చని గడ్డిలో అప్పుడప్పుడు కదులుతున్నప్పుడు దాని ముళ్ళు \"ఖస్ ఖస్\" మని చిన్నగా శబ్దం చేశాయి. \"కాష్, నేను కూడా వారితో ఆడగలిగితే!\" అని చిన్నగా గొణుక్కుంటూ తల దించుకుంది. ఇంతలో, ఒక చిన్న ఉడుత చెట్టుపై నుండి దానిని గమనించింది — దాని కళ్ళల్లో ఏదో మెరుపు.",
+      "image_prompt": "The young porcupine sits alone under a large banyan tree, lowering its head. Its large eyes gaze longingly at other forest animals playing in the distance. ఉదయం సూర్యరశ్మి పచ్చని చెట్ల గుండా వడపోసి, అడవి అంతా వెచ్చగా, మెరుస్తూ ఉంటుంది.",
+      "scene_visual": "The young porcupine sits alone under a large banyan tree, lowering its head. Its large eyes gaze longingly at other forest animals playing in the distance.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Kondala Pachchani Adavilo Oka Chinna Mullapandi Pilla Ontarigaa Oka Pedda Marrichettu Kinda Kurchuni Undi. Daani Pedda Kallu Durangaa, Adavi Jantuvulu Navvutu Aadukuntu Undatam Chushaayi. Aa Mullapandi Vaatito Cheraalani Ento Korukundi, Kaani Kadalaledu. Pachchani Gaddilo Appudappudu Kadulutunnappudu Daani Mullu \"Khas Khas\" Mani Chinnagaa Shabdam Cheshaayi. \"Kaash, Nenu Kudaa Vaarito Aadagaligite!\" Ani Chinnagaa Gonukkuntu Tala Dinchukundi. Intalo, Oka Chinna Uduta Chettupai Nundi Daanini Gamaninchindi — Daani Kallallo Edo Merupu.",
+      "text_en": "In the green forest of the Nallamala hills, a little porcupine sat alone under a big banyan tree. Its big eyes watched the forest animals laughing and playing in the distance. The porcupine wished very much to join them, but it couldn't move. When it moved occasionally in the green grass, its quills made a soft \"khas khas\" sound. \"Oh, if only I could play with them too!\" it mumbled softly, lowering its head. Just then, a small squirrel noticed it from the top of a tree — with a sparkle in its eyes."
+    },
+    {
+      "id": 2,
+      "text": "చెట్టుపై నుండి గమనించిన ఉడుత, తన పొడవాటి తోకను నెమ్మదిగా ఆడిస్తూ, ముళ్ళపంది దగ్గరికి వచ్చింది. అది గబగబా చెట్టు బెరడుపై నుండి కిందకు దూకుతున్నప్పుడు, దాని గోళ్ళ శబ్దం \"టక్ టక్\" మని వినిపించింది. ముళ్ళపంది చిన్నగా వెనక్కి జరుగుతూ, తన పదునైన ముళ్ళను కొద్దిగా పైకి లేపింది — కానీ ఉడుత మాత్రం భయపడలేదు. అది మళ్ళీ తోక ఆడిస్తూ, ముళ్ళపంది కళ్ళలోకి చూస్తూ అడిగింది: \"ఒంటరిగా ఉన్నావా? నాతో ఆడుకుంటావా?\" ముళ్ళపంది ఇంకా జవాబివ్వకముందే, ఒక్కసారిగా ఆకాశం చీకటిగా మారింది.",
+      "image_prompt": "The squirrel approaches the porcupine, wagging its long tail, while the porcupine slightly raises its sharp quills. The squirrel looks directly into the porcupine's eyes, showing no fear. ప్రకాశవంతమైన మధ్యాహ్న సూర్యరశ్మి, కానీ ఆకాశం పశ్చిమం వైపు నుండి నల్లటి మేఘాలతో కమ్ముకోవడం మొదలవుతుంది.",
+      "scene_visual": "The squirrel approaches the porcupine, wagging its long tail, while the porcupine slightly raises its sharp quills. The squirrel looks directly into the porcupine's eyes, showing no fear.",
+      "supporting_char_keys": [
+        "squirrel"
+      ],
+      "text_te_en": "Chettupai Nundi Gamaninchina Uduta, Tana Podavaati Tokanu Nemmadigaa Aadistu, Mullapandi Daggariki Vachchindi. Adi Gabagabaa Chettu Beradupai Nundi Kindaku Dukutunnappudu, Daani Golla Shabdam \"Tak Tak\" Mani Vinipinchindi. Mullapandi Chinnagaa Venakki Jarugutu, Tana Padunaina Mullanu Koddigaa Paiki Lepindi — Kaani Uduta Maatram Bhayapadaledu. Adi Malli Toka Aadistu, Mullapandi Kallaloki Chustu Adigindi: \"Ontarigaa Unnaavaa? Naato Aadukuntaavaa?\" Mullapandi Inkaa Javaabivvakamunde, Okkasaarigaa Aakaasham Chikatigaa Maarindi.",
+      "text_en": "The squirrel, having noticed it from the tree, came closer to the porcupine, wagging its long tail slowly. As it quickly jumped down from the tree bark, the sound of its claws went \"tuck tuck.\" The porcupine moved back a little, raising its sharp quills slightly — but the squirrel was not scared. It wagged its tail again, looked into the porcupine's eyes, and asked: \"Are you alone? Will you play with me?\" Before the porcupine could answer, suddenly the sky turned dark."
+    },
+    {
+      "id": 3,
+      "text": "ఆకాశం చీకటిగా మారిన మరుక్షణమే, భారీ ఈదురు గాలులు \"భీభీ\" మని వీచాయి, చెట్ల ఆకులు విపరీతంగా అల్లకల్లోలం అయ్యాయి. వర్షం చినుకులు పెద్దగా \"షర షర\" మని నేల మీద పడటం మొదలుపెట్టాయి, అడవి జంతువులన్నీ భయంతో ఆశ్రయం కోసం పరుగులు తీశాయి. ముళ్ళపంది తల పక్కకు తిప్పి, ఆందోళనగా ఎక్కడ ఆశ్రయం దొరుకుతుందో అని చూసింది. \"ఈ తుఫానులో ఎక్కడికి వెళ్ళాలి?\" అని అది తనలో తాను గొణుక్కుంది. ముళ్ళపంది వర్షంలో తడుస్తూ నిలబడి ఉండగా, ఉడుత మాత్రం ఒక చిన్న బొరియలోకి దూరింది.",
+      "image_prompt": "The porcupine stands exposed in the pouring rain, turning its head anxiously to search for shelter. Meanwhile, the squirrel quickly disappears into a small burrow, leaving the porcupine alone in the downpour. ఆకాశం నల్లటి మేఘాలతో నిండి, మెరుపులు మెరుస్తూ, అడవి అంతా ముదురు బూడిద రంగులో భయంకరంగా కనిపిస్తుంది.",
+      "scene_visual": "The porcupine stands exposed in the pouring rain, turning its head anxiously to search for shelter. Meanwhile, the squirrel quickly disappears into a small burrow, leaving the porcupine alone in the downpour.",
+      "supporting_char_keys": [
+        "squirrel"
+      ],
+      "text_te_en": "Aakaasham Chikatigaa Maarina Marukshaname, Bhaari Iduru Gaalulu \"Bhibhi\" Mani Vichaayi, Chetla Aakulu Viparitangaa Allakallolam Ayyaayi. Varsham Chinukulu Peddagaa \"Shara Shara\" Mani Nela Mida Padatam Modalupettaayi, Adavi Jantuvulanni Bhayanto Aashrayam Kosam Parugulu Tishaayi. Mullapandi Tala Pakkaku Tippi, Aandolanagaa Ekkada Aashrayam Dorukutundo Ani Chusindi. \"I Tuphaanulo Ekkadiki Vellaali?\" Ani Adi Tanalo Taanu Gonukkundi. Mullapandi Varshanlo Tadustu Nilabadi Undagaa, Uduta Maatram Oka Chinna Boriyaloki Durindi.",
+      "text_en": "The very next moment the sky turned dark, strong gusty winds blew with a \"bhee bhee\" sound, and tree leaves rustled wildly. Raindrops began to fall heavily on the ground with a \"shara shara\" sound, and all the forest animals ran in fear to find shelter. The porcupine turned its head sideways, anxiously looking for where it could find shelter. \"Where should I go in this storm?\" it mumbled to itself. While the porcupine stood getting wet in the rain, the squirrel, however, darted into a small burrow."
+    },
+    {
+      "id": 4,
+      "text": "బొరియలోకి దూరిన ఉడుత, బయట వణుకుతున్న ముళ్ళపందిని చూసి, దయతో తన తోకను కదిపింది. \"లోపలికి రా, ఇక్కడ కాస్త వెచ్చగా ఉంటుంది!\" అని చిన్నగా పిలిచింది. ముళ్ళపంది ఆందోళనగా నెమ్మదిగా బొరియలోకి కదలడం మొదలుపెట్టింది. లోపలికి దూరే ప్రయత్నంలో, దాని ముళ్ళు పొరపాటున ఉడుతను తాకి \"టప్\" మని చిన్నగా శబ్దం చేశాయి. \"అయ్యో! నొప్పిగా ఉంది!\" అని ఉడుత చిన్నగా అరిచింది. నొప్పి తట్టుకోలేక అది వెంటనే బొరియలోంచి బయటకు వచ్చి, బాధగా తన గాయాన్ని చూసుకుంది.",
+      "image_prompt": "As the porcupine attempts to enter the burrow, its quills accidentally touch the squirrel. The squirrel cries out in pain, immediately exits the burrow, and looks at its wound with distress. బొరియ లోపల చీకటిగా, బయట తుఫాను మెరుపులతో కూడిన బూడిద రంగు కాంతి.",
+      "scene_visual": "As the porcupine attempts to enter the burrow, its quills accidentally touch the squirrel. The squirrel cries out in pain, immediately exits the burrow, and looks at its wound with distress.",
+      "supporting_char_keys": [
+        "squirrel"
+      ],
+      "text_te_en": "Boriyaloki Durina Uduta, Bayata Vanukutunna Mullapandini Chusi, Dayato Tana Tokanu Kadipindi. \"Lopaliki Raa, Ikkada Kaasta Vechchagaa Untundi!\" Ani Chinnagaa Pilichindi. Mullapandi Aandolanagaa Nemmadigaa Boriyaloki Kadaladam Modalupettindi. Lopaliki Dure Prayatnanlo, Daani Mullu Porapaatuna Udutanu Taaki \"Tap\" Mani Chinnagaa Shabdam Cheshaayi. \"Ayyo! Noppigaa Undi!\" Ani Uduta Chinnagaa Arichindi. Noppi Tattukoleka Adi Ventane Boriyalonchi Bayataku Vachchi, Baadhagaa Tana Gaayaanni Chusukundi.",
+      "text_en": "The squirrel, having darted into the burrow, saw the shivering porcupine outside and kindly wagged its tail. \"Come inside, it's a bit warmer here!\" it called softly. The porcupine anxiously began to move slowly into the burrow. In its attempt to get inside, its quills accidentally touched the squirrel, making a soft \"tap\" sound. \"Ouch! That hurts!\" cried the squirrel softly. Unable to bear the pain, it immediately came out of the burrow and sadly looked at its wound."
+    },
+    {
+      "id": 5,
+      "text": "బొరియలోంచి బయటకు వచ్చిన ఉడుత, తన గాయాన్ని నాక్కుంటూ, ముళ్ళపంది వైపు కోపంగా చూసింది. ముళ్ళపంది తల వంచుకొని నిశ్చలంగా నిలబడింది — తన వల్ల స్నేహం విచ్ఛిన్నమైందని అది తీవ్రంగా బాధపడింది. వర్షం చినుకులు దాని వెనుకభాగంలో పడి, ముళ్ళు మరింత తడిగా, బరువుగా అనిపించాయి. \"నా ముళ్ళు ఎప్పుడూ ఇలానే చేస్తాయి,\" అని అది చిన్నగా నిట్టూర్చింది. గట్టిగా గాలులు వీచి చెట్లు ఊగుతున్నాయి, ముళ్ళపంది మరింత ఒంటరిగా, చలితో వణుకుతుంది.",
+      "image_prompt": "The squirrel licks its wound and glares angrily at the porcupine, which stands motionless with its head bowed. Raindrops fall on the porcupine's back, making its quills appear wet and heavy. తుఫాను ఉధృతంగా ఉంది, ఆకాశం నలుపు రంగులో మారి, అడవి అంతా భయంకరమైన నీలి-బూడిద రంగు చీకటిలో మునిగిపోతుంది.",
+      "scene_visual": "The squirrel licks its wound and glares angrily at the porcupine, which stands motionless with its head bowed. Raindrops fall on the porcupine's back, making its quills appear wet and heavy.",
+      "supporting_char_keys": [
+        "squirrel"
+      ],
+      "text_te_en": "Boriyalonchi Bayataku Vachchina Uduta, Tana Gaayaanni Naakkuntu, Mullapandi Vaipu Kopangaa Chusindi. Mullapandi Tala Vanchukoni Nishchalangaa Nilabadindi — Tana Valla Sneham Vichchinnamaindani Adi Tivrangaa Baadhapadindi. Varsham Chinukulu Daani Venukabhaaganlo Padi, Mullu Marinta Tadigaa, Baruvugaa Anipinchaayi. \"Naa Mullu Eppudu Ilaane Chestaayi,\" Ani Adi Chinnagaa Nitturchindi. Gattigaa Gaalulu Vichi Chetlu Ugutunnaayi, Mullapandi Marinta Ontarigaa, Chalito Vanukutundi.",
+      "text_en": "The squirrel, having come out of the burrow, licked its wound and looked angrily at the porcupine. The porcupine stood still, its head bowed — it was deeply saddened that its friendship was broken because of it. Raindrops fell on its back, making its quills feel even wetter and heavier. \"My quills always do this,\" it sighed softly. Strong winds blew, making the trees sway, and the porcupine shivered, feeling even more alone and cold."
+    },
+    {
+      "id": 6,
+      "text": "ఉడుత తన గాయాన్ని నాక్కుంటూనే, బయట చలితో వణుకుతున్న ముళ్ళపందిని చూసింది. దాని కళ్ళల్లో మెరిసిన ఒక చిన్న ఆశ కిరణం, వర్షపు తెర వెనుక స్పష్టంగా కనిపించింది. తన నొప్పిని పక్కన పెట్టి, ముళ్ళపంది పట్ల దానికి జాలి కలిగింది — దాని కళ్ళల్లో ఒక నిశ్చయం కనిపించింది. ముళ్ళపంది, ఉడుత తన వైపు తిరిగి చూడటంతో, ఆశ్చర్యంగా తల పైకెత్తింది. \"మనం కలిసి ఉంటేనే ఈ తుఫాను నుండి బయటపడగలం,\" అని ఉడుత గట్టిగా అంది. అది నెమ్మదిగా, జాగ్రత్తగా ముళ్ళపంది వైపు అడుగులు వేసింది.",
+      "image_prompt": "The squirrel, still licking its wound, looks at the shivering porcupine outside and slowly takes careful steps towards it. A clear glimmer of hope and determination shines in the squirrel's eyes through the curtain of rain. తుఫాను ఇంకా కొనసాగుతోంది, కానీ ఉడుత కళ్ళలో ఒక ఆశ కిరణం, చీకటిలో చిన్న వెలుగులా మెరుస్తుంది.",
+      "scene_visual": "The squirrel, still licking its wound, looks at the shivering porcupine outside and slowly takes careful steps towards it. A clear glimmer of hope and determination shines in the squirrel's eyes through the curtain of rain.",
+      "supporting_char_keys": [
+        "squirrel"
+      ],
+      "text_te_en": "Uduta Tana Gaayaanni Naakkuntune, Bayata Chalito Vanukutunna Mullapandini Chusindi. Daani Kallallo Merisina Oka Chinna Aasha Kiranan, Varshapu Tera Venuka Spashtangaa Kanipinchindi. Tana Noppini Pakkana Petti, Mullapandi Patla Daaniki Jaali Kaligindi — Daani Kallallo Oka Nishchayam Kanipinchindi. Mullapandi, Uduta Tana Vaipu Tirigi Chudatanto, Aashcharyangaa Tala Paikettindi. \"Manam Kalisi Untene I Tuphaanu Nundi Bayatapadagalan,\" Ani Uduta Gattigaa Andi. Adi Nemmadigaa, Jaagrattagaa Mullapandi Vaipu Adugulu Vesindi.",
+      "text_en": "While licking its wound, the squirrel saw the porcupine shivering outside in the cold. A small ray of hope sparkled in its eyes, clearly visible behind the curtain of rain. Putting its pain aside, it felt pity for the porcupine — a determination appeared in its eyes. The porcupine, seeing the squirrel look back at it, surprisingly lifted its head. \"Only if we are together can we get through this storm,\" the squirrel said firmly. It slowly and carefully took steps towards the porcupine."
+    },
+    {
+      "id": 7,
+      "text": "ఉడుత దగ్గరికి రాగానే, ముళ్ళపంది జాగ్రత్తగా తన ముళ్ళను వెనక్కి ముడుచుకుంది. ఇద్దరూ కలిసి నెమ్మదిగా బొరియలోకి తిరిగి వెళ్లారు. లోపల వెచ్చని, పొడి నేల యొక్క మట్టి వాసన వారికి హాయిగా అనిపించింది. ఒకరికొకరు తగలకుండా జాగ్రత్తగా పక్కపక్కనే కూర్చున్నారు — బయట వర్షం శబ్దం తగ్గుతుండగా, లోపల ప్రశాంతంగా ఉంది. ముళ్ళపంది ఉడుత వైపు చూసి, కృతజ్ఞతతో చిన్నగా తల వంచుతూ, \"ధన్యవాదాలు, నా స్నేహితుడా,\" అంది. ఉడుత హాయిగా తన తోకను కప్పుకొని కూర్చుంది, దాని మనసులో సంతృప్తి.",
+      "image_prompt": "The porcupine carefully retracts its quills as the squirrel approaches, and they both slowly re-enter the burrow. They sit carefully side-by-side on the warm, dry earth, with the porcupine bowing its head in gratitude towards the squirrel. బొరియ లోపల మృదువైన, గోధుమ రంగు చీకటి, బయట తుఫాను తగ్గుముఖం పడుతూ, సూర్యరశ్మి చిన్నగా ఆకాశంలో కనిపిస్తుంది.",
+      "scene_visual": "The porcupine carefully retracts its quills as the squirrel approaches, and they both slowly re-enter the burrow. They sit carefully side-by-side on the warm, dry earth, with the porcupine bowing its head in gratitude towards the squirrel.",
+      "supporting_char_keys": [
+        "squirrel"
+      ],
+      "text_te_en": "Uduta Daggariki Raagaane, Mullapandi Jaagrattagaa Tana Mullanu Venakki Muduchukundi. Iddaru Kalisi Nemmadigaa Boriyaloki Tirigi Vellaaru. Lopala Vechchani, Podi Nela Yokka Matti Vaasana Vaariki Haayigaa Anipinchindi. Okarikokaru Tagalakundaa Jaagrattagaa Pakkapakkane Kurchunnaaru — Bayata Varsham Shabdam Taggutundagaa, Lopala Prashaantangaa Undi. Mullapandi Uduta Vaipu Chusi, Krritajnyatato Chinnagaa Tala Vanchutu, \"Dhanyavaadaalu, Naa Snehitudaa,\" Andi. Uduta Haayigaa Tana Tokanu Kappukoni Kurchundi, Daani Manasulo Santrripti.",
+      "text_en": "As the squirrel came closer, the porcupine carefully pulled back its quills. Together, they slowly went back into the burrow. Inside, the earthy smell of the warm, dry ground felt comforting to them. They sat carefully side by side, making sure not to touch each other — outside, the sound of the rain was lessening, and inside, it was peaceful. The porcupine looked at the squirrel, and with gratitude, bowed its head slightly, saying, \"Thank you, my friend.\" The squirrel sat comfortably, covering itself with its tail, feeling content in its heart."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "squirrel",
+      "description": "A quick, bushy-tailed squirrel with bright, curious eyes and soft, grey-brown fur. It is always seen scampering and collecting nuts. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 4,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a compelling narrative arc and strong, natural dialogue that effectively advances the plot. The grammar is excellent, providing a solid foundation. However, the emotional depth is significantly underdeveloped, frequently telling the reader how characters feel rather than showing it through their actions, body language, or subtle expressions. To reach an award-worthy level, the primary focus should be on revising these instances to embody emotions, allowing the reader to truly feel the characters' experiences."
+  },
+  "quality_warning": true,
+  "title_te_en": "Mullapandi, Uduta Nestam",
+  "moral_te_en": "Chushaaraa Naa Bangaaru Tallulu, Nijamaina Sneham Ante Tedaalanu Pakkana Petti, Kashtakaalanlo Okarikokaru Todugaa Nilabadatame.",
+  "title_en": "The Porcupine and the Squirrel's Friendship",
+  "moral_en": "See, my dear little ones, true friendship means putting differences aside and standing by each other in difficult times.",
+  "id": "20260609_011053",
+  "date": "2026-06-09",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - ఒంటరి ముళ్ళపంది మరియు స్నేహశీలియైన ఉడుత: ఆపదలో ఆశ్రయం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260609_011053/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
