@@ -1,0 +1,97 @@
+{
+  "title": "లక్ష్మి చెక్క బొమ్మల ప్రాణం",
+  "moral": "మన చేతుల్లో ఉన్న కళను, సృజనాత్మకతను మంచి కోసం ఉపయోగిస్తే, అది పెద్ద శక్తులను కూడా ఎదుర్కొని, మనం ప్రేమించే వాటిని కాపాడుతుంది.",
+  "main_character": "A nimble 10-year-old girl named Lakshmi with bright, curious eyes and calloused hands, always smelling faintly of sawdust and fresh wood. She wears simple, well-worn clothes and has a small, intricate carving tool tucked into her belt. Always the same character across every scene.",
+  "antagonist": "A dark, swirling shadow entity, its presence marked by a chilling wind and a deep, unsettling hum. It moves like dark smoke, seeking to destroy and consume.",
+  "setting": "The story is set in a small, ancient village nestled beside a sacred river in rural Andhra Pradesh, surrounded by lush green fields and old banyan trees. At the heart of the village stands a revered, intricately carved wooden temple, its roof adorned with colorful deities. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అమ్మమ్మ ఒడిలో కూర్చున్న చిన్నారులారా, ఈ రోజు మీకు లక్ష్మి అనే ఒక చిన్నారి కథ చెబుతాను. పదేళ్ల లక్ష్మి, తన తండ్రి కొయ్య పని చేసే చోట, చిన్న చిన్న చెక్క బొమ్మలను ఎంతో ఇష్టంగా చెక్కుతూ ఉండేది. ఆమె నుదురు చిన్నగా ముడుచుకొని ఉండేది, కానీ పెదవులపై మాత్రం ఎప్పుడూ ఒక చిరునవ్వు మెరిసేది. ఆమె ఉలి చెక్కపై పడుతుంటే, ఒక లయబద్ధమైన శబ్దం — మెత్తగా, సున్నితంగా వినిపించేది. ఆమె చెక్కుతూ, “నా బొమ్మలకు ప్రాణం పోస్తున్నాను!” అని పాటలా పాడుకునేది. ఆమె ఒక చిన్న బొమ్మను చెక్కడం పూర్తి చేయగానే, ఆ బొమ్మ కళ్ళు తననే చూస్తున్నాయా అన్నట్లు అనిపించింది — ఎంత చిత్రంగా ఉందో కదూ!",
+      "image_prompt": "The girl finishes carving a small wooden doll, holding it up to examine it. A faint smile plays on her lips as she feels the doll's carved eyes seem to look back at her. Warm, dusty sunlight streaming through a small window into the cluttered, cozy workshop, illuminating sawdust motes dancing in the air.",
+      "scene_visual": "The girl finishes carving a small wooden doll, holding it up to examine it. A faint smile plays on her lips as she feels the doll's carved eyes seem to look back at her.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ammamma Odilo Kurchunna Chinnaarulaaraa, I Roju Miku Lakshmi Ane Oka Chinnaari Katha Chebutaanu. Padella Lakshmi, Tana Tandri Koyya Pani Chese Chota, Chinna Chinna Chekka Bommalanu Ento Ishtangaa Chekkutu Undedi. Aame Nuduru Chinnagaa Muduchukoni Undedi, Kaani Pedavulapai Maatram Eppudu Oka Chirunavvu Merisedi. Aame Uli Chekkapai Padutunte, Oka Layabaddhamaina Shabdam — Mettagaa, Sunnitangaa Vinipinchedi. Aame Chekkutu, “Naa Bommalaku Praanam Postunnaanu!” Ani Paatalaa Paadukunedi. Aame Oka Chinna Bommanu Chekkadam Purti Cheyagaane, Aa Bomma Kallu Tanane Chustunnaayaa Annatlu Anipinchindi — Enta Chitrangaa Undo Kadu!",
+      "text_en": "Children sitting on Grandma's lap, today I will tell you a story about a little girl named Lakshmi. Ten-year-old Lakshmi loved carving small wooden dolls where her father worked with wood. Her brow would be slightly furrowed, but a tiny smile always sparkled on her lips. As her chisel met the wood, a rhythmic sound — soft and gentle — could be heard. While carving, she would sing like a song, 'I am bringing my dolls to life!' As soon as she finished carving a small doll, it felt as if the doll's eyes were looking right at her — isn't that strange!"
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరిసే బొమ్మను పట్టుకుని, లక్ష్మి దేవాలయం లోపలికి నడిచింది. ఆమె చెక్కిన ఎన్నో బొమ్మలు ఆలయంలో అటూ ఇటూ నిలబడి ఉన్నాయి. దేవాలయం ప్రాచీన, నునుపైన చెక్క నేల ఆమె కాళ్ళకు చల్లగా, హాయిగా అనిపించింది. తన కళ్ళలో ఆప్యాయత తొణికిసలాడుతూ ఉండగా, లక్ష్మి ఆ బొమ్మలన్నింటినీ జాగ్రత్తగా ఒక వరుసలో అమర్చింది. “ఈ బొమ్మలు దేవాలయాన్ని కాపాడుతాయి,” అని గట్టిగా నమ్మింది. లక్ష్మి బయటికి అడుగు పెట్టగానే, ఒక వింతైన చల్లదనం గాలిలో వ్యాపించింది — ఆలయ గంటలు కూడా చిన్నగా మోగాయి.",
+      "image_prompt": "The girl carefully arranges her carved wooden dolls in a row inside the temple. Her eyes are filled with affection as the cool, smooth wooden floor feels pleasant beneath her feet. Soft, golden afternoon light filtering through the temple's carved wooden screens, casting long, intricate shadows across the floor.",
+      "scene_visual": "The girl carefully arranges her carved wooden dolls in a row inside the temple. Her eyes are filled with affection as the cool, smooth wooden floor feels pleasant beneath her feet.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merise Bommanu Pattukuni, Lakshmi Devaalayam Lopaliki Nadichindi. Aame Chekkina Enno Bommalu Aalayanlo Atu Itu Nilabadi Unnaayi. Devaalayam Praachina, Nunupaina Chekka Nela Aame Kaallaku Challagaa, Haayigaa Anipinchindi. Tana Kallalo Aapyaayata Tonikisalaadutu Undagaa, Lakshmi Aa Bommalannintini Jaagrattagaa Oka Varusalo Amarchindi. “I Bommalu Devaalayaanni Kaapaadutaayi,” Ani Gattigaa Nammindi. Lakshmi Bayatiki Adugu Pettagaane, Oka Vintaina Challadanam Gaalilo Vyaapinchindi — Aalaya Gantalu Kudaa Chinnagaa Mogaayi.",
+      "text_en": "Holding that sparkling doll, Lakshmi walked inside the temple. Many dolls she had carved stood here and there in the temple. The ancient, smooth wooden floor of the temple felt cool and comforting under her feet. With affection shining in her eyes, Lakshmi carefully arranged all the dolls in a row. She firmly believed, 'These dolls will protect the temple.' As soon as Lakshmi stepped outside, a strange chill spread through the air — even the temple bells chimed softly."
+    },
+    {
+      "id": 3,
+      "text": "ఆ అపశకునమైన చల్లదనం గ్రామమంతా వ్యాపించగానే, ఒక నల్లటి నీడలాంటి ఆకారం అడవి అంచున కనిపించింది. అది వెళ్ళిన చోట పచ్చని మర్రిచెట్లు ఎండిపోయి, బూడిద వాసన చుట్టూ అలుముకుంది. భయంతో గ్రామస్తులు చేతులలో ఉన్నదంతా వదిలేసి, పరుగులు తీశారు. లక్ష్మి తన నాన్న చేయి గట్టిగా పట్టుకుంది — ఆమె ముఖం పాలిపోయింది. “అమ్మా! అది దేవాలయాన్ని నాశనం చేస్తుంది!” అని భయంతో కేక వేసింది. ఆ నీడ ఆకారం పెద్దదై, భయంకరమైన రూపం సంతరించుకుని, ఆలయం వైపు వేగంగా కదిలింది.",
+      "image_prompt": "The girl tightly grips her father's hand, her face pale with fear. She screams, pointing towards a large, terrifying shadow figure rapidly moving towards the temple from the forest edge. Also in this scene: A dark, swirling shadow entity, its presence marked by a chilling wind and a deep, unsettling hum. It moves like dark smoke, seeking to destroy and consume. The bright afternoon light is rapidly consumed by an encroaching, unnatural grey-black darkness, creating a stark contrast between light and shadow, filled with an ominous glow from the entity.",
+      "scene_visual": "The girl tightly grips her father's hand, her face pale with fear. She screams, pointing towards a large, terrifying shadow figure rapidly moving towards the temple from the forest edge.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Apashakunamaina Challadanam Graamamantaa Vyaapinchagaane, Oka Nallati Nidalaanti Aakaaram Adavi Anchuna Kanipinchindi. Adi Vellina Chota Pachchani Marrichetlu Endipoyi, Budida Vaasana Chuttu Alumukundi. Bhayanto Graamastulu Chetulalo Unnadantaa Vadilesi, Parugulu Tishaaru. Lakshmi Tana Naanna Cheyi Gattigaa Pattukundi — Aame Mukham Paalipoyindi. “Ammaa! Adi Devaalayaanni Naashanam Chestundi!” Ani Bhayanto Keka Vesindi. Aa Nida Aakaaram Peddadai, Bhayankaramaina Rupam Santarinchukuni, Aalayam Vaipu Vegangaa Kadilindi.",
+      "text_en": "As that ominous chill spread throughout the village, a black, shadowy figure appeared at the edge of the forest. Wherever it went, green banyan trees withered, and the smell of ash filled the air. Frightened villagers dropped everything in their hands and ran. Lakshmi tightly held her father's hand — her face had turned pale. 'Oh no! It will destroy the temple!' she cried out in fear. The shadowy figure grew larger, taking on a terrifying form, and moved swiftly towards the temple."
+    },
+    {
+      "id": 4,
+      "text": "ఆ ఆలయం వైపు దూసుకొస్తున్న నీడను చూసి, లక్ష్మి గుండె వేగంగా కొట్టుకుంది. తన మాటలు గుర్తుకు వచ్చి, ఆమె మళ్ళీ ఆలయం లోపలికి పరిగెత్తింది. ఆమె చేతులు వణుకుతున్నాయి, కానీ కళ్ళలో మాత్రం ఒక దృఢమైన సంకల్పం కనిపించింది. ఆలయ ప్రవేశ ద్వారం వద్ద ఆ నీడ ఆకారం ఇప్పటికే ఉంది, ప్రాచీన చెక్క పగుళ్ళతో గర్జిస్తోంది. లక్ష్మి తన బొమ్మలను ఒక రక్షణ వలయంలా అమర్చడానికి ప్రయత్నిస్తూ, “మీరు దేవాలయాన్ని కాపాడాలి!” అని వాటిని వేడుకుంది. ఆలయ గోడపై మొదటి పగులు కనిపించగానే, లక్ష్మి ఒక బొమ్మపై చేయి వేసింది — ఒక్కసారిగా ఒక వెచ్చని వెలుగు దాని నుండి ప్రసరించింది.",
+      "image_prompt": "The girl places her hand on one of her wooden dolls as the first crack appears on the temple wall. Her hands are trembling, but a determined resolve is visible in her eyes as a warm light suddenly emanates from the doll. Also in this scene: A dark, swirling shadow entity, its presence marked by a chilling wind and a deep, unsettling hum. It moves like dark smoke, seeking to destroy and consume. The interior of the temple is now dim, lit only by the faint, eerie red glow seeping from the cracks in the wooden doors, creating long, dancing shadows.",
+      "scene_visual": "The girl places her hand on one of her wooden dolls as the first crack appears on the temple wall. Her hands are trembling, but a determined resolve is visible in her eyes as a warm light suddenly emanates from the doll.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Aalayam Vaipu Dusukostunna Nidanu Chusi, Lakshmi Gunde Vegangaa Kottukundi. Tana Maatalu Gurtuku Vachchi, Aame Malli Aalayam Lopaliki Parigettindi. Aame Chetulu Vanukutunnaayi, Kaani Kallalo Maatram Oka Drridhamaina Sankalpam Kanipinchindi. Aalaya Pravesha Dvaaram Vadda Aa Nida Aakaaram Ippatike Undi, Praachina Chekka Pagullato Garjistondi. Lakshmi Tana Bommalanu Oka Rakshana Valayanlaa Amarchadaaniki Prayatnistu, “Miru Devaalayaanni Kaapaadaali!” Ani Vaatini Vedukundi. Aalaya Godapai Modati Pagulu Kanipinchagaane, Lakshmi Oka Bommapai Cheyi Vesindi — Okkasaarigaa Oka Vechchani Velugu Daani Nundi Prasarinchindi.",
+      "text_en": "Seeing the shadow rushing towards the temple, Lakshmi's heart pounded. Remembering her own words, she ran back inside the temple. Her hands were trembling, but a strong determination shone in her eyes. The shadowy figure was already at the temple's entrance, roaring with cracks appearing in the ancient wood. Lakshmi tried to arrange her dolls like a protective circle, pleading with them, 'You must protect the temple!' As the first crack appeared on the temple wall, Lakshmi placed her hand on a doll — and suddenly, a warm light radiated from it."
+    },
+    {
+      "id": 5,
+      "text": "బొమ్మ నుండి వచ్చిన ఆ వెచ్చని వెలుగు చూసి, లక్ష్మికి ఒక విషయం అర్థమైంది. ఆమె ఒక్కొక్క బొమ్మను తాకుతూ, తనలోని సృజనాత్మకతను, ప్రేమను వాటిలోకి ప్రవహింపజేసింది. ఆమె గుండె వేగంగా కొట్టుకుంటున్నా, ఒక శక్తి ఆమెలో ప్రవహించింది. గాలిలో మృదువైన చందనం సువాసన నిండింది. “మీరు కేవలం చెక్క కాదు, మీరు నా ప్రాణం!” అని ఆ బొమ్మలతో రహస్యంగా పలికింది. ఆ బొమ్మలు, ఇప్పుడు వెలుగుతో నిండి, చిన్నగా కదులుతూ, వాటి చెక్కిన కళ్ళతో ఆ భయంకరమైన నీడ ఆకారాన్ని ట్రాక్ చేస్తున్నట్లు కనిపించాయి.",
+      "image_prompt": "The girl touches each wooden doll, causing a warm light to flow into them. Her heart beats fast as the now glowing dolls subtly move, their carved eyes tracking the terrifying shadow figure. Also in this scene: A dark, swirling shadow entity, its presence marked by a chilling wind and a deep, unsettling hum. It moves like dark smoke, seeking to destroy and consume. The temple interior is now filled with the soft, pulsating, warm golden light from the empowered wooden dolls, pushing back against the oppressive external darkness.",
+      "scene_visual": "The girl touches each wooden doll, causing a warm light to flow into them. Her heart beats fast as the now glowing dolls subtly move, their carved eyes tracking the terrifying shadow figure.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bomma Nundi Vachchina Aa Vechchani Velugu Chusi, Lakshmiki Oka Vishayam Arthamaindi. Aame Okkokka Bommanu Taakutu, Tanaloni Srrijanaatmakatanu, Premanu Vaatiloki Pravahimpajesindi. Aame Gunde Vegangaa Kottukuntunnaa, Oka Shakti Aamelo Pravahinchindi. Gaalilo Mrriduvaina Chandanam Suvaasana Nindindi. “Miru Kevalam Chekka Kaadu, Miru Naa Praanan!” Ani Aa Bommalato Rahasyangaa Palikindi. Aa Bommalu, Ippudu Veluguto Nindi, Chinnagaa Kadulutu, Vaati Chekkina Kallato Aa Bhayankaramaina Nida Aakaaraanni Traak Chestunnatlu Kanipinchaayi.",
+      "text_en": "Seeing the warm light coming from the doll, Lakshmi understood something. She touched each doll, letting her creativity and love flow into them. Even though her heart was beating fast, a power surged within her. The air filled with the soft scent of sandalwood. 'You are not just wood, you are my life!' she whispered to the dolls. The dolls, now filled with light, began to move slightly, and their carved eyes seemed to track the terrifying shadowy figure."
+    },
+    {
+      "id": 6,
+      "text": "నీడ ఆకారం కొద్దిసేపు తడబడగానే, లక్ష్మికి ఒక ధైర్యం వచ్చింది. ఆమె తన చెక్కే పనిముట్టును తీసుకుని, ఆలయ ప్రధాన ద్వారంపై ఒక శక్తివంతమైన రక్షణ చిహ్నాన్ని చెక్కడం మొదలుపెట్టింది. ఆమె భయం పూర్తిగా పోయింది, ఆమె కదలికలు ఎంతో ఖచ్చితంగా, బలంగా ఉన్నాయి. ఆమె ఉలి ప్రాచీన చెక్కపై పడుతుంటే, పదునైన, ప్రతిధ్వనించే శబ్దం వినిపించింది. “ఈ దేవాలయాన్ని ఎవరూ నాశనం చేయలేరు!” అని పట్టుదలతో పలికింది. ఆమె చివరిసారిగా ఉలిని దించగానే, ఆలయం నుండి ఒక అద్భుతమైన బంగారు కాంతి వెలువడింది — ఆ నీడ ఆకారాన్ని పూర్తిగా కమ్మేసింది.",
+      "image_prompt": "The girl powerfully carves a protection symbol onto the main temple door using her carving tool. Her movements are precise and strong, and a magnificent golden light erupts from the temple, engulfing the shadow figure as she finishes the last stroke. Also in this scene: A dark, swirling shadow entity, its presence marked by a chilling wind and a deep, unsettling hum. It moves like dark smoke, seeking to destroy and consume. A blinding, pure white and golden light explodes from the temple's entrance, momentarily obscuring everything, contrasting sharply with the fading, dark presence of the entity.",
+      "scene_visual": "The girl powerfully carves a protection symbol onto the main temple door using her carving tool. Her movements are precise and strong, and a magnificent golden light erupts from the temple, engulfing the shadow figure as she finishes the last stroke.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nida Aakaaram Koddisepu Tadabadagaane, Lakshmiki Oka Dhairyam Vachchindi. Aame Tana Chekke Panimuttunu Tisukuni, Aalaya Pradhaana Dvaarampai Oka Shaktivantamaina Rakshana Chihnaanni Chekkadam Modalupettindi. Aame Bhayam Purtigaa Poyindi, Aame Kadalikalu Ento Khachchitangaa, Balangaa Unnaayi. Aame Uli Praachina Chekkapai Padutunte, Padunaina, Pratidhvaninche Shabdam Vinipinchindi. “I Devaalayaanni Evaru Naashanam Cheyaleru!” Ani Pattudalato Palikindi. Aame Chivarisaarigaa Ulini Dinchagaane, Aalayam Nundi Oka Adbhutamaina Bangaaru Kaanti Veluvadindi — Aa Nida Aakaaraanni Purtigaa Kammesindi.",
+      "text_en": "As the shadowy figure hesitated for a moment, Lakshmi found courage. She took her carving tool and began to carve a powerful protective symbol on the temple's main entrance. Her fear was completely gone, and her movements were precise and strong. As her chisel struck the ancient wood, a sharp, echoing sound was heard. 'No one can destroy this temple!' she declared with determination. As she made her final chisel mark, a magnificent golden light burst from the temple — completely engulfing the shadowy figure."
+    },
+    {
+      "id": 7,
+      "text": "ఆ అద్భుతమైన కాంతిలో, నీడ ఆకారం పూర్తిగా కరిగిపోయింది. ఆ చోట ఇప్పుడు వర్షపు తాజా వాసన, వికసించిన పూల సువాసన మాత్రమే మిగిలాయి. లక్ష్మి అలసిపోయినా, ఆమె ముఖంలో ఒక ప్రశాంతమైన చిరునవ్వు, గర్వం కనిపించాయి. ఆమె నిలబడి, యథాస్థితికి వచ్చిన ఆలయాన్ని, ప్రశాంతంగా ఉన్న తన చెక్క బొమ్మలను చూసింది. దూరంగా ఆలయ గంటలు చిన్నగా మోగాయి — ఇది శాంతికి సంకేతం. “శాంతి తిరిగి వచ్చింది,” అని లక్ష్మి గొణుగుకుంది.",
+      "image_prompt": "The girl stands, looking at the restored temple and her peaceful wooden dolls. Despite her exhaustion, a serene smile of pride graces her face as the distant temple bells softly chime. Gentle, warm morning sunlight streaming into the temple, highlighting the intricate carvings and the soft, lingering glow on the wooden dolls, creating an atmosphere of calm and renewal.",
+      "scene_visual": "The girl stands, looking at the restored temple and her peaceful wooden dolls. Despite her exhaustion, a serene smile of pride graces her face as the distant temple bells softly chime.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Adbhutamaina Kaantilo, Nida Aakaaram Purtigaa Karigipoyindi. Aa Chota Ippudu Varshapu Taajaa Vaasana, Vikasinchina Pula Suvaasana Maatrame Migilaayi. Lakshmi Alasipoyinaa, Aame Mukhanlo Oka Prashaantamaina Chirunavvu, Garvam Kanipinchaayi. Aame Nilabadi, Yathaasthitiki Vachchina Aalayaanni, Prashaantangaa Unna Tana Chekka Bommalanu Chusindi. Durangaa Aalaya Gantalu Chinnagaa Mogaayi — Idi Shaantiki Sanketan. “Shaanti Tirigi Vachchindi,” Ani Lakshmi Gonugukundi.",
+      "text_en": "In that magnificent light, the shadowy figure completely melted away. Only the fresh scent of rain and the fragrance of blooming flowers remained in that place. Lakshmi was tired, but a peaceful smile and pride showed on her face. She stood, looking at the restored temple and her calm wooden dolls. In the distance, the temple bells chimed softly — a sign of peace. 'Peace has returned,' Lakshmi whispered."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is a truly engaging piece, particularly strong in its narrative arc, child engagement, and flawless colloquial Telugu. The grandmotherly tone is established beautifully from the start. The single most important fix to reach a 9+ across the board would be to enrich the dialogue; currently, it relies heavily on Lakshmi's internal thoughts or pleas to the dolls. Introducing even a few lines from other characters or more varied interactions would significantly enhance the story's depth and character development."
+  },
+  "title_te_en": "Lakshmi Chekka Bommala Praanam",
+  "moral_te_en": "Mana Chetullo Unna Kalanu, Srrijanaatmakatanu Manchi Kosam Upayogiste, Adi Pedda Shaktulanu Kudaa Edurkoni, Manam Preminche Vaatini Kaapaadutundi.",
+  "title_en": "Lakshmi and the Life of Her Wooden Dolls",
+  "moral_en": "When we use our art and creativity for good, it can stand up to even the biggest challenges and protect the things we love.",
+  "id": "20260610_031603",
+  "date": "2026-06-10",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "ప్రాణం పోసిన చెక్క బొమ్మలు మరియు దేవాలయం కాచిన వడ్రంగి బాలిక | Moral: మన చేతుల్లో ఉన్న కళను, సృజనాత్మకతను మంచి కోసం ఉపయోగిస్తే, అది పెద్ద శక్తులను కూడా ఎదుర్కొని, మనం ప్రేమించే వాటిని కాపాడుతుంది.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260610_031603/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
