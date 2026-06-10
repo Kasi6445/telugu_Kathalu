@@ -1,0 +1,121 @@
+{
+  "title": "నూలు తెలివి, దారం కథ",
+  "moral": "కొన్నిసార్లు మన మనుగడకు అవసరమైనది ఇతరులకు కష్టంగా మారవచ్చు, కానీ ఆ సమతుల్యతను అర్థం చేసుకొని దయతో జీవించడమే నిజమైన తెలివి.",
+  "main_character": "Noolu, a young, small spider, about the size of a thumb-nail. She has eight long, slender legs that often get tangled, and large, curious black eyes. She is initially clumsy but very eager to learn. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant, overgrown garden in a small village near Visakhapatnam, Andhra Pradesh. There are large, leafy mango trees, bright red hibiscus flowers, and crumbling stone walls covered in moss. The story spans from late evening to early morning. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని తోటలో, చిన్న నూలు తన ఎనిమిది సన్నని కాళ్ళను అటూ ఇటూ కదుపుతూ, పట్టు దారాన్ని నేయడానికి తెగ ప్రయత్నిస్తోంది. \"ఈసారి తప్పకుండా! పట్టు వదలకూడదు!\" అంటూ తనలో తనే అనుకుంది, ఒక దారం తెగిపోయినప్పుడు చిన్న నిట్టూర్పు విడిచింది. ఆమె కాళ్ళకు అంటుకున్న ఆ పట్టు దారం జిగురుగా అనిపించింది. మరోసారి కష్టపడి, రెండు చిన్న కొమ్మల మధ్య ఒక సన్నని దారం అల్లింది. అది కొంచెం వంకరగా ఉన్నా — ఆమె ముఖంలో చిన్న నవ్వు మెరిసింది. ఆమె కళ్ళు మెరుస్తూ ఆ దారాన్ని చూసింది.",
+      "image_prompt": "The small spider moves her eight thin legs to weave a thin thread between two small branches. A small smile flashes on her face as she looks at the slightly crooked thread with sparkling eyes. soft, fading evening light, warm amber hues filtering through dense leaves, peaceful and focused",
+      "scene_visual": "The small spider moves her eight thin legs to weave a thin thread between two small branches. A small smile flashes on her face as she looks at the slightly crooked thread with sparkling eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchani Totalo, Chinna Nulu Tana Enimidi Sannani Kaallanu Atu Itu Kaduputu, Pattu Daaraanni Neyadaaniki Tega Prayatnistondi. \"Isaari Tappakundaa! Pattu Vadalakudadu!\" Antu Tanalo Tane Anukundi, Oka Daaram Tegipoyinappudu Chinna Nitturpu Vidichindi. Aame Kaallaku Antukunna Aa Pattu Daaram Jigurugaa Anipinchindi. Marosaari Kashtapadi, Rendu Chinna Kommala Madhya Oka Sannani Daaram Allindi. Adi Konchem Vankaragaa Unnaa — Aame Mukhanlo Chinna Navvu Merisindi. Aame Kallu Merustu Aa Daaraanni Chusindi.",
+      "text_en": "In a green garden, little Noolu was trying very hard to weave her silk thread, moving her eight thin legs back and forth. \"This time for sure! I must not give up!\" she thought to herself, letting out a small sigh when a thread broke. The silk thread stuck to her legs felt sticky. With more effort, she wove a thin thread between two small branches. Even though it was a little crooked — a small smile appeared on her face. Her eyes sparkled as she looked at the thread."
+    },
+    {
+      "id": 2,
+      "text": "మరుసటి ఉదయం, నూలు పొద్దున్నే లేచి, తోటలో నడుస్తూ ఒక పెద్ద సాలీడు గూడును చూసింది. ఆ గూడు మీద మంచు బిందువులు వజ్రాల్లా మెరుస్తున్నాయి — కళ్ళు పెద్దవి చేసుకుని చూసింది. ఇంతలో ఒక చిన్న గుల్లెపురుగు (గొల్లా) పాత గూడులో చిక్కుకొని విలవిలలాడింది, చివరికి ఎలాగోలా బయటపడింది. \"అంత అందమైనది... కానీ అది ఒక ఉచ్చు!\" అని నూలు గొణుక్కుంది, తనలో తనే ఆలోచిస్తూ. గొల్లా కష్టాన్ని చూసి ఆమె ముఖం ఒక్కసారిగా మాసిపోయింది.",
+      "image_prompt": "The small spider watches with wide eyes as a small beetle struggles to free itself from an old, large spider web. Her face falls as she observes the beetle's difficult escape from the dewdrops sparkling like diamonds on the web. bright, early morning sunlight, dazzling reflections off the web, a fresh and vibrant atmosphere, but with a shadow of danger",
+      "scene_visual": "The small spider watches with wide eyes as a small beetle struggles to free itself from an old, large spider web. Her face falls as she observes the beetle's difficult escape from the dewdrops sparkling like diamonds on the web.",
+      "supporting_char_keys": [
+        "golla"
+      ],
+      "text_te_en": "Marusati Udayan, Nulu Poddunne Lechi, Totalo Nadustu Oka Pedda Saalidu Gudunu Chusindi. Aa Gudu Mida Manchu Binduvulu Vajraallaa Merustunnaayi — Kallu Peddavi Chesukuni Chusindi. Intalo Oka Chinna Gullepurugu (Gollaa) Paata Gudulo Chikkukoni Vilavilalaadindi, Chivariki Elaagolaa Bayatapadindi. \"Anta Andamainadi... Kaani Adi Oka Uchchu!\" Ani Nulu Gonukkundi, Tanalo Tane Aalochistu. Gollaa Kashtaanni Chusi Aame Mukham Okkasaarigaa Maasipoyindi.",
+      "text_en": "The next morning, Noolu woke up early and, while walking in the garden, saw a big spider's web. Dewdrops on the web sparkled like diamonds — she looked at it with wide eyes. Just then, a small beetle (Golla) struggled, caught in an old web, and finally managed to get out. \"So beautiful... but it's a trap!\" Noolu murmured, thinking to herself. Seeing Golla's struggle, her face suddenly fell."
+    },
+    {
+      "id": 3,
+      "text": "నూలుకు ఆకలిగా అనిపించింది, కడుపులో గుడగుడ శబ్దం వినిపించింది — తన కాళ్ళు అటూ ఇటూ కదుపుకుంది. ఆమె మనసులో ఒక ఆలోచన మెదిలింది, తను కూడా ఒక గూడు అల్లాలనిపించింది. కానీ గొల్లా కష్టం గుర్తుకొచ్చింది. \"నాకు ఆకలిగా ఉంది, కానీ ఆ చిన్న జీవులకు నేను ఉచ్చు వేయాలా?\" అని తనలో తనే ప్రశ్నించుకుంది, సమాధానం దొరకనట్లు. ఇంతలో ఒక తెలివైన చీమ, చిన్న, ఆమె వైపు నడుచుకుంటూ వచ్చింది.",
+      "image_prompt": "The small spider moves her legs back and forth, feeling hungry, as a clever ant walks towards her. Her stomach rumbles audibly, highlighting her hunger as the ant approaches. diffused late morning light, warm and soft, casting gentle shadows, highlighting Noolu's thoughtful posture",
+      "scene_visual": "The small spider moves her legs back and forth, feeling hungry, as a clever ant walks towards her. Her stomach rumbles audibly, highlighting her hunger as the ant approaches.",
+      "supporting_char_keys": [
+        "chinna"
+      ],
+      "text_te_en": "Nuluku Aakaligaa Anipinchindi, Kadupulo Gudaguda Shabdam Vinipinchindi — Tana Kaallu Atu Itu Kadupukundi. Aame Manasulo Oka Aalochana Medilindi, Tanu Kudaa Oka Gudu Allaalanipinchindi. Kaani Gollaa Kashtam Gurtukochchindi. \"Naaku Aakaligaa Undi, Kaani Aa Chinna Jivulaku Nenu Uchchu Veyaalaa?\" Ani Tanalo Tane Prashninchukundi, Samaadhaanam Dorakanatlu. Intalo Oka Telivaina Chima, Chinna, Aame Vaipu Naduchukuntu Vachchindi.",
+      "text_en": "Noolu felt hungry, her stomach rumbled — she moved her legs back and forth. An idea popped into her mind; she wanted to weave a web too. But Golla's struggle came to her mind. \"I'm hungry, but should I set a trap for those little creatures?\" she asked herself, as if she couldn't find an answer. Just then, a wise ant, Chinna, walked towards her."
+    },
+    {
+      "id": 4,
+      "text": "నూలు తన పట్టు దారాన్ని జిగురు లేకుండా, బలహీనంగా ఉండేలా అల్లడానికి ప్రయత్నించింది. ఆమె కాళ్ళు గట్టిగా అటూ ఇటూ కొట్టింది, దారాన్ని అతికించింది, కానీ అది గాలికి పట్టుకోకుండా వదులైపోయింది. \"ఛీ! ఇది పనికిరాదు! మళ్ళీ మొదటికే!\" అంటూ చిన్న నిట్టూర్పు విడిచింది, దారం తెగిపోయినప్పుడు వినిపించిన ఆ సన్నని 'టప్' శబ్దం ఆమెకు బాగా వినపడింది. ఆమె అల్లిన గూడు బలహీనంగా ఉండడంతో, అది ఒక్కసారిగా — కూలిపోయింది. గొల్లా పురుగు, చిన్న చీమ ఇద్దరూ నూలు ప్రయత్నాన్ని మౌనంగా చూశారు.",
+      "image_prompt": "The small spider vigorously moves her legs, attempting to weave a non-sticky, weak thread, which then collapses. The faint 'tap' sound of the thread breaking is clearly audible as the entire weak web falls apart. harsh midday sun, bright and unforgiving, highlighting the fragility of Noolu's web against the strong light",
+      "scene_visual": "The small spider vigorously moves her legs, attempting to weave a non-sticky, weak thread, which then collapses. The faint 'tap' sound of the thread breaking is clearly audible as the entire weak web falls apart.",
+      "supporting_char_keys": [
+        "golla",
+        "chinna"
+      ],
+      "text_te_en": "Nulu Tana Pattu Daaraanni Jiguru Lekundaa, Balahinangaa Undelaa Alladaaniki Prayatninchindi. Aame Kaallu Gattigaa Atu Itu Kottindi, Daaraanni Atikinchindi, Kaani Adi Gaaliki Pattukokundaa Vadulaipoyindi. \"Chi! Idi Panikiraadu! Malli Modatike!\" Antu Chinna Nitturpu Vidichindi, Daaram Tegipoyinappudu Vinipinchina Aa Sannani 'Tap' Shabdam Aameku Baagaa Vinapadindi. Aame Allina Gudu Balahinangaa Undadanto, Adi Okkasaarigaa — Kulipoyindi. Gollaa Purugu, Chinna Chima Iddaru Nulu Prayatnaanni Maunangaa Chushaaru.",
+      "text_en": "Noolu tried to weave her silk thread without stickiness, making it weak. She moved her legs vigorously back and forth, attaching the thread, but it became loose and couldn't hold in the wind. \"Ugh! This won't work! Back to square one!\" she sighed, clearly hearing the faint 'snap' sound when the thread broke. Since the web she wove was weak, it suddenly — collapsed. Golla the beetle and Chinna the ant both watched Noolu's attempt in silence."
+    },
+    {
+      "id": 5,
+      "text": "నూలు శరీరం నిస్సత్తువగా వాలిపోయింది, పక్కన ఉన్న గూళ్ళలో ఆహారం పట్టుకున్న సాలీళ్ళను కళ్ళు నిస్సహాయంగా చూసింది. ఒక గూడులో చిక్కుకున్న ఈగ చేసే సన్నని 'బజ్' శబ్దం ఆమెకు మరింత ఆకలిని గుర్తుచేసింది. \"ఇలా ఉంటే నాకు ఆహారం ఎలా దొరుకుతుంది?\" అని ఆలోచించింది, ఆమెకు ఏమీ తోచలేదు. చిన్న చీమ ఆమె వైపు చూసి, \"నీ స్వభావం నీ బలం, చిన్నదానా. దాన్ని అర్థం చేసుకో,\" అని మెల్లగా చెప్పింది. నూలు చిన్న వైపు చూసింది — ఆమె కళ్ళలో ఒక కొత్త వెలుగు కనిపించింది.",
+      "image_prompt": "The small spider's body droops weakly as she looks at the small ant who is speaking to her. A new light appears in her eyes as she gazes at the ant, contrasting with her earlier helpless gaze at other spiders' webs. gentle dusk light, warm amber hues, peaceful yet tinged with Noolu's silent struggle and Chinna's patient wisdom",
+      "scene_visual": "The small spider's body droops weakly as she looks at the small ant who is speaking to her. A new light appears in her eyes as she gazes at the ant, contrasting with her earlier helpless gaze at other spiders' webs.",
+      "supporting_char_keys": [
+        "chinna"
+      ],
+      "text_te_en": "Nulu Shariram Nissattuvagaa Vaalipoyindi, Pakkana Unna Gullalo Aahaaram Pattukunna Saalillanu Kallu Nissahaayangaa Chusindi. Oka Gudulo Chikkukunna Iga Chese Sannani 'Baj' Shabdam Aameku Marinta Aakalini Gurtuchesindi. \"Ilaa Unte Naaku Aahaaram Elaa Dorukutundi?\" Ani Aalochinchindi, Aameku Emi Tochaledu. Chinna Chima Aame Vaipu Chusi, \"Ni Svabhaavam Ni Balan, Chinnadaanaa. Daanni Artham Chesuko,\" Ani Mellagaa Cheppindi. Nulu Chinna Vaipu Chusindi — Aame Kallalo Oka Kotta Velugu Kanipinchindi.",
+      "text_en": "Noolu's body drooped weakly, and her eyes helplessly watched the spiders catching food in nearby webs. The faint 'buzz' of a fly caught in a web reminded her of her hunger even more. \"If I'm like this, how will I find food?\" she wondered, feeling lost. Chinna the ant looked at her and gently said, \"Your nature is your strength, little one. Understand that.\" Noolu looked at Chinna — a new light appeared in her eyes."
+    },
+    {
+      "id": 6,
+      "text": "నూలు తన శరీరాన్ని నిటారుగా చేసుకుంది — ఆమె కదలికలు పదునుగా మారాయి. రాత్రి చీకటి పడుతుండగా, చల్లటి గాలిలో ఆమె తన పట్టు దారాన్ని నైపుణ్యంగా, ధైర్యంగా అల్లడం మొదలుపెట్టింది. \"ఇది నా దారి. నేను నా స్వభావాన్ని గౌరవించాలి,\" అని గట్టిగా నిర్ణయించుకుంది. ఆమె వేగంగా, లయబద్ధంగా దారాలను లాగుతూ, అతికిస్తూ, 'జిప్-జిప్' మని శబ్దం చేస్తూనే ఉంది. తెల్లవారేసరికి, రెండు కొమ్మల మధ్య ఒక అందమైన, బలమైన గూడు సిద్ధంగా ఉంది.",
+      "image_prompt": "The small spider straightens her body and skillfully weaves her silk thread between two branches with sharp, rhythmic movements. She works quickly in the cool night breeze, making 'zip-zip' sounds as she pulls and attaches the threads. deep twilight, cool blue-greys, with the first hint of pre-dawn light on the horizon, creating a silhouette of Noolu's focused work",
+      "scene_visual": "The small spider straightens her body and skillfully weaves her silk thread between two branches with sharp, rhythmic movements. She works quickly in the cool night breeze, making 'zip-zip' sounds as she pulls and attaches the threads.",
+      "supporting_char_keys": [
+        "golla"
+      ],
+      "text_te_en": "Nulu Tana Shariraanni Nitaarugaa Chesukundi — Aame Kadalikalu Padunugaa Maaraayi. Raatri Chikati Padutundagaa, Challati Gaalilo Aame Tana Pattu Daaraanni Naipunyangaa, Dhairyangaa Alladam Modalupettindi. \"Idi Naa Daari. Nenu Naa Svabhaavaanni Gauravinchaali,\" Ani Gattigaa Nirnayinchukundi. Aame Vegangaa, Layabaddhangaa Daaraalanu Laagutu, Atikistu, 'Jip-Jip' Mani Shabdam Chestune Undi. Tellavaaresariki, Rendu Kommala Madhya Oka Andamaina, Balamaina Gudu Siddhangaa Undi.",
+      "text_en": "Noolu straightened her body — her movements became sharp. As night fell, in the cool breeze, she began to skillfully and bravely weave her silk thread. \"This is my way. I must respect my nature,\" she firmly decided. She quickly and rhythmically pulled and attached the threads, making 'zip-zip' sounds. By dawn, a beautiful, strong web was ready between two branches."
+    },
+    {
+      "id": 7,
+      "text": "ఉదయం సూర్యకిరణాలు నూలు గూడు మీద పడగానే, మంచు బిందువులతో అది మెరిసిపోయింది. ఆమె పట్టు దారపు కాళ్ళ మీద సూర్యుడి మృదువైన వెచ్చదనం తగిలింది. ఇంతలో, ఒక చిన్న ఈగ గూడులో చిక్కుకుంది — నూలు దానిని చూసింది. \"నీ ప్రాణం నాకు వద్దు,\" అంటూ నెమ్మదిగా ఈగను విడిపించింది, అది ఎగిరిపోయింది. అప్పుడు నూలు పక్కనే ఉన్న ఆకు మీద ఉన్న ఎన్నో చిన్న పచ్చ పురుగులను చూసి, వాటిని సేకరించడం మొదలుపెట్టింది — ఆమె ముఖం మీద చిన్న చిరునవ్వు మెరిసింది. గొల్లా, చిన్న చీమ ఇద్దరూ ఆమెను చూస్తూ నిలబడ్డారు.",
+      "image_prompt": "The small spider gently frees a small fly caught in her sparkling web, then turns to collect small green insects from a nearby leaf. A small smile flashes on her face as she gathers the insects, while the beetle and the ant watch her. bright, golden morning sun, sparkling on the dew-covered web, creating a warm and peaceful glow, signifying a new day and new understanding",
+      "scene_visual": "The small spider gently frees a small fly caught in her sparkling web, then turns to collect small green insects from a nearby leaf. A small smile flashes on her face as she gathers the insects, while the beetle and the ant watch her.",
+      "supporting_char_keys": [
+        "golla",
+        "chinna"
+      ],
+      "text_te_en": "Udayam Suryakiranaalu Nulu Gudu Mida Padagaane, Manchu Binduvulato Adi Merisipoyindi. Aame Pattu Daarapu Kaalla Mida Suryudi Mrriduvaina Vechchadanam Tagilindi. Intalo, Oka Chinna Iga Gudulo Chikkukundi — Nulu Daanini Chusindi. \"Ni Praanam Naaku Vaddu,\" Antu Nemmadigaa Iganu Vidipinchindi, Adi Egiripoyindi. Appudu Nulu Pakkane Unna Aaku Mida Unna Enno Chinna Pachcha Purugulanu Chusi, Vaatini Sekarinchadam Modalupettindi — Aame Mukham Mida Chinna Chirunavvu Merisindi. Gollaa, Chinna Chima Iddaru Aamenu Chustu Nilabaddaaru.",
+      "text_en": "As the morning sun rays fell on Noolu's web, it sparkled with dewdrops. The gentle warmth of the sun touched her silk-threaded legs. Just then, a small fly got caught in the web — Noolu saw it. \"I don't want your life,\" she said, and gently freed the fly, which then flew away. Then Noolu saw many small green worms on a leaf nearby and began to collect them — a small smile appeared on her face. Golla and Chinna both stood watching her."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "golla",
+      "description": "A tiny, iridescent green beetle, no bigger than a grain of rice. He has delicate antennae that twitch constantly and six quick, scuttling legs. He is curious and observant. Always the same character across every scene."
+    },
+    {
+      "key": "chinna",
+      "description": "A wise, old black ant with a slightly bent antenna. She moves with slow, deliberate steps and carries a small, shiny seed often. She is patient and offers gentle wisdom. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 10,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-crafted, demonstrating strong emotional depth, natural dialogue, flawless grammar, and a compelling narrative arc. The internal conflict of నూలు is beautifully portrayed, making the moral emerge organically from her journey. To elevate it further to an award-worthy piece, focus on refining the narrative voice in a few descriptive passages to achieve a consistently pure oral warmth, making it feel even more like a grandparent's spontaneous storytelling."
+  },
+  "title_te_en": "Nulu Telivi, Daaram Katha",
+  "moral_te_en": "Konnisaarlu Mana Manugadaku Avasaramainadi Itarulaku Kashtangaa Maaravachchu, Kaani Aa Samatulyatanu Artham Chesukoni Dayato Jivinchadame Nijamaina Telivi.",
+  "title_en": "Noolu's Wisdom, the Story of the Web",
+  "moral_en": "Sometimes, what we need to survive can be hard for others. But true wisdom is understanding that balance and living with kindness.",
+  "id": "20260610_151014",
+  "date": "2026-06-10",
+  "category": "podupu",
+  "subcategory": "nature_riddles",
+  "topic": "రాత్రికి రాత్రే నా ఇల్లు కడతాను, ఉదయాన వజ్రాల కాంతితో మెరుస్తాను, కానీ అది చిన్న జీవులకు ఉచ్చు. నేనెవరిని?",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260610_151014/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
