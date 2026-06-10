@@ -1,0 +1,113 @@
+{
+  "title": "తెనాలి తెలివి, మాటల బరువు",
+  "moral": "మాట్లాడే మాటల ప్రభావం చాలా గొప్పది నాన్నా, అందుకే ఆలోచించి మాట్లాడాలి.",
+  "main_character": "Tenali Ramakrishna is a quick-witted scholar and poet in the court of Emperor Krishnadevaraya. He is known for his intelligence, humor, and ability to solve complex problems with simple, clever solutions. Always the same character across every scene.",
+  "antagonist": "A group of stern, traditionally dressed royal pundits, often seen in rich, embroidered robes of deep red and gold. They carry scrolls and have solemn, often envious expressions. Always the same character across every scene.",
+  "setting": "The grand court of Emperor Krishnadevaraya in Vijayanagara, specifically the ornate durbar hall with its polished marble floors, large pillars, and a central throne. The scene often takes place during the day, bathed in sunlight filtering through high arched windows. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకసారి కృష్ణదేవరాయల ఆస్థానంలో తెనాలి రామకృష్ణుడు తన చమత్కారంతో అందరినీ నవ్విస్తున్నాడు. సభలోని వారందరూ అతని మాటలకు చిన్నగా నవ్వుతూ, సిల్కు దుస్తుల చప్పుళ్లతో తమ ఆనందాన్ని చూపించారు. మహారాజు కూడా చిన్నగా నవ్వారు, కానీ ఆ ప్రకాశం, ఆ మెరుపు — తెనాలి కళ్ళల్లో స్పష్టంగా కనిపించింది! అతను నమ్రతగా ఇలా అన్నాడు: \"మహారాజా, తెలివికి బరువు ఉండదు, కానీ దాని ప్రభావం మాత్రం చాలా బరువైనది!\" అయితే, ప్రధాన పండితుడి ముఖం మాత్రం కోపంతో చిట్లించుకుంది, అతని పెదవులు విరుచుకుని తెనాలి వైపు చూశాడు.",
+      "image_prompt": "The chief scholar's face contorts with anger as he glares at the jester. His lips are pursed tightly, reflecting his intense displeasure. Also in this scene: A group of stern, traditionally dressed royal pundits, often seen in rich, embroidered robes of deep red and gold. They carry scrolls and have solemn, often envious expressions. Always the same character across every scene. Bright morning sunlight streaming through high arched windows, illuminating dust motes in the grand durbar hall, creating a sense of formal grandeur.",
+      "scene_visual": "The chief scholar's face contorts with anger as he glares at the jester. His lips are pursed tightly, reflecting his intense displeasure.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Okasaari Krrishnadevaraayala Aasthaananlo Tenaali Raamakrrishnudu Tana Chamatkaaranto Andarini Navvistunnaadu. Sabhaloni Vaarandaru Atani Maatalaku Chinnagaa Navvutu, Silku Dustula Chappullato Tama Aanandaanni Chupinchaaru. Mahaaraaju Kudaa Chinnagaa Navvaaru, Kaani Aa Prakaashan, Aa Merupu — Tenaali Kallallo Spashtangaa Kanipinchindi! Atanu Namratagaa Ilaa Annaadu: \"Mahaaraajaa, Teliviki Baruvu Undadu, Kaani Daani Prabhaavam Maatram Chaalaa Baruvainadi!\" Ayite, Pradhaana Panditudi Mukham Maatram Kopanto Chitlinchukundi, Atani Pedavulu Viruchukuni Tenaali Vaipu Chushaadu.",
+      "text_en": "Once, in King Krishnadevaraya's court, Tenali Ramakrishna was making everyone laugh with his wit. Everyone in the court chuckled softly at his words, showing their joy with the rustle of their silk clothes. The King also smiled gently, but that sparkle, that twinkle — it was clearly visible in Tenali's eyes! He humbly said: \"Your Majesty, wit has no weight, but its impact is very heavy!\" However, the chief scholar's face was contorted with anger, and he pursed his lips, glaring at Tenali."
+    },
+    {
+      "id": 2,
+      "text": "తెనాలికి లభించిన ఆ ప్రశంసను చూసి, ప్రధాన పండితుడి స్వరం అకస్మాత్తుగా గంభీరంగా మారింది. సభలో వేలాడుతున్న మల్లెపూల ఘాటైన వాసన మధ్య, అతని మాటలు ఒకింత ఉద్రిక్తతను నింపాయి. పండితుడి పెదవులపై చిన్న నవ్వు మెరిసింది, అతను మహారాజు వైపు తిరిగి, \"మహారాజా, మాటలకు బరువు ఉంటుందని నిరూపించగల ధైర్యం ఎవరికుంది?\" అని సవాలు విసిరాడు. ఆ క్షణంలో మహారాజు కళ్ళల్లో ఒక చిరునవ్వు మెరిసింది, ఆయన చూపులు నేరుగా తెనాలి వైపు పడ్డాయి — అతని సమాధానం కోసం ఎదురుచూస్తున్నట్లు.",
+      "image_prompt": "The king's eyes sparkle with a slight smile as he turns his gaze directly towards the jester. His expression clearly conveys an expectation for the jester's response. Also in this scene: A group of stern, traditionally dressed royal pundits, often seen in rich, embroidered robes of deep red and gold. They carry scrolls and have solemn, often envious expressions. Always the same character across every scene. Bright morning sunlight streaming through high arched windows, illuminating dust motes in the grand durbar hall, creating a sense of formal grandeur.",
+      "scene_visual": "The king's eyes sparkle with a slight smile as he turns his gaze directly towards the jester. His expression clearly conveys an expectation for the jester's response.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaaliki Labhinchina Aa Prashansanu Chusi, Pradhaana Panditudi Svaram Akasmaattugaa Gambhirangaa Maarindi. Sabhalo Velaadutunna Mallepula Ghaataina Vaasana Madhya, Atani Maatalu Okinta Udriktatanu Nimpaayi. Panditudi Pedavulapai Chinna Navvu Merisindi, Atanu Mahaaraaju Vaipu Tirigi, \"Mahaaraajaa, Maatalaku Baruvu Untundani Nirupinchagala Dhairyam Evarikundi?\" Ani Savaalu Visiraadu. Aa Kshananlo Mahaaraaju Kallallo Oka Chirunavvu Merisindi, Aayana Chupulu Nerugaa Tenaali Vaipu Paddaayi — Atani Samaadhaanam Kosam Eduruchustunnatlu.",
+      "text_en": "Seeing the praise Tenali received, the chief scholar's voice suddenly turned serious. Amidst the strong scent of jasmine flowers hanging in the court, his words filled the air with a certain tension. A small smile flickered on the scholar's lips, and he turned to the King, challenging, \"Your Majesty, who has the courage to prove that words have weight?\" At that moment, a small smile twinkled in the King's eyes, and his gaze fell directly on Tenali — as if waiting for his answer."
+    },
+    {
+      "id": 3,
+      "text": "ఆ సవాలు తర్వాత, తెనాలి తన గదిలోకి వెళ్లిపోయాడు, నుదురు చిట్లించుకుని ఏదో లోతుగా ఆలోచిస్తున్నాడు. కిటికీలోంచి దూరంగా వినిపిస్తున్న మార్కెట్ అలికిడి, మసాలా దినుసుల పరిమళం అతని గదిలోకి చేరాయి. అక్కడ ఒక వ్యాపారి తన త్రాసులో సరుకులు తూకం వేయడం చూస్తూ, \"బరువు... కేవలం వస్తువులకే కాదు, మాటలకూ ఉంటుందా?\" అని తనలో తనే అనుకున్నాడు. అతను అలా చూస్తుండగానే — ఒక్కసారిగా తెనాలి కళ్ళల్లో ఒక మెరుపు మెరిసింది!",
+      "image_prompt": "The jester, deep in thought, watches a merchant weighing goods with a scale. Suddenly, a flash of insight brightens his eyes, indicating a breakthrough. Late afternoon sun, casting long, warm shadows across the marketplace, with Tenali in a quiet, contemplative corner of his chamber, bathed in soft light.",
+      "scene_visual": "The jester, deep in thought, watches a merchant weighing goods with a scale. Suddenly, a flash of insight brightens his eyes, indicating a breakthrough.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Savaalu Tarvaata, Tenaali Tana Gadiloki Vellipoyaadu, Nuduru Chitlinchukuni Edo Lotugaa Aalochistunnaadu. Kitikilonchi Durangaa Vinipistunna Maarket Alikidi, Masaalaa Dinusula Parimalam Atani Gadiloki Cheraayi. Akkada Oka Vyaapaari Tana Traasulo Sarukulu Tukam Veyadam Chustu, \"Baruvu... Kevalam Vastuvulake Kaadu, Maatalaku Untundaa?\" Ani Tanalo Tane Anukunnaadu. Atanu Alaa Chustundagaane — Okkasaarigaa Tenaali Kallallo Oka Merupu Merisindi!",
+      "text_en": "After that challenge, Tenali went to his room, his brow furrowed, thinking deeply. The distant sounds of the market and the aroma of spices wafted into his room through the window. Watching a merchant weigh goods on his scales, he wondered to himself, \"Weight... is it only for things, or can words have it too?\" As he watched — suddenly, a spark lit up in Tenali's eyes!"
+    },
+    {
+      "id": 4,
+      "text": "ఆ మరుసటి రోజు తెనాలి, పక్కనే ఉన్న ఒక పల్లెటూరిలోకి వెళ్ళి, మనుషులు ఎలా మాట్లాడుకుంటున్నారో గమనించాడు. ఒక చిన్నారిని అమ్మ మందలించినప్పుడు, ఆ పిల్ల ఏడుపు గట్టిగా వినిపించింది; అదే అమ్మ లాలనగా పలికే మాటలు ఆ చిన్నారిని వెంటనే శాంతింపజేశాయి. ఈ సంఘటనలన్నీ చూసిన తెనాలి పెదవులపై ఒక చిన్న నవ్వు విరిసింది, అతను తన సవాలుకు సమాధానం దొరికినట్లు భావించాడు. \"అవును! మాటలకు నిజంగా బరువు ఉంది, కానీ అది వినిపించే విధానంలో ఉంది!\" అని తనలో తనే గట్టిగా అనుకున్నాడు. వెంటనే, తెనాలి ముఖంలో కొత్త ఉత్సాహం నిండింది — తన ప్రణాళికను అమలు చేయడానికి వేగంగా రాజభవనం వైపు అడుగులేశాడు.",
+      "image_prompt": "The jester observes various interactions in a village, a small smile forming on his lips. His face fills with new enthusiasm as he confidently strides towards the palace. Golden hour light filtering through village trees, dappling the path Tenali walks, creating a feeling of warmth and revelation.",
+      "scene_visual": "The jester observes various interactions in a village, a small smile forming on his lips. His face fills with new enthusiasm as he confidently strides towards the palace.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Marusati Roju Tenaali, Pakkane Unna Oka Palleturiloki Velli, Manushulu Elaa Maatlaadukuntunnaaro Gamaninchaadu. Oka Chinnaarini Amma Mandalinchinappudu, Aa Pilla Edupu Gattigaa Vinipinchindi; Ade Amma Laalanagaa Palike Maatalu Aa Chinnaarini Ventane Shaantimpajeshaayi. I Sanghatanalanni Chusina Tenaali Pedavulapai Oka Chinna Navvu Virisindi, Atanu Tana Savaaluku Samaadhaanam Dorikinatlu Bhaavinchaadu. \"Avunu! Maatalaku Nijangaa Baruvu Undi, Kaani Adi Vinipinche Vidhaananlo Undi!\" Ani Tanalo Tane Gattigaa Anukunnaadu. Ventane, Tenaali Mukhanlo Kotta Utsaaham Nindindi — Tana Pranaalikanu Amalu Cheyadaaniki Vegangaa Raajabhavanam Vaipu Aduguleshaadu.",
+      "text_en": "The next day, Tenali went to a nearby village and observed how people spoke. When a mother scolded her child, the child's cries were loud; but the same mother's gentle, loving words immediately calmed the child. Seeing all these incidents, a small smile bloomed on Tenali's lips, and he felt he had found the answer to his challenge. \"Yes! Words truly have weight, but it lies in *how* they are spoken!\" he said to himself aloud. Immediately, Tenali's face filled with new enthusiasm — he quickly walked towards the palace to put his plan into action."
+    },
+    {
+      "id": 5,
+      "text": "మళ్ళీ సభకు వచ్చిన తెనాలి, తన చేతుల్లో రెండు పెద్ద, ఒకేలాంటి ఖాళీ మట్టి కుండలను పట్టుకున్నాడు. పండితులు అతని వైపు పెదవులు విరిచి చూశారు, ఏమి జరుగుతుందో అర్థం కాలేదు. కానీ తెనాలి కళ్ళల్లో ఒక కొంటె మెరుపు, ఆ కుండలను ఒక పెద్ద, అందమైన త్రాసు మీద జాగ్రత్తగా ఉంచాడు. కుండలు బరువుగా మోగే శబ్దం, సభలో చిన్న ప్రతిధ్వనిని సృష్టించింది. \"మహారాజా, మాటల బరువును కొలిచే సాధనంగా ఈ కుండలను ఉపయోగించబోతున్నాను,\" అని తెనాలి ప్రకటించాడు. పండితులు ఒకరినొకరు చూసుకున్నారు — తెనాలి ఈ విచిత్రమైన ఏర్పాటుతో ఏం చేయబోతున్నాడో వారికి అర్థం కాలేదు.",
+      "image_prompt": "The jester carefully places two large, identical empty clay pots onto a beautiful, grand scale. The pots make a heavy, resonant sound as they settle, echoing slightly in the hall. Also in this scene: A group of stern, traditionally dressed royal pundits, often seen in rich, embroidered robes of deep red and gold. They carry scrolls and have solemn, often envious expressions. Always the same character across every scene. The court is filled with the bright, direct light of midday, making the clay pots stand out starkly against the polished floor.",
+      "scene_visual": "The jester carefully places two large, identical empty clay pots onto a beautiful, grand scale. The pots make a heavy, resonant sound as they settle, echoing slightly in the hall.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Malli Sabhaku Vachchina Tenaali, Tana Chetullo Rendu Pedda, Okelaanti Khaali Matti Kundalanu Pattukunnaadu. Panditulu Atani Vaipu Pedavulu Virichi Chushaaru, Emi Jarugutundo Artham Kaaledu. Kaani Tenaali Kallallo Oka Konte Merupu, Aa Kundalanu Oka Pedda, Andamaina Traasu Mida Jaagrattagaa Unchaadu. Kundalu Baruvugaa Moge Shabdan, Sabhalo Chinna Pratidhvanini Srrishtinchindi. \"Mahaaraajaa, Maatala Baruvunu Koliche Saadhanangaa I Kundalanu Upayoginchabotunnaanu,\" Ani Tenaali Prakatinchaadu. Panditulu Okarinokaru Chusukunnaaru — Tenaali I Vichitramaina Erpaatuto Em Cheyabotunnaado Vaariki Artham Kaaledu.",
+      "text_en": "Returning to the court, Tenali held two large, identical empty clay pots in his hands. The scholars looked at him with pursed lips, not understanding what was happening. But there was a mischievous twinkle in Tenali's eyes as he carefully placed the pots on a large, beautiful scale. The heavy thud of the pots created a small echo in the court. \"Your Majesty, I am going to use these pots as a tool to measure the weight of words,\" Tenali announced. The scholars looked at each other — they couldn't understand what Tenali was going to do with this strange setup."
+    },
+    {
+      "id": 6,
+      "text": "అప్పుడు తెనాలి ఒక సేవకుడిని పిలిచి, ఒక కుండలోకి కఠినమైన, కోపంతో కూడిన మాటలు చెప్పమన్నాడు. ఆ కఠినమైన మాటల గరుకు ధ్వని ఆ కుండలో ఖాళీగా ప్రతిధ్వనించింది. ఆ తర్వాత, మరొక సేవకుడిని పిలిచి, రెండవ కుండలోకి దయతో, ప్రోత్సాహకరమైన మాటలు చెప్పమన్నాడు. మృదువైన మాటల ఓదార్పు ఆ కుండలోకి చేరగానే, తెనాలి పెదవులపై ఒక ప్రశాంతమైన నవ్వు విరిసింది. త్రాసు స్పష్టంగా వంగింది — అద్భుతం! ఒక కుండ కిందికి వంగగా, ఇంకొకటి పైకి లేచింది. \"చూడండి మహారాజా, ఒక కుండ కిందికి వంగింది, ఇంకొకటి పైకి లేచింది! మాటల బరువు వాటి ప్రభావంలోనే ఉంది,\" అని తెనాలి అన్నాడు. మహారాజు నెమ్మదిగా చప్పట్లు కొట్టాడు — ఆయన ముఖంలో లోతైన అవగాహన కనిపించింది.",
+      "image_prompt": "The scale clearly tilts, with one pot descending and the other rising. The jester's lips curve into a serene smile as he observes the dramatic shift. Also in this scene: A group of stern, traditionally dressed royal pundits, often seen in rich, embroidered robes of deep red and gold. They carry scrolls and have solemn, often envious expressions. Always the same character across every scene. The court is bathed in a dramatic, almost theatrical light, with spotlights seeming to fall on Tenali and the scale, highlighting the moment of revelation.",
+      "scene_visual": "The scale clearly tilts, with one pot descending and the other rising. The jester's lips curve into a serene smile as he observes the dramatic shift.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Appudu Tenaali Oka Sevakudini Pilichi, Oka Kundaloki Kathinamaina, Kopanto Kudina Maatalu Cheppamannaadu. Aa Kathinamaina Maatala Garuku Dhvani Aa Kundalo Khaaligaa Pratidhvaninchindi. Aa Tarvaata, Maroka Sevakudini Pilichi, Rendava Kundaloki Dayato, Protsaahakaramaina Maatalu Cheppamannaadu. Mrriduvaina Maatala Odaarpu Aa Kundaloki Cheragaane, Tenaali Pedavulapai Oka Prashaantamaina Navvu Virisindi. Traasu Spashtangaa Vangindi — Adbhutan! Oka Kunda Kindiki Vangagaa, Inkokati Paiki Lechindi. \"Chudandi Mahaaraajaa, Oka Kunda Kindiki Vangindi, Inkokati Paiki Lechindi! Maatala Baruvu Vaati Prabhaavanlone Undi,\" Ani Tenaali Annaadu. Mahaaraaju Nemmadigaa Chappatlu Kottaadu — Aayana Mukhanlo Lotaina Avagaahana Kanipinchindi.",
+      "text_en": "Then Tenali called a servant and asked him to speak harsh, angry words into one pot. The rough sound of those harsh words echoed emptily in the pot. After that, he called another servant and asked him to speak kind, encouraging words into the second pot. As the comfort of the soft words entered the pot, a peaceful smile bloomed on Tenali's lips. The scale clearly tilted — it was amazing! One pot went down, and the other went up. \"Look, Your Majesty, one pot went down, and the other went up! The weight of words lies in their impact,\" Tenali said. The King slowly clapped — a deep understanding was visible on his face."
+    },
+    {
+      "id": 7,
+      "text": "మహారాజు వస్త్రాల మెత్తని చప్పుడు తప్ప, సభ అంతా నిశ్శబ్దంగా ఉంది. మహారాజు స్వరం — మొత్తం సభ నిశ్శబ్దంగా వింది! \"తెనాలి రాముడా, నీ తెలివికి సాటి లేదు! మాటల విలువను నీవు నిజంగా తూచావు!\" అని మహారాజు ప్రశంసించాడు. తెనాలి వినయంగా తల వంచాడు, ఆ ప్రశంసను స్వీకరించాడు. పండితులు మాత్రం తలలు దించుకున్నారు, సిగ్గుతో నిలబడ్డారు — తెనాలి తెలివికి ముందు తమ అహంకారం ఓడిపోయిందని వారికి అర్థమైంది. చూశావా బాబూ, మాటలకు ఎంత బరువుంటుందో! మంచి మాటలు మనుషులను ఎంతగానో ప్రభావితం చేస్తాయి.",
+      "image_prompt": "The scholars lower their heads in shame, standing silently before the king. Their humbled posture clearly indicates their defeat in the face of the jester's wit. Also in this scene: A group of stern, traditionally dressed royal pundits, often seen in rich, embroidered robes of deep red and gold. They carry scrolls and have solemn, often envious expressions. Always the same character across every scene. Gentle dusk light, warm amber, filling the court, creating a peaceful and reflective atmosphere after the day's events.",
+      "scene_visual": "The scholars lower their heads in shame, standing silently before the king. Their humbled posture clearly indicates their defeat in the face of the jester's wit.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Mahaaraaju Vastraala Mettani Chappudu Tappa, Sabha Antaa Nishshabdangaa Undi. Mahaaraaju Svaram — Mottam Sabha Nishshabdangaa Vindi! \"Tenaali Raamudaa, Ni Teliviki Saati Ledu! Maatala Viluvanu Nivu Nijangaa Tuchaavu!\" Ani Mahaaraaju Prashansinchaadu. Tenaali Vinayangaa Tala Vanchaadu, Aa Prashansanu Svikarinchaadu. Panditulu Maatram Talalu Dinchukunnaaru, Sigguto Nilabaddaaru — Tenaali Teliviki Mundu Tama Ahankaaram Odipoyindani Vaariki Arthamaindi. Chushaavaa Baabu, Maatalaku Enta Baruvuntundo! Manchi Maatalu Manushulanu Entagaano Prabhaavitam Chestaayi.",
+      "text_en": "Except for the soft rustle of the King's clothes, the entire court was silent. The King's voice — the whole court listened in silence! \"Tenali Rama, your wit is unmatched! You have truly weighed the value of words!\" the King praised. Tenali humbly bowed his head, accepting the praise. The scholars, however, hung their heads, standing in shame — they understood that their arrogance had been defeated by Tenali's cleverness. See, my dear child, how much weight words carry! Good words greatly influence people."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "emperor",
+      "description": "Emperor Krishnadevaraya is a majestic and wise ruler, known for his love of arts and justice. He wears elaborate gold and gem-studded crowns and rich, royal blue silk drapes. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 10,
+    "average": 8.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and exceptional child engagement, making it highly suitable for young listeners. The emotional depth is mostly well-executed through showing rather than telling. To reach an award-worthy 9+, the single most important fix is to consistently infuse more oral warmth and conversational tone throughout the narrative, moving away from descriptive prose towards a more natural, spoken storytelling style."
+  },
+  "title_te_en": "Tenaali Telivi, Maatala Baruvu",
+  "moral_te_en": "Maatlaade Maatala Prabhaavam Chaalaa Goppadi Naannaa, Anduke Aalochinchi Maatlaadaali.",
+  "title_en": "Tenali's Wit and the Weight of Words",
+  "moral_en": "My dear child, the impact of the words we speak is very great, so we must think before we speak.",
+  "id": "20260610_090913",
+  "date": "2026-06-10",
+  "category": "tenali",
+  "subcategory": "court_wit",
+  "topic": "తెనాలి రాముడు మరియు మాటల తూకం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260610_090913/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
