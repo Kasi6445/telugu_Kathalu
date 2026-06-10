@@ -1,0 +1,97 @@
+{
+  "title": "వయసు మారే అడవిలో చిన్నారి చిన్నా",
+  "moral": "మన చుట్టూ ఉన్న ప్రపంచాన్ని శ్రద్ధగా గమనిస్తే, ఎంత విచిత్రమైన విషయాలైనా వాటి రహస్యాలను బయటపెడతాయి.",
+  "main_character": "Chinna is a bright, inquisitive ten-year-old girl with thick, braided black hair and large, curious eyes often hidden behind round spectacles. She wears practical, earth-toned clothes and always carries a small, worn notebook and a magnifying glass. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The Nallamala Hills, a dense, ancient forest in Andhra Pradesh, filled with towering sal trees, winding streams, and moss-covered granite rocks. The air is thick with the scent of damp earth and exotic blossoms, and the canopy creates a perpetually dappled, shifting light. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల కొండల లోపల, చిన్నా తన పాత నోట్‌బుక్‌లో ఓ కొత్త పువ్వును చిత్రించుకుంటూ, మధురంగా పాడుకుంటోంది. ఆమె వంగి, ఆ పువ్వును మరింత దగ్గరగా చూస్తూ, దాని కమ్మటి మల్లెపూల సువాసనను ఆస్వాదించింది. \"ఆహా! ఎంత అద్భుతమైన ఆకుపచ్చ!\" అని ఆనందంగా పలికింది. ఆమె దృష్టి అకస్మాత్తుగా పక్కకు మళ్లింది — చెట్టు కొమ్మల్లో మెరుస్తున్న ఒక వింత తీగ కనిపించింది. అడవిలో ఇంతకుముందు ఎప్పుడూ చూడని ఆ తీగ వైపు ఆమె కళ్ళు ఆసక్తిగా నిలిచిపోయాయి.",
+      "image_prompt": "The girl's gaze suddenly shifts to a strange glowing vine in the tree branches. Her eyes are fixed with curiosity on the shimmering, unfamiliar vine. Warm, dappled sunlight filters through the dense canopy, creating shifting patterns of light and shadow on the forest floor, highlighting the vibrant greens.",
+      "scene_visual": "The girl's gaze suddenly shifts to a strange glowing vine in the tree branches. Her eyes are fixed with curiosity on the shimmering, unfamiliar vine.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Kondala Lopala, Chinnaa Tana Paata Not‌Buk‌Lo O Kotta Puvvunu Chitrinchukuntu, Madhurangaa Paadukuntondi. Aame Vangi, Aa Puvvunu Marinta Daggaragaa Chustu, Daani Kammati Mallepula Suvaasananu Aasvaadinchindi. \"Aahaa! Enta Adbhutamaina Aakupachcha!\" Ani Aanandangaa Palikindi. Aame Drrishti Akasmaattugaa Pakkaku Mallindi — Chettu Kommallo Merustunna Oka Vinta Tiga Kanipinchindi. Adavilo Intakumundu Eppudu Chudani Aa Tiga Vaipu Aame Kallu Aasaktigaa Nilichipoyaayi.",
+      "text_en": "Deep inside the Nallamala Hills, Chinna was sweetly singing, drawing a new flower in her old notebook. She bent down, looked at the flower more closely, and enjoyed its sweet jasmine fragrance. \"Oh! What a wonderful green!\" she exclaimed happily. Her gaze suddenly shifted — she saw a strange glowing vine in the tree branches. Her eyes were drawn curiously to the vine, which she had never seen in the forest before."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరిసే తీగ వెంట చిన్నా అడవిలోకి మరింత లోతుగా నడిచింది, తన దారిని పూర్తిగా మరిచిపోయింది. ఆ తీగ నుండి వచ్చే మృదువైన జీవకాంతి — చుట్టూ ఉన్న అడవిని ఒక వింత పచ్చని రంగులోకి మార్చేసింది. చుట్టూ ఉన్న చెట్లు, పొదలు అపరిచితంగా అనిపించడంతో ఆమె ముఖం చిట్లించుకుంది. \"ఓహ్, ఇప్పుడెక్కడ ఉన్నాను?\" అని చిన్నగా తనలో తనే అనుకుంది. ఇంతలో, ఆమె ముందు నేలపై పొడుస్తున్న ఒక చిన్న కోడిపిల్ల — ఒక్కసారిగా పెద్ద కోడిలా మారిపోయింది.",
+      "image_prompt": "The girl stands watching as a small chick pecking on the ground in front of her instantly transforms into a large chicken. The soft bioluminescence from the vine casts a strange green glow over the surrounding, unfamiliar forest. The setting sun begins to cast long, purple shadows, but the glowing vine emits a consistent, soft green light, making the immediate area feel otherworldly.",
+      "scene_visual": "The girl stands watching as a small chick pecking on the ground in front of her instantly transforms into a large chicken. The soft bioluminescence from the vine casts a strange green glow over the surrounding, unfamiliar forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merise Tiga Venta Chinnaa Adaviloki Marinta Lotugaa Nadichindi, Tana Daarini Purtigaa Marichipoyindi. Aa Tiga Nundi Vachche Mrriduvaina Jivakaanti — Chuttu Unna Adavini Oka Vinta Pachchani Ranguloki Maarchesindi. Chuttu Unna Chetlu, Podalu Aparichitangaa Anipinchadanto Aame Mukham Chitlinchukundi. \"Oh, Ippudekkada Unnaanu?\" Ani Chinnagaa Tanalo Tane Anukundi. Intalo, Aame Mundu Nelapai Podustunna Oka Chinna Kodipilla — Okkasaarigaa Pedda Kodilaa Maaripoyindi.",
+      "text_en": "Chinna followed the glowing vine deeper into the forest, completely forgetting her way. The soft, living light from the vine transformed the surrounding forest into a strange green hue. Her face wrinkled as the trees and bushes around her seemed unfamiliar. \"Oh, where am I now?\" she wondered softly to herself. Just then, a tiny chick pecking on the ground in front of her — suddenly turned into a full-grown chicken."
+    },
+    {
+      "id": 3,
+      "text": "పెద్ద కోడి మళ్ళీ చిన్న కోడిపిల్లగా మారిపోయింది, ఆపై క్షణాల్లో తిరిగి పెద్దదైంది — ఈ వయసు మార్పును చూసి చిన్నా నిశ్శబ్దంగా నిలబడిపోయింది. ఆమె ఊపిరి గొంతులో ఆగిపోయింది, కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి. ప్రతి మార్పుతోనూ కోడి రెక్కల నుండి వచ్చే \"ఫెళఫెళ\" శబ్దం — ఆమె చెవుల్లో స్పష్టంగా వినిపించింది. \"ఇదేమి మాయ!\" అని ఆమె పెదవులు కదిలాయి, కానీ మాట బయటికి రాలేదు. ఆమె పక్కనే ఉన్న పాత చెట్టు — ఒక్కసారిగా చిగురించి, ఆకుపచ్చగా మారి, తిరిగి ముసలిదైపోయింది.",
+      "image_prompt": "The girl stands silently, her breath caught, as a nearby old tree rapidly sprouts leaves, turns green, and then becomes old again. Her eyes are wide with astonishment, and her lips move silently, unable to form words. Deep twilight descends, making the forest dark and mysterious, with only the faint green glow of the vine and the last slivers of orange light from the horizon piercing the gloom.",
+      "scene_visual": "The girl stands silently, her breath caught, as a nearby old tree rapidly sprouts leaves, turns green, and then becomes old again. Her eyes are wide with astonishment, and her lips move silently, unable to form words.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pedda Kodi Malli Chinna Kodipillagaa Maaripoyindi, Aapai Kshanaallo Tirigi Peddadaindi — I Vayasu Maarpunu Chusi Chinnaa Nishshabdangaa Nilabadipoyindi. Aame Upiri Gontulo Aagipoyindi, Kallu Aashcharyanto Peddavayyaayi. Prati Maarputonu Kodi Rekkala Nundi Vachche \"Phelaphela\" Shabdam — Aame Chevullo Spashtangaa Vinipinchindi. \"Idemi Maaya!\" Ani Aame Pedavulu Kadilaayi, Kaani Maata Bayatiki Raaledu. Aame Pakkane Unna Paata Chettu — Okkasaarigaa Chigurinchi, Aakupachchagaa Maari, Tirigi Musalidaipoyindi.",
+      "text_en": "The big chicken turned back into a tiny chick, and then in moments, became big again — Chinna stood silently, watching this age-shifting. Her breath caught in her throat, and her eyes widened in astonishment. With each change, the 'flap-flap' sound from the chicken's wings — was clearly audible in her ears. \"What magic is this!\" her lips moved, but no words came out. The old tree next to her — suddenly sprouted new leaves, turned green, and then became old again."
+    },
+    {
+      "id": 4,
+      "text": "ఆశ్చర్యపోయిన చిన్నా బయటికి వెళ్లాలని ఒక దిశగా పరిగెత్తింది, కానీ ప్రతి అడుగులోనూ వింత మార్పులు చూసి ఆమె తడబడింది. ఆమె పక్కనుండి వెళ్ళిన ప్రతి జీవి — క్షణాల్లో వృద్ధాప్యం నుండి యవ్వనానికి, మళ్ళీ వృద్ధాప్యానికి మారుతోంది. ఒక చిన్న ఎలుక నుండి వచ్చే సన్నని \"కీచు\" శబ్దం — అది ముసలిదై, తిరిగి చిన్నదవుతున్నప్పుడు వినిపించింది. \"ఇది ఎటువైపు వెళ్తోంది? ఏది నిజం?\" అని ఆమె గందరగోళంగా అడిగింది. అలసిపోయి, నిరాశతో ఒక చెట్టుకు ఆనుకుంది — అప్పుడే ఒక చిన్న నీటి ప్రవాహం వింతగా కదలడం చూసింది.",
+      "image_prompt": "Exhausted and frustrated, the girl leans against a tree, watching a small stream of water moving in a strange manner. She has just witnessed every creature around her rapidly changing from old age to youth and back again. The forest is now fully dark, lit only by the pale, cold moonlight filtering sparsely through the canopy, creating deep, menacing shadows.",
+      "scene_visual": "Exhausted and frustrated, the girl leans against a tree, watching a small stream of water moving in a strange manner. She has just witnessed every creature around her rapidly changing from old age to youth and back again.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aashcharyapoyina Chinnaa Bayatiki Vellaalani Oka Dishagaa Parigettindi, Kaani Prati Adugulonu Vinta Maarpulu Chusi Aame Tadabadindi. Aame Pakkanundi Vellina Prati Jivi — Kshanaallo Vrriddhaapyam Nundi Yavvanaaniki, Malli Vrriddhaapyaaniki Maarutondi. Oka Chinna Eluka Nundi Vachche Sannani \"Kichu\" Shabdam — Adi Musalidai, Tirigi Chinnadavutunnappudu Vinipinchindi. \"Idi Etuvaipu Veltondi? Edi Nijan?\" Ani Aame Gandaragolangaa Adigindi. Alasipoyi, Niraashato Oka Chettuku Aanukundi — Appude Oka Chinna Niti Pravaaham Vintagaa Kadaladam Chusindi.",
+      "text_en": "Astonished, Chinna ran in one direction, hoping to get out, but with every step, she stumbled upon strange changes. Every creature that passed by her — changed from old age to youth, and back to old age, in moments. A tiny 'squeak' from a small mouse — was heard as it aged and then became young again. \"Which way is this going? What is real?\" she asked, confused. Tired and disheartened, she leaned against a tree — just then, she saw a small stream of water moving strangely."
+    },
+    {
+      "id": 5,
+      "text": "ఆ వింత ప్రవాహం పక్కన కూర్చుని, చిన్నా కొంతసేపు విశ్రాంతి తీసుకుంది. ఆ నీళ్ళు ఒకేసారి పైకి, కిందకి ప్రవహిస్తున్నాయి — ఆ దృశ్యం ఆమెను తీవ్రంగా ఆలోచింపజేసింది. నీటి నుండి వచ్చే మృదువైన గలగల శబ్దం — ఆమె ఆలోచనలను మరింత స్పష్టం చేసింది. ఆమె కనుబొమ్మలు ముడిపడ్డాయి, ఏదో అర్థం చేసుకోవడానికి ప్రయత్నిస్తున్నట్లు. \"వేగం... దిశ... ఒక సంబంధం ఉందా?\" అని ఆమె ఆశ్చర్యంగా ప్రశ్నించుకుంది. ఒక్కసారిగా ఆమె కళ్ళల్లో ఒక మెరుపు — తన నోట్‌బుక్ తీసి, ప్రవాహం యొక్క రెండు దిశలను గీసింది, ఆపై వయసు మారుతున్న జీవుల చిత్రాలను వేయడం మొదలుపెట్టింది.",
+      "image_prompt": "The girl sits by the strange stream, her eyebrows furrowed in thought, then suddenly takes out her notebook. A spark appears in her eyes as she begins to draw the two directions of the water flow and the rapidly aging creatures. A soft, ethereal glow from unseen fungi illuminates the stream bank, casting a gentle, blue-green light, making the scene feel contemplative and mysterious.",
+      "scene_visual": "The girl sits by the strange stream, her eyebrows furrowed in thought, then suddenly takes out her notebook. A spark appears in her eyes as she begins to draw the two directions of the water flow and the rapidly aging creatures.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vinta Pravaaham Pakkana Kurchuni, Chinnaa Kontasepu Vishraanti Tisukundi. Aa Nillu Okesaari Paiki, Kindaki Pravahistunnaayi — Aa Drrishyam Aamenu Tivrangaa Aalochimpajesindi. Niti Nundi Vachche Mrriduvaina Galagala Shabdam — Aame Aalochanalanu Marinta Spashtam Chesindi. Aame Kanubommalu Mudipaddaayi, Edo Artham Chesukovadaaniki Prayatnistunnatlu. \"Vegan... Disha... Oka Sambandham Undaa?\" Ani Aame Aashcharyangaa Prashninchukundi. Okkasaarigaa Aame Kallallo Oka Merupu — Tana Not‌Buk Tisi, Pravaaham Yokka Rendu Dishalanu Gisindi, Aapai Vayasu Maarutunna Jivula Chitraalanu Veyadam Modalupettindi.",
+      "text_en": "Sitting beside the strange stream, Chinna rested for a while. The water was flowing both upstream and downstream at the same time — this sight made her think deeply. The soft gurgling sound from the water — made her thoughts clearer. Her eyebrows furrowed, as if she was trying to understand something. \"Speed... direction... is there a connection?\" she wondered aloud. Suddenly, a spark lit up in her eyes — she took out her notebook, drew the two directions of the stream, and then began drawing pictures of the age-shifting creatures."
+    },
+    {
+      "id": 6,
+      "text": "ప్రవాహం రెండు దిశలు, జీవుల వయసు మార్పు — ఈ రెండింటి మధ్య ఉన్న రహస్యం చిన్నాకు ఒక్కసారిగా అర్థమైంది. మీకు తెలుసా, అప్పుడు ఏం జరిగిందో? ఈ అడవిలో కాలం ప్రవాహం ఒక నిర్దిష్ట దిశలో మాత్రమే మారుతోందని ఆమె గ్రహించింది. ఆమె మొహంపై విజయగర్వంతో కూడిన చిరునవ్వు విరిసింది — నోట్‌బుక్‌ను గట్టిగా మూసేసింది. ఆమె పక్కనుండి ఒక ఉడుత — ఆకులు గలగల శబ్దం చేస్తూ, వయసు పెరిగే దిశలో పరిగెత్తింది. \"అర్థమైంది! వయసు పెరగడం, తగ్గడం... ఒకే దిశలో!\" అని ఆమె ఆనందంగా కేక వేసింది. చిన్నా లేచి నిలబడి, ఒక నిర్దిష్ట దిశగా ఆత్మవిశ్వాసంతో చూసింది, వెళ్ళడానికి సిద్ధంగా ఉంది.",
+      "image_prompt": "A triumphant smile spreads across the girl's face as she firmly closes her notebook, having understood the mystery. She then stands up, looking confidently in a specific direction, ready to depart. The first hints of dawn begin to appear, painting the eastern sky with soft purples and oranges, casting a hopeful, warm glow into the forest.",
+      "scene_visual": "A triumphant smile spreads across the girl's face as she firmly closes her notebook, having understood the mystery. She then stands up, looking confidently in a specific direction, ready to depart.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pravaaham Rendu Dishalu, Jivula Vayasu Maarpu — I Rendinti Madhya Unna Rahasyam Chinnaaku Okkasaarigaa Arthamaindi. Miku Telusaa, Appudu Em Jarigindo? I Adavilo Kaalam Pravaaham Oka Nirdishta Dishalo Maatrame Maarutondani Aame Grahinchindi. Aame Mohampai Vijayagarvanto Kudina Chirunavvu Virisindi — Not‌Buk‌Nu Gattigaa Musesindi. Aame Pakkanundi Oka Uduta — Aakulu Galagala Shabdam Chestu, Vayasu Perige Dishalo Parigettindi. \"Arthamaindi! Vayasu Peragadan, Taggadan... Oke Dishalo!\" Ani Aame Aanandangaa Keka Vesindi. Chinnaa Lechi Nilabadi, Oka Nirdishta Dishagaa Aatmavishvaasanto Chusindi, Velladaaniki Siddhangaa Undi.",
+      "text_en": "The two directions of the stream, the age changes of the creatures — the secret between these two suddenly became clear to Chinna. Do you know what happened then? She realized that in this forest, the flow of time, causing age changes, moved in a specific direction. A triumphant smile spread across her face — she closed her notebook firmly. A squirrel beside her — rustled the leaves as it ran in the direction of aging. \"I understand! Growing older, growing younger... in one direction!\" she cried out happily. Chinna stood up, looked confidently in a specific direction, ready to go."
+    },
+    {
+      "id": 7,
+      "text": "కాలం ముందుకు సాగే దిశను అనుసరించి, చిన్నా అడవిలో ఆత్మవిశ్వాసంతో నడిచింది. ఆమె అడుగులు స్థిరంగా పడ్డాయి, ఎక్కడా తడబడలేదు. వింత వాసనలు తగ్గిపోయి — పరిచయమైన మట్టి వాసన ముక్కుకు సోకింది. చివరికి, ఆమె ఆ విచిత్రమైన అడవి నుండి బయటపడింది. ఆమె కళ్ళజోడు మెరిసింది — ఆమె ముఖంపై నిశ్శబ్ద విజయం కనిపించింది. \"నేను బయట పడ్డాను!\" అని ఆమె సంతోషంగా పలికింది. చిన్నా తన ఇంటి దారి పట్టింది, తను నేర్చుకున్న పాఠాన్ని మనసులో పదిలంగా ఉంచుకుంటూ.",
+      "image_prompt": "The girl confidently walks out of the strange forest, her steps steady and unwavering. Her spectacles gleam, reflecting the silent triumph visible on her face. Bright, clear morning sunlight streams through the normal forest canopy, vibrant and golden, a stark contrast to the mysterious light of the time-altered zone.",
+      "scene_visual": "The girl confidently walks out of the strange forest, her steps steady and unwavering. Her spectacles gleam, reflecting the silent triumph visible on her face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kaalam Munduku Saage Dishanu Anusarinchi, Chinnaa Adavilo Aatmavishvaasanto Nadichindi. Aame Adugulu Sthirangaa Paddaayi, Ekkadaa Tadabadaledu. Vinta Vaasanalu Taggipoyi — Parichayamaina Matti Vaasana Mukkuku Sokindi. Chivariki, Aame Aa Vichitramaina Adavi Nundi Bayatapadindi. Aame Kallajodu Merisindi — Aame Mukhampai Nishshabda Vijayam Kanipinchindi. \"Nenu Bayata Paddaanu!\" Ani Aame Santoshangaa Palikindi. Chinnaa Tana Inti Daari Pattindi, Tanu Nerchukunna Paathaanni Manasulo Padilangaa Unchukuntu.",
+      "text_en": "Following the direction in which time moved forward, Chinna walked confidently through the forest. Her steps were steady, she didn't stumble anywhere. The strange smells faded away — and the familiar scent of earth filled her nose. Finally, she emerged from that strange forest. Her spectacles gleamed — a silent triumph visible on her face. \"I'm out!\" she said happily. Chinna headed home, keeping the lesson she had learned safely in her heart."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 9.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 10,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This is an exceptionally well-crafted children's story. It excels in creating a sense of wonder and suspense, drawing the child listener in with vivid descriptions and a compelling narrative arc. The emotional journey of Chinna is beautifully depicted through her actions, making it highly relatable. To push it to a perfect 10 in authenticity, ensure the direct address to the child is woven in more organically, perhaps at the beginning or end of a few more scenes, rather than just once."
+  },
+  "title_te_en": "Vayasu Maare Adavilo Chinnaari Chinnaa",
+  "moral_te_en": "Mana Chuttu Unna Prapanchaanni Shraddhagaa Gamaniste, Enta Vichitramaina Vishayaalainaa Vaati Rahasyaalanu Bayatapedataayi.",
+  "title_en": "Little Chinna in the Age-Shifting Forest",
+  "moral_en": "If we observe the world around us carefully, even the strangest things will reveal their secrets.",
+  "id": "20260610_211015",
+  "date": "2026-06-10",
+  "category": "podupu",
+  "subcategory": "clever_escapes",
+  "topic": "జీవుల వయసు మారుతున్న అడవిలో చిక్కుకున్న బాల జీవశాస్త్రవేత్త పొడుపు కథ",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260610_211015/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
