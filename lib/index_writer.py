@@ -185,3 +185,7 @@ def update_sitemap():
     sitemap_path = INDEX_FILE.parent.parent / "sitemap.xml"
     sitemap_path.write_text(sitemap, encoding="utf-8")
     logger.info(f"sitemap.xml updated — {len(urls)} URLs")
+    import subprocess, sys
+    subprocess.run([sys.executable,
+        str(Path(__file__).parent.parent / "scripts" / "build_category_pages.py")],
+        check=True)
