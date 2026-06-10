@@ -1,0 +1,110 @@
+{
+  "title": "అన్నయ్య తోడు, రాజు పాఠం",
+  "moral": "కష్టం వచ్చినప్పుడు, మనవాళ్ళు ఎప్పుడూ తోడుంటారు.",
+  "main_character": "Raju is a curious and energetic boy of ten, known for his quick wit and independent spirit. He often believes he can solve problems better on his own, without relying on others. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds in the quaint village of Palem, nestled beside the flowing Godavari river. Sunlight filters through ancient banyan trees, illuminating rustic mud houses and a vibrant village market. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లెటూరి పిల్లాడు రాజు, గోదావరి పక్కన చిన్న కాలువలో, మట్టితో ఒక చిన్న ఆనకట్ట కట్టాడు. అతని చేతులు బురదతో నిండిపోయాయి, కానీ అతని మొహంలో ఒక గొప్ప చిరునవ్వు మెరిసింది — తనేదో పెద్ద పని సాధించినట్లు. తను ఒక్కడే చేసిన ఆ పనిని చూసి, రాజు గర్వంగా నిలబడ్డాడు. మట్టి వాసన చల్లగా, హాయిగా అతని ముక్కుపుటాల నిండింది. \"చూడు! నేనొక్కడినే చేశాను!\" అంటూ తన సృష్టిని మురిసిపోతూ చూశాడు. ఆ ఆనకట్ట అడుగున ఒక చిన్న రాయి కదిలింది, కానీ రాజు దాన్ని పెద్దగా పట్టించుకోలేదు.",
+      "image_prompt": "The boy stands proudly, admiring the small mud dam he has built in the canal. His hands are covered in mud, and a great smile shines on his face as if he achieved something significant. Bright, warm morning sun filtering through sparse tree leaves, dappling the stream with golden light.",
+      "scene_visual": "The boy stands proudly, admiring the small mud dam he has built in the canal. His hands are covered in mud, and a great smile shines on his face as if he achieved something significant.",
+      "supporting_char_keys": [],
+      "text_te_en": "Palleturi Pillaadu Raaju, Godaavari Pakkana Chinna Kaaluvalo, Mattito Oka Chinna Aanakatta Kattaadu. Atani Chetulu Buradato Nindipoyaayi, Kaani Atani Mohanlo Oka Goppa Chirunavvu Merisindi — Tanedo Pedda Pani Saadhinchinatlu. Tanu Okkade Chesina Aa Panini Chusi, Raaju Garvangaa Nilabaddaadu. Matti Vaasana Challagaa, Haayigaa Atani Mukkuputaala Nindindi. \"Chudu! Nenokkadine Cheshaanu!\" Antu Tana Srrishtini Murisipotu Chushaadu. Aa Aanakatta Aduguna Oka Chinna Raayi Kadilindi, Kaani Raaju Daanni Peddagaa Pattinchukoledu.",
+      "text_en": "Raju, a village boy, built a small dam with mud in a little canal next to the Godavari river. His hands were covered in mud, but a big smile shone on his face, as if he had achieved something great. Raju stood proudly, looking at the work he had done all by himself. The cool, pleasant smell of mud filled his nose. “Look! I did it all by myself!” he exclaimed, admiring his creation. A small stone shifted at the bottom of the dam, but Raju didn't pay much attention to it."
+    },
+    {
+      "id": 2,
+      "text": "అంతలోనే, అన్నయ్య వేణు అక్కడికి వచ్చాడు, అతని నుదుటిపై ఆందోళన ముడతలు పడ్డాయి. \"రాజు, నది పొంగుతోంది, ఆ ఆనకట్ట ఎప్పుడైనా కూలిపోవచ్చు,\" అని వేణు హెచ్చరించాడు. కానీ రాజు తన చేతులు కట్టుకుని, పక్కకు తిరిగాడు — అన్నయ్య మాటలు వినడానికి ఇష్టం లేనట్లు. నది నుండి ఒక నిదానమైన, లోతైన ధ్వని వినిపించింది, అది మామూలు కంటే కొంచెం ఎక్కువగానే ఉంది. \"నువ్వు ఎప్పుడూ నన్ను నమ్మవు, అన్నయ్యా!\" అని రాజు కోపంగా అన్నాడు. వేణు నిట్టూర్చి, చిన్నగా తల ఊపి, రాజును ఆ మట్టి ఆనకట్ట దగ్గరే వదిలేసి, నిరాశగా వెళ్ళిపోయాడు.",
+      "image_prompt": "The boy turns his back and crosses his arms, refusing to listen to his older brother's warning. His older brother's forehead is furrowed with worry, and he sighs, shaking his head slightly. Mid-morning light, still bright but with a slight overcast feeling, casting soft, diffused shadows over the riverbank.",
+      "scene_visual": "The boy turns his back and crosses his arms, refusing to listen to his older brother's warning. His older brother's forehead is furrowed with worry, and he sighs, shaking his head slightly.",
+      "supporting_char_keys": [
+        "venu"
+      ],
+      "text_te_en": "Antalone, Annayya Venu Akkadiki Vachchaadu, Atani Nudutipai Aandolana Mudatalu Paddaayi. \"Raaju, Nadi Pongutondi, Aa Aanakatta Eppudainaa Kulipovachchu,\" Ani Venu Hechcharinchaadu. Kaani Raaju Tana Chetulu Kattukuni, Pakkaku Tirigaadu — Annayya Maatalu Vinadaaniki Ishtam Lenatlu. Nadi Nundi Oka Nidaanamaina, Lotaina Dhvani Vinipinchindi, Adi Maamulu Kante Konchem Ekkuvagaane Undi. \"Nuvvu Eppudu Nannu Nammavu, Annayyaa!\" Ani Raaju Kopangaa Annaadu. Venu Nitturchi, Chinnagaa Tala Upi, Raajunu Aa Matti Aanakatta Daggare Vadilesi, Niraashagaa Vellipoyaadu.",
+      "text_en": "Just then, his older brother Venu arrived, with worried lines on his forehead. “Raju, the river is rising, that dam could collapse any moment,” Venu warned. But Raju crossed his arms and turned away, as if he didn't want to listen to his brother. A slow, deep rumble came from the river, a little louder than usual. “You never trust me, brother!” Raju said angrily. Venu sighed, shook his head gently, and walked away sadly, leaving Raju by his mud dam."
+    },
+    {
+      "id": 3,
+      "text": "కొద్దిసేపటికే, నది ఒక్కసారిగా ఉప్పొంగింది, నీటి ఉధృతి పెరిగింది. ఆనకట్ట అడుగు భాగం నుండి పెద్దగా శబ్దం చేస్తూ మట్టి కొట్టుకుపోయింది — రాజు కళ్ళు భయంతో పెద్దవి అయ్యాయి. అతను ఎంతో ఇష్టపడి చేసిన తన చిన్న చెక్క పడవ, ఆ కూలిపోతున్న ఆనకట్టలో చిక్కుకుపోయింది. \"అయ్యో! నా పడవ మునిగిపోతుంది!\" అని రాజు ఆక్రోశించాడు. ఆ కూలిపోతున్న ఆనకట్ట మధ్యలోకి పడవ మరింత లోతుగా వెళ్ళిపోయింది, రాజు ఎంత ప్రయత్నించినా దానిని అందుకోలేకపోయాడు.",
+      "image_prompt": "The boy's eyes widen in fear as the river surges, and the mud dam begins to collapse. His small wooden boat, caught in the collapsing dam, sinks deeper into the turbulent water. The sun is partially obscured by gathering clouds, casting a muted, slightly ominous grey light over the turbulent water.",
+      "scene_visual": "The boy's eyes widen in fear as the river surges, and the mud dam begins to collapse. His small wooden boat, caught in the collapsing dam, sinks deeper into the turbulent water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koddisepatike, Nadi Okkasaarigaa Uppongindi, Niti Udhrriti Perigindi. Aanakatta Adugu Bhaagam Nundi Peddagaa Shabdam Chestu Matti Kottukupoyindi — Raaju Kallu Bhayanto Peddavi Ayyaayi. Atanu Ento Ishtapadi Chesina Tana Chinna Chekka Padava, Aa Kulipotunna Aanakattalo Chikkukupoyindi. \"Ayyo! Naa Padava Munigipotundi!\" Ani Raaju Aakroshinchaadu. Aa Kulipotunna Aanakatta Madhyaloki Padava Marinta Lotugaa Vellipoyindi, Raaju Enta Prayatninchinaa Daanini Andukolekapoyaadu.",
+      "text_en": "A little while later, the river suddenly swelled, and the water flow increased. Mud washed away from the bottom of the dam with a loud noise—Raju's eyes widened with fear. His small wooden boat, which he had made with so much love, got stuck in the collapsing dam. “Oh no! My boat is sinking!” Raju cried out. The boat sank deeper into the crumbling dam, and no matter how hard Raju tried, he couldn't reach it."
+    },
+    {
+      "id": 4,
+      "text": "పడవను కాపాడటానికి రాజు పరుగులు తీశాడు, తన స్నేహితుల దగ్గరకు వెళ్ళి సహాయం అడిగాడు. \"నాకు సహాయం చేయగలవా? నా పడవ చిక్కుకుపోయింది!\" అని వేడుకున్నాడు. కానీ వాళ్ళంతా తమ పనులతో తీరిక లేకుండా ఉన్నారు, ఇనుప కొలిమి నుండి వినిపిస్తున్న సుత్తె చప్పుడు దానికే సాక్ష్యం. ఒక స్నేహితుడు నెమ్మదిగా తల అడ్డంగా ఊపాడు, ఇంకొకడు తన పనిలో లీనమైపోయాడు. రాజు భుజాలు మెల్లగా వాలిపోయాయి, అతని ఆశలు సన్నగిల్లినట్లు. చివరకు, నెమ్మదిగా తల దించుకుని, మళ్ళీ నది వైపు నడిచాడు.",
+      "image_prompt": "The boy's shoulders slowly slump as his friends, busy with their tasks, shake their heads in refusal. One friend slowly shakes his head, and another is deeply engrossed in his work. Late morning, the sun now fully hidden by thick clouds, casting a flat, dull light across the village paths.",
+      "scene_visual": "The boy's shoulders slowly slump as his friends, busy with their tasks, shake their heads in refusal. One friend slowly shakes his head, and another is deeply engrossed in his work.",
+      "supporting_char_keys": [],
+      "text_te_en": "Padavanu Kaapaadataaniki Raaju Parugulu Tishaadu, Tana Snehitula Daggaraku Velli Sahaayam Adigaadu. \"Naaku Sahaayam Cheyagalavaa? Naa Padava Chikkukupoyindi!\" Ani Vedukunnaadu. Kaani Vaallantaa Tama Panulato Tirika Lekundaa Unnaaru, Inupa Kolimi Nundi Vinipistunna Sutte Chappudu Daanike Saakshyan. Oka Snehitudu Nemmadigaa Tala Addangaa Upaadu, Inkokadu Tana Panilo Linamaipoyaadu. Raaju Bhujaalu Mellagaa Vaalipoyaayi, Atani Aashalu Sannagillinatlu. Chivaraku, Nemmadigaa Tala Dinchukuni, Malli Nadi Vaipu Nadichaadu.",
+      "text_en": "Raju ran to save his boat. He went to his friends and asked for help. “Can you help me? My boat is stuck!” he pleaded. But they were all busy with their own work; the sound of hammers from the iron forge showed how busy they were. One friend slowly shook his head 'no,' and another was completely absorbed in his work. Raju's shoulders slowly slumped, as if his hopes were fading. Finally, he slowly lowered his head and walked back towards the river."
+    },
+    {
+      "id": 5,
+      "text": "కూలిపోతున్న ఆనకట్ట పక్కన కూర్చున్న రాజుకు — అప్పుడు ఒంటరిగా అనిపించింది. అతని తల వాలిపోయింది, కళ్ళ నుండి ఒకే ఒక్క కన్నీటి చుక్క దొర్లింది, అన్నయ్య వేణు హెచ్చరిక అతని చెవుల్లో మళ్ళీ మళ్ళీ వినిపించింది. పడవ మునిగిపోతుంటే, మట్టి కొట్టుకుపోతున్న శబ్దం నిరాశను మరింత పెంచింది. రాజు తన చేతులతో ముఖం కప్పుకున్నాడు, లోపల ఏదో పెద్ద బరువు ఉన్నట్లు. \"అన్నయ్య మాట వినకుండా తప్పు చేశాను,\" అని నెమ్మదిగా గుణుక్కున్నాడు. సరిగ్గా ఆ క్షణంలో, దూరంగా ఒక పరిచయమైన రూపం కనిపించింది — అతని వైపు పరుగున వస్తోంది.",
+      "image_prompt": "The boy sits alone by the collapsing dam, covering his face with his hands. A single tear rolls down his cheek, and the sound of mud washing away intensifies his despair. A heavy, oppressive grey sky, reflecting dimly off the muddy river, creating a somber, melancholic atmosphere.",
+      "scene_visual": "The boy sits alone by the collapsing dam, covering his face with his hands. A single tear rolls down his cheek, and the sound of mud washing away intensifies his despair.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kulipotunna Aanakatta Pakkana Kurchunna Raajuku — Appudu Ontarigaa Anipinchindi. Atani Tala Vaalipoyindi, Kalla Nundi Oke Okka Kanniti Chukka Dorlindi, Annayya Venu Hechcharika Atani Chevullo Malli Malli Vinipinchindi. Padava Munigipotunte, Matti Kottukupotunna Shabdam Niraashanu Marinta Penchindi. Raaju Tana Chetulato Mukham Kappukunnaadu, Lopala Edo Pedda Baruvu Unnatlu. \"Annayya Maata Vinakundaa Tappu Cheshaanu,\" Ani Nemmadigaa Gunukkunnaadu. Sariggaa Aa Kshananlo, Durangaa Oka Parichayamaina Rupam Kanipinchindi — Atani Vaipu Paruguna Vastondi.",
+      "text_en": "Sitting by the collapsing dam, Raju felt all alone. His head hung low, and a single tear rolled down his cheek. Venu's warning echoed in his ears again and again. As the boat sank and the mud washed away, the sound only deepened his despair. Raju covered his face with his hands, feeling a heavy weight inside him. “I made a mistake by not listening to my brother,” he mumbled softly. Just then, a familiar figure appeared in the distance, running towards him."
+    },
+    {
+      "id": 6,
+      "text": "అది వేణు! రాజు ప్రమాదంలో ఉన్నాడని ఏదో తెలియని శక్తితో గ్రహించి, పరుగున వచ్చాడు. వేణు ఒక్క క్షణం పరిస్థితిని అంచనా వేశాడు, అతని నుదుటిపై ముడతలు పడ్డాయి, కానీ అతని చూపులో ఒక నిర్ణయం కనిపించింది. \"భయపడకు, రాజ్! ఇద్దరం కలిసి దీన్ని బయటికి తీద్దాం,\" అని అన్నాడు. రాజు గుండె ఒక్కసారిగా ఊపిరి పీల్చుకుంది, అతని మొహంలో వెలుగు మెరిసింది. వేణు వెంటనే చల్లటి నీటిలోకి దూకాడు, అతని బేర్‌ఫీట్లు నీటిలో చప్పుడు చేశాయి. అన్నయ్య మాటలతో రాజుకు ధైర్యం వచ్చింది, అన్నయ్య చెప్పినట్లుగానే పడవను బయటికి తీయడానికి సహాయం చేశాడు.",
+      "image_prompt": "The older brother, with a determined look, immediately jumps into the cold water. His bare feet splash loudly in the water, and a light shines on the boy's face, replacing his despair. The clouds begin to break, allowing weak, silvery shafts of light to pierce through, highlighting the struggle and the brothers' combined effort.",
+      "scene_visual": "The older brother, with a determined look, immediately jumps into the cold water. His bare feet splash loudly in the water, and a light shines on the boy's face, replacing his despair.",
+      "supporting_char_keys": [
+        "venu"
+      ],
+      "text_te_en": "Adi Venu! Raaju Pramaadanlo Unnaadani Edo Teliyani Shaktito Grahinchi, Paruguna Vachchaadu. Venu Okka Kshanam Paristhitini Anchanaa Veshaadu, Atani Nudutipai Mudatalu Paddaayi, Kaani Atani Chupulo Oka Nirnayam Kanipinchindi. \"Bhayapadaku, Raaj! Iddaram Kalisi Dinni Bayatiki Tiddaan,\" Ani Annaadu. Raaju Gunde Okkasaarigaa Upiri Pilchukundi, Atani Mohanlo Velugu Merisindi. Venu Ventane Challati Nitiloki Dukaadu, Atani Ber‌Phitlu Nitilo Chappudu Cheshaayi. Annayya Maatalato Raajuku Dhairyam Vachchindi, Annayya Cheppinatlugaane Padavanu Bayatiki Tiyadaaniki Sahaayam Cheshaadu.",
+      "text_en": "It was Venu! He had a feeling Raju was in trouble and came running. Venu assessed the situation for a moment; his forehead was furrowed, but there was determination in his eyes. “Don't worry, Raju! We'll get it out together,” he said. Raju felt a huge relief, and his face lit up. Venu immediately jumped into the cold water, his bare feet splashing. Raju felt brave because of his brother's words, and he helped pull the boat out just as his brother said."
+    },
+    {
+      "id": 7,
+      "text": "వేణు, రాజు కలిసి ఆ పడవను జాగ్రత్తగా బయటికి తీశారు, దానిని ఒడ్డుకు చేర్చారు. రాజు చేతుల్లో ఆ తడిసిన చెక్క పడవ మళ్ళీ సురక్షితంగా ఉంది — అప్పుడు రాజు కళ్ళు మెరుస్తూ, వేణు వైపు కృతజ్ఞతగా చూశాడు. వేణు పెదవులపై చిరునవ్వు మెరిసింది, అతని ఆందోళన అంతా కరిగిపోయినట్లు. మీకు తెలుసా, అప్పుడు రాజుకు ఏం అర్థమైందో? ఎంతటి కష్టమైనా, కుటుంబం ఎప్పుడూ తోడుంటుందని, అన్నయ్య ప్రేమకు సరిపోలేదని ఆ క్షణంలో రాజు గ్రహించాడు. \"ధన్యవాదాలు, అన్నయ్యా,\" అని రాజు నెమ్మదిగా అన్నాడు, అతని గొంతులో లోతైన కృతజ్ఞత నిండి ఉంది.",
+      "image_prompt": "The boy holds the wet wooden boat safely in his hands, looking at his older brother with shining, grateful eyes. A small smile appears on the older brother's lips, as if all his worry has melted away. The clouds have mostly cleared, and a soft, golden late afternoon sun bathes the riverbank, warm and peaceful, signifying a new beginning.",
+      "scene_visual": "The boy holds the wet wooden boat safely in his hands, looking at his older brother with shining, grateful eyes. A small smile appears on the older brother's lips, as if all his worry has melted away.",
+      "supporting_char_keys": [
+        "venu"
+      ],
+      "text_te_en": "Venu, Raaju Kalisi Aa Padavanu Jaagrattagaa Bayatiki Tishaaru, Daanini Odduku Cherchaaru. Raaju Chetullo Aa Tadisina Chekka Padava Malli Surakshitangaa Undi — Appudu Raaju Kallu Merustu, Venu Vaipu Krritajnyatagaa Chushaadu. Venu Pedavulapai Chirunavvu Merisindi, Atani Aandolana Antaa Karigipoyinatlu. Miku Telusaa, Appudu Raajuku Em Arthamaindo? Entati Kashtamainaa, Kutumbam Eppudu Toduntundani, Annayya Premaku Saripoledani Aa Kshananlo Raaju Grahinchaadu. \"Dhanyavaadaalu, Annayyaa,\" Ani Raaju Nemmadigaa Annaadu, Atani Gontulo Lotaina Krritajnyata Nindi Undi.",
+      "text_en": "Venu and Raju carefully pulled the boat out together and brought it to the shore. The wet wooden boat was safe in Raju's hands once again. Raju's eyes sparkled, and he looked at Venu with gratitude. A smile shone on Venu's lips, as if all his worry had melted away. Do you know what Raju understood then? He realized that no matter how tough things get, family is always there, and a brother's love is truly special. “Thank you, brother,” Raju said softly, his voice filled with deep gratitude."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "venu",
+      "description": "Venu is Raju's elder brother, a thoughtful and patient teenager of fourteen. He always tries to look out for Raju, even when Raju doesn't appreciate it. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 6,
+    "dialogue_richness": 7,
+    "grammar_correctness": 8,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 7.67,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a compelling narrative arc and excellent child engagement, making it highly suitable for young audiences. The dialogue is natural and effectively drives the plot forward. To reach an award-worthy level, the primary focus should be on consistently showing emotions through actions and sensory details, rather than stating them directly. Additionally, refining a few formal phrases would further enhance the oral storytelling authenticity."
+  },
+  "quality_warning": true,
+  "title_te_en": "Annayya Todu, Raaju Paatham",
+  "moral_te_en": "Kashtam Vachchinappudu, Manavaallu Eppudu Toduntaaru.",
+  "title_en": "Brother's Help, Raju's Lesson",
+  "moral_en": "When things get tough, our family will always be there for us.",
+  "id": "20260609_111043",
+  "date": "2026-06-09",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "రక్తం నీటికంటే చిక్కనిది అనే కథ",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260609_111043/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}

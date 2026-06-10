@@ -1,0 +1,112 @@
+{
+  "title": "నది రహస్య పొడుపు కథ",
+  "moral": "ప్రపంచాన్ని ఓపికగా, తెరిచిన మనసుతో గమనిస్తే, ఎంతో లోతైన రహస్యాలు కూడా తమ సాధారణ నిజాలను బయటపెడతాయి.",
+  "main_character": "Leela. A bright-eyed 9-year-old girl with two long, braided pigtails adorned with colourful ribbons. She has a quick smile and a habit of tilting her head slightly when deep in thought. Always the same character across every scene.",
+  "antagonist": "None",
+  "setting": "A small village in Andhra Pradesh, nestled beside a wide, slow-moving river. The village has mud-brick houses with thatched roofs, surrounded by lush green paddy fields and mango trees. The scene takes place during the late afternoon, with the sun beginning its descent, casting long shadows. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లీలా నది ఒడ్డున కూర్చుని, తన చిన్ని చేతితో ఇసుకలో బొమ్మలు గీస్తోంది — ఆ వేడి, నునుపైన రాళ్ళు ఆమె అరచేతికి ఎంతో హాయిగా అనిపిస్తున్నాయి. నాని ఇచ్చిన పొడుపు కథను గుర్తు చేసుకుంటూ, ఆమె పెదవులపై ఒక చిన్న పాట నర్తిస్తోంది. “ఆకాశంలో ఉంటుంది, కానీ పక్షి కాదు. తూర్పున పుడుతుంది, కానీ మనిషి కాదు. నేనెవరిని?” అని తనలో తాను గొణుక్కుంది. ఇంతలో, నాని ఆమె వెనుకగా వచ్చారు — ఆమె నవ్వులో ఒక చిలిపి రహస్యం తొంగిచూస్తోంది. తన చేతి వెనుక ఏదో దాచి, లీలా దగ్గరకు వచ్చారు.",
+      "image_prompt": "The old woman approaches the girl from behind, holding something hidden behind her hand. A mischievous secret twinkles in the old woman's smile as she nears the girl. Golden hour light, soft and diffused, bathing the riverbanks in a warm, inviting glow.",
+      "scene_visual": "The old woman approaches the girl from behind, holding something hidden behind her hand. A mischievous secret twinkles in the old woman's smile as she nears the girl.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Lilaa Nadi Odduna Kurchuni, Tana Chinni Chetito Isukalo Bommalu Gistondi — Aa Vedi, Nunupaina Raallu Aame Arachetiki Ento Haayigaa Anipistunnaayi. Naani Ichchina Podupu Kathanu Gurtu Chesukuntu, Aame Pedavulapai Oka Chinna Paata Nartistondi. “Aakaashanlo Untundi, Kaani Pakshi Kaadu. Turpuna Pudutundi, Kaani Manishi Kaadu. Nenevarini?” Ani Tanalo Taanu Gonukkundi. Intalo, Naani Aame Venukagaa Vachchaaru — Aame Navvulo Oka Chilipi Rahasyam Tongichustondi. Tana Cheti Venuka Edo Daachi, Lilaa Daggaraku Vachchaaru.",
+      "text_en": "Leela sat on the river bank, drawing pictures in the sand with her tiny hand — the warm, smooth stones felt so nice in her palm. Remembering the riddle Nani had given her, a little song danced on her lips. “It's in the sky, but it's not a bird. It rises in the east, but it's not a person. Who am I?” she whispered to herself. Just then, Nani came up behind her — a playful secret peeked from her smile. Hiding something behind her hand, she came closer to Leela."
+    },
+    {
+      "id": 2,
+      "text": "లీలా తల తిప్పి చూడగానే, నాని ముఖంలో వెలుగు చూసి, చిరునవ్వులు చిందించింది. “నువ్వు నిన్నటి పొడుపు కథకు జవాబు కనుక్కున్నావా, లీలా?” అని నాని అడిగింది, ఆమె కళ్ళలో మెరుపు. లీలా సంతోషంగా తల ఊపింది, “సూర్యుడు! అది సూర్యుడు కదూ, నాని?” అని అడిగింది. నాని నవ్వి, ఆమెను దగ్గరకు తీసుకుని, “బహుశా నువ్వు ఈ కొత్త పొడుపు కథకు జవాబు చెప్పగలవేమో,” అంది. నది ప్రశాంతంగా, మెల్లగా ఒడ్డును తాకుతోంది — ఆ లయబద్ధమైన శబ్దం ఒక మెత్తటి సంగీతంలా వినిపిస్తోంది. “పెద్ద రాళ్ళు, ఇసుకతో నిండినా, ఎప్పుడూ కదులుతూనే ఉంటుంది, ఎన్నో రహస్యాలను తనలో దాచుకుంటుంది, కానీ ఎవరికీ చెప్పదు. నేనెవరిని?” అని నాని అడిగింది. లీలా కనుబొమ్మలు ముడిచి, ఆలోచనలో పడింది — ఆమె చూపులు విస్తారంగా పారే నది వైపు తిరిగాయి.",
+      "image_prompt": "The girl joyfully nods her head and asks if the answer is the sun. The old woman smiles, her eyes sparkling, and pulls the girl into a warm embrace. Late afternoon sun, still bright but with longer shadows starting to stretch across the ground.",
+      "scene_visual": "The girl joyfully nods her head and asks if the answer is the sun. The old woman smiles, her eyes sparkling, and pulls the girl into a warm embrace.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Lilaa Tala Tippi Chudagaane, Naani Mukhanlo Velugu Chusi, Chirunavvulu Chindinchindi. “Nuvvu Ninnati Podupu Kathaku Javaabu Kanukkunnaavaa, Lilaa?” Ani Naani Adigindi, Aame Kallalo Merupu. Lilaa Santoshangaa Tala Upindi, “Suryudu! Adi Suryudu Kadu, Naani?” Ani Adigindi. Naani Navvi, Aamenu Daggaraku Tisukuni, “Bahushaa Nuvvu I Kotta Podupu Kathaku Javaabu Cheppagalavemo,” Andi. Nadi Prashaantangaa, Mellagaa Oddunu Taakutondi — Aa Layabaddhamaina Shabdam Oka Mettati Sangitanlaa Vinipistondi. “Pedda Raallu, Isukato Nindinaa, Eppudu Kadulutune Untundi, Enno Rahasyaalanu Tanalo Daachukuntundi, Kaani Evariki Cheppadu. Nenevarini?” Ani Naani Adigindi. Lilaa Kanubommalu Mudichi, Aalochanalo Padindi — Aame Chupulu Vistaarangaa Paare Nadi Vaipu Tirigaayi.",
+      "text_en": "As Leela turned her head and saw the light in Nani's face, she smiled brightly. “Did you find the answer to yesterday's riddle, Leela?” Nani asked, a sparkle in her eyes. Leela happily nodded, “The sun! It's the sun, isn't it, Nani?” she asked. Nani smiled, pulled her close, and said, “Maybe you can answer this new riddle.” The river was calmly and gently touching the bank — its rhythmic sound was like soft music. “It's full of big rocks and sand, but it's always moving, it hides many secrets, but tells no one. Who am I?” Nani asked. Leela furrowed her brows, deep in thought — her gaze turned towards the wide-flowing river."
+    },
+    {
+      "id": 3,
+      "text": "నాని పొడుపు కథ లీలా మనసులో గిరగిరా తిరుగుతోంది. ఆమె పెదవులు బిగించి, నది ఒడ్డున అటూ ఇటూ నడవడం మొదలుపెట్టింది. ఆమె బేర్ కాళ్ళ కింద ఇసుక మెత్తగా, సన్నగా అరుస్తోంది — ప్రతి అడుగుతో ఒక చిన్న గుంట పడుతోంది. “పెద్ద రాళ్ళు... ఇసుక... కదులుతుంది... రహస్యాలు...” అని లీలా తనలో తాను గొణుక్కుంది. ఆమె ఒక చిన్న గులక రాయిని కాలితో తన్నింది — అది గాలిలోకి ఎగిరి, నీటిలో పడింది. అకస్మాత్తుగా ఆమె అడుగులు ఆగిపోయాయి — నీటిలో ఒక చిన్న, రంగుల చేప వేగంగా దూసుకుపోవడం చూసింది.",
+      "image_prompt": "The girl kicks a small pebble with her foot, sending it flying into the air. The pebble splashes into the water, creating a ripple as she watches. Bright, clear afternoon light, casting sharp edges on the river stones and the water's surface.",
+      "scene_visual": "The girl kicks a small pebble with her foot, sending it flying into the air. The pebble splashes into the water, creating a ripple as she watches.",
+      "supporting_char_keys": [],
+      "text_te_en": "Naani Podupu Katha Lilaa Manasulo Giragiraa Tirugutondi. Aame Pedavulu Biginchi, Nadi Odduna Atu Itu Nadavadam Modalupettindi. Aame Ber Kaalla Kinda Isuka Mettagaa, Sannagaa Arustondi — Prati Aduguto Oka Chinna Gunta Padutondi. “Pedda Raallu... Isuka... Kadulutundi... Rahasyaalu...” Ani Lilaa Tanalo Taanu Gonukkundi. Aame Oka Chinna Gulaka Raayini Kaalito Tannindi — Adi Gaaliloki Egiri, Nitilo Padindi. Akasmaattugaa Aame Adugulu Aagipoyaayi — Nitilo Oka Chinna, Rangula Chepa Vegangaa Dusukupovadam Chusindi.",
+      "text_en": "Nani's riddle spun around in Leela's mind. She pressed her lips together and started walking back and forth along the river bank. The sand felt soft and fine beneath her bare feet — a small hollow formed with every step. “Big rocks... sand... moving... secrets...” Leela mumbled to herself. She kicked a small pebble with her foot — it flew into the air and fell into the water. Suddenly, her steps stopped — she saw a small, colorful fish darting quickly in the water."
+    },
+    {
+      "id": 4,
+      "text": "ఆ చిన్న చేప కదలిక లీలాకు ఏదో కొత్త ఆలోచనను ఇచ్చింది. ఆమె నీటి అంచున కూర్చుని, ప్రవాహాన్ని నిశితంగా గమనించింది — ఆమె కళ్ళు నీటి అలల వెంట కదిలాయి. నది నీటి చల్లటి తుంపరలు ఆమె ముఖాన్ని సున్నితంగా తాకాయి, ఒక చిన్న మెరుపు ఆమె మనసులో మెరిసింది. “నీవు ఎప్పుడూ కదులుతూనే ఉంటావా?” అని ఆమె మెల్లగా నదిని అడిగింది, తన వేలితో నీటిని తాకుతూ. ఇంతలో, ఒక పెద్ద, నునుపైన రాయి నీటి అడుగున నుండి ఒక్క క్షణం పైకి వచ్చి — మళ్ళీ లోపలికి జారిపోయింది.",
+      "image_prompt": "The girl sits at the water's edge, gently touching the water with her finger. Cool water droplets softly touch her face as a large, smooth rock briefly emerges from beneath the water. The sun is lower now, creating a shimmering path of light across the water's surface, with the banks in soft shadow.",
+      "scene_visual": "The girl sits at the water's edge, gently touching the water with her finger. Cool water droplets softly touch her face as a large, smooth rock briefly emerges from beneath the water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chinna Chepa Kadalika Lilaaku Edo Kotta Aalochananu Ichchindi. Aame Niti Anchuna Kurchuni, Pravaahaanni Nishitangaa Gamaninchindi — Aame Kallu Niti Alala Venta Kadilaayi. Nadi Niti Challati Tumparalu Aame Mukhaanni Sunnitangaa Taakaayi, Oka Chinna Merupu Aame Manasulo Merisindi. “Nivu Eppudu Kadulutune Untaavaa?” Ani Aame Mellagaa Nadini Adigindi, Tana Velito Nitini Taakutu. Intalo, Oka Pedda, Nunupaina Raayi Niti Aduguna Nundi Okka Kshanam Paiki Vachchi — Malli Lopaliki Jaaripoyindi.",
+      "text_en": "The movement of that little fish gave Leela a new idea. She sat at the water's edge and carefully watched the current — her eyes followed the water ripples. The cool spray of the river water gently touched her face, and a small spark lit up in her mind. “Do you always keep moving?” she softly asked the river, touching the water with her finger. Just then, a large, smooth stone briefly rose from the bottom of the water — and then slipped back down."
+    },
+    {
+      "id": 5,
+      "text": "ఆ రాయిని చూసిన లీలాకు నాని మాటలు గుర్తుకు వచ్చాయి — నది ఎన్నో యుగాలుగా పారుతూ, తనలో ఎన్నో రహస్యాలను దాచుకుందని చెప్పింది. ఆమె కళ్ళ ముందు నది ప్రవాహం, దానిలోని ఇసుక, రాళ్ళు, కదలిక స్పష్టంగా కనిపించాయి. దూరం నుండి మామిడి తోటలో కోకిల మధురంగా పాడుతోంది — ఆ స్వరం ఆమె ఆలోచనలకు తోడుగా నిలిచింది. ఒక చిన్న 'ఆహా' క్షణం ఆమె మనసులో మెరిసింది — పొడుపు కథలోని ముక్కలన్నీ ఒక్కసారిగా కలిసిపోయాయి. లీలా ఒక్కసారిగా లేచి నిలబడింది — ఆమె కళ్ళు ఒక కొత్త నిజంతో వెలిగిపోయాయి, నాని వైపు పరిగెత్తింది.",
+      "image_prompt": "The girl suddenly stands up, her eyes shining with a new realization. She immediately turns and runs towards the old woman, her face alight with understanding. Dusk is approaching, the light is fading to a soft, deep blue, with the last rays of sun painting the distant clouds orange.",
+      "scene_visual": "The girl suddenly stands up, her eyes shining with a new realization. She immediately turns and runs towards the old woman, her face alight with understanding.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raayini Chusina Lilaaku Naani Maatalu Gurtuku Vachchaayi — Nadi Enno Yugaalugaa Paarutu, Tanalo Enno Rahasyaalanu Daachukundani Cheppindi. Aame Kalla Mundu Nadi Pravaahan, Daaniloni Isuka, Raallu, Kadalika Spashtangaa Kanipinchaayi. Duram Nundi Maamidi Totalo Kokila Madhurangaa Paadutondi — Aa Svaram Aame Aalochanalaku Todugaa Nilichindi. Oka Chinna 'Aahaa' Kshanam Aame Manasulo Merisindi — Podupu Kathaloni Mukkalanni Okkasaarigaa Kalisipoyaayi. Lilaa Okkasaarigaa Lechi Nilabadindi — Aame Kallu Oka Kotta Nijanto Veligipoyaayi, Naani Vaipu Parigettindi.",
+      "text_en": "Seeing that stone reminded Leela of Nani's words — Nani had said the river flows for ages, hiding many secrets within itself. Before her eyes, the river's flow, its sand, rocks, and movement were clearly visible. From a distance, a cuckoo sang sweetly in the mango grove — its song accompanied her thoughts. A small 'aha' moment sparkled in her mind — all the pieces of the riddle suddenly came together. Leela suddenly stood up — her eyes lit up with a new truth, and she ran towards Nani."
+    },
+    {
+      "id": 6,
+      "text": "నానిని చూడగానే లీలా ముఖంలో విజయం వెలిగిపోయింది. ఆమె గుండెల నిండా గాలి పీల్చి, తన చిన్న ఛాతీని కొద్దిగా ఉబ్బించి, నాని వైపు వేగంగా అడుగులు వేసింది. నాని జుట్టు నుండి మల్లెపూల సువాసన మెల్లగా వీస్తోంది — ఆ పరిమళం లీలా ఆనందాన్ని పెంచింది. “నది! నాని, పొడుపు కథకు జవాబు నది!” అని లీలా గట్టిగా అరిచింది, ఆమె కళ్ళు మెరుస్తున్నాయి. నాని కళ్ళు మెరిశాయి — ఆమె లీలాను తన దగ్గరకు లాక్కుని, ప్రేమగా కౌగిలించుకుంది.",
+      "image_prompt": "The girl loudly shouts the answer to the riddle, her eyes sparkling with triumph. The old woman's eyes gleam as she pulls the girl close and lovingly hugs her. Twilight, the sky a deep indigo, with a few early stars beginning to emerge, casting a magical, soft glow.",
+      "scene_visual": "The girl loudly shouts the answer to the riddle, her eyes sparkling with triumph. The old woman's eyes gleam as she pulls the girl close and lovingly hugs her.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Naanini Chudagaane Lilaa Mukhanlo Vijayam Veligipoyindi. Aame Gundela Nindaa Gaali Pilchi, Tana Chinna Chaatini Koddigaa Ubbinchi, Naani Vaipu Vegangaa Adugulu Vesindi. Naani Juttu Nundi Mallepula Suvaasana Mellagaa Vistondi — Aa Parimalam Lilaa Aanandaanni Penchindi. “Nadi! Naani, Podupu Kathaku Javaabu Nadi!” Ani Lilaa Gattigaa Arichindi, Aame Kallu Merustunnaayi. Naani Kallu Merishaayi — Aame Lilaanu Tana Daggaraku Laakkuni, Premagaa Kaugilinchukundi.",
+      "text_en": "As soon as Leela saw Nani, victory shone on her face. She took a deep breath, puffed out her little chest slightly, and quickly walked towards Nani. The scent of jasmine flowers gently wafted from Nani's hair — that fragrance increased Leela's joy. “The river! Nani, the answer to the riddle is the river!” Leela shouted loudly, her eyes sparkling. Nani's eyes twinkled — she pulled Leela close and hugged her lovingly."
+    },
+    {
+      "id": 7,
+      "text": "నాని లీలాను తన పక్కన కూర్చోబెట్టుకుని, ఆమె తలపై నిమిరింది. సూర్యుడు అస్తమించి, చంద్రుడు ఆకాశంలో పైకి వస్తున్నాడు. లీలా నాని భుజంపై తల వాల్చి, ఆ శాంతితో కూడిన క్షణాన్ని ఆస్వాదించింది — ఆమెకు ఎంతో ప్రేమగా, సురక్షితంగా అనిపించింది. నది నుండి కప్పల కూతలు దూరం నుండి వినిపిస్తున్నాయి — ఆ నిశ్శబ్దానికి అవి ఒక మధురమైన తోడు. “నీవు చాలా తెలివైన పిల్లవి, లీలా,” అని నాని మెల్లగా అంది, ఆమె గొంతులో ఎనలేని ప్రేమ. లీలా నాని చేతిని పట్టుకుని, నక్షత్రాలను చూస్తూ, ఆ రోజు పొడుపు కథ ఇచ్చిన ఆనందాన్ని తన మనసులో నింపుకుంది.",
+      "image_prompt": "The girl rests her head on the old woman's shoulder, holding the old woman's hand. She looks up at the stars, feeling deeply loved and secure in the quiet evening. Moonlit night, the river shimmering with silver light, the surrounding village in deep, peaceful shadows.",
+      "scene_visual": "The girl rests her head on the old woman's shoulder, holding the old woman's hand. She looks up at the stars, feeling deeply loved and secure in the quiet evening.",
+      "supporting_char_keys": [
+        "nani"
+      ],
+      "text_te_en": "Naani Lilaanu Tana Pakkana Kurchobettukuni, Aame Talapai Nimirindi. Suryudu Astaminchi, Chandrudu Aakaashanlo Paiki Vastunnaadu. Lilaa Naani Bhujampai Tala Vaalchi, Aa Shaantito Kudina Kshanaanni Aasvaadinchindi — Aameku Ento Premagaa, Surakshitangaa Anipinchindi. Nadi Nundi Kappala Kutalu Duram Nundi Vinipistunnaayi — Aa Nishshabdaaniki Avi Oka Madhuramaina Todu. “Nivu Chaalaa Telivaina Pillavi, Lilaa,” Ani Naani Mellagaa Andi, Aame Gontulo Enaleni Prema. Lilaa Naani Chetini Pattukuni, Nakshatraalanu Chustu, Aa Roju Podupu Katha Ichchina Aanandaanni Tana Manasulo Nimpukundi.",
+      "text_en": "Nani sat Leela beside her and stroked her head. The sun had set, and the moon was rising in the sky. Leela rested her head on Nani's shoulder, enjoying that peaceful moment — she felt so loved and safe. The croaking of frogs could be heard from the river in the distance — they were a sweet companion to the silence. “You are a very clever girl, Leela,” Nani said softly, with endless love in her voice. Leela held Nani's hand, looked at the stars, and filled her heart with the joy the day's riddle had brought."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "nani",
+      "description": "Nani (grandmother). A wise, gentle old woman with silver hair pulled back in a neat bun, wearing a traditional white and red bordered saree. Her eyes sparkle with kindness and a hint of mischief when she tells riddles. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 7.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 7.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and strong child engagement, making it a delightful read. The grammar is nearly flawless, reflecting a native speaker's touch. However, the narration often feels more like written prose than a warm, oral bedtime story, and many emotions are stated directly rather than subtly shown through character actions. To elevate this to a 9+, the primary focus should be on infusing the language with more conversational warmth and consistently demonstrating emotions through physical cues and dialogue."
+  },
+  "quality_warning": true,
+  "title_te_en": "Nadi Rahasya Podupu Katha",
+  "moral_te_en": "Prapanchaanni Opikagaa, Terichina Manasuto Gamaniste, Ento Lotaina Rahasyaalu Kudaa Tama Saadhaarana Nijaalanu Bayatapedataayi.",
+  "title_en": "The River's Secret Riddle",
+  "moral_en": "If you observe the world patiently and with an open mind, even the deepest secrets will reveal their simple truths.",
+  "id": "20260609_231045",
+  "date": "2026-06-09",
+  "category": "podupu",
+  "subcategory": "nature_riddles",
+  "topic": "పెద్ద రాళ్ళు, ఇసుకతో నిండినా, ఎప్పుడూ కదులుతూనే ఉంటుంది, ఎన్నో రహస్యాలను తనలో దాచుకుంటుంది, కానీ ఎవరికీ చెప్పదు. నేనెవరిని?",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260609_231045/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
