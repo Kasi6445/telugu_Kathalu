@@ -1,0 +1,98 @@
+{
+  "title": "ఇచ్చే గుణమే గొప్ప సంతోషం",
+  "moral": "నువ్వు మనసు విప్పి పంచినప్పుడు, నీలో మరింత నిండిపోతుంది, నీ బరువు కూడా తగ్గిపోతుంది.",
+  "main_character": "A large, fluffy white cloud, initially proud and possessive, floating high above the earth. It has soft, rounded edges and a slightly stern 'face' formed by its wisps when it's contemplating. It wants to keep things for itself but eventually learns the joy of giving. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant green valley in the Anantapur district of Andhra Pradesh, characterized by patches of rich red soil, a winding river reflecting the sky, and distant rocky hills that glow golden at sunset. The time of day shifts from bright morning to gentle evening, showing the passage of time. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అనంతపురం లోని పచ్చని లోయపై ఒక తెల్లని మేఘం గర్వంగా తేలియాడుతోంది. ఉదయపు సూర్యరశ్మి దాని మెత్తని దేహంపై వెచ్చగా పడుతుండగా, అది మరింత ఉబ్బినట్లుగా కనిపించింది — దాని నీడ లోయపై పెద్దగా పడింది. ఇంతకుముందు కురిసిన వర్షంతో ఆ ప్రాంతం ఎంత అందంగా మారిందో చూసి అది మురిసిపోయింది. తనలో తాను ఇలా అనుకుంది: \"ఆహా! నా నీరు ఎంత అందమైన లోకాన్ని సృష్టించిందో!\" దాని అంచులు కాస్త బిగుసుకుని, దాని ముఖంపై ఒక చిన్న ఆందోళన ఛాయ మెరిసింది.",
+      "image_prompt": "The white cloud floats proudly over a green valley, its body appearing swollen as morning sunlight warms it. A small shadow of anxiety flickers across its 'face' as its edges tighten slightly. Bright morning light, soft and diffused, illuminating the cloud's white form against a clear blue sky over a verdant valley.",
+      "scene_visual": "The white cloud floats proudly over a green valley, its body appearing swollen as morning sunlight warms it. A small shadow of anxiety flickers across its 'face' as its edges tighten slightly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Anantapuram Loni Pachchani Loyapai Oka Tellani Megham Garvangaa Teliyaadutondi. Udayapu Suryarashmi Daani Mettani Dehampai Vechchagaa Padutundagaa, Adi Marinta Ubbinatlugaa Kanipinchindi — Daani Nida Loyapai Peddagaa Padindi. Intakumundu Kurisina Varshanto Aa Praantam Enta Andangaa Maarindo Chusi Adi Murisipoyindi. Tanalo Taanu Ilaa Anukundi: \"Aahaa! Naa Niru Enta Andamaina Lokaanni Srrishtinchindo!\" Daani Anchulu Kaasta Bigusukuni, Daani Mukhampai Oka Chinna Aandolana Chaaya Merisindi.",
+      "text_en": "A white cloud floated proudly over a green valley in Anantapuram. The morning sun shone warmly on its soft body, making it look even puffier — its shadow fell large over the valley. It admired how beautiful the area had become with the rain that had fallen before. It thought to itself: \"Oh! What a beautiful world my water has created!\" Its edges tightened a little, and a hint of worry flickered on its face."
+    },
+    {
+      "id": 2,
+      "text": "కొన్ని రోజులు గడిచాయి, మేఘం కింద చూసేసరికి లోయ మెల్లమెల్లగా ఎండిపోవడం మొదలుపెట్టింది. పచ్చదనం పాలిపోతూ, ఎర్రటి మట్టిలో చిన్న చిన్న పగుళ్లు కనిపించాయి — భూమి దాహం తీర్చమని అడుగుతున్నట్లు. కింద నుండి వస్తున్న faint, dusty smell దానిని మరింత కలవరపెట్టింది. మేఘం అంచులు నెర్వస్‌గా కదిలాయి, దాని ముఖంపై ఒక చీకటి నీడ కమ్ముకుంది. తనలో తాను ఇలా తటపటాయించింది: \"నా నీటిని వదిలేయాలా? అప్పుడు నేను ఖాళీ అవుతానేమో!\" అది చూసిన మేఘం గుండె — ఒక్కసారిగా చివుక్కుమంది.",
+      "image_prompt": "The cloud looks down nervously as the green valley below slowly dries up, revealing small cracks in the red earth. A dark shadow spreads across its 'face' as its edges twitch with apprehension. Midday sun, bright and harsh, highlighting the dry, cracked earth and the cloud's internal struggle with a stark contrast between light and shadow.",
+      "scene_visual": "The cloud looks down nervously as the green valley below slowly dries up, revealing small cracks in the red earth. A dark shadow spreads across its 'face' as its edges twitch with apprehension.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojulu Gadichaayi, Megham Kinda Chusesariki Loya Mellamellagaa Endipovadam Modalupettindi. Pachchadanam Paalipotu, Errati Mattilo Chinna Chinna Pagullu Kanipinchaayi — Bhumi Daaham Tirchamani Adugutunnatlu. Kinda Nundi Vastunna Faint, Dusty Smell Daanini Marinta Kalavarapettindi. Megham Anchulu Nervas‌Gaa Kadilaayi, Daani Mukhampai Oka Chikati Nida Kammukundi. Tanalo Taanu Ilaa Tatapataayinchindi: \"Naa Nitini Vadileyaalaa? Appudu Nenu Khaali Avutaanemo!\" Adi Chusina Megham Gunde — Okkasaarigaa Chivukkumandi.",
+      "text_en": "A few days passed, and when the cloud looked down, the valley slowly began to dry up. The greenery faded, and small cracks appeared in the red soil — as if the earth was begging for water. A faint, dusty smell rising from below troubled it even more. The cloud's edges moved nervously, and a dark shadow covered its face. It hesitated to itself: \"Should I let go of my water? Then I might become empty!\" Seeing that, the cloud's heart — suddenly ached."
+    },
+    {
+      "id": 3,
+      "text": "ఎండిన ఆకులు గాలికి సన్నగా సలసలలాడే శబ్దం, అది లోయలోని మొక్కలు, జంతువుల మూగ రోదనలా వినిపించింది. ఆ బాధతో మేఘం కాస్త కుంచించుకుపోవడానికి ప్రయత్నించింది, తన నీటిని గట్టిగా పట్టి ఉంచుకుంది. దాని మధ్యభాగంలోని మేఘం దారాలు మరింత బిగుసుకున్నాయి, దాని బాధ్యత మరింత బరువైంది. అది నిట్టూర్చింది: \"వారు నా నీటిని కోరుకుంటున్నారు, కానీ నేను ఎలా ఇవ్వగలను?\" ఎంత పట్టి ఉంచినా — ఒక్క చిన్న నీటి బిందువు దాని అంచు నుండి జారిపడింది.",
+      "image_prompt": "The cloud tries to shrink and tightly hold its water, its central threads tightening under the burden. Despite its effort, a single small drop of water slips from its edge and falls. Overcast sky, grey and heavy, reflecting the cloud's internal conflict and the somber mood of the parched landscape.",
+      "scene_visual": "The cloud tries to shrink and tightly hold its water, its central threads tightening under the burden. Despite its effort, a single small drop of water slips from its edge and falls.",
+      "supporting_char_keys": [],
+      "text_te_en": "Endina Aakulu Gaaliki Sannagaa Salasalalaade Shabdan, Adi Loyaloni Mokkalu, Jantuvula Muga Rodanalaa Vinipinchindi. Aa Baadhato Megham Kaasta Kunchinchukupovadaaniki Prayatninchindi, Tana Nitini Gattigaa Patti Unchukundi. Daani Madhyabhaaganloni Megham Daaraalu Marinta Bigusukunnaayi, Daani Baadhyata Marinta Baruvaindi. Adi Nitturchindi: \"Vaaru Naa Nitini Korukuntunnaaru, Kaani Nenu Elaa Ivvagalanu?\" Enta Patti Unchinaa — Okka Chinna Niti Binduvu Daani Anchu Nundi Jaaripadindi.",
+      "text_en": "The soft rustling sound of dry leaves in the wind sounded like the silent cries of the valley's plants and animals. With that pain, the cloud tried to shrink a little, holding tightly onto its water. The cloud threads in its center tightened even more, and its responsibility felt heavier. It sighed: \"They want my water, but how can I give it?\" No matter how tightly it held on — one tiny drop of water slipped from its edge."
+    },
+    {
+      "id": 4,
+      "text": "ఆ చిన్న నీటి బిందువు లోయలోని ఒక వాడిపోయిన మొక్కపై పడగానే — అది మెల్లగా తల పైకెత్తి, చిగురించినట్లు కనిపించింది. మేఘం దేహంలో ఒక చిన్న వణుకు పుట్టింది, అది ఆశ్చర్యంగా కిందకు చూసింది. ఇంతలో అది తనలో తాను గొణుగుకుంది: \"ఆ చిన్న మొక్క మళ్ళీ సంతోషంగా ఉందే!\" ఒక చిన్న నీటి బిందువుతో ఇంత మార్పా? దాని ముఖంపై మెరిసిన ఆశ్చర్యం — దానిని మరింత ముందుకు కదిలించింది.",
+      "image_prompt": "The cloud trembles slightly as it watches a withered plant below slowly lift its head and sprout new life. A look of surprise brightens its 'face' as it observes the transformation caused by a single water drop. A momentary break in the clouds, with a soft, silvery light illuminating the tiny drizzle and the revived plant, creating a sense of fragile hope.",
+      "scene_visual": "The cloud trembles slightly as it watches a withered plant below slowly lift its head and sprout new life. A look of surprise brightens its 'face' as it observes the transformation caused by a single water drop.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Chinna Niti Binduvu Loyaloni Oka Vaadipoyina Mokkapai Padagaane — Adi Mellagaa Tala Paiketti, Chigurinchinatlu Kanipinchindi. Megham Dehanlo Oka Chinna Vanuku Puttindi, Adi Aashcharyangaa Kindaku Chusindi. Intalo Adi Tanalo Taanu Gonugukundi: \"Aa Chinna Mokka Malli Santoshangaa Unde!\" Oka Chinna Niti Binduvuto Inta Maarpaa? Daani Mukhampai Merisina Aashcharyam — Daanini Marinta Munduku Kadilinchindi.",
+      "text_en": "As that tiny drop of water fell on a withered plant in the valley — it slowly lifted its head and seemed to sprout. A small tremor ran through the cloud's body, and it looked down in surprise. Meanwhile, it mumbled to itself: \"That little plant is happy again!\" Such a big change with just one small drop of water? The surprise that shone on its face — moved it forward even more."
+    },
+    {
+      "id": 5,
+      "text": "ఆశ్చర్యంతో మేఘం మెల్లగా నది వైపు కదిలింది, దాని ప్రవాహం నుండి వస్తున్న నిరంతర, సన్నని సవ్వడిని వింటూ. నది నిరంతరం ఇస్తూనే ఉంది, తన తీరాలను పచ్చగా ఉంచుతూ, ఎప్పుడూ ఖాళీ అవ్వకుండా నిరంతరం ప్రవహిస్తూనే ఉంది. మేఘం అంచులు మరింత విస్తరించి, లోతుగా ఆలోచిస్తున్నట్లుగా కనిపించాయి — దాని అంచుల్లో ఒక మసక కాంతి మెరిసింది. అది నిదానంగా అనుకుంది: \"ఈ నది ఎప్పుడూ ఇస్తూనే ఉంది, అయినా ఎప్పుడూ ఖాళీ అవ్వదు కదా?\" అంత పెద్ద నదికి — ఎక్కడి నుండి వస్తుంది ఈ నీరు?",
+      "image_prompt": "The cloud slowly moves towards a river, its edges expanding as it appears to ponder deeply. A faint light shimmers along its edges as it observes the continuously flowing river. Gentle late afternoon light, warm and golden, reflecting off the flowing river and casting long, thoughtful shadows, creating a reflective mood.",
+      "scene_visual": "The cloud slowly moves towards a river, its edges expanding as it appears to ponder deeply. A faint light shimmers along its edges as it observes the continuously flowing river.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aashcharyanto Megham Mellagaa Nadi Vaipu Kadilindi, Daani Pravaaham Nundi Vastunna Nirantara, Sannani Savvadini Vintu. Nadi Nirantaram Istune Undi, Tana Tiraalanu Pachchagaa Unchutu, Eppudu Khaali Avvakundaa Nirantaram Pravahistune Undi. Megham Anchulu Marinta Vistarinchi, Lotugaa Aalochistunnatlugaa Kanipinchaayi — Daani Anchullo Oka Masaka Kaanti Merisindi. Adi Nidaanangaa Anukundi: \"I Nadi Eppudu Istune Undi, Ayinaa Eppudu Khaali Avvadu Kadaa?\" Anta Pedda Nadiki — Ekkadi Nundi Vastundi I Niru?",
+      "text_en": "With surprise, the cloud slowly moved towards the river, listening to the continuous, gentle murmur coming from its flow. The river kept giving constantly, keeping its banks green, flowing continuously without ever becoming empty. The cloud's edges expanded further, seeming to ponder deeply — a faint light shimmered at its edges. It slowly thought: \"This river keeps giving, yet it never becomes empty, does it?\" For such a big river — where does all this water come from?"
+    },
+    {
+      "id": 6,
+      "text": "ఒక్కసారిగా మేఘానికి ఒక గొప్ప సత్యం బోధపడింది — పట్టి ఉంచుకోవడంలో కాదు, పంచుకోవడంలోనే అసలైన సంతోషం ఉంది. అది తన దేహాన్ని పూర్తిగా విడిచిపెట్టి, సంతోషంగా విస్తరించింది, దానిలోని నీటిని లోయపైకి కురిపించింది. భారీ వర్షం ఎండిన నేలపై శక్తివంతంగా, రిథమిక్‌గా పడుతూ — భూమి దాహాన్ని తీర్చింది. అది కేక వేసింది: \"ఇది పట్టి ఉంచుకోవడం కాదు — పంచుకోవడమే నిజమైన సంతోషం!\" దాని దేహం మొత్తం ప్రకాశించింది, దాని బరువు తగ్గిపోయి తేలికైంది.",
+      "image_prompt": "The cloud joyfully expands, completely releasing its body and pouring its water down onto the valley. Its entire body shines brightly as heavy rain falls rhythmically onto the dry earth, and it becomes lighter. Dramatic, cleansing rain, with flashes of lightning briefly illuminating the dark, heavy clouds and the sheets of water, followed by a soft, clear light breaking through.",
+      "scene_visual": "The cloud joyfully expands, completely releasing its body and pouring its water down onto the valley. Its entire body shines brightly as heavy rain falls rhythmically onto the dry earth, and it becomes lighter.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okkasaarigaa Meghaaniki Oka Goppa Satyam Bodhapadindi — Patti Unchukovadanlo Kaadu, Panchukovadanlone Asalaina Santosham Undi. Adi Tana Dehaanni Purtigaa Vidichipetti, Santoshangaa Vistarinchindi, Daaniloni Nitini Loyapaiki Kuripinchindi. Bhaari Varsham Endina Nelapai Shaktivantangaa, Rithamik‌Gaa Padutu — Bhumi Daahaanni Tirchindi. Adi Keka Vesindi: \"Idi Patti Unchukovadam Kaadu — Panchukovadame Nijamaina Santoshan!\" Daani Deham Mottam Prakaashinchindi, Daani Baruvu Taggipoyi Telikaindi.",
+      "text_en": "Suddenly, a great truth dawned on the cloud — true happiness is not in holding on, but in sharing. It completely let go of its body, happily expanded, and poured its water over the valley. The heavy rain fell powerfully and rhythmically on the dry ground — quenching the earth's thirst. It cried out: \"This is not about holding on — sharing is true happiness!\" Its whole body glowed, its weight lessened, and it felt light."
+    },
+    {
+      "id": 7,
+      "text": "వర్షం తగ్గిన తర్వాత, మేఘం తేలికగా, కొత్త ఉత్సాహంతో ఆకాశంలో తేలియాడుతోంది. లోయ మొత్తం తాజాగా, పచ్చగా మారడాన్ని చూసింది — ప్రతి మొక్క, ప్రతి జంతువు సంతోషంతో కళకళలాడుతున్నాయి. తడి మట్టి, వికసించిన పువ్వుల తాజా సువాసన గాలిలో నిండింది, దాని 'ముఖం' ప్రశాంతంగా, కాంతివంతంగా కనిపించింది. తనలో తాను ఇలా ముసిముసిగా నవ్వుకుంది: \"నేను ఖాళీ అవ్వలేదు — ఇంకా నిండిపోయాను!\" దాని దేహం ఒక మృదువైన కాంతితో మెరిసి, సంపూర్ణత్వంతో నిండిపోయింది.",
+      "image_prompt": "The cloud floats lightly and energetically in the sky, observing the entire valley transformed into fresh greenery. Its 'face' appears peaceful and radiant, glowing with a soft light as it feels complete. Gentle dusk light, warm amber and soft pink hues painting the clouds and the newly vibrant, glistening valley below, creating a peaceful and resolved atmosphere.",
+      "scene_visual": "The cloud floats lightly and energetically in the sky, observing the entire valley transformed into fresh greenery. Its 'face' appears peaceful and radiant, glowing with a soft light as it feels complete.",
+      "supporting_char_keys": [],
+      "text_te_en": "Varsham Taggina Tarvaata, Megham Telikagaa, Kotta Utsaahanto Aakaashanlo Teliyaadutondi. Loya Mottam Taajaagaa, Pachchagaa Maaradaanni Chusindi — Prati Mokka, Prati Jantuvu Santoshanto Kalakalalaadutunnaayi. Tadi Matti, Vikasinchina Puvvula Taajaa Suvaasana Gaalilo Nindindi, Daani 'Mukhan' Prashaantangaa, Kaantivantangaa Kanipinchindi. Tanalo Taanu Ilaa Musimusigaa Navvukundi: \"Nenu Khaali Avvaledu — Inkaa Nindipoyaanu!\" Daani Deham Oka Mrriduvaina Kaantito Merisi, Sampurnatvanto Nindipoyindi.",
+      "text_en": "After the rain stopped, the cloud floated lightly in the sky with new enthusiasm. It saw the entire valley become fresh and green — every plant, every animal was bustling with joy. The fresh scent of wet soil and blooming flowers filled the air, and its 'face' looked peaceful and bright. It chuckled to itself: \"I didn't become empty — I became even fuller!\" Its body shimmered with a soft glow, filled with completeness."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc that beautifully illustrates its moral through the cloud's transformation. The emotional journey is largely depicted through action and imagery, and the grammar is mostly sound. However, the prose often leans towards a formal, literary style, which detracts from the warmth and conversational tone essential for a children's bedtime story. To elevate this to an award-worthy piece, the most crucial step is to simplify the language, replacing abstract expressions and poetic descriptions with more direct, child-friendly phrasing that evokes a grandparent's voice."
+  },
+  "quality_warning": true,
+  "title_te_en": "Ichche Guname Goppa Santosham",
+  "moral_te_en": "Nuvvu Manasu Vippi Panchinappudu, Nilo Marinta Nindipotundi, Ni Baruvu Kudaa Taggipotundi.",
+  "title_en": "The Joy of Giving",
+  "moral_en": "When you give from your heart, you will feel even fuller, and your worries will become lighter.",
+  "id": "20260610_071147",
+  "date": "2026-06-10",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "భూమిని పట్టి ఉంచాలనుకునే మేఘం మరియు స్వేచ్ఛగా ప్రవహించే నీరు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260610_071147/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
