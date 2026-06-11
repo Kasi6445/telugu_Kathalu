@@ -1,0 +1,89 @@
+{
+  "title": "జ్ఞానాన్ని కాపాడిన అశ్వముఖుడు",
+  "moral": "జ్ఞానం ఎప్పుడూ అత్యంత విలువైనది, దాన్ని కాపాడటానికి దైవశక్తి ఎప్పుడూ ఉంటుంది.",
+  "main_character": "Lord Vishnu in his Hayagriva avatar: a magnificent being with a human body and a radiant white horse head, glowing with pure knowledge and immense power. His eyes shine with wisdom and compassion.",
+  "antagonist": "Madhu and Kaitabha: two colossal, arrogant demons, dark and shadowy, representing ignorance and chaos. They constantly seek to disrupt order and steal knowledge.",
+  "setting": "The cosmic ocean (Ksheera Sagara) where Brahma is meditating, and then the dark, chaotic depths where the demons hide.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అనంతమైన పాల సముద్రంలో, సృష్టికర్త బ్రహ్మదేవుడు తన కళ్ళు మూసుకుని, లోతైన ధ్యానంలో లీనమై ఉన్నాడు. ఆయన శ్వాసతోనే విశ్వమంతా విస్తరిస్తూ, ప్రతి చిన్న ప్రాణికీ జీవం పోస్తూ ఉంది. ఆ క్షణంలోనే — దివ్యమైన వేదాలు, తేజస్సుతో వెలిగిపోతూ, ఆయన నుండి వెలువడుతున్నాయి, సృష్టికి మార్గదర్శకాలుగా నిలుస్తున్నాయి. వాటి సుమధురమైన శబ్దం, విశ్వమంతా ప్రశాంతంగా ప్రతిధ్వనిస్తూ ఉంది. ఈ అద్భుతాన్ని చూస్తూ, మనసు నిండా ఆనందం నిండిపోతుంది. కానీ ఇంతలో — ఒక అశుభకరమైన చల్లదనం పాల సముద్రం అంతటా నెమ్మదిగా పాకడం మొదలుపెట్టింది.",
+      "image_prompt": "The creator sits with closed eyes, deep in meditation, as divine scriptures emerge glowing from him. The divine scriptures glow with brilliance as they emanate from his form. A soft, ethereal glow illuminating the Earth, floating amidst a sky full of distant, twinkling stars.",
+      "scene_visual": "The creator sits with closed eyes, deep in meditation, as divine scriptures emerge glowing from him. The divine scriptures glow with brilliance as they emanate from his form.",
+      "supporting_char_keys": [],
+      "text_te_en": "Anantamaina Paala Samudranlo, Srrishtikarta Brahmadevudu Tana Kallu Musukuni, Lotaina Dhyaananlo Linamai Unnaadu. Aayana Shvaasatone Vishvamantaa Vistaristu, Prati Chinna Praaniki Jivam Postu Undi. Aa Kshananlone — Divyamaina Vedaalu, Tejassuto Veligipotu, Aayana Nundi Veluvadutunnaayi, Srrishtiki Maargadarshakaalugaa Nilustunnaayi. Vaati Sumadhuramaina Shabdan, Vishvamantaa Prashaantangaa Pratidhvanistu Undi. I Adbhutaanni Chustu, Manasu Nindaa Aanandam Nindipotundi. Kaani Intalo — Oka Ashubhakaramaina Challadanam Paala Samudram Antataa Nemmadigaa Paakadam Modalupettindi.",
+      "text_en": "In the endless Milky Ocean, the creator Brahma was deep in meditation, with his eyes closed. With his breath, the entire universe expanded, giving life to every tiny creature. At that very moment — the divine Vedas, shining brightly, emerged from him, serving as guides for creation. Their sweet sound echoed peacefully throughout the universe. Seeing this wonder, one's heart would fill with joy. But then — an ominous coldness slowly began to spread across the entire Milky Ocean."
+    },
+    {
+      "id": 2,
+      "text": "ఆ చల్లదనం వెనుకే, మధువు, కైటభుడు అనే ఇద్దరు అహంకారపూరిత రాక్షసులు, చీకటి నీడల్లా మెల్లగా ముందుకు కదిలారు. బ్రహ్మదేవుడి ధ్యాన భంగాన్ని గమనించకుండా, వారు వేదాల దివ్య తేజస్సును చూసి, దురాశతో నిండిపోయారు. ఒక్క క్షణంలో — వారు వేదాలను బలంగా పట్టుకుని, తమ చీకటి రెక్కలతో విశ్వంలోకి దూసుకుపోయారు. పాల సముద్రపు అడుగు భాగంలో ఉన్న అగాధంలోకి, వారు వేదాలను లాక్కుని వెళ్లిపోయారు. వేదాల ప్రకాశం క్షణాల్లో మసకబారిపోయింది — అగాధ చీకటి అంతటా ఆవరించింది.",
+      "image_prompt": "Two arrogant demons, like dark shadows, forcefully seize the glowing scriptures. They then plunge into a deep abyss at the bottom of the milky ocean, dragging the scriptures with them. Also in this scene: Madhu and Kaitabha: two colossal, arrogant demons, dark and shadowy, representing ignorance and chaos. They constantly seek to disrupt order and steal knowledge. Murky, dark blue depths, with Hiranyaksha's shadow looming large, a faint, struggling light emanating from the sinking Earth.",
+      "scene_visual": "Two arrogant demons, like dark shadows, forcefully seize the glowing scriptures. They then plunge into a deep abyss at the bottom of the milky ocean, dragging the scriptures with them.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Challadanam Venuke, Madhuvu, Kaitabhudu Ane Iddaru Ahankaarapurita Raakshasulu, Chikati Nidallaa Mellagaa Munduku Kadilaaru. Brahmadevudi Dhyaana Bhangaanni Gamaninchakundaa, Vaaru Vedaala Divya Tejassunu Chusi, Duraashato Nindipoyaaru. Okka Kshananlo — Vaaru Vedaalanu Balangaa Pattukuni, Tama Chikati Rekkalato Vishvanloki Dusukupoyaaru. Paala Samudrapu Adugu Bhaaganlo Unna Agaadhanloki, Vaaru Vedaalanu Laakkuni Vellipoyaaru. Vedaala Prakaasham Kshanaallo Masakabaaripoyindi — Agaadha Chikati Antataa Aavarinchindi.",
+      "text_en": "Following that coldness, two arrogant demons named Madhu and Kaitabha slowly moved forward like dark shadows. Without noticing Brahma's broken meditation, they saw the divine radiance of the Vedas and were filled with greed. In an instant — they firmly grabbed the Vedas and soared into the universe with their dark wings. They dragged the Vedas down into the abyss at the bottom of the Milky Ocean. The light of the Vedas dimmed in moments — and deep darkness covered everything."
+    },
+    {
+      "id": 3,
+      "text": "వేదాలు అదృశ్యం కాగానే, బ్రహ్మదేవుడు ఒక్కసారిగా తన ధ్యానం నుండి మేల్కొన్నాడు, ఆయన ముఖం తీవ్రమైన బాధతో నిండిపోయింది. ఆ చీకటి అగాధాన్ని చూసి, ఆయన గుండె తరుక్కుపోయింది — ఈ సృష్టికి ఆధారం అయిన వేదాలు లేకపోతే ఎలా? దేవతలు, మహర్షులు కూడా ఆకాశంలో చేరి, తమ చేతులు జోడించి, తీవ్రమైన ఆందోళనతో ప్రార్థించడం మొదలుపెట్టారు. విశ్వమంతా ప్రతిధ్వనించేలా, “ఓ మహాప్రభో, జ్ఞానాన్ని రక్షించు!” అని వేడుకున్నారు. అప్పుడు, ఆ ప్రార్థనల మధ్య — ఒక అద్భుతమైన కాంతి పుంజం ఆకాశంలో మెరిసింది.",
+      "image_prompt": "The creator awakens from meditation with a face full of intense sorrow, as other celestial beings gather in the sky, praying with joined hands. Amidst their fervent prayers, a magnificent beam of light suddenly flashes across the sky. A vast, dark cosmic canvas, with tiny, shimmering points of light representing distant worlds, and a sense of profound emptiness.",
+      "scene_visual": "The creator awakens from meditation with a face full of intense sorrow, as other celestial beings gather in the sky, praying with joined hands. Amidst their fervent prayers, a magnificent beam of light suddenly flashes across the sky.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vedaalu Adrrishyam Kaagaane, Brahmadevudu Okkasaarigaa Tana Dhyaanam Nundi Melkonnaadu, Aayana Mukham Tivramaina Baadhato Nindipoyindi. Aa Chikati Agaadhaanni Chusi, Aayana Gunde Tarukkupoyindi — I Srrishtiki Aadhaaram Ayina Vedaalu Lekapote Elaa? Devatalu, Maharshulu Kudaa Aakaashanlo Cheri, Tama Chetulu Jodinchi, Tivramaina Aandolanato Praarthinchadam Modalupettaaru. Vishvamantaa Pratidhvaninchelaa, “O Mahaaprabho, Jnyaanaanni Rakshinchu!” Ani Vedukunnaaru. Appudu, Aa Praarthanala Madhya — Oka Adbhutamaina Kaanti Punjam Aakaashanlo Merisindi.",
+      "text_en": "As soon as the Vedas disappeared, Brahma suddenly awoke from his meditation, his face filled with deep sorrow. Seeing that dark abyss, his heart ached — what would happen to creation without the Vedas, its very foundation? Gods and great sages also gathered in the sky, joining their hands, and began to pray with intense worry. They pleaded, echoing throughout the universe, “Oh Great Lord, protect knowledge!” Then, amidst those prayers — a magnificent beam of light shone in the sky."
+    },
+    {
+      "id": 4,
+      "text": "ఆ కాంతి పుంజం నుండి, మన విష్ణుమూర్తి — అద్భుతమైన హయగ్రీవుని రూపంలో దర్శనమిచ్చాడు! ఆయన శరీరం మానవుడిది, కానీ తల మాత్రం తెల్లటి, తేజస్సు నిండిన అశ్వం వలె ఉంది. ఆయన కళ్ళల్లో అనంతమైన జ్ఞానం, దయ ప్రకాశిస్తున్నాయి. ఆయన మొదటి గర్జన — విశ్వమంతా ప్రతిధ్వనించి, పాల సముద్రపు అలలను కూడా కదిలించింది. “జ్ఞానం ఎప్పుడూ నాదే!” అని ఆయన ప్రశాంతంగా ప్రకటించాడు. ఆయన చుట్టూ దివ్యమైన తామర పువ్వుల సువాసన నిండిపోయింది. ఆ తరువాత, హయగ్రీవ దేవుడు ఆ చీకటి అగాధంలోకి ధైర్యంగా దూకాడు, ఆయన రూపం ప్రకాశవంతంగా వెలిగిపోతూ ఉంది.",
+      "image_prompt": "A deity with a human body and a radiant white horse head emerges from the light, then bravely dives into the dark abyss. His form glows brightly as he plunges, and his eyes radiate infinite wisdom and compassion. A blinding golden-white light erupts in the cosmic ocean, slowly revealing the majestic form of Varaha Devudu, radiating power.",
+      "scene_visual": "A deity with a human body and a radiant white horse head emerges from the light, then bravely dives into the dark abyss. His form glows brightly as he plunges, and his eyes radiate infinite wisdom and compassion.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kaanti Punjam Nundi, Mana Vishnumurti — Adbhutamaina Hayagrivuni Rupanlo Darshanamichchaadu! Aayana Shariram Maanavudidi, Kaani Tala Maatram Tellati, Tejassu Nindina Ashvam Vale Undi. Aayana Kallallo Anantamaina Jnyaanan, Daya Prakaashistunnaayi. Aayana Modati Garjana — Vishvamantaa Pratidhvaninchi, Paala Samudrapu Alalanu Kudaa Kadilinchindi. “Jnyaanam Eppudu Naade!” Ani Aayana Prashaantangaa Prakatinchaadu. Aayana Chuttu Divyamaina Taamara Puvvula Suvaasana Nindipoyindi. Aa Taruvaata, Hayagriva Devudu Aa Chikati Agaadhanloki Dhairyangaa Dukaadu, Aayana Rupam Prakaashavantangaa Veligipotu Undi.",
+      "text_en": "From that beam of light, our Lord Vishnu — appeared in the wonderful form of Hayagriva! His body was human, but his head was like a white, radiant horse. Infinite knowledge and compassion shone in his eyes. His first roar — echoed throughout the universe, even stirring the waves of the Milky Ocean. “Knowledge is always mine!” he calmly declared. A divine fragrance of lotus flowers filled the air around him. After that, Lord Hayagriva bravely leaped into that dark abyss, his form shining brightly."
+    },
+    {
+      "id": 5,
+      "text": "అగాధపు చీకటిలో, హయగ్రీవ దేవుడు మధు, కైటభులను ఎదుర్కొన్నాడు. రాక్షసులు తమ అహంకారంతో గర్జించారు, కానీ హయగ్రీవుని దివ్యమైన తేజస్సు ముందు నిలబడలేకపోయారు. ఆయన కళ్ళ నుండి వెలువడిన జ్ఞాన ప్రవాహం, వారి అజ్ఞానపు చీకటిని క్షణాల్లో చెదరగొట్టింది. “అజ్ఞానం నిలబడదు!” అని ఆయన ధృఢంగా పలికాడు. అప్పుడు — ఒక స్వచ్ఛమైన, తెల్లటి కాంతి తరంగం హయగ్రీవుని నుండి విస్తరించి, రాక్షసుల నీడలను వెనక్కి నెట్టింది. దేవుని శక్తి ముందు చెడు నిలవలేకపోయింది. ఆ క్షణంలో — విశ్వమంతా అపారమైన నిశ్శబ్దం ఆవరించింది, న్యాయం జరిగింది. రాక్షసులు మాయమైపోగా, హయగ్రీవ దేవుడు వేదాలను సున్నితంగా చేతిలోకి తీసుకున్నాడు, అవి ఇప్పుడు మరింత ప్రకాశవంతంగా వెలిగిపోతున్నాయి.",
+      "image_prompt": "A pure white wave of light expands from the deity, pushing back the shadows of the demons until they vanish. The deity then gently takes the now even more brightly glowing scriptures into his hands. Also in this scene: Madhu and Kaitabha: two colossal, arrogant demons, dark and shadowy, representing ignorance and chaos. They constantly seek to disrupt order and steal knowledge. The dark, crushing depths of the cosmic ocean, momentarily split by a blinding, explosive golden light emanating from Varaha Devudu, then returning to darkness.",
+      "scene_visual": "A pure white wave of light expands from the deity, pushing back the shadows of the demons until they vanish. The deity then gently takes the now even more brightly glowing scriptures into his hands.",
+      "supporting_char_keys": [],
+      "text_te_en": "Agaadhapu Chikatilo, Hayagriva Devudu Madhu, Kaitabhulanu Edurkonnaadu. Raakshasulu Tama Ahankaaranto Garjinchaaru, Kaani Hayagrivuni Divyamaina Tejassu Mundu Nilabadalekapoyaaru. Aayana Kalla Nundi Veluvadina Jnyaana Pravaahan, Vaari Ajnyaanapu Chikatini Kshanaallo Chedaragottindi. “Ajnyaanam Nilabadadu!” Ani Aayana Dhrridhangaa Palikaadu. Appudu — Oka Svachchamaina, Tellati Kaanti Tarangam Hayagrivuni Nundi Vistarinchi, Raakshasula Nidalanu Venakki Nettindi. Devuni Shakti Mundu Chedu Nilavalekapoyindi. Aa Kshananlo — Vishvamantaa Apaaramaina Nishshabdam Aavarinchindi, Nyaayam Jarigindi. Raakshasulu Maayamaipogaa, Hayagriva Devudu Vedaalanu Sunnitangaa Chetiloki Tisukunnaadu, Avi Ippudu Marinta Prakaashavantangaa Veligipotunnaayi.",
+      "text_en": "In the darkness of the abyss, Lord Hayagriva confronted Madhu and Kaitabha. The demons roared with their arrogance, but they could not stand before Hayagriva's divine radiance. The stream of knowledge that flowed from his eyes scattered their darkness of ignorance in moments. “Ignorance cannot stand!” he declared firmly. Then — a pure, white wave of light spread from Hayagriva, pushing back the shadows of the demons. Evil could not stand before the power of God. In that moment — a profound silence enveloped the universe, and justice was served. As the demons vanished, Lord Hayagriva gently took the Vedas into his hands, and they were now shining even brighter."
+    },
+    {
+      "id": 6,
+      "text": "హయగ్రీవ దేవుడు, ప్రేమతో వేదాలను తన చేతుల్లో పట్టుకుని, పాల సముద్రం పైకి తిరిగి వచ్చాడు. బ్రహ్మదేవుడు వేదాలను తిరిగి పొందగానే, ఆయన ముఖం ప్రశాంతతతో, కృతజ్ఞతతో వెలిగిపోయింది. “వేదాలు మళ్లీ సురక్షితం,” అని హయగ్రీవుడు మృదువుగా పలికాడు. వేదాల నుండి మళ్ళీ సుమధురమైన శబ్దం విశ్వమంతా నిండిపోయింది, సృష్టి మళ్ళీ సామరస్యంగా సాగింది. ఆ క్షణంలో — పాల సముద్రం నుండి దివ్యమైన పువ్వుల వర్షం కురిసింది, విశ్వమంతా తిరిగి ఆనందంతో నిండిపోయింది.",
+      "image_prompt": "The deity returns to the surface of the milky ocean, holding the scriptures lovingly in his hands. Divine flowers rain down from the milky ocean, filling the universe with renewed joy. A soft, gentle dawn light spreading across the newly returned Earth, with Varaha Devudu bathed in a warm, golden glow.",
+      "scene_visual": "The deity returns to the surface of the milky ocean, holding the scriptures lovingly in his hands. Divine flowers rain down from the milky ocean, filling the universe with renewed joy.",
+      "supporting_char_keys": [],
+      "text_te_en": "Hayagriva Devudu, Premato Vedaalanu Tana Chetullo Pattukuni, Paala Samudram Paiki Tirigi Vachchaadu. Brahmadevudu Vedaalanu Tirigi Pondagaane, Aayana Mukham Prashaantatato, Krritajnyatato Veligipoyindi. “Vedaalu Malli Surakshitan,” Ani Hayagrivudu Mrriduvugaa Palikaadu. Vedaala Nundi Malli Sumadhuramaina Shabdam Vishvamantaa Nindipoyindi, Srrishti Malli Saamarasyangaa Saagindi. Aa Kshananlo — Paala Samudram Nundi Divyamaina Puvvula Varsham Kurisindi, Vishvamantaa Tirigi Aanandanto Nindipoyindi.",
+      "text_en": "Lord Hayagriva, holding the Vedas lovingly in his hands, returned to the surface of the Milky Ocean. As soon as Brahma received the Vedas back, his face lit up with peace and gratitude. “The Vedas are safe again,” Hayagriva said softly. The sweet sound from the Vedas filled the universe once more, and creation continued in harmony. In that moment — a divine shower of flowers rained down from the Milky Ocean, and the entire universe was filled with joy again."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 5.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 4,
+    "dialogue_richness": 4,
+    "grammar_correctness": 8,
+    "narrative_arc": 6,
+    "child_engagement": 6,
+    "average": 5.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a classic mythological tale with a clear narrative arc and generally correct grammar. However, its formal, descriptive prose and lack of direct dialogue significantly hinder its appeal as a children's bedtime story. To reach a 9+, the most crucial fix is to infuse the narrative with genuine oral warmth, showing emotions through character actions and dialogue rather than stating them, and allowing the moral to emerge organically from the events."
+  },
+  "quality_warning": true,
+  "title_te_en": "Jnyaanaanni Kaapaadina Ashvamukhudu",
+  "moral_te_en": "Jnyaanam Eppudu Atyanta Viluvainadi, Daanni Kaapaadataaniki Daivashakti Eppudu Untundi.",
+  "title_en": "The Horse-faced Savior of Knowledge",
+  "moral_en": "Knowledge is always the most precious thing, and divine power will always be there to protect it.",
+  "id": "20260611_111136",
+  "date": "2026-06-11",
+  "category": "bhagavatam",
+  "subcategory": "avatara_kathas",
+  "topic": "వరాహావతారం - ప్రేమతో బరువును మోసిన ధైర్యవంతుడు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260611_111136/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
