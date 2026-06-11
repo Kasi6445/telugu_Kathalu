@@ -12,6 +12,7 @@ Defensive handling: sleep before Pro calls, 429 retry, timing log.
 
 import json
 import logging
+import random
 import re
 import time
 from datetime import datetime
@@ -128,28 +129,34 @@ def _pro_call(prompt: str, config: types.GenerateContentConfig,
     t0 = time.time()
     _last_pro_call_at = t0
 
-    for attempt in range(1, 3):
-        try:
-            response = client.models.generate_content(
-                model=model, contents=prompt, config=config
-            )
-            elapsed = time.time() - t0
-            _log_timing(model, elapsed)
-            text = response.text
-            if text is None:
-                raise RuntimeError(f"Pro call returned no text (model={model})")
-            return text
+    response = _generate_content_with_retry(client, model, prompt, config)
+    elapsed = time.time() - t0
+    _log_timing(model, elapsed)
+    text = response.text
+    if text is None:
+        raise RuntimeError(f"Pro call returned no text (model={model})")
+    return text
 
+
+def _generate_content_with_retry(client, model: str, contents, config,
+                                  max_retries: int = 5):
+    """Call generate_content with exponential backoff on 429 RESOURCE_EXHAUSTED."""
+    for attempt in range(max_retries + 1):
+        try:
+            return client.models.generate_content(
+                model=model, contents=contents, config=config
+            )
         except Exception as exc:
             err = str(exc)
-            if ("429" in err or "RESOURCE_EXHAUSTED" in err) and attempt == 1:
-                logger.warning(f"Pro 429 on attempt 1 — waiting {_PRO_429_WAIT}s then retry")
-                time.sleep(_PRO_429_WAIT)
-                _last_pro_call_at = time.time()
+            if ("429" in err or "RESOURCE_EXHAUSTED" in err) and attempt < max_retries:
+                wait = 2 ** attempt + random.random()
+                logger.warning(
+                    f"RESOURCE_EXHAUSTED (attempt {attempt + 1}/{max_retries + 1})"
+                    f" — retrying in {wait:.1f}s"
+                )
+                time.sleep(wait)
             else:
-                raise RuntimeError(f"Pro call failed (attempt {attempt}): {exc}") from exc
-
-    raise RuntimeError("Pro call exhausted retries")
+                raise
 
 
 def _log_timing(model: str, elapsed: float) -> None:
@@ -633,10 +640,9 @@ Return ONLY valid JSON (no markdown fences, no extra text):
 
     for flash_attempt in range(1, 4):
         try:
-            response = client.models.generate_content(
-                model=NARRATION_MODEL,
-                contents=prompt,
-                config=types.GenerateContentConfig(
+            response = _generate_content_with_retry(
+                client, NARRATION_MODEL, prompt,
+                types.GenerateContentConfig(
                     response_mime_type="application/json",
                     temperature=0.75,
                     top_p=0.95,
@@ -714,10 +720,9 @@ Return ONLY valid JSON:
 
     for attempt in range(1, 3):
         try:
-            response = client.models.generate_content(
-                model=NARRATION_MODEL,
-                contents=prompt,
-                config=types.GenerateContentConfig(
+            response = _generate_content_with_retry(
+                client, NARRATION_MODEL, prompt,
+                types.GenerateContentConfig(
                     response_mime_type="application/json",
                     temperature=0.3,
                 ),
@@ -1040,10 +1045,9 @@ Return exactly this structure:
 
     client = make_client()
     t0 = time.time()
-    response = client.models.generate_content(
-        model=NARRATION_MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
+    response = _generate_content_with_retry(
+        client, NARRATION_MODEL, prompt,
+        types.GenerateContentConfig(
             response_mime_type='application/json',
             temperature=0.3,
         ),

@@ -88,13 +88,35 @@ def _generate_new_topics(cat_key: str, sub_key: str, categories: dict, index_sto
         f"Each topic must represent a completely new concept not covered above."
     )
 
+    import random, time
     client = make_client()
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            temperature=0.9,
-        ),
-    )
-    return json.loads(response.text)
+    max_retries = 5
+    for _attempt in range(max_retries + 1):
+        try:
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.9,
+                ),
+            )
+            break
+        except Exception as exc:
+            err = str(exc)
+            if ("429" in err or "RESOURCE_EXHAUSTED" in err) and _attempt < max_retries:
+                wait = 2 ** _attempt + random.random()
+                logger.warning(f"RESOURCE_EXHAUSTED (attempt {_attempt + 1}/{max_retries + 1}) — retrying in {wait:.1f}s")
+                time.sleep(wait)
+            else:
+                raise
+    raw = json.loads(response.text)
+    # Gemini occasionally returns a list of dicts instead of plain strings;
+    # normalise to strings so callers can safely do `t not in used_topics` (a set).
+    return [
+        t if isinstance(t, str)
+        else (t.get("topic") or t.get("title") or t.get("id")
+              or str(next(iter(t.values()), "")))
+        for t in raw
+        if t
+    ]
