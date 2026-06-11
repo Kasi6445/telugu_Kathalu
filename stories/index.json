@@ -1,6 +1,23 @@
 {
   "stories": [
     {
+      "id": "20260611_031021",
+      "slug": "maayaa-cheruvulooni-koorikalu",
+      "title": "మాయా చెరువులోని కోరికలు",
+      "moral": "మనసుకి నిజమైన ఆనందాన్ని ఇచ్చేదే అసలైన కోరిక అని తెలుసుకోవడం ఒక గొప్ప మాయాజాలం.",
+      "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260611_031021/images/scene1.jpg",
+      "date": "2026-06-11",
+      "category": "janapada",
+      "subcategory": "village_tales",
+      "topic": "లోతైన కోరికలను చూపించే మాయా చెరువు - ప్రతిబింబాలలో కనిపించే ఆశల రహస్యం.",
+      "voice": "te-IN-Chirp3-HD-Gacrux",
+      "schema_version": 2,
+      "title_en": "Wishes in the Magical Pond",
+      "moral_en": "It's a great magic to realize that a true wish is what gives real happiness to your heart.",
+      "title_te_en": "Maayaa Cheruvuloni Korikalu",
+      "moral_te_en": "Manasuki Nijamaina Aanandaanni Ichchede Asalaina Korika Ani Telusukovadam Oka Goppa Maayaajaalan."
+    },
+    {
       "id": "20260610_211015",
       "slug": "vayasu-maaree-adaviloo-chinnaari-chinnaa",
       "title": "వయసు మారే అడవిలో చిన్నారి చిన్నా",
