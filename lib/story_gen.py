@@ -1058,7 +1058,12 @@ Return exactly this structure:
     text = response.text
     if text is None:
         raise RuntimeError("Pass 4 (translations) returned no text")
-    translations = json.loads(text)
+    try:
+        text = re.sub(r'^```json\s*|^```\s*|```$', '', text.strip(), flags=re.MULTILINE)
+        translations = json.loads(text)
+    except json.JSONDecodeError as e:
+        logger.error(f"Pass 4 JSON parse failed: {e}\nRaw response: {text[:500]}")
+        raise
     story['title_en'] = translations['title_en']
     story['moral_en'] = translations['moral_en']
 
