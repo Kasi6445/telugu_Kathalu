@@ -1,0 +1,98 @@
+{
+  "title": "తోడేలు మోసం, గొర్రె తెలివి",
+  "moral": "ఎవరైనా మంచి మాటలు చెప్పినా, వాళ్ళు చేసే పనులు చూడాలి. వాళ్ళ మనసు ఏంటో అప్పుడే తెలుస్తుంది కదూ!",
+  "main_character": "A young, fluffy white lamb with wide, innocent eyes and small, twitching ears. It moves with a gentle skip, always seeking tender green grass. Always the same character across every scene.",
+  "antagonist": "A lean, grey wolf with sharp, yellow eyes and a sly grin that rarely reaches his eyes. He has tattered fur around his neck and moves with a deceptive slink. Always the same character across every scene.",
+  "setting": "A lush green meadow beside a gently flowing river in the rural Andhra Pradesh countryside. Wildflowers dot the landscape, and ancient banyan trees provide shade. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చటి పచ్చికబయలులో, మెత్తటి తెల్లటి గొర్రెపిల్ల అటు ఇటు తిరుగుతూ, లేలేత గడ్డిని నములుతోంది. దాని కళ్ళు ఎంత అమాయకంగా ఉన్నాయంటే, లోకంలో చెడు ఏంటో దానికి తెలీనట్లు. సూర్యరశ్మి దాని ఉన్నిపై మెరుస్తూ ఉంటే, అది గడ్డి కొరుకుతున్నప్పుడు వచ్చే మెల్లటి శబ్దం తప్ప — అంతా ప్రశాంతంగా ఉంది. అప్పుడు, పక్క పొదల్లో ఏదో కదిలిన శబ్దం... ఒక్కసారిగా దాని చిన్న చెవులు రిక్కించి అటు చూశాయి.",
+      "image_prompt": "The lamb suddenly perks its small ears up and looks towards the bushes. Its innocent eyes, previously oblivious, now show a hint of alertness as the sunlight glints on its wool. Bright morning sun, golden rays filtering through distant trees, illuminating dew-kissed grass with a gentle glow.",
+      "scene_visual": "The lamb suddenly perks its small ears up and looks towards the bushes. Its innocent eyes, previously oblivious, now show a hint of alertness as the sunlight glints on its wool.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchati Pachchikabayalulo, Mettati Tellati Gorrepilla Atu Itu Tirugutu, Leleta Gaddini Namulutondi. Daani Kallu Enta Amaayakangaa Unnaayante, Lokanlo Chedu Ento Daaniki Telinatlu. Suryarashmi Daani Unnipai Merustu Unte, Adi Gaddi Korukutunnappudu Vachche Mellati Shabdam Tappa — Antaa Prashaantangaa Undi. Appudu, Pakka Podallo Edo Kadilina Shabdan... Okkasaarigaa Daani Chinna Chevulu Rikkinchi Atu Chushaayi.",
+      "text_en": "In a green meadow, a soft white lamb was wandering around, nibbling on tender grass. Its eyes were so innocent, as if it didn't know what evil was in the world. The sunlight sparkled on its wool, and other than the gentle sound it made while munching grass — everything was peaceful. Then, a sound of something moving in the nearby bushes... Suddenly, its small ears perked up and it looked that way."
+    },
+    {
+      "id": 2,
+      "text": "పొదల చాటు నుండి ఒక పెద్ద తోడేలు మెల్లగా బయటికి వచ్చింది. దాని కళ్ళు మెరుస్తూ, పెదవులపై ఒక వింత నవ్వు — నిజమైనదా అనిపించలేదు. \"చిన్న గొర్రెపిల్లా, నీవు ఒంటరిగా ఉన్నావా? నేను నీకు స్నేహితుడిని కానా?\" అని అది బరువుగా, కానీ ఆశ్చర్యకరంగా మృదువైన గొంతుతో అడిగింది. గొర్రెపిల్ల చెవులు కొద్దిగా వెనక్కి వాలి, ఆ తోడేలు పదునైన పళ్ళను చూసి ఒక్క క్షణం తటపటాయించింది. కానీ దాని మాటలు మాత్రం చాలా దయగా అనిపించాయి కదూ?",
+      "image_prompt": "A large wolf slowly emerges from behind the bushes, speaking in a surprisingly soft voice. Its eyes gleam, and a strange, unnatural smile plays on its lips as the lamb's ears slightly droop back at the sight of its sharp teeth. Also in this scene: A lean, grey wolf with sharp, yellow eyes and a sly grin that rarely reaches his eyes. He has tattered fur around his neck and moves with a deceptive slink. Always the same character across every scene. Mid-morning light, bright but with the wolf casting a long, slightly menacing shadow over the lamb on the sunlit grass.",
+      "scene_visual": "A large wolf slowly emerges from behind the bushes, speaking in a surprisingly soft voice. Its eyes gleam, and a strange, unnatural smile plays on its lips as the lamb's ears slightly droop back at the sight of its sharp teeth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Podala Chaatu Nundi Oka Pedda Todelu Mellagaa Bayatiki Vachchindi. Daani Kallu Merustu, Pedavulapai Oka Vinta Navvu — Nijamainadaa Anipinchaledu. \"Chinna Gorrepillaa, Nivu Ontarigaa Unnaavaa? Nenu Niku Snehitudini Kaanaa?\" Ani Adi Baruvugaa, Kaani Aashcharyakarangaa Mrriduvaina Gontuto Adigindi. Gorrepilla Chevulu Koddigaa Venakki Vaali, Aa Todelu Padunaina Pallanu Chusi Okka Kshanam Tatapataayinchindi. Kaani Daani Maatalu Maatram Chaalaa Dayagaa Anipinchaayi Kadu?",
+      "text_en": "From behind the bushes, a big wolf slowly came out. Its eyes gleamed, and there was a strange smile on its lips — it didn't seem real. \"Little lamb, are you all alone? Can I be your friend?\" it asked in a heavy, yet surprisingly soft voice. The lamb's ears drooped a little, and it hesitated for a moment, seeing the wolf's sharp teeth. But its words sounded very kind, didn't they?"
+    },
+    {
+      "id": 3,
+      "text": "తోడేలు \"మనం ఒక ఆట ఆడదామా?\" అని అడిగింది. గొర్రెపిల్ల తల పక్కకు వంచి, \"ఏం ఆట?\" అన్నట్లు చూసింది. అప్పుడు తోడేలు ఒక చిన్నగా నవ్వి, \"నువ్వు వెళ్ళి ఆ పండ్లను చూడు, అవి చాలా రుచికరమైనవి అని విన్నాను\" అంటూ ఒక దట్టమైన పొద వైపు వేలు పెట్టింది. తోడేలు దారి చూపిస్తుంటే, తడి మట్టి, కుళ్ళిన ఆకుల వాసన ముక్కుకు తగిలింది. మంచి స్నేహితుడిని కావాలనుకుని, గొర్రెపిల్ల మనసులో కొంచెం భయపడినా — ఆ పొదల వైపు మెల్లగా అడుగులు వేసింది.",
+      "image_prompt": "The wolf points a finger towards a dense bush, and the lamb hesitantly takes slow steps towards it. A faint, unsettling smell of wet earth and rotting leaves fills the air as the lamb, despite its fear, follows the wolf's direction. Also in this scene: A lean, grey wolf with sharp, yellow eyes and a sly grin that rarely reaches his eyes. He has tattered fur around his neck and moves with a deceptive slink. Always the same character across every scene. Dappled sunlight filtering through thick leaves, creating a patchy, slightly disorienting light in the forest edge.",
+      "scene_visual": "The wolf points a finger towards a dense bush, and the lamb hesitantly takes slow steps towards it. A faint, unsettling smell of wet earth and rotting leaves fills the air as the lamb, despite its fear, follows the wolf's direction.",
+      "supporting_char_keys": [],
+      "text_te_en": "Todelu \"Manam Oka Aata Aadadaamaa?\" Ani Adigindi. Gorrepilla Tala Pakkaku Vanchi, \"Em Aata?\" Annatlu Chusindi. Appudu Todelu Oka Chinnagaa Navvi, \"Nuvvu Velli Aa Pandlanu Chudu, Avi Chaalaa Ruchikaramainavi Ani Vinnaanu\" Antu Oka Dattamaina Poda Vaipu Velu Pettindi. Todelu Daari Chupistunte, Tadi Matti, Kullina Aakula Vaasana Mukkuku Tagilindi. Manchi Snehitudini Kaavaalanukuni, Gorrepilla Manasulo Konchem Bhayapadinaa — Aa Podala Vaipu Mellagaa Adugulu Vesindi.",
+      "text_en": "The wolf asked, \"Shall we play a game?\" The lamb tilted its head and looked as if to say, \"What game?\" Then the wolf gave a small laugh and pointed towards a dense bush, saying, \"You go and look at those fruits, I heard they are very tasty.\" As the wolf showed the way, the smell of wet earth and rotten leaves reached the lamb's nose. Wanting a good friend, even though the lamb felt a little scared in its heart — it slowly walked towards those bushes."
+    },
+    {
+      "id": 4,
+      "text": "గొర్రెపిల్ల కష్టపడి కొన్ని పండ్లను తెచ్చింది, దాని మూతికి పండ్ల తీపి అంటుకుని ఉంది. తోడేలు వాటిని ఒక్కసారిగా లాక్కుని, ఆత్రంగా మింగేసింది. \"ఇవి సరిపోవు! నాకు ఇంకా కావాలి, త్వరగా వెళ్ళు!\" అని అది కోపంగా అరిచింది. గొర్రెపిల్ల భుజాలు వాల్చుకుంది — దానికి ఏదో తేడాగా అనిపించింది. ఈ స్నేహం మొత్తం తన ఒక్కదానిదే అన్నట్లు తోడేలు ప్రవర్తిస్తోంది కదూ!",
+      "image_prompt": "The wolf snatches the fruits from the lamb's mouth and angrily shouts for more. The lamb's shoulders slump, its mouth still sticky with the sweetness of the fruits, as it senses something is amiss. Also in this scene: A lean, grey wolf with sharp, yellow eyes and a sly grin that rarely reaches his eyes. He has tattered fur around his neck and moves with a deceptive slink. Always the same character across every scene. Bright afternoon sun, but the mood is heavy, casting harsh shadows on the wolf's demanding face and the lamb's weary expression.",
+      "scene_visual": "The wolf snatches the fruits from the lamb's mouth and angrily shouts for more. The lamb's shoulders slump, its mouth still sticky with the sweetness of the fruits, as it senses something is amiss.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gorrepilla Kashtapadi Konni Pandlanu Techchindi, Daani Mutiki Pandla Tipi Antukuni Undi. Todelu Vaatini Okkasaarigaa Laakkuni, Aatrangaa Mingesindi. \"Ivi Saripovu! Naaku Inkaa Kaavaali, Tvaragaa Vellu!\" Ani Adi Kopangaa Arichindi. Gorrepilla Bhujaalu Vaalchukundi — Daaniki Edo Tedaagaa Anipinchindi. I Sneham Mottam Tana Okkadaanide Annatlu Todelu Pravartistondi Kadu!",
+      "text_en": "The lamb worked hard and brought some fruits, the sweetness of the fruits sticking to its muzzle. The wolf snatched them all at once and greedily swallowed them. \"These are not enough! I want more, go quickly!\" it yelled angrily. The lamb's shoulders drooped — something felt wrong to it. The wolf was acting as if this whole friendship was just about itself, wasn't it?"
+    },
+    {
+      "id": 5,
+      "text": "గొర్రెపిల్ల తల దించుకుని, మెల్లగా తోడేలు దగ్గరికి వెళ్ళింది. దాని మనసు బాధగా ఉంది. \"తోడేలు మిత్రమా, నాకు కొంచెం విశ్రాంతి కావాలి, మనం రేపు ఆడదామా?\" అని అడిగింది. తోడేలు కోపంగా తోక ఝళిపించింది — దాని ఉన్ని ఎంత గరుకుగా ఉందో గొర్రెపిల్లకు తగిలింది. \"హా హా హా!\" అని ఒక క్రూరమైన నవ్వు నవ్వింది. ఆ నవ్వులో స్నేహం కాదు — ఏదో భయంకరమైన కోరిక దాగి ఉంది.",
+      "image_prompt": "The wolf lets out a cruel laugh, flicking its tail angrily. The lamb, its head bowed in sadness, feels the rough texture of the wolf's fur as its tail brushes against it, revealing a terrifying desire in its laugh. Also in this scene: A lean, grey wolf with sharp, yellow eyes and a sly grin that rarely reaches his eyes. He has tattered fur around his neck and moves with a deceptive slink. Always the same character across every scene. Late afternoon, golden light beginning to fade, creating a melancholic, slightly ominous atmosphere under a large banyan tree.",
+      "scene_visual": "The wolf lets out a cruel laugh, flicking its tail angrily. The lamb, its head bowed in sadness, feels the rough texture of the wolf's fur as its tail brushes against it, revealing a terrifying desire in its laugh.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gorrepilla Tala Dinchukuni, Mellagaa Todelu Daggariki Vellindi. Daani Manasu Baadhagaa Undi. \"Todelu Mitramaa, Naaku Konchem Vishraanti Kaavaali, Manam Repu Aadadaamaa?\" Ani Adigindi. Todelu Kopangaa Toka Jhalipinchindi — Daani Unni Enta Garukugaa Undo Gorrepillaku Tagilindi. \"Haa Haa Haa!\" Ani Oka Kruramaina Navvu Navvindi. Aa Navvulo Sneham Kaadu — Edo Bhayankaramaina Korika Daagi Undi.",
+      "text_en": "The lamb lowered its head and slowly went to the wolf. Its heart was sad. \"Friend Wolf, I need some rest, shall we play tomorrow?\" it asked. The wolf angrily flicked its tail — the lamb felt how rough its fur was. \"Ha ha ha!\" it let out a cruel laugh. In that laugh, there was no friendship — but some terrible desire hidden."
+    },
+    {
+      "id": 6,
+      "text": "తోడేలు ఇక తన నటనను పక్కన పెట్టింది. \"స్నేహం? హా! నేను నిన్ను తినడానికి వచ్చాను!\" అని భయంకరంగా అరుస్తూ, ఒక్కసారిగా గొర్రెపిల్ల మీదకు దూకింది. దాని వెనుక భాగంలో తోడేలు వేడి వేడి శ్వాస తగిలింది — గొర్రెపిల్ల కళ్ళు పెద్దవిగా అయ్యాయి. ఆ క్షణంలో, పెద్దలు చెప్పిన మాటలు దానికి గుర్తుకు వచ్చాయి. అది వెంటనే తల వంచి, తనకు బాగా తెలిసిన దట్టమైన ముళ్ళ పొదల వైపు గట్టిగా పరుగు తీసింది.",
+      "image_prompt": "The wolf pounces on the lamb with a terrifying roar, but the lamb immediately ducks its head and runs towards a dense thorny bush. The lamb's eyes widen in fear as it feels the wolf's hot breath on its back, spurring its desperate flight. Also in this scene: A lean, grey wolf with sharp, yellow eyes and a sly grin that rarely reaches his eyes. He has tattered fur around his neck and moves with a deceptive slink. Always the same character across every scene. The sun is low, casting long, dramatic shadows. The air feels tense and charged with danger, a red hue in the sky as the wolf lunges.",
+      "scene_visual": "The wolf pounces on the lamb with a terrifying roar, but the lamb immediately ducks its head and runs towards a dense thorny bush. The lamb's eyes widen in fear as it feels the wolf's hot breath on its back, spurring its desperate flight.",
+      "supporting_char_keys": [],
+      "text_te_en": "Todelu Ika Tana Natananu Pakkana Pettindi. \"Snehan? Haa! Nenu Ninnu Tinadaaniki Vachchaanu!\" Ani Bhayankarangaa Arustu, Okkasaarigaa Gorrepilla Midaku Dukindi. Daani Venuka Bhaaganlo Todelu Vedi Vedi Shvaasa Tagilindi — Gorrepilla Kallu Peddavigaa Ayyaayi. Aa Kshananlo, Peddalu Cheppina Maatalu Daaniki Gurtuku Vachchaayi. Adi Ventane Tala Vanchi, Tanaku Baagaa Telisina Dattamaina Mulla Podala Vaipu Gattigaa Parugu Tisindi.",
+      "text_en": "The wolf now dropped its act. \"Friendship? Ha! I came to eat you!\" it roared terribly, and suddenly pounced on the lamb. The wolf's hot breath touched its back — the lamb's eyes grew wide. In that moment, the words of the elders came to its mind. It immediately lowered its head and ran hard towards the dense thorny bushes it knew well."
+    },
+    {
+      "id": 7,
+      "text": "చిన్న గొర్రెపిల్ల తన చిన్న శరీరాన్ని ముళ్ళ పొదల్లోకి సునాయాసంగా దూసుకుపోయింది. ముళ్ళ పొదల గుండా వెళ్తున్నప్పుడు, దాని ఉన్నికి చిన్న చిన్న ముళ్ళు తగిలినా — అది ఆగలేదు. తోడేలు పెద్దది కాబట్టి, ముళ్ళలో దూరేందుకు దానికి భయం. పొదల బయటే ఆగి, కోపంతో \"గ్రర్ర్ర్!\" అని అరుస్తూ ముళ్ళను చూసి విసుక్కుంది. గొర్రెపిల్ల వెనక్కి తిరిగి చూసింది — దాని కళ్ళలో ఇప్పుడు భయం లేదు, ఒక కొత్త ధైర్యం కనిపించింది.",
+      "image_prompt": "The small lamb easily slips through the thorny bushes, while the large wolf stops outside, growling in frustration. Tiny thorns catch on the lamb's wool as it passes, but it looks back at the wolf with newly found courage in its eyes, replacing its fear. Also in this scene: A lean, grey wolf with sharp, yellow eyes and a sly grin that rarely reaches his eyes. He has tattered fur around his neck and moves with a deceptive slink. Always the same character across every scene. Gentle dusk light, warm amber, peaceful resolution as the lamb watches the wolf from safety through the dense foliage.",
+      "scene_visual": "The small lamb easily slips through the thorny bushes, while the large wolf stops outside, growling in frustration. Tiny thorns catch on the lamb's wool as it passes, but it looks back at the wolf with newly found courage in its eyes, replacing its fear.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chinna Gorrepilla Tana Chinna Shariraanni Mulla Podalloki Sunaayaasangaa Dusukupoyindi. Mulla Podala Gundaa Veltunnappudu, Daani Unniki Chinna Chinna Mullu Tagilinaa — Adi Aagaledu. Todelu Peddadi Kaabatti, Mullalo Durenduku Daaniki Bhayan. Podala Bayate Aagi, Kopanto \"Grarrr!\" Ani Arustu Mullanu Chusi Visukkundi. Gorrepilla Venakki Tirigi Chusindi — Daani Kallalo Ippudu Bhayam Ledu, Oka Kotta Dhairyam Kanipinchindi.",
+      "text_en": "The little lamb easily squeezed its small body into the thorny bushes. Even though small thorns pricked its wool as it went through the bushes — it didn't stop. Because the wolf was big, it was afraid to go into the thorns. It stopped outside the bushes, growling angrily \"Grrrr!\" and glared at the thorns in frustration. The lamb looked back — there was no fear in its eyes now, a new courage was visible."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 7,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.1,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story shines with its authentic oral warmth and a compelling narrative arc, making it highly engaging for young listeners. The consistent use of 'కదూ!' is particularly effective in drawing the child into the story. To reach an award-worthy level, the primary focus should be on 'showing' emotions through actions and sensory details rather than 'telling' them directly. Additionally, enriching the lamb's dialogue with a few more lines would further enhance character distinction and overall dialogue richness."
+  },
+  "quality_warning": true,
+  "title_te_en": "Todelu Mosan, Gorre Telivi",
+  "moral_te_en": "Evarainaa Manchi Maatalu Cheppinaa, Vaallu Chese Panulu Chudaali. Vaalla Manasu Ento Appude Telustundi Kadu!",
+  "title_en": "The Wolf's Trickery, the Lamb's Cleverness",
+  "moral_en": "Even if someone speaks kind words, you should always look at their actions. Only then will you truly know what's in their heart, right?",
+  "id": "20260611_071425",
+  "date": "2026-06-11",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - సాధు గొర్రెపిల్ల మరియు స్వార్థపరుడైన తోడేలు: మంచి మనసు ఉన్నా, ఒకరి నిజమైన ఉద్దేశాలను వారి మాటల ద్వారా కాకుండా, వారి పనుల ద్వారానే గుర్తించాలి.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260611_071425/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
