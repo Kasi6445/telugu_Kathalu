@@ -1,0 +1,105 @@
+{
+  "title": "చిన్ని పూల కాంతి",
+  "moral": "మనసులో స్వచ్ఛమైన ప్రేమ ఉంటే, చిన్న కానుక కూడా దైవానికి ప్రీతిపాత్రమవుతుంది.",
+  "main_character": "A young boy (around 8-10 years old) from a poor village family, with bright, earnest eyes and a perpetually hopeful smile. He wears simple, patched cotton clothes and has a small basket for collecting flowers. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small village near a forest and a riverbank in rural Andhra Pradesh, during a warm, sunny morning. A small, ancient Vishnu temple is nearby. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అప్పుడప్పుడే పొద్దు పొడిచే వేళ, గోపాలుడు చిన్ని అడుగులతో అడవిలోకి వెళ్ళాడు. అతని చినిగిన బట్టలు రెపరెపలాడుతుంటే, అడుగుల కింద ఆరిన ఆకులు మెత్తగా శబ్దం చేశాయి. రంగురంగుల పూలను వెతుకుతూ, అతను ఒక భక్తి గీతం హమ్ చేసుకున్నాడు — అతని పెదవులపై చిరునవ్వు విరిసింది. అడవి పూల సౌందర్యాన్ని చూసి, అతని కళ్ళు మెరిశాయి. \"ఈ పూలు స్వామికి ఎంత అందంగా ఉంటాయి!\" అని తనలో తనే అనుకున్నాడు. ఆ పూలని జాగ్రత్తగా బుట్టలో పేర్చుకుంటూ, గోపాలుడు దూరాన కనిపించే గుడి వైపు చూశాడు.",
+      "image_prompt": "The boy carefully places colorful flowers into a basket. A gentle smile plays on his lips as his eyes sparkle, looking towards a distant temple. Bright morning sun filtering through dense green leaves, casting dappled light on the forest floor, warm and natural.",
+      "scene_visual": "The boy carefully places colorful flowers into a basket. A gentle smile plays on his lips as his eyes sparkle, looking towards a distant temple.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appudappude Poddu Podiche Vela, Gopaaludu Chinni Adugulato Adaviloki Vellaadu. Atani Chinigina Battalu Reparepalaadutunte, Adugula Kinda Aarina Aakulu Mettagaa Shabdam Cheshaayi. Rangurangula Pulanu Vetukutu, Atanu Oka Bhakti Gitam Ham Chesukunnaadu — Atani Pedavulapai Chirunavvu Virisindi. Adavi Pula Saundaryaanni Chusi, Atani Kallu Merishaayi. \"I Pulu Svaamiki Enta Andangaa Untaayi!\" Ani Tanalo Tane Anukunnaadu. Aa Pulani Jaagrattagaa Buttalo Perchukuntu, Gopaaludu Duraana Kanipinche Gudi Vaipu Chushaadu.",
+      "text_en": "Just as the sun was rising, Gopala walked into the forest with tiny steps. His torn clothes fluttered, and dry leaves under his feet made soft sounds. As he searched for colorful flowers, he hummed a devotional song, a gentle smile on his lips. His eyes sparkled, seeing the beauty of the forest flowers. \"How beautiful these flowers will be for Swami (God)!\" he thought to himself. Carefully arranging the flowers in his basket, Gopala looked towards the temple in the distance."
+    },
+    {
+      "id": 2,
+      "text": "బుట్ట నిండా పూలతో, గోపాలుడు గుడి దగ్గరికి చేరగానే అతని నవ్వు కాస్త తగ్గింది. గుడి వాకిలి దగ్గర నుంచే మల్లెలు, గులాబీల తీయని సువాసన ముక్కుపుటాల నిండా తాకింది. లోపల చాలా మంది భక్తులు ఉన్నారు — వాళ్ళ చేతుల్లో పెద్ద పెద్ద దండలు, ఖరీదైన పూలు ఉన్నాయి. \"అయ్యో, నా పూలు అంత పెద్దవి కావు,\" అని గోపాలుడు తన చిన్న బుట్టను గుండెకు హత్తుకున్నాడు. అతని చిన్ని చేతులు బుట్టను మరింత గట్టిగా పట్టుకున్నాయి, గుడి తలుపుల వైపు చూస్తూ నిశ్చయంగా నిలబడ్డాడు.",
+      "image_prompt": "The boy stands firmly at the temple entrance, clutching his small basket of flowers tightly to his chest. His small hands grip the basket even harder as he gazes towards the temple doors. Golden morning light illuminating the ornate temple entrance, highlighting the vibrant colors of the grand offerings.",
+      "scene_visual": "The boy stands firmly at the temple entrance, clutching his small basket of flowers tightly to his chest. His small hands grip the basket even harder as he gazes towards the temple doors.",
+      "supporting_char_keys": [],
+      "text_te_en": "Butta Nindaa Pulato, Gopaaludu Gudi Daggariki Cheragaane Atani Navvu Kaasta Taggindi. Gudi Vaakili Daggara Nunche Mallelu, Gulaabila Tiyani Suvaasana Mukkuputaala Nindaa Taakindi. Lopala Chaalaa Mandi Bhaktulu Unnaaru — Vaalla Chetullo Pedda Pedda Dandalu, Kharidaina Pulu Unnaayi. \"Ayyo, Naa Pulu Anta Peddavi Kaavu,\" Ani Gopaaludu Tana Chinna Buttanu Gundeku Hattukunnaadu. Atani Chinni Chetulu Buttanu Marinta Gattigaa Pattukunnaayi, Gudi Talupula Vaipu Chustu Nishchayangaa Nilabaddaadu.",
+      "text_en": "With his basket full of flowers, Gopala reached the temple, but his smile faded a little. From the temple entrance, the sweet scent of jasmine and roses filled his nostrils. Inside, many devotees held big garlands and expensive flowers. \"Oh dear, my flowers are not that grand,\" Gopala said, hugging his small basket to his chest. His tiny hands held the basket even tighter as he stood firmly, looking towards the temple doors."
+    },
+    {
+      "id": 3,
+      "text": "గుడి గడప దగ్గర గోపాలుడు ఇంకా నిలబడే ఉన్నాడు, అతని నుదురు చిట్లించుకుంది. అతని పాదాల కింద గుడి నేల చల్లగా, నున్నగా ఉంది. లోపల, దేవుని ముందు అప్పటికే బోలెడన్ని ఆడంబరమైన కానుకలు కన్నుల పండుగగా ఉన్నాయి. తన చిన్ని అడవి పూలను వాటితో పోల్చుకుంటూ — అతని మనసులో మాత్రం భక్తి నిండుగా ఉంది. \"స్వామి, నా స్వచ్ఛమైన మనసును మాత్రమే చూడాలి,\" అని అతని పెదవులు మెల్లగా కదిలాయి. గోపాలుడు లోతైన శ్వాస తీసుకున్నాడు — అతని కళ్ళు విగ్రహం వైపు స్థిరంగా చూశాయి.",
+      "image_prompt": "The boy stands at the temple threshold, his lips moving silently in prayer. His brow is furrowed in thought, and his eyes are fixed steadily on the idol inside. Soft, diffused light inside the temple, with a few oil lamps flickering, creating a serene but slightly shadowed atmosphere around Gopala.",
+      "scene_visual": "The boy stands at the temple threshold, his lips moving silently in prayer. His brow is furrowed in thought, and his eyes are fixed steadily on the idol inside.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gudi Gadapa Daggara Gopaaludu Inkaa Nilabade Unnaadu, Atani Nuduru Chitlinchukundi. Atani Paadaala Kinda Gudi Nela Challagaa, Nunnagaa Undi. Lopala, Devuni Mundu Appatike Boledanni Aadambaramaina Kaanukalu Kannula Pandugagaa Unnaayi. Tana Chinni Adavi Pulanu Vaatito Polchukuntu — Atani Manasulo Maatram Bhakti Nindugaa Undi. \"Svaami, Naa Svachchamaina Manasunu Maatrame Chudaali,\" Ani Atani Pedavulu Mellagaa Kadilaayi. Gopaaludu Lotaina Shvaasa Tisukunnaadu — Atani Kallu Vigraham Vaipu Sthirangaa Chushaayi.",
+      "text_en": "Gopala was still standing at the temple doorstep, his brow furrowed. The temple floor beneath his feet was cool and smooth. Inside, before the deity, there were already many grand offerings, a feast for the eyes. He compared his small forest flowers with them, but his heart was full of devotion. \"Swami, you must only see my pure heart,\" his lips moved softly. Gopala took a deep breath, his eyes fixed on the idol."
+    },
+    {
+      "id": 4,
+      "text": "ఒక దృఢ నిశ్చయంతో గోపాలుడు లోపలికి అడుగు పెట్టాడు. అతని ముఖం ప్రశాంతంగా, భక్తితో నిండి ఉంది. గుడి లోపల పురాతన ధూపం, కర్పూరం సువాసన మెల్లగా కమ్మేసింది. అతను విగ్రహం దగ్గరికి నడిచి, మెల్లగా తన చిన్న పూలను దేవుని పాదాల దగ్గర ఉంచాడు. కళ్ళు మూసుకుని, చేతులు జోడించి, \"నాకు ఇంకేమీ లేదు, కానీ నా ప్రేమ నీదే,\" అని మనస్ఫూర్తిగా ప్రార్థించాడు. గోపాలుడు అలా ప్రార్థిస్తుండగానే — అతని పూల నుండి ఒక సూక్ష్మమైన కాంతి వెలువడడం మొదలైంది.",
+      "image_prompt": "The boy gently places his small flowers at the feet of the idol, then closes his eyes and joins his hands in prayer. A subtle light begins to emanate from the flowers he has offered. The temple interior is bathed in the soft glow of oil lamps, but a faint, ethereal shimmer begins to appear around Gopala's flowers, warm and inviting.",
+      "scene_visual": "The boy gently places his small flowers at the feet of the idol, then closes his eyes and joins his hands in prayer. A subtle light begins to emanate from the flowers he has offered.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Drridha Nishchayanto Gopaaludu Lopaliki Adugu Pettaadu. Atani Mukham Prashaantangaa, Bhaktito Nindi Undi. Gudi Lopala Puraatana Dhupan, Karpuram Suvaasana Mellagaa Kammesindi. Atanu Vigraham Daggariki Nadichi, Mellagaa Tana Chinna Pulanu Devuni Paadaala Daggara Unchaadu. Kallu Musukuni, Chetulu Jodinchi, \"Naaku Inkemi Ledu, Kaani Naa Prema Nide,\" Ani Manasphurtigaa Praarthinchaadu. Gopaaludu Alaa Praarthistundagaane — Atani Pula Nundi Oka Sukshmamaina Kaanti Veluvadadam Modalaindi.",
+      "text_en": "With firm determination, Gopala stepped inside. His face was calm and filled with devotion. Inside the temple, the ancient scent of incense and camphor gently filled the air. He walked to the idol and gently placed his small flowers at the feet of God. Closing his eyes, joining his hands, he prayed from his heart, \"I have nothing else, but my love is yours.\" As Gopala prayed, a subtle light began to emanate from his flowers."
+    },
+    {
+      "id": 5,
+      "text": "అంతవరకు మెల్లగా ఉన్న కాంతి ఒక్కసారిగా — గుడిని నింపేస్తూ ప్రకాశవంతంగా మారింది. చల్లని గుడి గాలిలో వెచ్చదనం వ్యాపించింది, సూర్యరశ్మిలాంటి అనుభూతి. గోపాలుడు ఆశ్చర్యంతో కళ్ళు తెరిచాడు, అతని కళ్ళు ఆనందంతో మెరిశాయి. చుట్టూ ఉన్న భక్తులందరూ ఆ అద్భుతాన్ని చూసి నిశ్చేష్టులయ్యారు — కొందరు నోరు తెరిచి చూస్తుండిపోయారు. \"అదిగో! ఆ పూల నుండి కాంతి వస్తోంది!\" అని ఒక భక్తుడు ఆశ్చర్యంగా అన్నాడు. ఆ దివ్యమైన కాంతిలో — గోపాలుడికి మాత్రమే కనిపించే నీలి రంగు రూపం మెల్లగా ఆవిర్భవించడం మొదలైంది.",
+      "image_prompt": "The boy opens his eyes in astonishment as a bright light fills the entire temple. In the divine light, a blue-colored form slowly begins to emerge, visible only to him. The temple is now filled with an intense, golden-white divine radiance emanating from the altar, making everything else seem to fade into soft focus.",
+      "scene_visual": "The boy opens his eyes in astonishment as a bright light fills the entire temple. In the divine light, a blue-colored form slowly begins to emerge, visible only to him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Antavaraku Mellagaa Unna Kaanti Okkasaarigaa — Gudini Nimpestu Prakaashavantangaa Maarindi. Challani Gudi Gaalilo Vechchadanam Vyaapinchindi, Suryarashmilaanti Anubhuti. Gopaaludu Aashcharyanto Kallu Terichaadu, Atani Kallu Aanandanto Merishaayi. Chuttu Unna Bhaktulandaru Aa Adbhutaanni Chusi Nishcheshtulayyaaru — Kondaru Noru Terichi Chustundipoyaaru. \"Adigo! Aa Pula Nundi Kaanti Vastondi!\" Ani Oka Bhaktudu Aashcharyangaa Annaadu. Aa Divyamaina Kaantilo — Gopaaludiki Maatrame Kanipinche Nili Rangu Rupam Mellagaa Aavirbhavinchadam Modalaindi.",
+      "text_en": "The light, which was subtle until then, suddenly became bright, filling the temple. Warmth spread through the cool temple air, feeling like sunlight. Gopala opened his eyes in surprise, and his eyes sparkled with joy. All the devotees around were stunned by the miracle – some stood with their mouths open. \"Look! Light is coming from those flowers!\" a devotee exclaimed in surprise. In that divine light, a blue form, visible only to Gopala, slowly began to appear."
+    },
+    {
+      "id": 6,
+      "text": "ఆ దివ్య కాంతిలో శ్రీకృష్ణుడు గోపాలుడి ముందు ప్రత్యక్షమయ్యాడు. గోపాలుడికి మాత్రమే వినిపించే వేణునాదం గాలిలో మెల్లగా నిండిపోయింది — అది చెవులకు మధురంగా ఉంది. కృష్ణుడు చిరునవ్వుతో, తన దయను చూపుతూ గోపాలుడి సమర్పణను స్వీకరించాడు. గోపాలుడు ఆనందంతో ఉప్పొంగిపోయాడు — అతని కళ్ళ నుండి ఆనంద భాష్పాలు ధారలుగా కారాయి. \"నీ స్వచ్ఛమైన ప్రేమ నాకెప్పుడూ ఇష్టమే, నా ప్రియమైన భక్తుడా,\" అని కృష్ణుడు మృదువుగా పలికాడు. ఆ తర్వాత కృష్ణుడి రూపం మెల్లగా మాయమైపోయింది, గోపాలుడి మనసులో మాత్రం అద్భుతమైన శాంతి నిలిచిపోయింది.",
+      "image_prompt": "A divine figure appears before the boy, smiling gently and accepting his offering. Tears of joy stream down the boy's face as he is overwhelmed with happiness. SUPPORTING CHARACTER also in this scene: Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. The divine radiance from the previous scene softens, becoming a warm, ethereal blue glow surrounding Gopala and the appearing Krishna, while the rest of the temple remains in a golden-white light.",
+      "scene_visual": "A divine figure appears before the boy, smiling gently and accepting his offering. Tears of joy stream down the boy's face as he is overwhelmed with happiness.",
+      "supporting_char_keys": [
+        "krishna"
+      ],
+      "text_te_en": "Aa Divya Kaantilo Shrikrrishnudu Gopaaludi Mundu Pratyakshamayyaadu. Gopaaludiki Maatrame Vinipinche Venunaadam Gaalilo Mellagaa Nindipoyindi — Adi Chevulaku Madhurangaa Undi. Krrishnudu Chirunavvuto, Tana Dayanu Chuputu Gopaaludi Samarpananu Svikarinchaadu. Gopaaludu Aanandanto Uppongipoyaadu — Atani Kalla Nundi Aananda Bhaashpaalu Dhaaralugaa Kaaraayi. \"Ni Svachchamaina Prema Naakeppudu Ishtame, Naa Priyamaina Bhaktudaa,\" Ani Krrishnudu Mrriduvugaa Palikaadu. Aa Tarvaata Krrishnudi Rupam Mellagaa Maayamaipoyindi, Gopaaludi Manasulo Maatram Adbhutamaina Shaanti Nilichipoyindi.",
+      "text_en": "In that divine light, Lord Krishna appeared before Gopala. The sound of a flute, audible only to Gopala, gently filled the air – it was sweet to his ears. Krishna, with a smile, showing his grace, accepted Gopala's offering. Gopala was overwhelmed with joy – tears of happiness streamed from his eyes. \"Your pure love is always dear to me, my beloved devotee,\" Krishna said softly. After that, Krishna's form slowly disappeared, but a wonderful peace remained in Gopala's heart."
+    },
+    {
+      "id": 7,
+      "text": "ఆ అద్భుత దృశ్యం తర్వాత, గోపాలుడి గుండె నిండా శాంతి, ఆనందం వెల్లివిరిశాయి. అతను మెల్లగా గుడి బయటికి నడిచాడు — అతని అడుగులు తేలికగా ఉన్నాయి. బయట వీస్తున్న చల్లని ఉదయపు గాలి అతని ముఖాన్ని తాకింది, ఎంతో ఆహ్లాదకరంగా అనిపించింది. అతని ముఖంపై ఒక ప్రశాంతమైన చిరునవ్వు, లోతైన అనుభవాన్ని తెలియజేస్తోంది. గుడిలోని ఇతర భక్తులు, గోపాలుడిని చూసి భక్తితో తల వంచారు. ఒక చిన్నారి గోపాలుడికి, ఆ రోజు భగవంతుడి ప్రేమ అంటే ఏమిటో పూర్తిగా అర్థమైంది.",
+      "image_prompt": "The boy walks out of the temple with light steps, his face serene. A peaceful smile rests on his lips, reflecting a profound inner experience. Bright, clear morning sun outside the temple, making the world seem fresh and new, reflecting Gopala's newfound inner light.",
+      "scene_visual": "The boy walks out of the temple with light steps, his face serene. A peaceful smile rests on his lips, reflecting a profound inner experience.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Adbhuta Drrishyam Tarvaata, Gopaaludi Gunde Nindaa Shaanti, Aanandam Vellivirishaayi. Atanu Mellagaa Gudi Bayatiki Nadichaadu — Atani Adugulu Telikagaa Unnaayi. Bayata Vistunna Challani Udayapu Gaali Atani Mukhaanni Taakindi, Ento Aahlaadakarangaa Anipinchindi. Atani Mukhampai Oka Prashaantamaina Chirunavvu, Lotaina Anubhavaanni Teliyajestondi. Gudiloni Itara Bhaktulu, Gopaaludini Chusi Bhaktito Tala Vanchaaru. Oka Chinnaari Gopaaludiki, Aa Roju Bhagavantudi Prema Ante Emito Purtigaa Arthamaindi.",
+      "text_en": "After that wonderful vision, Gopala's heart was filled with peace and joy. He slowly walked out of the temple – his steps were light. The cool morning breeze outside touched his face, feeling very pleasant. A serene smile on his face showed a deep experience. Other devotees in the temple bowed their heads in reverence, seeing Gopala. For a little boy like Gopala, that day he fully understood what God's love truly meant."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "krishna",
+      "description": "Krishna: a young cowherd or prince with a dark blue (shyama) complexion, wearing a yellow silk pitambara garment and a peacock feather (morpankh) in his crown. Carrying a flute (bansuri); adorned with a garland of forest flowers (vaijayanti mala) and tulsi beads. Playful, divine smile — the eternal beloved. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This is a beautifully written story with excellent oral warmth and emotional depth, making it highly engaging for children. The grammar is flawless, and the narrative arc is strong, building tension effectively towards a magical climax. To elevate it to award-worthy status, the single most important fix would be to allow the profound moral to emerge solely from the events and Gopalu's transformation, rather than being explicitly stated by the narrator at the end. Additionally, adding a small piece of dialogue in the final scene could further enrich the character interactions."
+  },
+  "title_te_en": "Chinni Pula Kaanti",
+  "moral_te_en": "Manasulo Svachchamaina Prema Unte, Chinna Kaanuka Kudaa Daivaaniki Pritipaatramavutundi.",
+  "title_en": "The Little Flower's Light",
+  "moral_en": "If your heart is full of pure love, even a small gift will please God.",
+  "id": "20260611_211132",
+  "date": "2026-06-11",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "పుష్ప పూలార్చన - స్వచ్ఛమైన మనసుతో పూజించిన పువ్వుకు లభించిన దివ్య కాంతి",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260611_211132/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
