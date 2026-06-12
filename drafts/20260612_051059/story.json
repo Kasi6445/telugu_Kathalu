@@ -1,0 +1,118 @@
+{
+  "title": "నెమలి గర్వం, కాకి దయ",
+  "moral": "బాహ్య సౌందర్యం కన్నా, మనసులోని మంచితనం, చేసే పనికి ఉన్న విలువ ఎప్పటికీ గొప్పవి.",
+  "main_character": "A magnificent peacock with iridescent blue-green feathers and a long, ornate tail. It is graceful and proud, often admiring its own reflection. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A lush forest in the Godavari river delta region of Andhra Pradesh, filled with ancient banyan trees, vibrant hibiscus flowers, and a winding stream. The morning sun filters through the dense canopy, dappling the forest floor. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అడవిలో సూర్యకిరణాలు ఆకుల సందులోంచి జారుతుంటే, నెమలి తన అందమైన ఈకలని విప్పింది. అది మెల్లగా తన తోకని విప్పి, అటూ ఇటూ ఊపింది — రంగుల హరివిల్లులా మెరిసింది. చిన్న చిన్న అడుగులు వేస్తూ, తలని గర్వంగా పైకెత్తింది; పక్షులు మురిసిపోతుంటే అది మృదువుగా కూనిరాగం తీసింది. 'నన్ను చూడు! నా అందం ఎవరికీ లేదు!' అని గర్వంగా తనలో తనే అనుకుంది. ఆ అద్భుతమైన తోక ఈకలు గాలిలో మెల్లగా కదిలినప్పుడు — ఒక మధురమైన సవ్వడి అడవి అంతా నిండింది. అలా గంభీరంగా తిరుగుతుంటే, ఒక చెట్టు కొమ్మ మీద సాదాసీదా నల్లటి కాకి కనిపించింది. నెమలి ముఖం ఒక్కసారిగా మారిపోయింది — చిన్నచూపుతో కాకి వైపు చూసింది.",
+      "image_prompt": "The peacock slowly spreads its vibrant tail feathers, swaying them back and forth like a rainbow. It lifts its head proudly, its face then shifting to a look of disdain as it spots a plain black crow on a tree branch. Early morning sunlight, golden and soft, streaming through the dense canopy, highlighting the peacock's iridescent feathers against a backdrop of deep green foliage.",
+      "scene_visual": "The peacock slowly spreads its vibrant tail feathers, swaying them back and forth like a rainbow. It lifts its head proudly, its face then shifting to a look of disdain as it spots a plain black crow on a tree branch.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Adavilo Suryakiranaalu Aakula Sandulonchi Jaarutunte, Nemali Tana Andamaina Ikalani Vippindi. Adi Mellagaa Tana Tokani Vippi, Atu Itu Upindi — Rangula Harivillulaa Merisindi. Chinna Chinna Adugulu Vestu, Talani Garvangaa Paikettindi; Pakshulu Murisipotunte Adi Mrriduvugaa Kuniraagam Tisindi. 'Nannu Chudu! Naa Andam Evariki Ledu!' Ani Garvangaa Tanalo Tane Anukundi. Aa Adbhutamaina Toka Ikalu Gaalilo Mellagaa Kadilinappudu — Oka Madhuramaina Savvadi Adavi Antaa Nindindi. Alaa Gambhirangaa Tirugutunte, Oka Chettu Komma Mida Saadaasidaa Nallati Kaaki Kanipinchindi. Nemali Mukham Okkasaarigaa Maaripoyindi — Chinnachuputo Kaaki Vaipu Chusindi.",
+      "text_en": "In the forest, as sunbeams peeked through the leaves, a Peacock spread its beautiful feathers. It slowly fanned out its tail, swaying it gently from side to side—it shimmered like a rainbow. Taking small steps, it proudly held its head high; as other birds admired it, the Peacock hummed a soft tune. 'Look at me! No one has beauty like mine!' it thought proudly to itself. When those magnificent tail feathers swayed gently in the breeze—a sweet rustling sound filled the entire forest. As it majestically walked around, it spotted a plain black Crow on a tree branch. The Peacock's face instantly changed—it looked at the Crow with disdain."
+    },
+    {
+      "id": 2,
+      "text": "నెమలి తన తోకని ఇంకాస్త పెద్దగా విప్పి, కాకి వైపు చూసి ఎగతాళిగా నవ్వింది. 'నువ్వు ఎంత సాదాగా ఉన్నావు! నా ముందు నువ్వు నిలబడలేవు,' అని వెటకారంగా అంది. కాకి మౌనంగా కూర్చుంది — దాని కళ్ళు మాత్రం నెమలిని గమనించాయి. అడవిలో ఎక్కడో దూరంగా ఒక కాకి గట్టిగా అరిచింది — ఆ శబ్దం నెమలికి మరింత గర్వాన్ని నింపింది. నెమలి గాలిలో తన ఈకలని ఇంకాస్త పైకి లేపి, తన అందాన్ని తనే చూసుకుంటూ మురిసిపోయింది. ఇంతలో, పొదల చాటున ఏదో చిన్నగా కదిలిన శబ్దం — నెమలి మాత్రం తన ప్రపంచంలోనే ఉంది.",
+      "image_prompt": "The peacock further spreads its tail feathers and laughs mockingly while looking at the crow. Its feathers lift higher in the air as it admires its own beauty, oblivious to anything else. Mid-morning sun, brighter and slightly diffused, casting dappled shadows on the forest floor, creating a sense of calm before the storm.",
+      "scene_visual": "The peacock further spreads its tail feathers and laughs mockingly while looking at the crow. Its feathers lift higher in the air as it admires its own beauty, oblivious to anything else.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Nemali Tana Tokani Inkaasta Peddagaa Vippi, Kaaki Vaipu Chusi Egataaligaa Navvindi. 'Nuvvu Enta Saadaagaa Unnaavu! Naa Mundu Nuvvu Nilabadalevu,' Ani Vetakaarangaa Andi. Kaaki Maunangaa Kurchundi — Daani Kallu Maatram Nemalini Gamaninchaayi. Adavilo Ekkado Durangaa Oka Kaaki Gattigaa Arichindi — Aa Shabdam Nemaliki Marinta Garvaanni Nimpindi. Nemali Gaalilo Tana Ikalani Inkaasta Paiki Lepi, Tana Andaanni Tane Chusukuntu Murisipoyindi. Intalo, Podala Chaatuna Edo Chinnagaa Kadilina Shabdam — Nemali Maatram Tana Prapanchanlone Undi.",
+      "text_en": "The Peacock spread its tail even wider, looked at the Crow, and laughed mockingly. 'Oh, you are so plain! You can't even stand next to me,' it said sarcastically. The Crow sat silently—only its eyes watched the Peacock. Somewhere far away in the forest, another crow cawed loudly—that sound filled the Peacock with even more pride. The Peacock lifted its feathers higher in the air, admiring its own beauty. Meanwhile, a small rustle came from behind the bushes—but the Peacock was lost in its own world."
+    },
+    {
+      "id": 3,
+      "text": "నెమలి ఆ పచ్చికలో ఇంకాస్త మురిసిపోతుండగా, ఒక్కసారిగా ఆకాశం నుండి — ఒక పెద్ద వల దాని మీద పడింది. వల దారాలు నెమలి అందమైన ఈకలని చుట్టేసి, గట్టిగా బిగుసుకున్నాయి. నెమలి రెక్కలు అటూ ఇటూ కొట్టుకుంది, శరీరం వల నుండి బయటపడాలని విలవిలలాడింది — కానీ దాని తోక ఈకలు మరింత చిక్కుకుపోయాయి. 'అయ్యో! నేను చిక్కుకుపోయాను! నన్ను కాపాడండి!' అని గట్టిగా అరిచింది. వల దారాల కర్కశమైన స్పర్శ దాని చర్మాన్ని గీరుతుంటే, దాని శరీరం వణుకుతున్నప్పుడు అడుగులు కదలలేదు. ఎంత ప్రయత్నించినా, దాని అందమైన ఈకలే దానికి బంధాలుగా మారాయి. నెమలి గొంతు నుండి నిస్సహాయమైన అరుపు బయటపడింది — అడవి నిశ్శబ్దాన్ని చీల్చింది.",
+      "image_prompt": "A large net suddenly falls from the sky, entangling the peacock's beautiful feathers. The peacock struggles violently, its body trembling as the harsh net threads scratch its skin. A sudden shift to harsh, direct sunlight filtering through leaves, creating stark contrasts, emphasizing the peacock's distress and the looming danger.",
+      "scene_visual": "A large net suddenly falls from the sky, entangling the peacock's beautiful feathers. The peacock struggles violently, its body trembling as the harsh net threads scratch its skin.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Nemali Aa Pachchikalo Inkaasta Murisipotundagaa, Okkasaarigaa Aakaasham Nundi — Oka Pedda Vala Daani Mida Padindi. Vala Daaraalu Nemali Andamaina Ikalani Chuttesi, Gattigaa Bigusukunnaayi. Nemali Rekkalu Atu Itu Kottukundi, Shariram Vala Nundi Bayatapadaalani Vilavilalaadindi — Kaani Daani Toka Ikalu Marinta Chikkukupoyaayi. 'Ayyo! Nenu Chikkukupoyaanu! Nannu Kaapaadandi!' Ani Gattigaa Arichindi. Vala Daaraala Karkashamaina Sparsha Daani Charmaanni Girutunte, Daani Shariram Vanukutunnappudu Adugulu Kadalaledu. Enta Prayatninchinaa, Daani Andamaina Ikale Daaniki Bandhaalugaa Maaraayi. Nemali Gontu Nundi Nissahaayamaina Arupu Bayatapadindi — Adavi Nishshabdaanni Chilchindi.",
+      "text_en": "As the Peacock continued to admire itself in the grass, suddenly from the sky—a large net fell upon it. The net's ropes wrapped around the Peacock's beautiful feathers, tightening firmly. The Peacock flapped its wings, struggling to escape the net—but its tail feathers became even more entangled. 'Oh no! I'm trapped! Someone help me!' it cried loudly. The rough touch of the net's ropes scratched its skin, and its body trembled, unable to move. No matter how hard it tried, its beautiful feathers had become its bonds. A helpless cry burst from the Peacock's throat—piercing the silence of the forest."
+    },
+    {
+      "id": 4,
+      "text": "వలలో చిక్కుకున్న నెమలి అలసిపోయింది, దాని తల నేల వైపు వాలిపోయింది. దాని అందమైన ఈకలు ఇప్పుడు బరువుగా మారి, దానికి కదలనివ్వకుండా చేశాయి. నెమలి కళ్ళ నుండి నీటి బిందువులు జారాయి — దాని గర్వం ఇప్పుడు అవమానంగా మారింది. 'నా అందం నాకు సహాయం చేయదు... నేను ఎంత అసమర్థుడిని!' అని నిస్సహాయంగా గొణిగింది. చుట్టూ ఉన్న తడి మట్టి వాసన, దాని భయాన్ని మరింత పెంచింది. అదే సమయంలో, పైన ఒక కొమ్మ మీద నుండి కాకి నెమలిని చూసింది — దాని కళ్ళలో ఏదో ఆలోచన మెరిసింది.",
+      "image_prompt": "The peacock, exhausted and trapped in the net, hangs its head towards the ground. Tears stream from its eyes, reflecting its shame and helplessness. Overcast light, soft and diffused, creating a somber, muted atmosphere that reflects the peacock's hopelessness.",
+      "scene_visual": "The peacock, exhausted and trapped in the net, hangs its head towards the ground. Tears stream from its eyes, reflecting its shame and helplessness.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Valalo Chikkukunna Nemali Alasipoyindi, Daani Tala Nela Vaipu Vaalipoyindi. Daani Andamaina Ikalu Ippudu Baruvugaa Maari, Daaniki Kadalanivvakundaa Cheshaayi. Nemali Kalla Nundi Niti Binduvulu Jaaraayi — Daani Garvam Ippudu Avamaanangaa Maarindi. 'Naa Andam Naaku Sahaayam Cheyadu... Nenu Enta Asamarthudini!' Ani Nissahaayangaa Gonigindi. Chuttu Unna Tadi Matti Vaasana, Daani Bhayaanni Marinta Penchindi. Ade Samayanlo, Paina Oka Komma Mida Nundi Kaaki Nemalini Chusindi — Daani Kallalo Edo Aalochana Merisindi.",
+      "text_en": "The trapped Peacock grew tired, its head drooping towards the ground. Its beautiful feathers now felt heavy, preventing it from moving. Tears fell from the Peacock's eyes—its pride had now turned into shame. 'My beauty won't help me... How useless I am!' it mumbled helplessly. The smell of the damp earth around it only increased its fear. At the same time, from a branch above, the Crow watched the Peacock—an idea sparked in its eyes."
+    },
+    {
+      "id": 5,
+      "text": "నెమలి నిస్సహాయతను చూసిన కాకికి, ముందు నెమలి మాటలు గుర్తుకు వచ్చాయి. అది కొమ్మ మీద తల వాల్చి, చాలాసేపు కింద నెమలి వైపు చూసింది. కాకి మనసులో ఆలోచనలు గిర్రున తిరిగాయి — నెమలి అహంకారం, ఇప్పుడు దాని కష్టం. 'అందం ముఖ్యం కాదు, సహాయం ముఖ్యం' అని అది తనలో తనే నిర్ణయించుకుంది. కాకి రెక్కలు విప్పి, కొమ్మ మీద నుండి కదిలినప్పుడు — చిన్నగా ఆకులు కదిలాయి. దాని ముక్కు వెలుగులో మెరిసింది — నెమలి వైపు దూసుకుపోయింది.",
+      "image_prompt": "The crow, after a long moment of contemplation, spreads its wings and moves from its branch. Its beak gleams in the light as it swoops down towards the trapped peacock. A ray of sunlight breaks through the clouds, momentarily illuminating the crow, suggesting a moment of clarity and purpose.",
+      "scene_visual": "The crow, after a long moment of contemplation, spreads its wings and moves from its branch. Its beak gleams in the light as it swoops down towards the trapped peacock.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Nemali Nissahaayatanu Chusina Kaakiki, Mundu Nemali Maatalu Gurtuku Vachchaayi. Adi Komma Mida Tala Vaalchi, Chaalaasepu Kinda Nemali Vaipu Chusindi. Kaaki Manasulo Aalochanalu Girruna Tirigaayi — Nemali Ahankaaran, Ippudu Daani Kashtan. 'Andam Mukhyam Kaadu, Sahaayam Mukhyan' Ani Adi Tanalo Tane Nirnayinchukundi. Kaaki Rekkalu Vippi, Komma Mida Nundi Kadilinappudu — Chinnagaa Aakulu Kadilaayi. Daani Mukku Velugulo Merisindi — Nemali Vaipu Dusukupoyindi.",
+      "text_en": "Seeing the Peacock's helplessness, the Crow remembered the Peacock's earlier words. It tilted its head on the branch, looking down at the Peacock for a long time. Thoughts swirled in the Crow's mind—the Peacock's arrogance, and now its trouble. 'Beauty isn't important, helping is important,' it decided to itself. The Crow spread its wings and moved from the branch—a few leaves rustled softly. Its beak gleamed in the light—it swooped down towards the Peacock."
+    },
+    {
+      "id": 6,
+      "text": "కాకి నెమలి దగ్గరికి వచ్చి, తన పదునైన ముక్కుతో వల దారాలను కొరకడం మొదలుపెట్టింది. వల దారాలు 'స్నిప్, స్నిప్' మంటూ తెగిపోతుంటే — నెమలి కళ్ళు ఆశతో మెరిశాయి. నెమలి కదలకుండా, కాకి పనిని జాగ్రత్తగా చూసింది — దాని గుండెలో ఒక కొత్త ఆశ చిగురించింది. 'నువ్వు నన్ను కాపాడుతున్నావు... నేను చాలా కృతజ్ఞుడిని' అని నెమలి నిశ్శబ్దంగా అనుకుంది. కొన్ని దారాలు తెగిన తర్వాత, నెమలి కొద్దిగా కదిలింది — ఒక మృదువైన నిట్టూర్పు దాని నోటి నుండి వెలువడింది. నెమలి పూర్తిగా స్వేచ్ఛ పొందింది; కానీ అది ఎగిరిపోలేదు — కాకి వైపు కొత్తగా చూసింది.",
+      "image_prompt": "The crow uses its sharp beak to snip through the net threads binding the peacock. The peacock watches intently, its eyes shining with a new sense of hope. Bright, clear daylight, showing the crow's focused effort and the peacock's gradual release, a sense of tension giving way to relief.",
+      "scene_visual": "The crow uses its sharp beak to snip through the net threads binding the peacock. The peacock watches intently, its eyes shining with a new sense of hope.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Kaaki Nemali Daggariki Vachchi, Tana Padunaina Mukkuto Vala Daaraalanu Korakadam Modalupettindi. Vala Daaraalu 'Snip, Snip' Mantu Tegipotunte — Nemali Kallu Aashato Merishaayi. Nemali Kadalakundaa, Kaaki Panini Jaagrattagaa Chusindi — Daani Gundelo Oka Kotta Aasha Chigurinchindi. 'Nuvvu Nannu Kaapaadutunnaavu... Nenu Chaalaa Krritajnyudini' Ani Nemali Nishshabdangaa Anukundi. Konni Daaraalu Tegina Tarvaata, Nemali Koddigaa Kadilindi — Oka Mrriduvaina Nitturpu Daani Noti Nundi Veluvadindi. Nemali Purtigaa Svechcha Pondindi; Kaani Adi Egiripoledu — Kaaki Vaipu Kottagaa Chusindi.",
+      "text_en": "The Crow came close to the Peacock and began to bite the net's ropes with its sharp beak. As the net's ropes snapped, 'snip, snip'—the Peacock's eyes sparkled with hope. The Peacock stayed still, carefully watching the Crow work—a new hope blossomed in its heart. 'You are saving me... I am so grateful,' the Peacock thought silently. After some ropes were cut, the Peacock moved slightly—a soft sigh escaped its mouth. The Peacock was completely free; but it didn't fly away—it looked at the Crow with new eyes."
+    },
+    {
+      "id": 7,
+      "text": "నెమలి తన తలని కాకి ముందు మెల్లగా వంచి, గౌరవంగా చూసింది. కాకిని చూసిన నెమలి కళ్ళలో ఇప్పుడు గర్వం లేదు — కేవలం కృతజ్ఞత మాత్రమే కనిపించింది. 'నీ సహాయం నా అందం కంటే గొప్పది. నిజమైన విలువ నీలోనే ఉంది' అని నెమలి మృదువుగా అంది. ఆ నెమలి కూనిరాగం ఇప్పుడు అహంకారంతో కాదు — మనస్ఫూర్తిగా ప్రశంసతో నిండింది. కాకి మెల్లగా నవ్వి, నెమలి వైపు చూసింది. ఆ రోజు నుండి, నెమలి తన అందం గురించి గొప్పలు చెప్పుకోవడం మానేసింది — మనసులోని మంచి గుణమే నిజమైన అందం అని తెలుసుకుంది.",
+      "image_prompt": "The peacock gently bows its head before the crow, looking at it with deep respect. Its eyes, once filled with pride, now show only profound gratitude towards its rescuer. Gentle dusk light, warm amber, casting long, peaceful shadows, signifying a new beginning and understanding between the two birds.",
+      "scene_visual": "The peacock gently bows its head before the crow, looking at it with deep respect. Its eyes, once filled with pride, now show only profound gratitude towards its rescuer.",
+      "supporting_char_keys": [
+        "crow"
+      ],
+      "text_te_en": "Nemali Tana Talani Kaaki Mundu Mellagaa Vanchi, Gauravangaa Chusindi. Kaakini Chusina Nemali Kallalo Ippudu Garvam Ledu — Kevalam Krritajnyata Maatrame Kanipinchindi. 'Ni Sahaayam Naa Andam Kante Goppadi. Nijamaina Viluva Nilone Undi' Ani Nemali Mrriduvugaa Andi. Aa Nemali Kuniraagam Ippudu Ahankaaranto Kaadu — Manasphurtigaa Prashansato Nindindi. Kaaki Mellagaa Navvi, Nemali Vaipu Chusindi. Aa Roju Nundi, Nemali Tana Andam Gurinchi Goppalu Cheppukovadam Maanesindi — Manasuloni Manchi Guname Nijamaina Andam Ani Telusukundi.",
+      "text_en": "The Peacock gently bowed its head before the Crow, looking at it with respect. In the Peacock's eyes, when it looked at the Crow, there was no pride now—only gratitude. 'Your help is greater than my beauty. True worth lies within you,' the Peacock said softly. The Peacock's hum was no longer filled with arrogance—but with heartfelt appreciation. The Crow smiled gently and looked at the Peacock. From that day on, the Peacock stopped boasting about its beauty—it understood that true beauty comes from a good heart."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "crow",
+      "description": "A small, sleek black crow with intelligent, beady eyes and a sharp beak. It is observant and resourceful. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story boasts a strong narrative arc and impeccable grammar, forming an excellent foundation. To truly shine, the author should focus on 'showing' emotions through actions and sensory details rather than explicitly 'stating' them, particularly for the crow's internal decision-making process. Additionally, enriching the dialogue by ensuring every scene features character-specific speech would significantly enhance the oral warmth and overall engagement for a young audience, making the characters more vivid and relatable."
+  },
+  "quality_warning": true,
+  "title_te_en": "Nemali Garvan, Kaaki Daya",
+  "moral_te_en": "Baahya Saundaryam Kannaa, Manasuloni Manchitanan, Chese Paniki Unna Viluva Eppatiki Goppavi.",
+  "title_en": "The Peacock's Pride, the Crow's Kindness",
+  "moral_en": "The goodness in one's heart and the value of one's actions are always more important than outer beauty.",
+  "id": "20260612_051059",
+  "date": "2026-06-12",
+  "category": "panchatantra",
+  "subcategory": "animal_wisdom",
+  "topic": "పంచతంత్రం - అందంపై మక్కువ గల నెమలి మరియు ఉపయోగకరమైన కాకి | Moral: బాహ్య సౌందర్యం కన్నా, మనసులోని మంచితనం, చేసే పనికి ఉన్న విలువ ఎప్పటికీ గొప్పవి.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260612_051059/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
