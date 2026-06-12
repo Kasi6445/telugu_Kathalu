@@ -1,0 +1,98 @@
+{
+  "title": "తెనాలి, గుసగుసలాడే నిధి పటం",
+  "moral": "నిజమైన తెలివి అంటే కేవలం సమాధానాలు కనుగొనడం కాదు, మనసును సృజనాత్మకంగా ఉపయోగించి జీవితంలోని చిక్కుముడులను విప్పడమే.",
+  "main_character": "A lean, quick-witted scholar and poet in King Krishnadevaraya's court. He often uses his sharp intellect and humor to solve problems and expose folly. Always the same character across every scene.",
+  "antagonist": "Minister Timmarusu. A portly, red-faced minister with a perpetually sneering expression and gaudy gold jewelry. He carries a small, ornate scroll case. Always the same character across every scene.",
+  "setting": "The grand court of Vijayanagara, in the city of Hampi. The palace is adorned with intricate carvings and vibrant frescoes, surrounded by lush gardens and the Tungabhadra river flowing nearby. The time shifts from bright morning to a moonlit night. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాజసభలో ఇద్దరు వర్తకులు ఒక సరుకు పంపకం గురించి వాదిస్తూ, రాజు కృష్ణదేవరాయలు వైపు చూశారు. తెనాలి వారి మాటలు వింటూ చిరునవ్వు చిందించాడు, అతని కళ్ళలో ఒక మెరుపు మెరిసింది. అప్పుడు తెనాలి, \"మహారాజా, సగటు సరుకు కంటే, సగం సరుకే పదిలం!\" అంటూ తన తీర్పు చెప్పాడు. రాజు సంతోషంగా చప్పట్లు కొట్టాడు — ఆ చప్పుడు సభంతా ప్రతిధ్వనించింది. తిమ్మరుసు ముఖం చిట్లించుకున్నాడు, అతని మోహం మరింత ఎర్రబడింది. రాజు నవ్వి, వెంటనే అతని ముఖం సీరియస్ అయ్యింది, ఒక సేవకుడికి సంజ్ఞ చేశాడు.",
+      "image_prompt": "The man listens intently to the argument, a subtle smile playing on his lips. A knowing sparkle glints in his eyes as he formulates his thoughts. Also in this scene: Minister Timmarusu. A portly, red-faced minister with a perpetually sneering expression and gaudy gold jewelry. He carries a small, ornate scroll case. Always the same character across every scene. Bright morning sunlight streaming through the large arched windows of the royal court, illuminating dust motes dancing in the air.",
+      "scene_visual": "The man listens intently to the argument, a subtle smile playing on his lips. A knowing sparkle glints in his eyes as he formulates his thoughts.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raajasabhalo Iddaru Vartakulu Oka Saruku Pampakam Gurinchi Vaadistu, Raaju Krrishnadevaraayalu Vaipu Chushaaru. Tenaali Vaari Maatalu Vintu Chirunavvu Chindinchaadu, Atani Kallalo Oka Merupu Merisindi. Appudu Tenaali, \"Mahaaraajaa, Sagatu Saruku Kante, Sagam Saruke Padilan!\" Antu Tana Tirpu Cheppaadu. Raaju Santoshangaa Chappatlu Kottaadu — Aa Chappudu Sabhantaa Pratidhvaninchindi. Timmarusu Mukham Chitlinchukunnaadu, Atani Moham Marinta Errabadindi. Raaju Navvi, Ventane Atani Mukham Siriyas Ayyindi, Oka Sevakudiki Sanjnya Cheshaadu.",
+      "text_en": "In the royal court, two merchants argued about dividing goods, looking towards King Krishnadevaraya. Tenali listened to them, a small smile on his face, a sparkle in his eyes. Then Tenali said, \"Maharaja, half the goods are more secure than fighting over the whole!\" The King clapped happily — the sound echoed through the entire court. Timmarusu frowned, his face turning even redder. The King smiled, then his face became serious, and he signaled a servant."
+    },
+    {
+      "id": 2,
+      "text": "రాజు సైగ చేయగానే, ఒక సేవకుడు జాగ్రత్తగా ఒక పాత పెట్టెను తెచ్చాడు. రాజు ఆ పెట్టె నుండి చిరిగిపోయిన, పసుపు రంగులో ఉన్న ఒక పటాన్ని బయటికి తీశాడు. పటాన్ని విప్పగానే — ఆ పాత కాగితం క్రిస్ప్ మని శబ్దం చేసింది, సభంతా నిశ్శబ్దంగా వింది. \"ఈ పటం గుసగుసలాడుతుందని పూర్వీకులు చెప్పారు, దీని రహస్యం విప్పిన వారికే నిధి!\" అని రాజు గంభీరంగా ప్రకటించాడు. సభికులందరూ ఆశ్చర్యంతో చూశారు, కొందరు గొణుక్కున్నారు. తెనాలి ఆ పటాన్ని చేతిలోకి తీసుకుని, దాని వింత చిహ్నాలను పరిశీలిస్తూ, అతని నుదురు ముడిపడింది, ఎటువంటి ఆనవాళ్ళు దొరకలేదు.",
+      "image_prompt": "The king carefully pulls a torn, yellowed map from an old box. The ancient paper makes a crisp rustling sound as he unfolds it before the silent court. Also in this scene: Minister Timmarusu. A portly, red-faced minister with a perpetually sneering expression and gaudy gold jewelry. He carries a small, ornate scroll case. Always the same character across every scene. The court is still brightly lit, but a shadow falls over Tenali's face as he examines the confusing map.",
+      "scene_visual": "The king carefully pulls a torn, yellowed map from an old box. The ancient paper makes a crisp rustling sound as he unfolds it before the silent court.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Saiga Cheyagaane, Oka Sevakudu Jaagrattagaa Oka Paata Pettenu Techchaadu. Raaju Aa Pette Nundi Chirigipoyina, Pasupu Rangulo Unna Oka Pataanni Bayatiki Tishaadu. Pataanni Vippagaane — Aa Paata Kaagitam Krisp Mani Shabdam Chesindi, Sabhantaa Nishshabdangaa Vindi. \"I Patam Gusagusalaadutundani Purvikulu Cheppaaru, Dini Rahasyam Vippina Vaarike Nidhi!\" Ani Raaju Gambhirangaa Prakatinchaadu. Sabhikulandaru Aashcharyanto Chushaaru, Kondaru Gonukkunnaaru. Tenaali Aa Pataanni Chetiloki Tisukuni, Daani Vinta Chihnaalanu Parishilistu, Atani Nuduru Mudipadindi, Etuvanti Aanavaallu Dorakaledu.",
+      "text_en": "As the King signaled, a servant carefully brought an old box. The King took out a torn, yellowed map from the box. As he unfolded the map — the old paper made a crisp sound, and the whole court listened in silence. \"Our ancestors said this map whispers, and the treasure belongs to whoever unlocks its secret!\" the King declared solemnly. All the courtiers looked surprised, some mumbled. Tenali took the map in his hands, examining its strange symbols. His brow furrowed, but he found no clues."
+    },
+    {
+      "id": 3,
+      "text": "తన గ్రంథాలయంలో ఒంటరిగా, తెనాలి పటాన్ని రాత్రి పొడవునా పరిశీలిస్తున్నాడు. ఆ పటం నుండి ఏదైనా గుసగుస వినబడుతుందేమోనని చెవి దగ్గర పెట్టుకున్నాడు. కానీ, అతనికి వినిపించింది కేవలం పాత కాగితం సన్నని చప్పుడు మాత్రమే, అతని ప్రయత్నాలు విఫలమయ్యాయి. అతను నిరాశగా తల పట్టుకున్నాడు, తన జుట్టును చిందరవందర చేసుకున్నాడు. \"గుసగుసలాడే పటం అంటే, నిజంగానే మాట్లాడుతుందా? లేక ఇది ఏదైనా తెలివైన పొడుపు కథా?\" అని తనకు తానే గొణుక్కున్నాడు. అతని పక్కన ఉన్న తాళపత్ర గ్రంథాల మీద, అతని కలం సన్నగా గీతలు గీస్తూ, ఆలోచనలో మునిగిపోయిన తెనాలి బొమ్మలు గీశాడు. ఒక్కసారిగా — ఒక కొత్త ఆలోచన అతని మనసులో మెరిసింది, అతని కళ్ళు వెడల్పు అయ్యాయి.",
+      "image_prompt": "The man's eyes suddenly widen as a new idea sparks in his mind. He sits amidst palm-leaf manuscripts, his pen paused mid-stroke on a drawing of himself. A single oil lamp casts warm, flickering light on Tenali's desk, creating deep shadows in the corners of his small study as night falls.",
+      "scene_visual": "The man's eyes suddenly widen as a new idea sparks in his mind. He sits amidst palm-leaf manuscripts, his pen paused mid-stroke on a drawing of himself.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Granthaalayanlo Ontarigaa, Tenaali Pataanni Raatri Podavunaa Parishilistunnaadu. Aa Patam Nundi Edainaa Gusagusa Vinabadutundemonani Chevi Daggara Pettukunnaadu. Kaani, Ataniki Vinipinchindi Kevalam Paata Kaagitam Sannani Chappudu Maatrame, Atani Prayatnaalu Viphalamayyaayi. Atanu Niraashagaa Tala Pattukunnaadu, Tana Juttunu Chindaravandara Chesukunnaadu. \"Gusagusalaade Patam Ante, Nijangaane Maatlaadutundaa? Leka Idi Edainaa Telivaina Podupu Kathaa?\" Ani Tanaku Taane Gonukkunnaadu. Atani Pakkana Unna Taalapatra Granthaala Mida, Atani Kalam Sannagaa Gitalu Gistu, Aalochanalo Munigipoyina Tenaali Bommalu Gishaadu. Okkasaarigaa — Oka Kotta Aalochana Atani Manasulo Merisindi, Atani Kallu Vedalpu Ayyaayi.",
+      "text_en": "Alone in his library, Tenali studied the map all night. He held it close to his ear, hoping to hear a whisper from the map. But all he heard was the faint rustle of old paper; his efforts failed. He held his head in frustration, messing up his hair. \"Does a 'whispering map' really talk? Or is it a clever riddle?\" he mumbled to himself. Next to him, on palm-leaf manuscripts, his pen lightly sketched, drawing pictures of Tenali deep in thought. Suddenly — a new idea sparked in his mind, and his eyes widened."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి పాత గ్రంథాల పేజీలు తిప్పుతూ, వాటిలోని జ్ఞానాన్ని వెతుకుతున్నాడు. అతను ఆ పటాన్ని పట్టుకుని, రాజభవనం నుండి వచ్చే ప్రతి చిన్న శబ్దాన్ని శ్రద్ధగా విన్నాడు, ఒక నమూనా దొరుకుతుందేమోనని ఆశించాడు. కానీ, అతని ఆశలు నిరాశగా మారాయి — అతను తల దించుకున్నాడు. \"ప్రతి శబ్దానికీ ఒక అర్థం ఉంటుంది, కానీ ఈ పటం శబ్దం కేవలం మౌనం వెనుక దాగి ఉంది,\" అని నిట్టూర్చాడు. దూరంగా, రాజ కార్యశాలల నుండి కమ్మరి కొట్టే సుత్తి చప్పుడు రిథమ్‌గా వినిపిస్తోంది. ఆ క్షణంలో... తిమ్మరుసు తెనాలి కిటికీ పక్కగా జారుకుంటూ వెళ్ళాడు, తెనాలి సమయాన్ని వృథా చేస్తున్నాడని నిర్ధారించుకుంటూ, ఒక చిన్న నవ్వు నవ్వాడు.",
+      "image_prompt": "Another man stealthily creeps past the window, observing the first man. A small, knowing smirk plays on his lips as he confirms the first man's apparent failure. Also in this scene: Minister Timmarusu. A portly, red-faced minister with a perpetually sneering expression and gaudy gold jewelry. He carries a small, ornate scroll case. Always the same character across every scene. Early morning light filters through the lattice work of Tenali's window, casting intricate patterns on the floor as he sits cross-legged.",
+      "scene_visual": "Another man stealthily creeps past the window, observing the first man. A small, knowing smirk plays on his lips as he confirms the first man's apparent failure.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Paata Granthaala Pejilu Tipputu, Vaatiloni Jnyaanaanni Vetukutunnaadu. Atanu Aa Pataanni Pattukuni, Raajabhavanam Nundi Vachche Prati Chinna Shabdaanni Shraddhagaa Vinnaadu, Oka Namunaa Dorukutundemonani Aashinchaadu. Kaani, Atani Aashalu Niraashagaa Maaraayi — Atanu Tala Dinchukunnaadu. \"Prati Shabdaaniki Oka Artham Untundi, Kaani I Patam Shabdam Kevalam Maunam Venuka Daagi Undi,\" Ani Nitturchaadu. Durangaa, Raaja Kaaryashaalala Nundi Kammari Kotte Sutti Chappudu Ritham‌Gaa Vinipistondi. Aa Kshananlo... Timmarusu Tenaali Kitiki Pakkagaa Jaarukuntu Vellaadu, Tenaali Samayaanni Vrrithaa Chestunnaadani Nirdhaarinchukuntu, Oka Chinna Navvu Navvaadu.",
+      "text_en": "Tenali flipped through the pages of old books, searching for knowledge within them. Holding the map, he carefully listened to every small sound coming from the palace, hoping to find a pattern. But his hopes turned to disappointment — he hung his head. \"Every sound has a meaning, but the sound of this map is hidden behind silence,\" he sighed. In the distance, the rhythmic hammering of a blacksmith could be heard from the royal workshops. At that moment... Timmarusu sneaked past Tenali's window, confirming that Tenali was wasting his time, and let out a small laugh."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి రాజభవన ఉద్యానవనంలో నడుస్తూ, ఇంకా పటం రహస్యం గురించి ఆలోచిస్తున్నాడు. అక్కడ పిల్లలు దాగుడుమూతలు ఆడుకుంటూ, ఒకరికొకరు పొడుపు కథలు వేసుకుంటున్నారు. వారి ఆనందమైన, పదునైన నవ్వులు గాలిలో తేలియాడుతున్నాయి — అతని చెవుల్లో పడ్డాయి. అప్పుడు తెనాలికి ఒక్కసారిగా — అంతా స్పష్టంగా అర్థమైంది. అతని ముఖం మీద ఒక నెమ్మదైన చిరునవ్వు విస్తరించింది, మెదడులో ముక్కలు ఒకదానితో ఒకటి సరిగ్గా అమరాయి. \"అహా! నిధి పటం గుసగుసలు కేవలం పదాల ఆట, జ్ఞానపు దారి!\" అని అతను ఆనందంగా అన్నాడు. వెంటనే, అతని మనసులో ఒక అద్భుతమైన ప్రణాళిక రూపుదిద్దుకుంది.",
+      "image_prompt": "A slow, knowing smile spreads across the man's face as understanding dawns on him. The joyful, sharp laughter of children playing riddles in the garden drifts into his ears. Soft afternoon sun illuminates the vibrant flowers in the palace garden, casting long, gentle shadows as Tenali sits under a banyan tree.",
+      "scene_visual": "A slow, knowing smile spreads across the man's face as understanding dawns on him. The joyful, sharp laughter of children playing riddles in the garden drifts into his ears.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Raajabhavana Udyaanavananlo Nadustu, Inkaa Patam Rahasyam Gurinchi Aalochistunnaadu. Akkada Pillalu Daagudumutalu Aadukuntu, Okarikokaru Podupu Kathalu Vesukuntunnaaru. Vaari Aanandamaina, Padunaina Navvulu Gaalilo Teliyaadutunnaayi — Atani Chevullo Paddaayi. Appudu Tenaaliki Okkasaarigaa — Antaa Spashtangaa Arthamaindi. Atani Mukham Mida Oka Nemmadaina Chirunavvu Vistarinchindi, Medadulo Mukkalu Okadaanito Okati Sariggaa Amaraayi. \"Ahaa! Nidhi Patam Gusagusalu Kevalam Padaala Aata, Jnyaanapu Daari!\" Ani Atanu Aanandangaa Annaadu. Ventane, Atani Manasulo Oka Adbhutamaina Pranaalika Rupudiddukundi.",
+      "text_en": "Tenali walked in the palace garden, still thinking about the map's secret. Children there were playing hide-and-seek, asking each other riddles. Their joyful, sharp laughter floated in the air — and reached his ears. Then, all at once — everything became clear to Tenali. A slow smile spread across his face, and the pieces in his mind fit together perfectly. \"Aha! The whispers of the treasure map are just a game of words, a path to knowledge!\" he said happily. Immediately, a wonderful plan formed in his mind."
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి రోజు, రాజసభలో తెనాలి రామకృష్ణుడు నిలబడి, పటం రహస్యాన్ని వివరించడానికి సిద్ధమయ్యాడు. అతను ఆత్మవిశ్వాసంతో, పటంలోని ప్రతి చిహ్నం ఒక తెలివైన సామెతను, మంచి పరిపాలనకు మార్గాన్ని సూచిస్తుందని వివరించాడు. అతని వివరణ పూర్తవగానే — సభికులందరూ ఆశ్చర్యంతో ఒక్కసారిగా ఊపిరి పీల్చుకున్నారు, ఆ తర్వాత గుసగుసలు మొదలయ్యాయి. \"మహారాజా, నిజమైన నిధి బంగారు కుండలో కాదు, జ్ఞానపు మాటల్లో ఉంటుంది!\" అని తెనాలి, తిమ్మరుసు వైపు ఒక కొంటె చూపు విసిరాడు. తిమ్మరుసు ముఖం ఎర్రగా కందిపోయింది, అతని కళ్ళు కోపంతో మెరిసాయి. రాజు కృష్ణదేవరాయలు అతని వైపు చూసి, ఒక రహస్యమైన చిరునవ్వు నవ్వాడు.",
+      "image_prompt": "The other man's face flushes a deep red as he glares at the first man. His eyes sparkle with barely contained anger, betraying his defeat. Also in this scene: Minister Timmarusu. A portly, red-faced minister with a perpetually sneering expression and gaudy gold jewelry. He carries a small, ornate scroll case. Always the same character across every scene. The golden glow of late afternoon sun streams into the court, highlighting Tenali's triumphant posture and Timmarusu's furious, red face.",
+      "scene_visual": "The other man's face flushes a deep red as he glares at the first man. His eyes sparkle with barely contained anger, betraying his defeat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Marusati Roju, Raajasabhalo Tenaali Raamakrrishnudu Nilabadi, Patam Rahasyaanni Vivarinchadaaniki Siddhamayyaadu. Atanu Aatmavishvaasanto, Patanloni Prati Chihnam Oka Telivaina Saametanu, Manchi Paripaalanaku Maargaanni Suchistundani Vivarinchaadu. Atani Vivarana Purtavagaane — Sabhikulandaru Aashcharyanto Okkasaarigaa Upiri Pilchukunnaaru, Aa Tarvaata Gusagusalu Modalayyaayi. \"Mahaaraajaa, Nijamaina Nidhi Bangaaru Kundalo Kaadu, Jnyaanapu Maatallo Untundi!\" Ani Tenaali, Timmarusu Vaipu Oka Konte Chupu Visiraadu. Timmarusu Mukham Erragaa Kandipoyindi, Atani Kallu Kopanto Merisaayi. Raaju Krrishnadevaraayalu Atani Vaipu Chusi, Oka Rahasyamaina Chirunavvu Navvaadu.",
+      "text_en": "The next day, in the royal court, Tenali Ramakrishna stood ready to explain the map's secret. He confidently explained that every symbol on the map represented a wise proverb, a path to good governance. As his explanation finished — all the courtiers gasped in surprise, and then whispers began. \"Maharaja, the true treasure is not in a pot of gold, but in words of wisdom!\" Tenali said, casting a mischievous glance at Timmarusu. Timmarusu's face turned beet red, his eyes flashing with anger. King Krishnadevaraya looked at him and smiled a secret smile."
+    },
+    {
+      "id": 7,
+      "text": "రాజు కృష్ణదేవరాయలు తన సింహాసనం నుండి లేచి నిలబడ్డాడు — అతని పట్టు వస్త్రాలు మెల్లగా కదిలాయి, ఆ శబ్దం మృదువుగా వినిపించింది. \"తెనాలి, నీ తెలివికి సరిలేరు! నీవు నిజంగానే విదూషకుడవు, విద్వాంసుడవు!\" అని రాజు ప్రశంసించాడు. తెనాలి వినయంగా రాజుకు వంగి నమస్కరించాడు, అతని పెదవులపై ఒక చిన్న, సంతృప్తికరమైన చిరునవ్వు మెరిసింది. తిమ్మరుసు ముఖం పాలిపోయింది, తల దించుకుని, సభ నుండి నెమ్మదిగా జారుకున్నాడు — మరోసారి తెనాలి తెలివికి ఓడిపోయాడు. ఆ గుసగుసలాడే పటం రహస్యం కేవలం మాటల గారడీ అని తెనాలి నిరూపించాడు.",
+      "image_prompt": "The other man's face pales as he bows his head and slowly slips away from the court. He avoids eye contact, his shoulders slumped in quiet defeat. Also in this scene: Minister Timmarusu. A portly, red-faced minister with a perpetually sneering expression and gaudy gold jewelry. He carries a small, ornate scroll case. Always the same character across every scene. The court is bathed in a warm, soft evening light, casting long, peaceful shadows as the day's events conclude.",
+      "scene_visual": "The other man's face pales as he bows his head and slowly slips away from the court. He avoids eye contact, his shoulders slumped in quiet defeat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Krrishnadevaraayalu Tana Sinhaasanam Nundi Lechi Nilabaddaadu — Atani Pattu Vastraalu Mellagaa Kadilaayi, Aa Shabdam Mrriduvugaa Vinipinchindi. \"Tenaali, Ni Teliviki Sarileru! Nivu Nijangaane Vidushakudavu, Vidvaansudavu!\" Ani Raaju Prashansinchaadu. Tenaali Vinayangaa Raajuku Vangi Namaskarinchaadu, Atani Pedavulapai Oka Chinna, Santrriptikaramaina Chirunavvu Merisindi. Timmarusu Mukham Paalipoyindi, Tala Dinchukuni, Sabha Nundi Nemmadigaa Jaarukunnaadu — Marosaari Tenaali Teliviki Odipoyaadu. Aa Gusagusalaade Patam Rahasyam Kevalam Maatala Gaaradi Ani Tenaali Nirupinchaadu.",
+      "text_en": "King Krishnadevaraya stood up from his throne — his silk robes rustled softly. \"Tenali, your wisdom is unmatched! You are truly a jester and a scholar!\" the King praised. Tenali humbly bowed to the King, a small, satisfied smile on his lips. Timmarusu's face turned pale, he lowered his head and slowly slipped away from the court — once again defeated by Tenali's wit. Tenali had proven that the secret of the whispering map was merely a trick of words."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 7,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.17,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and excellent emotional depth, effectively portraying character feelings through action rather than direct statement. The grammar is nearly flawless, making for a polished read. To reach an award-worthy level, the primary focus should be on softening the narrative voice to sound more like a grandparent's oral storytelling, rather than literary prose. Additionally, enriching the dialogue by giving secondary characters like తిమ్మరుసు a distinct voice would further enhance the story's richness."
+  },
+  "quality_warning": true,
+  "title_te_en": "Tenaali, Gusagusalaade Nidhi Patam",
+  "moral_te_en": "Nijamaina Telivi Ante Kevalam Samaadhaanaalu Kanugonadam Kaadu, Manasunu Srrijanaatmakangaa Upayoginchi Jivitanloni Chikkumudulanu Vippadame.",
+  "title_en": "Tenali and The Whispering Treasure Map",
+  "moral_en": "True wisdom isn't just about finding answers, but about using your mind creatively to untangle life's puzzles.",
+  "id": "20260612_091200",
+  "date": "2026-06-12",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు గుసగుసలాడే నిధి పటం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260612_091200/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
