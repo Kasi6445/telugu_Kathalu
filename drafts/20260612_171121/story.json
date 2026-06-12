@@ -1,0 +1,106 @@
+{
+  "title": "చిన్న నది, గొప్ప పాఠం",
+  "moral": "కొన్నిసార్లు, బయటికి చిన్నగా, బలహీనంగా కనిపించినా, లోపల చాలా శక్తి, సామర్థ్యం ఉండవచ్చు. అందుకే ఎవరినీ తక్కువ అంచనా వేయకూడదు.",
+  "main_character": "చింటూ (Chintu). A small, curious boy of ten, with bright, observant eyes and a perpetually slightly-too-large shirt. He often wanders off to observe nature, preferring quiet watching to boisterous games. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, sun-baked village named \"కొత్తపల్లె\" (Kothapalle) in rural Andhra Pradesh, nestled beside a seemingly docile river called \"సన్ననది\" (Sanna Nadi - Thin River). The banks are lined with thorny bushes and a few ancient banyan trees, and the air is thick with the scent of dry earth and jasmine. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "కొత్తపల్లెలోని సన్ననది ఒడ్డున చింటూ కూర్చుని, తన చిన్న పాదాలను చల్లటి నీటిలో ముంచాడు. రాళ్లపై నీరు మెల్లగా సాగిపోతుంటే, ఒక సున్నితమైన సవ్వడి అతని చెవుల్లో మ్రోగింది — అది మనసుకు చాలా ఆహ్లాదంగా ఉంది. \"ఎంత ప్రశాంతంగా ఉందో ఈ నది!\" అని అతను తనలో తాను అనుకుంటూ, ఒక చిరునవ్వుతో ప్రశాంతంగా ఉన్నాడు. ఆ నీటి చల్లదనం అతని అలసటను దూరం చేసింది. ఇంతలో, నది ఆవలి ఒడ్డు నుండి ఒక పెద్ద కేక— సహాయం కోసం పిలుస్తున్నట్లు వినిపించింది.",
+      "image_prompt": "The boy sits by the narrow river, immersing his small feet in the cool water. A gentle smile plays on his face as the water flows slowly over the rocks. Late afternoon sun, golden and soft, filtering through the banyan leaves onto the riverbank, creating long, peaceful shadows.",
+      "scene_visual": "The boy sits by the narrow river, immersing his small feet in the cool water. A gentle smile plays on his face as the water flows slowly over the rocks.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kottapalleloni Sannanadi Odduna Chintu Kurchuni, Tana Chinna Paadaalanu Challati Nitilo Munchaadu. Raallapai Niru Mellagaa Saagipotunte, Oka Sunnitamaina Savvadi Atani Chevullo Mrogindi — Adi Manasuku Chaalaa Aahlaadangaa Undi. \"Enta Prashaantangaa Undo I Nadi!\" Ani Atanu Tanalo Taanu Anukuntu, Oka Chirunavvuto Prashaantangaa Unnaadu. Aa Niti Challadanam Atani Alasatanu Duram Chesindi. Intalo, Nadi Aavali Oddu Nundi Oka Pedda Keka— Sahaayam Kosam Pilustunnatlu Vinipinchindi.",
+      "text_en": "Chintu sat by the Sannana River in Kothapalle, dipping his small feet into the cool water. As the water gently flowed over the rocks, a soft, soothing sound filled his ears – it felt very peaceful. \"How peaceful this river is!\" he thought to himself, smiling calmly. The coolness of the water washed away his tiredness. Just then, a loud cry came from the other side of the river – it sounded like someone was calling for help."
+    },
+    {
+      "id": 2,
+      "text": "ఆ కేక విని చింటూ తల పైకెత్తి చూశాడు, అవతలి ఒడ్డున ఒక వృద్ధురాలు తన దూడ పక్కన కూర్చుని అల్లాడుతోంది. ఆ దూడ భయంకరంగా అరుస్తోంది — దాని కాలు విరిగినట్లుంది! చింటూ కళ్ళు పెద్దవి చేసుకున్నాడు, ఆ దూడ ఆర్తనాదం నది అంతటా ప్రతిధ్వనిస్తోంది. \"అయ్యో! ఆ ఆవు దూడకు ఏదో అయింది!\" అని చింటూ ఆందోళనగా అరిచాడు. ఇంతలో అక్కడికి వచ్చిన ఒక పెద్ద మనిషి, \"అదేం చిన్న నది కాదు బాబు, దాన్ని దాటడం అంత సులువు కాదు,\" అంటూ నిర్లక్ష్యంగా చేయి ఊపాడు. కానీ చింటూ మనసులో మాత్రం సహాయం చేయాలనే పట్టుదల పెరిగింది.",
+      "image_prompt": "The boy looks up, his eyes widening as he sees an old woman distressed beside a calf on the opposite bank. The calf's leg appears broken, and its pained cries echo across the river. Bright, clear midday sun beating down on the river, making the shallow parts sparkle deceptively, but casting harsh shadows on the distressed old woman across.",
+      "scene_visual": "The boy looks up, his eyes widening as he sees an old woman distressed beside a calf on the opposite bank. The calf's leg appears broken, and its pained cries echo across the river.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Keka Vini Chintu Tala Paiketti Chushaadu, Avatali Odduna Oka Vrriddhuraalu Tana Duda Pakkana Kurchuni Allaadutondi. Aa Duda Bhayankarangaa Arustondi — Daani Kaalu Viriginatlundi! Chintu Kallu Peddavi Chesukunnaadu, Aa Duda Aartanaadam Nadi Antataa Pratidhvanistondi. \"Ayyo! Aa Aavu Dudaku Edo Ayindi!\" Ani Chintu Aandolanagaa Arichaadu. Intalo Akkadiki Vachchina Oka Pedda Manishi, \"Adem Chinna Nadi Kaadu Baabu, Daanni Daatadam Anta Suluvu Kaadu,\" Antu Nirlakshyangaa Cheyi Upaadu. Kaani Chintu Manasulo Maatram Sahaayam Cheyaalane Pattudala Perigindi.",
+      "text_en": "Hearing the cry, Chintu looked up and saw an old woman on the other bank, distressed next to her calf. The calf was crying terribly – it looked like its leg was broken! Chintu's eyes widened, and the calf's cries echoed across the river. \"Oh no! Something happened to that calf!\" Chintu cried out, worried. Just then, an older man came by and waved his hand dismissively, saying, \"That's not a small river, boy, it's not easy to cross.\" But in Chintu's heart, the determination to help grew stronger."
+    },
+    {
+      "id": 3,
+      "text": "పెద్ద మనిషి మాటలు పట్టించుకోకుండా, దూడను రక్షించాలనే తపనతో చింటూ నీటిలోకి దిగాడు. మొదటి అడుగుల్లో నీరు మోకాళ్ళ వరకు వచ్చింది, అతను అనుకున్నదానికంటే లోతు ఎక్కువ. ఆ క్షణంలో — చలి నీరు అతని బట్టలను లాగుతున్నట్లు అనిపించింది! \"అయ్యబాబోయ్! ఇది నేను అనుకున్నంత సులభం కాదు!\" అని చింటూ ఆశ్చర్యపోయాడు, అతని గుండె వేగంగా కొట్టుకుంది. అతను ఒక రాతిని గట్టిగా పట్టుకున్నాడు, నీటి ప్రవాహం ఊహించని విధంగా బలంగా ఉంది. కానీ, ఆ బలంగా ప్రవహించే నీటిలో కొన్ని కొమ్మలు వింతగా కదులుతూ, ఒక మార్గాన్ని సూచిస్తున్నట్లు చింటూ చూశాడు.",
+      "image_prompt": "The boy steps into the river, the cold water immediately reaching his knees and pulling at his clothes. He grips a rock tightly, his heart pounding as the unexpectedly strong current pushes against him. The sun is still high, but the river's surface appears darker in patches where the current is stronger, creating an ominous contrast with the bright, shallow edges.",
+      "scene_visual": "The boy steps into the river, the cold water immediately reaching his knees and pulling at his clothes. He grips a rock tightly, his heart pounding as the unexpectedly strong current pushes against him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pedda Manishi Maatalu Pattinchukokundaa, Dudanu Rakshinchaalane Tapanato Chintu Nitiloki Digaadu. Modati Adugullo Niru Mokaalla Varaku Vachchindi, Atanu Anukunnadaanikante Lotu Ekkuva. Aa Kshananlo — Chali Niru Atani Battalanu Laagutunnatlu Anipinchindi! \"Ayyabaaboy! Idi Nenu Anukunnanta Sulabham Kaadu!\" Ani Chintu Aashcharyapoyaadu, Atani Gunde Vegangaa Kottukundi. Atanu Oka Raatini Gattigaa Pattukunnaadu, Niti Pravaaham Uhinchani Vidhangaa Balangaa Undi. Kaani, Aa Balangaa Pravahinche Nitilo Konni Kommalu Vintagaa Kadulutu, Oka Maargaanni Suchistunnatlu Chintu Chushaadu.",
+      "text_en": "Ignoring the older man's words, Chintu stepped into the water, eager to save the calf. In his first steps, the water reached his knees; it was deeper than he expected. At that moment – the cold water felt like it was pulling at his clothes! \"Oh dear! This isn't as easy as I thought!\" Chintu exclaimed, surprised, his heart beating fast. He held onto a rock tightly; the current was unexpectedly strong. But in the strong current, Chintu noticed some branches moving strangely, as if pointing to a path."
+    },
+    {
+      "id": 4,
+      "text": "నీటి ప్రవాహం నుండి తనను తాను నిలదొక్కుకుని, చింటూ నదిని మరింత నిశితంగా గమనించాడు. కొన్ని కొమ్మలు వేగంగా కొట్టుకుపోతుంటే, మరికొన్ని నెమ్మదిగా కదులుతూ, లోపల తక్కువ ప్రవాహం ఉన్న మార్గాలను సూచించాయి. \"ఆ కొమ్మ అటువైపు ఎందుకు వెళ్తోంది?\" అని అతను తనలో తాను ఆలోచించుకున్నాడు, అతని ముఖంలో తీవ్రమైన ఏకాగ్రత కనిపించింది. నది అడుగున ఉన్న తడి మట్టి వాసన అతని ముక్కుపుటాలకి తాకింది, అతని ఆలోచనలు పదును పెట్టాయి. అప్పుడే అతని కళ్లు ఒక పెద్ద, దృఢమైన కొయ్య మోడు మీద పడ్డాయి — అది సగం నీటిలో మునిగి, ప్రవాహం ఎక్కువగా ఉన్న చోట ఒక వంతెనలా ఉంది.",
+      "image_prompt": "The boy stands firm against the current, his face showing intense concentration as he observes the river's flow. His eyes then fall upon a large, sturdy log, half-submerged, acting like a bridge where the current is strong. Bright, almost harsh sunlight reflects off the water's surface, making it difficult to discern depths, but Chintu's shadow is long and sharp as he kneels by the bank.",
+      "scene_visual": "The boy stands firm against the current, his face showing intense concentration as he observes the river's flow. His eyes then fall upon a large, sturdy log, half-submerged, acting like a bridge where the current is strong.",
+      "supporting_char_keys": [],
+      "text_te_en": "Niti Pravaaham Nundi Tananu Taanu Niladokkukuni, Chintu Nadini Marinta Nishitangaa Gamaninchaadu. Konni Kommalu Vegangaa Kottukupotunte, Marikonni Nemmadigaa Kadulutu, Lopala Takkuva Pravaaham Unna Maargaalanu Suchinchaayi. \"Aa Komma Atuvaipu Enduku Veltondi?\" Ani Atanu Tanalo Taanu Aalochinchukunnaadu, Atani Mukhanlo Tivramaina Ekaagrata Kanipinchindi. Nadi Aduguna Unna Tadi Matti Vaasana Atani Mukkuputaalaki Taakindi, Atani Aalochanalu Padunu Pettaayi. Appude Atani Kallu Oka Pedda, Drridhamaina Koyya Modu Mida Paddaayi — Adi Sagam Nitilo Munigi, Pravaaham Ekkuvagaa Unna Chota Oka Vantenalaa Undi.",
+      "text_en": "Steadying himself against the current, Chintu observed the river more closely. Some branches were being carried away quickly, while others moved slowly, indicating paths with less current. \"Why is that branch going that way?\" he wondered to himself, a look of deep concentration on his face. The smell of wet mud from the riverbed reached his nostrils, sharpening his thoughts. Just then, his eyes fell upon a large, sturdy log – it was half-submerged in the water, acting like a bridge where the current was strong."
+    },
+    {
+      "id": 5,
+      "text": "ఆ కొయ్య మోడును ఆధారంగా చేసుకుని, చింటూ తన ప్రయాణాన్ని తిరిగి ప్రారంభించాడు, ప్రవాహం తక్కువగా ఉన్న మార్గాలను జాగ్రత్తగా ఎంచుకున్నాడు. అతని పాదాలు కొయ్య మోడుపై జారకుండా గట్టిగా పట్టుకున్నాయి, ఆ బెరడు బరబరగా, జారుడుగా ఉంది. \"ఇంకొక్క అడుగు... అంతే!\" అని అతను తనలో తాను ధైర్యం చెప్పుకున్నాడు, అతని శరీరం బిగుసుకుపోయి ఉంది. ప్రతి అడుగూ చాలా జాగ్రత్తగా, లెక్కతో వేసాడు, పడిపోకుండా ఉండటానికి ప్రయత్నించాడు. ఎట్టకేలకు, శ్రమతో కూడిన ఆ ప్రయాణం ముగిసింది — చింటూ అవతలి ఒడ్డుకు చేరుకున్నాడు, అతని ముందు ఆ వృద్ధురాలి ఆశాభావమైన ముఖం కనిపించింది.",
+      "image_prompt": "The boy carefully navigates across the river, using the sturdy log as support, his body tensed with effort. His feet grip the rough, slippery bark of the log, taking each step with extreme caution to avoid falling. The sun has begun to dip slightly, casting a warm, slightly orange glow on the water and Chintu's determined face as he battles the current.",
+      "scene_visual": "The boy carefully navigates across the river, using the sturdy log as support, his body tensed with effort. His feet grip the rough, slippery bark of the log, taking each step with extreme caution to avoid falling.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Koyya Modunu Aadhaarangaa Chesukuni, Chintu Tana Prayaanaanni Tirigi Praarambhinchaadu, Pravaaham Takkuvagaa Unna Maargaalanu Jaagrattagaa Enchukunnaadu. Atani Paadaalu Koyya Modupai Jaarakundaa Gattigaa Pattukunnaayi, Aa Beradu Barabaragaa, Jaarudugaa Undi. \"Inkokka Adugu... Ante!\" Ani Atanu Tanalo Taanu Dhairyam Cheppukunnaadu, Atani Shariram Bigusukupoyi Undi. Prati Adugu Chaalaa Jaagrattagaa, Lekkato Vesaadu, Padipokundaa Undataaniki Prayatninchaadu. Ettakelaku, Shramato Kudina Aa Prayaanam Mugisindi — Chintu Avatali Odduku Cherukunnaadu, Atani Mundu Aa Vrriddhuraali Aashaabhaavamaina Mukham Kanipinchindi.",
+      "text_en": "Using the log as support, Chintu restarted his journey, carefully choosing paths with less current. His feet gripped the log tightly to avoid slipping; the bark was rough and slippery. \"Just one more step... that's it!\" he encouraged himself, his body tense. Every step was taken very carefully and deliberately, trying not to fall. Finally, the difficult journey ended – Chintu reached the other bank, and the old woman's hopeful face appeared before him."
+    },
+    {
+      "id": 6,
+      "text": "చింటూను చూడగానే — అవ్వ కళ్ళల్లో ఆనందం తొణికిసలాడింది! ఆమె కృతజ్ఞతగా అతని చేతులు పట్టుకుంది. \"భయపడకండి అవ్వా, నేను వచ్చాను!\" అని చింటూ ధైర్యంగా చెప్పాడు, ఆమె భుజం తట్టాడు. అతను వెంటనే దూడ దగ్గరికి వెళ్లి, దాని కాలును పరీక్షించాడు, దాని గరుకు రోమాలు అతని చేతికి తగిలాయి. దూడకు కట్టు కట్టాడు, అవ్వ మనసు తేలికపడింది. సహాయం చేసిన తృప్తి అతని ముఖంలో స్పష్టంగా కనిపించింది. పని ముగించి, చింటూ తిరిగి సన్ననది వైపు చూశాడు, అది ఎంత మోసపూరితమైనదో ఇప్పుడు అతనికి అర్థమైంది.",
+      "image_prompt": "The boy kneels beside the calf, gently examining its leg while the old woman gratefully holds his hands. He bandages the calf's leg, and a clear look of satisfaction spreads across his face. The setting sun paints the sky in hues of orange and purple, casting a comforting, gentle light on Chintu and the old woman, highlighting their relief.",
+      "scene_visual": "The boy kneels beside the calf, gently examining its leg while the old woman gratefully holds his hands. He bandages the calf's leg, and a clear look of satisfaction spreads across his face.",
+      "supporting_char_keys": [
+        "old_woman"
+      ],
+      "text_te_en": "Chintunu Chudagaane — Avva Kallallo Aanandam Tonikisalaadindi! Aame Krritajnyatagaa Atani Chetulu Pattukundi. \"Bhayapadakandi Avvaa, Nenu Vachchaanu!\" Ani Chintu Dhairyangaa Cheppaadu, Aame Bhujam Tattaadu. Atanu Ventane Duda Daggariki Velli, Daani Kaalunu Parikshinchaadu, Daani Garuku Romaalu Atani Chetiki Tagilaayi. Dudaku Kattu Kattaadu, Avva Manasu Telikapadindi. Sahaayam Chesina Trripti Atani Mukhanlo Spashtangaa Kanipinchindi. Pani Muginchi, Chintu Tirigi Sannanadi Vaipu Chushaadu, Adi Enta Mosapuritamainado Ippudu Ataniki Arthamaindi.",
+      "text_en": "As soon as she saw Chintu – joy sparkled in the old woman's eyes! She gratefully held his hands. \"Don't worry, Grandma, I'm here!\" Chintu said bravely, patting her shoulder. He immediately went to the calf and examined its leg; its rough fur brushed against his hand. He bandaged the calf's leg, and the old woman's heart felt lighter. The satisfaction of helping was clearly visible on his face. After finishing his work, Chintu looked back at the Sannana River, now understanding how deceptive it truly was."
+    },
+    {
+      "id": 7,
+      "text": "నది ఒడ్డున నిలబడి, చింటూ ప్రశాంతంగా ప్రవహించే నీటిని చూశాడు, అతని మనసులో ఒక కొత్త ఆలోచన మెరిసింది. సన్నగా, బలహీనంగా కనిపించిన ఈ నదిలో ఎంతటి లోతైన ప్రవాహం ఉందో అతను తెలుసుకున్నాడు. సాయంత్రపు చల్లటి గాలి చెట్ల ఆకులను కదిలిస్తూ, ఒక గుసగుస లాంటి శబ్దం చేసింది. \"కొన్నిసార్లు, చిన్నగా కనిపించే వాటిలో కూడా గొప్ప శక్తి ఉంటుంది,\" అని చింటూ నెమ్మదిగా అన్నాడు, అతని కళ్ళల్లో లోతైన జ్ఞానం కనిపించింది. ఇకపై ఎవరినీ, దేన్నీ తక్కువ అంచనా వేయకూడదని అతను గట్టిగా నిర్ణయించుకున్నాడు.",
+      "image_prompt": "The boy stands on the riverbank, gazing at the calmly flowing water with a thoughtful expression. A deep wisdom is visible in his eyes as cool evening air rustles the tree leaves around him. Dusk settles over the village, the last light of the sun fading to a soft, deep blue, creating a contemplative and peaceful atmosphere around Chintu as he gazes at the river.",
+      "scene_visual": "The boy stands on the riverbank, gazing at the calmly flowing water with a thoughtful expression. A deep wisdom is visible in his eyes as cool evening air rustles the tree leaves around him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nadi Odduna Nilabadi, Chintu Prashaantangaa Pravahinche Nitini Chushaadu, Atani Manasulo Oka Kotta Aalochana Merisindi. Sannagaa, Balahinangaa Kanipinchina I Nadilo Entati Lotaina Pravaaham Undo Atanu Telusukunnaadu. Saayantrapu Challati Gaali Chetla Aakulanu Kadilistu, Oka Gusagusa Laanti Shabdam Chesindi. \"Konnisaarlu, Chinnagaa Kanipinche Vaatilo Kudaa Goppa Shakti Untundi,\" Ani Chintu Nemmadigaa Annaadu, Atani Kallallo Lotaina Jnyaanam Kanipinchindi. Ikapai Evarini, Denni Takkuva Anchanaa Veyakudadani Atanu Gattigaa Nirnayinchukunnaadu.",
+      "text_en": "Standing on the riverbank, Chintu watched the calmly flowing water, and a new thought sparked in his mind. He had learned how deep the current was in this river, which had seemed so thin and weak. The cool evening breeze rustled the tree leaves, making a whispering sound. \"Sometimes, even things that look small have great strength,\" Chintu said softly, a deep wisdom in his eyes. He firmly decided that from now on, he would never underestimate anyone or anything."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "old_woman",
+      "description": "An elderly village woman, frail in appearance with deep wrinkles etched by years of sun, wearing a faded green saree. Her eyes are kind but filled with worry for her calf. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and flawless grammar, providing a strong foundation. However, the primary area for improvement lies in shifting from a formal, descriptive narrative to a more authentic, oral storytelling voice. Infusing more 'showing' of emotions through action and sensory details, rather than stating them directly, would significantly enhance both emotional depth and the overall warmth of the narration, making it truly award-worthy."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chinna Nadi, Goppa Paatham",
+  "moral_te_en": "Konnisaarlu, Bayatiki Chinnagaa, Balahinangaa Kanipinchinaa, Lopala Chaalaa Shakti, Saamarthyam Undavachchu. Anduke Evarini Takkuva Anchanaa Veyakudadu.",
+  "title_en": "The Little River, A Big Lesson",
+  "moral_en": "Sometimes, even if something looks small and weak on the outside, it might have a lot of strength and power inside. That's why we should never underestimate anyone or anything.",
+  "id": "20260612_171121",
+  "date": "2026-06-12",
+  "category": "samethalu",
+  "subcategory": "hard_lessons",
+  "topic": "Topic: సన్నగా కనిపించే నది - లోతు తెలియని ప్రవాహం యొక్క శక్తి. | Moral: కొన్నిసార్లు, బయటికి చిన్నగా, బలహీనంగా కనిపించినా, లోపల చాలా శక్తి, సామర్థ్యం ఉండవచ్చు. అందుకే ఎవరినీ తక్కువ అంచనా వేయకూడదు.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260612_171121/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
