@@ -1,0 +1,107 @@
+{
+  "title": "రాముడి భయం గెలిచిన సాహసం",
+  "moral": "మనసులో ప్రేమ ఉన్నప్పుడు, ఏ భయాన్నైనా జయించి అద్భుతాలు చేయగలం, తెలుసా నా చిట్టి బంగారు కొండలా?",
+  "main_character": "Ramu, a lean, agile boy of ten with bright, curious eyes and perpetually dusty knees from playing outdoors. He carries a small, hand-carved wooden sword and dreams of grand adventures, but secretly fears the dark. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant village named 'మల్లెలపల్లె' (Mallela Palle - Jasmine Village) nestled at the foot of rolling green hills in rural Andhra Pradesh. Clay-tiled houses with thatched roofs, a central banyan tree, and emerald green fields of paddy stretching towards a mysterious, dark forest at the village edge. The story spans from morning to evening.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకరోజు, మన రాముడు మల్లెలపల్లెలోని పెద్ద మర్రిచెట్టు కింద, తన చిన్న చెక్క కత్తి పట్టుకుని, అడవంతా పిచ్చుకల కిలకిలరావాలతో నిండి ఉంటే, తనదైన లోకంలో ఉన్నాడు. తన చిట్టి చేతులతో కత్తిని ఝళిపిస్తూ, గాలిలో కనిపించని శత్రువులతో పోరాడుతున్నాడు, అతని కళ్ళు మెరుస్తున్నాయి. “నేను రాక్షసులను ఓడిస్తాను!” అని గట్టిగా అరుస్తూ, చెట్ల పొదల వైపు దూకాడు, ధూళి అతని మోకాళ్ళకు అంటుకుంది. సంతోషంగా ఊగిపోతున్నప్పుడు, అకస్మాత్తుగా, అతని అమ్మ గొంతులో ఏదో తెలియని బెంగ వినిపించింది, “రామూ! ఇటు రా నాయనా!”",
+      "image_prompt": "The boy swings his small wooden sword, fighting unseen enemies in the air, then jumps towards the bushes. Dust clings to his knees as his eyes sparkle with fierce determination. Bright, warm morning sun filtering through the banyan leaves, dappling the village square in gold and green, creating a playful atmosphere.",
+      "scene_visual": "The boy swings his small wooden sword, fighting unseen enemies in the air, then jumps towards the bushes. Dust clings to his knees as his eyes sparkle with fierce determination.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okaroju, Mana Raamudu Mallelapalleloni Pedda Marrichettu Kinda, Tana Chinna Chekka Katti Pattukuni, Adavantaa Pichchukala Kilakilaraavaalato Nindi Unte, Tanadaina Lokanlo Unnaadu. Tana Chitti Chetulato Kattini Jhalipistu, Gaalilo Kanipinchani Shatruvulato Poraadutunnaadu, Atani Kallu Merustunnaayi. “Nenu Raakshasulanu Odistaanu!” Ani Gattigaa Arustu, Chetla Podala Vaipu Dukaadu, Dhuli Atani Mokaallaku Antukundi. Santoshangaa Ugipotunnappudu, Akasmaattugaa, Atani Amma Gontulo Edo Teliyani Benga Vinipinchindi, “Raamu! Itu Raa Naayanaa!”",
+      "text_en": "One day, our Ramudu was in his own world, under the big banyan tree in Mallelapalle, holding his small wooden sword, while the forest was filled with the chirping of sparrows. With his tiny hands, he was swinging the sword, fighting invisible enemies in the air, his eyes sparkling. “I will defeat the monsters!” he shouted loudly, and jumped towards the bushes, dust clinging to his knees. As he was happily swaying, suddenly, he heard an unknown worry in his mother's voice, “Ramudu! Come here, my son!”"
+    },
+    {
+      "id": 2,
+      "text": "అమ్మ పిలుపు వినగానే రాముడు కత్తిని జారవిడిచి, గుండె దడదడలాడగా ఇంటికి పరుగెత్తాడు. అక్కడ అమ్మ మంచం మీద పడి ఉంది, ముఖం పాలిపోయి, వేడి జ్వరంతో వణికిపోతోంది, అప్పుడే మట్టి కుండలో కాచిన చేదు మందు వాసన గది అంతా నిండి ఉంది. గ్రామ పెద్ద సూర్యమ్మమ్మమ్మ, అమ్మ తల నిమురుతూ, “నాయనా, ఈ జ్వరం తగ్గాలంటే మాయా గుహలో దొరికే అద్భుత మూలిక కావాలి,” అంది. రాముడు ఆ మాట వినగానే, అతని గుండె పగిలినట్లయ్యింది, “ఆ మాయా గుహలోకి వెళ్లాలంటే చాలా ధైర్యం కావాలి, చిన్నారి,” అని సూర్యమ్మమ్మమ్మమ్మ అతని కళ్ళు చూస్తూ చెప్పింది. రాముడి చూపు అడవి అంచున ఉన్న ఆ చీకటి గుహ వైపు మళ్ళింది — గుహ వైపు చూడగానే ఒక చల్లటి చెమట పట్టేసింది.",
+      "image_prompt": "The boy stands beside his mother, who lies pale and trembling with fever on the bed. An old woman gently strokes the mother's head, as the boy's gaze shifts towards a dark cave at the edge of the forest. Soft, fading afternoon light inside their small, humble hut, casting long shadows and creating a somber, worried mood.",
+      "scene_visual": "The boy stands beside his mother, who lies pale and trembling with fever on the bed. An old woman gently strokes the mother's head, as the boy's gaze shifts towards a dark cave at the edge of the forest.",
+      "supporting_char_keys": [
+        "mother"
+      ],
+      "text_te_en": "Amma Pilupu Vinagaane Raamudu Kattini Jaaravidichi, Gunde Dadadadalaadagaa Intiki Parugettaadu. Akkada Amma Mancham Mida Padi Undi, Mukham Paalipoyi, Vedi Jvaranto Vanikipotondi, Appude Matti Kundalo Kaachina Chedu Mandu Vaasana Gadi Antaa Nindi Undi. Graama Pedda Suryammammamma, Amma Tala Nimurutu, “Naayanaa, I Jvaram Taggaalante Maayaa Guhalo Dorike Adbhuta Mulika Kaavaali,” Andi. Raamudu Aa Maata Vinagaane, Atani Gunde Pagilinatlayyindi, “Aa Maayaa Guhaloki Vellaalante Chaalaa Dhairyam Kaavaali, Chinnaari,” Ani Suryammammammamma Atani Kallu Chustu Cheppindi. Raamudi Chupu Adavi Anchuna Unna Aa Chikati Guha Vaipu Mallindi — Guha Vaipu Chudagaane Oka Challati Chemata Pattesindi.",
+      "text_en": "As soon as he heard his mother's call, Ramudu dropped his sword and ran home, his heart pounding. There, his mother lay on the bed, her face pale, trembling with a high fever. The smell of bitter medicine brewed in an earthen pot filled the room. The village elder, Suryammamma, stroked his mother's head and said, “My dear, to cure this fever, we need a wondrous herb found in the Magic Cave.” As soon as Ramudu heard those words, his heart felt like it broke. “Going into that Magic Cave requires a lot of courage, little one,” Suryammamma said, looking into his eyes. Ramudu's gaze turned towards the dark cave at the edge of the forest — a cold sweat broke out on him just by looking at the cave."
+    },
+    {
+      "id": 3,
+      "text": "అమ్మను అలా చూసి, రాముడు ఎంత భయం ఉన్నా, చీకటి పడుతుండగానే ఆ మాయా గుహ వైపు బయలుదేరాడు. దట్టమైన అడవిలోకి అడుగు పెట్టగానే, అతని మోకాళ్ళు వణకడం మొదలుపెట్టాయి, చిన్నగా రెపరెపలాడే ఆకుల్లోంచి వినిపించే శబ్దాలు అతన్ని మరింత భయపెట్టాయి. “అమ్మా, నీ కోసం నేను వెళ్ళాలి!” అని అతను తనలో తాను గట్టిగా అనుకున్నాడు, చేతులు గట్టిగా బిగించి. అతని చెక్క కత్తిని మరింత గట్టిగా పట్టుకున్నాడు, అడుగులు బరువయ్యాయి — అడుగడుగునా ఏదో భయం తరుముతున్నట్లుంది. చివరికి, చీకటి పొగమంచులో కప్పబడిన, భయానకమైన గుహ ద్వారం కనిపించింది — అది పెద్ద రాక్షసుడి నోరు తెరిచినట్లు ఉంది.",
+      "image_prompt": "The boy walks through a dense forest, his knees trembling, holding his wooden sword tightly. He stares at the terrifying cave entrance, shrouded in dark mist, resembling a giant monster's open mouth. Gloomy, late afternoon light in the dense forest, shadows growing long and deep, creating a sense of foreboding and isolation.",
+      "scene_visual": "The boy walks through a dense forest, his knees trembling, holding his wooden sword tightly. He stares at the terrifying cave entrance, shrouded in dark mist, resembling a giant monster's open mouth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ammanu Alaa Chusi, Raamudu Enta Bhayam Unnaa, Chikati Padutundagaane Aa Maayaa Guha Vaipu Bayaluderaadu. Dattamaina Adaviloki Adugu Pettagaane, Atani Mokaallu Vanakadam Modalupettaayi, Chinnagaa Reparepalaade Aakullonchi Vinipinche Shabdaalu Atanni Marinta Bhayapettaayi. “Ammaa, Ni Kosam Nenu Vellaali!” Ani Atanu Tanalo Taanu Gattigaa Anukunnaadu, Chetulu Gattigaa Biginchi. Atani Chekka Kattini Marinta Gattigaa Pattukunnaadu, Adugulu Baruvayyaayi — Adugadugunaa Edo Bhayam Tarumutunnatlundi. Chivariki, Chikati Pogamanchulo Kappabadina, Bhayaanakamaina Guha Dvaaram Kanipinchindi — Adi Pedda Raakshasudi Noru Terichinatlu Undi.",
+      "text_en": "Seeing his mother like that, Ramudu, despite his fear, set off towards the Magic Cave as darkness fell. As soon as he stepped into the dense forest, his knees began to tremble, and the rustling sounds from the tiny fluttering leaves scared him even more. “Mother, I must go for you!” he thought to himself firmly, clenching his fists. He gripped his wooden sword even tighter, his steps grew heavy — it felt as if fear was chasing him at every turn. Finally, the terrifying entrance to the cave appeared, covered in dark mist — it looked like the open mouth of a giant monster."
+    },
+    {
+      "id": 4,
+      "text": "గుహలోకి అడుగు పెట్టగానే, రాముడి ఒంటిని చల్లటి, తడి గాలి తాకింది, మట్టి వాసన ముక్కుపుటాల నిండా నిండిపోయింది. గుహలోపల నుండి ఒక వింతైన, ప్రతిధ్వనించే శబ్దం వినిపించింది — అది రాముడిని అక్కడే గడ్డకట్టేలా చేసింది. అంతలోనే, గుహ లోపల నుండి ఒక ఆకుపచ్చని కాంతి మెల్లగా పల్చగా మెరుస్తూ, రాముడి కళ్ళ ముందు విస్తరించింది. “ఇదేమిటి?” అని అతను గొంతు పెగలక, గుసగుసలాడాడు. ఆ కాంతి క్రమంగా పెరిగింది, గుహ గోడలపై వింతైన, మెరుస్తున్న డిజైన్‌లను చూపిస్తూ — అది అందంగా, అదే సమయంలో భయంకరంగా ఉంది.",
+      "image_prompt": "The boy stands frozen inside the cave as a strange, echoing sound fills the air. A thin, shimmering green light slowly expands before his eyes, revealing strange, glowing designs on the cave walls. Deep, inky blackness inside the cave, broken only by an ethereal, pulsing green light emanating from deeper within, creating an otherworldly glow.",
+      "scene_visual": "The boy stands frozen inside the cave as a strange, echoing sound fills the air. A thin, shimmering green light slowly expands before his eyes, revealing strange, glowing designs on the cave walls.",
+      "supporting_char_keys": [],
+      "text_te_en": "Guhaloki Adugu Pettagaane, Raamudi Ontini Challati, Tadi Gaali Taakindi, Matti Vaasana Mukkuputaala Nindaa Nindipoyindi. Guhalopala Nundi Oka Vintaina, Pratidhvaninche Shabdam Vinipinchindi — Adi Raamudini Akkade Gaddakattelaa Chesindi. Antalone, Guha Lopala Nundi Oka Aakupachchani Kaanti Mellagaa Palchagaa Merustu, Raamudi Kalla Mundu Vistarinchindi. “Idemiti?” Ani Atanu Gontu Pegalaka, Gusagusalaadaadu. Aa Kaanti Kramangaa Perigindi, Guha Godalapai Vintaina, Merustunna Dijain‌Lanu Chupistu — Adi Andangaa, Ade Samayanlo Bhayankarangaa Undi.",
+      "text_en": "As soon as he stepped into the cave, a cold, damp air touched Ramudu's body, and the smell of earth filled his nostrils. From inside the cave, a strange, echoing sound was heard — it made Ramudu freeze on the spot. Just then, a faint green light slowly glowed from inside the cave, spreading before Ramudu's eyes. “What is this?” he whispered, his voice barely audible. The light gradually grew, revealing strange, glowing designs on the cave walls — it was beautiful, yet terrifying at the same time."
+    },
+    {
+      "id": 5,
+      "text": "అమ్మ ముఖం కళ్ళ ముందు మెరవగానే, రాముడు తన భయాన్ని పక్కకు నెట్టి, ఆ పచ్చటి కాంతి వైపు నెమ్మదిగా అడుగులు వేశాడు. అతని గుండె ఇంకా దడదడలాడుతోంది, కానీ వెనక్కి తగ్గలేదు. కాంతి పుట్టిన చోటికి చేరుకోగానే, అక్కడ ఒక అద్భుతమైన మూలిక మెరుస్తూ కనిపించింది, దాని నుండి మల్లెపూలు, ఉదయాన్నే కురిసిన మంచు సువాసన వెదజల్లుతోంది. “ఇదే... అద్భుతమైన మూలిక!” అని రాముడు ఊపిరి పీల్చుకుంటూ అన్నాడు. అతను ఆ మూలికను అందుకోగానే, గుహ గోడలు ఒక్కసారిగా మెరిసి, ఇంతకుముందు చూడని ఒక అందమైన రహస్య గదిని చూపించాయి — అద్భుతమైన దృశ్యం.",
+      "image_prompt": "The boy slowly steps towards the green light, his heart pounding, and reaches for a glowing herb. As his hand touches the herb, the cave walls shimmer, revealing a beautiful, previously unseen secret chamber. The cave is now softly illuminated by the gentle, steady glow of the herb in Ramu's hand, creating a magical, serene atmosphere amidst the darkness.",
+      "scene_visual": "The boy slowly steps towards the green light, his heart pounding, and reaches for a glowing herb. As his hand touches the herb, the cave walls shimmer, revealing a beautiful, previously unseen secret chamber.",
+      "supporting_char_keys": [],
+      "text_te_en": "Amma Mukham Kalla Mundu Meravagaane, Raamudu Tana Bhayaanni Pakkaku Netti, Aa Pachchati Kaanti Vaipu Nemmadigaa Adugulu Veshaadu. Atani Gunde Inkaa Dadadadalaadutondi, Kaani Venakki Taggaledu. Kaanti Puttina Chotiki Cherukogaane, Akkada Oka Adbhutamaina Mulika Merustu Kanipinchindi, Daani Nundi Mallepulu, Udayaanne Kurisina Manchu Suvaasana Vedajallutondi. “Ide... Adbhutamaina Mulika!” Ani Raamudu Upiri Pilchukuntu Annaadu. Atanu Aa Mulikanu Andukogaane, Guha Godalu Okkasaarigaa Merisi, Intakumundu Chudani Oka Andamaina Rahasya Gadini Chupinchaayi — Adbhutamaina Drrishyan.",
+      "text_en": "As his mother's face flashed before his eyes, Ramudu pushed his fear aside and slowly stepped towards the green light. His heart was still pounding, but he didn't back down. Reaching the source of the light, he saw a wondrous herb glowing there, emitting the fragrance of jasmine flowers and morning dew. “This is... the wondrous herb!” Ramudu said, taking a breath. As soon as he picked up the herb, the cave walls suddenly shimmered, revealing a beautiful secret chamber he had never seen before — a magnificent sight."
+    },
+    {
+      "id": 6,
+      "text": "ఆ గదిలోకి అడుగు పెట్టగానే, రాముడు ఆశ్చర్యంతో చుట్టూ చూశాడు, గుహ అందం అతని భయాన్ని దూరం చేసింది. నీటి బిందువులు పైనుండి జారిపడి, ఒక ప్రశాంతమైన సంగీతంలా వినిపిస్తున్నాయి, గుహలోపల ఎలాంటి రాక్షసులు లేరని అతనికి అప్పుడు అర్థమైంది. భయం కేవలం తన మనసులో మాత్రమే ఉందని, గుహ తన భయాన్ని మాత్రమే చూపించిందని తెలుసుకున్నాడు. “భయం కేవలం నా మనసులో మాత్రమే ఉంది!” అని రాముడు గట్టిగా అనుకున్నాడు, అతని ముఖం మీద ఒక చిన్న చిరునవ్వు మెరిసింది. ఆ క్షణం — అతను నిజమైన ధైర్యాన్ని కనుగొన్నాడు. మెరుస్తున్న మూలికను చేతిలో పట్టుకుని, సాయంత్రం మృదువైన వెలుగులో, రాముడు గుహ నుండి బయటపడ్డాడు, అతనిలో ఇక భయం లేదు.",
+      "image_prompt": "The boy emerges from the cave, holding the glowing herb in his hand. A small smile plays on his face in the soft evening light, reflecting his newfound courage. The inner chamber of the cave is bathed in a soft, diffused, iridescent light, as if from countless tiny crystals reflecting the herb's glow, creating a serene, almost sacred space.",
+      "scene_visual": "The boy emerges from the cave, holding the glowing herb in his hand. A small smile plays on his face in the soft evening light, reflecting his newfound courage.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Gadiloki Adugu Pettagaane, Raamudu Aashcharyanto Chuttu Chushaadu, Guha Andam Atani Bhayaanni Duram Chesindi. Niti Binduvulu Painundi Jaaripadi, Oka Prashaantamaina Sangitanlaa Vinipistunnaayi, Guhalopala Elaanti Raakshasulu Lerani Ataniki Appudu Arthamaindi. Bhayam Kevalam Tana Manasulo Maatrame Undani, Guha Tana Bhayaanni Maatrame Chupinchindani Telusukunnaadu. “Bhayam Kevalam Naa Manasulo Maatrame Undi!” Ani Raamudu Gattigaa Anukunnaadu, Atani Mukham Mida Oka Chinna Chirunavvu Merisindi. Aa Kshanam — Atanu Nijamaina Dhairyaanni Kanugonnaadu. Merustunna Mulikanu Chetilo Pattukuni, Saayantram Mrriduvaina Velugulo, Raamudu Guha Nundi Bayatapaddaadu, Atanilo Ika Bhayam Ledu.",
+      "text_en": "As he stepped into that chamber, Ramudu looked around in wonder; the beauty of the cave drove away his fear. Water droplets fell from above, sounding like peaceful music, and he then understood that there were no monsters inside the cave. He realized that fear was only in his mind, and the cave had only shown him his own fear. “Fear is only in my mind!” Ramudu thought firmly, a small smile sparkling on his face. In that moment — he found true courage. Holding the glowing herb in his hand, in the soft evening light, Ramudu emerged from the cave, no longer afraid."
+    },
+    {
+      "id": 7,
+      "text": "రాముడు గ్రామానికి తిరిగి రాగానే, అతని చేతిలోని మెరిసే మూలికను చూసి ప్రజలందరూ సంతోషంతో చప్పట్లు కొట్టారు. ఆ మూలికను అమ్మకు ఇవ్వగానే, ఆమె దానిని తాకగానే ఆమె ముఖం మీద తిరిగి రంగు వచ్చింది, జ్వరం తగ్గిపోయింది. అమ్మ కళ్ళు తెరిచి, రాముడిని చూసి, అతని చేతిని ప్రేమగా నిమిరింది, “నా వీరుడు వచ్చాడు!” అని బలహీనంగా, కానీ ప్రేమగా అంది. ఆ మాట వినగానే, గ్రామంలోని అందరి గుసగుసలు, సంతోషంతో కూడిన నిట్టూర్పులు వినిపించాయి, రాముడి గుండె ఆనందంతో నిండిపోయింది. ఆ రాత్రి, మల్లెలపల్లెలో శాంతి, సంతోషం తిరిగి వచ్చాయి, రాముడు తన అమ్మ పక్కన ప్రశాంతంగా నిద్రపోయాడు.",
+      "image_prompt": "The boy gives the glowing herb to his mother, who lies in bed. As she touches it, color returns to her face, and she weakly opens her eyes to gently caress the boy's hand. Gentle dusk light, warm amber hues casting long shadows across the village square and their hut, creating a peaceful and heartwarming scene of reunion.",
+      "scene_visual": "The boy gives the glowing herb to his mother, who lies in bed. As she touches it, color returns to her face, and she weakly opens her eyes to gently caress the boy's hand.",
+      "supporting_char_keys": [
+        "mother"
+      ],
+      "text_te_en": "Raamudu Graamaaniki Tirigi Raagaane, Atani Chetiloni Merise Mulikanu Chusi Prajalandaru Santoshanto Chappatlu Kottaaru. Aa Mulikanu Ammaku Ivvagaane, Aame Daanini Taakagaane Aame Mukham Mida Tirigi Rangu Vachchindi, Jvaram Taggipoyindi. Amma Kallu Terichi, Raamudini Chusi, Atani Chetini Premagaa Nimirindi, “Naa Virudu Vachchaadu!” Ani Balahinangaa, Kaani Premagaa Andi. Aa Maata Vinagaane, Graamanloni Andari Gusagusalu, Santoshanto Kudina Nitturpulu Vinipinchaayi, Raamudi Gunde Aanandanto Nindipoyindi. Aa Raatri, Mallelapallelo Shaanti, Santosham Tirigi Vachchaayi, Raamudu Tana Amma Pakkana Prashaantangaa Nidrapoyaadu.",
+      "text_en": "As Ramudu returned to the village, everyone clapped with joy upon seeing the glowing herb in his hand. As soon as he gave the herb to his mother, her face regained its color the moment she touched it, and her fever subsided. Mother opened her eyes, looked at Ramudu, and lovingly stroked his hand, saying weakly but with love, “My hero has come!” Hearing those words, whispers and joyful sighs spread among everyone in the village, and Ramudu's heart filled with happiness. That night, peace and happiness returned to Mallelapalle, and Ramudu slept peacefully beside his mother."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "mother",
+      "description": "A kind-faced woman in her thirties with dark, braided hair and strong, calloused hands, always dressed in a simple, well-worn cotton saree of earthy tones. She is gentle but resilient, and her deep love for her son is evident in every glance. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story is a strong contender, boasting an excellent narrative arc and flawless colloquial Telugu that perfectly embodies the warmth of a grandmother's tale. Ramu's emotional journey is largely well-depicted, making it engaging for young listeners. To elevate it to an award-winning piece, the dialogue richness needs attention; while present, it could be more varied and character-specific to further advance the plot and deepen character portrayal beyond functional exchanges."
+  },
+  "title_te_en": "Raamudi Bhayam Gelichina Saahasam",
+  "moral_te_en": "Manasulo Prema Unnappudu, E Bhayaannainaa Jayinchi Adbhutaalu Cheyagalan, Telusaa Naa Chitti Bangaaru Kondalaa?",
+  "title_en": "Ramudu's Brave Adventure Overcoming Fear",
+  "moral_en": "When there is love in your heart, you can conquer any fear and do amazing things, do you know that, my little golden treasure?",
+  "id": "20260612_230957",
+  "date": "2026-06-12",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "తన తల్లి కోసం భయాన్ని జయించిన బాల వీరుడు మరియు మాయా గుహ రహస్యం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260612_230957/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
