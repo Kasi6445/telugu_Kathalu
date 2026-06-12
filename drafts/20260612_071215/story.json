@@ -1,0 +1,108 @@
+{
+  "title": "సొంత దారిలో చుక్క ప్రయాణం",
+  "moral": "కష్టాలొచ్చినప్పుడు మనల్ని మనం నమ్ముకుంటే, ఎంత పెద్ద సవాలునైనా దాటగలం, మనకంటూ ఒక దారిని వెతుక్కోగలం.",
+  "main_character": "చిట్టి చుక్క (Chitti Chukka), a small, light brown fawn with large, curious eyes and wobbly legs. She has three distinctive white spots on her left flank. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant, green forest near the Godavari river in Andhra Pradesh, filled with tall teak trees, flowering shrubs, and winding streams. The air is always warm and humid. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి నది పక్కన పచ్చని అడవిలో, చిన్న చుక్క తన అమ్మ వెనకాలే నడుస్తోంది — చెవులు అటూ ఇటూ తిప్పుతూ, కళ్ళు విశాలంగా తెరుచుకుని ప్రతి చిన్న విషయాన్నీ గమనిస్తోంది. తన చిన్న డెక్కలు మెత్తని, తడి నేల మీద మెల్లిగా అణగిపోతున్నాయి, తోక మెల్లగా ఊగుతోంది. పక్కనే పూల మొక్కను చూసి, చుక్క ఉత్సాహంగా, \"అమ్మా, ఆ పువ్వు ఎంత అందంగా ఉంది!\" అని అంది. అమ్మ ఒక ఆకును తింటుంటే, చుక్క కూడా దాన్ని అందుకోవాలని తన మెడను పైకి చాచింది. అది చాలా ఎత్తులో ఉంది!",
+      "image_prompt": "The young one stretches its neck upwards, attempting to reach a leaf its mother is eating. Its small hooves gently press into the soft, wet ground as it strains to reach the high leaf. Bright, dappled sunlight filtering through a dense canopy, creating shifting patterns of light and shadow on the forest floor, warm and inviting.",
+      "scene_visual": "The young one stretches its neck upwards, attempting to reach a leaf its mother is eating. Its small hooves gently press into the soft, wet ground as it strains to reach the high leaf.",
+      "supporting_char_keys": [
+        "mother_deer"
+      ],
+      "text_te_en": "Godaavari Nadi Pakkana Pachchani Adavilo, Chinna Chukka Tana Amma Venakaale Nadustondi — Chevulu Atu Itu Tipputu, Kallu Vishaalangaa Teruchukuni Prati Chinna Vishayaanni Gamanistondi. Tana Chinna Dekkalu Mettani, Tadi Nela Mida Melligaa Anagipotunnaayi, Toka Mellagaa Ugutondi. Pakkane Pula Mokkanu Chusi, Chukka Utsaahangaa, \"Ammaa, Aa Puvvu Enta Andangaa Undi!\" Ani Andi. Amma Oka Aakunu Tintunte, Chukka Kudaa Daanni Andukovaalani Tana Medanu Paiki Chaachindi. Adi Chaalaa Ettulo Undi!",
+      "text_en": "In a lush green forest by the Godavari River, little Chukka was walking right behind her mother — her ears twitching this way and that, her eyes wide open, noticing every little thing. Her tiny hooves gently pressed into the soft, damp ground, and her tail swayed slowly. Seeing a flowering plant nearby, Chukka excitedly said, \"Mommy, how beautiful that flower is!\" As her mother ate a leaf, Chukka also stretched her neck up to reach it. It was too high!"
+    },
+    {
+      "id": 2,
+      "text": "అమ్మ తిన్న ఆకును అందుకోలేక, చుక్క చిన్నగా నిట్టూర్చింది, తన ఆహారం తనే వెతుక్కోవడానికి ఇంకా చాలా నేర్చుకోవాలని అర్థమైంది. మెల్లగా, అమ్మ తన ముక్కుతో ఒక లేత ఆకు వైపు తట్టి, \"చుక్కా, ఆకు వాసన చూడు, అప్పుడు తిను\" అని గుసగుసలాడింది. చుక్క తన అమ్మ చెప్పినట్లుగా, ఆ తడి నేల, మల్లెపూల సువాసనల మధ్య ఆకును వాసన చూసి, జాగ్రత్తగా తినడం నేర్చుకుంది. ఇంతలో — ఒక్కసారిగా — అడవి నిశ్శబ్దమైపోయింది. దూరం నుండి ఒక పెద్ద జంతువు గర్జన వినిపించగానే, రెండూ ఒకేసారి గట్టిగా నిలబడిపోయాయి.",
+      "image_prompt": "The young one and its mother suddenly freeze in place, standing rigid. The forest around them has fallen silent, amplifying the distant roar. Mid-morning sun, slightly brighter and hotter, casting longer shadows as the forest grows quiet and tense.",
+      "scene_visual": "The young one and its mother suddenly freeze in place, standing rigid. The forest around them has fallen silent, amplifying the distant roar.",
+      "supporting_char_keys": [
+        "mother_deer"
+      ],
+      "text_te_en": "Amma Tinna Aakunu Andukoleka, Chukka Chinnagaa Nitturchindi, Tana Aahaaram Tane Vetukkovadaaniki Inkaa Chaalaa Nerchukovaalani Arthamaindi. Mellagaa, Amma Tana Mukkuto Oka Leta Aaku Vaipu Tatti, \"Chukkaa, Aaku Vaasana Chudu, Appudu Tinu\" Ani Gusagusalaadindi. Chukka Tana Amma Cheppinatlugaa, Aa Tadi Nela, Mallepula Suvaasanala Madhya Aakunu Vaasana Chusi, Jaagrattagaa Tinadam Nerchukundi. Intalo — Okkasaarigaa — Adavi Nishshabdamaipoyindi. Duram Nundi Oka Pedda Jantuvu Garjana Vinipinchagaane, Rendu Okesaari Gattigaa Nilabadipoyaayi.",
+      "text_en": "Unable to reach the leaf her mother ate, Chukka sighed softly, realizing she still had much to learn about finding her own food. Gently, her mother nudged a tender leaf with her nose and whispered, \"Chukka, smell the leaf, then eat it.\" Chukka, just as her mother taught, sniffed the leaf amidst the damp earth and jasmine scents, and carefully learned to eat it. Just then — all at once — the forest fell silent. As a loud roar from a large animal echoed from a distance, both of them froze stiff."
+    },
+    {
+      "id": 3,
+      "text": "ఆ గర్జన వినిపించగానే, చుక్క అమ్మ నుండి దూరమై, అడవి మధ్యలో ఒంటరిగా నిలబడిపోయింది. ఆమె శరీరం గట్టిపడిపోయింది, గుండె వేగంగా కొట్టుకుంటూ ఉంది, కళ్ళు అటూ ఇటూ భయంతో చూస్తున్నాయి. ఆ చప్పుడు — తన గుండె చప్పుడు కంటే బిగ్గరగా వినిపించింది. \"అమ్మా! నువ్వు ఎక్కడ ఉన్నావు?\" అని చిన్నగా, భయంతో గుసగుసలాడింది. పక్కనే పొదల్లో నుండి ఏదో శబ్దం వినిపించగానే, చుక్క వెంటనే ఒక చెట్టుకు అంటుకుని, ఊపిరి బిగబట్టి నిలబడింది... తన ప్రాణం అరచేతిలో పెట్టుకుని.",
+      "image_prompt": "The young one presses itself tightly against a tree, holding its breath. Its eyes dart around fearfully, and its body is rigid with terror. The sun is now high, but dense tree cover makes the forest floor dim and shadowy, creating an oppressive, isolating atmosphere.",
+      "scene_visual": "The young one presses itself tightly against a tree, holding its breath. Its eyes dart around fearfully, and its body is rigid with terror.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Garjana Vinipinchagaane, Chukka Amma Nundi Duramai, Adavi Madhyalo Ontarigaa Nilabadipoyindi. Aame Shariram Gattipadipoyindi, Gunde Vegangaa Kottukuntu Undi, Kallu Atu Itu Bhayanto Chustunnaayi. Aa Chappudu — Tana Gunde Chappudu Kante Biggaragaa Vinipinchindi. \"Ammaa! Nuvvu Ekkada Unnaavu?\" Ani Chinnagaa, Bhayanto Gusagusalaadindi. Pakkane Podallo Nundi Edo Shabdam Vinipinchagaane, Chukka Ventane Oka Chettuku Antukuni, Upiri Bigabatti Nilabadindi... Tana Praanam Arachetilo Pettukuni.",
+      "text_en": "As the roar sounded, Chukka was separated from her mother, left standing alone in the middle of the forest. Her body stiffened, her heart pounded fast, and her eyes darted around in fear. The sound — it seemed louder than her own heartbeat. \"Mommy! Where are you?\" she whispered softly, fearfully. As a sound came from the bushes nearby, Chukka immediately pressed herself against a tree, holding her breath... her life hanging by a thread."
+    },
+    {
+      "id": 4,
+      "text": "ఆకలి బాధ పెడుతుంటే, చుక్క తన అమ్మ నేర్పిన పాఠాలను గుర్తు చేసుకుంది. తన ముక్కును మెల్లిగా కదిలిస్తూ, చుట్టూ ఉన్న మొక్కలను వాసన చూసింది — వాటిలో ఏది తినడానికి సురక్షితమైనదో తెలుసుకోవాలని. తన చిన్న ముక్కు జాగ్రత్తగా ఒక బెర్రీ మొక్క దగ్గరకు వెళ్ళింది, \"ఇది సురక్షితంగా ఉండాలి... అమ్మ చెప్పినట్లు\" అని తనే అనుకుంది. మెల్లిగా, ఒక చిన్న బెర్రీని కొరికింది — అది కొద్దిగా చేదుగా ఉన్నా, తాజాగా అనిపించింది. మొట్టమొదటిసారిగా — తను సొంతంగా వేటాడింది. ఆ తరువాత, దూరంలో ఒక మెరిసే నీటి ప్రవాహం కనిపించింది, కానీ అది చాలా వెడల్పుగా, వేగంగా ప్రవహిస్తోంది.",
+      "image_prompt": "The young one cautiously bites into a small berry from a plant. Its small snout carefully approaches the berry, and its expression shows a mix of hesitation and determination. Patches of sunlight break through the canopy, illuminating specific leaves and berries, giving a sense of focused attention and cautious hope.",
+      "scene_visual": "The young one cautiously bites into a small berry from a plant. Its small snout carefully approaches the berry, and its expression shows a mix of hesitation and determination.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aakali Baadha Pedutunte, Chukka Tana Amma Nerpina Paathaalanu Gurtu Chesukundi. Tana Mukkunu Melligaa Kadilistu, Chuttu Unna Mokkalanu Vaasana Chusindi — Vaatilo Edi Tinadaaniki Surakshitamainado Telusukovaalani. Tana Chinna Mukku Jaagrattagaa Oka Berri Mokka Daggaraku Vellindi, \"Idi Surakshitangaa Undaali... Amma Cheppinatlu\" Ani Tane Anukundi. Melligaa, Oka Chinna Berrini Korikindi — Adi Koddigaa Chedugaa Unnaa, Taajaagaa Anipinchindi. Mottamodatisaarigaa — Tanu Sontangaa Vetaadindi. Aa Taruvaata, Duranlo Oka Merise Niti Pravaaham Kanipinchindi, Kaani Adi Chaalaa Vedalpugaa, Vegangaa Pravahistondi.",
+      "text_en": "As hunger gnawed at her, Chukka remembered the lessons her mother had taught her. Gently moving her nose, she sniffed the plants around her — trying to figure out which ones were safe to eat. Her tiny nose carefully approached a berry plant, \"This should be safe... just like Mommy said,\" she thought to herself. Slowly, she nibbled a small berry — even though it was a little bitter, it felt fresh. For the very first time — she had foraged on her own. After that, a sparkling stream of water appeared in the distance, but it was very wide and flowing fast."
+    },
+    {
+      "id": 5,
+      "text": "చుక్క గుండె ధైర్యం చేసుకుని, ఆ వేగంగా ప్రవహిస్తున్న చిన్న వాగు వైపు చూసింది. తన కండరాలు గట్టిపడ్డాయి, ఊపిరి బిగబట్టింది — ఇది చాలా పెద్ద అడుగు అని ఆమెకు తెలుసు. ఒక్క దూకు — అదంతా మారిపోయింది. తను గాలిలో ఎగిరింది, నీటి తుంపరలు తన ముఖాన్ని తడిపాయి, ఆ చల్లదనం ఒక క్షణం పాటు భయాన్ని మరిపించింది. అవతలి ఒడ్డున అడ్డదిడ్డంగా దిగినా, ఆమె సురక్షితంగా ఉంది. చుక్క తన తలను గర్వంగా విదిలించింది, \"నేను చేశాను!\" అని తనే అనుకుంది. వాగు దాటిన తర్వాత, ఒక చీకటి, మెలికలు తిరిగిన దారి అడవి లోపలికి వెళ్తున్నట్లు కనిపించింది.",
+      "image_prompt": "The young one leaps across a fast-flowing stream, suspended in mid-air. Water droplets splash against its face, and its muscles are tensed with effort. Bright, clear afternoon sun glinting off the water, making the stream sparkle, highlighting Chukka's courageous leap.",
+      "scene_visual": "The young one leaps across a fast-flowing stream, suspended in mid-air. Water droplets splash against its face, and its muscles are tensed with effort.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chukka Gunde Dhairyam Chesukuni, Aa Vegangaa Pravahistunna Chinna Vaagu Vaipu Chusindi. Tana Kandaraalu Gattipaddaayi, Upiri Bigabattindi — Idi Chaalaa Pedda Adugu Ani Aameku Telusu. Okka Duku — Adantaa Maaripoyindi. Tanu Gaalilo Egirindi, Niti Tumparalu Tana Mukhaanni Tadipaayi, Aa Challadanam Oka Kshanam Paatu Bhayaanni Maripinchindi. Avatali Odduna Addadiddangaa Diginaa, Aame Surakshitangaa Undi. Chukka Tana Talanu Garvangaa Vidilinchindi, \"Nenu Cheshaanu!\" Ani Tane Anukundi. Vaagu Daatina Tarvaata, Oka Chikati, Melikalu Tirigina Daari Adavi Lopaliki Veltunnatlu Kanipinchindi.",
+      "text_en": "Chukka gathered her courage and looked at the fast-flowing stream. Her muscles tensed, and she held her breath — she knew this was a very big leap. One jump — and everything changed. She soared through the air, water droplets splashed her face, and the coolness made her forget her fear for a moment. Even though she landed awkwardly on the other side, she was safe. Chukka proudly shook her head, \"I did it!\" she thought to herself. After crossing the stream, a dark, winding path seemed to lead deeper into the forest."
+    },
+    {
+      "id": 6,
+      "text": "ఆ దట్టమైన పొదల మధ్య, చుక్కకు దారి స్పష్టంగా కనిపించలేదు, కానీ ఆమె తన తెలివైన చెవులను అటూ ఇటూ తిప్పింది, తన ముక్కుతో గాలిని వాసన చూసింది — అమ్మ నేర్పిన గుర్తులను వెతుకుతూ. అడుగు కింద తడి పాచి, కుళ్ళిన ఆకుల వాసన స్పష్టంగా వినిపించింది, అది తనకు ఒక మార్గాన్ని చూపించింది. \"ఈ మార్గం అమ్మ నాకు చూపించింది!\" అని తనే అనుకుంటూ, ఆమె నిలకడగా, ప్రయోజనాత్మకంగా ముందుకు నడిచింది. ఆ మార్గం — తనకి కొత్త ఆశను చూపించింది. చివరకు, చుక్క ఒక చిన్న, ప్రశాంతమైన ప్రదేశంలోకి చేరుకుంది, అక్కడ సాయంత్రపు ఆకాశం ఒక నీటి గుంటలో ప్రతిబింబిస్తోంది.",
+      "image_prompt": "The young one moves steadily forward, turning its ears and sniffing the air to find its way. The scent of wet moss and decaying leaves underfoot guides its path through the dense bushes. Late afternoon sun, casting long, golden rays through the dense trees, illuminating dust motes in the air, creating an ethereal, almost magical path.",
+      "scene_visual": "The young one moves steadily forward, turning its ears and sniffing the air to find its way. The scent of wet moss and decaying leaves underfoot guides its path through the dense bushes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Dattamaina Podala Madhya, Chukkaku Daari Spashtangaa Kanipinchaledu, Kaani Aame Tana Telivaina Chevulanu Atu Itu Tippindi, Tana Mukkuto Gaalini Vaasana Chusindi — Amma Nerpina Gurtulanu Vetukutu. Adugu Kinda Tadi Paachi, Kullina Aakula Vaasana Spashtangaa Vinipinchindi, Adi Tanaku Oka Maargaanni Chupinchindi. \"I Maargam Amma Naaku Chupinchindi!\" Ani Tane Anukuntu, Aame Nilakadagaa, Prayojanaatmakangaa Munduku Nadichindi. Aa Maargam — Tanaki Kotta Aashanu Chupinchindi. Chivaraku, Chukka Oka Chinna, Prashaantamaina Pradeshanloki Cherukundi, Akkada Saayantrapu Aakaasham Oka Niti Guntalo Pratibimbistondi.",
+      "text_en": "Amidst the dense bushes, Chukka couldn't clearly see the path, but she twitched her clever ears this way and that, sniffing the air with her nose — searching for the signs her mother had taught her. The scent of damp moss and decaying leaves beneath her hooves was clear, showing her a way. \"This path is what Mommy showed me!\" she thought to herself, and she walked forward steadily and purposefully. That path — it showed her new hope. Finally, Chukka reached a small, peaceful clearing, where the evening sky reflected in a water puddle."
+    },
+    {
+      "id": 7,
+      "text": "ఆ ప్రశాంతమైన ప్రదేశంలో, చుక్క ఇప్పుడు చాలా బలంగా, నమ్మకంగా గడ్డి మేస్తోంది. ఆమె కదలికలు నిదానంగా, ద్రవంగా ఉన్నాయి, శరీరం విశ్రాంతిగా ఉంది, కళ్ళల్లో ఒక నిశ్శబ్దమైన గర్వం మెరిసింది. సాయంత్రపు చల్లని గాలి ఆకులు గుండా మెల్లిగా వెళ్తుంటే, ఒక మృదువైన శబ్దం వినిపించింది. ఇక ఎవరూ తనను చూసుకోవాల్సిన అవసరం లేదు — తనే తన దారి. ఆ చిన్నారి చుక్క, ఇప్పుడు అడవిలో పూర్తిగా సొంతంగా, సంతోషంగా జీవిస్తోంది.",
+      "image_prompt": "The young one grazes calmly and confidently in a peaceful clearing. Its movements are slow and fluid, and a quiet pride shines in its relaxed eyes. Gentle dusk light, warm amber and fading pinks in the sky, reflecting softly on the still pool, creating a serene and peaceful atmosphere.",
+      "scene_visual": "The young one grazes calmly and confidently in a peaceful clearing. Its movements are slow and fluid, and a quiet pride shines in its relaxed eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Prashaantamaina Pradeshanlo, Chukka Ippudu Chaalaa Balangaa, Nammakangaa Gaddi Mestondi. Aame Kadalikalu Nidaanangaa, Dravangaa Unnaayi, Shariram Vishraantigaa Undi, Kallallo Oka Nishshabdamaina Garvam Merisindi. Saayantrapu Challani Gaali Aakulu Gundaa Melligaa Veltunte, Oka Mrriduvaina Shabdam Vinipinchindi. Ika Evaru Tananu Chusukovaalsina Avasaram Ledu — Tane Tana Daari. Aa Chinnaari Chukka, Ippudu Adavilo Purtigaa Sontangaa, Santoshangaa Jivistondi.",
+      "text_en": "In that peaceful place, Chukka was now grazing strongly and confidently. Her movements were slow and fluid, her body relaxed, and a quiet pride shone in her eyes. As the cool evening breeze gently rustled through the leaves, a soft sound was heard. No one needed to look after her anymore — she was her own path. Little Chukka was now living completely on her own, happily, in the forest."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "mother_deer",
+      "description": "A graceful, dark brown doe with watchful, intelligent eyes and long, slender legs. She moves with quiet confidence. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.833333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 7.83,
+    "weakest_dimension": "emotional_depth",
+    "notes": "The story boasts flawless grammar and a compelling narrative arc that effectively builds tension and resolves naturally. Its strong suspense hooks and moments of wonder ensure high child engagement. However, to elevate it to award-worthy status, significant work is needed to enrich the dialogue, giving characters more distinct voices and interactions. Additionally, the narrative would benefit from showing emotions entirely through action rather than stating them directly, and maintaining a consistent, warm oral tone throughout, especially by allowing the moral to emerge solely from the events."
+  },
+  "quality_warning": true,
+  "title_te_en": "Sonta Daarilo Chukka Prayaanam",
+  "moral_te_en": "Kashtaalochchinappudu Manalni Manam Nammukunte, Enta Pedda Savaalunainaa Daatagalan, Manakantu Oka Daarini Vetukkogalan.",
+  "title_en": "Chukka's Journey on Her Own Path",
+  "moral_en": "When difficulties arise, if we believe in ourselves, we can overcome any challenge and find our own path.",
+  "id": "20260612_071215",
+  "date": "2026-06-12",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "సొంతంగా ఎదిగిన చిట్టి లేడి పిల్ల",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260612_071215/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
