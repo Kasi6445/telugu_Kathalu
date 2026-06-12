@@ -1,0 +1,105 @@
+{
+  "title": "మాయా పండు, చిట్టి తెలివి",
+  "moral": "మనసులో మంచి ఆలోచన, తెలివైన పని కలిస్తే, ఏదైనా సాధ్యమే.",
+  "main_character": "Varun, an 8-year-old boy, is slender and quick-footed, with bright, curious eyes that miss nothing. His younger sister, Priya, 7, is equally observant, often quiet but with a sharp mind and a gentle smile. They are inseparable and solve problems together. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, traditional Telugu village nestled beside a lush green forest, with mud-brick houses and a central communal well. The air is typically warm and humid, often filled with the sounds of village life and forest birds. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ప్రియాతో కలిసి వరుణ్ ఊరి నడిబొడ్డున ఉన్న బావి దగ్గర ఆడుకుంటున్నాడు. ఎప్పటిలాగే బావిలో నీళ్ళు చూస్తుంటే, ఏదో తేడా అనిపించింది. బావి లోపలి నుండి వచ్చే ఆ మట్టి వాసన – పొడిబారిన నేల నుండి వస్తున్నట్లుంది. వరుణ్ చెయ్యి చాచి బావి గోడలు తడిమి చూశాడు, మట్టి రాళ్ళు వేడిగా, పొడిగా ఉన్నాయి. \"అక్కా, బావిలో నీళ్ళు తగ్గిపోతున్నాయి కదా?\" అని వరుణ్ ప్రియాతో గుసగుసలాడాడు. ప్రియ తల ఊపింది — ఆమె చూపులు బావిలోతుల్లోకి దూసుకుపోతున్నాయి.",
+      "image_prompt": "The boy reaches out and touches the inner walls of the well. His hand feels the hot, dry mud bricks, while the girl gazes intently into the well's depths. Bright, clear morning sun, casting sharp shadows from the well's stone rim, warm golden light on the children's faces.",
+      "scene_visual": "The boy reaches out and touches the inner walls of the well. His hand feels the hot, dry mud bricks, while the girl gazes intently into the well's depths.",
+      "supporting_char_keys": [],
+      "text_te_en": "Priyaato Kalisi Varun Uri Nadibodduna Unna Baavi Daggara Aadukuntunnaadu. Eppatilaage Baavilo Nillu Chustunte, Edo Tedaa Anipinchindi. Baavi Lopali Nundi Vachche Aa Matti Vaasana – Podibaarina Nela Nundi Vastunnatlundi. Varun Cheyyi Chaachi Baavi Godalu Tadimi Chushaadu, Matti Raallu Vedigaa, Podigaa Unnaayi. \"Akkaa, Baavilo Nillu Taggipotunnaayi Kadaa?\" Ani Varun Priyaato Gusagusalaadaadu. Priya Tala Upindi — Aame Chupulu Baavilotulloki Dusukupotunnaayi.",
+      "text_en": "Varun was playing with Priya near the well in the middle of the village. As usual, when he looked at the water in the well, something felt different. The earthy smell coming from inside the well seemed to be from dry ground. Varun reached out his hand and touched the well walls; the muddy stones were hot and dry. \"Sister, the water in the well is going down, isn't it?\" Varun whispered to Priya. Priya nodded — her gaze was fixed deep inside the well."
+    },
+    {
+      "id": 2,
+      "text": "ప్రియ మనసులో బావి గురించే ఆలోచిస్తూ ఇంటికి రాగానే, అజ్జి వాళ్ళని దగ్గరకు తీసుకుంది. అజ్జి ఇంట్లో గుప్పున కమ్మని ధూపం వాసన ఆకలిని పెంచుతోంది. ఆమె కళ్ళల్లో ఒక మెరుపుతో పాత కథ చెప్పడం మొదలుపెట్టింది. \"దూరంగా ఉన్న అడవిలో ఒక మాయా పండు చెట్టు ఉంది, దాని పండు కోరికలు తీరుస్తుంది,\" అని అజ్జి నెమ్మదిగా చెప్పింది. \"ఆ మాయా పండును తెలివిగా, మంచి మనసుతో వాడితే అద్భుతాలు జరుగుతాయి.\" వరుణ్, ప్రియా కళ్ళు పెద్దవి చేసుకుని ఒకరినొకరు చూసుకున్నారు — వారి చిన్న మనసుల్లో ఆ కథ నిండిపోయింది.",
+      "image_prompt": "The boy and girl look at each other with wide eyes as the old woman tells a story. A spark of excitement is visible in the old woman's eyes as she speaks. Soft, diffused light filtering through a small window into Ajji's dimly lit hut, creating a cozy, storytelling atmosphere, with dust motes dancing in the gentle beams.",
+      "scene_visual": "The boy and girl look at each other with wide eyes as the old woman tells a story. A spark of excitement is visible in the old woman's eyes as she speaks.",
+      "supporting_char_keys": [
+        "ajji"
+      ],
+      "text_te_en": "Priya Manasulo Baavi Gurinche Aalochistu Intiki Raagaane, Ajji Vaallani Daggaraku Tisukundi. Ajji Intlo Guppuna Kammani Dhupam Vaasana Aakalini Penchutondi. Aame Kallallo Oka Meruputo Paata Katha Cheppadam Modalupettindi. \"Durangaa Unna Adavilo Oka Maayaa Pandu Chettu Undi, Daani Pandu Korikalu Tirustundi,\" Ani Ajji Nemmadigaa Cheppindi. \"Aa Maayaa Pandunu Telivigaa, Manchi Manasuto Vaadite Adbhutaalu Jarugutaayi.\" Varun, Priyaa Kallu Peddavi Chesukuni Okarinokaru Chusukunnaaru — Vaari Chinna Manasullo Aa Katha Nindipoyindi.",
+      "text_en": "As Priya came home, still thinking about the well, Ajji hugged them close. The sweet smell of incense in Ajji's house made them feel hungry. With a sparkle in her eyes, she began to tell an old story. \"Far away in the forest, there is a magic fruit tree, and its fruit grants wishes,\" Ajji said softly. \"If that magic fruit is used wisely and with a good heart, wonders will happen.\" Varun and Priya's eyes widened as they looked at each other — the story filled their young minds."
+    },
+    {
+      "id": 3,
+      "text": "ఆ రాత్రి అంతా అజ్జి చెప్పిన కథ వరుణ్, ప్రియా మనసుల్లోనే మెదులుతోంది. మరుసటి రోజు ఉదయానికి, ఊరి బావి పూర్తిగా ఎండిపోయిందన్న వార్త పిడుగుపాటులా వినిపించింది. బావిలోకి విసిరిన బొక్కెన — బోలుగా, గట్టిగా అడుగున తాకింది. \"బావిలో ఒక్క చుక్క నీరు కూడా లేదు! ఏం చేయాలి?\" అని అందరూ ఆందోళనగా అరుస్తున్నారు. వరుణ్, ప్రియా ఒకరినొకరు చూసుకున్నారు — వారి కళ్ళల్లో ఆందోళనతో పాటు ఒక ప్రణాళిక మెరిసింది. వరుణ్ ప్రియా చెయ్యి పట్టుకున్నాడు — అడవి వైపు అడుగులు వేయడానికి సిద్ధంగా.",
+      "image_prompt": "The boy takes the girl's hand, and they look at each other with a determined expression. A plan gleams in their eyes as they prepare to walk towards the forest. Harsh, late morning sun beating down on the parched village square, casting long, stark shadows, emphasizing the dryness and despair.",
+      "scene_visual": "The boy takes the girl's hand, and they look at each other with a determined expression. A plan gleams in their eyes as they prepare to walk towards the forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raatri Antaa Ajji Cheppina Katha Varun, Priyaa Manasullone Medulutondi. Marusati Roju Udayaaniki, Uri Baavi Purtigaa Endipoyindanna Vaarta Pidugupaatulaa Vinipinchindi. Baaviloki Visirina Bokkena — Bolugaa, Gattigaa Aduguna Taakindi. \"Baavilo Okka Chukka Niru Kudaa Ledu! Em Cheyaali?\" Ani Andaru Aandolanagaa Arustunnaaru. Varun, Priyaa Okarinokaru Chusukunnaaru — Vaari Kallallo Aandolanato Paatu Oka Pranaalika Merisindi. Varun Priyaa Cheyyi Pattukunnaadu — Adavi Vaipu Adugulu Veyadaaniki Siddhangaa.",
+      "text_en": "All that night, Ajji's story kept playing in Varun and Priya's minds. By the next morning, the news that the village well had completely dried up struck like lightning. The bucket thrown into the well hit the bottom with a hollow, hard sound. \"There's not a single drop of water in the well! What should we do?\" everyone cried out anxiously. Varun and Priya looked at each other — a plan sparkled in their eyes along with their worry. Varun took Priya's hand — ready to take steps towards the forest."
+    },
+    {
+      "id": 4,
+      "text": "వరుణ్ ప్రియా చెయ్యి పట్టుకుని, అడవి లోపలికి సాహసంగా అడుగులు వేశారు. అజ్జి చెప్పిన దారి కోసం చూపులు తిప్పుతూ, చిన్న చిన్న ఆనవాళ్ళను కనిపెట్టారు. ఒక చిన్న వాగు అడ్డు రాగా, వరుణ్ తెలివిగా రాళ్లను వరుసగా పేర్చి, ప్రియా సహాయంతో అటువైపు వెళ్ళాడు — వారి పాదాల కింద నాచు చల్లగా తాకింది. \"అదుగో, అటువైపు దారి ఉంది!\" అని వరుణ్ సంతోషంగా ప్రియాకు చూపించాడు. కలిసి కష్టపడి, తీగలను తప్పించుకుంటూ లోపలికి వెళ్లారు. అప్పుడది — ఒక వింత కాంతితో మెరిసే ప్రదేశం.",
+      "image_prompt": "The boy carefully places stones to form a path across a small stream, helping the girl cross. Cool moss brushes against their feet as they step onto the other side. Dappled sunlight filtering through thick canopy, creating patches of bright green and deep shadow, a sense of adventure and mystery.",
+      "scene_visual": "The boy carefully places stones to form a path across a small stream, helping the girl cross. Cool moss brushes against their feet as they step onto the other side.",
+      "supporting_char_keys": [],
+      "text_te_en": "Varun Priyaa Cheyyi Pattukuni, Adavi Lopaliki Saahasangaa Adugulu Veshaaru. Ajji Cheppina Daari Kosam Chupulu Tipputu, Chinna Chinna Aanavaallanu Kanipettaaru. Oka Chinna Vaagu Addu Raagaa, Varun Telivigaa Raallanu Varusagaa Perchi, Priyaa Sahaayanto Atuvaipu Vellaadu — Vaari Paadaala Kinda Naachu Challagaa Taakindi. \"Adugo, Atuvaipu Daari Undi!\" Ani Varun Santoshangaa Priyaaku Chupinchaadu. Kalisi Kashtapadi, Tigalanu Tappinchukuntu Lopaliki Vellaaru. Appudadi — Oka Vinta Kaantito Merise Pradeshan.",
+      "text_en": "Varun held Priya's hand, and they bravely stepped deeper into the forest. They looked around for the path Ajji had described, finding small clues. When a small stream blocked their way, Varun cleverly arranged stones in a line and, with Priya's help, crossed to the other side — cool moss touched their feet. \"Look, the path is over there!\" Varun happily showed Priya. Working together, they pushed past vines and went further in. Then they saw it — a place glowing with a strange light."
+    },
+    {
+      "id": 5,
+      "text": "అడవి లోపల ఆ మెరిసే ప్రదేశంలో, వారు ఒక అద్భుతమైన చెట్టును చూశారు. ఆ చెట్టు కొమ్మల్లో ఒకే ఒక్క పండు — వెలుగులు విరజిమ్ముతూ, కమ్మని తీయని సువాసనతో నిండి ఉంది. దాని బెరడుపై ఒక చిక్కు ప్రశ్న చెక్కబడి ఉంది. \"ఈ పండును ఎలా అందుకోవాలి? ఇక్కడ ఒక పజిల్ ఉంది!\" అని ప్రియా ఆశ్చర్యంగా అంది. వరుణ్ ప్రియాతో కలిసి పజిల్‌ను పరిష్కరించాడు — వారి ముఖాలు సంతోషంతో వెలిగిపోయాయి. వరుణ్ ప్రియాను పైకి ఎత్తగా, ఆమె మెరిసే ఆ పండును సునాయాసంగా అందుకుంది.",
+      "image_prompt": "The boy lifts the girl high, and she easily reaches for the single glowing fruit on the tree branch. Their faces are lit up with joy as the fruit shimmers with light. A soft, internal glow emanating from the magical fruit itself, casting a gentle, warm light on the children's faces in the otherwise shaded forest clearing.",
+      "scene_visual": "The boy lifts the girl high, and she easily reaches for the single glowing fruit on the tree branch. Their faces are lit up with joy as the fruit shimmers with light.",
+      "supporting_char_keys": [],
+      "text_te_en": "Adavi Lopala Aa Merise Pradeshanlo, Vaaru Oka Adbhutamaina Chettunu Chushaaru. Aa Chettu Kommallo Oke Okka Pandu — Velugulu Virajimmutu, Kammani Tiyani Suvaasanato Nindi Undi. Daani Beradupai Oka Chikku Prashna Chekkabadi Undi. \"I Pandunu Elaa Andukovaali? Ikkada Oka Pajil Undi!\" Ani Priyaa Aashcharyangaa Andi. Varun Priyaato Kalisi Pajil‌Nu Parishkarinchaadu — Vaari Mukhaalu Santoshanto Veligipoyaayi. Varun Priyaanu Paiki Ettagaa, Aame Merise Aa Pandunu Sunaayaasangaa Andukundi.",
+      "text_en": "In that glowing place deep in the forest, they saw a wonderful tree. On its branches hung a single fruit — sparkling with light and filled with a sweet, delightful fragrance. A tricky question was carved into its bark. \"How do we get this fruit? There's a puzzle here!\" Priya exclaimed in surprise. Varun solved the puzzle with Priya — their faces lit up with joy. Varun lifted Priya up, and she easily reached the sparkling fruit."
+    },
+    {
+      "id": 6,
+      "text": "మెరిసే పండును చేతబట్టుకుని వరుణ్, ప్రియా తిరిగి గ్రామానికి వచ్చారు. ఊరిలో ఇంకా నీటి కోసం ఆందోళనగా ఉన్నవారిని చూసి వరుణ్ మనసులో ఏదో మెరుపు మెరిసింది. ప్రియా చేతిలోని పండు — మెల్లగా ఒక చిన్న హృదయంలా కొట్టుకుంటున్నట్లు మెరుస్తోంది. వరుణ్ కళ్ళు పెద్దవి చేసుకుని, \"ప్రియా, ఈ పండును తినకూడదు, దీని విత్తనాన్ని బావిలో నాటాలి!\" అని ఆనందంగా చెప్పాడు. ప్రియా తల ఊపింది — ఆమె కళ్ళల్లో కొత్త ఆశ కనిపించింది. ఆ మెరిసే పండును జాగ్రత్తగా పట్టుకుని, వారు బావి వైపు పరుగు తీశారు.",
+      "image_prompt": "The boy's eyes widen with realization, and he tells the girl to plant the fruit's seed in the well. The glowing fruit in the girl's hand pulses gently like a small heart as they run towards the well. The golden light of late afternoon, tinged with orange, illuminating the dusty paths and worried faces, contrasting with the fruit's ethereal glow.",
+      "scene_visual": "The boy's eyes widen with realization, and he tells the girl to plant the fruit's seed in the well. The glowing fruit in the girl's hand pulses gently like a small heart as they run towards the well.",
+      "supporting_char_keys": [],
+      "text_te_en": "Merise Pandunu Chetabattukuni Varun, Priyaa Tirigi Graamaaniki Vachchaaru. Urilo Inkaa Niti Kosam Aandolanagaa Unnavaarini Chusi Varun Manasulo Edo Merupu Merisindi. Priyaa Chetiloni Pandu — Mellagaa Oka Chinna Hrridayanlaa Kottukuntunnatlu Merustondi. Varun Kallu Peddavi Chesukuni, \"Priyaa, I Pandunu Tinakudadu, Dini Vittanaanni Baavilo Naataali!\" Ani Aanandangaa Cheppaadu. Priyaa Tala Upindi — Aame Kallallo Kotta Aasha Kanipinchindi. Aa Merise Pandunu Jaagrattagaa Pattukuni, Vaaru Baavi Vaipu Parugu Tishaaru.",
+      "text_en": "Holding the sparkling fruit, Varun and Priya returned to the village. Seeing the villagers still worried about water, a thought flashed in Varun's mind. The fruit in Priya's hand — glowed softly, as if beating like a tiny heart. Varun's eyes widened, and he happily said, \"Priya, we shouldn't eat this fruit, we must plant its seed in the well!\" Priya nodded — new hope shone in her eyes. Carefully holding the sparkling fruit, they ran towards the well."
+    },
+    {
+      "id": 7,
+      "text": "బావి వైపు పరుగున వచ్చి, వరుణ్, ప్రియా ఆ పండు విత్తనాన్ని బావిలోని ఎండిన మట్టిలో జాగ్రత్తగా నాటారు. ఒక్క క్షణం కూడా ఆగకుండా — మట్టిలోంచి ఒక చిన్న మొలక పైకి లేచింది. అంతలోనే బావి అడుగు నుంచి గలగల శబ్దం వినిపించింది. బావి రాళ్ళపై చల్లని నీళ్ళు చిందే శబ్దం — ఊరంతా వినిపించింది. \"నీళ్ళు! నీళ్ళు వస్తున్నాయి!\" అని వరుణ్, ప్రియా చేతులు పట్టుకుని సంతోషంతో అరిచారు. బావి నిండా స్వచ్ఛమైన నీరు నిండిపోయింది — ఊరంతా ఆనందంతో నిండిపోయింది.",
+      "image_prompt": "The boy and girl carefully plant the fruit's seed in the dry mud at the bottom of the well. Immediately, a small sprout emerges from the soil, and cool water begins to gush over the well's stones. The warm, gentle light of evening dusk, amber and soft, reflecting off the slowly filling well, creating a scene of peaceful triumph and community.",
+      "scene_visual": "The boy and girl carefully plant the fruit's seed in the dry mud at the bottom of the well. Immediately, a small sprout emerges from the soil, and cool water begins to gush over the well's stones.",
+      "supporting_char_keys": [],
+      "text_te_en": "Baavi Vaipu Paruguna Vachchi, Varun, Priyaa Aa Pandu Vittanaanni Baaviloni Endina Mattilo Jaagrattagaa Naataaru. Okka Kshanam Kudaa Aagakundaa — Mattilonchi Oka Chinna Molaka Paiki Lechindi. Antalone Baavi Adugu Nunchi Galagala Shabdam Vinipinchindi. Baavi Raallapai Challani Nillu Chinde Shabdam — Urantaa Vinipinchindi. \"Nillu! Nillu Vastunnaayi!\" Ani Varun, Priyaa Chetulu Pattukuni Santoshanto Arichaaru. Baavi Nindaa Svachchamaina Niru Nindipoyindi — Urantaa Aanandanto Nindipoyindi.",
+      "text_en": "Running to the well, Varun and Priya carefully planted the fruit's seed in the dry mud at the bottom of the well. Without a moment's delay — a tiny sprout emerged from the mud. Immediately, a gurgling sound was heard from the bottom of the well. The sound of cool water splashing against the well stones — was heard throughout the village. \"Water! Water is coming!\" Varun and Priya shouted joyfully, holding hands. The well filled with clear, fresh water — and the whole village was filled with happiness."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "ajji",
+      "description": "An elderly village grandmother, with a kind, wrinkled face, often wearing a simple white sari and spectacles perched on her nose. She is the village storyteller, her voice soft but filled with wisdom and old tales. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 9.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-crafted for its target audience. The narrative arc is compelling, building tension and resolving beautifully without being preachy. The use of showing rather than telling for emotions is consistently strong, and the dialogue is natural and character-specific. To reach a perfect 10 in all dimensions, consider adding a slightly more personal touch to Ajji's dialogue or interaction, perhaps a specific memory or a more direct encouragement to the children."
+  },
+  "title_te_en": "Maayaa Pandu, Chitti Telivi",
+  "moral_te_en": "Manasulo Manchi Aalochana, Telivaina Pani Kaliste, Edainaa Saadhyame.",
+  "title_en": "The Magic Fruit and Cleverness",
+  "moral_en": "When good thoughts and clever actions come together, anything is possible.",
+  "id": "20260612_151028",
+  "date": "2026-06-12",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "అద్భుత శక్తులు ఇచ్చే మాయా పండు మరియు తెలివైన పిల్లలు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260612_151028/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
