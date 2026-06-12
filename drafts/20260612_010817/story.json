@@ -1,0 +1,113 @@
+{
+  "title": "గద్ద, పాము నేస్తం",
+  "moral": "బలవంతులైనా, చిన్నవారైనా కలిసి పనిచేస్తేనే నిజమైన విజయం వస్తుంది, చూశావా?",
+  "main_character": "A large, majestic eagle with sharp talons and keen eyes, known for its powerful flight and hunting prowess. It is initially proud and confident in its own strength. Always the same character across every scene.",
+  "antagonist": "A cunning, reddish-brown fox with a bushy tail and sly, yellow eyes. It moves stealthily and is driven by hunger. Always the same character across every scene.",
+  "setting": "A rugged, rocky cliff face overlooking a lush green valley in the Telugu region of Andhra Pradesh, dotted with ancient banyan trees. The eagle's nest is perched precariously on a high ledge. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఎత్తైన బండరాళ్ళ మీద తన గూడు పెట్టుకున్న ఒక పెద్ద గద్ద ఆకాశంలో రెక్కలు విప్పుకుంది. అది తన బలమైన రెక్కలతో గాలిని చీల్చుకుంటూ, అడవిని పలకరిస్తూ ఎగిరింది. దాని తీక్షణమైన కళ్ళు కింద పచ్చని లోయను చూస్తూ, తన సామ్రాజ్యం ఎంత విశాలమైనదో తలుచుకున్నాయి. \"ఈ గూడు నా సామ్రాజ్యం!\" అని అది బిగ్గరగా అరిచింది, గాలి ఈల వేస్తున్నట్లు వినిపించింది. అది మెల్లిగా గూడు వైపు వాలింది — అక్కడ మూడు తెల్లని గుడ్లు నిద్రపోతున్నాయి.",
+      "image_prompt": "The large bird slowly descends towards its nest, where three eggs are resting. Its keen eyes look down at the three white eggs nestled in the high rock. Bright midday sun casting sharp shadows on the rugged cliff face, clear blue sky.",
+      "scene_visual": "The large bird slowly descends towards its nest, where three eggs are resting. Its keen eyes look down at the three white eggs nestled in the high rock.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ettaina Bandaraalla Mida Tana Gudu Pettukunna Oka Pedda Gadda Aakaashanlo Rekkalu Vippukundi. Adi Tana Balamaina Rekkalato Gaalini Chilchukuntu, Adavini Palakaristu Egirindi. Daani Tikshanamaina Kallu Kinda Pachchani Loyanu Chustu, Tana Saamraajyam Enta Vishaalamainado Taluchukunnaayi. \"I Gudu Naa Saamraajyan!\" Ani Adi Biggaragaa Arichindi, Gaali Ila Vestunnatlu Vinipinchindi. Adi Melligaa Gudu Vaipu Vaalindi — Akkada Mudu Tellani Gudlu Nidrapotunnaayi.",
+      "text_en": "High up on tall rocks, a big eagle had made its nest. It spread its mighty wings in the sky. It soared, cutting through the air with its strong wings, saying hello to the forest below. Its sharp eyes looked down at the green valley, thinking about how big its kingdom was. \"This nest is my kingdom!\" it screeched loudly, and the wind seemed to whistle along. Slowly, it landed near its nest — where three white eggs were quietly sleeping."
+    },
+    {
+      "id": 2,
+      "text": "గద్ద తన గుడ్లను చూసుకుంటూ ఉండగానే, కింద లోయలో ఒక జిత్తులమారి నక్క కదలిక కనిపించింది. దాని ఎర్రటి కళ్ళు కొండ అంచున ఉన్న గూడు వైపు చూస్తూ — ఒక వింత కాంతిని చిమ్మాయి. నక్క మెల్లిగా కొండ వైపు అడుగులేస్తూ, పొడి ఆకుల మీద నడుస్తుంటే 'క్రచ్ క్రచ్' మని శబ్దం వినిపించింది. అది తన పదునైన నాలుకను పెదవుల మీద తిప్పుకుంటూ, గుడ్ల వైపు ఆశగా చూసింది. \"ఆ గుడ్లు రుచికరంగా ఉంటాయి!\" అని అది తనలో తాను అనుకుంటూ, కొండ ఎక్కడం మొదలుపెట్టింది.",
+      "image_prompt": "The fox slowly begins to climb the cliff, moving towards the nest. Its red eyes gleam with a strange light as it licks its sharp tongue over its lips. Also in this scene: A cunning, reddish-brown fox with a bushy tail and sly, yellow eyes. It moves stealthily and is driven by hunger. Always the same character across every scene. Late afternoon sun, warm orange light catching the fox's fur, long shadows stretching across the cliff.",
+      "scene_visual": "The fox slowly begins to climb the cliff, moving towards the nest. Its red eyes gleam with a strange light as it licks its sharp tongue over its lips.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gadda Tana Gudlanu Chusukuntu Undagaane, Kinda Loyalo Oka Jittulamaari Nakka Kadalika Kanipinchindi. Daani Errati Kallu Konda Anchuna Unna Gudu Vaipu Chustu — Oka Vinta Kaantini Chimmaayi. Nakka Melligaa Konda Vaipu Adugulestu, Podi Aakula Mida Nadustunte 'Krach Krach' Mani Shabdam Vinipinchindi. Adi Tana Padunaina Naalukanu Pedavula Mida Tippukuntu, Gudla Vaipu Aashagaa Chusindi. \"Aa Gudlu Ruchikarangaa Untaayi!\" Ani Adi Tanalo Taanu Anukuntu, Konda Ekkadam Modalupettindi.",
+      "text_en": "As the eagle watched over its eggs, it saw a sly fox moving in the valley below. The fox's red eyes looked up at the nest on the edge of the cliff — they gleamed with a strange light. The fox slowly took steps towards the cliff, making a 'crunch crunch' sound as it walked on dry leaves. It licked its sharp tongue over its lips, looking hungrily at the eggs. \"Those eggs will be delicious!\" it thought to itself, and began to climb the cliff."
+    },
+    {
+      "id": 3,
+      "text": "నక్క కొండ ఎక్కడం చూసిన గద్ద, ఒక్కసారిగా కిందకు దూకింది. దాని పదునైన గోళ్ళు నక్కను పట్టుకోవడానికి ప్రయత్నించాయి, కానీ ఆ జిత్తులమారి చాలా వేగంగా తప్పించుకుంది. గద్ద రెక్కలు కొండకు తగిలి — ధూళి రేగింది, అదంతా భయం వాసనతో నిండిపోయింది. నక్క చాకచక్యంగా ఒక గుడ్డును పట్టుకుని, కంటి చూపు మేరలో మాయమైపోయింది. గద్ద నిస్సహాయంగా తల దించుకుంది. \"నా బలం సరిపోవడం లేదు!\" అని అది బాధగా గొణిగింది, ఇదంతా ఒక చిన్న పాము చూస్తోంది.",
+      "image_prompt": "The fox cleverly snatches an egg and swiftly disappears from view. The large bird hangs its head low, its wings having kicked up dust against the cliff. Also in this scene: A cunning, reddish-brown fox with a bushy tail and sly, yellow eyes. It moves stealthily and is driven by hunger. Always the same character across every scene. Dusky light, shadows deepening, a sense of loss and fading hope.",
+      "scene_visual": "The fox cleverly snatches an egg and swiftly disappears from view. The large bird hangs its head low, its wings having kicked up dust against the cliff.",
+      "supporting_char_keys": [
+        "snake"
+      ],
+      "text_te_en": "Nakka Konda Ekkadam Chusina Gadda, Okkasaarigaa Kindaku Dukindi. Daani Padunaina Gollu Nakkanu Pattukovadaaniki Prayatninchaayi, Kaani Aa Jittulamaari Chaalaa Vegangaa Tappinchukundi. Gadda Rekkalu Kondaku Tagili — Dhuli Regindi, Adantaa Bhayam Vaasanato Nindipoyindi. Nakka Chaakachakyangaa Oka Guddunu Pattukuni, Kanti Chupu Meralo Maayamaipoyindi. Gadda Nissahaayangaa Tala Dinchukundi. \"Naa Balam Saripovadam Ledu!\" Ani Adi Baadhagaa Gonigindi, Idantaa Oka Chinna Paamu Chustondi.",
+      "text_en": "When the eagle saw the fox climbing the cliff, it suddenly swooped down. Its sharp talons tried to grab the fox, but the sly creature was too fast and got away. The eagle's wings brushed against the cliff — dust flew up, and the air filled with a smell of fear. The fox cleverly snatched one egg and vanished out of sight. The eagle sadly lowered its head. \"My strength isn't enough!\" it mumbled with a heavy heart, all while a small snake was watching."
+    },
+    {
+      "id": 4,
+      "text": "గద్ద బాధలో కూర్చోగా, ఆ చిన్న పాము మెల్లిగా దాని దగ్గరకు పాకుకుంటూ వచ్చింది. అది తన చిన్న తల పైకెత్తి, గద్ద కళ్ళలోకి చూస్తూ — రాతి ఉపరితలం మీదుగా మెల్లిగా కదిలింది. \"మార్గం నాకు తెలుసు, కానీ మనం కలిసి పనిచేయాలి\" అని పాము మెల్లిగా బుసకొట్టింది. గద్ద దాని మాటలు విని, తన తలను విసురుగా కదిలించింది. కానీ, దాని మిగిలిన గుడ్ల వైపు చూస్తూ — పాము మాటలను ఆలోచించసాగింది.",
+      "image_prompt": "A small snake slowly crawls towards the sorrowful large bird, raising its head. It looks directly into the bird's eyes, its body slowly moving across the rocky surface. Pale moonlight beginning to filter through the trees, casting silver edges on the cliff, a quiet, contemplative atmosphere.",
+      "scene_visual": "A small snake slowly crawls towards the sorrowful large bird, raising its head. It looks directly into the bird's eyes, its body slowly moving across the rocky surface.",
+      "supporting_char_keys": [
+        "snake"
+      ],
+      "text_te_en": "Gadda Baadhalo Kurchogaa, Aa Chinna Paamu Melligaa Daani Daggaraku Paakukuntu Vachchindi. Adi Tana Chinna Tala Paiketti, Gadda Kallaloki Chustu — Raati Uparitalam Midugaa Melligaa Kadilindi. \"Maargam Naaku Telusu, Kaani Manam Kalisi Panicheyaali\" Ani Paamu Melligaa Busakottindi. Gadda Daani Maatalu Vini, Tana Talanu Visurugaa Kadilinchindi. Kaani, Daani Migilina Gudla Vaipu Chustu — Paamu Maatalanu Aalochinchasaagindi.",
+      "text_en": "As the eagle sat in sorrow, the small snake slowly slithered closer to it. It lifted its tiny head, looked into the eagle's eyes — and moved gently over the rocky ground. \"I know a way, but we must work together,\" the snake hissed softly. The eagle heard its words and shook its head quickly. But, looking at its remaining eggs — it started to think about what the snake had said."
+    },
+    {
+      "id": 5,
+      "text": "గద్ద పాము మాటలను ఆలోచించి, కలిసి పనిచేయడానికి సిద్ధపడింది. మళ్ళీ ఆ నక్క గూడు వైపు రావడం గద్ద చూసింది. పాము చెప్పినట్లుగానే, గద్ద పెద్దగా అరుస్తూ ఆకాశంలో ఎత్తుకు ఎగిరింది — నక్క దృష్టిని మళ్ళించడానికి. ఇంతలో, పాము నక్క దారిలో ఉన్న పొడవైన గడ్డిలో 'సర్ సర్' మని దూసుకుపోయింది. అది నక్కను భయపెట్టడానికి ప్రయత్నించినా, నక్క ఒక పదునైన చూపు విసిరింది. \"ఈసారి ఎవరూ నన్ను ఆపలేరు!\" అని అది గర్వంగా అరుస్తూ, గుడ్ల వైపు దూకింది.",
+      "image_prompt": "The fox leaps confidently towards the nest, its body mid-air. It shouts proudly, its sharp gaze fixed on the eggs. Also in this scene: A cunning, reddish-brown fox with a bushy tail and sly, yellow eyes. It moves stealthily and is driven by hunger. Always the same character across every scene. Early morning light, a soft glow over the cliff, but with tense, sharp contrasts as the action unfolds.",
+      "scene_visual": "The fox leaps confidently towards the nest, its body mid-air. It shouts proudly, its sharp gaze fixed on the eggs.",
+      "supporting_char_keys": [
+        "snake"
+      ],
+      "text_te_en": "Gadda Paamu Maatalanu Aalochinchi, Kalisi Panicheyadaaniki Siddhapadindi. Malli Aa Nakka Gudu Vaipu Raavadam Gadda Chusindi. Paamu Cheppinatlugaane, Gadda Peddagaa Arustu Aakaashanlo Ettuku Egirindi — Nakka Drrishtini Mallinchadaaniki. Intalo, Paamu Nakka Daarilo Unna Podavaina Gaddilo 'Sar Sar' Mani Dusukupoyindi. Adi Nakkanu Bhayapettadaaniki Prayatninchinaa, Nakka Oka Padunaina Chupu Visirindi. \"Isaari Evaru Nannu Aapaleru!\" Ani Adi Garvangaa Arustu, Gudla Vaipu Dukindi.",
+      "text_en": "The eagle thought about the snake's words and decided to work together. Soon, the eagle saw the fox coming towards the nest again. Just as the snake had suggested, the eagle screeched loudly and flew high into the sky — to get the fox's attention. Meanwhile, the snake slithered quickly, making a 'swoosh swoosh' sound through the tall grass in the fox's path. Even though it tried to scare the fox, the fox just gave a sharp look. \"No one can stop me this time!\" it proudly yelled, and leaped towards the eggs."
+    },
+    {
+      "id": 6,
+      "text": "నక్క గుడ్ల వైపు దూకగానే, గద్ద ఒక్కసారిగా కిందకు దూకి, దాని తల పైన చక్కర్లు కొట్టింది. నక్క తల పైకి ఎత్తగానే — పాము మెరుపు వేగంతో దాని తోకను గట్టిగా పట్టుకుని, చిన్న కాటు వేసింది. ఆ నొప్పికి నక్క బిగ్గరగా అరిచింది, ఆ శబ్దం లోయ అంతా ప్రతిధ్వనించింది. \"అయ్యో! నా తోక!\" అని అది గట్టిగా అరుస్తూ, తోకను ఊపింది. ఆ భయంతో నక్క తల తిప్పి, అడవిలోకి దూసుకుపోయింది — మళ్ళీ తిరిగి రానట్టుగా.",
+      "image_prompt": "The small snake, with lightning speed, firmly grabs the fox's tail and bites it. The fox shrieks loudly in pain, its head turning sharply in fear. Also in this scene: A cunning, reddish-brown fox with a bushy tail and sly, yellow eyes. It moves stealthily and is driven by hunger. Always the same character across every scene. Bright, triumphant sunlight breaking through the clouds, illuminating the cliff and the victorious eagle and snake.",
+      "scene_visual": "The small snake, with lightning speed, firmly grabs the fox's tail and bites it. The fox shrieks loudly in pain, its head turning sharply in fear.",
+      "supporting_char_keys": [
+        "snake"
+      ],
+      "text_te_en": "Nakka Gudla Vaipu Dukagaane, Gadda Okkasaarigaa Kindaku Duki, Daani Tala Paina Chakkarlu Kottindi. Nakka Tala Paiki Ettagaane — Paamu Merupu Veganto Daani Tokanu Gattigaa Pattukuni, Chinna Kaatu Vesindi. Aa Noppiki Nakka Biggaragaa Arichindi, Aa Shabdam Loya Antaa Pratidhvaninchindi. \"Ayyo! Naa Toka!\" Ani Adi Gattigaa Arustu, Tokanu Upindi. Aa Bhayanto Nakka Tala Tippi, Adaviloki Dusukupoyindi — Malli Tirigi Raanattugaa.",
+      "text_en": "As soon as the fox leaped towards the eggs, the eagle suddenly swooped down and circled right above its head. The moment the fox looked up — the snake, with lightning speed, grabbed its tail tightly and gave a quick bite. The fox screamed loudly from the pain, and its cry echoed through the whole valley. \"Oh no! My tail!\" it yelled, shaking its tail wildly. In a fright, the fox turned and dashed into the forest — as if it would never come back."
+    },
+    {
+      "id": 7,
+      "text": "నక్క వెళ్లిపోయాక, గద్ద తన గూటి దగ్గరకు వచ్చి, పాము వైపు చూసింది. సూర్యరశ్మి వారి మీద పడుతుంటే — అదొక వెచ్చని, ప్రశాంతమైన అనుభూతిని ఇచ్చింది. గద్ద తల వంచి, పాముకు గౌరవంగా వందనం చేసింది. \"నీ తెలివి మా గూడును కాపాడింది, మిత్రమా\" అని గద్ద మెల్లిగా అన్నది. ఆ చిన్న పాము నిశ్శబ్దంగా, గర్వంగా గద్ద కళ్ళలోకి చూస్తూ, తన సహాయం చేసినందుకు సంతోషపడింది.",
+      "image_prompt": "The large bird bows its head respectfully towards the small snake. Sunlight falls warmly on them as the snake looks proudly into the bird's eyes. Gentle dusk light, warm amber, peaceful resolution, casting long, soft shadows.",
+      "scene_visual": "The large bird bows its head respectfully towards the small snake. Sunlight falls warmly on them as the snake looks proudly into the bird's eyes.",
+      "supporting_char_keys": [
+        "snake"
+      ],
+      "text_te_en": "Nakka Vellipoyaaka, Gadda Tana Guti Daggaraku Vachchi, Paamu Vaipu Chusindi. Suryarashmi Vaari Mida Padutunte — Adoka Vechchani, Prashaantamaina Anubhutini Ichchindi. Gadda Tala Vanchi, Paamuku Gauravangaa Vandanam Chesindi. \"Ni Telivi Maa Gudunu Kaapaadindi, Mitramaa\" Ani Gadda Melligaa Annadi. Aa Chinna Paamu Nishshabdangaa, Garvangaa Gadda Kallaloki Chustu, Tana Sahaayam Chesinanduku Santoshapadindi.",
+      "text_en": "After the fox ran away, the eagle came back to its nest and looked at the snake. The sunlight shone down on them — giving a warm, peaceful feeling. The eagle bowed its head, greeting the snake with respect. \"Your cleverness saved our nest, my friend,\" the eagle said softly. The small snake quietly and proudly looked into the eagle's eyes, happy that it had helped."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "snake",
+      "description": "A small, agile green snake with shimmering scales and quick, darting movements. It is intelligent, observant, and possesses unique skills of stealth and speed. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 8.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and vivid, character-specific dialogue that truly advances the plot. The emotional depth is largely well-executed, showing feelings through action rather than direct statement. To elevate this to an award-worthy piece (9+), the most critical fix is to infuse more 'grandmother_authenticity' by adopting a warmer, more conversational oral style, perhaps with occasional direct addresses to the child listener and simpler, more rhythmic sentence structures."
+  },
+  "title_te_en": "Gadda, Paamu Nestam",
+  "moral_te_en": "Balavantulainaa, Chinnavaarainaa Kalisi Panichestene Nijamaina Vijayam Vastundi, Chushaavaa?",
+  "title_en": "The Eagle and the Snake's Friendship",
+  "moral_en": "True success comes when both the strong and the small work together.",
+  "id": "20260612_010817",
+  "date": "2026-06-12",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - తెలివైన ఉపాయాలు - పెద్ద గద్ద మరియు చిన్న పాము యొక్క విభిన్న నైపుణ్యాల సహకారం.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260612_010817/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
