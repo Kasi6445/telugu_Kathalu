@@ -1,0 +1,106 @@
+{
+  "title": "చిట్టి సీతాకోకచిలుక రెక్కల రహస్యం",
+  "moral": "మనలో ఉన్న అందం ఎక్కడికో వెతికితే దొరకదు, అది మనలోనే ఉంది, దాన్ని ప్రేమగా చూసుకోవడమే ముఖ్యం.",
+  "main_character": "Chitti is a small, curious butterfly with wings that are currently a soft, plain cream color. She has large, expressive eyes that often reflect her feelings, and a slight tremor in her antennae when she's uncertain. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A vibrant, sun-drenched garden in a small village near the Godavari river in Andhra Pradesh, filled with blooming hibiscus, fragrant jasmine, and tall mango trees. The air hums with the buzz of bees and the gentle rustle of leaves. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని తోటలో రంగురంగుల సీతాకోకచిలుకలు గాలిలో సులువుగా ఎగురుతున్నాయి, వాటి రెక్కలు మెరుస్తూ చిన్న గాలిని సృష్టిస్తున్నాయి. వాటిని చూసిన చిట్టి సీతాకోకచిలుక రెక్కలు కొద్దిగా వంగిపోయాయి, దాని కళ్ళలో ఏదో తెలియని బాధ మెరిసింది. \"అయ్యో, నా రెక్కలు ఎంత సాదాగా ఉన్నాయో!\" అని అది చిన్నగా నిట్టూర్చింది, మిగతా వాటిలా తన రెక్కలు లేవని బాధపడింది. ఆ రంగుల రెక్కలు చిట్టి మనసులో పెద్ద కోరికను రేపాయి. తన సాదా రెక్కలను చూస్తూ, చిట్టి కళ్ళలో ఒక నిశ్శబ్దమైన ఆశ నిలిచింది.",
+      "image_prompt": "The small butterfly looks down at its plain, slightly bent wings. A silent longing shines in its eyes as it compares itself to the other colorful butterflies flying effortlessly. Bright morning sun filtering through the dense canopy of a mango tree, dappling the ground in soft, warm golden light, with Chitti in a patch of gentle sunshine.",
+      "scene_visual": "The small butterfly looks down at its plain, slightly bent wings. A silent longing shines in its eyes as it compares itself to the other colorful butterflies flying effortlessly.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchani Totalo Rangurangula Sitaakokachilukalu Gaalilo Suluvugaa Egurutunnaayi, Vaati Rekkalu Merustu Chinna Gaalini Srrishtistunnaayi. Vaatini Chusina Chitti Sitaakokachiluka Rekkalu Koddigaa Vangipoyaayi, Daani Kallalo Edo Teliyani Baadha Merisindi. \"Ayyo, Naa Rekkalu Enta Saadaagaa Unnaayo!\" Ani Adi Chinnagaa Nitturchindi, Migataa Vaatilaa Tana Rekkalu Levani Baadhapadindi. Aa Rangula Rekkalu Chitti Manasulo Pedda Korikanu Repaayi. Tana Saadaa Rekkalanu Chustu, Chitti Kallalo Oka Nishshabdamaina Aasha Nilichindi.",
+      "text_en": "In a green garden, colorful butterflies flew easily in the air, their wings sparkling and creating a gentle breeze. Seeing them, Chitti the butterfly's wings drooped a little, and an unknown sadness sparkled in her eyes. \"Oh dear, how plain my wings are!\" she sighed softly, feeling sad that her wings weren't like the others. Those colorful wings stirred a great desire in Chitti's heart. Looking at her plain wings, a silent hope remained in Chitti's eyes."
+    },
+    {
+      "id": 2,
+      "text": "ఆ కోరికతో, చిట్టి తన చిన్న రెక్కలకు రంగులు అద్దాలని ఆశగా ప్రయత్నించింది. అది తోటలోని ప్రకాశవంతమైన పువ్వుల నుండి చిన్న చిన్న రేకులను జాగ్రత్తగా తెచ్చింది, వాటి మృదువైన సువాసన దాని చిన్న పాదాలకు అంటింది. \"ఇవి నాకు రంగులు ఇస్తాయేమో!\" అని అనుకుంటూ, ఒక ఎర్రని రేకును తన రెక్కకు అతికించడానికి కష్టపడింది. అది కదినప్పుడు — ఆ మెరిసే పువ్వు రేకు జారి కిందపడ్డాయి. అలా ప్రయత్నిస్తూనే అది నిరాశగా తల దించుకుంది, తన యాంటెనాలు ఓటమిని సూచిస్తూ వంగిపోయాయి. చివరి రేకు కూడా జారిపోవడంతో, దాని రెక్కలు మునుపటిలాగే సాదాగా మిగిలిపోయాయి.",
+      "image_prompt": "The small butterfly attempts to attach a bright red petal to its wing, struggling with the task. Its antennae droop in defeat as the shiny flower petal slips and falls to the ground. Cheerful midday sun, bright and direct, but a small, heavy shadow falls over Chitti as the petals drop, highlighting her solitude.",
+      "scene_visual": "The small butterfly attempts to attach a bright red petal to its wing, struggling with the task. Its antennae droop in defeat as the shiny flower petal slips and falls to the ground.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Korikato, Chitti Tana Chinna Rekkalaku Rangulu Addaalani Aashagaa Prayatninchindi. Adi Totaloni Prakaashavantamaina Puvvula Nundi Chinna Chinna Rekulanu Jaagrattagaa Techchindi, Vaati Mrriduvaina Suvaasana Daani Chinna Paadaalaku Antindi. \"Ivi Naaku Rangulu Istaayemo!\" Ani Anukuntu, Oka Errani Rekunu Tana Rekkaku Atikinchadaaniki Kashtapadindi. Adi Kadinappudu — Aa Merise Puvvu Reku Jaari Kindapaddaayi. Alaa Prayatnistune Adi Niraashagaa Tala Dinchukundi, Tana Yaantenaalu Otamini Suchistu Vangipoyaayi. Chivari Reku Kudaa Jaaripovadanto, Daani Rekkalu Munupatilaage Saadaagaa Migilipoyaayi.",
+      "text_en": "With that desire, Chitti eagerly tried to paint colors onto her small wings. She carefully brought tiny petals from the bright flowers in the garden, their soft fragrance clinging to her little feet. \"Maybe these will give me colors!\" she thought, struggling to stick a red petal onto her wing. When she moved — the sparkling flower petal slipped and fell. As she kept trying, she sadly bowed her head, her antennae drooping in defeat. With the last petal also slipping away, her wings remained plain, just as before."
+    },
+    {
+      "id": 3,
+      "text": "తన రెక్కలకు రంగులు రాకపోవడంతో, చిట్టి ఒక తెలివైన వృద్ధ సీతాకోకచిలుక దగ్గరికి సలహా కోసం వెళ్ళింది. ఆ వృద్ధ సీతాకోకచిలుక తన పాత రెక్కలను నెమ్మదిగా కదుపుతూ, ఒక ఆకు మీద స్థిరంగా కూర్చుంది, చిన్నగా క్రాకిల్ శబ్దం వచ్చింది. చిట్టి ఆసక్తిగా దాని మాటలు వినడానికి దగ్గరకు వంగింది. \"ప్రతి రెక్కకు దాని స్వంత అద్భుతమైన రంగు ఉంటుంది, చిట్టి. దాన్ని నువ్వే కనుగొనాలి.\" అని ఆ వృద్ధ సీతాకోకచిలుక నెమ్మదిగా చెప్పింది. ఆ జ్ఞాని సీతాకోకచిలుక తన రెక్కని ఒక దూరంగా కనిపించే పొగమంచు పర్వతం వైపు చూపించింది— అది 'పవిత్రమైన మంచు' దొరికే ప్రదేశం అని చెప్పింది. చిట్టి ఆ పర్వతం వైపు చూస్తూ, దాని గుండెలో ఒక కొత్త ఆశ చిగురించింది.",
+      "image_prompt": "The small butterfly leans in attentively, listening to the wise old butterfly perched steadily on a leaf. The old butterfly slowly points one of its ancient wings towards a distant, misty mountain. Soft, diffused light under the broad leaves of a banyan tree, dappled shade creating a calm, reflective atmosphere, with a hint of distant, brighter light on the horizon.",
+      "scene_visual": "The small butterfly leans in attentively, listening to the wise old butterfly perched steadily on a leaf. The old butterfly slowly points one of its ancient wings towards a distant, misty mountain.",
+      "supporting_char_keys": [
+        "wise_butterfly"
+      ],
+      "text_te_en": "Tana Rekkalaku Rangulu Raakapovadanto, Chitti Oka Telivaina Vrriddha Sitaakokachiluka Daggariki Salahaa Kosam Vellindi. Aa Vrriddha Sitaakokachiluka Tana Paata Rekkalanu Nemmadigaa Kaduputu, Oka Aaku Mida Sthirangaa Kurchundi, Chinnagaa Kraakil Shabdam Vachchindi. Chitti Aasaktigaa Daani Maatalu Vinadaaniki Daggaraku Vangindi. \"Prati Rekkaku Daani Svanta Adbhutamaina Rangu Untundi, Chitti. Daanni Nuvve Kanugonaali.\" Ani Aa Vrriddha Sitaakokachiluka Nemmadigaa Cheppindi. Aa Jnyaani Sitaakokachiluka Tana Rekkani Oka Durangaa Kanipinche Pogamanchu Parvatam Vaipu Chupinchindi— Adi 'Pavitramaina Manchu' Dorike Pradesham Ani Cheppindi. Chitti Aa Parvatam Vaipu Chustu, Daani Gundelo Oka Kotta Aasha Chigurinchindi.",
+      "text_en": "Since her wings weren't getting colors, Chitti went to a wise old butterfly for advice. The old butterfly sat steadily on a leaf, slowly moving its old wings, making a soft crackling sound. Chitti leaned closer, eager to hear its words. \"Every wing has its own wonderful color, Chitti. You must discover it yourself,\" the old butterfly said softly. The wise butterfly pointed its wing towards a misty mountain visible in the distance—it said that was the place where 'sacred snow' could be found. Chitti looked towards the mountain, and a new hope blossomed in her heart."
+    },
+    {
+      "id": 4,
+      "text": "ఆ జ్ఞాని మాటలు విన్న తర్వాత, చిట్టి ఆ పర్వతం వైపు ఎగరడానికి నిశ్చయించుకుంది. అది తన చిన్న రెక్కలను వేగంగా కొట్టుకుంటూ, బలమైన గాలికి ఎదురెళ్లింది, దాని శరీరం వణుకుతున్నా కూడా ముందుకు సాగింది. \"నేను ఇంకా ఎత్తుకు ఎగరాలి!\" అని అది తనలో తాను అనుకుంది, ప్రతి రెక్కల దెబ్బకు దాని రెక్కలు బరువుగా అనిపించాయి. అది కింద పడగానే — దాని చిన్న శరీరం వణికింది. చాలా దూరం ఎగిరిన తర్వాత, చిట్టి రెక్కలు పూర్తిగా అలసిపోయాయి, శ్వాస తీసుకోడానికి కష్టపడింది. అది ఒక కింద కొమ్మ మీద వాలిపోయింది, తన శరీరం వణుకుతుండగా, ఇంకా ముందుకు వెళ్ళడానికి శక్తి లేకపోయింది.",
+      "image_prompt": "The small butterfly, exhausted, collapses onto a lower branch, its small body trembling. Its wings are completely weary, and it struggles to breathe after flying against the strong wind. Late afternoon sun, a little hazy and golden, casting long, dramatic shadows across the landscape, with Chitti struggling against a pale orange sky.",
+      "scene_visual": "The small butterfly, exhausted, collapses onto a lower branch, its small body trembling. Its wings are completely weary, and it struggles to breathe after flying against the strong wind.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Jnyaani Maatalu Vinna Tarvaata, Chitti Aa Parvatam Vaipu Egaradaaniki Nishchayinchukundi. Adi Tana Chinna Rekkalanu Vegangaa Kottukuntu, Balamaina Gaaliki Edurellindi, Daani Shariram Vanukutunnaa Kudaa Munduku Saagindi. \"Nenu Inkaa Ettuku Egaraali!\" Ani Adi Tanalo Taanu Anukundi, Prati Rekkala Debbaku Daani Rekkalu Baruvugaa Anipinchaayi. Adi Kinda Padagaane — Daani Chinna Shariram Vanikindi. Chaalaa Duram Egirina Tarvaata, Chitti Rekkalu Purtigaa Alasipoyaayi, Shvaasa Tisukodaaniki Kashtapadindi. Adi Oka Kinda Komma Mida Vaalipoyindi, Tana Shariram Vanukutundagaa, Inkaa Munduku Velladaaniki Shakti Lekapoyindi.",
+      "text_en": "After hearing the wise one's words, Chitti decided to fly towards that mountain. She flapped her small wings quickly, going against the strong wind, moving forward even though her body trembled. \"I must fly even higher!\" she thought to herself, her wings feeling heavy with every beat. When she fell down — her tiny body shook. After flying a long distance, Chitti's wings were completely tired, and she struggled to breathe. She landed on a lower branch, her body trembling, with no more strength to go further."
+    },
+    {
+      "id": 5,
+      "text": "కొమ్మ మీద వాలి, నిరాశగా తల దించుకున్న చిట్టి, తన చిన్న పాదాలతో కొమ్మ యొక్క గరుకైన, చల్లని బెరడును తాకింది. అప్పుడు, ఉదయం సూర్యరశ్మి దాని రెక్కల మీద పడగానే — అది ఒక వింతని గమనించింది. దాని సాదా రెక్కల మీద ఉన్న సూక్ష్మమైన గీతలు, ప్రత్యేకమైన డిజైన్‌లు స్పష్టంగా కనిపించాయి. \"ఈ గీతలు... ఇవి ఎంత ప్రత్యేకమైనవి!\" అని ఆశ్చర్యంగా అంది, దాని కళ్ళు నెమ్మదిగా పెద్దవయ్యాయి. అప్పుడు — ఆ రెక్కల మీద ఒక అద్భుతమైన మెరుపు కనిపించింది. తన రెక్కలు సాదాగా ఉన్నా, వాటిలో తనదైన అందం ఉందని చిట్టి గ్రహించింది, దాని మనసులో ఒక కొత్త ఆనందం మెరిసింది.",
+      "image_prompt": "Perched on a branch, the small butterfly touches the rough, cold bark with its tiny feet. As the morning sunlight falls on its plain wings, intricate lines and unique designs become clearly visible, making its eyes widen in surprise. Gentle, warm morning light, the golden hour, illuminating the intricate, almost invisible details on her wings as she holds them still, catching the soft glow.",
+      "scene_visual": "Perched on a branch, the small butterfly touches the rough, cold bark with its tiny feet. As the morning sunlight falls on its plain wings, intricate lines and unique designs become clearly visible, making its eyes widen in surprise.",
+      "supporting_char_keys": [],
+      "text_te_en": "Komma Mida Vaali, Niraashagaa Tala Dinchukunna Chitti, Tana Chinna Paadaalato Komma Yokka Garukaina, Challani Beradunu Taakindi. Appudu, Udayam Suryarashmi Daani Rekkala Mida Padagaane — Adi Oka Vintani Gamaninchindi. Daani Saadaa Rekkala Mida Unna Sukshmamaina Gitalu, Pratyekamaina Dijain‌Lu Spashtangaa Kanipinchaayi. \"I Gitalu... Ivi Enta Pratyekamainavi!\" Ani Aashcharyangaa Andi, Daani Kallu Nemmadigaa Peddavayyaayi. Appudu — Aa Rekkala Mida Oka Adbhutamaina Merupu Kanipinchindi. Tana Rekkalu Saadaagaa Unnaa, Vaatilo Tanadaina Andam Undani Chitti Grahinchindi, Daani Manasulo Oka Kotta Aanandam Merisindi.",
+      "text_en": "Perched on the branch, Chitti, with her head bowed in despair, touched the rough, cool bark of the branch with her tiny feet. Then, as the morning sunlight fell upon her wings — she noticed something strange. The tiny lines and unique designs on her plain wings became clearly visible. \"These lines... how special they are!\" she exclaimed in surprise, her eyes slowly widening. Then — a wonderful sparkle appeared on her wings. Chitti realized that even though her wings were plain, they had their own unique beauty, and a new joy sparkled in her heart."
+    },
+    {
+      "id": 6,
+      "text": "తన రెక్కల ప్రత్యేకతను గుర్తించిన చిట్టి, కొత్త ధైర్యంతో మళ్ళీ ఎగరడం మొదలుపెట్టింది. ఆ పర్వత శిఖరం వైపు అది స్థిరంగా, బలంగా ఎగురుతూ సాగింది, దాని ముఖం మీద పర్వత మంచు యొక్క చల్లని స్పర్శ వజ్రాల వలె అనిపించింది. చివరికి, అది శిఖరాన్ని చేరుకుంది, 'పవిత్రమైన మంచు' దాని రెక్కలను తాకింది. \"ఇది నా రంగు!\" అని ఆశ్చర్యంగా అరిచింది. మీకు తెలుసా, ఆ క్షణంలో — దాని రెక్కలు రంగుల హరివిల్లులా మారాయి! దాని రెక్కలు మెరిసిపోయాయి, అది ఇంతకుముందు ఎన్నడూ చూడని అద్భుతమైన రంగులు, ప్రత్యేకమైన డిజైన్‌లతో ప్రకాశించింది.",
+      "image_prompt": "The small butterfly reaches the mountain peak, and the 'sacred snow' touches its wings. In that moment, its wings shimmer and transform into a vibrant rainbow, glowing with magnificent colors and unique designs. Ethereal, soft, glowing light at the mountain peak, a halo of warm, shimmering white and pastel colors as her wings transform, creating a magical, dreamlike atmosphere.",
+      "scene_visual": "The small butterfly reaches the mountain peak, and the 'sacred snow' touches its wings. In that moment, its wings shimmer and transform into a vibrant rainbow, glowing with magnificent colors and unique designs.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Rekkala Pratyekatanu Gurtinchina Chitti, Kotta Dhairyanto Malli Egaradam Modalupettindi. Aa Parvata Shikharam Vaipu Adi Sthirangaa, Balangaa Egurutu Saagindi, Daani Mukham Mida Parvata Manchu Yokka Challani Sparsha Vajraala Vale Anipinchindi. Chivariki, Adi Shikharaanni Cherukundi, 'Pavitramaina Manchu' Daani Rekkalanu Taakindi. \"Idi Naa Rangu!\" Ani Aashcharyangaa Arichindi. Miku Telusaa, Aa Kshananlo — Daani Rekkalu Rangula Harivillulaa Maaraayi! Daani Rekkalu Merisipoyaayi, Adi Intakumundu Ennadu Chudani Adbhutamaina Rangulu, Pratyekamaina Dijain‌Lato Prakaashinchindi.",
+      "text_en": "Recognizing the uniqueness of her wings, Chitti began to fly again with new courage. She flew steadily and strongly towards the mountain peak, the cool touch of the mountain snow on her face felt like diamonds. Finally, she reached the peak, and the 'sacred snow' touched her wings. \"This is my color!\" she cried out in surprise. Do you know, at that moment — her wings transformed into a rainbow of colors! Her wings sparkled, glowing with amazing colors and unique designs she had never seen before."
+    },
+    {
+      "id": 7,
+      "text": "తన కొత్త రంగుల రెక్కలతో చిట్టి తోటలోకి తిరిగి వచ్చింది, దాని ముఖం మీద శాంతమైన, సంతోషకరమైన చిరునవ్వు ఉంది. అది ఒక ప్రకాశవంతమైన ఎర్రటి మందార పువ్వు మీద సున్నితంగా వాలింది, ఆకులు మెల్లగా కదిలాయి, దాని కొత్త రంగులు సూర్యరశ్మిలో మెరిశాయి. \"నేను నా రెక్కలను ప్రేమించాను.\" అని అది తనలో తాను అనుకుంది, దాని రెక్కలు గర్వంగా నిలిచాయి. ఆ రంగులు — తోటలోని పూలకంటే అందంగా మెరిశాయి. చిట్టి తన ప్రత్యేకమైన అందంతో తోటలోని మిగతా వాటికి స్ఫూర్తినిచ్చింది, తనలోని ఆనందాన్ని ప్రశాంతంగా పంచుకుంది.",
+      "image_prompt": "The small butterfly gently lands on a bright red hibiscus flower, its new colorful wings shining in the sunlight. A calm, happy smile rests on its face as its wings stand proudly, more beautiful than the garden flowers. Warm, golden afternoon sun, casting a soft, peaceful glow over the vibrant garden, Chitti radiant in the center, her colors popping beautifully against the green foliage.",
+      "scene_visual": "The small butterfly gently lands on a bright red hibiscus flower, its new colorful wings shining in the sunlight. A calm, happy smile rests on its face as its wings stand proudly, more beautiful than the garden flowers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tana Kotta Rangula Rekkalato Chitti Totaloki Tirigi Vachchindi, Daani Mukham Mida Shaantamaina, Santoshakaramaina Chirunavvu Undi. Adi Oka Prakaashavantamaina Errati Mandaara Puvvu Mida Sunnitangaa Vaalindi, Aakulu Mellagaa Kadilaayi, Daani Kotta Rangulu Suryarashmilo Merishaayi. \"Nenu Naa Rekkalanu Preminchaanu.\" Ani Adi Tanalo Taanu Anukundi, Daani Rekkalu Garvangaa Nilichaayi. Aa Rangulu — Totaloni Pulakante Andangaa Merishaayi. Chitti Tana Pratyekamaina Andanto Totaloni Migataa Vaatiki Sphurtinichchindi, Tanaloni Aanandaanni Prashaantangaa Panchukundi.",
+      "text_en": "With her new colorful wings, Chitti returned to the garden, a calm, happy smile on her face. She gently landed on a bright red hibiscus flower, the leaves swaying softly, and her new colors sparkled in the sunlight. \"I love my wings,\" she thought to herself, her wings held proudly. Those colors — sparkled more beautifully than the flowers in the garden. Chitti inspired the others in the garden with her unique beauty, peacefully sharing her inner joy."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "wise_butterfly",
+      "description": "An ancient, large butterfly with wings of faded, iridescent blues and greens, showing signs of many journeys. Her antennae are long and curved, and her movements are slow and deliberate, conveying a sense of deep wisdom. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 6.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 5,
+    "dialogue_richness": 6,
+    "grammar_correctness": 6,
+    "narrative_arc": 6,
+    "child_engagement": 8,
+    "average": 6.17,
+    "weakest_dimension": "emotional_depth",
+    "notes": "The story has a good premise and an engaging journey for children. However, the emotional depth is frequently stated rather than shown, which diminishes its impact. The narrative arc, while present, is weakened by the magical transformation at the end, which somewhat contradicts the stated moral about inherent beauty. To improve, focus on demonstrating emotions through action and body language, and refine the language to be consistently colloquial and natural for an oral storytelling voice."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chitti Sitaakokachiluka Rekkala Rahasyam",
+  "moral_te_en": "Manalo Unna Andam Ekkadiko Vetikite Dorakadu, Adi Manalone Undi, Daanni Premagaa Chusukovadame Mukhyan.",
+  "title_en": "Chitti the Butterfly's Wing Secret",
+  "moral_en": "The beauty within us cannot be found by searching elsewhere; it is inside us, and cherishing it with love is what truly matters.",
+  "id": "20260613_230944",
+  "date": "2026-06-13",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "ఒక చిట్టి సీతాకోకచిలుక మరియు దాని రెక్కల సృష్టి",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260613_230944/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
