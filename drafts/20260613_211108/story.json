@@ -1,0 +1,98 @@
+{
+  "title": "ప్రేమతో పొంగే మాయా కుండ",
+  "moral": "మనసు విప్పి పంచుకుంటే, అందరికీ ఎప్పుడూ సరిపోతుంది, దయ పెరుగుతుంది.",
+  "main_character": "Lakshmi. A young girl, about 8 years old, with bright, inquisitive eyes and always a kind smile. She wears simple, well-worn clothes and has a gentle demeanor. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, drought-stricken Telugu village named 'పాలూరు' (Paluru), known for its dry riverbed and ancient banyan tree. The scene shifts from a humble hut to the dusty village square. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పాలూరులో లక్ష్మి, తన చిన్న గుడిసె ముందు, ఎండిన నేల మీద అడుగులు వేస్తూ... మెల్లగా తన అన్నం గిన్నెను పట్టుకుంది. ఆమె పాదాల కింద ఎండిన నేల గలగలమంటూ చిరుశబ్దం చేసింది. ఇంతలో ఆకలితో కళ్ళు తిరుగుతున్న ఒక చిన్న పిట్ట ఆమె కళ్ళెదుట నిలబడింది. లక్ష్మి గుండె చిన్నదైంది, వెంటనే చిరునవ్వుతో \"ఈ కాస్త అన్నం నీకు, ఆకలిగా ఉన్నావు కదా?\" అని పిట్టకు కొన్ని మెతుకులు వేసింది. పిట్ట ఆ మెతుకులు తీసుకోగానే — రెక్కలు విప్పుకుని ఆకాశంలోకి ఎగిరిపోయింది. అది వెళ్ళిపోతూనే, ఎండిపోయిన నది గర్భంలో మెరుస్తున్న ఒక వింత వస్తువు లక్ష్మి కళ్ళలో పడింది.",
+      "image_prompt": "The girl gently offers grains of rice to a small, hungry bird that stands before her. A gentle smile appears on her face as the bird's eyes spin from hunger. Harsh midday sun over the parched village, casting sharp shadows and highlighting the dust in the air, a feeling of scarcity.",
+      "scene_visual": "The girl gently offers grains of rice to a small, hungry bird that stands before her. A gentle smile appears on her face as the bird's eyes spin from hunger.",
+      "supporting_char_keys": [],
+      "text_te_en": "Paalurulo Lakshmi, Tana Chinna Gudise Mundu, Endina Nela Mida Adugulu Vestu... Mellagaa Tana Annam Ginnenu Pattukundi. Aame Paadaala Kinda Endina Nela Galagalamantu Chirushabdam Chesindi. Intalo Aakalito Kallu Tirugutunna Oka Chinna Pitta Aame Kalleduta Nilabadindi. Lakshmi Gunde Chinnadaindi, Ventane Chirunavvuto \"I Kaasta Annam Niku, Aakaligaa Unnaavu Kadaa?\" Ani Pittaku Konni Metukulu Vesindi. Pitta Aa Metukulu Tisukogaane — Rekkalu Vippukuni Aakaashanloki Egiripoyindi. Adi Vellipotune, Endipoyina Nadi Garbhanlo Merustunna Oka Vinta Vastuvu Lakshmi Kallalo Padindi.",
+      "text_en": "In Paluru, Laxmi walked on the dry ground in front of her small hut, gently holding her bowl of rice. The dry earth crunched softly under her feet. Just then, a small bird, dizzy with hunger, stood before her eyes. Laxmi's heart softened, and with a gentle smile, she said, \"Here, this little bit of rice is for you, aren't you hungry?\" She offered a few grains to the bird. As soon as the bird took the grains, it spread its wings and flew into the sky. As it flew away, a strange, shining object in the dry riverbed caught Laxmi's eye."
+    },
+    {
+      "id": 2,
+      "text": "లక్ష్మి ఆ మెరుపును అనుసరించి, ఎండిన నది గర్భంలోకి దిగింది. అక్కడ ఆమెకు ఒక విచిత్రమైన, పాత మట్టి కుండ కనిపించింది. దానిని చేతుల్లోకి తీసుకోగానే — ఒక అద్భుతమైన చల్లదనం ఆమెను ఆవరించింది. ఆ కుండ మీద ఉన్న చిత్రమైన చెక్కడాలను చూస్తూ, ఆమె నుదుటి మీద ముడతలు పడ్డాయి. \"ఇది ఎంత విచిత్రంగా ఉంది! ఎవరిదై ఉంటుంది?\" అని లక్ష్మి గొణుక్కుంటూ, దానిని తన ఇంటికి తీసుకుపోయింది. తన గుండెలో ఏదో తెలియని ఉత్సాహం నిండినట్లుగా, ఆ కుండలో ఒకే ఒక్క అన్నం గింజను ఉంచింది.",
+      "image_prompt": "The girl picks up a strange, old clay pot from the dry riverbed. A wonderful coolness envelops her as she holds it, and her forehead wrinkles as she examines the intricate carvings on its surface. Late afternoon light, golden and soft, filtering into her humble hut, creating a sense of quiet anticipation.",
+      "scene_visual": "The girl picks up a strange, old clay pot from the dry riverbed. A wonderful coolness envelops her as she holds it, and her forehead wrinkles as she examines the intricate carvings on its surface.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lakshmi Aa Merupunu Anusarinchi, Endina Nadi Garbhanloki Digindi. Akkada Aameku Oka Vichitramaina, Paata Matti Kunda Kanipinchindi. Daanini Chetulloki Tisukogaane — Oka Adbhutamaina Challadanam Aamenu Aavarinchindi. Aa Kunda Mida Unna Chitramaina Chekkadaalanu Chustu, Aame Nuduti Mida Mudatalu Paddaayi. \"Idi Enta Vichitrangaa Undi! Evaridai Untundi?\" Ani Lakshmi Gonukkuntu, Daanini Tana Intiki Tisukupoyindi. Tana Gundelo Edo Teliyani Utsaaham Nindinatlugaa, Aa Kundalo Oke Okka Annam Ginjanu Unchindi.",
+      "text_en": "Laxmi followed the sparkle and went down into the dry riverbed. There, she found a strange, old clay pot. As soon as she picked it up, a wonderful coolness spread over her. Looking at the strange carvings on the pot, her brow furrowed. \"How peculiar this is! Whose could it be?\" Laxmi mumbled, taking it home. With an unknown excitement filling her heart, she placed just one grain of rice into the pot."
+    },
+    {
+      "id": 3,
+      "text": "లక్ష్మి ఆశ్చర్యంతో చూస్తూ ఉండగానే, ఒక్కసారిగా — కుండ వేడిగా మారి, అన్నంతో నిండిపోయింది! దాని నుండి వెచ్చని, కమ్మని అన్నం వాసన గుడిసంతా నిండిపోయింది. లక్ష్మి కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి — ఇది నిజమా కలా అని నమ్మలేకపోయింది. \"అమ్మో! ఈ కుండ మామూలుది కాదు! నిజంగానే మాయా కుండ!\" అని ఆమె సంతోషంతో అరిచింది. ఆమె ముఖం మీద నవ్వు వెలిగిపోయింది, కానీ బయట గ్రామస్తుల ఆకలితో ఉన్న ముఖాలు ఆమెకు గుర్తుకు వచ్చాయి.",
+      "image_prompt": "The girl watches in astonishment as the pot suddenly turns hot and fills with rice. Her eyes widen in disbelief, and a warm, fragrant aroma of rice fills the small hut. The golden glow of sunset streams through the doorway, illuminating the overflowing pot like a beacon of hope in the dim hut.",
+      "scene_visual": "The girl watches in astonishment as the pot suddenly turns hot and fills with rice. Her eyes widen in disbelief, and a warm, fragrant aroma of rice fills the small hut.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lakshmi Aashcharyanto Chustu Undagaane, Okkasaarigaa — Kunda Vedigaa Maari, Annanto Nindipoyindi! Daani Nundi Vechchani, Kammani Annam Vaasana Gudisantaa Nindipoyindi. Lakshmi Kallu Aashcharyanto Peddavayyaayi — Idi Nijamaa Kalaa Ani Nammalekapoyindi. \"Ammo! I Kunda Maamuludi Kaadu! Nijangaane Maayaa Kunda!\" Ani Aame Santoshanto Arichindi. Aame Mukham Mida Navvu Veligipoyindi, Kaani Bayata Graamastula Aakalito Unna Mukhaalu Aameku Gurtuku Vachchaayi.",
+      "text_en": "As Laxmi watched in amazement, suddenly — the pot grew warm and filled with rice! The warm, delicious smell of rice filled the entire hut. Laxmi's eyes widened in surprise — she couldn't believe if it was real or a dream. \"Oh my! This pot is not ordinary! It's truly a magic pot!\" she cried out with joy. A smile lit up her face, but then she remembered the hungry faces of the villagers outside."
+    },
+    {
+      "id": 4,
+      "text": "రాత్రి పూట లక్ష్మి, కుండలోని అన్నాన్ని కొంతమంది పిల్లలకు, పెద్దలకు రహస్యంగా పంచిపెట్టింది. అన్నం తింటున్న వారి పొట్టల నుండి చిన్న శబ్దాలు వినిపించాయి, కృతజ్ఞతతో కూడిన గుసగుసలు చీకటిలో వినిపించాయి. వారికి అన్నం పెడుతున్నప్పుడు ఆమె ముఖం మీద శాంతమైన చిరునవ్వు కనిపించింది. కానీ, ఆకలితో అలమటిస్తున్న మిగిలిన గ్రామస్తులను చూసి ఆమె గుండె బరువెక్కింది. \"అందరికీ ఎలా పంచాలి? ఇంకా ఎంతమంది ఆకలితో ఉన్నారో!\" అని లక్ష్మి తనలో తనే బాధపడింది. అంతలో, అన్నం సరిపోని ఒక చిన్నారి, లక్ష్మి వైపు ఆశగా చూసింది — ఆ చిన్నారి కళ్ళలో — ఆకలి స్పష్టంగా కనిపించింది. ఆ చూపు లక్ష్మి గుండెను పిండినట్లు అనిపించింది.",
+      "image_prompt": "The girl secretly distributes rice from the pot to some children and elders in the dark. A peaceful smile rests on her face as she feeds them, but her heart aches upon seeing the hopeful, hungry gaze of a small child who hasn't received enough. Deep twilight, almost dark, with only a few distant oil lamps casting faint, flickering light, emphasizing the pervasive hunger and Lakshmi's solitude.",
+      "scene_visual": "The girl secretly distributes rice from the pot to some children and elders in the dark. A peaceful smile rests on her face as she feeds them, but her heart aches upon seeing the hopeful, hungry gaze of a small child who hasn't received enough.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raatri Puta Lakshmi, Kundaloni Annaanni Kontamandi Pillalaku, Peddalaku Rahasyangaa Panchipettindi. Annam Tintunna Vaari Pottala Nundi Chinna Shabdaalu Vinipinchaayi, Krritajnyatato Kudina Gusagusalu Chikatilo Vinipinchaayi. Vaariki Annam Pedutunnappudu Aame Mukham Mida Shaantamaina Chirunavvu Kanipinchindi. Kaani, Aakalito Alamatistunna Migilina Graamastulanu Chusi Aame Gunde Baruvekkindi. \"Andariki Elaa Panchaali? Inkaa Entamandi Aakalito Unnaaro!\" Ani Lakshmi Tanalo Tane Baadhapadindi. Antalo, Annam Sariponi Oka Chinnaari, Lakshmi Vaipu Aashagaa Chusindi — Aa Chinnaari Kallalo — Aakali Spashtangaa Kanipinchindi. Aa Chupu Lakshmi Gundenu Pindinatlu Anipinchindi.",
+      "text_en": "At night, Laxmi secretly shared the rice from the pot with some children and adults. Small sounds came from their bellies as they ate, and whispers of gratitude were heard in the dark. A peaceful smile appeared on her face as she fed them. But her heart grew heavy seeing the other villagers suffering from hunger. \"How can I share with everyone? How many more are still hungry!\" Laxmi worried to herself. Just then, a small child who hadn't received enough rice looked at Laxmi with hope — in that child's eyes — hunger was clearly visible. That look felt like it squeezed Laxmi's heart."
+    },
+    {
+      "id": 5,
+      "text": "ఆ రాత్రి లక్ష్మికి నిద్ర పట్టలేదు. కుండ మాయను అందరికీ చెప్పాలా వద్దా అని ఆమె మనసులో పెద్ద యుద్ధమే జరిగింది. తన చిన్న గుడిసెలో నిశ్శబ్దం ఆమె గుండె చప్పుడును ఇంకా బిగ్గరగా వినిపించింది. ఒకవేళ ఎవరైనా దుర్వినియోగం చేస్తే అని భయపడింది, కానీ ఆకలితో ఉన్న ముఖాలు ఆమె కళ్ళ ముందు మెదులుతున్నాయి. ఆమె నుదుటి మీద ముడతలు పడ్డాయి, చివరికి చేతులు గట్టిగా బిగించింది. \"నాకు భయంగా ఉంది, కానీ అందరి ఆకలి తీర్చాలి కదా? నేను ధైర్యం చేయాలి!\" అని ఆమె నిశ్చయించుకుంది. ఒక్క క్షణం కూడా ఆలోచించకుండా — ఆమె కుండను తీసుకుని, గ్రామ కూడలి వైపు అడుగులు వేసింది.",
+      "image_prompt": "The girl clenches her hands tightly, making a resolute decision to share the pot's magic. Her forehead is wrinkled in thought, but then she picks up the pot and walks towards the village square without hesitation. Early morning light, pale blue-grey, just before sunrise, casting long, soft shadows and highlighting the quiet determination on Lakshmi's face.",
+      "scene_visual": "The girl clenches her hands tightly, making a resolute decision to share the pot's magic. Her forehead is wrinkled in thought, but then she picks up the pot and walks towards the village square without hesitation.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Raatri Lakshmiki Nidra Pattaledu. Kunda Maayanu Andariki Cheppaalaa Vaddaa Ani Aame Manasulo Pedda Yuddhame Jarigindi. Tana Chinna Gudiselo Nishshabdam Aame Gunde Chappudunu Inkaa Biggaragaa Vinipinchindi. Okavela Evarainaa Durviniyogam Cheste Ani Bhayapadindi, Kaani Aakalito Unna Mukhaalu Aame Kalla Mundu Medulutunnaayi. Aame Nuduti Mida Mudatalu Paddaayi, Chivariki Chetulu Gattigaa Biginchindi. \"Naaku Bhayangaa Undi, Kaani Andari Aakali Tirchaali Kadaa? Nenu Dhairyam Cheyaali!\" Ani Aame Nishchayinchukundi. Okka Kshanam Kudaa Aalochinchakundaa — Aame Kundanu Tisukuni, Graama Kudali Vaipu Adugulu Vesindi.",
+      "text_en": "That night, Laxmi couldn't sleep. A big battle raged in her mind about whether to tell everyone about the pot's magic or not. The silence in her small hut made her own heartbeat sound even louder. She was afraid someone might misuse it, but the hungry faces kept appearing before her eyes. Her brow furrowed, and finally, she clenched her hands tightly. \"I'm scared, but I must satisfy everyone's hunger, right? I have to be brave!\" she decided. Without another moment's thought — she took the pot and walked towards the village square."
+    },
+    {
+      "id": 6,
+      "text": "లక్ష్మి గ్రామ కూడలికి చేరుకోగానే, ఆకలితో సన్నగా కూర్చున్న గ్రామస్తులంతా ఆమె వైపు చూశారు. ఆమె గుండె వేగంగా కొట్టుకుంది, కానీ ఆమె గొంతులో ధైర్యం నింపుకుంది. \"నాకు ఎండిన నదిలో దొరికిన మాయా కుండ గురించి చెప్పాలనుకుంటున్నాను!\" అని ఆమె స్పష్టంగా పలికింది. గ్రామస్తులలో మెల్లగా ఒక గుసగుస మొదలైంది, వారి కళ్ళల్లో ఆశ్చర్యం, ఆశ కనిపించాయి. \"ఈ కుండ ప్రేమతో నిండితే, అందరి ఆకలి తీరుస్తుంది! మనం పంచుకుంటేనే దీని శక్తి పెరుగుతుంది!\" అని లక్ష్మి చేతులెత్తి చెప్పింది. ఆమె మాటలు విని, గ్రామస్తులు ఒకరి తర్వాత ఒకరు — తమ దగ్గర ఉన్న కొద్దిపాటి ధాన్యాన్ని, ఆశగా ఆ కుండలో వేయడం మొదలుపెట్టారు.",
+      "image_prompt": "The girl stands before the villagers, speaking clearly about the magic pot she found. As she speaks, the villagers, their eyes filled with surprise and hope, begin to eagerly place their meager grains into the pot, one after another. Bright morning sun, warm and clear, illuminating the dusty village square, creating a hopeful atmosphere around the gathering villagers.",
+      "scene_visual": "The girl stands before the villagers, speaking clearly about the magic pot she found. As she speaks, the villagers, their eyes filled with surprise and hope, begin to eagerly place their meager grains into the pot, one after another.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lakshmi Graama Kudaliki Cherukogaane, Aakalito Sannagaa Kurchunna Graamastulantaa Aame Vaipu Chushaaru. Aame Gunde Vegangaa Kottukundi, Kaani Aame Gontulo Dhairyam Nimpukundi. \"Naaku Endina Nadilo Dorikina Maayaa Kunda Gurinchi Cheppaalanukuntunnaanu!\" Ani Aame Spashtangaa Palikindi. Graamastulalo Mellagaa Oka Gusagusa Modalaindi, Vaari Kallallo Aashcharyan, Aasha Kanipinchaayi. \"I Kunda Premato Nindite, Andari Aakali Tirustundi! Manam Panchukuntene Dini Shakti Perugutundi!\" Ani Lakshmi Chetuletti Cheppindi. Aame Maatalu Vini, Graamastulu Okari Tarvaata Okaru — Tama Daggara Unna Koddipaati Dhaanyaanni, Aashagaa Aa Kundalo Veyadam Modalupettaaru.",
+      "text_en": "As Laxmi reached the village square, all the villagers, sitting thin and hungry, looked at her. Her heart beat fast, but she filled her voice with courage. \"I want to tell you about the magic pot I found in the dry river!\" she said clearly. A soft murmur started among the villagers, and surprise and hope appeared in their eyes. \"If this pot is filled with love, it will satisfy everyone's hunger! Its power grows only when we share!\" Laxmi explained, raising her hands. Hearing her words, one by one, the villagers began to eagerly put the little grain they had into the pot."
+    },
+    {
+      "id": 7,
+      "text": "గ్రామస్తులు తమ కొద్దిపాటి ధాన్యాన్ని కుండలో వేయగానే, ఒక్కసారిగా — కుండ అన్నంతో నిండి పొంగిపోయింది! ఆ వేడి అన్నం వాసన గ్రామ కూడలి అంతా వ్యాపించింది. ఆకలితో ఉన్న చిన్నారి పిల్లల నవ్వులు, పెద్దల సంతోష కేకలు ఆ చుట్టూ ప్రతిధ్వనించాయి. అందరూ కడుపు నిండా తిన్నారు, లక్ష్మి ముఖం మీద ప్రశాంతమైన చిరునవ్వు వెలిగింది. \"ఈ కుండ నిజంగానే మాయా కుండ! కానీ దీని మాయ మన ప్రేమలోనే ఉంది!\" అని లక్ష్మి సంతోషంగా చెప్పింది. ఆ రోజు నుండి, పాలూరు గ్రామస్తులు తమ దగ్గర ఉన్నదంతా పంచుకోవడం అలవాటు చేసుకున్నారు, ఆ కుండ ఎప్పుడూ నిండి ఉండేది — వారి హృదయాలు కూడా.",
+      "image_prompt": "The pot overflows with rice as the villagers add their grains, filling the village square with its warm aroma. Children's laughter and elders' joyful shouts echo around as the girl smiles peacefully, watching everyone eat their fill. Gentle dusk light, warm amber and soft, bathing the now thriving village in a peaceful glow, symbolizing comfort and prosperity.",
+      "scene_visual": "The pot overflows with rice as the villagers add their grains, filling the village square with its warm aroma. Children's laughter and elders' joyful shouts echo around as the girl smiles peacefully, watching everyone eat their fill.",
+      "supporting_char_keys": [],
+      "text_te_en": "Graamastulu Tama Koddipaati Dhaanyaanni Kundalo Veyagaane, Okkasaarigaa — Kunda Annanto Nindi Pongipoyindi! Aa Vedi Annam Vaasana Graama Kudali Antaa Vyaapinchindi. Aakalito Unna Chinnaari Pillala Navvulu, Peddala Santosha Kekalu Aa Chuttu Pratidhvaninchaayi. Andaru Kadupu Nindaa Tinnaaru, Lakshmi Mukham Mida Prashaantamaina Chirunavvu Veligindi. \"I Kunda Nijangaane Maayaa Kunda! Kaani Dini Maaya Mana Premalone Undi!\" Ani Lakshmi Santoshangaa Cheppindi. Aa Roju Nundi, Paaluru Graamastulu Tama Daggara Unnadantaa Panchukovadam Alavaatu Chesukunnaaru, Aa Kunda Eppudu Nindi Undedi — Vaari Hrridayaalu Kudaa.",
+      "text_en": "As soon as the villagers put their little grain into the pot, suddenly — the pot filled and overflowed with rice! The smell of warm rice spread throughout the village square. The laughter of hungry children and the joyful shouts of adults echoed all around. Everyone ate until their bellies were full, and a peaceful smile lit up Laxmi's face. \"This pot is truly a magic pot! But its magic lies in our love!\" Laxmi said happily. From that day on, the villagers of Paluru made it a habit to share everything they had, and the pot was always full — just like their hearts."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 8.1,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 7,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 8.1,
+    "weakest_dimension": "emotional_depth",
+    "notes": "The story offers a heartwarming narrative with a compelling arc and flawless colloquial Telugu, making it highly suitable for young readers. Lakshmi's journey from personal discovery to communal sharing is well-structured and engaging. To elevate this piece to award-worthy status, the primary focus should be on consistently showing emotions through vivid physical reactions and actions, rather than occasionally stating them directly. This refinement would make Lakshmi's internal struggles and triumphs even more palpable and immersive for a child audience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Premato Ponge Maayaa Kunda",
+  "moral_te_en": "Manasu Vippi Panchukunte, Andariki Eppudu Saripotundi, Daya Perugutundi.",
+  "title_en": "The Magic Pot Overflowing with Love",
+  "moral_en": "When you share openly from your heart, there will always be enough for everyone, and kindness will grow.",
+  "id": "20260613_211108",
+  "date": "2026-06-13",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "ప్రేమతో పొంగే వంట కుండ - నిస్వార్థ సేవతో ఆహారాన్ని పెంచిన మాయా పాత్ర.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260613_211108/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
