@@ -1,0 +1,109 @@
+{
+  "title": "పొరపాటు చేసిన చిట్టి పాఠం",
+  "moral": "చిన్న చిన్న పొరపాట్లు పెద్ద సమస్యలకు దారితీయవచ్చు, కానీ వాటిని సరిదిద్దడానికి ప్రయత్నించడమే నిజమైన గొప్పదనం.",
+  "main_character": "Chitti is a small, grey squirrel with a bushy tail and bright, curious eyes. She is often quick to act without thinking but has a good heart. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A lush, green forest near a small village in Andhra Pradesh. Towering mango trees, a clear stream, and colorful wildflowers abound, bathed in warm sunlight. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "సూర్యరశ్మి పడే అడవిలో, చిట్టి అనే చిన్న ఉడుత తన పొడవాటి తోకను అటూ ఇటూ ఊపుతూ ఆనందంగా గంతులు వేస్తోంది. అది ఒక గింజను నోట కరుచుకొని, చెట్ల మధ్య పరుగు పెడుతూ పదేపదే చిందులు వేసింది. దాని చిన్ని పాదాల కింద ఆరిన ఆకులు 'కర్ర్.. కర్ర్' మని శబ్దం చేస్తున్నా, చిట్టి మాత్రం తన ఆటలో మునిగిపోయింది. \"ఈ రోజు చాలా సరదాగా ఉంది!\" అని అది సంతోషంగా కిచకిచలాడింది. అట్లా పరిగెడుతూ ఉండగా — ఒక్కసారిగా ఒక చెట్టుపై మెరిసే వస్తువు దాని కళ్ళను ఆకర్షించింది.",
+      "image_prompt": "The small squirrel is running through the forest, holding a seed in its mouth. Its eyes suddenly fixate on a shiny object glinting on a tree. Bright morning sun filtering through a dense canopy of green leaves, creating dancing patterns of light and shadow on the forest floor.",
+      "scene_visual": "The small squirrel is running through the forest, holding a seed in its mouth. Its eyes suddenly fixate on a shiny object glinting on a tree.",
+      "supporting_char_keys": [],
+      "text_te_en": "Suryarashmi Pade Adavilo, Chitti Ane Chinna Uduta Tana Podavaati Tokanu Atu Itu Uputu Aanandangaa Gantulu Vestondi. Adi Oka Ginjanu Nota Karuchukoni, Chetla Madhya Parugu Pedutu Padepade Chindulu Vesindi. Daani Chinni Paadaala Kinda Aarina Aakulu 'Karr.. Karr' Mani Shabdam Chestunnaa, Chitti Maatram Tana Aatalo Munigipoyindi. \"I Roju Chaalaa Saradaagaa Undi!\" Ani Adi Santoshangaa Kichakichalaadindi. Atlaa Parigedutu Undagaa — Okkasaarigaa Oka Chettupai Merise Vastuvu Daani Kallanu Aakarshinchindi.",
+      "text_en": "In a sunny forest, a little squirrel named Chitti was happily hopping around, wagging her long tail. She held a nut in her mouth, running and leaping between the trees. The dry leaves under her tiny paws made a 'crrr... crrr' sound, but Chitti was too busy playing to notice. \"This day is so much fun!\" she chirped happily. As she ran, a shiny object on a tree suddenly caught her eye."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరిసే వస్తువుని చూసిన చిట్టి, ఆ చెట్టుపైకి చకచకా ఎగబాకింది — దాని తోక కుతూహలంతో అటూ ఇటూ కదిలింది. అక్కడ ఒక పక్షి గూడు కనిపించింది, దాని నిండా ఎర్రటి పండ్లు మెరుస్తున్నాయి. చెట్టు బెరడుకు అంటుకున్న తడి పాచి మట్టి వాసన దాని ముక్కుకు తగిలింది. \"ఓహ్, ఎంత అందమైన పండ్లు!\" అని అది ఆశ్చర్యంగా అంది, దాని కళ్ళు వెడల్పు అయ్యాయి. ఒక పండును అందుకోవాలని చిట్టి తన చిన్న చేయి చాచింది... ఆ గూడు ఒక్కసారిగా పట్టుతప్పి, కిందకి జారింది.",
+      "image_prompt": "The small squirrel extends its tiny hand towards a red fruit in the bird's nest. As it reaches, the nest suddenly loses its hold and tumbles downwards. Warm afternoon sun casting long, gentle shadows, highlighting the vibrant red berries in the nest.",
+      "scene_visual": "The small squirrel extends its tiny hand towards a red fruit in the bird's nest. As it reaches, the nest suddenly loses its hold and tumbles downwards.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merise Vastuvuni Chusina Chitti, Aa Chettupaiki Chakachakaa Egabaakindi — Daani Toka Kutuhalanto Atu Itu Kadilindi. Akkada Oka Pakshi Gudu Kanipinchindi, Daani Nindaa Errati Pandlu Merustunnaayi. Chettu Beraduku Antukunna Tadi Paachi Matti Vaasana Daani Mukkuku Tagilindi. \"Oh, Enta Andamaina Pandlu!\" Ani Adi Aashcharyangaa Andi, Daani Kallu Vedalpu Ayyaayi. Oka Pandunu Andukovaalani Chitti Tana Chinna Cheyi Chaachindi... Aa Gudu Okkasaarigaa Pattutappi, Kindaki Jaarindi.",
+      "text_en": "When Chitti saw the shiny object, she quickly scurried up the tree, her tail twitching with curiosity. There, she found a bird's nest, full of bright red berries. The smell of damp moss on the tree bark tickled her nose. \"Oh, what beautiful berries!\" she gasped, her eyes wide. Chitti reached out her tiny paw to grab a berry... and suddenly, the nest slipped and tumbled to the ground."
+    },
+    {
+      "id": 3,
+      "text": "గూడు కింద పడగానే, చిన్ని చిన్ని గుడ్లు నేలపైన పడి ముక్కలయ్యాయి — ఆ దృశ్యం చిట్టిని ఉలిక్కిపడేలా చేసింది. ఇంతలో తల్లి పక్షి రెక్కలు కొట్టుకుంటూ, గుండె పగిలే అరుపులతో గూడు దగ్గరికి వచ్చింది. ఆ అరుపు — అడవి అంతటా విషాదంగా ప్రతిధ్వనించింది, విన్నవారి గుండెలు పిండేసింది. \"నా గుడ్లు! నా గూడు!\" అని అది కళ్ళలో నీళ్ళతో, గుండెలవిసేలా అరవడం మొదలుపెట్టింది. చిట్టి భయంతో ఒక పెద్ద చెట్టు వెనుక దాక్కుంది, దాని శరీరం వణుకుతోంది — దాని కళ్ళు భయంతో పెద్దవి అయ్యాయి.",
+      "image_prompt": "The small squirrel is cowering behind a large tree, its body visibly trembling. Its eyes are wide with fear as it witnesses the broken eggs on the ground. The sun has dipped slightly, casting a more somber, less bright light, with shadows deepening around the fallen nest.",
+      "scene_visual": "The small squirrel is cowering behind a large tree, its body visibly trembling. Its eyes are wide with fear as it witnesses the broken eggs on the ground.",
+      "supporting_char_keys": [
+        "koela"
+      ],
+      "text_te_en": "Gudu Kinda Padagaane, Chinni Chinni Gudlu Nelapaina Padi Mukkalayyaayi — Aa Drrishyam Chittini Ulikkipadelaa Chesindi. Intalo Talli Pakshi Rekkalu Kottukuntu, Gunde Pagile Arupulato Gudu Daggariki Vachchindi. Aa Arupu — Adavi Antataa Vishaadangaa Pratidhvaninchindi, Vinnavaari Gundelu Pindesindi. \"Naa Gudlu! Naa Gudu!\" Ani Adi Kallalo Nillato, Gundelaviselaa Aravadam Modalupettindi. Chitti Bhayanto Oka Pedda Chettu Venuka Daakkundi, Daani Shariram Vanukutondi — Daani Kallu Bhayanto Peddavi Ayyaayi.",
+      "text_en": "As soon as the nest fell, tiny eggs crashed onto the ground and broke — the sight made Chitti gasp. Just then, the mother bird flew in, flapping her wings, crying with a broken heart towards her nest. Her sad cries echoed through the forest, making everyone who heard them feel heartbroken. \"My eggs! My nest!\" she wailed, tears in her eyes, her heart aching. Chitti hid behind a big tree, trembling with fear, her eyes wide."
+    },
+    {
+      "id": 4,
+      "text": "తల్లి పక్షి అరుపులు తగ్గుముఖం పట్టగానే, చిట్టి నెమ్మదిగా దాక్కున్న చోటు నుండి బయటికి వచ్చింది. అది పగిలిన గూడు దగ్గరికి భయంగా నడిచింది — దాని చిన్ని పాదాలు వణుకుతున్నాయి. చెల్లాచెదురైన గూడు పుల్లలు, మట్టిని తన చిన్న చేతులతో కలపాలని ప్రయత్నించింది, కానీ అవి పొడిగా, కఠినంగా ఉండి విరిగిపోతున్నాయి. \"నేను ఎలా సరిదిద్దగలను?\" అని అది నిరాశగా తనలో తాను ప్రశ్నించుకుంది, తల వంచుకుంది. అట్లా నిరాశగా కూర్చున్న చిట్టికి — ఒక్కసారిగా ఒక ఆలోచన మెరిసింది.",
+      "image_prompt": "The small squirrel attempts to gather the scattered sticks and mud from the broken nest with its tiny hands. Its small feet are trembling as the dry, hard pieces crumble under its touch. Dappled sunlight through the leaves, but the immediate area around the nest feels a bit dim, reflecting Chitti's despair.",
+      "scene_visual": "The small squirrel attempts to gather the scattered sticks and mud from the broken nest with its tiny hands. Its small feet are trembling as the dry, hard pieces crumble under its touch.",
+      "supporting_char_keys": [],
+      "text_te_en": "Talli Pakshi Arupulu Taggumukham Pattagaane, Chitti Nemmadigaa Daakkunna Chotu Nundi Bayatiki Vachchindi. Adi Pagilina Gudu Daggariki Bhayangaa Nadichindi — Daani Chinni Paadaalu Vanukutunnaayi. Chellaacheduraina Gudu Pullalu, Mattini Tana Chinna Chetulato Kalapaalani Prayatninchindi, Kaani Avi Podigaa, Kathinangaa Undi Virigipotunnaayi. \"Nenu Elaa Sarididdagalanu?\" Ani Adi Niraashagaa Tanalo Taanu Prashninchukundi, Tala Vanchukundi. Atlaa Niraashagaa Kurchunna Chittiki — Okkasaarigaa Oka Aalochana Merisindi.",
+      "text_en": "As the mother bird's cries quieted down, Chitti slowly crept out from her hiding spot. She walked nervously towards the broken nest, her tiny paws trembling. She tried to gather the scattered twigs and mud with her small hands, but they were dry and hard and just broke apart. \"How can I fix this?\" she whispered to herself in despair, hanging her head. As Chitti sat there feeling hopeless, a sudden idea sparked in her mind."
+    },
+    {
+      "id": 5,
+      "text": "ఆ ఆలోచనతో చిట్టి ముఖం వెలిగిపోయింది — అది వెంటనే కొత్త గూడు కట్టడానికి కావాల్సిన వాటి కోసం వెతకడం మొదలుపెట్టింది. పెద్ద, వెడల్పాటి ఆకు కోసం దాని కళ్ళు అడవి అంతా వెతికాయి. ఒక పొద కింద తాజాగా ఉన్న పచ్చటి పాచి మట్టిని చూసింది — దాని ముక్కుకు ఆ చల్లటి, మెత్తటి స్పర్శ తగిలింది. \"నేను కొత్త గూడు కట్టాలి!\" అని అది దృఢంగా అనుకుంది. సేకరించిన ఆకులను, మెత్తటి పాచి మట్టిని కలిపి — అది జాగ్రత్తగా ఒక కొత్త గూడు ఆకారాన్ని తయారు చేయడం మొదలుపెట్టింది.",
+      "image_prompt": "The small squirrel is carefully combining collected leaves and soft, damp moss. It is diligently shaping them into the form of a new nest. A brighter, more focused light illuminates Chitti as she works, symbolizing her renewed hope and purpose.",
+      "scene_visual": "The small squirrel is carefully combining collected leaves and soft, damp moss. It is diligently shaping them into the form of a new nest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Aalochanato Chitti Mukham Veligipoyindi — Adi Ventane Kotta Gudu Kattadaaniki Kaavaalsina Vaati Kosam Vetakadam Modalupettindi. Pedda, Vedalpaati Aaku Kosam Daani Kallu Adavi Antaa Vetikaayi. Oka Poda Kinda Taajaagaa Unna Pachchati Paachi Mattini Chusindi — Daani Mukkuku Aa Challati, Mettati Sparsha Tagilindi. \"Nenu Kotta Gudu Kattaali!\" Ani Adi Drridhangaa Anukundi. Sekarinchina Aakulanu, Mettati Paachi Mattini Kalipi — Adi Jaagrattagaa Oka Kotta Gudu Aakaaraanni Tayaaru Cheyadam Modalupettindi.",
+      "text_en": "Chitti's face lit up with her idea — she immediately started looking for things to build a new nest. Her eyes searched the whole forest for a big, wide leaf. Under a bush, she found fresh green mossy mud — the cool, soft touch tickled her nose. \"I must build a new nest!\" she decided firmly. Mixing the leaves she collected with the soft mossy mud, she carefully began to shape a new nest."
+    },
+    {
+      "id": 6,
+      "text": "చిట్టి ఎంతో శ్రద్ధగా, చిన్న చిన్న కొమ్మలతో, పాచి మట్టితో కొత్త గూడును అందంగా అల్లింది. అది తన చిన్ని చేతులతో గూడు లోపల మెత్తటి పాచి మట్టిని అమర్చింది, దాని ముఖం సీరియస్‌గా ఉంది. దూరంగా చూస్తున్న తల్లి పక్షి, తన కళ్ళను చిట్టిపై నుండి తీయకుండా జాగ్రత్తగా గమనిస్తోంది. చిట్టి తన ఊపిరి బిగబట్టి — ఆ పగిలిన గుడ్లలో మిగిలిన ఒక చిన్ని గుడ్డును మెల్లగా గూటిలోకి చేర్చింది, ఆ గుడ్డు మెత్తటి పాచిలో దాదాపు శబ్దరహితంగా 'టక్' మని పడింది. \"ఇది ఇప్పుడు సురక్షితంగా ఉంది.\" అని అది చిన్నగా ఊపిరి వదులుతూ అంది.",
+      "image_prompt": "The small squirrel gently places a tiny, remaining egg into the newly constructed nest. The egg softly lands with an almost silent 'thud' into the soft moss lining. Late afternoon sun, warm and golden, highlighting the new nest and the careful movements of Chitti.",
+      "scene_visual": "The small squirrel gently places a tiny, remaining egg into the newly constructed nest. The egg softly lands with an almost silent 'thud' into the soft moss lining.",
+      "supporting_char_keys": [
+        "koela"
+      ],
+      "text_te_en": "Chitti Ento Shraddhagaa, Chinna Chinna Kommalato, Paachi Mattito Kotta Gudunu Andangaa Allindi. Adi Tana Chinni Chetulato Gudu Lopala Mettati Paachi Mattini Amarchindi, Daani Mukham Siriyas‌Gaa Undi. Durangaa Chustunna Talli Pakshi, Tana Kallanu Chittipai Nundi Tiyakundaa Jaagrattagaa Gamanistondi. Chitti Tana Upiri Bigabatti — Aa Pagilina Gudlalo Migilina Oka Chinni Guddunu Mellagaa Gutiloki Cherchindi, Aa Guddu Mettati Paachilo Daadaapu Shabdarahitangaa 'Tak' Mani Padindi. \"Idi Ippudu Surakshitangaa Undi.\" Ani Adi Chinnagaa Upiri Vadulutu Andi.",
+      "text_en": "Chitti carefully and beautifully wove the new nest with small twigs and mossy mud. She arranged the soft mossy mud inside the nest with her tiny hands, her face serious and focused. The mother bird watched from a distance, her eyes carefully fixed on Chitti. Chitti held her breath — and gently placed the one tiny egg that had survived from the broken ones into the new nest. The egg landed almost silently with a soft 'tuck' in the moss. \"It's safe now,\" she whispered, letting out a small sigh of relief."
+    },
+    {
+      "id": 7,
+      "text": "తల్లి పక్షి మెల్లగా కొత్త గూడు వైపు అడుగులేసింది — దాని రెక్కలు మెల్లగా కదిలాయి. అది గూడు లోపల జాగ్రత్తగా చూసింది, గుడ్డును మెల్లగా ముక్కుతో కదిలించింది. ఆ తరువాత, తల్లి పక్షి ఆ కొత్త పాచి గూటిలో నెమ్మదిగా సర్దుకుని కూర్చుంది — దాని రెక్కల సవ్వడి శాంతిని నింపింది. మీరు చూశారా పిల్లలూ, అప్పుడు ఏం జరిగిందో? అది చిట్టి వైపు చూసింది, దాని కళ్ళలో కోపం లేదు — బదులుగా ఒక విధమైన కృతజ్ఞత కనిపించింది. చిట్టి హృదయంలో ఒక వెచ్చని భావన నిండిపోయింది — దాని తప్పుకు ప్రాయశ్చిత్తం దొరికినట్లు.",
+      "image_prompt": "The mother bird is sitting comfortably in the new moss nest, gently nudging the egg with its beak. It then turns its head to look at the small squirrel, its eyes conveying a sense of gratitude. Gentle dusk light, warm amber, bathing the scene in a peaceful, forgiving glow as the day ends.",
+      "scene_visual": "The mother bird is sitting comfortably in the new moss nest, gently nudging the egg with its beak. It then turns its head to look at the small squirrel, its eyes conveying a sense of gratitude.",
+      "supporting_char_keys": [
+        "koela"
+      ],
+      "text_te_en": "Talli Pakshi Mellagaa Kotta Gudu Vaipu Adugulesindi — Daani Rekkalu Mellagaa Kadilaayi. Adi Gudu Lopala Jaagrattagaa Chusindi, Guddunu Mellagaa Mukkuto Kadilinchindi. Aa Taruvaata, Talli Pakshi Aa Kotta Paachi Gutilo Nemmadigaa Sardukuni Kurchundi — Daani Rekkala Savvadi Shaantini Nimpindi. Miru Chushaaraa Pillalu, Appudu Em Jarigindo? Adi Chitti Vaipu Chusindi, Daani Kallalo Kopam Ledu — Badulugaa Oka Vidhamaina Krritajnyata Kanipinchindi. Chitti Hrridayanlo Oka Vechchani Bhaavana Nindipoyindi — Daani Tappuku Praayashchittam Dorikinatlu.",
+      "text_en": "The mother bird slowly took steps towards the new nest, her wings gently fluttering. She looked carefully inside the nest and gently nudged the egg with her beak. Then, the mother bird slowly settled down in the new mossy nest, the soft rustle of her wings filling the air with peace. Did you see, children, what happened next? She looked at Chitti, and there was no anger in her eyes — instead, a look of gratitude. Chitti's heart was filled with a warm feeling, as if her mistake had been forgiven."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "koela",
+      "description": "Koela is a sleek, black cuckoo bird with a long, elegant tail and bright, intelligent eyes. She is usually calm but becomes distressed when her nest is disturbed. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 9.0,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 8,
+    "dialogue_richness": 8,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and exceptional child engagement, making it highly publishable. The direct address to children at the end is a particularly strong element. To elevate it further, focus on consistently showing emotions through action rather than stating them, and refine a few descriptive phrases to enhance the natural, spontaneous feel of oral storytelling."
+  },
+  "title_te_en": "Porapaatu Chesina Chitti Paatham",
+  "moral_te_en": "Chinna Chinna Porapaatlu Pedda Samasyalaku Daaritiyavachchu, Kaani Vaatini Sarididdadaaniki Prayatninchadame Nijamaina Goppadanan.",
+  "title_en": "Chitti's Mistake and the Lesson Learned",
+  "moral_en": "Small mistakes can lead to big problems, but trying to fix them is true greatness.",
+  "id": "20260613_050911",
+  "date": "2026-06-13",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "పొరపాటు చేసిన చిన్ని ఉడుత మరియు పక్షి గూడు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260613_050911/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
