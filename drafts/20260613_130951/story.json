@@ -1,0 +1,126 @@
+{
+  "title": "కనిపించని కోట రహస్యం",
+  "moral": "తెలివైన ఆలోచన, హాస్య చతురతతో ఎంత పెద్ద సమస్యనైనా పరిష్కరించవచ్చు.",
+  "main_character": "A lean, sharp-witted poet and jester in the court of Emperor Krishnadevaraya. He has a mischievous twinkle in his eyes and often wears a slightly disheveled turban. Always the same character across every scene.",
+  "antagonist": "A portly, perpetually annoyed minister named Mahamantri Bhaskar, always dressed in rich, dark silks with an ornate, gilded turban. He has a thin mustache that twitches when displeased and a booming, self-important voice. Always the same character across every scene.",
+  "setting": "The grand court of Emperor Krishnadevaraya in Vijayanagara. Ornate pillars, vibrant tapestries, and a large throne are central, often bustling with courtiers and activity. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఆ రోజు కొలువులో ఒక చిన్న గొడవ పెద్దదైపోతుంటే, తెనాలి రామకృష్ణుడు ముందుకు వచ్చాడు. అతని కళ్ళలో చిలిపి మెరుపు మెరిసింది — పెదవుల మీద చిరునవ్వు తేలింది. అప్పుడు పకపకా నవ్విన సభలో, అతని మాటలు గంభీరంగా వినిపించాయి: \"మహారాజా, ఈ 'ఆవు' గడ్డి తింటుంది, కానీ 'పులి'లా గర్జిస్తుంది!\" అతని ఉపమానానికి అందరూ గొల్లున నవ్వారు, ఆ నవ్వుల ప్రతిధ్వనులు పైకప్పుకు తాకి మళ్ళీ తిరిగి వచ్చాయి. మహారాజు ముఖం పదివేల దీపాల వెలుగులా వెలిగింది — ఆయన మెల్లగా గొంతు సవరించుకున్నారు, ఏదో ముఖ్యమైన విషయం చెప్పబోతున్నట్లు.",
+      "image_prompt": "The boy steps forward in the assembly, a mischievous twinkle in his eyes and a smile on his lips. The king's face glows brightly, as if illuminated by ten thousand lamps, as he clears his throat. Bright morning sun streaming through large arched windows, illuminating dust motes dancing in the air, a warm and lively atmosphere.",
+      "scene_visual": "The boy steps forward in the assembly, a mischievous twinkle in his eyes and a smile on his lips. The king's face glows brightly, as if illuminated by ten thousand lamps, as he clears his throat.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Aa Roju Koluvulo Oka Chinna Godava Peddadaipotunte, Tenaali Raamakrrishnudu Munduku Vachchaadu. Atani Kallalo Chilipi Merupu Merisindi — Pedavula Mida Chirunavvu Telindi. Appudu Pakapakaa Navvina Sabhalo, Atani Maatalu Gambhirangaa Vinipinchaayi: \"Mahaaraajaa, I 'Aavu' Gaddi Tintundi, Kaani 'Puli'Laa Garjistundi!\" Atani Upamaanaaniki Andaru Golluna Navvaaru, Aa Navvula Pratidhvanulu Paikappuku Taaki Malli Tirigi Vachchaayi. Mahaaraaju Mukham Padivela Dipaala Velugulaa Veligindi — Aayana Mellagaa Gontu Savarinchukunnaaru, Edo Mukhyamaina Vishayam Cheppabotunnatlu.",
+      "text_en": "One day, as a small argument in the court grew bigger, Tenali Ramakrishna stepped forward. A mischievous sparkle twinkled in his eyes, and a smile played on his lips. Then, in the assembly that burst into laughter, his words were heard gravely: \"Oh King, this 'cow' eats grass, but it roars like a 'tiger'!\" Everyone burst into laughter at his clever comparison, and the echoes of their laughter hit the ceiling and bounced back. The King's face lit up like the glow of ten thousand lamps – he slowly cleared his throat, as if about to announce something very important."
+    },
+    {
+      "id": 2,
+      "text": "మహారాజు గంభీరంగా గొంతు సవరించుకుంటూ, ఒక వింత సవాలును ప్రకటించారు: \"ఒక కనిపించని కోటను నిర్మించి, ఒక నెల రోజులు శత్రువుల నుండి కాపాడాలి!\" ఆ మాటలకు కొలువులో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది, పట్టు వస్త్రాల సవ్వడి తప్ప ఏ శబ్దమూ లేదు. తెనాలి రామకృష్ణుడి నుదురు చిట్లింది — ఈ వింత సవాలుకు ఏమి చేయాలో తెలియక తికమకపడ్డాడు. మహామంత్రి భాస్కరుడు పెదవుల మీద చిరునవ్వుతో తెనాలి వైపు చూశాడు, అతని పతనం ఖాయమని అనుకుంటున్నట్లు. \"ఒకవేళ విఫలమైతే, బహిష్కరణే శిక్ష!\" అని మహారాజు కఠినంగా ప్రకటించారు — ఆ గాలి ఒక్కసారిగా బరువెక్కిపోయింది.",
+      "image_prompt": "The boy's brow furrows in confusion, unsure of how to respond to the strange challenge. The chief minister watches him with a subtle smile playing on his lips, anticipating his downfall. The sun has moved slightly, casting longer shadows across the court floor, the atmosphere turning from lively to tense and expectant.",
+      "scene_visual": "The boy's brow furrows in confusion, unsure of how to respond to the strange challenge. The chief minister watches him with a subtle smile playing on his lips, anticipating his downfall.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Mahaaraaju Gambhirangaa Gontu Savarinchukuntu, Oka Vinta Savaalunu Prakatinchaaru: \"Oka Kanipinchani Kotanu Nirminchi, Oka Nela Rojulu Shatruvula Nundi Kaapaadaali!\" Aa Maatalaku Koluvulo Okkasaarigaa Nishshabdam Alumukundi, Pattu Vastraala Savvadi Tappa E Shabdamu Ledu. Tenaali Raamakrrishnudi Nuduru Chitlindi — I Vinta Savaaluku Emi Cheyaalo Teliyaka Tikamakapaddaadu. Mahaamantri Bhaaskarudu Pedavula Mida Chirunavvuto Tenaali Vaipu Chushaadu, Atani Patanam Khaayamani Anukuntunnatlu. \"Okavela Viphalamaite, Bahishkarane Shiksha!\" Ani Mahaaraaju Kathinangaa Prakatinchaaru — Aa Gaali Okkasaarigaa Baruvekkipoyindi.",
+      "text_en": "The King gravely cleared his throat and announced a strange challenge: \"You must build an invisible fort and protect it from enemies for one month!\" At these words, silence suddenly fell over the court; there was no sound except the rustle of silk clothes. Tenali Ramakrishna's brow furrowed – he was confused, not knowing what to do with this strange challenge. Chief Minister Bhaskarudu looked at Tenali with a smile on his lips, as if thinking Tenali's downfall was certain. \"If you fail, the punishment will be banishment!\" the King declared sternly – and the air suddenly grew heavy."
+    },
+    {
+      "id": 3,
+      "text": "మరుసటి రోజు, తెనాలి తన సేవకులను పిలిచి, ఒక ఖాళీ స్థలంలో కనిపించని కోట చుట్టూ కందకాలు తవ్వమని ఆదేశించాడు. అతని కంఠంలో ధైర్యం ఉన్నా, కళ్ళల్లో కొద్దిపాటి ఆందోళన మెరిసింది — ఇది ఎంతవరకు పని చేస్తుందో అని. సేవకులు తికమకగా ఒకరి ముఖాలు ఒకరు చూసుకున్నారు, గడ్డపారలు పొడి మట్టిలో లయబద్ధంగా దిగుతుంటే. \"ఈ కనిపించని కోటను రక్షించడానికి కనిపించని ప్రణాళికలు అవసరం!\" అని తెనాలి గట్టిగా చెప్పాడు, తన తలపాగాను సరిచేసుకుంటూ. దూరం నుండి ఈ వింత పనిని చూసిన రాజ సైనికులు — కళ్ళు పెద్దవి చేసుకుని, నోరు తెరిచారు.",
+      "image_prompt": "Servants look at each other in confusion as their pickaxes rhythmically strike the dry earth. Royal soldiers in the distance watch with wide eyes and open mouths, observing the strange activity. Harsh midday sun beats down on a dusty, open field near the palace, creating long, stark shadows from the digging, reflecting Tenali's internal struggle.",
+      "scene_visual": "Servants look at each other in confusion as their pickaxes rhythmically strike the dry earth. Royal soldiers in the distance watch with wide eyes and open mouths, observing the strange activity.",
+      "supporting_char_keys": [
+        "royal_guard_captain",
+        "servant"
+      ],
+      "text_te_en": "Marusati Roju, Tenaali Tana Sevakulanu Pilichi, Oka Khaali Sthalanlo Kanipinchani Kota Chuttu Kandakaalu Tavvamani Aadeshinchaadu. Atani Kanthanlo Dhairyam Unnaa, Kallallo Koddipaati Aandolana Merisindi — Idi Entavaraku Pani Chestundo Ani. Sevakulu Tikamakagaa Okari Mukhaalu Okaru Chusukunnaaru, Gaddapaaralu Podi Mattilo Layabaddhangaa Digutunte. \"I Kanipinchani Kotanu Rakshinchadaaniki Kanipinchani Pranaalikalu Avasaran!\" Ani Tenaali Gattigaa Cheppaadu, Tana Talapaagaanu Sarichesukuntu. Duram Nundi I Vinta Panini Chusina Raaja Sainikulu — Kallu Peddavi Chesukuni, Noru Terichaaru.",
+      "text_en": "The next day, Tenali called his servants and ordered them to dig trenches around an invisible fort in an empty field. Though there was courage in his voice, a little worry twinkled in his eyes – wondering how well this plan would work. The servants looked at each other in confusion, as pickaxes rhythmically dug into the dry earth. \"To protect this invisible fort, invisible plans are needed!\" Tenali declared loudly, adjusting his turban. Royal soldiers watching this strange work from a distance widened their eyes and opened their mouths in surprise."
+    },
+    {
+      "id": 4,
+      "text": "తెనాలి ఆ కనిపించని కోట చుట్టూ కనిపించని విష సర్పాలు, దెయ్యాలు కాపలా ఉన్నాయని పుకార్లు పుట్టించాడు. ఆశగా చూశాడు — ఈ మాటలు పని చేస్తాయేమో అని. కానీ ఆ పుకార్లు ఎండుటాకుల సవ్వడిలా ప్రజల చెవుల్లో పడి, వినోదంగా మారిపోయాయి. \"భయం అనేది కనిపించని ఆయుధం, కానీ దానిని నమ్మేవాళ్ళు కావాలి కదా?\" అని తెనాలి నిరాశగా తల పట్టుకున్నాడు. వెంటనే మహామంత్రి భాస్కరుడు కొలువులో పెద్దగా నవ్వాడు — అతని పలచని మీసం విపరీతంగా కదిలింది. \"తెనాలి కనిపించని కోట, అతని కనిపించని తెలివి రెండూ ఒకటే!\" అని గట్టిగా ఎగతాళి చేశాడు.",
+      "image_prompt": "The boy holds his head in despair, his hopes dashed as his rumors turn into amusement. The chief minister laughs loudly in the assembly, his thin mustache twitching vigorously with his mirth. Dimming evening light in the court, casting long, dramatic shadows as Bhaskar's words hang heavy in the air, highlighting Tenali's discomfort.",
+      "scene_visual": "The boy holds his head in despair, his hopes dashed as his rumors turn into amusement. The chief minister laughs loudly in the assembly, his thin mustache twitching vigorously with his mirth.",
+      "supporting_char_keys": [
+        "emperor"
+      ],
+      "text_te_en": "Tenaali Aa Kanipinchani Kota Chuttu Kanipinchani Visha Sarpaalu, Deyyaalu Kaapalaa Unnaayani Pukaarlu Puttinchaadu. Aashagaa Chushaadu — I Maatalu Pani Chestaayemo Ani. Kaani Aa Pukaarlu Endutaakula Savvadilaa Prajala Chevullo Padi, Vinodangaa Maaripoyaayi. \"Bhayam Anedi Kanipinchani Aayudhan, Kaani Daanini Nammevaallu Kaavaali Kadaa?\" Ani Tenaali Niraashagaa Tala Pattukunnaadu. Ventane Mahaamantri Bhaaskarudu Koluvulo Peddagaa Navvaadu — Atani Palachani Misam Viparitangaa Kadilindi. \"Tenaali Kanipinchani Kota, Atani Kanipinchani Telivi Rendu Okate!\" Ani Gattigaa Egataali Cheshaadu.",
+      "text_en": "Tenali spread rumors that invisible venomous snakes and ghosts were guarding the invisible fort. He watched hopefully, wondering if these words would work. But the rumors fell on people's ears like the rustle of dry leaves and simply became entertainment. \"Fear is an invisible weapon, but you need people to believe in it, don't you?\" Tenali said, holding his head in despair. Immediately, Chief Minister Bhaskarudu laughed loudly in the court – his thin mustache twitched wildly. \"Tenali's invisible fort and his invisible cleverness are one and the same!\" he mocked loudly."
+    },
+    {
+      "id": 5,
+      "text": "ఒక రోజు ఉదయం, తెనాలి రాజభవనం దగ్గర పిల్లలు కోట కోట ఆట ఆడుకోవడం చూశాడు. వాళ్ళు తమ ఊహలతో సరిహద్దులు గీసి, కనిపించని సైనికులను నిలబెట్టారు — ఆనందంగా అరుస్తూ, నవ్వుతూ. తెనాలి తల వంచి, దీర్ఘంగా ఆలోచించాడు. ఆ క్షణంలో అతని కళ్ళు ఒక్కసారిగా వెలిగాయి — అతని ముఖంలో ఏదో అర్థమైనట్లు స్పష్టంగా కనిపించింది. \"అవును! కనిపించని దానికి కనిపించని రక్షణే సరిపోతుంది!\" అని గట్టిగా అరిచాడు. ఒక్కసారిగా — తెనాలి చేతులు చరిచి, ఆనందంతో మెరిసిపోతూ, ఏదో కొత్త ఆలోచనతో పరుగెత్తుకుపోయాడు.",
+      "image_prompt": "The boy's eyes suddenly light up as he claps his hands together, a clear understanding dawning on his face. He then runs off, glowing with happiness and a new idea, his hands still clapping. Soft, golden afternoon light bathing a quiet corner of the palace gardens where children play, a moment of gentle calm before the storm.",
+      "scene_visual": "The boy's eyes suddenly light up as he claps his hands together, a clear understanding dawning on his face. He then runs off, glowing with happiness and a new idea, his hands still clapping.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Roju Udayan, Tenaali Raajabhavanam Daggara Pillalu Kota Kota Aata Aadukovadam Chushaadu. Vaallu Tama Uhalato Sarihaddulu Gisi, Kanipinchani Sainikulanu Nilabettaaru — Aanandangaa Arustu, Navvutu. Tenaali Tala Vanchi, Dirghangaa Aalochinchaadu. Aa Kshananlo Atani Kallu Okkasaarigaa Veligaayi — Atani Mukhanlo Edo Arthamainatlu Spashtangaa Kanipinchindi. \"Avunu! Kanipinchani Daaniki Kanipinchani Rakshane Saripotundi!\" Ani Gattigaa Arichaadu. Okkasaarigaa — Tenaali Chetulu Charichi, Aanandanto Merisipotu, Edo Kotta Aalochanato Parugettukupoyaadu.",
+      "text_en": "One morning, Tenali saw children playing a fort game near the palace. They drew boundaries with their imagination and placed invisible soldiers – shouting and laughing happily. Tenali bowed his head and thought deeply. In that moment, his eyes suddenly lit up – it was clear from his face that he had understood something. \"Yes! Invisible protection is enough for something invisible!\" he shouted loudly. All at once – Tenali clapped his hands, beaming with joy, and ran off with a new idea."
+    },
+    {
+      "id": 6,
+      "text": "పరీక్ష రోజు వచ్చింది — మహారాజు, మంత్రులు, ప్రజలు అందరూ గుమిగూడారు. తెనాలి అందరినీ ఖాళీ స్థలం వైపు చూపించాడు, అతని కళ్ళలో చిలిపి మెరుపు. \"మహారాజా, ఇదిగో మా కనిపించని కోట!\" అని ధైర్యంగా ప్రకటించాడు. \"దీనిని కాపాడటానికి, దీనిని దాటడానికి ధైర్యం కావాలి!\" ఆ మాటలకు గుమిగూడిన జనంలో గుసగుసలు, ఆశ్చర్యంతో కూడిన నిట్టూర్పులు వినిపించాయి. మహామంత్రి భాస్కరుడు ఎగతాళిగా నవ్వడానికి ముందుకు అడుగు వేశాడు — అతని గుండె వేగంగా కొట్టుకుంది. \"మహామంత్రి గారూ, ఈ కనిపించని సరిహద్దును దాటగలరా?\" అని తెనాలి నేరుగా సవాలు విసిరాడు.",
+      "image_prompt": "The boy points confidently towards the empty space, a mischievous glint in his eyes, as he challenges the chief minister. The chief minister steps forward, his heart pounding, ready to mock but now directly confronted. Bright, clear morning light in the open courtyard, a dramatic stage for Tenali's performance, highlighting the faces of the onlookers.",
+      "scene_visual": "The boy points confidently towards the empty space, a mischievous glint in his eyes, as he challenges the chief minister. The chief minister steps forward, his heart pounding, ready to mock but now directly confronted.",
+      "supporting_char_keys": [
+        "emperor",
+        "royal_guard_captain"
+      ],
+      "text_te_en": "Pariksha Roju Vachchindi — Mahaaraaju, Mantrulu, Prajalu Andaru Gumigudaaru. Tenaali Andarini Khaali Sthalam Vaipu Chupinchaadu, Atani Kallalo Chilipi Merupu. \"Mahaaraajaa, Idigo Maa Kanipinchani Kota!\" Ani Dhairyangaa Prakatinchaadu. \"Dinini Kaapaadataaniki, Dinini Daatadaaniki Dhairyam Kaavaali!\" Aa Maatalaku Gumigudina Jananlo Gusagusalu, Aashcharyanto Kudina Nitturpulu Vinipinchaayi. Mahaamantri Bhaaskarudu Egataaligaa Navvadaaniki Munduku Adugu Veshaadu — Atani Gunde Vegangaa Kottukundi. \"Mahaamantri Gaaru, I Kanipinchani Sarihaddunu Daatagalaraa?\" Ani Tenaali Nerugaa Savaalu Visiraadu.",
+      "text_en": "The day of the test arrived – the King, ministers, and people all gathered. Tenali pointed everyone towards the empty space, a mischievous sparkle in his eyes. \"Oh King, here is our invisible fort!\" he declared bravely. \"To protect it, and to cross it, courage is needed!\" At these words, whispers and gasps of surprise were heard among the gathered crowd. Chief Minister Bhaskarudu stepped forward to laugh mockingly – his heart beating fast. \"Chief Minister, can you cross this invisible boundary?\" Tenali challenged him directly."
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి తన వాదనను స్పష్టంగా వివరించాడు: \"ఒక కనిపించని కోటను దాటాలంటే, ముందు అది ఉందని నమ్మాలి కదా?\" అతని మాటలకు సభలో అందరూ తలూపారు. \"కనిపించని కోటను దాటితే, కనిపించని సైనికులు మిమ్మల్ని పట్టుకుంటారు!\" అని తెనాలి నవ్వుతూ చెప్పాడు. కనిపించని దానికి కనిపించని రక్షణే సరైనదని తెనాలి నిరూపించాడు. మహారాజు గట్టిగా నవ్వారు — ఆ నవ్వు కొలువు అంతా ప్రతిధ్వనించింది. \"తెనాలి, నీ తెలివికి మించిన కోట లేదు!\" అని మెచ్చుకున్నారు, అతని భుజం తడుతూ. అందరి ముఖాల్లో ఆనందం, అబ్బురం — తెనాలి తెలివికి సాటి లేదని మరోసారి నిరూపితమైంది.",
+      "image_prompt": "The king laughs heartily, his laughter echoing throughout the assembly hall, and pats the boy on the shoulder. The faces of everyone present are filled with joy and wonder, acknowledging the boy's unparalleled wit. Warm, celebratory sunlight, casting long, gentle shadows as the tension lifts, a sense of joy and wisdom pervades the scene.",
+      "scene_visual": "The king laughs heartily, his laughter echoing throughout the assembly hall, and pats the boy on the shoulder. The faces of everyone present are filled with joy and wonder, acknowledging the boy's unparalleled wit.",
+      "supporting_char_keys": [
+        "emperor",
+        "royal_guard_captain"
+      ],
+      "text_te_en": "Tenaali Tana Vaadananu Spashtangaa Vivarinchaadu: \"Oka Kanipinchani Kotanu Daataalante, Mundu Adi Undani Nammaali Kadaa?\" Atani Maatalaku Sabhalo Andaru Talupaaru. \"Kanipinchani Kotanu Daatite, Kanipinchani Sainikulu Mimmalni Pattukuntaaru!\" Ani Tenaali Navvutu Cheppaadu. Kanipinchani Daaniki Kanipinchani Rakshane Sarainadani Tenaali Nirupinchaadu. Mahaaraaju Gattigaa Navvaaru — Aa Navvu Koluvu Antaa Pratidhvaninchindi. \"Tenaali, Ni Teliviki Minchina Kota Ledu!\" Ani Mechchukunnaaru, Atani Bhujam Tadutu. Andari Mukhaallo Aanandan, Abburam — Tenaali Teliviki Saati Ledani Marosaari Nirupitamaindi.",
+      "text_en": "Tenali clearly explained his argument: \"To cross an invisible fort, one must first believe it exists, right?\" Everyone in the assembly nodded at his words. \"If you cross the invisible fort, invisible soldiers will catch you!\" Tenali said with a laugh. Tenali proved that invisible protection is indeed the right kind of protection for something invisible. The King laughed loudly – that laughter echoed throughout the court. \"Tenali, there is no fort greater than your wit!\" he praised, patting his shoulder. Joy and wonder filled everyone's faces – it was once again proven that Tenali's wit was unmatched."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "emperor",
+      "description": "Emperor Krishnadevaraya, a regal and imposing figure, known for his wisdom and love of art and justice. He wears magnificent royal attire with a jewel-encrusted crown and carries a benevolent yet discerning expression. Always the same character across every scene."
+    },
+    {
+      "key": "royal_guard_captain",
+      "description": "A tall, stern man with a neatly trimmed beard, dressed in the distinctive red and gold uniform of the Vijayanagara royal guard. He carries a polished sword and observes Tenali with a mix of duty and skepticism. Always the same character across every scene."
+    },
+    {
+      "key": "servant",
+      "description": "A young, earnest palace servant, dressed in simple white dhoti and an upper cloth, often seen carrying trays or running errands. He is easily confused but loyal to Tenali. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.833333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.83,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "The story presents a compelling narrative arc with strong emotional depth, effectively showing characters' feelings rather than stating them. The dialogue is rich and character-specific, and the Telugu grammar is flawless and colloquial, making it a pleasure to read. However, the narrative voice, while clear and descriptive, sometimes leans towards a more formal written style, lacking the consistent warmth and directness of a true oral bedtime story. To reach an award-worthy 9+, the primary focus should be on infusing more of that 'oral warmth' through slightly more informal phrasing and perhaps a touch of direct address or rhetorical questions to the listener."
+  },
+  "title_te_en": "Kanipinchani Kota Rahasyam",
+  "moral_te_en": "Telivaina Aalochana, Haasya Chaturatato Enta Pedda Samasyanainaa Parishkarinchavachchu.",
+  "title_en": "The Secret of the Invisible Fort",
+  "moral_en": "Even the biggest problems can be solved with clever thinking and witty humor.",
+  "id": "20260613_130951",
+  "date": "2026-06-13",
+  "category": "tenali",
+  "subcategory": "clever_schemes",
+  "topic": "తెనాలి రాముడు మరియు 'కనిపించని కోట' రహస్యం.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260613_130951/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
