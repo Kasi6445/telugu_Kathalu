@@ -1,0 +1,117 @@
+{
+  "title": "తెనాలి బంగారు మామిడి",
+  "moral": "నిజమైన తెలివి తేటలు సమస్యలను సరళంగా పరిష్కరించి, వాటి అసలు విలువను మనకు చూపిస్తాయి, తెలుసా?",
+  "main_character": "Tenali Ramakrishna is a quick-witted and intelligent Brahmin scholar, known for his sharp humor and insightful solutions. He has a lean build, a mischievous twinkle in his eyes, and often wears simple, yet dignified, traditional South Indian attire with a prominent 'tilaka' on his forehead. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The grand, ornate court of King Krishnadevaraya in Hampi, Vijayanagara. Polished stone pillars reflect the morning light, intricate carvings adorn the walls, and a large, plush carpet covers the floor leading up to the majestic throne. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "తెనాలి రామకృష్ణుడు సభలో అరుస్తున్న వ్యాపారులను చూసి మెల్లగా నవ్వాడు. వాళ్ళిద్దరూ గట్టిగా వాదించుకుంటున్నారు, ఒకరిపై ఒకరు చేతులు ఊపుతున్నారు. ఒక వ్యాపారి విసుగుతో నిట్టూర్చాడు — ఆ శబ్దం కోర్టులో ప్రతిధ్వనించింది. \"మహారాజా, ఈ సమస్యకు పరిష్కారం వారిద్దరి నోటిలోనే ఉంది!\" అని తెనాలి చిలిపిగా అన్నాడు, అతని కళ్ళల్లో తెలివైన మెరుపు. రాజు కృష్ణదేవరాయలు ముసిముసి నవ్వులు చిందిస్తూ చప్పట్లు కొట్టాడు — అందరూ ఒక్కసారిగా నిశ్శబ్దమయ్యారు. అప్పుడే ఒక రాజ సేవకుడు ఒక పళ్లెం తెచ్చాడు, దానిపై ఒక వస్త్రం కప్పబడి ఉంది.",
+      "image_prompt": "The king claps his hands together, causing the noisy court to fall silent. A subtle, knowing smile plays on his lips as he does so. Bright morning sunlight streaming through high arched windows, illuminating dust motes dancing in the air, creating a warm, golden glow across the court.",
+      "scene_visual": "The king claps his hands together, causing the noisy court to fall silent. A subtle, knowing smile plays on his lips as he does so.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Tenaali Raamakrrishnudu Sabhalo Arustunna Vyaapaarulanu Chusi Mellagaa Navvaadu. Vaalliddaru Gattigaa Vaadinchukuntunnaaru, Okaripai Okaru Chetulu Uputunnaaru. Oka Vyaapaari Visuguto Nitturchaadu — Aa Shabdam Kortulo Pratidhvaninchindi. \"Mahaaraajaa, I Samasyaku Parishkaaram Vaariddari Notilone Undi!\" Ani Tenaali Chilipigaa Annaadu, Atani Kallallo Telivaina Merupu. Raaju Krrishnadevaraayalu Musimusi Navvulu Chindistu Chappatlu Kottaadu — Andaru Okkasaarigaa Nishshabdamayyaaru. Appude Oka Raaja Sevakudu Oka Pallem Techchaadu, Daanipai Oka Vastram Kappabadi Undi.",
+      "text_en": "Tenali Ramakrishna smiled softly as he watched the shouting merchants in the court. The two of them were arguing loudly, waving their hands at each other. One merchant sighed in frustration — the sound echoed through the court. \"Your Majesty, the solution to this problem is right in their own mouths!\" Tenali said mischievously, a clever sparkle in his eyes. King Krishnadevaraya chuckled and clapped his hands — everyone instantly fell silent. Just then, a royal servant brought in a tray, covered with a cloth."
+    },
+    {
+      "id": 2,
+      "text": "ఆ పళ్లెంపై కప్పిన వస్త్రాన్ని రాజు కృష్ణదేవరాయలు నెమ్మదిగా తీశాడు. లోపల మెరిసిపోతున్న ఒక బంగారు మామిడి పండు — సూర్యరశ్మి పడి తళతళలాడుతుంది. తెనాలి ఆ పండును చూసి తన కనుబొమ్మలు పైకెత్తాడు, ఏదో కొత్త చిక్కుముడి ఉందని అర్థమైంది. \"ఈ బంగారు మామిడి పండును అందరూ పంచుకోవాలి, కానీ ఒక షరతు!\" అని రాజు గంభీరంగా ప్రకటించాడు. కోర్టులో అందరూ ఒకరి ముఖం ఒకరు చూసుకున్నారు, ఆ షరతు ఏమిటో అని ఆలోచిస్తూ. రాజు ఇంకా వివరాలు చెప్పడానికి సిద్ధమయ్యాడు.",
+      "image_prompt": "The king slowly lifts the cloth covering the platter, revealing its contents. Inside, a gleaming golden mango shimmers brightly as sunlight catches its surface. A focused beam of light from a high window falls directly onto the golden mango on the King's table, making it sparkle like a jewel against the rich crimson cloth.",
+      "scene_visual": "The king slowly lifts the cloth covering the platter, revealing its contents. Inside, a gleaming golden mango shimmers brightly as sunlight catches its surface.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Aa Pallempai Kappina Vastraanni Raaju Krrishnadevaraayalu Nemmadigaa Tishaadu. Lopala Merisipotunna Oka Bangaaru Maamidi Pandu — Suryarashmi Padi Talatalalaadutundi. Tenaali Aa Pandunu Chusi Tana Kanubommalu Paikettaadu, Edo Kotta Chikkumudi Undani Arthamaindi. \"I Bangaaru Maamidi Pandunu Andaru Panchukovaali, Kaani Oka Sharatu!\" Ani Raaju Gambhirangaa Prakatinchaadu. Kortulo Andaru Okari Mukham Okaru Chusukunnaaru, Aa Sharatu Emito Ani Aalochistu. Raaju Inkaa Vivaraalu Cheppadaaniki Siddhamayyaadu.",
+      "text_en": "King Krishnadevaraya slowly removed the cloth covering the tray. Inside was a glittering golden mango — sparkling as the sunlight hit it. Tenali raised his eyebrows at the sight of the fruit, understanding that a new puzzle was at hand. \"Everyone must share this golden mango, but there's a condition!\" the King announced grandly. Everyone in the court looked at each other, wondering what the condition could be. The King prepared to explain further."
+    },
+    {
+      "id": 3,
+      "text": "\"ఈ బంగారు మామిడి పండును ముక్కలు చేయకూడదు,\" అని రాజు కృష్ణదేవరాయలు చెప్పాడు, \"కానీ సభలోని ప్రతి ఒక్కరికీ సమానమైన వాటా అందాలి!\" రాజు మాటలు విన్న సభలోని మంత్రులు నిశ్శబ్దమయ్యారు, ఒకరి ముఖం ఒకరు చూసుకున్నారు. వాళ్ళ పట్టువస్త్రాలు కదిలిన శబ్దం తప్ప — ఇంకే శబ్దం లేదు. తెనాలి రామకృష్ణుడు మౌనంగా అందరినీ గమనించాడు, అతని కళ్ళల్లో తెలిసిన చిరునవ్వు మెరిసింది. \"మామిడి పండును ముక్కలు చేయకుండానే అందరికీ సమాన వాటా ఎలా?\" అని ఒక మంత్రి గట్టిగా అడిగాడు, అతని ముఖం గందరగోళంగా ఉంది. చాలామంది మంత్రులు వెంటనే ఏదో ఒక పరిష్కారం చెప్పడానికి ప్రయత్నించారు, కోర్టులో గందరగోళం మొదలైంది.",
+      "image_prompt": "The ministers in the court exchange confused glances, their faces reflecting bewilderment. The only sound is the rustle of their silk garments as they shift uneasily. The court remains brightly lit, but a shadow of perplexity seems to fall over the faces of the courtiers, contrasting with the King's amused expression.",
+      "scene_visual": "The ministers in the court exchange confused glances, their faces reflecting bewilderment. The only sound is the rustle of their silk garments as they shift uneasily.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "\"I Bangaaru Maamidi Pandunu Mukkalu Cheyakudadu,\" Ani Raaju Krrishnadevaraayalu Cheppaadu, \"Kaani Sabhaloni Prati Okkariki Samaanamaina Vaataa Andaali!\" Raaju Maatalu Vinna Sabhaloni Mantrulu Nishshabdamayyaaru, Okari Mukham Okaru Chusukunnaaru. Vaalla Pattuvastraalu Kadilina Shabdam Tappa — Inke Shabdam Ledu. Tenaali Raamakrrishnudu Maunangaa Andarini Gamaninchaadu, Atani Kallallo Telisina Chirunavvu Merisindi. \"Maamidi Pandunu Mukkalu Cheyakundaane Andariki Samaana Vaataa Elaa?\" Ani Oka Mantri Gattigaa Adigaadu, Atani Mukham Gandaragolangaa Undi. Chaalaamandi Mantrulu Ventane Edo Oka Parishkaaram Cheppadaaniki Prayatninchaaru, Kortulo Gandaragolam Modalaindi.",
+      "text_en": "\"This golden mango must not be cut into pieces,\" King Krishnadevaraya declared, \"but everyone in the court must receive an equal share!\" Hearing the King's words, the ministers in the court fell silent, looking at each other. There was no sound except for the rustling of their silk robes. Tenali Ramakrishna quietly observed everyone, a knowing smile twinkling in his eyes. \"How can everyone get an equal share without cutting the mango?\" a minister asked loudly, his face confused. Many ministers immediately tried to suggest solutions, and chaos began in the court."
+    },
+    {
+      "id": 4,
+      "text": "సభలోని మంత్రులు గాలిలో చేతులు ఊపుతూ, ఊహాజనిత మామిడి ముక్కలను ఒకరికొకరు చూపుకున్నారు. \"నేను ఈ భాగం గురించి ఆలోచిస్తున్నాను, అది నాదే!\" అని ఒకడు వాదించాడు, మరొకడు తన వంతు కోసం కేకలు వేశాడు. తెనాలి రామకృష్ణుడు ఓపికగా వెనక్కి వాలి, ఆ దృశ్యాన్ని చూసి లోపల నవ్వుకున్నాడు. వాళ్ళ ప్రయత్నాలన్నీ నిష్ఫలం అని అతనికి తెలుసు. రాజు కృష్ణదేవరాయలు చివరకు విసుగుచెందాడు, అతని కనుబొమ్మలు ముడిపడ్డాయి. ఆ క్షణంలో రాజు చూపు నేరుగా తెనాలి రామకృష్ణుడి వైపు తిరిగింది.",
+      "image_prompt": "The king, his eyebrows furrowed in frustration, turns his gaze directly towards the clever man. A look of weary exasperation is clear on the king's face. The court takes on a slightly chaotic feel, with courtiers moving and gesturing, creating shifting patterns of light and shadow on the polished floor.",
+      "scene_visual": "The king, his eyebrows furrowed in frustration, turns his gaze directly towards the clever man. A look of weary exasperation is clear on the king's face.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Sabhaloni Mantrulu Gaalilo Chetulu Uputu, Uhaajanita Maamidi Mukkalanu Okarikokaru Chupukunnaaru. \"Nenu I Bhaagam Gurinchi Aalochistunnaanu, Adi Naade!\" Ani Okadu Vaadinchaadu, Marokadu Tana Vantu Kosam Kekalu Veshaadu. Tenaali Raamakrrishnudu Opikagaa Venakki Vaali, Aa Drrishyaanni Chusi Lopala Navvukunnaadu. Vaalla Prayatnaalanni Nishphalam Ani Ataniki Telusu. Raaju Krrishnadevaraayalu Chivaraku Visuguchendaadu, Atani Kanubommalu Mudipaddaayi. Aa Kshananlo Raaju Chupu Nerugaa Tenaali Raamakrrishnudi Vaipu Tirigindi.",
+      "text_en": "The ministers in the court waved their hands in the air, pointing out imaginary mango pieces to each other. \"I'm thinking about this part, it's mine!\" one argued, while another shouted for his turn. Tenali Ramakrishna patiently leaned back, chuckling to himself at the scene. He knew all their attempts would be fruitless. King Krishnadevaraya finally grew tired, his eyebrows furrowed. At that moment, the King's gaze turned directly towards Tenali Ramakrishna."
+    },
+    {
+      "id": 5,
+      "text": "రాజు కృష్ణదేవరాయలు చూపు తనపై పడగానే, తెనాలి నిటారుగా కూర్చున్నాడు. కోర్టులో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది — రాజు గొంతు స్పష్టంగా వినిపించింది. \"రామకృష్ణా, ఈ బంగారు మామిడి పండు న్యాయం నీదే!\" అని రాజు గంభీరంగా అన్నాడు. తెనాలి చిరునవ్వుతో తల వంచాడు, ఈ సవాలును స్వీకరించడానికి సిద్ధంగా ఉన్నాడు. అతని కళ్ళల్లో దృఢమైన నమ్మకం కనిపించింది. మరుసటి రోజు ఉదయం, తెనాలి సభలోకి వచ్చాడు, కానీ అతని చేతిలో బంగారు మామిడి పండు లేదు — ఒక చిన్న చెక్క పెట్టె ఉంది.",
+      "image_prompt": "The clever man bows his head with a slight smile, accepting the king's challenge. A look of firm confidence shines in his eyes as he does so. A focused, expectant light falls upon Tenali as the King addresses him, making him the center of attention in the otherwise still and silent court.",
+      "scene_visual": "The clever man bows his head with a slight smile, accepting the king's challenge. A look of firm confidence shines in his eyes as he does so.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Raaju Krrishnadevaraayalu Chupu Tanapai Padagaane, Tenaali Nitaarugaa Kurchunnaadu. Kortulo Okkasaarigaa Nishshabdam Alumukundi — Raaju Gontu Spashtangaa Vinipinchindi. \"Raamakrrishnaa, I Bangaaru Maamidi Pandu Nyaayam Nide!\" Ani Raaju Gambhirangaa Annaadu. Tenaali Chirunavvuto Tala Vanchaadu, I Savaalunu Svikarinchadaaniki Siddhangaa Unnaadu. Atani Kallallo Drridhamaina Nammakam Kanipinchindi. Marusati Roju Udayan, Tenaali Sabhaloki Vachchaadu, Kaani Atani Chetilo Bangaaru Maamidi Pandu Ledu — Oka Chinna Chekka Pette Undi.",
+      "text_en": "As King Krishnadevaraya's gaze fell upon him, Tenali sat up straight. Silence suddenly filled the court — the King's voice was heard clearly. \"Ramakrishna, the justice of this golden mango is yours!\" the King said grandly. Tenali bowed his head with a smile, ready to accept this challenge. A strong confidence shone in his eyes. The next morning, Tenali came into the court, but he didn't have the golden mango in his hand — instead, there was a small wooden box."
+    },
+    {
+      "id": 6,
+      "text": "తెనాలి సభలోకి ప్రవేశించి, తన చేతిలోని చిన్న చెక్క పెట్టెను రాజు ముందుంచాడు. రాజు ఆసక్తిగా చూస్తుండగా, తెనాలి పెట్టెను తెరిచాడు — లోపల ఒక చెక్క మామిడి పండు ఉంది, కానీ అది అనేక ముక్కలుగా కోసి ఉంది. \"మహారాజా, ఈ 'బంగారు' మామిడి పండును అందరికీ పంచాను!\" అని తెనాలి సంతోషంగా అన్నాడు, అతని ముఖం వెలిగిపోయింది. అసలు మామిడి పండు విలువ దాని బంగారు రంగులో కాదు, దాని 'న్యాయం' పంచడంలో ఉందని వివరించాడు. ఆ చెక్క ముక్కలను పళ్లెంలో పేర్చినప్పుడు — చిన్నగా 'క్లింక్' అని శబ్దం వచ్చింది. రాజు ఆ చెక్క మామిడిని, తర్వాత తెనాలిని చూశాడు, అతని ముఖంపై మెల్లగా చిరునవ్వు మొదలైంది.",
+      "image_prompt": "The clever man opens a small wooden box before the king, revealing its contents. Inside, a wooden mango is cut into many small pieces, and his face is lit up with satisfaction. The court is bathed in a bright, clear morning light, highlighting the wooden mango replica, which contrasts sharply with the memory of the gleaming golden one, emphasizing the cleverness of the solution.",
+      "scene_visual": "The clever man opens a small wooden box before the king, revealing its contents. Inside, a wooden mango is cut into many small pieces, and his face is lit up with satisfaction.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Tenaali Sabhaloki Praveshinchi, Tana Chetiloni Chinna Chekka Pettenu Raaju Mundunchaadu. Raaju Aasaktigaa Chustundagaa, Tenaali Pettenu Terichaadu — Lopala Oka Chekka Maamidi Pandu Undi, Kaani Adi Aneka Mukkalugaa Kosi Undi. \"Mahaaraajaa, I 'Bangaaru' Maamidi Pandunu Andariki Panchaanu!\" Ani Tenaali Santoshangaa Annaadu, Atani Mukham Veligipoyindi. Asalu Maamidi Pandu Viluva Daani Bangaaru Rangulo Kaadu, Daani 'Nyaayan' Panchadanlo Undani Vivarinchaadu. Aa Chekka Mukkalanu Pallenlo Perchinappudu — Chinnagaa 'Klink' Ani Shabdam Vachchindi. Raaju Aa Chekka Maamidini, Tarvaata Tenaalini Chushaadu, Atani Mukhampai Mellagaa Chirunavvu Modalaindi.",
+      "text_en": "Tenali entered the court and placed the small wooden box from his hand before the King. As the King watched with interest, Tenali opened the box — inside was a wooden mango, but it was cut into many pieces. \"Your Majesty, I have distributed this 'golden' mango to everyone!\" Tenali said happily, his face lit up. He explained that the true value of the mango was not in its golden color, but in distributing its 'justice'. As he arranged the wooden pieces on the tray — there was a soft 'clink' sound. The King looked at the wooden mango, then at Tenali, and a gentle smile began to spread across his face."
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి వివరణ విన్న రాజు కృష్ణదేవరాయలు హృదయపూర్వకంగా నవ్వాడు. సభలోని మంత్రులు కూడా తెనాలి తెలివికి ఆశ్చర్యపోయి చప్పట్లు కొట్టారు. \"నిజమైన న్యాయం ఎప్పుడూ సరళంగా, రుచికరంగా ఉంటుంది!\" అని తెనాలి వినయంగా నవ్వి అన్నాడు. అప్పుడు రాజు నిజమైన, పండిన మామిడి పండ్లను తీసుకురమ్మని ఆదేశించాడు. సేవకులు తీపి, పుల్లని మామిడి ముక్కలను అందరికీ పంచారు — దాని సువాసన సభ అంతా నిండిపోయింది. అందరూ ఆ మామిడి రుచిని ఆస్వాదిస్తూ తెనాలి తెలివిని మెచ్చుకున్నారు.",
+      "image_prompt": "The king laughs heartily, his face beaming with genuine amusement. The ministers in the court respond by clapping their hands in admiration. A warm, celebratory light fills the court, with golden hues reflecting off the happy faces of the King and courtiers, signifying a moment of shared joy and understanding.",
+      "scene_visual": "The king laughs heartily, his face beaming with genuine amusement. The ministers in the court respond by clapping their hands in admiration.",
+      "supporting_char_keys": [
+        "king_krishnadevaraya"
+      ],
+      "text_te_en": "Tenaali Vivarana Vinna Raaju Krrishnadevaraayalu Hrridayapurvakangaa Navvaadu. Sabhaloni Mantrulu Kudaa Tenaali Teliviki Aashcharyapoyi Chappatlu Kottaaru. \"Nijamaina Nyaayam Eppudu Saralangaa, Ruchikarangaa Untundi!\" Ani Tenaali Vinayangaa Navvi Annaadu. Appudu Raaju Nijamaina, Pandina Maamidi Pandlanu Tisukurammani Aadeshinchaadu. Sevakulu Tipi, Pullani Maamidi Mukkalanu Andariki Panchaaru — Daani Suvaasana Sabha Antaa Nindipoyindi. Andaru Aa Maamidi Ruchini Aasvaadistu Tenaali Telivini Mechchukunnaaru.",
+      "text_en": "King Krishnadevaraya, hearing Tenali's explanation, laughed heartily. The ministers in the court also clapped, amazed by Tenali's cleverness. \"True justice is always simple and delicious!\" Tenali said with a humble smile. Then the King ordered real, ripe mangoes to be brought. Servants distributed sweet and tangy mango pieces to everyone — their fragrance filled the entire court. Everyone enjoyed the taste of the mangoes and praised Tenali's wisdom."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "king_krishnadevaraya",
+      "description": "King Krishnadevaraya is the wise and powerful emperor of the Vijayanagara Empire, known for his love of arts, justice, and wit. He is regal in stature, adorned with elaborate gold jewelry and fine silks, often wearing a large, jeweled turban. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 9,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.17,
+    "weakest_dimension": "grammar_correctness",
+    "notes": "This story is exceptionally well-crafted for a children's audience, demonstrating a deep understanding of narrative structure and emotional portrayal. The consistent 'showing' of emotions and the natural, character-specific dialogue are particularly strong. To elevate it further to a perfect 10 across all dimensions, incorporating more direct questions or playful asides to the listening child would enhance the oral warmth and engagement, making it truly irresistible. Additionally, a minor phrasing adjustment like 'ఈ బంగారు మామిడి పండుకు న్యాయం చేయాల్సిన బాధ్యత నీదే!' could make one line even more colloquially natural."
+  },
+  "title_te_en": "Tenaali Bangaaru Maamidi",
+  "moral_te_en": "Nijamaina Telivi Tetalu Samasyalanu Saralangaa Parishkarinchi, Vaati Asalu Viluvanu Manaku Chupistaayi, Telusaa?",
+  "title_en": "Tenali's Golden Mango",
+  "moral_en": "True wisdom solves problems simply and shows us their real value, you know?",
+  "id": "20260613_171037",
+  "date": "2026-06-13",
+  "category": "tenali",
+  "subcategory": "court_wit",
+  "topic": "తెనాలి రాముడు మరియు బంగారు మామిడి పండు న్యాయం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260613_171037/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
