@@ -1,0 +1,110 @@
+{
+  "title": "రామయ్య తొందరపాటు, మాయా సరోవరం గుట్టు",
+  "moral": "ఏ పనైనా తొందరపడకుండా, ఆలోచించి చేస్తే, మంచి ఫలితాలు వస్తాయి.",
+  "main_character": "Ramaiah is a stocky, middle-aged farmer with sun-weathered skin and a perpetually furrowed brow. He has a thick, dark mustache and always wears a simple white dhoti and a checkered towel over his shoulder. He is diligent and strong but prone to making quick decisions without much thought. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, idyllic village named 'Pallevuru' in rural Andhra Pradesh, nestled beside lush green fields and a winding river. The air is always filled with the scent of wet earth and jasmine, and the distant sound of temple bells. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పల్లెటూరి రైతు రామయ్య, ఎండలో తన పొలంలో కష్టపడుతున్నాడు. అతని నుదుటిపై చెమట బిందువులు జలజలా కారుతున్నాయి, అప్పుడప్పుడు నిట్టూర్చాడు. \"ఈ రోజు పని త్వరగా ముగించాలి!\" అని తనలో తాను గొణుక్కున్నాడు, తన అరచేతులతో మొరటుగా చెమట తుడుచుకుంటూ. పొలం దున్నే కొద్దీ, మట్టి నుండి వచ్చే ఆ వెచ్చని వాసన అతనికి అలవాటు. అట్లాంటప్పుడు, అడవి అంచు నుండి ఒక మెరిసే వెలుగు కనిపించింది — అదెక్కడి వెలుగు?",
+      "image_prompt": "The farmer pauses his strenuous work in the field, wiping sweat from his forehead with his rough palms. His eyes are drawn to a shimmering light that suddenly appears from the edge of the forest. Harsh midday sun, bright and yellow over the dusty field, casting sharp shadows.",
+      "scene_visual": "The farmer pauses his strenuous work in the field, wiping sweat from his forehead with his rough palms. His eyes are drawn to a shimmering light that suddenly appears from the edge of the forest.",
+      "supporting_char_keys": [],
+      "text_te_en": "Palleturi Raitu Raamayya, Endalo Tana Polanlo Kashtapadutunnaadu. Atani Nudutipai Chemata Binduvulu Jalajalaa Kaarutunnaayi, Appudappudu Nitturchaadu. \"I Roju Pani Tvaragaa Muginchaali!\" Ani Tanalo Taanu Gonukkunnaadu, Tana Arachetulato Moratugaa Chemata Tuduchukuntu. Polam Dunne Koddi, Matti Nundi Vachche Aa Vechchani Vaasana Ataniki Alavaatu. Atlaantappudu, Adavi Anchu Nundi Oka Merise Velugu Kanipinchindi — Adekkadi Velugu?",
+      "text_en": "Ramayya, a farmer from the village, was working hard in his field under the hot sun. Sweat dripped from his forehead, and he sighed now and then. \"I must finish today's work quickly!\" he muttered to himself, roughly wiping the sweat with his palms. As he plowed the field, the warm smell of the soil was familiar to him. Just then, a shimmering light appeared from the edge of the forest — where could that light be coming from?"
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరిసే వెలుగును అనుసరిస్తూ రామయ్య అడుగులు వేగంగా సాగాయి, చివరికి ఒక చిన్న సరోవరం దగ్గరికి చేరుకున్నాడు. సరోవరం నీళ్ళు అద్దంలా ఆకాశాన్ని ప్రతిబింబిస్తూ, అద్భుతంగా మెరుస్తున్నాయి. రామయ్య కళ్ళు ఆశ్చర్యంతో పెద్దవయ్యాయి, సంతోషంతో పెదవులు విచ్చుకున్నాయి. \"ఆహా! ఇది మామూలు సరోవరం కాదు!\" అని చేతిని నీటిలో ముంచి ఆ చల్లదనాన్ని అనుభవిస్తూ అన్నాడు. ఆ క్షణంలో, నీటిలో అతని పంటలు బంగారు రంగులో పండినట్లు స్పష్టంగా కనిపించింది — ఇంకేం ఆలోచించలేదు. ఈ దృశ్యం చూసి, వెంటనే ఆ పంట వేయాలని నిర్ణయించుకున్నాడు.",
+      "image_prompt": "The farmer dips his hand into the cool water of the small lake, his eyes wide with wonder and his lips parted in joy. In the water's reflection, he clearly sees his crops ripened to a golden color. Soft, ethereal glow emanating from the lake itself, mixing with the dappled sunlight filtering through the surrounding trees, creating a magical blue-green light.",
+      "scene_visual": "The farmer dips his hand into the cool water of the small lake, his eyes wide with wonder and his lips parted in joy. In the water's reflection, he clearly sees his crops ripened to a golden color.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merise Velugunu Anusaristu Raamayya Adugulu Vegangaa Saagaayi, Chivariki Oka Chinna Sarovaram Daggariki Cherukunnaadu. Sarovaram Nillu Addanlaa Aakaashaanni Pratibimbistu, Adbhutangaa Merustunnaayi. Raamayya Kallu Aashcharyanto Peddavayyaayi, Santoshanto Pedavulu Vichchukunnaayi. \"Aahaa! Idi Maamulu Sarovaram Kaadu!\" Ani Chetini Nitilo Munchi Aa Challadanaanni Anubhavistu Annaadu. Aa Kshananlo, Nitilo Atani Pantalu Bangaaru Rangulo Pandinatlu Spashtangaa Kanipinchindi — Inkem Aalochinchaledu. I Drrishyam Chusi, Ventane Aa Panta Veyaalani Nirnayinchukunnaadu.",
+      "text_en": "Following the shimmering light, Ramayya's steps quickened, and he finally reached a small lake. The lake's water reflected the sky like a mirror, shining wonderfully. Ramayya's eyes widened in surprise, and his lips curved into a happy smile. \"Oh! This is no ordinary lake!\" he exclaimed, dipping his hand in the water and feeling its coolness. At that moment, he clearly saw his crops ripe and golden in the water — he didn't think twice. Seeing this sight, he immediately decided to plant those crops."
+    },
+    {
+      "id": 3,
+      "text": "సరోవరం చూపిన మార్గంలో రామయ్య వేసిన పంట, ఊహించనంత త్వరగా, గొప్పగా పండింది. పొలంలో ఎండిన వరి కంకులు గలగలా శబ్దం చేస్తూ, అతని శ్రమకు ఫలితాన్ని చాటాయి. పొరుగున ఉన్న గోపాల్ పక్కన నిలబడి, రామయ్య తన ఛాతీని వెనక్కి విరుచుకుని, వెడల్పుగా నవ్వాడు. \"నాకు భవిష్యత్ తెలుసు! ఈసారి లాభాలు రెట్టింపు!\" అని గర్వంతో తల ఊపుతూ చెప్పాడు. గోపాల్ ముఖంలో అనుమానం కనిపించింది, కానీ రామయ్య దానిని పట్టించుకోలేదు — అతని మనసులో మరో \"త్వరిత విజయం\" ఆలోచన మొదలైంది.",
+      "image_prompt": "The farmer stands proudly next to his neighbor, his chest puffed out and a wide smile on his face. Dried rice ears rustle in his field, signifying the abundant harvest, while his neighbor's face shows a hint of doubt. Bright, clear morning sun, casting long, sharp shadows across the fields where other farmers are working.",
+      "scene_visual": "The farmer stands proudly next to his neighbor, his chest puffed out and a wide smile on his face. Dried rice ears rustle in his field, signifying the abundant harvest, while his neighbor's face shows a hint of doubt.",
+      "supporting_char_keys": [
+        "gopal"
+      ],
+      "text_te_en": "Sarovaram Chupina Maarganlo Raamayya Vesina Panta, Uhinchananta Tvaragaa, Goppagaa Pandindi. Polanlo Endina Vari Kankulu Galagalaa Shabdam Chestu, Atani Shramaku Phalitaanni Chaataayi. Poruguna Unna Gopaal Pakkana Nilabadi, Raamayya Tana Chaatini Venakki Viruchukuni, Vedalpugaa Navvaadu. \"Naaku Bhavishyat Telusu! Isaari Laabhaalu Rettimpu!\" Ani Garvanto Tala Uputu Cheppaadu. Gopaal Mukhanlo Anumaanam Kanipinchindi, Kaani Raamayya Daanini Pattinchukoledu — Atani Manasulo Maro \"Tvarita Vijayan\" Aalochana Modalaindi.",
+      "text_en": "The crops Ramayya planted, guided by the lake, grew wonderfully and ripened much faster than expected. The dried rice stalks in the field rustled, showing the fruit of his hard work. Standing next to his neighbor Gopal, Ramayya puffed out his chest and smiled broadly. \"I know the future! This time, my profits will double!\" he said, nodding his head proudly. Doubt showed on Gopal's face, but Ramayya didn't notice — another idea for a \"quick success\" had begun in his mind."
+    },
+    {
+      "id": 4,
+      "text": "అకాల వర్షాలు లేక, పొలమంతా బీటలు పడి, భూమి పగుళ్లు చూపింది, రామయ్యకు నీటి కష్టాలు మొదలయ్యాయి. తన పొలంలో ఆ ఎండిన, పగిలిన నేలను చూస్తూ, రామయ్య తల గోక్కున్నాడు, అతని ముఖం చిట్లించుకుంది. మళ్ళీ సరోవరం దగ్గరికి వెళ్ళి, బావి తవ్వడం గురించి అడిగాడు. కానీ, ఈసారి నీటిలో కనిపించిన దృశ్యం కలవరపెట్టింది. బావిలో నీరు లేదు — ఇసుక మాత్రమే. \"ఇది నాకు అర్థం కావడం లేదు! ఇంత కష్టం ఎందుకు?\" అని నిట్టూరుస్తూ అన్నాడు. ఆ మాయా దృశ్యం అతన్ని గందరగోళంలో పడేసింది, అయినా తొందరపాటుతో ఒక చోటును ఎంచుకున్నాడు.",
+      "image_prompt": "The farmer looks at his dry, cracked field, his face scrunched up in confusion as he scratches his head. Later, at the lake, he sees a disturbing reflection in the water: a well filled only with sand, not water. Hazy, hot afternoon light, shimmering over the parched fields, highlighting the lake's surface with a slightly ominous, greenish tint.",
+      "scene_visual": "The farmer looks at his dry, cracked field, his face scrunched up in confusion as he scratches his head. Later, at the lake, he sees a disturbing reflection in the water: a well filled only with sand, not water.",
+      "supporting_char_keys": [],
+      "text_te_en": "Akaala Varshaalu Leka, Polamantaa Bitalu Padi, Bhumi Pagullu Chupindi, Raamayyaku Niti Kashtaalu Modalayyaayi. Tana Polanlo Aa Endina, Pagilina Nelanu Chustu, Raamayya Tala Gokkunnaadu, Atani Mukham Chitlinchukundi. Malli Sarovaram Daggariki Velli, Baavi Tavvadam Gurinchi Adigaadu. Kaani, Isaari Nitilo Kanipinchina Drrishyam Kalavarapettindi. Baavilo Niru Ledu — Isuka Maatrame. \"Idi Naaku Artham Kaavadam Ledu! Inta Kashtam Enduku?\" Ani Nitturustu Annaadu. Aa Maayaa Drrishyam Atanni Gandaragolanlo Padesindi, Ayinaa Tondarapaatuto Oka Chotunu Enchukunnaadu.",
+      "text_en": "Without timely rains, the entire field cracked, and the ground showed fissures; Ramayya's water troubles began. Looking at the dry, cracked earth in his field, Ramayya scratched his head, his face scrunched up. He went back to the lake and asked about digging a well. But this time, the scene in the water was disturbing. There was no water in the well — only sand. \"I don't understand this! Why is it so difficult?\" he sighed. The magical vision confused him, yet he hastily chose a spot."
+    },
+    {
+      "id": 5,
+      "text": "సరోవరం చూపిన గందరగోళ హెచ్చరికను, గోపాల్ ఇచ్చిన చిన్న సలహాను కూడా పక్కన పెట్టి, రామయ్య పనివాళ్ళను పిలిపించాడు. అతను మొండి పట్టుదలతో, కొంత బలవంతపు ఉత్సాహంతో వాళ్ళను నడిపించాడు. \"త్వరగా! లోతుగా తవ్వండి! నీరు దొరకాలి!\" అని గట్టిగా అరిచాడు, అతని మాటలు గట్టిగా తవ్వుతున్న పారల శబ్దంలో కలిసిపోయాయి. కఠినమైన, రాతి నేల మీద పారలు కొట్టుకుంటూ, ప్రతిధ్వనిస్తున్నాయి. రోజులు వారాలుగా మారాయి. నీటి జాడ లేదు — కేవలం పొడి మట్టి.",
+      "image_prompt": "The farmer shouts commands, urging workers to dig faster and deeper into the hard, rocky ground. The loud clang of shovels striking the unyielding earth echoes as he stubbornly oversees the fruitless excavation. Bright, relentless sun beating down on the dusty construction site, highlighting the exhaustion on the workers' faces.",
+      "scene_visual": "The farmer shouts commands, urging workers to dig faster and deeper into the hard, rocky ground. The loud clang of shovels striking the unyielding earth echoes as he stubbornly oversees the fruitless excavation.",
+      "supporting_char_keys": [
+        "gopal"
+      ],
+      "text_te_en": "Sarovaram Chupina Gandaragola Hechcharikanu, Gopaal Ichchina Chinna Salahaanu Kudaa Pakkana Petti, Raamayya Panivaallanu Pilipinchaadu. Atanu Mondi Pattudalato, Konta Balavantapu Utsaahanto Vaallanu Nadipinchaadu. \"Tvaragaa! Lotugaa Tavvandi! Niru Dorakaali!\" Ani Gattigaa Arichaadu, Atani Maatalu Gattigaa Tavvutunna Paarala Shabdanlo Kalisipoyaayi. Kathinamaina, Raati Nela Mida Paaralu Kottukuntu, Pratidhvanistunnaayi. Rojulu Vaaraalugaa Maaraayi. Niti Jaada Ledu — Kevalam Podi Matti.",
+      "text_en": "Ignoring the confusing warning from the lake and Gopal's small piece of advice, Ramayya called for workers. He led them with stubborn determination and a forced enthusiasm. \"Quickly! Dig deep! We must find water!\" he shouted, his words blending with the loud thudding of the digging spades. The spades struck the hard, rocky ground, echoing loudly. Days turned into weeks. There was no sign of water — only dry earth."
+    },
+    {
+      "id": 6,
+      "text": "నిష్ఫలమైన బావి తవ్వకంతో నిరాశగా, రామయ్య మళ్ళీ సరోవరం దగ్గరికి వచ్చాడు, అతని భుజాలు వాలిపోయాయి. ఈసారి నీటిలో ఒక స్పష్టమైన దృశ్యం కనిపించింది — అతనిలాగే ఉన్న మరో రైతు, భూమిని జాగ్రత్తగా పరిశీలించి, మట్టిని పరీక్షించి, ఆ తర్వాత మరో చోట విజయవంతంగా బావి తవ్వాడు. గాలి వీచినప్పుడు సరోవరం నీటిపై చిన్న అలలు ఏర్పడుతున్నాయి, దృశ్యాలు మరింత స్పష్టంగా కనిపించాయి. రామయ్య ముఖంలో ఒక్కసారిగా జ్ఞానం వెలిగింది. \"అయ్యో! తొందరపాటు నా కొంప ముంచింది!\" అని తల పట్టుకుంటూ అన్నాడు. కొత్త సంకల్పంతో, రామయ్య సరోవరం నుండి వెనుదిరిగాడు — అతని అడుగులు తొందరపాటుగా కాకుండా, ఆలోచనతో సాగాయి.",
+      "image_prompt": "The farmer, with slumped shoulders, gazes into the lake's surface, where ripples make the reflections clear. He sees another farmer carefully inspecting the soil before successfully digging a well in a different spot, and his face lights up with understanding. Soft, golden hour light filtering through the trees surrounding the lake, casting long, peaceful shadows, creating a moment of quiet introspection and revelation.",
+      "scene_visual": "The farmer, with slumped shoulders, gazes into the lake's surface, where ripples make the reflections clear. He sees another farmer carefully inspecting the soil before successfully digging a well in a different spot, and his face lights up with understanding.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nishphalamaina Baavi Tavvakanto Niraashagaa, Raamayya Malli Sarovaram Daggariki Vachchaadu, Atani Bhujaalu Vaalipoyaayi. Isaari Nitilo Oka Spashtamaina Drrishyam Kanipinchindi — Atanilaage Unna Maro Raitu, Bhumini Jaagrattagaa Parishilinchi, Mattini Parikshinchi, Aa Tarvaata Maro Chota Vijayavantangaa Baavi Tavvaadu. Gaali Vichinappudu Sarovaram Nitipai Chinna Alalu Erpadutunnaayi, Drrishyaalu Marinta Spashtangaa Kanipinchaayi. Raamayya Mukhanlo Okkasaarigaa Jnyaanam Veligindi. \"Ayyo! Tondarapaatu Naa Kompa Munchindi!\" Ani Tala Pattukuntu Annaadu. Kotta Sankalpanto, Raamayya Sarovaram Nundi Venudirigaadu — Atani Adugulu Tondarapaatugaa Kaakundaa, Aalochanato Saagaayi.",
+      "text_en": "Disheartened by the fruitless well-digging, Ramayya returned to the lake, his shoulders slumped. This time, a clear vision appeared in the water — another farmer, just like him, carefully examined the land, tested the soil, and then successfully dug a well in a different spot. Small ripples formed on the lake's surface as the wind blew, making the visions even clearer. Suddenly, understanding dawned on Ramayya's face. \"Oh no! My haste has ruined me!\" he said, holding his head. With a new resolve, Ramayya turned away from the lake — his steps were no longer hasty, but thoughtful."
+    },
+    {
+      "id": 7,
+      "text": "సరోవరం ఇచ్చిన పాఠంతో, రామయ్య తొందరపడకుండా, తన పొలాన్ని శ్రద్ధగా గమనించాడు, గోపాల్ సలహా కూడా అడిగాడు. నెల రోజుల తర్వాత, జాగ్రత్తగా ఎంచుకున్న కొత్త చోట బావి తవ్వడం మొదలుపెట్టాడు. రెండు రోజుల కష్టానికి, భూమిలో నుండి స్వచ్ఛమైన, చల్లని నీరు బుడబుడా పైకి వచ్చింది — అదొక అద్భుతం. రామయ్య మొహంలో శాంతమైన, సంతృప్తికరమైన చిరునవ్వు, నీటి ప్రవాహాన్ని చూస్తూ నిలబడ్డాడు. \"ఆలోచించి చేస్తే అన్నీ సులువే!\" అని తనలో తాను గొణుక్కున్నాడు. చూశావా పిల్లలూ, తొందరపడితే ఎంత కష్టమో!",
+      "image_prompt": "The farmer stands with a peaceful, satisfied smile, watching the ground he carefully chose. Pure, cold water bubbles up from the newly dug well, flowing freely from the earth. Warm, bright morning sun, freshly illuminating the green fields and the gushing water, symbolizing new beginnings and wisdom.",
+      "scene_visual": "The farmer stands with a peaceful, satisfied smile, watching the ground he carefully chose. Pure, cold water bubbles up from the newly dug well, flowing freely from the earth.",
+      "supporting_char_keys": [
+        "gopal"
+      ],
+      "text_te_en": "Sarovaram Ichchina Paathanto, Raamayya Tondarapadakundaa, Tana Polaanni Shraddhagaa Gamaninchaadu, Gopaal Salahaa Kudaa Adigaadu. Nela Rojula Tarvaata, Jaagrattagaa Enchukunna Kotta Chota Baavi Tavvadam Modalupettaadu. Rendu Rojula Kashtaaniki, Bhumilo Nundi Svachchamaina, Challani Niru Budabudaa Paiki Vachchindi — Adoka Adbhutan. Raamayya Mohanlo Shaantamaina, Santrriptikaramaina Chirunavvu, Niti Pravaahaanni Chustu Nilabaddaadu. \"Aalochinchi Cheste Anni Suluve!\" Ani Tanalo Taanu Gonukkunnaadu. Chushaavaa Pillalu, Tondarapadite Enta Kashtamo!",
+      "text_en": "With the lesson from the lake, Ramayya, without rushing, carefully observed his field and also asked Gopal for advice. A month later, he began digging a well in a carefully chosen new spot. After two days of hard work, pure, cool water bubbled up from the earth — it was a miracle. Ramayya stood watching the water flow, a calm, satisfied smile on his face. \"If you think before you act, everything becomes easy!\" he muttered to himself. See, children, how difficult things can get if you rush!"
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "gopal",
+      "description": "Gopal is a thin, older farmer with a wispy grey beard and a perpetually questioning gaze. He wears a faded brown kurta and often leans on a sturdy wooden staff. He is thoughtful and cautious. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 7,
+    "dialogue_richness": 5,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 7,
+    "average": 7.33,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story boasts a strong narrative arc and impeccable grammar, providing a solid foundation. Ramayya's journey is well-structured, and the moral is effectively demonstrated through his actions. However, the dialogue is predominantly Ramayya's internal thoughts or exclamations, lacking distinct voices for other characters. To reach a 9+ score, the most important fix is to enrich the dialogue by giving characters like Gopal more active, unique voices, and to weave the grandmother's authentic, warm voice more consistently throughout the narrative."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamayya Tondarapaatu, Maayaa Sarovaram Guttu",
+  "moral_te_en": "E Panainaa Tondarapadakundaa, Aalochinchi Cheste, Manchi Phalitaalu Vastaayi.",
+  "title_en": "Ramayya's Haste and the Magical Lake's Secret",
+  "moral_en": "Good things happen when you think before you act, instead of rushing.",
+  "id": "20260613_191120",
+  "date": "2026-06-13",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "భవిష్యత్ పరిణామాలను చూపించే మాయా సరోవరం మరియు తొందరపాటు గల రైతు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260613_191120/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
