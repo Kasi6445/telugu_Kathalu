@@ -1,0 +1,97 @@
+{
+  "title": "పండ్ల పంపకంలో తెలివి",
+  "moral": "దురాశ ఎప్పుడూ నష్టాన్నే తెస్తుంది, కానీ తెలివితేటలు న్యాయాన్ని గెలిపిస్తాయి.",
+  "main_character": "A sleek, grey-striped cat with bright green eyes and a perpetually calm demeanor. She is known for her patience and sharp wit, always preferring peaceful solutions. Always the same character across every scene.",
+  "antagonist": "A small, brown monkey with a long, prehensile tail and beady, mischievous eyes. He wears a tattered red vest and always carries a small, shiny pebble in his paw, which he rubs when he's scheming. Always the same character across every scene.",
+  "setting": "A vibrant fruit orchard nestled within the lush Nallamala Forest in Andhra Pradesh. Tall mango trees, sweet smelling guavas, and a winding stream define the landscape. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "నల్లమల అడవిలోని పండ్ల తోటలో, పిల్లి మెల్లగా పండిన పండ్లను సేకరిస్తోంది, అందరికీ సరిపడా వదిలేస్తూ జాగ్రత్త పడుతోంది. ఆమె ఒక మామిడి పండును బుట్టలో జాగ్రత్తగా పెడుతుండగా, ఆమె గొంతులోంచి ఒక మధురమైన గుసగుస వచ్చింది. \"ఈ రోజు పంట చాలా బాగుంది!\" అని తనలో తాను అనుకుంది. మామిడి పండ్ల తీయని సువాసన గాలిలో నిండిపోయింది. బుట్ట నింపుకొని వెళ్ళబోతుండగా, ఆమె కంటికి ఒక మెరిసే ఎర్రటి పండు తగిలింది — అలాంటి పండు ఆమె ఇంతకుముందు ఎప్పుడూ చూడలేదు. ఒక్కసారిగా — అద్భుతమైన ఎర్రటి పండు మెరిసింది.",
+      "image_prompt": "The cat is about to leave with a full basket when her eyes catch sight of a glowing red fruit. The fruit shines brightly, unlike anything she has ever seen before. Bright, warm morning sun filtering through a canopy of green leaves, creating dappled light on the forest floor.",
+      "scene_visual": "The cat is about to leave with a full basket when her eyes catch sight of a glowing red fruit. The fruit shines brightly, unlike anything she has ever seen before.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nallamala Adaviloni Pandla Totalo, Pilli Mellagaa Pandina Pandlanu Sekaristondi, Andariki Saripadaa Vadilestu Jaagratta Padutondi. Aame Oka Maamidi Pandunu Buttalo Jaagrattagaa Pedutundagaa, Aame Gontulonchi Oka Madhuramaina Gusagusa Vachchindi. \"I Roju Panta Chaalaa Baagundi!\" Ani Tanalo Taanu Anukundi. Maamidi Pandla Tiyani Suvaasana Gaalilo Nindipoyindi. Butta Nimpukoni Vellabotundagaa, Aame Kantiki Oka Merise Errati Pandu Tagilindi — Alaanti Pandu Aame Intakumundu Eppudu Chudaledu. Okkasaarigaa — Adbhutamaina Errati Pandu Merisindi.",
+      "text_en": "In the fruit orchard of Nallamala forest, Cat was carefully collecting ripe fruits, making sure to leave enough for everyone. As she gently placed a mango into her basket, a sweet whisper escaped her lips. \"Today's harvest is wonderful!\" she thought to herself. The sweet smell of mangoes filled the air. Just as she was about to leave with her full basket, her eye caught a shiny red fruit — a fruit she had never seen before. Suddenly, the amazing red fruit sparkled."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరిసే ఎర్రటి పండును పిల్లి ఆశ్చర్యంగా చూస్తుండగానే, అప్పుడే అక్కడికి వచ్చిన కోతి కళ్ళు కూడా దానిపై పడ్డాయి. కోతి కళ్ళు ఒక్కసారిగా పెద్దవయ్యాయి, ఆ పండును చూసి అది ఉత్సాహంగా తోక ఊపింది. అది పిల్లి వైపు వేలు చూపిస్తూ, \"అది నాది! నేనే ముందు చూశాను!\" అని గట్టిగా అరిచింది. ఆ పండు, ఒక పెద్ద రుబీ రంగు జామ పండులా, ఉదయపు మంచు బిందువులతో మెరుస్తూ ఉంది. కోతి నోరు తెరిచింది — అది పండుపై హక్కు కోరింది. అప్పుడది ఒక జిత్తులమారి నవ్వుతో, పండును పంచుకోవడానికి ఒక 'న్యాయమైన' మార్గాన్ని సూచించింది.",
+      "image_prompt": "The monkey points a finger at the cat while excitedly wagging its tail and loudly claiming the fruit. Its eyes are wide with excitement as it looks at the ruby-red fruit, glistening with morning dew. Also in this scene: A small, brown monkey with a long, prehensile tail and beady, mischievous eyes. He wears a tattered red vest and always carries a small, shiny pebble in his paw, which he rubs when he's scheming. Always the same character across every scene. A patch of direct, intense sunlight illuminates the large fruit, making it seem almost magical, while the surrounding forest is in soft shadow.",
+      "scene_visual": "The monkey points a finger at the cat while excitedly wagging its tail and loudly claiming the fruit. Its eyes are wide with excitement as it looks at the ruby-red fruit, glistening with morning dew.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merise Errati Pandunu Pilli Aashcharyangaa Chustundagaane, Appude Akkadiki Vachchina Koti Kallu Kudaa Daanipai Paddaayi. Koti Kallu Okkasaarigaa Peddavayyaayi, Aa Pandunu Chusi Adi Utsaahangaa Toka Upindi. Adi Pilli Vaipu Velu Chupistu, \"Adi Naadi! Nene Mundu Chushaanu!\" Ani Gattigaa Arichindi. Aa Pandu, Oka Pedda Rubi Rangu Jaama Pandulaa, Udayapu Manchu Binduvulato Merustu Undi. Koti Noru Terichindi — Adi Pandupai Hakku Korindi. Appudadi Oka Jittulamaari Navvuto, Pandunu Panchukovadaaniki Oka 'Nyaayamaina' Maargaanni Suchinchindi.",
+      "text_en": "As Cat gazed at the shiny red fruit in wonder, Monkey, who had just arrived, also spotted it. Monkey's eyes suddenly grew wide, and he excitedly wagged his tail at the sight of the fruit. Pointing a finger at Cat, he loudly shouted, \"That's mine! I saw it first!\" The fruit, like a large ruby-colored guava, sparkled with morning dew. Monkey opened his mouth — he claimed the fruit as his own. Then, with a sly grin, he suggested a 'fair' way to share it."
+    },
+    {
+      "id": 3,
+      "text": "కోతి తన నల్లటి గులకరాతిని రుద్దుకుంటూ, పిల్లి వైపు చూసి నమ్మకంగా తల ఊపింది. \"నువ్వు చిన్న భాగం తీసుకో, నాకు పెద్ద భాగం అవసరం, నేను చెట్టు ఎక్కాను కదా!\" అని ఒక వింత వివరణ ఇచ్చింది. పిల్లి తోక మెల్లగా కదిలింది — ఆమెకు అనుమానం మొదలైంది. కోతి తన పదునైన చిన్న కత్తిని తీయగానే, దాని నుండి ఒక లోహపు వాసన వచ్చింది. కత్తిని తీసుకుని, అది పండును కోయడానికి సిద్ధమైంది. అదసలు పిల్లి సమాధానం కోసం ఆగకుండా, ఆ అద్భుతమైన పండును కోయడం మొదలుపెట్టింది.",
+      "image_prompt": "The monkey confidently nods its head, then pulls out a sharp, small knife and begins to cut the fruit. A metallic scent emanates from the knife as it starts to slice into the magnificent fruit. Also in this scene: A small, brown monkey with a long, prehensile tail and beady, mischievous eyes. He wears a tattered red vest and always carries a small, shiny pebble in his paw, which he rubs when he's scheming. Always the same character across every scene. Overcast light, making the scene feel a bit dull and oppressive, reflecting the cat's growing discomfort.",
+      "scene_visual": "The monkey confidently nods its head, then pulls out a sharp, small knife and begins to cut the fruit. A metallic scent emanates from the knife as it starts to slice into the magnificent fruit.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koti Tana Nallati Gulakaraatini Ruddukuntu, Pilli Vaipu Chusi Nammakangaa Tala Upindi. \"Nuvvu Chinna Bhaagam Tisuko, Naaku Pedda Bhaagam Avasaran, Nenu Chettu Ekkaanu Kadaa!\" Ani Oka Vinta Vivarana Ichchindi. Pilli Toka Mellagaa Kadilindi — Aameku Anumaanam Modalaindi. Koti Tana Padunaina Chinna Kattini Tiyagaane, Daani Nundi Oka Lohapu Vaasana Vachchindi. Kattini Tisukuni, Adi Pandunu Koyadaaniki Siddhamaindi. Adasalu Pilli Samaadhaanam Kosam Aagakundaa, Aa Adbhutamaina Pandunu Koyadam Modalupettindi.",
+      "text_en": "Monkey rubbed his black pebble, looked at Cat, and nodded confidently. \"You take the small part, I need the big part, after all, I climbed the tree!\" he explained strangely. Cat's tail twitched slowly — she began to feel suspicious. As soon as Monkey pulled out his sharp little knife, a metallic smell came from it. Taking the knife, he got ready to cut the fruit. Without even waiting for Cat's answer, he began to slice the wonderful fruit."
+    },
+    {
+      "id": 4,
+      "text": "కోతి ఆ పండును కోసి, పిల్లికి ఒక చిన్న ముక్కను మాత్రమే ఇచ్చి, మిగిలిన పెద్ద భాగాన్ని తనకే ఉంచుకుంది. అది పిల్లి వైపు ఒక గర్వమైన నవ్వుతో చూస్తూ, పళ్ళు బయటపెట్టి, \"ఇది నీ భాగం. తీసుకో, త్వరగా!\" అని చెప్పింది. తన పెద్ద ముక్క నుండి ఒక కొరికి, కోతి తన విజయాన్ని ప్రకటించుకుంది — పండు క్రంచీగా నమిలిన శబ్దం వచ్చింది. పిల్లి కళ్ళు సన్నబడ్డాయి — ఆమెకు ఒక ఆలోచన మెరిసింది. తన చిన్న ముక్కను తీసుకోవడానికి బదులుగా, ఆమె కోతిని మర్యాదగా కత్తిని అడిగింది.",
+      "image_prompt": "The monkey takes a large bite from its bigger piece of fruit, chewing it with a crunchy sound, while looking at the cat with a proud smile. The cat's eyes narrow as an idea sparks, but she politely asks for the knife instead of taking her small piece. Also in this scene: A small, brown monkey with a long, prehensile tail and beady, mischievous eyes. He wears a tattered red vest and always carries a small, shiny pebble in his paw, which he rubs when he's scheming. Always the same character across every scene. Harsh, direct midday sun beating down, emphasizing the stark unfairness of the division, creating sharp contrasts.",
+      "scene_visual": "The monkey takes a large bite from its bigger piece of fruit, chewing it with a crunchy sound, while looking at the cat with a proud smile. The cat's eyes narrow as an idea sparks, but she politely asks for the knife instead of taking her small piece.",
+      "supporting_char_keys": [],
+      "text_te_en": "Koti Aa Pandunu Kosi, Pilliki Oka Chinna Mukkanu Maatrame Ichchi, Migilina Pedda Bhaagaanni Tanake Unchukundi. Adi Pilli Vaipu Oka Garvamaina Navvuto Chustu, Pallu Bayatapetti, \"Idi Ni Bhaagan. Tisuko, Tvaragaa!\" Ani Cheppindi. Tana Pedda Mukka Nundi Oka Koriki, Koti Tana Vijayaanni Prakatinchukundi — Pandu Kranchigaa Namilina Shabdam Vachchindi. Pilli Kallu Sannabaddaayi — Aameku Oka Aalochana Merisindi. Tana Chinna Mukkanu Tisukovadaaniki Badulugaa, Aame Kotini Maryaadagaa Kattini Adigindi.",
+      "text_en": "Monkey cut the fruit, giving only a tiny piece to Cat and keeping the much larger part for himself. He looked at Cat with a proud, toothy grin and said, \"This is your share. Take it, quickly!\" Taking a big bite from his large piece, Monkey declared his victory — the fruit made a crunchy chewing sound. Cat's eyes narrowed — an idea sparked in her mind. Instead of taking her small piece, she politely asked Monkey for the knife."
+    },
+    {
+      "id": 5,
+      "text": "పిల్లి కత్తిని అందుకుని, దానిని జాగ్రత్తగా పట్టుకుంది. ఆమె కోతి వైపు చూసి, \"మనం దీన్ని ఖచ్చితంగా సమానంగా పంచుకుందాం. ఏ భాగం పెద్దదిగా అనిపిస్తే, దాని నుండి కొంచెం తీసేద్దాం,\" అని నెమ్మదిగా చెప్పింది. ఆమె తోకను మెల్లగా కదిలించింది, అది ఒక కండక్టర్ బ్యాటన్ లాగా కనిపించింది. కోతి కళ్ళు పండు, పిల్లి మధ్య పరుగు తీశాయి — దాని మనసులో మళ్ళీ అత్యాశ రేగింది. కోతి కళ్ళల్లో ఆశ మెరిసింది — అది పిల్లి మాటలకు లొంగింది. పిల్లి 'సరిదిద్దడం' ప్రారంభించగా, కోతి ఆసక్తిగా చూస్తోంది.",
+      "image_prompt": "The cat carefully holds the knife, looking at the monkey, and slowly proposes to make the fruit perfectly equal. Her tail gently sways like a conductor's baton, while the monkey's eyes dart between the fruit and the cat, gleaming with renewed greed. Also in this scene: A small, brown monkey with a long, prehensile tail and beady, mischievous eyes. He wears a tattered red vest and always carries a small, shiny pebble in his paw, which he rubs when he's scheming. Always the same character across every scene. A focused, almost spotlight-like illumination on the cat and the fruit, suggesting the cleverness of her plan, while the monkey is slightly in shadow.",
+      "scene_visual": "The cat carefully holds the knife, looking at the monkey, and slowly proposes to make the fruit perfectly equal. Her tail gently sways like a conductor's baton, while the monkey's eyes dart between the fruit and the cat, gleaming with renewed greed.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pilli Kattini Andukuni, Daanini Jaagrattagaa Pattukundi. Aame Koti Vaipu Chusi, \"Manam Dinni Khachchitangaa Samaanangaa Panchukundaan. E Bhaagam Peddadigaa Anipiste, Daani Nundi Konchem Tiseddaan,\" Ani Nemmadigaa Cheppindi. Aame Tokanu Mellagaa Kadilinchindi, Adi Oka Kandaktar Byaatan Laagaa Kanipinchindi. Koti Kallu Pandu, Pilli Madhya Parugu Tishaayi — Daani Manasulo Malli Atyaasha Regindi. Koti Kallallo Aasha Merisindi — Adi Pilli Maatalaku Longindi. Pilli 'Sarididdadan' Praarambhinchagaa, Koti Aasaktigaa Chustondi.",
+      "text_en": "Cat took the knife and held it carefully. She looked at Monkey and slowly said, \"Let's share this exactly equally. If any part seems bigger, we'll just trim a little bit off it.\" She gently swayed her tail, which looked like a conductor's baton. Monkey's eyes darted between the fruit and Cat — greed flared up in his mind again. Hope gleamed in Monkey's eyes — he fell for Cat's words. As Cat began to 'correct' the portions, Monkey watched eagerly."
+    },
+    {
+      "id": 6,
+      "text": "పిల్లి తెలివిగా కోతి పెద్ద భాగం నుండి చిన్న చిన్న ముక్కలను కత్తిరించింది. కత్తితో పండును సన్నగా కోస్తున్నప్పుడు ఒక మృదువైన శబ్దం వచ్చింది. \"ఇప్పుడు ఏ భాగం పెద్దదిగా ఉంది, కోతి మిత్రమా?\" అని పిల్లి శాంతంగా అడిగింది. కోతి తన భాగం వైపు చూసి, ఇంకొంచెం తీయమని గట్టిగా అరిచింది. కోతి కళ్ళు పెద్దవయ్యాయి — దాని భాగం చిన్నదైపోయింది! పదే పదే ఇలాగే చేయమని అడగడంతో, కోతి వాటా చివరికి చిన్న ముక్కలుగా మిగిలిపోయింది.",
+      "image_prompt": "The cat calmly asks which part is bigger, while the monkey, with wide eyes, shouts for her to take more from its shrinking portion. The monkey's share is visibly diminishing into tiny pieces with each cut, leaving it with very little. Also in this scene: A small, brown monkey with a long, prehensile tail and beady, mischievous eyes. He wears a tattered red vest and always carries a small, shiny pebble in his paw, which he rubs when he's scheming. Always the same character across every scene. The light dims slightly, casting long, dramatic shadows as the monkey's portion shrinks, creating a sense of impending doom for him.",
+      "scene_visual": "The cat calmly asks which part is bigger, while the monkey, with wide eyes, shouts for her to take more from its shrinking portion. The monkey's share is visibly diminishing into tiny pieces with each cut, leaving it with very little.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pilli Telivigaa Koti Pedda Bhaagam Nundi Chinna Chinna Mukkalanu Kattirinchindi. Kattito Pandunu Sannagaa Kostunnappudu Oka Mrriduvaina Shabdam Vachchindi. \"Ippudu E Bhaagam Peddadigaa Undi, Koti Mitramaa?\" Ani Pilli Shaantangaa Adigindi. Koti Tana Bhaagam Vaipu Chusi, Inkonchem Tiyamani Gattigaa Arichindi. Koti Kallu Peddavayyaayi — Daani Bhaagam Chinnadaipoyindi! Pade Pade Ilaage Cheyamani Adagadanto, Koti Vaataa Chivariki Chinna Mukkalugaa Migilipoyindi.",
+      "text_en": "Cat cleverly trimmed small pieces from Monkey's large portion. A soft sound came as the knife thinly sliced the fruit. \"Now which part is bigger, my friend Monkey?\" Cat calmly asked. Monkey looked at his part and loudly shouted for her to take off a little more. Monkey's eyes grew wide — his part had become smaller! With repeated requests for Cat to keep 'correcting' it, Monkey's share eventually became tiny little pieces."
+    },
+    {
+      "id": 7,
+      "text": "పిల్లి తన సగం పండును నెమ్మదిగా రుచి చూసింది, దాని పచ్చని కళ్ళలో సంతృప్తి మెరిసింది. జామపండు తీయని, రసవంతమైన రుచిని ఆస్వాదిస్తూ, అది మధురంగా గుసగుసలాడింది. \"ఆహా, ఎంత రుచికరంగా ఉంది!\" అని తనలో తాను అనుకుంది. కోతి మాత్రం, తన ముందున్న కొన్ని చిన్న ముక్కలను చూస్తూ, నిరాశగా కూర్చుంది. దాని భుజాలు వాలిపోయాయి — అది పిల్లి వైపు చూడడానికి సిగ్గుపడింది. కోతి తల దించుకుంది — దానికి తన తప్పు అర్థమైంది.",
+      "image_prompt": "The cat slowly savors her half of the fruit, murmuring with delight, while the monkey sits dejectedly, looking at its few small pieces. Satisfaction gleams in the cat's green eyes, contrasting with the monkey's slumped shoulders and downcast head, ashamed to look at the cat. Also in this scene: A small, brown monkey with a long, prehensile tail and beady, mischievous eyes. He wears a tattered red vest and always carries a small, shiny pebble in his paw, which he rubs when he's scheming. Always the same character across every scene. Gentle dusk light, warm amber and fading, bringing a peaceful and reflective end to the day, highlighting the cat's contentment and the monkey's sorrow.",
+      "scene_visual": "The cat slowly savors her half of the fruit, murmuring with delight, while the monkey sits dejectedly, looking at its few small pieces. Satisfaction gleams in the cat's green eyes, contrasting with the monkey's slumped shoulders and downcast head, ashamed to look at the cat.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pilli Tana Sagam Pandunu Nemmadigaa Ruchi Chusindi, Daani Pachchani Kallalo Santrripti Merisindi. Jaamapandu Tiyani, Rasavantamaina Ruchini Aasvaadistu, Adi Madhurangaa Gusagusalaadindi. \"Aahaa, Enta Ruchikarangaa Undi!\" Ani Tanalo Taanu Anukundi. Koti Maatran, Tana Mundunna Konni Chinna Mukkalanu Chustu, Niraashagaa Kurchundi. Daani Bhujaalu Vaalipoyaayi — Adi Pilli Vaipu Chudadaaniki Siggupadindi. Koti Tala Dinchukundi — Daaniki Tana Tappu Arthamaindi.",
+      "text_en": "Cat slowly tasted her half of the fruit, and satisfaction gleamed in her green eyes. Enjoying the sweet, juicy taste of the guava, she sweetly whispered, \"Oh, how delicious!\" she thought to herself. Monkey, however, sat dejectedly, looking at the few tiny pieces in front of him. His shoulders slumped — he was ashamed to look at Cat. Monkey hung his head — he understood his mistake."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 8.666666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 9,
+    "average": 8.67,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a strong narrative arc and excellent grammar, making it a solid piece of children's literature. The dialogue is particularly rich, effectively distinguishing characters and advancing the plot, which contributes significantly to child engagement. To achieve an award-worthy score (9+), the primary focus should be on enhancing the 'grandmother_authenticity' by infusing more natural, conversational phrasing and perhaps a direct address to the child listener. Additionally, a final pass to convert any remaining instances of 'telling' emotions into 'showing' through action or body language would further deepen the emotional resonance."
+  },
+  "title_te_en": "Pandla Pampakanlo Telivi",
+  "moral_te_en": "Duraasha Eppudu Nashtaanne Testundi, Kaani Telivitetalu Nyaayaanni Gelipistaayi.",
+  "title_en": "Cleverness in Sharing Fruits",
+  "moral_en": "Greed always brings loss, but cleverness helps justice win.",
+  "id": "20260613_110831",
+  "date": "2026-06-13",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - తెలివైన ఉపాయాలు - లోభి కోతి మరియు నిజాయితీ పిల్లి యొక్క పండ్ల గొడవ.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260613_110831/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
