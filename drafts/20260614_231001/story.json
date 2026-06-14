@@ -1,0 +1,117 @@
+{
+  "title": "తెనాలి తెలివి: సువాసన లేని పువ్వు",
+  "moral": "కష్టమైన సమస్యలు వచ్చినప్పుడు, నిశితంగా గమనించి, కాస్త భిన్నంగా ఆలోచిస్తే అద్భుతమైన పరిష్కారాలు దొరుకుతాయి.",
+  "main_character": "Tenali Ramakrishna: A quick-witted and intelligent court poet in the Vijayanagara Empire. He is known for his clever solutions to problems and outsmarting arrogant courtiers. Always the same character across every scene.",
+  "antagonist": "Rival Court Scholar: A portly man with a neatly trimmed black beard and a perpetually sneering expression, dressed in rich, dark purple silk robes with heavy gold embroidery. He often carries a scroll of his own poetry, ready to recite. Always the same character across every scene.",
+  "setting": "The opulent court of Emperor Krishnadevaraya in Vijayanagara, bustling with courtiers and adorned with intricate carvings and vibrant tapestries. The setting shifts between the grand durbar hall, lush palace gardens, and a quiet village well. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాజసభలో, ఇద్దరు వర్తకులు తమ సరుకుల గురించి పెద్ద గొడవ పడుతున్నారు, చూశావా పిల్లలూ? — వాళ్ళ కేకలు ఆ సభంతా మారుమోగుతున్నాయి. అప్పుడు తెనాలి రామకృష్ణుడు ముందుకు వచ్చి, తన కళ్ళలో ఓ మెరుపుతో, చిరునవ్వుతో మహారాజు వైపు చూశాడు. ఆ ఇద్దరి వర్తకుల వాదనను ఆపడానికి, అతని గొంతు స్పష్టంగా, నిండుగా సభలో వినిపించింది. \"మహారాజా, సగమైన పండుని పంచుకోవడం కన్నా, రెండు పండుల కథను పంచుకోమని చెప్పండి!\" అని తెనాలి అద్భుతంగా చెప్పాడు. మహారాజు కృష్ణదేవరాయలు ఆ మాట వినగానే చిరునవ్వు నవ్వారు, కానీ అహంకారి పండితుడి ముఖం మాత్రం కోపంతో నల్లబడింది — అతను తనలో తనే ఏదో గొణుక్కున్నాడు.",
+      "image_prompt": "The wise man steps forward, looking towards the king. A sparkle is visible in his eyes, and a faint smile plays on his lips. Bright morning light streaming through tall, arched windows, illuminating the rich colours of the court, creating a sense of grandeur.",
+      "scene_visual": "The wise man steps forward, looking towards the king. A sparkle is visible in his eyes, and a faint smile plays on his lips.",
+      "supporting_char_keys": [
+        "Emperor Krishnadevaraya"
+      ],
+      "text_te_en": "Raajasabhalo, Iddaru Vartakulu Tama Sarukula Gurinchi Pedda Godava Padutunnaaru, Chushaavaa Pillalu? — Vaalla Kekalu Aa Sabhantaa Maarumogutunnaayi. Appudu Tenaali Raamakrrishnudu Munduku Vachchi, Tana Kallalo O Meruputo, Chirunavvuto Mahaaraaju Vaipu Chushaadu. Aa Iddari Vartakula Vaadananu Aapadaaniki, Atani Gontu Spashtangaa, Nindugaa Sabhalo Vinipinchindi. \"Mahaaraajaa, Sagamaina Panduni Panchukovadam Kannaa, Rendu Pandula Kathanu Panchukomani Cheppandi!\" Ani Tenaali Adbhutangaa Cheppaadu. Mahaaraaju Krrishnadevaraayalu Aa Maata Vinagaane Chirunavvu Navvaaru, Kaani Ahankaari Panditudi Mukham Maatram Kopanto Nallabadindi — Atanu Tanalo Tane Edo Gonukkunnaadu.",
+      "text_en": "In the royal court, two merchants were having a big argument about their goods. Can you imagine, children? Their shouts echoed all over the court! Then Tenali Ramakrishna came forward, with a sparkle in his eyes, and looked at the Maharaja with a smile. To stop the two merchants' argument, his voice rang out clearly and strongly in the court. \"Maharaja, instead of telling them to share half a fruit, tell them to share the story of two fruits!\" Tenali said cleverly. Maharaja Krishnadevaraya smiled as soon as he heard those words, but the arrogant scholar's face turned dark with anger — he mumbled something to himself."
+    },
+    {
+      "id": 2,
+      "text": "తెనాలి తెలివిని చూసి, అహంకారి పండితుడి పెదవుల మీద ఓ చిన్న వెటకారపు నవ్వు మెరిసింది — అతను వెంటనే మహారాజు చెవిలో ఏదో గుసగుసలాడాడు. ఆ తర్వాత మహారాజు కృష్ణదేవరాయలు గంభీరంగా సింహాసనం నుండి లేచి నిలబడ్డారు, సభలో ఒక్కసారిగా నిశ్శబ్దం అలుముకుంది. \"సమస్త రాజ్యంలో, సువాసన లేని పువ్వును తీసుకువచ్చిన వారికి అపారమైన బహుమతి లభించును!\" అని మహారాజు ప్రకటించారు. తెనాలి రామకృష్ణుడు ఆ మాట విని ఆశ్చర్యపోయాడు, అతని కనుబొమ్మలు పైకి లేచాయి, ఆలోచనలో పడిపోయాడు. అతని చెవిలో అహంకారి పండితుడి నవ్వు, చిన్నగా, వెటకారంగా మళ్ళీ వినిపించింది.",
+      "image_prompt": "The king rises solemnly from his throne, addressing the silent assembly. The wise man's eyebrows are raised in surprise, and he appears deep in thought. Midday sun, bright and direct, casting sharp, defined shadows across the marble floor of the durbar hall, highlighting the Emperor's authority.",
+      "scene_visual": "The king rises solemnly from his throne, addressing the silent assembly. The wise man's eyebrows are raised in surprise, and he appears deep in thought.",
+      "supporting_char_keys": [
+        "Emperor Krishnadevaraya"
+      ],
+      "text_te_en": "Tenaali Telivini Chusi, Ahankaari Panditudi Pedavula Mida O Chinna Vetakaarapu Navvu Merisindi — Atanu Ventane Mahaaraaju Chevilo Edo Gusagusalaadaadu. Aa Tarvaata Mahaaraaju Krrishnadevaraayalu Gambhirangaa Sinhaasanam Nundi Lechi Nilabaddaaru, Sabhalo Okkasaarigaa Nishshabdam Alumukundi. \"Samasta Raajyanlo, Suvaasana Leni Puvvunu Tisukuvachchina Vaariki Apaaramaina Bahumati Labhinchunu!\" Ani Mahaaraaju Prakatinchaaru. Tenaali Raamakrrishnudu Aa Maata Vini Aashcharyapoyaadu, Atani Kanubommalu Paiki Lechaayi, Aalochanalo Padipoyaadu. Atani Chevilo Ahankaari Panditudi Navvu, Chinnagaa, Vetakaarangaa Malli Vinipinchindi.",
+      "text_en": "Seeing Tenali's cleverness, a small sarcastic smile flashed on the arrogant scholar's lips — he immediately whispered something in the Maharaja's ear. After that, Maharaja Krishnadevaraya solemnly rose from his throne, and silence suddenly fell over the court. \"Throughout the kingdom, a huge reward awaits anyone who can bring me a flower with no scent!\" the Maharaja announced. Tenali Ramakrishna was surprised to hear this. His eyebrows shot up, and he fell deep in thought. He could hear the arrogant scholar's small, sarcastic laugh in his ear again."
+    },
+    {
+      "id": 3,
+      "text": "ఆ సవాలును స్వీకరించి, తెనాలి రామకృష్ణుడు రాజభవన ఉద్యానవనాల్లో, పల్లెల్లో ప్రతి పువ్వును వెతికాడు. ప్రతి పువ్వును జాగ్రత్తగా వాసన చూశాడు, కానీ ప్రతిసారీ అతని ముఖం మరింత వాడిపోయింది. మల్లెలు, గులాబీలు, సన్నజాజులు — వాటి తియ్యటి వాసన అతని ముక్కుపుటాల నిండా నిండిపోయింది, అతనిలో ఏదో తెలియని చికాకు పెరిగింది. అతను తన చేతులతో జుట్టుని పట్టుకుని, లోతుగా నిట్టూర్చాడు. \"ప్రతి పువ్వుకూ ఒక సువాసన ఉంటుంది... ఇది అసాధ్యమా?\" అని తనలో తనే గొణుక్కున్నాడు. ఇంతలో, దగ్గర్లో ఆడుకుంటున్న పిల్లల నవ్వులు, అతనిని క్షణం పాటు తన ఆలోచనల నుండి దూరం చేశాయి.",
+      "image_prompt": "The wise man runs his hands through his hair, letting out a deep sigh. His face looks increasingly weary as he smells each flower. Late afternoon, golden light filtering through dense foliage, creating dappled patterns on the ground, conveying a sense of time passing and waning hope.",
+      "scene_visual": "The wise man runs his hands through his hair, letting out a deep sigh. His face looks increasingly weary as he smells each flower.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Savaalunu Svikarinchi, Tenaali Raamakrrishnudu Raajabhavana Udyaanavanaallo, Pallello Prati Puvvunu Vetikaadu. Prati Puvvunu Jaagrattagaa Vaasana Chushaadu, Kaani Pratisaari Atani Mukham Marinta Vaadipoyindi. Mallelu, Gulaabilu, Sannajaajulu — Vaati Tiyyati Vaasana Atani Mukkuputaala Nindaa Nindipoyindi, Atanilo Edo Teliyani Chikaaku Perigindi. Atanu Tana Chetulato Juttuni Pattukuni, Lotugaa Nitturchaadu. \"Prati Puvvuku Oka Suvaasana Untundi... Idi Asaadhyamaa?\" Ani Tanalo Tane Gonukkunnaadu. Intalo, Daggarlo Aadukuntunna Pillala Navvulu, Atanini Kshanam Paatu Tana Aalochanala Nundi Duram Cheshaayi.",
+      "text_en": "Accepting that challenge, Tenali Ramakrishna searched for every flower in the royal palace gardens and in the villages. He carefully smelled every single flower, but each time, his face looked more and more disappointed. Jasmines, roses, and other sweet-smelling flowers — their lovely scents filled his nose, and a strange frustration grew inside him. He ran his hands through his hair and sighed deeply. \"Every flower has a scent... Is this impossible?\" he mumbled to himself. Meanwhile, the laughter of children playing nearby distracted him from his thoughts for a moment."
+    },
+    {
+      "id": 4,
+      "text": "నిరాశగా ఉన్న తెనాలి, ఒక పల్లె బావి దగ్గర కూర్చుని, తన ఆలోచనలలో మునిగిపోయాడు. ఒక స్త్రీ బావి నుండి నీళ్ళు తోడుతోంది — ఆ కప్పీ చప్పుడు, నీళ్ళు బిందెలో పడే శబ్దం వినిపిస్తోంది. అతను ఆమెను, ఆమె పనులను అలా చూస్తూనే ఉన్నాడు. మీకు తెలుసా, అప్పుడు తెనాలికి ఏం అర్థమైందో? — అతని కళ్ళల్లో ఒక కొత్త వెలుగు కనిపించింది. \"అవును! సువాసన లేని పువ్వు... కానీ పువ్వు కాదు!\" అని అతను చిన్నగా నవ్వుతూ అనుకున్నాడు. ఒక గొప్ప ఆలోచనతో అతని ముఖం మీద మెల్లగా ఒక విశాలమైన చిరునవ్వు విచ్చుకుంది, అతను ఉత్సాహంగా లేచి నిలబడ్డాడు.",
+      "image_prompt": "The wise man sits by a village well, observing a woman drawing water. A new light appears in his eyes, and a broad smile slowly spreads across his face. Gentle dusk light, warm amber hues painting the village scene, peaceful and reflective, hinting at an internal breakthrough.",
+      "scene_visual": "The wise man sits by a village well, observing a woman drawing water. A new light appears in his eyes, and a broad smile slowly spreads across his face.",
+      "supporting_char_keys": [],
+      "text_te_en": "Niraashagaa Unna Tenaali, Oka Palle Baavi Daggara Kurchuni, Tana Aalochanalalo Munigipoyaadu. Oka Stri Baavi Nundi Nillu Todutondi — Aa Kappi Chappudu, Nillu Bindelo Pade Shabdam Vinipistondi. Atanu Aamenu, Aame Panulanu Alaa Chustune Unnaadu. Miku Telusaa, Appudu Tenaaliki Em Arthamaindo? — Atani Kallallo Oka Kotta Velugu Kanipinchindi. \"Avunu! Suvaasana Leni Puvvu... Kaani Puvvu Kaadu!\" Ani Atanu Chinnagaa Navvutu Anukunnaadu. Oka Goppa Aalochanato Atani Mukham Mida Mellagaa Oka Vishaalamaina Chirunavvu Vichchukundi, Atanu Utsaahangaa Lechi Nilabaddaadu.",
+      "text_en": "A disheartened Tenali sat near a village well, lost in his thoughts. A woman was drawing water from the well. He could hear the creak of the pulley and the splash of water filling her pot. He kept watching her and her work. Do you know what Tenali suddenly realized? A new spark lit up in his eyes! \"Yes! A flower without scent... but not a flower at all!\" he thought, a small smile playing on his lips. A wide smile slowly spread across his face as a brilliant idea struck him, and he eagerly stood up."
+    },
+    {
+      "id": 5,
+      "text": "తెనాలి రామకృష్ణుడు వెంటనే తన సేవకుడిని పిలిచి, ఒక ప్రత్యేకమైన ప్రదర్శన కోసం ఏర్పాట్లు చేయమన్నాడు. అతని పెదవుల మీద చిలిపిగా ఒక నవ్వు మెరిసింది. తెనాలి ఒక మెరిసే ఇత్తడి కుండను సేవకుడి చేతిలో పెడుతూ — దాని చల్లదనం సేవకుడి చేతులకు తాకింది. \"ఈ 'పువ్వు'ను జాగ్రత్తగా పట్టుకో, దీని సువాసన చాలా ప్రత్యేకమైనది!\" అని కళ్ళు చిమ్మాడు. సేవకుడు ఆ కుండను జాగ్రత్తగా మోసుకుంటూ రాజభవనం వైపు నడిచాడు, తెనాలి ఏం తెస్తున్నాడో అర్థం కాకపోయినా, తన యజమానిని నమ్మాడు.",
+      "image_prompt": "The wise man places a shining brass pot into his servant's hands. A mischievous smile plays on his lips as he winks at the servant. Early morning light, crisp and clear, casting long, soft shadows as they walk towards the palace, suggesting a new beginning.",
+      "scene_visual": "The wise man places a shining brass pot into his servant's hands. A mischievous smile plays on his lips as he winks at the servant.",
+      "supporting_char_keys": [
+        "Servant"
+      ],
+      "text_te_en": "Tenaali Raamakrrishnudu Ventane Tana Sevakudini Pilichi, Oka Pratyekamaina Pradarshana Kosam Erpaatlu Cheyamannaadu. Atani Pedavula Mida Chilipigaa Oka Navvu Merisindi. Tenaali Oka Merise Ittadi Kundanu Sevakudi Chetilo Pedutu — Daani Challadanam Sevakudi Chetulaku Taakindi. \"I 'Puvvu'Nu Jaagrattagaa Pattuko, Dini Suvaasana Chaalaa Pratyekamainadi!\" Ani Kallu Chimmaadu. Sevakudu Aa Kundanu Jaagrattagaa Mosukuntu Raajabhavanam Vaipu Nadichaadu, Tenaali Em Testunnaado Artham Kaakapoyinaa, Tana Yajamaanini Nammaadu.",
+      "text_en": "Tenali Ramakrishna immediately called his servant and asked him to make arrangements for a special presentation. A mischievous smile flashed on his lips. Tenali placed a shining brass pot in the servant's hand — its coolness touched the servant's hands. \"Hold this 'flower' carefully, its scent is very special!\" he winked. The servant carefully carried the pot towards the royal palace. Even though he didn't understand what Tenali was bringing, he trusted his master."
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి రోజు రాజసభలో, అందరూ ఉత్సాహంగా ఎదురుచూస్తున్నారు — సభలో సూది పడితే వినిపించేంత నిశ్శబ్దం. తెనాలి రామకృష్ణుడు ఆ ఇత్తడి కుండతో నిశ్చింతగా ముందుకు వచ్చాడు, అతని కళ్ళు మెరుస్తున్నాయి. మహారాజు కృష్ణదేవరాయల ముందు ఆ కుండను ఉంచి, మూత తీశాడు. \"మహారాజా, సువాసన లేని పువ్వు 'నీరు'!\" అని స్పష్టమైన గొంతుతో ప్రకటించాడు. ఈ మాట వినగానే మహారాజు ఒక్కసారిగా పగలబడి నవ్వారు, ఆ తర్వాత సభలోని వారందరూ కూడా నవ్వారు, కానీ అహంకారి పండితుడు మాత్రం నోరు తెరచి, కళ్ళల్లో ఆశ్చర్యంతో అలాగే నిలబడిపోయాడు.",
+      "image_prompt": "The wise man confidently places the brass pot before the king and removes its lid. The king bursts into laughter, while the arrogant scholar stands with his mouth open in surprise. Bright morning sun streaming through large, ornate windows, illuminating Tenali's face as he speaks, making him the focal point of the scene.",
+      "scene_visual": "The wise man confidently places the brass pot before the king and removes its lid. The king bursts into laughter, while the arrogant scholar stands with his mouth open in surprise.",
+      "supporting_char_keys": [
+        "Emperor Krishnadevaraya"
+      ],
+      "text_te_en": "Marusati Roju Raajasabhalo, Andaru Utsaahangaa Eduruchustunnaaru — Sabhalo Sudi Padite Vinipinchenta Nishshabdan. Tenaali Raamakrrishnudu Aa Ittadi Kundato Nishchintagaa Munduku Vachchaadu, Atani Kallu Merustunnaayi. Mahaaraaju Krrishnadevaraayala Mundu Aa Kundanu Unchi, Muta Tishaadu. \"Mahaaraajaa, Suvaasana Leni Puvvu 'Niru'!\" Ani Spashtamaina Gontuto Prakatinchaadu. I Maata Vinagaane Mahaaraaju Okkasaarigaa Pagalabadi Navvaaru, Aa Tarvaata Sabhaloni Vaarandaru Kudaa Navvaaru, Kaani Ahankaari Panditudu Maatram Noru Terachi, Kallallo Aashcharyanto Alaage Nilabadipoyaadu.",
+      "text_en": "The next day in the royal court, everyone was eagerly waiting — there was such silence in the court that you could hear a pin drop. Tenali Ramakrishna confidently came forward with the brass pot, his eyes sparkling. He placed the pot before Maharaja Krishnadevaraya and opened the lid. \"Maharaja, the flower without scent is 'water'!\" he declared in a clear voice. As soon as he heard these words, the Maharaja burst into laughter! Then everyone in the court laughed too. But the arrogant scholar just stood there with his mouth open and wide, surprised eyes."
+    },
+    {
+      "id": 7,
+      "text": "తెనాలి తెలివికి మహారాజు కృష్ణదేవరాయలు ఎంతగానో సంతోషించారు, అతని ముఖం ఆనందంతో వెలిగిపోయింది. \"రామకృష్ణా, నీ తెలివితేటలు అసాధారణం! నీకు ఈ బహుమతి తక్కువ!\" అని మహారాజు ఆప్యాయంగా అన్నారు, బంగారు నాణేలతో నిండిన సంచీని తెనాలికి బహుకరించారు. ఆ నాణేలు గలగలమని చప్పుడు చేస్తూ తెనాలి చేతుల్లో పడ్డాయి. తెనాలి గౌరవంగా తల వంచి, తన విజయాన్ని స్వీకరించాడు. అహంకారి పండితుడు మాత్రం అవమానంతో తల దించుకుని, మెల్లగా సభ నుండి బయటికి నడిచాడు — ఇక ఎప్పుడూ తెనాలిని తక్కువ అంచనా వేయకూడదని అనుకున్నాడు.",
+      "image_prompt": "The king hands a bag filled with gold coins to the wise man, who bows respectfully. The gold coins clink audibly as they fall into the wise man's hands, while the arrogant scholar hangs his head in shame. Warm, celebratory light, reflecting off the jewels and gold in the court, creating a joyous and triumphant atmosphere.",
+      "scene_visual": "The king hands a bag filled with gold coins to the wise man, who bows respectfully. The gold coins clink audibly as they fall into the wise man's hands, while the arrogant scholar hangs his head in shame.",
+      "supporting_char_keys": [
+        "Emperor Krishnadevaraya"
+      ],
+      "text_te_en": "Tenaali Teliviki Mahaaraaju Krrishnadevaraayalu Entagaano Santoshinchaaru, Atani Mukham Aanandanto Veligipoyindi. \"Raamakrrishnaa, Ni Telivitetalu Asaadhaaranan! Niku I Bahumati Takkuva!\" Ani Mahaaraaju Aapyaayangaa Annaaru, Bangaaru Naanelato Nindina Sanchini Tenaaliki Bahukarinchaaru. Aa Naanelu Galagalamani Chappudu Chestu Tenaali Chetullo Paddaayi. Tenaali Gauravangaa Tala Vanchi, Tana Vijayaanni Svikarinchaadu. Ahankaari Panditudu Maatram Avamaananto Tala Dinchukuni, Mellagaa Sabha Nundi Bayatiki Nadichaadu — Ika Eppudu Tenaalini Takkuva Anchanaa Veyakudadani Anukunnaadu.",
+      "text_en": "Maharaja Krishnadevaraya was very pleased with Tenali's cleverness, and his face lit up with joy. \"Ramakrishna, your cleverness is amazing! This reward is too small for you!\" the Maharaja said kindly, and gave Tenali a bag full of gold coins. The coins jingled as they fell into Tenali's hands. Tenali bowed respectfully and accepted his victory. But the arrogant scholar bowed his head in shame and slowly walked out of the court — he decided he would never underestimate Tenali again."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Emperor Krishnadevaraya",
+      "description": "Emperor Krishnadevaraya: A majestic and wise ruler of the Vijayanagara Empire, known for his love of arts, justice, and cleverness. He wears a grand golden crown and flowing white robes adorned with jewels. Always the same character across every scene."
+    },
+    {
+      "key": "Servant",
+      "description": "Servant: A young, agile man with a simple white dhoti and an eager expression, always ready to assist Tenali. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 9,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 10,
+    "average": 9.17,
+    "weakest_dimension": "grammar_correctness",
+    "notes": "This story is exceptionally well-crafted for children, demonstrating strong oral warmth, emotional depth, and engaging narrative techniques. The direct addresses to the child listener are particularly effective. The narrative arc is compelling, and the story builds suspense beautifully towards a satisfying resolution. The only minor improvements needed are to refine a couple of grammatical nuances and replace an archaic verb form to achieve flawless colloquial Telugu."
+  },
+  "title_te_en": "Tenaali Telivi: Suvaasana Leni Puvvu",
+  "moral_te_en": "Kashtamaina Samasyalu Vachchinappudu, Nishitangaa Gamaninchi, Kaasta Bhinnangaa Aalochiste Adbhutamaina Parishkaaraalu Dorukutaayi.",
+  "title_en": "Tenali's Wit: The Scentless Flower",
+  "moral_en": "When you face tough problems, if you observe carefully and think a little differently, you can find amazing solutions.",
+  "id": "20260614_231001",
+  "date": "2026-06-14",
+  "category": "tenali",
+  "subcategory": "court_wit",
+  "topic": "తెనాలి రాముడు మరియు 'సువాసన లేని పువ్వు' పందెం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260614_231001/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
