@@ -1,0 +1,118 @@
+{
+  "title": "పెద్ద చెట్టు, లత బంధం",
+  "moral": "స్నేహం మద్దతునిస్తుంది, కానీ ఎదుటివారి ఎదుగుదలను గౌరవిస్తూ, వారిని ఊపిరి ఆడకుండా అడ్డుకోవడం మంచిది కాదు.",
+  "main_character": "Pedda Chettu (The Big Tree) is a towering, ancient Banyan tree with a wide canopy, providing extensive shade and shelter. It is inherently kind, generous, and always willing to help others. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A lush, ancient forest in the Godavari region of Andhra Pradesh, near the banks of a gentle river. The forest floor is covered with thick moss and fallen leaves, and the air is always humid and fragrant with wild blossoms. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి తీరాన ఉన్న పచ్చని అడవిలో, పెద్ద చెట్టు నిటారుగా నిలబడి, తన నీడని నలువైపులా విస్తరించింది. దాని కింది భాగంలో, ఒక చిన్న లత బలహీనంగా నేల మీద ప్రాకుతోంది — ఆశగా దారి వెతుకుతోంది. ఆ చిన్ని లత — నిస్సహాయంగా నేల మీద పడి ఉంది. \"ఓ పెద్ద చెట్టా, నాకు నీ మద్దతు కావాలి!\" అని దాని లేత ఆకులు గాలిలో గుసగుసలాడాయి, సహాయం కోరుతూ. పెద్ద చెట్టు తన కొమ్మలను దయగా ఊపింది, అది విన్నట్లుగా. లత లేత ఆకులు పెద్ద చెట్టు గరుకు బెరడుకు తగిలి, మెల్లగా శబ్దం చేశాయి. చెట్టు ఒక బలమైన, సున్నితమైన కొమ్మను లత వైపు మెల్లగా వంచింది.",
+      "image_prompt": "The large tree gently bends one of its strong, delicate branches downwards towards the small vine. The vine's tender leaves brush softly against the tree's rough bark as it reaches out. Soft morning sunlight filtering through the canopy, dappling the forest floor in warm greens and golds, creating a peaceful, nurturing atmosphere.",
+      "scene_visual": "The large tree gently bends one of its strong, delicate branches downwards towards the small vine. The vine's tender leaves brush softly against the tree's rough bark as it reaches out.",
+      "supporting_char_keys": [
+        "latha"
+      ],
+      "text_te_en": "Godaavari Tiraana Unna Pachchani Adavilo, Pedda Chettu Nitaarugaa Nilabadi, Tana Nidani Naluvaipulaa Vistarinchindi. Daani Kindi Bhaaganlo, Oka Chinna Lata Balahinangaa Nela Mida Praakutondi — Aashagaa Daari Vetukutondi. Aa Chinni Lata — Nissahaayangaa Nela Mida Padi Undi. \"O Pedda Chettaa, Naaku Ni Maddatu Kaavaali!\" Ani Daani Leta Aakulu Gaalilo Gusagusalaadaayi, Sahaayam Korutu. Pedda Chettu Tana Kommalanu Dayagaa Upindi, Adi Vinnatlugaa. Lata Leta Aakulu Pedda Chettu Garuku Beraduku Tagili, Mellagaa Shabdam Cheshaayi. Chettu Oka Balamaina, Sunnitamaina Kommanu Lata Vaipu Mellagaa Vanchindi.",
+      "text_en": "In a green forest by the Godavari river, a Big Tree stood tall, spreading its shade all around. Below it, a small Vine weakly crawled on the ground — hopefully searching for a path. That tiny Vine lay helplessly on the ground. \"Oh, Big Tree, I need your support!\" its tender leaves whispered in the wind, asking for help. The Big Tree gently swayed its branches, as if it had heard. The Vine's tender leaves touched the Big Tree's rough bark, making a soft sound. The tree gently bent a strong, tender branch towards the Vine."
+    },
+    {
+      "id": 2,
+      "text": "చెట్టు అందించిన ఆ కొమ్మను పట్టుకుని, లత వేగంగా పైకి పాకడం మొదలుపెట్టింది. పెద్ద చెట్టు తన ఆకులను ఇంకా విస్తరించింది, సంతోషంగా దానిని తన నీడలోకి ఆహ్వానిస్తూ. లత ఆనందంతో పులకించిపోయింది — అడవి అంతా దాని ఊదా పూల తీయని సువాసనతో నిండిపోయింది. \"నీవు పెరిగి, నా నీడలో వికసించు,\" అని చెట్టు ఆకులు మెల్లగా సవ్వడి చేశాయి. లత కొమ్మల చుట్టూ మరింత గట్టిగా అల్లుకుంటూ, ఒక్కసారిగా తన బలాన్ని నిరూపించుకుంది. దాని లేత తీగలు ఇప్పుడు చెట్టు యొక్క దట్టమైన కొమ్మలలో ఒకదాని చుట్టూ ఇంకా గట్టిగా చుట్టుకున్నాయి.",
+      "image_prompt": "The vine rapidly climbs upwards, tightly coiling its tender tendrils around one of the tree's dense branches. The tree's leaves spread wider, casting a welcoming shadow over the now blossoming vine with its purple flowers. Bright midday sun, strong and clear, highlighting the vibrant green of the vine and the sturdy brown of the tree, signifying robust growth.",
+      "scene_visual": "The vine rapidly climbs upwards, tightly coiling its tender tendrils around one of the tree's dense branches. The tree's leaves spread wider, casting a welcoming shadow over the now blossoming vine with its purple flowers.",
+      "supporting_char_keys": [
+        "latha"
+      ],
+      "text_te_en": "Chettu Andinchina Aa Kommanu Pattukuni, Lata Vegangaa Paiki Paakadam Modalupettindi. Pedda Chettu Tana Aakulanu Inkaa Vistarinchindi, Santoshangaa Daanini Tana Nidaloki Aahvaanistu. Lata Aanandanto Pulakinchipoyindi — Adavi Antaa Daani Udaa Pula Tiyani Suvaasanato Nindipoyindi. \"Nivu Perigi, Naa Nidalo Vikasinchu,\" Ani Chettu Aakulu Mellagaa Savvadi Cheshaayi. Lata Kommala Chuttu Marinta Gattigaa Allukuntu, Okkasaarigaa Tana Balaanni Nirupinchukundi. Daani Leta Tigalu Ippudu Chettu Yokka Dattamaina Kommalalo Okadaani Chuttu Inkaa Gattigaa Chuttukunnaayi.",
+      "text_en": "Holding onto the branch the tree offered, the Vine quickly began to climb upwards. The Big Tree spread its leaves even wider, happily inviting it into its shade. The Vine was thrilled with joy — the whole forest filled with the sweet scent of its purple flowers. \"Grow and bloom in my shade,\" the tree's leaves softly rustled. The Vine wrapped itself even tighter around the branches, suddenly showing its strength. Its tender tendrils now wrapped even more tightly around one of the tree's thick branches."
+    },
+    {
+      "id": 3,
+      "text": "రోజులు గడిచే కొద్దీ, లత పెరుగుదల మితిమీరిపోయింది — దాని దట్టమైన ఆకులు పెద్ద చెట్టు ఆకులకు సూర్యరశ్మిని అడ్డుకున్నాయి. పెద్ద చెట్టు ఊపిరి ఆడనట్లుగా అనిపించింది — దాని కొమ్మలు నొప్పితో మెల్లగా వణికాయి. \"లతా, నా కొమ్మలను అంతగా చుట్టకు... నాకు సూర్యరశ్మి కావాలి,\" అని చెట్టు గాలిలో బాధగా గుసగుసలాడింది. లత మాత్రం విననట్లుగా, దాని పట్టును మరింత బిగించింది, చెట్టు బెరడుపై ఒక బలహీనమైన కీచుమని శబ్దం వినిపించింది. చెట్టు అభ్యర్థనను పట్టించుకోకుండా, లత మరో పొడవైన తీగను పైకి పంపింది, మరింత ఎత్తుకు చేరాలని ఆత్రుతగా.",
+      "image_prompt": "The vine tightens its grip around the tree's branches and sends another long tendril upwards, eager to reach higher. The tree's branches tremble slightly with pain as the vine's hold creates a faint creaking sound on its bark. Overcast sky, a dull, diffused light, casting a slightly melancholic greyish tone over the scene, reflecting the tree's growing unease.",
+      "scene_visual": "The vine tightens its grip around the tree's branches and sends another long tendril upwards, eager to reach higher. The tree's branches tremble slightly with pain as the vine's hold creates a faint creaking sound on its bark.",
+      "supporting_char_keys": [
+        "latha"
+      ],
+      "text_te_en": "Rojulu Gadiche Koddi, Lata Perugudala Mitimiripoyindi — Daani Dattamaina Aakulu Pedda Chettu Aakulaku Suryarashmini Addukunnaayi. Pedda Chettu Upiri Aadanatlugaa Anipinchindi — Daani Kommalu Noppito Mellagaa Vanikaayi. \"Lataa, Naa Kommalanu Antagaa Chuttaku... Naaku Suryarashmi Kaavaali,\" Ani Chettu Gaalilo Baadhagaa Gusagusalaadindi. Lata Maatram Vinanatlugaa, Daani Pattunu Marinta Biginchindi, Chettu Beradupai Oka Balahinamaina Kichumani Shabdam Vinipinchindi. Chettu Abhyarthananu Pattinchukokundaa, Lata Maro Podavaina Tiganu Paiki Pampindi, Marinta Ettuku Cheraalani Aatrutagaa.",
+      "text_en": "As days passed, the Vine's growth became too much — its thick leaves blocked the sunlight from the Big Tree's leaves. The Big Tree felt like it couldn't breathe — its branches trembled softly with pain. \"Vine, don't wrap my branches so tightly... I need sunlight,\" the tree sadly whispered in the wind. But the Vine, as if not hearing, tightened its grip even more, and a faint creaking sound was heard on the tree's bark. Ignoring the tree's plea, the Vine sent another long tendril upwards, eager to reach even higher."
+    },
+    {
+      "id": 4,
+      "text": "పెద్ద చెట్టు ఇప్పుడు బలహీనంగా, ఊపిరి ఆడనట్లుగా అనిపించింది — దాని ఆకులు పసుపు రంగులోకి మారి, నేలపై రాలిపోతున్నాయి. \"ఈ కొమ్మను పట్టుకో, ఇంకా పైకి ఎదగాలి!\" అని లత, చెట్టు కొమ్మలను మరింత పైకి లాగింది, ఓర్పు లేకుండా. ఇది స్నేహమా — బంధనమా? చెట్టు అంతరంగంలో ఒక లోతైన నొప్పి, తన స్నేహితురాలిని బాధపెట్టకుండా తనని తాను ఎలా విడిపించుకోవాలి అని ఆలోచిస్తోంది. దాని నుండి రాలిన ఎండిన ఆకులు గాలికి ఒకదానికొకటి రాసుకుంటూ, ఒక విషాదమైన శబ్దం చేశాయి. అకస్మాత్తుగా వీచిన గాలికి చెట్టు వణికింది, ఇంకొన్ని పసుపు ఆకులు నేల రాలాయి.",
+      "image_prompt": "The large tree trembles in a sudden gust of wind, its yellowing leaves falling to the ground. The dried leaves rustle mournfully as they scatter, while the vine continues to pull the tree's branches higher. Late afternoon, shadows lengthening and deepening, creating a sense of impending doom and quiet desperation around the struggling tree.",
+      "scene_visual": "The large tree trembles in a sudden gust of wind, its yellowing leaves falling to the ground. The dried leaves rustle mournfully as they scatter, while the vine continues to pull the tree's branches higher.",
+      "supporting_char_keys": [
+        "latha"
+      ],
+      "text_te_en": "Pedda Chettu Ippudu Balahinangaa, Upiri Aadanatlugaa Anipinchindi — Daani Aakulu Pasupu Ranguloki Maari, Nelapai Raalipotunnaayi. \"I Kommanu Pattuko, Inkaa Paiki Edagaali!\" Ani Lata, Chettu Kommalanu Marinta Paiki Laagindi, Orpu Lekundaa. Idi Snehamaa — Bandhanamaa? Chettu Antaranganlo Oka Lotaina Noppi, Tana Snehituraalini Baadhapettakundaa Tanani Taanu Elaa Vidipinchukovaali Ani Aalochistondi. Daani Nundi Raalina Endina Aakulu Gaaliki Okadaanikokati Raasukuntu, Oka Vishaadamaina Shabdam Cheshaayi. Akasmaattugaa Vichina Gaaliki Chettu Vanikindi, Inkonni Pasupu Aakulu Nela Raalaayi.",
+      "text_en": "The Big Tree now felt weak and breathless — its leaves turned yellow and were falling to the ground. \"Hold this branch, I need to grow even higher!\" said the Vine, pulling the tree's branches further up, impatiently. Is this friendship — or a trap? Inside the tree, there was a deep pain, wondering how to free itself without hurting its friend. The dry leaves that fell from it rubbed against each other in the wind, making a sad sound. The tree trembled with a sudden gust of wind, and a few more yellow leaves fell to the ground."
+    },
+    {
+      "id": 5,
+      "text": "తన ప్రాణం కోసం పోరాడుతూ, పెద్ద చెట్టు తన కొమ్మలను మెల్లగా కదిలించింది, లత బంధనాన్ని సడలించడానికి ప్రయత్నించింది. \"నేను ఊపిరి ఆడలేకపోతున్నాను, లతా!\" అని దాని ప్రతి కదలిక ఒక నిశ్శబ్ద అభ్యర్థనగా వినిపించింది. లత చెవిటిదిగా మారినట్లుంది — దాని తీగలు కోపంగా బిగుసుకున్నాయి. చెట్టు కదలికకు కొన్ని ఊదా పూలు నేల రాలాయి, తడి పాచి మీద మెల్లగా పడిపోయాయి. లత తన పట్టును వదులుకోవడానికి బదులు, కొత్త, బలమైన తీగలను పంపింది, చెట్టుకు మరింత గట్టిగా అల్లుకోవడానికి.",
+      "image_prompt": "The tree gently moves its branches, attempting to loosen the vine's constricting hold. As the tree moves, several purple flowers from the vine fall softly onto the damp moss below, while the vine's tendrils angrily tighten their grip. A sudden, brief flash of sunlight breaks through the clouds, highlighting the tree's struggle and the vine's stubborn grip, creating a stark contrast.",
+      "scene_visual": "The tree gently moves its branches, attempting to loosen the vine's constricting hold. As the tree moves, several purple flowers from the vine fall softly onto the damp moss below, while the vine's tendrils angrily tighten their grip.",
+      "supporting_char_keys": [
+        "latha"
+      ],
+      "text_te_en": "Tana Praanam Kosam Poraadutu, Pedda Chettu Tana Kommalanu Mellagaa Kadilinchindi, Lata Bandhanaanni Sadalinchadaaniki Prayatninchindi. \"Nenu Upiri Aadalekapotunnaanu, Lataa!\" Ani Daani Prati Kadalika Oka Nishshabda Abhyarthanagaa Vinipinchindi. Lata Chevitidigaa Maarinatlundi — Daani Tigalu Kopangaa Bigusukunnaayi. Chettu Kadalikaku Konni Udaa Pulu Nela Raalaayi, Tadi Paachi Mida Mellagaa Padipoyaayi. Lata Tana Pattunu Vadulukovadaaniki Badulu, Kotta, Balamaina Tigalanu Pampindi, Chettuku Marinta Gattigaa Allukovadaaniki.",
+      "text_en": "Fighting for its life, the Big Tree gently moved its branches, trying to loosen the Vine's grip. \"I can't breathe, Vine!\" every movement of the tree sounded like a silent plea. The Vine seemed to have become deaf — its tendrils tightened angrily. With the tree's movement, some purple flowers fell to the ground, landing softly on the wet moss. Instead of loosening its grip, the Vine sent out new, stronger tendrils to wrap even tighter around the tree."
+    },
+    {
+      "id": 6,
+      "text": "లత బంధనం నుండి విముక్తి పొందలేక, పెద్ద చెట్టు లోతైన బాధతో ఒక నిర్ణయానికి వచ్చింది. \"నేను బ్రతకాలి... నేను బ్రతకాలి,\" అని దాని ఆకులు గట్టిగా నిశ్శబ్దంగా ప్రకటించాయి. ఇది తన ప్రాణాల పోరాటం. తనపై ఆధారపడిన స్నేహితురాలిని వదులుకోవాలని నిర్ణయించుకుంది, అది ఎంత కష్టమైనా సరే. చెట్టు శిఖరం నుండి రాలిన ఎండిన ఆకుల మసక వాసన, దాని అంతర్గత సంఘర్షణకు నిదర్శనంగా నిలిచింది. లతకు చెట్టు యొక్క సూక్ష్మ ప్రతిఘటన అర్థం కాలేదు, అది గందరగోళంగా అనిపించింది. చెట్టు మెల్లగా, దాదాపుగా కనిపించకుండా, లత చుట్టూ అల్లుకున్న తన కొమ్మలను కుదించడం ప్రారంభించింది.",
+      "image_prompt": "The tree slowly and almost imperceptibly begins to contract its branches that are entwined around the vine. The faint scent of dried leaves falling from the tree's canopy hints at its internal struggle, unnoticed by the confused vine. Twilight descends, casting long, deep blue and purple shadows, creating a somber, reflective mood as the tree makes its difficult choice.",
+      "scene_visual": "The tree slowly and almost imperceptibly begins to contract its branches that are entwined around the vine. The faint scent of dried leaves falling from the tree's canopy hints at its internal struggle, unnoticed by the confused vine.",
+      "supporting_char_keys": [
+        "latha"
+      ],
+      "text_te_en": "Lata Bandhanam Nundi Vimukti Pondaleka, Pedda Chettu Lotaina Baadhato Oka Nirnayaaniki Vachchindi. \"Nenu Bratakaali... Nenu Bratakaali,\" Ani Daani Aakulu Gattigaa Nishshabdangaa Prakatinchaayi. Idi Tana Praanaala Poraatan. Tanapai Aadhaarapadina Snehituraalini Vadulukovaalani Nirnayinchukundi, Adi Enta Kashtamainaa Sare. Chettu Shikharam Nundi Raalina Endina Aakula Masaka Vaasana, Daani Antargata Sangharshanaku Nidarshanangaa Nilichindi. Lataku Chettu Yokka Sukshma Pratighatana Artham Kaaledu, Adi Gandaragolangaa Anipinchindi. Chettu Mellagaa, Daadaapugaa Kanipinchakundaa, Lata Chuttu Allukunna Tana Kommalanu Kudinchadam Praarambhinchindi.",
+      "text_en": "Unable to free itself from the Vine's grip, the Big Tree made a decision with deep pain. \"I must live... I must live,\" its leaves declared loudly and silently. This was a fight for its life. It decided to let go of its dependent friend, no matter how difficult. The faint smell of dry leaves falling from the tree's crown stood as a testament to its internal struggle. The Vine did not understand the tree's subtle resistance; it seemed confused. The tree slowly, almost invisibly, began to shrink the branches wrapped around the Vine."
+    },
+    {
+      "id": 7,
+      "text": "కొంత కాలానికి, పెద్ద చెట్టు తన బలాన్ని తిరిగి పొందింది — దాని ఆకులు పచ్చగా, సజీవంగా గాలిలో స్వేచ్ఛగా ఊగాయి. లత, ఇప్పుడు వేరుపడి, నేల మీద తన సొంత మార్గాన్ని వెతుక్కుని, నిదానంగా ఎదుగుతోంది, అంతకు ముందున్నంత గొప్పగా కాకపోయినా. \"ప్రతి జీవికి — తనకంటూ ఒక మార్గం ఉంటుంది,\" అని చెట్టు ఆకులు గాలిలో జ్ఞానంగా సవ్వడి చేశాయి. చినుకు పడిన తర్వాత వచ్చే స్వచ్ఛమైన, మట్టి వాసన అడవిలో కొత్త జీవితానికి సంకేతంగా నిలిచింది. లత తన సొంత బలాన్ని గుర్తించి, దాని తీగలను తనంతట తానుగా విస్తరించడం నేర్చుకుంది.",
+      "image_prompt": "The large tree's green, vibrant leaves sway freely in the wind, having regained its strength. The vine, now separated, slowly grows along the ground, extending its tendrils independently, while the fresh scent of damp earth fills the air after a rain shower. Gentle dusk light, warm amber and soft pink hues painting the sky, signifying a peaceful resolution and a new, balanced beginning for both the tree and the vine.",
+      "scene_visual": "The large tree's green, vibrant leaves sway freely in the wind, having regained its strength. The vine, now separated, slowly grows along the ground, extending its tendrils independently, while the fresh scent of damp earth fills the air after a rain shower.",
+      "supporting_char_keys": [
+        "latha"
+      ],
+      "text_te_en": "Konta Kaalaaniki, Pedda Chettu Tana Balaanni Tirigi Pondindi — Daani Aakulu Pachchagaa, Sajivangaa Gaalilo Svechchagaa Ugaayi. Lata, Ippudu Verupadi, Nela Mida Tana Sonta Maargaanni Vetukkuni, Nidaanangaa Edugutondi, Antaku Mundunnanta Goppagaa Kaakapoyinaa. \"Prati Jiviki — Tanakantu Oka Maargam Untundi,\" Ani Chettu Aakulu Gaalilo Jnyaanangaa Savvadi Cheshaayi. Chinuku Padina Tarvaata Vachche Svachchamaina, Matti Vaasana Adavilo Kotta Jivitaaniki Sanketangaa Nilichindi. Lata Tana Sonta Balaanni Gurtinchi, Daani Tigalanu Tanantata Taanugaa Vistarinchadam Nerchukundi.",
+      "text_en": "After some time, the Big Tree regained its strength — its leaves were green and alive, swaying freely in the wind. The Vine, now separated, found its own path on the ground and was slowly growing, though not as grandly as before. \"Every living thing — has its own path,\" the tree's leaves wisely rustled in the wind. The fresh, earthy smell after a drizzle became a sign of new life in the forest. The Vine recognized its own strength and learned to spread its tendrils on its own."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "latha",
+      "description": "Latha (The Vine) is a delicate, initially small flowering vine with bright green leaves and vibrant purple flowers. It is initially grateful and dependent but becomes increasingly demanding and possessive. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 6,
+    "average": 7.0,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story presents a strong narrative arc with a clear, valuable moral that emerges naturally from the events. The grammar is impeccable, making it a smooth read. However, the storytelling style is often too formal and descriptive, lacking the warm, oral quality of a bedtime story. The dialogue is particularly weak, often reported rather than directly spoken, which diminishes character distinctiveness and child engagement. To reach a 9+, the most important fix is to infuse the narrative with more direct, natural dialogue and to shift the overall tone towards a more conversational, grandparent-like voice. This would significantly enhance emotional depth and child engagement, making the characters feel more alive and the story more immersive."
+  },
+  "quality_warning": true,
+  "title_te_en": "Pedda Chettu, Lata Bandham",
+  "moral_te_en": "Sneham Maddatunistundi, Kaani Edutivaari Edugudalanu Gauravistu, Vaarini Upiri Aadakundaa Addukovadam Manchidi Kaadu.",
+  "title_en": "The Big Tree and the Vine's Bond",
+  "moral_en": "Friendship offers support, but it's important to respect others' growth and not hold them back or make them feel suffocated.",
+  "id": "20260614_091045",
+  "date": "2026-06-14",
+  "category": "panchatantra",
+  "subcategory": "friendship_betrayal",
+  "topic": "పంచతంత్రం - పెద్ద చెట్టు మరియు ఆధారపడిన లత యొక్క బంధం | Moral: స్నేహం మద్దతునిస్తుంది, కానీ ఎదుటివారి ఎదుగుదలను గౌరవిస్తూ, వారిని ఊపిరి ఆడకుండా అడ్డుకోవడం మంచిది కాదు.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260614_091045/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
