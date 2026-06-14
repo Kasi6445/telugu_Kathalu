@@ -1,0 +1,97 @@
+{
+  "title": "తెనాలి తెలివి, చిన్న కర్ర బలం",
+  "moral": "చూడటానికి సాదాసీదాగా కనిపించే వస్తువులకూ గొప్ప శక్తి ఉంటుందని తెనాలి నిరూపించాడు.",
+  "main_character": "Tenali Ramakrishna - A lean, sharp-eyed court jester of the Vijayanagara Empire, known for his quick wit and problem-solving skills. He often uses humor and unconventional methods to outsmart those who underestimate him. Always the same character across every scene.",
+  "antagonist": "Durmukha - A portly, arrogant courtier with a meticulously oiled moustache and a condescending sneer. He always wears gaudy, bright purple silk robes and carries a jewel-encrusted dagger. Always the same character across every scene.",
+  "setting": "The grand court of Emperor Krishnadevaraya in Hampi, Vijayanagara, during a bustling afternoon. Ornate pillars, vibrant tapestries, and a large golden throne dominate the hall. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "\"మహారాజా, ఈ దండం సామాన్యమైనది కాదు, దీనికి ఒక రహస్యం ఉంది!\" అని వర్తకుడు, తన చేతిలోని నునుపైన, ముదురు గోధుమ రంగు కర్రను చక్రవర్తి ముందు పెట్టాడు. అందరూ కళ్ళు పెద్దవి చేసి చూశారు — చక్రవర్తి బంగారు సింహాసనం పక్కన అది మామూలు కట్టెలా కనిపించింది. తెనాలి రామకృష్ణుడు మాత్రం పెదవులపై చిరునవ్వుతో, ఆ కర్రలోని ఏదో రహస్యాన్ని పసిగట్టినట్లు, దాన్ని పరిశీలించాడు. దర్బారులోని వారంతా అయోమయంగా ఒకరి మొహాలు ఒకరు చూసుకున్నారు. ఈ వర్తకుడు ఏం చెప్పదలుచుకున్నాడో ఎవరికీ అర్థం కాలేదు.",
+      "image_prompt": "The merchant places a smooth, dark brown stick before the emperor on his golden throne. The scholar examines the stick with a slight smile, as if having deciphered its secret. Also in this scene: Durmukha - A portly, arrogant courtier with a meticulously oiled moustache and a condescending sneer. He always wears gaudy, bright purple silk robes and carries a jewel-encrusted dagger. Always the same character across every scene. Bright midday sun streaming through large arched windows, illuminating dust motes dancing in the air, creating a regal but slightly skeptical atmosphere.",
+      "scene_visual": "The merchant places a smooth, dark brown stick before the emperor on his golden throne. The scholar examines the stick with a slight smile, as if having deciphered its secret.",
+      "supporting_char_keys": [],
+      "text_te_en": "\"Mahaaraajaa, I Dandam Saamaanyamainadi Kaadu, Diniki Oka Rahasyam Undi!\" Ani Vartakudu, Tana Chetiloni Nunupaina, Muduru Godhuma Rangu Karranu Chakravarti Mundu Pettaadu. Andaru Kallu Peddavi Chesi Chushaaru — Chakravarti Bangaaru Sinhaasanam Pakkana Adi Maamulu Kattelaa Kanipinchindi. Tenaali Raamakrrishnudu Maatram Pedavulapai Chirunavvuto, Aa Karraloni Edo Rahasyaanni Pasigattinatlu, Daanni Parishilinchaadu. Darbaaruloni Vaarantaa Ayomayangaa Okari Mohaalu Okaru Chusukunnaaru. I Vartakudu Em Cheppadaluchukunnaado Evariki Artham Kaaledu.",
+      "text_en": "\"Your Majesty, this stick is no ordinary stick; it holds a secret!\" said the merchant, placing a smooth, dark brown stick before the Emperor. Everyone's eyes widened — next to the Emperor's golden throne, it looked like a simple piece of wood. Only Tenali Ramakrishna, with a small smile on his lips, examined it as if he had already sniffed out its secret. Everyone in the court looked at each other, confused. Nobody understood what this merchant was trying to say."
+    },
+    {
+      "id": 2,
+      "text": "ఇంతలో దూర్ముఖుడు బిగ్గరగా నవ్వాడు — అతని అపహాస్యపు నవ్వు దర్బారు అంతా ప్రతిధ్వనించింది. \"రామకృష్ణా, ఈ పనికిమాలిన కర్రతో నువ్వు ఏ అద్భుతం చేయగలవో చూద్దాం!\" అంటూ తెనాలిని వెక్కిరించాడు. తెనాలి అతని వైపు ఆలోచనగా చూశాడు, అతని కళ్ళల్లో ఒక మెరుపు కనిపించింది. అతను నెమ్మదిగా ఆ కర్రను తన చేతిలోకి తీసుకున్నాడు. దాన్ని జాగ్రత్తగా పరిశీలిస్తూ, ఏదో గొప్ప ప్రణాళిక వేస్తున్నట్లు కనిపించాడు.",
+      "image_prompt": "The antagonist laughs loudly, his derisive laughter echoing through the court as he mocks the scholar. The scholar slowly takes the stick into his hand, a thoughtful glint appearing in his eyes. Also in this scene: Durmukha - A portly, arrogant courtier with a meticulously oiled moustache and a condescending sneer. He always wears gaudy, bright purple silk robes and carries a jewel-encrusted dagger. Always the same character across every scene. The court remains brightly lit, but a shadow of challenge falls across Tenali's face as he takes the stick.",
+      "scene_visual": "The antagonist laughs loudly, his derisive laughter echoing through the court as he mocks the scholar. The scholar slowly takes the stick into his hand, a thoughtful glint appearing in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Intalo Durmukhudu Biggaragaa Navvaadu — Atani Apahaasyapu Navvu Darbaaru Antaa Pratidhvaninchindi. \"Raamakrrishnaa, I Panikimaalina Karrato Nuvvu E Adbhutam Cheyagalavo Chuddaan!\" Antu Tenaalini Vekkirinchaadu. Tenaali Atani Vaipu Aalochanagaa Chushaadu, Atani Kallallo Oka Merupu Kanipinchindi. Atanu Nemmadigaa Aa Karranu Tana Chetiloki Tisukunnaadu. Daanni Jaagrattagaa Parishilistu, Edo Goppa Pranaalika Vestunnatlu Kanipinchaadu.",
+      "text_en": "Just then, Durmukhudu laughed loudly — his mocking laughter echoed throughout the court. \"Ramakrishna, let's see what miracle you can perform with this useless stick!\" he taunted Tenali. Tenali looked at him thoughtfully, a sparkle in his eyes. He slowly took the stick into his hand. He examined it carefully, looking as if he was planning something grand."
+    },
+    {
+      "id": 3,
+      "text": "తెనాలి ఆ కర్రను తనతోనే ఉంచుకున్నాడు. కిందపడిన పుస్తకాన్ని అందుకోవడానికి, లేదంటే ఆలోచిస్తున్నప్పుడు పాలిష్ చేసిన పాలరాతి నేలమీద మెల్లగా తట్టడానికి దాన్ని ఉపయోగించాడు — ఆ కర్ర కొస నుండి చిన్న ధ్వని మాత్రమే వినిపించేది. \"కొన్నిసార్లు చిన్న వస్తువులే పెద్ద పనులకు ఉపయోగపడతాయి,\" అని తెనాలి తనలో తాను అనుకున్నాడు, అతని ముఖంలో చిలిపి నవ్వు మెరిసింది. దూర్ముఖుడు మాత్రం తెనాలి చేసే ప్రతి పనినీ విసుగుతో గమనించాడు. తెనాలి తనను పిచ్చివాడిని చేస్తున్నాడని అతను గట్టిగా నమ్మాడు.",
+      "image_prompt": "The scholar uses the stick to gently tap the polished marble floor while deep in thought. A faint sound emanates from the stick's tip with each tap. Also in this scene: Durmukha - A portly, arrogant courtier with a meticulously oiled moustache and a condescending sneer. He always wears gaudy, bright purple silk robes and carries a jewel-encrusted dagger. Always the same character across every scene. The afternoon sun casts long, slanting shadows across the court, highlighting Tenali's solitary, peculiar movements.",
+      "scene_visual": "The scholar uses the stick to gently tap the polished marble floor while deep in thought. A faint sound emanates from the stick's tip with each tap.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tenaali Aa Karranu Tanatone Unchukunnaadu. Kindapadina Pustakaanni Andukovadaaniki, Ledante Aalochistunnappudu Paalish Chesina Paalaraati Nelamida Mellagaa Tattadaaniki Daanni Upayoginchaadu — Aa Karra Kosa Nundi Chinna Dhvani Maatrame Vinipinchedi. \"Konnisaarlu Chinna Vastuvule Pedda Panulaku Upayogapadataayi,\" Ani Tenaali Tanalo Taanu Anukunnaadu, Atani Mukhanlo Chilipi Navvu Merisindi. Durmukhudu Maatram Tenaali Chese Prati Panini Visuguto Gamaninchaadu. Tenaali Tananu Pichchivaadini Chestunnaadani Atanu Gattigaa Nammaadu.",
+      "text_en": "Tenali kept the stick with him. He used it to pick up a fallen book or to gently tap the polished marble floor when he was thinking — only a soft sound came from the tip of the stick. \"Sometimes, small things can be useful for big tasks,\" Tenali thought to himself, a mischievous smile twinkling on his face. Durmukhudu, however, watched Tenali's every move with annoyance. He firmly believed that Tenali was making a fool of him."
+    },
+    {
+      "id": 4,
+      "text": "మధ్యాహ్నం విరామ సమయంలో దూర్ముఖుడు తెనాలిని చూసి నవ్వాడు. \"ఇది కదా ఆ రహస్య దండం? పగలంతా కర్రతో ఆడుకుంటే ఎలా?\" అని బిగ్గరగా అడిగాడు, ఇతర సభలోని వారు నవ్వును ఆపుకోవడానికి తమ పట్టు వస్త్రాలు సర్దుకున్నారు. తెనాలి మాత్రం ఏమీ పట్టించుకోనట్లు, ప్రశాంతంగా నిలబడ్డాడు. అతని పెదవులపై ఒక చిన్న చిరునవ్వు మెరిసింది. ఆ కర్రను పట్టుకుని, దూర్ముఖుడి వైపు ఒక ప్రత్యేకమైన చూపు చూశాడు — ఏదో జరగబోతోందని చెప్పినట్లు.",
+      "image_prompt": "The antagonist laughs and questions the scholar about the stick, while other courtiers adjust their silk clothes to stifle their laughter. The scholar stands calmly, holding the stick, a small, knowing smile playing on his lips as he gives a pointed look. Also in this scene: Durmukha - A portly, arrogant courtier with a meticulously oiled moustache and a condescending sneer. He always wears gaudy, bright purple silk robes and carries a jewel-encrusted dagger. Always the same character across every scene. The court is a buzz of chatter, the light now softer, a late afternoon glow, making Durmukha's sneering face appear even more pronounced.",
+      "scene_visual": "The antagonist laughs and questions the scholar about the stick, while other courtiers adjust their silk clothes to stifle their laughter. The scholar stands calmly, holding the stick, a small, knowing smile playing on his lips as he gives a pointed look.",
+      "supporting_char_keys": [],
+      "text_te_en": "Madhyaahnam Viraama Samayanlo Durmukhudu Tenaalini Chusi Navvaadu. \"Idi Kadaa Aa Rahasya Dandan? Pagalantaa Karrato Aadukunte Elaa?\" Ani Biggaragaa Adigaadu, Itara Sabhaloni Vaaru Navvunu Aapukovadaaniki Tama Pattu Vastraalu Sardukunnaaru. Tenaali Maatram Emi Pattinchukonatlu, Prashaantangaa Nilabaddaadu. Atani Pedavulapai Oka Chinna Chirunavvu Merisindi. Aa Karranu Pattukuni, Durmukhudi Vaipu Oka Pratyekamaina Chupu Chushaadu — Edo Jaragabotondani Cheppinatlu.",
+      "text_en": "During the afternoon break, Durmukhudu laughed at Tenali. \"Is this that secret stick? How can you play with a stick all day?\" he asked loudly, as other courtiers adjusted their silk robes to hide their laughter. Tenali, however, stood calmly, as if unbothered. A small smile played on his lips. Holding the stick, he gave Durmukhudu a special look — as if to say something was about to happen."
+    },
+    {
+      "id": 5,
+      "text": "సంధ్యవేళ, మహారాజు కిరీటం నుండి ఒక చిన్న మాణిక్యం అకస్మాత్తుగా జారింది — \"టంగ్\" మని చిన్న శబ్దం చేస్తూ. అది సింహాసనం కిందనున్న ఒక సన్నని పగులులోకి జారిపోయింది. \"అయ్యో! మాణిక్యం పడిపోయింది! ఎలా తీయాలి?\" అని కొందరు భయంతో కేకలు వేశారు. అందరి ముఖాల్లో ఆందోళన కనిపించింది. సభలోని వారంతా తమ పెద్ద చేతులతో దాన్ని అందుకోవడానికి ప్రయత్నించారు, కానీ పగులు చాలా లోతుగా ఉంది. తెనాలి మాత్రం కళ్ళు పెద్దవి చేసి, ఆ మాణిక్యం పడిన చోటును పరిశీలించాడు.",
+      "image_prompt": "A small ruby suddenly falls from the emperor's crown, making a 'tung' sound as it slides into a narrow crack beneath the throne. Courtiers try to reach it with their large hands, but the crack is too deep. Also in this scene: Durmukha - A portly, arrogant courtier with a meticulously oiled moustache and a condescending sneer. He always wears gaudy, bright purple silk robes and carries a jewel-encrusted dagger. Always the same character across every scene. Torches and oil lamps are lit, casting dancing shadows and a warm, anxious glow over the panicked faces of the courtiers, with the crevice remaining in deep shadow.",
+      "scene_visual": "A small ruby suddenly falls from the emperor's crown, making a 'tung' sound as it slides into a narrow crack beneath the throne. Courtiers try to reach it with their large hands, but the crack is too deep.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sandhyavela, Mahaaraaju Kiritam Nundi Oka Chinna Maanikyam Akasmaattugaa Jaarindi — \"Tang\" Mani Chinna Shabdam Chestu. Adi Sinhaasanam Kindanunna Oka Sannani Pagululoki Jaaripoyindi. \"Ayyo! Maanikyam Padipoyindi! Elaa Tiyaali?\" Ani Kondaru Bhayanto Kekalu Veshaaru. Andari Mukhaallo Aandolana Kanipinchindi. Sabhaloni Vaarantaa Tama Pedda Chetulato Daanni Andukovadaaniki Prayatninchaaru, Kaani Pagulu Chaalaa Lotugaa Undi. Tenaali Maatram Kallu Peddavi Chesi, Aa Maanikyam Padina Chotunu Parishilinchaadu.",
+      "text_en": "At dusk, a small ruby suddenly slipped from the Emperor's crown — making a soft \"ting\" sound. It rolled into a narrow crack beneath the throne. \"Oh no! The ruby has fallen! How do we get it out?\" some cried out in fear. Worry appeared on everyone's faces. All the courtiers tried to reach it with their large hands, but the crack was too deep. Tenali, however, widened his eyes and carefully examined where the ruby had fallen."
+    },
+    {
+      "id": 6,
+      "text": "ఆ క్షణంలో తెనాలి ముందుకు అడుగు వేశాడు. తన చేతిలోని సాదాసీదా కర్రను జాగ్రత్తగా పగులులోకి దించాడు. మెల్లగా, సున్నితంగా ఆ కర్ర మాణిక్యాన్ని తట్టింది — చిన్న రాతి చప్పుడు వినిపించింది. తెనాలి దాన్ని పైకి తీయగానే \"క్లిక్\" అని చిన్న శబ్దం చేస్తూ మాణిక్యం బయటపడింది. \"చూశారా మహారాజా, చిన్న కర్ర పెద్ద సమస్యను ఎలా పరిష్కరించింది?\" అని తెనాలి ప్రశాంతంగా అడిగాడు. సభలోని వారంతా ఆశ్చర్యంతో నోరు తెరిచారు. దూర్ముఖుడు మాత్రం దిగ్భ్రాంతితో అక్కడే నిలబడ్డాడు.",
+      "image_prompt": "The scholar steps forward and carefully lowers his simple stick into the crack. The stick gently taps the ruby, and a small 'click' is heard as it emerges. Also in this scene: Durmukha - A portly, arrogant courtier with a meticulously oiled moustache and a condescending sneer. He always wears gaudy, bright purple silk robes and carries a jewel-encrusted dagger. Always the same character across every scene. The torchlight catches the retrieved jewel, making it sparkle brightly in Tenali's hand, contrasting with Durmukha's now pale face.",
+      "scene_visual": "The scholar steps forward and carefully lowers his simple stick into the crack. The stick gently taps the ruby, and a small 'click' is heard as it emerges.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Kshananlo Tenaali Munduku Adugu Veshaadu. Tana Chetiloni Saadaasidaa Karranu Jaagrattagaa Pagululoki Dinchaadu. Mellagaa, Sunnitangaa Aa Karra Maanikyaanni Tattindi — Chinna Raati Chappudu Vinipinchindi. Tenaali Daanni Paiki Tiyagaane \"Klik\" Ani Chinna Shabdam Chestu Maanikyam Bayatapadindi. \"Chushaaraa Mahaaraajaa, Chinna Karra Pedda Samasyanu Elaa Parishkarinchindi?\" Ani Tenaali Prashaantangaa Adigaadu. Sabhaloni Vaarantaa Aashcharyanto Noru Terichaaru. Durmukhudu Maatram Digbhraantito Akkade Nilabaddaadu.",
+      "text_en": "At that moment, Tenali stepped forward. He carefully lowered the simple stick in his hand into the crack. Gently, softly, the stick nudged the ruby — a tiny clicking sound was heard. As Tenali lifted it, the ruby came out with a small \"click.\" \"See, Your Majesty, how a small stick solved a big problem?\" Tenali asked calmly. Everyone in the court gasped in surprise. Durmukhudu, however, stood there stunned."
+    },
+    {
+      "id": 7,
+      "text": "మహారాజు కృష్ణదేవరాయలు తెనాలి వైపు ప్రేమగా చూశాడు. అతని గాంభీర్యమైన గొంతు దర్బారు అంతా నిశ్శబ్దంగా నిండిపోయింది. \"తెనాలి, నీ తెలివికి సరిలేదు. ఈ కర్ర నిజంగానే అద్భుతమైనది!\" అని ప్రశంసించాడు. తెనాలి వినయంగా నవ్వాడు. అతను ఒక క్షణం దూర్ముఖుడి వైపు చూశాడు — అతని కళ్ళల్లో ఒక చిన్న చిలిపి మెరుపు. అప్పుడు అందరికీ అర్థమైంది — నిజమైన విలువ వస్తువులో కాదు, దాన్ని ఉపయోగించే తెలివిలో ఉందని.",
+      "image_prompt": "The emperor looks kindly at the scholar, his dignified voice filling the silent court as he praises the scholar's intelligence. The scholar smiles humbly, then glances briefly at the antagonist, a mischievous glint in his eyes. Also in this scene: Durmukha - A portly, arrogant courtier with a meticulously oiled moustache and a condescending sneer. He always wears gaudy, bright purple silk robes and carries a jewel-encrusted dagger. Always the same character across every scene. A warm, golden glow from the lamps and torches bathes the court, creating an atmosphere of peace and enlightened understanding.",
+      "scene_visual": "The emperor looks kindly at the scholar, his dignified voice filling the silent court as he praises the scholar's intelligence. The scholar smiles humbly, then glances briefly at the antagonist, a mischievous glint in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Mahaaraaju Krrishnadevaraayalu Tenaali Vaipu Premagaa Chushaadu. Atani Gaambhiryamaina Gontu Darbaaru Antaa Nishshabdangaa Nindipoyindi. \"Tenaali, Ni Teliviki Sariledu. I Karra Nijangaane Adbhutamainadi!\" Ani Prashansinchaadu. Tenaali Vinayangaa Navvaadu. Atanu Oka Kshanam Durmukhudi Vaipu Chushaadu — Atani Kallallo Oka Chinna Chilipi Merupu. Appudu Andariki Arthamaindi — Nijamaina Viluva Vastuvulo Kaadu, Daanni Upayoginche Telivilo Undani.",
+      "text_en": "Emperor Krishnadevaraya looked at Tenali with affection. His majestic voice filled the silent court. \"Tenali, your cleverness is unmatched. This stick truly is wonderful!\" he praised. Tenali smiled humbly. He glanced at Durmukhudu for a moment — a small mischievous sparkle in his eyes. Then everyone understood — true value isn't in the object itself, but in the cleverness used to wield it."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 8.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts excellent grammar, a compelling narrative arc, and engaging dialogue that effectively drives the plot. The emotional depth is mostly well-executed through actions rather than direct statements. To elevate it to an award-worthy piece (9+), the primary focus should be on enhancing the 'grandmother_authenticity' by adopting a more consistently oral, conversational tone. Additionally, the explicit moral statement at the very end should be removed, allowing the lesson to be inferred naturally from the events and Tenali's subtle actions, making it more impactful for a young audience."
+  },
+  "title_te_en": "Tenaali Telivi, Chinna Karra Balam",
+  "moral_te_en": "Chudataaniki Saadaasidaagaa Kanipinche Vastuvulaku Goppa Shakti Untundani Tenaali Nirupinchaadu.",
+  "title_en": "Tenali's Wit and the Power of a Small Stick",
+  "moral_en": "Tenali proved that even simple-looking things can possess great power.",
+  "id": "20260614_011008",
+  "date": "2026-06-14",
+  "category": "tenali",
+  "subcategory": "funny_adventures",
+  "topic": "తెనాలి రాముడు మరియు 'తక్కువ అంచనా వేసిన' దండం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260614_011008/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
