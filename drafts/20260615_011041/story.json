@@ -1,0 +1,138 @@
+{
+  "title": "అరణ్యంలో రాముడి రక్షణ",
+  "moral": "కష్టాలెన్ని ఉన్నా, ధర్మం కోసం నిలబడడం అందరికీ శాంతిని, రక్షణను అందిస్తుంది.",
+  "main_character": "Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The ancient Dandakaranya forest in the Deccan region, a dense expanse of towering sal and teak trees, interspersed with clearings where simple ashrams are built. The air is filled with the scent of wild jasmine and damp earth, with the faint sound of distant rivers. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "దట్టమైన దండకారణ్యంలో, రాముడు తన భార్య సీతతో, తమ్ముడు లక్ష్మణుడితో కలిసి ఒక చిన్న ఆశ్రమంలో ప్రశాంతంగా ఉన్నాడు. చుట్టూ ఉన్న పురాతన వృక్షాల నుండి వచ్చే ఆకుల సన్నని గలగల శబ్దం — అదొక నిరంతరమైన మృదువైన గుసగుసలాటలాగా వినిపించింది. రాముడు మెల్లగా తల ఊపి, సీత వైపు చూస్తూ చిరునవ్వులు చిందించాడు. అప్పుడు, రాముడు లక్ష్మణుడి భుజంపై చేయి వేసి, “లక్ష్మణా, సీతా, ఈ దండకారణ్యపు ప్రశాంతత మనసుకు ఎంతో ఆనందాన్నిస్తోంది” అన్నాడు. ఆ ప్రశాంతతను అనుభవిస్తూనే, ఒక్కసారిగా — దూరం నుండి ఒక వింత అరుపు అడవి నిశ్శబ్దాన్ని చీల్చుకుంటూ వచ్చింది.",
+      "image_prompt": "The man gently nods his head, smiles at the woman, and places his hand on the other man's shoulder. The subtle rustling of leaves from ancient trees creates a continuous soft whisper around them. Gentle morning light filtering through the dense canopy, creating dappled patterns on the forest floor, peaceful and golden-green.",
+      "scene_visual": "The man gently nods his head, smiles at the woman, and places his hand on the other man's shoulder. The subtle rustling of leaves from ancient trees creates a continuous soft whisper around them.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita"
+      ],
+      "text_te_en": "Dattamaina Dandakaaranyanlo, Raamudu Tana Bhaarya Sitato, Tammudu Lakshmanudito Kalisi Oka Chinna Aashramanlo Prashaantangaa Unnaadu. Chuttu Unna Puraatana Vrrikshaala Nundi Vachche Aakula Sannani Galagala Shabdam — Adoka Nirantaramaina Mrriduvaina Gusagusalaatalaagaa Vinipinchindi. Raamudu Mellagaa Tala Upi, Sita Vaipu Chustu Chirunavvulu Chindinchaadu. Appudu, Raamudu Lakshmanudi Bhujampai Cheyi Vesi, “Lakshmanaa, Sitaa, I Dandakaaranyapu Prashaantata Manasuku Ento Aanandaannistondi” Annaadu. Aa Prashaantatanu Anubhavistune, Okkasaarigaa — Duram Nundi Oka Vinta Arupu Adavi Nishshabdaanni Chilchukuntu Vachchindi.",
+      "text_en": "In the dense Dandakaranya forest, Rama lived peacefully in a small hermitage with his wife Sita and his brother Lakshmana. The soft rustling sound of leaves from the ancient trees all around them sounded like a continuous, gentle whisper. Rama gently nodded his head, smiled, and looked at Sita. Then, Rama placed a hand on Lakshmana's shoulder and said, “Lakshmana, Sita, the peace of this Dandakaranya forest brings so much joy to our hearts.” As they enjoyed that peace, suddenly—a strange cry from a distance pierced through the forest's silence."
+    },
+    {
+      "id": 2,
+      "text": "ఆ భయంకరమైన అరుపు విని, ఆశ్రమం లోపల ఉన్న మునులు ఒక్కసారిగా ఉలిక్కిపడ్డారు. ఇంతలో, దూరం నుండి కొందరు ఋషులు రామలక్ష్మణులు ఉన్న చోటుకి వస్తున్నట్లు కనిపించారు — వారి పాదాల కింద ఎండిన, పగిలిన భూమి వారి కష్టమైన ప్రయాణాన్ని చెప్పకనే చెప్పింది. వారి భుజాలు వంగిపోయి, కళ్ళు ఆందోళనతో నిండి ఉన్నా, రాముడిని చూడగానే వారి మోముల్లో ఆశ చిగురించింది. రాముడి దగ్గరికి రాగానే, పెద్ద ఋషి చేతులు జోడించి, “రామా, దండకారణ్యంలో ధర్మ రక్షణ కష్టమవుతోంది!” అంటూ ఆవేదనగా పలికాడు. వారి మాటలు వినగానే, రాముడి ప్రశాంతమైన ముఖం — ఒక్కసారిగా తీవ్రంగా మారిపోయింది.",
+      "image_prompt": "The man's previously peaceful face suddenly becomes serious as he listens to the elder sage. The elder sage stands before him with hands joined in supplication, his eyes filled with anxiety. SUPPORTING CHARACTER also in this scene: Rishis — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Midday sun, bright and clear, but casting long shadows from the Rishis' weary forms, highlighting their distress.",
+      "scene_visual": "The man's previously peaceful face suddenly becomes serious as he listens to the elder sage. The elder sage stands before him with hands joined in supplication, his eyes filled with anxiety.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita",
+        "Rishis"
+      ],
+      "text_te_en": "Aa Bhayankaramaina Arupu Vini, Aashramam Lopala Unna Munulu Okkasaarigaa Ulikkipaddaaru. Intalo, Duram Nundi Kondaru Rrishulu Raamalakshmanulu Unna Chotuki Vastunnatlu Kanipinchaaru — Vaari Paadaala Kinda Endina, Pagilina Bhumi Vaari Kashtamaina Prayaanaanni Cheppakane Cheppindi. Vaari Bhujaalu Vangipoyi, Kallu Aandolanato Nindi Unnaa, Raamudini Chudagaane Vaari Momullo Aasha Chigurinchindi. Raamudi Daggariki Raagaane, Pedda Rrishi Chetulu Jodinchi, “Raamaa, Dandakaaranyanlo Dharma Rakshana Kashtamavutondi!” Antu Aavedanagaa Palikaadu. Vaari Maatalu Vinagaane, Raamudi Prashaantamaina Mukham — Okkasaarigaa Tivrangaa Maaripoyindi.",
+      "text_en": "Hearing that terrifying cry, the Rishis inside the hermitage were startled. Just then, some Rishis were seen approaching where Rama and Lakshmana were—the dry, cracked earth beneath their feet silently told of their difficult journey. Even though their shoulders were slumped and their eyes filled with worry, hope blossomed on their faces as soon as they saw Rama. As they reached Rama, the elder Rishi joined his hands and said with distress, “Rama, protecting what is right in Dandakaranya is becoming difficult!” As soon as he heard their words, Rama's calm face—suddenly became serious."
+    },
+    {
+      "id": 3,
+      "text": "ఋషులు తమ కష్టాలను, రాక్షసుల ఆగడాలను కళ్ళనీళ్ళ పర్యంతం వివరించగా, రాముడు కదలకుండా, ఏకాగ్రతతో విన్నాడు. వారి భయపడిన కళ్ళలోకి చూస్తూ, రాముడి చూపుల్లో అపారమైన కరుణ కనిపించింది. తన కోదండంపై చేయి వేసి, దాన్ని గట్టిగా పట్టుకున్నాడు — అది తన శక్తికి, సంకల్పానికి నిదర్శనం. ఆ ధైర్యాన్ని చూసి ఋషులు కొంత ఊరట పొందారు. అప్పుడు రాముడు, “నా బాణాల రక్షణలో మీరు నిర్భయంగా తపస్సు చేసుకోవచ్చు!” అని వారికి అభయం ఇచ్చాడు. ఆయన మాట పూర్తి కాకముందే — ఒక భయంకరమైన, గంభీరమైన అరుపు మరింత దగ్గరగా వినిపించింది.",
+      "image_prompt": "The man places his hand firmly on his bow, gripping it tightly. His gaze shows immense compassion as he looks into the fearful eyes of the sages. SUPPORTING CHARACTER also in this scene: Rishis — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Late afternoon sun, beginning to cast a warm, golden glow, but with an underlying tension in the shadows.",
+      "scene_visual": "The man places his hand firmly on his bow, gripping it tightly. His gaze shows immense compassion as he looks into the fearful eyes of the sages.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita",
+        "Rishis"
+      ],
+      "text_te_en": "Rrishulu Tama Kashtaalanu, Raakshasula Aagadaalanu Kallanilla Paryantam Vivarinchagaa, Raamudu Kadalakundaa, Ekaagratato Vinnaadu. Vaari Bhayapadina Kallaloki Chustu, Raamudi Chupullo Apaaramaina Karuna Kanipinchindi. Tana Kodandampai Cheyi Vesi, Daanni Gattigaa Pattukunnaadu — Adi Tana Shaktiki, Sankalpaaniki Nidarshanan. Aa Dhairyaanni Chusi Rrishulu Konta Urata Pondaaru. Appudu Raamudu, “Naa Baanaala Rakshanalo Miru Nirbhayangaa Tapassu Chesukovachchu!” Ani Vaariki Abhayam Ichchaadu. Aayana Maata Purti Kaakamunde — Oka Bhayankaramaina, Gambhiramaina Arupu Marinta Daggaragaa Vinipinchindi.",
+      "text_en": "As the Rishis tearfully explained their troubles and the demons' mischief, Rama listened without moving, with full concentration. Looking into their frightened eyes, immense compassion was seen in Rama's gaze. He placed his hand on his bow and held it firmly—it was a symbol of his strength and determination. Seeing that courage, the Rishis felt some relief. Then Rama gave them assurance, saying, “You can perform your prayers fearlessly under the protection of my arrows!” Before his words were even finished—a terrifying, deep roar was heard even closer."
+    },
+    {
+      "id": 4,
+      "text": "ఆ అరుపుతోనే, రాక్షసులు ఒక్కసారిగా ఆ ఆశ్రమంపై దాడి చేశారు — వారి అడుగుల ధాటికి భూమి కంపించింది. యజ్ఞశాల నుండి కర్పూరం కాలుతున్నట్లు, ఒక రకమైన ఘాటైన వాసన వచ్చి, వాతావరణం అంతా మారిపోయింది. భయంతో ఋషులు ఒకరినొకరు పట్టుకొని, కళ్ళు మూసుకున్నారు. ఇంతలో, లక్ష్మణుడు తన విల్లు ఎత్తి, రాముడి ప్రక్కన నిలబడ్డాడు — అతని కళ్ళల్లో రక్షణ భావం, పౌరుషం కనిపించింది. రాముడు తన విల్లు ఎక్కుపెట్టి, “ధర్మ రక్షణకు నేను సిద్ధంగా ఉన్నాను!” అని గంభీరంగా పలికాడు. ఆ క్షణంలో — రాముడి శరీరం నుండి ఒక అద్భుతమైన దివ్య కాంతి వెలువడింది.",
+      "image_prompt": "The man draws his bowstring, standing ready for battle. At that moment, a wondrous divine light emanates from his body. SUPPORTING CHARACTER also in this scene: Rishis — a well-known Hindu mythology figure, depicted accurately per canonical tradition. A sudden, brilliant flash of divine white light, momentarily eclipsing the forest, then fading to a charged, smoky twilight.",
+      "scene_visual": "The man draws his bowstring, standing ready for battle. At that moment, a wondrous divine light emanates from his body.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita",
+        "Rishis"
+      ],
+      "text_te_en": "Aa Aruputone, Raakshasulu Okkasaarigaa Aa Aashramampai Daadi Cheshaaru — Vaari Adugula Dhaatiki Bhumi Kampinchindi. Yajnyashaala Nundi Karpuram Kaalutunnatlu, Oka Rakamaina Ghaataina Vaasana Vachchi, Vaataavaranam Antaa Maaripoyindi. Bhayanto Rrishulu Okarinokaru Pattukoni, Kallu Musukunnaaru. Intalo, Lakshmanudu Tana Villu Etti, Raamudi Prakkana Nilabaddaadu — Atani Kallallo Rakshana Bhaavan, Paurusham Kanipinchindi. Raamudu Tana Villu Ekkupetti, “Dharma Rakshanaku Nenu Siddhangaa Unnaanu!” Ani Gambhirangaa Palikaadu. Aa Kshananlo — Raamudi Shariram Nundi Oka Adbhutamaina Divya Kaanti Veluvadindi.",
+      "text_en": "With that roar, the demons suddenly attacked the hermitage—the ground trembled with the force of their footsteps. A pungent smell, like camphor burning from the sacrificial hall, filled the air, changing the entire atmosphere. Frightened, the Rishis held onto each other and closed their eyes. Meanwhile, Lakshmana raised his bow and stood beside Rama—a sense of protection and bravery was seen in his eyes. Rama strung his bow and declared solemnly, “I am ready to protect what is right!” At that moment—a wonderful divine light emanated from Rama's body."
+    },
+    {
+      "id": 5,
+      "text": "రాముడి దివ్య శక్తి ముందు ఆ రాక్షసులు నిలబడలేకపోయారు — వారు అదృశ్యమయ్యారు. ఆ భయంకరమైన అరుపుల తర్వాత వచ్చిన నిశ్శబ్దం — తిరిగి తమ పాట మొదలుపెట్టిన క్రికెట్ పక్షుల కిలకిలరావాలతో నిండింది. రాముడు ప్రశాంతంగా, స్థిరంగా నిలబడి ఉన్నాడు. ఋషులు నెమ్మదిగా కళ్ళు తెరిచి, భయం నుండి ఊరట పొందుతూ, రాముడి వైపు చూశారు. అప్పుడు రాముడు, “న్యాయం జరిగింది. చెడు నిలువలేదు” అని వారికి భరోసా ఇచ్చాడు. అయినా, ఋషుల కళ్ళల్లో ఇంకా చిన్న ఆందోళన కనిపించింది — ఈ ప్రమాదం నిజంగా పూర్తిగా తొలగిపోయిందా అని.",
+      "image_prompt": "The man stands calmly and steadily, having vanquished the attackers. The sages slowly open their eyes, looking towards him with a mix of relief and lingering anxiety. SUPPORTING CHARACTER also in this scene: Rishis — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle dusk light, warm amber, painting the ashram in peaceful hues, but with lingering shadows at the edges of the forest.",
+      "scene_visual": "The man stands calmly and steadily, having vanquished the attackers. The sages slowly open their eyes, looking towards him with a mix of relief and lingering anxiety.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita",
+        "Rishis"
+      ],
+      "text_te_en": "Raamudi Divya Shakti Mundu Aa Raakshasulu Nilabadalekapoyaaru — Vaaru Adrrishyamayyaaru. Aa Bhayankaramaina Arupula Tarvaata Vachchina Nishshabdam — Tirigi Tama Paata Modalupettina Kriket Pakshula Kilakilaraavaalato Nindindi. Raamudu Prashaantangaa, Sthirangaa Nilabadi Unnaadu. Rrishulu Nemmadigaa Kallu Terichi, Bhayam Nundi Urata Pondutu, Raamudi Vaipu Chushaaru. Appudu Raamudu, “Nyaayam Jarigindi. Chedu Niluvaledu” Ani Vaariki Bharosaa Ichchaadu. Ayinaa, Rrishula Kallallo Inkaa Chinna Aandolana Kanipinchindi — I Pramaadam Nijangaa Purtigaa Tolagipoyindaa Ani.",
+      "text_en": "The demons could not stand before Rama's divine power—they disappeared. The silence that followed those terrifying roars—was filled again with the chirping of crickets and birds, who had started their songs once more. Rama stood calmly and steadily. The Rishis slowly opened their eyes, relieved from their fear, and looked at Rama. Then Rama reassured them, saying, “Justice has been served. Evil could not stand.” However, a small worry was still visible in the Rishis' eyes—wondering if this danger had truly gone away completely."
+    },
+    {
+      "id": 6,
+      "text": "ఋషుల కళ్ళలో కనిపించిన ఆందోళనను రాముడు గమనించాడు. అప్పుడే, అంతకంటే పెద్ద రాక్షసుల గుంపు — తమ చివరి ప్రయత్నంగా, ఇంకా భయంకరంగా దాడికి దిగింది. ఋషులు మళ్ళీ వణికిపోయి, భయంతో చేతులు జోడించుకున్నారు. రాముడు కించిత్తు కూడా చలించకుండా, తన విల్లును ఎక్కుపెట్టాడు. ఆ క్షణంలో — రాముడి వింటినారి నుండి ఒక లోతైన, ప్రతిధ్వనించే ధ్వని వెలువడింది, అది అపారమైన శక్తిని సూచించింది. రాముడు, “ధర్మాన్ని కాపాడటం నా కర్తవ్యం!” అని దృఢంగా పలికాడు. ఆ అద్భుతమైన దివ్య శక్తి ముందు చెడు నిలబడలేకపోయింది — అడవి అంతా ఊపిరి పీల్చుకున్నట్లు అనిపించింది, ఒక మధురమైన, దివ్య కాంతి అంతటా వ్యాపించింది.",
+      "image_prompt": "The man, completely unshaken, draws his bowstring once more. A deep, echoing sound emanates from the bowstring, signifying immense power. SUPPORTING CHARACTER also in this scene: Rishis — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Divine radiance breaking through dark clouds, a powerful golden-white light illuminating the forest, awe-inspiring and triumphant.",
+      "scene_visual": "The man, completely unshaken, draws his bowstring once more. A deep, echoing sound emanates from the bowstring, signifying immense power.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita",
+        "Rishis"
+      ],
+      "text_te_en": "Rrishula Kallalo Kanipinchina Aandolananu Raamudu Gamaninchaadu. Appude, Antakante Pedda Raakshasula Gumpu — Tama Chivari Prayatnangaa, Inkaa Bhayankarangaa Daadiki Digindi. Rrishulu Malli Vanikipoyi, Bhayanto Chetulu Jodinchukunnaaru. Raamudu Kinchittu Kudaa Chalinchakundaa, Tana Villunu Ekkupettaadu. Aa Kshananlo — Raamudi Vintinaari Nundi Oka Lotaina, Pratidhvaninche Dhvani Veluvadindi, Adi Apaaramaina Shaktini Suchinchindi. Raamudu, “Dharmaanni Kaapaadatam Naa Kartavyan!” Ani Drridhangaa Palikaadu. Aa Adbhutamaina Divya Shakti Mundu Chedu Nilabadalekapoyindi — Adavi Antaa Upiri Pilchukunnatlu Anipinchindi, Oka Madhuramaina, Divya Kaanti Antataa Vyaapinchindi.",
+      "text_en": "Rama noticed the worry in the Rishis' eyes. Just then, an even larger group of demons—as their last attempt, attacked even more fiercely. The Rishis trembled again and joined their hands in fear. Rama, without even a slight tremor, strung his bow. At that moment—a deep, echoing sound came from Rama's bowstring, indicating immense power. Rama declared firmly, “Protecting what is right is my duty!” Evil could not stand before that wonderful divine power—the entire forest seemed to breathe a sigh of relief, and a sweet, divine light spread everywhere."
+    },
+    {
+      "id": 7,
+      "text": "రాక్షసులు పూర్తిగా తొలగిపోగానే, దండకారణ్యం అంతటా ఒక అద్భుతమైన ప్రశాంతత నెలకొంది. ఋషులు ఆనందంతో, కృతజ్ఞతతో రాముడి పాదాలపై పడ్డారు — వారి కళ్ళల్లో సంతోష భాష్పాలు నిండాయి. వారు చేతుల్లో ఉన్న పువ్వులను రాముడిపై చల్లగా చల్లి, ఆశీర్వదించారు — ఆ పువ్వుల నుండి ఒక మధురమైన, మట్టి సువాసన అంతటా వ్యాపించింది. “రామా, మీ రక్షణతో మా తపస్సు ఫలించింది!” అంటూ ఋషులు రాముడిని దీవించారు. రాముడు వారిని ప్రేమగా చూసి, మెల్లగా తల ఊపాడు — అడవి అంతా తిరిగి భక్తితో, శాంతితో కళకళలాడింది.",
+      "image_prompt": "The sages fall at the man's feet in joy and gratitude. Their eyes are filled with tears of happiness as they scatter flowers over him. SUPPORTING CHARACTER also in this scene: Rishis — a well-known Hindu mythology figure, depicted accurately per canonical tradition. Gentle dawn light, soft pinks and oranges touching the eastern sky, signifying a new beginning of peace and prosperity.",
+      "scene_visual": "The sages fall at the man's feet in joy and gratitude. Their eyes are filled with tears of happiness as they scatter flowers over him.",
+      "supporting_char_keys": [
+        "Lakshmana",
+        "Sita",
+        "Rishis"
+      ],
+      "text_te_en": "Raakshasulu Purtigaa Tolagipogaane, Dandakaaranyam Antataa Oka Adbhutamaina Prashaantata Nelakondi. Rrishulu Aanandanto, Krritajnyatato Raamudi Paadaalapai Paddaaru — Vaari Kallallo Santosha Bhaashpaalu Nindaayi. Vaaru Chetullo Unna Puvvulanu Raamudipai Challagaa Challi, Aashirvadinchaaru — Aa Puvvula Nundi Oka Madhuramaina, Matti Suvaasana Antataa Vyaapinchindi. “Raamaa, Mi Rakshanato Maa Tapassu Phalinchindi!” Antu Rrishulu Raamudini Divinchaaru. Raamudu Vaarini Premagaa Chusi, Mellagaa Tala Upaadu — Adavi Antaa Tirigi Bhaktito, Shaantito Kalakalalaadindi.",
+      "text_en": "Once the demons were completely gone, a wonderful peace settled throughout Dandakaranya. The Rishis, filled with joy and gratitude, fell at Rama's feet—their eyes filled with tears of happiness. They gently sprinkled the flowers in their hands over Rama and blessed him—a sweet, earthy fragrance spread everywhere from those flowers. “Rama, with your protection, our prayers have been answered!” the Rishis blessed Rama. Rama looked at them lovingly and gently nodded his head—the entire forest once again flourished with devotion and peace."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "Lakshmana",
+      "description": "Lakshmana: a young prince (mid-twenties) with a warm golden-brown complexion, muscular and alert — slightly shorter and more compact than Rama. During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot, carrying his bow and full quiver, always standing in a protective, watchful posture. He is NOT old, NOT a monk, NOT grey-haired — he is a vigorous young warrior-prince. Determined, loyal expression; the devoted younger brother. Always the same character across every scene."
+    },
+    {
+      "key": "Sita",
+      "description": "Sita: a graceful young woman (mid-twenties) with a fair golden complexion and long dark hair adorned with jasmine flowers. Wearing a silk saree in deep red or golden hues, with traditional gold ornaments: necklace, bangles, nose ring, and earrings. Eyes reflecting deep wisdom and quiet dignity. Serene, composed expression. Always the same character across every scene."
+    },
+    {
+      "key": "Rishis",
+      "description": "A group of venerable sages, their skin weathered by penance, wearing simple saffron or white cloth. Their faces bear marks of austerity and deep wisdom, though currently shadowed by worry. They carry staffs and prayer beads. Always the same characters across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Fenrir",
+  "quality_score": 8.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 8,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 8.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc, flawless grammar, and strong child engagement through well-placed suspense and vivid imagery. The emotional depth is commendable, largely showing rather than telling. The single most important fix to elevate this to an award-worthy piece (9+) would be to infuse more 'grandmother authenticity' by simplifying sentence structures, adding direct conversational elements, and adopting a more spontaneous, oral storytelling rhythm throughout the prose."
+  },
+  "title_te_en": "Aranyanlo Raamudi Rakshana",
+  "moral_te_en": "Kashtaalenni Unnaa, Dharmam Kosam Nilabadadam Andariki Shaantini, Rakshananu Andistundi.",
+  "title_en": "Rama's Protection in the Forest",
+  "moral_en": "Standing up for what is right, no matter the difficulties, brings peace and protection to all.",
+  "id": "20260615_011041",
+  "date": "2026-06-15",
+  "category": "ramayana",
+  "subcategory": "devotion_tales",
+  "topic": "దండకారణ్యంలో ఋషుల ఆశీస్సులు - ధర్మ రక్షణకు సంఘీభావం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260615_011041/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
