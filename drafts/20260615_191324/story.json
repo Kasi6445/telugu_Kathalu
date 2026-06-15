@@ -1,0 +1,116 @@
+{
+  "title": "గుడ్లగూబ జ్ఞానం, గొర్రెల గుంపు",
+  "moral": "అందరూ ఒకే దారిలో వెళ్తున్నప్పుడు, ఒక్కసారి ఆగి, నువ్వు కూడా ఆలోచిస్తే, నీతో పాటు ఇతరులనూ కాపాడగలవు కదా!",
+  "main_character": "గుడ్లగూబ (Gudlaguba) is a wise, observant owl with bright, keen eyes and soft, grey-brown feathers. She prefers quiet contemplation from her high tree branch, often watching the world below with a thoughtful gaze. Always the same character across every scene.",
+  "antagonist": "నక్క (Nakka) is a sleek, reddish-brown fox with sharp, cunning eyes and a bushy tail. He moves silently through the undergrowth, always looking for an easy meal. Always the same character across every scene.",
+  "setting": "The story is set in a vibrant forest clearing near a small Telugu village in the heart of Andhra Pradesh, surrounded by ancient banyan trees and rocky outcrops. The air is warm and often filled with the distant sounds of village life, shifting between peaceful daytime grazing and the quiet tension of dusk. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గుడ్లగూబ తన ఎత్తైన మర్రి కొమ్మ మీద కూర్చుని, కళ్ళు మూసి తెరిచింది, లోకం ప్రశాంతంగా ఉంది. కింద పచ్చిక బయళ్ళలో గొర్రెలు నెమ్మదిగా మేస్తూ కనిపించాయి, వాటికి లోకమే తెలియదు. \"ప్రశాంతంగా ఉంది, ఈ రోజు,\" అని గుడ్లగూబ మెల్లగా అనుకుంది, తన తలని పక్కకు వాల్చుతూ. చిన్న గాలి వీచింది — మర్రి ఆకులు సన్నగా సలసలలాడాయి. ఆ గొర్రెలు పచ్చిక మేయడంలో ఎంత బిజీగా ఉన్నాయంటే, వాటిపై నుండి ఒక నీడ కదలి వెళ్ళింది — అవి అసలు గమనించనే లేదు.",
+      "image_prompt": "The owl sits on a high banyan branch, slowly tilting its head. A subtle shadow glides silently over the unaware sheep grazing peacefully below. Warm, golden morning sunlight filtering through the banyan leaves, dappling the forest floor in soft patterns, creating a peaceful, idyllic mood.",
+      "scene_visual": "The owl sits on a high banyan branch, slowly tilting its head. A subtle shadow glides silently over the unaware sheep grazing peacefully below.",
+      "supporting_char_keys": [
+        "gorrelu"
+      ],
+      "text_te_en": "Gudlaguba Tana Ettaina Marri Komma Mida Kurchuni, Kallu Musi Terichindi, Lokam Prashaantangaa Undi. Kinda Pachchika Bayallalo Gorrelu Nemmadigaa Mestu Kanipinchaayi, Vaatiki Lokame Teliyadu. \"Prashaantangaa Undi, I Roju,\" Ani Gudlaguba Mellagaa Anukundi, Tana Talani Pakkaku Vaalchutu. Chinna Gaali Vichindi — Marri Aakulu Sannagaa Salasalalaadaayi. Aa Gorrelu Pachchika Meyadanlo Enta Bijigaa Unnaayante, Vaatipai Nundi Oka Nida Kadali Vellindi — Avi Asalu Gamaninchane Ledu.",
+      "text_en": "The Owl sat on her tall banyan branch, opening and closing her eyes. The world was peaceful. Below, in the green pastures, sheep grazed slowly, completely unaware of the world around them. \"It's peaceful today,\" the Owl thought softly, tilting her head. A gentle breeze blew, making the banyan leaves rustle softly. The sheep were so busy eating grass that a shadow passed over them, and they didn't even notice."
+    },
+    {
+      "id": 2,
+      "text": "అలా ప్రశాంతంగా ఉన్న గుడ్లగూబ కళ్ళు ఒక్కసారిగా మెరిశాయి — ఆమె తల వేగంగా పొదల వైపు తిరిగింది. పొదల అంచున, నక్క మెల్లగా కదులుతూ, తన దొంగచాటు చూపులతో గొర్రెల వైపు చూసింది. ఆ గాలిలో నక్క వాసన సన్నగా గుడ్లగూబకు తాకింది, ప్రమాదం దగ్గరపడుతోందని ఆమెకు స్పష్టంగా అర్థమైంది. \"ఆహా, సులభమైన భోజనం!\" అని నక్క తనలో తాను అనుకుంది, దాని కళ్ళు ఆకలితో మెరుస్తూ. ఆ నక్క పొదల నుండి బయటికి తొంగి చూసింది, దాని చూపులు అమాయకమైన గొర్రెల మీద స్థిరంగా నిలిచాయి.",
+      "image_prompt": "The fox slowly emerges from the edge of the bushes, its head low. Its eyes gleam with hunger as its gaze fixes intently on the unsuspecting sheep. Also in this scene: నక్క (Nakka) is a sleek, reddish-brown fox with sharp, cunning eyes and a bushy tail. He moves silently through the undergrowth, always looking for an easy meal. Always the same character across every scene. Bright midday sun, but a dark, creeping shadow from the fox falls over the bright green grass, creating an ominous contrast.",
+      "scene_visual": "The fox slowly emerges from the edge of the bushes, its head low. Its eyes gleam with hunger as its gaze fixes intently on the unsuspecting sheep.",
+      "supporting_char_keys": [
+        "gorrelu"
+      ],
+      "text_te_en": "Alaa Prashaantangaa Unna Gudlaguba Kallu Okkasaarigaa Merishaayi — Aame Tala Vegangaa Podala Vaipu Tirigindi. Podala Anchuna, Nakka Mellagaa Kadulutu, Tana Dongachaatu Chupulato Gorrela Vaipu Chusindi. Aa Gaalilo Nakka Vaasana Sannagaa Gudlagubaku Taakindi, Pramaadam Daggarapadutondani Aameku Spashtangaa Arthamaindi. \"Aahaa, Sulabhamaina Bhojanan!\" Ani Nakka Tanalo Taanu Anukundi, Daani Kallu Aakalito Merustu. Aa Nakka Podala Nundi Bayatiki Tongi Chusindi, Daani Chupulu Amaayakamaina Gorrela Mida Sthirangaa Nilichaayi.",
+      "text_en": "Suddenly, the peaceful Owl's eyes sparkled! Her head quickly turned towards the bushes. At the edge of the bushes, a Fox moved slowly, looking at the sheep with sly, sneaky glances. The scent of the Fox subtly reached the Owl on the wind, and she clearly understood that danger was coming closer. \"Aha, an easy meal!\" the Fox thought to itself, its eyes gleaming with hunger. The Fox peeked out from the bushes, its gaze fixed on the innocent sheep."
+    },
+    {
+      "id": 3,
+      "text": "ప్రమాదం తెలిసి, గుడ్లగూబ వెంటనే బిగ్గరగా \"హూట్! హూట్!\" అని అరిచింది, ఆమె రెక్కలు కొద్దిగా విచ్చుకున్నాయి. ఆ గుడ్లగూబ అరుపులు ప్రశాంతమైన అడవిలో ప్రతిధ్వనించాయి — వినడానికి కొద్దిగా కరుకుగా అనిపించాయి. గొర్రెలు ఒక్కసారిగా తలలు పైకెత్తి చూశాయి, కానీ వాటి నాయకుడు \"అదొక ఒంటరి గుడ్లగూబ, దాని మాటలు వినొద్దు,\" అని నిర్లక్ష్యంగా అన్నాడు. గుడ్లగూబ అరుపులు మరింత పదునెక్కినా, గొర్రెలు మళ్ళీ తమ పనిలో పడిపోయాయి, ఆమె వైపు కనీసం చూడలేదు. ఆ అమాయకపు గొర్రెలు గుడ్లగూబ హెచ్చరికను పూర్తిగా పెడచెవిన పెట్టాయి, తమ వీపులు ఆమె వైపు తిప్పుకున్నాయి.",
+      "image_prompt": "The owl hoots loudly, its wings slightly spread, perched on the branch. The sheep below turn their backs to the owl, resuming their grazing, completely ignoring its warning. Harsh, direct midday sun beating down on the clearing, making the sheep squint and the owl's urgent hoots feel exposed.",
+      "scene_visual": "The owl hoots loudly, its wings slightly spread, perched on the branch. The sheep below turn their backs to the owl, resuming their grazing, completely ignoring its warning.",
+      "supporting_char_keys": [
+        "gorrelu"
+      ],
+      "text_te_en": "Pramaadam Telisi, Gudlaguba Ventane Biggaragaa \"Hut! Hut!\" Ani Arichindi, Aame Rekkalu Koddigaa Vichchukunnaayi. Aa Gudlaguba Arupulu Prashaantamaina Adavilo Pratidhvaninchaayi — Vinadaaniki Koddigaa Karukugaa Anipinchaayi. Gorrelu Okkasaarigaa Talalu Paiketti Chushaayi, Kaani Vaati Naayakudu \"Adoka Ontari Gudlaguba, Daani Maatalu Vinoddu,\" Ani Nirlakshyangaa Annaadu. Gudlaguba Arupulu Marinta Padunekkinaa, Gorrelu Malli Tama Panilo Padipoyaayi, Aame Vaipu Kanisam Chudaledu. Aa Amaayakapu Gorrelu Gudlaguba Hechcharikanu Purtigaa Pedachevina Pettaayi, Tama Vipulu Aame Vaipu Tippukunnaayi.",
+      "text_en": "Knowing the danger, the Owl immediately cried out loudly, \"Hoot! Hoot!\" her wings spreading a little. The Owl's hoots echoed in the peaceful forest, sounding a little harsh. The sheep suddenly lifted their heads and looked, but their leader carelessly said, \"That's just a lonely Owl, don't listen to her words.\" Even as the Owl's hoots grew sharper, the sheep went back to their eating, not even looking at her. Those innocent sheep completely ignored the Owl's warning, turning their backs towards her."
+    },
+    {
+      "id": 4,
+      "text": "గుడ్లగూబ హెచ్చరికను వినని గొర్రెల మీద, నక్క ఒక్కసారిగా ఉరికింది — \"దొరికారు!\" అని కేక వేసింది. అది చూసిన గొర్రెలు భయంతో కళ్ళు పెద్దవి చేసుకుని, బిగ్గరగా \"బేహ్! బేహ్!\" అని అరుస్తూ ఒకదానికొకటి తోసుకున్నాయి. వాటి కాళ్ళ ధ్వని పొడి నేల మీద \"ఢమ ఢమ\" అంటూ మోగింది, భూమి కూడా కంపించింది. అవి ప్రాణభయంతో గుడ్డిగా, ముళ్ళ పొదల గుంపు వైపు దూసుకెళ్ళాయి, ఎటు పోతున్నాయో వాటికి తెలియదు. ఆ పెద్ద గొర్రెల మంద, పదునైన ముళ్ళ తీగల్లో పూర్తిగా చిక్కుకుపోయింది, బయటపడలేక విలవిలలాడాయి.",
+      "image_prompt": "The flock of sheep blindly rushes into a dense cluster of thorny bushes, struggling to move. Their woolly bodies are completely ensnared by the sharp, tangled branches. Also in this scene: నక్క (Nakka) is a sleek, reddish-brown fox with sharp, cunning eyes and a bushy tail. He moves silently through the undergrowth, always looking for an easy meal. Always the same character across every scene. Dusty, chaotic light of late afternoon, with sunbeams slicing through the stirred-up dust, highlighting the frantic movement and sharp thorns.",
+      "scene_visual": "The flock of sheep blindly rushes into a dense cluster of thorny bushes, struggling to move. Their woolly bodies are completely ensnared by the sharp, tangled branches.",
+      "supporting_char_keys": [
+        "gorrelu"
+      ],
+      "text_te_en": "Gudlaguba Hechcharikanu Vinani Gorrela Mida, Nakka Okkasaarigaa Urikindi — \"Dorikaaru!\" Ani Keka Vesindi. Adi Chusina Gorrelu Bhayanto Kallu Peddavi Chesukuni, Biggaragaa \"Beh! Beh!\" Ani Arustu Okadaanikokati Tosukunnaayi. Vaati Kaalla Dhvani Podi Nela Mida \"Dhama Dhama\" Antu Mogindi, Bhumi Kudaa Kampinchindi. Avi Praanabhayanto Guddigaa, Mulla Podala Gumpu Vaipu Dusukellaayi, Etu Potunnaayo Vaatiki Teliyadu. Aa Pedda Gorrela Manda, Padunaina Mulla Tigallo Purtigaa Chikkukupoyindi, Bayatapadaleka Vilavilalaadaayi.",
+      "text_en": "The Fox suddenly pounced on the sheep who hadn't listened to the Owl's warning, shouting, \"Got you!\" Seeing that, the sheep's eyes widened in fear, and they loudly cried \"Baa! Baa!\" pushing each other. The sound of their hooves on the dry ground went \"Thump-thump,\" and even the earth trembled. In their fear for life, they blindly rushed towards a thicket of thorny bushes, not knowing where they were going. That large flock of sheep got completely tangled in the sharp thorny vines, struggling to get out."
+    },
+    {
+      "id": 5,
+      "text": "కింద జరుగుతున్న ఆ గందరగోళాన్ని చూసి, గుడ్లగూబ నిటారుగా కూర్చుంది, ఆమె కళ్ళు మరింత పదునయ్యాయి. దూరం నుండి చిక్కుకుపోయిన గొర్రెల \"బేహ్ బేహ్\" అరుపులు సన్నగా వినిపించాయి, గాలిలో ఆకుల సవ్వడి వాటిని కప్పేసింది. ఆమె దృష్టి దూరంగా ఉన్న రాళ్ళ గుంపు మీద పడింది, అక్కడ ఒక చిన్న సందు — ఆమెకు మాత్రమే తెలిసిన రహస్య మార్గం. \"ఆ చిన్న దారి... అది గుర్తుంచుకోవాలి,\" అని గుడ్లగూబ తనలో తాను అనుకుంది, ఒక ప్రణాళిక ఆమె మనసులో మెరిసింది. ఒక్కసారిగా — గుడ్లగూబ తన కొమ్మ నుండి గమ్యం వైపు దూసుకుపోయింది.",
+      "image_prompt": "The owl sits upright, its sharp eyes fixed on a small gap in the distant rocks. With a sudden movement, it launches itself from the branch, soaring towards the hidden passage. The last rays of the setting sun, a warm orange glow, illuminate Gudlaguba's focused face against the darkening, chaotic background of the thicket.",
+      "scene_visual": "The owl sits upright, its sharp eyes fixed on a small gap in the distant rocks. With a sudden movement, it launches itself from the branch, soaring towards the hidden passage.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kinda Jarugutunna Aa Gandaragolaanni Chusi, Gudlaguba Nitaarugaa Kurchundi, Aame Kallu Marinta Padunayyaayi. Duram Nundi Chikkukupoyina Gorrela \"Beh Beh\" Arupulu Sannagaa Vinipinchaayi, Gaalilo Aakula Savvadi Vaatini Kappesindi. Aame Drrishti Durangaa Unna Raalla Gumpu Mida Padindi, Akkada Oka Chinna Sandu — Aameku Maatrame Telisina Rahasya Maargan. \"Aa Chinna Daari... Adi Gurtunchukovaali,\" Ani Gudlaguba Tanalo Taanu Anukundi, Oka Pranaalika Aame Manasulo Merisindi. Okkasaarigaa — Gudlaguba Tana Komma Nundi Gamyam Vaipu Dusukupoyindi.",
+      "text_en": "Seeing the chaos happening below, the Owl sat up straight, her eyes becoming even sharper. From a distance, the faint \"Baa baa\" cries of the trapped sheep could be heard, the rustling of leaves in the wind covering them. Her gaze fell on a cluster of rocks far away, where there was a small gap—a secret path known only to her. \"That small path... I must remember it,\" the Owl thought to herself, a plan flashing in her mind. Suddenly, the Owl swooped down from her branch towards her destination."
+    },
+    {
+      "id": 6,
+      "text": "గుడ్లగూబ బలంగా రెక్కలు కొడుతూ, గాలిలో దూసుకుపోయింది, ఆమె లక్ష్యం స్పష్టంగా ఉంది. ఆమె రెక్కల \"ఫెళఫెళ\" శబ్దం గాలిని చీల్చుకుంటూ వెళ్ళింది, ఒక కొత్త ఆశను మోసుకొచ్చింది. \"ఇటువైపు! భద్రత ఇక్కడే!\" అని ఆమె స్పష్టంగా అరిచింది, ఆమె కంఠంలో ధైర్యం నిండి ఉంది. కొన్ని చిన్న గొర్రెలు, ప్రధాన మంద ముళ్ళలో చిక్కుకుపోవడం చూసి, గుడ్లగూబ వైపు భయంగా చూశాయి. ఆ చిన్న గొర్రెల గుంపు, గుడ్లగూబను అనుసరించి ఆ రహస్య రాతి సందులోకి వెళ్ళింది.",
+      "image_prompt": "The owl flies purposefully, its wings beating strongly, leading a small group of sheep. The sheep cautiously follow the owl into the narrow, dark opening of the secret rock passage. Twilight begins to fall, with cool blue and purple hues, but a focused beam of moonlight seems to guide Gudlaguba and the following sheep towards the rock opening, creating a sense of urgency and hope.",
+      "scene_visual": "The owl flies purposefully, its wings beating strongly, leading a small group of sheep. The sheep cautiously follow the owl into the narrow, dark opening of the secret rock passage.",
+      "supporting_char_keys": [
+        "gorrelu"
+      ],
+      "text_te_en": "Gudlaguba Balangaa Rekkalu Kodutu, Gaalilo Dusukupoyindi, Aame Lakshyam Spashtangaa Undi. Aame Rekkala \"Phelaphela\" Shabdam Gaalini Chilchukuntu Vellindi, Oka Kotta Aashanu Mosukochchindi. \"Ituvaipu! Bhadrata Ikkade!\" Ani Aame Spashtangaa Arichindi, Aame Kanthanlo Dhairyam Nindi Undi. Konni Chinna Gorrelu, Pradhaana Manda Mullalo Chikkukupovadam Chusi, Gudlaguba Vaipu Bhayangaa Chushaayi. Aa Chinna Gorrela Gumpu, Gudlagubanu Anusarinchi Aa Rahasya Raati Sanduloki Vellindi.",
+      "text_en": "The Owl flapped her wings strongly, soaring through the air, her goal was clear. The \"whoosh-whoosh\" sound of her wings cut through the air, bringing a new hope. \"This way! Safety is here!\" she cried out clearly, her voice filled with courage. Some small sheep, seeing the main flock trapped in the thorns, looked fearfully at the Owl. That small group of sheep followed the Owl into the secret rocky passage."
+    },
+    {
+      "id": 7,
+      "text": "గుడ్లగూబ నాయకత్వంలో, ఆ చిన్న గొర్రెల గుంపు రాతి సందు గుండా ఒక గుహ ప్రవేశ ద్వారం వద్దకు చేరుకుంది — లోపల చల్లటి గాలి వాటికి హాయినిచ్చింది. బయట నక్క కోపంతో అటూ ఇటూ తిరిగింది, తన సులభమైన భోజనం చేజారిపోయిందని దానికి అర్థమైంది. ఆ గొర్రెలు గుడ్లగూబను మెల్లగా \"బేహ్! ధన్యవాదాలు!\" అంటూ ముక్కులతో రాశాయి, వాటి కళ్ళల్లో కృతజ్ఞత కనిపించింది. గుడ్లగూబ మెల్లగా \"హూట్\" అని పలికింది, ఆమె గొంతులో సంతృప్తి నిండి ఉంది. ఆ రోజు, గుంపును గుడ్డిగా అనుసరించకుండా, సొంతంగా ఆలోచించిన కొన్ని గొర్రెలు మాత్రమే ప్రాణాలతో బయటపడ్డాయి.",
+      "image_prompt": "The small group of sheep gently nudges the owl with their noses, gathered at the cool cave entrance. Their eyes reflect deep gratitude towards the owl, who hoots softly in return. Gentle dusk light, a peaceful amber, illuminates the hidden cave entrance, casting soft shadows, creating a calm and safe atmosphere.",
+      "scene_visual": "The small group of sheep gently nudges the owl with their noses, gathered at the cool cave entrance. Their eyes reflect deep gratitude towards the owl, who hoots softly in return.",
+      "supporting_char_keys": [
+        "gorrelu"
+      ],
+      "text_te_en": "Gudlaguba Naayakatvanlo, Aa Chinna Gorrela Gumpu Raati Sandu Gundaa Oka Guha Pravesha Dvaaram Vaddaku Cherukundi — Lopala Challati Gaali Vaatiki Haayinichchindi. Bayata Nakka Kopanto Atu Itu Tirigindi, Tana Sulabhamaina Bhojanam Chejaaripoyindani Daaniki Arthamaindi. Aa Gorrelu Gudlagubanu Mellagaa \"Beh! Dhanyavaadaalu!\" Antu Mukkulato Raashaayi, Vaati Kallallo Krritajnyata Kanipinchindi. Gudlaguba Mellagaa \"Hut\" Ani Palikindi, Aame Gontulo Santrripti Nindi Undi. Aa Roju, Gumpunu Guddigaa Anusarinchakundaa, Sontangaa Aalochinchina Konni Gorrelu Maatrame Praanaalato Bayatapaddaayi.",
+      "text_en": "Under the Owl's leadership, that small group of sheep reached a cave entrance through the rocky passage. The cool air inside brought them comfort. Outside, the Fox paced back and forth angrily, understanding that its easy meal had slipped away. The sheep gently nudged the Owl with their noses, saying \"Baa! Thank you!\" gratitude visible in their eyes. The Owl softly hooted, her voice filled with satisfaction. That day, only a few sheep who thought for themselves instead of blindly following the flock survived."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "gorrelu",
+      "description": "A flock of fluffy white sheep, always moving and grazing together in a tight, unthinking group. They have soft wool and gentle faces. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 6.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 7,
+    "grammar_correctness": 10,
+    "narrative_arc": 1,
+    "child_engagement": 8,
+    "average": 6.33,
+    "weakest_dimension": "narrative_arc",
+    "notes": "The story demonstrates excellent grammar and a generally engaging plot with good suspense. However, its most significant flaw is the explicit statement of the moral at the very end, which makes the narrative feel preachy rather than allowing the lesson to emerge naturally from the events. To elevate this story to an award-worthy level, the author must remove the final sentence stating the moral. Additionally, focusing on 'showing' emotions through character actions and dialogue, rather than 'telling' them directly, would significantly deepen the reader's connection and emotional investment."
+  },
+  "quality_warning": true,
+  "title_te_en": "Gudlaguba Jnyaanan, Gorrela Gumpu",
+  "moral_te_en": "Andaru Oke Daarilo Veltunnappudu, Okkasaari Aagi, Nuvvu Kudaa Aalochiste, Nito Paatu Itarulanu Kaapaadagalavu Kadaa!",
+  "title_en": "The Owl's Wisdom, The Flock of Sheep",
+  "moral_en": "When everyone is following the same path, if you stop and think for yourself, you can save not only yourself but others too!",
+  "id": "20260615_191324",
+  "date": "2026-06-15",
+  "category": "neeti",
+  "subcategory": "animal_morals",
+  "topic": "గుంపులో కలిసిన గొర్రెలు మరియు ఒంటరిగా ఆలోచించే తెలివైన గుడ్లగూబ.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260615_191324/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
