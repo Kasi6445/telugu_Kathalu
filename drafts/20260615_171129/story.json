@@ -1,0 +1,106 @@
+{
+  "title": "బాధలు వినే కిరీటం",
+  "moral": "నువ్వు మనసు పెట్టి వింటే, అవతలి వారి కష్టాలు నీకు స్పష్టంగా అర్థమవుతాయి.",
+  "main_character": "Ramu is a kind-hearted young man, recently chosen as the village elder, earnest but inexperienced. He has bright, observant eyes and often wears a simple, hand-spun cotton dhoti. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The story unfolds in a quaint Telugu village named \"శ్రీపురం\" (Sreepuram), nestled amidst lush green paddy fields and bordered by a gentle river. Mud-plastered houses with thatched roofs dot the landscape, centered around a large banyan tree and a communal well, under the warm glow of the sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "శ్రీపురం కొత్త గ్రామ పెద్దగా రముడు, ఎండిన పొలాల మధ్య నడుస్తున్నాడు, అతని భుజాలు కుంగిపోయాయి.\nఎండిన నేల అతని కాళ్ళ కింద కటకటలాడింది, ప్రతి అడుగుతో సన్నటి ధూళి పైకి లేచింది.\nప్రజల కళ్ళల్లో ఆకలి, నిరాశ చూసి అతని యువ ముఖంపై గాఢమైన చింత అలుముకుంది.\nఅతను గుండెలోతుల్లో బాధపడుతూ, తనతో తాను అనుకున్నాడు — \"ఈ బాధలు ఎలా తీర్చగలను?\"\nఅంతలో, అతను ఒక పాత రాతి గుడి దగ్గర ఆగాడు, దానిపై పెరిగిన పాకుడు మధ్యలో ఓ మెరుపు కనిపించింది.\nఆ రాయిపై — ఓ మెరుపు!",
+      "image_prompt": "The boy stops walking and gazes intently at an old stone temple. A distinct sparkle catches his eye amidst the green moss covering the ancient stone. Harsh midday sun beating down on the parched village, casting sharp, short shadows, conveying heat and hardship.",
+      "scene_visual": "The boy stops walking and gazes intently at an old stone temple. A distinct sparkle catches his eye amidst the green moss covering the ancient stone.",
+      "supporting_char_keys": [],
+      "text_te_en": "Shripuram Kotta Graama Peddagaa Ramudu, Endina Polaala Madhya Nadustunnaadu, Atani Bhujaalu Kungipoyaayi.\nEndina Nela Atani Kaalla Kinda Katakatalaadindi, Prati Aduguto Sannati Dhuli Paiki Lechindi.\nPrajala Kallallo Aakali, Niraasha Chusi Atani Yuva Mukhampai Gaadhamaina Chinta Alumukundi.\nAtanu Gundelotullo Baadhapadutu, Tanato Taanu Anukunnaadu — \"I Baadhalu Elaa Tirchagalanu?\"\nAntalo, Atanu Oka Paata Raati Gudi Daggara Aagaadu, Daanipai Perigina Paakudu Madhyalo O Merupu Kanipinchindi.\nAa Raayipai — O Merupu!",
+      "text_en": "Ramudu, the new head of Sripuram village, walked through the dry fields, his shoulders slumped. The dry earth crunched under his feet, and fine dust rose with every step. Seeing the hunger and despair in the people's eyes, deep worry clouded his young face. He felt a deep sadness in his heart, wondering to himself — \"How can I fix these troubles?\" Just then, he stopped near an old stone temple, and a sparkle appeared amidst the moss growing on it. On that stone — a sparkle!"
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరుపును చూసిన రముడు, వెంటనే గ్రామంలోని జ్ఞానవంతురాలైన పెద్దమ్మ ఇంటికి వెళ్ళాడు.\nపెద్దమ్మ చిన్న గుడిసెలో కాలుతున్న ధూపపు కమ్మని వాసన, ఎండు మూలికల సువాసన నిండి ఉంది.\nరముడి కళ్ళు ఆశ్చర్యంతో పెద్దవి అయ్యాయి, అతను ఆ చిహ్నం గురించి ఉత్సాహంగా వివరించాడు, కానీ అతని స్వరం వణుకుతున్నట్లు అనిపించింది.\nఅన్నీ విని, పెద్దమ్మ నెమ్మదిగా నవ్వింది, ఆమె ముఖంలో లోతైన ముడతలు మరింత స్పష్టమయ్యాయి.\n\"అది ప్రజల బాధలు తెలిసే మాయా మేఘాల కిరీటం మార్గం!\" అని ఆమె గంభీరంగా చెప్పింది, అతని వైపు చూసింది.\nఆ కిరీటం రహస్య స్థలం, ఒక పురాతన పొడుపు కథతో కాపాడబడుతుంది అని ఆమె వివరించింది... లోపల ఏముందో అని రముడి గుండె వేగంగా కొట్టుకుంది.",
+      "image_prompt": "The old woman smiles slowly, her gaze fixed on the boy as she speaks. Deep wrinkles around her eyes become more pronounced as her lips curve gently. Dim, warm light filtering through a small window into Peddamma's hut, creating soft shadows and an aura of ancient wisdom.",
+      "scene_visual": "The old woman smiles slowly, her gaze fixed on the boy as she speaks. Deep wrinkles around her eyes become more pronounced as her lips curve gently.",
+      "supporting_char_keys": [
+        "peddamma"
+      ],
+      "text_te_en": "Aa Merupunu Chusina Ramudu, Ventane Graamanloni Jnyaanavanturaalaina Peddamma Intiki Vellaadu.\nPeddamma Chinna Gudiselo Kaalutunna Dhupapu Kammani Vaasana, Endu Mulikala Suvaasana Nindi Undi.\nRamudi Kallu Aashcharyanto Peddavi Ayyaayi, Atanu Aa Chihnam Gurinchi Utsaahangaa Vivarinchaadu, Kaani Atani Svaram Vanukutunnatlu Anipinchindi.\nAnni Vini, Peddamma Nemmadigaa Navvindi, Aame Mukhanlo Lotaina Mudatalu Marinta Spashtamayyaayi.\n\"Adi Prajala Baadhalu Telise Maayaa Meghaala Kiritam Maargan!\" Ani Aame Gambhirangaa Cheppindi, Atani Vaipu Chusindi.\nAa Kiritam Rahasya Sthalan, Oka Puraatana Podupu Kathato Kaapaadabadutundi Ani Aame Vivarinchindi... Lopala Emundo Ani Ramudi Gunde Vegangaa Kottukundi.",
+      "text_en": "Seeing that sparkle, Ramudu immediately went to the house of Peddamma, the wise old woman of the village. Peddamma's small hut was filled with the sweet smell of burning incense and dried herbs. Ramudu's eyes widened in surprise as he excitedly described the symbol, but his voice seemed to tremble. After hearing everything, Peddamma smiled slowly, the deep wrinkles on her face becoming even clearer. \"That is the path to the magical Crown of Listening, which knows people's sorrows!\" she said gravely, looking at him. She explained that the crown's secret location was guarded by an ancient riddle... Ramudu's heart beat fast, wondering what was inside."
+    },
+    {
+      "id": 3,
+      "text": "పెద్దమ్మ ఇచ్చిన ఆధారాలతో, రముడు ఒక ఏకాంత గుహ వైపు నడిచాడు, అతని నుదుటిపై చెమట బిందువు మెరిసింది.\nగుహ ద్వారం దగ్గరికి రాగానే — చల్లటి, తడి గాలి అతని ముఖాన్ని తాకింది, అతనిలో ఒక విధమైన భయం, ఆశ కలిగింది.\nగుహ ప్రవేశ ద్వారంపై చెక్కబడిన ప్రాచీన చిహ్నాలను అతని వేలితో స్పృశించాడు, అతని కళ్ళు ఏకాగ్రతతో వెతికాయి.\nఒక పొడుపు కథ అతని ముందు సాక్షాత్కరించింది, దాన్ని విడదీయడానికి అతను చాలా కష్టపడ్డాడు, అతని పెదవులు నెమ్మదిగా కదిలాయి.\n\"నిజమైన వినడం లోనే నిజమైన వెలుగు ఉంది,\" అని అతను గుసగుసలాడాడు, చివరి పదాన్ని పలికేసరికి అతనిలో ఒక నిట్టూర్పు వచ్చింది, అతని కళ్ళు ఆశతో మెరిశాయి.\nతళతళ మెరిసింది — గుహ ద్వారం తెరుచుకుంది.",
+      "image_prompt": "The boy whispers the final words of the riddle, his eyes shining with a sudden realization. With a soft shimmer, the ancient cave entrance slowly slides open before him. Gloomy, muted light at the cave entrance, with patches of bright sunlight struggling to penetrate the dense foliage, highlighting the cryptic carvings.",
+      "scene_visual": "The boy whispers the final words of the riddle, his eyes shining with a sudden realization. With a soft shimmer, the ancient cave entrance slowly slides open before him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Peddamma Ichchina Aadhaaraalato, Ramudu Oka Ekaanta Guha Vaipu Nadichaadu, Atani Nudutipai Chemata Binduvu Merisindi.\nGuha Dvaaram Daggariki Raagaane — Challati, Tadi Gaali Atani Mukhaanni Taakindi, Atanilo Oka Vidhamaina Bhayan, Aasha Kaligindi.\nGuha Pravesha Dvaarampai Chekkabadina Praachina Chihnaalanu Atani Velito Sprrishinchaadu, Atani Kallu Ekaagratato Vetikaayi.\nOka Podupu Katha Atani Mundu Saakshaatkarinchindi, Daanni Vidadiyadaaniki Atanu Chaalaa Kashtapaddaadu, Atani Pedavulu Nemmadigaa Kadilaayi.\n\"Nijamaina Vinadam Lone Nijamaina Velugu Undi,\" Ani Atanu Gusagusalaadaadu, Chivari Padaanni Palikesariki Atanilo Oka Nitturpu Vachchindi, Atani Kallu Aashato Merishaayi.\nTalatala Merisindi — Guha Dvaaram Teruchukundi.",
+      "text_en": "With the clues Peddamma gave him, Ramudu walked towards a lonely cave, a bead of sweat glistening on his forehead. As he neared the cave entrance — a cool, damp breeze touched his face, filling him with a mix of fear and hope. He touched the ancient symbols carved on the cave entrance with his finger, his eyes searching intently. A riddle appeared before him, and he struggled hard to solve it, his lips moving slowly. \"True light lies in true listening,\" he whispered, a sigh escaping him as he spoke the last word, his eyes shining with hope. It sparkled brightly — the cave entrance opened."
+    },
+    {
+      "id": 4,
+      "text": "తెరుచుకున్న గుహలోకి రముడు అడుగు పెట్టాడు, అతని కళ్ళు చీకటికి అలవాటు పడుతున్నాయి.\nఅక్కడ, ఒక పాకుడు పట్టిన పీఠంపై, ఒక సాదాసీదా, తుప్పు పట్టిన కిరీటం పడి ఉంది, అది అస్సలు ఆకట్టుకునేలా లేదు.\nరముడు దానిని తీసుకుని, జాగ్రత్తగా తన తలపై పెట్టుకున్నాడు, కిరీటం చల్లటి, లోహపు స్పర్శ అతని నెత్తిపై బరువుగా అనిపించింది.\nకానీ — ఏమీ జరగలేదు, అతని భుజాలు కుంగిపోయాయి, అతని కళ్ళు నేల చూపులు చూశాయి.\n\"ఇది కేవలం ఒక పాత లోహం మాత్రమేనా?\" అని అతని గుండె బరువెక్కింది — అన్నీ వృధానే అన్నట్లు అనిపించింది.\nఅతను నిరాశగా గ్రామానికి తిరిగి నడుస్తున్నప్పుడు, దూరంగా ఒక మూగబాధతో కూడిన నిట్టూర్పు గాలిలో కలిసిపోయినట్లు వినిపించింది, కానీ అతను దానిని తన ఊహగానే కొట్టిపారేశాడు.",
+      "image_prompt": "The boy carefully places the plain, rusted crown onto his head. His shoulders slump in disappointment as the cold, heavy metal crown yields no magical effect. The soft, fading light of late afternoon, casting long, melancholic shadows as Ramu walks through empty paths, emphasizing his isolation and disappointment.",
+      "scene_visual": "The boy carefully places the plain, rusted crown onto his head. His shoulders slump in disappointment as the cold, heavy metal crown yields no magical effect.",
+      "supporting_char_keys": [],
+      "text_te_en": "Teruchukunna Guhaloki Ramudu Adugu Pettaadu, Atani Kallu Chikatiki Alavaatu Padutunnaayi.\nAkkada, Oka Paakudu Pattina Pithampai, Oka Saadaasidaa, Tuppu Pattina Kiritam Padi Undi, Adi Assalu Aakattukunelaa Ledu.\nRamudu Daanini Tisukuni, Jaagrattagaa Tana Talapai Pettukunnaadu, Kiritam Challati, Lohapu Sparsha Atani Nettipai Baruvugaa Anipinchindi.\nKaani — Emi Jaragaledu, Atani Bhujaalu Kungipoyaayi, Atani Kallu Nela Chupulu Chushaayi.\n\"Idi Kevalam Oka Paata Loham Maatramenaa?\" Ani Atani Gunde Baruvekkindi — Anni Vrridhaane Annatlu Anipinchindi.\nAtanu Niraashagaa Graamaaniki Tirigi Nadustunnappudu, Durangaa Oka Mugabaadhato Kudina Nitturpu Gaalilo Kalisipoyinatlu Vinipinchindi, Kaani Atanu Daanini Tana Uhagaane Kottipaareshaadu.",
+      "text_en": "Ramudu stepped into the open cave, his eyes adjusting to the darkness. There, on a moss-covered pedestal, lay a plain, rusty crown, not at all impressive. Ramudu picked it up and carefully placed it on his head; the crown's cool, metallic touch felt heavy on his scalp. But — nothing happened. His shoulders slumped, and his eyes looked down at the ground. \"Is this just an old piece of metal?\" his heart felt heavy — it seemed like all his efforts were in vain. As he walked back to the village in disappointment, he thought he heard a silent sigh of sorrow carried on the wind, but he dismissed it as his imagination."
+    },
+    {
+      "id": 5,
+      "text": "గ్రామానికి తిరిగి వచ్చి, రముడు గ్రామ బావి దగ్గర కూర్చుని, ప్రజల మాటలు శ్రద్ధగా వినడం మొదలుపెట్టాడు.\nబావి తాడు నెమ్మదిగా, లయబద్ధంగా క్రీం క్రీం అంటూ శబ్దం చేస్తోంది, నీళ్ళు తోడుతున్నప్పుడు, అది వారి అంతర్గత బాధలకు నేపథ్యంగా మారింది.\nరముడి కళ్ళు ఆశ్చర్యంతో పెద్దవి అయ్యాయి — అతను ఒక్కసారిగా వారి గుండెల్లోని మాటలను వినడం మొదలుపెట్టాడు.\n\"అయ్యో, వారి బాధలు నా చెవులకి వినిపిస్తున్నాయి!\" అని అతను ఆశ్చర్యపోయాడు, ఒక కన్నీటి చుక్క అతని చెంప వెంట జారింది.\nమీకు తెలుసా, ఆ క్షణంలో కిరీటం మెరిసింది — ఒక మెల్లని కాంతి దాని నుండి వెలువడింది, వారి దాగి ఉన్న భయాలు, అవసరాలు స్పష్టంగా కనిపించాయి.\nకిరీటం నుండి మెల్లని, వెచ్చని కాంతి పుంజుకుంది, రముడు ప్రజల అదృశ్య భయాలు, అవసరాల యొక్క స్పష్టమైన చిత్రాలను చూశాడు.",
+      "image_prompt": "The boy sits by the village well, his eyes wide with astonishment as a tear rolls down his cheek. A soft, warm light emanates from the crown on his head, revealing vivid images of people's unseen fears and needs. Golden hour light, warm and soft, illuminating the village well, with the crown's gentle, internal glow becoming noticeable, creating a magical, empathetic aura around Ramu.",
+      "scene_visual": "The boy sits by the village well, his eyes wide with astonishment as a tear rolls down his cheek. A soft, warm light emanates from the crown on his head, revealing vivid images of people's unseen fears and needs.",
+      "supporting_char_keys": [],
+      "text_te_en": "Graamaaniki Tirigi Vachchi, Ramudu Graama Baavi Daggara Kurchuni, Prajala Maatalu Shraddhagaa Vinadam Modalupettaadu.\nBaavi Taadu Nemmadigaa, Layabaddhangaa Krim Krim Antu Shabdam Chestondi, Nillu Todutunnappudu, Adi Vaari Antargata Baadhalaku Nepathyangaa Maarindi.\nRamudi Kallu Aashcharyanto Peddavi Ayyaayi — Atanu Okkasaarigaa Vaari Gundelloni Maatalanu Vinadam Modalupettaadu.\n\"Ayyo, Vaari Baadhalu Naa Chevulaki Vinipistunnaayi!\" Ani Atanu Aashcharyapoyaadu, Oka Kanniti Chukka Atani Chempa Venta Jaarindi.\nMiku Telusaa, Aa Kshananlo Kiritam Merisindi — Oka Mellani Kaanti Daani Nundi Veluvadindi, Vaari Daagi Unna Bhayaalu, Avasaraalu Spashtangaa Kanipinchaayi.\nKiritam Nundi Mellani, Vechchani Kaanti Punjukundi, Ramudu Prajala Adrrishya Bhayaalu, Avasaraala Yokka Spashtamaina Chitraalanu Chushaadu.",
+      "text_en": "Back in the village, Ramudu sat by the village well and began to listen carefully to the people's words. The well rope creaked slowly and rhythmically as water was drawn, becoming a backdrop to their unspoken sorrows. Ramudu's eyes widened in surprise — he suddenly began to hear the words in their hearts. \"Oh, their sorrows are reaching my ears!\" he exclaimed in wonder, a tear rolling down his cheek. Do you know, at that very moment, the crown sparkled — a gentle, warm light pulsed from it, and Ramudu saw clear pictures of the people's hidden fears and needs."
+    },
+    {
+      "id": 6,
+      "text": "మెరుస్తున్న కిరీటంతో రముడు, గ్రామస్తులందరినీ ఒకచోట చేర్చి, వారి ముందు నిలబడ్డాడు.\nఅతని స్వరం స్పష్టంగా, బలంగా వినిపించింది, ప్రతి ఒక్కరి వ్యక్తిగత, ఇంతకు ముందు చెప్పని సమస్యలను అతను వివరంగా చెప్పాడు.\nగ్రామస్తులు ఒక్కసారిగా ఆశ్చర్యపోయారు, వారి కళ్ళల్లో నమ్మశక్యం కాని భావాలు మెరిశాయి.\n\"మీరు ఒంటరివారు కారు, మీ సమస్యలు నా సమస్యలే,\" అని రముడు దయతో చెప్పాడు, అతని చూపులో నిండు దయ కనిపించింది.\nప్రతి ఒక్కరి హృదయానికి హత్తుకునేలా పరిష్కారాలను సూచించాడు, అవి వారిని ఆశతో నింపాయి — వారి ముఖాలపై చిరునవ్వులు విరిశాయి.\nగ్రామస్తులు, అతని నిజమైన అవగాహనకు లోతైన స్పందనతో, కొత్త ఆశతో లేచి నిలబడ్డారు, పరిష్కారాలపై కలిసి పనిచేయడానికి సిద్ధంగా ఉన్నారు.",
+      "image_prompt": "The boy stands before the gathered villagers, speaking clearly as smiles begin to bloom on their faces. Incredible emotions sparkle in the villagers' eyes as they listen to him, their expressions shifting from astonishment to hope. Bright, clear morning light under the village banyan tree, illuminating the hopeful faces of the villagers, with the crown on Ramu's head shining with a steady, reassuring light.",
+      "scene_visual": "The boy stands before the gathered villagers, speaking clearly as smiles begin to bloom on their faces. Incredible emotions sparkle in the villagers' eyes as they listen to him, their expressions shifting from astonishment to hope.",
+      "supporting_char_keys": [],
+      "text_te_en": "Merustunna Kiritanto Ramudu, Graamastulandarini Okachota Cherchi, Vaari Mundu Nilabaddaadu.\nAtani Svaram Spashtangaa, Balangaa Vinipinchindi, Prati Okkari Vyaktigata, Intaku Mundu Cheppani Samasyalanu Atanu Vivarangaa Cheppaadu.\nGraamastulu Okkasaarigaa Aashcharyapoyaaru, Vaari Kallallo Nammashakyam Kaani Bhaavaalu Merishaayi.\n\"Miru Ontarivaaru Kaaru, Mi Samasyalu Naa Samasyale,\" Ani Ramudu Dayato Cheppaadu, Atani Chupulo Nindu Daya Kanipinchindi.\nPrati Okkari Hrridayaaniki Hattukunelaa Parishkaaraalanu Suchinchaadu, Avi Vaarini Aashato Nimpaayi — Vaari Mukhaalapai Chirunavvulu Virishaayi.\nGraamastulu, Atani Nijamaina Avagaahanaku Lotaina Spandanato, Kotta Aashato Lechi Nilabaddaaru, Parishkaaraalapai Kalisi Panicheyadaaniki Siddhangaa Unnaaru.",
+      "text_en": "With the shining crown on his head, Ramudu gathered all the villagers and stood before them. His voice was clear and strong as he spoke in detail about each person's private, unspoken problems. The villagers were astonished, incredible feelings shining in their eyes. \"You are not alone; your problems are my problems,\" Ramudu said kindly, his gaze full of compassion. He suggested solutions that touched each person's heart, filling them with hope — smiles bloomed on their faces. The villagers, deeply moved by his true understanding, stood up with new hope, ready to work together on solutions."
+    },
+    {
+      "id": 7,
+      "text": "నెలలు గడిచిపోయాయి, శ్రీపురం పచ్చని పొలాలతో, సంతోషకరమైన నవ్వులతో కళకళలాడింది.\nరముడు గ్రామ వీధుల్లో నడుస్తున్నాడు, అతని పెదవులపై చిరునవ్వు మెరిసింది, అతని కళ్ళలో శాంతి, సంతృప్తి నిండి ఉన్నాయి.\nగ్రామంలోని ప్రతి ఇల్లూ ఆనందంతో నిండిపోయింది, జాస్మిన్ పూల కమ్మని వాసన, తాజాగా దున్నిన నేల వాసనతో కలిసిపోయింది.\nఅతని తలపై ఉన్న ఆ కిరీటం — ఎల్లప్పుడూ మెరుస్తూనే ఉంది, అతని దయగల నాయకత్వానికి చిహ్నంగా నిలిచింది.\nప్రజలు ఇప్పుడు ఒకరి మాట ఒకరు వింటూ, కలిసి పని చేస్తూ, సంతోషంగా జీవిస్తున్నారు, రముడు చూపిన బాటలో.\nనిజమైన వినడం అనేది, ప్రజల హృదయాల్లో వెలుగు నింపగలదని నిరూపించబడింది.",
+      "image_prompt": "The boy walks through the vibrant village streets, a peaceful smile on his lips. The crown on his head shines continuously, a beacon of light amidst the green fields and joyful faces of the villagers. Gentle dusk light, warm amber hues painting the prosperous village, reflecting off the green fields and happy faces, with the crown emitting a soft, golden glow.",
+      "scene_visual": "The boy walks through the vibrant village streets, a peaceful smile on his lips. The crown on his head shines continuously, a beacon of light amidst the green fields and joyful faces of the villagers.",
+      "supporting_char_keys": [],
+      "text_te_en": "Nelalu Gadichipoyaayi, Shripuram Pachchani Polaalato, Santoshakaramaina Navvulato Kalakalalaadindi.\nRamudu Graama Vidhullo Nadustunnaadu, Atani Pedavulapai Chirunavvu Merisindi, Atani Kallalo Shaanti, Santrripti Nindi Unnaayi.\nGraamanloni Prati Illu Aanandanto Nindipoyindi, Jaasmin Pula Kammani Vaasana, Taajaagaa Dunnina Nela Vaasanato Kalisipoyindi.\nAtani Talapai Unna Aa Kiritam — Ellappudu Merustune Undi, Atani Dayagala Naayakatvaaniki Chihnangaa Nilichindi.\nPrajalu Ippudu Okari Maata Okaru Vintu, Kalisi Pani Chestu, Santoshangaa Jivistunnaaru, Ramudu Chupina Baatalo.\nNijamaina Vinadam Anedi, Prajala Hrridayaallo Velugu Nimpagaladani Nirupinchabadindi.",
+      "text_en": "Months passed, and Sripuram flourished with green fields and happy laughter. Ramudu walked through the village streets, a smile on his lips, his eyes filled with peace and contentment. Every home in the village was filled with joy; the sweet scent of jasmine flowers mingled with the smell of freshly tilled earth. The crown on his head — it always shone, a symbol of his kind leadership. The people now listened to each other, worked together, and lived happily, following the path Ramudu had shown. It was proven that true listening can fill people's hearts with light."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "peddamma",
+      "description": "Peddamma is an elderly, wise woman with a wrinkled but kind face, her grey hair tied in a neat bun. She wears a simple, faded red saree and always carries a worn wooden staff. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Callirrhoe",
+  "quality_score": 7.0,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 8,
+    "child_engagement": 8,
+    "average": 7.0,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story presents a solid narrative arc with a clear problem, a journey of discovery, and a satisfying resolution, supported by nearly flawless grammar and good engagement hooks. To elevate it to award-worthy status, the primary focus should be on transforming the narrative from 'telling' to 'showing' emotions and actions, making the characters' feelings palpable through their deeds and dialogue rather than direct statements. Additionally, enriching the dialogue with distinct character voices and integrating it more frequently would significantly enhance the story's oral warmth and overall impact, allowing the moral to emerge naturally without explicit statements."
+  },
+  "quality_warning": true,
+  "title_te_en": "Baadhalu Vine Kiritam",
+  "moral_te_en": "Nuvvu Manasu Petti Vinte, Avatali Vaari Kashtaalu Niku Spashtangaa Arthamavutaayi.",
+  "title_en": "The Crown of Listening",
+  "moral_en": "If you listen with your heart, you will clearly understand the troubles of others.",
+  "id": "20260615_171129",
+  "date": "2026-06-15",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "ప్రజల బాధలు తెలిసే మాయా మేఘాల కిరీటం మరియు యువ గ్రామ పెద్ద",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260615_171129/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
