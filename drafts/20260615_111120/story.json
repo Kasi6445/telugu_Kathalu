@@ -1,0 +1,98 @@
+{
+  "title": "చిట్టి గూడు, గుడ్లగూబ జ్ఞానం",
+  "moral": "చూశావా నాన్నా, పెద్దల మాట వింటే మన కలలు ఎంత సులభంగా నెరవేరుతాయో!",
+  "main_character": "Chitti, a tiny, bright yellow sunbird with iridescent green feathers on her head and wings. She is energetic, curious, and quick to action, but also prone to frustration when things don't go her way. Always the same character across every scene.",
+  "antagonist": "Gudu, a large, wise Indian Eagle-Owl with mottled brown and grey plumage, piercing yellow eyes, and prominent ear tufts. He moves with quiet dignity and speaks in a low, resonant voice. Always the same character across every scene.",
+  "setting": "A vibrant, lush forest in the Nallamala Hills of Andhra Pradesh, characterized by tall Sal trees and ancient Banyan trees with sprawling aerial roots. A clear stream babbles nearby, reflecting the bright morning sun. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "చిట్టి, ఆ చిన్ని సూర్యపక్షి, తన తల్లిదండ్రుల మెత్తని గూటిలో, ఎండిన గడ్డి, సూర్యరశ్మి వాసన పీలుస్తూ హాయిగా ఉండేది. అప్పుడు, తన రెక్కలు టపటప కొట్టుకుంటూ, ఉత్సాహంగా చూసింది. \"నాకూ అలాంటి అందమైన గూడు కావాలి!\" అని చిట్టి తల్లిదండ్రులతో కిలకిలమంటూ అంది. ఆ కల ఆమె కళ్ళలో మెరిసింది. ఒక్కసారిగా — ఆమె ధైర్యంగా గూటి నుండి బయటకు ఎగిరింది, తన కొత్త ప్రయాణం మొదలుపెట్టడానికి.",
+      "image_prompt": "The young bird bravely flies out of its soft nest, launching itself into the air. A spark of determination shines in its eyes as it leaves the dried grass and sunlight-scented home. Bright morning sunlight filtering through dense green leaves, casting dappled patterns on the nest, warm and inviting.",
+      "scene_visual": "The young bird bravely flies out of its soft nest, launching itself into the air. A spark of determination shines in its eyes as it leaves the dried grass and sunlight-scented home.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitti, Aa Chinni Suryapakshi, Tana Tallidandrula Mettani Gutilo, Endina Gaddi, Suryarashmi Vaasana Pilustu Haayigaa Undedi. Appudu, Tana Rekkalu Tapatapa Kottukuntu, Utsaahangaa Chusindi. \"Naaku Alaanti Andamaina Gudu Kaavaali!\" Ani Chitti Tallidandrulato Kilakilamantu Andi. Aa Kala Aame Kallalo Merisindi. Okkasaarigaa — Aame Dhairyangaa Guti Nundi Bayataku Egirindi, Tana Kotta Prayaanam Modalupettadaaniki.",
+      "text_en": "Chitti, the tiny sunbird, was cozy in her parents' soft nest, breathing in the scent of dry grass and sunshine. Then, flapping her wings, she looked around excitedly. \"I want a beautiful nest like that too!\" Chitti chirped to her parents. That dream sparkled in her eyes. All at once — she bravely flew out of the nest, ready to begin her new journey."
+    },
+    {
+      "id": 2,
+      "text": "గూటి కొమ్మ మీద మెల్లగా గాలి ఆకులను కదిలించగా, చిట్టి తల్లిదండ్రుల దగ్గరకి వచ్చింది. తన చిన్న రొమ్మును ఉబ్బించి, తలను కొద్దిగా వంచి, తన ప్రణాళికను ఉత్సాహంగా చెప్పింది. \"నేను ఒక్కదాన్నే చేయగలను, మీరు చూడండి!\" అని గట్టిగా అంది. వాళ్ళ ఆందోళనను గమనించకుండా, ఆమె గంభీరంగా మాట్లాడింది. ఆ క్షణంలో — చిట్టి ఒక నమ్మకమైన కిలకిలరావంతో ఎగిరిపోయింది, తల్లిదండ్రులు ఒకరి మొహాలు ఒకరు చూసుకున్నారు.",
+      "image_prompt": "The young bird puffs out its small chest, tilts its head slightly, and then confidently chirps as it flies away from its parents. Its parents exchange worried glances as the gentle breeze rustles the leaves on the branch. Mid-morning sun, slightly brighter than before, reflecting off the shiny leaves, showing a hopeful but slightly naive atmosphere.",
+      "scene_visual": "The young bird puffs out its small chest, tilts its head slightly, and then confidently chirps as it flies away from its parents. Its parents exchange worried glances as the gentle breeze rustles the leaves on the branch.",
+      "supporting_char_keys": [],
+      "text_te_en": "Guti Komma Mida Mellagaa Gaali Aakulanu Kadilinchagaa, Chitti Tallidandrula Daggaraki Vachchindi. Tana Chinna Rommunu Ubbinchi, Talanu Koddigaa Vanchi, Tana Pranaalikanu Utsaahangaa Cheppindi. \"Nenu Okkadaanne Cheyagalanu, Miru Chudandi!\" Ani Gattigaa Andi. Vaalla Aandolananu Gamaninchakundaa, Aame Gambhirangaa Maatlaadindi. Aa Kshananlo — Chitti Oka Nammakamaina Kilakilaraavanto Egiripoyindi, Tallidandrulu Okari Mohaalu Okaru Chusukunnaaru.",
+      "text_en": "As the gentle breeze stirred the leaves on the nest's branch, Chitti came close to her parents. Puffing out her small chest, tilting her head slightly, she excitedly told them her plan. \"I can do it all by myself, just watch!\" she said loudly. Without noticing their worry, she spoke seriously. In that moment — Chitti flew away with a confident chirp, and her parents looked at each other."
+    },
+    {
+      "id": 3,
+      "text": "అప్పుడు చిట్టి తన పని మొదలుపెట్టింది. పెద్ద పెద్ద కొమ్మలను తన చిన్న ముక్కుతో ఎత్తడానికి ప్రయత్నించింది, కానీ వాటి కఠినమైన, చీలికల స్పర్శ ఆమెను వెనక్కి నెట్టింది. ఆమె రెక్కలు గట్టిగా కొట్టుకున్నా, చిన్న వాటిని కూడా సరిగా పట్టుకోలేకపోయింది. అప్పుడు — \"ఇది అనుకున్నంత సులభం కాదు!\" అని నిరాశగా అంది. ఆమె చిన్న పంజాలు కొమ్మల మీద నుండి జారిపోయాయి, కింద పడిపోయిన కొమ్మలు, గడ్డి ఆమె వైఫల్యాన్ని చెప్పాయి.",
+      "image_prompt": "The young bird struggles to lift large branches with its tiny beak, its small claws slipping from the rough surfaces. Fallen branches and grass lie scattered below, indicating its frustrated attempts. Bright, direct midday sun beating down on the forest floor, highlighting Chitti's small, struggling figure.",
+      "scene_visual": "The young bird struggles to lift large branches with its tiny beak, its small claws slipping from the rough surfaces. Fallen branches and grass lie scattered below, indicating its frustrated attempts.",
+      "supporting_char_keys": [],
+      "text_te_en": "Appudu Chitti Tana Pani Modalupettindi. Pedda Pedda Kommalanu Tana Chinna Mukkuto Ettadaaniki Prayatninchindi, Kaani Vaati Kathinamaina, Chilikala Sparsha Aamenu Venakki Nettindi. Aame Rekkalu Gattigaa Kottukunnaa, Chinna Vaatini Kudaa Sarigaa Pattukolekapoyindi. Appudu — \"Idi Anukunnanta Sulabham Kaadu!\" Ani Niraashagaa Andi. Aame Chinna Panjaalu Kommala Mida Nundi Jaaripoyaayi, Kinda Padipoyina Kommalu, Gaddi Aame Vaiphalyaanni Cheppaayi.",
+      "text_en": "Then Chitti began her work. She tried to lift big branches with her small beak, but their hard, splintery touch pushed her back. Even though her wings flapped hard, she couldn't properly hold even small ones. Then — \"This isn't as easy as I thought!\" she said in despair. Her small claws slipped from the branches, and the fallen branches and grass below told of her failure."
+    },
+    {
+      "id": 4,
+      "text": "చిట్టి సేకరించిన కొద్దిపాటి వాటితో గూడు అల్లడానికి ప్రయత్నించింది, కానీ అది పదేపదే విడిపోయి, అసహ్యంగా మారిపోయింది. ఎంత ప్రయత్నించినా, అది ఒక ఆకారంలోకి రాలేదు. అప్పుడు — \"నేను ఎంత ప్రయత్నించినా, ఇది ఎందుకు ఇలా అవుతోంది?\" అని తనలో తానే బాధగా murmured. ఆమె రెక్కలు వాలిపోయాయి, తల నేలకు వంచేసింది. అక్కడ తడి మట్టి, విరిగిన గడ్డి వాసనలు ఆమె ఓటమిని గుర్తుచేశాయి. ఆమె తన పాడైపోయిన గూటి పక్కన కదలకుండా కూర్చుండిపోయింది... ఇంతలో, పక్క చెట్టు నీడలో, ఒక పెద్ద పసుపు కళ్ళు ఆమెను గమనించాయి.",
+      "image_prompt": "The young bird sits motionless beside its ruined, shapeless nest, its wings drooped and head bowed. In the shadow of a nearby tree, a pair of large yellow eyes intently observe its dejected posture. Also in this scene: Gudu, a large, wise Indian Eagle-Owl with mottled brown and grey plumage, piercing yellow eyes, and prominent ear tufts. He moves with quiet dignity and speaks in a low, resonant voice. Always the same character across every scene. Late afternoon, shadows beginning to lengthen under the trees, creating a somber, reflective mood; a subtle glint of yellow eyes from the deep shade.",
+      "scene_visual": "The young bird sits motionless beside its ruined, shapeless nest, its wings drooped and head bowed. In the shadow of a nearby tree, a pair of large yellow eyes intently observe its dejected posture.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chitti Sekarinchina Koddipaati Vaatito Gudu Alladaaniki Prayatninchindi, Kaani Adi Padepade Vidipoyi, Asahyangaa Maaripoyindi. Enta Prayatninchinaa, Adi Oka Aakaaranloki Raaledu. Appudu — \"Nenu Enta Prayatninchinaa, Idi Enduku Ilaa Avutondi?\" Ani Tanalo Taane Baadhagaa Murmured. Aame Rekkalu Vaalipoyaayi, Tala Nelaku Vanchesindi. Akkada Tadi Matti, Virigina Gaddi Vaasanalu Aame Otamini Gurtucheshaayi. Aame Tana Paadaipoyina Guti Pakkana Kadalakundaa Kurchundipoyindi... Intalo, Pakka Chettu Nidalo, Oka Pedda Pasupu Kallu Aamenu Gamaninchaayi.",
+      "text_en": "Chitti tried to weave a nest with the few things she had collected, but it kept falling apart, becoming messy. No matter how much she tried, it wouldn't take shape. Then — \"No matter how much I try, why does it keep happening like this?\" she murmured sadly to herself. Her wings drooped, and she bowed her head to the ground. The smells of wet earth and broken grass reminded her of her defeat. She sat motionless next to her ruined nest... Meanwhile, in the shade of a nearby tree, a pair of large yellow eyes watched her."
+    },
+    {
+      "id": 5,
+      "text": "పెద్ద కళ్ళు తనను చూస్తున్నాయని చిట్టికి అర్థమైంది. అప్పుడు, ఆ గుడ్లగూబ పెద్ద రెక్కలు మెల్లగా శబ్దం చేస్తూ ఆమె పక్కనే వాలింది. చిట్టి ఒక్కసారిగా ఉలిక్కిపడింది, భయంతో కొద్దిగా వెనక్కి తగ్గింది. గుడ్లగూబ తన లోతైన గొంతుతో, \"చిట్టి, ఎందుకు ఇంత నిరాశగా ఉన్నావు?\" అని శాంతంగా అడిగింది. చిట్టి తల ఇంకా వంచుకుంది, సిగ్గుపడిపోయినట్లు కనిపించింది. కానీ, ఆ గుడ్లగూబ మాటల్లోని దయ గమనించి, ఆమె తన చిన్న కళ్ళతో దాని వైపు చూసింది — భయం, చిన్న ఆశ కలగలిసిన చూపు అది.",
+      "image_prompt": "The young bird, initially flinching back in fear, slowly lifts its head and looks at the large owl with its small eyes. Its gaze holds a mixture of fear and a glimmer of hope, reflecting the kindness in the owl's deep voice. Also in this scene: Gudu, a large, wise Indian Eagle-Owl with mottled brown and grey plumage, piercing yellow eyes, and prominent ear tufts. He moves with quiet dignity and speaks in a low, resonant voice. Always the same character across every scene. Golden hour light, soft and warm, filtering through the leaves, creating a gentle, empathetic glow around the owl and Chitti.",
+      "scene_visual": "The young bird, initially flinching back in fear, slowly lifts its head and looks at the large owl with its small eyes. Its gaze holds a mixture of fear and a glimmer of hope, reflecting the kindness in the owl's deep voice.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pedda Kallu Tananu Chustunnaayani Chittiki Arthamaindi. Appudu, Aa Gudlaguba Pedda Rekkalu Mellagaa Shabdam Chestu Aame Pakkane Vaalindi. Chitti Okkasaarigaa Ulikkipadindi, Bhayanto Koddigaa Venakki Taggindi. Gudlaguba Tana Lotaina Gontuto, \"Chitti, Enduku Inta Niraashagaa Unnaavu?\" Ani Shaantangaa Adigindi. Chitti Tala Inkaa Vanchukundi, Siggupadipoyinatlu Kanipinchindi. Kaani, Aa Gudlaguba Maatalloni Daya Gamaninchi, Aame Tana Chinna Kallato Daani Vaipu Chusindi — Bhayan, Chinna Aasha Kalagalisina Chupu Adi.",
+      "text_en": "Chitti realized that big eyes were watching her. Then, the owl landed softly beside her, its large wings making a gentle sound. Chitti flinched, startled, and moved back a little in fear. The owl, with its deep voice, calmly asked, \"Chitti, why are you so disheartened?\" Chitti kept her head bowed, looking embarrassed. But, noticing the kindness in the owl's words, she looked up at it with her small eyes — a gaze mixed with fear and a tiny bit of hope."
+    },
+    {
+      "id": 6,
+      "text": "గుడ్లగూబ గూడు, తన అనుభవాన్ని చిట్టితో పంచుకుంది. గూడు కట్టడం అంటే కేవలం కొమ్మలు చేర్చడం కాదని, వాటిని జాగ్రత్తగా అల్లాలని వివరించింది. అప్పుడు ఆ గుడ్లగూబ లోతైన, ధైర్యం చెప్పే హూట్ వినిపించింది. చిట్టి శ్రద్ధగా వింటూ తల ఊపింది, తన పొరపాటును అర్థం చేసుకుంది. \"నేను నేర్చుకోవడానికి సిద్ధంగా ఉన్నాను, దయచేసి నాకు మార్గం చూపండి\" అని చిట్టి చిన్నగా అంది, ఆమె కళ్ళలో కొత్త ఆశ కనిపించింది. ఆ క్షణంలో — గుడ్లగూబ ఒక చిన్న, చక్కగా వంగిన కొమ్మను చిట్టికి ఇచ్చి, దాన్ని ఎలా అల్లాలో చూపించింది.",
+      "image_prompt": "The large owl extends a small, neatly bent branch to the young bird, demonstrating how to weave it. The young bird watches intently, a new spark of hope visible in its eyes as it nods its head in understanding. Also in this scene: Gudu, a large, wise Indian Eagle-Owl with mottled brown and grey plumage, piercing yellow eyes, and prominent ear tufts. He moves with quiet dignity and speaks in a low, resonant voice. Always the same character across every scene. The last rays of the setting sun, painting the sky in soft oranges and purples, casting long, peaceful shadows, signifying a moment of learning and calm.",
+      "scene_visual": "The large owl extends a small, neatly bent branch to the young bird, demonstrating how to weave it. The young bird watches intently, a new spark of hope visible in its eyes as it nods its head in understanding.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gudlaguba Gudu, Tana Anubhavaanni Chittito Panchukundi. Gudu Kattadam Ante Kevalam Kommalu Cherchadam Kaadani, Vaatini Jaagrattagaa Allaalani Vivarinchindi. Appudu Aa Gudlaguba Lotaina, Dhairyam Cheppe Hut Vinipinchindi. Chitti Shraddhagaa Vintu Tala Upindi, Tana Porapaatunu Artham Chesukundi. \"Nenu Nerchukovadaaniki Siddhangaa Unnaanu, Dayachesi Naaku Maargam Chupandi\" Ani Chitti Chinnagaa Andi, Aame Kallalo Kotta Aasha Kanipinchindi. Aa Kshananlo — Gudlaguba Oka Chinna, Chakkagaa Vangina Kommanu Chittiki Ichchi, Daanni Elaa Allaalo Chupinchindi.",
+      "text_en": "The owl shared its experience with Chitti. It explained that building a nest wasn't just about gathering branches, but about carefully weaving them. Then the owl let out a deep, encouraging hoot. Chitti listened carefully and nodded, understanding her mistake. \"I am ready to learn, please show me the way,\" Chitti said softly, and new hope appeared in her eyes. In that moment — the owl gave Chitti a small, nicely bent twig and showed her how to weave it."
+    },
+    {
+      "id": 7,
+      "text": "గుడ్లగూబ చెప్పినట్లు, చిట్టి ఆ చిన్న కొమ్మలను జాగ్రత్తగా అల్లింది. అప్పుడు, ఆమె చేతివేళ్ళు కాదు, చిన్న ముక్కు, పంజాలు పనిచేశాయి. ఒక సాయంత్రం జల్లు తర్వాత, కొత్త ఆకుల, తడి మట్టి తీయని వాసనలు ఆమె గూటి చుట్టూ అలుముకున్నాయి. చిట్టి మెల్లగా తన గూడును పూర్తి చేసింది — అది చాలా గట్టిగా, అందంగా ఉంది. \"చూడండి! ఇది నా గూడు!\" అని ఆమె సంతోషంగా కిలకిలమంటూ ఎగిరింది, తన ఈకలను విదిలించుకుంది. ఆ గుడ్లగూబ నవ్వింది, చిట్టి కళ్ళలో ఆనందం చూసింది.",
+      "image_prompt": "The young bird happily chirps and shakes its feathers as it flies around its newly completed, sturdy, and beautiful nest. The large owl smiles, observing the pure joy shining in the young bird's eyes. Also in this scene: Gudu, a large, wise Indian Eagle-Owl with mottled brown and grey plumage, piercing yellow eyes, and prominent ear tufts. He moves with quiet dignity and speaks in a low, resonant voice. Always the same character across every scene. Gentle dusk light, warm amber, peaceful resolution, with a soft glow emanating from Chitti's newly built nest.",
+      "scene_visual": "The young bird happily chirps and shakes its feathers as it flies around its newly completed, sturdy, and beautiful nest. The large owl smiles, observing the pure joy shining in the young bird's eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gudlaguba Cheppinatlu, Chitti Aa Chinna Kommalanu Jaagrattagaa Allindi. Appudu, Aame Chetivellu Kaadu, Chinna Mukku, Panjaalu Panicheshaayi. Oka Saayantram Jallu Tarvaata, Kotta Aakula, Tadi Matti Tiyani Vaasanalu Aame Guti Chuttu Alumukunnaayi. Chitti Mellagaa Tana Gudunu Purti Chesindi — Adi Chaalaa Gattigaa, Andangaa Undi. \"Chudandi! Idi Naa Gudu!\" Ani Aame Santoshangaa Kilakilamantu Egirindi, Tana Ikalanu Vidilinchukundi. Aa Gudlaguba Navvindi, Chitti Kallalo Aanandam Chusindi.",
+      "text_en": "As the owl had told her, Chitti carefully wove the small twigs. Then, it wasn't her fingers, but her small beak and claws that worked. After an evening shower, the sweet smells of new leaves and wet earth filled the air around her nest. Chitti slowly completed her nest — it was very strong and beautiful. \"Look! This is my nest!\" she chirped happily and flew up, shaking her feathers. The owl smiled, seeing the joy in Chitti's eyes."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 7,
+    "emotional_depth": 7,
+    "dialogue_richness": 9,
+    "grammar_correctness": 7,
+    "narrative_arc": 7,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story presents a clear, engaging narrative with strong dialogue that effectively moves the plot forward. To significantly improve, the primary focus should be on 'showing' emotions through actions and sensory details rather than 'telling' them directly. Additionally, the explicit moral statement at the beginning should be removed; allow the story's wisdom to emerge organically from Chitti's journey and the owl's guidance, making the narrative arc more impactful and less preachy."
+  },
+  "quality_warning": true,
+  "title_te_en": "Chitti Gudu, Gudlaguba Jnyaanam",
+  "moral_te_en": "Chushaavaa Naannaa, Peddala Maata Vinte Mana Kalalu Enta Sulabhangaa Neraverutaayo!",
+  "title_en": "Chitti's Nest, Owl Wisdom",
+  "moral_en": "See, my dear, how easily our dreams can come true if we listen to our elders!",
+  "id": "20260615_111120",
+  "date": "2026-06-15",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "సొంతంగా గూడు కట్టాలని మొండిగా ప్రయత్నించిన చిన్ని పక్షి మరియు మార్గదర్శనం చేసిన తెలివైన గుడ్లగూబ.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260615_111120/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
