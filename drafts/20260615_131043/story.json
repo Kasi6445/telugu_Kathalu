@@ -1,0 +1,98 @@
+{
+  "title": "సందడి, లోతైన ప్రశాంతత",
+  "moral": "చూడటానికి ఆకర్షణీయంగా కనిపించే విషయాల్లో కన్నా, లోతైన నిశ్శబ్దంలోనే నిజమైన బలం, జ్ఞానం దాగి ఉంటాయమ్మా.",
+  "main_character": "A small, shimmering blue fish named Bujji with large, curious eyes and a perpetually wiggling tail. He is always eager to explore and learn new things about his watery world. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A lush, green valley in the Godavari region of Andhra Pradesh, where a mighty river flows. The valley is filled with ancient trees, vibrant wildflowers, and smooth, water-worn rocks, often with dappled sunlight on the water. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గోదావరి నది ఒడ్డున, బుజ్జి అనే చిట్టి చేప ఆడుకుంటూ ఉండేది. దాని నీలి రెక్కలు, ప్రకాశవంతమైన శరీరంతో ఎప్పుడూ సందడి చేసేది. ఒకరోజు అది నదిలో ఉన్న ఒక పెద్ద జలపాతం దగ్గరకు వెళ్ళింది. దూరం నుండే ఆ నీటి హోరు — చెవులకు పెద్ద శబ్దంలా వినిపించింది. బుజ్జి ఆ జలపాతం చుట్టూ తిరుగుతూ, తన తోకను ఉత్సాహంగా ఊపుతూ, 'అబ్బా, ఎంత సందడిగా ఉంది!' అని సంతోషంగా అనుకున్నాడు. ఆ నీటి తుంపరలో ఆడుకుంటూ, ఆ శక్తిలో భాగం కావాలని కోరుకున్నాడు బుజ్జి.",
+      "image_prompt": "The small fish enthusiastically swims around the large waterfall. It wags its tail with excitement, its blue fins shimmering in the water spray. Bright, sparkling sunlight hitting the waterfall's spray, creating tiny, fleeting rainbows in the air.",
+      "scene_visual": "The small fish enthusiastically swims around the large waterfall. It wags its tail with excitement, its blue fins shimmering in the water spray.",
+      "supporting_char_keys": [],
+      "text_te_en": "Godaavari Nadi Odduna, Bujji Ane Chitti Chepa Aadukuntu Undedi. Daani Nili Rekkalu, Prakaashavantamaina Shariranto Eppudu Sandadi Chesedi. Okaroju Adi Nadilo Unna Oka Pedda Jalapaatam Daggaraku Vellindi. Duram Nunde Aa Niti Horu — Chevulaku Pedda Shabdanlaa Vinipinchindi. Bujji Aa Jalapaatam Chuttu Tirugutu, Tana Tokanu Utsaahangaa Uputu, 'Abbaa, Enta Sandadigaa Undi!' Ani Santoshangaa Anukunnaadu. Aa Niti Tumparalo Aadukuntu, Aa Shaktilo Bhaagam Kaavaalani Korukunnaadu Bujji.",
+      "text_en": "On the banks of the Godavari River, a little fish named Bujji used to play. With its blue fins and bright body, it was always full of life. One day, it went near a big waterfall in the river. From far away, the roar of the water sounded like a very loud noise to its ears. Bujji swam around the waterfall, wagging its tail excitedly, and happily thought, 'Wow, how lively it is here!' Playing in the water spray, Bujji wished to be part of that energy."
+    },
+    {
+      "id": 2,
+      "text": "అంత సందడి చూసాక, బుజ్జికి కొంచెం పక్కనే ఉన్న ఒక లోతైన సరస్సు కనిపించింది. ఆ సరస్సు నీళ్లు చల్లగా, నిశ్శబ్దంగా, అద్దంలా ఆకాశాన్ని ప్రతిబింబిస్తూ ఉన్నాయి. బుజ్జి సరస్సులోకి వెళ్ళి, మెల్లగా ఈదుతూ, కాసేపటికి తన తోకను నీళ్లలో నెమ్మదిగా కదిలించాడు. 'ఇదేంటి, ఇక్కడ అసలు సందడే లేదు!' అని నిరాశగా అనుకున్నాడు బుజ్జి. ఆ ప్రశాంతత బుజ్జికి ఏమాత్రం నచ్చలేదు — ఆ సరస్సు నుండి వెనుతిరిగి, మళ్ళీ జలపాతం వైపే చూశాడు.",
+      "image_prompt": "The small fish slowly moves its tail in the still, cool water of the deep lake. Its expression shows disappointment as it turns away from the mirror-like surface reflecting the sky. Deep, calm blue hues reflecting the sky, with shadowy depths below the surface, creating a quiet, almost somber mood.",
+      "scene_visual": "The small fish slowly moves its tail in the still, cool water of the deep lake. Its expression shows disappointment as it turns away from the mirror-like surface reflecting the sky.",
+      "supporting_char_keys": [],
+      "text_te_en": "Anta Sandadi Chusaaka, Bujjiki Konchem Pakkane Unna Oka Lotaina Sarassu Kanipinchindi. Aa Sarassu Nillu Challagaa, Nishshabdangaa, Addanlaa Aakaashaanni Pratibimbistu Unnaayi. Bujji Sarassuloki Velli, Mellagaa Idutu, Kaasepatiki Tana Tokanu Nillalo Nemmadigaa Kadilinchaadu. 'Identi, Ikkada Asalu Sandade Ledu!' Ani Niraashagaa Anukunnaadu Bujji. Aa Prashaantata Bujjiki Emaatram Nachchaledu — Aa Sarassu Nundi Venutirigi, Malli Jalapaatam Vaipe Chushaadu.",
+      "text_en": "After seeing all that excitement, Bujji saw a deep lake nearby. The lake's water was cool, silent, and reflected the sky like a mirror. Bujji went into the lake, swam slowly, and after a while, gently moved its tail in the water. 'What is this? There's no excitement at all here!' Bujji thought with disappointment. Bujji didn't like that peacefulness one bit — it turned back from the lake and looked towards the waterfall again."
+    },
+    {
+      "id": 3,
+      "text": "అయితే, ఒకరోజు ఆకాశం ఒక్కసారిగా నల్లబడింది — పెను తుఫాను వచ్చింది. నది ఉవ్వెత్తున ఎగిసిపడింది. బుజ్జి ముందు మెచ్చుకున్న జలపాతం ఇప్పుడు భయంకరంగా గర్జిస్తోంది. పెద్ద పెద్ద రాళ్ళ మీద నీళ్లు హోరుమంటూ పడుతుంటే... అటవిలోని జీవులు వణికిపోయాయి. 'ఈ హోరుకు ఎవరూ తట్టుకోలేరు!' అని బుజ్జి భయంతో వణికిపోయాడు. ఆ జలపాతం విధ్వంసం చూసి, ఒక పెద్ద నున్నటి నది రాయి వెనుక తన శరీరాన్ని నొక్కుకుంటూ దాక్కున్నాడు.",
+      "image_prompt": "The small fish presses its body tightly behind a large, smooth river stone. It trembles with fear as the waterfall roars violently, its waters crashing onto big rocks. Overcast, stormy grey sky with dark, bruised clouds, punctuated by flashes of lightning, making the waterfall appear menacing and chaotic.",
+      "scene_visual": "The small fish presses its body tightly behind a large, smooth river stone. It trembles with fear as the waterfall roars violently, its waters crashing onto big rocks.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ayite, Okaroju Aakaasham Okkasaarigaa Nallabadindi — Penu Tuphaanu Vachchindi. Nadi Uvvettuna Egisipadindi. Bujji Mundu Mechchukunna Jalapaatam Ippudu Bhayankarangaa Garjistondi. Pedda Pedda Raalla Mida Nillu Horumantu Padutunte... Ataviloni Jivulu Vanikipoyaayi. 'I Horuku Evaru Tattukoleru!' Ani Bujji Bhayanto Vanikipoyaadu. Aa Jalapaatam Vidhvansam Chusi, Oka Pedda Nunnati Nadi Raayi Venuka Tana Shariraanni Nokkukuntu Daakkunnaadu.",
+      "text_en": "However, one day, the sky suddenly turned black — a huge storm arrived. The river swelled up high. The waterfall, which Bujji had admired before, was now roaring terribly. As water crashed loudly on big rocks... the forest creatures trembled. 'No one can stand this roar!' Bujji trembled with fear. Seeing the waterfall's destruction, it hid behind a large smooth river rock, pressing its body against it."
+    },
+    {
+      "id": 4,
+      "text": "జలపాతం హోరుకు, నదిలో అలలకు బుజ్జి శరీరం అదురుతోంది. ఆ భయంకరమైన అలలు తనను ఎక్కడ కొట్టుకుపోతాయో అని బుజ్జికి చాలా భయం వేసింది. ఆ క్షణంలో... బుజ్జికి ఆ ప్రశాంతమైన లోతైన సరస్సు గుర్తుకొచ్చింది. 'అక్కడే ప్రశాంతంగా ఉంటుంది అనుకుంటాను' అని అనుకుంటూ, బుజ్జి ఆ తుఫాను ప్రవాహానికి ఎదురీదాడు. అతని గుండె వేగంగా కొట్టుకుంది — బతుకుతాడా లేదా? తన చిన్న రెక్కలతో ఆ చల్లటి ప్రవాహాన్ని దాటుకుంటూ, సరస్సు వైపు వెళ్ళాడు.",
+      "image_prompt": "The small fish struggles to swim against the cold, stormy current. Its small fins beat rapidly as its body shakes from the powerful waves. Dim, murky light under the storm, with the lake's surface appearing a dark, inviting calm amidst the surrounding chaos and rain.",
+      "scene_visual": "The small fish struggles to swim against the cold, stormy current. Its small fins beat rapidly as its body shakes from the powerful waves.",
+      "supporting_char_keys": [],
+      "text_te_en": "Jalapaatam Horuku, Nadilo Alalaku Bujji Shariram Adurutondi. Aa Bhayankaramaina Alalu Tananu Ekkada Kottukupotaayo Ani Bujjiki Chaalaa Bhayam Vesindi. Aa Kshananlo... Bujjiki Aa Prashaantamaina Lotaina Sarassu Gurtukochchindi. 'Akkade Prashaantangaa Untundi Anukuntaanu' Ani Anukuntu, Bujji Aa Tuphaanu Pravaahaaniki Eduridaadu. Atani Gunde Vegangaa Kottukundi — Batukutaadaa Ledaa? Tana Chinna Rekkalato Aa Challati Pravaahaanni Daatukuntu, Sarassu Vaipu Vellaadu.",
+      "text_en": "Bujji's body was shaking from the waterfall's roar and the river's waves. Bujji was very scared that those terrible waves might sweep it away. At that moment... Bujji remembered the peaceful deep lake. Thinking, 'I think it will be peaceful there,' Bujji swam against the stormy current. Its heart beat fast — would it survive or not? With its small fins, it crossed that cold current and went towards the lake."
+    },
+    {
+      "id": 5,
+      "text": "ఎట్టకేలకు, బుజ్జి ఆ లోతైన సరస్సు చేరుకున్నాడు. బయట తుఫాను హోరు... కానీ లోపల — ప్రశాంతంగా ఉంది. సరస్సు లోపల నీళ్లు నిశ్శబ్దంగా ఉన్నాయి, బయటి అల్లరి ఏమాత్రం ఇక్కడికి చేరలేదు. 'ఇక్కడ ఎంత ప్రశాంతంగా ఉందో!' అని బుజ్జి శరీరం ఒక్కసారిగా తేలికపడింది. సరస్సు లోతుల్లోకి వెళ్ళి చూస్తే, ఎన్నో చిన్న చిన్న జీవులు, చేపలు కూడా అక్కడే తలదాచుకొని ప్రశాంతంగా ఉన్నాయి. బుజ్జి శరీరం అదురు ఆగిపోయింది — భయం తగ్గి ప్రశాంతంగా చూశాడు.",
+      "image_prompt": "The small fish floats peacefully in the deep lake, its body feeling light. Its trembling has stopped, and its expression shows calm as it observes other small creatures sheltering there. Soft, filtered light through the deep water, creating a serene, blue-green glow that feels protected and tranquil.",
+      "scene_visual": "The small fish floats peacefully in the deep lake, its body feeling light. Its trembling has stopped, and its expression shows calm as it observes other small creatures sheltering there.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ettakelaku, Bujji Aa Lotaina Sarassu Cherukunnaadu. Bayata Tuphaanu Horu... Kaani Lopala — Prashaantangaa Undi. Sarassu Lopala Nillu Nishshabdangaa Unnaayi, Bayati Allari Emaatram Ikkadiki Cheraledu. 'Ikkada Enta Prashaantangaa Undo!' Ani Bujji Shariram Okkasaarigaa Telikapadindi. Sarassu Lotulloki Velli Chuste, Enno Chinna Chinna Jivulu, Chepalu Kudaa Akkade Taladaachukoni Prashaantangaa Unnaayi. Bujji Shariram Aduru Aagipoyindi — Bhayam Taggi Prashaantangaa Chushaadu.",
+      "text_en": "Finally, Bujji reached the deep lake. Outside, the storm roared... but inside — it was peaceful. Inside the lake, the water was silent; none of the outside noise reached here. 'How peaceful it is here!' Bujji's body suddenly felt light. Going deeper into the lake, it saw many small creatures and fish also taking shelter there peacefully. Bujji's trembling stopped — its fear lessened, and it looked around peacefully."
+    },
+    {
+      "id": 6,
+      "text": "బుజ్జి సరస్సు అడుగున ఉన్న మెత్తని బురద మీద కూర్చుని, చుట్టూ ఉన్న ప్రశాంతతను గమనించాడు. ఆ సరస్సు నిశ్శబ్దంగా, లోతుగా ఉండి, అన్ని జీవులకు సురక్షితమైన ఆశ్రయాన్ని ఇస్తోంది. బయట జలపాతం గర్జిస్తున్నా, సరస్సు మాత్రం చెక్కుచెదరలేదు. 'నిజమైన బలం నిశ్శబ్దంలోనే ఉంటుంది' అని బుజ్జి మనసులో అనుకున్నాడు. ఆ లోతైన నిశ్శబ్దం... ఒక గొప్ప పాఠం నేర్పింది. జలపాతం కేవలం ధ్వని, శక్తిని చూపింది, కానీ సరస్సు నిజమైన స్థిరత్వాన్ని ఇచ్చింది.",
+      "image_prompt": "The small fish sits on the soft mud at the bottom of the lake. It calmly observes the deep silence and stillness around it, providing a safe haven for all creatures. The storm begins to break, with faint sunlight piercing through the clouds and illuminating the lake's clear, steady water from above.",
+      "scene_visual": "The small fish sits on the soft mud at the bottom of the lake. It calmly observes the deep silence and stillness around it, providing a safe haven for all creatures.",
+      "supporting_char_keys": [],
+      "text_te_en": "Bujji Sarassu Aduguna Unna Mettani Burada Mida Kurchuni, Chuttu Unna Prashaantatanu Gamaninchaadu. Aa Sarassu Nishshabdangaa, Lotugaa Undi, Anni Jivulaku Surakshitamaina Aashrayaanni Istondi. Bayata Jalapaatam Garjistunnaa, Sarassu Maatram Chekkuchedaraledu. 'Nijamaina Balam Nishshabdanlone Untundi' Ani Bujji Manasulo Anukunnaadu. Aa Lotaina Nishshabdan... Oka Goppa Paatham Nerpindi. Jalapaatam Kevalam Dhvani, Shaktini Chupindi, Kaani Sarassu Nijamaina Sthiratvaanni Ichchindi.",
+      "text_en": "Bujji sat on the soft mud at the bottom of the lake and observed the peace all around. The lake, silent and deep, was providing a safe home for all creatures. Even though the waterfall roared outside, the lake remained undisturbed. 'True strength lies in silence,' Bujji thought to itself. That deep silence... taught a great lesson. The waterfall only showed noise and power, but the lake gave true steadiness."
+    },
+    {
+      "id": 7,
+      "text": "తుఫాను తగ్గాక, జలపాతం మళ్ళీ తన సాధారణ స్థితికి వచ్చింది. బుజ్జి అప్పుడప్పుడు జలపాతం అందాన్ని చూసేవాడు, కానీ ఎక్కువ సమయం సరస్సులోనే గడిపేవాడు. ఆ సరస్సు లోతైన ప్రశాంతత, దాని నిశ్శబ్ద శక్తిని బుజ్జి అర్థం చేసుకున్నాడు. 'ప్రతి సందడి వెనుక ఒక లోతైన ప్రశాంతత ఉంటుంది' అని బుజ్జి గంభీరంగా ఆలోచించాడు. అప్పటి నుండి బుజ్జి చేప... లోతైన జ్ఞానంతో జీవించాడు. తన తోకను ఊపుతూ, తన కొత్త తెలివితో ఆ నదిలో సంతోషంగా ఈదాడు.",
+      "image_prompt": "The small fish swims happily in the river, occasionally glancing at the now calm waterfall. It wags its tail with contentment, embodying a newfound wisdom and understanding of the deep lake's power. Gentle morning sun, warm and clear, casting long, soft shadows, highlighting the refreshed and vibrant landscape.",
+      "scene_visual": "The small fish swims happily in the river, occasionally glancing at the now calm waterfall. It wags its tail with contentment, embodying a newfound wisdom and understanding of the deep lake's power.",
+      "supporting_char_keys": [],
+      "text_te_en": "Tuphaanu Taggaaka, Jalapaatam Malli Tana Saadhaarana Sthitiki Vachchindi. Bujji Appudappudu Jalapaatam Andaanni Chusevaadu, Kaani Ekkuva Samayam Sarassulone Gadipevaadu. Aa Sarassu Lotaina Prashaantata, Daani Nishshabda Shaktini Bujji Artham Chesukunnaadu. 'Prati Sandadi Venuka Oka Lotaina Prashaantata Untundi' Ani Bujji Gambhirangaa Aalochinchaadu. Appati Nundi Bujji Chepa... Lotaina Jnyaananto Jivinchaadu. Tana Tokanu Uputu, Tana Kotta Telivito Aa Nadilo Santoshangaa Idaadu.",
+      "text_en": "After the storm calmed down, the waterfall returned to its normal state. Bujji would sometimes look at the beauty of the waterfall, but spent most of its time in the lake. Bujji understood the deep peace of the lake and its silent strength. 'Behind every lively thing, there is a deep peace,' Bujji thought deeply. From then on, Bujji the fish... lived with deep wisdom. Wagging its tail, it swam happily in the river with its new understanding."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.166666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 7,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 6,
+    "child_engagement": 8,
+    "average": 7.17,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story delivers a clear and valuable moral through a well-structured narrative, supported by excellent grammar and a generally warm, engaging tone. However, the complete absence of interactive dialogue between characters is a significant drawback, making the story feel like a series of internal monologues rather than a rich, dynamic experience. To achieve a 9+, the moral should emerge organically from the events rather than being explicitly stated, and the introduction of natural, character-specific dialogue would dramatically enhance emotional depth and overall child engagement."
+  },
+  "quality_warning": true,
+  "title_te_en": "Sandadi, Lotaina Prashaantata",
+  "moral_te_en": "Chudataaniki Aakarshaniyangaa Kanipinche Vishayaallo Kannaa, Lotaina Nishshabdanlone Nijamaina Balan, Jnyaanam Daagi Untaayammaa.",
+  "title_en": "Bustle and Deep Calm",
+  "moral_en": "True strength and wisdom are found in deep quietness, not in things that just look exciting.",
+  "id": "20260615_131043",
+  "date": "2026-06-15",
+  "category": "neeti",
+  "subcategory": "wisdom_tales",
+  "topic": "సందడి చేసే జలపాతం మరియు ప్రశాంతమైన లోతైన సరస్సు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260615_131043/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
