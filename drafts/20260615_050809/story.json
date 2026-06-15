@@ -1,0 +1,109 @@
+{
+  "title": "తేజస్సు వెదజల్లే పువ్వు",
+  "moral": "చిన్నారి ధైర్యం, స్వచ్ఛమైన మనసు ఎప్పుడూ పెద్ద అద్భుతాలను సృష్టిస్తాయి.",
+  "main_character": "Lakshmi is a curious and kind 8-year-old village girl. She is small and nimble with bright, curious eyes, always wearing a simple, hand-stitched blue frock. She loves nature and listening to elders' stories. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, vibrant village in rural Andhra Pradesh, nestled near a dense forest. The village features mud houses with thatched roofs, a grand banyan tree in its center, and fields of green paddy irrigated by a small, winding stream. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "లక్ష్మి పొద్దున్నే అడవి అంచున అడుగులు వేస్తూ, అమ్మమ్మ నేర్పిన పాటను మెల్లగా పాడుకుంటూ, తను సేకరిస్తున్న మూలికల అందంలో లీనమైపోయింది. ఉదయం కురిసిన చిరుజల్లు తర్వాత, తడి మట్టి సువాసన ఆమె మనసును మరింత ఆహ్లాదపరుస్తోంది. ఆమె చిన్నారి చేతులు మెల్లగా ఆకులను తాకుతూ ముందుకు సాగాయి. \"ఈ పువ్వులు ఎంత అందంగా ఉన్నాయో!\" అని తనలో తనే మురిసిపోయింది. ఒక ప్రత్యేకమైన, ప్రకాశవంతమైన మూలిక కోసం వంగగానే — అడవి లోపల ఒక మసక మెరుపు కనిపించింది. అది — ఒక మెరుపులా మెరిసింది. ఆమె కళ్ళు ఆ మెరుపు వెనుకకు వెళ్ళాయి.",
+      "image_prompt": "The girl bends down to pick a herb, and her eyes are drawn to a sudden, faint flash of light deep within the forest. Her gaze follows the mysterious, lightning-like shimmer that briefly illuminates the dark woods. Soft morning sunlight dappling through the forest canopy, creating patches of warm gold and cool green shadows, peaceful and inviting.",
+      "scene_visual": "The girl bends down to pick a herb, and her eyes are drawn to a sudden, faint flash of light deep within the forest. Her gaze follows the mysterious, lightning-like shimmer that briefly illuminates the dark woods.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lakshmi Poddunne Adavi Anchuna Adugulu Vestu, Ammamma Nerpina Paatanu Mellagaa Paadukuntu, Tanu Sekaristunna Mulikala Andanlo Linamaipoyindi. Udayam Kurisina Chirujallu Tarvaata, Tadi Matti Suvaasana Aame Manasunu Marinta Aahlaadaparustondi. Aame Chinnaari Chetulu Mellagaa Aakulanu Taakutu Munduku Saagaayi. \"I Puvvulu Enta Andangaa Unnaayo!\" Ani Tanalo Tane Murisipoyindi. Oka Pratyekamaina, Prakaashavantamaina Mulika Kosam Vangagaane — Adavi Lopala Oka Masaka Merupu Kanipinchindi. Adi — Oka Merupulaa Merisindi. Aame Kallu Aa Merupu Venukaku Vellaayi.",
+      "text_en": "Early in the morning, Lakshmi walked along the edge of the forest, softly singing the song her Ammama had taught her. She was completely lost in the beauty of the herbs she was collecting. After the morning's light drizzle, the scent of wet earth made her feel even happier. Her small hands gently touched the leaves as she moved forward. \"How beautiful these flowers are!\" she thought to herself, feeling delighted. As she bent down for a special, bright herb — a faint sparkle appeared deep inside the forest. It — shone like a flash. Her eyes followed that sparkle."
+    },
+    {
+      "id": 2,
+      "text": "ఇంటికి రాగానే, పెంకుటింట్లో వంటకుండ నుండి వస్తున్న పప్పుచారు కమ్మటి వాసనతో నిండిన వాతావరణంలో, లక్ష్మి అమ్మమ్మ ఒడిలో ఒదిగిపోయింది. \"అమ్మమ్మా, అడవిలో ఒక మెరుపు చూశాను, అది ఎంత వింతగా ఉందంటే!\" అని ఉత్సాహంగా చెప్పింది. అమ్మమ్మ నవ్వి, ఆమె తల నిమిరింది. \"అది తేజస్విని పుష్పం అయి ఉంటుంది, బిడ్డా. ఆ తేజస్విని పుష్పం, బిడ్డా, స్వచ్ఛమైన హృదయాలకు మాత్రమే కనిపిస్తుంది.\" ఆమె గొంతులో ఒక మాయా లోకం ప్రతిధ్వనించింది. ఆ పుష్పం — స్వచ్ఛమైన మనసును పరీక్షిస్తుంది. దానిని ఒక చీకటి నీడ కాపలా కాస్తుందని, అది కోరేవారి హృదయాలను పరీక్షకు గురిచేస్తుందని అమ్మమ్మ కథ ముగించింది.",
+      "image_prompt": "The girl snuggles into the old woman's lap, excitedly recounting her experience in the forest. The old woman smiles warmly, gently stroking the girl's head as she listens. Warm afternoon light filtering through the open doorway of the mud hut, casting long, soft shadows, creating an intimate and cozy storytelling atmosphere.",
+      "scene_visual": "The girl snuggles into the old woman's lap, excitedly recounting her experience in the forest. The old woman smiles warmly, gently stroking the girl's head as she listens.",
+      "supporting_char_keys": [
+        "ammaamma"
+      ],
+      "text_te_en": "Intiki Raagaane, Penkutintlo Vantakunda Nundi Vastunna Pappuchaaru Kammati Vaasanato Nindina Vaataavarananlo, Lakshmi Ammamma Odilo Odigipoyindi. \"Ammammaa, Adavilo Oka Merupu Chushaanu, Adi Enta Vintagaa Undante!\" Ani Utsaahangaa Cheppindi. Ammamma Navvi, Aame Tala Nimirindi. \"Adi Tejasvini Pushpam Ayi Untundi, Biddaa. Aa Tejasvini Pushpan, Biddaa, Svachchamaina Hrridayaalaku Maatrame Kanipistundi.\" Aame Gontulo Oka Maayaa Lokam Pratidhvaninchindi. Aa Pushpam — Svachchamaina Manasunu Parikshistundi. Daanini Oka Chikati Nida Kaapalaa Kaastundani, Adi Korevaari Hrridayaalanu Parikshaku Gurichestundani Ammamma Katha Muginchindi.",
+      "text_en": "As soon as she came home, Lakshmi snuggled into Ammama's lap. The air in their tiled house was filled with the delicious smell of lentil stew cooking. \"Ammama, I saw a sparkle in the forest, it was so strange!\" she said excitedly. Ammama smiled and stroked her head. \"That must be the Tejaswini flower, child. That Tejaswini flower, child, only appears to pure hearts.\" A magical world seemed to echo in Ammama's voice. That flower — tests a pure heart. Ammama finished the story by saying that a dark shadow guards it, and it tests the hearts of those who seek it."
+    },
+    {
+      "id": 3,
+      "text": "కొన్ని రోజులకే గ్రామాన్ని ఒక భయంకరమైన కరువు కమ్మేసింది. పొలాలు పచ్చదనం కోల్పోయి, బీటలు వారిన నేల పాదాల కింద కిర్రుమంటూ శబ్దం చేసింది. లక్ష్మి తన చేతిలోని ఎండిన మొక్కను గట్టిగా పట్టుకుంది — ఆమె పెదవులు కరుచుకుంది. \"అయ్యో! మన పొలాలు ఎండిపోతున్నాయి, మనం ఏం చేయాలి?\" అని తనలో తనే బాధపడింది. గ్రామస్తుల కళ్ళలో నిస్సహాయత స్పష్టంగా కనిపించింది. పొలాలు — పగిలిపోయాయి. తన అమ్మ ఆ బీడు భూముల్లో నిస్సత్తువగా నిలబడి ఉండటం చూసి, లక్ష్మి మనసులో ఒక ధైర్యం, ఒక ఆలోచన మెరిసింది.",
+      "image_prompt": "The girl stands amidst the parched, cracked fields, tightly clutching a withered plant in her hand. Her lips are pressed together in distress, reflecting the helplessness visible in the villagers' eyes. Harsh, bright midday sun beating down on the dusty village, casting sharp shadows and emphasizing the dryness and desolation.",
+      "scene_visual": "The girl stands amidst the parched, cracked fields, tightly clutching a withered plant in her hand. Her lips are pressed together in distress, reflecting the helplessness visible in the villagers' eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Konni Rojulake Graamaanni Oka Bhayankaramaina Karuvu Kammesindi. Polaalu Pachchadanam Kolpoyi, Bitalu Vaarina Nela Paadaala Kinda Kirrumantu Shabdam Chesindi. Lakshmi Tana Chetiloni Endina Mokkanu Gattigaa Pattukundi — Aame Pedavulu Karuchukundi. \"Ayyo! Mana Polaalu Endipotunnaayi, Manam Em Cheyaali?\" Ani Tanalo Tane Baadhapadindi. Graamastula Kallalo Nissahaayata Spashtangaa Kanipinchindi. Polaalu — Pagilipoyaayi. Tana Amma Aa Bidu Bhumullo Nissattuvagaa Nilabadi Undatam Chusi, Lakshmi Manasulo Oka Dhairyan, Oka Aalochana Merisindi.",
+      "text_en": "In just a few days, a terrible drought covered the village. The fields lost their greenness, and the cracked earth crunched underfoot. Lakshmi held tightly to a dried plant in her hand — she bit her lips. \"Oh no! Our fields are drying up, what should we do?\" she worried to herself. Helplessness was clearly visible in the villagers' eyes. The fields — were cracked. Seeing her mother standing weakly in those barren lands, a courage, an idea, sparked in Lakshmi's mind."
+    },
+    {
+      "id": 4,
+      "text": "ఒక చీకటి రాత్రి, లక్ష్మి ఎవరికీ చెప్పకుండా రహస్యంగా అడవిలోకి అడుగుపెట్టింది. ముళ్ళ పొదలను నెట్టుకుంటూ ముందుకు సాగింది — ఆమె గుండె దడదడలాడింది. ఆమె పాదాల కింద ఎండిన ఆకులు కిర్రుమంటూ శబ్దం చేశాయి. \"నేను వెతుకుతూనే ఉంటాను, ఎంత కష్టమైనా!\" అని తనలో తనే ధైర్యం చెప్పుకుంది. గంటల తరబడి వెతికినా ఆ మాయా పుష్పం జాడ దొరకలేదు. అలసిపోయి, నిరాశతో ఆగిపోబోతుండగా... అది — ఒక మధురమైన పాట. అడవి లోపలి నుండి ఒక అద్భుతమైన రాగం ఆమె చెవుల్లో పడింది.",
+      "image_prompt": "Under the cover of night, the girl pushes through thorny bushes, her body weary from hours of searching in the dark forest. Her eyes are wide with a mix of determination and growing despair as she listens to the crunch of dry leaves underfoot. Deep afternoon shadows lengthening in the forest, dappled light becoming scarce, creating a sense of mystery and slight foreboding.",
+      "scene_visual": "Under the cover of night, the girl pushes through thorny bushes, her body weary from hours of searching in the dark forest. Her eyes are wide with a mix of determination and growing despair as she listens to the crunch of dry leaves underfoot.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Chikati Raatri, Lakshmi Evariki Cheppakundaa Rahasyangaa Adaviloki Adugupettindi. Mulla Podalanu Nettukuntu Munduku Saagindi — Aame Gunde Dadadadalaadindi. Aame Paadaala Kinda Endina Aakulu Kirrumantu Shabdam Cheshaayi. \"Nenu Vetukutune Untaanu, Enta Kashtamainaa!\" Ani Tanalo Tane Dhairyam Cheppukundi. Gantala Tarabadi Vetikinaa Aa Maayaa Pushpam Jaada Dorakaledu. Alasipoyi, Niraashato Aagipobotundagaa... Adi — Oka Madhuramaina Paata. Adavi Lopali Nundi Oka Adbhutamaina Raagam Aame Chevullo Padindi.",
+      "text_en": "One dark night, Lakshmi secretly entered the forest without telling anyone. She pushed through thorny bushes — her heart pounded. Dried leaves crunched under her feet. \"I will keep searching, no matter how hard it is!\" she encouraged herself. After searching for hours, there was no sign of the magical flower. Just as she was about to stop, tired and disappointed... it — was a sweet song. A wonderful melody reached her ears from deep within the forest."
+    },
+    {
+      "id": 5,
+      "text": "ఆ మధురమైన రాగాన్ని అనుసరించి లక్ష్మి ముందుకు నడిచింది. అక్కడ — ఒక వింతైన, మెరిసే మర్రిచెట్టు కనిపించింది. ఆ చెట్టు నుండి వచ్చే మెరుపులు, మిణుగురు పురుగుల కాంతుల వలే, చుట్టూ ఉన్న చీకటిని మెల్లగా ప్రకాశింపజేశాయి. చెట్టు మొదట్లో ఒక చిన్న, నీడలాంటి ప్రాణి కనిపించింది. లక్ష్మి నిశ్శబ్దంగా నిలబడింది, ఆమె శ్వాస ఆగిపోయినంత పని అయ్యింది. \"నువ్వు ఆకలిగా ఉన్నావా? ఇది తీసుకో,\" అని తన దగ్గర ఉన్న అడవి పండును మెల్లగా అందించింది. ఆ ప్రాణి ఆ పండును అమాంతం లాక్కుని — మాయమైపోయింది. అది వెళ్ళిపోయిన చోట, నేల మీద ఒక సాధారణమైన విత్తనం మిగిలింది.",
+      "image_prompt": "The girl stands silently before a strange, glowing banyan tree, extending a wild fruit towards a small, shadow-like creature at its base. Her breath is held in awe as the creature snatches the fruit and instantly vanishes, leaving only a simple seed on the ground. Twilight deepening in the forest, with the gnarled tree emitting a soft, otherworldly phosphorescence, making the shadows dance and deepen around it, magical and mysterious.",
+      "scene_visual": "The girl stands silently before a strange, glowing banyan tree, extending a wild fruit towards a small, shadow-like creature at its base. Her breath is held in awe as the creature snatches the fruit and instantly vanishes, leaving only a simple seed on the ground.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Madhuramaina Raagaanni Anusarinchi Lakshmi Munduku Nadichindi. Akkada — Oka Vintaina, Merise Marrichettu Kanipinchindi. Aa Chettu Nundi Vachche Merupulu, Minuguru Purugula Kaantula Vale, Chuttu Unna Chikatini Mellagaa Prakaashimpajeshaayi. Chettu Modatlo Oka Chinna, Nidalaanti Praani Kanipinchindi. Lakshmi Nishshabdangaa Nilabadindi, Aame Shvaasa Aagipoyinanta Pani Ayyindi. \"Nuvvu Aakaligaa Unnaavaa? Idi Tisuko,\" Ani Tana Daggara Unna Adavi Pandunu Mellagaa Andinchindi. Aa Praani Aa Pandunu Amaantam Laakkuni — Maayamaipoyindi. Adi Vellipoyina Chota, Nela Mida Oka Saadhaaranamaina Vittanam Migilindi.",
+      "text_en": "Following that sweet melody, Lakshmi walked forward. There — she saw a strange, glowing banyan tree. The sparkles coming from the tree, like the light of fireflies, gently lit up the darkness around it. At the base of the tree, a small, shadow-like creature appeared. Lakshmi stood silently, her breath almost stopped. \"Are you hungry? Take this,\" she said, gently offering a wild fruit she had. The creature snatched the fruit — and disappeared. Where it had been, a simple seed remained on the ground."
+    },
+    {
+      "id": 6,
+      "text": "నిరాశగా ఇంటికి చేరుకున్న లక్ష్మి, ఆ సాధారణ విత్తనాన్ని అమ్మమ్మకు చూపించింది. ఆమె ముఖం కొంచెం వాడిపోయింది — \"ఇదా ఆ మాయా పుష్పం?\" అన్నట్టు చూసింది. అమ్మమ్మ విత్తనాన్ని చేతిలోకి తీసుకుంది, దాని చల్లటి, నునుపైన స్పర్శను అనుభవించింది. ఆమె కళ్ళలో ఒక మెరుపు, పెదవుల మీద చిరునవ్వు. \"ప్రేమతో నాటు, బిడ్డా, అప్పుడు మాయాజాలం జరుగుతుంది,\" అని చెప్పింది. లక్ష్మి ఆ విత్తనాన్ని తన ఇంటి ముందు జాగ్రత్తగా నాటింది. తెల్లారి లేచి చూస్తే — అక్కడ ఒక అద్భుతమైన తేజస్విని పుష్పం వికసించింది. అది — తేజస్విని పుష్పం. ఆ పువ్వు నుండి వెచ్చని, మెరిసే కాంతి లక్ష్మి ఇంటిని నింపేసింది.",
+      "image_prompt": "The girl wakes up to find a magnificent, glowing flower blooming exactly where she planted the seed in front of her house. A warm, shimmering light emanates from the flower, filling the entire house with its radiant glow. The interior of Lakshmi's hut bathed in a soft, ethereal golden glow emanating from the newly bloomed Teja-Pushpam, contrasting with the dark night outside, breathtaking and miraculous.",
+      "scene_visual": "The girl wakes up to find a magnificent, glowing flower blooming exactly where she planted the seed in front of her house. A warm, shimmering light emanates from the flower, filling the entire house with its radiant glow.",
+      "supporting_char_keys": [
+        "ammaamma"
+      ],
+      "text_te_en": "Niraashagaa Intiki Cherukunna Lakshmi, Aa Saadhaarana Vittanaanni Ammammaku Chupinchindi. Aame Mukham Konchem Vaadipoyindi — \"Idaa Aa Maayaa Pushpan?\" Annattu Chusindi. Ammamma Vittanaanni Chetiloki Tisukundi, Daani Challati, Nunupaina Sparshanu Anubhavinchindi. Aame Kallalo Oka Merupu, Pedavula Mida Chirunavvu. \"Premato Naatu, Biddaa, Appudu Maayaajaalam Jarugutundi,\" Ani Cheppindi. Lakshmi Aa Vittanaanni Tana Inti Mundu Jaagrattagaa Naatindi. Tellaari Lechi Chuste — Akkada Oka Adbhutamaina Tejasvini Pushpam Vikasinchindi. Adi — Tejasvini Pushpan. Aa Puvvu Nundi Vechchani, Merise Kaanti Lakshmi Intini Nimpesindi.",
+      "text_en": "Lakshmi returned home disappointed and showed the simple seed to Ammama. Her face fell a little — she looked as if to say, \"Is this the magical flower?\" Ammama took the seed in her hand, feeling its cool, smooth touch. A sparkle appeared in her eyes, and a smile on her lips. \"Plant it with love, child, then magic will happen,\" she said. Lakshmi carefully planted the seed in front of her house. When she woke up the next morning — a wonderful Tejaswini flower had bloomed there. It — was the Tejaswini flower. Warm, glowing light from the flower filled Lakshmi's home."
+    },
+    {
+      "id": 7,
+      "text": "ఆ తేజస్విని పుష్పం నుండి వెలువడిన మాయాశక్తి గ్రామాన్ని చుట్టేసింది. ఆకాశంలో మేఘాలు కమ్ముకున్నాయి — పెంకుటిళ్ళ మీద చినుకులు తాళం వేసినట్లు శబ్దం చేశాయి. లక్ష్మి కళ్ళల్లో ఆనంద భాష్పాలు, పెదవుల మీద చిరునవ్వు. \"చూడు, అమ్మ! మన పొలాలు మళ్ళీ పచ్చగా మారాయి!\" అని సంతోషంగా కేక వేసింది. ఆ వర్షంతో భూమి దాహం తీరింది, బీటలు వారిన నేల పచ్చగా మారింది. గ్రామం — మళ్ళీ జీవం పోసుకుంది. లక్ష్మి స్వచ్ఛమైన మనసు, ధైర్యం అందరికీ సంతోషాన్ని, శ్రేయస్సును తీసుకొచ్చాయి.",
+      "image_prompt": "The girl stands with tears of joy in her eyes and a wide smile on her lips, looking out at the village. She points excitedly as rain falls, transforming the once cracked and barren fields into vibrant green landscapes. Bright, fresh morning sunlight after a night of rain, sparkling on wet leaves and green fields, a vibrant and hopeful atmosphere, full of life.",
+      "scene_visual": "The girl stands with tears of joy in her eyes and a wide smile on her lips, looking out at the village. She points excitedly as rain falls, transforming the once cracked and barren fields into vibrant green landscapes.",
+      "supporting_char_keys": [
+        "ammaamma"
+      ],
+      "text_te_en": "Aa Tejasvini Pushpam Nundi Veluvadina Maayaashakti Graamaanni Chuttesindi. Aakaashanlo Meghaalu Kammukunnaayi — Penkutilla Mida Chinukulu Taalam Vesinatlu Shabdam Cheshaayi. Lakshmi Kallallo Aananda Bhaashpaalu, Pedavula Mida Chirunavvu. \"Chudu, Amma! Mana Polaalu Malli Pachchagaa Maaraayi!\" Ani Santoshangaa Keka Vesindi. Aa Varshanto Bhumi Daaham Tirindi, Bitalu Vaarina Nela Pachchagaa Maarindi. Graamam — Malli Jivam Posukundi. Lakshmi Svachchamaina Manasu, Dhairyam Andariki Santoshaanni, Shreyassunu Tisukochchaayi.",
+      "text_en": "The magical power from the Tejaswini flower enveloped the village. Clouds gathered in the sky — raindrops sounded like a rhythm on the tiled roofs. Tears of joy filled Lakshmi's eyes, and a smile was on her lips. \"Look, Amma! Our fields are green again!\" she cried happily. The rain quenched the earth's thirst, and the cracked land turned green. The village — came back to life. Lakshmi's pure heart and courage brought happiness and prosperity to everyone."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "ammaamma",
+      "description": "An elderly village woman, with a gentle smile and hands gnarled from years of work. She wears a traditional white saree with a red border and has silver hair braided neatly. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Leda",
+  "quality_score": 9.166666666666666,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 8,
+    "dialogue_richness": 9,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.17,
+    "weakest_dimension": "emotional_depth",
+    "notes": "This story is a gem, showcasing excellent narrative structure, flawless colloquial Telugu, and a truly authentic grandmotherly voice. The tension builds beautifully, and the moral emerges organically from the protagonist's actions. To reach award-winning status, the primary focus should be on refining emotional expression, ensuring every feeling is *shown* through action or sensory detail rather than stated, making the child's journey even more visceral."
+  },
+  "title_te_en": "Tejassu Vedajalle Puvvu",
+  "moral_te_en": "Chinnaari Dhairyan, Svachchamaina Manasu Eppudu Pedda Adbhutaalanu Srrishtistaayi.",
+  "title_en": "The Radiant Flower",
+  "moral_en": "A child's courage and a pure heart always create big miracles.",
+  "id": "20260615_050809",
+  "date": "2026-06-15",
+  "category": "janapada",
+  "subcategory": "village_tales",
+  "topic": "జానపద కథలు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260615_050809/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
