@@ -1,0 +1,97 @@
+{
+  "title": "గొంగళిపురుగు అద్భుత ప్రయాణం",
+  "moral": "నిజమైన విలువ లోపల ఉంటుంది, ఎదుగుదల సహజం.",
+  "main_character": "A small, green caterpillar with many tiny legs and a perpetually curious expression. It moves slowly but deliberately, always observing its surroundings. Always the same character across every scene.",
+  "antagonist": "A large, vibrant butterfly with iridescent blue and orange wings, constantly preening and admiring its own beauty. It carries itself with an air of superiority, often looking down its delicate 'nose' at others. Always the same character across every scene.",
+  "setting": "A lush, vibrant garden in a small Telugu village, filled with jasmine, marigolds, and hibiscus. The air is warm and humid, bustling with the sounds of insects and birds. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "పచ్చని గొంగళిపురుగు ఒకటి మెల్లగా ఆకు మీద పాకుతూ, తన చిన్న నోటితో ఆకును కొరుకుతోంది. అది ఆకును కొరికేటప్పుడు — ఆకు మెత్తగా 'ష్ష్ష్' మని శబ్దం చేస్తోంది. \"ఆహా, ఈ ఆకు ఎంత రుచికరంగా ఉందో!\" అని అది తనలో తాను గొణుక్కుంది. దాని చిన్న కళ్ళు చుట్టూ ఉన్న అందమైన తోటని ఆసక్తిగా చూస్తున్నాయి. ఇంతలో, దూరం నుండి ఒక ప్రకాశవంతమైన వెలుగు దాని కళ్ళలో మెరిసింది.",
+      "image_prompt": "The caterpillar is slowly crawling on a leaf, its small eyes looking around the beautiful garden. A bright light from a distance suddenly twinkles in its small eyes. Bright morning sun filtering through green leaves, casting dappled light on the garden floor, feeling fresh and new.",
+      "scene_visual": "The caterpillar is slowly crawling on a leaf, its small eyes looking around the beautiful garden. A bright light from a distance suddenly twinkles in its small eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Pachchani Gongalipurugu Okati Mellagaa Aaku Mida Paakutu, Tana Chinna Notito Aakunu Korukutondi. Adi Aakunu Koriketappudu — Aaku Mettagaa 'Shshsh' Mani Shabdam Chestondi. \"Aahaa, I Aaku Enta Ruchikarangaa Undo!\" Ani Adi Tanalo Taanu Gonukkundi. Daani Chinna Kallu Chuttu Unna Andamaina Totani Aasaktigaa Chustunnaayi. Intalo, Duram Nundi Oka Prakaashavantamaina Velugu Daani Kallalo Merisindi.",
+      "text_en": "A green caterpillar slowly crawled on a leaf, nibbling it with its tiny mouth. As it munched on the leaf, the leaf made a soft 'shhh' sound. \"Oh, how delicious this leaf is!\" it mumbled to itself. Its small eyes looked around at the beautiful garden with interest. Just then, a bright light sparkled in its eyes from a distance."
+    },
+    {
+      "id": 2,
+      "text": "అంతలో, ఒక అద్భుతమైన సీతాకోకచిలుక రెక్కలు విప్పుతూ, ఆ ప్రకాశవంతమైన పువ్వు మీద వాలింది. దాని రెక్కలు ఇంద్రధనస్సు రంగులలో మెరుస్తున్నాయి. పువ్వు నుండి వస్తున్న తీయని సువాసన — చుట్టూ ఉన్న గాలిని నింపేస్తోంది. అది తన రెక్కలను నెమ్మదిగా విప్పుతూ, పువ్వుపై ఉన్న మంచు బిందువులో తన ప్రతిబింబాన్ని చూసుకుని మురిసింది. \"ఈ అద్భుతమైన పువ్వు నాదే, ఎందుకంటే నేను మాత్రమే దీనికి తగిన అందాన్ని కలిగి ఉన్నాను!\" అని అది గర్వంగా పలికింది. ఆ చిన్న గొంగళిపురుగు, వెలుగు వైపు మెల్లగా పాకుతూ, సీతాకోకచిలుక గర్వంగా చూస్తున్న చూపును పసిగట్టింది.",
+      "image_prompt": "A magnificent butterfly lands on a bright flower, slowly spreading its wings. It admires its reflection in a dewdrop on the flower, its rainbow-colored wings shimmering. Also in this scene: A large, vibrant butterfly with iridescent blue and orange wings, constantly preening and admiring its own beauty. It carries itself with an air of superiority, often looking down its delicate 'nose' at others. Always the same character across every scene. Mid-morning sun, slightly warmer, highlighting the vibrant colors of the butterfly and the flower with a soft, ethereal glow emanating from the flower itself.",
+      "scene_visual": "A magnificent butterfly lands on a bright flower, slowly spreading its wings. It admires its reflection in a dewdrop on the flower, its rainbow-colored wings shimmering.",
+      "supporting_char_keys": [],
+      "text_te_en": "Antalo, Oka Adbhutamaina Sitaakokachiluka Rekkalu Vipputu, Aa Prakaashavantamaina Puvvu Mida Vaalindi. Daani Rekkalu Indradhanassu Rangulalo Merustunnaayi. Puvvu Nundi Vastunna Tiyani Suvaasana — Chuttu Unna Gaalini Nimpestondi. Adi Tana Rekkalanu Nemmadigaa Vipputu, Puvvupai Unna Manchu Binduvulo Tana Pratibimbaanni Chusukuni Murisindi. \"I Adbhutamaina Puvvu Naade, Endukante Nenu Maatrame Diniki Tagina Andaanni Kaligi Unnaanu!\" Ani Adi Garvangaa Palikindi. Aa Chinna Gongalipurugu, Velugu Vaipu Mellagaa Paakutu, Sitaakokachiluka Garvangaa Chustunna Chupunu Pasigattindi.",
+      "text_en": "Just then, a magnificent butterfly spread its wings and landed on that bright flower. Its wings sparkled with rainbow colors. The sweet fragrance coming from the flower filled the air all around. It slowly spread its wings, admiring its reflection in a dewdrop on the flower. \"This amazing flower is mine, because only I have enough beauty for it!\" it said proudly. The little caterpillar, slowly crawling towards the light, noticed the butterfly's proud gaze."
+    },
+    {
+      "id": 3,
+      "text": "గొంగళిపురుగు పువ్వు దగ్గరకు చేరుతుండగా, సీతాకోకచిలుక దానిపై రెక్కలు వేగంగా కొట్టి — ఒక తీవ్రమైన గాలిని సృష్టించింది. \"నువ్వు అంత నెమ్మదిగా, మురికిగా ఉన్నావు, ఈ పువ్వు అందాన్ని నువ్వు అర్థం చేసుకోలేవు!\" అని అది విసురుగా అంది. గొంగళిపురుగు తల దించుకుంది, దాని యాంటెన్నాలు కొద్దిగా వంగిపోయాయి. కానీ ఆ క్షణంలో, పువ్వు చుట్టూ ఉన్న ఆకులను అది ఒక కొత్త చూపుతో చూసింది. దాని చిన్న కళ్ళలో ఏదో ఒక సంకల్పం మెరిసింది.",
+      "image_prompt": "The caterpillar lowers its head, its antennae slightly bent, as the butterfly rapidly flaps its wings creating a strong gust of wind. A spark of determination flickers in its small eyes as it looks at the leaves around the flower with a new gaze. Also in this scene: A large, vibrant butterfly with iridescent blue and orange wings, constantly preening and admiring its own beauty. It carries itself with an air of superiority, often looking down its delicate 'nose' at others. Always the same character across every scene. Bright, slightly harsh midday sun, casting sharp shadows, making the butterfly's colors pop but also emphasizing the caterpillar's vulnerability.",
+      "scene_visual": "The caterpillar lowers its head, its antennae slightly bent, as the butterfly rapidly flaps its wings creating a strong gust of wind. A spark of determination flickers in its small eyes as it looks at the leaves around the flower with a new gaze.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gongalipurugu Puvvu Daggaraku Cherutundagaa, Sitaakokachiluka Daanipai Rekkalu Vegangaa Kotti — Oka Tivramaina Gaalini Srrishtinchindi. \"Nuvvu Anta Nemmadigaa, Murikigaa Unnaavu, I Puvvu Andaanni Nuvvu Artham Chesukolevu!\" Ani Adi Visurugaa Andi. Gongalipurugu Tala Dinchukundi, Daani Yaantennaalu Koddigaa Vangipoyaayi. Kaani Aa Kshananlo, Puvvu Chuttu Unna Aakulanu Adi Oka Kotta Chuputo Chusindi. Daani Chinna Kallalo Edo Oka Sankalpam Merisindi.",
+      "text_en": "As the caterpillar approached the flower, the butterfly flapped its wings quickly, creating a strong gust of wind. \"You are so slow and dirty, you can't understand the beauty of this flower!\" it snapped. The caterpillar lowered its head, its antennae drooping slightly. But in that moment, it looked at the leaves around the flower with a new gaze. A spark of determination shone in its tiny eyes."
+    },
+    {
+      "id": 4,
+      "text": "సీతాకోకచిలుక వెక్కిరింతలను పట్టించుకోకుండా, గొంగళిపురుగు ఆ పువ్వు దగ్గరలోని కొమ్మపైకి ఎక్కింది. అది తన చిన్న నోటితో మెల్లగా దారం తీయడం మొదలుపెట్టింది — పట్టు దారం 'సన్నగా' శబ్దం చేస్తూ దాని చుట్టూ అల్లింది. \"నా పని నేను చేసుకుంటాను, నా కలను నెరవేర్చుకుంటాను,\" అని అది తనలో తాను అనుకుంటూ, నిమగ్నమై పనిచేసింది. నెమ్మదిగా, కానీ దృఢంగా, అది తన చుట్టూ ఒక రక్షణ కవచాన్ని అల్లుకుంది. ఆ అద్భుతమైన పువ్వు పక్కనే, ఒక చిన్నటి గోధుమ రంగు గూడు నిశ్శబ్దంగా వేలాడింది. సీతాకోకచిలుక ఇంకా గర్వంగా ఎగురుతూనే ఉంది.",
+      "image_prompt": "The caterpillar climbs onto a branch near the flower and begins to spin a silken thread from its small mouth. The fine silk thread wraps around it, slowly forming a protective brown cocoon that hangs silently beside the magnificent flower. Also in this scene: A large, vibrant butterfly with iridescent blue and orange wings, constantly preening and admiring its own beauty. It carries itself with an air of superiority, often looking down its delicate 'nose' at others. Always the same character across every scene. Late afternoon light, warm and golden, casting long shadows, symbolizing the passage of time and quiet introspection.",
+      "scene_visual": "The caterpillar climbs onto a branch near the flower and begins to spin a silken thread from its small mouth. The fine silk thread wraps around it, slowly forming a protective brown cocoon that hangs silently beside the magnificent flower.",
+      "supporting_char_keys": [],
+      "text_te_en": "Sitaakokachiluka Vekkirintalanu Pattinchukokundaa, Gongalipurugu Aa Puvvu Daggaraloni Kommapaiki Ekkindi. Adi Tana Chinna Notito Mellagaa Daaram Tiyadam Modalupettindi — Pattu Daaram 'Sannagaa' Shabdam Chestu Daani Chuttu Allindi. \"Naa Pani Nenu Chesukuntaanu, Naa Kalanu Neraverchukuntaanu,\" Ani Adi Tanalo Taanu Anukuntu, Nimagnamai Panichesindi. Nemmadigaa, Kaani Drridhangaa, Adi Tana Chuttu Oka Rakshana Kavachaanni Allukundi. Aa Adbhutamaina Puvvu Pakkane, Oka Chinnati Godhuma Rangu Gudu Nishshabdangaa Velaadindi. Sitaakokachiluka Inkaa Garvangaa Egurutune Undi.",
+      "text_en": "Ignoring the butterfly's taunts, the caterpillar climbed onto a branch near the flower. It began to spin a thread with its tiny mouth—the silk thread made a 'soft' sound as it wove around it. \"I will do my work, I will fulfill my dream,\" it thought to itself, working diligently. Slowly, but surely, it wove a protective chrysalis around itself. Next to the amazing flower, a small brown chrysalis hung silently. The butterfly continued to fly proudly."
+    },
+    {
+      "id": 5,
+      "text": "రోజులు వారాలుగా మారాయి; ఆ గోధుమ రంగు గూడు నిశ్చలంగా వేలాడుతూ ఉంది. సాయంత్రం వేళల్లో — మిణుగురు పురుగులు 'జిర్ర్ర్' మని శబ్దం చేస్తూ, చీకట్లో తమ దారిని వెతుక్కుంటున్నాయి. సీతాకోకచిలుక మాత్రం అదే గర్వంతో, ఆ అద్భుతమైన పువ్వు పక్కన తన అందాన్ని చూసుకుంటూ గడిపింది. \"ఈ పువ్వు నాదే! నా అందం ఎప్పటికీ చెక్కుచెదరదు!\" అని అది తనలో తాను చెప్పుకుంది. లోపల, గూడులో ఒక అద్భుతమైన మార్పు జరుగుతోంది. ఒక రోజు ఉదయం... ఆ గూడుపై ఒక చిన్న పగులు కనిపించింది.",
+      "image_prompt": "The brown cocoon hangs motionless for days and weeks. One morning, a small crack becomes visible on its surface. Also in this scene: A large, vibrant butterfly with iridescent blue and orange wings, constantly preening and admiring its own beauty. It carries itself with an air of superiority, often looking down its delicate 'nose' at others. Always the same character across every scene. Soft, diffused light of a cloudy day, creating an atmosphere of quiet waiting, with the flower's glow providing the only consistent light source.",
+      "scene_visual": "The brown cocoon hangs motionless for days and weeks. One morning, a small crack becomes visible on its surface.",
+      "supporting_char_keys": [],
+      "text_te_en": "Rojulu Vaaraalugaa Maaraayi; Aa Godhuma Rangu Gudu Nishchalangaa Velaadutu Undi. Saayantram Velallo — Minuguru Purugulu 'Jirrr' Mani Shabdam Chestu, Chikatlo Tama Daarini Vetukkuntunnaayi. Sitaakokachiluka Maatram Ade Garvanto, Aa Adbhutamaina Puvvu Pakkana Tana Andaanni Chusukuntu Gadipindi. \"I Puvvu Naade! Naa Andam Eppatiki Chekkuchedaradu!\" Ani Adi Tanalo Taanu Cheppukundi. Lopala, Gudulo Oka Adbhutamaina Maarpu Jarugutondi. Oka Roju Udayan... Aa Gudupai Oka Chinna Pagulu Kanipinchindi.",
+      "text_en": "Days turned into weeks; the brown chrysalis hung still. In the evenings, fireflies buzzed 'zzzz' as they found their way in the dark. The butterfly, still with the same pride, spent its time admiring its beauty next to the amazing flower. \"This flower is mine! My beauty will never fade!\" it told itself. Inside, a wonderful change was happening within the chrysalis. One morning... a small crack appeared on the chrysalis."
+    },
+    {
+      "id": 6,
+      "text": "అకస్మాత్తుగా, ఆ చిన్న పగులు పెద్దదై, గూడు మొత్తం బద్దలైంది. లోపల నుండి — ఒక కొత్త సీతాకోకచిలుక నెమ్మదిగా బయటికి వచ్చింది. దాని రెక్కలు లేత పట్టులా 'మెత్తగా' మెరుస్తున్నాయి. అవి నెమ్మదిగా విచ్చుకుంటూ, రంగుల కాంతులతో నిండిపోయాయి. \"నేను ఇక్కడ ఉన్నాను... మరియు నేను అందంగా ఉన్నాను,\" అని అది వినయంగా కానీ దృఢంగా అంది. దాని చూపు పువ్వు వైపు తిరిగింది, ఆ క్షణంలోనే పువ్వు మరింత ప్రకాశవంతంగా మెరిసింది.",
+      "image_prompt": "The cocoon breaks open, and a new butterfly slowly emerges from inside. Its soft, shimmering wings, like delicate silk, slowly unfurl and fill with vibrant colors. Also in this scene: A large, vibrant butterfly with iridescent blue and orange wings, constantly preening and admiring its own beauty. It carries itself with an air of superiority, often looking down its delicate 'nose' at others. Always the same character across every scene. A moment of divine radiance, as if the sun itself shines directly on the emerging butterfly, creating an awe-inspiring golden-white glow around it.",
+      "scene_visual": "The cocoon breaks open, and a new butterfly slowly emerges from inside. Its soft, shimmering wings, like delicate silk, slowly unfurl and fill with vibrant colors.",
+      "supporting_char_keys": [],
+      "text_te_en": "Akasmaattugaa, Aa Chinna Pagulu Peddadai, Gudu Mottam Baddalaindi. Lopala Nundi — Oka Kotta Sitaakokachiluka Nemmadigaa Bayatiki Vachchindi. Daani Rekkalu Leta Pattulaa 'Mettagaa' Merustunnaayi. Avi Nemmadigaa Vichchukuntu, Rangula Kaantulato Nindipoyaayi. \"Nenu Ikkada Unnaanu... Mariyu Nenu Andangaa Unnaanu,\" Ani Adi Vinayangaa Kaani Drridhangaa Andi. Daani Chupu Puvvu Vaipu Tirigindi, Aa Kshananlone Puvvu Marinta Prakaashavantangaa Merisindi.",
+      "text_en": "Suddenly, the small crack grew larger, and the entire chrysalis broke open. From inside, a new butterfly slowly emerged. Its wings shimmered 'softly' like delicate silk. They slowly unfurled, filling with vibrant colors. \"I am here... and I am beautiful,\" it said humbly yet firmly. Its gaze turned towards the flower, and at that very moment, the flower shone even brighter."
+    },
+    {
+      "id": 7,
+      "text": "కొత్త సీతాకోకచిలుక తన రెక్కలను మెల్లగా కదిలిస్తూ, ఆ అద్భుతమైన పువ్వు వైపు వెళ్ళింది. దాని రాకతో, పువ్వు — మరింత ఉజ్వలంగా వెలిగి, తోటలోని మిగిలిన పువ్వుల సువాసనను గాలిలో నింపింది. అహంకార సీతాకోకచిలుక మౌనంగా చూస్తూ నిలబడింది, దాని రెక్కలు కొద్దిగా వంగిపోయాయి. \"ఎంత అద్భుతంగా ఉన్నావు!\" అని కొత్త సీతాకోకచిలుక పువ్వును చూసి మెల్లగా అంది. తోట మొత్తం శాంతితో, కొత్త కాంతితో నిండిపోయింది.",
+      "image_prompt": "The new butterfly gently moves its wings and approaches the magnificent flower. As it draws near, the flower glows even brighter, filling the air with the fragrance of all the garden's blossoms. Also in this scene: A large, vibrant butterfly with iridescent blue and orange wings, constantly preening and admiring its own beauty. It carries itself with an air of superiority, often looking down its delicate 'nose' at others. Always the same character across every scene. Gentle dusk light, warm amber and soft blues, creating a peaceful and harmonious atmosphere, with the magical flower emitting a soft, steady glow.",
+      "scene_visual": "The new butterfly gently moves its wings and approaches the magnificent flower. As it draws near, the flower glows even brighter, filling the air with the fragrance of all the garden's blossoms.",
+      "supporting_char_keys": [],
+      "text_te_en": "Kotta Sitaakokachiluka Tana Rekkalanu Mellagaa Kadilistu, Aa Adbhutamaina Puvvu Vaipu Vellindi. Daani Raakato, Puvvu — Marinta Ujvalangaa Veligi, Totaloni Migilina Puvvula Suvaasananu Gaalilo Nimpindi. Ahankaara Sitaakokachiluka Maunangaa Chustu Nilabadindi, Daani Rekkalu Koddigaa Vangipoyaayi. \"Enta Adbhutangaa Unnaavu!\" Ani Kotta Sitaakokachiluka Puvvunu Chusi Mellagaa Andi. Tota Mottam Shaantito, Kotta Kaantito Nindipoyindi.",
+      "text_en": "The new butterfly gently flapped its wings and went towards the amazing flower. With its arrival, the flower shone even more brilliantly, filling the air with the fragrance of the other flowers in the garden. The proud butterfly stood watching silently, its wings slightly drooped. \"How wonderful you are!\" the new butterfly softly said to the flower. The entire garden was filled with peace and new light."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Achird",
+  "quality_score": 9.333333333333334,
+  "quality_scores": {
+    "grandmother_authenticity": 8,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story is exceptionally well-written, boasting a compelling narrative arc, rich dialogue, and profound emotional depth conveyed through action. The Telugu is flawless and natural, making it highly engaging for children. To achieve a perfect score, the narration could benefit from a slightly more conversational tone, further enhancing the 'grandmother's voice' and making it feel even more like an intimate, spontaneous bedtime story."
+  },
+  "title_te_en": "Gongalipurugu Adbhuta Prayaanam",
+  "moral_te_en": "Nijamaina Viluva Lopala Untundi, Edugudala Sahajan.",
+  "title_en": "The Caterpillar's Wonderful Journey",
+  "moral_en": "True value lies within, and growth is natural.",
+  "id": "20260616_111035",
+  "date": "2026-06-16",
+  "category": "panchatantra",
+  "subcategory": "clever_tricks",
+  "topic": "పంచతంత్రం - తెలివైన ఉపాయాలు - చిన్న గొంగళిపురుగు మరియు అహంకారి సీతాకోకచిలుక యొక్క అద్భుత పుష్పం.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260616_111035/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
