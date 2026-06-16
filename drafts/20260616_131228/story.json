@@ -1,0 +1,108 @@
+{
+  "title": "మెరిసిన మువ్వ, మనసు పాఠం",
+  "moral": "మనది కాని వస్తువు మనసుకు శాంతిని ఇవ్వదు — నిజమైన ఆనందం నిర్మలమైన హృదయంలోనే ఉంటుంది.",
+  "main_character": "Raju, a slender boy of ten with bright, curious eyes and a perpetually messy top-knot. He is kind-hearted but sometimes lets curiosity lead him astray. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The village of Mallavaram in rural Andhra Pradesh, nestled beside a winding river and surrounded by lush green paddy fields. Sunlight always seems to filter through the ancient banyan tree in the village square. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒక పల్లెటూరిలో రాజు అనే చిలిపి కుర్రాడు ఉండేవాడు, అతని కళ్ళు ఎప్పుడూ ఏదో ఒక కొత్తదనం కోసం వెతుకుతూ ఉండేవి. ఓ రోజు, అతను రంగుల సీతాకోకచిలుక వెంట పొలాల గుండా పరుగులు తీశాడు, అతని నవ్వు గాలిలో కలిసిపోయింది. ఆ పచ్చని వరి పొలాల గడ్డి అతని బేర్ కాళ్ళకు మెల్లగా తగిలి, ఒక వింత అనుభూతినిచ్చింది. అతను ఆ సీతాకోకచిలుకను పట్టుకోవడానికి చేతులు చాచాడు, గట్టిగా అరుస్తూ, \"పట్టుకో! పట్టుకో!\" అని కేక పెట్టాడు. పరుగులో కాస్త కాలు జారింది, చూపులు నేల వైపు వెళ్లాయి — రాజు కళ్ళు మెరిశాయి. భూమిలో ఏదో మెరుస్తూ అతని దృష్టిని ఆకర్షించింది.",
+      "image_prompt": "The boy stumbles while chasing a butterfly, his gaze falling to the ground. His eyes gleam as they catch sight of something sparkling on the earth. Bright, warm morning sun, casting long, playful shadows across the vibrant green fields. The air is clear and fresh.",
+      "scene_visual": "The boy stumbles while chasing a butterfly, his gaze falling to the ground. His eyes gleam as they catch sight of something sparkling on the earth.",
+      "supporting_char_keys": [],
+      "text_te_en": "Oka Palleturilo Raaju Ane Chilipi Kurraadu Undevaadu, Atani Kallu Eppudu Edo Oka Kottadanam Kosam Vetukutu Undevi. O Roju, Atanu Rangula Sitaakokachiluka Venta Polaala Gundaa Parugulu Tishaadu, Atani Navvu Gaalilo Kalisipoyindi. Aa Pachchani Vari Polaala Gaddi Atani Ber Kaallaku Mellagaa Tagili, Oka Vinta Anubhutinichchindi. Atanu Aa Sitaakokachilukanu Pattukovadaaniki Chetulu Chaachaadu, Gattigaa Arustu, \"Pattuko! Pattuko!\" Ani Keka Pettaadu. Parugulo Kaasta Kaalu Jaarindi, Chupulu Nela Vaipu Vellaayi — Raaju Kallu Merishaayi. Bhumilo Edo Merustu Atani Drrishtini Aakarshinchindi.",
+      "text_en": "In a village lived a mischievous boy named Raju. His eyes were always looking for something new. One day, he ran through the fields chasing a colorful butterfly, his laughter carried by the wind. The green paddy field grass gently brushed against his bare feet, giving him a strange feeling. He stretched out his hands to catch the butterfly, shouting loudly, \"Catch it! Catch it!\" He stumbled a little while running, and his gaze fell to the ground — Raju's eyes sparkled. Something shiny in the earth caught his attention."
+    },
+    {
+      "id": 2,
+      "text": "రాజు చిన్నగా తూలి, తన కళ్ళ ముందు మెరుస్తున్న వస్తువును చూశాడు. అది సగం మట్టిలో కూరుకుపోయిన ఒక అందమైన వెండి మువ్వ, సూర్యరశ్మిలో మెరుస్తూ అతన్ని ఆకర్షించింది. ఆ మువ్వను చూడగానే అతని కనుబొమ్మలు ముడిపడ్డాయి, చుట్టూ జాగ్రత్తగా చూశాడు — ఎవరైనా ఉన్నారేమో అని. అతని వేళ్లు మెల్లగా ఆ మువ్వను తాకాయి, ఆ వెండి చల్లగా, నునుపుగా అనిపించింది. ఆ క్షణంలో — ఒక మధురమైన మెరుపు. \"ఎవరిది ఇది?\" అని చిన్నగా గొణుగుకున్నాడు. ఇంతలో, దూరంగా ఒక ముసలమ్మ గొంతు వినిపించింది, ఏదో పోగొట్టుకున్నట్లు బాధగా మాట్లాడుతోంది.",
+      "image_prompt": "The boy cautiously touches the silver anklet half-buried in the soil. His eyebrows furrow as he glances around, checking if anyone is watching him. Mid-morning sun, slightly hazy, dappling through the leaves of a nearby mango tree, creating a mix of light and shadow on the dusty path.",
+      "scene_visual": "The boy cautiously touches the silver anklet half-buried in the soil. His eyebrows furrow as he glances around, checking if anyone is watching him.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Chinnagaa Tuli, Tana Kalla Mundu Merustunna Vastuvunu Chushaadu. Adi Sagam Mattilo Kurukupoyina Oka Andamaina Vendi Muvva, Suryarashmilo Merustu Atanni Aakarshinchindi. Aa Muvvanu Chudagaane Atani Kanubommalu Mudipaddaayi, Chuttu Jaagrattagaa Chushaadu — Evarainaa Unnaaremo Ani. Atani Vellu Mellagaa Aa Muvvanu Taakaayi, Aa Vendi Challagaa, Nunupugaa Anipinchindi. Aa Kshananlo — Oka Madhuramaina Merupu. \"Evaridi Idi?\" Ani Chinnagaa Gonugukunnaadu. Intalo, Durangaa Oka Musalamma Gontu Vinipinchindi, Edo Pogottukunnatlu Baadhagaa Maatlaadutondi.",
+      "text_en": "Raju stumbled slightly and saw a glittering object in front of his eyes. It was a beautiful silver anklet bell, half-buried in the mud, sparkling in the sunlight and attracting him. As soon as he saw the anklet bell, his eyebrows furrowed, and he looked around carefully — wondering if anyone was there. His fingers gently touched the anklet bell; the silver felt cool and smooth. In that moment — a sweet sparkle. \"Whose is this?\" he whispered softly. Just then, an old woman's voice was heard in the distance, speaking sadly as if she had lost something."
+    },
+    {
+      "id": 3,
+      "text": "ఆ ముసలమ్మ మాటలు గాలిలో తేలి వస్తూ, రాజు చెవుల్లో పడ్డాయి, ఆమె తన మనవరాలి మువ్వ పోయిందని బాధపడుతోంది. రాజు గుండె వేగంగా కొట్టుకుంది. భయంతో మువ్వను గట్టిగా పట్టుకున్నాడు, అతని ముఖంపై పెద్ద కోపగించుకున్నట్లు అనిపించింది. పక్కనే ఉన్న గుడిసె నుండి బెల్లం పాకం తీయని వాసన మెల్లగా వీచింది. ముసలమ్మ తనలో తనే గొణుక్కుంటూ, \"పరుల సొమ్ము పాము బొక్క వంటిది... అది మనకు మంచి చేయదు,\" అని బాధగా అంది. రాజు వెంటనే ఆ మువ్వను తన జేబులో దాచాడు, అతని కడుపులో ఏదో తెలియని భారం పేరుకుపోయింది.",
+      "image_prompt": "The boy quickly shoves the anklet into his pocket. A tense expression crosses his face as he hears the old woman's distant, sorrowful voice. Bright, clear afternoon sun, but the shadows under the eaves of the huts where Raju hides feel darker and more imposing.",
+      "scene_visual": "The boy quickly shoves the anklet into his pocket. A tense expression crosses his face as he hears the old woman's distant, sorrowful voice.",
+      "supporting_char_keys": [
+        "old_woman"
+      ],
+      "text_te_en": "Aa Musalamma Maatalu Gaalilo Teli Vastu, Raaju Chevullo Paddaayi, Aame Tana Manavaraali Muvva Poyindani Baadhapadutondi. Raaju Gunde Vegangaa Kottukundi. Bhayanto Muvvanu Gattigaa Pattukunnaadu, Atani Mukhampai Pedda Kopaginchukunnatlu Anipinchindi. Pakkane Unna Gudise Nundi Bellam Paakam Tiyani Vaasana Mellagaa Vichindi. Musalamma Tanalo Tane Gonukkuntu, \"Parula Sommu Paamu Bokka Vantidi... Adi Manaku Manchi Cheyadu,\" Ani Baadhagaa Andi. Raaju Ventane Aa Muvvanu Tana Jebulo Daachaadu, Atani Kadupulo Edo Teliyani Bhaaram Perukupoyindi.",
+      "text_en": "The old woman's words floated on the wind and reached Raju's ears; she was sadly talking about her granddaughter's lost anklet bell. Raju's heart beat fast. He clutched the anklet bell tightly in fear, and a big frown appeared on his face. From a nearby hut, the sweet smell of jaggery syrup gently wafted. The old woman muttered to herself sadly, \"Other people's things are like a snake's hole; they won't do us any good.\" Raju immediately hid the anklet bell in his pocket, and an unknown burden settled in his stomach."
+    },
+    {
+      "id": 4,
+      "text": "ఆ భారం అతనితోనే ఉంది, రాజు నది ఒడ్డుకు వెళ్లి ఆడుకోవాలని ప్రయత్నించాడు. అతని భుజాలు వంగిపోయాయి, నదిలో కాళ్ళు పెట్టినా, ఆ చల్లని నీళ్ళ గలగల శబ్దం అతనికి సంతోషాన్ని ఇవ్వలేదు. అతను అటూ ఇటూ కలవరంగా చూశాడు, ఎవరు చూస్తున్నారో అని అనుమానంగా. \"నేను దీన్ని ఎందుకు దాచాను?\" అని తనలో తనే ప్రశ్నించుకున్నాడు. మెరుపు మసకబారింది. మెల్లగా జేబులోంచి మువ్వను తీశాడు, అది అతని చేతిలో ఇప్పుడు నిస్తేజంగా, బరువుగా అనిపించింది.",
+      "image_prompt": "The boy slowly pulls the anklet from his pocket and holds it in his hand. His shoulders are slumped, and the once sparkling anklet now appears dull and heavy in his grasp. Late afternoon sun, casting a soft, golden glow on the river, but Raju is in shadow, looking downcast.",
+      "scene_visual": "The boy slowly pulls the anklet from his pocket and holds it in his hand. His shoulders are slumped, and the once sparkling anklet now appears dull and heavy in his grasp.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Bhaaram Atanitone Undi, Raaju Nadi Odduku Velli Aadukovaalani Prayatninchaadu. Atani Bhujaalu Vangipoyaayi, Nadilo Kaallu Pettinaa, Aa Challani Nilla Galagala Shabdam Ataniki Santoshaanni Ivvaledu. Atanu Atu Itu Kalavarangaa Chushaadu, Evaru Chustunnaaro Ani Anumaanangaa. \"Nenu Dinni Enduku Daachaanu?\" Ani Tanalo Tane Prashninchukunnaadu. Merupu Masakabaarindi. Mellagaa Jebulonchi Muvvanu Tishaadu, Adi Atani Chetilo Ippudu Nistejangaa, Baruvugaa Anipinchindi.",
+      "text_en": "That burden stayed with him, and Raju tried to go play by the river bank. His shoulders were slumped, and even when he put his feet in the river, the gurgling sound of the cool water didn't bring him joy. He looked around nervously, wondering suspiciously if anyone was watching him. \"Why did I hide this?\" he asked himself. The sparkle faded. He slowly took the anklet bell out of his pocket; it now felt dull and heavy in his hand."
+    },
+    {
+      "id": 5,
+      "text": "రాజు ఆ బరువుతో, గ్రామ మధ్యలో ఉన్న పెద్ద మర్రిచెట్టు కింద ఒంటరిగా కూర్చున్నాడు. ఆ చెట్టు వేర్లు అతని వీపుకు రాపిడిగా, చల్లగా తాకాయి. అతని చూపులు నేల వైపు ఉన్నాయి, ఆ మువ్వ అతని అరచేతిలో నిశ్చలంగా పడి ఉంది. ఒక్క కన్నీటి చుక్క రాలింది. \"ఈ మెరుపు నా మనసును బరువు చేసింది,\" అని పెదవి విరిచాడు. ఆ మువ్వ అతనికి ఆనందాన్ని ఇవ్వలేదని, కేవలం భయం, బాధ మాత్రమే మిగిల్చిందని గ్రహించాడు. ఒక్కసారిగా — అతను లేచి నిలబడ్డాడు, అతని కళ్ళల్లో కొత్త దృఢత్వం కనిపించింది.",
+      "image_prompt": "The boy sits alone under a large banyan tree, a single tear falling as he gazes at the anklet in his palm. He then stands up abruptly, a new determination visible in his eyes. Dusk approaching, the banyan tree's canopy creating deep, contemplative shadows, with a last sliver of warm orange light on the horizon.",
+      "scene_visual": "The boy sits alone under a large banyan tree, a single tear falling as he gazes at the anklet in his palm. He then stands up abruptly, a new determination visible in his eyes.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Aa Baruvuto, Graama Madhyalo Unna Pedda Marrichettu Kinda Ontarigaa Kurchunnaadu. Aa Chettu Verlu Atani Vipuku Raapidigaa, Challagaa Taakaayi. Atani Chupulu Nela Vaipu Unnaayi, Aa Muvva Atani Arachetilo Nishchalangaa Padi Undi. Okka Kanniti Chukka Raalindi. \"I Merupu Naa Manasunu Baruvu Chesindi,\" Ani Pedavi Virichaadu. Aa Muvva Ataniki Aanandaanni Ivvaledani, Kevalam Bhayan, Baadha Maatrame Migilchindani Grahinchaadu. Okkasaarigaa — Atanu Lechi Nilabaddaadu, Atani Kallallo Kotta Drridhatvam Kanipinchindi.",
+      "text_en": "With that burden, Raju sat alone under the big banyan tree in the middle of the village. The tree roots felt cool as they rubbed against his back. His gaze was fixed on the ground, the anklet bell lay still in his palm. A single tear fell. \"This sparkle has made my heart heavy,\" he murmured. He realized that the anklet bell hadn't given him joy, only fear and sadness. Suddenly — he stood up, and a new determination appeared in his eyes."
+    },
+    {
+      "id": 6,
+      "text": "రాజు ఒక్కసారిగా — అన్నీ అర్థమయ్యాయి. తన మనసుకు శాంతి కావాలంటే, ఈ మువ్వను దాని యజమానికి తిరిగి ఇవ్వాలని నిశ్చయించుకున్నాడు. అతని భుజాలు నిటారుగా మారాయి, చూపులు స్థిరంగా ఉన్నాయి. చల్లని సాయంకాలపు గాలి చెట్ల ఆకుల గుండా మెల్లగా వీచి, ఒక ఓదార్పునిచ్చింది. \"నా మనసుకు శాంతి కావాలంటే, నేను దీన్ని తిరిగి ఇవ్వాలి,\" అని గట్టిగా అనుకున్నాడు. మీకు తెలుసా, ఆ క్షణంలో ఆ మువ్వ అతనికి బరువు కాదు, శాంతి వైపు నడిచే దారి అయింది. అతను ముసలమ్మ గుడిసె వైపు ఉద్దేశపూర్వకంగా నడక సాగించాడు.",
+      "image_prompt": "The boy walks with a determined stride towards the old woman's hut. His shoulders are straight, and his gaze is fixed ahead, reflecting his clear resolve. Early evening, with the soft, fading light of twilight, casting long, gentle shadows as Raju walks.",
+      "scene_visual": "The boy walks with a determined stride towards the old woman's hut. His shoulders are straight, and his gaze is fixed ahead, reflecting his clear resolve.",
+      "supporting_char_keys": [],
+      "text_te_en": "Raaju Okkasaarigaa — Anni Arthamayyaayi. Tana Manasuku Shaanti Kaavaalante, I Muvvanu Daani Yajamaaniki Tirigi Ivvaalani Nishchayinchukunnaadu. Atani Bhujaalu Nitaarugaa Maaraayi, Chupulu Sthirangaa Unnaayi. Challani Saayankaalapu Gaali Chetla Aakula Gundaa Mellagaa Vichi, Oka Odaarpunichchindi. \"Naa Manasuku Shaanti Kaavaalante, Nenu Dinni Tirigi Ivvaali,\" Ani Gattigaa Anukunnaadu. Miku Telusaa, Aa Kshananlo Aa Muvva Ataniki Baruvu Kaadu, Shaanti Vaipu Nadiche Daari Ayindi. Atanu Musalamma Gudise Vaipu Uddeshapurvakangaa Nadaka Saaginchaadu.",
+      "text_en": "Suddenly, Raju understood everything. He decided that if he wanted peace for his heart, he had to return the anklet bell to its owner. His shoulders straightened, and his gaze was steady. The cool evening breeze gently blew through the tree leaves, offering comfort. \"If I want peace for my heart, I must return this,\" he thought firmly. Do you know, in that moment, the anklet bell was no longer a burden to him, but a path leading towards peace. He walked purposefully towards the old woman's hut."
+    },
+    {
+      "id": 7,
+      "text": "ముసలమ్మ గుడిసె దగ్గరకు చేరుకున్న రాజు, ఆమెను పిలిచాడు. ముసలమ్మ బయటికి రాగానే, అతను ఆ మువ్వను ఆమె చేతిలో పెట్టాడు, చిరునవ్వుతో, \"అమ్మా, ఇది మీ మనవరాలిదేమో?\" అని మెల్లగా అడిగాడు. ఆమె కళ్ళల్లో నీళ్ళు తిరిగాయి. ఆ ముసలమ్మ ఆనందంతో రాజును తన చేతుల్లోకి తీసుకుంది, పసుపు, కట్టెల పొగ వాసనతో కూడిన ఆ కౌగిలి అతనికి ఎంతో ఓదార్పునిచ్చింది. రాజు గుండె తేలికపడింది, అతని ముఖంపై నిజమైన ఆనందం కనిపించింది, ఎట్టకేలకు అతని మనసు ప్రశాంతంగా మారింది.",
+      "image_prompt": "The boy gently places the anklet into the old woman's hand with a small smile. The old woman, with tears in her eyes, embraces him tightly, her face filled with joy. Warm, golden candlelight from inside the hut spills out, illuminating their grateful faces in a soft, comforting glow.",
+      "scene_visual": "The boy gently places the anklet into the old woman's hand with a small smile. The old woman, with tears in her eyes, embraces him tightly, her face filled with joy.",
+      "supporting_char_keys": [
+        "old_woman"
+      ],
+      "text_te_en": "Musalamma Gudise Daggaraku Cherukunna Raaju, Aamenu Pilichaadu. Musalamma Bayatiki Raagaane, Atanu Aa Muvvanu Aame Chetilo Pettaadu, Chirunavvuto, \"Ammaa, Idi Mi Manavaraalidemo?\" Ani Mellagaa Adigaadu. Aame Kallallo Nillu Tirigaayi. Aa Musalamma Aanandanto Raajunu Tana Chetulloki Tisukundi, Pasupu, Kattela Poga Vaasanato Kudina Aa Kaugili Ataniki Ento Odaarpunichchindi. Raaju Gunde Telikapadindi, Atani Mukhampai Nijamaina Aanandam Kanipinchindi, Ettakelaku Atani Manasu Prashaantangaa Maarindi.",
+      "text_en": "Raju reached the old woman's hut and called out to her. As soon as the old woman came out, he placed the anklet bell in her hand, and with a smile, gently asked, \"Grandma, is this your granddaughter's?\" Tears welled up in her eyes. The old woman joyfully took Raju into her arms; that hug, smelling of turmeric and firewood smoke, gave him great comfort. Raju's heart felt light, true happiness appeared on his face, and finally, his mind became peaceful."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "old_woman",
+      "description": "An elderly village woman, her face lined with wisdom and kindness, dressed in a faded, but clean, cotton saree. She walks with a slight stoop and carries a bamboo stick. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 7.333333333333333,
+  "quality_scores": {
+    "grandmother_authenticity": 4,
+    "emotional_depth": 8,
+    "dialogue_richness": 6,
+    "grammar_correctness": 8,
+    "narrative_arc": 10,
+    "child_engagement": 8,
+    "average": 7.33,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and effectively conveys emotional depth through actions and sensory details, making Raju's internal struggle palpable. However, its primary weakness lies in its formal, literary tone, which lacks the oral warmth and conversational flow characteristic of a grandmother's bedtime story. To elevate this to a 9+, the editor must significantly revise the narration to incorporate more direct child address, conversational phrasing, and a more intimate, storytelling voice, while also enriching character interactions through dynamic dialogue."
+  },
+  "quality_warning": true,
+  "title_te_en": "Merisina Muvva, Manasu Paatham",
+  "moral_te_en": "Manadi Kaani Vastuvu Manasuku Shaantini Ivvadu — Nijamaina Aanandam Nirmalamaina Hrridayanlone Untundi.",
+  "title_en": "The Glimmering Anklet Bell, A Lesson for the Heart",
+  "moral_en": "Things that aren't ours don't bring peace to our hearts — true happiness is found only in a pure heart.",
+  "id": "20260616_131228",
+  "date": "2026-06-16",
+  "category": "samethalu",
+  "subcategory": "relationships",
+  "topic": "పరుల సొమ్ము పాము బొక్క అనే కథ",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260616_131228/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
