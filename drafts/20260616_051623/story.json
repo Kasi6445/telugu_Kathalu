@@ -1,0 +1,97 @@
+{
+  "title": "జ్ఞాపకాలను నిలిపిన లీలమ్మ కథ",
+  "moral": "కథలు మన జ్ఞాపకాల దారాలు. అవి మనల్ని కలుపుతూ, చీకటిలో కూడా మన గుర్తింపును నిలిచి ఉంచే అద్భుత శక్తిని కలిగి ఉంటాయి.",
+  "main_character": "Leela is a spirited young woman, perhaps in her late teens, with bright, expressive eyes and long, braided hair adorned with wildflowers. She carries a small, intricately carved wooden bird, a gift from her grandmother, which she often holds while thinking. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The village of 'Mamidipalli' is nestled in the lush green hills of Andhra Pradesh, surrounded by mango groves and a winding river. Its mud-brick homes are painted with vibrant folk art, and a large ancient banyan tree stands at its heart, serving as the village gathering place. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "ఒకప్పుడు మామిడిపల్లిలో లీలమ్మ ఉండేది, చూశారా, ఆమె కథ చెప్తుంటే ఎవరైనా సరే కళ్ళు రెప్పవేయకుండా వినేవారు. ఆ రోజు సాయంత్రం పెద్ద మర్రిచెట్టు కింద అందరూ చేరారు, అప్పుడే విరిసిన మల్లెల తీయని సువాసన గాలిలో నిండింది. లీలమ్మ కళ్ళు మెరిశాయి, చేతులు గాలిలో ఊపుతూ, వీరుడి సాహసం గురించి చెప్పసాగింది. 'అతడు తన కత్తిని ఝళిపించి, 'నేను భయపడను!' అని గర్జించాడు!' — ఆ గర్జనకు అడవి అంతా అప్పుడు దద్దరిల్లింది. ఆమె కథ ముగిసేసరికి, దూరపు కొండల మీద ఒక వింతైన, వెండి పొగమంచు మెరుస్తూ పాకుతోంది.",
+      "image_prompt": "The storyteller waves her hands in the air, narrating a tale of a hero's bravery. Her eyes sparkle as she describes the hero brandishing his sword. late afternoon sun, warm golden light filtering through the banyan leaves, creating playful shadows, peaceful and idyllic",
+      "scene_visual": "The storyteller waves her hands in the air, narrating a tale of a hero's bravery. Her eyes sparkle as she describes the hero brandishing his sword.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okappudu Maamidipallilo Lilamma Undedi, Chushaaraa, Aame Katha Cheptunte Evarainaa Sare Kallu Reppaveyakundaa Vinevaaru. Aa Roju Saayantram Pedda Marrichettu Kinda Andaru Cheraaru, Appude Virisina Mallela Tiyani Suvaasana Gaalilo Nindindi. Lilamma Kallu Merishaayi, Chetulu Gaalilo Uputu, Virudi Saahasam Gurinchi Cheppasaagindi. 'Atadu Tana Kattini Jhalipinchi, 'Nenu Bhayapadanu!' Ani Garjinchaadu!' — Aa Garjanaku Adavi Antaa Appudu Daddarillindi. Aame Katha Mugisesariki, Durapu Kondala Mida Oka Vintaina, Vendi Pogamanchu Merustu Paakutondi.",
+      "text_en": "Once upon a time, in Mamidipalli, lived Leelamma. You see, when she told stories, everyone listened without blinking. That evening, everyone gathered under the big banyan tree, and the sweet scent of freshly bloomed jasmine filled the air. Leelamma's eyes sparkled, and waving her hands in the air, she began to tell a tale of a brave hero. 'He swung his sword and roared, 'I am not afraid!'' — The whole forest trembled with that roar. As her story ended, a strange, silvery mist glowed and crept over the distant hills."
+    },
+    {
+      "id": 2,
+      "text": "ఆ మెరిసే పొగమంచు మెల్లగా గ్రామంలోకి దిగింది, మొదట అందంగా కనిపించింది. పల్లెవాళ్ళు దాని చల్లదనాన్ని తమ చర్మం మీద పసిగట్టారు, అది మెత్తటి పట్టులా అనిపించింది. కానీ కొద్దిసేపటికే చిన్న చిన్న విషయాలు మర్చిపోవడం మొదలుపెట్టారు. ఒక రైతు తల గోక్కుంటూ, 'అయ్యో! నా గొడ్డలి ఎక్కడ పెట్టానో మర్చిపోయానే!' అని గొణుగుకున్నాడు. లీలమ్మ నుదురు కొద్దిగా ముడిపడింది — ఏదో తేడా జరుగుతోందని గ్రహించింది. ఇంతలో ఆ పొగమంచు మరింత చిక్కబడింది, పరిచయమైన దారులు, మనుషులు అన్నీ అస్పష్టంగా మారిపోయాయి.",
+      "image_prompt": "A villager scratches his head in confusion, muttering about a forgotten axe. The storyteller's brow furrows slightly as she observes the strange phenomenon. early evening, the mist glows faintly with an ethereal silver-blue light, making everything look dreamlike but also slightly obscured",
+      "scene_visual": "A villager scratches his head in confusion, muttering about a forgotten axe. The storyteller's brow furrows slightly as she observes the strange phenomenon.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Merise Pogamanchu Mellagaa Graamanloki Digindi, Modata Andangaa Kanipinchindi. Pallevaallu Daani Challadanaanni Tama Charmam Mida Pasigattaaru, Adi Mettati Pattulaa Anipinchindi. Kaani Koddisepatike Chinna Chinna Vishayaalu Marchipovadam Modalupettaaru. Oka Raitu Tala Gokkuntu, 'Ayyo! Naa Goddali Ekkada Pettaano Marchipoyaane!' Ani Gonugukunnaadu. Lilamma Nuduru Koddigaa Mudipadindi — Edo Tedaa Jarugutondani Grahinchindi. Intalo Aa Pogamanchu Marinta Chikkabadindi, Parichayamaina Daarulu, Manushulu Anni Aspashtangaa Maaripoyaayi.",
+      "text_en": "The glowing mist slowly descended into the village, looking beautiful at first. The villagers felt its coolness on their skin; it felt like soft silk. But soon, they started forgetting small things. A farmer scratched his head and grumbled, 'Oh dear! I forgot where I put my axe!' Leelamma's brow furrowed slightly — she realized something was wrong. Meanwhile, the mist grew thicker, and familiar paths and people all became blurry."
+    },
+    {
+      "id": 3,
+      "text": "ఇప్పుడు గ్రామం అంతా పొగమంచుతో కప్పబడి ఉంది, అప్పుడప్పుడు దేవాలయ గంటల మసక శబ్దం మాత్రమే వినిపిస్తోంది. ప్రజలు ఒకరి ముఖంలో ఒకరు చూసుకున్నారు, కళ్ళల్లో ఖాళీతనం తప్ప మరేమీ లేదు. లీలమ్మ గుండె బరువెక్కింది, వారి పేర్లు, వారి కుటుంబ సభ్యుల పేర్లు కూడా వారికి గుర్తులేవు. ఆమె గొంతు వణుకుతోంది, 'మీరు నా కథ వినాలి! మీరు ఎవరు అనేది గుర్తు తెచ్చుకోవాలి!' అని వేడుకుంది. కానీ వారి చూపులు శూన్యంలోకి చూస్తున్నాయి. లీలమ్మకు భయం పట్టుకుంది — తన జ్ఞాపకాలు కూడా ఏదో తెలియని చీకటిలో కరిగిపోతున్నట్లు అనిపించింది.",
+      "image_prompt": "The storyteller pleads with the villagers, her voice trembling, urging them to remember who they are. The villagers stare blankly into space, their eyes devoid of recognition. dense, opaque mist, soft grey-white, making outlines fuzzy, creating a sense of isolation and loss",
+      "scene_visual": "The storyteller pleads with the villagers, her voice trembling, urging them to remember who they are. The villagers stare blankly into space, their eyes devoid of recognition.",
+      "supporting_char_keys": [],
+      "text_te_en": "Ippudu Graamam Antaa Pogamanchuto Kappabadi Undi, Appudappudu Devaalaya Gantala Masaka Shabdam Maatrame Vinipistondi. Prajalu Okari Mukhanlo Okaru Chusukunnaaru, Kallallo Khaalitanam Tappa Maremi Ledu. Lilamma Gunde Baruvekkindi, Vaari Perlu, Vaari Kutumba Sabhyula Perlu Kudaa Vaariki Gurtulevu. Aame Gontu Vanukutondi, 'Miru Naa Katha Vinaali! Miru Evaru Anedi Gurtu Techchukovaali!' Ani Vedukundi. Kaani Vaari Chupulu Shunyanloki Chustunnaayi. Lilammaku Bhayam Pattukundi — Tana Jnyaapakaalu Kudaa Edo Teliyani Chikatilo Karigipotunnatlu Anipinchindi.",
+      "text_en": "Now the entire village was covered in mist, with only the faint sound of temple bells heard occasionally. People looked at each other's faces, seeing nothing but emptiness in their eyes. Leelamma's heart grew heavy; they couldn't even remember their own names or their family members' names. Her voice trembled as she pleaded, 'You must listen to my story! You must remember who you are!' But their gazes stared into nothingness. Fear gripped Leelamma — it felt as if her own memories were melting away into some unknown darkness."
+    },
+    {
+      "id": 4,
+      "text": "లీలమ్మ తన చిన్న ఇంటికి పరుగున వెళ్ళింది, తన బామ్మ చెప్పిన కథలను గుర్తు తెచ్చుకోవడానికి ప్రయత్నిస్తోంది. భయం, చల్లదనం కలిసి ఆమె నోట్లో చేదు రుచిని మిగిల్చాయి. ఆమె గట్టిగా చెక్క పిట్టను పట్టుకుంది, తన మనసులో జ్ఞాపకాలు జారిపోతున్నాయని భయపడింది. అప్పుడు ఆమెకు ఒక ఆలోచన మెరిసింది, 'జ్ఞాపకాలు... అవి కేవలం నావి కావు, మనందరివీ!' అని గట్టిగా అనుకుంది. కథలు కేవలం మాటలు కావు — అవి మనల్ని కలిపే దారాలు అని అర్థమైంది. ఆ క్షణంలో ఆమెకు తన బామ్మ పాడిన ఓ పాత లాలిపాట, మసక చీకటిలో వెలిగే దీపంలా, స్పష్టంగా వినిపించింది.",
+      "image_prompt": "The storyteller clutches a wooden bird tightly, fearing her own memories are slipping away. A sudden realization flashes across her face as she understands the power of shared stories. inside Leela's small hut, a single flickering oil lamp casts dancing shadows, creating an intimate but intense moment of internal struggle",
+      "scene_visual": "The storyteller clutches a wooden bird tightly, fearing her own memories are slipping away. A sudden realization flashes across her face as she understands the power of shared stories.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lilamma Tana Chinna Intiki Paruguna Vellindi, Tana Baamma Cheppina Kathalanu Gurtu Techchukovadaaniki Prayatnistondi. Bhayan, Challadanam Kalisi Aame Notlo Chedu Ruchini Migilchaayi. Aame Gattigaa Chekka Pittanu Pattukundi, Tana Manasulo Jnyaapakaalu Jaaripotunnaayani Bhayapadindi. Appudu Aameku Oka Aalochana Merisindi, 'Jnyaapakaalu... Avi Kevalam Naavi Kaavu, Manandarivi!' Ani Gattigaa Anukundi. Kathalu Kevalam Maatalu Kaavu — Avi Manalni Kalipe Daaraalu Ani Arthamaindi. Aa Kshananlo Aameku Tana Baamma Paadina O Paata Laalipaata, Masaka Chikatilo Velige Dipanlaa, Spashtangaa Vinipinchindi.",
+      "text_en": "Leelamma ran to her small house, trying to recall the stories her grandmother used to tell. Fear and coldness left a bitter taste in her mouth. She clutched a wooden bird tightly, afraid that memories were slipping from her mind. Then an idea sparked in her head, 'Memories... they are not just mine, they belong to all of us!' she thought loudly. She understood that stories are not just words — they are threads that connect us. At that moment, an old lullaby her grandmother sang, clear as a lamp shining in the dim darkness, echoed in her mind."
+    },
+    {
+      "id": 5,
+      "text": "ఒక్కసారిగా లీలమ్మ ధైర్యం తెచ్చుకుంది, కొద్దిమంది గ్రామస్తులను ఒకచోట చేర్చింది. వాళ్ళ చేతులు పట్టుకుంది, ఆ పొగమంచు చల్లదనం ఆమె చేతులకు అంటుకుంది. ఆమె బావి వైపు వేలు చూపిస్తూ, 'గుర్తుందా? ఈ బావి దగ్గరే మనం మొదటిసారి వర్షంలో ఆడాము!' అని ప్రేమగా అంది. కొద్దిమంది కళ్ళల్లో ఒక మెరుపు కనిపించింది. లీలమ్మకు ఆశ చిగురించింది, కానీ పొగమంచు మరింత బలంగా ఎదురు తిరుగుతోంది. అది గుర్తు తెచ్చుకుంటున్న వారి చుట్టూ — కోపంగా సుడులు తిరగడం మొదలుపెట్టింది.",
+      "image_prompt": "The storyteller points her finger towards a well, recalling shared memories with the villagers. The cold mist swirls angrily around those who begin to remember. the mist is still thick, but patches of slightly brighter grey appear where Leela is, a small island of effort against the pervasive gloom",
+      "scene_visual": "The storyteller points her finger towards a well, recalling shared memories with the villagers. The cold mist swirls angrily around those who begin to remember.",
+      "supporting_char_keys": [],
+      "text_te_en": "Okkasaarigaa Lilamma Dhairyam Techchukundi, Koddimandi Graamastulanu Okachota Cherchindi. Vaalla Chetulu Pattukundi, Aa Pogamanchu Challadanam Aame Chetulaku Antukundi. Aame Baavi Vaipu Velu Chupistu, 'Gurtundaa? I Baavi Daggare Manam Modatisaari Varshanlo Aadaamu!' Ani Premagaa Andi. Koddimandi Kallallo Oka Merupu Kanipinchindi. Lilammaku Aasha Chigurinchindi, Kaani Pogamanchu Marinta Balangaa Eduru Tirugutondi. Adi Gurtu Techchukuntunna Vaari Chuttu — Kopangaa Sudulu Tiragadam Modalupettindi.",
+      "text_en": "Suddenly, Leelamma gathered her courage and brought a few villagers together. She held their hands, the coldness of the mist clinging to her own. Pointing towards the well, she said lovingly, 'Remember? We played in the rain for the first time right by this well!' A spark appeared in the eyes of a few. Hope bloomed in Leelamma, but the mist resisted even more strongly. It began to swirl angrily around those who were trying to remember."
+    },
+    {
+      "id": 6,
+      "text": "లీలమ్మ తన చివరి శక్తిని కూడదీసుకుంది, ఆమె గొంతు పొగమంచు నిశ్శబ్దాన్ని చీల్చుకుంటూ స్పష్టంగా, ధృడంగా వినిపించింది. ఆమె మామిడిపల్లి పుట్టుక కథను చెప్పడం మొదలుపెట్టింది, ప్రతి పూర్వీకుడి వివరాలను కలిపి అల్లింది. 'అనాదిగా, ఈ భూమి మన పూర్వీకుల కలలతో పుట్టింది...' అని ఆమె చెప్పింది, ఆమె కళ్ళల్లో ఒక నిప్పు రవ్వ మెరిసింది. ఆ కథకు పొగమంచు భయంకరంగా సుడులు తిరిగింది, కానీ లీలమ్మ మాట ఆగలేదు. మెల్లిగా, నెమ్మదిగా — ఆ దట్టమైన పొగమంచు గ్రామ సరిహద్దుల నుండి వెనక్కి తగ్గడం మొదలుపెట్టింది.",
+      "image_prompt": "The storyteller recounts the village's origin story with a clear, firm voice, defying the surrounding silence. A spark of determination shines in her eyes as the dense fog slowly begins to recede from the village borders. the central village square, still shrouded in mist but with Leela illuminated by an inner light, and as she speaks, shafts of pale, hopeful light begin to pierce through the mist from above",
+      "scene_visual": "The storyteller recounts the village's origin story with a clear, firm voice, defying the surrounding silence. A spark of determination shines in her eyes as the dense fog slowly begins to recede from the village borders.",
+      "supporting_char_keys": [],
+      "text_te_en": "Lilamma Tana Chivari Shaktini Kudadisukundi, Aame Gontu Pogamanchu Nishshabdaanni Chilchukuntu Spashtangaa, Dhrridangaa Vinipinchindi. Aame Maamidipalli Puttuka Kathanu Cheppadam Modalupettindi, Prati Purvikudi Vivaraalanu Kalipi Allindi. 'Anaadigaa, I Bhumi Mana Purvikula Kalalato Puttindi...' Ani Aame Cheppindi, Aame Kallallo Oka Nippu Ravva Merisindi. Aa Kathaku Pogamanchu Bhayankarangaa Sudulu Tirigindi, Kaani Lilamma Maata Aagaledu. Melligaa, Nemmadigaa — Aa Dattamaina Pogamanchu Graama Sarihaddula Nundi Venakki Taggadam Modalupettindi.",
+      "text_en": "Leelamma gathered her last strength, her voice cutting through the mist's silence, clear and firm. She began to tell the story of Mamidipalli's origin, weaving in details of every ancestor. 'From ancient times, this land was born from the dreams of our ancestors...' she said, a spark of fire gleaming in her eyes. The mist swirled terribly at her story, but Leelamma did not stop speaking. Slowly, gently — the thick mist began to retreat from the village borders."
+    },
+    {
+      "id": 7,
+      "text": "చివరకు, పొగమంచు పూర్తిగా తొలగిపోయింది, బంగారు సూర్యకిరణాలు గ్రామం మీద ప్రకాశించాయి. తడి మట్టి, మామిడి ఆకుల సువాసన గాలిలో తేలియాడుతోంది. గ్రామస్తులు ఇంకా కొద్దిగా దిగ్భ్రాంతిలో ఉన్నా, ఒకరినొకరు గుర్తుపట్టడం మొదలుపెట్టారు. ఒక చిన్న పిల్లవాడు తన తల్లిని చూసి, 'అమ్మా! నీ చేతి గోరుముద్దలు గుర్తుకొచ్చాయి!' అని ఆనందంగా అరిచాడు. లీలమ్మ ముఖం మీద వెచ్చని చిరునవ్వు విరిసింది, ఆమె గెలిచిందని అర్థమైంది. కథలు మనల్ని ఎంత బలంగా కలుపుతాయో అందరికీ ఆ క్షణం తెలిసి వచ్చింది.",
+      "image_prompt": "A small child joyfully shouts to his mother, recognizing her as golden sunlight illuminates the village. A warm smile spreads across the storyteller's face, reflecting her triumph. bright, clear morning sun, casting long, cheerful shadows, revealing vibrant colours of the village, peaceful and restorative",
+      "scene_visual": "A small child joyfully shouts to his mother, recognizing her as golden sunlight illuminates the village. A warm smile spreads across the storyteller's face, reflecting her triumph.",
+      "supporting_char_keys": [],
+      "text_te_en": "Chivaraku, Pogamanchu Purtigaa Tolagipoyindi, Bangaaru Suryakiranaalu Graamam Mida Prakaashinchaayi. Tadi Matti, Maamidi Aakula Suvaasana Gaalilo Teliyaadutondi. Graamastulu Inkaa Koddigaa Digbhraantilo Unnaa, Okarinokaru Gurtupattadam Modalupettaaru. Oka Chinna Pillavaadu Tana Tallini Chusi, 'Ammaa! Ni Cheti Gorumuddalu Gurtukochchaayi!' Ani Aanandangaa Arichaadu. Lilamma Mukham Mida Vechchani Chirunavvu Virisindi, Aame Gelichindani Arthamaindi. Kathalu Manalni Enta Balangaa Kaluputaayo Andariki Aa Kshanam Telisi Vachchindi.",
+      "text_en": "Finally, the mist completely cleared, and golden sunbeams shone over the village. The scent of wet earth and mango leaves drifted in the air. The villagers, though still a little dazed, began to recognize each other. A small child saw his mother and joyfully cried, 'Mom! I remember your delicious rice balls!' A warm smile spread across Leelamma's face; she knew she had won. Everyone understood at that moment how strongly stories connect us."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 9.5,
+  "quality_scores": {
+    "grandmother_authenticity": 9,
+    "emotional_depth": 9,
+    "dialogue_richness": 10,
+    "grammar_correctness": 10,
+    "narrative_arc": 10,
+    "child_engagement": 9,
+    "average": 9.5,
+    "weakest_dimension": "child_engagement",
+    "notes": "This is a beautifully crafted story with a powerful message, delivered with authentic oral warmth. The narrative arc is compelling, and the emotional journey of Lellamma is deeply felt, making it highly engaging. To elevate it to a perfect 10 across the board, consider weaving in more direct, conversational asides or questions to the child listener, especially during moments of suspense or wonder. This would further enhance the immersive, personal storytelling experience."
+  },
+  "title_te_en": "Jnyaapakaalanu Nilipina Lilamma Katha",
+  "moral_te_en": "Kathalu Mana Jnyaapakaala Daaraalu. Avi Manalni Kaluputu, Chikatilo Kudaa Mana Gurtimpunu Nilichi Unche Adbhuta Shaktini Kaligi Untaayi.",
+  "title_en": "Leelamma's Story of Preserving Memories",
+  "moral_en": "Stories are the threads of our memories. They connect us and have the amazing power to keep our identity alive, even in the darkest times.",
+  "id": "20260616_051623",
+  "date": "2026-06-16",
+  "category": "janapada",
+  "subcategory": "hero_tales",
+  "topic": "జ్ఞాపకాలను కాపాడిన కథకురాలు మరియు మాయా మంచులో మునిగిన పల్లె | Moral: కథలు మన జ్ఞాపకాల దారాలు. అవి మనల్ని కలుపుతూ, చీకటిలో కూడా మన గుర్తింపును నిలిపి ఉంచే అద్భుత శక్తిని కలిగి ఉంటాయి.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260616_051623/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
