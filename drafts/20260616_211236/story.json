@@ -1,0 +1,120 @@
+{
+  "title": "మనసుతో వండిన రుచి",
+  "moral": "మంచితనంతో, సంతోషంతో వంట చేస్తే ఆ రుచి అద్భుతం అవుతుంది.",
+  "main_character": "Ramu is a middle-aged village cook, stout with a perpetually furrowed brow and a wispy mustache. He is renowned for his incredibly flavorful food but equally infamous for his short temper and loud outbursts in the kitchen. Always the same character across every scene.",
+  "antagonist": "The Magic Stove is an ornate, ancient-looking clay stove, initially a dull, earthy brown. It possesses the magical ability to subtly shift its color and glow based on the emotional state of the person cooking upon it, causing food to taste differently. Always the same character across every scene.",
+  "setting": "A rustic, open-air village kitchen in a small hamlet near Tirupati, Andhra Pradesh, with mud walls, a thatched roof, and a stone grinding wheel in the corner. The air is always thick with the aroma of spices and woodsmoke, illuminated by the warm glow of cooking fires. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "అనగా అనగా ఒక పల్లెటూరులో రాముడు అనే ఒక వంటవాడుండేవాడు, అతని వంట రుచి అద్భుతం కానీ కోపం అంతకు మించి ఉండేది. అతని కనుబొమ్మలు ఎప్పుడూ ముడిపడి ఉండేవి, గొంతు బిగ్గరగా ఉండేది, ఎప్పుడూ ఏదో ఒక దానిపై అరుస్తూనే ఉండేవాడు. మిరపకాయలు నూనెలో చిటపటలాడుతూ, ఘాటైన వాసన వంటశాల అంతా నిండిపోయింది, కానీ రాముడు సంతోషంగా లేడు.  \"ఏయ్! పప్పులో ఉప్పు సరిపోలేదు! ఏమి చేస్తున్నావు?\" అని రాము తన సహాయకుడిపై కోపంగా గద్దించాడు — అతని పిడికిళ్ళు బిగుసుకుపోయాయి. అతను వంట ముగించగానే, ఒక కొత్త మనిషి పెద్ద కప్పబడిన వస్తువుతో అక్కడికి వచ్చాడు.",
+      "image_prompt": "The cook angrily shouts at his assistant, his fists clenched tightly. His eyebrows are perpetually furrowed, reflecting his constant irritation. Warm, flickering light from the wood-fired stove casting dancing shadows on the mud walls, late morning sun filtering through the thatched roof.",
+      "scene_visual": "The cook angrily shouts at his assistant, his fists clenched tightly. His eyebrows are perpetually furrowed, reflecting his constant irritation.",
+      "supporting_char_keys": [],
+      "text_te_en": "Anagaa Anagaa Oka Palleturulo Raamudu Ane Oka Vantavaadundevaadu, Atani Vanta Ruchi Adbhutam Kaani Kopam Antaku Minchi Undedi. Atani Kanubommalu Eppudu Mudipadi Undevi, Gontu Biggaragaa Undedi, Eppudu Edo Oka Daanipai Arustune Undevaadu. Mirapakaayalu Nunelo Chitapatalaadutu, Ghaataina Vaasana Vantashaala Antaa Nindipoyindi, Kaani Raamudu Santoshangaa Ledu.  \"Ey! Pappulo Uppu Saripoledu! Emi Chestunnaavu?\" Ani Raamu Tana Sahaayakudipai Kopangaa Gaddinchaadu — Atani Pidikillu Bigusukupoyaayi. Atanu Vanta Muginchagaane, Oka Kotta Manishi Pedda Kappabadina Vastuvuto Akkadiki Vachchaadu.",
+      "text_en": "Once upon a time, in a village, there lived a cook named Ramudu. His cooking tasted amazing, but his anger was even greater. His eyebrows were always furrowed, his voice was loud, and he was always shouting about something. Chilies sizzled in oil, and a strong, spicy smell filled the kitchen, but Ramudu was not happy. \"Hey! There's not enough salt in the lentil soup! What are you doing?\" Ramudu angrily yelled at his helper — his fists clenched tight. Just as he finished cooking, a new person arrived with a large covered object."
+    },
+    {
+      "id": 2,
+      "text": "ఆ వచ్చిన వర్తకుడు ఒక అందమైన, అలంకరించిన మట్టి పొయ్యిని రాముడికి బహూకరించాడు. \"సంతోషంగా వంట చేస్తే, ఇది అద్భుతమైన రుచిని ఇస్తుంది\" అని వర్తకుడు చిరునవ్వుతో చెప్పాడు. రాము చేతులు కట్టుకుని, ఆ పొయ్యిని అనుమానంగా చూశాడు, అతని పెదవులు చికాకుగా విరిచాడు. \"మాయా పొయ్యి అంటావా? నా కోపమే నా వంటకు రుచి!\" అని అతను ఎగతాళిగా అన్నాడు. అతను ఆ మట్టి పొయ్యిని తాకాడు — ఆ చల్లదనం అతని ఆలోచనలను కూడా కొద్దిగా చల్లబరిచింది. అయినా సరే, సాయంత్రం వంటకు ఆ పొయ్యినే వాడాలని రాము మనసులో అనుకున్నాడు.",
+      "image_prompt": "The cook stands with his arms crossed, suspiciously eyeing the new, decorated clay stove. His lips are twisted in an expression of annoyance, and he touches the stove's cool surface. Bright midday sun streaming into the kitchen, highlighting dust motes in the air, a sense of quiet anticipation around the new object.",
+      "scene_visual": "The cook stands with his arms crossed, suspiciously eyeing the new, decorated clay stove. His lips are twisted in an expression of annoyance, and he touches the stove's cool surface.",
+      "supporting_char_keys": [],
+      "text_te_en": "Aa Vachchina Vartakudu Oka Andamaina, Alankarinchina Matti Poyyini Raamudiki Bahukarinchaadu. \"Santoshangaa Vanta Cheste, Idi Adbhutamaina Ruchini Istundi\" Ani Vartakudu Chirunavvuto Cheppaadu. Raamu Chetulu Kattukuni, Aa Poyyini Anumaanangaa Chushaadu, Atani Pedavulu Chikaakugaa Virichaadu. \"Maayaa Poyyi Antaavaa? Naa Kopame Naa Vantaku Ruchi!\" Ani Atanu Egataaligaa Annaadu. Atanu Aa Matti Poyyini Taakaadu — Aa Challadanam Atani Aalochanalanu Kudaa Koddigaa Challabarichindi. Ayinaa Sare, Saayantram Vantaku Aa Poyyine Vaadaalani Raamu Manasulo Anukunnaadu.",
+      "text_en": "The merchant who arrived gifted Ramudu a beautiful, decorated clay stove. \"If you cook with happiness, this will give an amazing taste,\" the merchant said with a smile. Ramudu crossed his arms and looked at the stove suspiciously, his lips twisted in annoyance. \"A magic stove, you say? My anger is the taste in my cooking!\" he scoffed. He touched the clay stove — its coolness slightly calmed his thoughts too. Even so, Ramudu decided in his mind to use that stove for the evening meal."
+    },
+    {
+      "id": 3,
+      "text": "సాయంత్రం వంట మొదలుపెట్టాడు రాము, తన కోపాన్ని అదుపు చేసుకోలేక, మళ్ళీ కేకలు వేశాడు, వంటశాల అంతా అతని అరుపులతో నిండిపోయింది. అతను చూస్తుండగానే, ఆ కొత్త పొయ్యి ముదురు బూడిద రంగులోకి మారిపోయింది — అది నమ్మలేని నిజం. అప్పటివరకు వస్తున్న ఆహారం సువాసన ఇప్పుడు లేదు — బదులుగా, కొద్దిగా మాడిన అన్నం ఘాటైన వాసన వచ్చింది. \"ఛీ! ఇది ఏమిటి? నా వంటకు ఏమైంది?\" అని రాము చేతులు నడుం మీద పెట్టుకుని, కళ్ళు పెద్దవి చేసుకుని అడిగాడు. ఇంతలో, చిన్ని, బాబు అనే పిల్లలు లోపలికి తొంగి చూశారు, వారి ముఖాల్లో ఆందోళన కనిపించింది.",
+      "image_prompt": "The cook stands with his hands on his hips, his eyes wide with disbelief as the new stove turns dark gray. Two children peek into the kitchen, their faces showing visible anxiety. Early evening, soft orange light from the setting sun, but the stove emits a dull, sickly grey glow, creating an uneasy atmosphere.",
+      "scene_visual": "The cook stands with his hands on his hips, his eyes wide with disbelief as the new stove turns dark gray. Two children peek into the kitchen, their faces showing visible anxiety.",
+      "supporting_char_keys": [
+        "chinni",
+        "babu"
+      ],
+      "text_te_en": "Saayantram Vanta Modalupettaadu Raamu, Tana Kopaanni Adupu Chesukoleka, Malli Kekalu Veshaadu, Vantashaala Antaa Atani Arupulato Nindipoyindi. Atanu Chustundagaane, Aa Kotta Poyyi Muduru Budida Ranguloki Maaripoyindi — Adi Nammaleni Nijan. Appativaraku Vastunna Aahaaram Suvaasana Ippudu Ledu — Badulugaa, Koddigaa Maadina Annam Ghaataina Vaasana Vachchindi. \"Chi! Idi Emiti? Naa Vantaku Emaindi?\" Ani Raamu Chetulu Nadum Mida Pettukuni, Kallu Peddavi Chesukuni Adigaadu. Intalo, Chinni, Baabu Ane Pillalu Lopaliki Tongi Chushaaru, Vaari Mukhaallo Aandolana Kanipinchindi.",
+      "text_en": "Ramudu started cooking in the evening, unable to control his anger, and shouted again, filling the kitchen with his yells. As he watched, the new stove turned a dark ash-gray color — it was an unbelievable sight. The delicious aroma of food that was usually there was gone — instead, there was a pungent smell of slightly burnt rice. \"Ugh! What is this? What happened to my cooking?\" Ramudu asked, hands on his hips, eyes wide. Just then, two children, Chinni and Babu, peeked inside, worry on their faces."
+    },
+    {
+      "id": 4,
+      "text": "రాము మళ్ళీ వంట చేయాలని నిర్ణయించుకున్నాడు, ఈసారి మౌనంగా ఉండేందుకు ప్రయత్నించాడు, అతని పెదవులు బిగుసుకుపోయాయి. కూరగాయలు కోస్తున్నప్పుడు చప్పుడు తప్ప, వంటశాల నిశ్శబ్దంగా ఉంది, కానీ అతని మనసులో మాత్రం చిరాకు, నిరాశ నిండి ఉన్నాయి. అందుకే పొయ్యి బూడిద రంగు నుంచి ఎరుపు రంగులోకి మారుతోంది — దాని కాంతి నిలకడగా లేదు. \"మంచిగా ఉండాలని ఎంత ప్రయత్నించినా, ఈ పొయ్యి నన్ను ఆటపట్టిస్తోంది!\" అని నిట్టూర్చాడు, అతని భుజాలు కుంగిపోయాయి. చిన్ని, బాబు ఖాళీ గిన్నెలు పట్టుకుని, నిరాశగా వెనక్కి తిరిగి వెళ్ళిపోవడం రాము చూశాడు.",
+      "image_prompt": "The cook sighs deeply, his shoulders slumped in defeat, as the stove's light flickers inconsistently from gray to red. His lips are tightly pressed together, reflecting his inner irritation and disappointment. Dim twilight, the kitchen lit mostly by the erratic, muted glow of the stove, casting long, wavering shadows.",
+      "scene_visual": "The cook sighs deeply, his shoulders slumped in defeat, as the stove's light flickers inconsistently from gray to red. His lips are tightly pressed together, reflecting his inner irritation and disappointment.",
+      "supporting_char_keys": [
+        "chinni",
+        "babu"
+      ],
+      "text_te_en": "Raamu Malli Vanta Cheyaalani Nirnayinchukunnaadu, Isaari Maunangaa Undenduku Prayatninchaadu, Atani Pedavulu Bigusukupoyaayi. Kuragaayalu Kostunnappudu Chappudu Tappa, Vantashaala Nishshabdangaa Undi, Kaani Atani Manasulo Maatram Chiraaku, Niraasha Nindi Unnaayi. Anduke Poyyi Budida Rangu Nunchi Erupu Ranguloki Maarutondi — Daani Kaanti Nilakadagaa Ledu. \"Manchigaa Undaalani Enta Prayatninchinaa, I Poyyi Nannu Aatapattistondi!\" Ani Nitturchaadu, Atani Bhujaalu Kungipoyaayi. Chinni, Baabu Khaali Ginnelu Pattukuni, Niraashagaa Venakki Tirigi Vellipovadam Raamu Chushaadu.",
+      "text_en": "Ramudu decided to cook again, this time trying to be silent, his lips pressed together. Except for the sound of vegetables being chopped, the kitchen was silent, but his mind was filled with irritation and disappointment. That's why the stove was changing from ash-gray to red — its glow was not steady. \"No matter how hard I try to be good, this stove is teasing me!\" he sighed, his shoulders slumped. Ramudu watched Chinni and Babu turn away and leave, holding empty bowls, looking disappointed."
+    },
+    {
+      "id": 5,
+      "text": "రాము వంటశాల బయట నిలబడి, దగ్గరలో ఆడుకుంటున్న చిన్ని, బాబులను చూశాడు, వారి నవ్వులు గాలిలో తేలియాడుతున్నాయి. వారి నవ్వులు గాలిలో తేలియాడుతూ, వంటశాలలోని నిశ్శబ్దాన్ని నింపాయి, అది ఒక మధురమైన సంగీతంలా ఉంది. వారి అమాయకమైన ఆనందం, స్వచ్ఛమైన మనసులు చూసిన రాముకి ఒక నిజం తెలిసింది — తన వంటకు లేనిది అదే అని. \"వారి నవ్వు చూస్తుంటే, నా కోపం ఎంత వ్యర్థమో అర్థమవుతోంది\" అని అతను నెమ్మదిగా అనుకున్నాడు. అతని ముఖంపై ఒక అరుదైన, సున్నితమైన భావం కనిపించింది — ఏదో మార్పు మొదలైంది. ఒక కొత్త నిర్ణయంతో, రాము మాయా పొయ్యి వైపు నెమ్మదిగా నడిచాడు.",
+      "image_prompt": "The cook stands outside the kitchen, watching two children play nearby, their laughter echoing in the air. A rare, gentle expression appears on his face as he slowly walks towards the magical stove. The last rays of the setting sun paint the village in warm orange and pink, a gentle, peaceful light contrasting with the still-dull stove in the kitchen.",
+      "scene_visual": "The cook stands outside the kitchen, watching two children play nearby, their laughter echoing in the air. A rare, gentle expression appears on his face as he slowly walks towards the magical stove.",
+      "supporting_char_keys": [
+        "chinni",
+        "babu"
+      ],
+      "text_te_en": "Raamu Vantashaala Bayata Nilabadi, Daggaralo Aadukuntunna Chinni, Baabulanu Chushaadu, Vaari Navvulu Gaalilo Teliyaadutunnaayi. Vaari Navvulu Gaalilo Teliyaadutu, Vantashaalaloni Nishshabdaanni Nimpaayi, Adi Oka Madhuramaina Sangitanlaa Undi. Vaari Amaayakamaina Aanandan, Svachchamaina Manasulu Chusina Raamuki Oka Nijam Telisindi — Tana Vantaku Lenidi Ade Ani. \"Vaari Navvu Chustunte, Naa Kopam Enta Vyarthamo Arthamavutondi\" Ani Atanu Nemmadigaa Anukunnaadu. Atani Mukhampai Oka Arudaina, Sunnitamaina Bhaavam Kanipinchindi — Edo Maarpu Modalaindi. Oka Kotta Nirnayanto, Raamu Maayaa Poyyi Vaipu Nemmadigaa Nadichaadu.",
+      "text_en": "Ramudu stood outside the kitchen and watched Chinni and Babu playing nearby, their laughter floating in the air. Their laughter floated in the air, filling the silence of the kitchen, like sweet music. Seeing their innocent joy and pure hearts, Ramudu realized a truth — that was what was missing from his cooking. \"Seeing their laughter, I understand how useless my anger is,\" he thought softly. A rare, gentle expression appeared on his face — a change had begun. With a new resolve, Ramudu slowly walked towards the magic stove."
+    },
+    {
+      "id": 6,
+      "text": "పొయ్యి దగ్గరకు వచ్చి, రాము కళ్ళు మూసుకుని, ఒక లోతైన శ్వాస తీసుకున్నాడు, అతని మనసు ప్రశాంతంగా మారింది. అతని ముఖంపై ప్రశాంతమైన చిరునవ్వు మెరిసింది — ఇప్పుడు అతని కదలికలు సౌకర్యవంతంగా, మృదువుగా ఉన్నాయి. నెయ్యి వేడి చేస్తున్నప్పుడు వచ్చే తీయని సువాసన వంటశాల అంతా నిండిపోయింది, ఆ వాసన అతని మనసును మరింత తేలికపరిచింది. \"ఈ వంట నా ప్రేమతో, నా సంతోషంతో!\" అని అతను మనసులో అనుకున్నాడు, ప్రతి పదంలోనూ ప్రేమ ఉంది. ఒక్కసారిగా — పొయ్యి ప్రకాశవంతమైన, రంగులతో వెలిగిపోయింది. ఆ రుచికరమైన వాసన గ్రామమంతా వ్యాపించి, అందరినీ రాముడి వంటశాల వైపు లాగింది.",
+      "image_prompt": "The cook stands by the stove, a peaceful smile gracing his face, his movements now comfortable and soft. The stove suddenly glows brightly with vibrant colors, filling the kitchen with a sweet aroma. The stove glows brilliantly with all the colors of a rainbow, illuminating Ramu's smiling face, making the kitchen feel magical and inviting.",
+      "scene_visual": "The cook stands by the stove, a peaceful smile gracing his face, his movements now comfortable and soft. The stove suddenly glows brightly with vibrant colors, filling the kitchen with a sweet aroma.",
+      "supporting_char_keys": [],
+      "text_te_en": "Poyyi Daggaraku Vachchi, Raamu Kallu Musukuni, Oka Lotaina Shvaasa Tisukunnaadu, Atani Manasu Prashaantangaa Maarindi. Atani Mukhampai Prashaantamaina Chirunavvu Merisindi — Ippudu Atani Kadalikalu Saukaryavantangaa, Mrriduvugaa Unnaayi. Neyyi Vedi Chestunnappudu Vachche Tiyani Suvaasana Vantashaala Antaa Nindipoyindi, Aa Vaasana Atani Manasunu Marinta Telikaparichindi. \"I Vanta Naa Premato, Naa Santoshanto!\" Ani Atanu Manasulo Anukunnaadu, Prati Padanlonu Prema Undi. Okkasaarigaa — Poyyi Prakaashavantamaina, Rangulato Veligipoyindi. Aa Ruchikaramaina Vaasana Graamamantaa Vyaapinchi, Andarini Raamudi Vantashaala Vaipu Laagindi.",
+      "text_en": "Coming close to the stove, Ramudu closed his eyes and took a deep breath; his mind became peaceful. A calm smile shone on his face — now his movements were comfortable and gentle. The sweet aroma of ghee heating filled the kitchen, and that smell made his mind even lighter. \"This cooking is with my love, with my happiness!\" he thought to himself, with love in every word. Suddenly — the stove lit up with bright, vibrant colors. That delicious smell spread throughout the village, drawing everyone towards Ramudu's kitchen."
+    },
+    {
+      "id": 7,
+      "text": "గ్రామస్తులందరూ రాముడి వంటశాలకు చేరుకున్నారు, వారి కళ్ళల్లో ఆశ, ఆనందం తొణికిసలాడుతున్నాయి. రాము తన చేతులతో ప్రేమగా వండిన భోజనాన్ని అందరికీ వడ్డించాడు, ప్రతి ఒక్కరికీ రుచి చూశాడు. ఆ మాయా పొయ్యి ఇప్పుడు స్థిరమైన, వెచ్చని బంగారు కాంతితో వెలిగిపోతోంది, దాని వెలుగు వంటశాల అంతా నిండిపోయింది. \"ఈ రోజు వంట అమృతంలా ఉంది, రాము!\" అని అందరూ సంతోషంగా అన్నారు, వారి ముఖాల్లో తృప్తి కనిపించింది. ఆ సంతోషంతో రాము మనసు నిండిపోయింది — అతని ముఖంపై అపూర్వమైన తృప్తి కనిపించింది. అప్పటినుంచి, రాముడి వంటశాల ఎప్పుడూ నవ్వులతో, ప్రేమతో నిండిపోయింది, అక్కడ వంట రుచి ఎప్పుడూ అద్భుతంగానే ఉంది.",
+      "image_prompt": "The cook lovingly serves food to the villagers, who have gathered in his kitchen, their faces filled with contentment. The magical stove glows with a steady, warm golden light, illuminating the entire space. Warm, golden candlelight and the soft glow of the magic stove bathe the bustling kitchen and surrounding area in a comforting, joyful light, late evening.",
+      "scene_visual": "The cook lovingly serves food to the villagers, who have gathered in his kitchen, their faces filled with contentment. The magical stove glows with a steady, warm golden light, illuminating the entire space.",
+      "supporting_char_keys": [
+        "chinni",
+        "babu"
+      ],
+      "text_te_en": "Graamastulandaru Raamudi Vantashaalaku Cherukunnaaru, Vaari Kallallo Aasha, Aanandam Tonikisalaadutunnaayi. Raamu Tana Chetulato Premagaa Vandina Bhojanaanni Andariki Vaddinchaadu, Prati Okkariki Ruchi Chushaadu. Aa Maayaa Poyyi Ippudu Sthiramaina, Vechchani Bangaaru Kaantito Veligipotondi, Daani Velugu Vantashaala Antaa Nindipoyindi. \"I Roju Vanta Amrritanlaa Undi, Raamu!\" Ani Andaru Santoshangaa Annaaru, Vaari Mukhaallo Trripti Kanipinchindi. Aa Santoshanto Raamu Manasu Nindipoyindi — Atani Mukhampai Apurvamaina Trripti Kanipinchindi. Appatinunchi, Raamudi Vantashaala Eppudu Navvulato, Premato Nindipoyindi, Akkada Vanta Ruchi Eppudu Adbhutangaane Undi.",
+      "text_en": "All the villagers gathered at Ramudu's kitchen, hope and joy sparkling in their eyes. Ramudu lovingly served the meal he had cooked with his own hands to everyone, letting each person taste it. The magic stove was now glowing with a steady, warm golden light, its radiance filling the entire kitchen. \"Today's cooking is like nectar, Ramu!\" everyone happily exclaimed, satisfaction on their faces. Ramudu's heart was filled with that happiness — an unprecedented satisfaction appeared on his face. From then on, Ramudu's kitchen was always filled with laughter and love, and the taste of the food there was always amazing."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "chinni",
+      "description": "A bright-eyed, curious village girl, about 7 years old, with two neat braids and a colorful skirt. She loves Ramu's food but often hides when he shouts. Always the same character across every scene."
+    },
+    {
+      "key": "babu",
+      "description": "A mischievous village boy, about 8 years old, with a dusty shirt and a perpetually curious expression. He is sometimes daring enough to peek into Ramu's kitchen. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Laomedeia",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 8,
+    "grammar_correctness": 8,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story boasts a compelling narrative arc and engaging magical elements, making it highly suitable for children. The moral is skillfully integrated into the plot, avoiding any preachiness. To achieve an award-winning standard, the primary focus should be on refining the narrative voice to consistently embody the warmth and oral tradition of a grandmother's storytelling. Additionally, ensure that emotions are always conveyed through actions and dialogue, rather than explicit statements, to foster a deeper connection with the young audience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Manasuto Vandina Ruchi",
+  "moral_te_en": "Manchitananto, Santoshanto Vanta Cheste Aa Ruchi Adbhutam Avutundi.",
+  "title_en": "The Taste Cooked with Love",
+  "moral_en": "If you cook with kindness and happiness, the taste will be wonderful.",
+  "id": "20260616_211236",
+  "date": "2026-06-16",
+  "category": "janapada",
+  "subcategory": "magical_tales",
+  "topic": "వంట చేసే వారి మనసును బట్టి రంగులు మారే మాయా పొయ్యి మరియు కోపంగా ఉండే వంటవాడు",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260616_211236/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
