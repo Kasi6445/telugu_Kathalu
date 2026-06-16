@@ -1,0 +1,103 @@
+{
+  "title": "జింకపై మమకారం, జ్ఞానపు దారి",
+  "moral": "నిజమైన ఆనందం మనం దేనినీ గట్టిగా పట్టుకోకుండా, అన్ని జీవుల పట్ల ప్రేమను కలిగి ఉండటంలోనే ఉంటుంది.",
+  "main_character": "Bharata: A wise sage with a long white beard and matted hair, wearing simple saffron robes. His eyes reflect deep peace and spiritual wisdom. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A serene hermitage nestled by the sacred Ganga river in a dense forest near Haridwar, India. Tall ancient trees with thick moss, the gentle rush of river water, and the distant calls of forest birds define the atmosphere. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "గంగా నది ఒడ్డున, భరత మహర్షి కళ్ళు మూసుకుని ప్రశాంతంగా ధ్యానంలో ఉన్నారు. ఆయన పెదవులపై చిన్న చిరునవ్వు మెరిసింది — లోతైన శాంతికి నిదర్శనం. నదిలోని గులకరాళ్ళపై నీటి గలగల శబ్దం దివ్యనాదమై వినిపించింది. మనసులో ఎంతో భక్తితో, ఆయన మెల్లగా పలికారు: \"ఓం నమో భగవతే వాసుదేవాయ!\" ఇంతలో, దూరం నుండి ఒక భయంకరమైన సింహగర్జన అడవిలో ప్రతిధ్వనించింది — ఆ ప్రశాంతత ఒక్కసారిగా చెదిరిపోయింది.",
+      "image_prompt": "The sage sits cross-legged on the riverbank with his eyes closed, meditating peacefully. A small, serene smile plays on his lips, reflecting deep inner peace. Gentle morning light filtering through dense tree canopies, creating dappled patterns on the forest floor, soft and golden.",
+      "scene_visual": "The sage sits cross-legged on the riverbank with his eyes closed, meditating peacefully. A small, serene smile plays on his lips, reflecting deep inner peace.",
+      "supporting_char_keys": [],
+      "text_te_en": "Gangaa Nadi Odduna, Bharata Maharshi Kallu Musukuni Prashaantangaa Dhyaananlo Unnaaru. Aayana Pedavulapai Chinna Chirunavvu Merisindi — Lotaina Shaantiki Nidarshanan. Nadiloni Gulakaraallapai Niti Galagala Shabdam Divyanaadamai Vinipinchindi. Manasulo Ento Bhaktito, Aayana Mellagaa Palikaaru: \"Om Namo Bhagavate Vaasudevaaya!\" Intalo, Duram Nundi Oka Bhayankaramaina Sinhagarjana Adavilo Pratidhvaninchindi — Aa Prashaantata Okkasaarigaa Chediripoyindi.",
+      "text_en": "On the banks of the Ganga River, Bharata Maharshi sat peacefully with his eyes closed, deep in meditation. A gentle smile played on his lips — a sign of his deep peace. The gurgling sound of the water over the river stones sounded like a divine melody. With great devotion in his heart, he softly chanted: \"Om Namo Bhagavate Vasudevaya!\" Suddenly, a terrifying roar of a lion echoed from afar in the forest — shattering the peace in an instant."
+    },
+    {
+      "id": 2,
+      "text": "ఆ సింహగర్జనకు ఉలిక్కిపడిన ఒక నిండు గర్భిణి జింక, ప్రాణభయంతో నదిలోకి దూకింది. నీటి ప్రవాహంలో కొట్టుకుపోతూనే అది ఒక లేత జింకపిల్లకు జన్మనిచ్చింది, కానీ ఆ తల్లి జింక ప్రవాహంలో కలిసిపోయింది. భరత మహర్షి కనుబొమ్మలు చిట్లించారు — ఆయన మనసులో కరుణ ఉప్పొంగింది. నదీ తీరాన ఒంటరిగా వణికిపోతున్న జింకపిల్ల నుండి భయంతో కూడిన 'మే మే' అనే అరుపు వినిపించింది. \"అయ్యో! ఈ పసి ప్రాణికి ఎవరున్నారు?\" అంటూ, మహర్షి తన చేతులతో ఆ చిన్నారి జింకపిల్లను మెల్లగా పైకి లేపారు — దాని శరీరం చలితో వణికిపోతోంది.",
+      "image_prompt": "The sage gently lifts the trembling fawn from the riverbank with his hands. The fawn's tiny body shivers visibly from the cold. Overcast sky, hinting at an impending storm, casting a cool, muted light over the riverbank.",
+      "scene_visual": "The sage gently lifts the trembling fawn from the riverbank with his hands. The fawn's tiny body shivers visibly from the cold.",
+      "supporting_char_keys": [
+        "deer"
+      ],
+      "text_te_en": "Aa Sinhagarjanaku Ulikkipadina Oka Nindu Garbhini Jinka, Praanabhayanto Nadiloki Dukindi. Niti Pravaahanlo Kottukupotune Adi Oka Leta Jinkapillaku Janmanichchindi, Kaani Aa Talli Jinka Pravaahanlo Kalisipoyindi. Bharata Maharshi Kanubommalu Chitlinchaaru — Aayana Manasulo Karuna Uppongindi. Nadi Tiraana Ontarigaa Vanikipotunna Jinkapilla Nundi Bhayanto Kudina 'Me Me' Ane Arupu Vinipinchindi. \"Ayyo! I Pasi Praaniki Evarunnaaru?\" Antu, Maharshi Tana Chetulato Aa Chinnaari Jinkapillanu Mellagaa Paiki Lepaaru — Daani Shariram Chalito Vanikipotondi.",
+      "text_en": "Startled by the lion's roar, a heavily pregnant deer, fearing for its life, jumped into the river. As it was swept away by the strong current, it gave birth to a tiny fawn, but the mother deer was lost in the river. Bharata Maharshi frowned — his heart filled with compassion. From the riverbank, a frightened 'mae mae' cry came from the shivering, lonely fawn. \"Oh dear! Who will care for this little creature?\" he wondered, gently lifting the tiny fawn with his hands — its body trembling with cold."
+    },
+    {
+      "id": 3,
+      "text": "మహర్షి ఆ జింకపిల్లను తన ఆశ్రమానికి తీసుకొచ్చి, ఎంతో ఆప్యాయంగా చూసుకున్నారు. జింకపిల్లకు ఆకులను తినిపిస్తుంటే, దాని మృదువైన, వెచ్చని బొచ్చు ఆయన అరచేతికి తగిలింది. \"భయపడకు చిన్నారి, నేనున్నాను\" అంటూ, దాని తల నిమిరారు. నెమ్మదిగా, ఆయన ఆధ్యాత్మిక సాధన పక్కకు జరిగింది, జింకపిల్లపైనే ఆయన దృష్టి నిలిచింది. ధ్యానం చేస్తున్నప్పుడు కూడా — ఆయన చూపులు జింకపిల్ల వైపు మళ్ళాయి.",
+      "image_prompt": "The sage tenderly feeds leaves to the fawn, holding them out in his hand. He gently strokes its head, feeling its soft, warm fur against his palm. Warm, late afternoon sun streaming into the hermitage, highlighting dust motes dancing in the air, cozy and intimate.",
+      "scene_visual": "The sage tenderly feeds leaves to the fawn, holding them out in his hand. He gently strokes its head, feeling its soft, warm fur against his palm.",
+      "supporting_char_keys": [
+        "deer"
+      ],
+      "text_te_en": "Maharshi Aa Jinkapillanu Tana Aashramaaniki Tisukochchi, Ento Aapyaayangaa Chusukunnaaru. Jinkapillaku Aakulanu Tinipistunte, Daani Mrriduvaina, Vechchani Bochchu Aayana Arachetiki Tagilindi. \"Bhayapadaku Chinnaari, Nenunnaanu\" Antu, Daani Tala Nimiraaru. Nemmadigaa, Aayana Aadhyaatmika Saadhana Pakkaku Jarigindi, Jinkapillapaine Aayana Drrishti Nilichindi. Dhyaanam Chestunnappudu Kudaa — Aayana Chupulu Jinkapilla Vaipu Mallaayi.",
+      "text_en": "The Maharshi took the fawn to his ashram and cared for it with great affection. As he fed the fawn leaves, its soft, warm fur brushed against his palm. \"Don't be afraid, little one, I am here,\" he said, stroking its head. Slowly, his spiritual practices took a backseat, and his attention became fixed on the fawn. Even while meditating, his gaze would drift towards the fawn."
+    },
+    {
+      "id": 4,
+      "text": "ఇప్పుడు మహర్షి దినచర్య అంతా జింక చుట్టూనే తిరిగింది; ఆయన ధ్యానం లోతు తగ్గింది, మనసు జింక గురించే ఆలోచించింది. ఆయన భుజాలు వంగిపోయాయి, కళ్ళు నిరంతరం జింక జాడ కోసం అడవంతా వెతికాయి. నేల మీద రాలిన ఆకుల శబ్దం — ఇప్పుడు ఆయనకు ఆందోళన కలిగించింది. \"అది ఎక్కడ ఉంది? సురక్షితంగా ఉందా?\" అంటూ తనలో తాను కలవరపడ్డారు. ఇంతలో, దూరం నుండి ఒక తోడేలు అరుపు వినిపించింది — ఆయన గుండె ఒక్కసారిగా నోట్లోకి వచ్చినట్లయింది.",
+      "image_prompt": "The sage, with hunched shoulders, anxiously scans the forest with his eyes. His gaze constantly searches for the fawn's whereabouts, reflecting deep worry. Twilight descending, casting long, purple shadows, a sense of growing unease.",
+      "scene_visual": "The sage, with hunched shoulders, anxiously scans the forest with his eyes. His gaze constantly searches for the fawn's whereabouts, reflecting deep worry.",
+      "supporting_char_keys": [
+        "deer"
+      ],
+      "text_te_en": "Ippudu Maharshi Dinacharya Antaa Jinka Chuttune Tirigindi; Aayana Dhyaanam Lotu Taggindi, Manasu Jinka Gurinche Aalochinchindi. Aayana Bhujaalu Vangipoyaayi, Kallu Nirantaram Jinka Jaada Kosam Adavantaa Vetikaayi. Nela Mida Raalina Aakula Shabdam — Ippudu Aayanaku Aandolana Kaliginchindi. \"Adi Ekkada Undi? Surakshitangaa Undaa?\" Antu Tanalo Taanu Kalavarapaddaaru. Intalo, Duram Nundi Oka Todelu Arupu Vinipinchindi — Aayana Gunde Okkasaarigaa Notloki Vachchinatlayindi.",
+      "text_en": "Now, the Maharshi's daily routine revolved entirely around the deer; his meditation became less deep, and his mind thought only of the deer. His shoulders stooped, and his eyes constantly searched the forest for signs of the deer. The rustling sound of fallen leaves on the ground — now filled him with worry. \"Where is it? Is it safe?\" he fretted to himself. Just then, a wolf's howl echoed from afar — his heart leaped into his throat."
+    },
+    {
+      "id": 5,
+      "text": "మహర్షి వృద్ధాప్యం వల్ల బలహీనపడి, ఎప్పుడూ జింక కోసం వెతుకుతూనే ఉన్నారు. ఆయన జీవితం ఆఖరి క్షణాలకు చేరుకుంది, అయినా మనసంతా జింక గురించే ఉంది. ఆయన కళ్ళ నుండి ఒక కన్నీటి బొట్టు దొర్లింది — జింకపై ఆయనకున్న అపారమైన ప్రేమను తెలిపింది. ఆయన శరీరం అలసి నేలకొరిగింది, ఆ చల్లటి, తడి నేల ఆయనకు చివరి ఆశ్రయమిచ్చింది. \"నా జింక... నా చిన్నారి...\" అని మెల్లగా గుసగుసలాడారు. ఆ క్షణంలో, ఒక ప్రకాశవంతమైన దివ్య కాంతి ఆయన శరీరాన్ని కమ్మేసింది — ఆ కాంతి మాయమయ్యాక నిశ్శబ్దం మాత్రమే మిగిలింది.",
+      "image_prompt": "The old sage's weakened body collapses onto the cold, wet ground. A single tear rolls from his eye, signifying his immense love for the fawn. A pale, silvery moonlight illuminating the forest floor, ethereal and poignant.",
+      "scene_visual": "The old sage's weakened body collapses onto the cold, wet ground. A single tear rolls from his eye, signifying his immense love for the fawn.",
+      "supporting_char_keys": [
+        "deer"
+      ],
+      "text_te_en": "Maharshi Vrriddhaapyam Valla Balahinapadi, Eppudu Jinka Kosam Vetukutune Unnaaru. Aayana Jivitam Aakhari Kshanaalaku Cherukundi, Ayinaa Manasantaa Jinka Gurinche Undi. Aayana Kalla Nundi Oka Kanniti Bottu Dorlindi — Jinkapai Aayanakunna Apaaramaina Premanu Telipindi. Aayana Shariram Alasi Nelakorigindi, Aa Challati, Tadi Nela Aayanaku Chivari Aashrayamichchindi. \"Naa Jinka... Naa Chinnaari...\" Ani Mellagaa Gusagusalaadaaru. Aa Kshananlo, Oka Prakaashavantamaina Divya Kaanti Aayana Shariraanni Kammesindi — Aa Kaanti Maayamayyaaka Nishshabdam Maatrame Migilindi.",
+      "text_en": "The Maharshi grew weak with old age, always searching for the deer. His life reached its final moments, yet his mind was still filled with thoughts of the deer. A tear rolled from his eyes — showing his immense love for the deer. His tired body collapsed onto the ground, the cool, damp earth offering him his final resting place. \"My deer... my little one...\" he whispered softly. In that moment, a bright divine light enveloped his body — and after the light vanished, only silence remained."
+    },
+    {
+      "id": 6,
+      "text": "మరు జన్మలో, భరత మహర్షి ఒక జింకగా జన్మించారు. ఆయనకు తన పూర్వజన్మ జ్ఞాపకాలు, జింకపై తనకున్న అపారమైన మమకారం గుర్తుకు వచ్చాయి. ఆయన జింక కళ్ళలో ఒక పురాతన శాంతి, అపారమైన జ్ఞానం మెరిశాయి. చల్లటి, పచ్చని గడ్డిపై ఆయన జింక గిట్టలు మెల్లగా కదిలాయి — ప్రశాంతంగా మేస్తూ. \"మమకారం... ఎంత బంధం!\" అని ఆయన జింక మనసులో జ్ఞానోదయం కలిగింది. అప్పటి నుండి, ఆయన ఎటువంటి బంధాలు లేకుండా, ప్రశాంతంగా జీవించారు.",
+      "image_prompt": "The deer's hooves move slowly as it grazes peacefully on the cool, green grass. Its eyes reflect an ancient peace and profound wisdom. Soft, clear daylight, vibrant green forest, a sense of renewal and profound peace.",
+      "scene_visual": "The deer's hooves move slowly as it grazes peacefully on the cool, green grass. Its eyes reflect an ancient peace and profound wisdom.",
+      "supporting_char_keys": [],
+      "text_te_en": "Maru Janmalo, Bharata Maharshi Oka Jinkagaa Janminchaaru. Aayanaku Tana Purvajanma Jnyaapakaalu, Jinkapai Tanakunna Apaaramaina Mamakaaram Gurtuku Vachchaayi. Aayana Jinka Kallalo Oka Puraatana Shaanti, Apaaramaina Jnyaanam Merishaayi. Challati, Pachchani Gaddipai Aayana Jinka Gittalu Mellagaa Kadilaayi — Prashaantangaa Mestu. \"Mamakaaran... Enta Bandhan!\" Ani Aayana Jinka Manasulo Jnyaanodayam Kaligindi. Appati Nundi, Aayana Etuvanti Bandhaalu Lekundaa, Prashaantangaa Jivinchaaru.",
+      "text_en": "In his next life, Bharata Maharshi was born as a deer. He remembered his past life and his immense attachment to the deer. In his deer eyes, an ancient peace and vast wisdom shone. His deer hooves moved gently over the cool, green grass — grazing peacefully. \"Attachment... what a bond!\" enlightenment dawned in his deer mind. From then on, he lived peacefully, free from all attachments."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "deer",
+      "description": "A small, gentle fawn with soft brown fur and large, curious black eyes. Its legs are slender, and it moves with delicate grace. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 6.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 4,
+    "grammar_correctness": 10,
+    "narrative_arc": 8,
+    "child_engagement": 6,
+    "average": 6.67,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "This story has a strong narrative arc and flawless grammar, which are excellent foundations. However, it reads more like a formal written account than an engaging oral tale for children, with emotions often stated rather than shown. The most critical improvement would be to introduce more natural, character-specific dialogue and to consistently embody emotions through action and body language, making the story more vivid and relatable for a young audience."
+  },
+  "quality_warning": true,
+  "title_te_en": "Jinkapai Mamakaaran, Jnyaanapu Daari",
+  "moral_te_en": "Nijamaina Aanandam Manam Denini Gattigaa Pattukokundaa, Anni Jivula Patla Premanu Kaligi Undatanlone Untundi.",
+  "title_en": "Love for the Deer, The Path to Wisdom",
+  "moral_en": "Real happiness is found when we love all living things, without holding on too tightly to just one.",
+  "id": "20260616_091039",
+  "date": "2026-06-16",
+  "category": "bhagavatam",
+  "subcategory": "bhakta_stories",
+  "topic": "జడభరతుని మృగ సంసర్గం - మమకారం వల్ల పునర్జన్మ రహస్యం",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260616_091039/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
