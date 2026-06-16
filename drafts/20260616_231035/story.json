@@ -1,0 +1,89 @@
+{
+  "title": "రామసేతువులో ఉడుత భక్తి",
+  "moral": "పిల్లలూ, మనసు పెట్టి చేసే ఏ చిన్న సాయం అయినా, అది ఈ లోకంలో ఎంతో విలువైనది.",
+  "main_character": "A tiny, energetic squirrel with soft brown fur, a bushy tail, and bright, curious eyes. It has three distinctive stripes down its back, a mark of divine blessing. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "The southern coast of Bharatavarsha, at the edge of the vast ocean, facing the distant island of Lanka. The air is filled with the rhythmic sound of crashing waves, the salty tang of the sea, and the bustling noise of the Vanara army moving giant rocks and trees. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "దూరాన లంక వైపుగా వానర సేన సేతువు కడుతుంటే, ఒక చిన్నారి ఉడుత మర్రిచెట్టు కొమ్మ మీద నుండి కళ్ళు పెద్దవి చేసుకుని చూస్తోంది. మహా పర్వతాలంత రాళ్ళు సముద్రంలో పడుతుంటే — గుండెలు అదిరే చప్పుడు వినిపిస్తోంది. వానరులందరూ 'జై శ్రీరామ్!' అంటూ ఉత్సాహంగా అరుస్తున్నారు. ఆ దృశ్యాన్ని చూస్తూ, ఉడుత ముక్కు కదుపుతూ, తన చిన్న గుండెలో ఎంతో ఆశ్చర్యం నింపుకుంది. 'ఎంత గొప్ప పని!' అని దాని మనసు అనుకుంది. అప్పుడు అది సముద్రం వైపు చూసింది — దాని కళ్ళల్లో ఒక దృఢమైన సంకల్పం మెరిసింది.",
+      "image_prompt": "The small squirrel watches the distant bridge construction from a banyan tree branch, its nose twitching. Its eyes widen with wonder, then gleam with firm resolve as it looks towards the sea. Bright, clear morning sun, sparkling on the blue ocean waves, casting long shadows of the Vanaras on the sand.",
+      "scene_visual": "The small squirrel watches the distant bridge construction from a banyan tree branch, its nose twitching. Its eyes widen with wonder, then gleam with firm resolve as it looks towards the sea.",
+      "supporting_char_keys": [],
+      "text_te_en": "Duraana Lanka Vaipugaa Vaanara Sena Setuvu Kadutunte, Oka Chinnaari Uduta Marrichettu Komma Mida Nundi Kallu Peddavi Chesukuni Chustondi. Mahaa Parvataalanta Raallu Samudranlo Padutunte — Gundelu Adire Chappudu Vinipistondi. Vaanarulandaru 'Jai Shriraam!' Antu Utsaahangaa Arustunnaaru. Aa Drrishyaanni Chustu, Uduta Mukku Kaduputu, Tana Chinna Gundelo Ento Aashcharyam Nimpukundi. 'Enta Goppa Pani!' Ani Daani Manasu Anukundi. Appudu Adi Samudram Vaipu Chusindi — Daani Kallallo Oka Drridhamaina Sankalpam Merisindi.",
+      "text_en": "Far away, the monkey army was building a bridge towards Lanka. A little squirrel watched from a banyan tree branch, its eyes wide open. Huge rocks, like mountains, were falling into the sea – making a heart-thumping sound. All the monkeys were shouting 'Jai Sri Ram!' with great excitement. Watching this scene, the squirrel twitched its nose, filling its little heart with great wonder. 'What a great work!' its mind thought. Then it looked towards the sea – a strong determination sparkled in its eyes."
+    },
+    {
+      "id": 2,
+      "text": "వారధి కట్టడానికి తన వంతు సాయం చేయాలని ఉడుత మనసు ఆరాటపడింది, కానీ దాని చిన్న శరీరం చూసి కొద్దిగా నిరాశ పడింది. దాని తల కొద్దిగా వంగింది, బుషి తోక మెల్లిగా అటూ ఇటూ కదిలింది — 'నేను ఏం చేయగలను?' అని ఆలోచించింది. ఇంతలో సేతువు మీద రెండు పెద్ద రాళ్ళ మధ్యలో ఉన్న చిన్న ఖాళీని అది చూసింది. దాని చిన్న పాదాలకు ఇసుక అంటుకుంటూ, అది మెల్లగా నేల మీద గీతలు గీసింది. ఆ క్షణంలో — దాని మనసులో ఒక అద్భుతమైన ఆలోచన మెరిసింది.",
+      "image_prompt": "The small squirrel, with its head slightly bowed and bushy tail swaying, looks at a small gap between two large rocks on the bridge. Its tiny paws scratch the ground, picking up sand, as a brilliant idea sparks in its mind. Mid-morning sun, slightly hazy, highlighting the vastness of the sea and the bridge, making the squirrel appear even smaller.",
+      "scene_visual": "The small squirrel, with its head slightly bowed and bushy tail swaying, looks at a small gap between two large rocks on the bridge. Its tiny paws scratch the ground, picking up sand, as a brilliant idea sparks in its mind.",
+      "supporting_char_keys": [],
+      "text_te_en": "Vaaradhi Kattadaaniki Tana Vantu Saayam Cheyaalani Uduta Manasu Aaraatapadindi, Kaani Daani Chinna Shariram Chusi Koddigaa Niraasha Padindi. Daani Tala Koddigaa Vangindi, Bushi Toka Melligaa Atu Itu Kadilindi — 'Nenu Em Cheyagalanu?' Ani Aalochinchindi. Intalo Setuvu Mida Rendu Pedda Raalla Madhyalo Unna Chinna Khaalini Adi Chusindi. Daani Chinna Paadaalaku Isuka Antukuntu, Adi Mellagaa Nela Mida Gitalu Gisindi. Aa Kshananlo — Daani Manasulo Oka Adbhutamaina Aalochana Merisindi.",
+      "text_en": "The squirrel's heart yearned to help build the bridge, but it felt a little disappointed looking at its tiny body. Its head drooped a little, its bushy tail swayed slowly back and forth — it thought, 'What can I do?' Just then, it saw a small gap between two big rocks on the bridge. Sand stuck to its tiny paws as it slowly scratched lines on the ground. In that moment — a wonderful idea sparkled in its mind."
+    },
+    {
+      "id": 3,
+      "text": "ఇంకేం ఆలస్యం! ఉడుత వెంటనే నేల మీద దొర్లి, తన మెత్తటి బొచ్చుకు ఇసుకను అంటించుకుంది. తర్వాత అది వడివడిగా సముద్రం వైపు పరిగెత్తి, అలలు తాకే చోట తన శరీరాన్ని నీటిలో ముంచింది. చల్లటి సముద్రపు నీటి తుంపరలు దాని బొచ్చును తడిగా మార్చాయి — దాని చిన్న గుండె వేగంగా కొట్టుకుంది. ఇసుక, నీరు అంటుకున్న శరీరంతో, అది వేగంగా సేతువు పైకి పాకి, పెద్ద రాళ్ళ మధ్య ఉన్న ఖాళీలలో తన తడి ఇసుకను దులుపుకుంది. అలా అది పదే పదే చేసింది — చిన్న ఇసుక రేణువులు పెద్ద సేతువులో భాగమయ్యాయి.",
+      "image_prompt": "The squirrel rolls on the ground to cover its soft fur with sand, then quickly runs to the sea and dips its body into the waves. With its fur wet and sandy, it scurries onto the bridge and shakes off the wet sand into the gaps between the large rocks. Bright, energetic midday sun, glinting off the wet sand and the dark rocks, showing the frantic activity.",
+      "scene_visual": "The squirrel rolls on the ground to cover its soft fur with sand, then quickly runs to the sea and dips its body into the waves. With its fur wet and sandy, it scurries onto the bridge and shakes off the wet sand into the gaps between the large rocks.",
+      "supporting_char_keys": [],
+      "text_te_en": "Inkem Aalasyan! Uduta Ventane Nela Mida Dorli, Tana Mettati Bochchuku Isukanu Antinchukundi. Tarvaata Adi Vadivadigaa Samudram Vaipu Parigetti, Alalu Taake Chota Tana Shariraanni Nitilo Munchindi. Challati Samudrapu Niti Tumparalu Daani Bochchunu Tadigaa Maarchaayi — Daani Chinna Gunde Vegangaa Kottukundi. Isuka, Niru Antukunna Shariranto, Adi Vegangaa Setuvu Paiki Paaki, Pedda Raalla Madhya Unna Khaalilalo Tana Tadi Isukanu Dulupukundi. Alaa Adi Pade Pade Chesindi — Chinna Isuka Renuvulu Pedda Setuvulo Bhaagamayyaayi.",
+      "text_en": "No more delay! The squirrel immediately rolled on the ground, getting sand stuck to its soft fur. Then it quickly ran towards the sea and dipped its body where the waves touched. The cool sea spray made its fur wet — its little heart beat fast. With its body covered in sand and water, it quickly climbed onto the bridge and shook off its wet sand into the gaps between the big rocks. It did this again and again — tiny grains of sand became part of the big bridge."
+    },
+    {
+      "id": 4,
+      "text": "ఉడుత అట్లా తన పనిలో నిమగ్నమై ఉండగా, ఒక పెద్ద వానరుడు భారీ బండరాయిని మోసుకుంటూ వచ్చాడు. ఆ వానరుడి అడుగుల చప్పుడుకు నేల కంపించింది — ఉడుత ఒక్కసారిగా కుదుపుకు గురైంది. 'చిన్న జీవివి, నీ వల్ల ఏమౌతుంది? దారిలో రాకు!' అంటూ ఆ వానరుడు పెద్దగా అరిచాడు. ఉడుత చెవులు వెనక్కి మడిచి, తోకను ముడుచుకుంది — కానీ వెంటనే తేరుకుంది. ఆ వానరుడి మాటలకు కొద్దిగా బాధపడినా, అది తన పని ఆపలేదు. అది దూరంగా కూర్చుని సేతువు పనిని పర్యవేక్షిస్తున్న శ్రీరాముడి వైపు చూసింది.",
+      "image_prompt": "The small squirrel is startled by the ground shaking as a large monkey carrying a huge boulder approaches, shouting loudly. Its ears flatten and tail tucks in momentarily before it looks towards the distant figure supervising the bridge work. Harsh midday sun, casting stark shadows, emphasizing the Vanara's imposing figure over the tiny squirrel.",
+      "scene_visual": "The small squirrel is startled by the ground shaking as a large monkey carrying a huge boulder approaches, shouting loudly. Its ears flatten and tail tucks in momentarily before it looks towards the distant figure supervising the bridge work.",
+      "supporting_char_keys": [],
+      "text_te_en": "Uduta Atlaa Tana Panilo Nimagnamai Undagaa, Oka Pedda Vaanarudu Bhaari Bandaraayini Mosukuntu Vachchaadu. Aa Vaanarudi Adugula Chappuduku Nela Kampinchindi — Uduta Okkasaarigaa Kudupuku Guraindi. 'Chinna Jivivi, Ni Valla Emautundi? Daarilo Raaku!' Antu Aa Vaanarudu Peddagaa Arichaadu. Uduta Chevulu Venakki Madichi, Tokanu Muduchukundi — Kaani Ventane Terukundi. Aa Vaanarudi Maatalaku Koddigaa Baadhapadinaa, Adi Tana Pani Aapaledu. Adi Durangaa Kurchuni Setuvu Panini Paryavekshistunna Shriraamudi Vaipu Chusindi.",
+      "text_en": "While the squirrel was busy with its work, a big monkey came carrying a huge boulder. The ground trembled with the sound of the monkey's footsteps — the squirrel was startled. 'You tiny creature, what can you do? Don't get in the way!' the monkey shouted loudly. The squirrel folded its ears back and tucked its tail — but it quickly recovered. Even though it felt a little sad from the monkey's words, it didn't stop its work. It looked towards Sri Ramudu, who was sitting far away, supervising the bridge work."
+    },
+    {
+      "id": 5,
+      "text": "ఉడుత వైపు చూస్తూ చిరునవ్వు నవ్వాడు శ్రీరాముడు. దాని పట్టుదల, నిస్వార్థ సేవ ఆయనకు అర్థమైంది. శ్రీరాముడు మెల్లగా, ప్రేమగా ఉడుతను తన దగ్గరికి పిలిచాడు. ఉడుత చెవులు నిక్కబొడుచుకుని, కళ్ళల్లో ఆశతో, నెమ్మదిగా రాముడి వైపు అడుగులేసింది. శ్రీరాముడు దాన్ని జాగ్రత్తగా తన చేతుల్లోకి తీసుకున్నాడు — ఆ స్పర్శ ఎంతో వెచ్చగా, సున్నితంగా ఉంది. 'నీ సేవ నాకు చాలా విలువైనది,' అని శ్రీరాముడు ప్రేమగా అన్నాడు. ఆ క్షణంలో — ఉడుత మనసు ఆనందంతో ఉప్పొంగింది.",
+      "image_prompt": "The figure smiles at the squirrel, then gently calls it closer, and the squirrel approaches with ears perked and eyes full of hope. The figure carefully takes the small squirrel into his hands, its touch feeling warm and tender. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. A soft, golden glow emanating from Rama as he kneels, illuminating the squirrel and creating a peaceful, reverent atmosphere amidst the bustling construction.",
+      "scene_visual": "The figure smiles at the squirrel, then gently calls it closer, and the squirrel approaches with ears perked and eyes full of hope. The figure carefully takes the small squirrel into his hands, its touch feeling warm and tender.",
+      "supporting_char_keys": [],
+      "text_te_en": "Uduta Vaipu Chustu Chirunavvu Navvaadu Shriraamudu. Daani Pattudala, Nisvaartha Seva Aayanaku Arthamaindi. Shriraamudu Mellagaa, Premagaa Udutanu Tana Daggariki Pilichaadu. Uduta Chevulu Nikkaboduchukuni, Kallallo Aashato, Nemmadigaa Raamudi Vaipu Adugulesindi. Shriraamudu Daanni Jaagrattagaa Tana Chetulloki Tisukunnaadu — Aa Sparsha Ento Vechchagaa, Sunnitangaa Undi. 'Ni Seva Naaku Chaalaa Viluvainadi,' Ani Shriraamudu Premagaa Annaadu. Aa Kshananlo — Uduta Manasu Aanandanto Uppongindi.",
+      "text_en": "Sri Ramudu smiled, looking at the squirrel. He understood its determination and selfless service. Sri Ramudu gently and lovingly called the squirrel to him. The squirrel perked up its ears, with hope in its eyes, and slowly walked towards Ramudu. Sri Ramudu carefully took it into his hands — that touch was so warm and gentle. 'Your service is very valuable to me,' Sri Ramudu said lovingly. In that moment — the squirrel's heart swelled with joy."
+    },
+    {
+      "id": 6,
+      "text": "శ్రీరాముడు తన చేతుల్లో ఉన్న చిన్నారి ఉడుతను ఎంతో ప్రేమగా నిమిరాడు. ఆయన వేళ్ళు దాని వెన్నెముక మీద మెల్లగా కదిలాయి — ఆ సున్నితమైన స్పర్శ ఉడుతకు ఎంతో ఓదార్పునిచ్చింది. అది రాముడి చేతుల్లో సురక్షితంగా ఒదిగిపోయింది, దాని చిన్న కళ్ళు మెరిశాయి. రాముడి ప్రేమతో కూడిన ఆ దీవెనతో, ఉడుత వెన్నెముకపై మూడు అందమైన చారలు ఏర్పడ్డాయి. ఆ చారలు — దాని భక్తికి, నిస్వార్థ సేవకు శాశ్వత గుర్తుగా మిగిలాయి.",
+      "image_prompt": "The figure lovingly strokes the small squirrel held in his hands, his fingers moving gently along its spine. As the squirrel nestles safely, three beautiful stripes appear on its back, and its tiny eyes sparkle. SUPPORTING CHARACTER also in this scene: Rama: a young prince with dark blue-black (shyama) complexion, tall and broad-shouldered, long arms reaching to his knees (Ajanabahu). During forest exile: wearing saffron-orange bark cloth (valkala), matted hair tied in a topknot (jata-mukuta), carrying his curved bow Kodanda and a quiver of arrows over his shoulder. Lotus-shaped eyes with a gentle reddish tinge at the corners. Noble, calm expression. Gentle, warm afternoon light, soft and serene, highlighting the sacred moment between Rama and the squirrel.",
+      "scene_visual": "The figure lovingly strokes the small squirrel held in his hands, his fingers moving gently along its spine. As the squirrel nestles safely, three beautiful stripes appear on its back, and its tiny eyes sparkle.",
+      "supporting_char_keys": [],
+      "text_te_en": "Shriraamudu Tana Chetullo Unna Chinnaari Udutanu Ento Premagaa Nimiraadu. Aayana Vellu Daani Vennemuka Mida Mellagaa Kadilaayi — Aa Sunnitamaina Sparsha Udutaku Ento Odaarpunichchindi. Adi Raamudi Chetullo Surakshitangaa Odigipoyindi, Daani Chinna Kallu Merishaayi. Raamudi Premato Kudina Aa Divenato, Uduta Vennemukapai Mudu Andamaina Chaaralu Erpaddaayi. Aa Chaaralu — Daani Bhaktiki, Nisvaartha Sevaku Shaashvata Gurtugaa Migilaayi.",
+      "text_en": "Sri Ramudu lovingly stroked the little squirrel in his hands. His fingers moved gently over its spine — that tender touch gave the squirrel great comfort. It nestled safely in Ramudu's hands, its tiny eyes sparkling. With Ramudu's loving blessing, three beautiful stripes appeared on the squirrel's back. Those stripes — remained as a permanent symbol of its devotion and selfless service."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Autonoe",
+  "quality_score": 6.666666666666667,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 4,
+    "dialogue_richness": 4,
+    "grammar_correctness": 9,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 6.67,
+    "weakest_dimension": "dialogue_richness",
+    "notes": "The story presents a compelling narrative arc with a magical resolution that would engage children. Its main strengths are the clear plot progression and the moments of wonder. However, to elevate it to an award-worthy level (9+), the most crucial improvement would be to significantly enhance dialogue richness. Integrating more natural, character-specific direct speech into every scene would not only make the story feel more authentic and less like a report, but also provide opportunities to show emotions rather than stating them, thereby deepening the emotional impact."
+  },
+  "quality_warning": true,
+  "title_te_en": "Raamasetuvulo Uduta Bhakti",
+  "moral_te_en": "Pillalu, Manasu Petti Chese E Chinna Saayam Ayinaa, Adi I Lokanlo Ento Viluvainadi.",
+  "title_en": "The Squirrel's Devotion in Ramasetu",
+  "moral_en": "Children, any small help given with a true heart is very valuable in this world.",
+  "id": "20260616_231035",
+  "date": "2026-06-16",
+  "category": "ramayana",
+  "subcategory": "dharma_tales",
+  "topic": "వారధి నిర్మాణంలో ఉడుత సేవ - మనస్ఫూర్తిగా చేసిన చిన్న సాయం విలువ.",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260616_231035/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
