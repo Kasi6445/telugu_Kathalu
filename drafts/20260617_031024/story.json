@@ -1,0 +1,107 @@
+{
+  "title": "జాజిపువ్వు కృతజ్ఞత",
+  "moral": "చిన్న పనులు కూడా పెద్ద సంతోషాన్ని, మర్చిపోలేని బంధాన్ని ఇస్తాయి కదూ, నా చిన్నారులారా.",
+  "main_character": "A tiny, delicate white jasmine flower, its petals soft and waxy, with a vibrant yellow center. It has a powerful, sweet fragrance that it loves to share. Always the same character across every scene.",
+  "antagonist": "",
+  "setting": "A small, sun-drenched garden in a village near Rajahmundry, Andhra Pradesh. It features a whitewashed wall, a terracotta pot holding the jasmine plant, and a well-trodden dirt path. Same location across every scene.",
+  "scenes": [
+    {
+      "id": 1,
+      "text": "రాజమండ్రి దగ్గర ఒక పల్లెటూరులో, తెల్లటి గోడ పక్కన, జాజి తీగకు ఒక్క చిన్న పువ్వు వికసించింది — దాని రేకులు మెత్తగా, పసుపు రంగు మధ్యలో మెరుస్తూ ఉన్నాయి. పొద్దున పూట ఆ పువ్వు మెల్లగా ఊగుతూ, చల్లటి గాలిలో తన సువాసనను పంచుకుంది. దాని మనసులో ఒకటే ఆశ: \"ఈ సువాసన అందరికీ ఆనందం ఇవ్వాలి!\" అనుకుంది. అంతలో, బుజ్జి లీలమ్మ అటుగా నడిచి వస్తూ, కళ్ళు మెరుస్తూ ఆ పువ్వు వైపు చూసింది — ఆ క్షణం పువ్వు మనసు పులకించింది.",
+      "image_prompt": "A young girl walks towards a white wall, her gaze fixed on a small, blooming flower. Her eyes sparkle with curiosity as she approaches the delicate, yellow-centered blossom. Early morning sunlight, soft golden rays filtering through lush green leaves, creating a serene and fresh atmosphere.",
+      "scene_visual": "A young girl walks towards a white wall, her gaze fixed on a small, blooming flower. Her eyes sparkle with curiosity as she approaches the delicate, yellow-centered blossom.",
+      "supporting_char_keys": [
+        "little_girl"
+      ],
+      "text_te_en": "Raajamandri Daggara Oka Palleturulo, Tellati Goda Pakkana, Jaaji Tigaku Okka Chinna Puvvu Vikasinchindi — Daani Rekulu Mettagaa, Pasupu Rangu Madhyalo Merustu Unnaayi. Podduna Puta Aa Puvvu Mellagaa Ugutu, Challati Gaalilo Tana Suvaasananu Panchukundi. Daani Manasulo Okate Aasha: \"I Suvaasana Andariki Aanandam Ivvaali!\" Anukundi. Antalo, Bujji Lilamma Atugaa Nadichi Vastu, Kallu Merustu Aa Puvvu Vaipu Chusindi — Aa Kshanam Puvvu Manasu Pulakinchindi.",
+      "text_en": "In a village near Rajahmundry, next to a white wall, a tiny jasmine flower bloomed on a vine. Its petals were soft, shining with a yellow center. In the morning, the flower swayed gently, sharing its fragrance in the cool breeze. In its heart, there was only one wish: \"This fragrance should bring joy to everyone!\" it thought. Just then, little Leelamma came walking by, her eyes sparkling as she looked at the flower. At that moment, the flower's heart fluttered with joy."
+    },
+    {
+      "id": 2,
+      "text": "లీలమ్మ ఆ జాజి పువ్వు దగ్గరకు వచ్చి, మెల్లగా వంగింది. తన చిన్న వేళ్ళతో పువ్వు రేకులను సున్నితంగా తాకుతూ, దగ్గరికి తీసుకుని వాసన చూసింది — ఆమె పెదవులపై చిరునవ్వు విరిసింది. \"ఆహా! ఎంత మంచి వాసన!\" అని లీలమ్మ మురిసిపోతూ అంది, ఆ పువ్వుకు తన ప్రేమను తెలియజేసింది. అప్పుడు పువ్వు మనసు ఆనందంతో నిండిపోయింది, లీలమ్మ చిరునవ్వు చూసి మరింత వికసించినట్లు అనిపించింది. కానీ, ఆమె నవ్వు ఒక్కసారిగా మాయమైంది — పువ్వు ఆకులన్నీ వాడిపోయి, నిర్జీవంగా కనిపించాయి.",
+      "image_prompt": "The young girl, who was just smiling while smelling the flower, suddenly watches as its leaves visibly wilt. Her joyful expression instantly disappears, replaced by a look of concern as the flower appears lifeless. Mid-morning sun, bright and clear, highlighting the vibrant green leaves and white petals against a slightly parched background.",
+      "scene_visual": "The young girl, who was just smiling while smelling the flower, suddenly watches as its leaves visibly wilt. Her joyful expression instantly disappears, replaced by a look of concern as the flower appears lifeless.",
+      "supporting_char_keys": [
+        "little_girl"
+      ],
+      "text_te_en": "Lilamma Aa Jaaji Puvvu Daggaraku Vachchi, Mellagaa Vangindi. Tana Chinna Vellato Puvvu Rekulanu Sunnitangaa Taakutu, Daggariki Tisukuni Vaasana Chusindi — Aame Pedavulapai Chirunavvu Virisindi. \"Aahaa! Enta Manchi Vaasana!\" Ani Lilamma Murisipotu Andi, Aa Puvvuku Tana Premanu Teliyajesindi. Appudu Puvvu Manasu Aanandanto Nindipoyindi, Lilamma Chirunavvu Chusi Marinta Vikasinchinatlu Anipinchindi. Kaani, Aame Navvu Okkasaarigaa Maayamaindi — Puvvu Aakulanni Vaadipoyi, Nirjivangaa Kanipinchaayi.",
+      "text_en": "Leelamma came close to the jasmine flower and gently bent down. With her tiny fingers, she softly touched the flower's petals, brought it closer, and smelled it. A sweet smile bloomed on her lips. \"Oh! What a lovely scent!\" Leelamma said, delighted, showing her love for the flower. Then the flower's heart filled with joy, and it felt as if it bloomed even more, seeing Leelamma's smile. But suddenly, her smile faded. The flower's leaves looked all wilted and lifeless."
+    },
+    {
+      "id": 3,
+      "text": "లీలమ్మ నవ్వు చెరిగిపోవడంతో, జాజి పువ్వుకు ఒక్కసారిగా గుండె భారంగా అనిపించింది — దాని రేకులు కూడా వాడిపోతున్నట్లు, సువాసన తగ్గిపోతున్నట్లు తోచింది. నేలంతా ఎండిపోయి, బీటలు వారి ఉండటం చూసి, పువ్వు భయంతో వణికింది. \"నా సువాసన మాయమైపోతుందేమో!\" అని తనలో తనే బాధపడింది. లీలమ్మ పువ్వు వాడిపోవడం గమనించింది. ఆమె కళ్ళలో ఏదో చేయాలనే పట్టుదల మెరిసింది — ఆమె క్షణం కూడా ఆగకుండా ఇంటి లోపలికి పరిగెత్తింది.",
+      "image_prompt": "The young girl, observing the wilting flower and cracked, dry earth, turns and runs purposefully towards a nearby house. A determined glint is visible in her eyes as she hurries away, leaving the drooping plant behind. Harsh midday sun, casting strong, sharp shadows, making the plant appear parched and vulnerable.",
+      "scene_visual": "The young girl, observing the wilting flower and cracked, dry earth, turns and runs purposefully towards a nearby house. A determined glint is visible in her eyes as she hurries away, leaving the drooping plant behind.",
+      "supporting_char_keys": [
+        "little_girl"
+      ],
+      "text_te_en": "Lilamma Navvu Cherigipovadanto, Jaaji Puvvuku Okkasaarigaa Gunde Bhaarangaa Anipinchindi — Daani Rekulu Kudaa Vaadipotunnatlu, Suvaasana Taggipotunnatlu Tochindi. Nelantaa Endipoyi, Bitalu Vaari Undatam Chusi, Puvvu Bhayanto Vanikindi. \"Naa Suvaasana Maayamaipotundemo!\" Ani Tanalo Tane Baadhapadindi. Lilamma Puvvu Vaadipovadam Gamaninchindi. Aame Kallalo Edo Cheyaalane Pattudala Merisindi — Aame Kshanam Kudaa Aagakundaa Inti Lopaliki Parigettindi.",
+      "text_en": "As Leelamma's smile faded, the jasmine flower suddenly felt a heavy heart. It felt as if its petals were also wilting, and its fragrance was fading. Seeing the ground all dry and cracked, the flower trembled with fear. \"My fragrance might disappear!\" it worried to itself. Leelamma noticed the flower wilting. A determination to do something sparkled in her eyes. She didn't wait a moment and ran inside the house."
+    },
+    {
+      "id": 4,
+      "text": "లీలమ్మ తిరిగి వచ్చి, ఒక చిన్న కప్పుతో నీళ్ళు తీసుకుని, మొక్కకు పోయడానికి ప్రయత్నించింది. కానీ ఆమె చేతులు వణకడంతో, సగం నీళ్ళు మొక్కకు కాకుండా, నేల మీద చిందాయి — \"అయ్యో! సరిగ్గా పోయలేకపోతున్నాను\" అని ఆమె నిరాశగా అంది. పువ్వు లీలమ్మ ప్రయత్నాన్ని చూసి జాలి పడింది, కానీ దాని దాహం తీరలేదు. లీలమ్మ ఓడిపోయినట్లుగా అక్కడే కూర్చుండిపోయింది, కానీ ఒక్క క్షణం తరువాత — ఆమె కళ్ళల్లో ఒక కొత్త ఆలోచన మెరిసింది.",
+      "image_prompt": "The young girl, holding a small cup, attempts to pour water onto the plant but spills half of it onto the dry ground due to her trembling hands. She then sits down dejectedly, but a moment later, a spark of inspiration lights up her eyes. Bright afternoon sun, slightly less intense, but the ground still looks dry and dusty.",
+      "scene_visual": "The young girl, holding a small cup, attempts to pour water onto the plant but spills half of it onto the dry ground due to her trembling hands. She then sits down dejectedly, but a moment later, a spark of inspiration lights up her eyes.",
+      "supporting_char_keys": [
+        "little_girl"
+      ],
+      "text_te_en": "Lilamma Tirigi Vachchi, Oka Chinna Kapputo Nillu Tisukuni, Mokkaku Poyadaaniki Prayatninchindi. Kaani Aame Chetulu Vanakadanto, Sagam Nillu Mokkaku Kaakundaa, Nela Mida Chindaayi — \"Ayyo! Sariggaa Poyalekapotunnaanu\" Ani Aame Niraashagaa Andi. Puvvu Lilamma Prayatnaanni Chusi Jaali Padindi, Kaani Daani Daaham Tiraledu. Lilamma Odipoyinatlugaa Akkade Kurchundipoyindi, Kaani Okka Kshanam Taruvaata — Aame Kallallo Oka Kotta Aalochana Merisindi.",
+      "text_en": "Leelamma came back with a small cup of water and tried to pour it on the plant. But her hands trembled, and half the water spilled onto the ground instead of reaching the plant. \"Oh no! I can't pour it properly,\" she said, feeling sad. The flower felt pity seeing Leelamma's effort, but its thirst was not quenched. Leelamma sat down there, feeling defeated, but after a moment, a new idea sparkled in her eyes."
+    },
+    {
+      "id": 5,
+      "text": "లీలమ్మకు ఒక్కసారిగా అమ్మమ్మ చెప్పిన మాటలు గుర్తుకు వచ్చాయి — \"చిన్నగా, మెల్లగా పోస్తేనే వేర్లకు అందుతుంది.\" ఆమె ఇంట్లోకి వెళ్లి, ఒక చిన్న కుండను తీసుకు వచ్చింది, దానికి అడుగున చిన్న రంధ్రం ఉంది. ఆ కుండను పువ్వు పక్కన పెట్టి, నీటిని నింపింది. టప్... టప్... టప్... అని నీళ్ళు నిదానంగా నేలలోకి ఇంకడం మొదలు పెట్టాయి — \"అమ్మమ్మ చెప్పినట్లే!\" అని లీలమ్మ సంతోషంగా అంది. జాజి పువ్వుకు ప్రాణం లేచి వచ్చినట్లయింది, దాని వేర్లకు చల్లటి నీరు అందడంతో — రేకులు మెల్లగా విచ్చుకోవడం మొదలుపెట్టాయి.",
+      "image_prompt": "The young girl places a small pot with a hole at its base next to the plant and carefully fills it with water. Water slowly drips from the pot into the earth, and the flower's petals visibly begin to unfurl as if coming back to life. Late afternoon sun, warm and gentle, casting longer shadows, creating a sense of quiet hope and anticipation.",
+      "scene_visual": "The young girl places a small pot with a hole at its base next to the plant and carefully fills it with water. Water slowly drips from the pot into the earth, and the flower's petals visibly begin to unfurl as if coming back to life.",
+      "supporting_char_keys": [
+        "little_girl"
+      ],
+      "text_te_en": "Lilammaku Okkasaarigaa Ammamma Cheppina Maatalu Gurtuku Vachchaayi — \"Chinnagaa, Mellagaa Postene Verlaku Andutundi.\" Aame Intloki Velli, Oka Chinna Kundanu Tisuku Vachchindi, Daaniki Aduguna Chinna Randhram Undi. Aa Kundanu Puvvu Pakkana Petti, Nitini Nimpindi. Tap... Tap... Tap... Ani Nillu Nidaanangaa Nelaloki Inkadam Modalu Pettaayi — \"Ammamma Cheppinatle!\" Ani Lilamma Santoshangaa Andi. Jaaji Puvvuku Praanam Lechi Vachchinatlayindi, Daani Verlaku Challati Niru Andadanto — Rekulu Mellagaa Vichchukovadam Modalupettaayi.",
+      "text_en": "Suddenly, Leelamma remembered her grandma's words: \"Only if you pour it slowly and little by little will it reach the roots.\" She went inside the house and brought a small pot, which had a tiny hole at the bottom. She placed the pot next to the flower and filled it with water. Drip... drip... drip... the water slowly began to seep into the soil. \"Just like Grandma said!\" Leelamma exclaimed happily. It was as if life returned to the jasmine flower. As the cool water reached its roots, its petals slowly began to open up."
+    },
+    {
+      "id": 6,
+      "text": "మరుసటి రోజు ఉదయం, చల్లటి గాలిలో జాజి పువ్వు మరింత ఉత్సాహంగా, ప్రకాశవంతంగా కనిపించింది. దాని సువాసన తోటంతటా నిండిపోయింది, మునుపటి కంటే తీయగా, ఘాటుగా ఉంది — అది లీలమ్మకు కృతజ్ఞత చెప్పినట్లుగా తోచింది. లీలమ్మ జాజి పువ్వు దగ్గరకు వచ్చి, దాని అందాన్ని చూసి ఆనందంతో మురిసిపోయింది. \"నీ సువాసన ఈ రోజు చాలా బాగుంది!\" అని ఆమె పువ్వును ప్రేమగా చూస్తూ అంది. జాజి పువ్వు ప్రేమగా తల ఊపినట్లుగా, గాలిలో మెల్లగా ఊగింది — ఆ చిన్న జాజి పువ్వుకి, లీలమ్మకు మధ్య ఒక అందమైన స్నేహం మొదలైంది.",
+      "image_prompt": "The young girl stands admiring the now vibrant and fragrant flower, which appears much brighter than before. The flower gently sways in the cool morning breeze, as if nodding in response to her loving gaze. Fresh morning light, soft and clear, dew sparkling on leaves, everything looks vibrant and alive with renewed energy.",
+      "scene_visual": "The young girl stands admiring the now vibrant and fragrant flower, which appears much brighter than before. The flower gently sways in the cool morning breeze, as if nodding in response to her loving gaze.",
+      "supporting_char_keys": [
+        "little_girl"
+      ],
+      "text_te_en": "Marusati Roju Udayan, Challati Gaalilo Jaaji Puvvu Marinta Utsaahangaa, Prakaashavantangaa Kanipinchindi. Daani Suvaasana Totantataa Nindipoyindi, Munupati Kante Tiyagaa, Ghaatugaa Undi — Adi Lilammaku Krritajnyata Cheppinatlugaa Tochindi. Lilamma Jaaji Puvvu Daggaraku Vachchi, Daani Andaanni Chusi Aanandanto Murisipoyindi. \"Ni Suvaasana I Roju Chaalaa Baagundi!\" Ani Aame Puvvunu Premagaa Chustu Andi. Jaaji Puvvu Premagaa Tala Upinatlugaa, Gaalilo Mellagaa Ugindi — Aa Chinna Jaaji Puvvuki, Lilammaku Madhya Oka Andamaina Sneham Modalaindi.",
+      "text_en": "The next morning, in the cool breeze, the jasmine flower looked even more lively and bright. Its fragrance filled the entire garden, sweeter and stronger than before. It felt as if it was thanking Leelamma. Leelamma came close to the jasmine flower and was overjoyed to see its beauty. \"Your fragrance is so lovely today!\" she said, looking at the flower with love. The jasmine flower swayed gently in the wind, as if nodding its head lovingly. A beautiful friendship began between the little jasmine flower and Leelamma."
+    }
+  ],
+  "supporting_characters": [
+    {
+      "key": "little_girl",
+      "description": "A cheerful girl of about 7, with bright, curious eyes and two long braids tied with red ribbons. She often wears a simple, light blue dress. Always the same character across every scene."
+    }
+  ],
+  "voice": "te-IN-Chirp3-HD-Gacrux",
+  "quality_score": 7.5,
+  "quality_scores": {
+    "grandmother_authenticity": 6,
+    "emotional_depth": 6,
+    "dialogue_richness": 6,
+    "grammar_correctness": 10,
+    "narrative_arc": 9,
+    "child_engagement": 8,
+    "average": 7.5,
+    "weakest_dimension": "grandmother_authenticity",
+    "notes": "This story has a compelling narrative arc and flawless Telugu grammar, making it a strong foundation for children's literature. To reach award-worthy status, the primary focus should be on enhancing the oral warmth of the storytelling, making it sound less like a written report and more like a grandparent's natural voice. This can be achieved by consistently showing emotions through actions and reactions rather than stating them directly, and by enriching the sparse dialogue to give characters more distinct voices."
+  },
+  "quality_warning": true,
+  "title_te_en": "Jaajipuvvu Krritajnyata",
+  "moral_te_en": "Chinna Panulu Kudaa Pedda Santoshaanni, Marchipoleni Bandhaanni Istaayi Kadu, Naa Chinnaarulaaraa.",
+  "title_en": "The Jasmine Flower's Gratitude",
+  "moral_en": "Even small acts can bring great joy and create unforgettable bonds, my dear children.",
+  "id": "20260617_031024",
+  "date": "2026-06-17",
+  "category": "neeti",
+  "subcategory": "human_values",
+  "topic": "సువాసన పంచిన జాజి పువ్వు కృతజ్ఞత",
+  "thumbnail": "https://pub-558b12062e854257a35815cd84959ad0.r2.dev/stories/20260617_031024/images/scene1.jpg",
+  "schema_version": 2,
+  "defaultSpeed": 1.1
+}
